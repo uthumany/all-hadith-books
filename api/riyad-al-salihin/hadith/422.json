@@ -1,0 +1,16 @@
+{
+  "id": 422,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “والذي نفسي بيده لو لم تذنبوا، لذهب الله بكم، ولجاء بقوم يذنبون، فيستغفرون الله تعالى، فيغفر لهم” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"By the One in Whose Hand my soul is, were you not to commit sins, Allah would replace you with a people who would commit sins and then seek forgiveness from Allah; and Allah would forgive them\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

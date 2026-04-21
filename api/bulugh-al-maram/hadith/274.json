@@ -1,0 +1,16 @@
+{
+  "id": 274,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَرَوَى أَحْمَدُ : عَنْ عَمْرِوِ بْنِ شُعَيْبٍ , عَنْ أَبِيهِ , عَنْ جَدِّهِ نَحْوَهُ .‏  1‏‏1 ‏- صحيح .‏ رواه أحمد ( 2 / 208 )‏ ولفظه : \" إن الله زادكم صلاة إلى صلاتكم ، وهي الوتر\" .‏ والحديث وإن كان عند أحمد بسند ضعيف ، إلا أنه صحيح بما له من طرق أخرى ، وشواهد كالحديث السابق ، وتفصيل ذلك \" بالأصل \" .‏",
+  "english": {
+    "narrator": "",
+    "text": "Ahmad reported something similar to the above Hadith from 'Amr bin Shu'aib on the authority of his father who reported it on the authority of 'Amr's grandfather."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

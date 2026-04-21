@@ -1,0 +1,510 @@
+{
+  "page": 26,
+  "perPage": 50,
+  "totalPages": 89,
+  "totalCount": 4428,
+  "nextPage": 27,
+  "prevPage": 25,
+  "items": [
+    {
+      "id": 730,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ مُوَرِّقٍ الْعِجْلِيِّ قَالَ: قُلْتُ لِابْنِ عُمَرَ: تُصَلِّي الضُّحَى؟ قَالَ: لَا. قُلْتُ: فَعُمَرُ؟ قَالَ: لَا. قُلْتُ: فَأَبُو بَكْرٍ؟ قَالَ: لَا. قُلْتُ: فَالنَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ؟ قَالَ: لَا إخَاله. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "Muwarriq al-Ijli said:",
+        "text": "I asked Ibn ‘Umar whether he prayed in the forenoon and he said he did not. I asked whether ‘Umar did and he said he did not. I asked whether Abu Bakr did and he said he did not. I asked whether the Prophet did and he said, “I don’t think so.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 731,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِبِلَالٍ عِنْدَ صَلَاةِ الْفَجْرِ: «يَا بِلَالُ حَدِّثْنِي بِأَرْجَى عمل عملته فِي الْإِسْلَام فَإِنِّي سَمِعت دق نعليك بَين يَدي الْجَنَّةِ» . قَالَ: مَا عَمِلْتُ عَمَلًا أَرْجَى عِنْدِي أَنِّي لم أتطهر طهُورا مِنْ سَاعَةٍ مِنْ لَيْلٍ وَلَا نَهَارٍ إِلَّا صَلَّيْتُ بِذَلِكَ الطُّهُورِ مَا كُتِبَ لِي أَنْ أُصَلِّيَ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported that God's Messenger said to Bilal at the dawn prayer, “Tell me, Bilal, of the action you have done since becoming a Muslim which is most calculated to cause hope in you, for I heard the sound of your sandals in front of me in paradise.” He replied, “I have done no action more calculated, in my opinion to cause hope than that I have never performed ablution at any hour of the night or day without immediately praying what was ordained for me to pray.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 732,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُعَلِّمُنَا الِاسْتِخَارَةَ فِي الْأُمُورِ كَمَا يُعَلِّمُنَا السُّورَةَ مِنَ الْقُرْآنِ يَقُولُ: \n\" إِذَا هَمَّ أَحَدُكُمْ بِالْأَمْرِ فَلْيَرْكَعْ رَكْعَتَيْنِ مِنْ غَيْرِ الْفَرِيضَةِ ثُمَّ لْيَقُلْ: اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ فَإِنَّك تَقْدِرُ وَلَا أقدر وَتعلم وَلَا أعلم وَأَنت علام الغيوب اللَّهُمَّ إِنَّ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي - أوقال فِي عَاجِلِ أَمْرِي وَآجِلِهِ - فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي - أَوْ قَالَ فِي عَاجِلِ أَمْرِي وَآجِلِهِ - فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ وَاقَدُرْ لِيَ الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ \". قَالَ: «ويسمي حَاجته» . رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "Jabir said :",
+        "text": "God’s Messenger used to teach us how to ask God’s guidance about matters just as he used to teach as a sura of the Qur’an, saying: When any of you intends to do something he should pray two rak'as which are not compulsory, then say, “O God, I ask Thy guidance by Thy knowledge, I ask Thee for power by Thy power, and I ask Thee out of Thy great abundance, for Thou hast power and I have none, Thou knowest and I did not, and Thou art the One who is aware of the unseen. O God, if Thou knowest that this matter is good for me regarding my religion, my livelihood, and my future wellbeing (or he said, “my affairs in this world and the next”), ordain it for me and make it easy for me, then bless me in it. But if Thou knowest that this matter is bad for me regarding my religion, my livelihood, and my future wellbeing (or he said, “my affairs in this world and the next”), turn it away from me, turn me away from it, ordain good for me wherever it is, then make me pleased with it.” He said that he should name what he required. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 733,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: حَدَّثَنِي أَبُو بَكْرٍ وَصَدَقَ أَبُو بَكْرٍ. قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: \" مَا مِنْ رَجُلٍ يُذْنِبُ ذَنْبًا ثُمَّ يَقُومُ فَيَتَطَهَّرُ ثُمَّ يُصَلِّي ثُمَّ يَسْتَغْفِرُ اللَّهَ إِلَّا غَفَرَ الله لَهُ ثمَّ قَرَأَ هَذِه الاية: (وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنْفُسَهُمْ ذكرُوا الله فاستغفروا لذنوبهم)\nرَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَهْ إِلَّا أَنَّ ابْنَ مَاجَه لم يذكر الْآيَة",
+      "english": {
+        "narrator": "‘Ali said:",
+        "text": "Abu Bakr told me, and Abu Bakr spoke the truth, that he heard God’s Messenger say, “No man will commit a sin, then get up and purify himself, then pray, then ask God’s foigiveness without God forgiving him.” Then he recited, \"And those who, when they do something to be ashamed of, or who wrong themselves, remember God and ask forgiveness for their sins” (Al-Qur’an; 3:135).\n\nTirmidhi and Ibn Majah transmitted it, but Ibn Majah did not mention the verse."
+      }
+    },
+    {
+      "id": 734,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ حُذَيْفَةَ قَالَ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا حَزَبَهُ أَمْرٌ صَلَّى. رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Hudhaifa said that when anything distressed the Prophet he prayed. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 735,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ بُرَيْدَةَ قَالَ: أَصْبَحَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَدَعَا بِلَالًا فَقَالَ: «بِمَ سَبَقْتَنِي إِلَى الْجَنَّةِ مَا دَخَلْتُ الْجَنَّةَ قَطُّ إِلَّا سَمِعْتُ خَشْخَشَتَكَ أَمَامِي» . قَالَ: يَا رَسُولَ اللَّهِ مَا أَذَّنْتُ قَطُّ إِلَّا صَلَّيْتُ رَكْعَتَيْنِ وَمَا أَصَابَنِي حَدَثٌ قَطُّ إِلَّا تَوَضَّأْتُ عِنْدَهُ وَرَأَيْتُ أَنَّ لِلَّهِ عَلَيَّ رَكْعَتَيْنِ. فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «بِهِمَا» . رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Buraida told how one morning God’s Messenger called Bilal and said, \"What did you do to get to paradise before me? I have never entered paradise without hearing the rustling of your garments in front of me.” He replied, \"Messenger of God, I have never called the adhan without praying two rak'as, and no impurity has ever happened to me without my performing ablution on the spot and thinking that I owed God two rak'as.” God’s Messenger said, \"It is because of them.” \n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 736,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدُ اللَّهِ بْنِ أَبِي أَوْفَى قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" مَنْ كَانَتْ لَهُ حَاجَةٌ إِلَى اللَّهِ أَوْ إِلَى أحد من بني آدم فَليَتَوَضَّأ فليحسن الْوُضُوءَ ثُمَّ لْيُصَلِّ رَكْعَتَيْنِ ثُمَّ لْيُثْنِ عَلَى اللَّهِ تَعَالَى وَلْيُصَلِّ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ لْيَقُلْ: لَا إِلَهَ إِلَّا اللَّهُ الْحَلِيمُ الْكَرِيمُ سُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ الْعَظِيمِ وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ وَعَزَائِمَ مَغْفِرَتِكَ وَالْغَنِيمَةَ مِنْ كُلِّ بِرٍّ وَالسَّلَامَةَ مِنْ كُلِّ إِثْمٍ لَا تَدَعْ لِي ذَنْبًا إِلَّا غَفَرْتَهُ وَلَا هَمًّا إِلَّا فَرَّجْتَهُ وَلَا حَاجَةً هِيَ لَكَ رِضًى إِلَّا قَضَيْتَهَا يَا أَرْحَمَ الرَّاحِمِينَ \". رَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَهْ وَقَالَ التِّرْمِذِيُّ: هَذَا حَدِيث غَرِيب",
+      "english": {
+        "narrator": "‘Abdallah b. Abu Aufa reported God’s Messenger as saying:",
+        "text": "If anyone wants something from God, or from a human being, he should perform ablution and do it well, then pray two rak'as, then extol God most high and invoke blessing on the Prophet, then say, \"There is no god but God, the Clement and Generous. Glory be to God, the Lord of the mighty throne. Praise be to God, the Lord of the universe. I ask Thee for words which will guarantee Thy mercy, actions which will make certain Thy forgiveness, a supply of every virtue, and freedom from every offence. Do not leave me a sin which Thou dost not pardon, a care which Thou dost not remove, or a want that meets with Thy pleasure which Thou dost not supply, O most merciful of the merciful ones.” \n\nTirmidhi and Ibn Majah transmitted it, and Tirmidhi said this is a gharib tradition."
+      }
+    },
+    {
+      "id": 737,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: لِلْعَبَّاسِ بْنِ عَبْدِ الْمُطَّلِبِ: \n\" يَا عَبَّاسُ يَا عَمَّاهُ أَلَا أُعْطِيكَ؟ أَلَا أَمْنَحُكَ؟ أَلا أحبوك؟ أَلَا أَفْعَلُ بِكَ عَشْرَ خِصَالٍ إِذَا أَنْتَ فَعَلْتَ ذَلِكَ غَفَرَ اللَّهُ لَكَ ذَنْبَكَ أَوَّلَهُ وَآخِرَهُ قَدِيمَهُ وَحَدِيثَهُ خَطَأَهُ وَعَمْدَهُ صَغِيرَهُ وَكَبِيرَهُ سِرَّهُ وَعَلَانِيَتَهُ: أَنْ تُصَلِّيَ أَرْبَعَ رَكَعَاتٍ تَقْرَأُ فِي كُلِّ رَكْعَةٍ فَاتِحَةَ الْكِتَابِ وَسُورَةً. فَإِذَا فَرَغْتَ مِنَ الْقِرَاءَةِ فِي أَوَّلِ رَكْعَةٍ وَأَنْتَ قَائِمٌ قُلْتَ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ خَمْسَ عَشْرَةَ مَرَّةً ثُمَّ تَرْكَعُ فَتَقُولُهَا وَأَنْتَ رَاكِعٌ عَشْرًا ثُمَّ تَرْفَعُ رَأْسَكَ مِنَ الرُّكُوعِ فَتَقُولُهَا عَشْرًا ثُمَّ تَهْوِي سَاجِدًا فَتَقُولُهَا وَأَنْتَ سَاجِدٌ عَشْرًا ثُمَّ تَرْفَعُ رَأْسَكَ مِنَ السُّجُودِ فَتَقُولُهَا عَشْرًا ثُمَّ تَسْجُدُ فَتَقُولُهَا عَشْرًا ثُمَّ تَرْفَعُ رَأْسَكَ فَتَقُولُهَا عَشْرًا فَذَلِكَ خَمْسٌ وَسَبْعُونَ فِي كُلِّ رَكْعَةٍ تَفْعَلُ ذَلِكَ فِي أَرْبَعِ رَكَعَاتٍ إِنِ اسْتَطَعْت أَن تصليها فِي كل يَوْم فَافْعَلْ فَإِنْ لَمْ تَفْعَلْ فَفِي كُلِّ جُمُعَةٍ مَرَّةً فَإِنْ لَمْ تَفْعَلْ فَفِي كُلِّ شَهْرٍ مَرَّةً فَإِنْ لَمْ تَفْعَلْ فَفِي كُلِّ سَنَةٍ مَرَّةً فَإِنْ لَمْ تَفْعَلْ فَفِي عُمْرِكَ مَرَّةً \". رَوَاهُ أَبُو دَاوُدَ وَابْنُ مَاجَهْ وَالْبَيْهَقِيُّ فِي الدَّعْوَات الْكَبِير\nوروى التِّرْمِذِيّ عَن أبي رَافع نَحوه",
+      "english": {
+        "narrator": "Ibn ‘Abbas told that the Prophet said to al-‘Abbas b. ‘Abd al- Muttalib:",
+        "text": "‘Abbas my uncle, shall I not give you, shall I not present you, shall I not tell you, shall I not produce in you ten things, by your doing which God will forgive you your sin, first and last, old and new, involuntary and voluntary, small and great, secret and open? You should pray four rak'as reciting in each one Fatihat al-Kitab (Al-Qur’an; 1) and a sura and when you finish the recitation in the first rak'a you should say fifteen times while standing, “Glory be to God. Praise be to God. There is no god but God. God is most great.” Then you should bow and say it ten times while bowing. Then you should raise your head after bowing and say it ten times. Then you should get down in prostration and say it ten times while prostrating yourself. Then you should raise your head after prostrating yourself and say it ten times. ’ Then you should prostrate yourself and say it ten times, then raise your head and say it ten times. That is, seventy-five times in every rak'a. You should do that in four rak'as. If you can observe it once daily do so; if not, then once weekly; if not, then once a month; if not, then once a year; if not, then once in your lifetime. \n\nAbu Dawud, Ibn Majah and Baihaqi, in  ad-Da'awat al-kabir, transmitted it, and Tirmidhi transmitted something similar from Abu Rafi'."
+      }
+    },
+    {
+      "id": 738,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: \n\" إِنَّ أَوَّلَ مَا يُحَاسَبُ بِهِ الْعَبْدُ يَوْمَ الْقِيَامَةِ مِنْ عمله صلَاته فَإِن صلحت فقد أَفْلح وأنجح وَإِنْ فَسَدَتْ فَقَدْ خَابَ وَخَسِرَ فَإِنِ انْتَقَصَ مِنْ فَرِيضَتِهِ شَيْءٌ قَالَ الرَّبُّ تَبَارَكَ وَتَعَالَى: نظرُوا هَلْ لِعَبْدِي مِنْ تَطَوُّعٍ؟ فَيُكَمَّلُ بِهَا مَا انْتَقَصَ مِنَ الْفَرِيضَةِ ثُمَّ يَكُونُ سَائِرُ عَمَلِهِ عَلَى ذَلِكَ \". وَفِي رِوَايَةٍ: «ثُمَّ الزَّكَاةُ مِثْلَ ذَلِك ثمَّ تُؤْخَذ الْأَعْمَال حسب ذَلِك» . رَوَاهُ أَبُو دَاوُد\nوَرَوَاهُ أَحْمد عَن رجل",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira told of hearing God’s Messenger say, “The first of his deeds for which a man will be taken into account on the day of resurrection will be his prayer. If it is sound he will be saved and successful, but if it is unsound he will be unfortunate and miserable. If any deficiency is found in his obligatory prayer the Lord who is blessed and exalted will issue instructions to consider whether His servant has said any voluntary prayers so that what is lacking in the obligatory prayer may be made up by it. Then the rest of his actions will be treated in the same fashion.” In a version it says, “Then zakat will be dealt with like that, and all his actions will be treated on the same principle.” \n\nAbu Dawud transmitted it, and Ahmad transmitted it from “a man”."
+      }
+    },
+    {
+      "id": 739,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي أُمَامَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَا أَذِنَ اللَّهُ لَعَبْدٍ فِي شَيْءٍ أَفْضَلَ مِنَ الرَّكْعَتَيْنِ يُصَلِّيهِمَا وَإِنَّ الْبِرَّ لَيُذَرُّ عَلَى رَأْسِ الْعَبْدِ مَا دَامَ فِي صَلَاتِهِ وَمَا تَقَرَّبَ الْعِبَادُ إِلَى اللَّهِ بِمِثْلِ مَا خَرَجَ مِنْهُ» يَعْنِي الْقُرْآنَ. رَوَاهُ أَحْمد وَالتِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Umama reported God’s Messenger as saying, “God does not listen to a servant of His engaged in anything more excellent than the two rak'as which he prays. Kindness is spread over the head of a servant as long as he is engaged in prayer; and men do not draw near to God with anything to be compared with what came forth from Him,” meaning the Qur’an. \n\nAhmad and Tirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 740,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ أَنَسٍ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَّى الظُّهْرَ بِالْمَدِينَةِ أَرْبَعًا وَصَلَّى الْعَصْر بِذِي الحليفة رَكْعَتَيْنِ",
+      "english": {
+        "narrator": "",
+        "text": "Anas said that God’s Messenger prayed four rak'as at the noon prayer in Medina and two rak'as at the afternoon prayer in Dhul Hulaifa. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 741,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ حَارِثَةَ بْنِ وَهْبٍ الْخُزَاعِيِّ قَالَ: صَلَّى بِنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَنَحْنُ أَكْثَرُ مَا كُنَّا قَطُّ وآمنه بمنا رَكْعَتَيْنِ",
+      "english": {
+        "narrator": "",
+        "text": "Haritha b. Wahb al-Khuza‘i said, “God’s Messenger led us in a prayer of two rak'as in Mina when we were more numerous and more secure than we had ever been before.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 742,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَن يعلى بن أُميَّة قَالَ: قلت لعمر بن الْخطاب: إِنَّمَا قَالَ اللَّهُ تَعَالَى (أَنْ تَقْصُرُوا مِنَ الصَّلَاةِ إِنْ خِفْتُمْ أَنْ يَفْتِنَكُمُ الَّذِينَ كَفَرُوا)\nفَقَدْ أَمِنَ النَّاسُ. قَالَ عُمَرُ: عَجِبْتُ مِمَّا عَجِبْتَ مِنْهُ فَسَأَلْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. فَقَالَ: «صَدَقَةٌ تَصَدَّقَ اللَّهُ بِهَا عَلَيْكُمْ فَاقْبَلُوا صدقته» رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Ya'la b. Umayya said:",
+        "text": "I remarked to ‘Umar b. al-Khattab that God had said, “You may shorten the prayer,” only “if you fear those who are infidels may afflict you” (Al-Qur’an; 4:101), whereas the people were now safe. He replied that he had wondered about the same matter, so he asked God's Messenger and received the reply, “It is an act of charity which God has done to you, so accept His charity.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 743,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: خَرَجْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ من الْمَدِينَةِ إِلَى مَكَّةَ فَكَانَ يُصَلِّي رَكْعَتَيْنِ رَكْعَتَيْنِ حَتَّى رَجَعْنَا إِلَى الْمَدِينَةِ قِيلَ لَهُ: أَقَمْتُمْ بِمَكَّة شَيْئا قَالَ: «أَقَمْنَا بهَا عشرا»",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "We went out from Medina to Mecca with God’s Messenger and he prayed two rak'as at each time of prayer till we returned to Medina. On being asked whether they had stayed any length of time in Mecca, he replied that they had stayed ten days. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 744,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: سَافَرَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَفَرًا فَأَقَامَ تِسْعَةَ عَشَرَ يَوْمًا يُصَلِّي رَكْعَتَيْنِ رَكْعَتَيْنِ قَالَ ابْنُ عَبَّاسٍ: فَنَحْنُ نُصَلِّي فِيمَا بَيْنَنَا وَبَيْنَ مَكَّةَ تِسْعَةَ عَشَرَ رَكْعَتَيْنِ رَكْعَتَيْنِ فَإِذَا أَقَمْنَا أَكْثَرَ مِنْ ذَلِك صلينَا أَرْبعا. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas said the Prophet made a journey during which he had a stop of nineteen days, and he prayed two rak'as at each time of prayer. Ibn ‘Abbas said, “So when we are stopping nineteen days between here and Mecca we pray two rak'as each time, but when we stop more than that we pray four.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 745,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ حَفْصِ بْنِ عَاصِمٍ قَالَ: صَحِبْتُ ابْنَ عُمَرَ فِي طَرِيقِ مَكَّةَ فَصَلَّى لَنَا الظُّهْرَ رَكْعَتَيْنِ ثُمَّ جَاءَ رَحْلَهُ وَجَلَسَ فَرَأَى نَاسًا قِيَامًا فَقَالَ: مَا يَصْنَعُ هَؤُلَاءِ؟ قُلْتُ: يُسَبِّحُونَ. قَالَ: لَوْ كُنْتُ مُسَبِّحًا أَتْمَمْتُ صَلَاتِي. صَحِبْتُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَكَانَ لَا يَزِيدُ فِي السَّفَرِ عَلَى رَكْعَتَيْنِ وَأَبَا بكر وَعمر وَعُثْمَان كَذَلِك",
+      "english": {
+        "narrator": "Hafs b. ‘Asim said:",
+        "text": "I accompanied Ibn ‘Umar on the road to Mecca and he led us in two rak'as at the noon prayer, then went to the place where he had alighted and sat down. Seeing some people standing he asked what they were doing, and I replied that they were engaged in glorifying God. He said, “If I had done so I would have perfected my prayer. I accompanied God's Messenger, and he prayed two rak'as and nothing more while on a journey. I also accompanied Abu Bakr, ‘Umar and ‘Uthman, and they did the same.\" \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 746,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَجْمَعُ بَين الظُّهْرِ وَالْعَصْر إِذَا كَانَ عَلَى ظَهْرِ سَيْرٍ وَيجمع بَين الْمغرب وَالْعشَاء. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas said that God’s Messenger used to combine the noon and the afternoon prayer while travelling, and also to combine the sunset and the evening prayer. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 747,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي فِي السَّفَرِ عَلَى رَاحِلَتِهِ حَيْثُ تَوَجَّهَتْ بِهِ يُومِئُ إِيمَاءً صَلَاةَ اللَّيْلِ إِلَّا الْفَرَائِضَ وَيُوتِرُ على رَاحِلَته",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar said that on a journey God’s Messenger would pray on his riding beast in whatever direction it turned, making a sign with his head* in prayer during the night, but not in the obligatory prayers; and he would observe a witr on his riding beast. \n\n*To indicate the bowing and the prostration. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 748,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: كَانَ ذَلِكَ قَدْ فَعَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَصَرَ الصَّلَاةَ وَأَتَمَّ. رَوَاهُ فِي شرح السّنة",
+      "english": {
+        "narrator": "",
+        "text": "‘A'isha said, “God’s Messenger has done all that; he both shortened the prayer and observed it completely.” \n\n transmitted it in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 749,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عِمْرَانَ بْنِ حُصَيْنٍ قَالَ: غَزَوْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَشَهِدْتُ مَعَهُ الْفَتْحَ فَأَقَامَ بِمَكَّةَ ثَمَانِيَ عَشْرَةَ لَيْلَةً لَا يُصَلِّي إِلَّا رَكْعَتَيْنِ يَقُولُ: «يَا أَهْلَ الْبَلَدِ صَلُّوا أَرْبَعًا فَإِنَّا سَفْرٌ» . رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "‘Imran b. Husain said:",
+        "text": "I went on an expedition with the Prophet, and I was present with him at the Conquest. He stayed eighteen days in Mecca and prayed only two rak'as . He said, “You who live in the town must pray four; we are travellers.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 750,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: صَلَّيْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الظُّهْرَ فِي السَّفَرِ رَكْعَتَيْنِ وَبَعْدَهَا رَكْعَتَيْنِ وَفِي رِوَايَةٍ قَالَ: صَلَّيْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْحَضَرِ وَالسَّفَرِ فَصَلَّيْتُ مَعَهُ فِي الْحَضَرِ الظُّهْرَ أَرْبَعًا وَبَعْدَهَا رَكْعَتَيْنِ وَصَلَّيْتُ مَعَهُ فِي السَّفَرِ الظُّهْرَ رَكْعَتَيْنِ وَبَعْدَهَا رَكْعَتَيْنِ وَالْعَصْرَ رَكْعَتَيْنِ وَلَمْ يُصَلِّ بَعْدَهَا شَيْئًا وَالْمَغْرِبُ فِي الْحَضَرِ وَالسَّفَرِ سَوَاءٌ ثَلَاثُ رَكَعَاتٍ وَلَا يَنْقُصُ فِي حَضَرٍ وَلَا سَفَرٍ وَهِيَ وِتْرُ النَّهَارِ وَبَعْدَهَا رَكْعَتَيْنِ. رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar said, “When travelling I prayed along with the Prophet two rak'as at the noon prayer and two after it.” In a version he said, “I prayed with the Prophet both when resident and when travelling. When resident I prayed along with him four rak'as at the noon prayer and two after it, and when travelling two at it and two after it; two rak'as at the afternoon prayer after which he prayed no more; and both when resident and travelling alike three rak'as at the sunset prayer, in which he never prayed less whether resident or travelling, this being the witr of the daytime. After it he prayed two rak'as.” \n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 751,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ مُعَاذِ بْنِ جَبَلٍ قَالَ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي غَزْوَةِ تَبُوكَ: إِذَا زَاغَتِ الشَّمْسُ قَبْلَ أَنْ يَرْتَحِلَ جَمَعَ بَيْنَ الظُّهْرِ وَالْعَصْرِ وَإِنِ ارْتَحَلَ قَبْلَ أَنْ تَزِيغَ الشَّمْسُ أَخَّرَ الظُّهْرَ حَتَّى يَنْزِلَ لِلْعَصْرِ وَفِي الْمَغْرِبِ مِثْلَ ذَلِكَ إِذَا غَابَتِ الشَّمْسُ قَبْلَ أَنْ يَرْتَحِلَ جَمَعَ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ وَإِنِ ارْتَحَلَ قَبْلَ أَنْ تَغِيبَ الشَّمْسُ أَخَّرَ الْمَغْرِبَ حَتَّى يَنْزِلَ لِلْعِشَاءِ ثُمَّ يَجْمَعُ بَيْنَهُمَا. رَوَاهُ أَبُو دَاوُد وَالتِّرْمِذِيّ",
+      "english": {
+        "narrator": "Mu'adh b.Jabal said that on the expedition to Tabuk,* if the sun had passed the meridian before the Prophet moved off he combined the noon and the afternoon prayer, but if he moved off before the sun had passed the meridian he delayed the noon prayer till he halted for the afternoon prayer. He acted similarly regarding the sunset prayer:",
+        "text": "if the sun set before he moved off he combined the sunset and the evening prayer, but if he moved off before sunset he delayed the sunset prayer till he halted for the evening prayer and then combined them. \n\n*In 19 AH.\n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 752,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا سَافَرَ وَأَرَادَ أَنْ يَتَطَوَّعَ اسْتَقْبَلَ الْقِبْلَةَ بِنَاقَتِهِ فَكَبَّرَ ثُمَّ صَلَّى حَيْثُ وَجهه ركابه. رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Anas said that when God’s Messenger was on a journey and wished to say voluntary prayers he made his she-camel face the qibla and said, “God is most great,” then prayed in whatever direction his mount made him face. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 753,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: بَعَثَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي حَاجَةٍ فَجِئْتُ وَهُوَ يُصَلِّي عَلَى رَاحِلَتِهِ نَحْوَ الْمَشْرِقِ وَيَجْعَلُ السُّجُودَ أَخفض من الرُّكُوع. رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Jabir said, “God’s Messenger sent me on some business, and when I came to him he was praying on his riding-beast towards the east and making the prostration lower than the bowing.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 754,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ عُمَرَ قَالَ: صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بمنى رَكْعَتَيْنِ وَأَبُو بَكْرٍ بَعْدَهُ وَعُمَرُ بَعْدَ أَبِي بَكْرٍ وَعُثْمَانُ صَدَرًا مِنْ خِلَافَتِهِ ثُمَّ إِنَّ عُثْمَانَ صَلَّى بَعْدُ أَرْبَعًا فَكَانَ ابْنُ عُمَرَ إِذَا صَلَّى مَعَ الْإِمَامِ صَلَّى أَرْبَعًا وَإِذَا صلاهَا وَحده صلى رَكْعَتَيْنِ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar said that God’s Messenger prayed two rak'as in Mina, as did Abu Bakr after his death, ‘Umar after Abu Bakr’s death, and ‘Uthman in the early part of his Caliphate, but afterwards ‘Uthman prayed four. When Ibn ‘Umar prayed with an imam he prayed four, but when he prayed alone he prayed two. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 755,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ قَالَتْ: فُرِضَتِ الصَّلَاةُ رَكْعَتَيْنِ ثُمَّ هَاجَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَفُرِضَتْ أَرْبَعًا وَتُرِكَتْ صَلَاةُ السَّفَرِ عَلَى الْفَرِيضَةِ الْأُولَى. قَالَ الزُّهْرِيُّ: قُلْتُ لِعُرْوَةَ: مَا بَال عَائِشَة تتمّ؟ قَالَ: تأولت كَمَا تَأَول عُثْمَان",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha said that the prayer was prescribed as consisting of two rak'as, and after God's Messenger emigrated it was prescribed as four, but prayer while travelling was left according to the original prescription. Zuhri said he asked ‘Urwa why ‘A’isha said prayers in the complete form and he replied that she interpreted the matter herself as ‘Uthman did. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 756,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: فَرَضَ اللَّهُ الصَّلَاةَ عَلَى لِسَانِ نَبِيِّكُمْ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْحَضَرِ أَرْبَعًا وَفِي السَّفَرِ رَكْعَتَيْنِ وَفِي الْخَوْف رَكْعَة. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas said, “God has prescribed the prayer by the tongue of your Prophet as four rak'as when resident, two when travelling, and one when danger is present.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 757,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَن ابْن عَبَّاس وَعَنِ ابْنِ عُمَرَ قَالَا: سَنَّ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَاةَ السَّفَرِ رَكْعَتَيْنِ وَهُمَا تَمَامٌ غَيْرُ قَصْرٍ وَالْوِتْرُ فِي السَّفَرِ سنة. رَوَاهُ ابْن مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "He and Ibn ‘Umar said that God’s Messenger established the practice of praying two rak'as when travelling, they constituting a complete observance and not an abbreviation; and the witr while travelling is a sunna. \n\nIbn Majah transmitted it."
+      }
+    },
+    {
+      "id": 758,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَن مَالك بَلَغَهُ أَنَّ ابْنَ عَبَّاسٍ كَانَ يَقْصُرُ فِي الصَّلَاة فِي مثل مَا يكون بَين مَكَّة والطائف وَفِي مثل مَا يكون بَيْنَ مَكَّةَ وَعُسْفَانَ وَفَى مِثْلِ مَا بَيْنَ مَكَّةَ وَجُدَّةَ قَالَ مَالِكٌ: وَذَلِكَ أَرْبَعَةُ بُرُدٍ. رَوَاهُ فِي الْمُوَطَّأ",
+      "english": {
+        "narrator": "",
+        "text": "Malik said he heard that Ibn ‘Abbas used to shorten the prayer on a journey equivalent to that between Mecca and at-Ta'if, or between Mecca and ‘Usfan, or between Mecca and Judda. Malik said that that was four postal stages. \n\nHe transmitted it in al-Muwatta’."
+      }
+    },
+    {
+      "id": 759,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَن الْبَراء قَالَ: صَحِبْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَمَانِيَةَ عَشَرَ سَفَرًا فَمَا رَأَيْتُهُ تَرَكَ رَكْعَتَيْنِ إِذَا زَاغَتِ الشَّمْسُ قَبْلَ الظُّهْرِ. رَوَاهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ غَرِيبٌ",
+      "english": {
+        "narrator": "",
+        "text": "Al-Bara’ said, \"I accompanied God’s Messenger on eighteen journeys and I never saw him fail to pray two rak'as when the sun had passed the meridian before praying the noon prayer.” \n\nAbu Dawud and Tirmidhi transmitted it, Tirmidhi saying that this is a gharib tradition."
+      }
+    },
+    {
+      "id": 760,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ نَافِعٍ قَالَ: إِنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ كَانَ يَرَى ابْنَهُ عُبَيْدَ اللَّهِ يَتَنَفَّلُ فِي السَّفَرِ فَلَا يُنْكِرُ عَلَيْهِ. رَوَاهُ مَالِكٌ",
+      "english": {
+        "narrator": "",
+        "text": "Nafi' said that ‘Abdallah b. ‘Umar used to see his son ‘Ubaidallah saying supererogatory prayers while on a journey, and did not express disapproval. \n\nMalik transmitted it."
+      }
+    },
+    {
+      "id": 761,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «نَحْنُ الْآخِرُونَ السَّابِقُونَ يَوْمَ الْقِيَامَةِ بَيْدَ أَنَّهُمْ أُوتُوا الْكُتَّابَ مِنْ قَبْلِنَا وَأُوتِينَاهُ من بعدهمْ ثمَّ هَذَا يومهم الَّذِي فرض عَلَيْهِم يَعْنِي يَوْم الْجُمُعَةَ فَاخْتَلَفُوا فِيهِ فَهَدَانَا اللَّهُ لَهُ وَالنَّاسُ لَنَا فِيهِ تَبَعٌ الْيَهُودُ غَدًا وَالنَّصَارَى بَعْدَ غَد»\nوَفِي رِوَايَةٍ لِمُسْلِمٍ قَالَ: «نَحْنُ الْآخِرُونَ الْأَوَّلُونَ يَوْمَ الْقِيَامَةِ وَنَحْنُ أَوَّلُ مَنْ يَدْخُلُ الْجَنَّةَ بيد أَنهم» . وَذكر نَحوه إِلَى آخِره\nوَفِي رِوَايَة لمُسلم عَن أبي هُرَيْرَة وَعَنْ حُذَيْفَةَ قَالَا: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي آخِرِ الْحَدِيثِ: «نَحْنُ الْآخِرُونَ مِنْ أَهْلِ الدُّنْيَا وَالْأَوَّلُونَ يَوْمَ الْقِيَامَةِ الْمقْضِي لَهُم قبل الْخَلَائق»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s Messenger as saying, “We who are last shall be first on the day of resurrection, although  were given the Book before us and we were given it after them. It follows that this was their day which was prescribed for them (meaning Friday), but they disagreed about it and God guided us to it. The people come after us with regard to it, the Jews observing the next day and the Christians the day following that.” \n\n(Bukhari and Muslim) In a version by Muslim he said, “We who are last shall be first on the day of resurrection, and we shall be the first to enter paradise although  . . .”, and he mentioned something similar up to the end. In another version by him from Abu Huraira and Hudhaifa they reported God’s Messenger as saying at the end of the tradition, “We are the last of the people in this world and shall be the first on the day of resurrection, this being decreed for us before all creatures.”"
+      }
+    },
+    {
+      "id": 762,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «خَيْرُ يَوْمٍ طَلَعَتْ عَلَيْهِ الشَّمْسُ يَوْمُ الْجُمُعَةِ فِيهِ خُلِقَ آدَمُ وَفِيهِ أُدْخِلَ الْجَنَّةَ وَفِيه أخرج مِنْهَا وَلَا تقوم السَّاعَة لَا فِي يَوْم الْجُمُعَة» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God's Messenger as saying, “The best day on which the sun has risen is Friday; on it Adam was created, on it he was brought into paradise, on it he was expelled from it, and the last hour will take place on no day other than Friday.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 763,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" إِنَّ فِي الْجُمُعَةِ لَسَاعَةً لَا يُوَافِقُهَا عَبْدٌ مُسْلِمٌ يَسْأَلُ اللَّهَ فِيهَا خَيْرًا إِلَّا أعطَاهُ إِيَّاه. وَزَاد مُسلم: «وَهِيَ سَاعَةٌ خَفِيفَةٌ» . وَفِي رِوَايَةِ لَهُمَا قَالَ: «إِنَّ فِي الْجُمُعَةِ لَسَاعَةً لَا يُوَافِقُهَا مُسْلِمٌ قَائِم يُصَلِّي يسْأَل لاله يخرا إِلَّا أعطَاهُ إِيَّاه»",
+      "english": {
+        "narrator": "",
+        "text": "He reported God’s Messenger as saying, “There is a time on Friday at which no Muslim will ask God for what is good without His giving it to him.” \n\n(Bukhari and Muslim.) Muslim added that he said it is a short period. In a version by both of them he said, “There is a time on Friday at which no Muslim will stand and pray asking God for what is good without His giving him it.”"
+      }
+    },
+    {
+      "id": 764,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى قَالَ: سَمِعْتُ أَبِي يَقُولُ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ فِي شَأْنِ سَاعَةِ الْجُمُعَةِ: «هِيَ مَا بَيْنَ أَنْ يَجْلِسَ الْإِمَامُ إِلَى أَن تقضى الصَّلَاة» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Abu Burda b. Abu Musa said:",
+        "text": "I heard my father say that he heard God’s Messenger say regarding the time on Friday, “It is between the time when the imam sits down and the end of the prayer.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 765,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ قَالَ: خَرَجْتُ إِلَى الطُّورِ فَلَقِيتُ كَعْبَ الْأَحْبَارِ فَجَلَسْتُ مَعَهُ فَحَدَّثَنِي عَنِ التَّوْرَاةِ وَحَدَّثْتُهُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَكَانَ فِيمَا حَدَّثْتُهُ أَنْ قُلْتُ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" خَيْرُ يَوْمٍ طَلَعَتْ عَلَيْهِ الشَّمْسُ يَوْمُ الْجُمُعَةِ فِيهِ خُلِقَ آدَمُ وَفِيهِ أُهْبِطَ وَفَيْهِ تِيبَ عَلَيْهِ وَفِيهِ مَاتَ وَفِيهِ تَقُومُ السَّاعَةُ وَمَا من دَابَّة إِلَّا وَهِي مسيخة يَوْمَ الْجُمُعَةِ مِنْ حِينِ تُصْبِحُ حَتَّى تَطْلُعَ الشَّمْسُ شَفَقًا مِنَ السَّاعَةِ إِلَّا الْجِنَّ وَالْإِنْسَ وفيهَا سَاعَةٌ لَا يُصَادِفُهَا عَبْدٌ مُسْلِمٌ وَهُوَ يُصَلِّي يسْأَل الله شَيْئا إِلَّا أعطَاهُ إِيَّاهَا. قَالَ كَعْبٌ: ذَلِكَ فِي كُلِّ سَنَةٍ يَوْمٌ. فَقلت: بل فِي كل جُمُعَة قَالَ فَقَرَأَ كَعْبٌ التَّوْرَاةَ. فَقَالَ: صَدَقَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. قَالَ أَبُو هُرَيْرَةَ: لَقِيتُ عَبْدَ اللَّهِ بْنَ سَلَامٍ فَحَدَّثْتُهُ بِمَجْلِسِي مَعَ كَعْب وَمَا حَدَّثْتُهُ فِي يَوْمِ الْجُمُعَةِ فَقُلْتُ لَهُ: قَالَ كَعْب: ذَلِك كُلِّ سَنَةٍ يَوْمٌ؟ قَالَ عَبْدُ اللَّهِ بْنُ سَلَامٍ: كَذَبَ كَعْبٌ. فَقُلْتُ لَهُ ثُمَّ قَرَأَ كَعْبٌ التَّوْرَاةَ. فَقَالَ: بَلْ هِيَ فِي كُلِّ جُمُعَةٍ. فَقَالَ عَبْدُ اللَّهِ بْنُ سَلَامٍ: صَدَقَ كَعْبٌ ثُمَّ قَالَ عَبْدُ اللَّهِ بْنُ سَلَامٍ: قَدْ عَلِمْتُ أَيَّةَ سَاعَةٍ هِيَ. قَالَ أَبُو هُرَيْرَة فَقلت لَهُ: فَأَخْبرنِي بهَا. فَقَالَ عَبْدُ اللَّهِ بْنُ سَلَامٍ: هِيَ آخِرُ سَاعَةٍ فِي يَوْمِ الْجُمُعَةِ. قَالَ أَبُو هُرَيْرَةَ: فَقُلْتُ: وَكَيْفَ تَكُونُ آخِرَ سَاعَةٍ فِي يَوْمِ الْجُمُعَةِ وَقَدْ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يُصَادِفُهَا عَبْدٌ مُسْلِمٌ وَهُوَ يُصَلِّي وَتلك السَّاعَة لَا يُصَلِّي فِيهَا؟» فَقَالَ عَبْدُ اللَّهِ بْنُ سَلَامٍ: أَلَمْ يَقُلْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ جَلَسَ مَجْلِسًا يَنْتَظِرُ الصَّلَاةَ فَهُوَ فِي صَلَاةٍ حَتَّى يُصَلِّيَ؟» قَالَ أَبُو هُرَيْرَةَ: فَقلت: بلَى. قَالَ: فَهُوَ ذَاك. رَوَاهُ مَالِكٌ وَأَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَالنَّسَائِيُّ وَرَوَى أَحْمد إِلَى قَوْله: صدق كَعْب",
+      "english": {
+        "narrator": "Abu Huraira said:",
+        "text": "I went out to at-Tur and met Ka'b al-Ahbar with whom I sat, he telling me about the Torah and I telling him about God's Messenger. One of the things I told him was that God's Messenger had said, “The best day on which the sun has risen is Friday; on it Adam was created, on it he was cast down , on it his repentance was accepted, on it he died, on it the last hour will come, on Friday every beast is on the outlook from dawn to sunrise from fear of the last hour, but not jinn and men, and it contains a time at which no Muslim will pray and ask anything from God without His giving him it.\" Ka'b said that was one day every year, but when I insisted that it was on every Friday Ka'b read the Torah and said that God's Messenger had spoken the truth. Abu Huraira said: I met ‘Abdallah b. Salam and told him of my meeting with Ka'b al-Ahbar and of what I had told him about Friday, telling him that Ka'b had said that was one day every year. ‘Abdallah b. Salam said that Ka'b had lied, but when I told him that Ka'b afterwards read the Torah and said that it was every Friday he said that Ka'b had spoken the truth. ‘Abdallah b. Salam then said that he knew what time it was, and when I asked him to tell me about it and not keep it to himself he replied that it was at the very end of Friday. I asked how that could be when God's Messenger had said, “No Muslim will pray in it . . . and he asked me if God’s Messenger had not said, “If anyone is seated waiting for the prayer he is engaged in the prayer until he observes it.\" When I replied that that was so he said that that was how it came about. \n\nMalik, Abu Dawud, Tirmidhi and Nasa’i transmitted it, and Ahmad transmitted it up to the statement that Ka'b had spoken the truth."
+      }
+    },
+    {
+      "id": 766,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْتَمِسُوا السَّاعَةَ الَّتِي تُرْجَى فِي وَيَوْم الْجُمُعَةِ بَعْدَ الْعَصْرِ إِلَى غَيْبُوبَةِ الشَّمْسِ» . رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Anas reported God’s Messenger as saying, “Seek the time in which hope is placed on Friday from after the afternoon prayer till sunset.\" \n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 767,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَوْسِ بْنِ أَوْسٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ مِنْ أَفْضَلِ أَيَّامِكُمْ يَوْمُ الْجُمُعَةِ فِيهِ خُلِقَ آدَمُ وَفِيهِ قُبِضَ وَفِيهِ النَّفْخَةُ فأكثرا عَلَيَّ مِنَ الصَّلَاةِ فِيهِ فَإِنَّ صَلَاتَكُمْ مَعْرُوضَةٌ عَليّ» فَقَالُوا: يَا رَسُول الله وَكَيف تعرض صَلَاتنَا عَلَيْك وَقَدْ أَرَمْتَ؟ قَالَ: يَقُولُونَ: بَلِيتَ قَالَ: «إِنَّ اللَّهَ حَرَّمَ عَلَى الْأَرْضِ أَجْسَادَ الْأَنْبِيَاءِ» . رَوَاهُ أَبُو دَاوُدَ وَالنَّسَائِيُّ وَابْنُ مَاجَهْ وَالدَّارِمِيُّ وَالْبَيْهَقِيُّ فِي الدَّعْوَات الْكَبِير",
+      "english": {
+        "narrator": "",
+        "text": "Aus b. Aus reported God’s Messenger as saying, “Among the most excellent of your days is Friday; on it Adam was created, on it he died, on it the last trump will be blown, and on it the shout will be made, so invoke many blessings on me that day, for your blessing will be submitted to me.\" He was asked how that could be when his body had\ndecayed* and replied, \"God has prohibited the earth from consuming the bodies of prophets.”\n\n*The text here gives two alternative words, both with the same meaning, the first being aramta, and the second balita, the latter being the more common.\n\nAbu Dawud, Nasa’i, Ibn Majah, Darimi and Baihaqi, in  ad-Da‘awat al-kabir, transmitted it."
+      }
+    },
+    {
+      "id": 768,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْيَوْمُ الْمَوْعُودُ يَوْمُ الْقِيَامَةِ وَالْيَوْمُ الْمَشْهُودُ يَوْمُ عَرَفَةَ وَالشَّاهِدُ يَوْمُ الْجُمُعَةِ وَمَا طَلَعَتِ الشَّمْسُ وَلَا غَرَبَتْ عَلَى يَوْمٍ أَفْضَلَ مِنْهُ فِيهِ سَاعَةٌ لَا يُوَافِقُهَا عَبْدٌ مُؤْمِنٌ يَدْعُو اللَّهَ بِخَيْرٍ إِلَّا اسْتَجَابَ اللَّهُ لَهُ وَلَا يَسْتَعِيذُ مِنْ شَيْءٍ إِلَّا أَعَاذَهُ مِنْهُ» . رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ غَرِيبٌ لَا يُعْرَفُ إِلَّا مِنْ حَدِيثِ مُوسَى بْنِ عُبَيْدَةَ وَهُوَ يضعف",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s Messenger as saying, \"The promised day is the day of resurrection, the day which is witnessed is the day of ‘Arafa, and the witness* is Friday on no more excellent day than which has the sun risen or set. It contains a time at which no believing worshipper will supplicate God for what is good without God answering him, or seek refuge from something without His giving him refuge from it.” \n\n* Al-Qur’an; 85:2 f.\n\nAhmad and Tirmidhi transmitted it, the latter saying that this is a gharib tradition known only among the traditions of Musa b. ‘Ubaida who is declared to be weak."
+      }
+    },
+    {
+      "id": 769,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي لُبَابَةَ بْنِ عَبْدِ الْمُنْذِرِ قَالَ: قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" إِنَّ يَوْمَ الْجُمُعَةِ سَيِّدُ الْأَيَّامِ وَأَعْظَمُهَا عِنْدَ اللَّهِ وَهُوَ أَعْظَمُ عِنْدَ اللَّهِ مِنْ يَوْمِ الْأَضْحَى وَيَوْمِ الْفِطْرِ فِيهِ خَمْسُ خِلَالٍ: خَلَقَ اللَّهُ فِيهِ آدَمَ وَأَهْبَطَ اللَّهُ فِيهِ آدَمُ إِلَى الْأَرْضِ وَفِيهِ تَوَفَّى اللَّهُ آدَمَ وَفِيهِ سَاعَةٌ لَا يَسْأَلُ الْعَبْدُ فِيهَا شَيْئًا إِلَّا أَعْطَاهُ مَا لَمْ يَسْأَلْ حَرَامًا وَفِيهِ تَقُومُ السَّاعَةُ مَا مِنْ مَلَكٍ مُقَرَّبٍ وَلَا سَمَاءٍ وَلَا أَرْضٍ وَلَا رِيَاحٍ وَلَا جِبَالٍ وَلَا بَحْرٍ إِلَّا هُوَ مُشْفِقٌ مِنْ يَوْمِ الْجُمُعَةِ \". رَوَاهُ ابْن مَاجَه\nوَرَوَى أَحْمَدُ عَنْ سَعْدِ بْنِ عُبَادَةَ: أَنَّ رَجُلًا مِنَ الْأَنْصَارِ أَتَى النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: أَخْبِرْنَا عَنْ يَوْمِ الْجُمُعَةِ مَاذَا فِيهِ مِنَ الْخَيْرِ؟ قَالَ: «فِيهِ خَمْسُ خلال» وسَاق الحَدِيث",
+      "english": {
+        "narrator": "Abu Lubaba b. ‘Abd al-Mundhir reported God’s Messenger as saying, \"Friday is the lord of days and the chiefest of them in God’s sight, being greater in God's sight than the day of sacrifice and the day of breaking the fast. It has five distinguishing characteristics:",
+        "text": "on it God created Adam, on it God sent Adam down to the earth, on it God took Adam in death, it contains a time at which no one will ask for anything without God giving it, so long as he does not ask for anything unlawful, and on it the last hour will come. There is no angel near God’s presence, or sky, or earth, or winds, or mountains, or sea which do not fear Friday.” \n\nIbn Majah transmitted it. Ahmad transmitted from Sa'd b. Mu'adh that one of the Ansar went to the Prophet and asked him to tell him about the good contained in Friday. He replied, \"It has five distinguishing characteristics ...” and he carried on to the end of the tradition."
+      }
+    },
+    {
+      "id": 770,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قِيلَ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: لِأَيِّ شَيْءٍ سُمِّيَ يَوْمَ الْجُمُعَةِ؟ قَالَ: «لِأَنَّ فِيهَا طُبِعَتْ طِينَةُ أَبِيكَ آدَمَ وَفِيهَا الصَّعْقَةُ وَالْبَعْثَةُ وَفِيهَا الْبَطْشَةُ وَفِي آخِرِ ثَلَاثِ سَاعَاتٍ مِنْهَا سَاعَةٌ مَنْ دَعَا الله فِيهَا اسْتُجِيبَ لَهُ» . رَوَاهُ أَحْمد",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira said that when the Prophet was asked for what reason Friday got its name he replied, \"Because on it the nature of your father Adam was fashioned, on it will take place the shout and the resurrection of the dead, on it the assault* will take place, and at the end of three hours in it there is a time at which anyone who makes supplication to God will be answered.\" \n\n* cf. Al-Qur’an, 44:16.\n\nAhmad transmitted it."
+      }
+    },
+    {
+      "id": 771,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي الدَّرْدَاءِ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَكْثِرُوا الصَّلَاةَ عَلَيَّ يَوْمَ الْجُمُعَةِ فَإِنَّهُ مَشْهُودٌ تَشْهَدُهُ الْمَلَائِكَةُ وَإِنَّ أحدا لن يُصَلِّي عَلَيَّ إِلَّا عُرِضَتْ عَلَيَّ صَلَاتُهُ حَتَّى يَفْرُغَ مِنْهَا» قَالَ: قُلْتُ: وَبَعْدَ الْمَوْتِ؟ قَالَ: «إِنَّ اللَّهَ حَرَّمَ عَلَى الْأَرْضِ أَنْ تَأْكُلَ أَجْسَادَ الْأَنْبِيَاءِ فَنَبِيُّ اللَّهِ حَيٌّ يُرْزَقُ» . رَوَاهُ ابْنُ مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "Abud Darda’ reported God’s Messenger as saying, “Invoke many blessings on me on Friday for it is witnessed. The angels are present on it, and no one will invoke a blessing on me without his blessing being submitted to me till he stops.\" He said that he asked whether that applied also after his death, and he replied, “God has prohibited the earth from consuming the bodies of the prophets;\" so God’s prophet is alive and given provision. \n\nIbn Majah transmitted it."
+      }
+    },
+    {
+      "id": 772,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَا مِنْ مُسْلِمٍ يَمُوتُ يَوْمَ الْجُمُعَةِ أَوْ لَيْلَةَ الْجُمُعَةِ إِلَّا وَقَاهُ اللَّهُ فِتْنَةَ الْقَبْرِ» . رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ غَرِيبٌ وَلَيْسَ إِسْنَاده بِمُتَّصِل",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. ‘Amr reported God's Messenger as saying, “Any Muslim who dies on Friday or on Thursday night will be protected by God from the testing in the grave.\" \n\nAhmad and Tirmidhi transmitted it, the latter saying this is a gharib tradition whose isnad is not fully connected."
+      }
+    },
+    {
+      "id": 773,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ أَنَّهُ قَرَأَ: (الْيَوْمَ أَكْمَلْتُ لكم دينكُمْ)\nالْآيَةَ وَعِنْدَهُ يَهُودِيٌّ فَقَالَ: لَوْ نَزَلَتْ هَذِهِ الْآيَةُ عَلَيْنَا لَاتَّخَذْنَاهَا عِيدًا فَقَالَ ابْنُ عَبَّاسٍ: فَإِنَّهَا نزلت فِي يَوْم عيدين فِي وَيَوْم جُمُعَةٍ وَيَوْمِ عَرَفَةَ. رَوَاهُ التِّرْمِذِيُّ وَقَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas said that a Jew who was with him when he recited, “Today I have perfected for you your religion . . .\"(Al-Qur’an; 5:3) remarked, “If this verse had been revealed to us we would have made it a festival.\" Ibn ‘Abbas replied, “It was revealed on a day which contained two festivals, on a Friday and on the day of ‘Arafa.\" \n\nTirmidhi transmitted it and said this is a hasan gharib tradition."
+      }
+    },
+    {
+      "id": 774,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا دَخَلَ رَجَبٌ قَالَ: «اللَّهُمَّ بَارِكْ لَنَا فِي رَجَبٍ وَشَعْبَانَ وَبَلِّغْنَا رَمَضَانَ» قَالَ: وَكَانَ يَقُولُ: «لَيْلَةُ الْجُمُعَةِ لَيْلَةٌ أَغَرُّ وَيَوْمُ الْجُمُعَةِ يَوْمٌ أَزْهَرُ» . رَوَاهُ الْبَيْهَقِيُّ فِي الدَّعَوَاتِ الْكَبِيرِ",
+      "english": {
+        "narrator": "",
+        "text": "Anas said that when Rajab came God’s Messenger said, “O God, bless us in Rajab and Sha'ban and bring us to Ramadan.” He also quoted him as saying, “Thursday night is a very bright night and Friday is a shining day.” \n\nBaihaqi transmitted it in  ad-Da'awat al-kabir."
+      }
+    },
+    {
+      "id": 775,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ عُمَرَ وَأَبِي هُرَيْرَةَ أَنَّهُمَا قَالَا: سَمِعْنَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ عَلَى أَعْوَادِ مِنْبَرِهِ: «لِيَنْتَهِيَنَّ أَقْوَامٌ عَنْ وَدْعِهِمُ الْجُمُعَاتِ أَوْ لَيَخْتِمَنَّ اللَّهُ عَلَى قُلُوبِهِمْ ثُمَّ لَيَكُونُنَّ مِنَ الْغَافِلِينَ» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar and Abu Huraira said they heard God’s Messenger say on the beams of his pulpit, “People must cease to neglect the Friday prayers, or God will seal up their hearts and they will be among the negligent.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 776,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي الْجَعْدِ الضُّمَيْرِيِّ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ تَرَكَ ثَلَاثَ جُمَعٍ تَهَاوُنًا بِهَا طَبَعَ اللَّهُ عَلَى قَلْبِهِ» . رَوَاهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَالنَّسَائِيُّ وَابْنُ مَاجَهْ والدارمي\nوَرَوَاهُ مَالك عَن صَفْوَان بن سليم\nوَرَوَاهُ أَحْمد عَن أبي قَتَادَة",
+      "english": {
+        "narrator": "",
+        "text": "Abul Ja‘d ad-Dumairi reported God’s Messenger as saying, “If anyone fails to observe the prayers on three Fridays through holding it in small esteem,'God will seal up his heart.” \n\nAbu Dawud, Tirmidhi, Nasa’i, Ibn Majah and Darimi transmitted it. Malik transmitted it from Safwan b. Sulaim, and Ahmad from Abu Qatada."
+      }
+    },
+    {
+      "id": 777,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَن سَمُرَةَ بْنِ جُنْدُبٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ تَرَكَ الْجُمُعَةَ مِنْ غَيْرِ عُذْرٍ فَلْيَتَصَدَّقْ بِدِينَارٍ فَإِنْ لَمْ يَجِدْ فَبِنِصْفِ دِينَارٍ» . رَوَاهُ أَحْمد وَأَبُو دَاوُد وَابْن مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "Samura b. Jundub reported God’s Messenger as saying, “If anyone omits the Friday prayer without excuse he must give a dinar in alms, or if he does not have as much, half a dinar.” \n\nAhmad, Abu Dawud and Ibn Majah transmitted it."
+      }
+    },
+    {
+      "id": 778,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو عَنِ النَّبِيِّ صلى الله عَلَيْهِ وَسلم: «الْجُمُعَةُ عَلَى مَنْ سَمِعَ النِّدَاءَ» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. ‘Amr reported the Prophet as saying, “The Friday prayer is obligatory on him who hears the call.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 779,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الْجُمُعَةُ عَلَى مَنْ آوَاهُ اللَّيْلُ إِلَى أَهْلِهِ» . رَوَاهُ التِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيث إِسْنَاده ضَعِيف",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported the Prophet as saying, “The Friday prayer is obligatory on him who can get home to his family by night.” \n\nTirmidhi transmitted it and said this is a tradition whose isnad is weak."
+      }
+    }
+  ]
+}

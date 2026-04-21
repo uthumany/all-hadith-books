@@ -1,0 +1,16 @@
+{
+  "id": 107,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ \n أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ غَيْرَ أَنَّهُ قَالَ يَنْبَعِثَ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This hadith has been transmitted on the authority of Abu Huraira with a slight variation of wording."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

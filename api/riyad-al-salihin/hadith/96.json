@@ -1,0 +1,16 @@
+{
+  "id": 96,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثاني‏:‏ عن أنس رضي الله عنه عن النبي صلى الله عليه وسلم فيما يرويه عن ربه عز وجل قال‏:‏ ‏\n\"‏ إذا تقرب العبد إلي شبراً تقربت إليه ذراعاً، وإذا تقرب إلي ذراعاً تقربت منه باعاً، وإذا أتاني يمشي أتيته هرولة‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"Allah says: ' When a slave of Mine draws near to Me a span, I draw near to him a cubit; and if he draws near to Me a cubit, I draw near to him a fathom. And if he comes to Me walking, I go to him running.\"'.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

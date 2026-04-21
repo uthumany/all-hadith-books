@@ -1,0 +1,16 @@
+{
+  "id": 128,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، وَمُحَمَّدُ بْنُ الْعَلاَءِ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ\n إِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ حُذَيْفَةَ، قَالَ\n قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الدَّجَّالُ أَعْوَرُ الْعَيْنِ الْيُسْرَى جُفَالُ الشَّعَرِ مَعَهُ\n جَنَّةٌ وَنَارٌ فَنَارُهُ جَنَّةٌ وَجَنَّتُهُ نَارٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Hudhaifa reported that Allah's Messenger (ﷺ) said:",
+    "text": "Dajjal is blind of left eye with thick hair and there would be a garden and fire with him and his fire would be a garden and his garden would be fire."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

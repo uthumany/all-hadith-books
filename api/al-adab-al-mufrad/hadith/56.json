@@ -1,0 +1,16 @@
+{
+  "id": 56,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ قَالَ‏:‏ حَدَّثَنِي مَعْنُ بْنُ عِيسَى قَالَ‏:‏ حَدَّثَنِي أَبُو رُزَيْقٍ، أَنَّهُ سَمِعَ عَلِيَّ بْنَ عَبْدِ اللهِ يَكْرَهُ الأَسْبِرَنْجَ وَيَقُولُ‏:‏ لاَ تُسَلِّمُوا عَلَى مَنْ لَعِبَ بِهَا، وَهِيَ مِنَ الْمَيْسِرِ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "'Ali ibn 'Abdullah was heard expressing his dislike for chess\nand said, \"Do not greet someone who plays it. It is a kind of gambling.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

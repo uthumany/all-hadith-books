@@ -1,0 +1,16 @@
+{
+  "id": 218,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا هَاشِمٌ، حَدَّثَنَا أَبُو خَيْثَمَةَ، حَدَّثَنَا أَبُو إِسْحَاقَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ إِنَّ الْوَتْرَ لَيْسَ بِحَتْمٍ وَلَكِنَّهُ سُنَّةٌ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَإِنَّ اللَّهَ عَزَّ وَجَلَّ وِتْرٌ يُحِبُّ الْوَتْرَ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "It was narrated that ‘Ali (رضي الله عنه) said. Witr is not a must, but it is a Sunnah from the Messenger of Allah (ﷺ) and Allah, may He be glorified and exalted, is One and loves that which is odd numbered."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

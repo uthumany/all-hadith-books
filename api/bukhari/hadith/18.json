@@ -1,0 +1,16 @@
+{
+  "id": 18,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي عُرْوَةُ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ حَدَّثَتْهُ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ إِنَّ جِبْرِيلَ عَلَيْهِ السَّلاَمُ نَادَانِي قَالَ إِنَّ اللَّهَ قَدْ سَمِعَ قَوْلَ قَوْمِكَ وَمَا رَدُّوا عَلَيْكَ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated `Aisha:",
+    "text": "The Prophet (ﷺ) said, \"Gabriel called me and said, 'Allah has heard the statement of your people and what \nthey replied to you.'\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

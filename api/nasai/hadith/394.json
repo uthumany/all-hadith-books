@@ -1,0 +1,16 @@
+{
+  "id": 394,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، عَنْ هُشَيْمٍ، قَالَ حَدَّثَنَا عَبْدُ الْمَلِكِ، عَنْ عَطَاءٍ، قَالَ قَالَ أُسَامَةُ بْنُ زَيْدٍ كُنْتُ رَدِيفَ النَّبِيِّ صلى الله عليه وسلم بِعَرَفَاتٍ فَرَفَعَ يَدَيْهِ يَدْعُو فَمَالَتْ بِهِ نَاقَتُهُ فَسَقَطَ خِطَامُهَا فَتَنَاوَلَ الْخِطَامَ بِإِحْدَى يَدَيْهِ وَهُوَ رَافِعٌ يَدَهُ الأُخْرَى ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Usamah bin Zaid said:",
+    "text": "\"I was a companion rider with the Prophet at Arafat. He raised his hands in supplication, so his she-camel began leaning and he dropped her halter, so he took the halter with one of his hands while he was raising the other hand.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

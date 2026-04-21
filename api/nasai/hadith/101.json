@@ -1,0 +1,16 @@
+{
+  "id": 101,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا زِيَادُ بْنُ أَيُّوبَ، قَالَ حَدَّثَنَا ابْنُ عُلَيَّةَ، قَالَ حَدَّثَنَا إِسْحَاقُ بْنُ سُوَيْدٍ، عَنْ مُعَاذَةَ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ نَهَى عَنِ الدُّبَّاءِ، بِذَاتِهِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that 'Aishah, may Allah be pleased with her, said:",
+    "text": "\"He forbade Ad-Dubba' (gourds) specifically.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 438,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ مَعْبَدِ بْنِ خَالِدٍ، قَالَ سَمِعْتُ حَارِثَةَ بْنَ وَهْبٍ الْخُزَاعِيَّ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ أَلاَ أُخْبِرُكُمْ بِأَهْلِ الْجَنَّةِ كُلُّ ضَعِيفٍ مُتَضَعِّفٍ لَوْ أَقْسَمَ عَلَى اللَّهِ لأَبَرَّهُ، أَلاَ أُخْبِرُكُمْ بِأَهْلِ النَّارِ كُلُّ عُتُلٍّ جَوَّاظٍ مُسْتَكْبِرٍ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Haritha bin Wahb Al-Khuza`i:",
+    "text": "I heard the Prophet (ﷺ) saying. \"May I tell you of the people of Paradise? Every weak and poor obscure \nperson whom the people look down upon but his oath is fulfilled by Allah when he takes an oath to do \nsomething. And may I inform you of the people of the Hell-Fire? They are all those violent, arrogant \nand stubborn people.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

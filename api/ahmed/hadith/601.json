@@ -1,0 +1,16 @@
+{
+  "id": 601,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَزِيدُ، أَنْبَأَنَا شُعْبَةُ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ حَبَّةَ الْعُرَنِيِّ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ أَنَا أَوَّلُ، رَجُلٍ صَلَّى مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ‏.‏\nحَدَّثَنَا يَزِيدُ، حَدَّثَنَا شُعْبَةُ (ح)\nوحجاج، عَنْ شُعْبَةُ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، قَالَ: سَمِعْتُ حَبَّةَ الْعُرَنِيِّ قَالَ، سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ أَنَا أَوَّلُ مَن صَلَّى مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ‏.",
+  "english": {
+    "narrator": "It was narrated that Habbah al-`Urani said:",
+    "text": "I heard ‘Ali (رضي الله عنه) say: I was the first man to pray with the Messenger of Allah (ﷺ). \n\n\nIt was narrated that Habbah al-Urani said: I heard Ali (رضي الله عنه) say: I was the first who prayed with the Messenger of Allah (ﷺ)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

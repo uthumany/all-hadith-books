@@ -1,0 +1,16 @@
+{
+  "id": 609,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا سُفْيَانُ، عَنْ لَيْثٍ، عَنْ مُجَاهِدٍ، عَنْ أَبِي مَعْمَرٍ، قَالَ كُنَّا مَعَ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ فَمَرَّ بِهِ جَنَازَةٌ فَقَامَ لَهَا نَاسٌ فَقَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ مَنْ أَفْتَاكُمْ هَذَا فَقَالُوا أَبُو مُوسَى قَالَ إِنَّمَا فَعَلَ ذَلِكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَرَّةً فَكَانَ يَتَشَبَّهُ بِأَهْلِ الْكِتَابِ فَلَمَّا نُهِيَ انْتَهَى‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Ma`mar said:",
+    "text": "We were with ‘Ali (رضي الله عنه) when a funeral passed by him and some people stood up for it. ‘Ali (رضي الله عنه) said: Who told you to do this? They said: Abu Moosa, He said: The Messenger of Allah (ﷺ) only did that once, following the example of the People of the Book, but when he was forbidden to do it, he stopped."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

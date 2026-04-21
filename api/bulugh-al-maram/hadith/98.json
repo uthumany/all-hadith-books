@@ -1,0 +1,16 @@
+{
+  "id": 98,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّكُمْ لَا تَسَعُونَ اَلنَّاسَ بِأَمْوَالِكُمْ, وَلَكِنْ لِيَسَعْهُمْ بَسْطُ اَلْوَجْهِ, وَحُسْنُ اَلْخُلُقِ }  أَخْرَجَهُ أَبُو يَعْلَى, وَصَحَّحَهُ اَلْحَاكِمُ .‏  1‏ .‏‏1 ‏- ضعيف جدا.‏ رواه الحاكم (1 / 124)‏ وفي سنده عبد الله بن سعيد المقبري، وهو\" متروك\".‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“You (people) cannot satisfy people with your wealth, but satisfy them with your cheerful faces and good morals.” Related by Abu Ya’la and Al-Hakim graded it as Sahih."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

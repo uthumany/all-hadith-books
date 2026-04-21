@@ -1,0 +1,16 @@
+{
+  "id": 546,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن جابر رضي الله عنه قال‏:‏ ما سئل رسول الله صلى الله عليه وسلم شيئاً قط فقال‏:‏ لا‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Jabir (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) never said 'no' to anyone who asked him for anything.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 450,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعنهُ: أَنه كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ عَلَيْنَا الْقُرْآنَ فَإِذَا مَرَّ بِالسَّجْدَةِ كَبَّرَ وَسجد وسجدنا مَعَه. رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "He said:",
+    "text": "God’s Messenger used to recite the Qur'an to us, and when he came to a place where a prostration should be made he said “God is most great” and prostrated himself, and we prostrated ourselves along with him. \n\nAbu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

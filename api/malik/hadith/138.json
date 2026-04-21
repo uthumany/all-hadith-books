@@ -1,0 +1,16 @@
+{
+  "id": 138,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي النَّضْرِ، مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، ‏.‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ صِيَامِ أَيَّامِ مِنًى ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Abu'n-Nadr, the mawla of Umar\nibn Ubaydullah, from Sulayman ibn Yasar that the Messenger of Allah,\nmay Allah bless him and grant him peace, forbade fasting on the days\nof Mina."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

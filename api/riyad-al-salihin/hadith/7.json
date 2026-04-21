@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة عبد الرحمن بن صخر رضي الله عنه قال قال رسول الله صلى الله عليه وسلم‏:‏  \n‏\n\"‏ إن الله لا ينظر إلى أجسامكم ، ولا إلى صوركم، ولكن ينظر إلى قلوبكم وأعمالكم‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) narrated:",
+    "text": "Messenger of Allah (ﷺ) said, \"Allah does not look at your figures, nor at your attire but He looks at your hearts and accomplishments\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

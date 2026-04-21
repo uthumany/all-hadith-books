@@ -1,0 +1,16 @@
+{
+  "id": 211,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما عن النبي صلى الله عليه وسلم قال‏:‏ “المسلم من سلم المسلمون من لسانه، ويده، والمهاجر من هجر ما نهى الله عنه” ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin 'Amr bin Al-'as (May Allah bepleased with them) reported:",
+    "text": "The Prophet (ﷺ) said, \"A Muslim is the one from whose tongue and hands the Muslims are safe; and a Muhajir (Emigrant) is the one who refrains from what Allah has forbidden\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

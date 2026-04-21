@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، وَوَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ أَطَاعَنِي فَقَدْ أَطَاعَ اللَّهَ وَمَنْ عَصَانِي فَقَدْ عَصَى اللَّهَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah narrated that:",
+    "text": "The Prophet said: \"Whoever obeys me, obeys Allah; and whoever disobeys me, disobeys Allah.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

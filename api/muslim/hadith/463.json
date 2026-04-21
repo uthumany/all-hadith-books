@@ -1,0 +1,16 @@
+{
+  "id": 463,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، وَأَبُو أُسَامَةَ ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي جَمِيعًا، عَنْ عُبَيْدِ اللَّهِ، بِهَذَا الإِسْنَادِ ‏.‏ فِي رِوَايَةِ أَبِي بَكْرٍ فَوْقَ ثَلاَثٍ ‏.‏ وَقَالَ ابْنُ نُمَيْرٍ فِي رِوَايَتِهِ عَنْ أَبِيهِ، ‏\n\"‏ ثَلاَثَةً إِلاَّ وَمَعَهَا ذُو مَحْرَمٍ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "This hadith has been narrated on the same authority by Ubaidullah. And in the narration of Abu Bakr (the words are):",
+    "text": "\" More than three (days).\" Ibn Numair narrated on the authority of his father, (and the words are):\" Three (days) except (when) she has a Mahram with her.\""
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

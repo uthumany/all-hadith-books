@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ:  رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لِيُسَلِّمْ اَلصَّغِيرُ عَلَى اَلْكَبِيرِ, وَالْمَارُّ عَلَى اَلْقَاعِدِ, وَالْقَلِيلُ عَلَى اَلْكَثِيرِ }  مُتَّفَقٌ عَلَيْهِ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6231 و 6234)‏، واللفظ الذي عزاه الحافظ للمتفق عليه إنما هو للبخاري، إذ ليس عند مسلم تسليم الصغير على الكبير، وانظر التعليق التالي.‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“The young should salute the old, the one who is passing by should salute the one who is sitting, and the small group of people should salute the larger one.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

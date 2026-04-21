@@ -1,0 +1,16 @@
+{
+  "id": 12,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا يَشْرَبَنَّ أَحَدٌ مِنْكُمْ قَائِمًا }  أَخْرَجَهُ مُسْلِمٌ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2026)‏ وتمامه ‏-وهي زيادة منكرة ‏-:\" فمن نسي فليستقىء\" وانظر\" الضعيفة\" (926)‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“None of you should drink while standing.” Related by Muslim."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

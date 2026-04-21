@@ -1,0 +1,16 @@
+{
+  "id": 276,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا مُوسَى بْنُ دَاوُدَ، حَدَّثَنَا زُهَيْرٌ، عَنْ مَنْصُورِ بْنِ الْمُعْتَمِرِ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ الْأَعْوَرِ، عَنْ عَلِيٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَوْ كُنْتُ مُؤَمِّرًا أَحَدًا مِنْ أُمَّتِي مِنْ غَيْرِ مَشُورَةٍ لَأَمَّرْتُ عَلَيْهِمْ ابْنَ أُمِّ عَبْدٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) said: `If I were to appoint anyone to a position of authority without consultation, I would have appointed Ibn Umm `Abd (Abdullah bin Mas`ood).`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

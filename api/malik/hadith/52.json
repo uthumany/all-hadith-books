@@ -1,0 +1,16 @@
+{
+  "id": 52,
+  "chapterId": 36,
+  "bookId": 7,
+  "arabic": "",
+  "english": {
+    "narrator": "",
+    "text": "Yahya said that he heard Malik say, \"What is done in our\ncommunity about a man who refers a creditor to another man for the\ndebt he owes him is that if the one referred to goes bankrupt or dies,\nand does not leave enough to pay the debt, then the creditor has\nnothing against the one who referred him and the debt does not return\nto the first party.\"\n\n\nMalik said, \"This is the way of doing\nthings about which there is no dispute in our community.\"\n\n\nMalik said, \"If a man has his debt to somebody taken on for him by\nanother man and then the man who took it on dies or goes bankrupt,\nthen whatever was taken on by him returns to the first debtor.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

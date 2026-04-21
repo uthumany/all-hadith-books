@@ -1,0 +1,16 @@
+{
+  "id": 346,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا ابْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، قَالَ انْتَهَيْتُ إِلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ فِي قُبَّةٍ مِنْ أَدَمٍ فَذَكَرَ نَحْوَهُ ‏.‏",
+  "english": {
+    "narrator": "‘Abd Allah b. Mas’ud said :",
+    "text": "I went to the prophet (May peace be upon him) when he was in a skin tent. He then mentioned something similar to it."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 495,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ سَمِعَ النِّدَاءَ فَلَمْ يُجِبْهُ فَلَا صَلَاةَ لَهُ إِلَّا مِنْ عُذْرٍ» . رَوَاهُ الدَّارَقُطْنِيّ",
+  "english": {
+    "narrator": "",
+    "text": "Ibn'Abbas reported the Prophet as saying, “If anyone hears the summons and does not respond to it, he is not credited with having prayed unless he has some excuse.” \n\nDaraqutni transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

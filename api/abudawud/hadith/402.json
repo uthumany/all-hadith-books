@@ -1,0 +1,16 @@
+{
+  "id": 402,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حَفْصٌ، عَنِ الأَعْمَشِ، عَنْ طَلْحَةَ، عَنْ هُزَيْلٍ، قَالَ جَاءَ رَجُلٌ - قَالَ عُثْمَانُ سَعْدُ بْنُ أَبِي وَقَّاصٍ - فَوَقَفَ عَلَى بَابِ النَّبِيِّ صلى الله عليه وسلم يَسْتَأْذِنُ فَقَامَ عَلَى الْبَابِ - قَالَ عُثْمَانُ مُسْتَقْبِلَ الْبَابِ - فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ هَكَذَا عَنْكَ أَوْ هَكَذَا فَإِنَّمَا الاِسْتِئْذَانُ مِنَ النَّظَرِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Huzayl:",
+    "text": "A man came. Uthman's version has: Sa'd ibn AbuWaqqas came. He stood at the door. Uthman's version has: (He stood) facing the door. The Prophet (ﷺ) said to him: Away from it, (stand) this side or that side. Asking permission is meant to escape from the look of an eye."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

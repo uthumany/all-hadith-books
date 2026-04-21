@@ -1,0 +1,16 @@
+{
+  "id": 136,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا يَحْيَى بْنُ دُرُسْتَ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، رضى الله عنهما قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ شَرِبَ الْخَمْرَ فِي الدُّنْيَا فَمَاتَ وَهُوَ يُدْمِنُهَا لَمْ يَشْرَبْهَا فِي الآخِرَةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Ibn 'Umar said:",
+    "text": "\"The Messenger of Allah  said: 'Whoever drinks Khamr in this world and dies addicted to it, will not drink it in the Hereafter.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

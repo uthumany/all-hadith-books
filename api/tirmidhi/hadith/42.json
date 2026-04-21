@@ -1,0 +1,16 @@
+{
+  "id": 42,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا أَبُو قَطَنٍ، حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم ضَلِيعَ الْفَمِ أَشْكَلَ الْعَيْنَيْنِ مَنْهُوسَ الْعَقِبِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Jabir bin Samurah:",
+    "text": "\"The Messenger of Allah (ﷺ) had a wide mouth (Dali' Al-Fam), his eyes were Ashkal, and he had thin heals (Manhus Al-'Aqib).\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

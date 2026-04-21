@@ -1,0 +1,16 @@
+{
+  "id": 409,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، عَنْ حَمَّادٍ، عَنْ يَحْيَى، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، عَنْ أَبِي أَيُّوبَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم جَمَعَ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ بِجَمْعٍ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Abu Ayyub that:",
+    "text": "the Messenger of Allah joined Maghrib and \nIsha in Jam (Al-Muzdalifah)."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

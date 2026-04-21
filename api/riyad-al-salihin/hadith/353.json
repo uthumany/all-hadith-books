@@ -1,0 +1,16 @@
+{
+  "id": 353,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عمر رضي الله عنهما أن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ أراني في المنام أتسوك بسواك، فجاءني رجلان، أحدهما أكبر من الآخر، فناولت السواك الأصغر، فقيل لي‏:‏ كبر، فدفعته إلى الأكبر منهما‏\"‏ ‏(‏‏(‏رواه مسلم والبخاري تعليقًا‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin 'Umar (May Allah be pleased with tehm) reported:",
+    "text": "The Prophet (ﷺ) said, \"It was shown to me in my dream that I was cleaning my teeth with a Miswak and two men came to me, one being older than the other. I gave the Miswak to the younger one, but I was asked to give it to the older, which I did\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

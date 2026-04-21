@@ -1,0 +1,16 @@
+{
+  "id": 503,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة، رضي الله عنها قالت‏:‏ توفي رسول الله صلى الله عليه وسلم ودرعه مرهونة عند يهودي في ثلاثين صاعاً من شعير‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
+    "text": "When Messenger of Allah (ﷺ) died, his armour was mortgaged with a Jew for thirty Sa' (measures) of barley.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

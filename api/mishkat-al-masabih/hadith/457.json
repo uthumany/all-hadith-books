@@ -1,0 +1,16 @@
+{
+  "id": 457,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "عَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يَتَحَرَّى أَحَدُكُمْ فَيُصَلِّيَ عِنْدَ طُلُوعِ الشَّمْسِ وَلَا عِنْدَ غُرُوبِهَا»\nوَفِي رِوَايَةٍ قَالَ: «إِذَا طَلَعَ حَاجِبُ الشَّمْسِ فدعوا الصَّلَاة حَتَّى تبرز. فَإِذا غَابَ حَاجِبُ الشَّمْسِ فَدَعُوا الصَّلَاةَ حَتَّى تَغِيبَ وَلَا تَحَيَّنُوا بِصَلَاتِكُمْ طُلُوعَ الشَّمْسِ وَلَا غُرُوبَهَا فَإِنَّهَا تطلع بَين قَرْني الشَّيْطَان»",
+  "english": {
+    "narrator": "",
+    "text": "Ibn ‘Umar reported God’s Messenger as saying, “None of you must choose for himself and pray at the rising or setting of the sun.” In a version he said, “When the rim of the sun rises leave off prayer till it comes right up, when the rim of the sun goes below the horizon leave off prayer till it has set, and do not make the rising or setting of the sun your time of prayer, for it rises between the horns of the devil.” \n\n(Bukhari and Muslim.)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

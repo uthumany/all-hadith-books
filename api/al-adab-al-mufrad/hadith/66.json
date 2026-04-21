@@ -1,0 +1,16 @@
+{
+  "id": 66,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَبَّاسٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ أَبِيهِ، عَنِ الشَّعْبِيِّ، أَنَّ عُمَرَ قَالَ لِعَدِيِّ بْنِ حَاتِمٍ‏:‏ حَيَّاكَ اللَّهُ مِنْ مَعْرِفَةٍ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "'Umar said to 'Adi ibn Hatim, \"May Allah preserve you from recognition.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

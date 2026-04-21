@@ -1,0 +1,16 @@
+{
+  "id": 626,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي أَبُو خَيْثَمَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ مُطَرِّفٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُوتِرُ فِي أَوَّلِ اللَّيْلِ وَفِي أَوْسَطِهِ وَفِي آخِرِهِ ثُمَّ ثَبَتَ لَهُ الْوَتْرُ فِي آخِرِهِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) used to pray Witr at the beginning of the night, in the middle and at the end, then he settled on praying Witr at the end of the night."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

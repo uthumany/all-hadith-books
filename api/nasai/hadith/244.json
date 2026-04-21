@@ -1,0 +1,16 @@
+{
+  "id": 244,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَامِرٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، قَالَ حَدَّثَنَا عَبَّادُ بْنُ الْعَوَّامِ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَتَخَتَّمُ فِي يَمِينِهِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Anas that:",
+    "text": "The Prophet  used to wear his ring on his right hand."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

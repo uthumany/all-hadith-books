@@ -1,0 +1,16 @@
+{
+  "id": 165,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ سَلَمَةَ، عَنْ حُجَيَّةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ أَمَرَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ نَسْتَشْرِفَ الْعَيْنَ وَالْأُذُنَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) commanded us to check the eyes and ears "
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

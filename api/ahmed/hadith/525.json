@@ -1,0 +1,16 @@
+{
+  "id": 525,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَيْرُ نِسَائِهَا خَدِيجَةُ وَخَيْرُ نِسَائِهَا مَرْيَمُ بِنْتُ عِمْرَانَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) said: “The best woman of her time was Khadeejah  and the best woman of her time was Maryam bint Imran.` (رضي الله عنهما)"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

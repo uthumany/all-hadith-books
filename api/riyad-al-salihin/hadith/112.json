@@ -1,0 +1,16 @@
+{
+  "id": 112,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وأما الأحاديث فالأول‏:‏ عن أبي هريرة رضي الله عنه، عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ أعذر الله إلى امرئ أخر أجله حتى بلغ ستين سنة‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"Allah excuses and grants forgiveness to a person until he attains the age of sixty years\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

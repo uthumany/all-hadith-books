@@ -1,0 +1,16 @@
+{
+  "id": 123,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ الْمُنْدِرِ الْكُوفِيُّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنِ الأَجْلَحِ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ دَعَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَلِيًّا يَوْمَ الطَّائِفِ فَانْتَجَاهُ فَقَالَ النَّاسُ لَقَدْ طَالَ نَجْوَاهُ مَعَ ابْنِ عَمِّهِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا انْتَجَيْتُهُ وَلَكِنَّ اللَّهَ انْتَجَاهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ الأَجْلَحِ وَقَدْ رَوَاهُ غَيْرُ ابْنِ فُضَيْلٍ أَيْضًا عَنِ الأَجْلَحِ ‏.‏ وَمَعْنَى قَوْلِهِ ‏\"‏ وَلَكِنَّ اللَّهَ انْتَجَاهُ ‏\"‏ ‏.‏ يَقُولُ إِنَّ اللَّهَ أَمَرَنِي أَنْ أَنْتَجِيَ مَعَهُ ‏.‏",
+  "english": {
+    "narrator": "Narrated Jabir:",
+    "text": "\"The Messenger of Allah (ﷺ) called 'Ali on the Day (of the battle) of At-Ta'if, and spoke privately with him, so the people said: 'His private conversation with his cousin has grown lengthy.' So the Messenger of Allah (ﷺ) said: 'I did not speak privately with him, rather Allah spoke privately with him.'\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

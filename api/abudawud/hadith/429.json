@@ -1,0 +1,16 @@
+{
+  "id": 429,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبَّاسٌ الْعَنْبَرِيُّ، حَدَّثَنَا أَسْوَدُ بْنُ عَامِرٍ، حَدَّثَنَا حَسَنُ بْنُ صَالِحٍ، عَنْ أَبِيهِ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ عُمَرَ، أَنَّهُ أَتَى النَّبِيَّ صلى الله عليه وسلم وَهُوَ فِي مَشْرُبَةٍ لَهُ فَقَالَ السَّلاَمُ عَلَيْكَ يَا رَسُولَ اللَّهِ السَّلاَمُ عَلَيْكُمْ أَيَدْخُلُ عُمَرُ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Abbas:",
+    "text": "Umar came to the Prophet (ﷺ) when he was in his wooden oriel, and said to him: Peace be upon you. Messenger of Allah, peace be upon you! May Umar enter ?"
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

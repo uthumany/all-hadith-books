@@ -1,0 +1,16 @@
+{
+  "id": 460,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، عَنْ زَكَرِيَّا، عَنِ الشَّعْبِيِّ، عَنْ أَبِي سَلَمَةَ، أَنَّ عَائِشَةَ، رضى الله عنها حَدَّثَتْهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لَهَا ‏\n\"‏ إِنَّ جِبْرِيلَ يَقْرَأُ عَلَيْكِ السَّلاَمَ ‏\"‏ ‏.‏ فَقَالَتْ وَعَلَيْهِ السَّلاَمُ وَرَحْمَةُ اللَّهِ ‏.‏",
+  "english": {
+    "narrator": "‘A’ishah told that the Prophet(ﷺ) said to her:",
+    "text": "Gabriel gives you a greeting. Replying she said: Upon him be peace and grace of Allah."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 319,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنِي سَعِيدُ بْنُ يَحْيَى، حَدَّثَنَا أَبِي، حَدَّثَنَا مِسْعَرٌ، عَنِ الْحَكَمِ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ كَعْبِ بْنِ عُجْرَةَ ـ رضى الله عنه ـ قِيلَ يَا رَسُولَ اللَّهِ، أَمَّا السَّلاَمُ عَلَيْكَ فَقَدْ عَرَفْنَاهُ فَكَيْفَ الصَّلاَةُ قَالَ ‏\n\"‏ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Ka`b bin Ujra:",
+    "text": "It was said, \"O Allah's Messenger (ﷺ)! We know how to greet you, but how to invoke Allah for you?\" The \nProphet said, \"Say: Allahumma salli ala Muhammadin wa'ala `Ali Muhammaddin, kama sallaita 'ala \nall Ibrahim, innaka Hamidun Majid.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

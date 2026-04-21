@@ -1,0 +1,16 @@
+{
+  "id": 524,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ عُثْمَانَ الثَّقَفِيِّ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ نَهَانَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ نُنْزِيَ حِمَارًا عَلَى فَرَسٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) forbade us to mate a donkey with a mare."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

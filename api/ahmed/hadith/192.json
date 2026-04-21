@@ -1,0 +1,16 @@
+{
+  "id": 192,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا سَعِيدٌ يَعْنِي ابْنَ أَبِي عَرُوبَةَ، عَنِ الْحَكَمِ بْنِ عُتَيْبَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، رَضِيَ اللَّهُ عَنْهُ قَالَ أَمَرَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ أَبِيعَ غُلَامَيْنِ أَخَوَيْنِ فَبِعْتُهُمَا وَفَرَّقْتُ بَيْنَهُمَا فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ أَدْرِكْهُمَا فَأَرْجِعْهُمَا وَلَا تَبِعْهُمَا إِلَّا جَمِيعًا‏.‏",
+  "english": {
+    "narrator": "It was narrated that `Ali bin Abi Talib (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) instructed me to sell two slaves who were brothers, so I sold them and separated them. I told the Prophet (ﷺ) about that and he said: `Go and find them and take them back, and do not sell them except together.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

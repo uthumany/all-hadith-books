@@ -1,0 +1,16 @@
+{
+  "id": 106,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثاني عشر‏:‏ عن أبي فراس ربيعة بن كعب الأسلمى خادم رسول الله صلى الله عليه وسلم، ومن أهل الصفة رضي الله عنه قال‏:‏ ‏\"‏ كنت أبيت مع رسول الله صلى الله عليه وسلم، فآتيه بوضوئه، وحاجته فقال‏:‏ ‏\"‏سلني‏\"‏ فقلت‏:‏ أسألك مرافقتك في الجنة‏.‏ فقال‏:‏ ‏{‏ أوغير ذلك‏؟‏‏\"‏ قلت‏:‏ هو ذاك قال‏:‏ ‏\"‏ فأعني على نفسك بكثرة السجود‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Rabi'ah bin Ka'b Al-Aslami (May Allah be pleased with him (a servant of the Messenger of Allah and also one of the people of As-Suffah) said:",
+    "text": "I used to spend my night in the company of Messenger of Allah (ﷺ) and used to put up water for his ablutions. One day he said to me, \"Ask something of me.\" I said: \"I request for your companionship in Jannah\". He inquired, \"Is there anything else?\" I said, \"That is all.\" He said, \"Then help me in your request by multiplying your prostrations\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

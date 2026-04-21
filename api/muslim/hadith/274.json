@@ -1,0 +1,16 @@
+{
+  "id": 274,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنِي سَيِّدُ بَنِي،\n تَمِيمٍ مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي يَعْقُوبَ الضَّبِّيُّ بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ قَالَ ‏\n\"‏ وَجُهَيْنَةُ ‏\"‏ ‏.‏\n وَلَمْ يَقُلْ أَحْسِبُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This hadith has been narrated on the authority of Abu Ya'qub Dabbi with the same chain of transmitters but with a slight variation of wording."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

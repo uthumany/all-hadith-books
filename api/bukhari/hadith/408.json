@@ -1,0 +1,16 @@
+{
+  "id": 408,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا أَبُو بَكْرٍ، عَنْ حُصَيْنٍ، عَنْ عَمْرِو بْنِ مَيْمُونٍ، قَالَ قَالَ عُمَرُ رضى الله عنه أُوصِي الْخَلِيفَةَ بِالْمُهَاجِرِينَ الأَوَّلِينَ أَنْ يَعْرِفَ لَهُمْ حَقَّهُمْ، وَأُوصِي الْخَلِيفَةَ بِالأَنْصَارِ الَّذِينَ تَبَوَّءُوا الدَّارَ وَالإِيمَانَ مِنْ قَبْلِ أَنْ يُهَاجِرَ النَّبِيُّ صلى الله عليه وسلم أَنْ يَقْبَلَ مِنْ مُحْسِنِهِمْ وَيَعْفُوَ عَنْ مُسِيئِهِمْ‏.‏",
+  "english": {
+    "narrator": "Narrated `Umar:",
+    "text": "I recommend that my successor should take care of and secure the rights of the early emigrants; and I \nalso advise my successor to be kind to the Ansar who had homes (in Medina) and had adopted the \nFaith, before the Prophet (ﷺ) migrated to them, and to accept the good from their good ones and excuse \ntheir wrong doers."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

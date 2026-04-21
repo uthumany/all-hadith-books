@@ -1,0 +1,16 @@
+{
+  "id": 446,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ الأَقْرَعَ بْنَ حَابِسٍ، أَبْصَرَ النَّبِيَّ صلى الله عليه وسلم وَهُوَ يُقَبِّلُ حُسَيْنًا فَقَالَ إِنَّ لِي عَشْرَةً مِنَ الْوَلَدِ مَا فَعَلْتُ هَذَا بِوَاحِدٍ مِنْهُمْ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ لاَ يَرْحَمُ لاَ يُرْحَمُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah said; Al-Aqra’ b. Habib saw that the Messenger of Allah(ﷺ) was kissing Husain. He said:",
+    "text": "I have ten children and I have never kissed any of them. The Messenger of Allah(ﷺ) said: He who does not show tenderness will not be shown tenderness."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

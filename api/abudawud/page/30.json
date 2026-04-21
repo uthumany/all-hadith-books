@@ -1,0 +1,510 @@
+{
+  "page": 30,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 31,
+  "prevPage": 29,
+  "items": [
+    {
+      "id": 35,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ عَجْلاَنَ، حَدَّثَنَا الْقَعْقَاعُ بْنُ حَكِيمٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ‏\n\"‏ رَحِمَ اللَّهُ رَجُلاً قَامَ مِنَ اللَّيْلِ فَصَلَّى وَأَيْقَظَ امْرَأَتَهُ فَصَلَّتْ فَإِنْ أَبَتْ نَضَحَ فِي وَجْهِهَا الْمَاءَ رَحِمَ اللَّهُ امْرَأَةً قَامَتْ مِنَ اللَّيْلِ فَصَلَّتْ وَأَيْقَظَتْ زَوْجَهَا فَإِنْ أَبَى نَضَحَتْ فِي وَجْهِهِ الْمَاءَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: May Allah show mercy to a man who gets up during the night and prays, who wakens his wife and she prays; if she refuses, he sprinkles water on her face. May Allah show mercy to a woman who gets up during the night and prays, who wakens her husband and he prays; if he refuses she sprinkles water on his face."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ بَزِيعٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ شَيْبَانَ، عَنِ الأَعْمَشِ، عَنْ عَلِيِّ بْنِ الأَقْمَرِ، عَنِ الأَغَرِّ أَبِي مُسْلِمٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، وَأَبِي، هُرَيْرَةَ قَالاَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنِ اسْتَيْقَظَ مِنَ اللَّيْلِ وَأَيْقَظَ امْرَأَتَهُ فَصَلَّيَا رَكْعَتَيْنِ جَمِيعًا كُتِبَا مِنَ الذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuSa'id ; AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: When a man himself wakes at night and wakens his wife and they pray two rak'ahs together, they are recorded among the men and women who make much mention of Allah."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عُثْمَانَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Uthman reported the Prophet (ﷺ) as saying:",
+        "text": "The best among you is he who learns and teaches the Qur'an."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يَحْيَى بْنُ أَيُّوبَ، عَنْ زَبَّانَ بْنِ فَائِدٍ، عَنْ سَهْلِ بْنِ مُعَاذٍ الْجُهَنِيِّ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ قَرَأَ الْقُرْآنَ وَعَمِلَ بِمَا فِيهِ أُلْبِسَ وَالِدَاهُ تَاجًا يَوْمَ الْقِيَامَةِ ضَوْؤُهُ أَحْسَنُ مِنْ ضَوْءِ الشَّمْسِ فِي بُيُوتِ الدُّنْيَا لَوْ كَانَتْ فِيكُمْ فَمَا ظَنُّكُمْ بِالَّذِي عَمِلَ بِهَذَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Mu'adh al-Juhani reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "If anyone recites the Qur'an and acts according to its content, on the Day of Judgement his parents will be given to wear a crown whose light is better than the light of the sun in the dwellings of this world if it were among you. So what do you think of him who acts according to this ?"
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، وَهَمَّامٌ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ بْنِ أَوْفَى، عَنْ سَعْدِ بْنِ هِشَامٍ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ وَالَّذِي يَقْرَؤُهُ وَهُوَ يَشْتَدُّ عَلَيْهِ فَلَهُ أَجْرَانِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Aishah reported the Prophet (ﷺ) as saying:",
+        "text": "One who is skilled in the Qur'an is associated with the noble, upright recording angels, and he who falters when he recites the Qur'an and finds it difficult for him will have a double reward."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَا اجْتَمَعَ قَوْمٌ فِي بَيْتٍ مِنْ بُيُوتِ اللَّهِ تَعَالَى يَتْلُونَ كِتَابَ اللَّهِ وَيَتَدَارَسُونَهُ بَيْنَهُمْ إِلاَّ نَزَلَتْ عَلَيْهِمُ السَّكِينَةُ وَغَشِيَتْهُمُ الرَّحْمَةُ وَحَفَّتْهُمُ الْمَلاَئِكَةُ وَذَكَرَهُمُ اللَّهُ فِيمَنْ عِنْدَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Prophet (ﷺ) as saying:",
+        "text": "No people get together in a house of the houses of Allah (i.e. a mosque), reciting the Book of Allah, and learning it together among themselves, but calmness (sakinah) comes down to them, (Divine) mercy covers them (from above), and the angels surround them, and Allah makes a mention of them among those who are with Him."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنَا مُوسَى بْنُ عُلَىِّ بْنِ رَبَاحٍ، عَنْ أَبِيهِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ، قَالَ خَرَجَ عَلَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَنَحْنُ فِي الصُّفَّةِ فَقَالَ ‏\"‏ أَيُّكُمْ يُحِبُّ أَنْ يَغْدُوَ إِلَى بُطْحَانَ أَوِ الْعَقِيقِ فَيَأْخُذَ نَاقَتَيْنِ كَوْمَاوَيْنِ زَهْرَاوَيْنِ بِغَيْرِ إِثْمٍ بِاللَّهِ عَزَّ وَجَلَّ وَلاَ قَطْعِ رَحِمٍ ‏\"‏ ‏.‏ قَالُوا كُلُّنَا يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ فَلأَنْ يَغْدُوَ أَحَدُكُمْ كُلَّ يَوْمٍ إِلَى الْمَسْجِدِ فَيَتَعَلَّمَ آيَتَيْنِ مِنْ كِتَابِ اللَّهِ عَزَّ وَجَلَّ خَيْرٌ لَهُ مِنْ نَاقَتَيْنِ وَإِنْ ثَلاَثٌ فَثَلاَثٌ مِثْلُ أَعْدَادِهِنَّ مِنَ الإِبِلِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Uqbah b. 'Amir al-Juhani said:",
+        "text": "When we were in the Suffah, the Messenger of Allah (ﷺ) asked: Which of you would like to go out every morning to Buthan or Al-'Aqiq and bring two large humped and fat she-camels without being guilty of sin and severing ties of relationship ? They  (the people) said: Messenger of Allah, we would all like that. He said: If any one of you goes out in the morning to the mosque and learns two verses of the Book of Allah, the Exalted, it is better for him than two she-camels, and three verses are better for him than three she-camels, and so on than their numbers in camels."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ الْحَرَّانِيُّ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ ‏{‏ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ‏}‏ أُمُّ الْقُرْآنِ وَأُمُّ الْكِتَابِ وَالسَّبْعُ الْمَثَانِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "All praise be to Allah, the Lord of the Universe\" (1) is the epitome or basis of the Qur'an, the epitome or basis of the Book, and the seven oft-repeated verses."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا خَالِدٌ، حَدَّثَنَا شُعْبَةُ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ سَمِعْتُ حَفْصَ بْنَ عَاصِمٍ، يُحَدِّثُ عَنْ أَبِي سَعِيدِ بْنِ الْمُعَلَّى، أَنَّ النَّبِيَّ صلى الله عليه وسلم مَرَّ بِهِ وَهُوَ يُصَلِّي فَدَعَاهُ قَالَ فَصَلَّيْتُ ثُمَّ أَتَيْتُهُ قَالَ فَقَالَ ‏\"‏ مَا مَنَعَكَ أَنْ تُجِيبَنِي ‏\"‏ ‏.‏ قَالَ كُنْتُ أُصَلِّي ‏.‏ قَالَ ‏\"‏ أَلَمْ يَقُلِ اللَّهُ عَزَّ وَجَلَّ ‏{‏ يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ‏}‏ لأُعَلِّمَنَّكَ أَعْظَمَ سُورَةٍ مِنَ الْقُرْآنِ أَوْ فِي الْقُرْآنِ ‏\"‏ ‏.‏ شَكَّ خَالِدٌ ‏\"‏ قَبْلَ أَنْ أَخْرُجَ مِنَ الْمَسْجِدِ ‏\"‏ ‏.‏ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ قَوْلَكَ ‏.‏ قَالَ ‏\"‏ ‏{‏ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ‏}‏ وَهِيَ السَّبْعُ الْمَثَانِي الَّتِي أُوتِيتُ وَالْقُرْآنُ الْعَظِيمُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id b. al-Mu'alla said that when he was praying the Prophet (ﷺ) passed by him and he called him. He said:",
+        "text": "I prayed ant then I came to him. He asked: What prevented you from answering me ? He replied: I was praying. He said: Has not Allah said: \"O you who believe, respond to Allah and the Apostle when he calls you to that which gives you life ? (8:24) Let me teach you the greatest surah from the Qur'an or in the Qur'an (the narrator Khalid doubted) before I leave the mosque. I said: (I shall memorize) your saying. He said: It is: \"Praise be to Allah, the Lord of the Universe\" which is the seven oft-repeated verses, and the mighty Qur'an."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ مُسْلِمٍ الْبَطِينِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أُوتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم سَبْعًا مِنَ الْمَثَانِي الطُّوَلِ وَأُوتِيَ مُوسَى عَلَيْهِ السَّلاَمُ سِتًّا فَلَمَّا أَلْقَى الأَلْوَاحَ رُفِعَتْ ثِنْتَانِ وَبَقِيَ أَرْبَعٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Messenger of Allah (ﷺ) was given seven repeated long surahs, while Moses was given six, When he threw the tablets, two of them were withdrawn and four remained."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا سَعِيدُ بْنُ إِيَاسٍ، عَنْ أَبِي السَّلِيلِ، عَنْ عَبْدِ اللَّهِ بْنِ رَبَاحٍ الأَنْصَارِيِّ، عَنْ أُبَىِّ بْنِ كَعْبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَبَا الْمُنْذِرِ أَىُّ آيَةٍ مَعَكَ مِنْ كِتَابِ اللَّهِ أَعْظَمُ ‏\"‏ ‏.‏ قَالَ قُلْتُ اللَّهُ وَرَسُولُهُ أَعْلَمُ ‏.‏ قَالَ ‏\"‏ أَبَا الْمُنْذِرِ أَىُّ آيَةٍ مَعَكَ مِنْ كِتَابِ اللَّهِ أَعْظَمُ ‏\"‏ ‏.‏ قَالَ قُلْتُ ‏{‏ اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَىُّ الْقَيُّومُ ‏}‏ قَالَ فَضَرَبَ فِي صَدْرِي وَقَالَ ‏\"‏ لِيَهْنِ لَكَ يَا أَبَا الْمُنْذِرِ الْعِلْمُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ubayy b. Ka'b said:",
+        "text": "The Messenger of Allah (ﷺ) said: Abu al-Mundhir, which verse of Allah's Book that you have is creates ? I replied: Allah and His Apostle know best. He said: Abu al-Mundhir, which verse of Allah's that you have is greatest ? I said: Allah, there is no god but He, the Living, the Eternal. Thereupon he struck me on the beast and said: May knowledge be pleasant for you, Abu al-Mundhir."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَجُلاً، سَمِعَ رَجُلاً، يَقْرَأُ ‏{‏ قُلْ هُوَ اللَّهُ أَحَدٌ ‏}‏ يُرَدِّدُهَا فَلَمَّا أَصْبَحَ جَاءَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ ذَلِكَ لَهُ وَكَانَ الرَّجُلُ يَتَقَالُّهَا فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ وَالَّذِي نَفْسِي بِيَدِهِ إِنَّهَا لَتَعْدِلُ ثُلُثَ الْقُرْآنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id al-Khudri said:",
+        "text": "A man heard another man reciting \"Say, He is Allah, One\" He was repeating it. When the next morning came, he went to the Messenger of Allah (ﷺ) and mentioned to him. The man tool it (this surah) as a small one. The Prophet (ﷺ) said: By Him in Whose Hand is my life, it is equivalent to a third of the Qur'an."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي مُعَاوِيَةُ، عَنِ الْعَلاَءِ بْنِ الْحَارِثِ، عَنِ الْقَاسِمِ، مَوْلَى مُعَاوِيَةَ عَنْ عُقْبَةَ بْنِ عَامِرٍ، قَالَ كُنْتُ أَقُودُ بِرَسُولِ اللَّهِ صلى الله عليه وسلم نَاقَتَهُ فِي السَّفَرِ فَقَالَ لِي ‏\"‏ يَا عُقْبَةُ أَلاَ أُعَلِّمُكَ خَيْرَ سُورَتَيْنِ قُرِئَتَا ‏\"‏ ‏.‏ فَعَلَّمَنِي ‏{‏ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ‏}‏ وَ ‏{‏ قُلْ أَعُوذُ بِرَبِّ النَّاسِ ‏}‏ قَالَ فَلَمْ يَرَنِي سُرِرْتُ بِهِمَا جِدًّا فَلَمَّا نَزَلَ لِصَلاَةِ الصُّبْحِ صَلَّى بِهِمَا صَلاَةَ الصُّبْحِ لِلنَّاسِ فَلَمَّا فَرَغَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الصَّلاَةِ الْتَفَتَ إِلَىَّ فَقَالَ ‏\"‏ يَا عُقْبَةُ كَيْفَ رَأَيْتَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Uqbah ibn Amir:",
+        "text": "I was driving the she-camel of the Messenger of Allah (ﷺ) during a journey. He said to me: Uqbah, should I not teach you two best surahs ever recited? He then taught me: \"Say, I seek refuge in the Lord of the dawn,\" and \"Say, I seek refuge in the Lord of men.\" He did not see me much pleased (by these two surahs). \n\n\n\n\n\nWhen he alighted for prayer, he led the people in the morning prayer and recited them in prayer. When the Messenger of Allah (ﷺ) finished his prayer, he turned to me and said: O Uqbah, how did you see."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِيهِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، قَالَ بَيْنَا أَنَا أَسِيرُ، مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بَيْنَ الْجُحْفَةِ وَالأَبْوَاءِ إِذْ غَشِيَتْنَا رِيحٌ وَظُلْمَةٌ شَدِيدَةٌ فَجَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَعَوَّذُ بِـ ‏{‏ أَعُوذُ بِرَبِّ الْفَلَقِ ‏}‏ وَ ‏{‏ أَعُوذُ بِرَبِّ النَّاسِ ‏}‏ وَيَقُولُ ‏\"‏ يَا عُقْبَةُ تَعَوَّذْ بِهِمَا فَمَا تَعَوَّذَ مُتَعَوِّذٌ بِمِثْلِهِمَا ‏\"‏ ‏.‏ قَالَ وَسَمِعْتُهُ يَؤُمُّنَا بِهِمَا فِي الصَّلاَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Uqbah ibn Amir:",
+        "text": "White I was travelling with the Messenger of Allah (ﷺ) between al-Juhfah and al-Abwa', a wind and intense darkness enveloped us, whereupon the Messenger of Allah (ﷺ) began to seek refuge in Allah, reciting: \"I seek  refuge in the Lord of the dawn,\" and \"I seek refuge in the Lord of men.\" \n\n\n\n\n\nHe then said: Uqbah, use them when seeking refuge in Allah, for no one can use anything to compare with them for the purpose. \n\n\n\n\n\nUqbah added: I heard him reciting them when he led the people in prayer."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، حَدَّثَنِي عَاصِمُ بْنُ بَهْدَلَةَ، عَنْ زِرٍّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ يُقَالُ لِصَاحِبِ الْقُرْآنِ اقْرَأْ وَارْتَقِ وَرَتِّلْ كَمَا كُنْتَ تُرَتِّلُ فِي الدُّنْيَا فَإِنَّ مَنْزِلَكَ عِنْدَ آخِرِ آيَةٍ تَقْرَؤُهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "The Messenger of Allah (ﷺ) said: One who was devoted to the Qur'an will be told to recite, ascend and recite carefully as he recited carefully when he was in the world, for he will reach his abode when he comes to the last verse he recites."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا جَرِيرٌ، عَنْ قَتَادَةَ، قَالَ سَأَلْتُ أَنَسًا عَنْ قِرَاءَةِ النَّبِيِّ، صلى الله عليه وسلم فَقَالَ كَانَ يَمُدُّ مَدًّا ‏.‏",
+      "english": {
+        "narrator": "Qatadah said:",
+        "text": "I asked Anas about the recitation of the Qur'an by the Prophet (ﷺ). He said: He used to express all the long accents clearly."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَزِيدُ بْنُ خَالِدِ بْنِ مَوْهَبٍ الرَّمْلِيُّ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ يَعْلَى بْنِ مَمْلَكٍ، أَنَّهُ سَأَلَ أُمَّ سَلَمَةَ عَنْ قِرَاءَةِ، رَسُولِ اللَّهِ صلى الله عليه وسلم وَصَلاَتِهِ فَقَالَتْ وَمَا لَكُمْ وَصَلاَتَهُ كَانَ يُصَلِّي وَيَنَامُ قَدْرَ مَا صَلَّى ثُمَّ يُصَلِّي قَدْرَ مَا نَامَ ثُمَّ يَنَامُ قَدْرَ مَا صَلَّى حَتَّى يُصْبِحَ وَنَعَتَتْ قِرَاءَتَهُ فَإِذَا هِيَ تَنْعَتُ قِرَاءَتَهُ حَرْفًا حَرْفًا ‏.‏",
+      "english": {
+        "narrator": "Narrated Umm Salamah, Ummul Mu'minin:",
+        "text": "Ya'la ibn Mumallak said that he asked Umm Salamah about the recitation and prayer of the Messenger of Allah (ﷺ). \n\n\n\n\n\nShe said: What have you to do with his prayer? He would pray, then sleep as long as he had prayed, till morning. She then described his recitation and did so with an exposition word by word."
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ مُعَاوِيَةَ بْنِ قُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَوْمَ فَتْحِ مَكَّةَ وَهُوَ عَلَى نَاقَةٍ يَقْرَأُ بِسُورَةِ الْفَتْحِ وَهُوَ يُرَجِّعُ ‏.‏",
+      "english": {
+        "narrator": "'Abd Allah b. Mughaffal said:",
+        "text": "On the day of the Conquest of Mecca I saw the Messenger of Allah (ﷺ) riding his she-camel reciting Surah al-Fath repeating each verse several times."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ طَلْحَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَوْسَجَةَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ زَيِّنُوا الْقُرْآنَ بِأَصْوَاتِكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Bara' ibn Azib:",
+        "text": "The Prophet (ﷺ) said: Beautify the Qur'an with your voices."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَيَزِيدُ بْنُ خَالِدِ بْنِ مَوْهَبٍ الرَّمْلِيُّ، بِمَعْنَاهُ أَنَّ اللَّيْثَ، حَدَّثَهُمْ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي مُلَيْكَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي نَهِيكٍ، عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ، - وَقَالَ يَزِيدُ عَنِ ابْنِ أَبِي مُلَيْكَةَ، - عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، وَقَالَ، قُتَيْبَةُ هُوَ فِي كِتَابِي عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لَيْسَ مِنَّا مَنْ لَمْ يَتَغَنَّ بِالْقُرْآنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Sa'd ibn AbuWaqqas:",
+        "text": "(The narrator Qutaibah said: This tradition has been narrated by Sa'id b. Abu Sa'id in my collection): The Messenger of Allah (ﷺ) said: He who does not chant the Qur'an is not one of us."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي نَهِيكٍ، عَنْ سَعْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This tradition has also been transmitted by Sa'd (b. Abi Waqqas) from the Prophet (ﷺ) in a similar manner through a different chain of narrators."
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ حَمَّادٍ، حَدَّثَنَا عَبْدُ الْجَبَّارِ بْنُ الْوَرْدِ، قَالَ سَمِعْتُ ابْنَ أَبِي مُلَيْكَةَ، يَقُولُ قَالَ عُبَيْدُ اللَّهِ بْنُ أَبِي يَزِيدَ مَرَّ بِنَا أَبُو لُبَابَةَ فَاتَّبَعْنَاهُ حَتَّى دَخَلَ بَيْتَهُ فَدَخَلْنَا عَلَيْهِ فَإِذَا رَجُلٌ رَثُّ الْبَيْتِ رَثُّ الْهَيْئَةِ فَسَمِعْتُهُ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لَيْسَ مِنَّا مَنْ لَمْ يَتَغَنَّ بِالْقُرْآنِ ‏\"‏ ‏.‏ قَالَ فَقُلْتُ لاِبْنِ أَبِي مُلَيْكَةَ يَا أَبَا مُحَمَّدٍ أَرَأَيْتَ إِذَا لَمْ يَكُنْ حَسَنَ الصَّوْتِ قَالَ يُحَسِّنُهُ مَا اسْتَطَاعَ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuLubabah:",
+        "text": "Ubaydullah ibn Yazid said: AbuLubabah passed by us and we followed him till he entered his house, and we also entered it. \n\n\n\n\n\nThere was a man in a rusty house and in shabby condition. I heard him say: I heard the Messenger of Allah (ﷺ) say: He is not one of us who does not chant the Qur'an. \n\n\n\n\n\nI (the narrator AbdulJabbar) said to Ibn AbuMulaykah: AbuMuhammad, what do you think if a person does not have pleasant voice? He said: He should recite with pleasant voice as much as possible."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، قَالَ قَالَ وَكِيعٌ وَابْنُ عُيَيْنَةَ يَعْنِي يَسْتَغْنِي بِهِ ‏.‏",
+      "english": {
+        "narrator": "Waki' and Ibn 'Uyainah said (explaining the meaning of taghanni):",
+        "text": "This means that the Qur'an makes a man neglect all other things, and be content with it."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي عُمَرُ بْنُ مَالِكٍ، وَحَيْوَةُ، عَنِ ابْنِ الْهَادِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَا أَذِنَ اللَّهُ لِشَىْءٍ مَا أَذِنَ لِنَبِيٍّ حَسَنِ الصَّوْتِ يَتَغَنَّى بِالْقُرْآنِ يَجْهَرُ بِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "Allah has not listened to anything as He does to a Prophet chanting the Qur'an with a loud voice."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، أَخْبَرَنَا ابْنُ إِدْرِيسَ، عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، عَنْ عِيسَى بْنِ فَائِدٍ، عَنْ سَعْدِ بْنِ عُبَادَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَا مِنِ امْرِئٍ يَقْرَأُ الْقُرْآنَ يَنْسَاهُ إِلاَّ لَقِيَ اللَّهَ عَزَّ وَجَلَّ يَوْمَ الْقِيَامَةِ أَجْذَمَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Sa'd ibn Ubadah:",
+        "text": "The Prophet (ﷺ) said: No man recites the Qur'an, then forgets it, but will meet Allah on the Day of Judgment in a maimed condition (or empty-handed, or with no excuse)."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدٍ الْقَارِيِّ، قَالَ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ، يَقُولُ سَمِعْتُ هِشَامَ بْنَ حَكِيمِ بْنِ حِزَامٍ، يَقْرَأُ سُورَةَ الْفُرْقَانِ عَلَى غَيْرِ مَا أَقْرَؤُهَا وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَقْرَأَنِيهَا فَكِدْتُ أَنْ أَعْجَلَ عَلَيْهِ ثُمَّ أَمْهَلْتُهُ حَتَّى انْصَرَفَ ثُمَّ لَبَّبْتُهُ بِرِدَائِهِ فَجِئْتُ بِهِ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ إِنِّي سَمِعْتُ هَذَا يَقْرَأُ سُورَةَ الْفُرْقَانِ عَلَى غَيْرِ مَا أَقْرَأْتَنِيهَا ‏.‏ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اقْرَأْ ‏\"‏ ‏.‏ فَقَرَأَ الْقِرَاءَةَ الَّتِي سَمِعْتُهُ يَقْرَأُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ هَكَذَا أُنْزِلَتْ ‏\"‏ ‏.‏ ثُمَّ قَالَ لِي ‏\"‏ اقْرَأْ ‏\"‏ ‏.‏ فَقَرَأْتُ فَقَالَ ‏\"‏ هَكَذَا أُنْزِلَتْ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ إِنَّ هَذَا الْقُرْآنَ أُنْزِلَ عَلَى سَبْعَةِ أَحْرُفٍ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Umar b. al-Khattab said:",
+        "text": "I heard Hisham b. Hakim (b. Hizam) reciting Surah al-Furqan in a different manner from my way of reciting, and the Messenger of Allah (ﷺ) had taught me to recite it. I nearly spoke sharply to him, but I delayed till he had finished. Then I caught his cloak at the neck, and I brought him to the Messenger of Allah (ﷺ). I said: Messenger of Allah, I heard this man reciting Surah al-Furqan in a manner different from that in which you taught me to recite it. The Messenger of Allah (ﷺ) the told him to recite it. He then recited in the manner I heard him recite. The Messenger of Allah (ﷺ) said: Thus was it sent down. He then said to me: Recite, I recited (it). He then said: Thus was it sent down. He said: The Qur'an was sent down in seven modes of reading, so recite according to what comes most easily."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، قَالَ قَالَ الزُّهْرِيُّ إِنَّمَا هَذِهِ الأَحْرُفُ فِي الأَمْرِ الْوَاحِدِ لَيْسَ تَخْتَلِفُ فِي حَلاَلٍ وَلاَ حَرَامٍ ‏.‏",
+      "english": {
+        "narrator": "Al-Zuhri said:",
+        "text": "These modes of reading aimed at the same point, not different in respect of lawful and unlawful."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا هَمَّامُ بْنُ يَحْيَى، عَنْ قَتَادَةَ، عَنْ يَحْيَى بْنِ يَعْمُرَ، عَنْ سُلَيْمَانَ بْنِ صُرَدٍ الْخُزَاعِيِّ، عَنْ أُبَىِّ بْنِ كَعْبٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ يَا أُبَىُّ إِنِّي أُقْرِئْتُ الْقُرْآنَ فَقِيلَ لِي عَلَى حَرْفٍ أَوْ حَرْفَيْنِ فَقَالَ الْمَلَكُ الَّذِي مَعِي قُلْ عَلَى حَرْفَيْنِ ‏.‏ قُلْتُ عَلَى حَرْفَيْنِ ‏.‏ فَقِيلَ لِي عَلَى حَرْفَيْنِ أَوْ ثَلاَثَةٍ ‏.‏ فَقَالَ الْمَلَكُ الَّذِي مَعِي قُلْ عَلَى ثَلاَثَةٍ ‏.‏ قُلْتُ عَلَى ثَلاَثَةٍ ‏.‏ حَتَّى بَلَغَ سَبْعَةَ أَحْرُفٍ ثُمَّ قَالَ لَيْسَ مِنْهَا إِلاَّ شَافٍ كَافٍ إِنْ قُلْتَ سَمِيعًا عَلِيمًا عَزِيزًا حَكِيمًا مَا لَمْ تَخْتِمْ آيَةَ عَذَابٍ بِرَحْمَةٍ أَوْ آيَةَ رَحْمَةٍ بِعَذَابٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ubayy b. Ka'b reported:",
+        "text": "The Prophet (ﷺ) said: \"Ubayy, I was asked to recite the Qur'an and I was asked: 'In one mode or two modes?' The angel that accompanied me said: 'Say, in two modes', I said: 'In two modes', I was asked again: 'In two or three modes'. The matter reached up to seven modes. He then said: 'Each mode is sufficiently health-giving, whether you utter 'all-hearing and all-knowing' or instead 'all-powerful and all-wise'. This is valid until you finish the verse indicating punishment on mercy and finish the verse indicating mercy on punishment.\""
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ أُبَىِّ بْنِ كَعْبٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ عِنْدَ أَضَاةِ بَنِي غِفَارٍ فَأَتَاهُ جِبْرِيلُ صلى الله عليه وسلم فَقَالَ إِنَّ اللَّهَ عَزَّ وَجَلَّ يَأْمُرُكَ أَنْ تُقْرِئَ أُمَّتَكَ عَلَى حَرْفٍ ‏.‏ قَالَ ‏\n\"‏ أَسْأَلُ اللَّهَ مُعَافَاتَهُ وَمَغْفِرَتَهُ إِنَّ أُمَّتِي لاَ تُطِيقُ ذَلِكَ ‏\"‏ ‏.‏ ثُمَّ أَتَاهُ ثَانِيَةً فَذَكَرَ نَحْوَ هَذَا حَتَّى بَلَغَ سَبْعَةَ أَحْرُفٍ قَالَ إِنَّ اللَّهَ يَأْمُرُكَ أَنْ تُقْرِئَ أُمَّتَكَ عَلَى سَبْعَةِ أَحْرُفٍ فَأَيُّمَا حَرْفٍ قَرَءُوا عَلَيْهِ فَقَدْ أَصَابُوا ‏.‏",
+      "english": {
+        "narrator": "Ubayy b. Ka'b said:",
+        "text": "The Prophet (ﷺ) was present at the pool of Banu Ghifar, Gabriel came to him and said: \"Allah has commanded you to make your community read (the Qur'an) in one harf. He (the Prophet) said: 'I beg Allah His pardon and forgiveness; my community has not strength to do so'. He then came for the second time and told him the same thing till he reached up to seven harfs. Finally, he said: 'Allah has commanded you to make your community read (the Qur'an) in seven harfs; in whichever mode they read, that will be correct."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ ذَرٍّ، عَنْ يُسَيْعٍ الْحَضْرَمِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ الدُّعَاءُ هُوَ الْعِبَادَةُ ‏{‏ قَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ‏}‏ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated An-Nu'man ibn Bashir:",
+        "text": "The Prophet (ﷺ) said: Supplication (du'a') is itself the worship. \n\n\n\n\n\n(He then recited:) \"And your Lord said: Call on Me, I will answer you\" (xI.60)."
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، عَنْ زِيَادِ بْنِ مِخْرَاقٍ، عَنْ أَبِي نُعَامَةَ، عَنِ ابْنٍ لِسَعْدٍ، أَنَّهُ قَالَ سَمِعَنِي أَبِي، وَأَنَا أَقُولُ اللَّهُمَّ، إِنِّي أَسْأَلُكَ الْجَنَّةَ وَنَعِيمَهَا وَبَهْجَتَهَا وَكَذَا وَكَذَا وَأَعُوذُ بِكَ مِنَ النَّارِ وَسَلاَسِلِهَا وَأَغْلاَلِهَا وَكَذَا وَكَذَا فَقَالَ يَا بُنَىَّ إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ سَيَكُونُ قَوْمٌ يَعْتَدُونَ فِي الدُّعَاءِ ‏\"‏ ‏.‏ فَإِيَّاكَ أَنْ تَكُونَ مِنْهُمْ إِنْ أُعْطِيتَ الْجَنَّةَ أُعْطِيتَهَا وَمَا فِيهَا مِنَ الْخَيْرِ وَإِنْ أُعِذْتَ مِنَ النَّارِ أُعِذْتَ مِنْهَا وَمَا فِيهَا مِنَ الشَّرِّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Sa'd ibn AbuWaqqas:",
+        "text": "Ibn Sa'd said: My father (Sa'd ibn AbuWaqqas) heard me say: O Allah, I ask Thee for Paradise, its blessings, its pleasure and such-and-such, and such-and-such; I seek refuge in Thee from Hell, from its chains, from its collars, and from such-and-such, and from such-and-such. He said: I heard the Messenger of Allah (ﷺ) say: There will be people who will exaggerate in supplication. You should not be one of them. If you are granted Paradise, you will be granted all what is good therein; if you are protected from Hell, you will be protected from what is evil therein."
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنَا حَيْوَةُ، أَخْبَرَنِي أَبُو هَانِئٍ، حُمَيْدُ بْنُ هَانِئٍ أَنَّ أَبَا عَلِيٍّ، عَمْرَو بْنَ مَالِكٍ حَدَّثَهُ أَنَّهُ، سَمِعَ فَضَالَةَ بْنَ عُبَيْدٍ، صَاحِبَ رَسُولِ اللَّهِ صلى الله عليه وسلم يَقُولُ سَمِعَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَجُلاً يَدْعُو فِي صَلاَتِهِ لَمْ يُمَجِّدِ اللَّهَ تَعَالَى وَلَمْ يُصَلِّ عَلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ عَجِلَ هَذَا ‏\"‏ ‏.‏ ثُمَّ دَعَاهُ فَقَالَ لَهُ أَوْ لِغَيْرِهِ ‏\"‏ إِذَا صَلَّى أَحَدُكُمْ فَلْيَبْدَأْ بِتَحْمِيدِ رَبِّهِ جَلَّ وَعَزَّ وَالثَّنَاءِ عَلَيْهِ ثُمَّ يُصَلِّي عَلَى النَّبِيِّ صلى الله عليه وسلم ثُمَّ يَدْعُو بَعْدُ بِمَا شَاءَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Fudalah ibn Ubayd,:",
+        "text": "The Messenger of Allah (ﷺ) heard a person supplicating during prayer. He did not mention the greatness of Allah, nor did he invoke blessings on the Prophet (ﷺ). \n\n\n\n\n\nThe Messenger of Allah (ﷺ) said: He made haste. \n\n\n\n\n\nHe then called him and said either to him or to any other person: If any of you prays, he should mention the exaltation of his Lord in the beginning and praise Him; he should then invoke blessings on the Prophet (ﷺ); thereafter he should supplicate Allah for anything he wishes."
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنِ الأَسْوَدِ بْنِ شَيْبَانَ، عَنْ أَبِي نَوْفَلٍ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَسْتَحِبُّ الْجَوَامِعَ مِنَ الدُّعَاءِ وَيَدَعُ مَا سِوَى ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "The Messenger of Allah (ﷺ) liked comprehensive supplication and abandoned other kinds."
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَقُولَنَّ أَحَدُكُمُ اللَّهُمَّ اغْفِرْ لِي إِنْ شِئْتَ اللَّهُمَّ ارْحَمْنِي إِنْ شِئْتَ لِيَعْزِمِ الْمَسْأَلَةَ فَإِنَّهُ لاَ مُكْرِهَ لَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "\"One of you should not say (in his supplication): O Allah, forgive me if You please, show mercy to me if You please.' Rather, be firm in your asking, for no one can force Him.\""
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي عُبَيْدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ يُسْتَجَابُ لأَحَدِكُمْ مَا لَمْ يَعْجَلْ فَيَقُولُ قَدْ دَعَوْتُ فَلَمْ يُسْتَجَبْ لِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "\"One of you is granted an answer (to his supplication) provided he does not say: 'I prayed but I was not granted an answer.'\""
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ مُحَمَّدِ بْنِ أَيْمَنَ، عَنْ عَبْدِ اللَّهِ بْنِ يَعْقُوبَ بْنِ إِسْحَاقَ، عَمَّنْ حَدَّثَهُ عَنْ مُحَمَّدِ بْنِ كَعْبٍ الْقُرَظِيِّ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَسْتُرُوا الْجُدُرَ مَنْ نَظَرَ فِي كِتَابِ أَخِيهِ بِغَيْرِ إِذْنِهِ فَإِنَّمَا يَنْظُرُ فِي النَّارِ سَلُوا اللَّهَ بِبُطُونِ أَكُفِّكُمْ وَلاَ تَسْأَلُوهُ بِظُهُورِهَا فَإِذَا فَرَغْتُمْ فَامْسَحُوا بِهَا وُجُوهَكُمْ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رُوِيَ هَذَا الْحَدِيثُ مِنْ غَيْرِ وَجْهٍ عَنْ مُحَمَّدِ بْنِ كَعْبٍ كُلُّهَا وَاهِيَةٌ وَهَذَا الطَّرِيقُ أَمْثَلُهَا وَهُوَ ضَعِيفٌ أَيْضًا ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Prophet (ﷺ) said: Do not cover the walls. He who sees the letter of his brother without his permission, sees Hell-fire. \n\n\n\n\n\nSupplicate Allah with the palms of your hands; do not supplicate Him with their backs upwards. When you finish supplication, wipe your faces with them.\n\n\nAbu Dawud said: This tradition has been transmitted through a different chains by Muhammad b. Ka'b; all of them are weak. The chain I have narrated is best of them; but it is  also weak."
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الْحَمِيدِ الْبَهْرَانِيُّ، قَالَ قَرَأْتُهُ فِي أَصْلِ إِسْمَاعِيلَ - يَعْنِي ابْنَ عَيَّاشٍ - حَدَّثَنِي ضَمْضَمٌ عَنْ شُرَيْحٍ حَدَّثَنَا أَبُو ظَبْيَةَ أَنَّ أَبَا بَحْرِيَّةَ السَّكُونِيَّ حَدَّثَهُ عَنْ مَالِكِ بْنِ يَسَارٍ السَّكُونِيِّ ثُمَّ الْعَوْفِيِّ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا سَأَلْتُمُ اللَّهَ فَاسْأَلُوهُ بِبُطُونِ أَكُفِّكُمْ وَلاَ تَسْأَلُوهُ بِظُهُورِهَا ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ سُلَيْمَانُ بْنُ عَبْدِ الْحَمِيدِ لَهُ عِنْدَنَا صُحْبَةٌ يَعْنِي مَالِكَ بْنَ يَسَارٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Malik ibn Yasar as-Sakuni, al-Awfi:",
+        "text": "The Prophet (ﷺ) said: When you make requests to Allah, do so with the palms of your hands, and not backs, upwards.\n\n\n\nAbu Dawud said: The narrator Sulaiman b. 'Abd al-Hamid said: according to us Malik b. Yasar was a Companion of the Prophet (ﷺ)."
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ، حَدَّثَنَا سَلْمُ بْنُ قُتَيْبَةَ، عَنْ عُمَرَ بْنِ نَبْهَانَ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَدْعُو هَكَذَا بِبَاطِنِ كَفَّيْهِ وَظَاهِرِهِمَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "I saw the Messenger of Allah (ﷺ) supplicating Allah in this manner with the palms of his hands and also with their backs upwards."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُؤَمَّلُ بْنُ الْفَضْلِ الْحَرَّانِيُّ، حَدَّثَنَا عِيسَى، - يَعْنِي ابْنَ يُونُسَ - حَدَّثَنَا جَعْفَرٌ، - يَعْنِي ابْنَ مَيْمُونٍ صَاحِبَ الأَنْمَاطِ - حَدَّثَنِي أَبُو عُثْمَانَ، عَنْ سَلْمَانَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ رَبَّكُمْ تَبَارَكَ وَتَعَالَى حَيِيٌّ كَرِيمٌ يَسْتَحْيِي مِنْ عَبْدِهِ إِذَا رَفَعَ يَدَيْهِ إِلَيْهِ أَنْ يَرُدَّهُمَا صِفْرًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Salman al-Farsi:",
+        "text": "The Prophet (ﷺ) said: Your Lord is munificent and generous, and is ashamed to turn away empty the hands of His servant when he raises them to Him."
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، - يَعْنِي ابْنَ خَالِدٍ - حَدَّثَنِي الْعَبَّاسُ بْنُ عَبْدِ اللَّهِ بْنِ مَعْبَدِ بْنِ الْعَبَّاسِ بْنِ عَبْدِ الْمُطَّلِبِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ الْمَسْأَلَةُ أَنْ تَرْفَعَ، يَدَيْكَ حَذْوَ مَنْكِبَيْكَ أَوْ نَحْوَهُمَا وَالاِسْتِغْفَارُ أَنْ تُشِيرَ بِأُصْبُعٍ وَاحِدَةٍ وَالاِبْتِهَالُ أَنْ تَمُدَّ يَدَيْكَ جَمِيعًا ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "Ikrimah quoted Ibn Abbas as saying: When asking for something you should raise your hands opposite to your shoulders; when asking for forgiveness you should point with one finger; and when making an earnest supplication you should spread out both your hands."
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنِي عَبَّاسُ بْنُ عَبْدِ اللَّهِ بْنِ مَعْبَدِ بْنِ عَبَّاسٍ، بِهَذَا الْحَدِيثِ قَالَ فِيهِ وَالاِبْتِهَالُ هَكَذَا وَرَفَعَ يَدَيْهِ وَجَعَلَ ظُهُورَهُمَا مِمَّا يَلِي وَجْهَهُ ‏.‏",
+      "english": {
+        "narrator": "In another version Ibn 'Abbas said:",
+        "text": "Earnest supplication should be made like this: he raised his hand and made his palms in the direction of his face."
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ حَمْزَةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنِ الْعَبَّاسِ بْنِ عَبْدِ اللَّهِ بْنِ مَعْبَدِ بْنِ عَبَّاسٍ، عَنْ أَخِيهِ، إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ فَذَكَرَ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The above mentioned tradition has also been transmitted in a similar manner by Ibn 'Abbas from the Messenger of Allah (ﷺ)."
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ حَفْصِ بْنِ هَاشِمِ بْنِ عُتْبَةَ بْنِ أَبِي وَقَّاصٍ، عَنِ السَّائِبِ بْنِ يَزِيدَ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا دَعَا فَرَفَعَ يَدَيْهِ مَسَحَ وَجْهَهُ بِيَدَيْهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Yazid ibn Sa'id al-Kindi:",
+        "text": "When the Prophet (ﷺ) made supplication (to Allah) he would raise his hands and wipe his face with his hands."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ مَالِكِ بْنِ مِغْوَلٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سَمِعَ رَجُلاً يَقُولُ اللَّهُمَّ إِنِّي أَسْأَلُكَ أَنِّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لاَ إِلَهَ إِلاَّ أَنْتَ الأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ‏.‏ فَقَالَ ‏\n\"‏ لَقَدْ سَأَلْتَ اللَّهَ بِالاِسْمِ الَّذِي إِذَا سُئِلَ بِهِ أَعْطَى وَإِذَا دُعِيَ بِهِ أَجَابَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Buraydah ibn al-Hasib:",
+        "text": "The Messenger of Allah (ﷺ) heard a man saying: O Allah, I ask Thee, I bear witness that there is no god but Thou, the One, He to Whom men repair, Who has not begotten, and has not been begotten, and to Whom no one is equal, and he said: You have supplicated Allah using His Greatest Name, when asked with this name He gives, and when supplicated by this name he answers."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ خَالِدٍ الرَّقِّيُّ، حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، حَدَّثَنَا مَالِكُ بْنُ مِغْوَلٍ، بِهَذَا الْحَدِيثِ قَالَ فِيهِ ‏\n\"‏ لَقَدْ سَأَلْتَ اللَّهَ عَزَّ وَجَلَّ بِاسْمِهِ الأَعْظَمِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "The aforesaid tradition has been transmitted through a different chain of narrators by Malik b. Mighwal. This verso adds:",
+        "text": "\"He has asked Allah using His Greatest Name.\""
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عُبَيْدِ اللَّهِ الْحَلَبِيُّ، حَدَّثَنَا خَلَفُ بْنُ خَلِيفَةَ، عَنْ حَفْصٍ، - يَعْنِي ابْنَ أَخِي أَنَسٍ - عَنْ أَنَسٍ، أَنَّهُ كَانَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم جَالِسًا وَرَجُلٌ يُصَلِّي ثُمَّ دَعَا اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لاَ إِلَهَ إِلاَّ أَنْتَ الْمَنَّانُ بَدِيعُ السَّمَوَاتِ وَالأَرْضِ يَا ذَا الْجَلاَلِ وَالإِكْرَامِ يَا حَىُّ يَا قَيُّومُ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ لَقَدْ دَعَا اللَّهَ بِاسْمِهِ الْعَظِيمِ الَّذِي إِذَا دُعِيَ بِهِ أَجَابَ وَإِذَا سُئِلَ بِهِ أَعْطَى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "I was sitting with the Messenger of Allah (ﷺ) and a man was offering prayer. He then made supplication: O Allah, I ask Thee by virtue of the fact that praise is due to Thee, there is no deity but Thou, Who showest favour and beneficence, the Originator of the Heavens and the earth, O Lord of Majesty and Splendour, O Living One, O Eternal One. \n\n\n\n\n\nThe Prophet (ﷺ) then said: He has supplicated Allah using His Greatest Name, when supplicated by this name, He answers, and when asked by this name He gives."
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ أَبِي زِيَادٍ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أَسْمَاءَ بِنْتِ يَزِيدَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ اسْمُ اللَّهِ الأَعْظَمُ فِي هَاتَيْنِ الآيَتَيْنِ ‏{‏ وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ لاَ إِلَهَ إِلاَّ هُوَ الرَّحْمَنُ الرَّحِيمُ ‏}‏ وَفَاتِحَةُ سُورَةِ آلِ عِمْرَانَ ‏{‏ الم * اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَىُّ الْقَيُّومُ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "'Asma daughter of Yazid reported the Prophet (ﷺ) as saying:",
+        "text": "\"Allah's Greatest Names is in these two verses: \"And your Ilaah (God) is One Ilaah (God), none has the right to be worshipped but He, the Ever-Merciful, the Mercy-Giving' and the beginning of Surah Al 'Imran, \"A.L.M Allah, there is no deity but He, the Living, the Eternal.\""
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنِ الأَعْمَشِ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ عَطَاءٍ، عَنْ عَائِشَةَ، قَالَتْ سُرِقَتْ مِلْحَفَةٌ لَهَا فَجَعَلَتْ تَدْعُو عَلَى مَنْ سَرَقَهَا فَجَعَلَ النَّبِيُّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ تُسَبِّخِي عَنْهُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ لاَ تُسَبِّخِي أَىْ لاَ تُخَفِّفِي عَنْهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "Ata' said: The quilt of Aisha was stolen. She began to curse the person who had stolen it. The Prophet (ﷺ) began to tell her: Do not lighten him.\n\n\n\nAbu Dawud said: The meaning of the Arabic words la tasbikhi 'anhu means \"do not lessen him or lighten him\"."
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، عَنْ عُمَرَ، - رضى الله عنه - قَالَ اسْتَأْذَنْتُ النَّبِيَّ صلى الله عليه وسلم فِي الْعُمْرَةِ فَأَذِنَ لِي وَقَالَ ‏\"‏ لاَ تَنْسَنَا يَا أُخَىَّ مِنْ دُعَائِكَ ‏\"‏ ‏.‏ فَقَالَ كَلِمَةً مَا يَسُرُّنِي أَنَّ لِي بِهَا الدُّنْيَا قَالَ شُعْبَةُ ثُمَّ لَقِيتُ عَاصِمًا بَعْدُ بِالْمَدِينَةِ فَحَدَّثَنِيهِ وَقَالَ ‏\"‏ أَشْرِكْنَا يَا أُخَىَّ فِي دُعَائِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umar ibn al-Khattab:",
+        "text": "I sought permission of the Prophet (ﷺ) to perform umrah. He gave me permission and said: My younger brother, do not forget me in your supplication. \n\n\n\n\n\nHe (Umar) said: He told me a word that pleased me so much so that I would not have been pleased if I were given the whole world. \n\n\n\n\n\nThe narrator Shu'bah said: I then met Asim at Medina. He narrated to me this tradition and reported the wordings: \"My younger brother, share me in your supplication.\""
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 8,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ، قَالَ مَرَّ عَلَىَّ النَّبِيُّ صلى الله عليه وسلم وَأَنَا أَدْعُو بِأُصْبُعَىَّ فَقَالَ ‏\n\"‏ أَحِّدْ أَحِّدْ ‏\"‏ ‏.‏ وَأَشَارَ بِالسَّبَّابَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Sa'd ibn AbuWaqqas:",
+        "text": "The Prophet (ﷺ) passed by me while I was supplicating by pointing with two fingers of mine. He said: Point with one finger; point with one finger. He then himself pointed with the forefinger."
+      }
+    }
+  ]
+}

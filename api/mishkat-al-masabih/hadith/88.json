@@ -1,0 +1,16 @@
+{
+  "id": 88,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" لَوْ أَمْسَكَ اللَّهُ الْقَطْرَ عَنْ عِبَادِهِ خَمْسَ سِنِينَ ثُمَّ أَرْسَلَهُ لَأَصْبَحَتْ طَائِفَةٌ مِنَ النَّاسِ كَافِرِينَ يَقُولُونَ: سُقِينَا بِنَوْءِ الْمِجْدَحِ \". رَوَاهُ النَّسَائِيّ",
+  "english": {
+    "narrator": "Abu Sa'id reported God’s messenger as saying:",
+    "text": "“If God were to withhold rain from his servants for five years and then send it, a section of mankind would be infidels saying they had been supplied with water through the agency of the rainy star al-Mijdah*.”\n\nNasa’i transmitted it.\n\n* The word comet from a root meaning to stir up, and the plural is used as a general name for stars which are said to stir up rain, the singular used here may refer to the Hyades, but other explanations are also given. As rainy seasons were connected with particular times at which certain stars rose, the rain was attributed to them."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

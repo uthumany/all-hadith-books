@@ -1,0 +1,16 @@
+{
+  "id": 231,
+  "chapterId": 19,
+  "bookId": 14,
+  "arabic": "وَعَنْ مُحَمَّدِ بْنِ أَبِي الْمُجَالِدِ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى قَالَ: قُلْتُ: هَلْ كُنْتُمْ تُخَمِّسُونَ الطَّعَامَ فِي عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ؟ قَالَ: أَصَبْنَا طَعَامًا يَوْمَ خَيْبَرَ فَكَانَ الرَّجُلُ يَجِيءُ فَيَأْخُذُ مِنْهُ مقدارَ مَا يكفيهِ ثمَّ ينْصَرف. وَرَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "",
+    "text": "Muhammad b. Abul Mujalid reported ‘Abdallah b. Abu Aufa as saying he asked whether they set aside the fifth of food in the time of God’s Messenger and received the reply that on the day of Khaibar they captured food and a man would come and take as much of it as he needed and then go away. \n\nAbu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

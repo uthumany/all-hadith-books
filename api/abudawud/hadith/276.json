@@ -1,0 +1,16 @@
+{
+  "id": 276,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ الْغَزَّالُ، حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، وَمَنْصُورٍ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا قَالَ سُفْيَانُ قَالَ أَحَدُهُمَا ‏\"‏ إِذَا أَتَيْتَ فِرَاشَكَ طَاهِرًا ‏\"‏ ‏.‏ وَقَالَ الآخَرُ ‏\"‏ تَوَضَّأْ وُضُوءَكَ لِلصَّلاَةِ ‏\"‏ ‏.‏ وَسَاقَ مَعْنَى مُعْتَمِرٍ ‏.‏",
+  "english": {
+    "narrator": "The tradition mentioned above has also been transmitted by al-Bara b. Azil from the prophet (May peace be upon him) to the same effect through a different chain of narrators. One transmitter said:",
+    "text": "when you go to your bed while you are in the state of purification. The other said: Perform ablution like the ablution for prayer. He then transmitted the tradition to the effect as Mu’tamir transmitted."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

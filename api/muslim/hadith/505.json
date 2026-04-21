@@ -1,0 +1,16 @@
+{
+  "id": 505,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Ibn Juraij narrated this hadith with the same chain of transmitters."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

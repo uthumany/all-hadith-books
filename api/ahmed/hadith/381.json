@@ -1,0 +1,16 @@
+{
+  "id": 381,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا بَهْزٌ، وَحَدَّثَنَا عَفَّانُ، قَالَا حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ الْبَصْرِيِّ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ رُفِعَ الْقَلَمُ عَنْ ثَلَاثَةٍ عَنْ النَّائِمِ حَتَّى يَسْتَيْقِظَ وَعَنْ الْمَعْتُوهِ أَوْ قَالَ الْمَجْنُونِ حَتَّى يَعْقِلَ وَعَنْ الصَّغِيرِ حَتَّى يَشِبَّ‏.‏",
+  "english": {
+    "narrator": "It was narrated from al-Hasan al-Basri, from `Ali (رضي الله عنه) that The Prophet (ﷺ) said:",
+    "text": "`The Pen has been lifted from three; from the sleeper until he wakes up, from the crazy - or insane- one until he comes back to his senses, and from the minor until he grows up.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 419,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى، عَنِ ابْنِ أَبِي لَيْلَى، حَدَّثَنِي أَخِي، عَنْ أَبِي، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا عَطَسَ أَحَدُكُمْ فَلْيَقُلْ الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ وَلْيُقَلْ لَهُ يَرْحَمُكُمْ اللَّهُ وَلْيَقُلْ هُوَ يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ فَقُلْتُ لَهُ عَنْ أَبِي أَيُّوبَ قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ‏.‏",
+  "english": {
+    "narrator": "It was narrated from `Ali (رضي الله عنه) that The Prophet (ﷺ) said:",
+    "text": "`If one of you sneezes, let him say: Praise be to Allah in all situations. Let others say to him; May Allah have mercy on you. And let him say May Allah guide you and rectify your condition.” I said to him: Is it from Abu Ayyoob? He said: `Ali (رضي الله عنه)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

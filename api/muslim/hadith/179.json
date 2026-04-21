@@ -1,0 +1,16 @@
+{
+  "id": 179,
+  "chapterId": 45,
+  "bookId": 2,
+  "arabic": "حَدَّثَنِي سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنِي حَفْصُ بْنُ مَيْسَرَةَ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ،\n عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ رُبَّ أَشْعَثَ مَدْفُوعٍ\n بِالأَبْوَابِ لَوْ أَقْسَمَ عَلَى اللَّهِ لأَبَرَّهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira reported Allah's Messenger (may peace he upon him) as saying:",
+    "text": "Many a person with disheveled hair and covered with dust is turned away from the doors (whereas he is held in such a high esteem by Allah) that if he were to adjure in the name of Allah (about anything) Allah would fulfil that."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

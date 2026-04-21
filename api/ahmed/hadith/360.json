@@ -1,0 +1,16 @@
+{
+  "id": 360,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، وَشُعْبَةَ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ عَبْدِ خَيْرٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ أَنَّهُ قَالَ أَلَا أُنَبِّئُكُمْ بِخَيْرِ هَذِهِ الْأُمَّةِ بَعْدَ نَبِيِّهَا أَبُو بَكْرٍ ثُمَّ عُمَرُ رَضِيَ اللَّهُ عَنْهُمَا‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Ali (رضي الله عنه) that he said:",
+    "text": "Shall I not tell you of the best of this ummah after its Prophet?  Abu Bakr, then ʻUmar."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

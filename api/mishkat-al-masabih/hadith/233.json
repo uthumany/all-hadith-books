@@ -1,0 +1,16 @@
+{
+  "id": 233,
+  "chapterId": 19,
+  "bookId": 14,
+  "arabic": "وَعَنِ الْقَاسِمِ مَوْلَى عَبْدِ الرَّحْمَنِ عَنْ بَعْضِ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: كنَّا نأكلُ الجَزورَ فِي الغزْوِ وَلَا نُقَسِّمُهُ حَتَّى إِذَا كُنَّا لَنَرْجِعُ إِلَى رِحَالِنَا وأخْرِجَتُنا مِنْهُ مَمْلُوءَة. رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "Al-Qasim the client of ‘Abd ar-Rahman quoted one of the Prophet’s companions as saying:",
+    "text": "We would eat a camel on an expedition without dividing it, and when we returned to our dwellings our saddle-bags would be full with its flesh.\n\nAbu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

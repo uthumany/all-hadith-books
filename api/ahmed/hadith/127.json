@@ -1,0 +1,16 @@
+{
+  "id": 127,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا حُجَيْنٌ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ عَبْدِ الْأَعْلَى، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ كَذَبَ عَلَيَّ فِي حُلْمِهِ كُلِّفَ عَقْدَ شَعِيرَةٍ يَوْمَ الْقِيَامَةِ‏.‏",
+  "english": {
+    "narrator": "It was narrated from `Ali bin Abi Talib (رضي الله عنه) that The Prophet (ﷺ) said:",
+    "text": "“Whoever tells a lie about seeing me in his dream will be ordered to tie a grain of barley on the Day of Resurrection.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

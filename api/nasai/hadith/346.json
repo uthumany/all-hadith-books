@@ -1,0 +1,16 @@
+{
+  "id": 346,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ بْنِ سَعِيدِ بْنِ كَثِيرِ بْنِ دِينَارٍ الْحِمْصِيُّ، عَنِ الْوَلِيدِ، عَنْ مَالِكٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمَّا انْتَهَى إِلَى مَقَامِ إِبْرَاهِيمَ قَرَأَ ‏{‏ وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى ‏}‏ فَصَلَّى رَكْعَتَيْنِ فَقَرَأَ فَاتِحَةَ الْكِتَابِ وَ ‏{‏ قُلْ يَا أَيُّهَا الْكَافِرُونَ ‏}‏ وَ ‏{‏ قُلْ هُوَ اللَّهُ أَحَدٌ ‏}‏ ثُمَّ عَادَ إِلَى الرُّكْنِ فَاسْتَلَمَهُ ثُمَّ خَرَجَ إِلَى الصَّفَا ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Jabir bin Abdullah that when the Messenger of Allah came to Maqam Ibrahim he recited:",
+    "text": "\"And take you the Maqam (place) of Ihrahim as a place of prayer.\" Then he prayed two Rakahs reciting the Opening of the Book (Al-Fatihah) said: \"Say: O you disbelievers\" and \"Say: He is Allah, (the) One.\" Then he went back to the Corner and touched it, then he went out to As-Safa."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

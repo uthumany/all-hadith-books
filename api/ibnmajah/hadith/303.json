@@ -1,0 +1,16 @@
+{
+  "id": 303,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَمُحَمَّدُ بْنُ الْوَلِيدِ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، قَالَ سَمِعْتُ جَابِرَ بْنَ سَمُرَةَ، يَقُولُ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَخْطُبُ قَائِمًا، غَيْرَ أَنَّهُ كَانَ يَقْعُدُ قَعْدَةً، ثُمَّ يَقُومُ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Simak bin Harb said:",
+    "text": "“I heard Jabir bin Samurah\nsay:\n‘The Messenger of Allah (ﷺ) used to deliver the sermon\nstanding,\nbut he used to sit down briefly, then stand up.’”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 726,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرٍو، - وَهُوَ ابْنُ دِينَارٍ - عَنْ جَابِرٍ، أَنَّ رَجُلاً، جَاءَ يَوْمَ الْجُمُعَةِ وَالنَّبِيُّ صلى الله عليه وسلم يَخْطُبُ فَقَالَ ‏\"‏ أَصَلَّيْتَ يَا فُلاَنُ ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ قَالَ ‏\"‏ قُمْ فَارْكَعْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Jabir said:",
+    "text": "A man came (to the mosque) while the Prophet (ﷺ) was giving the (Friday) sermon. He asked: Did you pray, so-and-so? He replied: No. He (ﷺ) said: Stand and pray."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

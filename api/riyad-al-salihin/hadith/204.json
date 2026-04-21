@@ -1,0 +1,16 @@
+{
+  "id": 204,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏لتؤدن الحقوق إلى أهلها يوم القيامة حتى يقاد للشاة الجلحاء من الشاة القرناء‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah bepleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"On the Resurrection Day, the rights will be paid to those to whom they are due so much so that a hornless sheep will be retaliated for by punishing the horned sheep which broke its horns\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 159,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «اكْتَحِلُوا بِالْإِثْمِدِ فَإِنَّهُ يَجْلُو الْبَصَرَ وَيُنْبِتُ الشَّعْرَ» . وَزَعَمَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَتْ لَهُ مُكْحُلَةٌ يَكْتَحِلُ بِهَا كُلَّ لَيْلَةٍ ثَلَاثَةً فِي هَذِهِ وَثَلَاثَةً فِي هَذِه. رَوَاهُ التِّرْمِذِيّ",
+  "english": {
+    "narrator": "",
+    "text": "Ibn ‘Abbas reported the Prophet as saying, “Apply antimony, for it clears the sight and makes the hair grow.” And he asserted that the Prophet had a collyrium-case from which he applied collyrium every night in each eye three times. \nTirmidhi transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

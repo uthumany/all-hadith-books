@@ -1,0 +1,16 @@
+{
+  "id": 15,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، عَنْ يَحْيَى، - وَهُوَ ابْنُ سَعِيدٍ - عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَطَاءٌ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ خَلِيطِ التَّمْرِ وَالزَّبِيبِ وَالْبُسْرِ وَالرُّطَبِ‏.‏",
+  "english": {
+    "narrator": "'Ata' narrated from Jabir that:",
+    "text": "The Prophet  forbade mixing dried dates and raisins, and Al-Busr and ripe dates."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

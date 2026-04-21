@@ -1,0 +1,16 @@
+{
+  "id": 600,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُطِيلُ الْقِرَاءَةَ فِي الرَّكْعَتَيْنِ بَعْدَ الْمَغْرِبِ حَتَّى يَتَفَرَّقَ أَهْلُ الْمَسْجِدِ. رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "",
+    "text": "Ibn ‘Abbas said that God’s Messenger prolonged the recitation of the Qur’an in the two rak'as after the sunset prayer till the people in the mosque separated. \n\nAbu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 200,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "وَعَنْ عُقْبَةَ بْنِ اَلْحَارِثِ; { أَنَّهُ تَزَوَّجَ أُمَّ يَحْيَى بِنْتَ أَبِي إِهَابٍ, فَجَاءَتْ اِمْرَأَةٌ.‏ فَقَالَتْ: قَدْ أَرْضَعْتُكُمَا, فَسَأَلَ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-فَقَالَ: \n\"كَيْفَ وَقَدْ قِيلَ? \" فَفَارَقَهَا عُقْبَةُ.‏ وَنَكَحَتْ زَوْجًا غَيْرَهُ.‏ }  أَخْرَجَهُ اَلْبُخَارِيُّ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (88)‏.‏",
+  "english": {
+    "narrator": "Narrated 'Uqbah bin al-Harith:",
+    "text": "He married Umm Yahya, daughter of Abu Ihab, and a woman came and said, \"I have suckled both of you.\" So he asked the Prophet (ﷺ) and he replied, \"How (can you hesitate) while it has been said (that you are foster brothers and sisters)?\" 'Uqbah therefore separated from her and she married another husband.\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

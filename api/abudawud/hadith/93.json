@@ -1,0 +1,16 @@
+{
+  "id": 93,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، ح وَحَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَضَعَ - وَقَالَ قُتَيْبَةُ يَرْفَعَ الرَّجُلُ إِحْدَى - رِجْلَيْهِ عَلَى الأُخْرَى - زَادَ قُتَيْبَةُ - وَهُوَ مُسْتَلْقٍ عَلَى ظَهْرِهِ ‏.‏",
+  "english": {
+    "narrator": "Jabir said:",
+    "text": "The Messenger of Allah(ﷺ) forbade that a man should lie placing(and according to Qutaibah’s version: “should raise”) one of his legs over the other. Qutaibah’s version adds: When he was lying on his back."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

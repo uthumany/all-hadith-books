@@ -1,0 +1,16 @@
+{
+  "id": 361,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ جَابِرٍ، قَالَ كُنَّا يَوْمَ الْحُدَيْبِيَةِ أَلْفًا وَأَرْبَعَمِائَةٍ‏.‏",
+  "english": {
+    "narrator": "Narrated Jabir:",
+    "text": "We were one thousand and four hundred on the Day of Al-Hudaibiya."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

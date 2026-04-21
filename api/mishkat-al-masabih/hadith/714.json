@@ -1,0 +1,16 @@
+{
+  "id": 714,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَن الْأَعْرَج قَالَ: مَا أَدْرَكْنَا النَّاسَ إِلَّا وَهُمْ يَلْعَنُونَ الْكَفَرَةَ فِي رَمَضَانَ قَالَ: وَكَانَ الْقَارِئُ يَقْرَأُ سُورَةَ الْبَقَرَةِ فِي ثَمَانِ رَكَعَاتٍ وَإِذَا قَامَ بِهَا فِي ثِنْتَيْ عَشْرَةَ رَكْعَةً رَأَى النَّاسُ أَنه قد خفف. رَوَاهُ مَالك",
+  "english": {
+    "narrator": "Al-A‘raj said:",
+    "text": "I never came upon the people without hearing them cursing the infidels during Ramadan. The reader recited sura al-Baqara (Al-Qur’an; 2) in the course of eight rak'as, and when he made it serve for twelve rak'as the people thought he had shortened the prayer. \n\nMalik transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

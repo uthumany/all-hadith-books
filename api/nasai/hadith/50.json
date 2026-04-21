@@ -1,0 +1,16 @@
+{
+  "id": 50,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ كُلُّ مُسْكِرٍ حَرَامٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Hurairah said:",
+    "text": "\"The Messenger of Allah  said: 'Every intoxicant is unlawful.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 225,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ فَاطِمَةَ بِنْتِ الْمُنْذِرِ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ، أَنَّ امْرَأَةً، قَالَتْ يَا رَسُولَ اللَّهِ إِنَّ لِي جَارَةً - تَعْنِي ضَرَّةً - هَلْ عَلَىَّ جُنَاحٌ إِنْ تَشَبَّعْتُ لَهَا بِمَا لَمْ يُعْطِ زَوْجِي قَالَ ‏\n\"‏ الْمُتَشَبِّعُ بِمَا لَمْ يُعْطَ كَلاَبِسِ ثَوْبَىْ زُورٍ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Asma’, daughter of Abu Bakr, told of a woman who said :",
+    "text": "Messenger of Allah! I have a fellow-wife; will it be wrong for me to boast of receiving from my husband what he does not give me? He replied: the one who boasts of receiving what he has not been given is like him who has put on two garments of falsehood."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

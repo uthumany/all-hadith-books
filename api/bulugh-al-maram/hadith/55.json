@@ -1,0 +1,16 @@
+{
+  "id": 55,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا قَاتَلَ أَحَدُكُمْ, فَلْيَتَجَنَّبِ اَلْوَجْهَ }  مُتَّفَقٌ عَلَيْهِ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (2559)‏، ومسلم (2612)‏ واللفظ لمسلم، ولتمام تخريج الحديث انظر\" التوحيد\" لابن خزيمة (35 بتحقيقي)‏ وما بعده.‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“When any of you fights, he must avoid (striking) the face.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

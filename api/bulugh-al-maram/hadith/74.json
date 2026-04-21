@@ -1,0 +1,16 @@
+{
+  "id": 74,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ طُوبَى لِمَنْ شَغَلَهُ عَيْبَهُ عَنْ عُيُوبِ اَلنَّاسِ }  أَخْرَجَهُ اَلْبَزَّارُ بِإِسْنَادٍ حَسَنٍ.‏  1‏ .‏‏1 ‏- ضعيف جدا وله شواهد، ولكنها كلها ضعيفة ‏-أيضا‏- كما قال الحافظ العراقي.‏",
+  "english": {
+    "narrator": "Anas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Blessed is he who is preoccupied with his defects rather than those of other people.” Related by Al-Bazzar with a good chain of narrators."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

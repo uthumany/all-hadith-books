@@ -1,0 +1,16 @@
+{
+  "id": 221,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن خولة بنت عامر الأنصاري ، وهي امرأة حمزة رضي الله عنه وعنها، قالت ‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\n\"‏إن رجالاً يتخوضون في مال الله بغير حق، فلهم النار يوم القيامة‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Khaulah bint 'Thamir (May Allah bepleased with her) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Many people misappropriate (acquire wrongfully) Allah's Property (meaning Muslims' property). These people will be cast in Hell on the Day of Resurrection\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

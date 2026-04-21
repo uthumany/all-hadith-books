@@ -1,0 +1,16 @@
+{
+  "id": 94,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا النُّفَيْلِيُّ، حَدَّثَنَا مَالِكٌ، ح وَحَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، أَنَّهُ رَأَى رَسُولَ اللَّهِ صلى الله عليه وسلم مُسْتَلْقِيًا - قَالَ الْقَعْنَبِيُّ - فِي الْمَسْجِدِ وَاضِعًا إِحْدَى رِجْلَيْهِ عَلَى الأُخْرَى ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "‘Abbad b. Tamim quoted his paternal uncle as saying that he had seen the Messenger of Allah(ﷺ) lying on his back in the mosque according to Qa’nabi’s version) placing one foot over the other."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

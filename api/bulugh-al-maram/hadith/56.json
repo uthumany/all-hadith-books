@@ -1,0 +1,16 @@
+{
+  "id": 56,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْهُ أَنَّ رَجُلاً قَالَ: { يَا رَسُولَ اَللَّهِ! أَوْصِنِي.‏ فَقَالَ: لَا تَغْضَبْ, فَرَدَّدَ مِرَارًا.‏ قَالَ: لَا تَغْضَبْ }  أَخْرَجَهُ اَلْبُخَارِيُّ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6116)‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated, ‘A man said, “O Messenger of Allah, advise me.” The Messenger of Allah (ﷺ) said:",
+    "text": "“Do not get angry.” The man repeated that several times and he replied, “Do not get angry.” Related by Al-Bukhari."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

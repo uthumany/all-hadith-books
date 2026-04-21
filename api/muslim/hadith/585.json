@@ -1,0 +1,16 @@
+{
+  "id": 585,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ مُوسَى الْجُهَنِيِّ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ بِمِثْلِهِ ‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar reported:",
+    "text": "I heard Allah's Messenger (ﷺ) saying like this."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

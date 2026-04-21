@@ -1,0 +1,16 @@
+{
+  "id": 107,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو سَعِيدٍ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِلْمُسْلِمِ عَلَى الْمُسْلِمِ مِنْ الْمَعْرُوفِ سِتٌّ يُسَلِّمُ عَلَيْهِ إِذَا لَقِيَهُ وَيُشَمِّتُهُ إِذَا عَطَسَ وَيَعُودُهُ إِذَا مَرِضَ وَيُجِيبُهُ إِذَا دَعَاهُ وَيَشْهَدُهُ إِذَا تُوُفِّيَ وَيُحِبُّ لَهُ مَا يُحِبُّ لِنَفْسِهِ وَيَنْصَحُ لَهُ بِالْغَيْبِ\nحَدَّثَنَا حُسَيْنٌ حَدَّثَنَا إِسْرَائِيلُ عَنْ أَبِي إِسْحَاقَ عَنِ الْحَارِثِ فَذَكَرَ نَحْوَهُ بِإِسْنَادِهِ وَمَعْنَاهُ‏.‏",
+  "english": {
+    "narrator": "I was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "“The Muslim has the right to six acts of kindness from his fellow Muslim: he should greet him with salam when he meets him; he should say ‘Yarhamukallah (may Allah have mercy on you) when he sneezes; he should visit him when he is sick; he should respond to him when he invites him; he should attend his funeral when he dies, he should love for him what he loves for himself; and he should be sincere towards him when he is not present.`\n\n\nIt was narrated from Abu Ishaq from al-Harith... and he narrated a similar report with the same isnad."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

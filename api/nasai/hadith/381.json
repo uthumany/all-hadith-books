@@ -1,0 +1,16 @@
+{
+  "id": 381,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ الأَنْصَارِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي سَلَمَةَ، عَنِ ابْنِ عُمَرَ، قَالَ غَدَوْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ مِنًى إِلَى عَرَفَةَ فَمِنَّا الْمُلَبِّي وَمِنَّا الْمُكَبِّرُ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Ibn Umar said:",
+    "text": "\"We left Mina with the Messenger of Allah for AArafat, and some of us were reciting the Talbiyah and some reciting the Takbir.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

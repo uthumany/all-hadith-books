@@ -1,0 +1,16 @@
+{
+  "id": 209,
+  "chapterId": 45,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَاهُ مُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ،\n عَنْ أَنَسِ بْنِ مَالِكٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم وَلَمْ يَذْكُرْ قَوْلَ أَنَسٍ فَأَنَا أُحِبُّ ‏.‏ وَمَا\n بَعْدَهُ ‏.‏",
+  "english": {
+    "narrator": "Anas b. Malik reported Allah's Apostle (ﷺ) this hadith through another chain of transmitters but he did not make mention of the words of Anas:",
+    "text": "I love, and what follows subsequently."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

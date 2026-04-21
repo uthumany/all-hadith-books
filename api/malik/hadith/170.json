@@ -1,0 +1,16 @@
+{
+  "id": 170,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، كَانَ يَقُولُ ‏{‏مَا اسْتَيْسَرَ مِنَ الْهَدْىِ‏}‏ شَاةٌ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Jafar ibn Muhammad from his\nfather that Ali ibn Abi Talib used to say, \"The least difficult thing\nacceptable as a sacrificial animal is a sheep.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 36,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي عبد الرحمن عبد الله بن مسعود رضي الله عنه قال‏:‏ كأني انظر إلى رسول الله صلى الله عليه وسلم يحكي نبياً من الأنبياء، صلوات الله وسلامه عليهم، ضربه قومه فأدموه وهو يمسح الدم عن وجهه، يقول ‏:‏ ‏\n\"‏اللهم اغفر لقومى فإنهم لا يعلمون‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin Mas'ud (May Allah be pleased with him) reported:",
+    "text": "I can still recall as if I am seeing the Messenger of Allah (ﷺ) resembling one of the Prophets whose people scourged him and shed his blood, while he wiped blood from his face, he said: \"O Allah! Forgive my people, because they certainly do not know\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

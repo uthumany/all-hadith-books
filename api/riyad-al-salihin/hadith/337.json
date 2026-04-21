@@ -1,0 +1,16 @@
+{
+  "id": 337,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما عن النَّبيّ قَالَ : \n\"الكَبَائِرُ : الإشْرَاكُ بالله ، وَعُقُوقُ الوَالِدَيْنِ ، وَقَتْلُ النَّفْس ، وَاليَمِينُ الغَمُوسُ\" . ((رواه البخاري)) .",
+  "english": {
+    "narrator": "Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported:",
+    "text": "The Prophet (ﷺ) said, \"(Of the) major sins are: to ascribe partners to Allah, disobey parents, murder someone, and to take a false oath (intentionally)\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

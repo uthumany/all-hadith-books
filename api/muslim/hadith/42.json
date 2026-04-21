@@ -1,0 +1,16 @@
+{
+  "id": 42,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنِي ابْنُ قُهْزَاذَ، قَالَ سَمِعْتُ وَهْبًا، يَقُولُ عَنْ سُفْيَانَ، عَنِ ابْنِ الْمُبَارَكِ، قَالَ بَقِيَّةُ صَدُوقُ اللِّسَانِ وَلَكِنَّهُ يَأْخُذُ عَمَّنْ أَقْبَلَ وَأَدْبَرَ ‏.‏",
+  "english": {
+    "narrator": "Ibn Quhzādh narrated to me, he said, I heard Wahb , on authority of Ibn al-Mubārak, he said:",
+    "text": "‘Baqiyyah ’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

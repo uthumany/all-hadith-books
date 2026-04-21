@@ -1,0 +1,16 @@
+{
+  "id": 13,
+  "chapterId": 58,
+  "bookId": 7,
+  "arabic": "حَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَحِلُّ الصَّدَقَةُ لآلِ مُحَمَّدٍ إِنَّمَا هِيَ أَوْسَاخُ النَّاسِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik that he heard that the Messenger\nof Allah, may Allah bless him and grant him peace, said, \"Sadaqa to\nthe family of Muhammad is not halal. It is only people's impurities.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

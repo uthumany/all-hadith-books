@@ -1,0 +1,16 @@
+{
+  "id": 255,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا ابْنُ الْعَلاَءِ، عَنْ وَكِيعٍ، عَنْ سُفْيَانَ، عَنْ سُهَيْلٍ، نَحْوَهُ قَالَ ‏\n\"‏ فِي الصَّلاَةِ فَلْيَكْظِمْ مَا اسْتَطَاعَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "The tradition mentioned above has also been transmitted in a similar way by Suhail through a different chain of  narrators. This version has; “during prayer, so he should hold as far as possible”."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

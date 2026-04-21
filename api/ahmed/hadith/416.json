@@ -1,0 +1,16 @@
+{
+  "id": 416,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ يُوسُفَ بْنِ مَسْعُودٍ، عَنْ جَدَّتِهِ، أَنَّ رَجُلًا، مَرَّ بِهِمْ عَلَى بَعِيرٍ يُوضِعُهُ بِمِنًى فِي أَيَّامِ التَّشْرِيقِ إِنَّهَا أَيَّامُ أَكْلٍ وَشُرْبٍ فَسَأَلْتُ عَنْهُ فَقَالُوا عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Yoosuf bin Mas`ood, from his grandmother, that A man passed by them on a camel in Mina during the days of at-Tashreeq (saying):",
+    "text": "These are days of eating and drinking. I asked who he was and they said: `Ali bin Abi Talib (رضي الله عنه)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

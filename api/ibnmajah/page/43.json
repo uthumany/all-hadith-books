@@ -1,0 +1,510 @@
+{
+  "page": 43,
+  "perPage": 50,
+  "totalPages": 87,
+  "totalCount": 4345,
+  "nextPage": 44,
+  "prevPage": 42,
+  "items": [
+    {
+      "id": 60,
+      "chapterId": 13,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي نَافِعُ بْنُ يَزِيدَ، عَنِ ابْنِ الْهَادِ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَطَاءٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ تَجُوزُ شَهَادَةُ بَدَوِيٍّ عَلَى صَاحِبِ قَرْيَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) say:",
+        "text": "“The testimony of a Bedouin against a town-dweller is not permissible.”"
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 13,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو مُصْعَبٍ الْمَدِينِيُّ، أَحْمَدُ بْنُ عَبْدِ اللَّهِ الزُّهْرِيُّ وَيَعْقُوبُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ قَالاَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ الدَّرَاوَرْدِيُّ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى بِالْيَمِينِ مَعَ الشَّاهِدِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "the Messenger of Allah (ﷺ) passed judgment on the basis of an oath (from the claimant) along with a (single) witness. "
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 13,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا جَعْفَرُ بْنُ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَضَى بِالْيَمِينِ مَعَ الشَّاهِدِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir that:",
+        "text": "the Prophet (ﷺ) passed judgement on the basis of an oath (from the claimant) along with a (single) witness."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 13,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو إِسْحَاقَ الْهَرَوِيُّ، إِبْرَاهِيمُ بْنُ عَبْدِ اللَّهِ بْنِ حَاتِمٍ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْحَارِثِ الْمَخْزُومِيُّ، حَدَّثَنَا سَيْفُ بْنُ سُلَيْمَانَ الْمَكِّيُّ، أَخْبَرَنِي قَيْسُ بْنُ سَعْدٍ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم بِالشَّاهِدِ وَالْيَمِينِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "“The Messenger of Allah (ﷺ) passed judgement on the basis of a witness along with an oath by the claimant."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 13,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا جُوَيْرِيَةُ بْنُ أَسْمَاءَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، - مَوْلَى الْمُنْبَعِثِ - عَنْ رَجُلٍ، مِنْ أَهْلِ مِصْرَ عَنْ سُرَّقٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَجَازَ شَهَادَةَ الرَّجُلِ وَيَمِينَ الطَّالِبِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Surraq that :",
+        "text": "the Prophet (ﷺ) allowed the testimony of a man along with the oath of the claimant."
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 13,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا سُفْيَانُ الْعُصْفُرِيُّ، عَنْ أَبِيهِ، عَنْ حَبِيبِ بْنِ النُّعْمَانِ الأَسَدِيِّ، عَنْ خُرَيْمِ بْنِ فَاتِكٍ الأَسَدِيِّ، قَالَ صَلَّى النَّبِيُّ صلى الله عليه وسلم الصُّبْحَ فَلَمَّا انْصَرَفَ قَامَ قَائِمًا فَقَالَ ‏\"‏ عُدِلَتْ شَهَادَةُ الزُّورِ بِالإِشْرَاكِ بِاللَّهِ ‏\"‏ ‏.‏ ثَلاَثَ مَرَّاتٍ ثُمَّ تَلاَ هَذِهِ الآيَةَ ‏{‏وَاجْتَنِبُوا قَوْلَ الزُّورِ حُنَفَاءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِه‏}‏‏.‏",
+      "english": {
+        "narrator": "It was narrated that Khuraim bin Fatik Al-Asadi said that :",
+        "text": "the Prophet(ﷺ) prayed the Morning prayer, and when he had finished, he stood up and said: “Bearing false witness is equivalent to associating others with Allah,” three times. Then he recited this Verse: “And shun lying speech (false statements), Hunafa' Lillah (i.e., worshiping none but Allah), not associating partners (in worship) to Him.”"
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 13,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ الْفُرَاتِ، عَنْ مُحَارِبِ بْنِ دِثَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏{‏لَنْ تَزُولَ قَدَمُ شَاهِدِ الزُّورِ حَتَّى يُوجِبَ اللَّهُ لَهُ النَّارَ‏}‏‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+        "text": "'The one who bears false witness will not move away (on the Day of Resurrection) until Allah condemns him to Hell.' ”"
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 13,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ طَرِيفٍ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنْ مُجَالِدٍ، عَنْ عَامِرٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَجَازَ شَهَادَةَ أَهْلِ الْكِتَابِ بَعْضِهِمْ عَلَى بَعْضٍ ‏.‏ \n‏",
+      "english": {
+        "narrator": "It was narrated from Jabir bin 'Abdullah that :",
+        "text": "the Messenger of Allah (ﷺ) allowed the People of the Book to testify against one another."
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بِشْرٍ، بَكْرُ بْنُ خَلَفٍ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ انْطَلَقَ بِهِ أَبُوهُ يَحْمِلُهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ اشْهَدْ أَنِّي قَدْ نَحَلْتُ النُّعْمَانَ مِنْ مَالِي كَذَا وَكَذَا ‏.‏ قَالَ ‏\"‏ فَكُلَّ بَنِيكَ نَحَلْتَ مِثْلَ الَّذِي نَحَلْتَ النُّعْمَانَ ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ قَالَ ‏\"‏ فَأَشْهِدْ عَلَى هَذَا غَيْرِي ‏\"‏ ‏.‏ قَالَ ‏\"‏ أَلَيْسَ يَسُرُّكَ أَنْ يَكُونُوا لَكَ فِي الْبِرِّ سَوَاءً ‏\"‏ ‏.‏ قَالَ بَلَى ‏.‏ قَالَ ‏\"‏ فَلاَ إِذًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Nu'man bin Bashir said that his father took him to the Prophet (ﷺ) and said:",
+        "text": "“Bear witness that I have given Nu'man such and such from my wealth.” He said: “Have you given all your children something like that which you have given to Nu'man?” He said: “No.” He said: “Then let someone other than me bear witness to that.” And he said: “Would you not like all your children to honor you equally?” He said: “Of course.” He said: “Then do not do this.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، وَمُحَمَّدِ بْنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَخْبَرَاهُ عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ أَبَاهُ، نَحَلَهُ غُلاَمًا وَأَنَّهُ جَاءَ إِلَى النَّبِيِّ صلى الله عليه وسلم يُشْهِدُهُ فَقَالَ ‏\"‏ أَكُلَّ وَلَدِكَ نَحَلْتَ ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ قَالَ ‏\"‏ فَارْدُدْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Nu'man bin Bashir that:",
+        "text": "his father gave him a gift of a slave, and he came to the Prophet (ﷺ) so that he could witness the gift. He said: “Have you given something to all of your children?” He said: “No.” He said: “Then take back (your gift).”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَأَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ قَالاَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، وَابْنِ، عُمَرَ يَرْفَعَانِ الْحَدِيثَ إِلَى النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَحِلُّ لِلرَّجُلِ أَنْ يُعْطِيَ الْعَطِيَّةَ ثُمَّ يَرْجِعَ فِيهَا إِلاَّ الْوَالِدَ فِيمَا يُعْطِي وَلَدَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas and Ibn 'Umar, who attributed the Hadith to the Prophet (ﷺ) that he said:",
+        "text": "“It is not permissible for a man to give a gift then take it back, except what a father gives to his child.”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا جَمِيلُ بْنُ الْحَسَنِ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا سَعِيدٌ، عَنْ عَامِرٍ الأَحْوَلِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَرْجِعْ أَحَدُكُمْ فِي هِبَتِهِ إِلاَّ الْوَالِدَ مِنْ وَلَدِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Amr bin Shu'aib, from his father, from, his Grandfather, that the Prophet (ﷺ) of Allah (SWT) said:",
+        "text": "“None of you should take back his gift, except a father (taking it back) from his son.”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ عُمْرَى فَمَنْ أُعْمِرَ شَيْئًا فَهُوَ لَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+        "text": "“There is no lifelong grant. Whoever is given something as a lifelong grant, it is his.' ”"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ أَعْمَرَ رَجُلاً عُمْرَى لَهُ وَلِعَقِبِهِ فَقَدْ قَطَعَ قَوْلُهُ حَقَّهُ فِيهَا فَهِيَ لِمَنْ أُعْمِرَ وَلِعَقِبِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Jabir said:",
+        "text": "“I heard the Messenger of Allah (ﷺ) say: 'Whoever gives a lifelong grant to a man, it belongs to him (the recipient) and to his heirs. His (the giver's) words put an end to his right to it, and it belongs to the one to whom it was given for life and to his heirs.”"
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنْ حُجْرٍ الْمَدَرِيِّ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم جَعَلَ الْعُمْرَى لِلْوَارِثِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Zaid bin Thabit that :",
+        "text": "the Prophet (ﷺ) ruled that a gift given for life belongs to the heirs (of the recipient)."
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ رُقْبَى فَمَنْ أُرْقِبَ شَيْئًا فَهُوَ لَهُ حَيَاتَهُ وَمَمَاتَهُ ‏\"‏ ‏.‏ قَالَ وَالرُّقْبَى أَنْ يَقُولَ هُوَ لِلآخَرِ مِنِّي وَمِنْكَ مَوْتًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+        "text": "“There is no Ruqba. Whoever is given a gift on the basis of Ruqba, it belongs to him, whether he lives or dies.”"
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ رَافِعٍ، حَدَّثَنَا هُشَيْمٌ، ح وَحَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، قَالاَ حَدَّثَنَا دَاوُدُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الْعُمْرَى جَائِزَةٌ لِمَنْ أُعْمِرَهَا وَالرُّقْبَى جَائِزَةٌ لِمَنْ أُرْقِبَهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir bin 'Abdullah that the Messenger of Allah (ﷺ) said:",
+        "text": "“Umra belongs to the one to whom it is given, and Ruqba belongs to the one to whom it is given.”"
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ عَوْفٍ، عَنْ خِلاَسٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ مَثَلَ الَّذِي يَعُودُ فِي عَطِيَّتِهِ كَمَثَلِ الْكَلْبِ أَكَلَ حَتَّى إِذَا شَبِعَ قَاءَ ثُمَّ عَادَ فِي قَيْئِهِ فَأَكَلَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+        "text": "“The likeness of one who takes back his gift is that of a dog that eats until it is full and vomits; then it goes back to its vomit and eats it again.”"
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الْعَائِدُ فِي هِبَتِهِ كَالْعَائِدِ فِي قَيْئِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas that the Messenger of Allah (ﷺ) said:",
+        "text": "“The one who takes back his gift is like the one who goes back to his vomit.”"
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُوسُفَ الْعَرْعَرِيُّ، حَدَّثَنَا يَزِيدُ بْنُ أَبِي حَكِيمٍ، حَدَّثَنَا الْعُمَرِيُّ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْعَائِدُ فِي هِبَتِهِ كَالْكَلْبِ يَعُودُ فِي قَيْئِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn`Umar that the Prophet (ﷺ) said:",
+        "text": "“The one who takes back his gift is like the dog that goes back to its vomit.”"
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، وَمُحَمَّدُ بْنُ إِسْمَاعِيلَ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ إِسْمَاعِيلَ بْنِ مُجَمِّعِ بْنِ جَارِيَةَ الأَنْصَارِيُّ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الرَّجُلُ أَحَقُّ بِهِبَتِهِ مَا لَمْ يُثَبْ مِنْهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+        "text": "“A man has more right to his gift so long as he has not gotten something in return for it.”"
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو يُوسُفَ الرَّقِّيُّ، مُحَمَّدُ بْنُ أَحْمَدَ الصَّيْدَلاَنِيُّ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنِ الْمُثَنَّى بْنِ الصَّبَّاحِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ فِي خُطْبَةٍ خَطَبَهَا ‏\n\"‏ لاَ يَجُوزُ لاِمْرَأَةٍ فِي مَالِهَا إِلاَّ بِإِذْنِ زَوْجِهَا إِذَا هُوَ مَلَكَ عِصْمَتَهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Amr  bin Shu'aib, from his father that he delivered:",
+        "text": "“It is not permissible for a woman to dispose of her wealth except with her husband's permission, once he has married her.”"
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 14,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي اللَّيْثُ بْنُ سَعْدٍ، عَنْ عَبْدِ اللَّهِ بْنِ يَحْيَى، - رَجُلٌ مِنْ وَلَدِ كَعْبِ بْنِ مَالِكٍ - عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ جَدَّتَهُ، خَيْرَةَ - امْرَأَةَ كَعْبِ بْنِ مَالِكٍ - أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم بِحُلِيٍّ لَهَا فَقَالَتْ إِنِّي تَصَدَّقْتُ بِهَذَا فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ يَجُوزُ لِلْمَرْأَةِ فِي مَالِهَا إِلاَّ بِإِذْنِ زَوْجِهَا فَهَلِ اسْتَأْذَنْتِ كَعْبًا ‏\"‏ ‏.‏ قَالَتْ نَعَمْ ‏.‏ فَبَعَثَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى كَعْبِ بْنِ مَالِكٍ زَوْجِهَا فَقَالَ ‏\"‏ هَلْ أَذِنْتَ لِخَيْرَةَ أَنْ تَتَصَدَّقَ بِحُلِيِّهَا ‏\"‏ ‏.‏ فَقَالَ نَعَمْ ‏.‏ فَقَبِلَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْهَا ‏.",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin Yahya, one of the sons of Ka'b bin Malik, from his grandfather, that :",
+        "text": "his grandmother  Khairah, the wife of Ka'b bin Malik, came to the Messenger of Allah (ﷺ) with some jewelry belonging to her and said, I am giving this in charity. The Messenger of Allah (ﷺ) said to her: “It is not permissible for a woman to dispose of her wealth without her husband's permission. Did you ask Ka'b's permission?” She said: “Yes.” So the Messenger of Allah (ﷺ) sent for Ka'b bin Malik, her husband, and said, “Did you give Khairah permission to give her jewelry in charity?” He said: “Yes.” So the Messenger of Allah (ﷺ) accepted it from her."
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا هِشَامُ بْنُ سَعْدٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَعُدْ فِي صَدَقَتِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Umar bin Khattab that:",
+        "text": "the Messenger of Allah (ﷺ) said: “Do not take back your charity.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، حَدَّثَنِي أَبُو جَعْفَرٍ، مُحَمَّدُ بْنُ عَلِيٍّ حَدَّثَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ الْعَبَّاسِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَثَلُ الَّذِي يَتَصَدَّقُ ثُمَّ يَرْجِعُ فِي صَدَقَتِهِ مَثَلُ الْكَلْبِ يَقِيءُ ثُمَّ يَرْجِعُ فَيَأْكُلُ قَيْئَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah bin 'Abbas narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“The likeness of the one who gives charity then takes it back is that of a dog who vomits then goes back and eats its vomit.”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا تَمِيمُ بْنُ الْمُنْتَصِرِ الْوَاسِطِيُّ، حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ، عَنْ شَرِيكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ عُمَرَ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ يَعْنِي، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عُمَرَ أَنَّهُ تَصَدَّقَ بِفَرَسٍ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَبْصَرَ صَاحِبَهَا يَبِيعُهَا بِكَسْرٍ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَسَأَلَهُ عَنْ ذَلِكَ فَقَالَ ‏\n\"‏ لاَ تَبْتَعْ صَدَقَتَكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Umar, meaning, from his father, his grandfather 'Umar, that :",
+        "text": "he gave a horse in charity at the time of the Messenger of Allah (ﷺ), then he saw its owner selling it for a low price. He went to the Prophet (ﷺ) and asked him about that, and he said: “Do not buy what you gave in charity.”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ حَكِيمٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا سُلَيْمَانُ التَّيْمِيُّ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرٍ، عَنِ الزُّبَيْرِ بْنِ الْعَوَّامِ، أَنَّهُ حَمَلَ عَلَى فَرَسٍ يُقَالُ لَهُ غَمْرٌ أَوْ غَمْرَةٌ فَرَأَى مُهْرًا أَوْ مُهْرَةً مِنْ أَفْلاَئِهَا يُبَاعُ يُنْسَبُ إِلَى فَرَسِهِ فَنَهَى عَنْهَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Zubair bin 'Awwam that :",
+        "text": "he gave a horse called Ghamr or Ghamrah to someone, then he saw one of its colts or fillies  attributed to his horse being sold, but he refrained from (buging) it."
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ عَبْدِ اللَّهِ بْنِ عَطَاءٍ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ جَاءَتِ امْرَأَةٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي تَصَدَّقْتُ عَلَى أُمِّي بِجَارِيَةٍ وَإِنَّهَا مَاتَتْ ‏.‏ فَقَالَ ‏\n\"‏ آجَرَكِ اللَّهُ وَرَدَّ عَلَيْكِ الْمِيرَاثَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin Buraidah that his father said:",
+        "text": "“A woman came to-the Prophet (ﷺ) and said: 'O Messenger of Allah (ﷺ), I gave my mother a slave girl of mine, and she has died.' The Messenger of Allah (ﷺ) said: 'Allah (SWT) has rewarded you, and returned to you your inheritance  (without your seeking that.' ”"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ جَعْفَرٍ الرَّقِّيُّ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ عَبْدِ الْكَرِيمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ إِنِّي أَعْطَيْتُ أُمِّي حَدِيقَةً لِي وَإِنَّهَا مَاتَتْ وَلَمْ تَتْرُكْ وَارِثًا غَيْرِي فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ وَجَبَتْ صَدَقَتُكَ وَرَجَعَتْ إِلَيْكَ حَدِيقَتُكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Amr  bin Shu'aib, from his father, that his grandfather said:",
+        "text": "“A man came to the Prophet (ﷺ) and said: 'I gave my mother a garden of mine, and she has died and has no other heir but me.' The Messenger of Allah(ﷺ) said: 'Your charity is valid and your garden has been returned to you.' ”"
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ، عَنِ ابْنِ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ أَصَابَ عُمَرُ بْنُ الْخَطَّابِ أَرْضًا بِخَيْبَرَ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَاسْتَأْمَرَهُ فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي أَصَبْتُ مَالاً بِخَيْبَرَ لَمْ أُصِبْ مَالاً قَطُّ هُوَ أَنْفَسُ عِنْدِي مِنْهُ فَمَا تَأْمُرُنِي بِهِ فَقَالَ ‏\n\"‏ إِنْ شِئْتَ حَبَسْتَ أَصْلَهَا وَتَصَدَّقْتَ بِهَا ‏\"‏ ‏.‏ قَالَ فَعَمِلَ بِهَا عُمَرُ عَلَى أَنْ لاَ يُبَاعَ أَصْلُهَا وَلاَ يُوهَبَ وَلاَ يُورَثَ تَصَدَّقَ بِهَا لِلْفُقَرَاءِ وَفِي الْقُرْبَى وَفِي الرِّقَابِ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ وَالضَّيْفِ لاَ جُنَاحَ عَلَى مَنْ وَلِيَهَا أَنْ يَأْكُلَ مِنْهَا بِالْمَعْرُوفِ أَوْ يُطْعِمَ صَدِيقًا غَيْرَ مُتَمَوِّلٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "“Umar bin Khattab acquired some land at Khaibar, and he came to the Prophet (ﷺ) and consulted  him. He said: 'O Messenger of Allah(ﷺ), I have been given some wealth at Khaibar and I have never been given any wealth that is more precious to me than it. What do you command me to do with it? He said: 'If you wish, you can make it an endowment and give  (its produce) in charity.' So 'Umar gave it on the basis that it would not be sold, given away or inherited, and (its produce) was to be given to the poor, to relatives, for freeing slaves, in the cause of Allah, to way fares and to guests; and there  was nothing wrong if a person appointed to be in charge of it consumed from it on a reasonable basis or feeding a fried, without accumulating it for himself.”"
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْعَدَنِيُّ، حَدَّثَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ عُمَرُ بْنُ الْخَطَّابِ يَا رَسُولَ اللَّهِ إِنَّ الْمِائَةَ سَهْمٍ الَّتِي بِخَيْبَرَ لَمْ أُصِبْ مَالاً قَطُّ هُوَ أَحَبُّ إِلَىَّ مِنْهَا وَقَدْ أَرَدْتُ أَنْ أَتَصَدَّقَ بِهَا فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ احْبِسْ أَصْلَهَا وَسَبِّلْ ثَمَرَتَهَا ‏\"‏ ‏.‏ \n قَالَ ابْنُ أَبِي عُمَرَ فَوَجَدْتُ هَذَا الْحَدِيثَ فِي مَوْضِعٍ آخَرَ فِي كِتَابِي عَنْ سُفْيَانَ عَنْ عَبْدِ اللَّهِ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ قَالَ قَالَ عُمَرُ فَذَكَرَ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "“Umar bin Khattab said: 'O Messenger of Allah (ﷺ), the one hundred shares of the Khaibar I have never been given any wealth that is more beloved to me than them, and I wanted to give them in charity.' The Prophet (ﷺ) said: 'Make it an endowment and give its produce in the cause of Allah (SWT).”"
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا شُرَحْبِيلُ بْنُ مُسْلِمٍ، قَالَ سَمِعْتُ أَبَا أُمَامَةَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ الْعَارِيَةُ مُؤَدَّاةٌ وَالْمِنْحَةُ مَرْدُودَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Shurahbil Muslim said:",
+        "text": "I heard Abu Umamah say:\n“I heard the Messenger of Allah (ﷺ) say: 'Borrowed items are to be returned and an animal borrowed for milking is to be returned.”"
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، وَعَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيَّانِ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ شُعَيْبٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ الْعَارِيَةُ مُؤَدَّاةٌ وَالْمِنْحَةُ مَرْدُودَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas bin Malik said:",
+        "text": "“I heard the Messenger of Allah (ﷺ) say: 'Borrowed items are to be returned and an animal borrowed for milking is to be returned.' ”"
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُسْتَمِرِّ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ، ح وَحَدَّثَنَا يَحْيَى بْنُ حَكِيمٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، جَمِيعًا عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ عَلَى الْيَدِ مَا أَخَذَتْ حَتَّى تُؤَدِّيَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Samurah that the Messenger of Allah (ﷺ) said:",
+        "text": "“The hand that takes is responsible for what it has taken until it returns it.”"
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ الْجَهْمِ الأَنْمَاطِيُّ، حَدَّثَنَا أَيُّوبُ بْنُ سُوَيْدٍ، عَنِ الْمُثَنَّى، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أُودِعَ وَدِيعَةً فَلاَ ضَمَانَ عَلَيْهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Amr  bin Shu'aib, from his father, that his grandfather said:",
+        "text": "“The Messenger of Allah (ﷺ) said: 'Whoever is entrusted with an item for safekeeping, is not responsible for it (so long as he is not negligent).' ”"
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ شَبِيبِ بْنِ غَرْقَدَةَ، عَنْ عُرْوَةَ الْبَارِقِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَعْطَاهُ دِينَارًا يَشْتَرِي لَهُ شَاةً فَاشْتَرَى لَهُ شَاتَيْنِ فَبَاعَ إِحْدَاهُمَا بِدِينَارٍ فَأَتَى النَّبِيَّ صلى الله عليه وسلم بِدِينَارٍ وَشَاةٍ فَدَعَا لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْبَرَكَةِ ‏.‏ قَالَ فَكَانَ لَوِ اشْتَرَى التُّرَابَ لَرَبِحَ فِيهِ ‏.‏ \n حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ، حَدَّثَنَا حَبَّانُ بْنُ هِلاَلٍ، حَدَّثَنَا سَعِيدُ بْنُ زَيْدٍ، عَنِ الزُّبَيْرِ بْنِ الْخِرِّيتِ، عَنْ أَبِي لَبِيدٍ، لِمَازَةَ بْنِ زَبَّارٍ عَنْ عُرْوَةَ بْنِ أَبِي الْجَعْدِ الْبَارِقِيِّ، قَالَ قَدِمَ جَلَبٌ فَأَعْطَانِي النَّبِيُّ صلى الله عليه وسلم دِينَارًا فَذَكَرَ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Urwah  Al-Bariqi that :",
+        "text": "the Prophet (ﷺ) gave him a Dinar to buy him a sheep, and he bought two sheep for him, then he sold one of them for a Dinar, and bought a Dinar and a sheep to the Prophet (ﷺ). The Messenger of Allah (ﷺ) prayed for blessing for him."
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الظُّلْمُ مَطْلُ الْغَنِيِّ وَإِذَا أُتْبِعَ أَحَدُكُمْ عَلَى مَلِيءٍ فَلْيَتْبَعْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+        "text": "“(Wrongdoing) is when a rich man takes a long time to repay a debt, and if one of you is referred to a rich man (to collect a debt), he should accept that referral.”"
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ تَوْبَةَ، حَدَّثَنَا هُشَيْمٌ، عَنْ يُونُسَ بْنِ عُبَيْدٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَطْلُ الْغَنِيِّ ظُلْمٌ وَإِذَا أُحِلْتَ عَلَى مَلِيءٍ فَاتْبَعْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+        "text": "“When a rich man takes too long to repay a debt, this is wrongdoing, and if the debt is transferred to a rich man, you should accept if.”"
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، وَالْحَسَنُ بْنُ عَرَفَةَ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنِي شُرَحْبِيلُ بْنُ مُسْلِمٍ الْخَوْلاَنِيُّ، قَالَ سَمِعْتُ أَبَا أُمَامَةَ الْبَاهِلِيَّ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ الزَّعِيمُ غَارِمٌ وَالدَّيْنُ مَقْضِيٌّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Shurahbil bin Muslim Al-Khawlani said:",
+        "text": "I heard Abu Umamah Al-Bahil say: “I heard the Messenger of Allah(ﷺ) say: “The guarantor is responsible and the debt must be repaid.' ”"
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ الدَّرَاوَرْدِيُّ، عَنْ عَمْرِو بْنِ أَبِي عَمْرٍو، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، لَزِمَ غَرِيمًا لَهُ بِعَشَرَةِ دَنَانِيرَ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ مَا عِنْدِي شَىْءٌ أُعْطِيكَهُ فَقَالَ لاَ وَاللَّهِ لاَ أُفَارِقُكَ حَتَّى تَقْضِيَنِي أَوْ تَأْتِيَنِي بِحَمِيلٍ فَجَرَّهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ كَمْ تَسْتَنْظِرُهُ ‏\"‏ ‏.‏ فَقَالَ شَهْرًا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَأَنَا أَحْمِلُ لَهُ ‏\"‏ ‏.‏ فَجَاءَهُ فِي الْوَقْتِ الَّذِي قَالَ النَّبِيُّ صلى الله عليه وسلم فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ مِنْ أَيْنَ أَصَبْتَ هَذَا ‏\"‏ ‏.‏ قَالَ مِنْ مَعْدِنٍ قَالَ ‏\"‏ لاَ خَيْرَ فِيهَا ‏\"‏ ‏.‏ وَقَضَاهَا عَنْهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas:",
+        "text": "That during the time of the Messenger of Allah (ﷺ), a man pursued a debtor who owed him ten Dinar, and he said: “I do not have anything to give you.” He (the creditor) said: “No, by Allah, I will not leave you until you pay the debt or you bring me a guarantor.” Then he dragged him to the Prophet (ﷺ) and the Prophet (ﷺ) said to him: “How long will you wait?” He said: “One month.”  The Messenger of Allah (ﷺ) said: “I will be a guarantor  for him.” Then he came to him at the time the Prophet (ﷺ) had said, and the Prophet (ﷺ) said to him: “Where did you get this from?” He said: “From a mine.” He said: “There is nothing good in it,” and he paid the debt for him."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عُثْمَانَ بْنِ عَبْدِ اللَّهِ بْنِ مَوْهَبٍ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أُتِيَ بِجِنَازَةٍ لِيُصَلِّيَ عَلَيْهَا فَقَالَ ‏\"‏ صَلُّوا عَلَى صَاحِبِكُمْ فَإِنَّ عَلَيْهِ دَيْنًا ‏\"‏ ‏.‏ فَقَالَ أَبُو قَتَادَةَ أَنَا أَتَكَفَّلُ بِهِ ‏.‏ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ بِالْوَفَاءِ ‏\"‏ ‏.‏ قَالَ بِالْوَفَاءِ ‏.‏ وَكَانَ الَّذِي عَلَيْهِ ثَمَانِيَةَ عَشَرَ أَوْ تِسْعَةَ عَشَرَ دِرْهَمًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Uthman bin 'Abdullah bin Mawhab said:",
+        "text": "“I heard 'Abdullah bin Abu Qatadah narrate from his father that a corpse was brought  to the Prophet (ﷺ)  for him to offer the funeral prayer, and he said: 'Pray for your companion, for he owes a debt.' Abu Qatadah said: 'I will stand surely for him?'  The Prophet (ﷺ) said: 'In full?' He said: 'In full.” And the debt he owed was eighteen or nineteen Dirham.”"
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبِيدَةُ بْنُ حُمَيْدٍ، عَنْ مَنْصُورٍ، عَنْ زِيَادِ بْنِ عَمْرِو بْنِ هِنْدٍ، عَنِ ابْنِ حُذَيْفَةَ، - هُوَ عِمْرَانُ - عَنْ أُمِّ الْمُؤْمِنِينَ، مَيْمُونَةَ قَالَ كَانَتْ تَدَّانُ دَيْنًا فَقَالَ لَهَا بَعْضُ أَهْلِهَا لاَ تَفْعَلِي وَأَنْكَرَ ذَلِكَ عَلَيْهَا قَالَتْ بَلَى إِنِّي سَمِعْتُ نَبِيِّي وَخَلِيلِي صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَا مِنْ مُسْلِمٍ يَدَّانُ دَيْنًا يَعْلَمُ اللَّهُ مِنْهُ أَنَّهُ يُرِيدُ أَدَاءَهُ إِلاَّ أَدَّاهُ اللَّهُ عَنْهُ فِي الدُّنْيَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that :",
+        "text": "the Mother of the Believers Maimunah used to take out loans frequently, and some of her family said: “Do not that,” and they denounced her for that. She said: “No. I heard my Prophet (ﷺ)  and my close friend say: ‘There is no Muslim who takes out a loan and Allah(SWT) knows that he intends to pay it back, but Allah(SWT) will pay it back for him in this world.'”"
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، حَدَّثَنَا سَعِيدُ بْنُ سُفْيَانَ، - مَوْلَى الأَسْلَمِيِّينَ - عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ اللَّهَ مَعَ الدَّائِنِ حَتَّى يَقْضِيَ دَيْنَهُ مَا لَمْ يَكُنْ فِيمَا يَكْرَهُ اللَّهُ ‏\"‏ ‏.‏ قَالَ فَكَانَ عَبْدُ اللَّهِ بْنُ جَعْفَرٍ يَقُولُ لِخَازِنِهِ اذْهَبْ فَخُذْ لِي بِدَيْنٍ فَإِنِّي أَكْرَهُ أَنْ أَبِيتَ لَيْلَةً إِلاَّ وَاللَّهُ مَعِي بَعْدَ الَّذِي سَمِعْتُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin Ja'far that the Messenger of Allah (ﷺ) said:",
+        "text": "“Allah will be the borrower until he pays off his debt, so long as it (the loan) is not for something that Allah dislikes.”"
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا يُوسُفُ بْنُ مُحَمَّدِ بْنِ صَيْفِيِّ بْنِ صُهَيْبِ الْخَيْرِ، حَدَّثَنِي عَبْدُ الْحَمِيدِ بْنُ زِيَادِ بْنِ صَيْفِيِّ بْنِ صُهَيْبٍ، عَنْ شُعَيْبِ بْنِ عَمْرٍو، حَدَّثَنَا صُهَيْبُ الْخَيْرِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَيُّمَا رَجُلٍ يَدَيَّنُ دَيْنًا وَهُوَ مُجْمِعٌ أَنْ لاَ يُوَفِّيَهُ إِيَّاهُ لَقِيَ اللَّهَ سَارِقًا ‏\"‏ ‏.‏ \n حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ، حَدَّثَنَا يُوسُفُ بْنُ مُحَمَّدِ بْنِ صَيْفِيٍّ، عَنْ عَبْدِ الْحَمِيدِ بْنِ زِيَادٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، صُهَيْبٍ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "Suhaib Al-Khair narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“\nAny Man who takes out a loan, having resolved not to pay it back, will meet Allah (SWT) as a thief.”"
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ حُمَيْدِ بْنِ كَاسِبٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ ثَوْرِ بْنِ زَيْدٍ الدِّيلِيِّ، عَنْ أَبِي الْغَيْثِ، - مَوْلَى ابْنِ مُطِيعٍ - عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ أَخَذَ أَمْوَالَ النَّاسِ يُرِيدُ إِتْلاَفَهَا أَتْلَفَهُ اللَّهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Prophet (ﷺ) said:",
+        "text": "“Whoever takes people's wealth with the intention of destroying it, Allah (SWT) will destroy him.”"
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ مَعْدَانَ بْنِ أَبِي طَلْحَةَ، عَنْ ثَوْبَانَ، - مَوْلَى رَسُولِ اللَّهِ صلى الله عليه وسلم - عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ مَنْ فَارَقَ الرُّوحُ الْجَسَدَ وَهُوَ بَرِيءٌ مِنْ ثَلاَثٍ دَخَلَ الْجَنَّةَ مِنَ الْكِبْرِ وَالْغُلُولِ وَالدَّيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Thawban, the freed slave of the Messenger of Allah (ﷺ), that the Messenger of Allah (ﷺ) said:",
+        "text": "“Anyone whose soul leaves his body and he is free of three things, will enter Paradise: Arrogance, stealing from the spoils of war, and debt.”"
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو مَرْوَانَ الْعُثْمَانِيُّ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ أَبِيهِ، عَنْ عُمَرَ بْنِ أَبِي سَلَمَةَ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ نَفْسُ الْمُؤْمِنِ مُعَلَّقَةٌ بِدَيْنِهِ حَتَّى يُقْضَى عَنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) that the Messenger of Allah (ﷺ) said:",
+        "text": "“The soul of the believer is attached to his debt until it is paid off.”"
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ ثَعْلَبَةَ بْنِ سَوَاءٍ، حَدَّثَنَا عَمِّي، مُحَمَّدُ بْنُ سَوَاءٍ عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ مَطَرٍ الْوَرَّاقِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ مَاتَ وَعَلَيْهِ دِينَارٌ أَوْ دِرْهَمٌ قُضِيَ مِنْ حَسَنَاتِهِ لَيْسَ ثَمَّ دِينَارٌ وَلاَ دِرْهَمٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever dies owing a Dinar or a Dirham, it will be paid back from his good deeds, because then there will be no Dinar or Dirham.”"
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ الْمِصْرِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ إِذَا تُوُفِّيَ الْمُؤْمِنُ فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَعَلَيْهِ الدَّيْنُ فَيَسْأَلُ ‏\"‏ هَلْ تَرَكَ لِدَيْنِهِ مِنْ قَضَاءٍ ‏\"‏ ‏.‏ فَإِنْ قَالُوا نَعَمْ ‏.‏ صَلَّى عَلَيْهِ وَإِنْ قَالُوا لاَ ‏.‏ قَالَ ‏\"‏ صَلُّوا عَلَى صَاحِبِكُمْ ‏\"‏ ‏.‏ فَلَمَّا فَتَحَ اللَّهُ عَلَى رَسُولِهِ الْفُتُوحَ قَالَ ‏\"‏ أَنَا أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ فَمَنْ تُوُفِّيَ وَعَلَيْهِ دَيْنٌ فَعَلَىَّ قَضَاؤُهُ وَمَنْ تَرَكَ مَالاً فَهُوَ لِوَرَثَتِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "if a believer died at the time of the Messenger of Allah (ﷺ) and he had debts, the Messenger of Allah (ﷺ) would ask: “Did he leave anything with which to off his debt?” If they said yes, then he would offer  the funeral prayer for him, but if they said no, then he would say: “Pray for your companion.” When Allah granted his Prophet (ﷺ) the conquests, he said: “I am nearer to the believers than their own selves. Whoever dies owing a debt, I will pay it off for him, and whoever leaves behind wealth, it will be for his heirs.”"
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 15,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ تَرَكَ مَالاً فَلِوَرَثَتِهِ وَمَنْ تَرَكَ دَيْنًا أَوْ ضَيَاعًا فَعَلَىَّ وَإِلَىَّ وَأَنَا أَوْلَى بِالْمُؤْمِنِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir that the Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever leaves behind money, it is for his heirs, and whoever leaves behind a debt for children, I am nearer to the believers.”"
+      }
+    }
+  ]
+}

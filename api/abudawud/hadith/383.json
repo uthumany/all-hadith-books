@@ -1,0 +1,16 @@
+{
+  "id": 383,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، وَسَعِيدُ بْنُ مَنْصُورٍ، أَنَّ الْحَارِثَ بْنَ عُبَيْدٍ، حَدَّثَهُمْ عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ، عَنْ طَلْحَةَ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّ لِي جَارَيْنِ بِأَيِّهِمَا أَبْدَأُ قَالَ ‏\n\"‏ بِأَدْنَاهُمَا بَابًا ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ شُعْبَةُ فِي هَذَا الْحَدِيثِ طَلْحَةُ رَجُلٌ مِنْ قُرَيْشٍ ‏.‏",
+  "english": {
+    "narrator": "‘A’ishah said:",
+    "text": "I asked : apostle of Allah! I have two neighbors. With which of them should I begin? He replied: Begin with the one whose door is nearer to you.\n\n\nAbu Dawud said: Shu’bah said this tradition : Talhah is a man of the Quraish."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

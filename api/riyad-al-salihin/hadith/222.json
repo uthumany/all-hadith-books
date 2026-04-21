@@ -1,0 +1,16 @@
+{
+  "id": 222,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي موسى رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏\n\"‏ المؤمن للمؤمن كالبنيان يشد بعضه بعضًا‏\"‏ وشبك بين أصابعه ‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Musa (May Allah bepleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"The relationship of the believer with another believer is like (the bricks of) a building, each strengthens the other.\" He (ﷺ) illustrated this by interlacing the fingers of both his hands.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 71,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَلَهُ شَاهِدٌ: مِنْ حَدِيثِ اِبْنِ عُمَرَ عِنْدَ اِبْنِ أَبِي اَلدُّنْيَا.‏  1‏ .‏‏1 ‏- صحيح كسابقه، وهو أحد شواهد الحديث السابق، إلا أن لفظه:\" من كف غضبه ستر الله عورته\"، وهو عند الطبراني في\" الكبير\" ‏-أيضا‏-.‏",
+  "english": {
+    "narrator": "",
+    "text": "The aforementioned hadith is supported by a narration on the authority of Ibn ’Umar related by Ibn Abi Ad-Dunia."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

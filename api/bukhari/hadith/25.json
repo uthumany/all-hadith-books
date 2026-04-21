@@ -1,0 +1,16 @@
+{
+  "id": 25,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ سَالِمٍ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لَوْ أَنَّ أَحَدَكُمْ إِذَا أَرَادَ أَنْ يَأْتِيَ أَهْلَهُ فَقَالَ بِاسْمِ اللَّهِ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ، وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا‏.‏ فَإِنَّهُ إِنْ يُقَدَّرْ بَيْنَهُمَا وَلَدٌ فِي ذَلِكَ لَمْ يَضُرُّهُ شَيْطَانٌ أَبَدًا ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Ibn `Abbas:",
+    "text": "Allah's Messenger (ﷺ) said, \"If anyone of you, when intending to have a sexual relation (sleep) with his wife, \nsays: Bismillah, Allahumma jannibna ashShaitan, wa Jannib ash-Shaitana ma razaqtana, Satan would \nnever harm that child, should it be ordained that they will have one. (Because of that sleep)."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

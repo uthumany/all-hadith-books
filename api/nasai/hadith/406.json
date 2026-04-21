@@ -1,0 +1,16 @@
+{
+  "id": 406,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، أَنَّهُ سُئِلَ عَنْ مَسِيرِ النَّبِيِّ، صلى الله عليه وسلم فِي حَجَّةِ الْوَدَاعِ قَالَ كَانَ يَسِيرُ الْعَنَقَ فَإِذَا وَجَدَ فَجْوَةً نَصَّ وَالنَّصُّ فَوْقَ الْعَنَقِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Usmah bin Zaid that he was asked how the Prophet traveled during the Farewell pilgrimage. He said:",
+    "text": "\"He used to ride at a moderately fast pace, and when he came upon some open space he would gallop.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

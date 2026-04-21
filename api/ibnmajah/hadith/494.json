@@ -1,0 +1,16 @@
+{
+  "id": 494,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ حَكِيمٍ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا زُهَيْرٌ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، قَالَ إِنَّ مِنَ السُّنَّةِ أَنْ يَمْشِيَ إِلَى الْعِيدِ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that ‘Ali said:",
+    "text": "“It is part of the Sunnah to walk to\n‘Eid (prayers).”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

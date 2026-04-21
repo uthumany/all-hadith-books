@@ -1,0 +1,16 @@
+{
+  "id": 739,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، أَخْبَرَنَا أَيُّوبُ، عَنْ نَافِعٍ، قَالَ كَانَ ابْنُ عُمَرَ يُطِيلُ الصَّلاَةَ قَبْلَ الْجُمُعَةِ وَيُصَلِّي بَعْدَهَا رَكْعَتَيْنِ فِي بَيْتِهِ وَيُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَفْعَلُ ذَلِكَ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Umar:",
+    "text": "Nafi' said: Ibn Umar used to lengthen his prayer before the Friday prayer and would offer two rak'ahs after it in his house. He used to say that the Messenger of Allah (ﷺ) would do that."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

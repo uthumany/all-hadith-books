@@ -1,0 +1,16 @@
+{
+  "id": 230,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مَهْدِيٍّ، حَدَّثَنَا شَرِيكٌ، عَنْ عَاصِمٍ، عَنْ أَنَسٍ، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ يَا ذَا الأُذُنَيْنِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Anas ibn Malik:",
+    "text": "The Prophet (ﷺ) addressed me as: O you with the two ears."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

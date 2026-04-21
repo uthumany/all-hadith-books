@@ -1,0 +1,16 @@
+{
+  "id": 504,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه قال‏:‏ رهن النبي صلى الله عليه وسلم درعه بشعير، ومشيت إلى النبي صلى الله عليه وسلم بخبز شعير، وإهالة سنخة، ولقد سمعته يقول‏:‏ ‏\n\"‏ ما أصبح لآل محمد صاع ولا أمسى‏\"‏ وإنهم لتسعة أبيات‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏\n\n (‏‏(‏‏ ‏الإهالة‏ ‏ بكسر الهمزة‏:‏ الشحم الذائب‏.‏ و‏ ‏ السخنة‏ ‏ بالنون والخاء المعجمة؛ وهي‏:‏ المتغيرة‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) mortgaged his armour for a quantity of barley, and I took to him some barley bread and rancid fat. I heard him saying: \"The family of Muhammad never possessed a measure of wheat from dawn to dusk although they were nine houses (to feed).\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

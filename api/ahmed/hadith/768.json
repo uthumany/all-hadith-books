@@ -1,0 +1,16 @@
+{
+  "id": 768,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ إِسْحَاقَ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ سَلَمَةَ بْنِ أَبِي الطُّفَيْلِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا تُتْبِعْ النَّظَرَ النَّظَرَ فَإِنَّ الْأُولَى لَكَ وَلَيْسَتْ لَكَ الْأَخِيرَةُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) said to me: “Do not follow one glance with another; you may be allowed the first but not the second.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

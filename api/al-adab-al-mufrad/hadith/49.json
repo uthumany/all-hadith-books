@@ -1,0 +1,16 @@
+{
+  "id": 49,
+  "chapterId": 43,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا أَبُو حَفْصِ بْنُ عَلِيٍّ، قَالَ‏:‏ حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ قَالَ‏:‏ كَانَ ابْنُ عُمَرَ يَسْتَأْذِنُ فِي ظُلَّةِ الْبَزَّازِ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "'Ata' said, \"Ibn 'Umar used to ask permission to enter market-stalls.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 495,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنِي عَمْرُو بْنُ مُرَّةَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ أَبُو لَهَبٍ تَبًّا لَكَ أَلِهَذَا جَمَعْتَنَا فَنَزَلَتْ ‏{‏تَبَّتْ يَدَا أَبِي لَهَبٍ‏}‏‏.‏",
+  "english": {
+    "narrator": "Narrated Ibn `Abbas:",
+    "text": "Abu Lahab said, \"May you perish! Is it' for this that you have gathered us?\" So there was revealed:'Perish the hands of Abu Lahab'."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

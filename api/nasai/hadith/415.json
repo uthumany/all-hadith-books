@@ -1,0 +1,16 @@
+{
+  "id": 415,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ أَنْبَأَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي يَزِيدَ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ أَنَا مِمَّنْ، قَدَّمَ النَّبِيُّ صلى الله عليه وسلم لَيْلَةَ الْمُزْدَلِفَةِ فِي ضَعَفَةِ أَهْلِهِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Ubaidullah bin Abu Yazeed said:",
+    "text": "I heard Ibn Abbas say: I was one of those whom the Prophet sent ahead amongh the weak ones of his family."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

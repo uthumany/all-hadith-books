@@ -1,0 +1,16 @@
+{
+  "id": 789,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ جَابِرٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" لَا يُقِيمَنَّ أَحَدُكُمْ أَخَاهُ يَوْمَ الْجُمُعَةِ ثُمَّ يُخَالِفُ إِلَى مَقْعَدِهِ فَيَقْعُدَ فِيهِ وَلَكِن يَقُول: افسحوا \". رَوَاهُ مُسلم",
+  "english": {
+    "narrator": "",
+    "text": "Jabir reported God’s Messenger as saying, “None of you must make his brother get up on Friday, then move to his place and sit in it, but should ask those present to make room.\" \n\nMuslim transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 70,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثاني‏:‏ عن أبي سعيد الخدري رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ إن الدنيا حلوة خضرة، وإن الله مستخلفكم فيها فينظر كيف تعملون، فاتقوا الدنيا واتقوا النساء؛ فإن أول فتنة بني إسرائيل كانت في النساء‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Sa'id Al-Khudri (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"The life of the world is sweet and green. Allah makes you generations succeeding one another so that He may try you in respect of your actions. So beware of the beguilements of the world and those of women. The first trial of Banu Israel was through women\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

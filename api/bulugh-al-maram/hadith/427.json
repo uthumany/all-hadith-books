@@ -1,0 +1,16 @@
+{
+  "id": 427,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَفِي رِوَايَةٍ لِلْبُخَارِيِّ: {حَتَّى تَنْجَلِي}   1‏ .‏‏1 ‏- صحيح.‏ وهذه الرواية عند البخاري (2/49/يونيني)‏.‏",
+  "english": {
+    "narrator": "In a narration of al-Bukhari it has:",
+    "text": "\"till it becomes bright.\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

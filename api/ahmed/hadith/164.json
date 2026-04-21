@@ -1,0 +1,16 @@
+{
+  "id": 164,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْأَعْمَشُ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنْ زِرِّ بْنِ حُبَيْشٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ عَهِدَ إِلَيَّ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ لَا يُحِبُّكَ إِلَّا مُؤْمِنٌ وَلَا يُبْغِضُكَ إِلَّا مُنَافِقٌ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Prophet (ﷺ) assured me: No one will love you but a believer and no one will hate you but a hypocrite."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 255,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي الأَحْوَصِ، عَنْ أَبِيهِ، قَالَ دَخَلْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَرَآنِي سَيِّئَ الْهَيْئَةِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ هَلْ لَكَ مِنْ شَىْءٍ ‏\"‏ ‏.‏ قَالَ نَعَمْ مِنْ كُلِّ الْمَالِ قَدْ آتَانِي اللَّهُ ‏.‏ فَقَالَ ‏\"‏ إِذَا كَانَ لَكَ مَالٌ فَلْيُرَ عَلَيْكَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Abu Al-Ahwas that his father said:",
+    "text": "\"I entered upon the Messenger of Allah  said: 'Do you have anything?' He said: 'Yes, Allah has given me all kinds of wealth.' He said: 'If you have wealth, let it be seen on you.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

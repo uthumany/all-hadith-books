@@ -1,0 +1,16 @@
+{
+  "id": 313,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا سُلَيْمَانُ التَّيْمِيُّ، بِالإِسْنَادَيْنِ\n جَمِيعًا ‏.‏ مِثْلَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This hadith has been reported on the authority of Sulaiman Taimi through other chains of transmitters."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

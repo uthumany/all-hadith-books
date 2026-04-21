@@ -1,0 +1,510 @@
+{
+  "page": 124,
+  "perPage": 50,
+  "totalPages": 146,
+  "totalCount": 7277,
+  "nextPage": 125,
+  "prevPage": 123,
+  "items": [
+    {
+      "id": 85,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا فَرْوَةُ بْنُ أَبِي الْمَغْرَاءِ، حَدَّثَنَا عَبِيدَةُ بْنُ حُمَيْدٍ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ مُصْعَبِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ أَبِيهِ ـ رضى الله عنه ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُعَلِّمُنَا هَؤُلاَءِ الْكَلِمَاتِ كَمَا تُعَلَّمُ الْكِتَابَةُ ‏\n\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبُخْلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ، وَأَعُوذُ بِكَ مِنْ أَنْ نُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ، وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا، وَعَذَابِ الْقَبْرِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Sa`d bin Abi Waqqas:",
+        "text": "The Prophet (ﷺ) used to teach us these words as he used to teach us the Book (Qur'an): \"O Allah! seek \nrefuge with You from miserliness, and seek refuge with You from cowardice, and seek refuge with \nYou from being brought back to (senile) geriatric old age, and seek refuge with You from the \naffliction of the world and from the punishment in the Hereafter.\""
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُنْذِرٍ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم طُبَّ حَتَّى إِنَّهُ لَيُخَيَّلُ إِلَيْهِ قَدْ صَنَعَ الشَّىْءَ وَمَا صَنَعَهُ، وَإِنَّهُ دَعَا رَبَّهُ ثُمَّ قَالَ ‏\"‏ أَشَعَرْتِ أَنَّ اللَّهَ قَدْ أَفْتَانِي فِيمَا اسْتَفْتَيْتُهُ فِيهِ ‏\"‏‏.‏ فَقَالَتْ عَائِشَةُ فَمَا ذَاكَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ جَاءَنِي رَجُلاَنِ فَجَلَسَ أَحَدُهُمَا عِنْدَ رَأْسِي، وَالآخَرُ عِنْدَ رِجْلَىَّ فَقَالَ أَحَدُهُمَا لِصَاحِبِهِ مَا وَجَعُ الرَّجُلِ قَالَ مَطْبُوبٌ‏.‏ قَالَ مَنْ طَبَّهُ قَالَ لَبِيدُ بْنُ الأَعْصَمِ‏.‏ قَالَ فِيمَا ذَا قَالَ فِي مُشْطٍ وَمُشَاطَةٍ وَجُفِّ طَلْعَةٍ‏.‏ قَالَ فَأَيْنَ هُوَ قَالَ فِي ذَرْوَانَ، وَذَرْوَانُ بِئْرٌ فِي بَنِي زُرَيْقٍ ‏\"‏‏.‏ قَالَتْ فَأَتَاهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ رَجَعَ إِلَى عَائِشَةَ فَقَالَ ‏\"‏ وَاللَّهِ لَكَأَنَّ مَاءَهَا نُقَاعَةُ الْحِنَّاءِ، وَلَكَأَنَّ نَخْلَهَا رُءُوسُ الشَّيَاطِينِ ‏\"‏‏.‏ قَالَتْ فَأَتَى رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَخْبَرَهَا عَنِ الْبِئْرِ، فَقُلْتُ يَا رَسُولَ اللَّهِ فَهَلاَّ أَخْرَجْتَهُ قَالَ ‏\"‏ أَمَّا أَنَا فَقَدْ شَفَانِي اللَّهُ، وَكَرِهْتُ أَنْ أُثِيرَ عَلَى النَّاسِ شَرًّا ‏\"‏‏.‏ زَادَ عِيسَى بْنُ يُونُسَ وَاللَّيْثُ عَنْ هِشَامٍ عَنْ أَبِيهِ عَنْ عَائِشَةَ قَالَتْ سُحِرَ النَّبِيُّ صلى الله عليه وسلم فَدَعَا وَدَعَا وَسَاقَ الْحَدِيثَ",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "that Allah's Messenger (ﷺ) was affected by magic, so much that he used to think that he had done something \nwhich in fact, he did not do, and he invoked his Lord (for a remedy). Then (one day) he said, \"O \n`Aisha!) Do you know that Allah has advised me as to the problem I consulted Him about?\" `Aisha \nsaid, \"O Allah's Messenger (ﷺ)! What's that?\" He said, \"Two men came to me and one of them sat at my \nhead and the other at my feet, and one of them asked his companion, 'What is wrong with this man?' \nThe latter replied, 'He is under the effect of magic.' The former asked, 'Who has worked magic on \nhim?' The latter replied, 'Labid bin Al-A'sam.' The former asked, 'With what did he work the magic?' \nThe latter replied, 'With a comb and the hair, which are stuck to the comb, and the skin of pollen of a \ndate-palm tree.' The former asked, 'Where is that?' The latter replied, 'It is in Dharwan.' Dharwan was \na well in the dwelling place of the (tribe of) Bani Zuraiq. Allah's Messenger (ﷺ) went to that well and \nreturned to `Aisha, saying, 'By Allah, the water (of the well) was as red as the infusion of Hinna, (1) \nand the date-palm trees look like the heads of devils.' `Aisha added, Allah's Messenger (ﷺ) came to me and \ninformed me about the well. I asked the Prophet, 'O Allah's Messenger (ﷺ), why didn't you take out the skin \nof pollen?' He said, 'As for me, Allah has cured me and I hated to draw the attention of the people to \nsuch evil (which they might learn and harm others with).' \" \nNarrated Hisham's father: `Aisha said, \"Allah's Messenger (ﷺ) was bewitched, so he invoked Allah \nrepeatedly requesting Him to cure him from that magic).\" Hisham then narrated the above narration. \n(See Hadith No. 658, Vol. 7)"
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا ابْنُ سَلاَمٍ، أَخْبَرَنَا وَكِيعٌ، عَنِ ابْنِ أَبِي خَالِدٍ، قَالَ سَمِعْتُ ابْنَ أَبِي أَوْفَى ـ رضى الله عنهما ـ قَالَ دَعَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى الأَحْزَابِ فَقَالَ ‏\n\"‏ اللَّهُمَّ مُنْزِلَ الْكِتَابِ، سَرِيعَ الْحِسَابِ، اهْزِمِ الأَحْزَابَ، اهْزِمْهُمْ وَزَلْزِلْهُمْ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Abi `Aufa:",
+        "text": "Allah's Messenger (ﷺ) asked for Allah's wrath upon the Ahzab (confederates), saying, \"O Allah, the Revealer \nof the Holy Book, and the One swift at reckoning! Defeat the confederates; Defeat them and shake \nthem.\""
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا قَالَ ‏\"‏ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ ‏\"‏‏.‏ فِي الرَّكْعَةِ الآخِرَةِ مِنْ صَلاَةِ الْعِشَاءِ قَنَتَ ‏\"‏ اللَّهُمَّ أَنْجِ عَيَّاشَ بْنَ أَبِي رَبِيعَةَ، اللَّهُمَّ أَنْجِ الْوَلِيدَ بْنَ الْوَلِيدِ، اللَّهُمَّ أَنْجِ سَلَمَةَ بْنَ هِشَامٍ، اللَّهُمَّ أَنْجِ الْمُسْتَضْعَفِينَ مِنَ الْمُؤْمِنِينَ، اللَّهُمَّ اشْدُدْ وَطْأَتَكَ عَلَى مُضَرَ، اللَّهُمَّ اجْعَلْهَا سِنِينَ كَسِنِي يُوسُفَ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "When the Prophet (ﷺ) said, \"Sami' al-lahu liman hamidah (Allah heard him who sent his praises to Him)\" \nin the last rak`a of the `Isha' prayer, he used to invoke Allah, saying, \"O Allah! Save `Aiyash bin Abi \nRabi`a; O Allah! Save Al-Walid bin Al-Walid; O Allah! Save the weak people among the believers; O \nAllah! Be hard on the Tribe of Mudar; O Allah! Inflict years of drought upon them like the years (of \ndrought) of the Prophet (ﷺ) Joseph.\""
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ الرَّبِيعِ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ عَاصِمٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ بَعَثَ النَّبِيُّ صلى الله عليه وسلم سَرِيَّةً يُقَالُ لَهُمُ الْقُرَّاءُ فَأُصِيبُوا، فَمَا رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم وَجَدَ عَلَى شَىْءٍ مَا وَجَدَ عَلَيْهِمْ، فَقَنَتَ شَهْرًا فِي صَلاَةِ الْفَجْرِ وَيَقُولُ ‏\n\"‏ إِنَّ عُصَيَّةَ عَصَوُا اللَّهَ وَرَسُولَهُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "The Prophet (ﷺ) sent a Sariya (an army detachment) consisting of men called Al-Qurra', and all of them \nwere martyred. I had never seen the Prophet (ﷺ) so sad over anything as he was over them. So he said \nQunut (invocation in the prayer) for one month in the Fajr prayer, invoking for Allah's wrath upon the \ntribe of 'Usaiya, and he used to say, \"The people of 'Usaiya have disobeyed Allah and His Apostle.\""
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامٌ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ الْيَهُودُ يُسَلِّمُونَ عَلَى النَّبِيِّ صلى الله عليه وسلم يَقُولُونَ السَّامُ عَلَيْكَ‏.‏ فَفَطِنَتْ عَائِشَةُ إِلَى قَوْلِهِمْ فَقَالَتْ عَلَيْكُمُ السَّامُ وَاللَّعْنَةُ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ مَهْلاً يَا عَائِشَةُ، إِنَّ اللَّهَ يُحِبُّ الرِّفْقَ فِي الأَمْرِ كُلِّهِ ‏\"‏‏.‏ فَقَالَتْ يَا نَبِيَّ اللَّهِ أَوَلَمْ تَسْمَعْ مَا يَقُولُونَ قَالَ ‏\"‏ أَوَلَمْ تَسْمَعِي أَنِّي أَرُدُّ ذَلِكَ عَلَيْهِمْ فَأَقُولُ وَعَلَيْكُمْ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "The Jews used to greet the Prophet (ﷺ) by saying, \"As-Samu 'Alaika (i.e., death be upon you), so I \nunderstood what they said, and I said to them, \"As-Samu 'alaikum wal-la'na (i.e. Death and Allah's \nCurse be upon you).\" The Prophet (ﷺ) said, \"Be gentle and calm, O `Aisha, as Allah likes gentleness in all \naffairs.\" I said, \"O Allah's Prophet! Didn't you hear what they said?\" He said, \"Didn't you hear me \nanswering them back by saying, 'Alaikum (i.e., the same be upon you)?\""
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا الأَنْصَارِيُّ، حَدَّثَنَا هِشَامُ بْنُ حَسَّانَ، حَدَّثَنَا مُحَمَّدُ بْنُ سِيرِينَ، حَدَّثَنَا عَبِيدَةُ، حَدَّثَنَا عَلِيُّ بْنُ أَبِي طَالِبٍ ـ رضى الله عنه ـ قَالَ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم يَوْمَ الْخَنْدَقِ، فَقَالَ ‏\n\"‏ مَلأَ اللَّهُ قُبُورَهُمْ وَبُيُوتَهُمْ نَارًا، كَمَا شَغَلُونَا عَنْ صَلاَةِ الْوُسْطَى حَتَّى غَابَتِ الشَّمْسُ ‏\"‏‏.‏ وَهْىَ صَلاَةُ الْعَصْرِ‏.‏",
+      "english": {
+        "narrator": "Narrated `Ali bin Abi Talib:",
+        "text": "We were in the company of the Prophet (ﷺ) on the day (of the battle) of Al-Khandaq (the Trench). The \nProphet said, \"May Allah fill their (the infidels') graves and houses with fire, as they have kept us so \nbusy that we could not offer the middle prayer till the sun had set; and that prayer was the `Asr \nprayer.\""
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَلِيٌّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَدِمَ الطُّفَيْلُ بْنُ عَمْرٍو عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ دَوْسًا قَدْ عَصَتْ وَأَبَتْ، فَادْعُ اللَّهَ عَلَيْهَا‏.‏ فَظَنَّ النَّاسُ أَنَّهُ يَدْعُو عَلَيْهِمْ، فَقَالَ ‏\n\"‏ اللَّهُمَّ اهْدِ دَوْسًا وَأْتِ بِهِمْ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "at-Tufail bin `Amr came to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger (ﷺ)! The tribe of Daus has \ndisobeyed (Allah and His Apostle) and refused (to embrace Islam), therefore, invoke Allah's wrath for \nthem.\" The people thought that the Prophet (ﷺ) would invoke Allah's wrath for them, but he said, \"O \nAllah! Guide the tribe Of Daus and let them come to us.\""
+      }
+    },
+    {
+      "id": 93,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الْمَلِكَ بْنُ صَبَّاحٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ ابْنِ أَبِي مُوسَى، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يَدْعُو بِهَذَا الدُّعَاءِ ‏\n\"‏ رَبِّ اغْفِرْ لِي خَطِيئَتِي وَجَهْلِي وَإِسْرَافِي فِي أَمْرِي كُلِّهِ، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي، اللَّهُمَّ اغْفِرْ لِي خَطَايَاىَ وَعَمْدِي وَجَهْلِي وَهَزْلِي، وَكُلُّ ذَلِكَ عِنْدِي، اللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، أَنْتَ الْمُقَدِّمُ، وَأَنْتَ الْمُؤَخِّرُ، وَأَنْتَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ ‏\"‏‏.‏     وَقَالَ عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ وَحَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏ بِنَحْوِهِ.‏",
+      "english": {
+        "narrator": "Narrated Abu Musa:",
+        "text": "The Prophet (ﷺ) used to invoke Allah with the following invocation: 'Rabbi-ghfir-li Khati 'ati wa jahli wa \nisrafi fi `Amri kullihi, wa ma anta a'lamu bihi minni. Allahumma ighfirli khatayaya wa 'amdi, wa jahli \nwa jiddi, wa kullu dhalika'indi. Allahumma ighrifli ma qaddamtu wa ma akhartu wa ma asrartu wa ma \na'lantu. Anta-l-muqaddimu wa anta-l-mu'akh-khiru, wa anta 'ala kulli shai'in qadir.'"
+      }
+    },
+    {
+      "id": 94,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ الْمَجِيدِ، حَدَّثَنَا إِسْرَائِيلُ، حَدَّثَنَا أَبُو إِسْحَاقَ، عَنْ أَبِي بَكْرِ بْنِ أَبِي مُوسَى، وَأَبِي، بُرْدَةَ ـ أَحْسِبُهُ ـ عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يَدْعُو ‏\n\"‏ اللَّهُمَّ اغْفِرْ لِي خَطِيئَتِي وَجَهْلِي وَإِسْرَافِي فِي أَمْرِي، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي، اللَّهُمَّ اغْفِرْ لِي هَزْلِي وَجِدِّي وَخَطَاىَ وَعَمْدِي، وَكُلُّ ذَلِكَ عِنْدِي ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Musa Al-Ash`ari:",
+        "text": "The Prophet (ﷺ) used to invoke Allah, saying, \"Allahumma ighfirli khati'ati wa jahli wa israfi fi `Amri, wa \nma anta a-'lamu bihi minni. Allahumma ighfirli hazali wa jiddi wa khata'i wa amdi, wa kullu dhalika \n'indi.\""
+      }
+    },
+    {
+      "id": 95,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا أَيُّوبُ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ أَبُو الْقَاسِمِ صلى الله عليه وسلم ‏\n\"‏ فِي الْجُمُعَةِ سَاعَةٌ لاَ يُوَافِقُهَا مُسْلِمٌ وَهْوَ قَائِمٌ يُصَلِّي يَسْأَلُ خَيْرًا إِلاَّ أَعْطَاهُ ‏\"‏‏.‏ وَقَالَ بِيَدِهِ قُلْنَا يُقَلِّلُهَا يُزَهِّدُهَا‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "Abu-l-Qasim (the Prophet) said, \"On Friday there is a particular time. If a Muslim happens to be \npraying and invoking Allah for something good during that time, Allah will surely fulfill his request.\" \nThe Prophet (ﷺ) pointed out with his hand. We thought that he wanted to illustrate how short that time \nwas."
+      }
+    },
+    {
+      "id": 96,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا أَيُّوبُ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها أَنَّ الْيَهُودَ، أَتَوُا النَّبِيَّ صلى الله عليه وسلم فَقَالُوا السَّامُ عَلَيْكَ‏.‏ قَالَ ‏\"‏ وَعَلَيْكُمْ ‏\"‏‏.‏ فَقَالَتْ عَائِشَةُ السَّامُ عَلَيْكُمْ، وَلَعَنَكُمُ اللَّهُ وَغَضِبَ عَلَيْكُمْ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَهْلاً يَا عَائِشَةُ، عَلَيْكِ بِالرِّفْقِ، وَإِيَّاكِ وَالْعُنْفَ أَوِ الْفُحْشَ ‏\"‏‏.‏ قَالَتْ أَوَلَمْ تَسْمَعْ مَا قَالُوا قَالَ ‏\"‏ أَوَلَمْ تَسْمَعِي مَا قُلْتُ رَدَدْتُ عَلَيْهِمْ، فَيُسْتَجَابُ لِي فِيهِمْ، وَلاَ يُسْتَجَابُ لَهُمْ فِيَّ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Abi Mulaika:",
+        "text": "`Aisha said, \"The Jews came to the Prophet (ﷺ) and said to him, \"As-Samu 'Alaika (i.e., Death be upon \nyou).\" He replied, 'The same on you.' \" `Aisha said to them, \"Death be upon you, and may Allah curse \nyou and shower His wrath upon you!\" Allah's Messenger (ﷺ) I said, \"Be gentle and calm, O `Aisha! Be \ngentle and beware of being harsh and of saying evil things.\" She said, \"Didn't you hear what they \nsaid?\" He said, \"Didn't you hear what I replied (to them)? have returned their statement to them, and \nmy invocation against them will be accepted but theirs against me will not be accepted.\""
+      }
+    },
+    {
+      "id": 97,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ الزُّهْرِيُّ حَدَّثَنَاهُ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا أَمَّنَ الْقَارِئُ فَأَمِّنُوا، فَإِنَّ الْمَلاَئِكَةَ تُؤَمِّنُ، فَمَنْ وَافَقَ تَأْمِينُهُ تَأْمِينَ الْمَلاَئِكَةِ غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "The Prophet (ﷺ) said, \"When the Imam says 'Amin', then you should all say 'Amin', for the angels say \n'Amin' at that time, and he whose 'Amin' coincides with the 'Amin' of the angels, all his past sins will \nbe forgiven.\""
+      }
+    },
+    {
+      "id": 98,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ، وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهْوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ‏.‏ فِي يَوْمٍ مِائَةَ مَرَّةٍ، كَانَتْ لَهُ عَدْلَ عَشْرِ رِقَابٍ، وَكُتِبَ لَهُ مِائَةُ حَسَنَةٍ، وَمُحِيَتْ عَنْهُ مِائَةُ سَيِّئَةٍ، وَكَانَتْ لَهُ حِرْزًا مِنَ الشَّيْطَانِ يَوْمَهُ ذَلِكَ، حَتَّى يُمْسِيَ، وَلَمْ يَأْتِ أَحَدٌ بِأَفْضَلَ مِمَّا جَاءَ بِهِ إِلاَّ رَجُلٌ عَمِلَ أَكْثَرَ مِنْهُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "Allah's Messenger (ﷺ) said,\" Whoever says: \"La ilaha illal-lah wahdahu la sharika lahu, lahu-l-mulk wa lahul- \nhamd wa huwa 'ala kulli shai'in qadir,\" one hundred times will get the same reward as given for \nmanumitting ten slaves; and one hundred good deeds will be written in his accounts, and one hundred \nsins will be deducted from his accounts, and it (his saying) will be a shield for him from Satan on that \nday till night, and nobody will be able to do a better deed except the one who does more than he.\""
+      }
+    },
+    {
+      "id": 99,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو، حَدَّثَنَا عُمَرُ بْنُ أَبِي زَائِدَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ مَيْمُونٍ، قَالَ مَنْ قَالَ عَشْرًا كَانَ كَمَنْ أَعْتَقَ رَقَبَةً مِنْ وَلَدِ إِسْمَاعِيلَ‏.‏ قَالَ عُمَرُ بْنُ أَبِي زَائِدَةَ وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي السَّفَرِ عَنِ الشَّعْبِيِّ عَنْ رَبِيعِ بْنِ خُثَيْمٍ مِثْلَهُ‏.‏ فَقُلْتُ لِلرَّبِيعِ مِمَّنْ سَمِعْتَهُ فَقَالَ مِنْ عَمْرِو بْنِ مَيْمُونٍ‏.‏ فَأَتَيْتُ عَمْرَو بْنَ مَيْمُونٍ فَقُلْتُ مِمَّنْ سَمِعْتَهُ فَقَالَ مِنِ ابْنِ أَبِي لَيْلَى‏.‏ فَأَتَيْتُ ابْنَ أَبِي لَيْلَى فَقُلْتُ مِمَّنْ سَمِعْتَهُ فَقَالَ مِنْ أَبِي أَيُّوبَ الأَنْصَارِيِّ يُحَدِّثُهُ عَنِ النَّبِيِّ صلى الله عليه وسلم وَقَالَ إِبْرَاهِيمُ بْنُ يُوسُفَ عَنْ أَبِيهِ عَنْ أَبِي إِسْحَاقَ حَدَّثَنِي عَمْرُو بْنُ مَيْمُونٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى عَنْ أَبِي أَيُّوبَ قَوْلَهُ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏     وَقَالَ مُوسَى حَدَّثَنَا وُهَيْبٌ، عَنْ دَاوُدَ، عَنْ عَامِرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ أَبِي أَيُّوبَ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَقَالَ إِسْمَاعِيلُ عَنِ الشَّعْبِيِّ عَنِ الرَّبِيعِ قَوْلَهُ‏.‏ وَقَالَ آدَمُ حَدَّثَنَا شُعْبَةُ حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ مَيْسَرَةَ سَمِعْتُ هِلاَلَ بْنَ يَسَافٍ عَنِ الرَّبِيعِ بْنِ خُثَيْمٍ وَعَمْرِو بْنِ مَيْمُونٍ عَنِ ابْنِ مَسْعُودٍ قَوْلَهُ‏.‏ وَقَالَ الأَعْمَشُ وَحُصَيْنٌ عَنْ هِلاَلٍ عَنِ الرَّبِيعِ عَنْ عَبْدِ اللَّهِ قَوْلَهُ‏.‏ وَرَوَاهُ أَبُو مُحَمَّدٍ الْحَضْرَمِيُّ عَنْ أَبِي أَيُّوبَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏ كَانَ كَمَنْ أَعْتَقَ رَقَبَةً مِنْ وَلَدِ إِسْمَاعِيلِ  قَالَ أَبُو عَبْد اللَّهِ وَالصَّحِيحُ قَوْلُ عَبْدِ الْمَلِكِ بْنِ عَمْرٍو.‏",
+      "english": {
+        "narrator": "Narrated `Amr bin Maimun:",
+        "text": "Whoever recites it (i.e., the invocation in the above Hadith (412) ten times will be as if he manumitted \none of Ishmael's descendants. Abu Aiyub narrated the same Hadith from the Prophet (ﷺ) saying, \n\"(Whoever recites it ten times) will be as if he had manumitted one of Ishmael's descendants.\""
+      }
+    },
+    {
+      "id": 100,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ قَالَ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ‏.‏ فِي يَوْمٍ مِائَةَ مَرَّةٍ حُطَّتْ خَطَايَاهُ، وَإِنْ كَانَتْ مِثْلَ زَبَدِ الْبَحْرِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "Allah's Messenger (ﷺ) said, \"Whoever says, 'Subhan Allah wa bihamdihi,' one hundred times a day, will be \nforgiven all his sins even if they were as much as the foam of the sea."
+      }
+    },
+    {
+      "id": 101,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنْ عُمَارَةَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ، سُبْحَانَ اللَّهِ الْعَظِيمِ، سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "The Prophet (ﷺ) said, \"There are two expressions which are very easy for the tongue to say, but they are \nvery heavy in the balance and are very dear to The Beneficent (Allah), and they are, 'Subhan Allah Al- \n`Azim and 'Subhan Allah wa bihamdihi.'\""
+      }
+    },
+    {
+      "id": 102,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ مَثَلُ الَّذِي يَذْكُرُ رَبَّهُ وَالَّذِي لاَ يَذْكُرُ مَثَلُ الْحَىِّ وَالْمَيِّتِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Musa:",
+        "text": "The Prophet (ﷺ) said, \"The example of the one who celebrates the Praises of his Lord (Allah) in \ncomparison to the one who does not celebrate the Praises of his Lord, is that of a living creature \ncompared to a dead one.\""
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ لِلَّهِ مَلاَئِكَةً يَطُوفُونَ فِي الطُّرُقِ، يَلْتَمِسُونَ أَهْلَ الذِّكْرِ، فَإِذَا وَجَدُوا قَوْمًا يَذْكُرُونَ اللَّهَ تَنَادَوْا هَلُمُّوا إِلَى حَاجَتِكُمْ‏.‏ قَالَ فَيَحُفُّونَهُمْ بِأَجْنِحَتِهِمْ إِلَى السَّمَاءِ الدُّنْيَا‏.‏ قَالَ فَيَسْأَلُهُمْ رَبُّهُمْ وَهْوَ أَعْلَمُ مِنْهُمْ مَا يَقُولُ عِبَادِي قَالُوا يَقُولُونَ يُسَبِّحُونَكَ، وَيُكَبِّرُونَكَ، وَيَحْمَدُونَكَ وَيُمَجِّدُونَكَ‏.‏ قَالَ فَيَقُولُ هَلْ رَأَوْنِي قَالَ فَيَقُولُونَ لاَ وَاللَّهِ مَا رَأَوْكَ‏.‏ قَالَ فَيَقُولُ وَكَيْفَ لَوْ رَأَوْنِي قَالَ يَقُولُونَ لَوْ رَأَوْكَ كَانُوا أَشَدَّ لَكَ عِبَادَةً، وَأَشَدَّ لَكَ تَمْجِيدًا، وَأَكْثَرَ لَكَ تَسْبِيحًا‏.‏ قَالَ يَقُولُ فَمَا يَسْأَلُونِي قَالَ يَسْأَلُونَكَ الْجَنَّةَ‏.‏ قَالَ يَقُولُ وَهَلْ رَأَوْهَا قَالَ يَقُولُونَ لاَ وَاللَّهِ يَا رَبِّ مَا رَأَوْهَا‏.‏ قَالَ يَقُولُ فَكَيْفَ لَوْ أَنَّهُمْ رَأَوْهَا قَالَ يَقُولُونَ لَوْ أَنَّهُمْ رَأَوْهَا كَانُوا أَشَدَّ عَلَيْهَا حِرْصًا، وَأَشَدَّ لَهَا طَلَبًا، وَأَعْظَمَ فِيهَا رَغْبَةً‏.‏ قَالَ فَمِمَّ يَتَعَوَّذُونَ قَالَ يَقُولُونَ مِنَ النَّارِ‏.‏ قَالَ يَقُولُ وَهَلْ رَأَوْهَا قَالَ يَقُولُونَ لاَ وَاللَّهِ مَا رَأَوْهَا‏.‏ قَالَ يَقُولُ فَكَيْفَ لَوْ رَأَوْهَا قَالَ يَقُولُونَ لَوْ رَأَوْهَا كَانُوا أَشَدَّ مِنْهَا فِرَارًا، وَأَشَدَّ لَهَا مَخَافَةً‏.‏ قَالَ فَيَقُولُ فَأُشْهِدُكُمْ أَنِّي قَدْ غَفَرْتُ لَهُمْ‏.‏ قَالَ يَقُولُ مَلَكٌ مِنَ الْمَلاَئِكَةِ فِيهِمْ فُلاَنٌ لَيْسَ مِنْهُمْ إِنَّمَا جَاءَ لِحَاجَةٍ‏.‏ قَالَ هُمُ الْجُلَسَاءُ لاَ يَشْقَى بِهِمْ جَلِيسُهُمْ ‏\"‏‏.‏ رَوَاهُ شُعْبَةُ عَنِ الأَعْمَشِ وَلَمْ يَرْفَعْهُ‏.‏ وَرَوَاهُ سُهَيْلٌ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "Allah 's Apostle said, \"Allah has some angels who look for those who celebrate the Praises of Allah \non the roads and paths. And when they find some people celebrating the Praises of Allah, they call \neach other, saying, \"Come to the object of your pursuit.' \" He added, \"Then the angels encircle them \nwith their wings up to the sky of the world.\" He added. \"(after those people celebrated the Praises of \nAllah, and the angels go back), their Lord, asks them (those angels)----though He knows better than \nthem----'What do My slaves say?' The angels reply, 'They say: Subhan Allah, Allahu Akbar, and \nAlham-du-li l-lah, Allah then says 'Did they see Me?' The angels reply, 'No! By Allah, they didn't see \nYou.' \nAllah says, How it would have been if they saw Me?' The angels reply, 'If they saw You, they would \nworship You more devoutly and celebrate Your Glory more deeply, and declare Your freedom from \nany resemblance to anything more often.' Allah says (to the angels), 'What do they ask Me for?' The \nangels reply, 'They ask You for Paradise.' Allah says (to the angels), 'Did they see it?' The angels say, \n'No! By Allah, O Lord! They did not see it.' Allah says, How it would have been if they saw it?' The \nangels say, 'If they saw it, they would have greater covetousness for it and would seek It with greater \nzeal and would have greater desire for it.' Allah says, 'From what do they seek refuge?' The angels \nreply, 'They seek refuge from the (Hell) Fire.' Allah says, 'Did they see it?' The angels say, 'No By \nAllah, O Lord! They did not see it.' Allah says, How it would have been if they saw it?' The angels \nsay, 'If they saw it they would flee from it with the extreme fleeing and would have extreme fear from \nit.' Then Allah says, 'I make you witnesses that I have forgiven them.\"' Allah's Messenger (ﷺ) added, \"One of \nthe angels would say, 'There was so-and-so amongst them, and he was not one of them, but he had just \ncome for some need.' Allah would say, 'These are those people whose companions will not be reduced \nto misery.' \""
+      }
+    },
+    {
+      "id": 104,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ أَبُو الْحَسَنِ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا سُلَيْمَانُ التَّيْمِيُّ، عَنْ أَبِي عُثْمَانَ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ أَخَذَ النَّبِيُّ صلى الله عليه وسلم فِي عَقَبَةٍ ـ أَوْ قَالَ فِي ثَنِيَّةٍ، قَالَ ـ فَلَمَّا عَلاَ عَلَيْهَا رَجُلٌ نَادَى فَرَفَعَ صَوْتَهُ لاَ إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ‏.‏ قَالَ وَرَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى بَغْلَتِهِ قَالَ ‏\"‏ فَإِنَّكُمْ لاَ تَدْعُونَ أَصَمَّ وَلاَ غَائِبًا ‏\"‏‏.‏ ثُمَّ قَالَ ‏\"‏ يَا أَبَا مُوسَى ـ أَوْ يَا عَبْدَ اللَّهِ أَلاَ أَدُلُّكَ عَلَى كَلِمَةٍ مِنْ كَنْزِ الْجَنَّةِ ‏\"‏‏.‏ قُلْتُ بَلَى‏.‏ قَالَ ‏\"‏ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Musa Al-Ash`ari:",
+        "text": "The Prophet (ﷺ) started ascending a high place or hill. A man (amongst his companions) ascended it and \nshouted in a loud voice, \"La ilaha illal-lahu wallahu Akbar.\" (At that time) Allah's Messenger (ﷺ) was riding \nhis mule. Allah's Messenger (ﷺ) said, \"You are not calling upon a deaf or an absent one.\" and added, \"O Abu \nMusa (or, O `Abdullah)! Shall I tell you a sentence from the treasure of Paradise?\" I said, \"Yes.\" He \nsaid, \"La haul a wala quwwata illa billah,\""
+      }
+    },
+    {
+      "id": 105,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ حَفِظْنَاهُ مِنْ أَبِي الزِّنَادِ عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، رِوَايَةً قَالَ ‏\n\"‏ لِلَّهِ تِسْعَةٌ وَتِسْعُونَ اسْمًا، مِائَةٌ إِلاَّ وَاحِدًا، لاَ يَحْفَظُهَا أَحَدٌ إِلاَّ دَخَلَ الْجَنَّةَ، وَهْوَ وَتْرٌ يُحِبُّ الْوَتْرَ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "Allah has ninety-nine Names, i.e., one hundred minus one, and whoever believes in their meanings \nand acts accordingly, will enter Paradise; and Allah is witr (one) and loves 'the witr' (i.e., odd \nnumbers)."
+      }
+    },
+    {
+      "id": 106,
+      "chapterId": 80,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، قَالَ حَدَّثَنِي شَقِيقٌ، قَالَ كُنَّا نَنْتَظِرُ عَبْدَ اللَّهِ إِذْ جَاءَ يَزِيدُ بْنُ مُعَاوِيَةَ فَقُلْنَا أَلاَ تَجْلِسُ قَالَ لاَ وَلَكِنْ أَدْخُلُ فَأُخْرِجُ إِلَيْكُمْ صَاحِبَكُمْ، وَإِلاَّ جِئْتُ أَنَا‏.‏ فَجَلَسْتُ فَخَرَجَ عَبْدُ اللَّهِ وَهْوَ آخِذٌ بِيَدِهِ فَقَامَ عَلَيْنَا فَقَالَ أَمَا إِنِّي أَخْبَرُ بِمَكَانِكُمْ، وَلَكِنَّهُ يَمْنَعُنِي مِنَ الْخُرُوجِ إِلَيْكُمْ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَتَخَوَّلُنَا بِالْمَوْعِظَةِ فِي الأَيَّامِ، كَرَاهِيَةَ السَّآمَةِ عَلَيْنَا‏.‏",
+      "english": {
+        "narrator": "Narrated Shaqiq:",
+        "text": "While we were waiting for `Abdullah (bin Mas`ud). Yazid bin Muawiya came. I said (to him), \"Will \nyou sit down?\" He said, \"No, but I will go into the house (of Ibn Mas`ud) and let your companion (Ibn \nMas`ud) come out to you; and if he should not (come out), I will come out and sit (with you).\" Then \n`Abdullah came out, holding the hand of Yazid, addressed us, saying, \"I know that you are assembled \nhere, but the reason that prevents me from coming out to you, is that Allah's Messenger (ﷺ) used to preach to \nus at intervals during the days, lest we should become bored.\""
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ ـ هُوَ ابْنُ أَبِي هِنْدٍ ـ عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسِ، الصِّحَّةُ وَالْفَرَاغُ ‏\"‏‏.‏\nقَالَ عَبَّاسٌ الْعَنْبَرِيُّ حَدَّثَنَا صَفْوَانُ بْنُ عِيسَى، عَنْ عَبْدِ اللَّهِ بْنِ سَعِيدِ بْنِ أَبِي هِنْدٍ، عَنْ أَبِيهِ، سَمِعْتُ ابْنَ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas:",
+        "text": "The Prophet (ﷺ) said: \"There are two blessings that many people are deceived into losing: health and free time.\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ مُعَاوِيَةَ بْنِ قُرَّةَ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ اللَّهُمَّ لاَ عَيْشَ إِلاَّ عَيْشُ الآخِرَة، فَأَصْلِحِ الأَنْصَارَ وَالْمُهَاجِرَة ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "The Prophet (ﷺ) said, \"O Allah! There is no life worth living except the life of the Hereafter, so (please) \nmake righteous the Ansar and the Emigrants.\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنِي أَحْمَدُ بْنُ الْمِقْدَامِ، حَدَّثَنَا الْفُضَيْلُ بْنُ سُلَيْمَانَ، حَدَّثَنَا أَبُو حَازِمٍ، حَدَّثَنَا سَهْلُ بْنُ سَعْدٍ السَّاعِدِيُّ، كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الْخَنْدَقِ وَهْوَ يَحْفِرُ وَنَحْنُ نَنْقُلُ التُّرَابَ وَيَمُرُّ بِنَا فَقَالَ ‏\n\"‏ اللَّهُمَّ لاَ عَيْشَ إِلاَّ عَيْشُ الآخِرَهْ، فَاغْفِرْ لِلأَنْصَارِ وَالْمُهَاجِرَهْ ‏\"‏‏.‏ تَابَعَهُ سَهْلُ بْنُ سَعْدٍ عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl bin Sa`d As-Sa`idi:",
+        "text": "We were in the company of Allah's Messenger (ﷺ) in (the battle of) Al-Khandaq, and he was digging the \ntrench while we were carrying the earth away. He looked at us and said, \"O Allah! There is no life \nworth living except the life of the Hereafter, so (please) forgive the Ansar and the Emigrants.\""
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ أَبِيهِ، عَنْ سَهْلٍ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَوْضِعُ سَوْطٍ فِي الْجَنَّةِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا، وَلَغَدْوَةٌ فِي سَبِيلِ اللَّهِ أَوْ رَوْحَةٌ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl:",
+        "text": "I heard the Prophet (ﷺ) saying, \"A (small) place equal to an area occupied by a whip in Paradise is better \nthan the (whole) world and whatever is in it; and an undertaking (journey) in the forenoon or in the \nafternoon for Allah's Cause, is better than the whole world and whatever is in it.\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ أَبُو الْمُنْذِرِ الطُّفَاوِيُّ، عَنْ سُلَيْمَانَ الأَعْمَشِ، قَالَ حَدَّثَنِي مُجَاهِدٌ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ أَخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِمَنْكِبِي فَقَالَ ‏\n\"‏ كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ، أَوْ عَابِرُ سَبِيلٍ ‏\"‏‏.‏ وَكَانَ ابْنُ عُمَرَ يَقُولُ إِذَا أَمْسَيْتَ فَلاَ تَنْتَظِرِ الصَّبَاحَ، وَإِذَا أَصْبَحْتَ فَلاَ تَنْتَظِرِ الْمَسَاءَ، وَخُذْ مِنْ صِحَّتِكَ لِمَرَضِكَ، وَمِنْ حَيَاتِكَ لِمَوْتِكَ‏.‏",
+      "english": {
+        "narrator": "Narrated Mujahid:",
+        "text": "`Abdullah bin `Umar said, \"Allah's Messenger (ﷺ) took hold of my shoulder and said, 'Be in this world as if \nyou were a stranger or a traveler.\" The sub-narrator added: Ibn `Umar used to say, \"If you survive till \nthe evening, do not expect to be alive in the morning, and if you survive till the morning, do not \nexpect to be alive in the evening, and take from your health for your sickness, and (take) from your \nlife for your death.\""
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا صَدَقَةُ بْنُ الْفَضْلِ، أَخْبَرَنَا يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي أَبِي، عَنْ مُنْذِرٍ، عَنْ رَبِيعِ بْنِ خُثَيْمٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ خَطَّ النَّبِيُّ صلى الله عليه وسلم خَطًّا مُرَبَّعًا، وَخَطَّ خَطًّا فِي الْوَسَطِ خَارِجًا مِنْهُ، وَخَطَّ خُطُطًا صِغَارًا إِلَى هَذَا الَّذِي فِي الْوَسَطِ، مِنْ جَانِبِهِ الَّذِي فِي الْوَسَطِ وَقَالَ ‏\n\"‏ هَذَا الإِنْسَانُ، وَهَذَا أَجَلُهُ مُحِيطٌ بِهِ ـ أَوْ قَدْ أَحَاطَ بِهِ ـ وَهَذَا الَّذِي هُوَ خَارِجٌ أَمَلُهُ، وَهَذِهِ الْخُطُطُ الصِّغَارُ الأَعْرَاضُ، فَإِنْ أَخْطَأَهُ هَذَا نَهَشَهُ هَذَا، وَإِنْ أَخْطَأَهُ هَذَا نَهَشَهُ هَذَا ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Abdullah:",
+        "text": "The Prophet (ﷺ) drew a square and then drew a line in the middle of it and let it extend outside the square \nand then drew several small lines attached to that central line, and said, \"This is the human being, and \nthis, (the square) in his lease of life, encircles him from all sides (or has encircled him), and this (line), \nwhich is outside (the square), is his hope, and these small lines are the calamities and troubles (which \nmay befall him), and if one misses him, an-other will snap (i.e. overtake) him, and if the other misses \nhim, a third will snap (i.e. overtake) him.\""
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُسْلِمٌ، حَدَّثَنَا هَمَّامٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسٍ، قَالَ خَطَّ النَّبِيُّ صلى الله عليه وسلم خُطُوطًا فَقَالَ ‏\n\"‏ هَذَا الأَمَلُ وَهَذَا أَجَلُهُ، فَبَيْنَمَا هُوَ كَذَلِكَ إِذْ جَاءَهُ الْخَطُّ الأَقْرَبُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "The Prophet (ﷺ) drew a few lines and said, \"This is (man's) hope, and this is the instant of his death, and \nwhile he is in this state (of hope), the nearer line (death) comes to Him.\""
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنِي عَبْدُ السَّلاَمِ بْنُ مُطَهَّرٍ، حَدَّثَنَا عُمَرُ بْنُ عَلِيٍّ، عَنْ مَعْنِ بْنِ مُحَمَّدٍ الْغِفَارِيِّ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ أَعْذَرَ اللَّهُ إِلَى امْرِئٍ أَخَّرَ أَجَلَهُ حَتَّى بَلَّغَهُ سِتِّينَ سَنَةً ‏\"‏‏.‏ تَابَعَهُ أَبُو حَازِمٍ وَابْنُ عَجْلاَنَ عَنِ الْمَقْبُرِيِّ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "The Prophet (ﷺ) said, \"Allah will not accept the excuse of any person whose instant of death is delayed till \nhe is sixty years of age.\""
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا أَبُو صَفْوَانَ عَبْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ يَزَالُ قَلْبُ الْكَبِيرِ شَابًّا فِي اثْنَتَيْنِ فِي حُبِّ الدُّنْيَا، وَطُولِ الأَمَلِ ‏\"‏‏.‏ قَالَ اللَّيْثُ حَدَّثَنِي يُونُسُ وَابْنُ وَهْبٍ عَنْ يُونُسَ عَنِ ابْنِ شِهَابٍ قَالَ أَخْبَرَنِي سَعِيدٌ وَأَبُو سَلَمَةَ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "I heard Allah's Messenger (ﷺ) saying, \"The heart of an old man remains young in two respects, i.e., his love \nfor the world (its wealth, amusements and luxuries) and his incessant hope.\""
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ يَكْبَرُ ابْنُ آدَمَ وَيَكْبَرُ مَعَهُ اثْنَانِ حُبُّ الْمَالِ، وَطُولُ الْعُمُرِ ‏\"‏‏.‏ رَوَاهُ شُعْبَةُ عَنْ قَتَادَةَ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "Allah's Messenger (ﷺ) said, \"The son of Adam (i.e. man) grows old and so also two (desires) grow old with \nhim, i.e., love for wealth and (a wish for) a long life.\""
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُعَاذُ بْنُ أَسَدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي مَحْمُودُ بْنُ الرَّبِيعِ، وَزَعَمَ، مَحْمُودٌ أَنَّهُ عَقَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم وَقَالَ وَعَقَلَ مَجَّةً مَجَّهَا مِنْ دَلْوٍ كَانَتْ فِي دَارِهِمْ‏.‏",
+      "english": {
+        "narrator": "Narrated Mahmud bin Ar-Rabi'a:",
+        "text": "I remember that the Allah's Messenger (ﷺ) took water from a bucket (which was in our home used for getting water out of well) with his mouth (and threw it on my face)."
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "قَالَ سَمِعْتُ عِتْبَانَ بْنَ مَالِكٍ الأَنْصَارِيَّ، ثُمَّ أَحَدَ بَنِي سَالِمٍ قَالَ غَدَا عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ لَنْ يُوَافِيَ عَبْدٌ يَوْمَ الْقِيَامَةِ يَقُولُ لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ يَبْتَغِي بِهِ وَجْهَ اللَّهِ، إِلاَّ حَرَّمَ اللَّهُ عَلَيْهِ النَّارَ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Utban bin Malik Al-Ansari:",
+        "text": "who was one of the men of the tribe of Bani Salim: Allah's Messenger (ﷺ) came to me and said, \"If anybody \ncomes on the Day of Resurrection who has said: La ilaha illal-lah, sincerely, with the intention to win \nAllah's Pleasure, Allah will make the Hell-Fire forbidden for him.\""
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ عَمْرٍو، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ يَقُولُ اللَّهُ تَعَالَى مَا لِعَبْدِي الْمُؤْمِنِ عِنْدِي جَزَاءٌ، إِذَا قَبَضْتُ صَفِيَّهُ مِنْ أَهْلِ الدُّنْيَا، ثُمَّ احْتَسَبَهُ إِلاَّ الْجَنَّةُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "Allah's Messenger (ﷺ) said, \"Allah says, 'I have nothing to give but Paradise as a reward to my believer \nslave, who, if I cause his dear friend (or relative) to die, remains patient (and hopes for Allah's \nReward)."
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ بْنِ عُقْبَةَ، عَنْ مُوسَى بْنِ عُقْبَةَ، قَالَ ابْنُ شِهَابٍ حَدَّثَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ الْمِسْوَرَ بْنَ مَخْرَمَةَ، أَخْبَرَهُ أَنَّ عَمْرَو بْنَ عَوْفٍ وَهْوَ حَلِيفٌ لِبَنِي عَامِرِ بْنِ لُؤَىٍّ كَانَ شَهِدَ بَدْرًا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ أَبَا عُبَيْدَةَ بْنَ الْجَرَّاحِ إِلَى الْبَحْرَيْنِ يَأْتِي بِجِزْيَتِهَا، وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم هُوَ صَالَحَ أَهْلَ الْبَحْرَيْنِ، وَأَمَّرَ عَلَيْهِمُ الْعَلاَءَ بْنَ الْحَضْرَمِيِّ، فَقَدِمَ أَبُو عُبَيْدَةَ بِمَالٍ مِنَ الْبَحْرَيْنِ، فَسَمِعَتِ الأَنْصَارُ بِقُدُومِهِ فَوَافَتْهُ صَلاَةَ الصُّبْحِ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَلَمَّا انْصَرَفَ تَعَرَّضُوا لَهُ فَتَبَسَّمَ حِينَ رَآهُمْ وَقَالَ ‏\"‏ أَظُنُّكُمْ سَمِعْتُمْ بِقُدُومِ أَبِي عُبَيْدَةَ، وَأَنَّهُ جَاءَ بِشَىْءٍ ‏\"‏‏.‏ قَالُوا أَجَلْ يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ فَأَبْشِرُوا وَأَمِّلُوا مَا يَسُرُّكُمْ، فَوَاللَّهِ مَا الْفَقْرَ أَخْشَى عَلَيْكُمْ، وَلَكِنْ أَخْشَى عَلَيْكُمْ أَنْ تُبْسَطَ عَلَيْكُمُ الدُّنْيَا، كَمَا بُسِطَتْ عَلَى مَنْ كَانَ قَبْلَكُمْ، فَتَنَافَسُوهَا كَمَا تَنَافَسُوهَا وَتُلْهِيَكُمْ كَمَا أَلْهَتْهُمْ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Amr bin `Auf:",
+        "text": "(An ally of the tribe of Bani 'Amir bin Lu'ai and one of those who had witnessed the battle of Badr \nwith Allah's Messenger (ﷺ)) Allah's Messenger (ﷺ) sent Abu 'Ubaida bin AlJarrah to Bahrain to collect the Jizya \ntax. Allah's Messenger (ﷺ) had concluded a peace treaty with the people of Bahrain and appointed Al 'Ala \nbin Al-Hadrami as their chief; Abu Ubaida arrived from Bahrain with the money. The Ansar heard of \nAbu 'Ubaida's arrival which coincided with the Fajr (morning) prayer led by Allah's Messenger (ﷺ). When \nthe Prophet (ﷺ) finished the prayer, they came to him. Allah's Messenger (ﷺ) smiled when he saw them and said, \n\"I think you have heard of the arrival of Abu 'Ubaida and that he has brought something.\" They \nreplied, \"Yes, O Allah's Messenger (ﷺ)! \" He said, \"Have the good news, and hope for what will please you. \nBy Allah, I am not afraid that you will become poor, but I am afraid that worldly wealth will be given \nto you in abundance as it was given to those (nations) before you, and you will start competing each \nother for it as the previous nations competed for it, and then it will divert you (from good) as it \ndiverted them.\" '"
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ يَوْمًا فَصَلَّى عَلَى أَهْلِ أُحُدٍ صَلاَتَهُ عَلَى الْمَيِّتِ، ثُمَّ انْصَرَفَ إِلَى الْمِنْبَرِ فَقَالَ ‏\n\"‏ إِنِّي فَرَطُكُمْ وَأَنَا شَهِيدٌ عَلَيْكُمْ، وَإِنِّي وَاللَّهِ لأَنْظُرُ إِلَى حَوْضِي الآنَ، وَإِنِّي قَدْ أُعْطِيتُ مَفَاتِيحَ خَزَائِنِ الأَرْضِ ـ أَوْ مَفَاتِيحَ الأَرْضِ ـ وَإِنِّي وَاللَّهِ مَا أَخَافُ عَلَيْكُمْ أَنْ تُشْرِكُوا بَعْدِي، وَلَكِنِّي أَخَافُ عَلَيْكُمْ أَنْ تَنَافَسُوا فِيهَا ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Uqba bin 'Amir:",
+        "text": "The Prophet (ﷺ) went out and offered the funeral prayer for the martyrs of the (battle of) Uhud and then \nascended the pulpit and said, \"I am your predecessor and I am a witness against you. By Allah, I am \nnow looking at my Tank-lake (Al-Kauthar) and I have been given the keys of the treasures of the earth \n(or the keys of the earth). By Allah! I am not afraid that after me you will worship others besides \nAllah, but I am afraid that you will start competing for (the pleasures of) this world.\""
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ أَكْثَرَ مَا أَخَافُ عَلَيْكُمْ مَا يُخْرِجُ اللَّهُ لَكُمْ مِنْ بَرَكَاتِ الأَرْضِ ‏\"‏‏.‏ قِيلَ وَمَا بَرَكَاتُ الأَرْضِ قَالَ ‏\"‏ زَهْرَةُ الدُّنْيَا ‏\"‏‏.‏ فَقَالَ لَهُ رَجُلٌ هَلْ يَأْتِي الْخَيْرُ بِالشَّرِّ فَصَمَتَ النَّبِيُّ صلى الله عليه وسلم حَتَّى ظَنَنَّا أَنَّهُ يُنْزَلُ عَلَيْهِ، ثُمَّ جَعَلَ يَمْسَحُ عَنْ جَبِينِهِ فَقَالَ ‏\"‏ أَيْنَ السَّائِلُ ‏\"‏‏.‏ قَالَ أَنَا‏.‏ قَالَ أَبُو سَعِيدٍ لَقَدْ حَمِدْنَاهُ حِينَ طَلَعَ ذَلِكَ‏.‏ قَالَ ‏\"‏ لاَ يَأْتِي الْخَيْرُ إِلاَّ بِالْخَيْرِ، إِنَّ هَذَا الْمَالَ خَضِرَةٌ حُلْوَةٌ، وَإِنَّ كُلَّ مَا أَنْبَتَ الرَّبِيعُ يَقْتُلُ حَبَطًا أَوْ يُلِمُّ، إِلاَّ آكِلَةَ الْخَضِرَةِ، أَكَلَتْ حَتَّى إِذَا امْتَدَّتْ خَاصِرَتَاهَا اسْتَقْبَلَتِ الشَّمْسَ، فَاجْتَرَّتْ وَثَلَطَتْ وَبَالَتْ، ثُمَّ عَادَتْ فَأَكَلَتْ، وَإِنَّ هَذَا الْمَالَ حُلْوَةٌ، مَنْ أَخَذَهُ بِحَقِّهِ وَوَضَعَهُ فِي حَقِّهِ، فَنِعْمَ الْمَعُونَةُ هُوَ، وَمَنْ أَخَذَهُ بِغَيْرِ حَقِّهِ، كَانَ الَّذِي يَأْكُلُ وَلاَ يَشْبَعُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa`id Al-Khudri:",
+        "text": "Allah's Messenger (ﷺ) said, \"The thing I am afraid of most for your sake, is the worldly blessings which \nAllah will bring forth to you.\" It was said, \"What are the blessings of this world?\" The Prophet (ﷺ) said, \n\"The pleasures of the world.\" A man said, \"Can the good bring forth evil?\" The Prophet (ﷺ) kept quiet for \na while till we thought that he was being inspired divinely. Then he started removing the sweat from \nhis forehead and said,\" Where is the questioner?\" That man said, \"I (am present).\" Abu Sa`id added: \nWe thanked the man when the result (of his question) was such. The Prophet (ﷺ) said, \"Good never brings \nforth but good. This wealth (of the world) is (like) green and sweet (fruit), and all the vegetation \nwhich grows on the bank of a stream either kills or nearly kills the animal that eats too much of it, \nexcept the animal that eats the Khadira (a kind of vegetation). Such an animal eats till its stomach is \nfull and then it faces the sun and starts ruminating and then it passes out dung and urine and goes to \neat again. This worldly wealth is (like) sweet (fruit), and if a person earns it (the wealth) in a legal way \nand spends it properly, then it is an excellent helper, and whoever earns it in an illegal way, he will be \nlike the one who eats but is never satisfied.\""
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ أَبَا جَمْرَةَ، قَالَ حَدَّثَنِي زَهْدَمُ بْنُ مُضَرِّبٍ، قَالَ سَمِعْتُ عِمْرَانَ بْنَ حُصَيْنٍ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ خَيْرُكُمْ قَرْنِي، ثُمَّ الَّذِينَ يَلُونَهُمْ، ثُمَّ الَّذِينَ يَلُونَهُمْ ‏\"‏‏.‏ قَالَ عِمْرَانُ فَمَا أَدْرِي قَالَ النَّبِيُّ صلى الله عليه وسلم بَعْدَ قَوْلِهِ مَرَّتَيْنِ أَوْ ثَلاَثًا ‏\"‏ ثُمَّ يَكُونُ بَعْدَهُمْ قَوْمٌ يَشْهَدُونَ وَلاَ يُسْتَشْهَدُونَ، وَيَخُونُونَ وَلاَ يُؤْتَمَنُونَ، وَيَنْذِرُونَ وَلاَ يَفُونَ وَيَظْهَرُ فِيهِمُ السِّمَنُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Zahdam bin Mudarrib:",
+        "text": "`Imran bin Husain said: The Prophet (ﷺ) said, \"The best people are my contemporaries (i.e., the present \n(my) generation) and then those who come after them (i.e., the next generation).\" `Imran added: I am \nnot sure whether the Prophet (ﷺ) repeated the statement twice after his first saying. The Prophet (ﷺ) added, \n\"And after them there will come people who will bear witness, though they will not be asked to give \ntheir witness; and they will be treacherous and nobody will trust them, and they will make vows, but \nwill not fulfill them, and fatness will appear among them.\""
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدَانُ، عَنْ أَبِي حَمْزَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَبِيدَةَ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ خَيْرُ النَّاسِ قَرْنِي، ثُمَّ الَّذِينَ يَلُونَهُمْ، ثُمَّ الَّذِينَ يَلُونَهُمْ، ثُمَّ يَجِيءُ مِنْ بَعْدِهِمْ قَوْمٌ تَسْبِقُ شَهَادَتُهُمْ أَيْمَانَهُمْ وَأَيْمَانُهُمْ شَهَادَتَهُمْ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Abdullah:",
+        "text": "The Prophet (ﷺ) said, \"The best people are those of my generation, and then those who will come after \nthem (the next generation), and then those who will come after them (i.e. the next generation), and \nthen after them, there will come people whose witness will precede their oaths, and whose oaths will \nprecede their witness.\""
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنِي يَحْيَى بْنُ مُوسَى، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ قَيْسٍ، قَالَ سَمِعْتُ خَبَّابًا، وَقَدِ اكْتَوَى يَوْمَئِذٍ سَبْعًا فِي بَطْنِهِ وَقَالَ لَوْلاَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَانَا أَنْ نَدْعُوَ بِالْمَوْتِ لَدَعَوْتُ بِالْمَوْتِ، إِنَّ أَصْحَابَ مُحَمَّدٍ صلى الله عليه وسلم مَضَوْا وَلَمْ تَنْقُصْهُمُ الدُّنْيَا بِشَىْءٍ، وَإِنَّا أَصَبْنَا مِنَ الدُّنْيَا مَا لاَ نَجِدُ لَهُ مَوْضِعًا إِلاَّ التُّرَابَ‏.‏",
+      "english": {
+        "narrator": "Narrated Qais:",
+        "text": "I heard Khabbab, who had branded his `Abdomen with seven brands, saying, \"Had Allah's Messenger (ﷺ) not \nforbidden us to invoke Allah for death, I would have invoked Allah for death. The companions of \nMuhammad have left this world without taking anything of their reward in it (i.e., they will have \nperfect reward in the Hereafter), but we have collected of the worldly wealth what we cannot spend \nbut on earth (i.e. on building houses)."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي قَيْسٌ، قَالَ أَتَيْتُ خَبَّابًا وَهْوَ يَبْنِي حَائِطًا لَهُ فَقَالَ إِنَّ أَصْحَابَنَا الَّذِينَ مَضَوْا لَمْ تَنْقُصْهُمُ الدُّنْيَا شَيْئًا، وَإِنَّا أَصَبْنَا مِنْ بَعْدِهِمْ شَيْئًا، لاَ نَجِدُ لَهُ مَوْضِعًا إِلاَّ التُّرَابَ‏.‏",
+      "english": {
+        "narrator": "Narrated Qais:",
+        "text": "I came to Khabbab while he was building a wall, and he (Khabbab) said, \"Our companions who have \nleft this world, did not enjoy anything of their reward therein, while we have collected after them, \nmuch wealth that we cannot spend but on earth (i.e., on building)."
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، عَنْ سُفْيَانَ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ خَبَّاب ٍ ـ رضى الله عنه ـ قَالَ هَاجَرْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏",
+      "english": {
+        "narrator": "Narrated Khabbab:",
+        "text": "We migrated with the Prophet..(This narration is related in the chapter of migration)."
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا سَعْدُ بْنُ حَفْصٍ، حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ الْقُرَشِيِّ، قَالَ أَخْبَرَنِي مُعَاذُ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ ابْنَ أَبَانَ، أَخْبَرَهُ قَالَ أَتَيْتُ عُثْمَانَ بِطَهُورٍ وَهْوَ جَالِسٌ عَلَى الْمَقَاعِدِ، فَتَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ ثُمَّ قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم تَوَضَّأَ وَهْوَ فِي هَذَا الْمَجْلِسِ، فَأَحْسَنَ الْوُضُوءَ ثُمَّ قَالَ ‏\"‏ مَنْ تَوَضَّأَ مِثْلَ هَذَا الْوُضُوءِ، ثُمَّ أَتَى الْمَسْجِدَ فَرَكَعَ رَكْعَتَيْنِ، ثُمَّ جَلَسَ، غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏ قَالَ وَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لاَ تَغْتَرُّوا ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas:",
+        "text": "I brought water to `Uthman bin `Affan to perform the ablution while he was sitting on his seat. He \nperformed the ablution in a perfect way and said, \"I saw the Prophet (ﷺ) performing the ablution in this \nplace and he performed it in a perfect way and said, \"Whoever performs the ablution as I have done \nthis time and then proceeds to the mosque and offers a two-rak`at prayer and then sits there (waiting \nfor the compulsory congregational prayers), then all his past sins will be forgiven.\" The Prophet (ﷺ) \nfurther added, \"Do not be conceited (thinking that your sins will be forgiven because of your prayer)."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنِي يَحْيَى بْنُ حَمَّادٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ بَيَانٍ، عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ، عَنْ مِرْدَاسٍ الأَسْلَمِيِّ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ يَذْهَبُ الصَّالِحُونَ الأَوَّلُ فَالأَوَّلُ، وَيَبْقَى حُفَالَةٌ كَحُفَالَةِ الشَّعِيرِ أَوِ التَّمْرِ، لاَ يُبَالِيهِمُ اللَّهُ بَالَةً ‏\"‏‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ يُقَالُ حُفَالَةٌ وَحُثَالَةٌ‏.‏",
+      "english": {
+        "narrator": "Narrated Mirdas Al-Aslami:",
+        "text": "The Prophet (ﷺ) said, \"The righteous (pious people will depart (die) in succession one after the other, and \nthere will remain (on the earth) useless people like the useless husk of barley seeds or bad dates."
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنِي يَحْيَى بْنُ يُوسُفَ، أَخْبَرَنَا أَبُو بَكْرٍ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ تَعِسَ عَبْدُ الدِّينَارِ وَالدِّرْهَمِ وَالْقَطِيفَةِ وَالْخَمِيصَةِ، إِنْ أُعْطِيَ رَضِيَ، وَإِنْ لَمْ يُعْطَ لَمْ يَرْضَ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "The Prophet (ﷺ) said, \"Perish the slave of Dinar, Dirham, Qatifa (thick soft cloth), and Khamisa (a \ngarment), for if he is given, he is pleased; otherwise he is dissatisfied.\""
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لَوْ كَانَ لاِبْنِ آدَمَ وَادِيَانِ مِنْ مَالٍ لاَبْتَغَى ثَالِثًا، وَلاَ يَمْلأُ جَوْفَ ابْنِ آدَمَ إِلاَّ التُّرَابُ، وَيَتُوبُ اللَّهُ عَلَى مَنْ تَابَ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas:",
+        "text": "I heard the Prophet (ﷺ) saying, \"If the son of Adam (the human being) had two valleys of money, he would \nwish for a third, for nothing can fill the belly of Adam's son except dust, and Allah forgives him who \nrepents to Him.\""
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنِي مُحَمَّدٌ، أَخْبَرَنَا مَخْلَدٌ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ سَمِعْتُ عَطَاءً، يَقُولُ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لَوْ أَنَّ لاِبْنِ آدَمَ مِثْلَ وَادٍ مَالاً لأَحَبَّ أَنَّ لَهُ إِلَيْهِ مِثْلَهُ، وَلاَ يَمْلأُ عَيْنَ ابْنِ آدَمَ إِلاَّ التُّرَابُ، وَيَتُوبُ اللَّهُ عَلَى مَنْ تَابَ ‏\"‏‏.‏ قَالَ ابْنُ عَبَّاسٍ فَلاَ أَدْرِي مِنَ الْقُرْآنِ هُوَ أَمْ لاَ‏.‏ قَالَ وَسَمِعْتُ ابْنَ الزُّبَيْرِ يَقُولُ ذَلِكَ عَلَى الْمِنْبَرِ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas:",
+        "text": "I heard Allah's Messenger (ﷺ) saying, \"If the son of Adam had money equal to a valley, then he will wish for \nanother similar to it, for nothing can satisfy the eye of Adam's son except dust. And Allah forgives \nhim who repents to Him.\" Ibn `Abbas said: I do not know whether this saying was quoted from the \nQur'an or not. `Ata' said, \"I heard Ibn AzZubair saying this narration while he was on the pulpit.\""
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سُلَيْمَانَ بْنِ الْغَسِيلِ، عَنْ عَبَّاسِ بْنِ سَهْلِ بْنِ سَعْدٍ، قَالَ سَمِعْتُ ابْنَ الزُّبَيْرِ، عَلَى الْمِنْبَرِ بِمَكَّةَ فِي خُطْبَتِهِ يَقُولُ يَا أَيُّهَا النَّاسُ إِنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقُولُ ‏\n\"‏ لَوْ أَنَّ ابْنَ آدَمَ أُعْطِيَ وَادِيًا مَلأً مِنْ ذَهَبٍ أَحَبَّ إِلَيْهِ ثَانِيًا، وَلَوْ أُعْطِيَ ثَانِيًا أَحَبَّ إِلَيْهِ ثَالِثًا، وَلاَ يَسُدُّ جَوْفَ ابْنِ آدَمَ إِلاَّ التُّرَابُ، وَيَتُوبُ اللَّهُ عَلَى مَنْ تَابَ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl bin Sa`d:",
+        "text": "I heard Ibn Az-Zubair who was on the pulpit at Mecca, delivering a sermon, saying, \"O men! The \nProphet used to say, \"If the son of Adam were given a valley full of gold, he would love to have a \nsecond one; and if he were given the second one, he would love to have a third, for nothing fills the \nbelly of Adam's son except dust. And Allah forgives he who repents to Him.\" Ubai said, \"We \nconsidered this as a saying from the Qur'an till the Sura (beginning with) 'The mutual rivalry for piling \nup of worldly things diverts you..' (102.1) was revealed.\""
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 81,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَوْ أَنَّ لاِبْنِ آدَمَ وَادِيًا مِنْ ذَهَبٍ أَحَبَّ أَنْ يَكُونَ لَهُ وَادِيَانِ، وَلَنْ يَمْلأَ فَاهُ إِلاَّ التُّرَابُ، وَيَتُوبُ اللَّهُ عَلَى مَنْ تَابَ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "Allah's Messenger (ﷺ) said, \"If Adam's son had a valley full of gold, he would like to have two valleys, for \nnothing fills his mouth except dust. And Allah forgives him who repents to Him.\""
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 398,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، عَنْ عَمَّارِ بْنِ رُزَيْقٍ، عَنْ عَبْدِ اللَّهِ بْنِ عِيسَى، عَنْ عِكْرِمَةَ، عَنْ يَحْيَى بْنِ يَعْمَرَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ خَبَّبَ زَوْجَةَ امْرِئٍ أَوْ مَمْلُوكَهُ فَلَيْسَ مِنَّا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "The Prophet (ﷺ) said: If anyone corrupts (instigates) the wife of a man or his slave (against him), he is not from us."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

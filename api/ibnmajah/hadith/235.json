@@ -1,0 +1,16 @@
+{
+  "id": 235,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، أَنْبَأَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ الدَّرَاوَرْدِيُّ، حَدَّثَنِي قُدَامَةُ بْنُ مُوسَى، عَنْ مُحَمَّدِ بْنِ الْحُصَيْنِ التَّمِيمِيِّ، عَنْ أَبِي عَلْقَمَةَ، مَوْلَى ابْنِ عَبَّاسٍ عَنْ يَسَارٍ، مَوْلَى ابْنِ عُمَرَ عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ لِيُبَلِّغْ شَاهِدُكُمْ غَائِبَكُمْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Ibn 'Umar that:",
+    "text": "The Messenger of Allah said: \"Let those of you who are present convey it to those of you who are absent.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

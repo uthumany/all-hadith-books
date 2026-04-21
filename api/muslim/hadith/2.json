@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنِي ابْنَ عُلَيَّةَ - عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّهُ قَالَ إِنَّهُ لَيَمْنَعُنِي أَنْ أُحَدِّثَكُمْ حَدِيثًا كَثِيرًا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ تَعَمَّدَ عَلَىَّ كَذِبًا فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Zuhayr bin Harb narrated to me, Ismā’īl, rather, Ibn Ulayyah narrated to us, on authority of Abd il-Azīz ibn Suhayb, on authority of Anas bin Mālik, that he said:",
+    "text": "‘Indeed what prevents me from relating to you a great number of Ḥadīth is that the Messenger of Allah, peace and blessings of Allah upon him, said: ‘Whoever intends to lie upon me, then let him take his seat in the Fire.’"
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

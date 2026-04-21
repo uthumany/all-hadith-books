@@ -1,0 +1,16 @@
+{
+  "id": 581,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة رضي الله عنها قالت‏:‏ كان رسول الله صلى الله عليه وسلم كلما كان ليلتها من رسول الله صلى الله عليه وسلم يخرج من آخر الليل إلى البقيع، فيقول‏:‏ السلام عليكم دار قوم مؤمنين، وأتاكم ما توعدون، غداً مؤجلون وإنا إن شاء الله بكم لاحقون، اللهم اغفر لأهل بقيع الغرقد” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her):",
+    "text": "reported Whenever it was her turn to spend with Messenger of Allah (ﷺ), he used to go to the Baqi' (graveyard in Al-Madinah) at the last part of night and say, \"May you be safe, O abode of the believing people. What you have been promised has come to you. You are tarried till tomorrow and certainly we shall follow you if Allah wills. O Allah, forgive the inmates of the Baqi'-al-Gharqad.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

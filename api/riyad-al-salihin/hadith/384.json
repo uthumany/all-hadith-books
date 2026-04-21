@@ -1,0 +1,16 @@
+{
+  "id": 384,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن معاذ رضي الله عنه، أن رسول الله صلى الله عليه وسلم، أخذ بيده وقال‏:‏ ‏\n\"‏يا معاذ، والله إني لأحبك، ثم أوصيك يا معاذ لا تدعن في دبر كل صلاة تقول‏:‏ اللهم أعني على ذكرك وشكرك، وحسن عبادتك‏\"‏‏.‏ حديث صحيح، ‏(‏‏(‏رواه أبو داود والنسائي بإسناد صحيح‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Mu'adh (bin Jabal) (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) held my hand and said, \"O Mu'adh, By Allah, I love you and advise you not to miss supplicating after every Salat (prayer) saying: 'Allahumma a'inni 'ala dhikrika wa shukrika, wa husni 'ibadatika,' (O Allah, help me remember You, expressing gratitude to You and worship You in the best manner)\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

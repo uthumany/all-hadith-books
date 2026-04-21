@@ -1,0 +1,16 @@
+{
+  "id": 407,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي برزة -براء ثم زاى- نضلة بن عبيد الأسلمى، رضي الله عنه، قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏لا تزول قدما عبد يوم القيامة حتى يسأل عن عمره فيما أفناه ، وعن علمه فيما فعل فيه، وعن ماله من أين اكتسبه، وفيما أنفقه، وعن جسمه فيم أبلاه‏\"‏ ‏(‏‏(‏رواه الترمذي وقاال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Barzah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Man's feet will not move on the Day of Resurrection before he is asked about his life, how did he consume it, his knowledge, what did he do with it, his wealth, how did he earn it and how did he dispose of it, and about his body, how did he wear it out.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

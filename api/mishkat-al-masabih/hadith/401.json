@@ -1,0 +1,16 @@
+{
+  "id": 401,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: كُنَّا نُسَلِّمُ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ فِي الصَّلَاةِ فَيَرُدُّ عَلَيْنَا فَلَمَّا رَجَعْنَا مِنْ عِنْدِ النَّجَاشِيِّ سَلَّمْنَا عَلَيْهِ فَلَمْ يَرُدَّ عَلَيْنَا فَقُلْنَا: يَا رَسُولَ اللَّهِ كُنَّا نُسَلِّمُ عَلَيْكَ فِي الصَّلَاةِ فَتَرُدُّ عَلَيْنَا فَقَالَ: إِنَّ فِي الصَّلَاةِ لَشُغْلًا \"",
+  "english": {
+    "narrator": "‘Abdallah b. Mas'ud said:",
+    "text": "We used to greet the Prophet while he was engaged in prayer and he would respond to our greeting, but when we returned from the Negus* we greeted him and he did not respond to us, so we said, “Messenger of God, we used to greet you when you were engaged in prayer and you would respond to us.” He replied, “Prayer demands one’s whole attention.” \n\n* The reference is to the return of those who had gone from Mecca to Abyssinia when Muslims were being persecuted.\n\n(Bukhari and Muslim.)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

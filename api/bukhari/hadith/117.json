@@ -1,0 +1,16 @@
+{
+  "id": 117,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ قَالَ اللَّهُ تَعَالَى يُؤْذِينِي ابْنُ آدَمَ، يَسُبُّ الدَّهْرَ وَأَنَا الدَّهْرُ، بِيَدِي الأَمْرُ، أُقَلِّبُ اللَّيْلَ وَالنَّهَارَ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "The Prophet (ﷺ) said, \"Allah said: \"The son of Adam hurts Me by abusing Time, for I am Time; in My \nHands are all things and I cause the revolution of night and day.' \" (See Hadith No. 351, Vol. 6)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

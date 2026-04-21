@@ -1,0 +1,16 @@
+{
+  "id": 143,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى رَجُلاً يَسُوقُ بَدَنَةً فَقَالَ ‏\"‏ ارْكَبْهَا ‏\"‏ ‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّهَا بَدَنَةٌ ‏.‏ فَقَالَ ‏\"‏ ارْكَبْهَا وَيْلَكَ ‏\"‏ ‏.‏ فِي الثَّانِيَةِ أَوِ الثَّالِثَةِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Abu'z Zinad from al-Araj from\nAbu Hurayra that the Messenger of Allah, may Allah bless him and grant\nhim peace, saw a man driving forward a camel which he was going to\nsacrifice, and he told him to ride it. The man said, \"Messenger of\nAllah, it is an animal that I am going to sacrifice,\" and he replied,\n\"Ride it, woe on you,\" either the second or the third time."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

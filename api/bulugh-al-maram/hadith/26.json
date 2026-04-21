@@ -1,0 +1,16 @@
+{
+  "id": 26,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "عَنْ جَابِرٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ كُلُّ مَعْرُوفٍ صَدَقَةٌ }  أَخْرَجَهُ اَلْبُخَارِيُّ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6021)‏، ورواه ‏-أيضا‏- في\" الأدب المفرد\" (304)‏ بسند لا بأس به، وزاد:\" وأن من المعروف أن تلقى أخاك بوجه طلق، وأن تفرغ من دلوك في إناء أخيك\".‏",
+  "english": {
+    "narrator": "Jabir bin ’Abdullah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Every act of goodness is (considered as) Sadaqah.” Related by Al-Bukhari."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

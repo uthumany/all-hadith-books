@@ -1,0 +1,16 @@
+{
+  "id": 101,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "السابع‏:‏ عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ حجبت النار بالشهوات، وحجبت الجنة بالمكاره‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said. \"The (Hell) Fire is surrounded with all kinds of desires and passions, while Jannah is surrounded with adversities.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

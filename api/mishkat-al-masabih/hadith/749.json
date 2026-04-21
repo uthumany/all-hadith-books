@@ -1,0 +1,16 @@
+{
+  "id": 749,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ عِمْرَانَ بْنِ حُصَيْنٍ قَالَ: غَزَوْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَشَهِدْتُ مَعَهُ الْفَتْحَ فَأَقَامَ بِمَكَّةَ ثَمَانِيَ عَشْرَةَ لَيْلَةً لَا يُصَلِّي إِلَّا رَكْعَتَيْنِ يَقُولُ: «يَا أَهْلَ الْبَلَدِ صَلُّوا أَرْبَعًا فَإِنَّا سَفْرٌ» . رَوَاهُ أَبُو دَاوُدَ",
+  "english": {
+    "narrator": "‘Imran b. Husain said:",
+    "text": "I went on an expedition with the Prophet, and I was present with him at the Conquest. He stayed eighteen days in Mecca and prayed only two rak'as . He said, “You who live in the town must pray four; we are travellers.” \n\nAbu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

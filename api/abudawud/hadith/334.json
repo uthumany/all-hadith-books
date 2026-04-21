@@ -1,0 +1,16 @@
+{
+  "id": 334,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، ح وَحَدَّثَنَا يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُؤْتَى بِالصِّبْيَانِ فَيَدْعُو لَهُمْ بِالْبَرَكَةِ - زَادَ يُوسُفُ - وَيُحَنِّكُهُمْ وَلَمْ يَذْكُرْ بِالْبَرَكَةِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Aisha, Ummul Mu'minin:",
+    "text": "Boys used to be brought to the Messenger of Allah (ﷺ), and he would invoke blessings on them. Yusuf added: \"and soften some dates and rub their palates with them\". He did not mention \"blessings\"."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

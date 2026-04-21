@@ -1,0 +1,16 @@
+{
+  "id": 676,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا الْفَضْلُ بْنُ دُكَيْنٍ، حَدَّثَنَا زُهَيْرٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ فَمُطِرْنَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لِيُصَلِّ مَنْ شَاءَ مِنْكُمْ فِي رَحْلِهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Jabir said:",
+    "text": "We were in the company of the Messenger of Allah (ﷺ) during a journey. The rain fell upon us.  The Messenger of Allah (ﷺ) said: Anyone who wants to pray in his dwelling may pray."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

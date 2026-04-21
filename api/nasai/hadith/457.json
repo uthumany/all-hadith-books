@@ -1,0 +1,16 @@
+{
+  "id": 457,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ آدَمَ، عَنْ عَبْدِ الرَّحِيمِ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، وَذَكَرَ، آخَرَ عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَمَى الْجَمْرَةَ بِمِثْلِ حَصَى الْخَذْفِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Jabir:",
+    "text": "That the Messenger of Allah stoned the Jamarat with pebbles like date sones or fingertips."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

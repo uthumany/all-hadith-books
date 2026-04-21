@@ -1,0 +1,16 @@
+{
+  "id": 175,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ ثُوَيْرِ بْنِ أَبِي فَاخِتَةَ، عَنْ أَبِيهِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُحِبُّ هَذِهِ السُّورَةَ سَبِّحْ اسْمَ رَبِّكَ الْأَعْلَى ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) liked this soorah: “Glorify the Name of your Lord, the Most High`."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

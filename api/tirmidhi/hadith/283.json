@@ -1,0 +1,16 @@
+{
+  "id": 283,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا زِيَادُ بْنُ الرَّبِيعِ، قَالَ حَدَّثَنَا خَالِدُ بْنُ سَلَمَةَ الْمَخْزُومِيُّ، عَنِ ابْنِ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ مَا أَشْكَلَ عَلَيْنَا أَصْحَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم حَدِيثٌ قَطُّ فَسَأَلْنَا عَائِشَةَ إِلاَّ وَجَدْنَا عِنْدَهَا مِنْهُ عِلْمًا ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Musa:",
+    "text": "\"Never was a Hadith unclear to us - the Companions of the Messenger of Allah - and we asked 'Aishah, except that we found some knowledge concerning it with her.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

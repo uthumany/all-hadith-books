@@ -1,0 +1,16 @@
+{
+  "id": 189,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا صَفْوَانُ بْنُ عِيسَى، عَنِ ابْنِ عَجْلاَنَ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ كَتَبَ رَبُّكُمْ عَلَى نَفْسِهِ بِيَدِهِ قَبْلَ أَنْ يَخْلُقَ الْخَلْقَ رَحْمَتِي سَبَقَتْ غَضَبِي ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Hurairah said:",
+    "text": "\"The Messenger of Allah said: 'Your Lord wrote for Himself with His Own Hand before He created the creation: \"My mercy precedes My wrath.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

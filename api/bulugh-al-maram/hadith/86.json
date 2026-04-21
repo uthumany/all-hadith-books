@@ -1,0 +1,16 @@
+{
+  "id": 86,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ مُعَاوِيَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ يُرِدِ اَللَّهُ بِهِ خَيْرًا, يُفَقِّهْهُ فِي اَلدِّينِ }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (71)‏، ومسلم (1037)‏.‏",
+  "english": {
+    "narrator": "Mu’awiyah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“When Allah wishes good for anyone, He bestows upon him the Fiqh (comprehension) of the religion.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

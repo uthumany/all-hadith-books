@@ -1,0 +1,16 @@
+{
+  "id": 272,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادٌ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ بَعْضِ، آلِ أُمِّ سَلَمَةَ قَالَ كَانَ فِرَاشُ النَّبِيِّ صلى الله عليه وسلم نَحْوًا مِمَّا يُوضَعُ الإِنْسَانُ فِي قَبْرِهِ وَكَانَ الْمَسْجِدُ عِنْدَ رَأْسِهِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Umm Salamah, Ummul Mu'minin:",
+    "text": "Some relative of Umm Salamah said: The bed of the Prophet (ﷺ) was set as a man is laid in his grave; the mosque was towards his head."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

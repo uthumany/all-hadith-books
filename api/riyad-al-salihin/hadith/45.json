@@ -1,0 +1,16 @@
+{
+  "id": 45,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ليس الشديد بالصرعة، إنما الشديد الذى يملك نفسه عند الغضب‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"The strong man is not one who is good at wrestling, but the strong man is one who controls himself in a fit of rage.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

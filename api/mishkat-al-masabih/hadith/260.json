@@ -1,0 +1,16 @@
+{
+  "id": 260,
+  "chapterId": 19,
+  "bookId": 14,
+  "arabic": "عَن أبي هُرَيْرَة قَالَ: بَيْنَا نَحْنُ فِي الْمَسْجِدِ خَرَجَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «انْطَلِقُوا إِلَى يهود» فخرجنا مَعَه حَتَّى جِئْنَا بَيت الْمدَارِس فَقَامَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «يَا مَعْشَرَ يَهُودَ أَسْلِمُوا تَسْلَمُوا اعْلَمُوا أَنَّ الْأَرْضَ لِلَّهِ وَلِرَسُولِهِ وَأَنِّي أُرِيدُ أَنْ أُجْلِيَكُمْ مِنْ هَذِهِ الْأَرْضِ. فَمَنْ وَجَدَ مِنْكُمْ بِمَالِهِ شَيْئا فليبعه»",
+  "english": {
+    "narrator": "Abu Huraira said:",
+    "text": "While we were in the mosque the Prophet came out and said, “Come on to the Jews.” So we went out with him and came to the house where they read their Scriptures, and the Prophet stood up and said, “If you Jews accept Islam you will be safe. Know that the land belongs to God and His Messenger, and I intend to deport you from this land; so if any of you has property  he must sell it.” \n\n(Bukhari and Muslim.)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

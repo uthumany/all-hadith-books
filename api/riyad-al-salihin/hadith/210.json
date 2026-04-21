@@ -1,0 +1,16 @@
+{
+  "id": 210,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم  قال‏:‏ ‏\n\"‏ من كانت عنده مظلمة لأخيه، من عرضه أو من شيء، فليتحلله منه اليوم قبل أن لا يكون دينار ولا درهم ، إن كان له عمل صالح أخذ منه بقدر مظلمته، وإن لم يكن له حسنات أخذ من سيئات صاحبه فحمل عليه‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah bepleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"He who has done a wrong affecting his brother's honour or anything else, let him ask his forgiveness today before the time (i.e., the Day of Resurrection) when he will have neither a dinar nor a dirham. If he has done some good deeds, a portion equal to his wrong doings will be subtracted from them; but if he has no good deeds, he will be burdened with the evil deeds of the one he had wronged in the same proportion\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

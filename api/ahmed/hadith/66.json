@@ -1,0 +1,16 @@
+{
+  "id": 66,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنَا مَنْصُورٌ، قَالَ سَمِعْتُ رِبْعِيًّا، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا تَكْذِبُوا عَلَيَّ فَإِنَّهُ مَنْ يَكْذِبْ عَلَيَّ يَلِجْ النَّارَ‏.‏",
+  "english": {
+    "narrator": "Mansoor said:",
+    "text": "I heard Rib`i say: I heard ‘Ali (رضي الله عنه) say: The Messenger of Allah (ﷺ) said: `Do not tell lies about me, for whoever tells lies about me will enter the Fire.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 642,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا حَجَّاجُ بْنُ أَبِي يَعْقُوبَ، حَدَّثَنَا يَعْقُوبُ، حَدَّثَنَا ابْنُ أَخِي الزُّهْرِيِّ، عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ، بِهَذَا الْحَدِيثِ بِإِسْنَادِهِ زَادَ ‏\n\"‏ وَهُوَ جَالِسٌ قَبْلَ التَّسْلِيمِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This tradition has also been transmitted by Muhammad b. Muslim through a different chain of narrators. This version adds; “While he is sitting before he gives the salutation.”"
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

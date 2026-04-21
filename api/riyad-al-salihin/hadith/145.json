@@ -1,0 +1,16 @@
+{
+  "id": 145,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ إن الدين يسر، ولن يشاد الدين إلا غلبه، فسددوا وقاربوا وأبشروا، واستعينوا بالغدوة والروحة وشيء من الدلجة‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏ \n\nوفي رواية له ‏:‏ ‏ ‏سددوا وقاربوا واغدوا وروحوا، وشيء من الدلجة، القصد القصد تبلغوا‏ ‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"The religion (of Islam) is easy, and whoever makes the religion a rigour, it will overpower him. So, follow a middle course (in worship); if you can't do this, do something near to it and give glad tidings and seek help (of Allah) at morn and at dusk and some part of night\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

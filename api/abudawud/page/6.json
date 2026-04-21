@@ -1,0 +1,510 @@
+{
+  "page": 6,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 7,
+  "prevPage": 5,
+  "items": [
+    {
+      "id": 251,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَابْنُ السَّرْحِ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَيُّوبَ بْنِ مُوسَى، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ عَبْدِ اللَّهِ بْنِ رَافِعٍ، مَوْلَى أُمِّ سَلَمَةَ عَنْ أُمِّ سَلَمَةَ، أَنَّ امْرَأَةً، مِنَ الْمُسْلِمِينَ - وَقَالَ زُهَيْرٌ إِنَّهَا - قَالَتْ يَا رَسُولَ اللَّهِ إِنِّي امْرَأَةٌ أَشُدُّ ضَفْرَ رَأْسِي أَفَأَنْقُضُهُ لِلْجَنَابَةِ قَالَ ‏\"‏ إِنَّمَا يَكْفِيكِ أَنْ تَحْفِنِي عَلَيْهِ ثَلاَثًا ‏\"‏ ‏.‏ وَقَالَ زُهَيْرٌ ‏\"‏ تَحْثِي عَلَيْهِ ثَلاَثَ حَثَيَاثٍ مِنْ مَاءٍ ثُمَّ تُفِيضِي عَلَى سَائِرِ جَسَدِكِ فَإِذَا أَنْتِ قَدْ طَهُرْتِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Umm Salamah said:",
+        "text": "one of the Muslims asked, and Zubair reported: Umm Salamah (herself) asked: Messenger of Allah. I am a women who keeps her hair closely plaited; should I undo it when I wash after sexual defilement? He replied (no), it is enough for you to throw three handfuls over it. Then pour water over all your body and will be purified."
+      }
+    },
+    {
+      "id": 252,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، حَدَّثَنَا ابْنُ نَافِعٍ، - يَعْنِي الصَّائِغَ - عَنْ أُسَامَةَ، عَنِ الْمَقْبُرِيِّ، عَنْ أُمِّ سَلَمَةَ، أَنَّ امْرَأَةً، جَاءَتْ إِلَى أُمِّ سَلَمَةَ بِهَذَا الْحَدِيثِ ‏.‏ قَالَتْ فَسَأَلْتُ لَهَا النَّبِيَّ صلى الله عليه وسلم بِمَعْنَاهُ قَالَ فِيهِ ‏\n\"‏ وَاغْمِزِي قُرُونَكِ عِنْدَ كُلِّ حَفْنَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Umm Salamah said:",
+        "text": "A women came to her, this is according to the version of the former tradition. I asked the Prophet (May peace be upon him) a similar question (as in the former tradition). But this version adds: “And wring out your locks after every handful of water”."
+      }
+    },
+    {
+      "id": 253,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ نَافِعٍ، عَنِ الْحَسَنِ بْنِ مُسْلِمٍ، عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ، عَنْ عَائِشَةَ، قَالَتْ كَانَتْ إِحْدَانَا إِذَا أَصَابَتْهَا جَنَابَةٌ أَخَذَتْ ثَلاَثَ حَفَنَاتٍ هَكَذَا - تَعْنِي بِكَفَّيْهَا جَمِيعًا - فَتَصُبُّ عَلَى رَأْسِهَا وَأَخَذَتْ بِيَدٍ وَاحِدَةٍ فَصَبَّتْهَا عَلَى هَذَا الشِّقِّ وَالأُخْرَى عَلَى الشِّقِّ الآخَرِ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "When any of us was sexually defiled, she took three handfuls (of water) in this way, that is to say, with both hands together and poured (water) over her head. She took one handful (of water) and threw it on one side and the other on the other side."
+      }
+    },
+    {
+      "id": 254,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنْ عُمَرَ بْنِ سُوَيْدٍ، عَنْ عَائِشَةَ بِنْتِ طَلْحَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ كُنَّا نَغْتَسِلُ وَعَلَيْنَا الضِّمَادُ وَنَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مُحِلاَّتٌ وَمُحْرِمَاتٌ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "we took a bath while having an adhesive substance over us (our head) in both states, namely, when wearing a robe for Hajj (ihram) and when wearing ordinary clothes (not meant for Hajj)."
+      }
+    },
+    {
+      "id": 255,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَوْفٍ، قَالَ قَرَأْتُ فِي أَصْلِ إِسْمَاعِيلَ بْنِ عَيَّاشٍ - قَالَ ابْنُ عَوْفٍ - وَحَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ، عَنْ أَبِيهِ، حَدَّثَنِي ضَمْضَمُ بْنُ زُرْعَةَ، عَنْ شُرَيْحِ بْنِ عُبَيْدٍ، قَالَ أَفْتَانِي جُبَيْرُ بْنُ نُفَيْرٍ عَنِ الْغُسْلِ، مِنَ الْجَنَابَةِ أَنَّ ثَوْبَانَ، حَدَّثَهُمْ أَنَّهُمُ، اسْتَفْتَوُا النَّبِيَّ صلى الله عليه وسلم عَنْ ذَلِكَ فَقَالَ ‏\n\"‏ أَمَّا الرَّجُلُ فَلْيَنْشُرْ رَأْسَهُ فَلْيَغْسِلْهُ حَتَّى يَبْلُغَ أُصُولَ الشَّعْرِ وَأَمَّا الْمَرْأَةُ فَلاَ عَلَيْهَا أَنْ لاَ تَنْقُضَهُ لِتَغْرِفْ عَلَى رَأْسِهَا ثَلاَثَ غَرَفَاتٍ بِكَفَّيْهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Thawban:",
+        "text": "Shurayh ibn Ubayd said: Jubayr ibn Nufayr gave me a verdict about the bath because of sexual defilement that Thawban reported to them that they asked the Prophet (ﷺ) about it. He (the Prophet) replied: As regards man, he should undo the hair of his head and wash it until the water should reach the roots of the hair. But there is no harm if the woman does not undo it (her hair) and pour three handfuls of water over her head."
+      }
+    },
+    {
+      "id": 256,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرِ بْنِ زِيَادٍ، حَدَّثَنَا شَرِيكٌ، عَنْ قَيْسِ بْنِ وَهْبٍ، عَنْ رَجُلٍ، مِنْ بَنِي سُوَاءَةَ بْنِ عَامِرٍ عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يَغْسِلُ رَأْسَهُ بِالْخِطْمِيِّ وَهُوَ جُنُبٌ يَجْتَزِئُ بِذَلِكَ وَلاَ يَصُبُّ عَلَيْهِ الْمَاءَ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "The Messenger of Allah (May peace be upon him) used to wash his head with marsh-mallow while he was sexually defiled. It was sufficient for him and he did not pour water upon it."
+      }
+    },
+    {
+      "id": 257,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا شَرِيكٌ، عَنْ قَيْسِ بْنِ وَهْبٍ، عَنْ رَجُلٍ، مِنْ بَنِي سُوَاءَةَ بْنِ عَامِرٍ عَنْ عَائِشَةَ، فِيمَا يَفِيضُ بَيْنَ الرَّجُلِ وَالْمَرْأَةِ مِنَ الْمَاءِ قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْخُذُ كَفًّا مِنْ مَاءٍ يَصُبُّ عَلَىَّ الْمَاءَ ثُمَّ يَأْخُذُ كَفًّا مِنْ مَاءٍ ثُمَّ يَصُبُّهُ عَلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "On being asked about (washing) the fluid that flows between man and woman ‘A’ishah said:",
+        "text": "The Messenger of Allah (May peace be upon him) used to take a handful of water and pour it on the fluid. Again, he would take a handful of water and pour it over the fluid."
+      }
+    },
+    {
+      "id": 258,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ الْيَهُودَ، كَانَتْ إِذَا حَاضَتْ مِنْهُمُ امْرَأَةٌ أَخْرَجُوهَا مِنَ الْبَيْتِ وَلَمْ يُؤَاكِلُوهَا وَلَمْ يُشَارِبُوهَا وَلَمْ يُجَامِعُوهَا فِي الْبَيْتِ فَسُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ ذَلِكَ فَأَنْزَلَ اللَّهُ سُبْحَانَهُ ‏{‏ وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذًى فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ ‏}‏ إِلَى آخِرِ الآيَةِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ جَامِعُوهُنَّ فِي الْبُيُوتِ وَاصْنَعُوا كُلَّ شَىْءٍ غَيْرَ النِّكَاحِ ‏\"‏ ‏.‏ فَقَالَتِ الْيَهُودُ مَا يُرِيدُ هَذَا الرَّجُلُ أَنْ يَدَعَ شَيْئًا مِنْ أَمْرِنَا إِلاَّ خَالَفَنَا فِيهِ ‏.‏ فَجَاءَ أُسَيْدُ بْنُ حُضَيْرٍ وَعَبَّادُ بْنُ بِشْرٍ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالاَ يَا رَسُولَ اللَّهِ إِنَّ الْيَهُودَ تَقُولُ كَذَا وَكَذَا أَفَلاَ نَنْكِحُهُنَّ فِي الْمَحِيضِ فَتَمَعَّرَ وَجْهُ رَسُولِ اللَّهِ صلى الله عليه وسلم حَتَّى ظَنَنَّا أَنْ قَدْ وَجَدَ عَلَيْهِمَا فَخَرَجَا فَاسْتَقْبَلَتْهُمَا هَدِيَّةٌ مِنْ لَبَنٍ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَبَعَثَ فِي آثَارِهِمَا فَسَقَاهُمَا فَظَنَنَّا أَنَّهُ لَمْ يَجِدْ عَلَيْهِمَا ‏.‏",
+      "english": {
+        "narrator": "Anas b. malik said:",
+        "text": "Among the jews, when a women menstruated, they ejected her from the house, and they did not eat with her, nor did they drink with her, nor did they associate with her in (their houses) so the Messenger of Allah (May peace be upon him) was questioned about that. Thereupon Allah revealed : “They question thee concerning menstruation. Say : I: is an illness, so let woman alone at such times” (ii 222). The Messenger of Allah (May peace be upon him) then said: Associate with them in the houses and do everything except sexual intercourse. Thereupon the Jews said: This man does not want to leave anything we do without opposing us in it. Usaid b. Hudair and Abbad b. Bishr came and said: Messenger of Allah, the jews are saying such and such a thing. Shall we not then have intercourse with women during mensuration? The face of the Apostle Allah(ﷺ) underwent such a change that we thought he was angry with them; but when they went out they received a gift of milk which was being brought to the Messenger of Allah(ﷺ), and he sent after them and gave them a drink, whereupon we thought that he was not angry with them."
+      }
+    },
+    {
+      "id": 259,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنْ مِسْعَرٍ، عَنِ الْمِقْدَامِ بْنِ شُرَيْحٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَتَعَرَّقُ الْعَظْمَ وَأَنَا حَائِضٌ، فَأُعْطِيهِ النَّبِيَّ صلى الله عليه وسلم فَيَضَعُ فَمَهُ فِي الْمَوْضِعِ الَّذِي فِيهِ وَضَعْتُهُ وَأَشْرَبُ الشَّرَابَ فَأُنَاوِلُهُ فَيَضَعُ فَمَهُ فِي الْمَوْضِعِ الَّذِي كُنْتُ أَشْرَبُ مِنْهُ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "I would eat flesh from a bone when I was menstruating, then hand it over to the Prophet(ﷺ) and he would put his mouth where I had put my mouth: I would drink, then hand it over to him, and he would put his mouth( at the place) where I drank."
+      }
+    },
+    {
+      "id": 260,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ صَفِيَّةَ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَضَعُ رَأْسَهُ فِي حِجْرِي فَيَقْرَأُ وَأَنَا حَائِضٌ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "The Messenger of Allah(ﷺ) would recline on my lap when I was menstruating, then recite the Qur’an."
+      }
+    },
+    {
+      "id": 261,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ ثَابِتِ بْنِ عُبَيْدٍ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ نَاوِلِينِي الْخُمْرَةَ مِنَ الْمَسْجِدِ ‏\"‏ ‏.‏ فَقُلْتُ إِنِّي حَائِضٌ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ حَيْضَتَكِ لَيْسَتْ فِي يَدِكِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "The Messenger of Allah (May peace be upon him) said to me; Get me the mat from the mosque. I said ; I am menstruating. The Messenger of Allah (May peace be upon him) then replied: Your menstruation is not in your hand."
+      }
+    },
+    {
+      "id": 262,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ مُعَاذَةَ، أَنَّ امْرَأَةً، سَأَلَتْ عَائِشَةَ أَتَقْضِي الْحَائِضُ الصَّلاَةَ فَقَالَتْ أَحَرُورِيَّةٌ أَنْتِ لَقَدْ كُنَّا نَحِيضُ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَلاَ نَقْضِي وَلاَ نُؤْمَرُ بِالْقَضَاءِ ‏.‏",
+      "english": {
+        "narrator": "Mu’adhah reported :",
+        "text": "A woman asked ‘A’ishah: should a menstruating woman complete the prayer abandoned during the period of menses? ‘A’ishah said: Are you a Haruriyyah? During menstruation in the time of the Messenger of Allah (May peace be upon him) we would not complete (the abandoned prayers), nor were we commanded to complete them."
+      }
+    },
+    {
+      "id": 263,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَمْرٍو، أَخْبَرَنَا سُفْيَانُ، - يَعْنِي ابْنَ عَبْدِ الْمَلِكِ - عَنِ ابْنِ الْمُبَارَكِ، عَنْ مَعْمَرٍ، عَنْ أَيُّوبَ، عَنْ مُعَاذَةَ الْعَدَوِيَّةِ، عَنْ عَائِشَةَ، بِهَذَا الْحَدِيثِ ‏.‏ قَالَ أَبُو دَاوُدَ وَزَادَ فِيهِ فَنُؤْمَرُ بِقَضَاءِ الصَّوْمِ وَلاَ نُؤْمَرُ بِقَضَاءِ الصَّلاَةِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This tradition has also been narrated through a different chain of  the authority of Mu’adhah al-‘Adawiyyah from ‘A’ishah. This version adds; we were commanded to complete the (abandoned) fast, but were commanded to complete the (abandoned) prayer."
+      }
+    },
+    {
+      "id": 264,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنِي الْحَكَمُ، عَنْ عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ مِقْسَمٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي الَّذِي يَأْتِي امْرَأَتَهُ وَهِيَ حَائِضٌ قَالَ ‏\"‏ يَتَصَدَّقُ بِدِينَارٍ أَوْ نِصْفِ دِينَارٍ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ هَكَذَا الرِّوَايَةُ الصَّحِيحَةُ قَالَ ‏\"‏ دِينَارٌ أَوْ نِصْفُ دِينَارٍ ‏\"‏ ‏.‏ وَرُبَّمَا لَمْ يَرْفَعْهُ شُعْبَةُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Prophet (ﷺ) said about a person who had intercourse with his wife while she was menstruating: He must give one dinar or half a dinar in alms.\n\n\nAbu Dawud said: The correct version says si: One dinar or half a dinar. Shu'bah (a narrator) did not sometimes narrate this tradition as a statement of the Prophet (ﷺ)."
+      }
+    },
+    {
+      "id": 265,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ مُطَهَّرٍ، حَدَّثَنَا جَعْفَرٌ، - يَعْنِي ابْنَ سُلَيْمَانَ - عَنْ عَلِيِّ بْنِ الْحَكَمِ الْبُنَانِيِّ، عَنْ أَبِي الْحَسَنِ الْجَزَرِيِّ، عَنْ مِقْسَمٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ إِذَا أَصَابَهَا فِي أَوَّلِ الدَّمِ فَدِينَارٌ وَإِذَا أَصَابَهَا فِي انْقِطَاعِ الدَّمِ فَنِصْفُ دِينَارٍ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ قَالَ ابْنُ جُرَيْجٍ عَنْ عَبْدِ الْكَرِيمِ عَنْ مِقْسَمٍ ‏.‏",
+      "english": {
+        "narrator": "Ibn ‘Abbas said:",
+        "text": "If one has intercourse in the beginning of the menses,(one should give) one dinar; in case one has intercourse towards the end of the menses, then half a dinar (should be given)"
+      }
+    },
+    {
+      "id": 266,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ الْبَزَّازُ، حَدَّثَنَا شَرِيكٌ، عَنْ خُصَيْفٍ، عَنْ مِقْسَمٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا وَقَعَ الرَّجُلُ بِأَهْلِهِ وَهِيَ حَائِضٌ فَلْيَتَصَدَّقْ بِنِصْفِ دِينَارٍ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَا قَالَ عَلِيُّ بْنُ بَذِيمَةَ عَنْ مِقْسَمٍ عَنِ النَّبِيِّ صلى الله عليه وسلم مُرْسَلاً وَرَوَى الأَوْزَاعِيُّ عَنْ يَزِيدَ بْنِ أَبِي مَالِكٍ عَنْ عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ آمُرُهُ أَنْ يَتَصَدَّقَ بِخُمْسَىْ دِينَارٍ ‏\"‏ ‏.‏ وَهَذَا مُعْضَلٌ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas reported the Prophet (May peace be upon him) as saying; when a man has intercourse with his wife while she is menstruating, he must give half a dinar in alms.\n\n\nAbu Dawud said; ‘Ali b. Budhaimah reported similarly on the authority of Miqsam from the Prophet (May peace be upon him). Al-Awza’I narrated from Yazid b. Abi Malik, from ‘Abd al-Hamid b. ‘Abd al-Rahman from the Prophet (May peace be upon him); He ordered him to give two fifth of a dinar in alms. But this is a chain where two narrators (Miqsam and Ibn ‘Abbas) are missing."
+      }
+    },
+    {
+      "id": 267,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَزِيدُ بْنُ خَالِدِ بْنِ عَبْدِ اللَّهِ بْنِ مَوْهَبٍ الرَّمْلِيُّ، حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ حَبِيبٍ، مَوْلَى عُرْوَةَ عَنْ نُدْبَةَ، مَوْلاَةِ مَيْمُونَةَ عَنْ مَيْمُونَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُبَاشِرُ الْمَرْأَةَ مِنْ نِسَائِهِ وَهِيَ حَائِضٌ إِذَا كَانَ عَلَيْهَا إِزَارٌ إِلَى أَنْصَافِ الْفَخِذَيْنِ أَوِ الرُّكْبَتَيْنِ تَحْتَجِزُ بِهِ ‏.‏",
+      "english": {
+        "narrator": "Maimunah said:",
+        "text": "The Prophet (ﷺ) would contact and embrace any of his wives while she was menstruating. She would wear the wrapper up to half the the thighs or cover her knees with it."
+      }
+    },
+    {
+      "id": 268,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْمُرُ إِحْدَانَا إِذَا كَانَتْ حَائِضًا أَنْ تَتَّزِرَ ثُمَّ يُضَاجِعُهَا زَوْجُهَا وَقَالَ مَرَّةً يُبَاشِرُهَا ‏.‏",
+      "english": {
+        "narrator": "'Aishah said; When anyone amongst us (the wives of the Prophet) menstruated, the Messenger of Allah (May peace be upon him) asked her to tie a waist wrapper (over her body) and then husband lay with her, or he (Shu’bah) said:",
+        "text": "embraced her."
+      }
+    },
+    {
+      "id": 269,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ جَابِرِ بْنِ صُبْحٍ، سَمِعْتُ خِلاَسًا الْهَجَرِيَّ، قَالَ سَمِعْتُ عَائِشَةَ، - رضى الله عنها - تَقُولُ كُنْتُ أَنَا وَرَسُولُ اللَّهِ، صلى الله عليه وسلم نَبِيتُ فِي الشِّعَارِ الْوَاحِدِ وَأَنَا حَائِضٌ طَامِثٌ فَإِنْ أَصَابَهُ مِنِّي شَىْءٌ غَسَلَ مَكَانَهُ وَلَمْ يَعْدُهُ ثُمَّ صَلَّى فِيهِ وَإِنْ أَصَابَ - تَعْنِي ثَوْبَهُ - مِنْهُ شَىْءٌ غَسَلَ مَكَانَهُ وَلَمْ يَعْدُهُ ثُمَّ صَلَّى فِيهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "Khallas al-Hujari reported: Aisha said: I and the Messenger of Allah (ﷺ) used to pass night in one (piece of) cloth (on me) while I menstruated profusely. If anything from me (i.e. blood) smeared him (i.e. his body), he would wash that spot and would not exceed it (in washing), then he would offer prayer with it."
+      }
+    },
+    {
+      "id": 270,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ اللَّهِ، - يَعْنِي ابْنَ عُمَرَ بْنِ غَانِمٍ - عَنْ عَبْدِ الرَّحْمَنِ، - يَعْنِي ابْنَ زِيَادٍ - عَنْ عُمَارَةَ بْنِ غُرَابٍ، أَنَّ عَمَّةً، لَهُ حَدَّثَتْهُ أَنَّهَا، سَأَلَتْ عَائِشَةَ قَالَتْ إِحْدَانَا تَحِيضُ وَلَيْسَ لَهَا وَلِزَوْجِهَا إِلاَّ فِرَاشٌ وَاحِدٌ قَالَتْ أُخْبِرُكِ بِمَا صَنَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم دَخَلَ لَيْلاً وَأَنَا حَائِضٌ فَمَضَى إِلَى مَسْجِدِهِ - قَالَ أَبُو دَاوُدَ تَعْنِي مَسْجِدَ بَيْتِهِ - فَلَمْ يَنْصَرِفْ حَتَّى غَلَبَتْنِي عَيْنِي وَأَوْجَعَهُ الْبَرْدُ فَقَالَ ‏\"‏ ادْنِي مِنِّي ‏\"‏ ‏.‏ فَقُلْتُ إِنِّي حَائِضٌ ‏.‏ فَقَالَ ‏\"‏ وَإِنْ اكْشِفِي عَنْ فَخِذَيْكِ ‏\"‏ ‏.‏ فَكَشَفْتُ فَخِذَىَّ فَوَضَعَ خَدَّهُ وَصَدْرَهُ عَلَى فَخِذَىَّ وَحَنَيْتُ عَلَيْهِ حَتَّى دَفِئَ وَنَامَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "Umarah ibn Ghurab said that his paternal aunt narrated to him that she asked Aisha: What if one of us menstruates and she and her husband have no bed except one? She replied: I relate to you what the Messenger of Allah (ﷺ) had done. \n\n\n\n\n\nOne night he entered (upon me) while I was menstruating. He went to the place of his prayer, that is, to the place of prayer reserved (for this purpose) in his house. He did not return until I felt asleep heavily, and he felt pain from cold. And he said: Come near me. I said: I am menstruating. He said: Uncover your thighs. I, therefore, uncovered both of my thighs. Then he put his cheek and chest on my thighs and I lent upon he until he became warm and slept."
+      }
+    },
+    {
+      "id": 271,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْجَبَّارِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنْ أَبِي الْيَمَانِ، عَنْ أُمِّ ذَرَّةَ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ كُنْتُ إِذَا حِضْتُ نَزَلْتُ عَنِ الْمِثَالِ عَلَى الْحَصِيرِ فَلَمْ نَقْرُبْ رَسُولَ اللَّهِ صلى الله عليه وسلم وَلَمْ نَدْنُ مِنْهُ حَتَّى نَطْهُرَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "When I menstruated, I left the bed and lay on the reed-mat and did not approach or come near the Messenger of Allah (ﷺ) until we were purified."
+      }
+    },
+    {
+      "id": 272,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنْ بَعْضِ، أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا أَرَادَ مِنَ الْحَائِضِ شَيْئًا أَلْقَى عَلَى فَرْجِهَا ثَوْبًا ‏.‏",
+      "english": {
+        "narrator": "Narrated One of the Wives of the Prophet:",
+        "text": "Ikrimah reported on the authority of one of the wives of the Prophet (ﷺ) saying: When the Prophet (ﷺ) wanted to do something (i.e. kissing, embracing) with (his) menstruating wife, he would put a garment on her private part."
+      }
+    },
+    {
+      "id": 273,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنِ الشَّيْبَانِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الأَسْوَدِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْمُرُنَا فِي فَوْحِ حَيْضِنَا أَنْ نَتَّزِرَ ثُمَّ يُبَاشِرُنَا وَأَيُّكُمْ يَمْلِكُ إِرْبَهُ كَمَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَمْلِكُ إِرْبَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Aishah said; The Messenger of Allah (May peace be upon him) would ask us in the beginning of our menstruation to tie the waist-wrapper. Then he would embrace us. And who amongst you can have as much control over his desire as the Messenger of Allah (May peace be upon him) had over his desire?"
+      }
+    },
+    {
+      "id": 274,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أُمِّ سَلَمَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ امْرَأَةً كَانَتْ تُهَرَاقُ الدِّمَاءَ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَاسْتَفْتَتْ لَهَا أُمُّ سَلَمَةَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ لِتَنْظُرْ عِدَّةَ اللَّيَالِي وَالأَيَّامِ الَّتِي كَانَتْ تَحِيضُهُنَّ مِنَ الشَّهْرِ قَبْلَ أَنْ يُصِيبَهَا الَّذِي أَصَابَهَا فَلْتَتْرُكِ الصَّلاَةَ قَدْرَ ذَلِكَ مِنَ الشَّهْرِ فَإِذَا خَلَّفَتْ ذَلِكَ فَلْتَغْتَسِلْ ثُمَّ لْتَسْتَثْفِرْ بِثَوْبٍ ثُمَّ لْتُصَلِّ فِيهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umm Salamah, Ummul Mu'minin:",
+        "text": "In the time of the Messenger of Allah (ﷺ) there was a woman who had an issue of blood. So Umm Salamah asked the Messenger of Allah (ﷺ) to give a decision about her. He said: She should consider the number of nights and days during which she used to menstruate each month before she was afflicted with this trouble and abandon prayer during that period each month. When those days and nights are over, she should take a bath, tie a cloth over her private parts and pray."
+      }
+    },
+    {
+      "id": 275,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَيَزِيدُ بْنُ خَالِدِ بْنِ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ مَوْهَبٍ، قَالاَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، أَنَّ رَجُلاً، أَخْبَرَهُ عَنْ أُمِّ سَلَمَةَ، أَنَّ امْرَأَةً، كَانَتْ تُهَرَاقُ الدَّمَ ‏.‏ فَذَكَرَ مَعْنَاهُ قَالَ ‏\n\"‏ فَإِذَا خَلَّفَتْ ذَلِكَ وَحَضَرَتِ الصَّلاَةُ فَلْتَغْتَسِلْ ‏\"‏ ‏.‏ بِمَعْنَاهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Sulaiman b. Yasar said that a man reported to him from Umm Salamah; There was a woman who had an issue of blood. And he narrated the rest of the tradition to the same effect saying; when the menstruation period is over and the time of prayer arrives, she should take a bath, as mentioned in the previous tradition."
+      }
+    },
+    {
+      "id": 276,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا أَنَسٌ، - يَعْنِي ابْنَ عِيَاضٍ - عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ رَجُلٍ، مِنَ الأَنْصَارِ أَنَّ امْرَأَةً، كَانَتْ تُهَرَاقُ الدِّمَاءَ فَذَكَرَ مَعْنَى حَدِيثِ اللَّيْثِ قَالَ ‏\n\"‏ فَإِذَا خَلَّفَتْهُنَّ وَحَضَرَتِ الصَّلاَةُ فَلْتَغْتَسِلْ ‏\"‏ ‏.‏ وَسَاقَ الْحَدِيثَ بِمَعْنَاهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Sulaiman b. Yasar reported on the authority of a person from the Ansar; There was a woman who had an issue of blood. He then narrated the rest of the tradition like that of al-Laith. He said; when the period of menstruation is over and the time of prayer arrives, she should take a bath. He narrated the tradition conveying the same meaning."
+      }
+    },
+    {
+      "id": 277,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا صَخْرُ بْنُ جُوَيْرِيَةَ، عَنْ نَافِعٍ، بِإِسْنَادِ اللَّيْثِ وَبِمَعْنَاهُ قَالَ ‏\n\"‏ فَلْتَتْرُكِ الصَّلاَةَ قَدْرَ ذَلِكَ ثُمَّ إِذَا حَضَرَتِ الصَّلاَةُ فَلْتَغْتِسِلْ وَلْتَسْتَثْفِرْ بِثَوْبٍ ثُمَّ تُصَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This tradition has been transmitted through the chain of narrators like that of al-Laith to the same effect. It says; She should abandon prayer considering that period (she used to menstruate). When the time of prayer approaches, she should take a bath, tie a cloth over her private parts and offer prayer."
+      }
+    },
+    {
+      "id": 278,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا أَيُّوبُ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أُمِّ سَلَمَةَ، بِهَذِهِ الْقِصَّةِ قَالَ فِيهِ ‏\n\"‏ تَدَعُ الصَّلاَةَ وَتَغْتَسِلُ فِيمَا سِوَى ذَلِكَ وَتَسْتَثْفِرُ بِثَوْبٍ وَتُصَلِّي ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ سَمَّى الْمَرْأَةَ الَّتِي كَانَتِ اسْتُحِيضَتْ حَمَّادُ بْنُ زَيْدٍ عَنْ أَيُّوبَ فِي هَذَا الْحَدِيثِ قَالَ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ ‏.‏",
+      "english": {
+        "narrator": "Sulaiman b. Yasar reported this narrative on the authority of Umm Salamah. This version has:",
+        "text": "He (the Prophet) said: She should abandon prayer and  take a bath at the beginning of the additional period, and tie a cloth over her private parts and offer prayer.\n\n\nAbu Dawud said; Hammad b. Zaid on the authority of Ayyub has pointed out the name of the woman who had a prolonged flow of blood (referred to) in this tradition to be Fatimah daughter of Abu Hubaish."
+      }
+    },
+    {
+      "id": 279,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ جَعْفَرٍ، عَنْ عِرَاكٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ إِنَّ أُمَّ حَبِيبَةَ سَأَلَتِ النَّبِيَّ صلى الله عليه وسلم عَنِ الدَّمِ - فَقَالَتْ عَائِشَةُ فَرَأَيْتُ مِرْكَنَهَا مَلآنَ دَمًا - فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ امْكُثِي قَدْرَ مَا كَانَتْ تَحْبِسُكِ حَيْضَتُكِ ثُمَّ اغْتَسِلِي ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ قُتَيْبَةُ بَيْنَ أَضْعَافِ حَدِيثِ جَعْفَرِ بْنِ رَبِيعَةَ فِي آخِرِهَا وَرَوَاهُ عَلِيُّ بْنُ عَيَّاشٍ وَيُونُسُ بْنُ مُحَمَّدٍ عَنِ اللَّيْثِ فَقَالاَ جَعْفَرُ بْنُ رَبِيعَةَ ‏.‏",
+      "english": {
+        "narrator": "'Aishah reported :",
+        "text": "Umm Habibah asked the prophet (ﷺ) about the blood (which flows beyond the period of menstruation). ‘A’ishah said: I saw her wash-tub full of blood. The apostle of Allah (May peace be upon him) said; Keep away (from prayer) equal (to the length of time) that your menses prevented you. Then wash yourself.\n\n\nAbu Dawud said: Qutaibah mentioned the name Jaftar b. Rabi’ah in the middle of the text of the tradition for the second time (i.e., Qutaibah, being doubtful about the narrator Jafar b. Rabi’ah, mentioned his name twice: once in the chain and again while reporting the text). Ali b. ‘Ayyash and yunus b. Muhammad reported it on the authority of al-Laith. They mentioned the name Jafar b. Rabi’ah."
+      }
+    },
+    {
+      "id": 280,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عِيسَى بْنُ حَمَّادٍ، أَخْبَرَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ، عَنِ الْمُنْذِرِ بْنِ الْمُغِيرَةِ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، أَنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ، حَدَّثَتْهُ أَنَّهَا، سَأَلَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَشَكَتْ إِلَيْهِ الدَّمَ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّمَا ذَلِكَ عِرْقٌ فَانْظُرِي إِذَا أَتَى قُرْؤُكِ فَلاَ تُصَلِّي فَإِذَا مَرَّ قُرْؤُكِ فَتَطَهَّرِي ثُمَّ صَلِّي مَا بَيْنَ الْقُرْءِ إِلَى الْقُرْءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Fatimah daughter of AbuHubaysh:",
+        "text": "Urwah ibn az-Zubayr said that Fatimah daughter of AbuHubaysh narrated to him that she asked the Messenger of Allah (ﷺ) and complained to him about the flowing of (her) blood. The Messenger of Allah (ﷺ) said to her: That is only (due to) a vein: look, when your menstruation comes, do not pray; and when your menstruation ends, wash yourself and then offer prayer during the period from one menstruation to another."
+      }
+    },
+    {
+      "id": 281,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا جَرِيرٌ، عَنْ سُهَيْلٍ، - يَعْنِي ابْنَ أَبِي صَالِحٍ - عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، حَدَّثَتْنِي فَاطِمَةُ بِنْتُ أَبِي حُبَيْشٍ، أَنَّهَا أَمَرَتْ أَسْمَاءَ - أَوْ أَسْمَاءُ حَدَّثَتْنِي أَنَّهَا، أَمَرَتْهَا فَاطِمَةُ بِنْتُ أَبِي حُبَيْشٍ - أَنْ تَسْأَلَ، رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَمَرَهَا أَنْ تَقْعُدَ الأَيَّامَ الَّتِي كَانَتْ تَقْعُدُ ثُمَّ تَغْتَسِلُ ‏.1\nقَالَ أَبُو دَاوُدَ وَرَوَاهُ قَتَادَةُ عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ عَنْ زَيْنَبَ بِنْتِ أُمِّ سَلَمَةَ أَنَّ أُمَّ حَبِيبَةَ بِنْتَ جَحْشٍ اسْتُحِيضَتْ فَأَمَرَهَا النَّبِيُّ صلى الله عليه وسلم أَنْ تَدَعَ الصَّلاَةَ أَيَّامَ أَقْرَائِهَا ثُمَّ تَغْتَسِلَ وَتُصَلِّيَ ‏.‏\nقَالَ أَبُو دَاوُدَ لَمْ يَسْمَعْ قَتَادَةُ مِنْ عُرْوَةَ شَيْئًا ‏.2\nوَزَادَ ابْنُ عُيَيْنَةَ فِي حَدِيثِ الزُّهْرِيِّ عَنْ عَمْرَةَ عَنْ عَائِشَةَ أَنَّ أُمَّ حَبِيبَةَ كَانَتْ تُسْتَحَاضُ فَسَأَلَتِ النَّبِيَّ صلى الله عليه وسلم فَأَمَرَهَا أَنْ تَدَعَ الصَّلاَةَ أَيَّامَ أَقْرَائِهَا ‏.‏\nقَالَ أَبُو دَاوُدَ وَهَذَا وَهَمٌ مِنَ ابْنِ عُيَيْنَةَ لَيْسَ هَذَا فِي حَدِيثِ الْحُفَّاظِ عَنِ الزُّهْرِيِّ إِلاَّ مَا ذَكَرَ سُهَيْلُ بْنُ أَبِي صَالِحٍ وَقَدْ رَوَى الْحُمَيْدِيُّ هَذَا الْحَدِيثَ عَنِ ابْنِ عُيَيْنَةَ لَمْ يَذْكُرْ فِيهِ ‏\"‏ تَدَعُ الصَّلاَةَ أَيَّامَ أَقْرَائِهَا ‏\"‏ ‏.1\nوَرَوَتْ قَمِيرُ بِنْتُ عَمْرٍو زَوْجُ مَسْرُوقٍ عَنْ عَائِشَةَ الْمُسْتَحَاضَةُ تَتْرُكُ الصَّلاَةَ أَيَّامَ أَقْرَائِهَا ثُمَّ تَغْتَسِلُ ‏.3\nوَقَالَ عَبْدُ الرَّحْمَنِ بْنُ الْقَاسِمِ عَنْ أَبِيهِ إِنَّ النَّبِيَّ صلى الله عليه وسلم أَمَرَهَا أَنْ تَتْرُكَ الصَّلاَةَ قَدْرَ أَقْرَائِهَا ‏.2\nوَرَوَى أَبُو بِشْرٍ جَعْفَرُ بْنُ أَبِي وَحْشِيَّةَ عَنْ عِكْرِمَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّ أُمَّ حَبِيبَةَ بِنْتَ جَحْشٍ اسْتُحِيضَتْ فَذَكَرَ مِثْلَهُ وَرَوَى شَرِيكٌ عَنْ أَبِي الْيَقْظَانِ عَنْ عَدِيِّ بْنِ ثَابِتٍ عَنْ أَبِيهِ عَنْ جَدِّهِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ الْمُسْتَحَاضَةُ تَدَعُ الصَّلاَةَ أَيَّامَ أَقْرَائِهَا ثُمَّ تَغْتَسِلُ وَتُصَلِّي ‏\"‏ ‏.1\nوَرَوَى الْعَلاَءُ بْنُ الْمُسَيَّبِ عَنِ الْحَكَمِ عَنْ أَبِي جَعْفَرٍ أَنَّ سَوْدَةَ اسْتُحِيضَتْ فَأَمَرَهَا النَّبِيُّ صلى الله عليه وسلم إِذَا مَضَتْ أَيَّامُهَا اغْتَسَلَتْ وَصَلَّتْ ‏.1\nوَرَوَى سَعِيدُ بْنُ جُبَيْرٍ عَنْ عَلِيٍّ وَابْنِ عَبَّاسٍ ‏\"‏ الْمُسْتَحَاضَةُ تَجْلِسُ أَيَّامَ قُرْئِهَا ‏\"‏ ‏.1\nوَكَذَلِكَ رَوَاهُ عَمَّارٌ مَوْلَى بَنِي هَاشِمٍ وَطَلْقُ بْنُ حَبِيبٍ عَنِ ابْنِ عَبَّاسٍ 1\nوَكَذَلِكَ رَوَاهُ مَعْقِلٌ الْخَثْعَمِيُّ عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ 4\nوَكَذَلِكَ رَوَى الشَّعْبِيُّ عَنْ قَمِيرَ امْرَأَةِ مَسْرُوقٍ عَنْ عَائِشَةَ رضى الله عنها ‏.\nقَالَ أَبُو دَاوُدَ وَهُوَ قَوْلُ الْحَسَنِ وَسَعِيدِ بْنِ الْمُسَيَّبِ وَعَطَاءٍ وَمَكْحُولٍ وَإِبْرَاهِيمَ وَسَالِمٍ وَالْقَاسِمِ إِنَّ الْمُسْتَحَاضَةَ تَدَعُ الصَّلاَةَ أَيَّامَ أَقْرَائِهَا ‏.‏ قَالَ أَبُو دَاوُدَ لَمْ يَسْمَعْ قَتَادَةُ مِنْ عُرْوَةَ شَيْئًا ‏.‏ 1",
+      "english": {
+        "narrator": "'Urwah b. al-Zubair said:",
+        "text": "Fatimah daughter of Abu Hubaish narrated to me that she asked Asma' (daughter of Abu Bakr), or Asma' narrated to me that Fatimah daughter of Abu Hubaish asked her to question the Messenger of Allah (ﷺ). He advised her to refrain (from prayer) equal to the period she refrained previously. She then should wash herself.1\n\n\nAbu Dawud said: Qatadah narrated it from 'Urwah b. al-Zubair, from Zainab daughter of Umm Salamah, that Umm Habibah daughter of Jahsh had a prolonged flow of blood. The Prophet (ﷺ) commanded her to abandon prayer for the period of her menses. She then should take a bath, and offer prayer.\nAbu Dawud said: Qatadah did not hear anything from 'Urwah. 2\n\n\nAnd Ibn 'Uyainah added in the tradition narrated by al-Zuhri from 'Umrah on the authority of 'Aishah. Umm Habibah had a prolonged flow of blood. She asked the Prophet (ﷺ). He commanded her to abandon prayer during her menstrual period.\n\n\nAbu Dawud said: This is a misunderstanding on the part of Ibn 'Uyainah. This is not found in the tradition reported by the transmitter from al-Zuhri except that mentioned by Suhail b. Abu Salih. Al-Humaidi also narrated this tradition from Ibn 'Uyainah, but he did not mention the words \"she should abandon prayer during her menstrual period.\"1\n\n\nQumair daughter of Masruq reported on the authority of 'Aishah: The woman who has prolonged flow of blood should abandon prayer during her menstrual period.3\n\n\n'Abd al-Rahman b. al-Qasim reported on the authority of his father: The Prophet (ﷺ) commanded her to abandon prayers equal (to the length of time) that she has her (usual) menses.2\n\n\nAbu Bishr Ja'far b. Abi Wahshiyyah reported on the authority of 'Ikrimah from the Prophet (ﷺ) saying: Umm Habibah daughter of Jahsh had a prolonged flow of blood; and he transmitted like that.1\n\n\nSharik narrated from Abu al-Yaqzan from  'Adi b. Thabit from his father on the authority of his grandfather from the Prophet (ﷺ): The woman suffering from a prolonged flow of blood should abandon prayer during her menstrual period ; she then should was herself and pray. 1\n\n\nAl-'Ala b. al-Musayyab reported from al-Hakam on the authority of Abu Ja'far, saying: Saudah had a prolonged flow of blood. The Prophet (ﷺ) commanded that when he menstruation was finished, she should take bath and pray.1\n\n\nSa'id b. Jubair reported from 'Ali and Ibn 'Abbas : A woman suffering from a prolonged flow of blood should refrain from prayers during her menstrual period.1\n\n\n'Ammar, the freed slave of Banu Hashim and Talq b. Habib narrated in a similar way.1\n\nSimilarly, it was reported by Ma'qil al-Khath'ami from 'Ali4, al-Sha'bi also transmitted it in a similar manner from Qumair, the wife of Masruq, on the authority of 'Aishah.1\n\n\nAbu Dawud said: Al-Hasan, Sa'id b. al-Musayyab, 'Ata, Makhul, Ibrahim, Salim and al-Qasim also hold that a woman suffering from a prolonged flow of blood should abandon prayer during her menstrual period.\n\n\nAbu Dawud said: Qatadah did not hear anything from 'Urwah."
+      }
+    },
+    {
+      "id": 282,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، وَعَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، قَالاَ حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ، جَاءَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَتْ إِنِّي امْرَأَةٌ أُسْتَحَاضُ فَلاَ أَطْهُرُ أَفَأَدَعُ الصَّلاَةَ قَالَ ‏\n\"‏ إِنَّمَا ذَلِكِ عِرْقٌ وَلَيْسَتْ بِالْحَيْضَةِ فَإِذَا أَقْبَلَتِ الْحَيْضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْسِلِي عَنْكِ الدَّمَ ثُمَّ صَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Urwah reported on the authority of 'Aishah:",
+        "text": "Fatimah daughter of Abu Hubaish came to the Messenger of Allah (ﷺ) and said: I am a woman who has prolonged flow of blood; I am never purified ; should I abandon prayer ? He replied: This is (due to) a vein, and not menstruation. When the menstruation begins, you should abandon prayer ; when it is finished, you should wash away the blood and pray."
+      }
+    },
+    {
+      "id": 283,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ هِشَامٍ، بِإِسْنَادِ زُهَيْرٍ وَمَعْنَاهُ وَقَالَ ‏\n\"‏ فَإِذَا أَقْبَلَتِ الْحَيْضَةُ فَاتْرُكِي الصَّلاَةَ فَإِذَا ذَهَبَ قَدْرُهَا فَاغْسِلِي الدَّمَ عَنْكِ وَصَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This tradition has also been transmitted by Zuhair through a different chain of narrators, to the same effect. He said:",
+        "text": "When the menstruation begins, you should abandon prayer; when the period equal to its length of time passes, you should wash away the blood and pray."
+      }
+    },
+    {
+      "id": 284,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَقِيلٍ، عَنْ بُهَيَّةَ، قَالَتْ سَمِعْتُ امْرَأَةً، تَسْأَلُ عَائِشَةَ عَنِ امْرَأَةٍ، فَسَدَ حَيْضُهَا وَأُهَرِيقَتْ دَمًا فَأَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ آمُرَهَا فَلْتَنْظُرْ قَدْرَ مَا كَانَتْ تَحِيضُ فِي كُلِّ شَهْرٍ وَحَيْضُهَا مُسْتَقِيمٌ فَلْتَعْتَدَّ بِقَدْرِ ذَلِكَ مِنَ الأَيَّامِ ثُمَّ لْتَدَعِ الصَّلاَةَ فِيهِنَّ أَوْ بِقَدْرِهِنَّ ثُمَّ لْتَغْتَسِلْ ثُمَّ لْتَسْتَثْفِرْ بِثَوْبٍ ثُمَّ لْتُصَلِّي ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "Bahiyyah said: I heard a woman asking Aisha about the woman whose menses became  abnormal and she had an issue of blood. The Messenger of Allah (ﷺ) asked me to advise her that she should consider the period during which she used to menstruate every month, when her menstruation was normal. Then she should count the days equal to the length of time (of her normal menses); then she should abandon prayer during those days or equal to that period. She should then take a bath, tie a cloth on her private parts a pray."
+      }
+    },
+    {
+      "id": 285,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عَقِيلٍ، وَمُحَمَّدُ بْنُ سَلَمَةَ الْمِصْرِيَّانِ، قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، وَعَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ بِنْتَ جَحْشٍ، خَتَنَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَتَحْتَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ اسْتُحِيضَتْ سَبْعَ سِنِينَ فَاسْتَفْتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ هَذِهِ لَيْسَتْ بِالْحَيْضَةِ وَلَكِنْ هَذَا عِرْقٌ فَاغْتَسِلِي وَصَلِّي ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ زَادَ الأَوْزَاعِيُّ فِي هَذَا الْحَدِيثِ عَنِ الزُّهْرِيِّ عَنْ عُرْوَةَ وَعَمْرَةَ عَنْ عَائِشَةَ قَالَتِ اسْتُحِيضَتْ أُمُّ حَبِيبَةَ بِنْتُ جَحْشٍ - وَهِيَ تَحْتَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ - سَبْعَ سِنِينَ فَأَمَرَهَا النَّبِيُّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا أَقْبَلَتِ الْحَيْضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْتَسِلِي وَصَلِّي ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَلَمْ يَذْكُرْ هَذَا الْكَلاَمَ أَحَدٌ مِنْ أَصْحَابِ الزُّهْرِيِّ غَيْرَ الأَوْزَاعِيِّ وَرَوَاهُ عَنِ الزُّهْرِيِّ عَمْرُو بْنُ الْحَارِثِ وَاللَّيْثُ وَيُونُسُ وَابْنُ أَبِي ذِئْبٍ وَمَعْمَرٌ وَإِبْرَاهِيمُ بْنُ سَعْدٍ وَسُلَيْمَانُ بْنُ كَثِيرٍ وَابْنُ إِسْحَاقَ وَسُفْيَانُ بْنُ عُيَيْنَةَ وَلَمْ يَذْكُرُوا هَذَا الْكَلاَمَ ‏.‏ قَالَ أَبُو دَاوُدَ وَإِنَّمَا هَذَا لَفْظُ حَدِيثِ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عَائِشَةَ ‏.‏ قَالَ أَبُو دَاوُدَ وَزَادَ ابْنُ عُيَيْنَةَ فِيهِ أَيْضًا أَمَرَهَا أَنْ تَدَعَ الصَّلاَةَ أَيَّامَ أَقْرَائِهَا ‏.‏ وَهُوَ وَهَمٌ مِنَ ابْنِ عُيَيْنَةَ وَحَدِيثُ مُحَمَّدِ بْنِ عَمْرٍو عَنِ الزُّهْرِيِّ فِيهِ شَىْءٌ يَقْرُبُ مِنَ الَّذِي زَادَ الأَوْزَاعِيُّ فِي حَدِيثِهِ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "Umm Habibah, daughter of Jahsh and sister-in-law of Messenger of Allah (ﷺ)m and wife of 'Abd al-Rahman b. 'Awf, had a prolonged flow of blood for seven years. She inquired from the Messenger of Allah (ﷺ) about it. The Messenger of Allah (ﷺ) said: This is not menstruation, but this (due to) a vein. Therefore, wash yourself and pray.\n\n\nAbu Dawud said: In this tradition which is transmitted by al-Zuhri from 'Urwah and 'Urwah on the authority of 'Aishah, al-Awza'i added: She ('Aishah) said: Umm Habibah daughter of Jahsh and wife of 'Abd al-Rahman b. 'Awf had a prolonged flow of blood for seven years. The Prophet (ﷺ) commander her saying: When the menstruation begins, abandon prayer; when it is finished, take a bath and pray.\n\n\nAbu Dawud said: None of the disciple of al-Zuhri mentioned these words except al-Awza'i, from al-Zuhri it has been narrated by  'Amr b. al-Harith, al-Laith, Yunus, Ibn Abi Dhi'b, Ma'mar, Ibrahim b. Sa'd, Sulaiman b. Kathir, Ibn Ishaq and Sufyan b. 'Uyainah, they did not narrate these words.\n\n\nAbu Dawud said: These are the words of the version reported by Hisham b. 'Urwah from this father on the authority of 'Aishah.\n\t\t\t\t\t\n\nAbu Dawud said: In this tradition Ibn 'Uyainah also added the words: He commander her to abandon prayer during her menstrual period. This is a misunderstanding on the part of Ibn 'Uyainah. The version of this tradition narrated by Muhammad b. 'Amr from al-Zuhri has the addition similar to that made by al-Awza'i in his version."
+      }
+    },
+    {
+      "id": 286,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عَدِيٍّ، عَنْ مُحَمَّدٍ، - يَعْنِي ابْنَ عَمْرٍو - قَالَ حَدَّثَنِي ابْنُ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ فَاطِمَةَ بِنْتِ أَبِي حُبَيْشٍ، أَنَّهَا كَانَتْ تُسْتَحَاضُ فَقَالَ لَهَا النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ إِذَا كَانَ دَمُ الْحَيْضَةِ فَإِنَّهُ دَمٌ أَسْوَدُ يُعْرَفُ فَإِذَا كَانَ ذَلِكَ فَأَمْسِكِي عَنِ الصَّلاَةِ فَإِذَا كَانَ الآخَرُ فَتَوَضَّئِي وَصَلِّي فَإِنَّمَا هُوَ عِرْقٌ ‏\"‏ ‏.1\nقَالَ أَبُو دَاوُدَ قَالَ ابْنُ الْمُثَنَّى حَدَّثَنَا بِهِ ابْنُ أَبِي عَدِيٍّ مِنْ كِتَابِهِ هَكَذَا ثُمَّ حَدَّثَنَا بِهِ بَعْدُ حِفْظًا قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو عَنِ الزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عَائِشَةَ أَنَّ فَاطِمَةَ كَانَتْ تُسْتَحَاضُ ‏.‏ فَذَكَرَ مَعْنَاهُ ‏.‏\nقَالَ أَبُو دَاوُدَ وَقَدْ رَوَى أَنَسُ بْنُ سِيرِينَ عَنِ ابْنِ عَبَّاسٍ فِي الْمُسْتَحَاضَةِ قَالَ إِذَا رَأَتِ الدَّمَ الْبَحْرَانِيَّ فَلاَ تُصَلِّي وَإِذَا رَأَتِ الطُّهْرَ وَلَوْ سَاعَةً فَلْتَغْتَسِلْ وَتُصَلِّي ‏.‏2\nوَقَالَ مَكْحُولٌ إِنَّ النِّسَاءَ لاَ تَخْفَى عَلَيْهِنَّ الْحَيْضَةُ إِنَّ دَمَهَا أَسْوَدُ غَلِيظٌ فَإِذَا ذَهَبَ ذَلِكَ وَصَارَتْ صُفْرَةً رَقِيقَةً فَإِنَّهَا مُسْتَحَاضَةٌ فَلْتَغْتَسِلْ وَلْتُصَلِّي ‏.3\nقَالَ أَبُو دَاوُدَ وَرَوَى حَمَّادُ بْنُ زَيْدٍ عَنْ يَحْيَى بْنِ سَعِيدٍ عَنِ الْقَعْقَاعِ بْنِ حَكِيمٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ فِي الْمُسْتَحَاضَةِ إِذَا أَقْبَلَتِ الْحَيْضَةُ تَرَكَتِ الصَّلاَةَ وَإِذَا أَدْبَرَتِ اغْتَسَلَتْ وَصَلَّتْ ‏.2‏\n‏ وَرَوَى سُمَىٌّ وَغَيْرُهُ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ تَجْلِسُ أَيَّامَ أَقْرَائِهَا ‏.2‏\nوَكَذَلِكَ رَوَاهُ حَمَّادُ بْنُ سَلَمَةَ عَنْ يَحْيَى بْنِ سَعِيدٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَى يُونُسُ عَنِ الْحَسَنِ الْحَائِضُ إِذَا مَدَّ بِهَا الدَّمُ تُمْسِكُ بَعْدَ حَيْضَتِهَا يَوْمًا أَوْ يَوْمَيْنِ فَهِيَ مُسْتَحَاضَةٌ ‏.‏ وَقَالَ التَّيْمِيُّ عَنْ قَتَادَةَ إِذَا زَادَ عَلَى أَيَّامِ حَيْضِهَا خَمْسَةُ أَيَّامٍ فَلْتُصَلِّي ‏.‏ قَالَ التَّيْمِيُّ فَجَعَلْتُ أَنْقُصُ حَتَّى بَلَغْتُ يَوْمَيْنِ فَقَالَ إِذَا كَانَ يَوْمَيْنِ فَهُوَ مِنْ حَيْضِهَا ‏.‏ وَسُئِلَ ابْنُ سِيرِينَ عَنْهُ فَقَالَ النِّسَاءُ أَعْلَمُ بِذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Fatimah daughter of AbuHubaysh:",
+        "text": "Urwah ibn az-Zubayr reported from Fatimah daughter of AbuHubaysh that her blood kept flowing, so the Prophet (ﷺ) said to her: When the blood of the menses comes, it is black blood which can be recognised; so when that comes, refrain from prayer; but when a different type of blood comes, perform ablution and pray, for it is (due only to) a vein.\n\n\nAbu Dawud said: Ibn al-Muthanna narrates this tradition from his book on the authority of Ibn 'Adi in a similar way. Later on he transmitted it to us from his memory: Muhammad b. 'Amr reported to us from al-Zuhri from 'Urwah on the authority of 'Aishah who said: Fatimah used to have her blood flowing. He then reported the tradition conveying the same meaning.\n\n\nAbu Dawud said: Anas b. Sirin reported from Ibn 'Abbas about the woman who has a prolonged flow of blood. He said: If she sees thick blood, she should not pray; if she finds herself purified even for a moment, she should was an pray.\n\n\nMakhul said: Menses are not hidden from women. Their blood is black and thick. When it (blackness and thickness) goes away and there appears yellowness and liquidness, that is the flow of blood (from vein). She should wash and pray.\n\n\nAbu Dawud said: This tradition has been transmitted by Sa'id b. al-Musayyab through a different chain of narrators, saying: The woman who has a prolonged flow of blood should abandon prayer when the menstruation begins; when it is finished, she should wash and pray.\n\n\nSumayy and others have also reported it from Sa'id b. al-Musayyab. This version adds: She should refrain (from prayer) during her menstrual period.\n\n\nHammad b. Salamah has reported it similarly from Yahya b. Sa'id on the authority of Sa'id b. al-Musayyab.\n\n\nAbu Dawud said: Yunus has reported from Al-Hasan: When the bleeding of a menstruating woman extends (beyond the normal period), she should refrain (from prayer), after her menses are over, for one or two days. Now she becomes the woman who has a prolonged flow of blood.\n\n\nAl-Taimi reported from Qatadah: If her menstrual period is prolonged by five days, she should pray. Al-Taimi said: I kept on reducing (the number of days) until I reached two days. He said: If the period extends by two days, they will be counted from the menstrual period. When Ibn Sirin was questioned about it, he said: Women have better knowledge of that."
+      }
+    },
+    {
+      "id": 287,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَغَيْرُهُ، قَالاَ حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو، حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ طَلْحَةَ، عَنْ عَمِّهِ، عِمْرَانَ بْنِ طَلْحَةَ عَنْ أُمِّهِ، حَمْنَةَ بِنْتِ جَحْشٍ قَالَتْ كُنْتُ أُسْتَحَاضُ حَيْضَةً كَثِيرَةً شَدِيدَةً فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَسْتَفْتِيهِ وَأُخْبِرُهُ فَوَجَدْتُهُ فِي بَيْتِ أُخْتِي زَيْنَبَ بِنْتِ جَحْشٍ فَقُلْتُ يَا رَسُولَ اللَّهِ إِنِّي امْرَأَةٌ أُسْتَحَاضُ حَيْضَةً كَثِيرَةً شَدِيدَةً فَمَا تَرَى فِيهَا قَدْ مَنَعَتْنِي الصَّلاَةَ وَالصَّوْمَ فَقَالَ ‏\"‏ أَنْعَتُ لَكِ الْكُرْسُفَ فَإِنَّهُ يُذْهِبُ الدَّمَ ‏\"‏ ‏.‏ قَالَتْ هُوَ أَكْثَرُ مِنْ ذَلِكَ ‏.‏ قَالَ ‏\"‏ فَاتَّخِذِي ثَوْبًا ‏\"‏ ‏.‏ فَقَالَتْ هُوَ أَكْثَرُ مِنْ ذَلِكَ إِنَّمَا أَثُجُّ ثَجًّا ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ سَآمُرُكِ بِأَمْرَيْنِ أَيَّهُمَا فَعَلْتِ أَجْزَأَ عَنْكِ مِنَ الآخَرِ وَإِنْ قَوِيتِ عَلَيْهِمَا فَأَنْتِ أَعْلَمُ ‏\"‏ ‏.‏ فَقَالَ لَهَا ‏\"‏ إِنَّمَا هَذِهِ رَكْضَةٌ من رَكَضَاتِ الشَّيْطَانِ فَتَحَيَّضِي سِتَّةَ أَيَّامٍ أَوْ سَبْعَةَ أَيَّامٍ فِي عِلْمِ اللَّهِ ثُمَّ اغْتَسِلِي حَتَّى إِذَا رَأَيْتِ أَنَّكِ قَدْ طَهُرْتِ وَاسْتَنْقَأْتِ فَصَلِّي ثَلاَثًا وَعِشْرِينَ لَيْلَةً أَوْ أَرْبَعًا وَعِشْرِينَ لَيْلَةً وَأَيَّامَهَا وَصُومِي فَإِنَّ ذَلِكَ يُجْزِئُكِ وَكَذَلِكَ فَافْعَلِي فِي كُلِّ شَهْرٍ كَمَا تَحِيضُ النِّسَاءُ وَكَمَا يَطْهُرْنَ مِيقَاتَ حَيْضِهِنَّ وَطُهْرِهِنَّ وَإِنْ قَوِيتِ عَلَى أَنْ تُؤَخِّرِي الظُّهْرَ وَتُعَجِّلِي الْعَصْرَ فَتَغْتَسِلِينَ وَتَجْمَعِينَ بَيْنَ الصَّلاَتَيْنِ الظُّهْرِ وَالْعَصْرِ وَتُؤَخِّرِينَ الْمَغْرِبَ وَتُعَجِّلِينَ الْعِشَاءَ ثُمَّ تَغْتَسِلِينَ وَتَجْمَعِينَ بَيْنَ الصَّلاَتَيْنِ فَافْعَلِي وَتَغْتَسِلِينَ مَعَ الْفَجْرِ فَافْعَلِي وَصُومِي إِنْ قَدَرْتِ عَلَى ذَلِكَ ‏\"‏ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ وَهَذَا أَعْجَبُ الأَمْرَيْنِ إِلَىَّ ‏\"‏ ‏.1\nقَالَ أَبُو دَاوُدَ وَرَوَاهُ عَمْرُو بْنُ ثَابِتٍ عَنِ ابْنِ عَقِيلٍ قَالَ فَقَالَتْ حَمْنَةُ فَقُلْتُ هَذَا أَعْجَبُ الأَمْرَيْنِ إِلَىَّ ‏.‏2 لَمْ يَجْعَلْهُ مِنْ قَوْلِ النَّبِيِّ صلى الله عليه وسلم جَعَلَهُ كَلاَمَ حَمْنَةَ ‏.‏ قَالَ أَبُو دَاوُدَ وَعَمْرُو بْنُ ثَابِتٍ رَافِضِيٌّ رَجُلُ سَوْءٍ وَلَكِنَّهُ كَانَ صَدُوقًا فِي الْحَدِيثِ وَثَابِتُ بْنُ الْمِقْدَامِ رَجُلٌ ثِقَةٌ وَذَكَرَهُ عَنْ يَحْيَى بْنِ مَعِينٍ ‏.‏ قَالَ أَبُو دَاوُدَ سَمِعْتُ أَحْمَدَ يَقُولُ حَدِيثُ ابْنِ عَقِيلٍ فِي نَفْسِي مِنْهُ شَىْءٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Hamnah daughter of Jahsh:",
+        "text": "Hamnah said my menstruation was great in quantity and severe. So I came to the Messenger of Allah (ﷺ) for a decision and told him. I found him in the house of my sister, Zaynab, daughter of Jahsh.  \n\n\n\n\n\nI said: Messenger of Allah, I am a woman who menstruates in great quantity and it is severe, so what do you think about it? It has prevented me from praying and fasting.  \n\n\n\n\n\nHe said: I suggest that you should use cotton, for it absorbs the blood.  She replied: It is too copious for that.  He said: Then take a cloth.  She replied: It is too copious for that, for my blood keeps flowing.  The Messenger of Allah (ﷺ) said: I shall give you two commands; whichever of them you follow, that will be sufficient for you without the other, but you know best whether you are strong enough to follow both of them.  \n\n\n\n\n\nHe added: This is a stroke of the Devil, so observe your menses for six or seven days, Allah alone knows which it should be; then wash. And when you see that you are purified and quite clean, pray during twenty-three or twenty-four days and nights and fast, for that will be enough for you, and do so every month, just as women menstruate and are purified at the time of their menstruation and their purification.  \n\n\n\n\n\nBut if you are strong enough to delay the noon (Zuhr) prayer and advance the afternoon ('Asr) prayer, to wash, and then combine the noon and the afternoon prayer; to delay the sunset prayer and advance the night prayer, to wash, and then combine the two prayers, do so: and to wash at dawn, do so: and fast if you are able to do so if possible.\n\n\n\n\n\nThe Messenger of Allah (ﷺ) said: Of the two commands this is more to my liking.1\n\n\nAbu Dawud said: 'Amr b. Thabit narrated from Ibn 'Aqil: Hamnah said: Of the two commands this is the one which is more to my liking.2 In this version these words were not quoted as the statement of the Prophet (ﷺ); it gives it as a statement of Hamnah.\n\n\nAbu Dawud said: 'Amr b. Thabit was a Rafidi. This has been said by Yahya b. Ma'in.\n\n\nAbu Dawud said: I heard Ahmad (b. Hanbal) say: I am doubtful about the tradition transmitted by Ibn 'Aqil."
+      }
+    },
+    {
+      "id": 288,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عَقِيلٍ، وَمُحَمَّدُ بْنُ سَلَمَةَ الْمُرَادِيُّ، قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، وَعَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ أُمَّ حَبِيبَةَ بِنْتَ جَحْشٍ خَتَنَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَتَحْتَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ اسْتُحِيضَتْ سَبْعَ سِنِينَ فَاسْتَفْتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فِي ذَلِكَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ هَذِهِ لَيْسَتْ بِالْحَيْضَةِ وَلَكِنْ هَذَا عِرْقٌ فَاغْتَسِلِي وَصَلِّي ‏\"‏ ‏.‏ قَالَتْ عَائِشَةُ فَكَانَتْ تَغْتَسِلُ فِي مِرْكَنٍ فِي حُجْرَةِ أُخْتِهَا زَيْنَبَ بِنْتِ جَحْشٍ حَتَّى تَعْلُوَ حُمْرَةُ الدَّمِ الْمَاءَ ‏.‏",
+      "english": {
+        "narrator": "'Aishah, wife of Prophet (ﷺ), said:",
+        "text": "Umm Habibah, daughter of Jahsh, sister-in-law of Messenger of Allah (ﷺ) and wife of 'Abd al-Rahman b. 'Awf, had a flow of blood for seven years. She asked the Messenger of Allah (ﷺ) about it. The Messenger of Allah (ﷺ) said: This is not menstruation but only vein; so you should take a bath and pray. 'Aishah said: She used to take bath in a wash-tub in the apartment of her sister Zainab daughter of Jahsh ; the redness of (her) blood dominated the water."
+      }
+    },
+    {
+      "id": 289,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَنْبَسَةُ، حَدَّثَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَتْنِي عَمْرَةُ بِنْتُ عَبْدِ الرَّحْمَنِ، عَنْ أُمِّ حَبِيبَةَ، بِهَذَا الْحَدِيثِ قَالَتْ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا ‏.‏ فَكَانَتْ تَغْتَسِلُ لِكُلِّ صَلاَةٍ ‏.‏",
+      "english": {
+        "narrator": "This tradition has been transmitted through a different chain of narrators. According to this version. 'Aishah said:",
+        "text": "She would wash herself for every prayer."
+      }
+    },
+    {
+      "id": 290,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَزِيدُ بْنُ خَالِدِ بْنِ عَبْدِ اللَّهِ بْنِ مَوْهَبٍ الْهَمْدَانِيُّ، حَدَّثَنِي اللَّيْثُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، بِهَذَا الْحَدِيثِ قَالَ فِيهِ فَكَانَتْ تَغْتَسِلُ لِكُلِّ صَلاَةٍ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ الْقَاسِمُ بْنُ مَبْرُورٍ عَنْ يُونُسَ عَنِ ابْنِ شِهَابٍ عَنْ عَمْرَةَ عَنْ عَائِشَةَ عَنْ أُمِّ حَبِيبَةَ بِنْتِ جَحْشٍ وَكَذَلِكَ رَوَاهُ مَعْمَرٌ عَنِ الزُّهْرِيِّ عَنْ عَمْرَةَ عَنْ عَائِشَةَ وَرُبَّمَا قَالَ مَعْمَرٌ عَنْ عَمْرَةَ عَنْ أُمِّ حَبِيبَةَ بِمَعْنَاهُ وَكَذَلِكَ رَوَاهُ إِبْرَاهِيمُ بْنُ سَعْدٍ وَابْنُ عُيَيْنَةَ عَنِ الزُّهْرِيِّ عَنْ عَمْرَةَ عَنْ عَائِشَةَ وَقَالَ ابْنُ عُيَيْنَةَ فِي حَدِيثِهِ وَلَمْ يَقُلْ إِنَّ النَّبِيَّ صلى الله عليه وسلم أَمَرَهَا أَنْ تَغْتَسِلَ ‏.‏ وَكَذَلِكَ رَوَاهُ الأَوْزَاعِيُّ أَيْضًا قَالَ فِيهِ قَالَتْ عَائِشَةُ فَكَانَتْ تَغْتَسِلُ لِكُلِّ صَلاَةٍ ‏.‏",
+      "english": {
+        "narrator": "This has bee\tn narrated though a different chain of narrators by 'Aishah. This version has the words:",
+        "text": "\"She used to take a bath for every prayer.\"\n\n\nAbu Dawud said: Al-Qasim b. Mabrur reported from Yunus from Ibn Shihab from 'Amrah from 'Aishah from Umm Habibah daughter of Jahsh. Similarly, it was reported by Ma'mar from al-Zuhri from 'Amrah from 'Aishah. Ma'mar sometimes reported from 'Amrah on the authority of Umm Habibah to the same effect. Similarly, it was reported by Ibrahim b. Sa'd and Ibn 'Uyainah from al-Zuhri from 'Amrah from 'Aishah. Ibn 'Uyainah said in his version: He (al-Zuhri) did not say that the Prophet (ﷺ) commanded her to take bath.\n\n\nIt has also been transmitted by al-Awza'i in a similar way. In this version he said: 'Aishah said: She used to take bath for very prayer."
+      }
+    },
+    {
+      "id": 291,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ الْمُسَيَّبِيُّ، حَدَّثَنِي أَبِي، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، وَعَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ، اسْتُحِيضَتْ سَبْعَ سِنِينَ فَأَمَرَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ تَغْتَسِلَ فَكَانَتْ تَغْتَسِلُ لِكُلِّ صَلاَةٍ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "Umm Habibah had a prolonged flow of blood for seven years. The Messenger of Allah (ﷺ) commanded her to take bath; so she used to take bath for every prayer."
+      }
+    },
+    {
+      "id": 292,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ عَبْدَةَ، عَنِ ابْنِ إِسْحَاقَ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ بِنْتَ جَحْشٍ، اسْتُحِيضَتْ فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَمَرَهَا بِالْغُسْلِ لِكُلِّ صَلاَةٍ وَسَاقَ الْحَدِيثَ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ أَبُو الْوَلِيدِ الطَّيَالِسِيُّ وَلَمْ أَسْمَعْهُ مِنْهُ عَنْ سُلَيْمَانَ بْنِ كَثِيرٍ عَنِ الزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عَائِشَةَ قَالَتِ اسْتُحِيضَتْ زَيْنَبُ بِنْتُ جَحْشٍ فَقَالَ لَهَا النَّبِيُّ صلى الله عليه وسلم ‏\"‏ اغْتَسِلِي لِكُلِّ صَلاَةٍ ‏\"‏ ‏.‏ وَسَاقَ الْحَدِيثَ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ عَبْدُ الصَّمَدِ عَنْ سُلَيْمَانَ بْنِ كَثِيرٍ قَالَ ‏\"‏ تَوَضَّئِي لِكُلِّ صَلاَةٍ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا وَهَمٌ مِنْ عَبْدِ الصَّمَدِ وَالْقَوْلُ فِيهِ قَوْلُ أَبِي الْوَلِيدِ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "Umm Habibah had a prolonged flow of blood during the time of Messenger of Allah (ﷺ). He commanded her to take bath for every prayer. The narrator then transmitted the tradition (in full).\n\t\n\nAbu Dawud said: It has also been narrated by Abu al-Walid al-Tayalisi, but I did not hear him. He reported it from 'Aishah through a different chain of narrators. 'Aishah said: Zainab daughter of Jahsh had a prolonged flow of blood. The Prophet (ﷺ) said to her: Take bath for every prayer. The narrator then reported the tradition (in full).\n\n\nAbu Dawud said: The version transmitted by 'Abd al-Samad from Sulaiman b. Kathir has: \"Perform ablution for every prayer.\" This is a misunderstanding on the part of 'Abd al-Samad. The correct version is the one narrated by Abu al-Walid."
+      }
+    },
+    {
+      "id": 293,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ أَبِي الْحَجَّاجِ أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنِ الْحُسَيْنِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، قَالَ أَخْبَرَتْنِي زَيْنَبُ بِنْتُ أَبِي سَلَمَةَ، أَنَّ امْرَأَةً، كَانَتْ تُهَرَاقُ الدَّمَ - وَكَانَتْ تَحْتَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَهَا أَنْ تَغْتَسِلَ عِنْدَ كُلِّ صَلاَةٍ وَتُصَلِّيَ وَأَخْبَرَنِي أَنَّ أُمَّ بَكْرٍ أَخْبَرَتْهُ أَنَّ عَائِشَةَ قَالَتْ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ فِي الْمَرْأَةِ تَرَى مَا يَرِيبُهَا بَعْدَ الطُّهْرِ ‏\"‏ إِنَّمَا هِيَ - أَوْ قَالَ إِنَّمَا هُوَ - عِرْقٌ أَوْ قَالَ عُرُوقٌ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَفِي حَدِيثِ ابْنِ عَقِيلٍ الأَمْرَانِ جَمِيعًا وَقَالَ ‏\"‏ إِنْ قَوِيتِ فَاغْتَسِلِي لِكُلِّ صَلاَةٍ وَإِلاَّ فَاجْمَعِي ‏\"‏ ‏.‏ كَمَا قَالَ الْقَاسِمُ فِي حَدِيثِهِ وَقَدْ رُوِيَ هَذَا الْقَوْلُ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنْ عَلِيٍّ وَابْنِ عَبَّاسٍ رضى الله عنهما ‏.‏",
+      "english": {
+        "narrator": "Narrated Zaynab daughter of AbuSalamah:",
+        "text": "AbuSalamah said: Zaynab daughter of AbuSalamah reported to me that a woman had a copious flow of blood. She was the wife of AbdurRahman ibn Awf. The Messenger of Allah (ﷺ) commanded her to take a bath at the time of every prayer, and then to pray. He reported to me that Umm Bakr told him that Aisha said: The Messenger of Allah (ﷺ) said about a woman who was doubtful of her menstruation after purification that it was a vein or veins.\n\n\nAbu Dawud said: The two commands (of which the Prophet gave option) were as follows in the version reported by Ibn 'Aqil: He said: If you are strong enough, then take a bath for every prayer; otherwise combine the (two prayers), as al-Qasim reported in his version. This statement was also narrated by Sa'id b. Jubair from 'Ali and Ibn 'Abbas."
+      }
+    },
+    {
+      "id": 294,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتِ اسْتُحِيضَتِ امْرَأَةٌ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأُمِرَتْ أَنْ تُعَجِّلَ الْعَصْرَ وَتُؤَخِّرَ الظُّهْرَ وَتَغْتَسِلَ لَهُمَا غُسْلاً ‏.‏ وَأَنْ تُؤَخِّرَ الْمَغْرِبَ وَتُعَجِّلَ الْعِشَاءَ وَتَغْتَسِلَ لَهُمَا غُسْلاً وَتَغْتَسِلَ لِصَلاَةِ الصُّبْحِ غُسْلاً ‏.‏ فَقُلْتُ لِعَبْدِ الرَّحْمَنِ أَعَنِ النَّبِيِّ صلى الله عليه وسلم فَقَالَ لاَ أُحَدِّثُكَ عَنِ النَّبِيِّ صلى الله عليه وسلم بِشَىْءٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "A woman had a prolonged flow of blood in the time of the Messenger of Allah (ﷺ). She was commanded to advance the afternoon prayer and delay the noon prayer, and to take a bath for them only once; and to delay the sunset prayer and advance the night prayer and to take a bath only once for them; and to take a bath separately for the dawn prayer. \n\n\n\n\n\nI (Shu'bah) asked AbdurRahman: (Is it) from the Prophet (ﷺ)? I do not report to you anything except from the Prophet (ﷺ)."
+      }
+    },
+    {
+      "id": 295,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ يَحْيَى، حَدَّثَنِي مُحَمَّدُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ سَهْلَةَ بِنْتَ سُهَيْلٍ، اسْتُحِيضَتْ فَأَتَتِ النَّبِيَّ صلى الله عليه وسلم فَأَمَرَهَا أَنْ تَغْتَسِلَ عِنْدَ كُلِّ صَلاَةٍ فَلَمَّا جَهَدَهَا ذَلِكَ أَمَرَهَا أَنْ تَجْمَعَ بَيْنَ الظُّهْرِ وَالْعَصْرِ بِغُسْلٍ وَالْمَغْرِبِ وَالْعِشَاءِ بِغُسْلٍ وَتَغْتَسِلَ لِلصُّبْحِ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ ابْنُ عُيَيْنَةَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ عَنْ أَبِيهِ أَنَّ امْرَأَةً اسْتُحِيضَتْ فَسَأَلَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَمَرَهَا بِمَعْنَاهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "Sahlah daughter of Suhayl had a prolonged flow of blood. She came to the Prophet (ﷺ). He commanded her to take a bath for every prayer. When it became hard for her, he commanded her to combine the noon and afternoon prayers with one bath and the sunset and night prayer with one bath, and to take a bath (separately) for the dawn prayer.\n\n\n\nAbu Dawud said: Ibn 'Uyainah reported from 'Abd al-Rahman b. al-Qasim on the authority of his father, saying: A woman had a prolonged flow of blood. She asked the Prophet (ﷺ). He commanded her to the same effect."
+      }
+    },
+    {
+      "id": 296,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، أَخْبَرَنَا خَالِدٌ، عَنْ سُهَيْلٍ، - يَعْنِي ابْنَ أَبِي صَالِحٍ - عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ أَسْمَاءَ بِنْتِ عُمَيْسٍ، قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ اسْتُحِيضَتْ مُنْذُ كَذَا وَكَذَا فَلَمْ تُصَلِّ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ سُبْحَانَ اللَّهِ إِنَّ هَذَا مِنَ الشَّيْطَانِ لِتَجْلِسْ فِي مِرْكَنٍ فَإِذَا رَأَتْ صُفْرَةً فَوْقَ الْمَاءِ فَلْتَغْتَسِلْ لِلظُّهْرِ وَالْعَصْرِ غُسْلاً وَاحِدًا وَتَغْتَسِلْ لِلْمَغْرِبِ وَالْعِشَاءِ غُسْلاً وَاحِدًا وَتَغْتَسِلْ لِلْفَجْرِ غُسْلاً وَاحِدًا وَتَتَوَضَّأْ فِيمَا بَيْنَ ذَلِكَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ مُجَاهِدٌ عَنِ ابْنِ عَبَّاسٍ لَمَّا اشْتَدَّ عَلَيْهَا الْغُسْلُ أَمَرَهَا أَنْ تَجْمَعَ بَيْنَ الصَّلاَتَيْنِ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ إِبْرَاهِيمُ عَنِ ابْنِ عَبَّاسٍ وَهُوَ قَوْلُ إِبْرَاهِيمَ النَّخَعِيِّ وَعَبْدِ اللَّهِ بْنِ شَدَّادٍ ‏.‏",
+      "english": {
+        "narrator": "Asma' daughter of 'Unais said:",
+        "text": "I said: Messenger of Allah, Fatimah daughter of Abu Hubaish had a flow of blood for a certain period and did not pray. The Messenger of Allah (ﷺ) said: Glory be to Allah! This comes from the devil. She should sit in a tub, and when she sees yellowness of the top of the water, she would take a bath once for the Zuhr and 'Asr prayer, and take another bath for the Maghrib and 'Isha prayers, and take a bath once for the fajr prayer, and in between times she would perform ablution.\n\n\nAbu Dawud said: Mujahid reported on the authority of Ibn 'Abbas: When bathing became hard for her, he commanded her to combine the two prayers.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\nAbu Dawud said: Ibrahim reported it from Ibn 'Abbas. This is also the view of Ibrahim al-Nakha'i and 'Abd Allah b. Shaddad."
+      }
+    },
+    {
+      "id": 297,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرِ بْنِ زِيَادٍ، قَالَ أَنْبَأَنَا ح، وَأَخْبَرَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي الْيَقْظَانِ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي الْمُسْتَحَاضَةِ ‏\"‏ تَدَعُ الصَّلاَةَ أَيَّامَ أَقْرَائِهَا ثُمَّ تَغْتَسِلُ وَتُصَلِّي وَالْوُضُوءُ عِنْدَ كُلِّ صَلاَةٍ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ زَادَ عُثْمَانُ ‏\"‏ وَتَصُومُ وَتُصَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Grandfather of Adi ibn Thabit ?:",
+        "text": "The Prophet (ﷺ) said about the woman having a prolonged flow of blood: She should abandon prayer during her menstrual period: then she should take a bath and pray. She should perform ablution for every prayer.\n\n\nAbu Dawud said: 'Uthman added: She should keep fast and pray."
+      }
+    },
+    {
+      "id": 298,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ جَاءَتْ فَاطِمَةُ بِنْتُ أَبِي حُبَيْشٍ إِلَى النَّبِيِّ صلى الله عليه وسلم فَذَكَرَ خَبَرَهَا وَقَالَ ‏\n\"‏ ثُمَّ اغْتَسِلِي ثُمَّ تَوَضَّئِي لِكُلِّ صَلاَةٍ وَصَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "Fatimah daughter of AbuHubaysh came to the Prophet (ﷺ) and narrated what happened with her. He said: Then take a bath and then perform ablution for every prayer and pray."
+      }
+    },
+    {
+      "id": 299,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ سِنَانٍ الْقَطَّانُ الْوَاسِطِيُّ، حَدَّثَنَا يَزِيدُ، عَنْ أَيُّوبَ بْنِ أَبِي مِسْكِينٍ، عَنِ الْحَجَّاجِ، عَنْ أُمِّ كُلْثُومٍ، عَنْ عَائِشَةَ، فِي الْمُسْتَحَاضَةِ تَغْتَسِلُ - تَعْنِي مَرَّةً وَاحِدَةً - ثُمَّ تَوَضَّأُ إِلَى أَيَّامِ أَقْرَائِهَا ‏.‏",
+      "english": {
+        "narrator": "'Aishah said about the woman who has a prolonged flow of blood:",
+        "text": "She should take bath, i.e. only once; then she should perform ablution until he next menstrual period."
+      }
+    },
+    {
+      "id": 300,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ سِنَانٍ الْقَطَّانُ الْوَاسِطِيُّ، حَدَّثَنَا يَزِيدُ، عَنْ أَيُّوبَ أَبِي الْعَلاَءِ، عَنِ ابْنِ شُبْرُمَةَ، عَنِ امْرَأَةِ، مَسْرُوقٍ عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ عَدِيِّ بْنِ ثَابِتٍ وَالأَعْمَشِ عَنْ حَبِيبٍ وَأَيُّوبَ أَبِي الْعَلاَءِ كُلُّهَا ضَعِيفَةٌ لاَ تَصِحُّ وَدَلَّ عَلَى ضَعْفِ حَدِيثِ الأَعْمَشِ عَنْ حَبِيبٍ هَذَا الْحَدِيثُ أَوْقَفَهُ حَفْصُ بْنُ غِيَاثٍ عَنِ الأَعْمَشِ وَأَنْكَرَ حَفْصُ بْنُ غِيَاثٍ أَنْ يَكُونَ حَدِيثُ حَبِيبٍ مَرْفُوعًا وَأَوْقَفَهُ أَيْضًا أَسْبَاطٌ عَنِ الأَعْمَشِ مَوْقُوفٌ عَنْ عَائِشَةَ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ ابْنُ دَاوُدَ عَنِ الأَعْمَشِ مَرْفُوعًا أَوَّلُهُ وَأَنْكَرَ أَنْ يَكُونَ فِيهِ الْوُضُوءُ عِنْدَ كُلِّ صَلاَةٍ وَدَلَّ عَلَى ضَعْفِ حَدِيثِ حَبِيبٍ هَذَا أَنَّ رِوَايَةَ الزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عَائِشَةَ قَالَتْ فَكَانَتْ تَغْتَسِلُ لِكُلِّ صَلاَةٍ ‏.‏ فِي حَدِيثِ الْمُسْتَحَاضَةِ وَرَوَى أَبُو الْيَقْظَانِ عَنْ عَدِيِّ بْنِ ثَابِتٍ عَنْ أَبِيهِ عَنْ عَلِيٍّ - رَضِيَ اللَّهُ عَنْهُ - وَعَمَّارٌ مَوْلَى بَنِي هَاشِمٍ عَنِ ابْنِ عَبَّاسٍ وَرَوَى عَبْدُ الْمَلِكِ بْنُ مَيْسَرَةَ وَبَيَانٌ وَالْمُغِيرَةُ وَفِرَاسٌ وَمُجَالِدٌ عَنِ الشَّعْبِيِّ عَنْ حَدِيثِ قَمِيرَ عَنْ عَائِشَةَ ‏\"‏ تَوَضَّئِي لِكُلِّ صَلاَةٍ ‏\"‏ ‏.‏ وَرِوَايَةُ دَاوُدَ وَعَاصِمٍ عَنِ الشَّعْبِيِّ عَنْ قَمِيرَ عَنْ عَائِشَةَ ‏\"‏ تَغْتَسِلُ كُلَّ يَوْمٍ مَرَّةً ‏\"‏ ‏.‏ وَرَوَى هِشَامُ بْنُ عُرْوَةَ عَنْ أَبِيهِ الْمُسْتَحَاضَةُ تَتَوَضَّأُ لِكُلِّ صَلاَةٍ ‏.‏ وَهَذِهِ الأَحَادِيثُ كُلُّهَا ضَعِيفَةٌ إِلاَّ حَدِيثَ قَمِيرَ وَحَدِيثَ عَمَّارٍ مَوْلَى بَنِي هَاشِمٍ وَحَدِيثَ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ وَالْمَعْرُوفُ عَنِ ابْنِ عَبَّاسٍ الْغُسْلُ ‏.‏",
+      "english": {
+        "narrator": "This tradition has also been narrated by 'Aishah through a different chain of transmitters.\n\n\nAbu Dawud said:",
+        "text": "All the traditions (on this subject) transmitted by 'Adi b. Thabit and A'mash on the authority of Habib and Ayyub al-'Ala, all of them are weak; none of them is sound. This tradition indicates\tthe tradition reported by al-A'mash a a statement of Companion, i.e. 'Aishah. Hafs b. Ghayath has rejected the tradition transmitted by Habib as the statement (of the Prophet). And Asbat also reported it as a statement of 'Aishah.\n\n\nAbu Dawud said: Ibn Dawud has narrated the first part of this tradition as a statement (of the Prophet), and denied that there was any mention of performing ablution for every prayer. The weakness of the tradition reported by Habib is also indicated by the fact that the version transmuted by al-Zuhri from 'Urwah on the authority of 'Aishah says that she used to wash herself for every prayer; (these words occur) in the tradition about the woman who has a flow of blood. This tradition has been reported by Abu al-Yaqzan from 'Adi b. Thabit from his father from 'Ali, and narrated by 'Ammar, the freed salve of Banu Hashim, from Ibn 'Abbas, and transmitted by 'Abd al-Malik b. Maisarah, Bayan, al-Mughirah, Firas, on the authority of al-Sha'bi, from Qumair from 'Aishah, stating: You should perform ablution for every prayer. The version transmitted by Dawud, and 'Asim from al-Sha'bi from Qumair from 'Aishah has the words: She should take bath only once every day. The version reported by Hisham b. 'Urwah from his father has the words: The woman having a flow of blood should perform ablution for every prayer. All these traditions are weak except the tradition reported by Qumair and the tradition reported by 'Ammar, the freed slave of Banu Hashim, and the tradition narrated by Hisham b. 'Urwah on the authority of his father. What is commonly known from Ibn 'Abbas is bathing (for every prayer)."
+      }
+    }
+  ]
+}

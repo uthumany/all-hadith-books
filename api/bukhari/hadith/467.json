@@ -1,0 +1,16 @@
+{
+  "id": 467,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الأَعْمَشُ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيٍّ ـ رضى الله عنه ـ قَالَ كُنَّا قُعُودًا عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَذَكَرَ الْحَدِيثَ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu `Abdur-Rahman:",
+    "text": "`Ali said, \"We were sitting with the Prophet,\" (He then mentioned the Hadith above (469)."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

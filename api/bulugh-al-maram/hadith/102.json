@@ -1,0 +1,16 @@
+{
+  "id": 102,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "عَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ يَقُولُ اَللَّهُ ‏-تَعَالَى‏-: أَنَا مَعَ عَبْدِي مَا ذَكَرَنِي, وَتَحَرَّكَتْ بِي شَفَتَاهُ }  أَخْرَجَهُ ابْنُ مَاجَهْ, وَصَحَّحَهُ ابْنُ حِبَّانَ, وَذَكَرَهُ اَلْبُخَارِيُّ تَعْلِيقًا .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه ابن ماجه (3792)‏، وابن حبان (815)‏ موصولا بسند صحيح، وعلقه البخاري (13 / 499 / فتح)‏ بصيغة الجزم.‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Allah, the Most High says: ‘l am with my slave when he remembers me and his lips move with my mention.” Related by Ibn Majah and Ibn Hibban graded it as Sahih."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

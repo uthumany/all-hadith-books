@@ -1,0 +1,16 @@
+{
+  "id": 423,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي أيوب خالد بن زيد، رضي الله عنه ، قال سمعت رسول الله صلى الله عليه وسلم، يقول‏:‏ ‏\n\"‏لولا أنكم تذنبون ؛ لخلق الله خلقاً يذنبون، فيستغفرون، فيغفر لهم‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Ayyub Khalid bin Zaid (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Were you not to commit sins, Allah would create people who would commit sins and ask for forgiveness and He would forgive them\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

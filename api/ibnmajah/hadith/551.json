@@ -1,0 +1,16 @@
+{
+  "id": 551,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، عَنْ قَتَادَةَ، قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ عَنْ قِرَاءَةِ النَّبِيِّ، ـ صلى الله عليه وسلم ـ فَقَالَ كَانَ يَمُدُّ صَوْتَهُ مَدًّا ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Qatadah said; “I asked Anas bin Malik about the\nrecitation of the Prophet (ﷺ) and he said:",
+    "text": "‘He used to elongate\nhis\nvoice.’”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

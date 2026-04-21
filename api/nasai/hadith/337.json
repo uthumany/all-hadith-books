@@ -1,0 +1,16 @@
+{
+  "id": 337,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا ابْنُ إِدْرِيسَ، قَالَ سَمِعْتُ عَاصِمَ بْنَ كُلَيْبٍ، عَنْ أَبِي بُرْدَةَ، عَنْ عَلِيٍّ، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ قُلِ اللَّهُمَّ سَدِّدْنِي وَاهْدِنِي ‏\"‏ ‏.‏ وَنَهَانِي عَنِ الْجُلُوسِ عَلَى الْمَيَاثِرِ وَالْمَيَاثِرُ قَسِّيٌّ كَانَتْ تَصْنَعُهُ النِّسَاءُ لِبُعُولَتِهِنَّ عَلَى الرَّحْلِ كَالْقَطَائِفِ مِنَ الأُرْجُوَانِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that 'Ali said:",
+    "text": "The Messenger of Allah  said to me: \"Say: O Allah, make me steadfast and guide me.\" And he forbade me to sit on Al-Mayathir.\" Al-Mayathir: Qassi which the women used to put on the saddles for their husbands, such as red cushions."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

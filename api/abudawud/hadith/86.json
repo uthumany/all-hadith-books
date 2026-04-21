@@ -1,0 +1,16 @@
+{
+  "id": 86,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ قَالَ عَمْرٌو وَحَدَّثَنِي بِنَحْوِ، ذَلِكَ عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرٍو عَنِ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "A similar tradition has also been transmitted by Abu Hurairah from the Prophet (ﷺ) through a different chain of narrators."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

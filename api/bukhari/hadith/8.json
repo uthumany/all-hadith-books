@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَبْدَانُ، عَنْ أَبِي حَمْزَةَ، عَنِ الأَعْمَشِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ مَا أَحَدٌ أَصْبَرُ عَلَى أَذًى سَمِعَهُ مِنَ اللَّهِ، يَدَّعُونَ لَهُ الْوَلَدَ، ثُمَّ يُعَافِيهِمْ وَيَرْزُقُهُمْ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Musa Al-Ash`ari:",
+    "text": "The Prophet (ﷺ) said, \"None is more patient than Allah against the harmful and annoying words He hears \n(from the people): They ascribe children to Him, yet He bestows upon them health and provision ."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

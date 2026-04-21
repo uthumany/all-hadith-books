@@ -1,0 +1,510 @@
+{
+  "page": 4,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 5,
+  "prevPage": 3,
+  "items": [
+    {
+      "id": 151,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا قَرَأَ ابْنُ آدَمَ السَّجْدَةَ فَسَجَدَ اعْتَزَلَ الشَّيْطَانُ يَبْكِي يَقُولُ يَا وَيْلَهُ - وَفِي رِوَايَةِ أَبِي كُرَيْبٍ يَا وَيْلِي - أُمِرَ ابْنُ آدَمَ بِالسُّجُودِ فَسَجَدَ فَلَهُ الْجَنَّةُ وَأُمِرْتُ بِالسُّجُودِ فَأَبَيْتُ فَلِيَ النَّارُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that when, the son of Adam recites the Ayat of Sajdah (prostration) and then falls down in prostration, the Satan goes into seclusion and weeps and says:",
+        "text": "Alas, and in the narration of Abu Kuraib the words are: Woe unto me, the son of Adam was commanded to prostrate, and he prostrated and Paradise was entitled to him and I was commanded to prostrate, but I refused and am doomed to Hell."
+      }
+    },
+    {
+      "id": 152,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الأَعْمَشُ، بِهَذَا الإِسْنَادِ مِثْلَهُ غَيْرَ أَنَّهُ قَالَ ‏\n\"‏ فَعَصَيْتُ فَلِيَ النَّارُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "A'mash narrated this hadith with the same chain of transmitters, with this change of words that he (the Satan) said:",
+        "text": "I disobeyed and I am doomed to Hell."
+      }
+    },
+    {
+      "id": 153,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، كِلاَهُمَا عَنْ جَرِيرٍ، قَالَ يَحْيَى أَخْبَرَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، قَالَ سَمِعْتُ جَابِرًا، يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِنَّ بَيْنَ الرَّجُلِ وَبَيْنَ الشِّرْكِ وَالْكُفْرِ تَرْكَ الصَّلاَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It is narrated on the authority of Jabir that he heard the Apostle (may peace and blessings be upon him) saying. Verily between man and between polytheism and unbelief is the negligence of prayer."
+      }
+    },
+    {
+      "id": 154,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو غَسَّانَ الْمِسْمَعِيُّ، حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ بَيْنَ الرَّجُلِ وَبَيْنَ الشِّرْكِ وَالْكُفْرِ تَرْكُ الصَّلاَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Zubair that he heard Jabir b. 'Abdullah saying. I heard the Messenger of Allah (may peace and blessings be upon him) observing this:",
+        "text": "Between man and polytheism and unbelief is the abandonment of salat."
+      }
+    },
+    {
+      "id": 155,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مَنْصُورُ بْنُ أَبِي مُزَاحِمٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ جَعْفَرِ بْنِ زِيَادٍ، أَخْبَرَنَا إِبْرَاهِيمُ، - يَعْنِي ابْنَ سَعْدٍ - عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَىُّ الأَعْمَالِ أَفْضَلُ قَالَ ‏\"‏ إِيمَانٌ بِاللَّهِ ‏\"‏ ‏.‏ قَالَ ثُمَّ مَاذَا قَالَ ‏\"‏ الْجِهَادُ فِي سَبِيلِ اللَّهِ ‏\"‏ ‏.‏ قَالَ ثُمَّ مَاذَا قَالَ ‏\"‏ حَجٌّ مَبْرُورٌ ‏\"‏ ‏.‏ وَفِي رِوَايَةِ مُحَمَّدِ بْنِ جَعْفَرٍ قَالَ ‏\"‏ إِيمَانٌ بِاللَّهِ وَرَسُولِهِ ‏\"‏ ‏.‏ \n وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، عَنْ عَبْدِ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported:",
+        "text": "The Messenger of Allah was asked about the best of deeds. He observed: Belief in Allah. He (the inquirer) said: What next? He (the Holy Prophet) replied: Jihad (struggle to the utmost) in the cause of Allah. He (the inquirer) again said: What next? He (the Holy Prophet) replied: Pilgrimage accepted into the grace of the Lord. In the. tradition narrated on the authority of Muhammad b. Ja'far (the words are) that he (the Holy Prophet) said: Belief in Allah and His Messenger. Muhammad b. Rafi and 'Abd b. Humaid, 'Abdur-Razzaq and Ma'mar and Zuhri have narrated a hadith like this on the authority of the same chain of transmitters."
+      }
+    },
+    {
+      "id": 156,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، ح وَحَدَّثَنَا خَلَفُ بْنُ هِشَامٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ أَبِي مُرَاوِحٍ اللَّيْثِيِّ، عَنْ أَبِي ذَرٍّ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَىُّ الأَعْمَالِ أَفْضَلُ قَالَ ‏\"‏ الإِيمَانُ بِاللَّهِ وَالْجِهَادُ فِي سَبِيلِهِ ‏\"‏ ‏.‏ قَالَ قُلْتُ أَىُّ الرِّقَابِ أَفْضَلُ قَالَ ‏\"‏ أَنْفَسُهَا عِنْدَ أَهْلِهَا وَأَكْثَرُهَا ثَمَنًا ‏\"‏ ‏.‏ قَالَ قُلْتُ فَإِنْ لَمْ أَفْعَلْ قَالَ ‏\"‏ تُعِينُ صَانِعًا أَوْ تَصْنَعُ لأَخْرَقَ ‏\"‏ ‏.‏ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَرَأَيْتَ إِنْ ضَعُفْتُ عَنْ بَعْضِ الْعَمَلِ قَالَ ‏\"‏ تَكُفُّ شَرَّكَ عَنِ النَّاسِ فَإِنَّهَا صَدَقَةٌ مِنْكَ عَلَى نَفْسِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Dharr reported:",
+        "text": "I said: Messenger of Allah, which of the deeds is the best? He (the Holy Prophet) replied: Belief in Allah and Jihad in His cause. I again asked: Who is the slave whose emancipation is the best? He (the Holy Prophet) replied: One who is valuable for his master and whose price is high. I said: If I can't afford to do it? He (the Holy Prophet) replied: Help an artisan or make anything for the unskilled (labourer). I (Abu Dharr) said: Messenger of Allah, you see that I am helpless in doing some of these deeds. He (the Holy Prophet) replied: Desist from doing mischief to the people. That is the charity of your person on your behalf."
+      }
+    },
+    {
+      "id": 157,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَ عَبْدٌ أَخْبَرَنَا وَقَالَ ابْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ حَبِيبٍ، مَوْلَى عُرْوَةَ بْنِ الزُّبَيْرِ عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ أَبِي مُرَاوِحٍ، عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِنَحْوِهِ غَيْرَ أَنَّهُ قَالَ ‏\n\"‏ فَتُعِينُ الصَّانِعَ أَوْ تَصْنَعُ لأَخْرَقَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Muhammad b. Abu Rafi' narrated the hadith on the authority of Abu Dharr with a slight difference."
+      }
+    },
+    {
+      "id": 158,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الشَّيْبَانِيِّ، عَنِ الْوَلِيدِ بْنِ الْعَيْزَارِ، عَنْ سَعْدِ بْنِ إِيَاسٍ أَبِي عَمْرٍو الشَّيْبَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَىُّ الْعَمَلِ أَفْضَلُ قَالَ ‏\"‏ الصَّلاَةُ لِوَقْتِهَا ‏\"‏ ‏.‏ قَالَ قُلْتُ ثُمَّ أَىٌّ قَالَ ‏\"‏ بِرُّ الْوَالِدَيْنِ ‏\"‏ ‏.‏ قَالَ قُلْتُ ثُمَّ أَىٌّ قَالَ ‏\"‏ الْجِهَادُ فِي سَبِيلِ اللَّهِ ‏\"‏ ‏.‏ فَمَا تَرَكْتُ أَسْتَزِيدُهُ إِلاَّ إِرْعَاءً عَلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of 'Abdullah b. Mas'ud that he observed. I asked the Messenger of Allah (ﷺ) which deed was the best. He (the Holy Prophet) replied:",
+        "text": "Prayer at its appointed hour. I (again) said: Then what? He (the Holy Prophet) replied: Kindness to the parents. I (again) said: Then what? He replied: Earnest endeavour (Jihad) in the cause of Allah. And I would have not ceased asking more questions but out of regard (for his feelings)."
+      }
+    },
+    {
+      "id": 159,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْمَكِّيُّ، حَدَّثَنَا مَرْوَانُ الْفَزَارِيُّ، حَدَّثَنَا أَبُو يَعْفُورٍ، عَنِ الْوَلِيدِ بْنِ الْعَيْزَارِ، عَنْ أَبِي عَمْرٍو الشَّيْبَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قُلْتُ يَا نَبِيَّ اللَّهِ أَىُّ الأَعْمَالِ أَقْرَبُ إِلَى الْجَنَّةِ قَالَ ‏\"‏ الصَّلاَةُ عَلَى مَوَاقِيتِهَا ‏\"‏ ‏.‏ قُلْتُ وَمَاذَا يَا نَبِيَّ اللَّهِ قَالَ ‏\"‏ بِرُّ الْوَالِدَيْنِ ‏\"‏ ‏.‏ قُلْتُ وَمَاذَا يَا نَبِيَّ اللَّهِ قَالَ ‏\"‏ الْجِهَادُ فِي سَبِيلِ اللَّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. Mas'ud reported:",
+        "text": "I said: Messenger of Allah, which of the deeds (takes one) nearer to Paradise? He (the Holy Prophet) replied: Prayer at its proper time, I said: What next, Messenger of Allah? He replied: Kindness to the parents. I said: What next? He replied: Jihad in the cause of Allah."
+      }
+    },
+    {
+      "id": 160,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنِ الْوَلِيدِ بْنِ الْعَيْزَارِ، أَنَّهُ سَمِعَ أَبَا عَمْرٍو الشَّيْبَانِيَّ، قَالَ حَدَّثَنِي صَاحِبُ، هَذِهِ الدَّارِ - وَأَشَارَ إِلَى دَارِ عَبْدِ اللَّهِ - قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَىُّ الأَعْمَالِ أَحَبُّ إِلَى اللَّهِ قَالَ ‏\"‏ الصَّلاَةُ عَلَى وَقْتِهَا ‏\"‏ ‏.‏ قُلْتُ ثُمَّ أَىٌّ قَالَ ‏\"‏ ثُمَّ بِرُّ الْوَالِدَيْنِ ‏\"‏ ‏.‏ قُلْتُ ثُمَّ أَىٌّ قَالَ ‏\"‏ ثُمَّ الْجِهَادُ فِي سَبِيلِ اللَّهِ ‏\"‏ قَالَ حَدَّثَنِي بِهِنَّ وَلَوِ اسْتَزَدْتُهُ لَزَادَنِي ‏.‏",
+      "english": {
+        "narrator": "It was heard from Abu 'Amr Shaibani that, pointing towards the house of Abdullah, he said:",
+        "text": "The owner of this house told me that he asked the Messenger of Allah (ﷺ): Which of the deeds are liked by Allah? He (the Holy Prophet) observed: Prayer at its proper time. I (again) said: What next? He replied: Then goodness to the parents. I (again) said: What then? He replied: Then Jihad in the cause of Allah. He ('Abdullah) said: This is what I was told (by the Holy Prophet). Had I questioned further, he would have made additions for me."
+      }
+    },
+    {
+      "id": 161,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏ وَزَادَ وَأَشَارَ إِلَى دَارِ عَبْدِ اللَّهِ وَمَا سَمَّاهُ لَنَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted by Muhammad b. Bashshar, Muhammad b. Ja'far Shu'ba with this chain of narrators, with the addition that he pointed towards the house of 'Abdullah, but he did not mention his name for us."
+      }
+    },
+    {
+      "id": 162,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنِ الْحَسَنِ بْنِ عُبَيْدِ اللَّهِ، عَنْ أَبِي عَمْرٍو الشَّيْبَانِيِّ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَفْضَلُ الأَعْمَالِ - أَوِ الْعَمَلِ - الصَّلاَةُ لِوَقْتِهَا وَبِرُّ الْوَالِدَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is reported on the authority of 'Abdullah that the Messenger of Allah observed:",
+        "text": "The best of' the deeds or deed is the (observance of) prayer at its proper time and kindness to the parents."
+      }
+    },
+    {
+      "id": 163,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ إِسْحَاقُ أَخْبَرَنَا جَرِيرٌ، وَقَالَ، عُثْمَانُ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَمْرِو بْنِ شُرَحْبِيلَ، عَنْ عَبْدِ اللَّهِ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَىُّ الذَّنْبِ أَعْظَمُ عِنْدَ اللَّهِ قَالَ ‏\"‏ أَنْ تَجْعَلَ لِلَّهِ نِدًّا وَهُوَ خَلَقَكَ ‏\"‏ ‏.‏ قَالَ قُلْتُ لَهُ إِنَّ ذَلِكَ لَعَظِيمٌ ‏.‏ قَالَ قُلْتُ ثُمَّ أَىٌّ قَالَ ‏\"‏ ثُمَّ أَنْ تَقْتُلَ وَلَدَكَ مَخَافَةَ أَنْ يَطْعَمَ مَعَكَ ‏\"‏ ‏.‏ قَالَ قُلْتُ ثُمَّ أَىٌّ قَالَ ‏\"‏ ثُمَّ أَنْ تُزَانِيَ حَلِيلَةَ جَارِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah reported:",
+        "text": "I asked the Messenger of Allah (ﷺ): Which sin is the gravest in the eye of Allah? He (the Holy Prophet) replied: That you associate a partner with Allah (despite the fact) that He has created you. He (the reporter) said: I told him (the, Holy Prophet): Verily it is indeed grave. He (the reporter) said: I asked him what the next (gravest sin) was. He (the Holy Prophet) replied: That you kill your child out of fear that he shall join you in food. He (the reporter) said: I asked (him) what the next (gravest sin) was. He (the Holy Prophet) observed: Then (the next gravest sin) is that you commit adultery with the wife of your neighbour."
+      }
+    },
+    {
+      "id": 164,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، جَمِيعًا عَنْ جَرِيرٍ، قَالَ عُثْمَانُ حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ عَمْرِو بْنِ شُرَحْبِيلَ، قَالَ قَالَ عَبْدُ اللَّهِ قَالَ رَجُلٌ يَا رَسُولَ اللَّهِ أَىُّ الذَّنْبِ أَكْبَرُ عِنْدَ اللَّهِ قَالَ ‏\"‏ أَنْ تَدْعُوَ لِلَّهِ نِدًّا وَهُوَ خَلَقَكَ ‏\"‏ ‏.‏ قَالَ ثُمَّ أَىٌّ قَالَ ‏\"‏ أَنْ تَقْتُلَ وَلَدَكَ مَخَافَةَ أَنْ يَطْعَمَ مَعَكَ ‏\"‏ ‏.‏ قَالَ ثُمَّ أَىٌّ قَالَ ‏\"‏ أَنْ تُزَانِيَ حَلِيلَةَ جَارِكَ ‏\"‏ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ تَصْدِيقَهَا ‏{‏ وَالَّذِينَ لاَ يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلاَ يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلاَّ بِالْحَقِّ وَلاَ يَزْنُونَ وَمَنْ يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا‏}‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abdullah b. Mas'ud that a man said:",
+        "text": "Messenger of Allah, which offence is the most grievous in the eye of Allah? He (the Holy Prophet) replied: That you associate a partner with Allah (despite the fact) that He created you. He (the man) said: What next? He (the Holy Prophet) replied: That you kill your child out of fear that he would join you in food. He (the inquirer) said (again): What next? He (the Holy Prophet) replied: That you commit adultery with the wife of your neighbour. And the Almighty and Exalted Lord testified it (with this verse): \nAll those who call not unto another god along with Allah, and slay not any soul which Allah has forbidden, except in the cause of justice, nor commit fornication, and he who does this shall meet a requital of sin (xxv. 68)."
+      }
+    },
+    {
+      "id": 165,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي عَمْرُو بْنُ مُحَمَّدِ بْنِ بُكَيْرِ بْنِ مُحَمَّدٍ النَّاقِدُ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ سَعِيدٍ الْجُرَيْرِيِّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرَةَ، عَنْ أَبِيهِ، قَالَ كُنَّا عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ أَلاَ أُنَبِّئُكُمْ بِأَكْبَرِ الْكَبَائِرِ - ثَلاَثًا - الإِشْرَاكُ بِاللَّهِ وَعُقُوقُ الْوَالِدَيْنِ وَشَهَادَةُ الزُّورِ أَوْ قَوْلُ الزُّورِ ‏\"‏ ‏.‏ وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم مُتَّكِئًا فَجَلَسَ فَمَازَالَ يُكَرِّرُهَا حَتَّى قُلْنَا لَيْتَهُ سَكَتَ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of 'Abdur-Rahman b. Abu Bakra that his father said:",
+        "text": "We were in the company of the Messenger of Allah (ﷺ) that he observed: Should I not inform you about the most grievous of the grave sins? (The Holy Prophet) repeated it three times, and then said: Associating anyone with Allah, disobedience to parents, false testimony or false utterance. The Prophet was reclining, then he sat up, and he repeated it so many times that we wished that he should become silent."
+      }
+    },
+    {
+      "id": 166,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ، حَدَّثَنَا خَالِدٌ، - وَهُوَ ابْنُ الْحَارِثِ - حَدَّثَنَا شُعْبَةُ، أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ أَبِي بَكْرٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي الْكَبَائِرِ قَالَ ‏\n\"‏ الشِّرْكُ بِاللَّهِ وَعُقُوقُ الْوَالِدَيْنِ وَقَتْلُ النَّفْسِ وَقَوْلُ الزُّورِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas narrated from the Apostle (ﷺ) about the major sins. He (the Holy Prophet) observed:",
+        "text": "Associating anyone with Allah, disobedience to parents, killing a person and false utterance."
+      }
+    },
+    {
+      "id": 167,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْوَلِيدِ بْنِ عَبْدِ الْحَمِيدِ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ أَبِي بَكْرٍ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، قَالَ ذَكَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْكَبَائِرَ - أَوْ سُئِلَ عَنِ الْكَبَائِرِ - فَقَالَ ‏\"‏ الشِّرْكُ بِاللَّهِ وَقَتْلُ النَّفْسِ وَعُقُوقُ الْوَالِدَيْنِ ‏\"‏ ‏.‏ وَقَالَ ‏\"‏ أَلاَ أُنَبِّئُكُمْ بِأَكْبَرِ الْكَبَائِرِ ‏\"‏ ‏.‏ قَالَ ‏\"‏ قَوْلُ الزُّورِ ‏\"‏ ‏.‏ أَوْ قَالَ ‏\"‏ شَهَادَةُ الزُّورِ ‏\"‏ ‏.‏ قَالَ شُعْبَةُ وَأَكْبَرُ ظَنِّي أَنَّهُ شَهَادَةُ الزُّورِ ‏.‏",
+      "english": {
+        "narrator": "Ubaidullah b. Abu Bakr said:",
+        "text": "I heard Anas b. Malik saying: The Messenger of Allah (ﷺ) talked about the major sins, or he was asked about the major sins. Upon this he observed: Associating anyone with Allah, killing of a person, disobedience to parents. He (the Prophet further) said: Should I not inform you about the gravest of the major sins, and (in this connection) observed: False utterance or false testimony. Shu'ba said. It was most probably\" false testimony\"."
+      }
+    },
+    {
+      "id": 168,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ حَدَّثَنِي سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ ثَوْرِ بْنِ زَيْدٍ، عَنْ أَبِي الْغَيْثِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ اجْتَنِبُوا السَّبْعَ الْمُوبِقَاتِ ‏\"‏ ‏.‏ قِيلَ يَا رَسُولَ اللَّهِ وَمَا هُنَّ قَالَ ‏\"‏ الشِّرْكُ بِاللَّهِ وَالسِّحْرُ وَقَتْلُ النَّفْسِ الَّتِي حَرَّمَ اللَّهُ إِلاَّ بِالْحَقِّ وَأَكْلُ مَالِ الْيَتِيمِ وَأَكْلُ الرِّبَا وَالتَّوَلِّي يَوْمَ الزَّحْفِ وَقَذْفُ الْمُحْصَنَاتِ الْغَافِلاَتِ الْمُؤْمِنَاتِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is reported on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:",
+        "text": "Avoid the seven noxious things. It was said (by the hearers): What are they, Messenger of Allah? He (the Holy Prophet) replied: Associating anything with Allah, magic, killing of one whom God has declared inviolate without a just cause, consuming the property of an orphan, and consuming of usury, turning back when the army advances, and slandering chaste women who are believers, but unwary."
+      }
+    },
+    {
+      "id": 169,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ الْهَادِ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ مِنَ الْكَبَائِرِ شَتْمُ الرَّجُلِ وَالِدَيْهِ ‏\"‏ ‏.‏ قَالُوا يَا رَسُولَ اللَّهِ هَلْ يَشْتِمُ الرَّجُلُ وَالِدَيْهِ قَالَ ‏\"‏ نَعَمْ يَسُبُّ أَبَا الرَّجُلِ فَيَسُبُّ أَبَاهُ وَيَسُبُّ أُمَّهُ فَيَسُبُّ أُمَّهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of 'Abdullah b. Amr b. al-'As that the Messenger of Allah (ﷺ) observed:",
+        "text": "Abusing one's parents is one of the major sins. They (the hearers) said: Messenger of Allah, does a man abuse his parents too? He (the Holy Prophet) replied: Yes, one abuses the father of another man, who in turn abuses his father. One abuses his mother and he in turn abuses his (the former's) mother."
+      }
+    },
+    {
+      "id": 170,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ جَمِيعًا عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ، عَنْ شُعْبَةَ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، كِلاَهُمَا عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has also been transmitted on the authority of Sa'd b. Ibrahim with this chain of narrators."
+      }
+    },
+    {
+      "id": 171,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، وَإِبْرَاهِيمُ بْنُ دِينَارٍ، جَمِيعًا عَنْ يَحْيَى بْنِ حَمَّادٍ، - قَالَ ابْنُ الْمُثَنَّى حَدَّثَنِي يَحْيَى بْنُ حَمَّادٍ، - أَخْبَرَنَا شُعْبَةُ، عَنْ أَبَانَ بْنِ تَغْلِبَ، عَنْ فُضَيْلٍ الْفُقَيْمِيِّ، عَنْ إِبْرَاهِيمَ النَّخَعِيِّ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ يَدْخُلُ الْجَنَّةَ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ كِبْرٍ ‏\"‏ ‏.‏ قَالَ رَجُلٌ إِنَّ الرَّجُلَ يُحِبُّ أَنْ يَكُونَ ثَوْبُهُ حَسَنًا وَنَعْلُهُ حَسَنَةً ‏.‏ قَالَ ‏\"‏ إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It Is narrated on the authority of Abdullah b. Mas'ud that the Messenger of Allah (ﷺ), observed:",
+        "text": "He who has in his heart the weight of a mustard seed of pride shall not enter Paradise. A person (amongst his hearers) said: Verily a person loves that his dress should be fine, and his shoes should be fine. He (the Holy Prophet) remarked: Verily, Allah is Graceful and He loves Grace. Pride is disdaining the truth (out of self-conceit) and contempt for the people."
+      }
+    },
+    {
+      "id": 172,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مِنْجَابُ بْنُ الْحَارِثِ التَّمِيمِيُّ، وَسُوَيْدُ بْنُ سَعِيدٍ، كِلاَهُمَا عَنْ عَلِيِّ بْنِ مُسْهِرٍ، - قَالَ مِنْجَابٌ أَخْبَرَنَا ابْنُ مُسْهِرٍ، - عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَدْخُلُ النَّارَ أَحَدٌ فِي قَلْبِهِ مِثْقَالُ حَبَّةِ خَرْدَلٍ مِنْ إِيمَانٍ وَلاَ يَدْخُلُ الْجَنَّةَ أَحَدٌ فِي قَلْبِهِ مِثْقَالُ حَبَّةِ خَرْدَلٍ مِنْ كِبْرِيَاءَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of 'Abdullah b. Mas'ud that the Messenger of Allah (ﷺ) observed:",
+        "text": "None shall enter the Fire (of Hell) who has in his heart the weight of a mustard seed of Iman and none shall enter Paradise who has in his heart the weight of a mustard seed of pride."
+      }
+    },
+    {
+      "id": 173,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبَانَ بْنِ تَغْلِبَ، عَنْ فُضَيْلٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَدْخُلُ الْجَنَّةَ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ كِبْرٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of 'Abdullah that the Messenger of Allah (ﷺ) observed:",
+        "text": "He who has in his heart the weight of a mustard seed of pride shall not enter Paradise."
+      }
+    },
+    {
+      "id": 174,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي وَوَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ وَكِيعٌ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَالَ ابْنُ نُمَيْرٍ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ مَاتَ يُشْرِكُ بِاللَّهِ شَيْئًا دَخَلَ النَّارَ ‏\"‏ ‏.‏ وَقُلْتُ أَنَا وَمَنْ مَاتَ لاَ يُشْرِكُ بِاللَّهِ شَيْئًا دَخَلَ الْجَنَّةَ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abdullah b. Mas'ud that Waki told (him) that the Messenger of Allah had observed and Ibn Numair asserted:",
+        "text": "I heard the Messenger of Allah (ﷺ) saying: He who dies associating anything with Allah would enter the Fire (of Hell). 'Abdullah b. Mas'ud said: I say that he who died without associating anything with Allah entered Paradise."
+      }
+    },
+    {
+      "id": 175,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، قَالَ أَتَى النَّبِيَّ صلى الله عليه وسلم رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ مَا الْمُوجِبَتَانِ فَقَالَ ‏\n\"‏ مَنْ مَاتَ لاَ يُشْرِكُ بِاللَّهِ شَيْئًا دَخَلَ الْجَنَّةَ وَمَنْ مَاتَ يُشْرِكُ بِاللَّهِ شَيْئًا دَخَلَ النَّارَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Jabir that a man came to the Messenger of Allah (ﷺ) and said:",
+        "text": "Messenger of Allah, what are the two things quite unavoidable? He replied: He who dies without associating anyone with Allah would (necessarily) enter Paradise and he who dies associating anything with Allah would enter the (Fire of) Hell."
+      }
+    },
+    {
+      "id": 176,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو أَيُّوبَ الْغَيْلاَنِيُّ، سُلَيْمَانُ بْنُ عُبَيْدِ اللَّهِ وَحَجَّاجُ بْنُ الشَّاعِرِ قَالاَ حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو، حَدَّثَنَا قُرَّةُ، عَنْ أَبِي الزُّبَيْرِ، حَدَّثَنَا جَابِرُ بْنُ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ لَقِيَ اللَّهَ لاَ يُشْرِكُ بِهِ شَيْئًا دَخَلَ الْجَنَّةَ وَمَنْ لَقِيَهُ يُشْرِكُ بِهِ دَخَلَ النَّارِ ‏\"‏ ‏.‏ قَالَ أَبُو أَيُّوبَ قَالَ أَبُو الزُّبَيْرِ عَنْ جَابِرٍ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Jabir b. Abdullah:",
+        "text": "I heard the Messenger of Allah (ﷺ) saying: He who met Allah without associating anything with Allah entered Paradise and he who met Him associating (anything) with Him entered Fire."
+      }
+    },
+    {
+      "id": 177,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا مُعَاذٌ، - وَهُوَ ابْنُ هِشَامٍ - قَالَ حَدَّثَنِي أَبِي، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The same hadith has been narrated by Ishaq b. Mansur on the authority of Jabir with another chain of transmitters."
+      }
+    },
+    {
+      "id": 178,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالَ ابْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ وَاصِلٍ الأَحْدَبِ، عَنِ الْمَعْرُورِ بْنِ سُوَيْدٍ، قَالَ سَمِعْتُ أَبَا ذَرٍّ، يُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\"‏ أَتَانِي جِبْرِيلُ - عَلَيْهِ السَّلاَمُ - فَبَشَّرَنِي أَنَّهُ مَنْ مَاتَ مِنْ أُمَّتِكَ لاَ يُشْرِكُ بِاللَّهِ شَيْئًا دَخَلَ الْجَنَّةَ ‏\"‏ ‏.‏ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ ‏.‏ قَالَ ‏\"‏ وَإِنْ زَنَى وَإِنْ سَرَقَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "I heard Abu Dharr narrating it from the Apostle (ﷺ) that he observed:",
+        "text": "Gabriel came to me and gave me the tidings: Verily he who died amongst your Ummah without associating anything with Allah would enter Paradise. I (the narrator) said: Even if he committed adultery and theft. He (the Holy Prophet) said: (Yes), even if he committed adultery and theft."
+      }
+    },
+    {
+      "id": 179,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَأَحْمَدُ بْنُ خِرَاشٍ، قَالاَ حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنَا أَبِي قَالَ، حَدَّثَنِي حُسَيْنٌ الْمُعَلِّمُ، عَنِ ابْنِ بُرَيْدَةَ، أَنَّ يَحْيَى بْنَ يَعْمَرَ، حَدَّثَهُ أَنَّ أَبَا الأَسْوَدِ الدِّيلِيَّ حَدَّثَهُ أَنَّ أَبَا ذَرٍّ حَدَّثَهُ قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَهُوَ نَائِمٌ عَلَيْهِ ثَوْبٌ أَبْيَضُ ثُمَّ أَتَيْتُهُ فَإِذَا هُوَ نَائِمٌ ثُمَّ أَتَيْتُهُ وَقَدِ اسْتَيْقَظَ فَجَلَسْتُ إِلَيْهِ فَقَالَ ‏\"‏ مَا مِنْ عَبْدٍ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ثُمَّ مَاتَ عَلَى ذَلِكَ إِلاَّ دَخَلَ الْجَنَّةَ ‏\"‏ ‏.‏ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ قَالَ ‏\"‏ وَإِنْ زَنَى وَإِنْ سَرَقَ ‏\"‏ ‏.‏ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ قَالَ ‏\"‏ وَإِنْ زَنَى وَإِنْ سَرَقَ ‏\"‏ ‏.‏ ثَلاَثًا ثُمَّ قَالَ فِي الرَّابِعَةِ ‏\"‏ عَلَى رَغْمِ أَنْفِ أَبِي ذَرٍّ ‏\"‏ قَالَ فَخَرَجَ أَبُو ذَرٍّ وَهُوَ يَقُولُ وَإِنْ رَغِمَ أَنْفُ أَبِي ذَرٍّ ‏.‏",
+      "english": {
+        "narrator": "Abu Dharr reported,:",
+        "text": "I came to the Apostle (may peace be upon him ) and he was asleep with a white mantle over him. I again came, he was still asleep, I came again and he had awakened. I sat by his side and (the Holy Prophet) observed: There is none among the bondsmen who affirmed his faith in La illaha ill-Allah there is no God but Allah) and died in this state and did not enter Paradise. I (Abu Dharr) said: Even if he committed adultery and theft? He (the Holy Prophet) replied: (Yes) even though he committed adultery and theft. I (again said): Even if he committed adultery and theft? He replied: (Yes) even though he committed adultery and theft. (Th Holy Prophet repeated it three times) and said for the fourth time: In defiance of Abu Dharr. Abu Dharr then went out and he repeated (these words): In defiance of Abu Dharr."
+      }
+    },
+    {
+      "id": 180,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، - وَاللَّفْظُ مُتَقَارِبٌ - أَخْبَرَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَدِيِّ بْنِ الْخِيَارِ، عَنِ الْمِقْدَادِ بْنِ الأَسْوَدِ، أَنَّهُ أَخْبَرَهُ أَنَّهُ، قَالَ يَا رَسُولَ اللَّهِ أَرَأَيْتَ إِنْ لَقِيتُ رَجُلاً مِنَ الْكُفَّارِ فَقَاتَلَنِي فَضَرَبَ إِحْدَى يَدَىَّ بِالسَّيْفِ فَقَطَعَهَا ‏.‏ ثُمَّ لاَذَ مِنِّي بِشَجَرَةٍ فَقَالَ أَسْلَمْتُ لِلَّهِ ‏.‏ أَفَأَقْتُلُهُ يَا رَسُولَ اللَّهِ بَعْدَ أَنْ قَالَهَا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ تَقْتُلْهُ ‏\"‏ ‏.‏ قَالَ فَقُلْتُ يَا رَسُولَ اللَّهِ إِنَّهُ قَدْ قَطَعَ يَدِي ثُمَّ قَالَ ذَلِكَ بَعْدَ أَنْ قَطَعَهَا أَفَأَقْتُلُهُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ تَقْتُلْهُ فَإِنْ قَتَلْتَهُ فَإِنَّهُ بِمَنْزِلَتِكَ قَبْلَ أَنْ تَقْتُلَهُ وَإِنَّكَ بِمَنْزِلَتِهِ قَبْلَ أَنْ يَقُولَ كَلِمَتَهُ الَّتِي قَالَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Miqdad b. Aswad that he said. Messenger of Allah, you just see (here is a point):",
+        "text": "If I encountered a person amongst the infidels (in the battlefield) and he attacked me and struck me and cut off one of my hands with the sword. Then he (in order to protect himself from me) took shelter of a tree and said: I become Muslim for Allah's sake. Messenger of Allah, can I kill him after he had uttered this? The Messenger of Allah (ﷺ) said: Do not kill him. I (the narrator) said: Messenger of Allah, he cut off my hand and uttered this after amputating it; should I then kill him? The Messenger of Allah (ﷺ) said: Don't kill him, for I you kill him, verily he would be in a position where you had been before killing him and verily you would be in a position where he had been before uttering (kalima)."
+      }
+    },
+    {
+      "id": 181,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالاَ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَخْبَرَنَا مَعْمَرٌ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ مُوسَى الأَنْصَارِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الأَوْزَاعِيِّ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، جَمِيعًا عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ أَمَّا الأَوْزَاعِيُّ وَابْنُ جُرَيْجٍ فَفِي حَدِيثِهِمَا قَالَ أَسْلَمْتُ لِلَّهِ ‏.‏ كَمَا قَالَ اللَّيْثُ فِي حَدِيثِهِ ‏.‏ وَأَمَّا مَعْمَرٌ فَفِي حَدِيثِهِ فَلَمَّا أَهْوَيْتُ لأَقْتُلَهُ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏.‏",
+      "english": {
+        "narrator": "The same hadith has been transmitted by the same chain of narrators. The hadith transmitted by Auza'i and Ibn Juraij contains these words:",
+        "text": "I embraced Islam for Allah's sake. and in the hadith narrated by Ma'mar the words are: I knelt down to kill him, that he said; There is no god but Allah."
+      }
+    },
+    {
+      "id": 182,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ حَدَّثَنِي عَطَاءُ بْنُ يَزِيدَ اللَّيْثِيُّ، ثُمَّ الْجُنْدَعِيُّ أَنَّ عُبَيْدَ، اللَّهِ بْنَ عَدِيِّ بْنِ الْخِيَارِ أَخْبَرَهُ أَنَّ الْمِقْدَادَ بْنَ عَمْرِو بْنِ الأَسْوَدِ الْكِنْدِيَّ - وَكَانَ حَلِيفًا لِبَنِي زُهْرَةَ وَكَانَ مِمَّنْ شَهِدَ بَدْرًا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم - أَنَّهُ قَالَ يَا رَسُولَ اللَّهِ أَرَأَيْتَ إِنْ لَقِيتُ رَجُلاً مِنَ الْكُفَّارِ ثُمَّ ذَكَرَ بِمِثْلِ حَدِيثِ اللَّيْثِ ‏.‏",
+      "english": {
+        "narrator": "It is narrated by Miqdad, and he was an ally of B. Zuhra and was of those who participated in the Battle of Badr along with the Messenger of Allah, that he said:",
+        "text": "Messenger of Allah, here is a point: If I happened to encounter a person amongst the infidels (in the battle). Then he narrated a hadith similar to the one transmitted by Laith."
+      }
+    },
+    {
+      "id": 183,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنْ أَبِي مُعَاوِيَةَ، كِلاَهُمَا عَنِ الأَعْمَشِ، عَنْ أَبِي ظِبْيَانَ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، وَهَذَا، حَدِيثُ ابْنِ أَبِي شَيْبَةَ قَالَ بَعَثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي سَرِيَّةٍ فَصَبَّحْنَا الْحُرَقَاتِ مِنْ جُهَيْنَةَ فَأَدْرَكْتُ رَجُلاً فَقَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏.‏ فَطَعَنْتُهُ فَوَقَعَ فِي نَفْسِي مِنْ ذَلِكَ فَذَكَرْتُهُ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَقَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَقَتَلْتَهُ ‏\"‏ ‏.‏ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّمَا قَالَهَا خَوْفًا مِنَ السِّلاَحِ ‏.‏ قَالَ ‏\"‏ أَفَلاَ شَقَقْتَ عَنْ قَلْبِهِ حَتَّى تَعْلَمَ أَقَالَهَا أَمْ لاَ ‏\"‏ ‏.‏ فَمَازَالَ يُكَرِّرُهَا عَلَىَّ حَتَّى تَمَنَّيْتُ أَنِّي أَسْلَمْتُ يَوْمَئِذٍ ‏.‏ قَالَ فَقَالَ سَعْدٌ وَأَنَا وَاللَّهِ لاَ أَقْتُلُ مُسْلِمًا حَتَّى يَقْتُلَهُ ذُو الْبُطَيْنِ ‏.‏ يَعْنِي أُسَامَةَ قَالَ قَالَ رَجُلٌ أَلَمْ يَقُلِ اللَّهُ ‏{‏ وَقَاتِلُوهُمْ حَتَّى لاَ تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ لِلَّهِ‏}‏ فَقَالَ سَعْدٌ قَدْ قَاتَلْنَا حَتَّى لاَ تَكُونَ فِتْنَةٌ وَأَنْتَ وَأَصْحَابُكَ تُرِيدُونَ أَنْ تُقَاتِلُوا حَتَّى تَكُونَ فِتْنَةٌ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Usama b. Zaid that the Messenger of Allah (ﷺ) sent us in a raiding party. We raided Huraqat of Juhaina in the morning. I caught hold of a man and he said:",
+        "text": "There is no god but Allah, I attacked him with a spear. It once occurred to me and I talked about it to the Apostle (ﷺ). The Messenger of Allah (ﷺ) said: Did he profess\" There is no god but Allah,\" and even then you killed him? I said: Messenger of Allah, he made a profession of it out of the fear of the weapon. He (the Holy Prophet) observed: Did you tear his heart in order to find out whether it had professed or not? And he went on repeating it to me till I wished I had embraced Islam that day. Sa'd said: By Allah, I would never kill any Muslim so long as a person with a heavy belly, i. e., Usama, would not kill. Upon this a person remarked: Did Allah not say this: And fight them until there is no more mischief and religion is wholly for Allah? Sa'd said: We fought so that there should be no mischief, but you and your companions wish to fight so that there should be mischief."
+      }
+    },
+    {
+      "id": 184,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَعْقُوبُ الدَّوْرَقِيُّ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا حُصَيْنٌ، حَدَّثَنَا أَبُو ظِبْيَانَ، قَالَ سَمِعْتُ أُسَامَةَ بْنَ زَيْدِ بْنِ حَارِثَةَ، يُحَدِّثُ قَالَ بَعَثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الْحُرَقَةِ مِنْ جُهَيْنَةَ فَصَبَّحْنَا الْقَوْمَ فَهَزَمْنَاهُمْ وَلَحِقْتُ أَنَا وَرَجُلٌ مِنَ الأَنْصَارِ رَجُلاً مِنْهُمْ فَلَمَّا غَشَيْنَاهُ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏.‏ فَكَفَّ عَنْهُ الأَنْصَارِيُّ وَطَعَنْتُهُ بِرُمْحِي حَتَّى قَتَلْتُهُ ‏.‏ قَالَ فَلَمَّا قَدِمْنَا بَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَقَالَ لِي ‏\"‏ يَا أُسَامَةُ أَقَتَلْتَهُ بَعْدَ مَا قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏\"‏ ‏.‏ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّمَا كَانَ مُتَعَوِّذًا ‏.‏ قَالَ فَقَالَ ‏\"‏ أَقَتَلْتَهُ بَعْدَ مَا قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏\"‏ ‏.‏ قَالَ فَمَازَالَ يُكَرِّرُهَا عَلَىَّ حَتَّى تَمَنَّيْتُ أَنِّي لَمْ أَكُنْ أَسْلَمْتُ قَبْلَ ذَلِكَ الْيَوْمِ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Usama b. Zaid:",
+        "text": "The Messenger of Allah may peace be upon him) sent us to Huraqat, a tribe of Juhaina. We attacked that tribe early in the morning and defeated them and I and a man from the Ansar caught hold of a person (of the defeated tribe). When we overcame him, he said: There is no god but Allah. At that moment the Ansari spared him, but I attacked him with my spear and killed him. The news had already reached the Apostle (peace be upon him), so when we came back he (the Apostle) said to me: Usama, did you kill him after he had made the profession: There is no god but Allah? I said. Messenger of Allah, he did it only as a shelter. The Prophet observed: Did you kill him after he had made the profession that there is no god but Allah? He (the Holy Prophet) went on repeating this to me till I wished I had not embraced Islam before that day."
+      }
+    },
+    {
+      "id": 185,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الْحَسَنِ بْنِ خِرَاشٍ، حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ أَبِي يُحَدِّثُ، أَنَّ خَالِدًا الأَثْبَجَ ابْنَ أَخِي، صَفْوَانَ بْنِ مُحْرِزٍ حَدَّثَ عَنْ صَفْوَانَ بْنِ مُحْرِزٍ، أَنَّهُ حَدَّثَ أَنَّ جُنْدَبَ بْنَ عَبْدِ اللَّهِ الْبَجَلِيَّ بَعَثَ إِلَى عَسْعَسِ بْنِ سَلاَمَةَ زَمَنَ فِتْنَةِ ابْنِ الزُّبَيْرِ فَقَالَ اجْمَعْ لِي نَفَرًا مِنْ إِخْوَانِكَ حَتَّى أُحَدِّثَهُمْ ‏.‏ فَبَعَثَ رَسُولاً إِلَيْهِمْ فَلَمَّا اجْتَمَعُوا جَاءَ جُنْدَبٌ وَعَلَيْهِ بُرْنُسٌ أَصْفَرُ فَقَالَ تَحَدَّثُوا بِمَا كُنْتُمْ تَحَدَّثُونَ بِهِ ‏.‏ حَتَّى دَارَ الْحَدِيثُ فَلَمَّا دَارَ الْحَدِيثُ إِلَيْهِ حَسَرَ الْبُرْنُسَ عَنْ رَأْسِهِ فَقَالَ إِنِّي أَتَيْتُكُمْ وَلاَ أُرِيدُ أَنْ أُخْبِرَكُمْ عَنْ نَبِيِّكُمْ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ بَعْثًا مِنَ الْمُسْلِمِينَ إِلَى قَوْمٍ مِنَ الْمُشْرِكِينَ وَإِنَّهُمُ الْتَقَوْا فَكَانَ رَجُلٌ مِنَ الْمُشْرِكِينَ إِذَا شَاءَ أَنْ يَقْصِدَ إِلَى رَجُلٍ مِنَ الْمُسْلِمِينَ قَصَدَ لَهُ فَقَتَلَهُ وَإِنَّ رَجُلاً مِنَ الْمُسْلِمِينَ قَصَدَ غَفْلَتَهُ قَالَ وَكُنَّا نُحَدَّثُ أَنَّهُ أُسَامَةُ بْنُ زَيْدٍ فَلَمَّا رَفَعَ عَلَيْهِ السَّيْفَ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏.‏ فَقَتَلَهُ فَجَاءَ الْبَشِيرُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَسَأَلَهُ فَأَخْبَرَهُ حَتَّى أَخْبَرَهُ خَبَرَ الرَّجُلِ كَيْفَ صَنَعَ فَدَعَاهُ فَسَأَلَهُ فَقَالَ ‏\"‏ لِمَ قَتَلْتَهُ ‏\"‏ ‏.‏ قَالَ يَا رَسُولَ اللَّهَ أَوْجَعَ فِي الْمُسْلِمِينَ وَقَتَلَ فُلاَنًا وَفُلاَنًا - وَسَمَّى لَهُ نَفَرًا - وَإِنِّي حَمَلْتُ عَلَيْهِ فَلَمَّا رَأَى السَّيْفَ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَقَتَلْتَهُ ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏\"‏ فَكَيْفَ تَصْنَعُ بِلاَ إِلَهَ إِلاَّ اللَّهُ إِذَا جَاءَتْ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ قَالَ يَا رَسُولَ اللَّهِ اسْتَغْفِرْ لِي ‏.‏ قَالَ ‏\"‏ وَكَيْفَ تَصْنَعُ بِلاَ إِلَهَ إِلاَّ اللَّهُ إِذَا جَاءَتْ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ قَالَ فَجَعَلَ لاَ يَزِيدُهُ عَلَى أَنْ يَقُولَ ‏\"‏ كَيْفَ تَصْنَعُ بِلاَ إِلَهَ إِلاَّ اللَّهُ إِذَا جَاءَتْ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated by Safwan b. Muhriz that Jundab b. 'Abdullah al-Bajali during the stormy days of Ibn Zubair sent a message to 'As'as b. Salama:",
+        "text": "Gather some men of your family so that I should talk to them. He ('As'as) sent a messenger to them (to the members of his family). When they had assembled, Jundab came there with a yellow hooded cloak on him, He said: Talk what you were busy in talking. The talk went on by turns, till there came his (Jundab's) turn. He took off the hooded cloak from his head and said: I have come to you with no other intention but to narrate to you a hadith of your Apostle: Verily the Messenger of Allah (ﷺ) sent a squad of the Muslims to a tribe of the polytheists. Both the armies confronted one another. There was a man among the army of polytheists who (was so dashing that), whenever he intended to kill a man from among the Muslims, he killed him. Amongst the Muslims too was a man looking forward to (an opportunity of) his (the polytheist's) unmindfulness. He (the narrator) said: We talked that he was Usama b, Zaid. When he raised his sword, he (the soldier of the polytheists) uttered:\" There is no god but Allah,\" but he (Usama b. Zaid) killed him. When the messenger of the glad tidings came to the Apostle (ﷺ) he asked him (about the events of the battle) and he informed him about the man (Usama) and what he had done He (the Prophet of Allah) called for him and asked him why he had killed him. He (Usama) said: Messenger of Allah, he struck the Muslims and killed such and such of them. And he even named some of them. (He continued): I attacked him and when he saw the sword he said: There is no god but Allah. The Messenger of Allah (ﷺ) said: Did you kill him? He (Usama) replied in the affirmative. He (the Holy Prophet) remarked: What would you do with:\" There is no god but Allah,\" when he would come (before you) on the Day of Judgment? He (Usama) said: Messenger of Allah, beg pardon for me (from your Lord). He (the Holy Prophet) said: What would you do with:\" There is no god but Allah\" when he would come (before you) on the Day of Judgment? He (the Holy Prophet) added nothing to it but kept saying: What would you do with:\" There is no god but Allah,\" when he would come (before you) on the Day of Judgment?"
+      }
+    },
+    {
+      "id": 186,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا يَحْيَى، - وَهُوَ الْقَطَّانُ - ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، وَابْنُ، نُمَيْرٍ كُلُّهُمْ عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح \n وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، - وَاللَّفْظُ لَهُ - قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ حَمَلَ عَلَيْنَا السِّلاَحَ فَلَيْسَ مِنَّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abdullah b. Umar who narrates from the Prophet of Allah (ﷺ) who said:",
+        "text": "He who took up arms against us is not of us."
+      }
+    },
+    {
+      "id": 187,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَابْنُ، نُمَيْرٍ قَالاَ حَدَّثَنَا مُصْعَبٌ، - وَهُوَ ابْنُ الْمِقْدَامِ - حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، عَنْ إِيَاسِ بْنِ سَلَمَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ سَلَّ عَلَيْنَا السَّيْفَ فَلَيْسَ مِنَّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Iyas b. Salama narrated from his father that the Apostle (ﷺ) observed:",
+        "text": "He who draws the sword against us is not of us."
+      }
+    },
+    {
+      "id": 188,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَبْدُ اللَّهِ بْنُ بَرَّادٍ الأَشْعَرِيُّ، وَأَبُو كُرَيْبٍ قَالُوا حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ حَمَلَ عَلَيْنَا السِّلاَحَ فَلَيْسَ مِنَّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Musa Ash'ari:",
+        "text": "He who took up arms against us is not of us."
+      }
+    },
+    {
+      "id": 189,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ، - وَهُوَ ابْنُ عَبْدِ الرَّحْمَنِ الْقَارِيُّ ح وَحَدَّثَنَا أَبُو الأَحْوَصِ، مُحَمَّدُ بْنُ حَيَّانَ حَدَّثَنَا ابْنُ أَبِي حَازِمٍ، كِلاَهُمَا عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ حَمَلَ عَلَيْنَا السِّلاَحَ فَلَيْسَ مِنَّا وَمَنْ غَشَّنَا فَلَيْسَ مِنَّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:",
+        "text": "He who took up arms against us is not of us and he who acted dishonestly towards us is not of us."
+      }
+    },
+    {
+      "id": 190,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ جَمِيعًا عَنْ إِسْمَاعِيلَ بْنِ جَعْفَرٍ، - قَالَ ابْنُ أَيُّوبَ حَدَّثَنَا إِسْمَاعِيلُ، - قَالَ أَخْبَرَنِي الْعَلاَءُ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، ‏.‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَرَّ عَلَى صُبْرَةِ طَعَامٍ فَأَدْخَلَ يَدَهُ فِيهَا فَنَالَتْ أَصَابِعُهُ بَلَلاً فَقَالَ ‏\"‏ مَا هَذَا يَا صَاحِبَ الطَّعَامِ ‏\"‏ ‏.‏ قَالَ أَصَابَتْهُ السَّمَاءُ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ أَفَلاَ جَعَلْتَهُ فَوْقَ الطَّعَامِ كَىْ يَرَاهُ النَّاسُ مَنْ غَشَّ فَلَيْسَ مِنِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) happened to pass by a heap of eatables (corn). He thrust his hand in that (heap) and his fingers were moistened. He said to the owner of that heap of eatables (corn):",
+        "text": "What is this? He replied: Messenger of Allah, these have been drenched by rainfall. He (the Holy Prophet) remarked: Why did you not place this (the drenched part of the heap) over other eatables so that the people could see it? He who deceives is not of me (is not my follower)."
+      }
+    },
+    {
+      "id": 191,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، وَوَكِيعٌ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي جَمِيعًا، عَنِ الأَعْمَشِ، عَنْ عَبْدِ اللَّهِ بْنِ مُرَّةَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لَيْسَ مِنَّا مَنْ ضَرَبَ الْخُدُودَ أَوْ شَقَّ الْجُيُوبَ أَوْ دَعَا بِدَعْوَى الْجَاهِلِيَّةِ ‏\"‏ ‏.‏ هَذَا حَدِيثُ يَحْيَى وَأَمَّا ابْنُ نُمَيْرٍ وَأَبُو بَكْرٍ فَقَالاَ ‏\"‏ وَشَقَّ وَدَعَا ‏\"‏ بِغَيْرِ أَلِفٍ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abdullah b. Mas'ud that the Prophet observed:",
+        "text": "He is not one of us (one among the Ummah of Islam) who beat the cheeks or tore the front opening of the shirt or uttered the slogans of (the days of) Jahiliya (ignorance). Ibn Numair and Abu Bakr said (instead of the word\" au\" (or) it is\" wa\"  the words are) and tore and uttered (the slogans) of Jahiliya without\" alif\"."
+      }
+    },
+    {
+      "id": 192,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ خَشْرَمٍ، قَالاَ حَدَّثَنَا عِيسَى بْنُ يُونُسَ، جَمِيعًا عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ وَقَالاَ ‏\n\"‏ وَشَقَّ وَدَعَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated by A'mash with the same chain of narrators and the transmitters said:",
+        "text": "He tore and called."
+      }
+    },
+    {
+      "id": 193,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا الْحَكَمُ بْنُ مُوسَى الْقَنْطَرِيُّ، حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ، أَنَّ الْقَاسِمَ بْنَ مُخَيْمِرَةَ، حَدَّثَهُ قَالَ حَدَّثَنِي أَبُو بُرْدَةَ بْنُ أَبِي مُوسَى، قَالَ وَجِعَ أَبُو مُوسَى وَجَعًا فَغُشِيَ عَلَيْهِ وَرَأْسُهُ فِي حَجْرِ امْرَأَةٍ مِنْ أَهْلِهِ فَصَاحَتِ امْرَأَةٌ مِنْ أَهْلِهِ فَلَمْ يَسْتَطِعْ أَنْ يَرُدَّ عَلَيْهَا شَيْئًا فَلَمَّا أَفَاقَ قَالَ أَنَا بَرِيءٌ مِمَّا بَرِئَ مِنْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَرِئَ مِنَ الصَّالِقَةِ وَالْحَالِقَةِ وَالشَّاقَّةِ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Burda b. Abu Musa that Abu Musa was afflicted with grave pain and he became unconscious and his head was in the lap of a lady of his household. One of the women of his household walled. He (Abu Musa) was unable (because of weakness) to say anything to her. But when he was a bit recovered he said:",
+        "text": "I have no concern with one with whom the Messenger of Allah (ﷺ) has no concern, Verily the Messenger of Allah (ﷺ) has no concern with that woman who wails loudly, shaves her hair and tears (her garment in grief)."
+      }
+    },
+    {
+      "id": 194,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، قَالاَ أَخْبَرَنَا جَعْفَرُ بْنُ عَوْنٍ، أَخْبَرَنَا أَبُو عُمَيْسٍ، قَالَ سَمِعْتُ أَبَا صَخْرَةَ، يَذْكُرُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، وَأَبِي، بُرْدَةَ بْنِ أَبِي مُوسَى قَالاَ أُغْمِيَ عَلَى أَبِي مُوسَى وَأَقْبَلَتِ امْرَأَتُهُ أُمُّ عَبْدِ اللَّهِ تَصِيحُ بِرَنَّةٍ ‏.‏ قَالاَ ثُمَّ أَفَاقَ قَالَ أَلَمْ تَعْلَمِي - وَكَانَ يُحَدِّثُهَا - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَنَا بَرِيءٌ مِمَّنْ حَلَقَ وَسَلَقَ وَخَرَقَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Burda that Abu Musa fell unconscious and his wife Umm Abdullah came there and wailed loudly. When he felt relief he said:",
+        "text": "Don't you know? -and narrated to her: Verily the Messenger of Allah (ﷺ) said: I have no concern with one who shaved her hair, lamented loudly and tore (her clothes in grief)."
+      }
+    },
+    {
+      "id": 195,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُطِيعٍ، حَدَّثَنَا هُشَيْمٌ، عَنْ حُصَيْنٍ، عَنْ عِيَاضٍ الأَشْعَرِيِّ، عَنِ امْرَأَةِ أَبِي مُوسَى، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم ح \nوَحَدَّثَنِيهِ حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، قَالَ حَدَّثَنِي أَبِي، حَدَّثَنَا دَاوُدُ، - يَعْنِي ابْنَ أَبِي هِنْدٍ - حَدَّثَنَا عَاصِمٌ، عَنْ صَفْوَانَ بْنِ مُحْرِزٍ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم ح\nوَحَدَّثَنِي الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، حَدَّثَنَا عَبْدُ الصَّمَدِ، أَخْبَرَنَا شُعْبَةُ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا الْحَدِيثِ ‏.‏ غَيْرَ أَنَّ فِي حَدِيثِ عِيَاضٍ الأَشْعَرِيِّ قَالَ ‏\"‏ لَيْسَ مِنَّا ‏\"‏ ‏.‏ وَلَمْ يَقُلْ ‏\"‏ بَرِيءٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith is narrated on the authority of Abu Musa with this change only:",
+        "text": "That (the Holy Prophet) did not say that he had no concern but said: He is not one of us."
+      }
+    },
+    {
+      "id": 196,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي شَيْبَانُ بْنُ فَرُّوخَ، وَعَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ الضُّبَعِيُّ، قَالاَ حَدَّثَنَا مَهْدِيٌّ، - وَهُوَ ابْنُ مَيْمُونٍ - حَدَّثَنَا وَاصِلٌ الأَحْدَبُ، عَنْ أَبِي وَائِلٍ، عَنْ حُذَيْفَةَ، أَنَّهُ بَلَغَهُ أَنَّ رَجُلاً، يَنِمُّ الْحَدِيثَ فَقَالَ حُذَيْفَةُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ يَدْخُلُ الْجَنَّةَ نَمَّامٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is reported from Hudhaifa that news reached him (the Holy Prophet) that a certain man carried tales. Upon this Hudhaifa remarked:",
+        "text": "I heard Allah's Messenger (ﷺ) saying: The tale-bearer shall not enter Paradise."
+      }
+    },
+    {
+      "id": 197,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ إِسْحَاقُ أَخْبَرَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ هَمَّامِ بْنِ الْحَارِثِ، قَالَ كَانَ رَجُلٌ يَنْقُلُ الْحَدِيثَ إِلَى الأَمِيرِ فَكُنَّا جُلُوسًا فِي الْمَسْجِدِ فَقَالَ الْقَوْمُ هَذَا مِمَّنْ يَنْقُلُ الْحَدِيثَ إِلَى الأَمِيرِ ‏.‏ قَالَ فَجَاءَ حَتَّى جَلَسَ إِلَيْنَا ‏.‏ فَقَالَ حُذَيْفَةُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ يَدْخُلُ الْجَنَّةَ قَتَّاتٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is reported on the authority of Hammam b, al-Harith that a man used to carry tales to the governor. We were sitting in the mosque. the people said:",
+        "text": "He is one who carries tales to the governor. He (the narrator) said: Then he came and sat with us. Thereupon Hudhaifa remarked: I heard the Messenger of Allah (ﷺ) saying: The beater of false tales would never enter heaven."
+      }
+    },
+    {
+      "id": 198,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، وَوَكِيعٌ، عَنِ الأَعْمَشِ، ح وَحَدَّثَنَا مِنْجَابُ بْنُ الْحَارِثِ التَّمِيمِيُّ، - وَاللَّفْظُ لَهُ - أَخْبَرَنَا ابْنُ مُسْهِرٍ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ هَمَّامِ بْنِ الْحَارِثِ، قَالَ كُنَّا جُلُوسًا مَعَ حُذَيْفَةَ فِي الْمَسْجِدِ فَجَاءَ رَجُلٌ حَتَّى جَلَسَ إِلَيْنَا فَقِيلَ لِحُذَيْفَةَ إِنَّ هَذَا يَرْفَعُ إِلَى السُّلْطَانِ أَشْيَاءَ ‏.‏ فَقَالَ حُذَيْفَةُ - إِرَادَةَ أَنْ يُسْمِعَهُ - سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ يَدْخُلُ الْجَنَّةَ قَتَّاتٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Hammam b. al-Harith:",
+        "text": "We were sitting with Hudhaifa in the mosque. A man came and sat along with us. It was said to Hudhaifa that he was the man who carried tales to the ruler. Hudhaifa remarked with the intention of conveying to him: I have heard the Messenger of Allah (ﷺ) saying: The tale-bearer will not enter Paradise."
+      }
+    },
+    {
+      "id": 199,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالُوا حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ شُعْبَةَ، عَنْ عَلِيِّ بْنِ مُدْرِكٍ، عَنْ أَبِي زُرْعَةَ، عَنْ خَرَشَةَ بْنِ الْحُرِّ، عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ ثَلاَثَةٌ لاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلاَ يَنْظُرُ إِلَيْهِمْ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ ‏\"‏ قَالَ فَقَرَأَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ثَلاَثَ مِرَارٍ ‏.‏ قَالَ أَبُو ذَرٍّ خَابُوا وَخَسِرُوا مَنْ هُمْ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ الْمُسْبِلُ وَالْمَنَّانُ وَالْمُنَفِّقُ سِلْعَتَهُ بِالْحَلِفِ الْكَاذِبِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated o the authority of Abu Dharr that the Messenger of Allah (may ace he upon him) observed:",
+        "text": "Three are the (persons) with whom Allah would neither speak on the Day of Resurrection, nor would look at them nor would absolve the and there is a painful chastisement for them. The Messenger of Allah (ﷺ) repeated it three times. Abu Dharr remarked: They failed and they lost; who are these persons, Messenger of Allah? Upon this he (the Holy) Prophet) observed: They are: the dragger of lower garment, the recounter of obligation the seller of goods by false oath."
+      }
+    },
+    {
+      "id": 200,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ، حَدَّثَنَا يَحْيَى، - وَهُوَ الْقَطَّانُ - حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا سُلَيْمَانُ الأَعْمَشُ، عَنْ سُلَيْمَانَ بْنِ مُسْهِرٍ، عَنْ خَرَشَةَ بْنِ الْحُرِّ، عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ ثَلاَثَةٌ لاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ الْمَنَّانُ الَّذِي لاَ يُعْطِي شَيْئًا إِلاَّ مَنَّهُ وَالْمُنَفِّقُ سِلْعَتَهُ بِالْحَلِفِ الْفَاجِرِ وَالْمُسْبِلُ إِزَارَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Dharr who narrates that the Prophet (ﷺ) observed:",
+        "text": "Three are the persons with whom Allah would not speak on the Day of Resurrection: the bestower of gift who does not give anything but by laying obligation on him, the seller of goods who sells them by taking false oath and one who hangs low his lower garment."
+      }
+    }
+  ]
+}

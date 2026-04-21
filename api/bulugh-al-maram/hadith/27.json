@@ -1,0 +1,16 @@
+{
+  "id": 27,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي ذَرٍّ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا تَحْقِرَنَّ مِنْ اَلْمَعْرُوفِ شَيْئًا, وَلَوْ أَنْ تَلْقَى أَخَاكَ بِوَجْهٍ طَلْقٍ }   1‏‏1 ‏- صحيح.‏ رواه مسلم (2626)‏.‏",
+  "english": {
+    "narrator": "Abu Dharr (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Do not consider any act of goodness as being insignificant even if it is meeting your brother with a cheerful face.” Related by Muslim."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

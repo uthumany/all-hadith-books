@@ -1,0 +1,16 @@
+{
+  "id": 11,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، عَنْ خَالِدٍ، عَنْ دَاوُدَ، عَنْ بَكْرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ أَبَا ذَرٍّ بِهَذَا الْحَدِيثِ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا أَصَحُّ الْحَدِيثَيْنِ ‏.‏",
+  "english": {
+    "narrator": "Bakr said:",
+    "text": "The Prophet (ﷺ) sent Mu`adh for some of his work. He then transmitted the rest of the tradition mentioned above.\n\nAbu Dawud said: This tradition is sounder of the two traditions."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

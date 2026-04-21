@@ -1,0 +1,16 @@
+{
+  "id": 563,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا وَكِيعٌ، عَنْ إِبْرَاهِيمَ بْنِ طَهْمَانَ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، قَالَ كَانَ بِيَ النَّاصُورُ فَسَأَلْتُ النَّبِيَّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ صَلِّ قَائِمًا فَإِنْ لَمْ تَسْتَطِعْ فَقَاعِدًا فَإِنْ لَمْ تَسْتَطِعْ فَعَلَى جَنْبٍ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "‘Imran b. Husain said :",
+    "text": "I had a fistula; so I asked the prophet (ﷺ). He said: offer prayer in standing condition; if you are unable to do so, then in sitting condition: if you are then at your side(i.e, in lying condition)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

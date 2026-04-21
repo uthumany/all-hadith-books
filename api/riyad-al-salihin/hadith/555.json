@@ -1,0 +1,16 @@
+{
+  "id": 555,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم  قال‏:‏ “ما نقصت صدقة من مال، وما زاد الله عبداً بعفو إلا عزاً، وما تواضع أحد لله إلا رفعه الله عز وجل” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Wealth is not diminished by giving (in charity). Allah augments the honour of one who forgives; and one who displays humbleness towards another seeking the pleasure of Allah, Allah exalts him in ranks.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

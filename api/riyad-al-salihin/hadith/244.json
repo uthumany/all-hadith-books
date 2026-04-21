@@ -1,0 +1,16 @@
+{
+  "id": 244,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عمر رضي الله عنهما أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏المسلم أخو المسلم لا يظلمه ولا يسلمه‏.‏ من كان في حاجة أخيه كان الله في حاجته، ومن فرج عن مسلم كربة فرج الله عنه بها كربة من كرب يوم القيامة، ومن ستر مسلمًا ستره الله يوم القيامة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar (May Allah bepleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"A Muslim is a brother of (another) Muslim, he neither wrongs him nor does hand him over to one who does him wrong. If anyone fulfills his brother's needs, Allah will fulfill his needs; if one relieves a Muslim of his troubles, Allah will relieve his troubles on the Day of Resurrection; and if anyone covers up a Muslim (his sins), Allah will cover him up (his sins) on the Resurrection Day\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 285,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَسْوَدُ بْنُ عَامِرٍ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ هَانِئِ بْنِ هَانِئٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كُنْتُ رَجُلًا مَذَّاءً فَإِذَا أَمْذَيْتُ اغْتَسَلْتُ فَأَمَرْتُ الْمِقْدَادَ فَسَأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَضَحِكَ وَقَالَ فِيهِ الْوُضُوءُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "I was a man who emitted a great deal of madhi, and if I emitted madhi I would do ghusl, I told al-Miqdad to ask the Prophet (ﷺ) about it. He smiled and said: `Wudoo’ is due for that.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 561,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، وَحَجَّاجٌ، أَخْبَرَنَا شُعْبَةُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ شَدَّادٍ، يَقُولُ قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ مَا رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ جَمَعَ أَبَوَيْهِ لِأَحَدٍ غَيْرِ سَعْدِ بْنِ مَالِكٍ فَإِنَّ يَوْمَ أُحُدٍ جَعَلَ يَقُولُ ارْمِ فِدَاكَ أَبِي وَأُمِّي‏.‏",
+  "english": {
+    "narrator": "It was narrated that Sa`d bin Ibraheem said:",
+    "text": "I heard ‘Abdullah bin Shaddad say: `Ali (رضي الله عنه) said: I never saw the Messenger of Allah (ﷺ) mention both of his parents for anyone except Sa`d bin Malik (رضي الله عنه). On the day of Uhud he started saying: `Shoot, may my father and mother be sacrificed for you!”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

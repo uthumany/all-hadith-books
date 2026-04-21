@@ -1,0 +1,16 @@
+{
+  "id": 43,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ مُغِيرَةَ، عَنِ الشَّعْبِيِّ، قَالَ حَدَّثَنِي الْحَارِثُ الأَعْوَرُ الْهَمْدَانِيُّ، وَكَانَ، كَذَّابًا ‏.‏",
+  "english": {
+    "narrator": "Qutaybah bin Sa’īd narrated to us, Jarīr narrated to us, on authority of Mughīrah, on authority of ash-Sha’bī, he said:",
+    "text": "‘al-Hārith al-A’war ul-Hamdānī narrated to me, and he is a liar’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

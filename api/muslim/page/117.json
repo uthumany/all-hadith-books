@@ -1,0 +1,510 @@
+{
+  "page": 117,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 118,
+  "prevPage": 116,
+  "items": [
+    {
+      "id": 15,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا أَبَانُ بْنُ يَزِيدَ، حَدَّثَنَا يَحْيَى،\n بْنُ أَبِي كَثِيرٍ عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرٍ، قَالَ أَقْبَلْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم\n حَتَّى إِذَا كُنَّا بِذَاتِ الرِّقَاعِ ‏.‏ بِمَعْنَى حَدِيثِ الزُّهْرِيِّ وَلَمْ يَذْكُرْ ثُمَّ لَمْ يَعْرِضْ لَهُ رَسُولُ اللَّهِ\n صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Jabir b. 'Abdullah reported:",
+        "text": "We went along with Allah's Messenger (ﷺ) and as we reached the place Dhat-ur-Riqa'; the rest of the hadith is the same, but there is no mention of the word that Allah's Messenger (ﷺ) did not harm him."
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو عَامِرٍ الأَشْعَرِيُّ وَمُحَمَّدُ بْنُ الْعَلاَءِ - وَاللَّفْظُ\n لأَبِي عَامِرٍ - قَالُوا حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ\n صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ مَثَلَ مَا بَعَثَنِي اللَّهُ بِهِ عَزَّ وَجَلَّ مِنَ الْهُدَى وَالْعِلْمِ كَمَثَلِ\n غَيْثٍ أَصَابَ أَرْضًا فَكَانَتْ مِنْهَا طَائِفَةٌ طَيِّبَةٌ قَبِلَتِ الْمَاءَ فَأَنْبَتَتِ الْكَلأَ وَالْعُشْبَ الْكَثِيرَ وَكَانَ\n مِنْهَا أَجَادِبُ أَمْسَكَتِ الْمَاءَ فَنَفَعَ اللَّهُ بِهَا النَّاسَ فَشَرِبُوا مِنْهَا وَسَقَوْا وَرَعَوْا وَأَصَابَ\n طَائِفَةً مِنْهَا أُخْرَى إِنَّمَا هِيَ قِيعَانٌ لاَ تُمْسِكُ مَاءً وَلاَ تُنْبِتُ كَلأً فَذَلِكَ مَثَلُ مَنْ فَقُهَ فِي دِينِ\n اللَّهِ وَنَفَعَهُ بِمَا بَعَثَنِي اللَّهُ بِهِ فَعَلِمَ وَعَلَّمَ وَمَثَلُ مَنْ لَمْ يَرْفَعْ بِذَلِكَ رَأْسًا وَلَمْ يَقْبَلْ هُدَى اللَّهِ\n الَّذِي أُرْسِلْتُ بِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Musa reported Allah's Apostle (ﷺ) as saying:",
+        "text": "The similitude of that guidance and knowledge with which Allah, the Exalted and Glorious, has sent me is that of rain falling upon the earth. There is a good piece of land which receives the rainfall (eagerly) and as a result of it there is grown in it herbage and grass abundantly. Then there is a land hard and barren which retains water and the people derive benefit from it and they drink it and make the animals drink. Then there is another land which is barren. Neither water is retained in it, nor is the grass grown in it. And that is the similitude of the first one who develops the understanding of the religion of Allah and it becomes a source of benefit to him with which Allah sent me. (The second one is that) who acquires the knowledge of religion and imparts it to others. (Then the other type is) one who does not pay attention to (the revealed knowledge) and thus does not accept guidance of Allah with which I have been sent."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بَرَّادٍ الأَشْعَرِيُّ، وَأَبُو كُرَيْبٍ - وَاللَّفْظُ لأَبِي كُرَيْبٍ - قَالاَ حَدَّثَنَا \n أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ\n ‏\n\"‏ إِنَّ مَثَلِي وَمَثَلَ مَا بَعَثَنِيَ اللَّهُ بِهِ كَمَثَلِ رَجُلٍ أَتَى قَوْمَهُ فَقَالَ يَا قَوْمِ إِنِّي رَأَيْتُ الْجَيْشَ\n بِعَيْنَىَّ وَإِنِّي أَنَا النَّذِيرُ الْعُرْيَانُ فَالنَّجَاءَ ‏.‏ فَأَطَاعَهُ طَائِفَةٌ مِنْ قَوْمِهِ فَأَدْلَجُوا فَانْطَلَقُوا\n عَلَى مُهْلَتِهِمْ وَكَذَّبَتْ طَائِفَةٌ مِنْهُمْ فَأَصْبَحُوا مَكَانَهُمْ فَصَبَّحَهُمُ الْجَيْشُ فَأَهْلَكَهُمْ وَاجْتَاحَهُمْ\n فَذَلِكَ مَثَلُ مَنْ أَطَاعَنِي وَاتَّبَعَ مَا جِئْتُ بِهِ وَمَثَلُ مَنْ عَصَانِي وَكَذَّبَ مَا جِئْتُ بِهِ مِنَ الْحَقِّ\n ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Musa reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The similitude of mine and of that with which Allah sent me is that of a person who came to us and said: O people, I have seen an army with my eyes and I am a plain warner (and issue you warning) that you should immediately manage to find an escape. A group of people from amongst them paying heed (to his warning) fled to a place of protection and a group amongst them belied him and the morning overtook them in their houses and the army attacked them and killed them and they were routed. And that is the similitude of the one who obeyed me, followed with which I had been sent and the similitude of the other is of one who disobeyed and belied me and the Truth with which I have been sent."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا الْمُغِيرَةُ بْنُ عَبْدِ الرَّحْمَنِ الْقُرَشِيُّ، عَنْ أَبِي الزِّنَادِ،\n عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّمَا مَثَلِي وَمَثَلُ\n أُمَّتِي كَمَثَلِ رَجُلٍ اسْتَوْقَدَ نَارًا فَجَعَلَتِ الدَّوَابُّ وَالْفَرَاشُ يَقَعْنَ فِيهِ فَأَنَا آخِذٌ بِحُجَزِكُمْ وَأَنْتُمْ\n تَقَحَّمُونَ فِيهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The similitude of mine and that of my Umma is that of a person who lit fire and there began to fall into it insects and moths. And I am there to hold you back, but you plunge into it."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ عَمْرٌو النَّاقِدُ، وَابْنُ أَبِي عُمَرَ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، بِهَذَا\n الإِسْنَادِ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The above hadith was likewise narrated with another chain of transmitters."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ\n هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ\n رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَثَلِي كَمَثَلِ رَجُلٍ اسْتَوْقَدَ نَارًا فَلَمَّا أَضَاءَتْ مَا حَوْلَهَا\n جَعَلَ الْفَرَاشُ وَهَذِهِ الدَّوَابُّ الَّتِي فِي النَّارِ يَقَعْنَ فِيهَا وَجَعَلَ يَحْجُزُهُنَّ وَيَغْلِبْنَهُ فَيَتَقَحَّمْنَ\n فِيهَا قَالَ فَذَلِكُمْ مَثَلِي وَمَثَلُكُمْ أَنَا آخِذٌ بِحُجَزِكُمْ عَنِ النَّارِ هَلُمَّ عَنِ النَّارِ هَلُمَّ عَنِ النَّارِ\n فَتَغْلِبُونِي تَقَحَّمُونَ فِيهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Hammam b. Munabbih reported:",
+        "text": "Abu Huraira reported us some ahadith from Allah's Messenger (ﷺ) amongst many, (and) one is this that Allah's Messenger (ﷺ) said: A person lit fire and when the atmosphere was aglow, moths and insects began to fall into the fire, but I am there to hold them back, but they are plunging into it despite my efforts, and he further added: That is your example and mine. I am there to hold you back from fire and to save you from it, but you are plunging into it despite my efforts."
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، حَدَّثَنَا سَلِيمٌ، عَنْ سَعِيدِ بْنِ مِينَاءَ، عَنْ \n جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَثَلِي وَمَثَلُكُمْ كَمَثَلِ رَجُلٍ أَوْقَدَ نَارًا فَجَعَلَ\n الْجَنَادِبُ وَالْفَرَاشُ يَقَعْنَ فِيهَا وَهُوَ يَذُبُّهُنَّ عَنْهَا وَأَنَا آخِذٌ بِحُجَزِكُمْ عَنِ النَّارِ وَأَنْتُمْ تَفَلَّتُونَ\n مِنْ يَدِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Jabir b. Abdullah reported Allah's Messenger (ﷺ) as saying. My example and your example is that of a person who lit the fire and insects and moths began to fall in it and he would be making efforts to take them out, and I am going to hold you back from fire, but you are slipping from my hand."
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ مُحَمَّدٍ النَّاقِدُ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،\n عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَثَلِي وَمَثَلُ الأَنْبِيَاءِ كَمَثَلِ رَجُلٍ\n بَنَى بُنْيَانًا فَأَحْسَنَهُ وَأَجْمَلَهُ فَجَعَلَ النَّاسُ يُطِيفُونَ بِهِ يَقُولُونَ مَا رَأَيْنَا بُنْيَانًا أَحْسَنَ مِنْ\n هَذَا إِلاَّ هَذِهِ اللَّبِنَةَ ‏.‏ فَكُنْتُ أَنَا تِلْكَ اللَّبِنَةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The similitude of mine and that of the Apostles (before me) is that of a person who constructed a building and he built it fine and well and the people went round it saying: Never have we seen a building more imposing than this. but for one brick, and I am that brick (with which you give the finishing touch to the building)."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ\n هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ\n أَبُو الْقَاسِمِ صلى الله عليه وسلم ‏\"‏ مَثَلِي وَمَثَلُ الأَنْبِيَاءِ مِنْ قَبْلِي كَمَثَلِ رَجُلٍ ابْتَنَى بُيُوتًا\n فَأَحْسَنَهَا وَأَجْمَلَهَا وَأَكْمَلَهَا إِلاَّ مَوْضِعَ لَبِنَةٍ مِنْ زَاوِيَةٍ مِنْ زَوَايَاهَا فَجَعَلَ النَّاسُ يَطُوفُونَ\n وَيُعْجِبُهُمُ الْبُنْيَانُ فَيَقُولُونَ أَلاَّ وَضَعْتَ هَا هُنَا لَبِنَةً فَيَتِمَّ بُنْيَانُكَ ‏\"‏ ‏.‏ فَقَالَ مُحَمَّدٌ صلى الله\n عليه وسلم ‏\"‏ فَكُنْتُ أَنَا اللَّبِنَةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The similitude of mine and that of the Apostles before me is that of a person who built a house quite imposing and beautiful and he made it complete but for one brick in one of its corners. People began to walk round it, and the building pleased them and they would say: But for this brick your building would have been perfect. Muhammad (ﷺ) said: And I am that final brick."
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنُونَ ابْنَ\n جَعْفَرٍ - عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ أَبِي صَالِحٍ السَّمَّانِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ\n صلى الله عليه وسلم قَالَ ‏\n\"‏ مَثَلِي وَمَثَلُ الأَنْبِيَاءِ مِنْ قَبْلِي كَمَثَلِ رَجُلٍ بَنَى بُنْيَانًا فَأَحْسَنَهُ\n وَأَجْمَلَهُ إِلاَّ مَوْضِعَ لَبِنَةٍ مِنْ زَاوِيَةٍ مِنْ زَوَايَاهُ فَجَعَلَ النَّاسُ يَطُوفُونَ بِهِ وَيَعْجَبُونَ لَهُ وَيَقُولُونَ\n هَلاَّ وُضِعَتْ هَذِهِ اللَّبِنَةُ - قَالَ - فَأَنَا اللَّبِنَةُ وَأَنَا خَاتَمُ النَّبِيِّينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairh reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The similitude of mine and that of the Apostles before me is that of a person who built a house quite imposing and beautiful, but for one brick in one of its corners. People would go round it, appreciating the building, but saying: Why has the brick not been fixed here? He said: I am that brick and I am the last of the Apostles."
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،\n عَنْ أَبِي صَالِحٍ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَثَلِي وَمَثَلُ\n النَّبِيِّينَ ‏\"‏ ‏.‏ فَذَكَرَ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The similitude of mine and that of the Apostles; the rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا سَلِيمُ بْنُ حَيَّانَ، حَدَّثَنَا سَعِيدُ،\n بْنُ مِينَاءَ عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ مَثَلِي وَمَثَلُ الأَنْبِيَاءِ كَمَثَلِ رَجُلٍ\n بَنَى دَارًا فَأَتَمَّهَا وَأَكْمَلَهَا إِلاَّ مَوْضِعَ لَبِنَةٍ فَجَعَلَ النَّاسُ يَدْخُلُونَهَا وَيَتَعَجَّبُونَ مِنْهَا وَيَقُولُونَ\n لَوْلاَ مَوْضِعُ اللَّبِنَةِ ‏\"‏ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَأَنَا مَوْضِعُ اللَّبِنَةِ جِئْتُ\n فَخَتَمْتُ الأَنْبِيَاءَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The similitude of mine and that of the Apostles is like that of a person who built a house and he completed it and made it perfect but for the space of a brick. People entered therein and they were surprised at it and said: Had there been a brick (it would have been complete in all respects). Allah's Messenger (ﷺ) said: I am that place where the brick (completing the building is to be placed), and I have come to finalise the chain of Apostles."
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، حَدَّثَنَا سَلِيمٌ، بِهَذَا الإِسْنَادِ مِثْلَهُ وَقَالَ\n بَدَلَ أَتَمَّهَا أَحْسَنَهَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated through another chain of transmitters but with a slight variation of wording."
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "قَالَ مُسْلِمٌ وَحُدِّثْتُ عَنْ أَبِي أُسَامَةَ، وَمِمَّنْ، رَوَى ذَلِكَ، عَنْهُ إِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ\n حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنِي بُرَيْدُ بْنُ عَبْدِ اللَّهِ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى\n الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ اللَّهَ عَزَّ وَجَلَّ إِذَا أَرَادَ رَحْمَةَ أُمَّةٍ مِنْ عِبَادِهِ قَبَضَ نَبِيَّهَا قَبْلَهَا\n فَجَعَلَهُ لَهَا فَرَطًا وَسَلَفًا بَيْنَ يَدَيْهَا وَإِذَا أَرَادَ هَلَكَةَ أُمَّةٍ عَذَّبَهَا وَنَبِيُّهَا حَىٌّ فَأَهْلَكَهَا وَهُوَ\n يَنْظُرُ فَأَقَرَّ عَيْنَهُ بِهَلَكَتِهَا حِينَ كَذَّبُوهُ وَعَصَوْا أَمْرَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Musa reported Allah's Messenger (ﷺ) as saying:",
+        "text": "When Allah, the Exalted and Glorious, intends to show mercy to an Umma from amongst His servants He calls back His Apostle to his eternal home and makes him a harbinger and recompense in the world to come; and when He intends to cause destruction to an Umma, He punishes it while its Apostle is alive and He destroys it as he (the Apostle) witnesses it and he cools his eyes by destruction as they had belied him and disobeyed his command."
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُونُسَ، حَدَّثَنَا زَائِدَةُ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عُمَيْرٍ،\n قَالَ سَمِعْتُ جُنْدَبًا، يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ أَنَا فَرَطُكُمْ، عَلَى الْحَوْضِ\n ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jundab reported:",
+        "text": "I heard Allah's Messenger (ﷺ) as saying: I shall be there at the Cistern before you."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ بِشْرٍ،\n جَمِيعًا عَنْ مِسْعَرٍ، ح وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،\n حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالاَ حَدَّثَنَا شُعْبَةُ، كِلاَهُمَا عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ جُنْدَبٍ، عَنِ \n النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Jundab through another chain of transmitters."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْقَارِيَّ - عَنْ \n أَبِي حَازِمٍ، قَالَ سَمِعْتُ سَهْلاً، يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\"‏ أَنَا فَرَطُكُمْ،\n عَلَى الْحَوْضِ مَنْ وَرَدَ شَرِبَ وَمَنْ شَرِبَ لَمْ يَظْمَأْ أَبَدًا وَلَيَرِدَنَّ عَلَىَّ أَقْوَامٌ أَعْرِفُهُمْ وَيَعْرِفُونِي\n ثُمَّ يُحَالُ بَيْنِي وَبَيْنَهُمْ ‏\"‏ ‏.‏ قَالَ أَبُو حَازِمٍ فَسَمِعَ النُّعْمَانُ بْنُ أَبِي عَيَّاشٍ وَأَنَا أُحَدِّثُهُمْ\n هَذَا الْحَدِيثَ فَقَالَ هَكَذَا سَمِعْتَ سَهْلاً يَقُولُ قَالَ فَقُلْتُ نَعَمْ ‏.‏ \n قَالَ وَأَنَا أَشْهَدُ، عَلَى أَبِي سَعِيدٍ الْخُدْرِيِّ لَسَمِعْتُهُ يَزِيدُ فَيَقُولُ ‏\"‏ إِنَّهُمْ مِنِّي ‏.‏ فَيُقَالُ\n إِنَّكَ لاَ تَدْرِي مَا عَمِلُوا بَعْدَكَ ‏.‏ فَأَقُولُ سُحْقًا سُحْقًا لِمَنْ بَدَّلَ بَعْدِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Sahl (b. Sa'd) reported:",
+        "text": "I heard Allah's Apostle (ﷺ) as saying: I shall go to the Cistern before you and he who comes would drink and he who drinks would never feel thirsty, and there would come to me people whom I would know and who would know me. Then there would be intervention between me and them. Abu Hazim said that Nu'man b. Abu 'Ayyash heard it and I narrated to them this hadith, and said: Is it this that you heard Sahl saying? He said: Yes, and I bear witness to the fact that I heard it from Abu Sa'id Khudri also, but he made this addition that he (the Holy Prophet) would say: They are my followers, and it would be said to him: You do not know what they did after you and I will say to them: Woe to him who changes (his religion) after me."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي أُسَامَةُ، عَنْ أَبِي حَازِمٍ،\n عَنْ سَهْلٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم وَعَنِ النُّعْمَانِ بْنِ أَبِي عَيَّاشٍ، عَنْ أَبِي سَعِيدٍ،\n الْخُدْرِيِّ عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِ حَدِيثِ يَعْقُوبَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Abu Sa'id Khudri through another chain of transmitters."
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا دَاوُدُ بْنُ عَمْرٍو الضَّبِّيُّ، حَدَّثَنَا نَافِعُ بْنُ عُمَرَ الْجُمَحِيُّ، عَنِ ابْنِ أَبِي مُلَيْكَةَ،\n قَالَ قَالَ عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ حَوْضِي\n مَسِيرَةُ شَهْرٍ وَزَوَايَاهُ سَوَاءٌ وَمَاؤُهُ أَبْيَضُ مِنَ الْوَرِقِ وَرِيحُهُ أَطْيَبُ مِنَ الْمِسْكِ وَكِيزَانُهُ\n كَنُجُومِ السَّمَاءِ فَمَنْ شَرِبَ مِنْهُ فَلاَ يَظْمَأُ بَعْدَهُ أَبَدًا ‏\"‏ ‏.‏ \n قَالَ وَقَالَتْ أَسْمَاءُ بِنْتُ أَبِي بَكْرٍ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنِّي\n عَلَى الْحَوْضِ حَتَّى أَنْظُرَ مَنْ يَرِدُ عَلَىَّ مِنْكُمْ وَسَيُؤْخَذُ أُنَاسٌ دُونِي فَأَقُولُ يَا رَبِّ مِنِّي وَمِنْ\n أُمَّتِي ‏.‏ فَيُقَالُ أَمَا شَعَرْتَ مَا عَمِلُوا بَعْدَكَ وَاللَّهِ مَا بَرِحُوا بَعْدَكَ يَرْجِعُونَ عَلَى أَعْقَابِهِمْ\n ‏\"‏ ‏.‏ قَالَ فَكَانَ ابْنُ أَبِي مُلَيْكَةَ يَقُولُ اللَّهُمَّ إِنَّا نَعُوذُ بِكَ أَنْ نَرْجِعَ عَلَى أَعْقَابِنَا أَوْ أَنْ نُفْتَنَ\n عَنْ دِينِنَا",
+      "english": {
+        "narrator": "`Abdullah b. `Amr al-`As, reported Allah's Messenger (ﷺ) as saying:",
+        "text": "My Cistern (is as wide and broad that it requires) a month's journey (to go round it) all, and its sides are equal and its water is whiter than silver, and its odour is more fragrant than the fragrance of musk, and its jugs (placed around it) are like stars in the sky; and he who would drink from it would never feel thirsty after that. Asma', daughter of Abu Bakr said: Allah's Messenger (ﷺ) said: I would be on the Cistern so that I would be seeing those who would be coming to me from you, but some people would be detained (before reaching me). I would say: My Lord, they are my followers and belong to my Ummah, and it would be said to me: Do you know what they did after you? By Allah, they did not do good after you, and they turned back upon their heels. He (the narrator) said: lbn Abu Mulaika used to say (in supplication): O Allah, I seek refuge with Thee that we should turn back upon our heels or put to any trial about our religion."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا يَحْيَى بْنُ سُلَيْمٍ، عَنِ ابْنِ خُثَيْمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُبَيْدِ،\n اللَّهِ بْنِ أَبِي مُلَيْكَةَ أَنَّهُ سَمِعَ عَائِشَةَ، تَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ\n وَهُوَ بَيْنَ ظَهْرَانَىْ أَصْحَابِهِ ‏\n\"‏ إِنِّي عَلَى الْحَوْضِ أَنْتَظِرُ مَنْ يَرِدُ عَلَىَّ مِنْكُمْ فَوَاللَّهِ لَيُقْتَطَعَنَّ\n دُونِي رِجَالٌ فَلأَقُولَنَّ أَىْ رَبِّ مِنِّي وَمِنْ أُمَّتِي ‏.‏ فَيَقُولُ إِنَّكَ لاَ تَدْرِي مَا عَمِلُوا بَعْدَكَ مَا\n زَالُوا يَرْجِعُونَ عَلَى أَعْقَابِهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'A'isha reported:",
+        "text": "I heard Allah's Messenger (ﷺ) say in the company of his Companions: I would be on the Cistern waiting for those who would be coming to me from amongst you. By Allah, some persons would be prevented from coming to me, and I would say: My Lord, they are my followers and people of my Umma. And He would say,: You don't know what they did after you; they had been constantly turning back on their heels (from their religion)."
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي يُونُسُ بْنُ عَبْدِ الأَعْلَى الصَّدَفِيُّ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو،\n - وَهُوَ ابْنُ الْحَارِثِ - أَنَّ بُكَيْرًا، حَدَّثَهُ عَنِ الْقَاسِمِ بْنِ عَبَّاسٍ الْهَاشِمِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ،\n رَافِعٍ مَوْلَى أُمِّ سَلَمَةَ عَنْ أُمِّ سَلَمَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا قَالَتْ كُنْتُ أَسْمَعُ\n النَّاسَ يَذْكُرُونَ الْحَوْضَ وَلَمْ أَسْمَعْ ذَلِكَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَلَمَّا كَانَ\n يَوْمًا مِنْ ذَلِكَ وَالْجَارِيَةُ تَمْشُطُنِي فَسَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ أَيُّهَا\n النَّاسُ ‏\"‏ ‏.‏ فَقُلْتُ لِلْجَارِيَةِ اسْتَأْخِرِي عَنِّي ‏.‏ قَالَتْ إِنَّمَا دَعَا الرِّجَالَ وَلَمْ يَدْعُ النِّسَاءَ ‏.‏\n فَقُلْتُ إِنِّي مِنَ النَّاسِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنِّي لَكُمْ فَرَطٌ عَلَى الْحَوْضِ\n فَإِيَّاىَ لاَ يَأْتِيَنَّ أَحَدُكُمْ فَيُذَبُّ عَنِّي كَمَا يُذَبُّ الْبَعِيرُ الضَّالُّ فَأَقُولُ فِيمَ هَذَا فَيُقَالُ إِنَّكَ\n لاَ تَدْرِي مَا أَحْدَثُوا بَعْدَكَ ‏.‏ فَأَقُولُ سُحْقًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Umm Salama, the wife of Allah's Apostle (ﷺ), said I used to hear from people making a mention of the Cistern, but I did not hear about it from Allah's Messenger (ﷺ). One day while a girl was combing me I heard Allah's Messenger (ﷺ) say:",
+        "text": "\" O people.\" I said to that girl: Keep away from me. She said: He (the Holy Prophet) has addressed the men only and he has not invited the attention of the women. I said: I am amongst the people also (and have thus every right to listen to the things pertaining to religion). Allah's Messenger (ﷺ) said: I shall be your harbinger on the Cistern; therefore, be cautious lest one of you should come (to me) and may be driven away like a stray camel. I would ask the reasons, and it would be said to me: You don't know what innovations they made after you. And I would then also say: Be away."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو مَعْنٍ الرَّقَاشِيُّ، وَأَبُو بَكْرِ بْنُ نَافِعٍ وَعَبْدُ بْنُ حُمَيْدٍ قَالُوا حَدَّثَنَا أَبُو\n عَامِرٍ - وَهُوَ عَبْدُ الْمَلِكِ بْنُ عَمْرٍو - حَدَّثَنَا أَفْلَحُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ رَافِعٍ، قَالَ\n كَانَتْ أُمُّ سَلَمَةَ تُحَدِّثُ أَنَّهَا سَمِعَتِ النَّبِيَّ صلى الله عليه وسلم يَقُولُ عَلَى الْمِنْبَرِ وَهِيَ تَمْتَشِطُ\n ‏\n\"‏ أَيُّهَا النَّاسُ ‏\"‏ ‏.‏ فَقَالَتْ لِمَاشِطَتِهَا كُفِّي رَأْسِي ‏.‏ بِنَحْوِ حَدِيثِ بُكَيْرٍ عَنِ الْقَاسِمِ بْنِ عَبَّاسٍ\n ‏.‏",
+      "english": {
+        "narrator": "Umm Salama reported that she heard Allah's Apostle (ﷺ) saying this as he was sitting on the pulpit and she was getting her hair combed. (He uttered these words):",
+        "text": "\" O people.\" And she said to one who was combing: Leave my head; the rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ \n عُقْبَةَ بْنِ عَامِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ يَوْمًا فَصَلَّى عَلَى أَهْلِ أُحُدٍ صَلاَتَهُ\n عَلَى الْمَيِّتِ ثُمَّ انْصَرَفَ إِلَى الْمِنْبَرِ فَقَالَ ‏\n\"‏ إِنِّي فَرَطٌ لَكُمْ وَأَنَا شَهِيدٌ عَلَيْكُمْ وَإِنِّي وَاللَّهِ لأَنْظُرُ\n إِلَى حَوْضِيَ الآنَ وَإِنِّي قَدْ أُعْطِيتُ مَفَاتِيحَ خَزَائِنِ الأَرْضِ أَوْ مَفَاتِيحَ الأَرْضِ وَإِنِّي وَاللَّهِ\n مَا أَخَافُ عَلَيْكُمْ أَنْ تُشْرِكُوا بَعْدِي وَلَكِنْ أَخَافُ عَلَيْكُمْ أَنْ تَتَنَافَسُوا فِيهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Uqba b. 'Amir reported that Allah's Messenger (ﷺ) one day went out and he offered prayer over the martyrs of Uhud just as prayer is offered over the dead. He then came back and sat on pulpit and said:",
+        "text": "I shall be present there (at the Cistern) before you. I shall be your witness and, by Allah, I perceive as if I am seeing with my own eyes my Cistern at this very state and I have been given the keys of the treasures of the earth or the keys of the earth and, by Allah, I am not afraid concerning you that you would associate anything (with Allah after me), but I am afraid that you would be vying with one another (for the possession of) the treasures of the earth."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا وَهْبٌ، - يَعْنِي ابْنَ جَرِيرٍ - حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ \n يَحْيَى بْنَ أَيُّوبَ، يُحَدِّثُ عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ مَرْثَدٍ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، قَالَ صَلَّى\n رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى قَتْلَى أُحُدٍ ثُمَّ صَعِدَ الْمِنْبَرَ كَالْمُوَدِّعِ لِلأَحْيَاءِ وَالأَمْوَاتِ\n فَقَالَ ‏\n\"‏ إِنِّي فَرَطُكُمْ عَلَى الْحَوْضِ وَإِنَّ عَرْضَهُ كَمَا بَيْنَ أَيْلَةَ إِلَى الْجُحْفَةِ إِنِّي لَسْتُ أَخْشَى\n عَلَيْكُمْ أَنْ تُشْرِكُوا بَعْدِي وَلَكِنِّي أَخْشَى عَلَيْكُمُ الدُّنْيَا أَنْ تَنَافَسُوا فِيهَا وَتَقْتَتِلُوا فَتَهْلِكُوا\n كَمَا هَلَكَ مَنْ كَانَ قَبْلَكُمْ ‏\"‏ ‏.‏ قَالَ عُقْبَةُ فَكَانَتْ آخِرَ مَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه\n وسلم عَلَى الْمِنْبَرِ ‏.‏",
+      "english": {
+        "narrator": "Uqba b. 'Amir reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Allah's Messenger offered prayer over those who had fallen matyrs at Uhud. He then climbed the pulpit as if someone is saying good-bye to the living and the dead, and then said: I shall be there as your predecesor on the Cistern before you, and it is as wide as the distance between Aila and Juhfa (Aila is at the top of the gulf of 'Aqaba). I am not afraid that you would associate anything with Allah after me, but I am afraid that you may be (allured) by the world and (vie) with one another (in possessing material wealth) and begin killing one another, and you would be destroyed as were destroyed those who had gone before you. 'Uqba said that that was the last occasion that he saw Allah's Massenger on the pulpit."
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ وَابْنُ نُمَيْرٍ قَالُوا حَدَّثَنَا أَبُو مُعَاوِيَةَ،\n عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَنَا\n فَرَطُكُمْ عَلَى الْحَوْضِ وَلأُنَازِعَنَّ أَقْوَامًا ثُمَّ لأُغْلَبَنَّ عَلَيْهِمْ فَأَقُولُ يَا رَبِّ أَصْحَابِي أَصْحَابِي\n ‏.‏ فَيُقَالُ إِنَّكَ لاَ تَدْرِي مَا أَحْدَثُوا بَعْدَكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah reported Allah's Messenger (ﷺ) as saying; I shall be there at the Cistern before you, and I shall have to contend for some people, but I shall have to yield. I would be saying:",
+        "text": "My Lord, they are my friends, they are my friends, and it would be said: You don't know what innovations they made after you."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنْ جَرِيرٍ، عَنِ الأَعْمَشِ،\n بِهَذَا الإِسْنَادِ ‏.‏ وَلَمْ يَذْكُرْ ‏\n\"‏ أَصْحَابِي أَصْحَابِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "The hadith has been narrated on the authority ot al-A'mash with the same chain of transmitters but no mention is made of:",
+        "text": "\" They are my companions; they are my companions.\""
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، كِلاَهُمَا عَنْ جَرِيرٍ، ح وَحَدَّثَنَا \n ابْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، جَمِيعًا عَنْ مُغِيرَةَ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ،\n اللَّهِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِنَحْوِ حَدِيثِ الأَعْمَشِ وَفِي حَدِيثِ شُعْبَةَ عَنْ مُغِيرَةَ،\n سَمِعْتُ أَبَا وَائِلٍ، ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of 'Abdullah through another chain of transmitters."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ سَعِيدُ بْنُ عَمْرٍو الأَشْعَثِيُّ، أَخْبَرَنَا عَبْثَرٌ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي،\n شَيْبَةَ حَدَّثَنَا ابْنُ فُضَيْلٍ، كِلاَهُمَا عَنْ حُصَيْنٍ، عَنْ أَبِي وَائِلٍ، عَنْ حُذَيْفَةَ، عَنِ النَّبِيِّ صلى الله\n عليه وسلم نَحْوَ حَدِيثِ الأَعْمَشِ وَمُغِيرَةَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Hudhaifa through another chain of transmitters."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ مَعْبَدِ،\n بْنِ خَالِدٍ عَنْ حَارِثَةَ، أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ حَوْضُهُ مَا بَيْنَ صَنْعَاءَ\n وَالْمَدِينَةِ ‏\"‏ ‏.‏ فَقَالَ لَهُ الْمُسْتَوْرِدُ أَلَمْ تَسْمَعْهُ قَالَ ‏\"‏ الأَوَانِي ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ فَقَالَ الْمُسْتَوْرِدُ\n ‏\"‏ تُرَى فِيهِ الآنِيَةُ مِثْلَ الْكَوَاكِبِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Haritha reported that he heard Allah's Messenger (ﷺ) as saying:",
+        "text": "His Cistern would be as extensive as the distance between San'a' and Medina. Mustaurid (one of the narrators) said: Did you not hear anything about the utensils? Thereupon he said. No. Mustaurid said: You would find that the utensils would be like stars."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي إِبْرَاهِيمُ بْنُ مُحَمَّدِ بْنِ عَرْعَرَةَ، حَدَّثَنَا حَرَمِيُّ بْنُ عُمَارَةَ، حَدَّثَنَا شُعْبَةُ،\n عَنْ مَعْبَدِ بْنِ خَالِدٍ، أَنَّهُ سَمِعَ حَارِثَةَ بْنَ وَهْبٍ الْخُزَاعِيَّ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله\n عليه وسلم يَقُولُ ‏.‏ وَذَكَرَ الْحَوْضَ بِمِثْلِهِ وَلَمْ يَذْكُرْ قَوْلَ الْمُسْتَوْرِدِ وَقَوْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Haritha b. Wahb al-Khuza'i reported Allah's Messeiiger's (ﷺ) words concerning the Cistern like it, but he made no mention of the words of Mustaurid."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، وَأَبُو كَامِلٍ الْجَحْدَرِيُّ قَالاَ حَدَّثَنَا حَمَّادٌ، - وَهُوَ ابْنُ\n زَيْدٍ - حَدَّثَنَا أَيُّوبُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم\n ‏\n\"‏ إِنَّ أَمَامَكُمْ حَوْضًا مَا بَيْنَ نَاحِيَتَيْهِ كَمَا بَيْنَ جَرْبَا وَأَذْرُحَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is before you a Cistern and the distance between its two sides is as it is between Jarba' and Adhruh."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالُوا حَدَّثَنَا يَحْيَى،\n - وَهُوَ الْقَطَّانُ - عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه\n وسلم قَالَ ‏\"‏ إِنَّ أَمَامَكُمْ حَوْضًا كَمَا بَيْنَ جَرْبَا وَأَذْرُحَ ‏\"‏ ‏.‏ وَفِي رِوَايَةِ ابْنِ الْمُثَنَّى ‏\"‏ حَوْضِي\n ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been transmitted on the authority of Ibn 'Umar and the words are:",
+        "text": "That he said there would be before you a Cistern extending from jarba' and Adhruh and the same has been transmitted on the authority of Ibn Muthanna and the wording is:\" My Cistern.\""
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ،\n بِشْرٍ قَالاَ حَدَّثَنَا عُبَيْدُ اللَّهِ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ وَزَادَ قَالَ عُبَيْدُ اللَّهِ فَسَأَلْتُهُ فَقَالَ قَرْيَتَيْنِ\n بِالشَّامِ بَيْنَهُمَا مَسِيرَةُ ثَلاَثِ لَيَالٍ ‏.‏ وَفِي حَدِيثِ ابْنِ بِشْرٍ ‏.‏ ثَلاَثَةِ أَيَّامٍ ‏.‏",
+      "english": {
+        "narrator": "A hadith like this has been transmitted on the authority, of 'Ubaidullah with this addition:",
+        "text": "Ubaidullah was asked (about these two names, i. e. Jarba' and Adhruh). He said: These are the two towns of Syria and there is between them the distance which can be covered in three nights, and the hadith transmitted on the authority of Ibn Bishr (the words are).\" Three days.\""
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا حَفْصُ بْنُ مَيْسَرَةَ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ نَافِعٍ،\n عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِ حَدِيثِ عُبَيْدِ اللَّهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "A hadith like this has been narrated on the authority of Ibn Umar through another chain of transmitters."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنِي عُمَرُ بْنُ مُحَمَّدٍ، عَنْ \n نَافِعٍ، عَنْ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ أَمَامَكُمْ حَوْضًا كَمَا بَيْنَ\n جَرْبَا وَأَذْرُحَ فِيهِ أَبَارِيقُ كَنُجُومِ السَّمَاءِ مَنْ وَرَدَهُ فَشَرِبَ مِنْهُ لَمْ يَظْمَأْ بَعْدَهَا أَبَدًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There would be before you a Cistern (as extensive) as there is the distance between Jarba' and Adhruh and there would be jugs like stars in the sky; he who would come to that and drink from it would never feel thirsty after that."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ الْمَكِّيُّ، -\n وَاللَّفْظُ لاِبْنِ أَبِي شَيْبَةَ - قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ،\n الصَّمَدِ الْعَمِّيُّ عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ الصَّامِتِ، عَنْ أَبِي ذَرٍّ، قَالَ قُلْتُ يَا\n رَسُولَ اللَّهِ مَا آنِيَةُ الْحَوْضِ قَالَ ‏\n\"‏ وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ لآنِيَتُهُ أَكْثَرُ مِنْ عَدَدِ نُجُومِ السَّمَاءِ\n وَكَوَاكِبِهَا أَلاَ فِي اللَّيْلَةِ الْمُظْلِمَةِ الْمُصْحِيَةِ آنِيَةُ الْجَنَّةِ مَنْ شَرِبَ مِنْهَا لَمْ يَظْمَأْ آخِرَ مَا عَلَيْهِ\n يَشْخُبُ فِيهِ مِيزَابَانِ مِنَ الْجَنَّةِ مَنْ شَرِبَ مِنْهُ لَمْ يَظْمَأْ عَرْضُهُ مِثْلُ طُولِهِ مَا بَيْنَ عَمَّانَ إِلَى\n أَيْلَةَ مَاؤُهُ أَشَدُّ بَيَاضًا مِنَ اللَّبَنِ وَأَحْلَى مِنَ الْعَسَلِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Dharr said:",
+        "text": "Allah's Messenger, what about the vessels of that Cistern? He said: By Him in Whose Hand is the life of Muhammad, the vessels would outnumber the stars in the sky and its planets shining on a dark cloudless night. These would be the vessels of Paradise. He who drinks out of it (the Cistern) would never feel thirsty. There would flow in it two spouts from Paradise and he who would drink out of it would not feel thirsty; and the distance between its (two corners) is that between 'Amman and Aila, and its water is whiter than milk and sweeter than honey."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو غَسَّانَ الْمِسْمَعِيُّ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَأَلْفَاظُهُمْ مُتَقَارِبَةٌ\n - قَالُوا حَدَّثَنَا مُعَاذٌ، - وَهُوَ ابْنُ هِشَامٍ - حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ،\n عَنْ مَعْدَانَ بْنِ أَبِي طَلْحَةَ الْيَعْمَرِيِّ، عَنْ ثَوْبَانَ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِنِّي\n لَبِعُقْرِ حَوْضِي أَذُودُ النَّاسَ لأَهْلِ الْيَمَنِ أَضْرِبُ بِعَصَاىَ حَتَّى يَرْفَضَّ عَلَيْهِمْ ‏\"‏ ‏.‏ فَسُئِلَ\n عَنْ عَرْضِهِ فَقَالَ ‏\"‏ مِنْ مَقَامِي إِلَى عَمَّانَ ‏\"‏ ‏.‏ وَسُئِلَ عَنْ شَرَابِهِ فَقَالَ ‏\"‏ أَشَدُّ بَيَاضًا مِنَ\n اللَّبَنِ وَأَحْلَى مِنَ الْعَسَلِ يَغُتُّ فِيهِ مِيزَابَانِ يَمُدَّانِهِ مِنَ الْجَنَّةِ أَحَدُهُمَا مِنْ ذَهَبٍ وَالآخَرُ مِنْ\n وَرِقٍ ‏\"‏ ‏.‏ \n وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا الْحَسَنُ بْنُ مُوسَى، حَدَّثَنَا شَيْبَانُ، عَنْ قَتَادَةَ، بِإِسْنَادِ\n هِشَامٍ ‏.‏ بِمِثْلِ حَدِيثِهِ غَيْرَ أَنَّهُ قَالَ ‏\"‏ أَنَا يَوْمَ الْقِيَامَةِ عِنْدَ عُقْرِ الْحَوْضِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Thauban reported Allah's Apostle (ﷺ) as saying:",
+        "text": "I would be pushing back from my Cistern the crowd of people. I would strike away from it (the Cistern) with my staff the people of Yemen until the water (of the Haud) would spout forth upon them. He was asked about its breadth. He said: From this place of mine to 'Amman, and he was asked about the drink and he said: It is whiter than milk and sweeter than honey. There would spout into it two streamlets having their sources in Paradise. the one is from gold and the other is from silver. This hadith has been narrated on the authority of Hisham with the same chain of transmitters and the words are:\" I would be on the Day of Resurrection near the bank of the Cistern.\""
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ حَمَّادٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ سَالِمِ،\n بْنِ أَبِي الْجَعْدِ عَنْ مَعْدَانَ، عَنْ ثَوْبَانَ، عَنِ النَّبِيِّ صلى الله عليه وسلم حَدِيثَ الْحَوْضِ فَقُلْتُ\n لِيَحْيَى بْنِ حَمَّادٍ هَذَا حَدِيثٌ سَمِعْتَهُ مِنْ أَبِي عَوَانَةَ فَقَالَ وَسَمِعْتُهُ أَيْضًا مِنْ شُعْبَةَ فَقُلْتُ\n انْظُرْ لِي فِيهِ فَنَظَرَ لِي فِيهِ فَحَدَّثَنِي بِهِ ‏.‏",
+      "english": {
+        "narrator": "Thaubin reported this hadith pertaining to the Cistern. Muhammad b. Bashshar said:",
+        "text": "I said to Yahya b. Hammad: This is the hadith that I heard from Abu 'Awana and he said: I also heard it from Shu'ba. I said: Narrate that to me and he narrated that to me."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَلاَّمٍ الْجُمَحِيُّ، حَدَّثَنَا الرَّبِيعُ، - يَعْنِي ابْنَ مُسْلِمٍ - عَنْ \n مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لأَذُودَنَّ عَنْ حَوْضِي\n رِجَالاً كَمَا تُذَادُ الْغَرِيبَةُ مِنَ الإِبِلِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying:",
+        "text": "I will drive away from my Cistern people just as the stray camels are driven away."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، سَمِعَ \n أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Abu Huraira through another chain ot transmitters."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَنَّحَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ قَدْرُ حَوْضِي كَمَا بَيْنَ أَيْلَةَ\n وَصَنْعَاءَ مِنَ الْيَمَنِ وَإِنَّ فِيهِ مِنَ الأَبَارِيقِ كَعَدَدِ نُجُومِ السَّمَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported Allah's Messenger (ﷺ) as saying:",
+        "text": "My Cistern would be as extensive as the distance between Aila and San'a, of Yemen, and there would be in it jugs like stars in the sky."
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ الصَّفَّارُ، حَدَّثَنَا وُهَيْبٌ، قَالَ سَمِعْتُ \n عَبْدَ الْعَزِيزِ بْنَ صُهَيْبٍ، يُحَدِّثُ قَالَ حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم\n قَالَ ‏\n\"‏ لَيَرِدَنَّ عَلَىَّ الْحَوْضَ رِجَالٌ مِمَّنْ صَاحَبَنِي حَتَّى إِذَا رَأَيْتُهُمْ وَرُفِعُوا إِلَىَّ اخْتُلِجُوا\n دُونِي فَلأَقُولَنَّ أَىْ رَبِّ أُصَيْحَابِي أُصَيْحَابِي ‏.‏ فَلَيُقَالَنَّ لِي إِنَّكَ لاَ تَدْرِي مَا أَحْدَثُوا بَعْدَكَ\n ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported Allah's Apostle (ﷺ) as saying:",
+        "text": "Some persons from amongst my associates would turn to my Cistern; when I would see them and they would be presented to me, they would be detained in the way while coming to me. I would say: My Lord, they are my companions, they are my companions, and it would be said to me: You don't know what innovations they made after you."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ حُجْرٍ، قَالاَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، ح\n وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ فُضَيْلٍ، جَمِيعًا عَنِ الْمُخْتَارِ بْنِ فُلْفُلٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى\n الله عليه وسلم بِهَذَا الْمَعْنَى وَزَادَ ‏\n\"‏ آنِيَتُهُ عَدَدُ النُّجُومِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas reported a hadith like this from Allah's Apostle (ﷺ) and he made this addition:",
+        "text": "\" The vessels would be as numerous as the number of stars."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَاصِمُ بْنُ النَّضْرِ التَّيْمِيُّ، وَهُرَيْمُ بْنُ عَبْدِ الأَعْلَى، - وَاللَّفْظُ لِعَاصِمٍ - حَدَّثَنَا \n مُعْتَمِرٌ، سَمِعْتُ أَبِي، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسِ بْنِ مَالِكٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ\n ‏\n\"‏ مَا بَيْنَ نَاحِيَتَىْ حَوْضِي كَمَا بَيْنَ صَنْعَاءَ وَالْمَدِينَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Milik reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There would be such a vast distance between the sides of my Cistern as it is between Sana' and Medina."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا هِشَامٌ، ح وَحَدَّثَنَا حَسَنُ،\n بْنُ عَلِيٍّ الْحُلْوَانِيُّ حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا أَبُو عَوَانَةَ، كِلاَهُمَا عَنْ قَتَادَةَ، عَنْ \n أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ غَيْرَ أَنَّهُمَا شَكَّا فَقَالاَ أَوْ مِثْلَ مَا بَيْنَ الْمَدِينَةِ\n وَعَمَّانَ ‏.‏ وَفِي حَدِيثِ أَبِي عَوَانَةَ ‏\n\"‏ مَا بَيْنَ لاَبَتَىْ حَوْضِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Anas reported this hadith with this change that there was some doubt between (places mentioned) and there is a slight variation of wording."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ الرُّزِّيُّ، قَالاَ حَدَّثَنَا خَالِدُ،\n بْنُ الْحَارِثِ عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، قَالَ قَالَ أَنَسٌ قَالَ نَبِيُّ اللَّهِ صلى الله عليه وسلم ‏\"‏\n تُرَى فِيهِ أَبَارِيقُ الذَّهَبِ وَالْفِضَّةِ كَعَدَدِ نُجُومِ السَّمَاءِ ‏\"‏ ‏.‏ \n وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا الْحَسَنُ بْنُ مُوسَى، حَدَّثَنَا شَيْبَانُ، عَنْ قَتَادَةَ، حَدَّثَنَا \n أَنَسُ بْنُ مَالِكٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ مِثْلَهُ وَزَادَ ‏\"‏ أَوْ أَكْثَرُ مِنْ عَدَدِ نُجُومِ\n السَّمَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas reported Allah's Apostle (ﷺ) as saying:",
+        "text": "You would be shown in it jugs of gold and silver (as numerous) as the number of stars in the sky. This hadith has been transmitted on the authority of Anas b. Malik with this addition:\" More numerous than stars in the sky.\""
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي الْوَلِيدُ بْنُ شُجَاعِ بْنِ الْوَلِيدِ السَّكُونِيُّ، حَدَّثَنِي أَبِي، - رَحِمَهُ اللَّهُ - حَدَّثَنِي \n زِيَادُ بْنُ خَيْثَمَةَ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه\n وسلم قَالَ ‏\n\"‏ أَلاَ إِنِّي فَرَطٌ لَكُمْ عَلَى الْحَوْضِ وَإِنَّ بُعْدَ مَا بَيْنَ طَرَفَيْهِ كَمَا بَيْنَ صَنْعَاءَ وَأَيْلَةَ\n كَأَنَّ الأَبَارِيقَ فِيهِ النُّجُومُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir b. Samura reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Behold, I shall be present ahead of you on the Cistern, and the distance between its different sides would be like that between Sana' and Aila, and its jugs would be like stars in the sky."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ قَالاَ حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ،\n عَنِ الْمُهَاجِرِ بْنِ مِسْمَارٍ، عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، قَالَ كَتَبْتُ إِلَى جَابِرِ بْنِ سَمُرَةَ\n مَعَ غُلاَمِي نَافِعٍ أَخْبِرْنِي بِشَىْءٍ، سَمِعْتَهُ مِنْ، رَسُولِ اللَّهِ صلى الله عليه وسلم - قَالَ -\n فَكَتَبَ إِلَىَّ إِنِّي سَمِعْتُهُ يَقُولُ ‏\n\"‏ أَنَا الْفَرَطُ عَلَى الْحَوْضِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Amir b. Sa'd b. Abu Waqqas reported:",
+        "text": "I wrote (a letter) to Jabir b. Samura (and it was sent) through my servant Nafi' asking him to inform me about something (pertaining to the Haud Kauthar). He wrote to me: I heard him (the Holy Prophet) say: I shall be there ahead of you at the Haud Kauthar."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، وَأَبُو أُسَامَةَ عَنْ مِسْعَرٍ، عَنْ \n سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنْ سَعْدٍ، قَالَ رَأَيْتُ عَنْ يَمِينِ، رَسُولِ اللَّهِ صلى الله عليه وسلم\n وَعَنْ شِمَالِهِ يَوْمَ أُحُدٍ رَجُلَيْنِ عَلَيْهِمَا ثِيَابُ بَيَاضٍ مَا رَأَيْتُهُمَا قَبْلُ وَلاَ بَعْدُ ‏.‏ يَعْنِي جِبْرِيلَ\n وَمِيكَائِيلَ عَلَيْهِمَا السَّلاَمُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Sa`d reported that on the Day of Uhud I saw on the right side of Allah's Messenger (ﷺ) and on his left side two persons dressed in white clothes and whom I did not see before nor after that, and they were Gabriel and Michael (Allah be pleased with both of them)."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 43,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنَا إِبْرَاهِيمُ،\n بْنُ سَعْدٍ حَدَّثَنَا سَعْدٌ، عَنْ أَبِيهِ، عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ، قَالَ لَقَدْ رَأَيْتُ يَوْمَ أُحُدٍ عَنْ يَمِينِ،\n رَسُولِ اللَّهِ صلى الله عليه وسلم وَعَنْ يَسَارِهِ رَجُلَيْنِ عَلَيْهِمَا ثِيَابٌ بِيضٌ يُقَاتِلاَنِ عَنْهُ\n كَأَشَدِّ الْقِتَالِ مَا رَأَيْتُهُمَا قَبْلُ وَلاَ بَعْدُ ‏.‏",
+      "english": {
+        "narrator": "Sa'd b. Abu Waqqas reported:",
+        "text": "I saw on the right side of Allah's Messenger (ﷺ) and on his left side two persons with white clothes on the Day of Uhtid fighting a desperate fight, and I saw them neither before nor after that."
+      }
+    }
+  ]
+}

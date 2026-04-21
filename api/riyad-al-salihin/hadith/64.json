@@ -1,0 +1,16 @@
+{
+  "id": 64,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الخامس ‏:‏ عن أبي هريرة، رضي الله عنه ، عن النبي صلى الله عليه وسلم، قال‏:‏ ‏\n\"‏ إن الله تعالى يغار، وغيرة الله ، تعالى، أن يأتي المرء ما حرم الله عليه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, 'Verily, 'Allah, the Exalted, becomes angry, and His Anger is provoked when a person does what Allah has declared unlawful\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

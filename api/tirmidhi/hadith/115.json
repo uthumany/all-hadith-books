@@ -1,0 +1,16 @@
+{
+  "id": 115,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى الْفَزَارِيُّ ابْنُ بِنْتِ السُّدِّيِّ، قَالَ حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي رَبِيعَةَ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ اللَّهَ أَمَرَنِي بِحُبِّ أَرْبَعَةٍ وَأَخْبَرَنِي أَنَّهُ يُحِبُّهُمْ ‏\"‏ ‏.‏ قِيلَ يَا رَسُولَ اللَّهِ سَمِّهِمْ لَنَا ‏.‏ قَالَ ‏\"‏ عَلِيٌّ مِنْهُمْ يَقُولُ ذَلِكَ ثَلاَثًا وَأَبُو ذَرٍّ وَالْمِقْدَادُ وَسَلْمَانُ أَمَرَنِي بِحُبِّهِمْ وَأَخْبَرَنِي أَنَّهُ يُحِبُّهُمْ ‏\"‏ ‏.‏هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ شَرِيكٍ ‏.‏",
+  "english": {
+    "narrator": "Narrated Buraidah:",
+    "text": "that the Messenger of Allah (ﷺ) said: \"Indeed Allah has ordered me to love four, and He informed me that He loves them.\" It was said: \"O Messenger of Allah! Name them for us.\" He said: \"'Ali is among them,\" saying that three times, \"And Abu Dharr, Al-Miqdad, and Salman. And He ordered me to love them, and He informed me that He loves them.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

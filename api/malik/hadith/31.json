@@ -1,0 +1,16 @@
+{
+  "id": 31,
+  "chapterId": 54,
+  "bookId": 7,
+  "arabic": "حَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنْ أَبِي لُبَابَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ قَتْلِ الْحَيَّاتِ الَّتِي فِي الْبُيُوتِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Malik related to me from Nafi from Abu Lubaba that the Messenger\nof Allah, may Allah bless him and grant him peace, forbade killing\nsnakes which were in the houses."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

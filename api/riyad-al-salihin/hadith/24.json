@@ -1,0 +1,16 @@
+{
+  "id": 24,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏يضحك الله سبحانه وتعالى إلى رجلين يقتل أحدهما الآخر يدخلان الجنة، يقاتل هذا في سبيل الله فيقتل، ثم يتوب الله على القاتل فيسلم فيستشهد‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Allah, the Exalted, smiles at two men, one of them killed the other and both will enter Jannah. The first is killed by the other while he is fighting in the Cause of Allah, and thereafter Allah will turn in mercy to the second and guide him to accept Islam and then he dies as a Shaheed (martyr) fighting in the Cause of Allah.\""
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

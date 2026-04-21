@@ -1,0 +1,16 @@
+{
+  "id": 233,
+  "chapterId": 78,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم فِي مَسِيرٍ لَهُ فَحَدَا الْحَادِي، فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ ارْفُقْ يَا أَنْجَشَةُ، وَيْحَكَ، بِالْقَوَارِيرِ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "Once the Prophet (ﷺ) was on one of his journeys, and the driver of the camels started chanting (to let the \ncamels go fast). The Prophet (ﷺ) said to him. \"(Take care) Drive slowly with the glass vessels, O Anjasha! \nWaihaka (May Allah be Merciful to you)."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

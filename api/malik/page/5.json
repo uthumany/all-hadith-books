@@ -1,0 +1,510 @@
+{
+  "page": 5,
+  "perPage": 50,
+  "totalPages": 40,
+  "totalCount": 1985,
+  "nextPage": 6,
+  "prevPage": 4,
+  "items": [
+    {
+      "id": 55,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّ الْقَاسِمَ بْنَ مُحَمَّدٍ، أَرَاهُمُ الْجُلُوسَ فِي التَّشَهُّدِ فَنَصَبَ رِجْلَهُ الْيُمْنَى وَثَنَى رِجْلَهُ الْيُسْرَى وَجَلَسَ عَلَى وَرِكِهِ الأَيْسَرِ وَلَمْ يَجْلِسْ عَلَى قَدَمِهِ ثُمَّ قَالَ أَرَانِي هَذَا عَبْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ وَحَدَّثَنِي أَنَّ أَبَاهُ كَانَ يَفْعَلُ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Yahya ibn Said that al-Qasim\nibn Muhammad showed them how to sit in the tashahhud, and he kept his\nright foot vertical and laid his left foot down, and sat on his left\nhaunch not on his foot. Then he said, \"Abdullah ibn Abdullah ibn Umar\nsaw me doing this and related to me that his father used to do the\nsame thing.\""
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدٍ الْقَارِيِّ، أَنَّهُ سَمِعَ عُمَرَ بْنَ الْخَطَّابِ، وَهُوَ عَلَى الْمِنْبَرِ يُعَلِّمُ النَّاسَ التَّشَهُّدَ يَقُولُ قُولُوا التَّحِيَّاتُ لِلَّهِ الزَّاكِيَاتُ لِلَّهِ الطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Urwa ibn az-\nZubayr from Abd ar-Rahman ibn Abd al-Qari that he heard Umar ibn al-\nKhattab say, while he was teaching people the tashahhud from the\nmimbar, \"Say, Greetings belong to Allah. Pure actions belong to Allah.\nGood words and prayers belong to Allah. Peace on you, Prophet, and the\nmercy of Allah and His blessings. Peace be upon us and on the slaves\nof Allah who are salihun. I testify that there is no god except Allah.\nAnd I testify that Muhammad is His slave and His messenger.\"\n\n\n'At-tahiyatu lillah, az-zakiyatu lillah, at-tayibatu wa's-salawatu\nlillah. As-salamu alayka ayyuha'nnabiyyu wa rahmatu'llahi wa\nbarakatuhu. As-salamu alayna wa ala ibadi'llahi s-salihin. Ash-hadu an\nla ilaha illa 'llah wa ash-hadu anna Muhammadan abduhu wa rasuluh.\""
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يَتَشَهَّدُ فَيَقُولُ بِاسْمِ اللَّهِ التَّحِيَّاتُ لِلَّهِ الصَّلَوَاتُ لِلَّهِ الزَّاكِيَاتُ لِلَّهِ السَّلاَمُ عَلَى النَّبِيِّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ شَهِدْتُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ شَهِدْتُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ ‏.‏ يَقُولُ هَذَا فِي الرَّكْعَتَيْنِ الأُولَيَيْنِ وَيَدْعُو إِذَا قَضَى تَشَهُّدَهُ بِمَا بَدَا لَهُ فَإِذَا جَلَسَ فِي آخِرِ صَلاَتِهِ تَشَهَّدَ كَذَلِكَ أَيْضًا إِلاَّ أَنَّهُ يُقَدِّمُ التَّشَهُّدَ ثُمَّ يَدْعُو بِمَا بَدَا لَهُ فَإِذَا قَضَى تَشَهُّدَهُ وَأَرَادَ أَنْ يُسَلِّمَ قَالَ السَّلاَمُ عَلَى النَّبِيِّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ ‏.‏ السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ السَّلاَمُ عَلَيْكُمْ عَنْ يَمِينِهِ ثُمَّ يَرُدُّ عَلَى الإِمَامِ فَإِنْ سَلَّمَ عَلَيْهِ أَحَدٌ عَنْ يَسَارِهِ رَدَّ عَلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nused to say the tashahhud saying, \"In the name of Allah. Greetings\nbelong to Allah. Prayers belong to Allah. Pure actions belong to\nAllah. Peace be on the Prophet and the mercy of Allah and His\nblessings. Peace be on us and on the slaves of Allah who are salihun.\nI testify that there is no god except Allah. I testify that Muhammad\nis the Messenger of Allah.\"\n\n\n\"Bismillah, at-tahiyatu lillah,\nas-salawatu lillah, az-zakiyatu lillah. As-salamu ala'n-nabiyyi wa\nrahmatullahi wa barakatuhu. As-salamu alayna wa ala\nibadi'llahi's-salihin. Shahidtu an la ilaha illallah. Shahidtu anna\nMuhammadu'r-rasulu'llah.\"\n\n\nHe used to say this after the first\ntwo rakas and he would make supplication with whatever seemed fit to\nhim when the tashahhud was completed. When he sat at the end of the\nprayer, he did the tashahhud in a similar manner, except that after\nthe tashahhud he made supplication with whatever seemed fit to him.\nWhen he had completed the tashahhud and intended to say the taslim, he\nsaid, \"Peace be on the Prophet and His mercy and blessings. Peace be\nupon us and on the slaves of Allah who are salihun.\"\n\n\n\"As-\nsalamu ala'n-nabiyyi wa rahmatu'llahi wa barakatuhu. As-salamu alayna\nwa ala ibadi'llahi'ssalihin .\"\n\n\nHe then said, \"Peace be upon\nyou\" to his right, and would return the greeting to the imam, and if\nanyone said \"Peace be upon you\" from his left he would return the\ngreeting to him."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا كَانَتْ تَقُولُ إِذَا تَشَهَّدَتِ التَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ الزَّاكِيَاتُ لِلَّهِ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ ‏.‏ السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ ‏.‏ السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ السَّلاَمُ عَلَيْكُمْ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abd ar-Rahman ibn al-Qasim\nfrom his father that A'isha, the wife of the Prophet, may Allah bless\nhim and grant him peace, used to say in the tashahhud, \"Greetings,\ngood words, prayers, pure actions belong to Allah. I testify that\nthere is no god except Allah, alone without partner, and that Muhammad\nis His slave and His Messenger. Peace be on you, Prophet, and the\nmercy of Allah and His blessings. Peace be on us and on the slaves of\nAllah who are salihun. Peace be upon you.\"\n\n\n\"At-tahiyatu, at-\ntayibatu, as-salawatu, az-zakiyatu lillah. Ash-hadu an la ilaha\nilla'llah, wahdahu la sharika lah wa anna Muhammadan abduhu wa\nrasuluhu. As-salamu alayka ayyuha-n-nabiyyu wa rahmatu-llahi wa\nbarakatuhu. As-salamu alayna wa ala ibadi-llahi's-salihin. As-salamu\nalaykum.\""
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ الأَنْصَارِيِّ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، أَنَّهُ أَخْبَرَهُ أَنَّ عَائِشَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم كَانَتْ تَقُولُ إِذَا تَشَهَّدَتِ التَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ الزَّاكِيَاتُ لِلَّهِ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُ اللَّهِ وَرَسُولُهُ السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ السَّلاَمُ عَلَيْكُمْ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Yahya ibn Said al-Ansari that\nal-Qasim ibn Muhammad ibn Muhammad told him that A'isha, the wife of\nthe prophet, may Allah bless him and grant him peace, used to say in\nthe tashahhud, \"Greetings, good words, prayers, pure actions belong to\nAllah. I testify that there is no god except Allah, alone without\npartner, and I testify that Muhammad is the slave of Allah and His\nMessenger. Peace be upon you, Prophet, and the mercy of Allah and His\nblessings. Peace be upon us and on the slaves of Allah who are salihun\n. Peace be upon you . \"\n\n\n\"At-tahiyatu, at-tayibatu, as-\nsalawatu, az-zakiyatu lillah. Ash-hadu an la ilaha illa'llah, wahdahu\nla sharika llah wa ash-hadu anna Muhammadan abduhu wa rasuluhu. As-\nsalamu alayka ayyuha-n-nabiyyu wa rahmatu-llahi wa barakatuhu. As-\nsalamu alayna wa ala ibadi-llahi's-salihin. As-salamu alaykum.\""
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ سَأَلَ ابْنَ شِهَابٍ وَنَافِعًا مَوْلَى ابْنِ عُمَرَ عَنْ رَجُلٍ، دَخَلَ مَعَ الإِمَامِ فِي الصَّلاَةِ وَقَدْ سَبَقَهُ الإِمَامُ بِرَكْعَةٍ أَيَتَشَهَّدُ مَعَهُ فِي الرَّكْعَتَيْنِ وَالأَرْبَعِ وَإِنْ كَانَ ذَلِكَ لَهُ وِتْرًا فَقَالاَ لِيَتَشَهَّدْ مَعَهُ ‏.‏ قَالَ مَالِكٌ وَهُوَ الأَمْرُ عِنْدَنَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he asked Ibn Shihab and Nafi,\nthe mawla of Ibn Umar, whether a man who joined an imam who had\nalready done a raka should say the tashahhud with the imam in the\nsecond and fourth rakas, even though these were odd for him? They\nsaid, \"He should say tashahhud with him.\"\n\n\nMalik said, \"That\nis the position with us.\""
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَلْقَمَةَ، عَنْ مَلِيحِ بْنِ عَبْدِ اللَّهِ السَّعْدِيِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قَالَ الَّذِي يَرْفَعُ رَأْسَهُ وَيَخْفِضُهُ قَبْلَ الإِمَامِ فَإِنَّمَا نَاصِيَتُهُ بِيَدِ شَيْطَانٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Muhammad ibn Amr ibn AIqama\nfrom Malik ibn Abdullah as-Sadi that Abu Hurayra said, \"The one who\nraises his head and lowers it before the imam - his forelock is in the\nhand of a shaytan.\"\n\n\nMalik said, concerning someone who forgot\nand raised his head before the imam in ruku or sujud, \"The sunna of\nthat is to return to bowing or prostrating and not to wait for the\nimam to come up. What he has done is a mistake, because the Messenger\nof Allah, may Allah bless him and grant him peace, said, 'The imam is\nappointed to be followed as a leader, so do not oppose him.' Abu\nHurayra said, 'The one who raises his head and lowers it before the\nimam - his forelock is in the hand of a shaytan.' \""
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ أَيُّوبَ بْنِ أَبِي تَمِيمَةَ السَّخْتِيَانِيِّ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم انْصَرَفَ مِنَ اثْنَتَيْنِ فَقَالَ لَهُ ذُو الْيَدَيْنِ أَقَصُرَتِ الصَّلاَةُ أَمْ نَسِيتَ يَا رَسُولَ اللَّهِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَصَدَقَ ذُو الْيَدَيْنِ ‏\"‏ ‏.‏ فَقَالَ النَّاسُ نَعَمْ ‏.‏ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَصَلَّى رَكْعَتَيْنِ أُخْرَيَيْنِ ثُمَّ سَلَّمَ ثُمَّ كَبَّرَ فَسَجَدَ مِثْلَ سُجُودِهِ أَوْ أَطْوَلَ ثُمَّ رَفَعَ ثُمَّ كَبَّرَ فَسَجَدَ مِثْلَ سُجُودِهِ أَوْ أَطْوَلَ ثُمَّ رَفَعَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ayyub ibn Abi Tamima as-\nSakhtayani from Muhammad ibn Sirin from Abu Hurayra that the Messenger\nof Allah, may Allah bless him and grant him peace, finished the prayer\nafter two rakas and Dhu'l-Yadayn said to him, \"Has the prayer been\nshortened or have you forgotten, Messenger of Allah?\" The Messenger of\nAllah, may Allah bless him and grant him peace, said, \"Has\nDhu'l-Yadayn spoken the truth?\"  The people said, \"Yes,\" and the\nMessenger of Allah, may Allah bless him and grant him peace, stood and\nprayed the other two rakas and then said, \"Peace be upon you.\" Then he\nsaid, \"Allah is greater\" and went into a sadja as long as his usual\nprostrations or longer. Then he came up and said, \"Allah is greater\"\nand went into a sajda as long as his usual prostrations or longer and\nthen came up."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، عَنْ أَبِي سُفْيَانَ، مَوْلَى ابْنِ أَبِي أَحْمَدَ أَنَّهُ قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْعَصْرِ فَسَلَّمَ فِي رَكْعَتَيْنِ فَقَامَ ذُو الْيَدَيْنِ فَقَالَ أَقَصُرَتِ الصَّلاَةُ يَا رَسُولَ اللَّهِ أَمْ نَسِيتَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ كُلُّ ذَلِكَ لَمْ يَكُنْ ‏\"‏ ‏.‏ فَقَالَ قَدْ كَانَ بَعْضُ ذَلِكَ يَا رَسُولَ اللَّهِ ‏.‏ فَأَقْبَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى النَّاسِ فَقَالَ ‏\"‏ أَصَدَقَ ذُو الْيَدَيْنِ ‏\"‏ ‏.‏ فَقَالُوا نَعَمْ ‏.‏ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَتَمَّ مَا بَقِيَ مِنَ الصَّلاَةِ ثُمَّ سَجَدَ سَجْدَتَيْنِ بَعْدَ التَّسْلِيمِ وَهُوَ جَالِسٌ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Da'ud ibn al-Husayn that Abu\nSufyan, the mawla of Ibn Abi Ahmad, said that he heard Abu Hurayra\nsay, \"The Messenger of Allah, may Allah bless him and grant him peace,\nprayed asr and said the taslim after two rakas. Dhu'l-Yadayn stood up\nand said, 'Has the prayer been shortened, Messenger of Allah, or have\nyou forgotten?' The Messenger of Allah, may Allah bless him and grant\nhim peace, stood up and completed what remained of the prayer, and\nthen, remaining sitting after saying the taslim, he made two\nprostrations.\""
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي بَكْرِ بْنِ سُلَيْمَانَ بْنِ أَبِي حَثْمَةَ، قَالَ بَلَغَنِي أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَكَعَ رَكْعَتَيْنِ مِنْ إِحْدَى صَلاَتَىِ النَّهَارِ - الظُّهْرِ أَوِ الْعَصْرِ - فَسَلَّمَ مِنَ اثْنَتَيْنِ فَقَالَ لَهُ ذُو الشِّمَالَيْنِ أَقَصُرَتِ الصَّلاَةُ يَا رَسُولَ اللَّهِ أَمْ نَسِيتَ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا قَصُرَتِ الصَّلاَةُ وَمَا نَسِيتُ ‏\"‏ ‏.‏ فَقَالَ ذُو الشِّمَالَيْنِ قَدْ كَانَ بَعْضُ ذَلِكَ يَا رَسُولَ اللَّهِ ‏.‏ فَأَقْبَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى النَّاسِ فَقَالَ ‏\"‏ أَصَدَقَ ذُو الْيَدَيْنِ ‏\"‏ ‏.‏ فَقَالُوا نَعَمْ يَا رَسُولَ اللَّهِ ‏.‏ فَأَتَمَّ رَسُولُ اللَّهِ صلى الله عليه وسلم مَا بَقِيَ مِنَ الصَّلاَةِ ثُمَّ سَلَّمَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab that Abu Bakr ibn\nSulayman ibn Abi Hathma said, \"I have heard that the Messenger of\nAllah, may Allah bless him and grant him peace, prayed two rakas of\none of the two day-ti me prayers, dhuhr or asr, and said the taslim\nafter two rakas. Dhu'sh-Shamalayn said to him, 'Has the prayer been\nshortened, Messenger of Allah, or have you forgotten?' The Messenger\nof Allah, may Allah bless him and grant him peace, said, 'The prayer\nhas not been shortened and I have not forgotten.' Dhu'shShamalayn\nsaid, 'It was certainly one of those, Messenger of Allah.' The\nMessenger of Allah, may Allah bless him and grant him peace,\napproached the people and said, 'Has Dh u'sh-Shamalayn spoken the\ntruth?' They said, 'Yes, Messenger of Allah,' and the Messenger of\nAllah, may Allah bless him and grant him peace, completed what\nremained of the prayer, and then said, 'Peace be upon you.' \""
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَعَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، مِثْلَ ذَلِكَ ‏.‏ قَالَ مَالِكٌ كُلُّ سَهْوٍ كَانَ نُقْصَانًا مِنَ الصَّلاَةِ فَإِنَّ سُجُودَهُ قَبْلَ السَّلاَمِ وَكُلُّ سَهْوٍ كَانَ زِيَادَةً فِي الصَّلاَةِ فَإِنَّ سُجُودَهُ بَعْدَ السَّلاَمِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Said ibn al-\nMusayyab, and from Abu Salama ibn Abd ar-Rahman, the same as that.\n\n\nMalik said, \"Every forgetfulness which decreases from the\nprayer, prostrations for it come before the greeting, and every\nforgetfulness which is an addition to the prayer, prostrations for it\ncome after the greeting.\""
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا شَكَّ أَحَدُكُمْ فِي صَلاَتِهِ فَلَمْ يَدْرِ كَمْ صَلَّى أَثَلاَثًا أَمْ أَرْبَعًا فَلْيُصَلِّي رَكْعَةً وَلْيَسْجُدْ سَجْدَتَيْنِ وَهُوَ جَالِسٌ قَبْلَ التَّسْلِيمِ فَإِنْ كَانَتِ الرَّكْعَةُ الَّتِي صَلَّى خَامِسَةً شَفَعَهَا بِهَاتَيْنِ السَّجْدَتَيْنِ وَإِنْ كَانَتْ رَابِعَةً فَالسَّجْدَتَانِ تَرْغِيمٌ لِلشَّيْطَانِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Zayd ibn Aslam from Ata ibn\nYasar that the Messenger of Allah, may Allah bless him and grant him\npeace, said, \"If you are uncertain in the prayer and do not know\nwhether you have prayed three or four rakas, then pray a raka and make\ntwo prostrations from the sitting position before the taslim. If the\nraka that you prayed was the fifth, then you make it even by these two\nsajdas, and if it was the fourth, then the two prostrations spite\nShaytan.\""
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ عُمَرَ بْنِ مُحَمَّدِ بْنِ زَيْدٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يَقُولُ إِذَا شَكَّ أَحَدُكُمْ فِي صَلاَتِهِ فَلْيَتَوَخَّ الَّذِي يَظُنُّ أَنَّهُ نَسِيَ مِنْ صَلاَتِهِ فَلْيُصَلِّهِ ثُمَّ لِيَسْجُدْ سَجْدَتَىِ السَّهْوِ وَهُوَ جَالِسٌ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Umar ibn Muhammad ibn Zayd\nfrom Salim ibn Abdullah that Abdullah ibn Umar used to say, \"If you\nare uncertain in the prayer, estimate what you think you have\nforgotten of the prayer and repeat it, then do the two sajdas of\nforgetfulness from the sitting position.\""
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ عَفِيفِ بْنِ عَمْرٍو السَّهْمِيِّ، عَنْ عَطَاءِ بْنِ يَسَارٍ، أَنَّهُ قَالَ سَأَلْتُ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ الْعَاصِ وَكَعْبَ الأَحْبَارِ عَنِ الَّذِي، يَشُكُّ فِي صَلاَتِهِ فَلاَ يَدْرِي كَمْ صَلَّى أَثَلاَثًا أَمْ أَرْبَعًا فَكِلاَهُمَا قَالَ لِيُصَلِّي رَكْعَةً أُخْرَى ثُمَّ لِيَسْجُدْ سَجْدَتَيْنِ وَهُوَ جَالِسٌ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Afif ibn Amr as-Sahmi that\nAta ibn Yasar said, \"I asked Abdullah ibn Amr ibn al-As and Kab al\nAhbar about someone who was uncertain in his prayer, and did not know\nwhether he had prayed three or four rakas. Both of them said, 'He\nshould pray another raka and then do two sajdas from the sitting\nposition.' \""
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ إِذَا سُئِلَ عَنِ النِّسْيَانِ، فِي الصَّلاَةِ قَالَ لِيَتَوَخَّ أَحَدُكُمُ الَّذِي يَظُنُّ أَنَّهُ نَسِيَ مِنْ صَلاَتِهِ فَلْيُصَلِّهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar,\nwhen questioned about forgetfulness in the prayer, said, \"If you think\nthat you have forgotten part of the prayer, then pray it.\""
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنِ الأَعْرَجِ، عَنْ عَبْدِ اللَّهِ ابْنِ بُحَيْنَةَ، أَنَّهُ قَالَ صَلَّى لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم رَكْعَتَيْنِ ثُمَّ قَامَ فَلَمْ يَجْلِسْ فَقَامَ النَّاسُ مَعَهُ فَلَمَّا قَضَى صَلاَتَهُ وَنَظَرْنَا تَسْلِيمَهُ كَبَّرَ ثُمَّ سَجَدَ سَجْدَتَيْنِ وَهُوَ جَالِسٌ قَبْلَ التَّسْلِيمِ ثُمَّ سَلَّمَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from al-Araj that\nAbdullah ibn Buhayna said, \"The Messenger of Allah, may Allah bless\nhim and grant him peace, prayed two rakas with us and then stood\nwithout sitting and the people stood with him. When he had finished\nthe prayerand we had seen him say the taslim, he said 'Allah is\ngreater' and did two sajdas from the sitting position and then said\nthe taslim again.\""
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ هُرْمُزَ، عَنْ عَبْدِ اللَّهِ ابْنِ بُحَيْنَةَ، أَنَّهُ قَالَ صَلَّى لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم الظُّهْرَ فَقَامَ فِي اثْنَتَيْنِ وَلَمْ يَجْلِسْ فِيهِمَا فَلَمَّا قَضَى صَلاَتَهُ سَجَدَ سَجْدَتَيْنِ ثُمَّ سَلَّمَ بَعْدَ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Yahya ibn Said from Abd ar-\nRahman ibn Hurmuz that Abdullah ibn Buhayna said, \"The Messengerof\nAllah, may Allah bless him and grant him peace, prayed dhuhr with us\nand he stood straight up after two rakas without sitting. When he had\nfinished the prayer, he did two sajdas and then said the taslim after\nthat.\"\n\n\nMalik said, concerning someone who forgot in his\nprayer and stood up after he had completed four rakas and recited and\nthen went into ruku and then, when he raised his head from ruku,\nremembered that he had already completed (his prayer), \"He returns to\na sitting position and does not do any sajda. If he has already done\none sajda I do not think he should do the other. Then when his prayer\nis finished he does two sajdas from the sitting position after saying\nthe taslim.\""
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ عَلْقَمَةَ بْنِ أَبِي عَلْقَمَةَ، عَنْ أُمِّهِ، أَنَّ عَائِشَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم قَالَتْ أَهْدَى أَبُو جَهْمِ بْنُ حُذَيْفَةَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم خَمِيصَةً شَامِيَّةً لَهَا عَلَمٌ فَشَهِدَ فِيهَا الصَّلاَةَ فَلَمَّا انْصَرَفَ قَالَ ‏\n\"‏ رُدِّي هَذِهِ الْخَمِيصَةَ إِلَى أَبِي جَهْمٍ فَإِنِّي نَظَرْتُ إِلَى عَلَمِهَا فِي الصَّلاَةِ فَكَادَ يَفْتِنُنِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from AIqama ibn Abi AIqama from\nhis mother that A'isha, the wife of the Prophet, may Allah bless him\nand grant him peace, said, \"Abu Jahm ibn Hudhayfa gave the Messenger\nof Allah, may Allah bless him and grant him peace, a fine striped\ngarment from Syria and he did the prayer in it. When he had finished\nhe said, 'Give this garment back to Abu Jahm. I lookedat its stripes\nin the prayer and they almost distracted me.' \""
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَبِسَ خَمِيصَةً شَامِيَّةً لَهَا عَلَمٌ ثُمَّ أَعْطَاهَا أَبَا جَهْمٍ وَأَخَذَ مِنْ أَبِي جَهْمٍ أَنْبِجَانِيَّةً لَهُ فَقَالَ يَا رَسُولَ اللَّهِ وَلِمَ فَقَالَ ‏\n\"‏ إِنِّي نَظَرْتُ إِلَى عَلَمِهَا فِي الصَّلاَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me from Hisham ibn Urwa from his father that the\nMessenger of Allah, may Allah bless him and grant him peace, wore a\nfine striped garment f rom Syria, and then gave it to Abu Jahm and\ntook a plain, rough, garment in return. Abu Jahm asked, \"Messenger of\nAllah! Why?\" He said, \"I looked at its stripes in the prayer.\""
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، أَنَّ أَبَا طَلْحَةَ الأَنْصَارِيَّ، كَانَ يُصَلِّي فِي حَائِطِهِ فَطَارَ دُبْسِيٌّ فَطَفِقَ يَتَرَدَّدُ يَلْتَمِسُ مَخْرَجًا فَأَعْجَبَهُ ذَلِكَ فَجَعَلَ يُتْبِعُهُ بَصَرَهُ سَاعَةً ثُمَّ رَجَعَ إِلَى صَلاَتِهِ فَإِذَا هُوَ لاَ يَدْرِي كَمْ صَلَّى فَقَالَ لَقَدْ أَصَابَتْنِي فِي مَالِي هَذَا فِتْنَةٌ ‏.‏ فَجَاءَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ لَهُ الَّذِي أَصَابَهُ فِي حَائِطِهِ مِنَ الْفِتْنَةِ وَقَالَ يَا رَسُولَ اللَّهِ هُوَ صَدَقَةٌ لِلَّهِ فَضَعْهُ حَيْثُ شِئْتَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me from Abdullah ibn Abi Bakr that Abu Talha al-\nAnsari was praying in his garden when a wild pigeon flew in and began\nto fly to and fro trying to find a way out. The sight was pleasing to\nhim and he let his eyes follow the bird for a time and then he went\nback to his prayer but could not remember how much he had prayed. He\nsaid, \"A trial has befallen me in this property of mine.\" So he came\nto the Messenger of Allah, may Allah bless him and grant him peace,\nand mentioned the trial that had happened to him in his garden and\nsaid, \"Messenger of Allah, it is a sadaqa for Allah, so dispose of it\nwherever you wish.\""
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 3,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، أَنَّ رَجُلاً، مِنَ الأَنْصَارِ كَانَ يُصَلِّي فِي حَائِطٍ لَهُ بِالْقُفِّ - وَادٍ مِنْ أَوْدِيَةِ الْمَدِينَةِ - فِي زَمَانِ الثَّمَرِ وَالنَّخْلُ قَدْ ذُلِّلَتْ فَهِيَ مُطَوَّقَةٌ بِثَمَرِهَا فَنَظَرَ إِلَيْهَا فَأَعْجَبَهُ مَا رَأَى مِنْ ثَمَرِهَا ثُمَّ رَجَعَ إِلَى صَلاَتِهِ فَإِذَا هُوَ لاَ يَدْرِي كَمْ صَلَّى فَقَالَ لَقَدْ أَصَابَتْنِي فِي مَالِي هَذَا فِتْنَةٌ ‏.‏ فَجَاءَ عُثْمَانَ بْنَ عَفَّانَ - وَهُوَ يَوْمَئِذٍ خَلِيفَةٌ - فَذَكَرَ لَهُ ذَلِكَ وَقَالَ هُوَ صَدَقَةٌ فَاجْعَلْهُ فِي سُبُلِ الْخَيْرِ ‏.‏ فَبَاعَهُ عُثْمَانُ بْنُ عَفَّانَ بِخَمْسِينَ أَلْفًا فَسُمِّيَ ذَلِكَ الْمَالُ الْخَمْسِينَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abdullah ibn Abi Bakr that a\nman from the Ansar was praying in a garden of his in Quff, one of the\nvalleys of Madina, during the date season and the palms' branches were\nweighed down with fruit on all sides. He looked at them and what he\nsaw of their fruits amazed him. Then he went back to his prayer and he\ndid not know how much he had prayed. He said, \"A trial has befallen me\nin this property of mine.\" So he went toUthman ibn Affan, who was the\nkhalifa at the time, and mentioned it to him and said, \"It is sadaqa,\nso give it away in the paths of good.\" Uthman ibn Affan sold it for\nfifty thousand and so that property became known as the Fifty."
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 4,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ أَحَدَكُمْ إِذَا قَامَ يُصَلِّي جَاءَهُ الشَّيْطَانُ فَلَبَسَ عَلَيْهِ حَتَّى لاَ يَدْرِي كَمْ صَلَّى فَإِذَا وَجَدَ ذَلِكَ أَحَدُكُمْ فَلْيَسْجُدْ سَجْدَتَيْنِ وَهُوَ جَالِسٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Abu Salama\nibn Abdar-Rahman ibn Awf from Abu Hurayra that the Messenger of Allah,\nmay Allah bless him and grant him peace, said, \"When you stand in\nprayer, Shaytan comes to you and confuses you until you do not know\nhow much you have prayed. If you find that happening do two sajdas\nfrom the sitting position.\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 4,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنِّي لأَنْسَى أَوْ أُنَسَّى لأَسُنَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that the\nMessenger of Allah, may Allah bless him and grant him peace, said, \"I\nforget or I am made to forget so that I may establish the sunna.\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 4,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ رَجُلاً، سَأَلَ الْقَاسِمَ بْنَ مُحَمَّدٍ فَقَالَ إِنِّي أَهِمُ فِي صَلاَتِي فَيَكْثُرُ ذَلِكَ عَلَىَّ ‏.‏ فَقَالَ الْقَاسِمُ بْنُ مُحَمَّدٍ امْضِ فِي صَلاَتِكَ فَإِنَّهُ لَنْ يَذْهَبَ عَنْكَ حَتَّى تَنْصَرِفَ وَأَنْتَ تَقُولُ مَا أَتْمَمْتُ صَلاَتِي ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that a man\nquestioned al-Qasim ibn Muhammad saying, \"My imagination works in the\nprayer, and it happens to me a lot.\" Al-Qasim ibn Muhammad said, \"Go\non with your prayer, for it will not go away from you until you go away\nsaying, 'I have not completed my prayer.' \""
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ سُمَىٍّ، مَوْلَى أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِي صَالِحٍ السَّمَّانِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنِ اغْتَسَلَ يَوْمَ الْجُمُعَةِ غُسْلَ الْجَنَابَةِ ثُمَّ رَاحَ فِي السَّاعَةِ الأُولَى فَكَأَنَّمَا قَرَّبَ بَدَنَةً وَمَنْ رَاحَ فِي السَّاعَةِ الثَّانِيَةِ فَكَأَنَّمَا قَرَّبَ بَقَرَةً وَمَنْ رَاحَ فِي السَّاعَةِ الثَّالِثَةِ فَكَأَنَّمَا قَرَّبَ كَبْشًا أَقْرَنَ وَمَنْ رَاحَ فِي السَّاعَةِ الرَّابِعَةِ فَكَأَنَّمَا قَرَّبَ دَجَاجَةً وَمَنْ رَاحَ فِي السَّاعَةِ الْخَامِسَةِ فَكَأَنَّمَا قَرَّبَ بَيْضَةً فَإِذَا خَرَجَ الإِمَامُ حَضَرَتِ الْمَلاَئِكَةُ يَسْتَمِعُونَ الذِّكْرَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Sumayy, the mawla of Abu Bakr\nibn Abd ar-Rahman, from Abu Salih as-Sammani from Abu Hurayra that the\nMessenger of Allah, may Allah bless him and grant him peace, said, \"If\nsomeone does ghusl for major ritual impurity on the day of jumua and\nthen goes in the first part of the time, it is as if he had offered up\na camel. If he goes in the second part of the time, it is as if he had\noffered up a cow. If he goes in the third part of the time, it is as\nif he had offered up a horned ram. If he goes in the fourth part of\nthe time, it is as if he had offered up a hen. If he goes in the fifth\npart of the time, it is as if he had offered up an egg. And when the\nimam comes out, the angels settle down listening to the dhikr\n(remembrance of Allah).\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ كَانَ يَقُولُ غُسْلُ يَوْمِ الْجُمُعَةِ وَاجِبٌ عَلَى كُلِّ مُحْتَلِمٍ كَغُسْلِ الْجَنَابَةِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Said ibn Abi Said al-Maqburi\nthat Abu Hurayra used to say, \"Doing ghusl as prescribed for major\nritual impurity is incumbent (wajib) on the day of jumua on every male\nwho has reached puberty.\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ قَالَ دَخَلَ رَجُلٌ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم الْمَسْجِدَ يَوْمَ الْجُمُعَةِ وَعُمَرُ بْنُ الْخَطَّابِ يَخْطُبُ فَقَالَ عُمَرُ أَيَّةُ سَاعَةٍ هَذِهِ فَقَالَ يَا أَمِيرَ الْمُؤْمِنِينَ انْقَلَبْتُ مِنَ السُّوقِ فَسَمِعْتُ النِّدَاءَ فَمَا زِدْتُ عَلَى أَنْ تَوَضَّأْتُ ‏.‏ فَقَالَ عُمَرُ وَالْوُضُوءَ أَيْضًا وَقَدْ عَلِمْتَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَأْمُرُ بِالْغُسْلِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab that Salim ibn\nAbdullah said, \"One of the companions of the Messenger of Allah, may\nAllah bless him and grant him peace, came into the mosque on the day\nof jumua and Umar ibn al Khattab was already giving the khutba. Umar\nsaid, 'What (kind of) time is this (to arrive)?'  He said, Amir al-\nmuminin, I returned from the market and heard the call to prayer, so I\ndid no more than do wudu.' Umar said, 'You only did wudu as well? You\nknow that the Messenger of Allah, may Allah bless him and grant him\npeace, used to tell people to do ghusl.' \""
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ غُسْلُ يَوْمِ الْجُمُعَةِ وَاجِبٌ عَلَى كُلِّ مُحْتَلِمٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Safwan ibn Sulaym from Ata\nibn Yasar from Abu Said al-Khudri that the Messenger of Allah, may\nAllah bless him and grant him peace, said, \"Ghusl on the day of jumua\nis incumbent on every male who has reached puberty.\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا جَاءَ أَحَدُكُمُ الْجُمُعَةَ فَلْيَغْتَسِلْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi from Ibn Umar that the\nMessenger of Allah, may Allah bless him and grant him peace, said,\n\"When you come to jumua, do ghusl.\"\n\n\nMalik said, \"It is not\nenough for someone to do a ghusl on the day of jumua and intend by it\nthe ghusl for jumua unless he does the ghusl and then sets off. That\nis because the Messenger of Allah, may Allah bless him and grant him\npeace, said in the hadith related by Ibn Umar, 'When you come to\njumua, do ghusl .' \"\n\n\nMalik said, \"If someone does ghusl on\nthe day of jumua and intends by it the ghusl of the day of jumua and\nthen sets out, whether early or late, and does something which breaks\nhis wudu, he only has to do wudu and his ghusl remains valid for him.\""
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا قُلْتَ لِصَاحِبِكَ أَنْصِتْ وَالإِمَامُ يَخْطُبُ يَوْمَ الْجُمُعَةِ فَقَدْ لَغَوْتَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abu'z Zinad from al-Araj from\nAbu Hurayra that the Messenger of Allah, may Allah bless him and grant\nhim peace, said, \"Even saying to your companion 'Listen' while the\nimam is giving the khutba on the day of jumua, is to speak foolishly.\""
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ ثَعْلَبَةَ بْنِ أَبِي مَالِكٍ الْقُرَظِيِّ، أَنَّهُ أَخْبَرَهُ أَنَّهُمْ، كَانُوا فِي زَمَانِ عُمَرَ بْنِ الْخَطَّابِ يُصَلُّونَ يَوْمَ الْجُمُعَةِ حَتَّى يَخْرُجَ عُمَرُ فَإِذَا خَرَجَ عُمَرُ وَجَلَسَ عَلَى الْمِنْبَرِ وَأَذَّنَ الْمُؤَذِّنُونَ - قَالَ ثَعْلَبَةُ - جَلَسْنَا نَتَحَدَّثُ فَإِذَا سَكَتَ الْمُؤَذِّنُونَ وَقَامَ عُمَرُ يَخْطُبُ أَنْصَتْنَا فَلَمْ يَتَكَلَّمْ مِنَّا أَحَدٌ ‏.‏ قَالَ ابْنُ شِهَابٍ فَخُرُوجُ الإِمَامِ يَقْطَعُ الصَّلاَةَ وَكَلاَمُهُ يَقْطَعُ الْكَلاَمَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab that Thalaba ibn\nAbi Malik al Quradhi informed him that in the time of Umar ibn al\nKhattab they used to pray on the day of jumua until Umar came out, and\nwhen Umar came out and sat on the mimbar and the muadhdhins called the\nadhan, they would sit and talk, and then when the muadhdhins were\nsilent and Umar stood to give the khutba, they would pay attention and\nno-one would speak .\n\n\nIbn Shihab said, \"The imam coming out\nstops prayer and his speaking stops conversation.\""
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ أَبِي النَّضْرِ، مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ عَنْ مَالِكِ بْنِ أَبِي عَامِرٍ، أَنَّ عُثْمَانَ بْنَ عَفَّانَ، كَانَ يَقُولُ فِي خُطْبَتِهِ قَلَّمَا يَدَعُ ذَلِكَ إِذَا خَطَبَ إِذَا قَامَ الإِمَامُ يَخْطُبُ يَوْمَ الْجُمُعَةِ فَاسْتَمِعُوا وَأَنْصِتُوا فَإِنَّ لِلْمُنْصِتِ الَّذِي لاَ يَسْمَعُ مِنَ الْحَظِّ مِثْلَ مَا لِلْمُنْصِتِ السَّامِعِ فَإِذَا قَامَتِ الصَّلاَةُ فَاعْدِلُوا الصُّفُوفَ وَحَاذُوا بِالْمَنَاكِبِ فَإِنَّ اعْتِدَالَ الصُّفُوفِ مِنْ تَمَامِ الصَّلاَةِ ‏.‏ ثُمَّ لاَ يُكَبِّرُ حَتَّى يَأْتِيَهُ رِجَالٌ قَدْ وَكَّلَهُمْ بِتَسْوِيَةِ الصُّفُوفِ فَيُخْبِرُونَهُ أَنْ قَدِ اسْتَوَتْ فَيُكَبِّرُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abu'n Nadr, the mawla of Umar\nibn Ubaydullah, from Malik ibn Abi Amir that Uthman ibn Affan used to\nsay in khutbas, and he would seldom omit it if he was giving the\nkhutba, \"When the imam stands delivering the khutba on the day of\njumua, listen and pay attention, for there is the same portion for\nsomeone who pays attention but cannot hear as for someone who pays\nattention and hears. And when the iqama of the prayer is called,\nstraighten your rows and make your shoulders adjacent to each other,\nbecause the straightening of the rows is part of the completion of the\nprayer.\" Then he would not say the takbir until some men who had been\nentrusted with straightening the rows came and told him that they were\nstraight. Then he would say the takbir."
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، رَأَى رَجُلَيْنِ يَتَحَدَّثَانِ وَالإِمَامُ يَخْطُبُ يَوْمَ الْجُمُعَةِ فَحَصَبَهُمَا أَنِ اصْمُتَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nsaw two men talking while the imam was giving the khutba on the day of\njumua and he threw pebbles at them to tell them to be quiet."
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ رَجُلاً، عَطَسَ يَوْمَ الْجُمُعَةِ وَالإِمَامُ يَخْطُبُ فَشَمَّتَهُ إِنْسَانٌ إِلَى جَنْبِهِ فَسَأَلَ عَنْ ذَلِكَ سَعِيدَ بْنَ الْمُسَيَّبِ فَنَهَاهُ عَنْ ذَلِكَ وَقَالَ لاَ تَعُدْ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that a man\nsneezed on the day of jumua while the imam was giving the khutba, and\na man by his side asked Allah to bless him. Said ibn al Musayyab was\nasked about it and he forbade the man to do what he had done and said,\n\"Don't do it again.\""
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ سَأَلَ ابْنَ شِهَابٍ عَنِ الْكَلاَمِ، يَوْمَ الْجُمُعَةِ إِذَا نَزَلَ الإِمَامُ عَنِ الْمِنْبَرِ، قَبْلَ أَنْ يُكَبِّرَ، ‏.‏ فَقَالَ ابْنُ شِهَابٍ لاَ بَأْسَ بِذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he asked Ibn Shihab about\ntalking in the jumua after the imam had come down from the mimbar but\nbefore he had said the takbir. Ibn Shihab said, \"There is no harm in\nthat.\""
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، أَنَّهُ كَانَ يَقُولُ مَنْ أَدْرَكَ مِنْ صَلاَةِ الْجُمُعَةِ رَكْعَةً فَلْيُصَلِّ إِلَيْهَا أُخْرَى ‏.‏ قَالَ ابْنُ شِهَابٍ وَهِيَ السُّنَّةُ ‏.‏ قَالَ مَالِكٌ وَعَلَى ذَلِكَ أَدْرَكْتُ أَهْلَ الْعِلْمِ بِبَلَدِنَا وَذَلِكَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ أَدْرَكَ مِنَ الصَّلاَةِ رَكْعَةً فَقَدْ أَدْرَكَ الصَّلاَةَ ‏\"‏ ‏.‏ قَالَ مَالِكٌ فِي الَّذِي يُصِيبُهُ زِحَامٌ يَوْمَ الْجُمُعَةِ فَيَرْكَعُ وَلاَ يَقْدِرُ عَلَى أَنْ يَسْجُدَ حَتَّى يَقُومَ الإِمَامُ أَوْ يَفْرُغَ الإِمَامُ مِنْ صَلاَتِهِ إِنَّهُ إِنْ قَدَرَ عَلَى أَنْ يَسْجُدَ إِنْ كَانَ قَدْ رَكَعَ فَلْيَسْجُدْ إِذَا قَامَ النَّاسُ وَإِنْ لَمْ يَقْدِرْ عَلَى أَنْ يَسْجُدَ حَتَّى يَفْرُغَ الإِمَامُ مِنْ صَلاَتِهِ فَإِنَّهُ أَحَبُّ إِلَىَّ أَنْ يَبْتَدِئَ صَلاَتَهُ ظُهْرًا أَرْبَعًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that Ibn Shihab used to say, \"Some\none who catches a raka of the jumua prayer should pray another one\nwith it.\" Ibn Shihab said, \"That is the sunna.\"\n\n\nMalik said,\n\"I saw the people of knowledge in our city doing that. That is because\nthe Messenger of Allah, may Allah bless him and grant him peace, said,\n'Whoever catches a raka of the prayer has caught the prayer.' \"\n\n\nMalik said, concerning some one who was in a crowd on the day of\njumua and did the ruku but was not able to go into sajda until the\nimam had risen or finished his prayer, \"If he is able to do the sajda\nand has already done the ruku then he should do the sajda when the\npeople stand up. If he is unable to do thesajda until after the imam\nhas finished the prayer, then I prefer that he begins the prayeragain\nand does the four rakas of dhuhr.\""
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "",
+      "english": {
+        "narrator": "",
+        "text": "Malik said, \"Someone who has a nosebleed on the day of jumua\nwhile the imam is giving the khutba and he leaves and does not come\nback until the imam has finished the prayer, should pray four rakas.''\n\n\nMalik said that someone who prayed a raka with the imam on\nthe day of jumua, then had a nosebleed and left and came back and the\nimam had prayed both rakas, should complete the prayer with another\nraka as long as he had not spoken.\n\n\nMalik said, \"If some one\nhas a nosebleed, or something happens to him and he has no alternative\nbut to leave, he does not have to ask permission of the imam if he\nwants to leave on the day of jumua.\""
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، أَنَّهُ سَأَلَ ابْنَ شِهَابٍ عَنْ قَوْلِ اللَّهِ، عَزَّ وَجَلَّ ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلاَةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ‏}‏ فَقَالَ ابْنُ شِهَابٍ كَانَ عُمَرُ بْنُ الْخَطَّابِ يَقْرَؤُهَا إِذَا نُودِيَ لِلصَّلاَةِ مِنْ يَوْمِ الْجُمُعَةِ فَامْضُوا إِلَى ذِكْرِ اللَّهِ ‏.‏ قَالَ مَالِكٌ وَإِنَّمَا السَّعْىُ فِي كِتَابِ اللَّهِ الْعَمَلُ وَالْفِعْلُ يَقُولُ اللَّهُ تَبَارَكَ وَتَعَالَى ‏{‏وَإِذَا تَوَلَّى سَعَى فِي الأَرْضِ‏}‏ وَقَالَ تَعَالَى ‏{‏وَأَمَّا مَنْ جَاءَكَ يَسْعَى وَهُوَ يَخْشَى‏}‏ وَقَالَ ‏{‏ثُمَّ أَدْبَرَ يَسْعَى‏}‏ وَقَالَ ‏{‏إِنَّ سَعْيَكُمْ لَشَتَّى‏}‏ قَالَ مَالِكٌ فَلَيْسَ السَّعْىُ الَّذِي ذَكَرَ اللَّهُ فِي كِتَابِهِ بِالسَّعْىِ عَلَى الأَقْدَامِ وَلاَ الاِشْتِدَادَ وَإِنَّمَا عَنَى الْعَمَلَ وَالْفِعْلَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had asked Ibn Shihab about\nthe word of Allah, the Majestic, the Mighty, \"O you who accept, when\nthe call is made for the prayer on the day of jumua, make haste to the\nremembrance of Allah.\"(Sura 62 ayat 9). Ibn Shihab said, ''Umar ibn\nal-Khattab used to recite, 'When the call is made for the prayer on\nthe day of jumua, go to the remembrance of Allah.' \"\n\n\nMalik\nsaid, \"Making haste in the Book of Allah is only deed and action.\nAllah the Blessed, the Exalted, says 'and when he turns away, he acts\nin the land' (Sura 2 ayat 205), and He, the Exalted, said, 'and as for\nthe one who comes to you acting with fear' (Sura 80 ayat 8), and He\nsaid, 'then he turned his back, and acted' (Sura 79 ayat 22),and He\nsaid, 'Your deeds are diverse' \" (Sura 92  ayat 4). Malik said, \"Thus\nmaking haste which Allah mentions in His Book is not running on the\nfeet or exertion. It only means deed and actions.\""
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "",
+      "english": {
+        "narrator": "",
+        "text": "Malik said, \"If the imam stops off on a journey in a town where\njumua is obligatory and he gives a khutba and takes the jumua prayer\nfor them, then the people of the town and any other people present do\nthe jumua prayer with him.\"\n\n\nMalik said, \"If the imam gathers\npeople for prayer while he is travelling in a town where the jumua\nprayer is not obligatory, then there is no jumua for him, nor for the\npeople of the town, nor for anyone else who joins them for the prayer\nin congregation, and the people of the town and anyone else who is not\ntravelling should complete the prayer.\"\n\n\nMalik added, \"A\ntraveller does not have to do jumua \""
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ذَكَرَ يَوْمَ الْجُمُعَةِ فَقَالَ ‏\n\"‏ فِيهِ سَاعَةٌ لاَ يُوَافِقُهَا عَبْدٌ مُسْلِمٌ وَهُوَ قَائِمٌ يُصَلِّي يَسْأَلُ اللَّهَ شَيْئًا إِلاَّ أَعْطَاهُ إِيَّاهُ ‏\"‏ ‏.‏ وَأَشَارَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدِهِ يُقَلِّلُهَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abu'z Zinad from al-Araj from\nAbu Hurayra that the Messenger of Allah, may Allah bless him and grant\nhim peace, mentioned the day of jumua and said, \"There is a time in it\nwhen Allah gives to a muslim slave standing in prayer whatever he asks\nfor,\" and the Messenger of Allah, may Allah bless him and grant him\npeace, indicated with his hand how small it was."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ الْهَادِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ التَّيْمِيِّ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قَالَ خَرَجْتُ إِلَى الطُّورِ فَلَقِيتُ كَعْبَ الأَحْبَارِ فَجَلَسْتُ مَعَهُ فَحَدَّثَنِي عَنِ التَّوْرَاةِ وَحَدَّثْتُهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَكَانَ فِيمَا حَدَّثْتُهُ أَنْ قُلْتُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ خَيْرُ يَوْمٍ طَلَعَتْ عَلَيْهِ الشَّمْسُ يَوْمُ الْجُمُعَةِ فِيهِ خُلِقَ آدَمُ وَفِيهِ أُهْبِطَ مِنَ الْجَنَّةِ وَفِيهِ تِيبَ عَلَيْهِ وَفِيهِ مَاتَ وَفِيهِ تَقُومُ السَّاعَةُ وَمَا مِنْ دَابَّةٍ إِلاَّ وَهِيَ مُصِيخَةٌ يَوْمَ الْجُمُعَةِ مِنْ حِينِ تُصْبِحُ حَتَّى تَطْلُعَ الشَّمْسُ شَفَقًا مِنَ السَّاعَةِ إِلاَّ الْجِنَّ وَالإِنْسَ وَفِيهِ سَاعَةٌ لاَ يُصَادِفُهَا عَبْدٌ مُسْلِمٌ وَهُوَ يُصَلِّي يَسْأَلُ اللَّهَ شَيْئًا إِلاَّ أَعْطَاهُ إِيَّاهُ ‏\"‏ ‏.‏ قَالَ كَعْبٌ ذَلِكَ فِي كُلِّ سَنَةٍ يَوْمٌ ‏.‏ فَقُلْتُ بَلْ فِي كُلِّ جُمُعَةٍ ‏.‏ فَقَرَأَ كَعْبٌ التَّوْرَاةَ فَقَالَ صَدَقَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ أَبُو هُرَيْرَةَ فَلَقِيتُ بَصْرَةَ بْنَ أَبِي بَصْرَةَ الْغِفَارِيَّ فَقَالَ مِنْ أَيْنَ أَقْبَلْتَ فَقُلْتُ مِنَ الطُّورِ ‏.‏ فَقَالَ لَوْ أَدْرَكْتُكَ قَبْلَ أَنْ تَخْرُجَ إِلَيْهِ مَا خَرَجْتَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ لاَ تُعْمَلُ الْمَطِيُّ إِلاَّ إِلَى ثَلاَثَةِ مَسَاجِدَ إِلَى الْمَسْجِدِ الْحَرَامِ وَإِلَى مَسْجِدِي هَذَا وَإِلَى مَسْجِدِ إِيلْيَاءَ أَوْ بَيْتِ الْمَقْدِسِ ‏\"‏ ‏.‏ يَشُكُّ ‏.‏ قَالَ أَبُو هُرَيْرَةَ ثُمَّ لَقِيتُ عَبْدَ اللَّهِ بْنَ سَلاَمٍ فَحَدَّثْتُهُ بِمَجْلِسِي مَعَ كَعْبِ الأَحْبَارِ وَمَا حَدَّثْتُهُ بِهِ فِي يَوْمِ الْجُمُعَةِ فَقُلْتُ قَالَ كَعْبٌ ذَلِكَ فِي كُلِّ سَنَةٍ يَوْمٌ ‏.‏ قَالَ قَالَ عَبْدُ اللَّهِ بْنُ سَلاَمٍ كَذَبَ كَعْبٌ ‏.‏ فَقُلْتُ ثُمَّ قَرَأَ كَعْبٌ التَّوْرَاةَ فَقَالَ بَلْ هِيَ فِي كُلِّ جُمُعَةٍ ‏.‏ فَقَالَ عَبْدُ اللَّهِ بْنُ سَلاَمٍ صَدَقَ كَعْبٌ ‏.‏ ثُمَّ قَالَ عَبْدُ اللَّهِ بْنُ سَلاَمٍ قَدْ عَلِمْتُ أَيَّةَ سَاعَةٍ هِيَ ‏.‏ قَالَ أَبُو هُرَيْرَةَ فَقُلْتُ لَهُ أَخْبِرْنِي بِهَا وَلاَ تَضِنَّ عَلَىَّ ‏.‏ فَقَالَ عَبْدُ اللَّهِ بْنُ سَلاَمٍ هِيَ آخِرُ سَاعَةٍ فِي يَوْمِ الْجُمُعَةِ ‏.‏ قَالَ أَبُو هُرَيْرَةَ فَقُلْتُ وَكَيْفَ تَكُونُ آخِرُ سَاعَةٍ فِي يَوْمِ الْجُمُعَةِ وَقَدْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ يُصَادِفُهَا عَبْدٌ مُسْلِمٌ وَهُوَ يُصَلِّي ‏\"‏ ‏.‏ وَتِلْكَ السَّاعَةُ سَاعَةٌ لاَ يُصَلَّى فِيهَا فَقَالَ عَبْدُ اللَّهِ بْنُ سَلاَمٍ أَلَمْ يَقُلْ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ جَلَسَ مَجْلِسًا يَنْتَظِرُ الصَّلاَةَ فَهُوَ فِي صَلاَةٍ حَتَّى يُصَلِّيَ ‏\"‏ ‏.‏ قَالَ أَبُو هُرَيْرَةَ فَقُلْتُ بَلَى ‏.‏ قَالَ فَهُوَ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "Yahya related to me from Malik from Yazid ibn Abdullah ibn al-Had\nfrom Muhammad ibn Ibrahim ibn al-Harith at-Taymi from Abu Salama ibn\nAbd ar-Rahman ibn Awf that Abu Hurayra said, \"I went out to at-Tur\n(Mount Sinai) and met Kab al Ahbar and sat with him. He related to me\nthings from the Tawrah and I related to him things from the Messenger\nof Allah, may Allah bless him and grant him peace. Among the things I\nrelated to him was that the Messenger of Allah, may Allah bless him\nand grant him peace, said, 'The best of days on which the sun rises is\nthe day of jumua. In it Adam was created, and in it he fell from the\nGarden. In it he was forgiven, and in it he died. In it the Hour\noccurs, and every moving thing listens from morning till sunset in\napprehension of the Hour except jinn and men. In it is a time when\nAllah gives toa muslim slave standing in prayer whatever he asks for.'\nKab said, 'That is one day in every year.' I said, 'No, in every\njumua.' Then Kab recited the Tawrah and said, 'The Messenger of Allah\nhas spoken the truth.' \"\n\n\nAbu Hurayra continued, \"I met Basra\nibn Abi Basra al-Ghiffari and he said, 'Where have you come from?' I\nsaid, 'From at-Tur.' He said, 'If I had seen you before you left, you\nwould not have gone. I heard the Messenger of Allah, may Allah bless\nhim and grant him peace, say, \"Only make a special journey to three\nmosques:",
+        "text": "the mosque of the Haram (Makka), this mosque (Madina), and\nthe mosque of Ilya or the Bait al-Maqdis (two names of Jerusalem).\" '\n\" (He was not sure which expression was used.)\n\n\nAbu Hurayra\ncontinued, \"Then I met Abdullah ibn Salam and I told him that I had\nsat with Kabal-Ahbar, and I mentioned what I had related to him about\nthe day of jumua, and told him that Kab had said, 'That is one day in\nevery year.' Abdullah ibn Salam said, 'Kab lied,' and I added, 'Kab\nthen recited the Tawrah and said, \"No, it is in every jumua.''  '\nAbdullah ibn Salam said, 'Kab spoke the truth. 'Then Abdullah ibn\nSalam said, 'I know what time that is.' \"\n\n\nAbu Hurayra\ncontinued, \"I said to him, 'Let me know it - don't keep it from me.'\nAbdullah ibn Salam said, 'It is the last period of time in the dayof\njumua.' \"\n\n\nAbu Hurayra continued, \"I said, 'How can it be the\nlast period of time in the day of jumua, when the Messenger of Allah,\nmay Allah bless him and grant him peace, said, \"a muslim slave\nstanding in prayer\", and that is a time when there is no prayer?'\nAbdullah ibn Salam replied, 'Didn't the Messenger of Allah, may Allah\nbless him and grant him peace, say, \"Whoever sits waiting for the\nprayer is in prayer until he prays?\" \"'\n\n\nAbu Hurayra added, \"I\nsaid, 'Of course.' He said, 'Then it is that.' \""
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّهُ بَلَغَهُ أَنَّ رَسُولَ اللَّهِ قَالَ ‏\n\"‏ مَا عَلَى أَحَدِكُمْ لَوِ اتَّخَذَ ثَوْبَيْنِ لِجُمُعَتِهِ سِوَى ثَوْبَىْ مَهْنَتِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Yahya ibn Said that he had\nheard that the Messenger of Allah, may Allah bless him and grant him\npeace, said, \"There is nothing wrong in wearing two garments which are\nnot work-clothes for jumua.\""
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ لاَ يَرُوحُ إِلَى الْجُمُعَةِ إِلاَّ ادَّهَنَ وَتَطَيَّبَ إِلاَّ أَنْ يَكُونَ حَرَامًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nwould never go to jumua without wearing oil and perfume except when it\nwas forbidden (i.e. when he was muhrim)."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ حَزْمٍ، عَمَّنْ حَدَّثَهُ عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ كَانَ يَقُولُ لأَنْ يُصَلِّيَ أَحَدُكُمْ بِظَهْرِ الْحَرَّةِ خَيْرٌ لَهُ مِنْ أَنْ يَقْعُدَ حَتَّى إِذَا قَامَ الإِمَامُ يَخْطُبُ جَاءَ يَتَخَطَّى رِقَابَ النَّاسِ يَوْمَ الْجُمُعَةِ ‏.‏ قَالَ مَالِكٌ السُّنَّةُ عِنْدَنَا أَنْ يَسْتَقْبِلَ النَّاسُ الإِمَامَ يَوْمَ الْجُمُعَةِ إِذَا أَرَادَ أَنْ يَخْطُبَ مَنْ كَانَ مِنْهُمْ يَلِي الْقِبْلَةَ وَغَيْرَهَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi from Abdullah ibn Abi\nBakr ibn Hazm from whoever related it to him that Abu Hurayra used to\nsay, \"It is better for a man to pray on the surface of al Harra (a\nrocky area in Madina) than for him to wait until the imam stands to\ngive the khutba and then come and step over people's necks.\"\n\n\nMalik said, \"The sunna with us is that the people face the imam on the\nday of jumua when he intends to give the khutba, whether they are near\nthe qibla or elsewhere.\""
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ ضَمْرَةَ بْنِ سَعِيدٍ الْمَازِنِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، أَنَّ الضَّحَّاكَ بْنَ قَيْسٍ، سَأَلَ النُّعْمَانَ بْنَ بَشِيرٍ مَاذَا كَانَ يَقْرَأُ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ الْجُمُعَةِ عَلَى إِثْرِ سُورَةِ الْجُمُعَةِ قَالَ كَانَ يَقْرَأُ ‏{‏هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ‏}‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Damra ibn Said al-Mazini from\nUbaydullah ibn Abdullah ibn Utba ibn Masud that ad-Dahhak ibn Qays\nasked an-Numan ibn Bashir, \"What did the Messenger of Allah, may Allah\nbless him and grant him peace, use to recite on the day of jumua after\nsuratal-Jumua (Sura 62)?\" He said, \"He used to recite al-Ghashiya\n(Sura 88).\""
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، - قَالَ مَالِكٌ لاَ أَدْرِي أَعَنِ النَّبِيِّ صلى الله عليه وسلم أَمْ لاَ - أَنَّهُ قَالَ ‏\n\"‏ مَنْ تَرَكَ الْجُمُعَةَ ثَلاَثَ مَرَّاتٍ مِنْ غَيْرِ عُذْرٍ وَلاَ عِلَّةٍ طَبَعَ اللَّهُ عَلَى قَلْبِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that Safwan ibn Sulaym said, \"If\nanyone omits jumua three times without reason or illness, Allah will\nset a seal on his heart.\" (Malik said, \"I don't know if it was from\nthe Messenger of Allah, may Allah bless him and grant him peace, or\nnot.\")"
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 5,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَطَبَ خُطْبَتَيْنِ يَوْمَ الْجُمُعَةِ وَجَلَسَ بَيْنَهُمَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Jafar ibn Muhammad from his\nfather that the Messenger of Allah, may Allah bless him and grant him\npeace, gave two khutbas on the day of jumua and sat down between them."
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 6,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى فِي الْمَسْجِدِ ذَاتَ لَيْلَةٍ فَصَلَّى بِصَلاَتِهِ نَاسٌ ثُمَّ صَلَّى اللَّيْلَةَ الْقَابِلَةَ فَكَثُرَ النَّاسُ ثُمَّ اجْتَمَعُوا مِنَ اللَّيْلَةِ الثَّالِثَةِ أَوِ الرَّابِعَةِ فَلَمْ يَخْرُجْ إِلَيْهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم فَلَمَّا أَصْبَحَ قَالَ ‏\n\"‏ قَدْ رَأَيْتُ الَّذِي صَنَعْتُمْ وَلَمْ يَمْنَعْنِي مِنَ الْخُرُوجِ إِلَيْكُمْ إِلاَّ أَنِّي خَشِيتُ أَنْ تُفْرَضَ عَلَيْكُمْ ‏\"‏ ‏.‏ وَذَلِكَ فِي رَمَضَانَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Urwa ibn az-\nZubayr from A'isha, the wife of the Prophet, may Allah bless him and\ngrant him peace, that the Messenger of Allah, may Allah bless him and\ngrant him peace, prayed in the mosque one night and people prayed\nbehind him. Then he prayed the next night and there were more people.\nThen they gathered on the third or fourth night and the Messenger of\nAllah, may Allah bless him and grant him peace, did not come out to\nthem. In the morning, he said, \"I saw what you were doing and the only\nthing that prevented me from coming out to you was that I feared that\nit would become obligatory (fard) for you.\" This happened in Ramadan."
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 6,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُرَغِّبُ فِي قِيَامِ رَمَضَانَ مِنْ غَيْرِ أَنْ يَأْمُرَ بِعَزِيمَةٍ فَيَقُولُ ‏\n\"‏ مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏ ‏.‏ قَالَ ابْنُ شِهَابٍ فَتُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالأَمْرُ عَلَى ذَلِكَ ثُمَّ كَانَ الأَمْرُ عَلَى ذَلِكَ فِي خِلاَفَةِ أَبِي بَكْرٍ وَصَدْرًا مِنْ خِلاَفَةِ عُمَرَ بْنِ الْخَطَّابِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Abu Salama\nibn Abd ar-Rahman ibn Awf from Abu Hurayra that the Messenger of\nAllah, may Allah bless him and grant him peace, used to exhort people\nto watch the night in prayer in Ramadan but never ordered it\ndefinitely. He used to say, \"Whoever watches the night in prayer in\nRamadan with trust and expectancy, will be forgiven all his previous\nwrong actions.\"\n\n\nIbn Shihab said, \"The Messenger of Allah, may\nAllah bless him and grant him peace, died while that was still the\ncustom, and it continued to be the custom in the caliphate of Abu Bakr\nand at the beginning of the caliphate of Umar ibn al-Khattab.\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 6,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدٍ الْقَارِيِّ، أَنَّهُ قَالَ خَرَجْتُ مَعَ عُمَرَ بْنِ الْخَطَّابِ فِي رَمَضَانَ إِلَى الْمَسْجِدِ فَإِذَا النَّاسُ أَوْزَاعٌ مُتَفَرِّقُونَ يُصَلِّي الرَّجُلُ لِنَفْسِهِ وَيُصَلِّي الرَّجُلُ فَيُصَلِّي بِصَلاَتِهِ الرَّهْطُ فَقَالَ عُمَرُ وَاللَّهِ إِنِّي لأَرَانِي لَوْ جَمَعْتُ هَؤُلاَءِ عَلَى قَارِئٍ وَاحِدٍ لَكَانَ أَمْثَلَ ‏.‏ فَجَمَعَهُمْ عَلَى أُبَىِّ بْنِ كَعْبٍ - قَالَ - ثُمَّ خَرَجْتُ مَعَهُ لَيْلَةً أُخْرَى وَالنَّاسُ يُصَلُّونَ بِصَلاَةِ قَارِئِهِمْ فَقَالَ عُمَرُ نِعْمَتِ الْبِدْعَةُ هَذِهِ وَالَّتِي تَنَامُونَ عَنْهَا أَفْضَلُ مِنَ الَّتِي تَقُومُونَ ‏.‏ يَعْنِي آخِرَ اللَّيْلِ وَكَانَ النَّاسُ يَقُومُونَ أَوَّلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me from Ibn Shihab from Urwa ibn az-Zubayr that\nAbd ar-Rahman ibn Abd al-Qari said, \"I went out with Umar ibn\nalKhattab in Ramadan to the mosque and the people there were spread\nout in groups. Some men were praying by themselves, whilst others were\npraying in small groups. Umar said, 'By Allah! It would be better in\nmy opinion if these people gathered behind one reciter.' So he\ngathered them behind Ubayy ibn Kab. Then I went out with him another\nnight and the people were praying behind their Qur'an reciter. Umar\nsaid, 'How excellent this new way is, but what you miss while you are\nasleep is better than what you watch in prayer.' He meant the end of\nthe night, and people used to watch the beginning of the night in\nprayer.\""
+      }
+    }
+  ]
+}

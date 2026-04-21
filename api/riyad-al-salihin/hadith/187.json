@@ -1,0 +1,16 @@
+{
+  "id": 187,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الرابع‏:‏ عن النعمان بن بشير رضي الله عنهما عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏مثل القائم على حدود الله والواقع فيها كمثل قوم استهموا على سفينة، فصار بعضهم أعلاها وبعضهم أسفلها، وكان الذين في أسفلها إذا استقوا من الماء مروا على من فوقهم فقالوا‏:‏ لو أنا خرقنا في نصيبنا خرقًا ولم نؤذ من فوقنا ‎، فإن تركوهم وما أرادوا هلكوا وهلكوا جميعًا، وإن أخذوا على أيديهم نجوا ونجوا جميعا‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Nu'man bin Bashir (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"The likeness of the man who observes the limits prescribed by Allah and that of the man who transgresses them is like the people who get on board a ship after casting lots. Some of them are in its lower deck and some of them in its upper (deck). Those who are in its lower (deck), when they require water, go to the occupants of the upper deck, and say to them : 'If we make a hole in the bottom of the ship, we shall not harm you.' If they (the occupants of the upper deck) leave them to carry out their design they all will be drowned. But if they do not let them go ahead (with their plan), all of them will remain safe\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

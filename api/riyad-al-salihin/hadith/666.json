@@ -1,0 +1,16 @@
+{
+  "id": 666,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبى هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم  “عليك السمع والطاعة في عسرك ويسرك ومنشطك، ومكرهك وأثرة عليك” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Messenger of Allah (ﷺ) said, \"It is obligatory upon you to listen and obey the orders of the ruler in prosperity and adversity, whether you are willing or unwilling, or when someone is given undue preference to you.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

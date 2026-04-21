@@ -1,0 +1,16 @@
+{
+  "id": 385,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، وَسُفْيَانَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ أَبِي مَعْمَرٍ، عَنِ ابْنِ مَسْعُودٍ، قَالَ انْشَقَّ الْقَمَرُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فِرْقَتَيْنِ، فِرْقَةً فَوْقَ الْجَبَلِ وَفِرْقَةً دُونَهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اشْهَدُوا ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Ibn Masud:",
+    "text": "During the lifetime of Allah's Messenger (ﷺ) the moon was split into two parts; one part remained over the \nmountain, and the other part went beyond the mountain. On that, Allah's Messenger (ﷺ) said, \"Witness this \nmiracle.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

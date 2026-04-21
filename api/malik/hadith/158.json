@@ -1,0 +1,16 @@
+{
+  "id": 158,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ قَالَ مَنْ سَاقَ بَدَنَةً تَطَوُّعًا فَعَطِبَتْ فَنَحَرَهَا ثُمَّ خَلَّى بَيْنَهَا وَبَيْنَ النَّاسِ يَأْكُلُونَهَا فَلَيْسَ عَلَيْهِ شَىْءٌ وَإِنْ أَكَلَ مِنْهَا أَوْ أَمَرَ مَنْ يَأْكُلُ مِنْهَا غَرِمَهَا ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Ibn Shihab that Said ibn al-\nMusayyab said, \"If someone dedicates an animal voluntarily and then it\nis injured and he kills it and gives everyone a free hand in eating\nit, he owes nothing. If, however, he eats some of it himself, or tells\ncertain other people to eat it, then he owes compensation.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

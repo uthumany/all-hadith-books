@@ -1,0 +1,16 @@
+{
+  "id": 73,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي أُسَامَةُ بْنُ زَيْدٍ اللَّيْثِيُّ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَحِلُّ لِرَجُلٍ أَنْ يُفَرِّقَ بَيْنَ اثْنَيْنِ إِلاَّ بِإِذْنِهِمَا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+    "text": "The Messenger of Allah (ﷺ) said: It is not lawful for a man to separate two persons except with their permission."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

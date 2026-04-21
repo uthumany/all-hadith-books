@@ -1,0 +1,16 @@
+{
+  "id": 119,
+  "chapterId": 31,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا بِشْرٌ، قَالَ‏:‏ حَدَّثَنَا مُوسَى بْنُ عَبْدِ الْعَزِيزِ قَالَ‏:‏ حَدَّثَنِي الْحَكَمُ قَالَ‏:‏ حَدَّثَنِي عِكْرِمَةُ، أَنَّ ابْنَ عَبَّاسٍ كَانَ إِذَا سَمِعَ صَوْتَ الرَّعْدِ قَالَ‏:‏ سُبْحَانَ الَّذِي سَبَّحْتَ لَهُ، قَالَ‏:‏ إِنَّ الرَّعْدَ مَلَكٌ يَنْعِقُ بِالْغَيْثِ، كَمَا يَنْعِقُ الرَّاعِي بِغَنَمِهِ‏.‏",
+  "english": {
+    "narrator": "Ibn Abbas (ra) made this supplication when he heard a cloud burst:",
+    "text": "“Glory be to him whom you glorified.” He said that the thunderclap is an angel who yells at the rainclouds as a shepherd yells at his sheep/goats."
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

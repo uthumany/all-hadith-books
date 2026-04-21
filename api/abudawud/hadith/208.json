@@ -1,0 +1,16 @@
+{
+  "id": 208,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ عَبْدِ اللَّهِ بْنِ يَسَارٍ، عَنْ حُذَيْفَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَقُولُوا مَا شَاءَ اللَّهُ وَشَاءَ فُلاَنٌ وَلَكِنْ قُولُوا مَا شَاءَ اللَّهُ ثُمَّ شَاءَ فُلاَنٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Hudhayfah:",
+    "text": "The Prophet (ﷺ) said: Do not say: \"What Allah wills and so and so wills,\" but say: \"What Allah wills and afterwards so and so wills."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

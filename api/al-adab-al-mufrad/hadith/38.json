@@ -1,0 +1,16 @@
+{
+  "id": 38,
+  "chapterId": 43,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، قَالَ‏:‏ حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي جَعْفَرٍ الْفَرَّاءِ عَنْ عَبْدِ الرَّحْمَنِ بْنِ جُدْعَانَ قَالَ‏:‏ كُنْتُ مَعَ عَبْدِ اللهِ بْنِ عُمَرَ، فَاسْتَأْذَنَ عَلَى أَهْلِ بَيْتٍ، فَقِيلَ‏:‏ ادْخُلْ بِسَلاَمٍ، فَأَبَى أَنْ يَدْخُلَ عَلَيْهِمْ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "'Abdu'r-Rahman ibn Ju'dan said, \"I was with 'Abdullah ibn 'Umar\nand he asked permission from the people of the house to enter. He was told,\n'Enter with peace,' and he refused to enter them.'\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 49,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا خَلاَّدُ بْنُ يَحْيَى، حَدَّثَنَا عِيسَى بْنُ طَهْمَانَ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ يَقُولُ نَزَلَتْ آيَةُ الْحِجَابِ فِي زَيْنَبَ بِنْتِ جَحْشٍ وَأَطْعَمَ عَلَيْهَا يَوْمَئِذٍ خُبْزًا وَلَحْمًا وَكَانَتْ تَفْخَرُ عَلَى نِسَاءِ النَّبِيِّ صلى الله عليه وسلم وَكَانَتْ تَقُولُ إِنَّ اللَّهَ أَنْكَحَنِي فِي السَّمَاءِ‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "The Verse of Al-Hijab (veiling of women) was revealed in connection with Zainab bint Jahsh. (On the \nday of her marriage with him) the Prophet (ﷺ) gave a wedding banquet with bread and meat; and she used \nto boast before other wives of the Prophet (ﷺ) and used to say, \"Allah married me (to the Prophet (ﷺ) in the \nHeavens.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 29,
+  "chapterId": 7,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، حَدَّثَنَا مُسْلِمُ بْنُ جُنْدُبٍ، حَدَّثَنِي مَنْ، سَمِعَ الزُّبَيْرَ بْنَ الْعَوَّامِ، رَضِيَ اللَّهُ عَنْهُ يَقُولُ كُنَّا نُصَلِّي مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْجُمُعَةَ ثُمَّ نُبَادِرُ فَمَا نَجِدُ مِنْ الظِّلِّ إِلَّا مَوْضِعَ أَقْدَامِنَا أَوْ قَالَ فَلَا نَجِدُ مِنْ الظِّلِّ مَوْضِعَ أَقْدَامِنَا‏.‏",
+  "english": {
+    "narrator": "Muslim bin Jundub narrated:",
+    "text": "Someone who heard him told me that az-Zubair bin al ‘Awwam (رضي الله عنه) said: “We used to pray Jumu’ah with the Prophet (ﷺ), then we would leave and seek the shade of the fortress, but we would not find any shade except (an area) the width of our feet."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

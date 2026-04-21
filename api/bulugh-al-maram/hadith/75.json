@@ -1,0 +1,16 @@
+{
+  "id": 75,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ تَعَاظَمَ فِي نَفْسِهِ, وَاخْتَالَ فِي مِشْيَتِهِ, لَقِيَ اَللَّهَ وَهُوَ عَلَيْهِ غَضْبَانُ }  أَخْرَجَهُ اَلْحَاكِمُ وَرِجَالُهُ ثِقَاتٌ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه الحاكم (1 / 60)‏، والبخاري في\" الأدب المفرد\" (549)‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Whoever exalts himself and walks proudly; Allah will be angry with him when he meets Him (on the Day of Resurrection).” Related Al-Hakim with a reliable chain of narrators."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

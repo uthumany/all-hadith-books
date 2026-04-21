@@ -1,0 +1,16 @@
+{
+  "id": 487,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عباس، وعمران بن الحصين، رضي الله عنهم، عن النبي ، صلى الله عليه وسلم ‏\"‏ قال ‏\"‏ اطلعت في الجنة فرأيت أكثر أهلها الفقراء، واطلعت في النار فرأيت أكثر أهلها النساء‏\"‏ ‏(‏‏(‏متفق عليه من رواية ابن عباس‏)‏‏)‏‏.‏ ‏(‏‏(‏ورواه البخاري أيضاً من رواية عمران بن الحصين‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas and 'Imran bin Al-Husain (May Allah be pleased with them) reported:",
+    "text": "The Prophet (ﷺ) said, \"I looked into Jannah and saw that most of its dwellers are the poor; and I looked into Hell and saw that most of its inmates were women.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

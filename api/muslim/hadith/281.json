@@ -1,0 +1,16 @@
+{
+  "id": 281,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ عُمَارَةَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ،\n قَالَ لاَ أَزَالُ أُحِبُّ بَنِي تَمِيمٍ بَعْدَ ثَلاَثٍ سَمِعْتُهُنَّ مِنْ، رَسُولِ اللَّهِ صلى الله عليه وسلم يَقُولُهَا\n فِيهِمْ ‏.‏ فَذَكَرَ مِثْلَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "The other hadith has been transmitted on the authority of Abu Huraira with a slight variation of wording."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

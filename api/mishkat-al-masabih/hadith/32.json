@@ -1,0 +1,16 @@
+{
+  "id": 32,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَبْدِ الرَّحْمَنِ بْنِ عُثْمَانَ: إِنَّ طَبِيبًا سَأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ضِفْدَعٍ يَجْعَلُهَا فِي دَوَاءٍ فَنَهَاهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ قَتْلِهَا. رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "",
+    "text": "‘Abd ar-Rahman b. ‘Uthman told that when a physician consulted the Prophet about putting frogs in medicine he forbade him to kill them.* \n\nAbu Dawud transmitted it.\n\n* The flesh of frogs mixed with olive oil was used as an antidote for snake bite, and the fat was considered helpful for extracting teeth. The prohibition of killing frogs most probably applies only to killing them for medicinal purposes."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

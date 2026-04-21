@@ -1,0 +1,16 @@
+{
+  "id": 167,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ لَعِبَ بِالنَّرْدَشِيرِ فَكَأَنَّمَا غَمَسَ يَدَهُ فِي لَحْمِ خِنْزِيرٍ وَدَمِهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Buraidah reported the Prophet (May peace be upon him) as saying :",
+    "text": "If anyone plays backgammon, he sinks his hand in the flesh of swine and its blood."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

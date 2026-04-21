@@ -1,0 +1,16 @@
+{
+  "id": 373,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عمر بن الخطاب رضي الله عنه قال‏:‏ استأذنت النبي صلى الله عليه وسلم في العمرة، فأذن لي، وقال‏:‏ ‏\"‏لا تنسنا يا أخي من دعائك‏\"‏ فقال كلمة ما يسرني أن لي بها الدنيا‏.‏ \nوفي رواية قال‏:‏ ‏\"‏أشركنا يا أخي في دعائك‏\"‏‏.‏\nحديث صحيح ‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Umar bin Al-Khattab (May Allah be pleased with him) reported:",
+    "text": "I sought permission of the Prophet (ﷺ) to perform 'Umrah. He granted me leave and said, \"Dear brother! Do not forget us in your supplications\". ('Umar added): This is something I would not exchange for the whole world.Another narration is: He (ﷺ) said, \"Include us, my dear brother, in your supplications.\" ."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

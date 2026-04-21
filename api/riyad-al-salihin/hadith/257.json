@@ -1,0 +1,16 @@
+{
+  "id": 257,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏رب أشعث أغبر مدفوع بالأبواب لو أقسم على الله لأبره ‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Many a person with shaggy and dusty hair, dusty and driven away from doors (because of their poverty and shabby clothes) were to swear by Allah (that something would happen), Allah will certainly make it happen\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

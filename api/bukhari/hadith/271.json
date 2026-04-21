@@ -1,0 +1,16 @@
+{
+  "id": 271,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها – ‏{‏وَالَّذِي تَوَلَّى كِبْرَهُ‏}‏ قَالَتْ عَبْدُ اللَّهِ بْنُ أُبَىٍّ ابْنُ سَلُولَ‏.‏",
+  "english": {
+    "narrator": "Narrated `Aisha:",
+    "text": "And as for him among them who had the greater share..' (24.11) was `Abdullah bin Ubai bin Salul."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

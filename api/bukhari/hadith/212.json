@@ -1,0 +1,16 @@
+{
+  "id": 212,
+  "chapterId": 78,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ، عَنِ ابْنِ سِيرِينَ، سَمِعْتُ أَبَا هُرَيْرَةَ، قَالَ أَبُو الْقَاسِمِ صلى الله عليه وسلم ‏\n\"‏ سَمُّوا بِاسْمِي، وَلاَ تَكْتَنُوا بِكُنْيَتِي ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "Abu-l-Qasim (The Prophet) said, \"Name yourselves by my name, but do not call yourselves by my \nKuniya.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

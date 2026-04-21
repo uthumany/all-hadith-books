@@ -1,0 +1,16 @@
+{
+  "id": 444,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ شُعْبَةَ، بِهَذَا الْحَدِيثِ قَالَ فَلَمَّا كَانَ قَرِيبًا مِنَ الْمَسْجِدِ قَالَ لِلأَنْصَارِ ‏\n\"‏ قُومُوا إِلَى سَيِّدِكُمْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "The tradition mentioned above has also been transmitted by Shu’bah through a different chain of narrators. This version has :",
+    "text": "when he came near the mosque, he said to the Ansar; stand up showing respect to your chief."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

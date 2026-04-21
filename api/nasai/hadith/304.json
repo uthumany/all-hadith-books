@@ -1,0 +1,16 @@
+{
+  "id": 304,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مُسَاوِرٍ الْوَرَّاقِ، عَنْ جَعْفَرِ بْنِ عَمْرِو بْنِ حُرَيْثٍ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم عِمَامَةً حَرْقَانِيَّةً ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Ja'far bin 'Amr bin Huraith that his father said:",
+    "text": "\"I saw the Prophet  wearing a black turban.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 320,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَهِشَامُ بْنُ عَمَّارٍ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ أَدْرَكَ مِنَ الصَّلاَةِ رَكْعَةً فَقَدْ أَدْرَكَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Abu Hurairah said:",
+    "text": "“The Messenger of Allah (ﷺ)\nsaid: ‘Whoever catches one Rak’ah of prayer, he has caught it.’”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

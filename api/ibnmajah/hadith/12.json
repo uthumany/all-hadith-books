@@ -1,0 +1,16 @@
+{
+  "id": 12,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ، حَدَّثَنِي الْحَسَنُ بْنُ جَابِرٍ، عَنِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ الْكِنْدِيِّ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ يُوشِكُ الرَّجُلُ مُتَّكِئًا عَلَى أَرِيكَتِهِ يُحَدَّثُ بِحَدِيثٍ مِنْ حَدِيثِي فَيَقُولُ بَيْنَنَا وَبَيْنَكُمْ كِتَابُ اللَّهِ عَزَّ وَجَلَّ فَمَا وَجَدْنَا فِيهِ مِنْ حَلاَلٍ اسْتَحْلَلْنَاهُ وَمَا وَجَدْنَا فِيهِ مِنْ حَرَامٍ حَرَّمْنَاهُ ‏.‏ أَلاَ وَإِنَّ مَا حَرَّمَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ مِثْلُ مَا حَرَّمَ اللَّهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Miqdam bin Ma'dikarib Al-Kindi narrated that:",
+    "text": "The Messenger of Allah (ﷺ) said: \"Soon there will come a time that a man will be reclining on his pillow, and when one of my Ahadith is narrated he will say: 'The Book of Allah is (sufficient) between us and you. Whatever it states is permissible, we will take as permissible, and whatever it states is forbidden, we will take as forbidden.' Verily, whatever the Messenger of Allah (ﷺ) has forbidden is like that which Allah has forbidden.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

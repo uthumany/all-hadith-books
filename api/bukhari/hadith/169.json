@@ -1,0 +1,16 @@
+{
+  "id": 169,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ حَمْزَةَ، حَدَّثَنِي ابْنُ أَبِي حَازِمٍ، عَنْ يَزِيدَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَا أَذِنَ اللَّهُ لِشَىْءٍ مَا أَذِنَ لِنَبِيٍّ حَسَنِ الصَّوْتِ بِالْقُرْآنِ يَجْهَرُ بِهِ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "that he heard the Prophet (ﷺ) saying, \"Allah does not listen to anything as He listens to the recitation of \nthe Qur'an by a Prophet who recites it in attractive audible sweet sounding voice.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 154,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ جَعْفَرٍ الرَّقِّيُّ، قَالَ حَدَّثَنَا أَبُو الْمَلِيحِ، عَنْ مَيْمُونٍ، عَنْ نَافِعٍ، قَالَ كُنَّا مَعَ ابْنِ عُمَرَ فَسَمِعَ صَوْتَ، زَامِرٍ فَذَكَرَ نَحْوَهُ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا أَنْكَرُهَا ‏.‏",
+  "english": {
+    "narrator": "Nafi said :",
+    "text": "When we were with Ibn ‘Umar, he heard the sound of a man who was blowing a pipe. He then mentioned a similar tradition.\n\n\nAbu Dawud said : This is more rejected."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

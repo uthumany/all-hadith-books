@@ -1,0 +1,16 @@
+{
+  "id": 65,
+  "chapterId": 36,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، أَنَّ رَجُلاً، وَجَدَ لُقَطَةً فَجَاءَ إِلَى عَبْدِ اللَّهِ بْنِ عُمَرَ فَقَالَ لَهُ إِنِّي وَجَدْتُ لُقَطَةً فَمَاذَا تَرَى فِيهَا فَقَالَ لَهُ عَبْدُ اللَّهِ بْنُ عُمَرَ عَرِّفْهَا ‏.‏ قَالَ قَدْ فَعَلْتُ ‏.‏ قَالَ زِدْ ‏.‏ قَالَ قَدْ فَعَلْتُ ‏.‏ فَقَالَ عَبْدُ اللَّهِ لاَ آمُرُكَ أَنْ تَأْكُلَهَا وَلَوْ شِئْتَ لَمْ تَأْخُذْهَا ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Malik related to me from Nafi that a man found something and went\nto Abdullah ibn Umar and said to him, \"I have found something. What do\nyou think I should do about it?\" Abdullah ibn Umar said to him,\n\"Publicise it!\" He said, \"I have done so.\" He said, \"Do it again.\" He\nsaid, \"I have done so.\" Abdullah said, \"I do not order you to use it.\nIf you wished, you could have left it.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

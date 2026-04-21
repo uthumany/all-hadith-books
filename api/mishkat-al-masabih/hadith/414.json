@@ -1,0 +1,16 @@
+{
+  "id": 414,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ كَعْبِ بْنِ عُجْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا تَوَضَّأَ أَحَدُكُمْ فَأَحْسَنَ وُضُوءَهُ ثُمَّ خَرَجَ عَامِدًا إِلَى الْمَسْجِدِ فَلَا يُشَبِّكَنَّ بَيْنَ أَصَابِعِهِ فَإِنَّهُ فِي الصَّلَاة» . رَوَاهُ أَحْمد وَأَبُو دَاوُد وَالتِّرْمِذِيّ وَالنَّسَائِيّ والدارمي",
+  "english": {
+    "narrator": "",
+    "text": "Ka‘b b. ‘Ujra reported God’s Messenger as saying, “When one of you performs ablution and does it well, then goes out making for the mosque, he must not interwine his fingers for he is engaged in prayer.” \n\nAhmad, Tirmidhi, Abu Dawud, Nasa’i and Darimi transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

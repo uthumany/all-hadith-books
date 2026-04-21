@@ -1,0 +1,16 @@
+{
+  "id": 240,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏لا يستر عبد عبدًا في الدنيا إلا ستره الله يوم القيامة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"Allah will cover up on the Day of Resurrection the defects (faults) of the one who covers up the faults of the others in this world\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

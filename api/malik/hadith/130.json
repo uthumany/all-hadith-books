@@ -1,0 +1,16 @@
+{
+  "id": 130,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدِ بْنِ عَلِيٍّ، عَنْ أَبِيهِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ حِينَ خَرَجَ مِنَ الْمَسْجِدِ وَهُوَ يُرِيدُ الصَّفَا وَهُوَ يَقُولُ ‏\n\"‏ نَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ ‏\"‏ ‏.‏ فَبَدَأَ بِالصَّفَا ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Jafar ibn Muhammad ibn AIi\nfrom his father that Jabir ibn Abdullah said, \"I heard the Messenger\nof Allah, may Allah bless him and grant him peace, say as he left the\nmosque, intending to go to Safa, 'We begin with that with which Allah\nbegan,' and he began with Safa.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

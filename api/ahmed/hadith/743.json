@@ -1,0 +1,16 @@
+{
+  "id": 743,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ حَارِثَةَ بْنِ مُضَرِّبٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ بَعَثَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى الْيَمَنِ فَقُلْتُ إِنَّكَ تَبْعَثُنِي إِلَى قَوْمٍ وَهُمْ أَسَنُّ مِنِّي لِأَقْضِيَ بَيْنَهُمْ فَقَالَ اذْهَبْ فَإِنَّ اللَّهَ سَيَهْدِي قَلْبَكَ وَيُثَبِّتُ لِسَانَكَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) sent me to Yemen. I said: You are sending me to people who are older than me for me to judge between them. He said: `Go, for Allah will guide your heart and make your tongue steadfast.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

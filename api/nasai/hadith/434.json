@@ -1,0 +1,16 @@
+{
+  "id": 434,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةُ، عَنْ أَبِيهِ، قَالَ سُئِلَ أُسَامَةُ بْنُ زَيْدٍ وَأَنَا جَالِسٌ، مَعَهُ كَيْفَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَسِيرُ فِي حَجَّةِ الْوَدَاعِ حِينَ دَفَعَ قَالَ كَانَ يُسَيِّرُ نَاقَتَهُ فَإِذَا وَجَدَ فَجْوَةً نَصَّ ‏.‏",
+  "english": {
+    "narrator": "It was narrated form Hisham bin Urwah that his father said:",
+    "text": "\"Usamah bin Zaid was asked - while I was sitting with him: 'How did the Messenger of Allah travel during the Farewell Pilgrimage when he moved on?' He said: 'He rode at a moderate pace, and if he found some open space, he would gallop.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

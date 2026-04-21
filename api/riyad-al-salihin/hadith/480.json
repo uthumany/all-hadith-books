@@ -1,0 +1,16 @@
+{
+  "id": 480,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن كعب بن عياض، رضي الله عنه، وقال سمعت رسول الله، صلى الله عليه وسلم ، يقول‏:‏ ‏\n\"‏ إن لكل أمة فتنة، وفتنة أمتى المال‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ka'b bin 'Iyad (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Verily, there is a Fitnah (trial) for every nation and the trial for my nation (or Ummah) is wealth.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

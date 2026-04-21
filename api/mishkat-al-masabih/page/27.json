@@ -1,0 +1,510 @@
+{
+  "page": 27,
+  "perPage": 50,
+  "totalPages": 89,
+  "totalCount": 4428,
+  "nextPage": 28,
+  "prevPage": 26,
+  "items": [
+    {
+      "id": 780,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ طَارِقِ بْنِ شِهَابٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" الْجُمُعَةُ حَقٌّ وَاجِبٌ عَلَى كُلِّ مُسْلِمٍ فِي جَمَاعَةٍ إِلَّا عَلَى أَرْبَعَةٍ: عَبْدٍ مَمْلُوكٍ أَوِ امْرَأَةٍ أَوْ صَبِيٍّ أَوْ مَرِيضٍ \". رَوَاهُ أَبُو دَاوُدَ وَفِي شَرْحِ السُّنَّةِ بِلَفْظِ الْمَصَابِيحِ عَنْ رَجُلٍ مِنْ بني وَائِل",
+      "english": {
+        "narrator": "Tariq b. Shihab reported God’s Messenger as saying, “The Friday paryer in congregation is a necessary duty for every Muslim, with four exceptions:",
+        "text": "a slave, a woman, a boy, or an invalid.” \n\nAbu Dawud transmitted it. In Sharh as-sunna it occurs with the same wording as in al-Masabih from a man of the B. Wa’il."
+      }
+    },
+    {
+      "id": 781,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ مَسْعُودٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لِقَوْمٍ يَتَخَلَّفُونَ عَنِ الْجُمُعَةِ: «لَقَدْ هَمَمْتُ أَنْ آمُرَ رَجُلًا يُصَلِّي بِالنَّاسِ ثُمَّ أُحْرِقَ عَلَى رِجَالٍ يَتَخَلَّفُونَ عَنِ الْجُمُعَةِ بُيُوتهم» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Ibn Mas'ud reported the Prophet as saying to people who stayed away from the Friday prayer, “I have thought about commanding a man to lead the people in prayer, then burning their houses over men who stayed away from the Friday prayer.\" \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 782,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ تَرَكَ الْجُمُعَةُ مِنْ غَيْرِ ضَرُورَةٍ كُتِبَ مُنَافِقًا فِي كِتَابٍ لَا يُمْحَى وَلَا يُبَدَّلُ» . وَفِي بَعْضِ الرِّوَايَاتِ ثَلَاثًا. رَوَاهُ الشَّافِعِي",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas reported the Prophet as saying, “If anyone neglects the Friday prayer except in case of necessity, he will be inscribed as a hypocrite in a book which will not be obliterated or changed.” Some versions have “three times.\"*\n\n*Meaning that the Prophet said these words three times.\n\nShafi‘i transmitted it."
+      }
+    },
+    {
+      "id": 783,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَعَلَيْهِ الْجُمُعَةُ يَوْمَ الْجُمُعَةِ إِلَّا مَرِيض أَو مُسَافر أَوْ صَبِيٌّ أَوْ مَمْلُوكٌ فَمَنِ اسْتَغْنَى بِلَهْوٍ أَوْ تِجَارَةٍ اسْتَغْنَى اللَّهُ عَنْهُ وَاللَّهُ غَنِيٌّ حميد» . رَوَاهُ الدراقطني",
+      "english": {
+        "narrator": "",
+        "text": "Jabir reported God’s Messenger as saying, “Prayer in congregation on Friday is a duty laid on those who believe in God and the last day, except for an invalid, a traveller, a woman, a boy, an insane person, or a slave. If anyone neglects it through sport or trade, God will have nothing to do with him. God is the Independent and Praiseworthy One.\" \n\nDaraqutni transmitted it."
+      }
+    },
+    {
+      "id": 784,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ سَلْمَانَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يَغْتَسِلُ رَجُلٌ يَوْمَ الْجُمُعَةِ وَيَتَطَهَّرُ مَا اسْتَطَاعَ مِنْ طُهْرٍ وَيَدَّهِنُ مِنْ دُهْنِهِ أَوْ يَمَسُّ مِنْ طِيبِ بَيْتِهِ ثُمَّ يَخْرُجُ فَلَا يُفَرِّقُ بَيْنَ اثْنَيْنِ ثُمَّ يُصَلِّي مَا كُتِبَ لَهُ ثُمَّ يُنْصِتُ إِذَا تَكَلَّمَ الْإِمَامُ إِلَّا غُفِرَ لَهُ مَا بَيْنَهُ وَبَين الْجُمُعَة الْأُخْرَى» . رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Salman reported God’s Messenger as saying, “If any man bathes on Friday, purifies himself as much as he can with ablution, anoints himself with oil, or puts on a touch of perfume which he has in his house, then goes out and, without squeezing between two men, prays what is prescribed for him, then remains silent when the imam speaks, his sins between that time and the next Friday will be forgiven him.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 785,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ. عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ اغْتَسَلَ ثُمَّ أَتَى الْجُمُعَةَ فَصَلَّى مَا قُدِّرَ لَهُ ثُمَّ أَنْصَتَ حَتَّى يَفْرُغَ مِنْ خُطْبَتِهِ ثُمَّ يُصَلِّيَ مَعَهُ غُفِرَ لَهُ مَا بَيْنَهُ وَبَيْنَ الْجُمُعَةِ الْأُخْرَى وَفَضْلُ ثَلَاثَةِ أَيَّام» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God's Messenger as saying, “If anyone bathes, then comes to the Friday prayer and prays what is fixed for him, then keeps silent till  finishes his sermon, then prays along with him, his sins between that time and the next Friday will be forgiven him, and three days more.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 786,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ تَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ ثُمَّ أَتَى الْجُمُعَةَ فَاسْتَمَعَ وَأَنْصَتَ غُفِرَ لَهُ مَا بَيْنَهُ وَبَيْنَ الْجُمُعَةِ وَزِيَادَةُ ثَلَاثَةِ أَيَّامٍ وَمَنْ مَسَّ الْحَصَى فقد لَغَا» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "He reported God’s Messenger as saying, “If anyone performs ablution, doing it well, then comes to the Friday prayer, listens and keeps silent, his sins between that time and the next Friday will be forgiven him, with three days extra; but he who touches pebbles has caused an interruption (lagha).”* \n\n* This refers to little stones which one removes while engaged in salat. While Bukhari, al-'amal fis salat, 8, gives a tradition which allows smoothing the ground once only, this tradition treats the matter as unsuitable. Regarding this tradition Lisan al-'Arab, 22:118, says that lagha means ‘he has spoken', or ‘deviated from what is right,‘ or ‘has been frustrated', adding that the first is the basic meaning. The idea is evidently that the one who makes a sound by removing small stones during the prayer has hindered someone from hearing. Cf. Qur'an, 41:26.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 787,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا كَانَ يَوْمُ الْجُمُعَةِ وَقَفَتِ الْمَلَائِكَةُ عَلَى بَابِ الْمَسْجِدِ يَكْتُبُونَ الْأَوَّلَ فَالْأَوَّلَ وَمَثَلُ الْمُهَجِّرِ كَمَثَلِ الَّذِي يُهْدِي بَدَنَةً ثُمَّ كَالَّذِي يُهْدِي بَقَرَةً ثُمَّ كَبْشًا ثُمَّ دَجَاجَةً ثُمَّ بَيْضَةً فَإِذَا خَرَجَ الْإِمَامُ طَوَوْا صُحُفَهُمْ ويستمعون الذّكر»",
+      "english": {
+        "narrator": "",
+        "text": "He reported God's Messenger as saying, “When Friday comes the angels stand at the door of the mosque recording the people in the order of their arrival. Those who go out in the midday heat1 are treated like him who offers a sacrificial animal, 2 next like one who offers a cow, next a sheep, next a hen, next an egg. Then when the imam comes out they fold up their sheets and listen to the mention of God.\" \n\n    1. The word muhajjir which is used here may mean either one who goes out in the midday heat, or one who goes early.\n    2. The word is badana, meaning either a she-camel or a cow which is sacrificed. Here it most probably means a she-camel, as other animals are mentioned immediately afterwards.\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 788,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" إِذَا قُلْتَ لِصَاحِبِكَ يَوْمَ الْجُمُعَةِ أنصت وَالْإِمَام يخْطب فقد لغوت)",
+      "english": {
+        "narrator": "",
+        "text": "He reported God's Messenger as saying, “When you tell your companion on Friday to be silent while the imam is preaching, you are guilty of idle talk.\" \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 789,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" لَا يُقِيمَنَّ أَحَدُكُمْ أَخَاهُ يَوْمَ الْجُمُعَةِ ثُمَّ يُخَالِفُ إِلَى مَقْعَدِهِ فَيَقْعُدَ فِيهِ وَلَكِن يَقُول: افسحوا \". رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Jabir reported God’s Messenger as saying, “None of you must make his brother get up on Friday, then move to his place and sit in it, but should ask those present to make room.\" \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 790,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي سَعِيدٍ وَأَبِي هُرَيْرَةَ قَالَا: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «من اغْتَسَلَ يَوْمَ الْجُمُعَةِ وَلَبِسَ مِنْ أَحْسَنِ ثِيَابِهِ وَمَسَّ مِنْ طِيبٍ إِنْ كَانَ عِنْدَهُ ثُمَّ أَتَى الْجُمُعَةَ فَلَمْ يَتَخَطَّ أَعْنَاقَ النَّاسِ ثُمَّ صَلَّى مَا كَتَبَ اللَّهُ لَهُ ثُمَّ أَنْصَتَ إِذا خرج إِمَام حَتَّى يَفْرُغَ مِنْ صَلَاتِهِ كَانَتْ كَفَّارَةً لِمَا بَيْنَهَا وَبَيْنَ جُمُعَتِهِ الَّتِي قَبْلَهَا» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa'id and Abu Huraira reported God’s Messenger as saying, “If anyone bathes on a Friday, puts on his best clothes, applies a touch of perfume if he has any, then goes to the congregational prayer and takes care not to step over people, then prays what God has prescribed for him, then keeps silent from the time his imam comes out till he finishes his prayer, it will atone for his sins during the previous week.\" \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 791,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَوْسِ بْنِ أَوْسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" مَنْ غَسَّلَ يَوْمَ الْجُمُعَةِ وَاغْتَسَلَ وَبَكَّرَ وَابْتَكَرَ وَمَشَى وَلَمْ يَرْكَبْ وَدَنَا مِنَ الْإِمَامِ وَاسْتَمَعَ وَلَمْ يَلْغُ كَانَ لَهُ بِكُلِّ خُطْوَةٍ عَمَلُ سَنَةٍ: أَجْرُ صِيَامِهَا وَقِيَامِهَا \". رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ وَالنَّسَائِيُّ وَابْنُ مَاجَهْ",
+      "english": {
+        "narrator": "",
+        "text": "Aus b. Aus reported God's Messenger as saying, “If anyone washes and bathes on Friday, goes out early* walking, not riding, goes near to the imam and listens without interrupting, he will have the reward of a year’s fasting and praying for every step he takes.\" \n\n*The text has bakkara wa 'btakara. Both words mean the same thing and are presumably both used to emphasise the idea of going out early.\n\nTirmidhi, Abu Dawud, Nasa’i and Ibn Majah transmitted it."
+      }
+    },
+    {
+      "id": 792,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ سَلَامٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم: «مَا عَلَى أَحَدِكُمْ إِنْ وَجَدَ أَنْ يَتَّخِذَ ثَوْبَيْنِ لِيَوْمِ الْجُمُعَةِ سِوَى ثَوْبَيْ مَهْنَتِهِ» . رَوَاهُ ابْنُ مَاجَه\nوَرَوَاهُ مَالك عَن يحيى بن سعيد",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. Salam reported God’s Messenger as saying, “Even if one has other garments he need wear nothing for Friday but the two garments he wears every day.” \n\nIbn Majah transmitted it, and Malik transmitted it from Yahya b. Sa'id."
+      }
+    },
+    {
+      "id": 793,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَن سَمُرَةَ بْنِ جُنْدُبٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «احْضُرُوا الذِّكْرَ وَادْنُوا مِنَ الْإِمَامِ فَإِنَّ الرَّجُلَ لَا يَزَالُ يَتَبَاعَدُ حَتَّى يُؤَخَّرَ فِي الْجنَّة وَإِن دَخلهَا» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Samura b. Jundub reported God’s Messenger as saying, “Be present at the mention of God and go near the imam; for if anyone always keeps far away the result will be that he will be put in a back place in paradise, supposing he enters it.\" \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 794,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ سَهْلِ بْنِ مُعَاذِ بْنِ أَنَسٍ الْجُهَنِيِّ عَنْ أَبِيهِ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ تَخَطَّى رِقَابَ النَّاسِ يَوْمَ الْجُمُعَةِ اتَّخَذَ جِسْرًا إِلَى جَهَنَّمَ» . رَوَاهُ التِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ غَرِيبٌ",
+      "english": {
+        "narrator": "",
+        "text": "Sahl b. Mu'adh b. Anas al-Juhani told that his father reported God’s Messenger as saying, \"If anyone steps over people on Friday he will be made a bridge to jahannam.\" \n\nTirmidhi transmitted it and said this is a gharib tradition."
+      }
+    },
+    {
+      "id": 795,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ مُعَاذِ بْنِ أَنَسٍ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنِ الْحُبْوَةِ يَوْمَ الْجُمُعَةِ وَالْإِمَامُ يَخْطُبُ. رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ",
+      "english": {
+        "narrator": "",
+        "text": "Mu`adh b. Anas said that the Prophet forbade sitting on Friday with a cloth tied round the back and legs while the imam is preaching. \n\nTirmidhi and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 796,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا نَعَسَ أَحَدُكُمْ يَوْمَ الْجُمُعَةِ فَلْيَتَحَوَّلْ مِنْ مَجْلِسِهِ ذَلِكَ» . رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar reported God’s Messenger as saying, “When any of you dozes on Friday he should change his place.” \n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 797,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ نَافِعٍ قَالَ: سَمِعْتُ ابْنَ عُمَرَ يَقُولُ: نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يُقِيمَ الرَّجُلُ الرَّجُلَ مِنْ مَقْعَدِهِ وَيَجْلِسَ فِيهِ. قِيلَ لِنَافِعٍ: فِي الْجُمُعَةِ قَالَ: فِي الْجُمُعَة وَغَيرهَا",
+      "english": {
+        "narrator": "",
+        "text": "Nafi‘ told that he heard Ibn ‘Umar say God’s Messenger forbade anyone to make another get up and then sit in his place. When asked whether this applied to the Friday prayer, Nafi' said that it applied both to the Friday prayer and to other occasions. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 798,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" يَحْضُرُ الْجُمُعَةَ ثَلَاثَةُ نَفَرٍ: فَرَجُلٌ حَضَرَهَا بِلَغْوٍ فَذَلِكَ حَظُّهُ مِنْهَا. وَرَجُلٌ حَضَرَهَا بِدُعَاءٍ فَهُوَ رَجُلٌ دَعَا اللَّهَ إِنْ شَاءَ أَعْطَاهُ وَإِنْ شَاءَ مَنعه. وَرجل حَضَره بِإِنْصَاتٍ وَسُكُوتٍ وَلَمْ يَتَخَطَّ رَقَبَةَ مُسْلِمٍ وَلَمْ يُؤْذِ أَحَدًا فَهِيَ كَفَّارَةٌ إِلَى الْجُمُعَةِ الَّتِي تَلِيهَا وَزِيَادَةِ ثَلَاثَةِ أَيَّامٍ وَذَلِكَ بِأَنَّ اللَّهَ يَقُولُ: (مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا. .)\nرَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. ‘Amr reported God’s Messenger as saying, “Three types attend Friday prayer; one is present in a frivolous way and that is all he gets from it; another comes with a supplication, he being a man who makes supplication to God who may grant or refuse his request as He wishes; another is present silently and quietly without stepping over a Muslim or annoying anyone, and that is an atonement for his sins till the next Friday and three days more, the reason being that God says, ‘He who does a good deed will have ten times as much’”(Al-Qur’an; 6:160). \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 799,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ تَكَلَّمَ يَوْمَ الْجُمُعَةِ وَالْإِمَامُ يَخْطُبُ فَهُوَ كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا وَالَّذِي يَقُولُ لَهُ أَنْصِتْ لَيْسَ لَهُ جُمُعَة» . رَوَاهُ أَحْمد",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas reported God’s Messenger as saying, “If anyone speaks on Friday while the imam is preaching, he is like an ass which carries books, (cf. Al-Qur'an; 62:5) and he who tells him to be quiet is not credited with the Friday prayer.” \n\nAhmad transmitted it."
+      }
+    },
+    {
+      "id": 800,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عُبَيْدِ بْنِ السَّبَّاقِ مُرْسَلًا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم فِي جُمُعَةٍ مِنَ الْجُمَعِ: «يَا مَعْشَرَ الْمُسْلِمِينَ إِنَّ هَذَا يَوْمٌ جَعَلَهُ اللَّهُ عِيدًا فَاغْتَسِلُوا وَمَنْ كَانَ عِنْدَهُ طِيبٌ فَلَا يَضُرُّهُ أَنْ يَمَسَّ مِنْهُ وَعَلَيْكُمْ بِالسِّوَاكِ» . رَوَاهُ مَالِكٌ وَرَوَاهُ ابْنُ مَاجَه عَنهُ\nوَهُوَ عَن ابْن عَبَّاس مُتَّصِلا",
+      "english": {
+        "narrator": "",
+        "text": "‘Ubaid b. as-Sabbaq told in mursal form that God’s Messenger said one Friday, “Company of Muslims, this is a day which God has appointed as a festival, so bathe, and if anyone has perfume it does him no harm to apply some of it; and you should use the toothstick.” \n\nMalik transmitted it. Ibn Majah transmitted it from him, and it is in fully connected form from Ibn ‘Abbas."
+      }
+    },
+    {
+      "id": 801,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ الْبَرَاءِ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «حَقًّا عَلَى الْمُسْلِمِينَ أَنْ يَغْتَسِلُوا يَوْمَ الْجُمُعَةِ وَلْيَمَسَّ أَحَدُهُمْ مِنْ طِيبِ أَهْلِهِ فَإِنْ لَمْ يَجِدْ فَالْمَاءُ لَهُ طِيبٌ» . رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ حَسَنٌ",
+      "english": {
+        "narrator": "",
+        "text": "Al-Bara’ reported God’s Messenger as saying, “It is a duty for Muslims to bathe on Friday, and one may apply some of his wife’s perfume; but if he can get none, water is a perfume for him.” \n\nAhmad and Tirmidhi transmitted it, the latter saying that this is a hasan tradition."
+      }
+    },
+    {
+      "id": 802,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ أَنَسٍ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُصَلِّي الْجُمُعَةَ حِينَ تَمِيلُ الشَّمْسُ. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Anas said that the Prophet used to observe the Friday prayer when the sun passed the meridian. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 803,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ سَهْلِ بْنِ سَعْدٍ قَالَ: مَا كُنَّا نُقِيلُ وَلَا نَتَغَدَّى إِلَّا بَعْدَ الْجُمُعَة",
+      "english": {
+        "narrator": "",
+        "text": "Sahl b. Sa‘d said, “We did not have a siesta or lunch till after the Friday prayer.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 804,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا اشْتَدَّ الْبَرْدُ بَكَّرَ بِالصَّلَاةِ وَإِذَا اشْتَدَّ الْحَرُّ أَبْرَدَ بِالصَّلَاةِ. يَعْنِي الْجُمُعَةَ. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Anas said that when it was very cold the Prophet observed the prayer early, and when it was very hot he delayed the prayer till it was cooler. The reference is to the Friday prayer. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 805,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ السَّائِبِ بْنِ يَزِيدَ قَالَ: كَانَ النِّدَاءُ يَوْمَ الْجُمُعَةِ أَوَّلُهُ إِذَا جَلَسَ الْإِمَامُ عَلَى الْمِنْبَرِ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَبِي بَكْرٍ وَعُمَرَ فَلَمَّا كَانَ عُثْمَانُ وَكَثُرَ النَّاسُ زَادَ النِّدَاءَ الثَّالِثَ عَلَى الزَّوْرَاء. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "As-Sa’ib b. Yazid said that in the time of God’s Messenger, Abu Bakr and ‘Umar the beginning of the summons on Friday was when the imam took his seat on the pupilt, but in 'Uthman’s time when (the people were numerous he added the third call on az-Zaura’.* \n\n*The name of a house in Madina. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 806,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرِ بْنِ سَمُرَةَ قَالَ: كَانَتْ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خُطْبَتَانِ يَجْلِسُ بَيْنَهُمَا يقْرَأ الْقُرْآن وَيذكر النَّاس فَكَانَت صلَاته قصدا وخطبته قصدا. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Jabir b. Samura said the Prophet gave two sermons between which he sat, recited the Qur’an and gave the people an exhortation and both his prayer and his sermon were of moderate length. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 807,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَمَّارٍ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِنَّ طُولَ صَلَاةِ الرَّجُلِ وَقِصَرَ خُطْبَتِهِ مَئِنَّةٌ مِنْ فِقْهِهِ فَأَطِيلُوا الصَّلَاة واقصروا الْخطْبَة وَإِن من الْبَيَان سحرًا» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "‘Ammar told how he heard God’s Messenger say, “The length of a man’s prayer and the shortness of his sermon are a sign of his understanding, so make the prayer long and the sermon short, for there is magic in eloquence.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 808,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا خَطَبَ احْمَرَّتْ عَيْنَاهُ وَعَلَا صَوْتُهُ وَاشْتَدَّ غَضَبُهُ حَتَّى كَأَنَّهُ مُنْذِرُ جَيش يقولك: «صَبَّحَكُمْ وَمَسَّاكُمْ» وَيَقُولُ: «بُعِثْتُ أَنَا وَالسَّاعَةُ كَهَاتَيْنِ» . وَيَقْرُنُ بَيْنَ إِصْبَعَيْهِ السَّبَابَةِ وَالْوُسْطَى. رَوَاهُ مُسْلِمٌ",
+      "english": {
+        "narrator": "",
+        "text": "Jabir said that when God’s Messenger preached his eyes became red, his voice rose and his anger became violent, so that he was like one warning an army and saying, “The enemy has made a morning attack on you.” “The enemy has made an evening attack on you.” He would Say, “The last hour and I have been sent like these two,” and he would join his forefinger and his middle finger. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 809,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ يَعْلَى بْنِ أُمَيَّةَ قَالَ: سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ عَلَى الْمِنْبَرِ: (وَنَادَوْا يَا مَالك ليَقْضِ علينا رَبك)",
+      "english": {
+        "narrator": "Ya'la b. Umayya said he heard the Prophet reciting on the pulpit, “And they will cry:",
+        "text": "O Malik, let your Lord put an end to us” (Al-Qur’an; 43:77).\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 810,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أُمِّ هِشَامٍ بِنْتِ حَارِثَةَ بْنِ النُّعْمَانِ قَالَتْ: مَا أَخَذْتُ (ق. وَالْقُرْآنِ الْمَجِيدِ)\nإِلَّا عَنْ لِسَانِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَؤُهَا كُلَّ جُمُعَةٍ عَلَى الْمِنْبَرِ إِذَا خطب النَّاس. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Umm Hisham daughter of Haritha b. an-Nu‘man said she learned “Qaf. By the glorious Qur’an” (Al-Qur’an; 50) from no other source than the tongue of God’s Messenger who used to recite it every Friday on the pulpit when he preached to the people. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 811,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَمْرِو بْنِ حُرَيْثٍ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَطَبَ وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ قَدْ أَرْخَى طَرَفَيْهَا بَيْنَ كَتِفَيْهِ يَوْمَ الْجُمُعَةِ. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "‘Amr b. Huraith said the Prophet preached on Friday wearing a black turban the ends of which he let hang between his shoulders. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 812,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم وَهُوَ يخْطب: «إِذَا جَاءَ أَحَدُكُمْ يَوْمَ الْجُمُعَةِ وَالْإِمَامُ يَخْطُبُ فليركع رَكْعَتَيْنِ وليتجوز فيهمَا» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Jabir reported God’s Messenger as saying in the course of a sermon, “When one of you comes on Friday while the imam is preaching, he should pray two rak'as and make them short.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 813,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: مَنْ أَدْرَكَ رَكْعَةً مِنَ الصَّلَاةِ مَعَ الإِمَام فقد أدْرك الصَّلَاة كلهَا \"",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s Messenger as saying, “If anyone is in time for a rak‘a in the prayer along with the imam he has said the whole prayer.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 814,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ عُمَرَ قَالَ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَخْطُبُ خُطْبَتَيْنِ كَانَ يَجْلِسُ إِذَا صَعِدَ الْمِنْبَرَ حَتَّى يَفْرُغَ أُرَاهُ الْمُؤَذِّنَ ثُمَّ يَقُومُ فَيَخْطُبُ ثُمَّ يَجْلِسُ وَلَا يَتَكَلَّمُ ثمَّ يقوم فيخطب. رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar said that the Prophet used to deliver two sermons. He would sit down when he ascended the pulpit till he (I think he meant the mu’adhdhin) was finished. He would then stand up and preach, then sit down and say nothing, then stand up and preach. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 815,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا اسْتَوَى عَلَى الْمِنْبَرِ اسْتَقْبَلْنَاهُ بِوُجُوهِنَا. رَوَاهُ التِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ لَا نَعْرِفُهُ إِلَّا مِنْ حَدِيثِ مُحَمَّدِ بْنِ الْفَضْلِ وَهُوَ ضَعِيفٌ ذَاهِبُ الْحَدِيثِ",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. Mas'ud said, “When the Prophet sat down on the pulpit we faced him.” \n\nTirmidhi transmitted it, and said this was a tradition he knew only among the traditions of Muhammad b. al-Fadl who was weak and whose traditions were not accepted."
+      }
+    },
+    {
+      "id": 816,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ جَابِرِ بْنِ سَمُرَةَ قَالَ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَخْطُبُ قَائِمًا ثُمَّ يَجْلِسُ ثُمَّ يَقُومُ فَيَخْطُبُ قَائِمًا فَمَنْ نَبَّأَكَ أَنَّهُ كَانَ يَخْطُبُ جَالِسًا فَقَدْ كَذَبَ فَقَدَ وَالله صليت مَعَه أَكثر من ألفي صَلَاة. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Jabir b. Samura said, “The Prophet used to preach standing, then he would sit down, then stand and preach standing. If anyone tells you he preached sitting he is lying. I swear by God that I prayed along with him on more than two thousand occasions.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 817,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ كَعْبِ بْنِ عُجْرَةَ: أَنَّهُ دَخَلَ الْمَسْجِدَ وَعَبْدُ الرَّحْمَنِ بْنُ أُمِّ الْحَكَمِ يَخْطُبُ قَاعِدًا فَقَالَ: انْظُرُوا إِلَى هَذَا الْخَبِيثِ يَخْطُبُ قَاعِدًا وَقد قَالَ الله تَعَالَى: (وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوك قَائِما)\nرَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Ka'b b. ‘Ujra said he entered the mosque when ‘Abd ar-Rahman b. Umm al-Hakam was sitting while he preached, and said:",
+        "text": "Look at this scoundrel who is sitting while he preaches, though God most high has said, “But when they see merchandise or diversion they disperse to it and leave you standing” (Al-Qur’an; 62:11).\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 818,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَن عمَارَة بن رويبة: أَنَّهُ رَأَى بِشْرَ بْنَ مَرْوَانَ عَلَى الْمِنْبَرِ رَافِعًا يَدَيْهِ فَقَالَ: قَبَّحَ اللَّهُ هَاتَيْنِ الْيَدَيْنِ لَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا يَزِيدُ عَلَى أَنْ يَقُولَ بِيَدِهِ هَكَذَا وَأَشَارَ بِأُصْبُعِهِ المسبحة. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "‘Umara b. Ruwaiba said he saw Bishr b. Marwan on the pulpit raising his hands and said, “God reject these hands! I have seen God’s Messenger gesture* no more than this with his hand;” and he pointed with his forefinger.\n\n*Literally, say.  \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 819,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: لَمَّا اسْتَوَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمَ الْجُمُعَةِ عَلَى الْمِنْبَرِ قَالَ: «اجْلِسُوا» فَسَمِعَ ذَلِكَ ابْنُ مَسْعُودٍ فَجَلَسَ عَلَى بَابِ الْمَسْجِدِ فَرَآهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «تَعَالَ يَا عَبْدَ اللَّهِ بْنَ مَسْعُودٍ» رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "",
+        "text": "Jabir said that when God’s Messenger seated himself on the pulpit on a Friday he said, “Sit down.” Ibn Mas'ud heard that and sat down at the door of the mosque, and when God’s Messenger saw him he said, “Come here, ‘Abdallah b. Mas'ud.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 820,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «من أدْرك من الْجُمُعَة رَكْعَة فَليصل إِلَيْهَا أُخْرَى وَمَنْ فَاتَتْهُ الرَّكْعَتَانِ فَلْيُصَلِّ أَرْبَعًا» أَو قَالَ: «الظّهْر» . رَوَاهُ الدَّارَقُطْنِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s Messenger as saying, “If anyone is in time for a rak'a of the Friday prayer he should pray another as well, but if one misses the two rak'as he should pray four.” Or he said, “The noon prayer.” \n\nDaraqutni transmitted it."
+      }
+    },
+    {
+      "id": 821,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ أَبِيهِ قَالَ: غَزَوْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قِبَلَ نَجْدٍ فَوَازَيْنَا الْعَدُوَّ فَصَافَفْنَا لَهُمْ فَقَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي لَنَا فَقَامَتْ طَائِفَةٌ مَعَهُ وَأَقْبَلَتْ طَائِفَةٌ عَلَى الْعَدُوِّ وَرَكَعَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمَنْ مَعَهُ وَسَجَدَ سَجْدَتَيْنِ ثُمَّ انْصَرَفُوا مَكَانَ الطَّائِفَةِ الَّتِي لم تصل فجاؤوا فَرَكَعَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بهم رَكْعَةً وَسَجَدَ سَجْدَتَيْنِ وَرَوَى نَافِعٌ نَحْوَهُ وَزَادَ: فَإِن كَانَ خوف هُوَ أَشَدُّ مِنْ ذَلِكَ صَلَّوْا رِجَالًا قِيَامًا عَلَى أَقْدَامِهِمْ أَوْ رُكْبَانًا مُسْتَقْبِلِي الْقِبْلَةِ أَوْ غَيْرَ مُسْتَقْبِلِيهَا قَالَ نَافِعٌ: لَا أُرَى ابْنَ عُمَرَ ذَكَرَ ذَلِكَ إِلَّا عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "Salim b. ‘Abdallah b. ‘Umar quoted his father as saying:",
+        "text": "I went on an expedition with God’s Messenger to Najd, and when we came in front of the enemy we drew up in line facing them. God’s Messenger then stood up and led us in prayer, and one section stood up along with him while another faced the enemy. He prayed a rak'a with those who were with him and made two prostrations, and then they changed places with those who had not prayed. When they came God’s Messenger prayed a rak'a with them and made two prostrations, then he uttered the salutation and each of them got up and left, after which he prayed a rak'a alone and made two prostrations. Nafi‘ transmitted something similar, adding that when there was greater cause for fear than on that occasion they prayed standing on their feet or mounted, without considering whether or not they were facing the qibla. Nafi‘ said he thought God’s Messenger was the one on whose authority Ibn ‘Umar mentioned that. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 822,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ يَزِيدَ بْنِ رُومَانَ عَنْ صَالِحِ بْنِ خَوَّاتٍ عَمَّنْ صَلَّى مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمَ ذَاتِ الرِّقَاعِ صَلَاةَ الْخَوْفِ: أَنَّ طَائِفَةً صَفَّتْ مَعَهُ وَطَائِفَةً وِجَاهَ الْعَدُوِّ فَصَلَّى بِالَّتِي مَعَهُ رَكْعَةً ثُمَّ ثَبَتَ قَائِمًا وَأَتَمُّوا لِأَنْفُسِهِمْ ثُمَّ انْصَرَفُوا فَصَفُّوا وِجَاهَ الْعَدُوِّ وَجَاءَتِ الطَّائِفَةُ الْأُخْرَى فَصَلَّى بِهِمُ الرَّكْعَةَ الَّتِي بَقِيَتْ مِنْ صَلَاتِهِ ثُمَّ ثَبَتَ جَالِسًا وَأَتمُّوا لأَنْفُسِهِمْ ثمَّ سلم بهم\nوَأَخْرَجَ الْبُخَارِيُّ بِطَرِيقٍ آخَرَ عَنِ الْقَاسِمِ عَنْ صَالِحِ بْنِ خَوَّاتٍ عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+      "english": {
+        "narrator": "",
+        "text": "Yazid b. Ruman told on the authority of Salih b. al-Khawwat on the authority of one who prayed in time of danger along with God’s Messenger at the battle of Dhat ar-Riqa'* that a section formed a line along with him and a section faced the enemy. He led the section which was along with him in a rak'a, then remained standing while they finished the prayer by themselves. They then departed and drew up in line facing the enemy, and when the other party came he led them in the remaining rak'a of his prayer, after which he remained seated while they finished the prayer by themselves. He then led them in uttering the salutation. \n\n* This was during an expedition against some sections of Ghatafan in 4 A.H\n\n(Bukhari and Muslim.) Bukhari rendered it also by another line from al-Qasim from Salih b. al-Khawwat from Sahl b. Abu Hathma from the Prophet."
+      }
+    },
+    {
+      "id": 823,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: أَقْبَلْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى إِذْ كُنَّا بِذَاتِ الرِّقَاعِ قَالَ: كُنَّا إِذَا أَتَيْنَا عَلَى شَجَرَةٍ ظَلِيلَةٍ تَرَكْنَاهَا لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: فَجَاءَ رَجُلٌ مِنَ المشكرين وَسَيْفُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُعَلَّقٌ بِشَجَرَةٍ فَأَخَذَ سَيْفَ نَبِيِّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَاخْتَرَطَهُ فَقَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَتَخَافُنِي؟ قَالَ: «لَا» . قَالَ: فَمَنْ يَمْنَعُكَ مِنِّي؟ قَالَ: «اللَّهُ يَمْنَعُنِي مِنْك» . قَالَ: فَتَهَدَّدَهُ أَصْحَابُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَغَمَدَ السَّيْفَ وَعَلَّقَهُ قَالَ: فَنُودِيَ بِالصَّلَاةِ فَصَلَّى بِطَائِفَةٍ رَكْعَتَيْنِ ثُمَّ تَأَخَّرُوا وَصَلَّى بِالطَّائِفَةِ الْأُخْرَى رَكْعَتَيْنِ قَالَ: فَكَانَتْ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَرْبَعُ رَكَعَاتٍ وَلِلْقَوْمِ رَكْعَتَانِ",
+      "english": {
+        "narrator": "Jabir said:",
+        "text": "We went forward with God’s Messenger, and when we reached Dhat ar-Riqa‘ we came to a shady tree which we left for him. One of the polytheists came along and seeing the sword of God’s Messenger hanging on a tree he took it, drew it from the scabbard and said to him, \"Are you afraid of me?” On being told that he was not, he asked, “Who will protect you from me?” He replied, “God will protect me from you.” Then the companions of God’s Messenger threatened him, and he sheathed the sword and hung it up. The call to prayer was made and he led a section in two rak'as, after which they withdrew and he led the other section in two rak'as, so that God’s Messenger prayed four rak'as and the people prayed two. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 824,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَن جَابر قَالَ: صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَاةَ الْخَوْفِ فَصَفَفْنَا خَلْفَهُ صَفَّيْنِ وَالْعَدُوُّ بَيْنَنَا وَبَيْنَ الْقِبْلَةِ فَكَبَّرَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَكَبَّرْنَا جَمِيعًا ثُمَّ رَكَعَ وَرَكَعْنَا جَمِيعًا ثمَّ رفع رَأسه من الرُّكُوع ورفعنا جَمِيعًا ثُمَّ انْحَدَرَ بِالسُّجُودِ وَالصَّفُّ الَّذِي يَلِيهِ وَقَامَ الصَّفُّ الْمُؤَخَّرُ فِي نَحْرِ الْعَدُوِّ فَلَمَّا قَضَى النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ السُّجُودَ وَقَامَ الصَّفُّ الَّذِي يَلِيهِ انْحَدَرَ الصَّفُّ الْمُؤَخَّرُ بِالسُّجُودِ ثُمَّ قَامُوا ثُمَّ تَقَدَّمَ الصَّفُّ الْمُؤَخَّرُ وَتَأَخَّرَ الْمُقَدَّمُ ثُمَّ رَكَعَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَرَكَعْنَا جَمِيعًا ثُمَّ رَفَعَ رَأْسَهُ من الرُّكُوع ورفعنا جَمِيعًا ثمَّ انحدر بِالسُّجُود وَالصَّفُّ الَّذِي يَلِيهِ الَّذِي كَانَ مُؤَخَّرًا فِي الرَّكْعَةِ الْأُولَى وَقَامَ الصَّفُّ الْمُؤَخَّرُ فِي نَحْرِ الْعَدو فَلَمَّا قَضَى النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ السُّجُودَ وَالصَّفُّ الَّذِي يَلِيهِ انْحَدَرَ الصَّفُّ الْمُؤَخَّرُ بِالسُّجُودِ فَسَجَدُوا ثُمَّ سَلَّمَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَسَلَّمْنَا جَمِيعًا. رَوَاهُ مُسْلِمٌ",
+      "english": {
+        "narrator": "He said:",
+        "text": "God’s Messenger led us in the prayer in time of danger and we drew up in two rows behind him with the enemy between us and the qibla. The Prophet said, \"God is most great” and we all said it; then he bowed and we all bowed; then he raised his head after bowing and we all raised ours; then he and the row next him went down in prostration while the rear row stood facing the enemy; then when the Prophet finished the prostration and the row next him stood up, the rear row went down in prostration; then they stood up; then the rear row went to the front and the front row to the rear; then the Prophet bowed and we all bowed; then he raised his head after bowing and we all raised ours; then he and the row next him which had been in the rear in the first rak'a went down in prostration while the rear row stood facing the enemy; then when the Prophet and the row next him finished the prostration the rear row went down and prostrated them selves; then the Prophet, uttered the salutation and we all did so. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 825,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ جَابِرٌ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُصَلِّي بِالنَّاسِ صَلَاةَ الظُّهْرِ فِي الْخَوْف بِبَطن نخل فَصَلَّى بِطَائِفَةٍ رَكْعَتَيْنِ ثُمَّ سَلَّمَ ثُمَّ جَاءَ طَائِفَةٌ أُخْرَى فَصَلَّى بِهِمْ رَكْعَتَيْنِ ثُمَّ سَلَّمَ. رَوَاهُ فِي «شرح السّنة»",
+      "english": {
+        "narrator": "",
+        "text": "Jabir said the Prophet was leading the people in the noon prayer in time of danger in a valley with palm trees.* He led a section in two rak'as after which he uttered the salutation; then another section came and he led them in two rak'as after which he uttered the salutation. \n\n*The Arabic is bi-bain nakhl. Mirqat, 2, 244, says this is the name of a place between Mecca and at-Ta’if; but the name of that place is Nakhla. Alternatively it is said to be Batn an-nakhl near Medina. \n transmitted it in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 826,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَزَلَ بَيْنَ ضَجْنَانَ وَعُسْفَانَ فَقَالَ الْمُشْرِكُونَ: لِهَؤُلَاءِ صَلَاةٌ هِيَ أَحَبُّ إِلَيْهِمْ مِنْ آبَائِهِمْ وَأَبْنَائِهِمْ وَهِيَ الْعَصْرُ فَأَجْمِعُوا أَمْرَكُمْ فَتَمِيلُوا عَلَيْهِمْ مَيْلَةً وَاحِدَةً وَإِنَّ جِبْرِيلَ أَتَى النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَمَرَهُ أَنْ يَقْسِمَ أَصْحَابَهُ شَطْرَيْنِ فَيُصَلِّيَ بِهِمْ وَتَقُومَ طَائِفَةٌ أُخْرَى وَرَاءَهُمْ وَلْيَأْخُذُوا حِذْرَهُمْ وَأَسْلِحَتَهُمْ فَتَكُونَ لَهُمْ رَكْعَةٌ وَلِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَكْعَتَانِ. رَوَاهُ التِّرْمِذِيّ وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira told how when God's Messenger encamped between Dajnan and ‘Usfan1 the polytheists said, “These people observe a prayer which is dearer to them than their fathers and their sons, and it is the afternoon prayer, so join together and attach them in a single rush.”2 But Gabriel came to the Prophet and ordered him to divide his companions into two divisions and lead one section in prayer while another stood behind them on guard and armed. They would pray one rak'a and God’s Messenger two. \n\n    1. Dajnan is a mountain near Mecca and ‘Usfan, a place two days’ journey from Mecca on the way to Medina.\t\n    2. Cf.\tAl-Qur'an; 4:102.\n\nTirmidhi and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 827,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يخرج يَوْم الْفطر وَالْأَضْحَى إِلَى الْمُصَلَّى فَأَوَّلُ شَيْءٍ يَبْدَأُ بِهِ الصَّلَاةُ ثُمَّ يَنْصَرِفُ فَيَقُومُ مُقَابِلَ النَّاسِ وَالنَّاسُ جُلُوسٌ عَلَى صُفُوفِهِمْ فَيَعِظُهُمْ وَيُوصِيهِمْ وَيَأْمُرُهُمْ وَإِنْ كَانَ يُرِيدُ أَنْ يَقْطَعَ بَعْثًا قَطَعَهُ أَوْ يَأْمر بِشَيْء أَمر بِهِ ثمَّ ينْصَرف",
+      "english": {
+        "narrator": "",
+        "text": "Abu Saud al-Khudri said that the Prophet used to go out on the day of the breaking of the fast and the day of sacrifice to the place of prayer, and the first thing he did was to pray. When he finished he would stand facing the people who were seated in their rows, deliver an exhortation, issue instructions and give them commands. If he intended to send out an army he did so, or if he had any special orders he gave them, and then departed. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 828,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرِ بْنِ سَمُرَةَ قَالَ: صَلَّيْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْعِيدَيْنِ غَيْرَ مَرَّةٍ وَلَا مَرَّتَيْنِ بِغَيْرِ أَذَانٍ وَلَا إِقَامَة. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Jabir b. Samura said, “I prayed along with God’s Messenger at the two festivals, not only once or twice, without an adhan or an iqama.\" \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 829,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَبُو بَكْرٍ وَعُمَرُ يُصَلُّونَ الْعِيدَيْنِ قَبْلَ الْخُطْبَةِ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar said that God’s Messenger, Abu Bakr and ‘Umar used to say the festival prayers before the sermon. \n\n(Bukhari and Muslim.)"
+      }
+    }
+  ]
+}

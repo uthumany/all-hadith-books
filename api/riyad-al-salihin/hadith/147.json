@@ -1,0 +1,16 @@
+{
+  "id": 147,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة رضي الله عنها أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ إذا نعس أحدكم وهو يصلي، فليرقد حتى يذهب عنه النوم، فإن أحدكم إذا صلى وهو ناعس لا يدري لعله يذهب ويستغفر فيسب نفسه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"When one of you feels drowsy during prayer, let him lie down till drowsiness goes away from him, because when one of you performs prayers while feeling sleepy, he does not know whether he seeks forgiveness or abuses himself\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

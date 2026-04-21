@@ -1,0 +1,16 @@
+{
+  "id": 500,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا شَرِيكٌ، عَنْ مُغِيرَةَ، عَنْ عَامِرٍ، قَالَ شَهِدَ عِيَاضٌ الأَشْعَرِيُّ عِيدًا بِالأَنْبَارِ فَقَالَ مَالِي لاَ أَرَاكُمْ تُقَلِّسُونَ كَمَا كَانَ يُقَلَّسُ عِنْدَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that ‘Amir said:",
+    "text": "“Iyad Al-Ash’ari was in Anbar at the\ntime of ‘Eid, and he said: ‘Why is it that I do not see you\nengaged in\nTaqlis* as was done in the presence of the Messenger of\nAllah (ﷺ)?’”\n\n*Taqlis means to indulge in celebrations on a festive occasion."
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

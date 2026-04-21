@@ -1,0 +1,16 @@
+{
+  "id": 574,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “ ما حق امرئ مسلم ، له شئ يوصي فيه ، يبيت ليلتين إلا ووصيته مكتوبة عنده” ‏(‏‏(‏متفق عليه‏)‏‏)‏ هذا لفظ البخاري‏.‏ \n\nوفى رواية لمسلم” يبيت ثلاث ليال‏:‏ قال ابن عمر‏:‏ ما مرت على ليلة منذ سمعت رسول الله صلى الله عليه وسلم قال ذلك إلا وعندي وصيتي‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin 'Umar (May Allah be pleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"It is the duty of a Muslim who has something which is to be given as a bequest not to have it for two nights without executing a written will.\".In the narration of Muslim it is narrated as 'three nights'. Ibn 'Umar (May Allah be pleased with them) said: Since I heard the Messenger of Allah say this, I have never spent a night without having my will with me."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

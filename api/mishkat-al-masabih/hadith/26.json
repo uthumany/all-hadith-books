@@ -1,0 +1,16 @@
+{
+  "id": 26,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الدَّوَاءِ الْخَبِيثِ. رَوَاهُ أَحْمَدُ وَأَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَابْنُ مَاجَهْ",
+  "english": {
+    "narrator": "",
+    "text": "Abu Huraira told that God’s messenger prohibited unclean medicine. \n\nAhmad, Abu Dawud, Tirmidhi and Ibn Majah transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

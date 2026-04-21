@@ -1,0 +1,510 @@
+{
+  "page": 3,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 4,
+  "prevPage": 2,
+  "items": [
+    {
+      "id": 101,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى، عَنْ يَعْقُوبَ بْنِ سَلَمَةَ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ صَلاَةَ لِمَنْ لاَ وُضُوءَ لَهُ وَلاَ وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللَّهِ تَعَالَى عَلَيْهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Messenger of Allah (ﷺ) said: The prayer of a person who does not perform ablution is not valid, and the ablution of a person who does not mention the name of Allah (in the beginning) is not valid."
+      }
+    },
+    {
+      "id": 102,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنِ الدَّرَاوَرْدِيِّ، قَالَ وَذَكَرَ رَبِيعَةُ أَنَّ تَفْسِيرَ، حَدِيثِ النَّبِيِّ صلى الله عليه وسلم ‏\n\"‏ لاَ وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللَّهِ عَلَيْهِ ‏\"‏ ‏.‏ أَنَّهُ الَّذِي يَتَوَضَّأُ وَيَغْتَسِلُ وَلاَ يَنْوِي وُضُوءًا لِلصَّلاَةِ وَلاَ غُسْلاً لِلْجَنَابَةِ ‏.‏",
+      "english": {
+        "narrator": "Explaining the tradition of the Prophet (ﷺ) that the ablution of a person who does not mention the name of Allah is valid, Rabi’ah said:",
+        "text": "This tradition means that if a person performs ablution and takes a bath but does not have the intention to perform ablution for prayer and purify himself from sexual defilement, his ablution or bath is not valid."
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي رَزِينٍ، وَأَبِي، صَالِحٍ عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا قَامَ أَحَدُكُمْ مِنَ اللَّيْلِ فَلاَ يَغْمِسْ يَدَهُ فِي الإِنَاءِ حَتَّى يَغْسِلَهَا ثَلاَثَ مَرَّاتٍ فَإِنَّهُ لاَ يَدْرِي أَيْنَ بَاتَتْ يَدُهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported :",
+        "text": "The Messenger of Allah (ﷺ) said: When anyone amongst you wakes up from sleep at night, he should not put his hand in the utensil until he has washed his hand three times, for he does’ not know where his hand was during the night."
+      }
+    },
+    {
+      "id": 104,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم - يَعْنِي بِهَذَا الْحَدِيثِ - قَالَ مَرَّتَيْنِ أَوْ ثَلاَثًا وَلَمْ يَذْكُرْ أَبَا رَزِينٍ ‏.‏",
+      "english": {
+        "narrator": "This Tradition has been reported by Abu Hurairah through another chain of transmitters. It adds :",
+        "text": "“ twice or thrice.” This version does not mention Abu Razin."
+      }
+    },
+    {
+      "id": 105,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، وَمُحَمَّدُ بْنُ سَلَمَةَ الْمُرَادِيُّ، قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ، عَنْ أَبِي مَرْيَمَ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِذَا اسْتَيْقَظَ أَحَدُكُمْ مِنْ نَوْمِهِ فَلاَ يُدْخِلْ يَدَهُ فِي الإِنَاءِ حَتَّى يَغْسِلَهَا ثَلاَثَ مَرَّاتٍ فَإِنَّ أَحَدَكُمْ لاَ يَدْرِي أَيْنَ بَاتَتْ يَدُهُ أَوْ أَيْنَ كَانَتْ تَطُوفُ يَدُهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported :",
+        "text": "I heard the Messenger of Allah (May Peace be upon him) say: When any of you wakes up from sleep, he should not put his hand in the utensil until he washes it three times, for none of you knows where his hand remained during the night or where it went round."
+      }
+    },
+    {
+      "id": 106,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ، عَنْ حُمْرَانَ بْنِ أَبَانَ، مَوْلَى عُثْمَانَ بْنِ عَفَّانَ قَالَ رَأَيْتُ عُثْمَانَ بْنَ عَفَّانَ تَوَضَّأَ فَأَفْرَغَ عَلَى يَدَيْهِ ثَلاَثًا فَغَسَلَهُمَا ثُمَّ تَمَضْمَضَ وَاسْتَنْثَرَ ثُمَّ غَسَلَ وَجْهَهُ ثَلاَثًا وَغَسَلَ يَدَهُ الْيُمْنَى إِلَى الْمِرْفَقِ ثَلاَثًا ثُمَّ الْيُسْرَى مِثْلَ ذَلِكَ ثُمَّ مَسَحَ رَأْسَهُ ثُمَّ غَسَلَ قَدَمَهُ الْيُمْنَى ثَلاَثًا ثُمَّ الْيُسْرَى مِثْلَ ذَلِكَ ثُمَّ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم تَوَضَّأَ مِثْلَ وُضُوئِي هَذَا ثُمَّ قَالَ ‏\n\"‏ مَنْ تَوَضَّأَ مِثْلَ وُضُوئِي هَذَا ثُمَّ صَلَّى رَكْعَتَيْنِ لاَ يُحَدِّثُ فِيهِمَا نَفْسَهُ غَفَرَ اللَّهُ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Humran b. Abban, the freed slave of ‘Uthman, said :",
+        "text": "I saw ‘ Uthman’ b. ‘Affan while he performed ablution. He poured water over his hands three times and  then washed them. He then rinsed his mouth and then cleansed his nose with water (three times). He then washed his right arm up to the elbow three times, then washed his left arm in a similar manner; then wiped his head; then washed  his right foot three times, then washed his left foot in a similar manner, and then said : I saw the Messenger of Allah (ﷺ) performing ablution like this ablution of mine. Then he (the Prophet) said: He who performs ablution like this ablution of mine and then offered two rakhahs of prayer without allowing his thoughts to be distracted, Allah will pardon all his past sins."
+      }
+    },
+    {
+      "id": 107,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ وَرْدَانَ، حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، حَدَّثَنِي حُمْرَانُ، قَالَ رَأَيْتُ عُثْمَانَ بْنَ عَفَّانَ تَوَضَّأَ ‏.‏ فَذَكَرَ نَحْوَهُ وَلَمْ يَذْكُرِ الْمَضْمَضَةَ وَالاِسْتِنْشَاقَ وَقَالَ فِيهِ وَمَسَحَ رَأْسَهُ ثَلاَثًا ثُمَّ غَسَلَ رِجْلَيْهِ ثَلاَثًا ثُمَّ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم تَوَضَّأَ هَكَذَا وَقَالَ ‏\n\"‏ مَنْ تَوَضَّأَ دُونَ هَذَا كَفَاهُ ‏\"‏ ‏.‏ وَلَمْ يَذْكُرْ أَمْرَ الصَّلاَةِ ‏.‏",
+      "english": {
+        "narrator": "Humran said :",
+        "text": "I saw ‘Uthman b. ‘Affan performing ablution. He then narrated the same tradition. In this version there is no mention of rinsing the mouth and snuffing up water. This traditions adds : “He wiped his head three times. He then washed his feet three times. He then said : I saw the Messenger of Allah (ﷺ) performing ablution in like manner. He (the Prophet) said: He who performs ablution less than this, it is sufficient for him. 73\tThe narrator did not mention prayer (in this version)."
+      }
+    },
+    {
+      "id": 108,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ دَاوُدَ الإِسْكَنْدَرَانِيُّ، حَدَّثَنَا زِيَادُ بْنُ يُونُسَ، حَدَّثَنِي سَعِيدُ بْنُ زِيَادٍ الْمُؤَذِّنُ، عَنْ عُثْمَانَ بْنِ عَبْدِ الرَّحْمَنِ التَّيْمِيِّ، قَالَ سُئِلَ ابْنُ أَبِي مُلَيْكَةَ عَنِ الْوُضُوءِ، فَقَالَ رَأَيْتُ عُثْمَانَ بْنَ عَفَّانَ سُئِلَ عَنِ الْوُضُوءِ، فَدَعَا بِمَاءٍ فَأُتِيَ بِمِيضَأَةٍ فَأَصْغَى عَلَى يَدِهِ الْيُمْنَى ثُمَّ أَدْخَلَهَا فِي الْمَاءِ فَتَمَضْمَضَ ثَلاَثًا وَاسْتَنْثَرَ ثَلاَثًا وَغَسَلَ وَجْهَهُ ثَلاَثًا ثُمَّ غَسَلَ يَدَهُ الْيُمْنَى ثَلاَثًا وَغَسَلَ يَدَهُ الْيُسْرَى ثَلاَثًا ثُمَّ أَدْخَلَ يَدَهُ فَأَخَذَ مَاءً فَمَسَحَ بِرَأْسِهِ وَأُذُنَيْهِ فَغَسَلَ بُطُونَهُمَا وَظُهُورَهُمَا مَرَّةً وَاحِدَةً ثُمَّ غَسَلَ رِجْلَيْهِ ثُمَّ قَالَ أَيْنَ السَّائِلُونَ عَنِ الْوُضُوءِ هَكَذَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَتَوَضَّأُ ‏.‏ قَالَ أَبُو دَاوُدَ أَحَادِيثُ عُثْمَانَ - رضى الله عنه - الصِّحَاحُ كُلُّهَا تَدُلُّ عَلَى مَسْحِ الرَّأْسِ أَنَّهُ مَرَّةٌ فَإِنَّهُمْ ذَكَرُوا الْوُضُوءَ ثَلاَثًا وَقَالُوا فِيهَا وَمَسَحَ رَأْسَهُ ‏.‏ وَلَمْ يَذْكُرُوا عَدَدًا كَمَا ذَكَرُوا فِي غَيْرِهِ ‏.‏",
+      "english": {
+        "narrator": "‘Abd al-Rahman al-TamiI reported:",
+        "text": "Ibn Abi Mulaikah was asked about ablution. He said : I saw ‘Uthman b. ‘Affan who was asked about ablution. He called for water. A vessel was then brought to him. He inclined it towords his right hand (poured water upon it). He then put it in the water three times, and washed his face three times. He then put his hand in the water and took it out; then he wiped his head and ears, in and  out only once. He then washed his feet, and said : Where are those who asked me to perform ablution? I saw the Messenger of Allah (ﷺ) performing ablution like that. \n\n\nAbu Dawud said : All the sound traditions narrated by ‘ Uthman indicated that the head is to be wiped once, because they mentioned (the washing of each part in) ablution three times. In their versions of tradition they mentioned the wordings: “he wiped his head.” In this case they did not mention any number as they did in other cases."
+      }
+    },
+    {
+      "id": 109,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عِيسَى، أَخْبَرَنَا عُبَيْدُ اللَّهِ، - يَعْنِي ابْنَ أَبِي زِيَادٍ - عَنْ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ، عَنْ أَبِي عَلْقَمَةَ، أَنَّ عُثْمَانَ، دَعَا بِمَاءٍ فَتَوَضَّأَ فَأَفْرَغَ بِيَدِهِ الْيُمْنَى عَلَى الْيُسْرَى ثُمَّ غَسَلَهُمَا إِلَى الْكُوعَيْنِ - قَالَ - ثُمَّ مَضْمَضَ وَاسْتَنْشَقَ ثَلاَثًا وَذَكَرَ الْوُضُوءَ ثَلاَثًا - قَالَ - وَمَسَحَ بِرَأْسِهِ ثُمَّ غَسَلَ رِجْلَيْهِ وَقَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم تَوَضَّأَ مِثْلَ مَا رَأَيْتُمُونِي تَوَضَّأْتُ ‏.‏ ثُمَّ سَاقَ نَحْوَ حَدِيثِ الزُّهْرِيِّ وَأَتَمَّ ‏.‏",
+      "english": {
+        "narrator": "Abu ‘Alqamah said that ‘Uthman called for water and performed ablution. He then poured water with the right hand or the left hand ; he then washed them up to the wrist ; he then rinsed the mouth and snuffed up water three times. The narrator mentioned that ‘ Uthman washed each part three times. He then wiped head and washed his feet. He said :",
+        "text": "I saw the Messenger of Allah (ﷺ) performing ablution as you saw me perform ablution. He then reported the tradition like that of al-Zuhrl and completed it."
+      }
+    },
+    {
+      "id": 110,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ عَامِرِ بْنِ شَقِيقِ بْنِ جَمْرَةَ، عَنْ شَقِيقِ بْنِ سَلَمَةَ، قَالَ رَأَيْتُ عُثْمَانَ بْنَ عَفَّانَ غَسَلَ ذِرَاعَيْهِ ثَلاَثًا ثَلاَثًا وَمَسَحَ رَأْسَهُ ثَلاَثًا ثُمَّ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَعَلَ هَذَا ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ وَكِيعٌ عَنْ إِسْرَائِيلَ قَالَ تَوَضَّأَ ثَلاَثًا فَقَطْ ‏.‏",
+      "english": {
+        "narrator": "Shaqiq b. Salamah said :",
+        "text": "I saw ‘ Uthman b. ‘ Affan (perform ablution). He washed his forearms three times and washed his head thrice. He then said : I saw the Messenger of Allah (ﷺ) doing like that. \n\n\nAbu Dawud said: Another version says: \"He performed ablution three times only.\""
+      }
+    },
+    {
+      "id": 111,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ خَالِدِ بْنِ عَلْقَمَةَ، عَنْ عَبْدِ خَيْرٍ، قَالَ أَتَانَا عَلِيٌّ - رضى الله عنه - وَقَدْ صَلَّى فَدَعَا بِطَهُورٍ فَقُلْنَا مَا يَصْنَعُ بِالطَّهُورِ وَقَدْ صَلَّى مَا يُرِيدُ إِلاَّ أَنْ يُعَلِّمَنَا فَأُتِيَ بِإِنَاءٍ فِيهِ مَاءٌ وَطَسْتٍ فَأَفْرَغَ مِنَ الإِنَاءِ عَلَى يَمِينِهِ فَغَسَلَ يَدَيْهِ ثَلاَثًا ثُمَّ تَمَضْمَضَ وَاسْتَنْثَرَ ثَلاَثًا فَمَضْمَضَ وَنَثَرَ مِنَ الْكَفِّ الَّذِي يَأْخُذُ فِيهِ ثُمَّ غَسَلَ وَجْهَهُ ثَلاَثًا ثُمَّ غَسَلَ يَدَهُ الْيُمْنَى ثَلاَثًا وَغَسَلَ يَدَهُ الشِّمَالَ ثَلاَثًا ثُمَّ جَعَلَ يَدَهُ فِي الإِنَاءِ فَمَسَحَ بِرَأْسِهِ مَرَّةً وَاحِدَةً ثُمَّ غَسَلَ رِجْلَهُ الْيُمْنَى ثَلاَثًا وَرِجْلَهُ الشِّمَالَ ثَلاَثًا ثُمَّ قَالَ مَنْ سَرَّهُ أَنْ يَعْلَمَ وُضُوءَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَهُوَ هَذَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Ali ibn AbuTalib:",
+        "text": "Abdu Khayr said: Ali came upon us and he had already offered prayer. He called for water. We asked: What will you do with water when you have already offered prayer? - Perhaps to teach us. A utensil containing water and a wash-basin were brought (to him). \n\n\n\n\n\nHe poured water from the utensil on his right hand and washed both his hands three times, rinsed the mouth, snuffed up water and cleansed the nose three times. He then rinsed the mouth and snuffed up water with the same hand by which he took water. He then washed his face three times, and washed his right hand three times and washed his left hand three times. He then put his hand in water and wiped his head once. \n\n\n\n\n\nHe then washed his right foot thrice and left foot thrice, then said: If one is pleased to know the method of performing ablution of the Messenger of Allah, this is how he did it."
+      }
+    },
+    {
+      "id": 112,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، حَدَّثَنَا الْحُسَيْنُ بْنُ عَلِيٍّ الْجُعْفِيُّ، عَنْ زَائِدَةَ، حَدَّثَنَا خَالِدُ بْنُ عَلْقَمَةَ الْهَمْدَانِيُّ، عَنْ عَبْدِ خَيْرٍ، قَالَ صَلَّى عَلِيُّ رضى الله عنه الْغَدَاةَ ثُمَّ دَخَلَ الرَّحْبَةَ فَدَعَا بِمَاءٍ فَأَتَاهُ الْغُلاَمُ بِإِنَاءٍ فِيهِ مَاءٌ وَطَسْتٍ - قَالَ - فَأَخَذَ الإِنَاءَ بِيَدِهِ الْيُمْنَى فَأَفْرَغَ عَلَى يَدِهِ الْيُسْرَى وَغَسَلَ كَفَّيْهِ ثَلاَثًا ثُمَّ أَدْخَلَ يَدَهُ الْيُمْنَى فِي الإِنَاءِ فَتَمَضْمَضَ ثَلاَثًا وَاسْتَنْشَقَ ثَلاَثًا ‏.‏ ثُمَّ سَاقَ قَرِيبًا مِنْ حَدِيثِ أَبِي عَوَانَةَ قَالَ ثُمَّ مَسَحَ رَأْسَهُ مُقَدَّمَهُ وَمُؤَخَّرَهُ مَرَّةً ‏.‏ ثُمَّ سَاقَ الْحَدِيثَ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "‘Abd Khair said :",
+        "text": "‘All offered the dawn prayer and went to Rahbah (a locality in Kufah). He called for water. A boy brought him a vessel containing water and a wash-basin. He held the vessel with his right hand and poured water over his left hand. He washed both of his hands (to the wrist) three times. He then put his right hand in the vessel ( to take water) and rinsed his mouth three times and snuffed up water three times. He then narrated almost the same tradition as narrated by Abu ‘Awanah. He then wiped his head, both its front and back sides, once. He then narrated the tradition in like manner."
+      }
+    },
+    {
+      "id": 113,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنِي مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنِي شُعْبَةُ، قَالَ سَمِعْتُ مَالِكَ بْنَ عُرْفُطَةَ، سَمِعْتُ عَبْدَ خَيْرٍ، قَالَ رَأَيْتُ عَلِيًّا - رضى الله عنه - أُتِيَ بِكُرْسِيٍّ فَقَعَدَ عَلَيْهِ ثُمَّ أُتِيَ بِكُوزٍ مِنْ مَاءٍ فَغَسَلَ يَدَيْهِ ثَلاَثًا ثُمَّ تَمَضْمَضَ مَعَ الاِسْتِنْشَاقِ بِمَاءٍ وَاحِدٍ ‏.‏ وَذَكَرَ الْحَدِيثَ ‏.‏",
+      "english": {
+        "narrator": "Malik b. Ghurfatah says :",
+        "text": "I heard  ‘Abd Khair say: I saw a chair was brought to ‘Ali who sat on it. A vessel of water was then brought to him. He washed his hands three times ; he then rinsed his mouth and snuffed up water with one handful of water. He narrated the tradition completely."
+      }
+    },
+    {
+      "id": 114,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا رَبِيعَةُ الْكِنَانِيُّ، عَنِ الْمِنْهَالِ بْنِ عَمْرٍو، عَنْ زِرِّ بْنِ حُبَيْشٍ، أَنَّهُ سَمِعَ عَلِيًّا، رضى الله عنه وَسُئِلَ عَنْ وُضُوءِ، رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ الْحَدِيثَ وَقَالَ وَمَسَحَ عَلَى رَأْسِهِ حَتَّى لَمَّا يَقْطُرْ وَغَسَلَ رِجْلَيْهِ ثَلاَثًا ثَلاَثًا ثُمَّ قَالَ هَكَذَا كَانَ وُضُوءُ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Zirr b. Hubaish said that the heard that ‘ Ali was asked how the Messenger of Allah (ﷺ) used to perform ablution. He then narrated the tradition and said:",
+        "text": "he wiped his head so much so that drops (of water) were about to trickle down. He then washed his feet three times and said: This is how the Messenger of Allah (ﷺ) performed ablutions."
+      }
+    },
+    {
+      "id": 115,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا زِيَادُ بْنُ أَيُّوبَ الطُّوسِيُّ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، حَدَّثَنَا فِطْرٌ، عَنْ أَبِي فَرْوَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، قَالَ رَأَيْتُ عَلِيًّا - رضى الله عنه - تَوَضَّأَ فَغَسَلَ وَجْهَهُ ثَلاَثًا وَغَسَلَ ذِرَاعَيْهِ ثَلاَثًا وَمَسَحَ بِرَأْسِهِ وَاحِدَةً ثُمَّ قَالَ هَكَذَا تَوَضَّأَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "‘Abd al-Rahman b. Abi Laila says:",
+        "text": "I saw ‘ Ali performing ablution. He washed his face three times and his hands three times and wiped his head once. Then he (‘Ali) said: The Messenger of Allah (ﷺ) used to perform ablution in this way."
+      }
+    },
+    {
+      "id": 116,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، وَأَبُو تَوْبَةَ قَالاَ حَدَّثَنَا أَبُو الأَحْوَصِ، ح وَحَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، أَخْبَرَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي حَيَّةَ، قَالَ رَأَيْتُ عَلِيًّا - رضى الله عنه - تَوَضَّأَ فَذَكَرَ وُضُوءَهُ كُلَّهُ ثَلاَثًا ثَلاَثًا - قَالَ - ثُمَّ مَسَحَ رَأْسَهُ ثُمَّ غَسَلَ رِجْلَيْهِ إِلَى الْكَعْبَيْنِ ثُمَّ قَالَ إِنَّمَا أَحْبَبْتُ أَنْ أُرِيَكُمْ طُهُورَ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Abu Hayyah said:",
+        "text": "I saw ‘Ali perform ablution. He (Abu Hayyah) then described that ‘Ali went through every part of the ablution three times, i.e. he performed each detail of his ablution three times. He then wiped his head, then washed his feet up to the ankles. He then said: I wanted to show you how the Messenger of Allah (ﷺ) performed ablution."
+      }
+    },
+    {
+      "id": 117,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ يَحْيَى الْحَرَّانِيُّ، حَدَّثَنَا مُحَمَّدٌ، - يَعْنِي ابْنَ سَلَمَةَ - عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ طَلْحَةَ بْنِ يَزِيدَ بْنِ رُكَانَةَ، عَنْ عُبَيْدِ اللَّهِ الْخَوْلاَنِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ دَخَلَ عَلَىَّ عَلِيٌّ - يَعْنِي ابْنَ أَبِي طَالِبٍ - وَقَدْ أَهْرَاقَ الْمَاءَ فَدَعَا بِوَضُوءٍ فَأَتَيْنَاهُ بِتَوْرٍ فِيهِ مَاءٌ حَتَّى وَضَعْنَاهُ بَيْنَ يَدَيْهِ فَقَالَ يَا ابْنَ عَبَّاسٍ أَلاَ أُرِيكَ كَيْفَ كَانَ يَتَوَضَّأُ رَسُولُ اللَّهِ صلى الله عليه وسلم قُلْتُ بَلَى ‏.‏ قَالَ فَأَصْغَى الإِنَاءَ عَلَى يَدِهِ فَغَسَلَهَا ثُمَّ أَدْخَلَ يَدَهُ الْيُمْنَى فَأَفْرَغَ بِهَا عَلَى الأُخْرَى ثُمَّ غَسَلَ كَفَّيْهِ ثُمَّ تَمَضْمَضَ وَاسْتَنْثَرَ ثُمَّ أَدْخَلَ يَدَيْهِ فِي الإِنَاءِ جَمِيعًا فَأَخَذَ بِهِمَا حَفْنَةً مِنْ مَاءٍ فَضَرَبَ بِهَا عَلَى وَجْهِهِ ثُمَّ أَلْقَمَ إِبْهَامَيْهِ مَا أَقْبَلَ مِنْ أُذُنَيْهِ ثُمَّ الثَّانِيَةَ ثُمَّ الثَّالِثَةَ مِثْلَ ذَلِكَ ثُمَّ أَخَذَ بِكَفِّهِ الْيُمْنَى قَبْضَةً مِنْ مَاءٍ فَصَبَّهَا عَلَى نَاصِيَتِهِ فَتَرَكَهَا تَسْتَنُّ عَلَى وَجْهِهِ ثُمَّ غَسَلَ ذِرَاعَيْهِ إِلَى الْمِرْفَقَيْنِ ثَلاَثًا ثَلاَثًا ثُمَّ مَسَحَ رَأْسَهُ وَظُهُورَ أُذُنَيْهِ ثُمَّ أَدْخَلَ يَدَيْهِ جَمِيعًا فَأَخَذَ حَفْنَةً مِنْ مَاءٍ فَضَرَبَ بِهَا عَلَى رِجْلِهِ وَفِيهَا النَّعْلُ فَفَتَلَهَا بِهَا ثُمَّ الأُخْرَى مِثْلَ ذَلِكَ ‏.‏ قَالَ قُلْتُ وَفِي النَّعْلَيْنِ قَالَ وَفِي النَّعْلَيْنِ ‏.‏ قَالَ قُلْتُ وَفِي النَّعْلَيْنِ قَالَ وَفِي النَّعْلَيْنِ ‏.‏ قَالَ قُلْتُ وَفِي النَّعْلَيْنِ قَالَ وَفِي النَّعْلَيْنِ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ ابْنِ جُرَيْجٍ عَنْ شَيْبَةَ يُشْبِهُ حَدِيثَ عَلِيٍّ لأَنَّهُ قَالَ فِيهِ حَجَّاجُ بْنُ مُحَمَّدٍ عَنِ ابْنِ جُرَيْجٍ وَمَسَحَ بِرَأْسِهِ مَرَّةً وَاحِدَةً ‏.‏ وَقَالَ ابْنُ وَهْبٍ فِيهِ عَنِ ابْنِ جُرَيْجٍ وَمَسَحَ بِرَأْسِهِ ثَلاَثًا ‏.‏",
+      "english": {
+        "narrator": "Ibn’Abbas said:",
+        "text": "‘Ali b. Abi Talib entered upon me after he has passed water. He then called for water for ablution. We brought to him a vessel containing water, and placed it before him. He said: O Ibn’Abbas, may I not show you how the Messenger of Allah(ﷺ) used to perform ablution? I replied : Why not? He then inclined the vessel to his hand and washed it. He then put his right hand in the vessel and poured water over the other hand and washed his hands up to the wrist. He then rinsed his mouth and snuffed up water. He then put both of his hands together in the water and took out a handful of water and threw it upon the face. He then inserted both of his thumbs in the front part of the ears. He did like that twice and thrice. He then took a handful of water and poured it over his forehead and left it running down his face. He then washed his forearms up to the elbow three times. He then wiped his head and the back of his ears. He then put both of his hands together in the water and took a handful of it and threw it on his foot. He had a shoe foot like that. Do you wash your foot while it is in the shoe? He replied : Yes, while it is in the shoe. This question and answer were repeated thrice. \n\n\nAbu Dawud said: The version transmitted by Ibn Juraij from Shaibah is similar to the one narrated by ‘ Ali. In this version Hajjaj reported on the authority of Ibn Juraij the wording: He wiped his head once. Ibn Wahb narrated from Ibn Juraij the wording: he wiped his head three times."
+      }
+    },
+    {
+      "id": 118,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَمْرِو بْنِ يَحْيَى الْمَازِنِيِّ، عَنْ أَبِيهِ، أَنَّهُ قَالَ لِعَبْدِ اللَّهِ بْنِ زَيْدِ بْنِ عَاصِمٍ - وَهُوَ جَدُّ عَمْرِو بْنِ يَحْيَى الْمَازِنِيِّ هَلْ تَسْتَطِيعُ أَنْ تُرِيَنِي، كَيْفَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَوَضَّأُ فَقَالَ عَبْدُ اللَّهِ بْنُ زَيْدٍ نَعَمْ ‏.‏ فَدَعَا بِوَضُوءٍ فَأَفْرَغَ عَلَى يَدَيْهِ فَغَسَلَ يَدَيْهِ ثُمَّ تَمَضْمَضَ وَاسْتَنْثَرَ ثَلاَثًا ثُمَّ غَسَلَ وَجْهَهُ ثَلاَثًا ثُمَّ غَسَلَ يَدَيْهِ مَرَّتَيْنِ مَرَّتَيْنِ إِلَى الْمِرْفَقَيْنِ ثُمَّ مَسَحَ رَأْسَهُ بِيَدَيْهِ فَأَقْبَلَ بِهِمَا وَأَدْبَرَ بَدَأَ بِمُقَدَّمِ رَأْسِهِ ثُمَّ ذَهَبَ بِهِمَا إِلَى قَفَاهُ ثُمَّ رَدَّهُمَا حَتَّى رَجَعَ إِلَى الْمَكَانِ الَّذِي بَدَأَ مِنْهُ ثُمَّ غَسَلَ رِجْلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "‘Amr b. Yahya al-Mazini reports on the authority of his father who asked ‘Abd Allah b. Zaid, the grandfather of ‘Amr b. Yahya al-Mazini:",
+        "text": "Can you show me how the Messenger of Allah (ﷺ) performed ablution? ‘Abd Allah b. Zaid replied: Yes. He called for ablution water, poured it over his hands, and washed them; then he rinsed his mouth and snuffed up water in the nose three times; then he washed his face three times and washed his forearms up to elbow twice; then he wiped his head with both hands, moving them front and back of the head, beginning from his forehead, and moved them to the nape; then he pulled them back to the place from where he had started (wiping); then he washed his feet."
+      }
+    },
+    {
+      "id": 119,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا خَالِدٌ، عَنْ عَمْرِو بْنِ يَحْيَى الْمَازِنِيِّ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ زَيْدِ بْنِ عَاصِمٍ، بِهَذَا الْحَدِيثِ قَالَ فَمَضْمَضَ وَاسْتَنْشَقَ مِنْ كَفٍّ وَاحِدَةٍ يَفْعَلُ ذَلِكَ ثَلاَثًا ‏.‏ ثُمَّ ذَكَرَ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "‘Abd Allah b. Zaid b. ‘Asim reported this tradition saying:",
+        "text": "He rinsed his mouth and snuffed up water from one hand, doing that three times."
+      }
+    },
+    {
+      "id": 120,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، أَنَّ حَبَّانَ بْنَ وَاسِعٍ، حَدَّثَهُ أَنَّ أَبَاهُ حَدَّثَهُ أَنَّهُ، سَمِعَ عَبْدَ اللَّهِ بْنَ زَيْدِ بْنِ عَاصِمٍ الْمَازِنِيَّ، يَذْكُرُ أَنَّهُ رَأَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَذَكَرَ وُضُوءَهُ وَقَالَ وَمَسَحَ رَأْسَهُ بِمَاءٍ غَيْرِ فَضْلِ يَدَيْهِ وَغَسَلَ رِجْلَيْهِ حَتَّى أَنْقَاهُمَا ‏.‏",
+      "english": {
+        "narrator": "Habban b. Wasi’ reported on the authority of his father who heard ‘Abd Allah b. Zaid al-Asim al-Mazini say that he saw the Messenger of Allah (ﷺ) performing ablution. He then described his ablution saying:",
+        "text": "He wiped his head with water which was not what was left over after washing his hands (i.e. he wiped his head with clean water); then he washed his feet until he cleansed them."
+      }
+    },
+    {
+      "id": 121,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، حَدَّثَنَا أَبُو الْمُغِيرَةِ، حَدَّثَنَا حَرِيزٌ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ مَيْسَرَةَ الْحَضْرَمِيُّ، سَمِعْتُ الْمِقْدَامَ بْنَ مَعْدِيكَرِبَ الْكِنْدِيَّ، قَالَ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِوَضُوءٍ فَتَوَضَّأَ فَغَسَلَ كَفَّيْهِ ثَلاَثًا ثُمَّ تَمَضْمَضَ وَاسْتَنْشَقَ ثَلاَثًا وَغَسَلَ وَجْهَهُ ثَلاَثًا ثُمَّ غَسَلَ ذِرَاعَيْهِ ثَلاَثًا ثَلاَثًا ثُمَّ مَسَحَ بِرَأْسِهِ وَأُذُنَيْهِ ظَاهِرِهِمَا وَبَاطِنِهِمَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Miqdam ibn Ma'dikarib al-Kindi:",
+        "text": "The ablution water was brought to the Messenger (ﷺ) and he performed ablution; he washed his hands up to wrists three times, then washed his forearms three times.  He then rinsed his mouth and snuffed up water three times; then he wiped his head and ears inside and outside."
+      }
+    },
+    {
+      "id": 122,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، وَيَعْقُوبُ بْنُ كَعْبٍ الأَنْطَاكِيُّ، - لَفْظُهُ - قَالاَ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنْ حَرِيزِ بْنِ عُثْمَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ مَيْسَرَةَ، عَنِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم تَوَضَّأَ فَلَمَّا بَلَغَ مَسْحَ رَأْسِهِ وَضَعَ كَفَّيْهِ عَلَى مُقَدَّمِ رَأْسِهِ فَأَمَرَّهُمَا حَتَّى بَلَغَ الْقَفَا ثُمَّ رَدَّهُمَا إِلَى الْمَكَانِ الَّذِي بَدَأَ مِنْهُ ‏.‏ قَالَ مَحْمُودٌ قَالَ أَخْبَرَنِي حَرِيزٌ ‏.‏",
+      "english": {
+        "narrator": "Al-Miqdam b. Ma’dikarib reported :",
+        "text": "I saw the Messenger of Allah (ﷺ) perform ablution. When he reached the stage of wiping his head, he placed his palms on the front of the head. Then he moved them until he reached the nape. He then returned them to the place from where he had started."
+      }
+    },
+    {
+      "id": 123,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، وَهِشَامُ بْنُ خَالِدٍ، - الْمَعْنَى - قَالاَ حَدَّثَنَا الْوَلِيدُ، بِهَذَا الإِسْنَادِ قَالَ وَمَسَحَ بِأُذُنَيْهِ ظَاهِرِهِمَا وَبَاطِنِهِمَا ‏.‏ زَادَ هِشَامٌ وَأَدْخَلَ أَصَابِعَهُ فِي صِمَاخِ أُذُنَيْهِ ‏.‏",
+      "english": {
+        "narrator": "Another version says:",
+        "text": "He wiped his ears inside and outside. Hisham adds: He inserted his fingers in the ear-holes."
+      }
+    },
+    {
+      "id": 124,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُؤَمَّلُ بْنُ الْفَضْلِ الْحَرَّانِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو الأَزْهَرِ الْمُغِيرَةُ بْنُ فَرْوَةَ، وَيَزِيدُ بْنُ أَبِي مَالِكٍ، أَنَّ مُعَاوِيَةَ، تَوَضَّأَ لِلنَّاسِ كَمَا رَأَى رَسُولَ اللَّهِ صلى الله عليه وسلم يَتَوَضَّأُ فَلَمَّا بَلَغَ رَأْسَهُ غَرَفَ غَرْفَةً مِنْ مَاءٍ فَتَلَقَّاهَا بِشِمَالِهِ حَتَّى وَضَعَهَا عَلَى وَسَطِ رَأْسِهِ حَتَّى قَطَرَ الْمَاءُ أَوْ كَادَ يَقْطُرُ ثُمَّ مَسَحَ مِنْ مُقَدَّمِهِ إِلَى مُؤَخَّرِهِ وَمِنْ مُؤَخَّرِهِ إِلَى مُقَدَّمِهِ ‏.‏",
+      "english": {
+        "narrator": "AbulAzhar al-Mughirah ibn Farwah and Yazid ibn AbuMalik reported:",
+        "text": "Mu'awiyah performed ablution before the people, as he saw the Messenger of Allah (ﷺ) performed ablution. When he reached the stage of wiping his head, he took a handful of water and poured it with his left hand over the middle of his head so much so that drops of water came down or almost came down.  Then he wiped (his head) from its front to its back and from its back to its front."
+      }
+    },
+    {
+      "id": 125,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، حَدَّثَنَا الْوَلِيدُ، بِهَذَا الإِسْنَادِ قَالَ فَتَوَضَّأَ ثَلاَثًا ثَلاَثًا وَغَسَلَ رِجْلَيْهِ بِغَيْرِ عَدَدٍ ‏.‏",
+      "english": {
+        "narrator": "Another version says:",
+        "text": "He performed each part of the ablution three times and washed his feet times without number."
+      }
+    },
+    {
+      "id": 126,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَقِيلٍ، عَنِ الرُّبَيِّعِ بِنْتِ مُعَوِّذِ ابْنِ عَفْرَاءَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْتِينَا فَحَدَّثَتْنَا أَنَّهُ قَالَ ‏\n\"‏ اسْكُبِي لِي وَضُوءًا ‏\"‏ ‏.‏ فَذَكَرَتْ وُضُوءَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَتْ فِيهِ فَغَسَلَ كَفَّيْهِ ثَلاَثًا وَوَضَّأَ وَجْهَهُ ثَلاَثًا وَمَضْمَضَ وَاسْتَنْشَقَ مَرَّةً وَوَضَّأَ يَدَيْهِ ثَلاَثًا ثَلاَثًا وَمَسَحَ بِرَأْسِهِ مَرَّتَيْنِ يَبْدَأُ بِمُؤَخَّرِ رَأْسِهِ ثُمَّ بِمُقَدَّمِهِ وَبِأُذُنَيْهِ كِلْتَيْهِمَا ظُهُورِهِمَا وَبُطُونِهِمَا وَوَضَّأَ رِجْلَيْهِ ثَلاَثًا ثَلاَثًا ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا مَعْنَى حَدِيثِ مُسَدَّدٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ar-Rubayyi' daughter of Mu'awwidh ibn Afra':",
+        "text": "The Messenger of Allah (ﷺ) used to come to us. He once said: Pour ablution water on me. She then described how the Prophet (ﷺ) performed ablution saying: He washed his hands up to wrist three times and washed his face three times, and rinsed his mouth and snuffed up water once.  Then he washed his forearms three times and wiped his head twice beginning from the back of his head, then wiped its front. He wiped his ears outside and inside. Then he washed his feet three times.\n\n\nAbu Dawud said: The tradition narrated by Musaddad carries the same meaning."
+      }
+    },
+    {
+      "id": 127,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ عَقِيلٍ، بِهَذَا الْحَدِيثِ يُغَيِّرُ بَعْضَ مَعَانِي بِشْرٍ قَالَ فِيهِ وَتَمَضْمَضَ وَاسْتَنْثَرَ ثَلاَثًا ‏.‏",
+      "english": {
+        "narrator": "Ibn ‘Uqail reported this tradition with a slight change of wording. In his tradition he said:",
+        "text": "He rinsed his mouth three times and snuffed up water three times."
+      }
+    },
+    {
+      "id": 128,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَيَزِيدُ بْنُ خَالِدٍ الْهَمْدَانِيُّ، قَالاَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنِ الرُّبَيِّعِ بِنْتِ مُعَوِّذِ ابْنِ عَفْرَاءَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم تَوَضَّأَ عِنْدَهَا فَمَسَحَ الرَّأْسَ كُلَّهُ مِنْ قَرْنِ الشَّعْرِ كُلَّ نَاحِيَةٍ لِمُنْصَبِّ الشَّعْرِ لاَ يُحَرِّكُ الشَّعْرَ عَنْ هَيْئَتِهِ ‏.‏",
+      "english": {
+        "narrator": "Al-Rubayyi’ daughter of Mu’awwidh b. ‘Afra’ reported:",
+        "text": "The Messenger of Allah (ﷺ) performed ablution in her presence. He wiped the whole of his head from its upper to the lower part moving every side. He did not move the hair from their original position."
+      }
+    },
+    {
+      "id": 129,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا بَكْرٌ، - يَعْنِي ابْنَ مُضَرَ - عَنِ ابْنِ عَجْلاَنَ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، أَنَّ رُبَيِّعَ بِنْتَ مُعَوِّذِ ابْنِ عَفْرَاءَ، أَخْبَرَتْهُ قَالَتْ، رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَتَوَضَّأُ - قَالَتْ - فَمَسَحَ رَأْسَهُ وَمَسَحَ مَا أَقْبَلَ مِنْهُ وَمَا أَدْبَرَ وَصُدْغَيْهِ وَأُذُنَيْهِ مَرَّةً وَاحِدَةً ‏.‏",
+      "english": {
+        "narrator": "Al-Rubayyi’ daughter of Mu’awwidh b. ‘Afra’ said:",
+        "text": "I saw the Messenger of Allah (ﷺ) performing ablution. He wiped his head front and back, his temples and his ears once."
+      }
+    },
+    {
+      "id": 130,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنْ سُفْيَانَ بْنِ سَعِيدٍ، عَنِ ابْنِ عَقِيلٍ، عَنِ الرُّبَيِّعِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم مَسَحَ بِرَأْسِهِ مِنْ فَضْلِ مَاءٍ كَانَ فِي يَدِهِ ‏.‏",
+      "english": {
+        "narrator": "Al-Rubayyi’ reported:",
+        "text": "The Prophet (ﷺ) wiped his head with water which was left over in his hand."
+      }
+    },
+    {
+      "id": 131,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعِيدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْحَسَنُ بْنُ صَالِحٍ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنِ الرُّبَيِّعِ بِنْتِ مُعَوِّذِ ابْنِ عَفْرَاءَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم تَوَضَّأَ فَأَدْخَلَ إِصْبَعَيْهِ فِي جُحْرَىْ أُذُنَيْهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ar-Rubayyi' daughter of Mu'awwidh ibn Afra':",
+        "text": "The Prophet (ﷺ) performed ablution. He inserted his two fingers in the ear-holes."
+      }
+    },
+    {
+      "id": 132,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، وَمُسَدَّدٌ، قَالاَ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ لَيْثٍ، عَنْ طَلْحَةَ بْنِ مُصَرِّفٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَمْسَحُ رَأْسَهُ مَرَّةً وَاحِدَةً حَتَّى بَلَغَ الْقَذَالَ - وَهُوَ أَوَّلُ الْقَفَا - وَقَالَ مُسَدَّدٌ وَمَسَحَ رَأْسَهُ مِنْ مُقَدَّمِهِ إِلَى مُؤَخَّرِهِ حَتَّى أَخْرَجَ يَدَيْهِ مِنْ تَحْتِ أُذُنَيْهِ ‏.‏ قَالَ مُسَدَّدٌ فَحَدَّثْتُ بِهِ يَحْيَى فَأَنْكَرَهُ ‏.‏ قَالَ أَبُو دَاوُدَ وَسَمِعْتُ أَحْمَدَ يَقُولُ ابْنُ عُيَيْنَةَ زَعَمُوا كَانَ يُنْكِرُهُ وَيَقُولُ أَيْشِ هَذَا طَلْحَةُ عَنْ أَبِيهِ عَنْ جَدِّهِ",
+      "english": {
+        "narrator": "Narrated Talhah ibn Musarrif:",
+        "text": "I saw the Messenger of Allah (ﷺ) wiping his head once up to his nape.\n\n\n\n\nMusaddad reported: He wiped his head from front to back until he moved his hands from beneath the ears.\n\n\nAbu Dawud said: I heard Ahmad say: People thought that Ibn 'Uyainah had considered it to be munkar (rejected) and said: What is this chain: Talhah - his father - his grandfather ?"
+      }
+    },
+    {
+      "id": 133,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا عَبَّادُ بْنُ مَنْصُورٍ، عَنْ عِكْرِمَةَ بْنِ خَالِدٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، رَأَى رَسُولَ اللَّهِ صلى الله عليه وسلم يَتَوَضَّأُ ‏.‏ فَذَكَرَ الْحَدِيثَ كُلَّهُ ثَلاَثًا ثَلاَثًا قَالَ وَمَسَحَ بِرَأْسِهِ وَأُذُنَيْهِ مَسْحَةً وَاحِدَةً ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "Sa'id ibn Jubayr reported: Ibn Abbas saw the Messenger of Allah (ﷺ) performed ablution. He narrated the tradition which says that he (the Prophet) performed each detail of ablution three times. He wiped his head and ears once."
+      }
+    },
+    {
+      "id": 134,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ، ح وَحَدَّثَنَا مُسَدَّدٌ، وَقُتَيْبَةُ، عَنْ حَمَّادِ بْنِ زَيْدٍ، عَنْ سِنَانِ بْنِ رَبِيعَةَ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أَبِي أُمَامَةَ، وَذَكَرَ، وُضُوءَ النَّبِيِّ، صلى الله عليه وسلم قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَمْسَحُ الْمَأْقَيْنِ ‏.‏ قَالَ وَقَالَ ‏\n\"‏ الأُذُنَانِ مِنَ الرَّأْسِ ‏\"‏ ‏.‏ قَالَ سُلَيْمَانُ بْنُ حَرْبٍ يَقُولُهَا أَبُو أُمَامَةَ ‏.‏ قَالَ قُتَيْبَةُ قَالَ حَمَّادٌ لاَ أَدْرِي هُوَ مِنْ قَوْلِ النَّبِيِّ صلى الله عليه وسلم أَوْ مِنْ أَبِي أُمَامَةَ ‏.‏ يَعْنِي قِصَّةَ الأُذُنَيْنِ ‏.‏ قَالَ قُتَيْبَةُ عَنْ سِنَانٍ أَبِي رَبِيعَةَ ‏.‏ قَالَ أَبُو دَاوُدَ وَهُوَ ابْنُ رَبِيعَةَ كُنْيَتُهُ أَبُو رَبِيعَةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuUmamah:",
+        "text": "AbuUmamah mentioned how the Messenger of Allah (ﷺ) performed ablution, saying that he used to wipe the corners of his eyes, and he said that the ears are treated as part of the head.\n\n\n\nSulaiman b. Harb said: the wording \"the ears are treated as part of the head\" were uttered by Abu Umamah.\n\n\nHammad said: I do not know whether the phrase \"the ears are treated as part of the head\" was he statement of the Prophet (ﷺ) or of Abu Umamah."
+      }
+    },
+    {
+      "id": 135,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ مُوسَى بْنِ أَبِي عَائِشَةَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَجُلاً، أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ كَيْفَ الطُّهُورُ فَدَعَا بِمَاءٍ فِي إِنَاءٍ فَغَسَلَ كَفَّيْهِ ثَلاَثًا ثُمَّ غَسَلَ وَجْهَهُ ثَلاَثًا ثُمَّ غَسَلَ ذِرَاعَيْهِ ثَلاَثًا ثُمَّ مَسَحَ بِرَأْسِهِ فَأَدْخَلَ إِصْبَعَيْهِ السَّبَّاحَتَيْنِ فِي أُذُنَيْهِ وَمَسَحَ بِإِبْهَامَيْهِ عَلَى ظَاهِرِ أُذُنَيْهِ وَبِالسَّبَّاحَتَيْنِ بَاطِنَ أُذُنَيْهِ ثُمَّ غَسَلَ رِجْلَيْهِ ثَلاَثًا ثَلاَثًا ثُمَّ قَالَ ‏\"‏ هَكَذَا الْوُضُوءُ فَمَنْ زَادَ عَلَى هَذَا أَوْ نَقَصَ فَقَدْ أَسَاءَ وَظَلَمَ ‏\"‏ ‏.‏ أَوْ ‏\"‏ ظَلَمَ وَأَسَاءَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "A man came to the Prophet (ﷺ) and asked him: Messenger of Allah, how is the ablution (to performed)? \n\n\n\n\n\nHe (the Prophet) then called for water in a vessel and washed his hands up to the wrists three times, then washed his face three times, and washed his forearms three times. He then wiped his head and inserted both his index fingers in his ear-holes; he wiped the back of his ears with his thumbs and the front of his ears with the index fingers. He then washed his feet three times. \n\n\n\n\n\nThen he said: This is how ablution should be performed. If anyone does more or less than this, he has done wrong and transgressed, or (said) transgressed and done wrong."
+      }
+    },
+    {
+      "id": 136,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا زَيْدٌ، - يَعْنِي ابْنَ الْحُبَابِ - حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ ثَوْبَانَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْفَضْلِ الْهَاشِمِيُّ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم تَوَضَّأَ مَرَّتَيْنِ مَرَّتَيْنِ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (my peace be upon him) washed the limbs in ablution twice."
+      }
+    },
+    {
+      "id": 137,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا هِشَامُ بْنُ سَعْدٍ، حَدَّثَنَا زَيْدٌ، عَنْ عَطَاءِ بْنِ يَسَارٍ، قَالَ قَالَ لَنَا ابْنُ عَبَّاسٍ أَتُحِبُّونَ أَنْ أُرِيَكُمْ، كَيْفَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَوَضَّأُ فَدَعَا بِإِنَاءٍ فِيهِ مَاءٌ فَاغْتَرَفَ غُرْفَةً بِيَدِهِ الْيُمْنَى فَتَمَضْمَضَ وَاسْتَنْشَقَ ثُمَّ أَخَذَ أُخْرَى فَجَمَعَ بِهَا يَدَيْهِ ثُمَّ غَسَلَ وَجْهَهُ ثُمَّ أَخَذَ أُخْرَى فَغَسَلَ بِهَا يَدَهُ الْيُمْنَى ثُمَّ أَخَذَ أُخْرَى فَغَسَلَ بِهَا يَدَهُ الْيُسْرَى ثُمَّ قَبَضَ قَبْضَةً مِنَ الْمَاءِ ثُمَّ نَفَضَ يَدَهُ ثُمَّ مَسَحَ بِهَا رَأْسَهُ وَأُذُنَيْهِ ثُمَّ قَبَضَ قَبْضَةً أُخْرَى مِنَ الْمَاءِ فَرَشَّ عَلَى رِجْلِهِ الْيُمْنَى وَفِيهَا النَّعْلُ ثُمَّ مَسَحَهَا بِيَدَيْهِ يَدٍ فَوْقَ الْقَدَمِ وَيَدٍ تَحْتَ النَّعْلِ ثُمَّ صَنَعَ بِالْيُسْرَى مِثْلَ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "‘Ata’ b. Yasar quoting Ibn ‘Abbas said:",
+        "text": "Do you like that I should show you how the Messenger of Allah (ﷺ) performed ablution? He then called for a vessel of water and took out a handful of water with his right hand. He then rinsed his mouth and snuffed up water. He then took out another handful of water and washed his face by both his hands together. He then took out another handful of water and washed his right hand and then washed his left hand by taking out another. He then took out some water and shook off his hand and wiped his head and ears with it. He then took out a handful of water and sprinkled it over his right foot in his shoe and wiped the upper part of the foot with his one hand, and beneath the shoe with his other hand. He then did the same with his left foot."
+      }
+    },
+    {
+      "id": 138,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، حَدَّثَنِي زَيْدُ بْنُ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أَلاَ أُخْبِرُكُمْ بِوُضُوءِ، رَسُولِ اللَّهِ صلى الله عليه وسلم فَتَوَضَّأَ مَرَّةً مَرَّةً ‏.‏",
+      "english": {
+        "narrator": "‘Ata’ b. Yasar quoting Ibn. ‘Abbas said:",
+        "text": "May I not tell you how the Messenger of Allah (ﷺ) performed ablution? He then performed ablution washing each limb once only."
+      }
+    },
+    {
+      "id": 139,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ لَيْثًا، يَذْكُرُ عَنْ طَلْحَةَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ دَخَلْتُ - يَعْنِي - عَلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ يَتَوَضَّأُ وَالْمَاءُ يَسِيلُ مِنْ وَجْهِهِ وَلِحْيَتِهِ عَلَى صَدْرِهِ فَرَأَيْتُهُ يَفْصِلُ بَيْنَ الْمَضْمَضَةِ وَالاِسْتِنْشَاقِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Grandfather of Talhah:",
+        "text": "I entered upon the Prophet (ﷺ) while he was performing ablution, and the water was running down his face and beard to his chest. I saw him rinsing his mouth and snuffing up water separately."
+      }
+    },
+    {
+      "id": 140,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا تَوَضَّأَ أَحَدُكُمْ فَلْيَجْعَلْ فِي أَنْفِهِ مَاءً ثُمَّ لْيَنْثُرْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported:",
+        "text": "The Messenger of Allah (ﷺ) said: When any of you performs ablution, he should snuff up water in his nose and eject mucus."
+      }
+    },
+    {
+      "id": 141,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ قَارِظٍ، عَنْ أَبِي غَطَفَانَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اسْتَنْثِرُوا مَرَّتَيْنِ بَالِغَتَيْنِ أَوْ ثَلاَثًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Messenger of Allah (ﷺ) said: Cleanse your nose well (after snuffing up water) twice or thrice."
+      }
+    },
+    {
+      "id": 142,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، - فِي آخَرِينَ - قَالُوا حَدَّثَنَا يَحْيَى بْنُ سُلَيْمٍ، عَنْ إِسْمَاعِيلَ بْنِ كَثِيرٍ، عَنْ عَاصِمِ بْنِ لَقِيطِ بْنِ صَبْرَةَ، عَنْ أَبِيهِ، لَقِيطِ بْنِ صَبْرَةَ قَالَ كُنْتُ وَافِدَ بَنِي الْمُنْتَفِقِ - أَوْ فِي وَفْدِ بَنِي الْمُنْتَفِقِ - إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ فَلَمَّا قَدِمْنَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَلَمْ نُصَادِفْهُ فِي مَنْزِلِهِ وَصَادَفْنَا عَائِشَةَ أُمَّ الْمُؤْمِنِينَ قَالَ فَأَمَرَتْ لَنَا بِخَزِيرَةٍ فَصُنِعَتْ لَنَا قَالَ وَأُتِينَا بِقِنَاعٍ - وَلَمْ يَقُلْ قُتَيْبَةُ الْقِنَاعَ وَالْقِنَاعُ الطَّبَقُ فِيهِ تَمْرٌ - ثُمَّ جَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ هَلْ أَصَبْتُمْ شَيْئًا أَوْ أُمِرَ لَكُمْ بِشَىْءٍ ‏\"‏ ‏.‏ قَالَ قُلْنَا نَعَمْ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ فَبَيْنَا نَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم جُلُوسٌ إِذْ دَفَعَ الرَّاعِي غَنَمَهُ إِلَى الْمُرَاحِ وَمَعَهُ سَخْلَةٌ تَيْعَرُ فَقَالَ ‏\"‏ مَا وَلَّدْتَ يَا فُلاَنُ ‏\"‏ ‏.‏ قَالَ بَهْمَةً ‏.‏ قَالَ فَاذْبَحْ لَنَا مَكَانَهَا شَاةً ‏.‏ ثُمَّ قَالَ لاَ تَحْسِبَنَّ - وَلَمْ يَقُلْ لاَ تَحْسَبَنَّ - أَنَّا مِنْ أَجْلِكَ ذَبَحْنَاهَا لَنَا غَنَمٌ مِائَةٌ لاَ نُرِيدُ أَنْ تَزِيدَ فَإِذَا وَلَّدَ الرَّاعِي بَهْمَةً ذَبَحْنَا مَكَانَهَا شَاةً ‏.‏ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّ لِي امْرَأَةً وَإِنَّ فِي لِسَانِهَا شَيْئًا يَعْنِي الْبَذَاءَ ‏.‏ قَالَ ‏\"‏ فَطَلِّقْهَا إِذًا ‏\"‏ ‏.‏ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّ لَهَا صُحْبَةً وَلِي مِنْهَا وَلَدٌ ‏.‏ قَالَ ‏\"‏ فَمُرْهَا - يَقُولُ عِظْهَا - فَإِنْ يَكُ فِيهَا خَيْرٌ فَسَتَفْعَلُ وَلاَ تَضْرِبْ ظَعِينَتَكَ كَضَرْبِكَ أُمَيَّتَكَ ‏\"‏ ‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ أَخْبِرْنِي عَنِ الْوُضُوءِ ‏.‏ قَالَ ‏\"‏ أَسْبِغِ الْوُضُوءَ وَخَلِّلْ بَيْنَ الأَصَابِعِ وَبَالِغْ فِي الاِسْتِنْشَاقِ إِلاَّ أَنْ تَكُونَ صَائِمًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Laqit ibn Sabirah:",
+        "text": "I was the leader of the delegation of Banu al-Muntafiq or (the narrator doubted) I was among the delegation of Banu al-Muntafiq that came to the Messenger of Allah (ﷺ). When we reached the Prophet, we did not find him in his house. We found there Aisha, the Mother of the Believers. She ordered that a dish called Khazirah should be prepared for us. It was then prepared. A tray containing dates was then presented to us. (The narrator Qutaybah did not mention the word qina', tray). \n\n\n\n\n\nThen the Messenger of Allah (ﷺ) came. He asked: Has anything been served to you or ordered for you?  We replied: Yes, Messenger of Allah. While we were sitting in the company of the Messenger of Allah (ﷺ) we suddenly saw that a shepherd was driving a herd of sheep to their fold. He had with him a newly-born lamb that was crying. \n\n\n\n\n\nHe (the Prophet) asked him: What did it bear, O so and so? He replied: A ewe. He then said: Slaughter for us in its place a sheep. Do not think that we are slaughtering it for you. We have one hundred sheep and we do not want their number to increase. Whenever a ewe is born, we slaughter a sheep in its place. \n\n\n\n\n\n(The narrator says that the Prophet (ﷺ) used the word la tahsabanna, do not think). \n\n\n\n\n\nI (the narrator Laqit) then said: Messenger of Allah, I have a wife who has something (wrong) in her tongue, i.e. she is insolent. He said: Then divorce her. I said: Messenger of Allah, she had company with me and I have children from her. He said: Then ask her (to obey you). If there is something good in her, she will do so (obey); and do not beat your wife as you beat your slave-girl. \n\n\n\n\n\nI said: Messenger of Allah, tell me about ablution. He said: Perform ablution in full and make the fingers go through the beard and snuff with water well except when you are fasting."
+      }
+    },
+    {
+      "id": 143,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا ابْنُ جُرَيْجٍ، حَدَّثَنِي إِسْمَاعِيلُ بْنُ كَثِيرٍ، عَنْ عَاصِمِ بْنِ لَقِيطِ بْنِ صَبْرَةَ، عَنْ أَبِيهِ، وَافِدِ بَنِي الْمُنْتَفِقِ، أَنَّهُ أَتَى عَائِشَةَ فَذَكَرَ مَعْنَاهُ ‏.‏ قَالَ فَلَمْ يَنْشَبْ أَنْ جَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَقَلَّعُ يَتَكَفَّأُ ‏.‏ وَقَالَ عَصِيدَةٍ ‏.‏ مَكَانَ خَزِيرَةٍ ‏.‏",
+      "english": {
+        "narrator": "Laqit b. Sabirah reported that he was the leader of Banu’l-Muntafiq (name of a tribe). He came to ‘A’ishah. He then narrated the tradition in a similar manner. He said:",
+        "text": "The Prophet (ﷺ) then came shortly with rapid strides inclining forward. The narrator used the word ‘asidah (name of a dish) in this version instead of Khazirah."
+      }
+    },
+    {
+      "id": 144,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، حَدَّثَنَا أَبُو عَاصِمٍ، حَدَّثَنَا ابْنُ جُرَيْجٍ، بِهَذَا الْحَدِيثِ قَالَ فِيهِ ‏\n\"‏ إِذَا تَوَضَّأْتَ فَمَضْمِضْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "The version of Ibn Juraij has the working:",
+        "text": "“If you perform ablution, then rinse your mouth.”"
+      }
+    },
+    {
+      "id": 145,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو تَوْبَةَ، - يَعْنِي الرَّبِيعَ بْنَ نَافِعٍ - حَدَّثَنَا أَبُو الْمَلِيحِ، عَنِ الْوَلِيدِ بْنِ زَوْرَانَ، عَنْ أَنَسٍ يَعْنِي ابْنَ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا تَوَضَّأَ أَخَذَ كَفًّا مِنْ مَاءٍ فَأَدْخَلَهُ تَحْتَ حَنَكِهِ فَخَلَّلَ بِهِ لِحْيَتَهُ وَقَالَ ‏\n\"‏ هَكَذَا أَمَرَنِي رَبِّي عَزَّ وَجَلَّ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ ابْنُ زَوْرَانَ رَوَى عَنْهُ حَجَّاجُ بْنُ حَجَّاجٍ وَأَبُو الْمَلِيحِ الرَّقِّيُّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "Whenever the Messenger of Allah (ﷺ) performed ablution, he took a handful of water, and, putting it under his chin, made it go through his beard, saying: Thus did my Lord command me."
+      }
+    },
+    {
+      "id": 146,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ ثَوْرٍ، عَنْ رَاشِدِ بْنِ سَعْدٍ، عَنْ ثَوْبَانَ، قَالَ بَعَثَ رَسُولُ اللَّهِ صلى الله عليه وسلم سَرِيَّةً فَأَصَابَهُمُ الْبَرْدُ فَلَمَّا قَدِمُوا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَمَرَهُمْ أَنْ يَمْسَحُوا عَلَى الْعَصَائِبِ وَالتَّسَاخِينِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Thawban:",
+        "text": "The Messenger of Allah (ﷺ) sent out an expedition. They were affected by cold. When they returned to the Messenger of Allah (ﷺ), he commanded them to wipe over turbans and stockings."
+      }
+    },
+    {
+      "id": 147,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنِي مُعَاوِيَةُ بْنُ صَالِحٍ، عَنْ عَبْدِ الْعَزِيزِ بْنِ مُسْلِمٍ، عَنِ أَبِي مَعْقِلٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَتَوَضَّأُ وَعَلَيْهِ عِمَامَةٌ قِطْرِيَّةٌ فَأَدْخَلَ يَدَهُ مِنْ تَحْتِ الْعِمَامَةِ فَمَسَحَ مُقَدَّمَ رَأْسِهِ وَلَمْ يَنْقُضِ الْعِمَامَةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "I saw the Messenger (ﷺ) perform ablution. He had a Qutri turban. He inserted his hand beneath the turban and wiped over the forelock, and did not untie the turban."
+      }
+    },
+    {
+      "id": 148,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ يَزِيدَ بْنِ عَمْرٍو، عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْحُبُلِيِّ، عَنِ الْمُسْتَوْرِدِ بْنِ شَدَّادٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم إِذَا تَوَضَّأَ يَدْلُكُ أَصَابِعَ رِجْلَيْهِ بِخِنْصَرِهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Mustawrid ibn Shaddad:",
+        "text": "I saw the Messenger of Allah (ﷺ) rubbing his toes with his little finger when he performed ablution."
+      }
+    },
+    {
+      "id": 149,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ بْنُ يَزِيدَ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي عَبَّادُ بْنُ زِيَادٍ، أَنَّ عُرْوَةَ بْنَ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَخْبَرَهُ أَنَّهُ، سَمِعَ أَبَاهُ الْمُغِيرَةَ، يَقُولُ عَدَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَنَا مَعَهُ فِي غَزْوَةِ تَبُوكَ قَبْلَ الْفَجْرِ فَعَدَلْتُ مَعَهُ فَأَنَاخَ النَّبِيُّ صلى الله عليه وسلم فَتَبَرَّزَ ثُمَّ جَاءَ فَسَكَبْتُ عَلَى يَدِهِ مِنَ الإِدَاوَةِ فَغَسَلَ كَفَّيْهِ ثُمَّ غَسَلَ وَجْهَهُ ثُمَّ حَسَرَ عَنْ ذِرَاعَيْهِ فَضَاقَ كُمَّا جُبَّتِهِ فَأَدْخَلَ يَدَيْهِ فَأَخْرَجَهُمَا مِنْ تَحْتِ الْجُبَّةِ فَغَسَلَهُمَا إِلَى الْمِرْفَقِ وَمَسَحَ بِرَأْسِهِ ثُمَّ تَوَضَّأَ عَلَى خُفَّيْهِ ثُمَّ رَكِبَ فَأَقْبَلْنَا نَسِيرُ حَتَّى نَجِدَ النَّاسَ فِي الصَّلاَةِ قَدْ قَدَّمُوا عَبْدَ الرَّحْمَنِ بْنَ عَوْفٍ فَصَلَّى بِهِمْ حِينَ كَانَ وَقْتُ الصَّلاَةِ وَوَجَدْنَا عَبْدَ الرَّحْمَنِ وَقَدْ رَكَعَ بِهِمْ رَكْعَةً مِنْ صَلاَةِ الْفَجْرِ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَصَفَّ مَعَ الْمُسْلِمِينَ فَصَلَّى وَرَاءَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ الرَّكْعَةَ الثَّانِيَةَ ثُمَّ سَلَّمَ عَبْدُ الرَّحْمَنِ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي صَلاَتِهِ ‏.‏ فَفَزِعَ الْمُسْلِمُونَ فَأَكْثَرُوا التَّسْبِيحَ لأَنَّهُمْ سَبَقُوا النَّبِيَّ صلى الله عليه وسلم بِالصَّلاَةِ فَلَمَّا سَلَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ لَهُمْ ‏\"‏ قَدْ أَصَبْتُمْ ‏\"‏ ‏.‏ أَوْ ‏\"‏ قَدْ أَحْسَنْتُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Al-Mughirah b. Shu’bah reported:",
+        "text": "I was in the company of the Messenger of Allah (ﷺ) in the expedition of Tabuk. He abandoned the main road before the dawn prayer, and I also did the same along with him. The Prophet (ﷺ) made his camel kneel down and (went to ) relieve himself. He then came back and I poured water upon his hands from the skin-vessel. He then washed his hands and face. He tried to get his forearms out (of the gown), but the sleeves of the gown were too narrow, so he entered back both his hands, and brought them out from beneath the gown. He washed his forearms up to the elbows and wiped his head and wiped over his socks.80 He then mounted (his camel) and we began to proceed until we found people  offering the prayer. They brought forward ‘Abd al-Rahman b. ‘Awf who was leading them in prayer. The Prophet(ﷺ) stood in the row side by side with other Muslims. He performed the second rak’ah of the prayer behind ‘Abd al-Rahman b. ‘Awf. Then ‘Abd al-Rahman uttered salutation. The Prophet(ﷺ) stood to perform the remaining rak’ah of the prayer. The Muslims were alarmed. They began to utter tasbih (Subhan Allah) presuming that they had offered prayer before the Prophet (ﷺ) had done. When he uttered the salutation (i.e. finished his prayer), he said: You were right, or (he said) you did well."
+      }
+    },
+    {
+      "id": 150,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى يَعْنِي ابْنَ سَعِيدٍ، ح حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا الْمُعْتَمِرُ، عَنِ التَّيْمِيِّ، حَدَّثَنَا بَكْرٌ، عَنِ الْحَسَنِ، عَنِ ابْنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم تَوَضَّأَ وَمَسَحَ نَاصِيَتَهُ ‏.‏ وَذَكَرَ فَوْقَ الْعِمَامَةِ - قَالَ عَنِ الْمُعْتَمِرِ - سَمِعْتُ أَبِي يُحَدِّثُ عَنْ بَكْرِ بْنِ عَبْدِ اللَّهِ عَنِ الْحَسَنِ عَنِ ابْنِ الْمُغِيرَةِ بْنِ شُعْبَةَ عَنِ الْمُغِيرَةِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَمْسَحُ عَلَى الْخُفَّيْنِ وَعَلَى نَاصِيَتِهِ وَعَلَى عِمَامَتِهِ ‏.‏ قَالَ بَكْرٌ وَقَدْ سَمِعْتُهُ مِنَ ابْنِ الْمُغِيرَةِ ‏.‏",
+      "english": {
+        "narrator": "Al-Mughirah b. Shu’bah said:",
+        "text": "The Messenger of Allah (ﷺ) performed ablution and wiped his forelock and turban. Another version says : The Messenger of Allah (ﷺ) wiped his socks and his forelock and his turban.\n\n \nBakr said: I heard it from Ibn al-Mughirah."
+      }
+    }
+  ]
+}

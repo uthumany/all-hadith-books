@@ -1,0 +1,16 @@
+{
+  "id": 45,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ مُغِيرَةَ، عَنْ إِبْرَاهِيمَ، قَالَ قَالَ عَلْقَمَةُ قَرَأْتُ الْقُرْآنَ فِي سَنَتَيْنِ ‏.‏ فَقَالَ الْحَارِثُ الْقُرْآنُ هَيِّنٌ الْوَحْىُ أَشَدُّ ‏.‏",
+  "english": {
+    "narrator": "Qutaybah bin Sa’īd narrated to us, Jarīr narrated to us, on authority of Mughīrah, on authority of Ibrāhīm , he said, Alqamah said:",
+    "text": "‘I memorized the Qur’ān in two years’. Al-Hārith said: ‘The Qur’ān is easy; the revelation  is more difficult ’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

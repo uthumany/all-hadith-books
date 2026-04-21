@@ -1,0 +1,16 @@
+{
+  "id": 294,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما قال‏:‏ رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ كفى بالمرء إثمًا أن يضيع من يقوت‏\"‏ حديث صحيح ‏(‏‏(‏رواه أبو داود وغيره‏)‏‏)‏‏.‏ \nورواه مسلم في صحيحه بمعناه قال‏:‏ ‏\"‏ كفى بالمرء إثمًا أن يحبس عمن يملك قوته‏\"‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Neglecting one's own dependents is a reason enough for a man to commit a sin\".The narration in Muslim is: Messenger of Allah (ﷺ) said, \"It is enough sin for a person to hold back the due of one whose provision is in his hand\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

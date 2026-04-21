@@ -1,0 +1,16 @@
+{
+  "id": 298,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبِيدَةُ بْنُ حُمَيْدٍ، حَدَّثَنِي يَزِيدُ بْنُ أَبِي زِيَادٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كُنْتُ رَجُلًا مَذَّاءً فَسَأَلْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَوْ سُئِلَ عَنْ ذَلِكَ فَقَالَ فِي الْمَذْيِ الْوُضُوءُ وَفِي الْمَنِيِّ الْغُسْلُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "I was a man who emitted a great deal of madhi, so I asked the Prophet (ﷺ), or he was asked about that, and he said: “For madhi do wudoo` and for mani do ghusl`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

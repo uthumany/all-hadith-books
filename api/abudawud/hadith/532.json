@@ -1,0 +1,16 @@
+{
+  "id": 532,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ ضَمْضَمِ بْنِ جَوْسٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اقْتُلُوا الأَسْوَدَيْنِ فِي الصَّلاَةِ الْحَيَّةَ وَالْعَقْرَبَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "The Prophet (ﷺ) said: Kill the two black things during prayer, the snake and scorpion."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

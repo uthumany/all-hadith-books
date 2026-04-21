@@ -1,0 +1,16 @@
+{
+  "id": 809,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ يَعْلَى بْنِ أُمَيَّةَ قَالَ: سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ عَلَى الْمِنْبَرِ: (وَنَادَوْا يَا مَالك ليَقْضِ علينا رَبك)",
+  "english": {
+    "narrator": "Ya'la b. Umayya said he heard the Prophet reciting on the pulpit, “And they will cry:",
+    "text": "O Malik, let your Lord put an end to us” (Al-Qur’an; 43:77).\n\n(Bukhari and Muslim.)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "page": 59,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 60,
+  "prevPage": 58,
+  "items": [
+    {
+      "id": 16,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، - فِي آخَرِينَ - قَالُوا حَدَّثَنَا حَمَّادٌ، عَنْ بُدَيْلٍ، - يَعْنِي ابْنَ مَيْسَرَةَ - عَنْ عَلِيِّ بْنِ أَبِي طَلْحَةَ، عَنْ رَاشِدِ بْنِ سَعْدٍ، عَنْ أَبِي عَامِرٍ الْهَوْزَنِيِّ، عَنِ الْمِقْدَامِ الْكِنْدِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَنَا أَوْلَى بِكُلِّ مُؤْمِنٍ مِنْ نَفْسِهِ فَمَنْ تَرَكَ دَيْنًا أَوْ ضَيْعَةً فَإِلَىَّ وَمَنْ تَرَكَ مَالاً فَلِوَرَثَتِهِ وَأَنَا مَوْلَى مَنْ لاَ مَوْلَى لَهُ أَرِثُ مَالَهُ وَأَفُكُّ عَانَهُ وَالْخَالُ مَوْلَى مَنْ لاَ مَوْلَى لَهُ يَرِثُ مَالَهُ وَيَفُكُّ عَانَهُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ الزُّبَيْدِيُّ عَنْ رَاشِدِ بْنِ سَعْدٍ عَنِ ابْنِ عَائِذٍ عَنِ الْمِقْدَامِ وَرَوَاهُ مُعَاوِيَةُ بْنُ صَالِحٍ عَنْ رَاشِدٍ قَالَ سَمِعْتُ الْمِقْدَامَ ‏.‏ قَالَ أَبُو دَاوُدَ يَقُولُ الضَّيْعَةُ مَعْنَاهُ عِيَالٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Miqdam al-Kindi:",
+        "text": "The Prophet (ﷺ) said: I am nearer to every believer than himself, so if anyone leaves a debt or a helpless family, I shall be responsible, but if anyone leaves property, it goes to his heirs. I am patron of him who has none, inheriting his property and freeing him from his liabilities. A maternal uncle is patron of him who has none, inheriting his property and freeing him from his liabilities.\n\n\nAbu Dawud said: da'iah means dependants or helpless family.\n\n\nAbu Dawud said: This tradition has been transmitted by al-Zubaidi from Rashid b. Sa'd from Ibn 'A'idh on the authority of al-Miqdam. It has also been transmitted by Mu'awiyah b. Salih from Rashid who said: I heard al-Miqdam (say)."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ عَتِيقٍ الدِّمَشْقِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ يَزِيدَ بْنِ حُجْرٍ، عَنْ صَالِحِ بْنِ يَحْيَى بْنِ الْمِقْدَامِ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ أَنَا وَارِثُ مَنْ لاَ وَارِثَ لَهُ أَفُكُّ عَانِيَهُ وَأَرِثُ مَالَهُ وَالْخَالُ وَارِثُ مَنْ لاَ وَارِثَ لَهُ يَفُكُّ عَانِيَهُ وَيَرِثُ مَالَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Miqdam:",
+        "text": "I heard the Messenger of Allah (ﷺ) say: I am the heirs of Him who has none, freeing him from his liabilities, and inheriting what he possesses. A maternal uncle is the heir of Him who has none, freeing him from his liabilities, and inheriting his property."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، عَنْ سُفْيَانَ، جَمِيعًا عَنِ ابْنِ الأَصْبَهَانِيِّ، عَنْ مُجَاهِدِ بْنِ وَرْدَانَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ مَوْلًى، لِلنَّبِيِّ صلى الله عليه وسلم مَاتَ وَتَرَكَ شَيْئًا وَلَمْ يَدَعْ وَلَدًا وَلاَ حَمِيمًا فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ أَعْطُوا مِيرَاثَهُ رَجُلاً مِنْ أَهْلِ قَرْيَتِهِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ سُفْيَانَ أَتَمُّ وَقَالَ مُسَدَّدٌ قَالَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ هَا هُنَا أَحَدٌ مِنْ أَهْلِ أَرْضِهِ ‏\"‏ ‏.‏ قَالُوا نَعَمْ ‏.‏ قَالَ ‏\"‏ فَأَعْطُوهُ مِيرَاثَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "A client of the Prophet (ﷺ) died and left some property, but he left no child or relative. The Messenger of Allah (ﷺ) said: Give what he has left to a man belonging to his village.\n\n\nAbu Dawud said: The tradition of Sufyan is more perfect. Musaddad said: Thereupon the Prophet (ﷺ) said: Is there anyone belonging to his land ? They replied: Yes. He said: Then give him what he has left."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ الْكِنْدِيُّ، حَدَّثَنَا الْمُحَارِبِيُّ، عَنْ جِبْرِيلَ بْنِ أَحْمَرَ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ أَتَى النَّبِيَّ صلى الله عليه وسلم رَجُلٌ فَقَالَ إِنَّ عِنْدِي مِيرَاثَ رَجُلٍ مِنَ الأَزْدِ وَلَسْتُ أَجِدُ أَزْدِيًّا أَدْفَعُهُ إِلَيْهِ ‏.‏ قَالَ ‏\"‏ اذْهَبْ فَالْتَمِسْ أَزْدِيًّا حَوْلاً ‏\"‏ ‏.‏ قَالَ فَأَتَاهُ بَعْدَ الْحَوْلِ فَقَالَ يَا رَسُولَ اللَّهِ لَمْ أَجِدْ أَزْدِيًّا أَدْفَعُهُ إِلَيْهِ ‏.‏ قَالَ ‏\"‏ فَانْطَلِقْ فَانْظُرْ أَوَّلَ خُزَاعِيٍّ تَلْقَاهُ فَادْفَعْهُ إِلَيْهِ ‏\"‏ ‏.‏ فَلَمَّا وَلَّى قَالَ ‏\"‏ عَلَىَّ الرَّجُلَ ‏\"‏ ‏.‏ فَلَمَّا جَاءَ قَالَ ‏\"‏ انْظُرْ كُبْرَ خُزَاعَةَ فَادْفَعْهُ إِلَيْهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Buraydah ibn al-Hasib:",
+        "text": "A man came to the Messenger of Allah (ﷺ) and said: I have property left by a man of Azd. I do not find any man of Azd to give it to him. He said: Go and look for man of Azd for a year. He then came to him after one year and said: Messenger of Allah, I did not find any man of Azd to give it to him. He said: Look for a man of Khuza'ah whom you meet first and give it to him. When he turned away, he said; Call the man to me. When he came to him, he said: Look for the leading man of Khuza'ah and give it to him."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحُسَيْنُ بْنُ أَسْوَدَ الْعِجْلِيُّ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا شَرِيكٌ، عَنْ جِبْرِيلَ بْنِ أَحْمَرَ أَبِي بَكْرٍ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ مَاتَ رَجُلٌ مِنْ خُزَاعَةَ فَأُتِيَ النَّبِيُّ صلى الله عليه وسلم بِمِيرَاثِهِ فَقَالَ ‏\"‏ الْتَمِسُوا لَهُ وَارِثًا أَوْ ذَا رَحِمٍ ‏\"‏ ‏.‏ فَلَمْ يَجِدُوا لَهُ وَارِثًا وَلاَ ذَا رَحِمٍ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَعْطُوهُ الْكُبْرَ مِنْ خُزَاعَةَ ‏\"‏ ‏.‏ قَالَ يَحْيَى قَدْ سَمِعْتُهُ مَرَّةً يَقُولُ فِي هَذَا الْحَدِيثِ ‏\"‏ انْظُرُوا أَكْبَرَ رَجُلٍ مِنْ خُزَاعَةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Buraydah ibn al-Hasib:",
+        "text": "A man of Khuza'ah died and his estate was brought to the Prophet (ﷺ). He said: Look for his heir or some relative. But they found neither heir nor relative. The Messenger of Allah (ﷺ) said: Give it to the leading man of Khuza'ah. The narrator Yahya said: Sometimes I heard him (al-Husayn ibn Aswad) say in this tradition: Look for the greatest man of Khuza'ah."
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا عَمْرُو بْنُ دِينَارٍ، عَنْ عَوْسَجَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، مَاتَ وَلَمْ يَدَعْ وَارِثًا إِلاَّ غُلاَمًا لَهُ كَانَ أَعْتَقَهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ هَلْ لَهُ أَحَدٌ ‏\"‏ ‏.‏ قَالُوا لاَ إِلاَّ غُلاَمًا لَهُ كَانَ أَعْتَقَهُ ‏.‏ فَجَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِيرَاثَهُ لَهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "A man died leaving no heir but a slave whom he had emancipated. The Messenger of Allah (ﷺ) asked: Has he any heir? They replied: No, except a slave whom he had emancipated. The Messenger of Allah (ﷺ) assigned his estate to him (the emancipated slave)."
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، حَدَّثَنِي عُمَرُ بْنُ رُؤْبَةَ التَّغْلِبِيُّ، عَنْ عَبْدِ الْوَاحِدِ بْنِ عَبْدِ اللَّهِ النَّصْرِيِّ، عَنْ وَاثِلَةَ بْنِ الأَسْقَعِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْمَرْأَةُ تُحْرِزُ ثَلاَثَةَ مَوَارِيثَ عَتِيقَهَا وَلَقِيطَهَا وَوَلَدَهَا الَّذِي لاَعَنَتْ عَنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Wathilah ibn al-Asqa':",
+        "text": "The Prophet (ﷺ) said: A woman gets inheritance from the three following: one she has set free, a foundling, and her child about whom she has invoked a curse on herself if she was untrue in declaring he was not born out of wedlock."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، وَمُوسَى بْنُ عَامِرٍ، قَالاَ حَدَّثَنَا الْوَلِيدُ، أَخْبَرَنَا ابْنُ جَابِرٍ، حَدَّثَنَا مَكْحُولٌ، قَالَ جَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِيرَاثَ ابْنِ الْمُلاَعِنَةِ لأُمِّهِ وَلِوَرَثَتِهَا مِنْ بَعْدِهَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Makhul:",
+        "text": "The Messenger of Allah (ﷺ) assigned the estate of a child of a woman about whom she had invoked a curse to her mother, and to her heirs after her."
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ عَامِرٍ، حَدَّثَنَا الْوَلِيدُ، أَخْبَرَنِي عِيسَى أَبُو مُحَمَّدٍ، عَنِ الْعَلاَءِ بْنِ الْحَارِثِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Amr bin Shu'aib:",
+        "text": "On his father's authority, said that his grandfather reported from the Prophet (ﷺ) something similar."
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ، عَنْ عَمْرِو بْنِ عُثْمَانَ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَرِثُ الْمُسْلِمُ الْكَافِرَ وَلاَ الْكَافِرُ الْمُسْلِمَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Usamah b. Zaid:",
+        "text": "The Prophet (ﷺ) as saying: A Muslim may not inherit from an infidel nor an infidel from a Muslim."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ، عَنْ عَمْرِو بْنِ عُثْمَانَ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَيْنَ تَنْزِلُ غَدًا فِي حَجَّتِهِ ‏.‏ قَالَ ‏\"‏ وَهَلْ تَرَكَ لَنَا عَقِيلٌ مَنْزِلاً ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ نَحْنُ نَازِلُونَ بِخَيْفِ بَنِي كِنَانَةَ حَيْثُ تَقَاسَمَتْ قُرَيْشٌ عَلَى الْكُفْرِ ‏\"‏ ‏.‏ يَعْنِي الْمُحَصَّبَ وَذَاكَ أَنَّ بَنِي كِنَانَةَ حَالَفَتْ قُرَيْشًا عَلَى بَنِي هَاشِمٍ أَنْ لاَ يُنَاكِحُوهُمْ وَلاَ يُبَايِعُوهُمْ وَلاَ يُئْوُوهُمْ ‏.‏ قَالَ الزُّهْرِيُّ وَالْخَيْفُ الْوَادِي ‏.‏",
+      "english": {
+        "narrator": "Narrated Usamah b. Zaid:",
+        "text": "I said: Messenger of Allah, where will you stay tomorrow ? This (happened) during his Hajj. He replied: Has 'Aqil left any house for us ? He then said: We shall stay at the valley of Banu Kinarah where the Quraish took an oath on unbelief. This refers to al-Muhassab. The reason is that Banu Kinarah made an alliance with the Quraish against Banu Hashim that they would have no marital connections with them, nor will have commercial transactions with them, not will give them any refuge.\n\n\nAl-Zuhri said: Khalf means valley."
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ حَبِيبٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَتَوَارَثُ أَهْلُ مِلَّتَيْنِ شَتَّى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "The Prophet (ﷺ) said: people of two different religions would not inherit from one another."
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ عَمْرِو بْنِ أَبِي حَكِيمٍ الْوَاسِطِيِّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، أَنَّ أَخَوَيْنِ، اخْتَصَمَا إِلَى يَحْيَى بْنِ يَعْمَرَ يَهُودِيٌّ وَمُسْلِمٌ فَوَرَّثَ الْمُسْلِمَ مِنْهُمَا وَقَالَ حَدَّثَنِي أَبُو الأَسْوَدِ أَنَّ رَجُلاً حَدَّثَهُ أَنَّ مُعَاذًا حَدَّثَهُ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ الإِسْلاَمُ يَزِيدُ وَلاَ يَنْقُصُ ‏\"‏ ‏.‏ فَوَرَّثَ الْمُسْلِمَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Mu'adh ibn Jabal:",
+        "text": "I heard the Messenger of Allah (ﷺ) say: Islam increases and does not diminish. He, therefore, appointed a Muslim heir (of a non-Muslim)."
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ شُعْبَةَ، عَنْ عَمْرِو بْنِ أَبِي حَكِيمٍ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ يَحْيَى بْنِ يَعْمَرَ، عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ، أَنَّ مُعَاذًا، أُتِيَ بِمِيرَاثِ يَهُودِيٍّ وَارِثُهُ مُسْلِمٌ بِمَعْنَاهُ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Al-Aswad al-Dili:",
+        "text": "Mu'adh bought the property of a Jew whose heir was a Muslim. He then narrated from the Prophet (ﷺ) to the same effect."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَجَّاجُ بْنُ أَبِي يَعْقُوبَ، حَدَّثَنَا مُوسَى بْنُ دَاوُدَ، حَدَّثَنَا مُحَمَّدُ بْنُ مُسْلِمٍ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ أَبِي الشَّعْثَاءِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ كُلُّ قَسْمٍ قُسِمَ فِي الْجَاهِلِيَّةِ فَهُوَ عَلَى مَا قُسِمَ لَهُ وَكُلُّ قَسْمٍ أَدْرَكَهُ الإِسْلاَمُ فَهُوَ عَلَى قَسْمِ الإِسْلاَمِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Prophet (ﷺ) said: An estate which was divided in pre-Islamic period may follow the division in force then, but any estate in Islamic times must follow the division laid down by Islam."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ قُرِئَ عَلَى مَالِكٍ وَأَنَا حَاضِرٌ، قَالَ مَالِكٌ عَرَضَ عَلَىَّ نَافِعٌ عَنِ ابْنِ عُمَرَ، أَنَّ عَائِشَةَ، رضى الله عنها أُمَّ الْمُؤْمِنِينَ أَرَادَتْ أَنْ تَشْتَرِيَ جَارِيَةً تَعْتِقُهَا فَقَالَ أَهْلُهَا نَبِيعُكِهَا عَلَى أَنَّ وَلاَءَهَا لَنَا ‏.‏ فَذَكَرَتْ عَائِشَةُ ذَاكَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ لاَ يَمْنَعُكِ ذَلِكَ فَإِنَّ الْوَلاَءَ لِمَنْ أَعْتَقَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar:",
+        "text": "'Aishah, mother of believers (ra), intended to buy a slave-girl to set her free. Her people said: We shall sell her to you on one condition that we shall inherit from her. 'Aishah mentioned it to the Messenger of Allah (ﷺ). He said: That should not prevent you, for the right of inheritance belongs to the one who has set a person free."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الْوَلاَءُ لِمَنْ أَعْطَى الثَّمَنَ وَوَلِيَ النِّعْمَةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Aishah:",
+        "text": "The Messenger of Allah (ﷺ) as saying: The right of inheritance belongs to only to the one who paid the price (of the slave) and patronised him by doing an act of gratitude."
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ أَبِي الْحَجَّاجِ أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رِئَابَ بْنَ حُذَيْفَةَ، تَزَوَّجَ امْرَأَةً فَوَلَدَتْ لَهُ ثَلاَثَةَ غِلْمَةٍ فَمَاتَتْ أُمُّهُمْ فَوَرِثُوهَا رِبَاعَهَا وَوَلاَءَ مَوَالِيهَا وَكَانَ عَمْرُو بْنُ الْعَاصِ عَصَبَةَ بَنِيهَا فَأَخْرَجَهُمْ إِلَى الشَّامِ فَمَاتُوا فَقَدِمَ عَمْرُو بْنُ الْعَاصِ وَمَاتَ مَوْلًى لَهَا وَتَرَكَ مَالاً لَهُ فَخَاصَمَهُ إِخْوَتُهَا إِلَى عُمَرَ بْنِ الْخَطَّابِ فَقَالَ عُمَرُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَا أَحْرَزَ الْوَلَدُ أَوِ الْوَالِدُ فَهُوَ لِعَصَبَتِهِ مَنْ كَانَ ‏\"‏ ‏.‏ قَالَ فَكَتَبَ لَهُ كِتَابًا فِيهِ شَهَادَةُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ وَزَيْدِ بْنِ ثَابِتٍ وَرَجُلٍ آخَرَ فَلَمَّا اسْتُخْلِفَ عَبْدُ الْمَلِكِ اخْتَصَمُوا إِلَى هِشَامِ بْنِ إِسْمَاعِيلَ أَوْ إِلَى إِسْمَاعِيلَ بْنِ هِشَامٍ فَرَفَعَهُمْ إِلَى عَبْدِ الْمَلِكِ فَقَالَ هَذَا مِنَ الْقَضَاءِ الَّذِي مَا كُنْتُ أَرَاهُ ‏.‏ قَالَ فَقَضَى لَنَا بِكِتَابِ عُمَرَ بْنِ الْخَطَّابِ فَنَحْنُ فِيهِ إِلَى السَّاعَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Amr b. Suh'aib:",
+        "text": "On his father's authority, said that his grandfather reported: Rabab ibn Hudhayfah married a woman and three sons were born to him from her. Their mother then died. They inherited her houses and had the right of inheritance of her freed slaves. \n\n\n\n\n\nAmr ibn al-'As was the agnate of her sons. He sent them to Syria where they died. Amr ibn al-'As then came. A freed slave of hers died and left some property. Her brothers disputed with him and brought the case to Umar ibn al-Khattab.  \n\n\n\n\n\nUmar reported the Messenger of Allah (ﷺ) as saying: Whatever property a son or a father receives as an heir will go to his agnates, whoever they may be. He then wrote a document for him, witnessed by AbdurRahman ibn Awf, Zayd ibn Thabit and one other person. When AbdulMalik became caliph, they presented the case to Hisham ibn Isma'il or Isma'il ibn Hisham (the narrator is doubtful).  \n\n\n\n\n\nHe sent them to 'Abd al-Malik who said: This is the decision which I have already seen.  \n\n\n\n\n\nThe narrator said: So he ('Abd al-Malik) made the decision on the basis of the document of Umar ibn al-Khattab, and that is still with us till this moment."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَزِيدُ بْنُ خَالِدِ بْنِ مَوْهَبٍ الرَّمْلِيُّ، وَهِشَامُ بْنُ عَمَّارٍ، قَالاَ حَدَّثَنَا يَحْيَى، - قَالَ أَبُو دَاوُدَ وَهُوَ ابْنُ حَمْزَةَ - عَنْ عَبْدِ الْعَزِيزِ بْنِ عُمَرَ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مَوْهَبٍ، يُحَدِّثُ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ عَنْ قَبِيصَةَ بْنِ ذُؤَيْبٍ، - قَالَ هِشَامٌ عَنْ تَمِيمٍ الدَّارِيِّ، أَنَّهُ قَالَ يَا رَسُولَ اللَّهِ ‏.‏ وَقَالَ يَزِيدُ - إِنَّ تَمِيمًا قَالَ يَا رَسُولَ اللَّهِ مَا السُّنَّةُ فِي الرَّجُلِ يُسْلِمُ عَلَى يَدَىِ الرَّجُلِ مِنَ الْمُسْلِمِينَ قَالَ ‏\n\"‏ هُوَ أَوْلَى النَّاسِ بِمَحْيَاهُ وَمَمَاتِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Tamim ad-Dari:",
+        "text": "Tamim asked: Messenger of Allah), what is the sunnah about a man who accepts Islam by advice and persuasion of a Muslim? He replied: He is the nearest to him in life and in death."
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، رضى الله عنهما قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الْوَلاَءِ وَعَنْ هِبَتِهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar:",
+        "text": "The Messenger of Allah (ﷺ) forbade selling or giving away the right to inheritance by a manumitted slave."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حُسَيْنُ بْنُ مُعَاذٍ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا مُحَمَّدٌ، - يَعْنِي ابْنَ إِسْحَاقَ - عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ قُسَيْطٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا اسْتَهَلَّ الْمَوْلُودُ وُرِّثَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: When an infant has raised its voice (and then dies), it will be treated as an heir."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ ثَابِتٍ، حَدَّثَنِي عَلِيُّ بْنُ حُسَيْنٍ، عَنْ أَبِيهِ، عَنْ يَزِيدَ النَّحْوِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما قَالَ ‏{‏ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ نَصِيبَهُمْ ‏}‏ كَانَ الرَّجُلُ يُحَالِفُ الرَّجُلَ لَيْسَ بَيْنَهُمَا نَسَبٌ فَيَرِثُ أَحَدُهُمَا الآخَرَ فَنَسَخَ ذَلِكَ الأَنْفَالُ فَقَالَ تَعَالَى ‏{‏ وَأُولُو الأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "To those also, to whom your right hand was pledged, give their due portion. A man made an agreement with another man (in early days of Islam), and there was no relationship between the ; one of them inherited from the other. The following verse of Surat Al-Anfal abrogated it: \"But kindred by blood have prior right against each other.\""
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنِي إِدْرِيسُ بْنُ يَزِيدَ، حَدَّثَنَا طَلْحَةُ بْنُ مُصَرِّفٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، فِي قَوْلِهِ ‏{‏ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ نَصِيبَهُمْ ‏}‏ قَالَ كَانَ الْمُهَاجِرُونَ حِينَ قَدِمُوا الْمَدِينَةَ تُوَرِّثُ الأَنْصَارَ دُونَ ذَوِي رَحِمِهِ لِلأُخُوَّةِ الَّتِي آخَى رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَهُمْ فَلَمَّا نَزَلَتْ هَذِهِ الآيَةُ ‏{‏ وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ ‏}‏ قَالَ نَسَخَتْهَا ‏{‏ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ نَصِيبَهُمْ ‏}‏ مِنَ النُّصْرَةِ وَالنَّصِيحَةِ وَالرِّفَادَةِ وَيُوصِي لَهُ وَقَدْ ذَهَبَ الْمِيرَاثُ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas explained the following Qur'anic verse :",
+        "text": "\"To those also, to whom your right hand was pledged, give your portion.\" When the Emigrants came to Medina. they inherited from the Helpers without any blood-relationship with them for the brotherhood which the Messenger of Allah (ﷺ) established between them. When the following verse was revealed: \"To (benefit) everyone we have appointed shares and heirs to property left by parent and relatives.\" it abrogated the verse: \"To those also, to whom your right hand was pledged, give their due portion.\" This alliance was made for help, well wishing and cooperation. Now a legacy can be made for him. (The right to)inheritance was abolished."
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَعَبْدُ الْعَزِيزِ بْنُ يَحْيَى الْمَعْنَى، - قَالَ أَحْمَدُ - حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنِ ابْنِ إِسْحَاقَ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، قَالَ كُنْتُ أَقْرَأُ عَلَى أُمِّ سَعْدٍ بِنْتِ الرَّبِيعِ وَكَانَتْ يَتِيمَةً فِي حِجْرِ أَبِي بَكْرٍ فَقَرَأْتُ ‏{‏ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ ‏}‏ فَقَالَتْ لاَ تَقْرَأْ ‏{‏ وَالَّذِينَ عَاقَدَتْ أَيْمَانُكُمْ ‏}‏ وَلَكِنْ ‏{‏ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ ‏}‏ إِنَّمَا نَزَلَتْ فِي أَبِي بَكْرٍ وَابْنِهِ عَبْدِ الرَّحْمَنِ حِينَ أَبَى الإِسْلاَمَ فَحَلَفَ أَبُو بَكْرٍ أَلاَّ يُوَرِّثَهُ فَلَمَّا أَسْلَمَ أَمَرَ اللَّهُ تَعَالَى نَبِيَّهُ عَلَيْهِ السَّلاَمُ أَنْ يُؤْتِيَهُ نَصِيبَهُ ‏.‏ زَادَ عَبْدُ الْعَزِيزِ فَمَا أَسْلَمَ حَتَّى حُمِلَ عَلَى الإِسْلاَمِ بِالسَّيْفِ ‏.‏ قَالَ أَبُو دَاوُدَ مَنْ قَالَ ‏{‏ عَقَدَتْ ‏}‏ جَعَلَهُ حِلْفًا وَمَنْ قَالَ ‏{‏ عَاقَدَتْ ‏}‏ جَعَلَهُ حَالِفًا وَالصَّوَابُ حَدِيثُ طَلْحَةَ ‏{‏ عَاقَدَتْ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Dawud b. al-Husain:",
+        "text": "I used to learn the reading of the Qur'an from Umm Sa'd, daughter of al-Rabi'. She was an orphan in the guardianship of Abu Bakr. I read the Qur'anic verse \"To those also to whom your right hand was pledged.\" She said: Do not read the verse; \"To those also to whom your right hand was pledged.\" This was revealed about Abu Bakr and his son 'Abd al-Rahman when he refused to accept Islam. Abu Bakr took an oath that he would not give him a share from inheritance. When he embraced Islam Allah Most High commanded His Prophet (ﷺ) to give him the share.\n\n\nThe narrator 'Abd al-Aziz added: He did not accept Islam until he was urged on Islam by sword.\n\n\nAbu Dawud said: He who narrated the word 'aqadat means a pact ; and he who narrated the word 'aaqadat means the party who made a pact. The correct is the tradition of Talhah ('aaqadat)."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَلِيُّ بْنُ حُسَيْنٍ، عَنْ أَبِيهِ، عَنْ يَزِيدَ النَّحْوِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، وَالَّذِينَ، آمَنُوا وَهَاجَرُوا وَالَّذِينَ آمَنُوا وَلَمْ يُهَاجِرُوا فَكَانَ الأَعْرَابِيُّ لاَ يَرِثُ الْمُهَاجِرَ وَلاَ يَرِثُهُ الْمُهَاجِرُ فَنَسَخَتْهَا فَقَالَ ‏{‏ وَأُولُو الأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ ‏}‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "Referring to the verse: \"Those who believed and adopted exile... As to those who believed but came not into exile\": A bedouin (who did not migrate to Medina) did not inherit from an emigrant, and an emigrant did no inherit from him. It was abrogated by the verse: \"But kindred by blood have prior rights against each other.\""
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، وَابْنُ، نُمَيْرٍ وَأَبُو أُسَامَةَ عَنْ زَكَرِيَّا، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنْ جُبَيْرِ بْنِ مُطْعِمٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ حِلْفَ فِي الإِسْلاَمِ وَأَيُّمَا حِلْفٍ كَانَ فِي الْجَاهِلِيَّةِ لَمْ يَزِدْهُ الإِسْلاَمُ إِلاَّ شِدَّةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jubair b. Mu'tim:",
+        "text": "The Messenger of Allah (ﷺ) as saying: There is no alliance in Islam, and Islam strengthened the alliance made during pre-Islamic days."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنْ عَاصِمٍ الأَحْوَلِ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ حَالَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ الْمُهَاجِرِينَ وَالأَنْصَارِ فِي دَارِنَا ‏.‏ فَقِيلَ لَهُ أَلَيْسَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ حِلْفَ فِي الإِسْلاَمِ ‏\"‏ ‏.‏ فَقَالَ حَالَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ الْمُهَاجِرِينَ وَالأَنْصَارِ فِي دَارِنَا ‏.‏ مَرَّتَيْنِ أَوْ ثَلاَثًا",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "The Messenger of Allah (ﷺ) established an alliance (of brotherhood) between the Emigrants and the Helpers in our house. He was asked: Did not the Messenger of Allah (ﷺ) say: There is no alliance in Islam ? He replied: The Messenger of Allah (ﷺ) established an alliance between the Emigrants and the Helpers in our house. This he said twice or thrice."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 19,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، قَالَ كَانَ عُمَرُ بْنُ الْخَطَّابِ يَقُولُ الدِّيَةُ لِلْعَاقِلَةِ وَلاَ تَرِثُ الْمَرْأَةُ مِنْ دِيَةِ زَوْجِهَا شَيْئًا حَتَّى قَالَ لَهُ الضَّحَّاكُ بْنُ سُفْيَانَ كَتَبَ إِلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ أُوَرِّثَ امْرَأَةَ أَشْيَمَ الضِّبَابِيِّ مِنْ دِيَةِ زَوْجِهَا ‏.‏ فَرَجَعَ عُمَرُ ‏.‏ قَالَ أَحْمَدُ بْنُ صَالِحٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ بِهَذَا الْحَدِيثِ عَنْ مَعْمَرٍ عَنِ الزُّهْرِيِّ عَنْ سَعِيدٍ وَقَالَ فِيهِ وَكَانَ النَّبِيُّ صلى الله عليه وسلم اسْتَعْمَلَهُ عَلَى الأَعْرَابِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umar ibn al-Khattab:",
+        "text": "Sa'id said: Umar ibn al-Khattab said: Blood-money is meant for the clan of the slain, and she will not inherit from the blood-money of her husband. Ad-Dahhak ibn Sufyan said: The Messenger of Allah (ﷺ) wrote to me that I should give a share to the wife of Ashyam ad-Dubabi from the blood-money of her husband. So Umar withdrew his opinion. \n\n\n\n\n\nAhmad ibn Salih said: AbdurRazzaq transmitted this tradition to us from Ma'mar, from az-Zuhri on the authority of Sa'id. In this version he said: The Prophet (ﷺ) made him governor over the bedouins."
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَلاَ كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ فَالأَمِيرُ الَّذِي عَلَى النَّاسِ رَاعٍ عَلَيْهِمْ وَهُوَ مَسْئُولٌ عَنْهُمْ وَالرَّجُلُ رَاعٍ عَلَى أَهْلِ بَيْتِهِ وَهُوَ مَسْئُولٌ عَنْهُمْ وَالْمَرْأَةُ رَاعِيَةٌ عَلَى بَيْتِ بَعْلِهَا وَوَلَدِهِ وَهِيَ مَسْئُولَةٌ عَنْهُمْ وَالَعَبْدُ رَاعٍ عَلَى مَالِ سَيِّدِهِ وَهُوَ مَسْئُولٌ عَنْهُ فَكُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Abdullah bin 'Umar:",
+        "text": "The Messenger of Allah (ﷺ) as saying: Each of you is a shepherd and each of you is responsible for his flock. The amir (ruler) who is over the people is a shepherd and is responsible for his flock; a man is a shepherd in charge of the inhabitants of his household and he is responsible for his flock; a woman is a shepherdess in charge of her husband's house and children and she is responsible for them; and a man's slave is a shepherd in charge of his master's property and he is responsible for it. So each of you is a shepherd and each of you is responsible for his flock."
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ الْبَزَّازُ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا يُونُسُ، وَمَنْصُورٌ، عَنِ الْحَسَنِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ سَمُرَةَ، قَالَ قَالَ لِيَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ يَا عَبْدَ الرَّحْمَنِ بْنَ سَمُرَةَ لاَ تَسْأَلِ الإِمَارَةَ فَإِنَّكَ إِذَا أُعْطِيتَهَا عَنْ مَسْأَلَةٍ وُكِلْتَ فِيهَا إِلَى نَفْسِكَ وَإِنْ أُعْطِيتَهَا عَنْ غَيْرِ مَسْأَلَةٍ أُعِنْتَ عَلَيْهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Abd al-Rahman b. Samurah:",
+        "text": "The Messenger of Allah (ﷺ) said to me: 'Abdul al-Rahman b. Samurah, do not ask for the position of commander, for if you are given it after asking you will be left to discharge it yourself, but if you are given it without asking you will be helped to discharge it."
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، حَدَّثَنَا خَالِدٌ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، عَنْ أَخِيهِ، عَنْ بِشْرِ بْنِ قُرَّةَ الْكَلْبِيِّ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ انْطَلَقْتُ مَعَ رَجُلَيْنِ إِلَى النَّبِيِّ صلى الله عليه وسلم فَتَشَهَّدَ أَحَدُهُمَا ثُمَّ قَالَ جِئْنَا لِتَسْتَعِينَ بِنَا عَلَى عَمَلِكَ ‏.‏ وَقَالَ الآخَرُ مِثْلَ قَوْلِ صَاحِبِهِ ‏.‏ فَقَالَ ‏\n\"‏ إِنَّ أَخْوَنَكُمْ عِنْدَنَا مَنْ طَلَبَهُ ‏\"‏ ‏.‏ فَاعْتَذَرَ أَبُو مُوسَى إِلَى النَّبِيِّ صلى الله عليه وسلم وَقَالَ لَمْ أَعْلَمْ لِمَا جَاءَا لَهُ ‏.‏ فَلَمْ يَسْتَعِنْ بِهِمَا عَلَى شَىْءٍ حَتَّى مَاتَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Musa:",
+        "text": "I went along with two men to see the Prophet (ﷺ). One of them recited tashahhud and said: We have come to you so that you may employ us for your work. The other also said the same thing. He  (the Prophet) replied: The most faithless of you in our eyes is the one who asked for it (responsible post). Abu Musa then apologized to the Prophet (ﷺ) and said: I did not know why they came to you. He did not employ them for anything until he died."
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الْمُخَرِّمِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا عِمْرَانُ الْقَطَّانُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اسْتَخْلَفَ ابْنَ أُمِّ مَكْتُومٍ عَلَى الْمَدِينَةِ مَرَّتَيْنِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "The Prophet (ﷺ) appointed Ubn Umm Makthum as a governor of Medina (in his absence) twice."
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ عَامِرٍ الْمُرِّيُّ، حَدَّثَنَا الْوَلِيدُ، حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا أَرَادَ اللَّهُ بِالأَمِيرِ خَيْرًا جَعَلَ لَهُ وَزِيرَ صِدْقٍ إِنْ نَسِيَ ذَكَّرَهُ وَإِنْ ذَكَرَ أَعَانَهُ وَإِذَا أَرَادَ اللَّهُ بِهِ غَيْرَ ذَلِكَ جَعَلَ لَهُ وَزِيرَ سُوءٍ إِنْ نَسِيَ لَمْ يُذَكِّرْهُ وَإِنْ ذَكَرَ لَمْ يُعِنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Messenger of Allah (ﷺ) said: When Allah has a good purpose for a ruler, He appoints for him a sincere minister who reminds him if he forgets and helps him if he remembers; but when Allah has a different purpose from that for him. He appoints for him an evil minister who does not remind him if he forgets and does not help him if he remembers."
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، عَنْ أَبِي سَلَمَةَ، سُلَيْمَانَ بْنِ سُلَيْمٍ عَنْ يَحْيَى بْنِ جَابِرٍ، عَنْ صَالِحِ بْنِ يَحْيَى بْنِ الْمِقْدَامِ، عَنْ جَدِّهِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ضَرَبَ عَلَى مَنْكِبِهِ ثُمَّ قَالَ لَهُ ‏\n\"‏ أَفْلَحْتَ يَا قُدَيْمُ إِنْ مُتَّ وَلَمْ تَكُنْ أَمِيرًا وَلاَ كَاتِبًا وَلاَ عَرِيفًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Miqdam ibn Ma'dikarib:",
+        "text": "The Messenger of Allah (ﷺ) struck him on his shoulders and then said: You will attain success, Qudaym, if you die without having been a ruler, a secretary, or a chief."
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا غَالِبٌ الْقَطَّانُ، عَنْ رَجُلٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّهُمْ كَانُوا عَلَى مَنْهَلٍ مِنَ الْمَنَاهِلِ فَلَمَّا بَلَغَهُمُ الإِسْلاَمُ جَعَلَ صَاحِبُ الْمَاءِ لِقَوْمِهِ مِائَةً مِنَ الإِبِلِ عَلَى أَنْ يُسْلِمُوا فَأَسْلَمُوا وَقَسَمَ الإِبِلَ بَيْنَهُمْ وَبَدَا لَهُ أَنْ يَرْتَجِعَهَا مِنْهُمْ فَأَرْسَلَ ابْنَهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ لَهُ ائْتِ النَّبِيَّ صلى الله عليه وسلم فَقُلْ لَهُ إِنَّ أَبِي يُقْرِئُكَ السَّلاَمَ وَإِنَّهُ جَعَلَ لِقَوْمِهِ مِائَةً مِنَ الإِبِلِ عَلَى أَنْ يُسْلِمُوا فَأَسْلَمُوا وَقَسَمَ الإِبِلَ بَيْنَهُمْ وَبَدَا لَهُ أَنْ يَرْتَجِعَهَا مِنْهُمْ أَفَهُوَ أَحَقُّ بِهَا أَمْ هُمْ فَإِنْ قَالَ لَكَ نَعَمْ أَوْ لاَ فَقُلْ لَهُ إِنَّ أَبِي شَيْخٌ كَبِيرٌ وَهُوَ عَرِيفُ الْمَاءِ وَإِنَّهُ يَسْأَلُكَ أَنْ تَجْعَلَ لِيَ الْعِرَافَةَ بَعْدَهُ ‏.‏ فَأَتَاهُ فَقَالَ إِنَّ أَبِي يُقْرِئُكَ السَّلاَمَ ‏.‏ فَقَالَ ‏\"‏ وَعَلَيْكَ وَعَلَى أَبِيكَ السَّلاَمُ ‏\"‏ ‏.‏ فَقَالَ إِنَّ أَبِي جَعَلَ لِقَوْمِهِ مِائَةً مِنَ الإِبِلِ عَلَى أَنْ يُسْلِمُوا فَأَسْلَمُوا وَحَسُنَ إِسْلاَمُهُمْ ثُمَّ بَدَا لَهُ أَنْ يَرْتَجِعَهَا مِنْهُمْ أَفَهُوَ أَحَقُّ بِهَا أَمْ هُمْ فَقَالَ ‏\"‏ إِنْ بَدَا لَهُ أَنْ يُسْلِمَهَا لَهُمْ فَلْيُسْلِمْهَا وَإِنْ بَدَا لَهُ أَنْ يَرْتَجِعَهَا فَهُوَ أَحَقُّ بِهَا مِنْهُمْ فَإِنْ هُمْ أَسْلَمُوا فَلَهُمْ إِسْلاَمُهُمْ وَإِنْ لَمْ يُسْلِمُوا قُوتِلُوا عَلَى الإِسْلاَمِ ‏\"‏ ‏.‏ فَقَالَ إِنَّ أَبِي شَيْخٌ كَبِيرٌ وَهُوَ عَرِيفُ الْمَاءِ وَإِنَّهُ يَسْأَلُكَ أَنْ تَجْعَلَ لِيَ الْعِرَافَةَ بَعْدَهُ ‏.‏ فَقَالَ ‏\"‏ إِنَّ الْعِرَافَةَ حَقٌّ وَلاَ بُدَّ لِلنَّاسِ مِنَ الْعُرَفَاءِ وَلَكِنَّ الْعُرَفَاءَ فِي النَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ghalib al-Qattan:",
+        "text": "Ghalib quoted a man who stated on the authority of his father that his grandfather reported: They lived at one of the springs. When Islam reached them, the master of the spring offered his people one hundred camels if they embraced Islam. So they embraced Islam, and he distributed the camels among them. But it occurred to him that he should take the camels back from them.  \n\n\n\n\n\nHe sent his son to the Prophet (ﷺ) and said to him: Go to the Prophet (ﷺ) and tell him: My father extends his greetings to you. He asked his people to give them one hundred camels if they embraced Islam, and they embraced Islam. He divided the camels among them. But it occurred to him then that he should withdraw his camels from them. Is he more entitled to them or we? If he says: Yes or no, then tell him: My father is an old man, and he is the chief of the people living at the water. He has requested you to make me chief after him.  \n\n\n\n\n\nHe came to him and said: My father has extended his greetings to you.  He replied: On you and you father be peace.  He said: My father asked his people to give them one hundred camels if they embraced Islam. So they embraced Islam, and their belief in Islam is good. Then it occurred to him that he should take his camels back from them. Is he more entitled to them or are they?  \n\n\n\n\n\nHe said: If he likes to give them the camels, he may give them; and if he likes to take them back, he is more entitled to them than his people. If they embraced Islam, then for them is their Islam. If they do not embrace Islam, they will be fought against in the cause of Islam.  \n\n\n\n\n\nHe said: My father is an old man; he is the chief of the people living at the spring. He has asked you to appoint me chief after him.  \n\n\n\n\n\nHe replied: The office of a chief is necessary, for people must have chiefs, but the chiefs will go to Hell."
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا نُوحُ بْنُ قَيْسٍ، عَنْ يَزِيدَ بْنِ كَعْبٍ، عَنْ عَمْرِو بْنِ مَالِكٍ، عَنْ أَبِي الْجَوْزَاءِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ السِّجِلُّ كَاتِبٌ كَانَ لِلنَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "The Prophet (ﷺ) has a secretary named Sijill."
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ إِبْرَاهِيمَ الأَسْبَاطِيُّ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَاصِمِ بْنِ عُمَرَ بْنِ قَتَادَةَ، عَنْ مَحْمُودِ بْنِ لَبِيدٍ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ الْعَامِلُ عَلَى الصَّدَقَةِ بِالْحَقِّ كَالْغَازِي فِي سَبِيلِ اللَّهِ حَتَّى يَرْجِعَ إِلَى بَيْتِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Rafi' ibn Khadij:",
+        "text": "I heard the Messenger of Allah (ﷺ) say: The official who collects sadaqah (zakat) in a just manner is like him who fights in Allah's path till he returns home."
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ شِمَاسَةَ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَدْخُلُ الْجَنَّةَ صَاحِبُ مَكْسٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Uqbah ibn Amir:",
+        "text": "I heard the Messenger of Allah (ﷺ) as saying: One who wrongfully takes an extra tax (sahib maks) will not enter Paradise."
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الْقَطَّانُ، عَنِ ابْنِ مَغْرَاءَ، عَنِ ابْنِ إِسْحَاقَ، قَالَ الَّذِي يَعْشُرُ النَّاسَ يَعْنِي صَاحِبَ الْمَكْسِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Ishaq:",
+        "text": "Sahib maks means one who (receives) tithes (from) people."
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ دَاوُدَ بْنِ سُفْيَانَ، وَسَلَمَةُ، قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ عُمَرُ إِنِّي إِنْ لاَ أَسْتَخْلِفْ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمْ يَسْتَخْلِفْ وَإِنْ أَسْتَخْلِفْ فَإِنَّ أَبَا بَكْرٍ قَدِ اسْتَخْلَفَ ‏.‏ قَالَ فَوَاللَّهِ مَا هُوَ إِلاَّ أَنْ ذَكَرَ رَسُولَ اللَّهِ صلى الله عليه وسلم وَأَبَا بَكْرٍ فَعَلِمْتُ أَنَّهُ لاَ يَعْدِلُ بِرَسُولِ اللَّهِ صلى الله عليه وسلم أَحَدًا وَأَنَّهُ غَيْرُ مُسْتَخْلِفٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar:",
+        "text": "'Umar said: I shall not appoint a successor, for the Messenger of Allah (ﷺ) did not appoint a successor. If I appoint a successor (I can do so), for Abu Bakr had appointed a successor. He Ibn 'Umar) said: I swear by Allah, he did not mention (anyone) but the Messenger of Allah (ﷺ) and Abu Bakr. So I learnt he would not equate anyone with the Messenger of Allah (ﷺ), for he did not appoint any successor."
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ كُنَّا نُبَايِعُ النَّبِيَّ صلى الله عليه وسلم عَلَى السَّمْعِ وَالطَّاعَةِ وَيُلَقِّنُنَا فِيمَا اسْتَطَعْتَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar:",
+        "text": "We used to take the oath of allegiance to the Prophet (ﷺ) to hear and obey, and he would tell: In What I am able."
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، رضى الله عنها أَخْبَرَتْهُ عَنْ بَيْعَةِ، رَسُولِ اللَّهِ صلى الله عليه وسلم النِّسَاءَ قَالَتْ مَا مَسَّ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَ امْرَأَةٍ قَطُّ إِلاَّ أَنْ يَأْخُذَ عَلَيْهَا فَإِذَا أَخَذَ عَلَيْهَا فَأَعْطَتْهُ قَالَ ‏\n\"‏ اذْهَبِي فَقَدْ بَايَعْتُكِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Aishah:",
+        "text": "The Messenger of Allah (ﷺ) never touched the hand of woman, but he received the oath of allegiance from her. When he received the oath of allegiance from her, she gave it to him, and he said: Go, I have received your oath of allegiance."
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي أَيُّوبَ، حَدَّثَنِي أَبُو عَقِيلٍ، زُهْرَةُ بْنُ مَعْبَدٍ عَنْ جَدِّهِ عَبْدِ اللَّهِ بْنِ هِشَامٍ، قَالَ وَكَانَ قَدْ أَدْرَكَ النَّبِيَّ صلى الله عليه وسلم وَذَهَبَتْ بِهِ أُمُّهُ زَيْنَبُ بِنْتُ حُمَيْدٍ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ بَايِعْهُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ هُوَ صَغِيرٌ ‏\"‏ ‏.‏ فَمَسَحَ رَأْسَهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Abd Alla b. Hisham, :",
+        "text": "who was a Companion, reported that his mother Zainab daughter of Humain went to the Messenger of Allah (ﷺ) and said: Messenger of Allah,  receive the oath of allegiance from him. The Messenger of Allah (ﷺ) said: He is Minor. He then wiped his head."
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا زَيْدُ بْنُ أَخْزَمَ أَبُو طَالِبٍ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ عَبْدِ الْوَارِثِ بْنِ سَعِيدٍ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنِ اسْتَعْمَلْنَاهُ عَلَى عَمَلٍ فَرَزَقْنَاهُ رِزْقًا فَمَا أَخَذَ بَعْدَ ذَلِكَ فَهُوَ غُلُولٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Buraidah:",
+        "text": "The Prophet (ﷺ) as saying: When we appoint someone to an administrative post and provide him with an allowance, anything he takes beyond that is unfaithful dealing."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا لَيْثٌ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنِ ابْنِ السَّاعِدِيِّ، قَالَ اسْتَعْمَلَنِي عُمَرُ عَلَى الصَّدَقَةِ فَلَمَّا فَرَغْتُ أَمَرَ لِي بِعُمَالَةٍ فَقُلْتُ إِنَّمَا عَمِلْتُ لِلَّهِ ‏.‏ قَالَ خُذْ مَا أُعْطِيتَ فَإِنِّي قَدْ عَمِلْتُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَعَمَّلَنِي ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn al-Sa'idi:",
+        "text": "'Umar reported me to collect the sadaqah (i.e. zakat). When I became free, he ordered to give me payment for it. I said: I have worked for the sake of Allah. He said: Take what you have been given, for I held an administrative post in the time of the Messenger of Allah (ﷺ), and he gave me payment for it."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ مَرْوَانَ الرَّقِّيُّ، حَدَّثَنَا الْمُعَافَى، حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الْحَارِثِ بْنِ يَزِيدَ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنِ الْمُسْتَوْرِدِ بْنِ شَدَّادٍ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\"‏ مَنْ كَانَ لَنَا عَامِلاً فَلْيَكْتَسِبْ زَوْجَةً فَإِنْ لَمْ يَكُنْ لَهُ خَادِمٌ فَلْيَكْتَسِبْ خَادِمًا فَإِنْ لَمْ يَكُنْ لَهُ مَسْكَنٌ فَلْيَكْتَسِبْ مَسْكَنًا ‏\"‏ ‏.‏ قَالَ قَالَ أَبُو بَكْرٍ أُخْبِرْتُ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنِ اتَّخَذَ غَيْرَ ذَلِكَ فَهُوَ غَالٌّ أَوْ سَارِقٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Mustawrid ibn Shaddad:",
+        "text": "Al-Mustawrid heard the Prophet (ﷺ) say: He who acts as an employee for us must get a wife; if he has not a servant, he must get one, and if he has not a dwelling, he must get one.\n\n\n\nHe said that Abu Bakr reported: I was told that the Prophet (ﷺ) said: He who takes anything else he is unfaithful or thief."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا ابْنُ السَّرْحِ، وَابْنُ أَبِي خَلَفٍ، - لَفْظُهُ - قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اسْتَعْمَلَ رَجُلاً مِنَ الأَزْدِ يُقَالُ لَهُ ابْنُ اللُّتْبِيَّةِ - قَالَ ابْنُ السَّرْحِ ابْنُ الأُتْبِيَّةِ - عَلَى الصَّدَقَةِ فَجَاءَ فَقَالَ هَذَا لَكُمْ وَهَذَا أُهْدِيَ لِي ‏.‏ فَقَامَ النَّبِيُّ صلى الله عليه وسلم عَلَى الْمِنْبَرِ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَقَالَ ‏\"‏ مَا بَالُ الْعَامِلِ نَبْعَثُهُ فَيَجِيءُ فَيَقُولُ هَذَا لَكُمْ وَهَذَا أُهْدِيَ لِي ‏.‏ أَلاَّ جَلَسَ فِي بَيْتِ أُمِّهِ أَوْ أَبِيهِ فَيَنْظُرَ أَيُهْدَى لَهُ أَمْ لاَ لاَ يَأْتِي أَحَدٌ مِنْكُمْ بِشَىْءٍ مِنْ ذَلِكَ إِلاَّ جَاءَ بِهِ يَوْمَ الْقِيَامَةِ إِنْ كَانَ بَعِيرًا فَلَهُ رُغَاءٌ أَوْ بَقَرَةً فَلَهَا خُوَارٌ أَوْ شَاةً تَيْعَرُ ‏\"‏ ‏.‏ ثُمَّ رَفَعَ يَدَيْهِ حَتَّى رَأَيْنَا عُفْرَةَ إِبْطَيْهِ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ هَلْ بَلَّغْتُ اللَّهُمَّ هَلْ بَلَّغْتُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Humaid al-Sa'idi:",
+        "text": "The Prophet (ﷺ) appointed a man of Azd called Ibn al-Lutbiyayah (to collect sadaqah). The narrator Ibn al-Sarh said: (He appointed) Ibn al-Utbiyyah to collect the sadaqah. When he returned he said: This is for you and this was given to me as present. So the Prophet (ﷺ) stood on the pulpit, and after praising and extolling Allah he said: What is the matter with a collector of sadaqah. We send him (to collect sadaqah), and when he return he says: This is for you and this is a present which was given to me. Why did he not sit in his father's or mother's house and see whether it would be given to him or not ? Whoever takes any of it will inevitably bring it on the Day of Resurrection, be it a camel which rumbles, an ox which bellows, or sheep which-bleats. Then raising his arms so that we could see where the hair grow under his armpits, he said: O Allah,  have I given full information ? O Allah, have I given full information ?"
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مُطَرِّفٍ، عَنْ أَبِي الْجَهْمِ، عَنْ أَبِي مَسْعُودٍ الأَنْصَارِيِّ، قَالَ بَعَثَنِي النَّبِيُّ صلى الله عليه وسلم سَاعِيًا ثُمَّ قَالَ ‏\"‏ انْطَلِقْ أَبَا مَسْعُودٍ وَلاَ أُلْفِيَنَّكَ يَوْمَ الْقِيَامَةِ تَجِيءُ عَلَى ظَهْرِكَ بَعِيرٌ مِنْ إِبِلِ الصَّدَقَةِ لَهُ رُغَاءٌ قَدْ غَلَلْتَهُ ‏\"‏ ‏.‏ قَالَ إِذًا لاَ أَنْطَلِقُ ‏.‏ قَالَ ‏\"‏ إِذًا لاَ أُكْرِهُكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuMas'ud al-Ansari:",
+        "text": "The Prophet (ﷺ) appointed me to collect sadaqah and then said: Go, AbuMas'ud, I should not find you on the Day of Judgment carrying a camel of sadaqah on your back, which rumbles, the one you have taken by unfaithful dealing in sadaqah. He said: If it is so, I will not go. He said: Then I do not force you."
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الرَّحْمَنِ الدِّمَشْقِيُّ، حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، حَدَّثَنِي ابْنُ أَبِي مَرْيَمَ، أَنَّ الْقَاسِمَ بْنَ مُخَيْمِرَةَ، أَخْبَرَهُ أَنَّ أَبَا مَرْيَمَ الأَزْدِيَّ أَخْبَرَهُ قَالَ دَخَلْتُ عَلَى مُعَاوِيَةَ فَقَالَ مَا أَنْعَمَنَا بِكَ أَبَا فُلاَنٍ ‏.‏ وَهِيَ كَلِمَةٌ تَقُولُهَا الْعَرَبُ فَقُلْتُ حَدِيثًا سَمِعْتُهُ أُخْبِرُكَ بِهِ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ وَلاَّهُ اللَّهُ عَزَّ وَجَلَّ شَيْئًا مِنْ أَمْرِ الْمُسْلِمِينَ فَاحْتَجَبَ دُونَ حَاجَتِهِمْ وَخَلَّتِهِمْ وَفَقْرِهِمُ احْتَجَبَ اللَّهُ عَنْهُ دُونَ حَاجَتِهِ وَخَلَّتِهِ وَفَقْرِهِ ‏\"‏ ‏.‏ قَالَ فَجَعَلَ رَجُلاً عَلَى حَوَائِجِ النَّاسِ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuMaryam al-Azdi:",
+        "text": "When I entered upon Mu'awiyah, he said: How good your visit is to us, O father of so-and-so. (This is an idiom used by the Arabs on such occasions). I said: I tell you a tradition which I heard (from the Prophet). I heard the Messenger of Allah (ﷺ) say: If Allah puts anyone in the position of authority over the affairs of the Muslims, and he secludes himself (from them), not fulfilling their needs, wants, and poverty, Allah will keep Himself away from him, not fulfilling his need, want and poverty. He said: He (Mu'awiyah) appointed a man to fulfil the needs of the people."
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 20,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا بِهِ أَبُو هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَا أُوتِيكُمْ مِنْ شَىْءٍ وَمَا أَمْنَعُكُمُوهُ إِنْ أَنَا إِلاَّ خَازِنٌ أَضَعُ حَيْثُ أُمِرْتُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: It is not on my own that I give you or withhold from you: I am just a treasure, putting it where I have been commanded."
+      }
+    }
+  ]
+}

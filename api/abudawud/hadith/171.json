@@ -1,0 +1,16 @@
+{
+  "id": 171,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَابْنُ السَّرْحِ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنِ ابْنِ عَامِرٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، يَرْوِيهِ - قَالَ ابْنُ السَّرْحِ - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيَعْرِفْ حَقَّ كَبِيرِنَا فَلَيْسَ مِنَّا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+    "text": "The Prophet (ﷺ) said: Those who do not show mercy to our young ones and do not realise the right of our elders are not from us."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

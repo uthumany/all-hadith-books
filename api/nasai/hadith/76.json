@@ -1,0 +1,16 @@
+{
+  "id": 76,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ طَاوُسٍ، قَالَ قَالَ رَجُلٌ لاِبْنِ عُمَرَ أَنَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ نَبِيذِ الْجَرِّ قَالَ نَعَمْ ‏.‏ قَالَ طَاوُسٌ وَاللَّهِ إِنِّي سَمِعْتُهُ مِنْهُ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Tawus said:",
+    "text": "\"A man said to Ibn 'Umar: 'Did the Messenger of Allah  forbid soaking (fruits) in earthenware jars?' He said: 'Yes.' Tawus said: 'By Allah, I heard that from him.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

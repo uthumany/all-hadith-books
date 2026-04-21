@@ -1,0 +1,16 @@
+{
+  "id": 355,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { رَأَيْتُ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-يُصَلِّي مُتَرَبِّعًا }  رَوَاهُ النَّسَائِيُّ.‏ وَصَحَّحَهُ اَلْحَاكِمُ.‏",
+  "english": {
+    "narrator": "Narrated 'Aishah (RA):",
+    "text": "I saw the Prophet (ﷺ) praying while sitted in a cross-legged position.\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 153,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا مُطْعِمُ بْنُ الْمِقْدَامِ، قَالَ حَدَّثَنَا نَافِعٌ، قَالَ كُنْتُ رِدْفَ ابْنِ عُمَرَ إِذْ مَرَّ بِرَاعٍ يَزْمُرُ فَذَكَرَ نَحْوَهُ ‏.‏ قَالَ أَبُو دَاوُدَ أُدْخِلَ بَيْنَ مُطْعِمٍ وَنَافِعٍ سُلَيْمَانُ بْنُ مُوسَى ‏.‏",
+  "english": {
+    "narrator": "Nafi said :",
+    "text": "I was sitting behind Ibn ‘Umar on the mount when he passed a shepherd who was blowing a pipe. He then mentioned the rest of the tradition in a similar manner.\n\n\nAbu Dawud said : Between Mut’im and Nafi the name of a narrator Sulaiman b. Musa has been inserted."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

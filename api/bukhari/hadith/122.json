@@ -1,0 +1,16 @@
+{
+  "id": 122,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنْ عُمَارَةَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، فَقَالَ ‏\n\"‏ هَذِهِ خَدِيجَةُ أَتَتْكَ بِإِنَاءٍ فِيهِ طَعَامٌ أَوْ إِنَاءٍ فِيهِ شَرَابٌ فَأَقْرِئْهَا مِنْ رَبِّهَا السَّلاَمَ وَبَشِّرْهَا بِبَيْتٍ مِنْ قَصَبٍ لاَ صَخَبَ فِيهِ وَلاَ نَصَبَ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "The Prophet (ﷺ) said that Gabriel said, \"Here is Khadija coming to you with a dish of food or a tumbler \ncontaining something to drink. Convey to her a greeting from her Lord (Allah) and give her the glad \ntidings that she will have a palace in Paradise built of Qasab wherein there will be neither any noise \nnor any fatigue (trouble).\" (See Hadith No. 168, Vol. 5)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

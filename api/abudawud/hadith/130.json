@@ -1,0 +1,16 @@
+{
+  "id": 130,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنْ عُيَيْنَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي بَكْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَا مِنْ ذَنْبٍ أَجْدَرُ أَنْ يُعَجِّلَ اللَّهُ تَعَالَى لِصَاحِبِهِ الْعُقُوبَةَ فِي الدُّنْيَا - مَعَ مَا يَدَّخِرُ لَهُ فِي الآخِرَةِ - مِثْلُ الْبَغْىِ وَقَطِيعَةِ الرَّحِمِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuBakrah:",
+    "text": "The Prophet (ﷺ) said: There is no sin more fitted to have punishment meted out by Allah to its perpetrator in advance in this world along with what He stores up for him in the next world than oppression and severing ties of relationship."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 225,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ رَأَيْتُ فِي الْمَنَامِ كَأَنَّمَا بِيَدِي قِطْعَةُ إِسْتَبْرَقٍ وَلاَ أُشِيرُ بِهَا إِلَى مَوْضِعٍ مِنَ الْجَنَّةِ إِلاَّ طَارَتْ بِي إِلَيْهِ فَقَصَصْتُهَا عَلَى حَفْصَةَ فَقَصَّتْهَا حَفْصَةُ عَلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\"‏ إِنَّ أَخَاكِ رَجُلٌ صَالِحٌ ‏\"‏ ‏.‏ أَوْ ‏\"‏ إِنَّ عَبْدَ اللَّهِ رَجُلٌ صَالِحٌ ‏\"‏ ‏.‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Ibn 'Umar:",
+    "text": "\"I had a dream in which I saw as if there was a piece of silk in my hand, and I would not gesture to any place in Paradise except that it would fly with me, (taking me) to it. So I told the dream to Hafsah, so she told it to the Prophet (ﷺ), so he said: 'Indeed, your brother is a righteous man,' or 'Indeed, 'Abdullah is a righteous man.'\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

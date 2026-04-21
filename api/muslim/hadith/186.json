@@ -1,0 +1,16 @@
+{
+  "id": 186,
+  "chapterId": 45,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ إِدْرِيسَ، أَخْبَرَنَا شُعْبَةُ، ح وَحَدَّثَنَا أَبُو\n كُرَيْبٍ حَدَّثَنَا ابْنُ إِدْرِيسَ، أَخْبَرَنَا شُعْبَةُ، عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ الصَّامِتِ،\n عَنْ أَبِي ذَرٍّ، قَالَ إِنَّ خَلِيلِي صلى الله عليه وسلم أَوْصَانِي ‏\n\"‏ إِذَا طَبَخْتَ مَرَقًا فَأَكْثِرْ مَاءَهُ\n ثُمَّ انْظُرْ أَهْلَ بَيْتٍ مِنْ جِيرَانِكَ فَأَصِبْهُمْ مِنْهَا بِمَعْرُوفٍ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Dharr reported Allah's Messenger (ﷺ) commanded me thus:",
+    "text": "Whenever you prepare a broth, add water to it, and have in your mind the members of the household of your neighbours and then give them out of this with courtesy."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

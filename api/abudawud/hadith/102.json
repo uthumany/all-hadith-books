@@ -1,0 +1,16 @@
+{
+  "id": 102,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قِيلَ يَا رَسُولَ اللَّهِ مَا الْغِيبَةُ قَالَ ‏\"‏ ذِكْرُكَ أَخَاكَ بِمَا يَكْرَهُ ‏\"‏ ‏.‏ قِيلَ أَفَرَأَيْتَ إِنْ كَانَ فِي أَخِي مَا أَقُولُ قَالَ ‏\"‏ إِنْ كَانَ فِيهِ مَا تَقُولُ فَقَدِ اغْتَبْتَهُ وَإِنْ لَمْ يَكُنْ فِيهِ مَا تَقُولُ فَقَدْ بَهَتَّهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah said:",
+    "text": "The Messenger of Allah (ﷺ) was asked: Messenger of Allah! What is back-biting? He replied: It is saying something about your brother which he would dislike. He was asked again: Tell me how the matter stands if what I say about my brother is true? He replied: If what you say of him is true, you have slandered him, and if what you say of him is not true, you have reviled him."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

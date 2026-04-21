@@ -1,0 +1,16 @@
+{
+  "id": 152,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ عُمَرَ بْنِ حَمْزَةَ، عَنْ سَالِمٍ، أَنَّ شَاعِرًا، مَدَحَ بِلاَلَ بْنَ عَبْدِ اللَّهِ فَقَالَ بِلاَلُ بْنُ عَبْدِ اللَّهِ خَيْرُ بِلاَلٍ ‏.‏ فَقَالَ ابْنُ عُمَرَ كَذَبْتَ لاَ بَلْ بِلاَلُ رَسُولِ اللَّهِ خَيْرُ بِلاَلٍ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Salim that:",
+    "text": "A poet praised Bilal bin 'Abdullah and said: \"Bilal bin 'Abdullah is better than any other Bilal.\" Ibn 'Umar said: 'You are lying. The Bilal of the Messenger of Allah is better than any other Bilal.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

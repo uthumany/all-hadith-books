@@ -1,0 +1,16 @@
+{
+  "id": 538,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عن أبي عبد الله الزبير بن العوام رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “لأن يأخذ أحدكم أحبله ثم يأتى الجبل فيأتي بحزمة من حطب على ظهره فيبيعها، فيكف الله بها وجهه، خير له من أن يسأل الناس أعطوه أومنعوه‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Zubair bin 'Awwam (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"It is far better for you to take your rope, go to the mountain, (cut some firewood) carry it on your back, and sell it and thereby save your face than begging from people whether they give you or refuse.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

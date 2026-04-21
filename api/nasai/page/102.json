@@ -1,0 +1,510 @@
+{
+  "page": 102,
+  "perPage": 50,
+  "totalPages": 116,
+  "totalCount": 5768,
+  "nextPage": 103,
+  "prevPage": 101,
+  "items": [
+    {
+      "id": 3,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ طَلْقِ بْنِ حَبِيبٍ، قَالَ عَشْرَةٌ مِنَ السُّنَّةِ السِّوَاكُ وَقَصُّ الشَّارِبِ وَالْمَضْمَضَةُ وَالاِسْتِنْشَاقُ وَتَوْفِيرُ اللِّحْيَةِ وَقَصُّ الأَظْفَارِ وَنَتْفُ الإِبْطِ وَالْخِتَانُ وَحَلْقُ الْعَانَةِ وَغَسْلُ الدُّبُرِ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ وَحَدِيثُ سُلَيْمَانَ التَّيْمِيِّ وَجَعْفَرِ بْنِ إِيَاسٍ أَشْبَهُ بِالصَّوَابِ مِنْ حَدِيثِ مُصْعَبِ بْنِ شَيْبَةَ وَمُصْعَبٌ مُنْكَرُ الْحَدِيثِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Talq bin Habib said:",
+        "text": "\"Ten things are from the Sunnah: Using the Siwak, trimming the mustache, rinsing the mouth, rinsing the nose, letting the beard grow, trimming the nails, plucking the armpit hairs, circumcision, shaving the pubes and washing one's backside.\""
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، عَنْ بِشْرٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِسْحَاقَ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَمْسٌ مِنَ الْفِطْرَةِ الْخِتَانُ وَحَلْقُ الْعَانَةِ وَنَتْفُ الضَّبْعِ وَتَقْلِيمُ الظُّفْرِ وَتَقْصِيرُ الشَّارِبِ ‏\"‏ ‏.‏ وَقَفَهُ مَالِكٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah  said: 'Five things are of the Fitrah: Circumcision, shaving the pubes, plucking the armpit hair, clipping the nails and trimming the mustache.'\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنِ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ خَمْسٌ مِنَ الْفِطْرَةِ تَقْلِيمُ الأَظْفَارِ وَقَصُّ الشَّارِبِ وَنَتْفُ الإِبْطِ وَحَلْقُ الْعَانَةِ وَالْخِتَانُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"Five things are of the Fitrah: Clipping the nails, trimming the mustache, plucking the armpit hairs, shaving the pubes, and circumcision.\" (Sahih Mawquf)"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَلْقَمَةَ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَحْفُوا الشَّوَارِبَ وَأَعْفُوا اللِّحَى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar:",
+        "text": "That the Messenger of Allah  said: \"Trim the mustache and let the beard grow.\""
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَلْقَمَةَ، قَالَ سَمِعْتُ ابْنَ عُمَرَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَعْفُوا اللِّحَى وَأَحْفُوا الشَّوَارِبَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar said:",
+        "text": "\"The Messenger of Allah  said: 'Let the beard grow and trim the mustache.'\""
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ يُوسُفَ بْنَ صُهَيْبٍ، يُحَدِّثُ عَنْ حَبِيبِ بْنِ يَسَارٍ، عَنْ زَيْدِ بْنِ أَرْقَمَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ لَمْ يَأْخُذْ شَارِبَهُ فَلَيْسَ مِنَّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Zaid bin Al-Arqam said:",
+        "text": "\"I heard the Messenger of Allah  say: 'Whoever does not take from his mustache, he is not one of us.'\""
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى صَبِيًّا حَلَقَ بَعْضَ رَأْسِهِ وَتَرَكَ بَعْضَ فَنَهَى عَنْ ذَلِكَ وَقَالَ ‏\n\"‏ احْلِقُوهُ كُلَّهُ أَوِ اتْرُكُوهُ كُلَّهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that :",
+        "text": "The Prophet  saw a boy, part of whose head had been shaven and part had been left. He forbade that and said: \"Shave all of it, or leave all of it.\""
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُوسَى الْحَرَشِيُّ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ خِلاَسٍ، عَنْ عَلِيٍّ، نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ تَحْلِقَ الْمَرْأَةُ رَأْسَهَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Ali:",
+        "text": "\"The Messenger of Allah  forbade women to shave their heads.\""
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي عِمْرَانُ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ أَبِي الرِّجَالِ، عَنْ عُمَرَ بْنِ نَافِعٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ نَهَانِي اللَّهُ عَزَّ وَجَلَّ عَنِ الْقَزَعِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Umar that :",
+        "text": "The Prophet  said: \"Allah, the Mighty and Sublime, has forbidden me from Al-Qaza' (to shave part of the head and leave part).\""
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، عَنْ سُفْيَانَ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، رضى الله عنهما قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْقَزَعِ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ حَدِيثُ يَحْيَى بْنِ سَعِيدٍ وَمُحَمَّدِ بْنِ بِشْرٍ أَوْلَى بِالصَّوَابِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "\"The Messenger of Allah  forbade Al-Qaza' (to shave part of the head and leave part).\""
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا سُفْيَانُ، أَخُو قَبِيصَةَ وَمُعَاوِيَةُ بْنُ هِشَامٍ قَالاَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا عَاصِمُ بْنُ كُلَيْبٍ، عَنْ أَبِيهِ، عَنْ وَائِلِ بْنِ حُجْرٍ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَلِي شَعْرٌ فَقَالَ ‏\"‏ ذُبَابٌ ‏\"‏ ‏.‏ فَظَنَنْتُ أَنَّهُ يَعْنِينِي فَأَخَذْتُ مِنْ شَعْرِي ثُمَّ أَتَيْتُهُ فَقَالَ لِي ‏\"‏ لَمْ أَعْنِكَ وَهَذَا أَحْسَنُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Wa'il bin Hujr said:",
+        "text": "\"I came to the Prophet  and I had hair. He said: 'This is bad,' and I thought he meant me, so I cut my hair then I came to him. He said to me: 'I didn't mean you, but this is better.'\""
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسٍ، قَالَ كَانَ شَعْرُ النَّبِيِّ صلى الله عليه وسلم شَعْرًا رَجِلاً لَيْسَ بِالْجَعْدِ وَلاَ بِالسَّبْطِ بَيْنَ أُذُنَيْهِ وَعَاتِقِهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "\"The hair of the Prophet  was wavy, neither curly nor straight, and (hung down) between his ears and his shoulders.\""
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ دَاوُدَ الأَوْدِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ الْحِمْيَرِيِّ، قَالَ لَقِيتُ رَجُلاً صَحِبَ النَّبِيَّ صلى الله عليه وسلم كَمَا صَحِبَهُ أَبُو هُرَيْرَةَ أَرْبَعَ سِنِينَ قَالَ نَهَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَمْتَشِطَ أَحَدُنَا كُلَّ يَوْمٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Humaid bin 'Abdur-Rahman Al-Himyari said:",
+        "text": "\"I met a man who accompanied the Prophet  forbade us from combing our hair everyday.'\""
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ هِشَامِ بْنِ حَسَّانَ، عَنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ التَّرَجُّلِ إِلاَّ غِبًّا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah bin Mughaffal said:",
+        "text": "\"The Messenger of Allah  forbade combing one's hair, except every other day.\""
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ التَّرَجُّلِ إِلاَّ غِبًّا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Al-Hasan that:",
+        "text": "The Prophet  forbade coming one's hair except every other day."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا بِشْرٌ، عَنْ يُونُسَ، عَنِ الْحَسَنِ، وَمُحَمَّدٍ، قَالاَ التَّرَجُّلُ غِبٌّ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Al-Hasan and Muhammad said:",
+        "text": "\"Combing one's hair (should be done) every other day.\""
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، عَنْ كَهْمَسٍ، عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، قَالَ كَانَ رَجُلٌ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم عَامِلاً بِمِصْرَ فَأَتَاهُ رَجُلٌ مِنْ أَصْحَابِهِ فَإِذَا هُوَ شَعِثُ الرَّأْسِ مُشْعَانٌّ قَالَ مَا لِي أَرَاكَ مُشْعَانًّا وَأَنْتَ أَمِيرٌ قَالَ كَانَ نَبِيُّ اللَّهِ صلى الله عليه وسلم يَنْهَانَا عَنِ الإِرْفَاهِ ‏.‏ قُلْنَا وَمَا الإِرْفَاهُ قَالَ التَّرَجُّلُ كُلَّ يَوْمٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah bin Shaqiq said:",
+        "text": "\"One of the Companions of the Prophet  forbade us from Al-Irfah,' and we said: 'What is Al-Irfah?' He said: 'To comb your hair every day.'\""
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، قَالَ حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ مُحَمَّدِ بْنِ بِشْرٍ، عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُحِبُّ التَّيَامُنَ يَأْخُذُ بِيَمِينِهِ وَيُعْطِي بِيَمِينِهِ وَيُحِبُّ التَّيَمُّنَ فِي جَمِيعِ أُمُورِهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Messenger of Allah  used to like to start in the right. He would accept with his right hand and give with his right hand, and he liked to start on the right in all his affairs.\""
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَمَّارٍ، قَالَ حَدَّثَنَا الْمُعَافَى، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ مَا رَأَيْتُ أَحَدًا أَحْسَنَ فِي حُلَّةٍ حَمْرَاءَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَجُمَّتُهُ تَضْرِبُ مَنْكِبَيْهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Al-Bara' said:",
+        "text": "\"I have never seen anyone who looked more handsome in a red Hullah than the Messenger of Allah , with his long hair that came down to his shoulders.\""
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ كَانَ شَعْرُ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَى أَنْصَافِ أُذُنَيْهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "\"The hair of the Messenger of Allah  came halfway down his ears.\""
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدُ الْحَمِيدِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا مَخْلَدٌ، قَالَ حَدَّثَنَا يُونُسُ بْنُ أَبِي إِسْحَاقَ، عَنْ أَبِيهِ، قَالَ حَدَّثَنِي الْبَرَاءُ، قَالَ مَا رَأَيْتُ رَجُلاً أَحْسَنَ فِي حُلَّةٍ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ وَرَأَيْتُ لَهُ لِمَّةً تَضْرِبُ قَرِيبًا مِنْ مَنْكِبَيْهِ ‏.‏",
+      "english": {
+        "narrator": "Al-Bara' said:",
+        "text": "\"I have never seen any man more handsome in a red Hullah than the Messenger of Allah .\" He said: \"And I saw his long hair, coming almost to his shoulders.\""
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الْحَسَنُ بْنُ إِسْمَاعِيلَ بْنِ سُلَيْمَانَ، قَالَ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنِ الأَعْمَشِ، عَنْ أَبِي إِسْحَاقَ، عَنْ هُبَيْرَةَ بْنِ يَرِيمَ، قَالَ قَالَ عَبْدُ اللَّهِ بْنُ مَسْعُودٍ عَلَى قِرَاءَةِ مَنْ تَأْمُرُونِّي أَقْرَأُ لَقَدْ قَرَأْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بِضْعًا وَسَبْعِينَ سُورَةً وَإِنَّ زَيْدًا لَصَاحِبُ ذُؤَابَتَيْنِ يَلْعَبُ مَعَ الصِّبْيَانِ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah bin Mas'ud said:",
+        "text": "\"According to whose recitation do you want me to recite? Because I recited seventy-odd Surahs to the Messenger of Allah  when Zaid had two braids, and was playing with the other boys.\""
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَبُو شِهَابٍ، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي وَائِلٍ، قَالَ خَطَبَنَا ابْنُ مَسْعُودٍ فَقَالَ كَيْفَ تَأْمُرُونِّي أَقْرَأُ عَلَى قِرَاءَةِ زَيْدِ بْنِ ثَابِتٍ بَعْدَ مَا قَرَأْتُ مِنْ فِي رَسُولِ اللَّهِ صلى الله عليه وسلم بِضْعًا وَسَبْعِينَ سُورَةً وَإِنَّ زَيْدًا مَعَ الْغِلْمَانِ لَهُ ذُؤَابَتَانِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Wa'il said:",
+        "text": "\"Ibn Mas'ud addressed us and said: 'How do you want me to recite? According to the recitation of Zaid bin Thabit, when I learned seventy-odd Surahs from the mouth of the Messenger of Allah  while Zaid was with the other boys with two braids?'\""
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ الْمُسْتَمِرِ الْعُرُوقِيُّ، قَالَ حَدَّثَنَا الصَّلْتُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا غَسَّانُ بْنُ الأَغَرِّ بْنِ حُصَيْنٍ النَّهْشَلِيُّ، قَالَ حَدَّثَنِي عَمِّي، زِيَادُ بْنُ الْحُصَيْنِ عَنْ أَبِيهِ، قَالَ لَمَّا قَدِمَ عَلَى النَّبِيِّ صلى الله عليه وسلم بِالْمَدِينَةِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ ادْنُ مِنِّي ‏\"‏ ‏.‏ فَدَنَا مِنْهُ فَوَضَعَ يَدَهُ عَلَى ذُؤَابَتِهِ ثُمَّ أَجْرَى يَدَهُ وَسَمَّتَ عَلَيْهِ وَدَعَا لَهُ ‏.‏",
+      "english": {
+        "narrator": "Ziyad bin Al-Husain narrated that his father said:",
+        "text": "\"When he came to the Prophet  said to him: 'Come closer to me.' So he came closer to him, and he put his hand on his braid and wiped his head and prayed for him.\""
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا قَاسِمٌ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَاصِمِ بْنِ كُلَيْبٍ، عَنْ أَبِيهِ، عَنْ وَائِلِ بْنِ حُجْرٍ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَلِي جُمَّةٌ قَالَ ‏\"‏ ذُبَابٌ ‏\"‏ ‏.‏ وَظَنَنْتُ أَنَّهُ يَعْنِينِي فَانْطَلَقْتُ فَأَخَذْتُ مِنْ شَعْرِي فَقَالَ ‏\"‏ إِنِّي لَمْ أَعْنِكَ وَهَذَا أَحْسَنُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Wa'il bin Hujr said:",
+        "text": "\"I came to the Prophet  and I had long hair. He said: 'It is not good,' and I thought he meant me, so I went and cut my hair. He said: 'I did not mean you, but this is better.'\""
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، وَذَكَرَ، آخَرَ قَبْلَهُ عَنْ عَيَّاشِ بْنِ عَبَّاسٍ الْقِتْبَانِيِّ، أَنَّ شُيَيْمَ بْنَ بَيْتَانَ، حَدَّثَهُ أَنَّهُ، سَمِعَ رُوَيْفِعَ بْنَ ثَابِتٍ، يَقُولُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ يَا رُوَيْفِعُ لَعَلَّ الْحَيَاةَ سَتَطُولُ بِكَ بَعْدِي فَأَخْبِرِ النَّاسَ أَنَّهُ مَنْ عَقَدَ لِحْيَتَهُ أَوْ تَقَلَّدَ وَتَرًا أَوِ اسْتَنْجَى بِرَجِيعِ دَابَّةٍ أَوْ عَظْمٍ فَإِنَّ مُحَمَّدًا بَرِيءٌ مِنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ruwaifi' bin Thabit said:",
+        "text": "\"The Messenger of Allah  said: 'O Ruwaifi', you may live for a long time after me, so tell the people that whoever ties up his beard, or twists it, or hangs an amulet, or cleans himself (after relieving himself) with animal dung or bones, Muhammad has nothing to do with him.'\""
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ عَبْدِ الْعَزِيزِ، عَنْ عُمَارَةَ بْنِ غَزِيَّةَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ نَتْفِ الشَّيْبِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Amr bin Shu'aib, from his father, from his grandfather, that:",
+        "text": "The Messenger of Allah  forbade plucking gray hairs."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعْدِ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عَمِّي، قَالَ حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، قَالَ قَالَ أَبُو سَلَمَةَ إِنَّ أَبَا هُرَيْرَةَ قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ح وَأَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ قَالَ أَخْبَرَنِي يُونُسُ عَنِ ابْنِ شِهَابٍ عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ أَخْبَرَهُ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْيَهُودُ وَالنَّصَارَى لاَ تَصْبُغُ فَخَالِفُوهُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "The Messenger of Allah  said: \"The Jews and Christians do not dye their hair, so be different from them.\""
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated from Abu Hurairah:",
+        "text": "A similar report was narrated from Abu Hurairah, from the Messenger of Allah ."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ أَنْبَأَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ الْيَهُودَ وَالنَّصَارَى لاَ تَصْبُغُ فَخَالِفُوا عَلَيْهِمْ فَاصْبُغُوا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah  said: 'The Jews and the Christians do not dye their hair, so be different from them and dye your hair.'\""
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ، قَالَ حَدَّثَنَا عِيسَى، - وَهُوَ ابْنُ يُونُسَ - عَنِ الأَوْزَاعِيِّ، عَنِ الزُّهْرِيِّ، عَنْ سُلَيْمَانَ، وَأَبِي، سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ الْيَهُودَ وَالنَّصَارَى لاَ تَصْبُغُ فَخَالِفُوهُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "The Prophet  said: \"The Jews and Christians do not dye their hair, so be different from them.\""
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي عُثْمَانُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا أَحْمَدُ بْنُ جَنَابٍ، قَالَ حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ غَيِّرُوا الشَّيْبَ وَلاَ تَشَبَّهُوا بِالْيَهُودِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "\"The Messenger of Allah  said: 'Change gray hair, but do not imitate the Jews.'\""
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا حُمَيْدُ بْنُ مَخْلَدِ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ كُنَاسَةَ، قَالَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ عُثْمَانَ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنِ الزُّبَيْرِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ غَيِّرُوا الشَّيْبَ وَلاَ تَشَبَّهُوا بِالْيَهُودِ ‏\"‏ ‏.‏ وَكِلاَهُمَا غَيْرُ مَحْفُوظٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Az-Zubair said:",
+        "text": "\"The Messenger of Allah  said: 'Change gray hair but do not imitate the Jews.'\""
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ عُبَيْدِ اللَّهِ الْحَلَبِيُّ، عَنْ عُبَيْدِ اللَّهِ، - وَهُوَ ابْنُ عَمْرٍو - عَنْ عَبْدِ الْكَرِيمِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، رَفَعَهُ أَنَّهُ قَالَ ‏\n\"‏ قَوْمٌ يَخْضِبُونَ بِهَذَا السَّوَادِ آخِرَ الزَّمَانِ كَحَوَاصِلِ الْحَمَامِ لاَ يَرِيحُونَ رَائِحَةَ الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas, who attributed it to the Prophet , said:",
+        "text": "\"Some people will dye their hair black like the breasts of pigeons at the end of time, but they will not even smell the fragrance of Paradise.\""
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي ابْنُ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ أُتِيَ بِأَبِي قُحَافَةَ يَوْمَ فَتْحِ مَكَّةَ وَرَأْسُهُ وَلِحْيَتُهُ كَالثَّغَامَةِ بَيَاضًا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ غَيِّرُوا هَذَا بِشَىْءٍ وَاجْتَنِبُوا السَّوَادَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Jabir said:",
+        "text": "\"Abu Quhafah was brought on the Day of the Conquest of Makkah, and his hair and beard were white like the Thaghamah. The Messenger of Allah  said: 'Change this with something, but avoid black.'\""
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ يَعْلَى، قَالَ حَدَّثَنَا بِهِ أَبِي، عَنْ غَيْلاَنَ، عَنْ أَبِي إِسْحَاقَ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَفْضَلُ مَا غَيَّرْتُمْ بِهِ الشَّمَطَ الْحِنَّاءُ وَالْكَتَمُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Dharr that:",
+        "text": "The Prophet  said: \"The best things with which you can change gray hair are Henna and Katam.\""
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ الأَجْلَحِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ أَحْسَنَ مَا غَيَّرْتُمْ بِهِ الشَّيْبَ الْحِنَّاءُ وَالْكَتَمُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Dharr said:",
+        "text": "\"The Messenger of Allah  said: 'The best things with which you can change gray hair are Henna and Katam.'\""
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ أَشْعَثَ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ عِيسَى، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَخْبَرَنِي ابْنُ أَبِي لَيْلَى، عَنِ الأَجْلَحِ، فَلَقِيتُ الأَجْلَحَ فَحَدَّثَنِي عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ، عَنْ أَبِي ذَرٍّ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِنَّ مِنْ أَحْسَنِ مَا غَيَّرْتُمْ بِهِ الشَّيْبَ الْحِنَّاءَ وَالْكَتَمَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Dharr said:",
+        "text": "\"I heard the Prophet  say: 'Some of the best things with which you can change gray hair are Henna and Katam.'\""
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا عَبْثَرٌ، عَنِ الأَجْلَحِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ أَحْسَنَ مَا غَيَّرْتُمْ بِهِ الشَّيْبَ الْحِنَّاءُ وَالْكَتَمُ ‏\"‏ ‏.‏ خَالَفَهُ الْجُرَيْرِيُّ وَكَهْمَسٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Dharr said:",
+        "text": "\"The Messenger of Allah  said: 'The best things with which you can change gray hair are Henna and Katam.'\""
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا الْجُرَيْرِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ أَحْسَنَ مَا غَيَّرْتُمْ بِهِ الشَّيْبَ الْحِنَّاءُ وَالْكَتَمُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah bin Buraidah said:",
+        "text": "\"The Messenger of Allah  said: 'The best things with which you can change gray hair are Henna and Katam.'\""
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ كَهْمَسًا، يُحَدِّثُ عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، أَنَّهُ بَلَغَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ أَحْسَنَ مَا غَيَّرْتُمْ بِهِ الشَّيْبَ الْحِنَّاءُ وَالْكَتَمُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin Buraidah that:",
+        "text": "He heard that the Messenger of Allah  said: \"The best things with which you can change gray hair are Henna and Katam.\""
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ إِيَادِ بْنِ لَقِيطٍ، عَنْ أَبِي رِمْثَةَ، قَالَ أَتَيْتُ أَنَا وَأَبِي النَّبِيَّ، صلى الله عليه وسلم وَكَانَ قَدْ لَطَخَ لِحْيَتَهُ بِالْحِنَّاءِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Rimthah said:",
+        "text": "\"My father and I came to the Prophet  and he had dyed his beard with Henna.\""
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ إِيَادِ بْنِ لَقِيطٍ، عَنْ أَبِي رِمْثَةَ، رَضِيَ اللَّهُ عَنْهُ قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَرَأَيْتُهُ قَدْ لَطَخَ لِحْيَتَهُ بِالصُّفْرَةِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Rimthah said:",
+        "text": "\"I came to the Prophet  and I saw that he had dyed his beard with yellow dye.\""
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا الدَّرَاوَرْدِيُّ، عَنْ زَيْدِ بْنِ أَسْلَمَ، قَالَ رَأَيْتُ ابْنَ عُمَرَ يُصَفِّرُ لِحْيَتَهُ بِالْخَلُوقِ فَقُلْتُ يَا أَبَا عَبْدِ الرَّحْمَنِ إِنَّكَ تُصَفِّرُ لِحْيَتَكَ بِالْخَلُوقِ ‏.‏ قَالَ إِنِّي رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُصَفِّرُ بِهَا لِحْيَتَهُ وَلَمْ يَكُنْ شَىْءٌ مِنَ الصِّبْغِ أَحَبَّ إِلَيْهِ مِنْهَا وَلَقَدْ كَانَ يَصْبُغُ بِهَا ثِيَابَهُ كُلَّهَا حَتَّى عِمَامَتَهُ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ وَهَذَا أَوْلَى بِالصَّوَابِ مِنْ حَدِيثِ قُتَيْبَةَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Zaid bin Aslam said:",
+        "text": "\"I saw Ibn 'Umar dyeing his beard yellow with Khaluq and I said: 'O Abu 'Abdur-Rahman, are you dyeing your beard yellow with Khaluq?' He said: 'I saw the Messenger of Allah  dyeing his beard yellow with it, and there was no other kind of dye that was dearer to him than this. He used to dye all of his clothes with it, even his 'Imamah (turban).'\""
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّهُ سَأَلَهُ هَلْ خَضَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ لَمْ يَبْلُغْ ذَلِكَ إِنَّمَا كَانَ شَىْءٌ فِي صُدْغَيْهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Qatadah :",
+        "text": "That he asked Anas: \"Did the Messenger of Allah  dye his hair? He said: \"His gray hair didn't go far, it was only a little at his temples.\""
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عَبْدُ الصَّمَدِ، قَالَ حَدَّثَنَا الْمُثَنَّى، - يَعْنِي ابْنَ سَعِيدٍ - قَالَ حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمْ يَكُنْ يَخْضِبُ إِنَّمَا كَانَ الشَّمَطُ عِنْدَ الْعَنْفَقَةِ يَسِيرًا وَفِي الصُّدْغَيْنِ يَسِيرًا وَفِي الرَّأْسِ يَسِيرًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Anas that:",
+        "text": "The Messenger of Allah  did not dye his hair; his gray hair were only a little beneath his lower lip and at his temples, and a little on his head."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ الرُّكَيْنَ، يُحَدِّثُ عَنِ الْقَاسِمِ بْنِ حَسَّانَ، عَنْ عَمِّهِ عَبْدِ الرَّحْمَنِ بْنِ حَرْمَلَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم كَانَ يَكْرَهُ عَشْرَ خِصَالٍ الصُّفْرَةَ يَعْنِي الْخَلُوقَ وَتَغْيِيرَ الشَّيْبِ وَجَرَّ الإِزَارِ وَالتَّخَتُّمَ بِالذَّهَبِ وَالضَّرْبَ بِالْكِعَابِ وَالتَّبَرُّجَ بِالزِّينَةِ لِغَيْرِ مَحِلِّهَا وَالرُّقَى إِلاَّ بِالْمُعَوِّذَاتِ وَتَعْلِيقَ التَّمَائِمِ وَعَزْلَ الْمَاءِ بِغَيْرِ مَحِلِّهِ وَإِفْسَادَ الصَّبِيِّ غَيْرَ مُحَرِّمِهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin Mas'ud that:",
+        "text": "The Prophet of Allah  disliked ten things: Yellow dye, meaning Khaluq, changing gray hair, dragging one's Izar, wearing gold rings, playing with dice (Ki'ab), (a woman) showing her adornment to people to whom it is not permissible for her to show it, reciting Ruqyah, unless it is with Al-Mu'awidhat (Verses seeking refuge with Allah), hanging amulets, removing to ejaculate in other than the right place, and taking away the milk of an infant boy (by having intercourse with his mother)- but he did not say that this is Haram."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا الْمُعَلَّى بْنُ أَسَدٍ، قَالَ حَدَّثَنَا مُطِيعُ بْنُ مَيْمُونٍ، حَدَّثَتْنَا صَفِيَّةُ بِنْتُ عِصْمَةَ، عَنْ عَائِشَةَ، أَنَّ امْرَأَةً، مَدَّتْ يَدَهَا إِلَى النَّبِيِّ صلى الله عليه وسلم بِكِتَابٍ فَقَبَضَ يَدَهُ فَقَالَتْ يَا رَسُولَ اللَّهِ مَدَدْتُ يَدِي إِلَيْكَ بِكِتَابٍ فَلَمْ تَأْخُذْهُ ‏.‏ فَقَالَ ‏\"‏ إِنِّي لَمْ أَدْرِ أَيَدُ امْرَأَةٍ هِيَ أَوْ رَجُلٍ ‏\"‏ ‏.‏ قَالَتْ بَلْ يَدُ امْرَأَةٍ ‏.‏ قَالَ ‏\"‏ لَوْ كُنْتِ امْرَأَةً لَغَيَّرْتِ أَظْفَارَكِ بِالْحِنَّاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that:",
+        "text": "A woman reached out her hand (to give) a letter to the Prophet , and he withdrew his hand. She said: \"O Messenger of Allah, I reached out my hand (to give you) a letter and you did not take it.\" He said: \"I did not know whether it was the hand of a woman or a man.\" She said: \"It is the hand of a woman.\" He said: \"If you were a woman, you would change your nails (by dyeing them with Henna).\""
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا أَبُو زَيْدٍ، سَعِيدُ بْنُ الرَّبِيعِ قَالَ حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ، قَالَ سَمِعْتُ كَرِيمَةَ، قَالَتْ سَمِعْتُ عَائِشَةَ، سَأَلَتْهَا امْرَأَةٌ عَنِ الْخِضَابِ، بِالْحِنَّاءِ قَالَتْ لاَ بَأْسَ بِهِ وَلَكِنْ أَكْرَهُ هَذَا لأَنَّ حِبِّي صلى الله عليه وسلم كَانَ يَكْرَهُ رِيحَهُ ‏.‏ تَعْنِي النَّبِيَّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Karimah said:",
+        "text": "\"I heard a woman asking 'Aishah about dyeing the hair with Henna. She said: 'There is nothing wrong with it, but I do not like to do it because my beloved- meaning the Prophet - disliked its smell.'\""
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 48,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْحَكَمِ، قَالَ حَدَّثَنَا أَبِي وَأَبُو الأَسْوَدِ النَّضْرُ بْنُ عَبْدِ الْجَبَّارِ، قَالاَ حَدَّثَنَا الْمُفَضَّلُ بْنُ فَضَالَةَ، عَنْ عَيَّاشِ بْنِ عَبَّاسٍ الْقِتْبَانِيِّ، عَنْ أَبِي الْحُصَيْنِ الْهَيْثَمِ بْنِ شُفَىٍّ، - وَقَالَ أَبُو الأَسْوَدِ شَفِيٌّ - إِنَّهُ سَمِعَهُ يَقُولُ خَرَجْتُ أَنَا وَصَاحِبٌ، لِي يُسَمَّى أَبَا عَامِرٍ - رَجُلٌ مِنَ الْمَعَافِرِ - لِنُصَلِّيَ بِإِيلِيَاءَ وَكَانَ قَاصُّهُمْ رَجُلاً مِنَ الأَزْدِ يُقَالُ لَهُ أَبُو رَيْحَانَةَ مِنَ الصَّحَابَةِ قَالَ أَبُو الْحُصَيْنِ فَسَبَقَنِي صَاحِبِي إِلَى الْمَسْجِدِ ثُمَّ أَدْرَكْتُهُ فَجَلَسْتُ إِلَى جَنْبِهِ فَقَالَ هَلْ أَدْرَكْتَ قَصَصَ أَبِي رَيْحَانَةَ فَقُلْتُ لاَ ‏.‏ فَقَالَ سَمِعْتُهُ يَقُولُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ عَشْرٍ عَنِ الْوَشْرِ وَالْوَشْمِ وَالنَّتْفِ وَعَنْ مُكَامَعَةِ الرَّجُلِ الرَّجُلَ بِغَيْرِ شِعَارٍ وَعَنْ مُكَامَعَةِ الْمَرْأَةِ الْمَرْأَةَ بِغَيْرِ شِعَارٍ وَأَنْ يَجْعَلَ الرَّجُلُ أَسْفَلَ ثِيَابِهِ حَرِيرًا مِثْلَ الأَعَاجِمِ أَوْ يَجْعَلَ عَلَى مَنْكِبَيْهِ حَرِيرًا أَمْثَالَ الأَعَاجِمِ وَعَنِ النُّهْبَى وَعَنْ رُكُوبِ النُّمُورِ وَلُبُوسِ الْخَوَاتِيمِ إِلاَّ لِذِي سُلْطَانٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Al-Husain Al-Haitham bin Shufayy that he said:",
+        "text": "\"A friend of mine who was called Abu 'Amir, from Al-Ma'afir, and I went out to pray in Jerusalem. Their preacher was a man from (the tribe of) Azd who was called Abu Raihanah, one of the Companions.\" Abu Al-Husain said: \"My companion reached the Masjid before I did, then I caught up with him, and sat beside him. He said: 'Have you heard the preaching of Abu Raihanah?' I said: 'No.' He said: 'I heard him say: 'The Messenger of Allah  forbade ten things: Filing (the teeth), tattoos, plucking (hair), for two men to lie under one cover with no barrier between them, for two women to lie under one cover with no barrier between them, for a man to add more than four fingers' width of silk to the bottom of his garment like the foreigners (Persians), (and he forbade) plundering, riding (while sitting on) leopard skins and wearing rings- except for rulers.\""
+      }
+    }
+  ]
+}

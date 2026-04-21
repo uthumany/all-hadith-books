@@ -1,0 +1,16 @@
+{
+  "id": 234,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “المسلم أخو المسلم لا يخونه ولا يكذبه ولا يخذله، كل المسلم على المسلم حرام عرضه وماله ودمه، التقوى ههنا، بحسب امرئ من الشر أن يحقر أخاه المسلم” ‏(‏‏(‏رواه الترمذي وقال ‏:‏حديث حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah bepleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"A Muslim is a brother to a Muslim. He should neither deceive him nor lie to him, nor leave him without assistance. Everything belonging to a Muslim is inviolable for a Muslim; his honour, his blood and property. Piety is here (and he pointed out to his chest thrice). It is enough for a Muslim to commit evil by despising his Muslim brother.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

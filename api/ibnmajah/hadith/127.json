@@ -1,0 +1,16 @@
+{
+  "id": 127,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ سِنَانٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا إِسْحَاقُ، عَنْ مُوسَى بْنِ طَلْحَةَ، قَالَ كُنَّا عِنْدَ مُعَاوِيَةَ فَقَالَ أَشْهَدُ لَسَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ طَلْحَةُ مِمَّنْ قَضَى نَحْبَهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Musa bin Talhah said:",
+    "text": "We were with Mu'awiyah and he said: \"I heard the Messenger of Allah say: 'Talhah is one of those who fulfilled their covenant.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

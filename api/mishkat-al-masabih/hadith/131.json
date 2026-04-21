@@ -1,0 +1,16 @@
+{
+  "id": 131,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَمَّارِ بْنِ يَاسِرٍ قَالَ: قَدِمْتُ عَلَى أَهْلِي مِنْ سَفَرٍ وَقَدْ تَشَقَّقَتْ يَدَايَ فَخَلَّقُونِي بِزَعْفَرَانٍ فَغَدَوْتُ عَلَى النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَسَلَّمْتُ عَلَيْهِ فَلَمْ يَرُدَّ عَلَيَّ وَقَالَ: «اذْهَبْ فَاغْسِلْ هَذَا عَنْكَ» . رَوَاهُ أَبُو دَاوُدَ",
+  "english": {
+    "narrator": "‘Ammar b. Yasir said :",
+    "text": "I came to my family after a journey with my hands chapped and they perfumed me with saffron. In the morning I went to the Prophet and gave him a greeting, but instead of responding to it he said, “Go away and wash this off yourself.” \nAbu Dawud transimitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "page": 35,
+  "perPage": 50,
+  "totalPages": 36,
+  "totalCount": 1767,
+  "nextPage": 36,
+  "prevPage": 34,
+  "items": [
+    {
+      "id": 67,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَلَهُ مِنْ حَدِيثِ اِبْنِ مَسْعُودٍ ‏-رَفَعَهُ‏-: { لَيْسَ اَلْمُؤْمِنُ بِالطَّعَّانِ, وَلَا اَللَّعَّانُ, وَلَا اَلْفَاحِشَ, وَلَا اَلْبَذِيءَ }  وَحَسَّنَهُ, وَصَحَّحَهُ اَلْحَاكِمُ, وَرَجَّحَ اَلدَّارَقُطْنِيُّ وَقْفَهُ.‏ .‏",
+      "english": {
+        "narrator": "At-Tirmidhi also related on the authority of Ibn Mas'ud (RAA) that the Messenger of Allah (ﷺ) said:",
+        "text": "“The believer is not a slanderer, nor does he curse others, and nor is he immoral or shameless.” Related by At-Tirmidhi who graded it to be Hasan. Al-Hakim graded it as Sahih and Ad-Daraqutni said that it is most probably Mawquf (traced only to a Companion)."
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا تَسُبُّوا اَلْأَمْوَاتَ ; فَإِنَّهُمْ قَدْ أَفْضَوْا إِلَى مَا قَدَّمُوا }  أَخْرَجَهُ اَلْبُخَارِيُّ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (1393)‏.‏",
+      "english": {
+        "narrator": "A’ishah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Avoid reviling the dead, they have already seen the result of (the deeds) that they forwarded before them.” Related by Al-Bukhari."
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ حُذَيْفَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا يَدْخُلُ اَلْجَنَّةَ قَتَّاتٌ }  مُتَّفَقٌ عَلَيْهِ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6056)‏، ومسلم (105)‏ والقتات:\" النمام\" كما وقع ذلك في رواية مسلم.‏",
+      "english": {
+        "narrator": "Hudhaifah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“A backbiter will not enter Paradise.” Agreed upon."
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ كَفَّ غَضَبَهُ, كَفَّ اَللَّهُ عَنْهُ عَذَابَهُ }  أَخْرَجَهُ اَلطَّبَرَانِيُّ فِي\n\" اَلْأَوْسَطِ\".‏  1‏ .‏‏1 ‏- صحيح بشواهده، وحديث أنس عند أبي يعلى، والدولابي أيضا.‏",
+      "english": {
+        "narrator": "Anas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“If one restrained his anger, Allah will keep His punishment from him (on the Day of Resurrection).” Related by At-Tabarani in al-Awsat."
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَلَهُ شَاهِدٌ: مِنْ حَدِيثِ اِبْنِ عُمَرَ عِنْدَ اِبْنِ أَبِي اَلدُّنْيَا.‏  1‏ .‏‏1 ‏- صحيح كسابقه، وهو أحد شواهد الحديث السابق، إلا أن لفظه:\" من كف غضبه ستر الله عورته\"، وهو عند الطبراني في\" الكبير\" ‏-أيضا‏-.‏",
+      "english": {
+        "narrator": "",
+        "text": "The aforementioned hadith is supported by a narration on the authority of Ibn ’Umar related by Ibn Abi Ad-Dunia."
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي بَكْرٍ اَلصِّدِّيقِ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا يَدْخُلُ اَلْجَنَّةَ خِبٌّ, وَلَا بَخِيلٌ, وَلَا سَيِّئُ اَلْمَلَكَةِ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ, وَفَرَّقَهُ حَدِيثَيْنِ, وَفِي إِسْنَادِهِ ضَعْفٌ.‏  1‏ .‏‏1 ‏- ضعيف.‏ رواه الترمذي (1947و 1964)‏ وقال في الموطن الأول:\" حديث غريب\"، وفي الموطن الثاني:\" حسن غريب\".‏ قلت: وفيه فرقد بن يعقوب السبخي، وهو\" ضعيف\".‏",
+      "english": {
+        "narrator": "Abu Bakr as-Siddiq (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“A crafty person, a miser and one who badly treats those under his authority will not enter Paradise.” Related by At-Tirmidhi in two separate traditions and there is a weakness in its chain of narrators."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ تَسَمَّعَ حَدِيثَ قَوْمٍ, وَهُمْ لَهُ كَارِهُونَ, صُبَّ فِي أُذُنَيْهِ اَلْآنُكُ يَوْمَ اَلْقِيَامَةِ }  يَعْنِي: اَلرَّصَاصَ.‏ أَخْرَجَهُ اَلْبُخَارِيُّ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (7042)‏ وأوله:\" من تحلم بحلم لم يره كلف أن يعقد بين شعيرتين، ولن يفعل.‏.‏.‏.‏.‏\" فذكر الحديث.‏ وزاد:\" ومن صور صورة، عذب، وكلف أن ينفخ فيها، وليس بنافخ\".‏",
+      "english": {
+        "narrator": "Ibn ’Abbas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“If anyone listened to the talk of some people, when they do not like him to do that, then molten led will be poured into his ears on the Day of Resurrection.” Related by Al-Bukhari."
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ طُوبَى لِمَنْ شَغَلَهُ عَيْبَهُ عَنْ عُيُوبِ اَلنَّاسِ }  أَخْرَجَهُ اَلْبَزَّارُ بِإِسْنَادٍ حَسَنٍ.‏  1‏ .‏‏1 ‏- ضعيف جدا وله شواهد، ولكنها كلها ضعيفة ‏-أيضا‏- كما قال الحافظ العراقي.‏",
+      "english": {
+        "narrator": "Anas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Blessed is he who is preoccupied with his defects rather than those of other people.” Related by Al-Bazzar with a good chain of narrators."
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ تَعَاظَمَ فِي نَفْسِهِ, وَاخْتَالَ فِي مِشْيَتِهِ, لَقِيَ اَللَّهَ وَهُوَ عَلَيْهِ غَضْبَانُ }  أَخْرَجَهُ اَلْحَاكِمُ وَرِجَالُهُ ثِقَاتٌ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه الحاكم (1 / 60)‏، والبخاري في\" الأدب المفرد\" (549)‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever exalts himself and walks proudly; Allah will be angry with him when he meets Him (on the Day of Resurrection).” Related Al-Hakim with a reliable chain of narrators."
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ سَهْلِ بْنِ سَعْدٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْعَجَلَةُ مِنَ اَلشَّيْطَانِ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ, وَقَالَ: حَسَنٌ.‏  1‏ .‏‏1 ‏- ضعيف.‏ رواه الترمذي (2012)‏ من طريق عبد المهيمن بن عباس بن سهل بن سعد الساعدي، عن أبيه، عن جده، به.‏ وزاد في أوله:\" الأناة من الله.‏.‏.‏.‏\".‏ وكذا نقل الحافظ هنا التحسين عن الترمذي، ونقل عنه صاحب\" التحفة\" (4 / 129)‏:\" حسن غريب\".‏ والذي في المطبوع قوله:\" هذا حديث غريب، وقد تكلم بعض أهل الحديث في عبد المهيمن بن عباس بن سهل، وضعفه من قبل حفظه.‏",
+      "english": {
+        "narrator": "Sahl bin Sa’d (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Haste comes from Satan.” Related by At-Tirmidhi who graded is as Hasan."
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { اَلشُّؤْمُ: سُوءُ اَلْخُلُقِ }  أَخْرَجَهُ أَحْمَدُ وَفِي إِسْنَادِهِ ضَعْفٌ.‏  1‏ .‏‏1 ‏- ضعيف.‏ رواه أحمد (6 / 85)‏ وسنده ضعيف، وقد روي الحديث من طرق أخرى لكنها ضعيفة كلها؛ ولهذا قال العراقي:\" حديث لا يصح\".‏",
+      "english": {
+        "narrator": "'A'ishah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Pessimism is part of bad character.” Related by Ahmad with a weak chain of narrators."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي اَلدَّرْدَاءِ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ اَللَّعَّانِينَ لَا يَكُونُونَ شُفَعَاءَ, وَلَا شُهَدَاءَ يَوْمَ اَلْقِيَامَةِ }  أَخْرَجَهُ مُسْلِمٌ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2589)‏ (86)‏.‏",
+      "english": {
+        "narrator": "Abu ad-Darda’ (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Men accustomed to cursing will not be intercessors or witnesses on the Day of Resurrection.” Related by Muslim."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ مُعَاذِ بْنِ جَبَلٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ عَيَّرَ أَخَاهُ بِذَنْبٍ, لَمْ يَمُتْ حَتَّى يَعْمَلَهُ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ وَحَسَّنَهُ, وَسَنَدُهُ مُنْقَطِعٌ.‏  1‏ .‏‏1 ‏- موضوع.‏ رواه الترمذي (2505)‏ من طريق خال بن معدان عن معاذ.‏ وقال:\" حديث حسن غريب، وليس إسناده بمتصل، وخالد بن معدان لم يدرك معاذ بن جبل\".‏ قلت: وفي سند محمد بن الحسن الهمداني وهو\" كذاب\".‏",
+      "english": {
+        "narrator": "Mu'adh bin Jabal (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“If anyone disgraces his brother for a sin, he will not die before committing it himself.” Related At-Tirmidhi who graded it to be Hasan."
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ بَهْزِ بْنِ حَكِيمٍ, عَنْ أَبِيهِ, عَنْ جَدِّهِ: قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ وَيْلٌ لِلَّذِي يُحَدِّثُ, فَيَكْذِبُ ; لِيَضْحَكَ بِهِ اَلْقَوْمُ, وَيْلٌ لَهُ, ثُمَّ وَيْلٌ لَهُ }  أَخْرَجَهُ اَلثَّلَاثَةُ, وَإِسْنَادُهُ قَوِيٌّ.‏  1‏ .‏‏1 ‏- حسن.‏ رواه أبو داود (4990)‏ والنسائي في\" التفسير\" (146 و 675)‏.‏ والترمذي (2315)‏، وقال الترمذي:\" هذا حديث حسن.‏",
+      "english": {
+        "narrator": "Bahz bin Hakim narrated on the authority of his father, on the authority of his grandfather (RAA) that the Messenger of Allah (ﷺ) said:",
+        "text": "“Woe to him who lies in his talk to make the people laugh, Woe to him! Woe to him!” Related by the three Imams with a strong chain of narrators."
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { كَفَّارَةٌ مَنْ اِغْتَبْتَهُ أَنْ تَسْتَغْفِرَ لَهُ }  رَوَاهُ اَلْحَارِثُ بْنُ أَبِي أُسَامَةَ بِسَنَدٍ ضَعِيفٍ.‏  1‏ .‏‏1 ‏- موضوع ففي سند عنبسة بن عبد الرحمن القرشي، وكان يضع الحديث.‏",
+      "english": {
+        "narrator": "Anas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“The atonement of backbiting a man is to ask Allah to forgive him.” Related by Al-Harith bin Abu Usamah with a weak chain of narrators."
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ أَبْغَضُ اَلرِّجَالِ إِلَى اَللَّهِ اَلْأَلَدُّ اَلْخَصِمُ }  أَخْرَجَهُ مُسْلِمٌ.‏  1‏‏1 ‏- صحيح رواه مسلم (2668)‏ ، وزاد في أوله \"إن\" .‏ والحديث رواه البخاري (7188)‏ فكان الأولى بالحافظ رحمه الله أن يقول : : متفق عليه \" .‏",
+      "english": {
+        "narrator": "'A’ishah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“The most despicable amongst people in the sight of Allah is the ruthless argumentative (person).” Related by Muslim."
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "عَنِ اِبْنِ مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ عَلَيْكُمْ بِالصِّدْقِ, فَإِنَّ اَلصِّدْقَ يَهْدِي إِلَى اَلْبِرِّ, وَإِنَّ اَلْبِرَّ يَهْدِي إِلَى اَلْجَنَّةِ, وَمَا يَزَالُ اَلرَّجُلُ يَصْدُقُ, وَيَتَحَرَّى اَلصِّدْقَ, حَتَّى يُكْتَبَ عِنْدَ اَللَّهِ صِدِّيقًا, وَإِيَّاكُمْ وَالْكَذِبَ, فَإِنَّ اَلْكَذِبَ يَهْدِي إِلَى اَلْفُجُورِ, وَإِنَّ اَلْفُجُورَ يَهْدِي إِلَى اَلنَّارِ, وَمَا يَزَالُ اَلرَّجُلُ يَكْذِبُ, وَيَتَحَرَّى اَلْكَذِبَ, حَتَّى يُكْتَبَ عِنْدَ اَللَّهِ كَذَّابًا }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2668)‏، وزاد في أوله:\" إن\" والحديث رواه البخاري (7188)‏ فكان الأولى بالحافظ ‏-رحمه الله‏- أن يقول:\" متفق عليه\".‏",
+      "english": {
+        "narrator": "Ibn Mas'ud (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Adhere (you people) to truth, for truth leads to good deeds and good deeds lead to Paradise, and if a man continues to speak the truth and makes truth his object he will be recorded as truthful before Allah. Avoid (you people) falsehood, for falsehood leads to wickedness and wickedness leads to Hell, and if a man continues to speak falsehood and makes falsehood his object he will be recorded as a liar before Allah.” Agreed upon."
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { إِيَّاكُمْ وَالظَّنَّ, فَإِنَّ اَلظَّنَّ أَكْذَبُ اَلْحَدِيثِ }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6094)‏، ومسلم (2607)‏ (105)‏ والسياق لمسلم.‏",
+      "english": {
+        "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Beware of suspicion, for suspicion amounts to the worst form of lying.” Agreed upon."
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِيَّاكُمْ وَالْجُلُوسَ بِالطُّرُقَاتِ.‏ \nقَالُوا: يَا رَسُولَ اَللَّهِ! مَا لَنَا بُدٌّ مِنْ مَجَالِسِنَا; نَتَحَدَّثُ فِيهَا.‏ \nقَالَ\n\" فَأَمَّا إِذَا أَبَيْتُمْ, فَأَعْطُوا اَلطَّرِيقَ حَقَّهُ.‏ \nقَالُوا: وَمَا حَقُّهُ? \nقَالَ:\" غَضُّ اَلْبَصَرِ, وَكَفُّ اَلْأَذَى, وَرَدُّ اَلسَّلَامِ, وَالْأَمْرُ بِالْمَعْرُوفِ, وَالنَّهْيُ عَنْ اَلْمُنْكَرِ.‏ } مُتَّفَقٌ عَلَيْهِ .‏ 1‏ .‏‏1 ‏- صحيح رواه البخاري (6229)‏، ومسلم (2121)‏.‏",
+      "english": {
+        "narrator": "Abu Said al-Khudri (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Avoid sitting by the road side.” The people then said, ‘O Allah‘s Messenger (ﷺ), we cannot do without those meeting places in which we converse” So he said, “Well, if you insist (on that) give the road its due rights.” They asked, ‘What are the road’s due rights?’ He replied, “Lowering your gaze, abstaining from anything offensive, returning salutations, enjoining the right (Ma'ruf) and forbidding from evil deeds (Munkar).” Agreed upon."
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ مُعَاوِيَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ يُرِدِ اَللَّهُ بِهِ خَيْرًا, يُفَقِّهْهُ فِي اَلدِّينِ }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (71)‏، ومسلم (1037)‏.‏",
+      "english": {
+        "narrator": "Mu’awiyah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“When Allah wishes good for anyone, He bestows upon him the Fiqh (comprehension) of the religion.” Agreed upon."
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي اَلدَّرْدَاءِ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَا مِنْ شَيْءٍ فِي اَلْمِيزَانِ أَثْقَلُ مِنْ حُسْنِ اَلْخُلُقِ }  أَخْرَجَهُ أَبُو دَاوُدَ, وَاَلتِّرْمِذِيُّ وَصَحَّحَهُ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (4799)‏، وهو طرف من الحديث السابق (1502)‏.‏",
+      "english": {
+        "narrator": "Abu ad-Darda’ (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“The heaviest thing which will be put on the believer’s scale (on the Day of Resurrection) will be good morals.” Related by Abu Dawud and At-Tirmidhi who graded it as Sahih."
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنِ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْحَيَاءُ مِنْ اَلْإِيمَانِ }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (24)‏، ومسلم (36)‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Haya (modesty, bashfulness etc.) is a part of Faith.” Agreed upon."
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ مِمَّا أَدْرَكَ اَلنَّاسُ مِنْ كَلَامِ اَلنُّبُوَّةِ اَلْأُولَى: إِذَا لَمْ تَسْتَحِ, فَاصْنَعْ مَا شِئْتَ }  أَخْرَجَهُ اَلْبُخَارِيُّ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6120)‏ وأما قول صاحب\" السبل\" بأن لفظ\" الأولى\" ليس في البخاري، فهو من أوهامه.‏",
+      "english": {
+        "narrator": "Ibn Mas’ud (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“One of the things people have learned from the words of the earliest prophecies is, “If you don’t feel any shame, do whatever you like.” Related by Al-Bukhari."
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْمُؤْمِنُ اَلْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اَللَّهِ مِنْ اَلْمُؤْمِنِ اَلضَّعِيفِ, وَفِي كُلٍّ خَيْرٌ, اِحْرِصْ عَلَى مَا يَنْفَعُكَ, وَاسْتَعِنْ بِاَللَّهِ, وَلَا تَعْجَزْ, وَإِنْ أَصَابَكَ شَيْءٌ فَلَا تَقُلْ: لَوْ أَنِّي فَعَلْتُ كَانَ كَذَا وَكَذَا, وَلَكِنْ قُلْ: قَدَّرَ اَللَّهُ وَمَا شَاءَ فَعَلَ; فَإِنَّ لَوْ تَفْتَحُ عَمَلَ اَلشَّيْطَانِ }  أَخْرَجَهُ مُسْلِمٌ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2664)‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“A believer who is strong (and healthy) is better and dearer to Allah than the weak believer, but there is goodness in both of them. Be keen on what benefits you and seek help from Allah, and do not give up. If anything afflicts you do not say, ‘If I had done such and such things, such and such would have happened.’ But say, ‘Allah decrees and what He wills He does,’ for (the utterance) ‘If I had’ provides an opening for the deeds of the devil.” Related by Muslim."
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ عِيَاضِ بْنِ حِمَارٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ اَللَّهَ أَوْحَى إِلَيَّ أَنْ تَوَاضَعُوا, حَتَّى لَا يَبْغِيَ أَحَدٌ عَلَى أَحَدٍ, وَلَا يَفْخَرَ أَحَدٌ عَلَى أَحَدٍ }  أَخْرَجَهُ مُسْلِمٌ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2865)‏ (64)‏.‏",
+      "english": {
+        "narrator": "’Iyad bin Himar (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Allah, the Most High has revealed to me that you (people) should be humble, so that no one transgresses another, or boasts to the other.” Related by Muslim."
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي اَلدَّرْدَاءِ ‏- رضى الله عنه ‏- عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { مَنْ رَدَّ عَنْ عِرْضِ أَخِيهِ بِالْغَيْبِ, رَدَّ اَللَّهُ عَنْ وَجْهِهِ اَلنَّارَ يَوْمَ اَلْقِيَامَةِ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ, وَحَسَّنَهُ .‏  1‏ .‏‏1 ‏- حسن.‏ رواه الترمذي (1931)‏، وقال:\" هذا حديث حسن\".‏ قلت: ويشهد له ما بعده.‏",
+      "english": {
+        "narrator": "Abu ad-Darda’ (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“If a Muslim defends his brother’s honor in his absence, Allah will protect his face from the fire of Hell on the Day of Resurrection.” Related by At-Tirmidhi who graded it to be Hasan."
+      }
+    },
+    {
+      "id": 93,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَلِأَحْمَدَ, مِنْ حَدِيثِ أَسْمَاءَ بِنْتِ يَزِيدَ نَحْوُهُ .‏  1‏ .‏‏1 ‏- حسن.‏ رواه أحمد (6 / 461)‏‏- بسند ضعيف، لكنه حسن بما قبله‏- ولفظه:\" من ذب عن لحم أخيه في الغيبة، كان حقا على الله أن يعتقه من النار\".‏",
+      "english": {
+        "narrator": "",
+        "text": "Ahmad related a similar hadith on the authority of Asma the daughter of Yazid."
+      }
+    },
+    {
+      "id": 94,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ, وَمَا زَادَ اَللَّهُ عَبْدًا بِعَفْوٍ إِلَّا عِزًّا, وَمَا تَوَاضَعَ أَحَدٌ لِلَّهِ إِلَّا رَفَعَهُ }  أَخْرَجَهُ مُسْلِمٌ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2588)‏ وزاد:\" الله\".‏",
+      "english": {
+        "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Sadaqah does not decrease property and Allah increases the honor of him who forgives and no one will humble himself for Allah’s sake except that Allah raises his status.” Related by Muslim."
+      }
+    },
+    {
+      "id": 95,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَبْدِ اَللَّهِ بْنِ سَلَّامٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ يَا أَيُّهَا اَلنَّاسُ! أَفْشُوا اَلسَّلَام, وَصِلُوا اَلْأَرْحَامَ, وَأَطْعِمُوا اَلطَّعَامَ, وَصَلُّوا بِاللَّيْلِ وَالنَّاسُ نِيَامٌ, تَدْخُلُوا اَلْجَنَّةَ بِسَلَامٍ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ وَصَحَّحَهُ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه الترمذي (2485)‏ عن عبد الله بن سلام قال:\" لما قدم رسول الله ‏-صلى الله عليه وسلم‏- المدينة انجفل الناس إليه، وقيل: قدم رسول الله ‏-صلى الله عليه وسلم‏-.‏ قدم رسول الله ‏-صلى الله عليه وسلم‏-، فجئت في الطريق لأنظر إليه، فلما استثبت وجه رسول الله ‏-صلى الله عليه وسلم‏- عرفت أن وجهه ليس بوجه كذاب، وكان أول شيء تكلم به، أن قال فذكره، وقال:\" هذا حديث صحيح\".‏",
+      "english": {
+        "narrator": "'Abdullah bin Salam (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“O people, extend greetings (saying Salam to each other), keep relations with your kin, provide food (to people) and pray at night when people are asleep and you will enter Paradise in peace.” Related by At-Tirmidhi who graded it as Sahih."
+      }
+    },
+    {
+      "id": 96,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ تَمِيمٍ الدَّارِيِّ ‏- رضى الله عنه ‏- قَالَ: قَالَ ‏- صلى الله عليه وسلم ‏-{ اَلدِّينُ اَلنَّصِيحَةُ\n\" ثَلَاثًا.‏ قُلْنَا: لِمَنْ يَا رَسُولَ اَللَّهِ? قَالَ:\" لِلَّهِ وَلِكِتَابِهِ وَلِرَسُولِهِ وَلِأَئِمَّةِ اَلْمُسْلِمِينَ وَعَامَّتِهِمْ }  أَخْرَجَهُ مُسْلِمٌ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (55)‏ وليس عنده لفظ:\" ثلاثا\" ولا كررت جملة:\" الدين النصيحة\"، وإن جاء ذلك عند غيره إما إشارة أو تكرارا، كما وقع ذلك ‏-أيضا‏- في غير حديث تميم.‏",
+      "english": {
+        "narrator": "Tamim ad-Dari (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“The religion is Nasihah.” the people said, ‘To whom should it be directed?’ He replied, “To Allah, His Book, His Messenger (ﷺ), to the leaders of the Muslims and to the common folk of the Muslims.” Related by Muslim."
+      }
+    },
+    {
+      "id": 97,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ أَكْثَرُ مَا يُدْخِلُ اَلْجَنَّةَ تَقْوى اَللَّهِ وَحُسْنُ اَلْخُلُقِ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ, وَصَحَّحَهُ اَلْحَاكِمُ .‏  1‏ .‏‏1 ‏- حسن.‏ رواه الترمذي (2004)‏ وابن ماجه (4246)‏، والحاكم (4 / 324)‏ وعندهم أن النبي ‏-صلى الله عليه وسلم‏- سئل عن أكثر ما يدخل الجنة؟ فقال:\" تقوى الله.‏.‏.‏.‏.‏\" الحديث.‏ وزادوا:\" وسئل عن أكثر ما يدخل الناس النار؟ فقال الفم والفرج\" ، وقال الترمذي:\" هذا حديث صحيح غريب\"، وقال الحاكم\" صحيح الإسناد\"، قلت: حسبه الحسن، ففيه يزيد بن عبد الرحمن الأودي لم يوثقه إلا العجلي وابن حبان؛ ولذلك قال الذهبي في\" الكاشف\":\" وثق\".‏",
+      "english": {
+        "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“The fear of Allah and good morals (Akhlaq) are the two major characteristics which lead to Paradise.” Related by At-Tirmidhi and Al-Hakim graded it as Sahih."
+      }
+    },
+    {
+      "id": 98,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّكُمْ لَا تَسَعُونَ اَلنَّاسَ بِأَمْوَالِكُمْ, وَلَكِنْ لِيَسَعْهُمْ بَسْطُ اَلْوَجْهِ, وَحُسْنُ اَلْخُلُقِ }  أَخْرَجَهُ أَبُو يَعْلَى, وَصَحَّحَهُ اَلْحَاكِمُ .‏  1‏ .‏‏1 ‏- ضعيف جدا.‏ رواه الحاكم (1 / 124)‏ وفي سنده عبد الله بن سعيد المقبري، وهو\" متروك\".‏",
+      "english": {
+        "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“You (people) cannot satisfy people with your wealth, but satisfy them with your cheerful faces and good morals.” Related by Abu Ya’la and Al-Hakim graded it as Sahih."
+      }
+    },
+    {
+      "id": 99,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْمُؤْمِنُ مِرْآةُ اَلْمُؤْمِنِ }  أَخْرَجَهُ أَبُو دَاوُدَ بِإِسْنَادٍ حَسَنٍ .‏  1‏ .‏‏1 ‏- .‏ حسن.‏ رواه أبو داود (4918)‏ وزاد:\" والمؤمن أخو المؤمن: يكف عليه ضيعته، ويحوطه من ورائه\".‏",
+      "english": {
+        "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Every believer is the mirror of his brother.” Related by Abu Dawud with a good chain of narrators."
+      }
+    },
+    {
+      "id": 100,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنِ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْمُؤْمِنُ اَلَّذِي يُخَالِطُ اَلنَّاسَ, وَيَصْبِرُ عَلَى أَذَاهُمْ خَيْرٌ مِنْ اَلَّذِي لَا يُخَالِطُ اَلنَّاسَ وَلَا يَصْبِرُ عَلَى أَذَاهُمْ }  أَخْرَجَهُ اِبْنُ مَاجَهْ بِإِسْنَادٍ حَسَنٍ, وَهُوَ عِنْدَ اَلتِّرْمِذِيِّ: إِلَّا أَنَّهُ لَمْ يُسَمِّ اَلصِّحَابِيَّ .‏  1‏ .‏‏1 ‏- صحيح.‏ وإن كان على صنيع الحافظ هنا ‏-رحمه الله‏- مؤاخذات، فالحديث بهذا اللفظ رواه البخاري في\" الأدب المفرد\" (388)‏ بسند صحيح، وأما ابن ماجه (4032)‏ فسنده ضعيف ‏-وليس حسنا كما قال الحافظ‏- إذ فيه عبد الواحد بن صالح، وهو\"مجهول\" باعتراف الحافظ نفسه في\" التقريب\" وعنده لفظ:\" أعظم أجرا\" بدل لفظ\"خير\"، والباقي مثله، وأما الترمذي (2507)‏ فقال: عن شيخ من أصحاب النبي ‏-صلى الله عليه وسلم‏-، عن النبي ‏-صلى الله عليه وسلم‏- قال:\" المسلم إذا كان مخالطا للناس.‏.‏.‏.‏.‏.‏ المسلم.‏.‏.‏.‏.‏\"، ثم قال أبو موسى محمد بن المثنى: قال ابن أبي عدي: كان شعبة يرى أنه ابن عمر.‏",
+      "english": {
+        "narrator": "Ibn ’Umar (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“A believer who mixes with people and endures their annoyance is better than the one who does not mix with them and does not endure their annoyance.” Related by Ibn Majah with a good chain of narrators. At-Tirmidhi reported the hadith without mentioning the Companion."
+      }
+    },
+    {
+      "id": 101,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنِ اِبْنِ مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَللَّهُمَّ كَمَا أَحْسَنْتَ خَلْقِي, فَحَسِّنْ خُلُقِي }  رَوَاهُ أَحْمَدُ وَصَحَّحَهُ اِبْنُ حِبَّان َ  1‏ .‏‏1 ‏- صحيح.‏ رواه أحمد (1 / 403)‏، وابن حبان (959)‏، وله شاهد رواه أحمد (6 / 68 و 155)‏ عن عائشة ‏-رضي الله عنها‏- بسند صحيح.‏\" تنبيه\": هذا دعاء مطلق يدعو به المسلم في أي وقت شاء، وأما ما ورد في بعض طرق هذا الحديث من تخصيص هذا الدعاء عند النظر في المرآة، فهذا مما لم يصح، وانظر الإرواء رقم (74)‏ لشيخنا علامة العصر ‏-حفظه المولى عز وجل، وأعلى درجته، وكبت شانئيه‏-.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn Mas’ud (RAA) narrated that the Messenger of Allah (ﷺ) Said, “O Allah You have made my creation perfect, so make my moral characteristics also be the best.”"
+      }
+    },
+    {
+      "id": 102,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ يَقُولُ اَللَّهُ ‏-تَعَالَى‏-: أَنَا مَعَ عَبْدِي مَا ذَكَرَنِي, وَتَحَرَّكَتْ بِي شَفَتَاهُ }  أَخْرَجَهُ ابْنُ مَاجَهْ, وَصَحَّحَهُ ابْنُ حِبَّانَ, وَذَكَرَهُ اَلْبُخَارِيُّ تَعْلِيقًا .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه ابن ماجه (3792)‏، وابن حبان (815)‏ موصولا بسند صحيح، وعلقه البخاري (13 / 499 / فتح)‏ بصيغة الجزم.‏",
+      "english": {
+        "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Allah, the Most High says: ‘l am with my slave when he remembers me and his lips move with my mention.” Related by Ibn Majah and Ibn Hibban graded it as Sahih."
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ مُعَاذِ بْنِ جَبَلٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَا عَمِلَ ابْنُ آدَمَ عَمَلاً أَنْجَى لَهُ مِنْ عَذَابِ اَللَّهِ مِنْ ذِكْرِ اَللَّهِ }  أَخْرَجَهُ ابْنُ أَبِي شَيْبَةَ, وَالطَّبَرَانِيُّ بِإِسْنَادٍ حَسَنٍ .‏  1‏ .‏‏1 ‏- ضعيف.‏ رواه ابن أبي شيبة في\" المصنف\" (10 / 300)‏، والطبراني في\" الكبير\" (20 / 166 / 167)‏ حدثنا أبو خالد الأحمر، عن يحيي بن سعيد، عن أبي الزبير، عن طاووس، عن معاذ، به.‏ وزاد:\" قالوا ولا الجهاد في سبيل الله؟ قال: ولا الجهاد في سبيل الله.‏ إلا أن تضرب بسفك حتى ينقطع\".‏ قلت: وأبو الزبير مدلس، وقد عنعنه، وطاووس لم يسمع من معاذ كما في\" المراسيل\" لابن أبي حاتم، وإنما حسن الحافظ إسناده من أجل سليمان بن حيان أبي خالد الأحمر، فقد قال عنه في\" التقريب\":\" صدوق يخطئ\" وإنما علة الحديث ما سبق من الانقطاع، ولا ينفي ذلك أن يكون قد أخطأ فيه أبو خالد الأحمر، فقد رواه الطبراني في\" الصغير\" (209)‏ من طريقه، عن يحيي بن سعيد الأنصاري، عن جابر، به!.‏",
+      "english": {
+        "narrator": "Mu’adh Ibn Jabal (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“A man does nothing to rescue himself from Allah’s punishment better than remembering Allah.” Related by Ibn Abi Shaibah and At-Tabarani with a good chain of narrators."
+      }
+    },
+    {
+      "id": 104,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَا جَلَسَ قَوْمٌ مَجْلِسًا, يَذْكُرُونَ اَللَّهَ إِلَّا حَفَّتْ بِهِمُ الْمَلَائِكَةُ, وَغَشِيَتْهُمُ الرَّحْمَةُ, وَذَكَرَهُمُ اللَّهُ فِيمَنْ عِنْدَهُ }  أَخْرَجَهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2700)‏ عن أبي هريرة وأبي سعيد، بلفظ:\" لا يقعد قوم يذكرون الله ‏-عز وجل‏-، إلا حفتهم.‏.‏.‏.‏.‏.‏.‏.‏\".‏ والباقي مثله.‏",
+      "english": {
+        "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“People will not sit in an assembly in which they remember Allah without the angels surrounding them, mercy covering them, and Allah mentioning them among those who are with Him.” Related by Muslim."
+      }
+    },
+    {
+      "id": 105,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَا قَعَدَ قَوْمٌ مَقْعَدًا لَمْ يَذْكُرُوا اَللَّهَ, وَلَمْ يُصَلُّوا عَلَى اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-إِلَّا كَانَ عَلَيْهِمْ حَسْرَةً يَوْمَ اَلْقِيَامَةِ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ, وَقَالَ:\n\"حَسَنٌ\" .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه الترمذي (3380)‏، لكن بلفظ:\" ما جلس قوم مجلسا لم يذكروا الله فيه، ولم يصلوا على نبيهم، إلا كان عليهم ترة، فإن شاء عذبهم وإن شاء غفر لهم\"، وقال:\" هذا حديث حسن صحيح\"، واللفظ الذي ذكره الحافظ هنا هو لأحمد في\" المسند\" (2 / 463)‏ حرفا حرفا، وزاد:\" وإن دخلوا الجنة للثواب\".‏",
+      "english": {
+        "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“If people sit in an assembly in which they do not remember Allah or invoke blessings on the Prophet it will be a cause of grief to them on the Day of Resurrection.” Related by At-Tirmidhi who graded it as Hasan."
+      }
+    },
+    {
+      "id": 106,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي أَيُّوبَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ قَالَ: لَا إِلَهَ إِلَّا اَللَّهُ, وَحْدَهُ لَا شَرِيكَ لَهُ عَشْرَ مَرَّاتٍ, كَانَ كَمَنْ أَعْتَقَ أَرْبَعَةَ أَنْفُسٍ مِنْ وَلَدِ إِسْمَاعِيلَ }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6404)‏، ومسلم (2693)‏، وفي قول الحافظ:\" متفق عليه\" نظر، فهذا اللفظ لمسلم، وعنده زيادة:\" له الملك، وله الحمد، وهو على كل شيء قدير\"، وأما البخاري فقد ساقه مختصرا تحت باب فضل التهليل.‏ بلفظ:\" من قال عشرا كما كان أعتق رقبة من ولد إسماعيل\".‏",
+      "english": {
+        "narrator": "Abu Aiyub al-Ansari (RAA) narrated, ‘The Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever says ten times: ‘None has the right to be worshipped except Allah alone, without partner, to Him belongs all sovereignty and praise. He gives life and causes death. He is over all things, Omnipotent will have a reward equivalent to that of emancipating four of the descendants of lsma'il from slavery.” Agreed upon."
+      }
+    },
+    {
+      "id": 107,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ قَالَ: سُبْحَانَ اَللَّهِ وَبِحَمْدِهِ مِائَةَ مَرَّةٍ حُطَّتْ خَطَايَاهُ, وَإِنْ كَانَتْ مِثْلَ زَبَدِ اَلْبَحْرِ }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6405)‏، وهو قطعة من حديث عند مسلم (2691)‏، وعندهما تقييد ذلك بقوله ‏-صلى الله عليه وسلم‏-:\" في يوم\".‏",
+      "english": {
+        "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever says a hundred times, ‘How perfect Allah is and I praise Him,’ his sins will be forgiven though they may be as much as the foam of the sea.” Agreed upon."
+      }
+    },
+    {
+      "id": 108,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ جُوَيْرِيَةَ بِنْتِ اَلْحَارِثِ قَالَتْ: قَالَ لِي رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَقَدْ قُلْتُ بَعْدَكِ أَرْبَعَ كَلِمَاتٍ, لَوْ وُزِنَتْ بِمَا قُلْتِ مُنْذُ اَلْيَوْمِ لَوَزَنَتْهُنَّ: سُبْحَانَ اَللَّهِ وَبِحَمْدِهِ, عَدَدَ خَلْقِهِ, وَرِضَا نَفْسِهِ, وَزِنَةَ عَرْشِهِ, وَمِدَادَ كَلِمَاتِهِ }  أَخْرَجَهُ مُسْلِمٌ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2726)‏ عن جويرية أن النبي ‏-صلى الله عليه وسلم‏- خرج من عندها بكرة حين صلى الصبح، وهي في مسجدها، ثم رجع بعد أن أضحى، وهي جالسة، فقال:\" ما زلت على الحال التي فارقتك عليها؟ قالت: نعم.‏ قال النبي ‏-صلى الله عليه وسلم‏-:\" لقد قلت.‏.‏.‏.‏.‏.‏.‏.‏.‏\".‏ الحديث.‏",
+      "english": {
+        "narrator": "Juairiyah bint al-Harith (RAA) narrated, ‘The Messenger of Allah (ﷺ) said to me, “Since leaving you have said four phrases which if weighed against all you have said today, would prove to be heavier:",
+        "text": "‘How perfect Allah is and I praise Him by the amount of His creation and His pleasure, and by the weight of His throne, and the ink of His words.” Related by Muslim."
+      }
+    },
+    {
+      "id": 109,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْبَاقِيَاتُ اَلصَّالِحَاتُ: لَا إِلَهَ إِلَّا اَللَّهُ, وَسُبْحَانَ اَللَّهِ, وَاَللَّهُ أَكْبَرُ, وَالْحَمْدُ لِلَّهِ, وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاَللَّهِ }  أَخْرَجَهُ النَّسَائِيُّ, وَصَحَّحَهُ اِبْنُ حِبَّانَ, وَالْحَاكِمُ .‏  1‏ .‏‏1 ‏- ضعيف.‏ رواه النسائي في\"عمل اليوم والليلة\" كما في\"التحفة\" (3/ 362)‏، وابن حبان (840)‏، والحاكم (1 / 512)‏، وهو ضعيف؛ لأنه من رواية دارج، عن أبي الهيثم.‏",
+      "english": {
+        "narrator": "Abu Sa'id al-Khudri (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“The lasting good deeds are: (the saying of) ‘None has the right to be worshipped except Allah alone, How perfect Allah is and Allah is great and all praise is for Allah, There is no might nor power except with Allah.” Related by An-Nasa’i. Ibn Hibban and Al-Hakim graded it as Sahih."
+      }
+    },
+    {
+      "id": 110,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ سَمُرَةَ بْنِ جُنْدُبٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ أَحَبُّ اَلْكَلَامِ إِلَى اَللَّهِ أَرْبَعٌ, لَا يَضُرُّكَ بِأَيِّهِنَّ بَدَأْتَ: سُبْحَانَ اَللَّهِ, وَالْحَمْدُ لِلَّهِ, وَلَا إِلَهَ إِلَّا اَللَّهُ, وَاَللَّهُ أَكْبَرُ }  أَخْرَجَهُ مُسْلِمٌ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2137)‏ وزاد:\" ولا تسمين غلامك: يسارا ولا رباحا ولا نجيحا ولا أفلح، فإنك تقول، أثم هو؟ فلا يكون، فيقول: لا\".‏",
+      "english": {
+        "narrator": "Samurah bin Jundub (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“The words dearer to Allah are four: ‘How perfect Allah is and all praise is for Allah. None has the right to be worshipped except Allah alone and Allah is great It does not matter which you say first.” Related by Muslim."
+      }
+    },
+    {
+      "id": 111,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي مُوسَى اَلْأَشْعَرِيِّ ‏- رضى الله عنه ‏- قَالَ: قَالَ لِي رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ يَا عَبْدَ اَللَّهِ بْنَ قَيْسٍ! أَلَّا أَدُلُّكَ عَلَى كَنْزٍ مِنْ كُنُوزِ اَلْجَنَّةِ? لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاَللَّهِ }  مُتَّفَقٌ عَلَيْه ِ  1‏‏1 ‏- صحيح.‏ رواه البخاري (6384)‏، ومسلم (2704)‏، والنسائي في\"عمل اليوم والليلة\" (356)‏ والسياق للنسائي.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Musa al-Ash'ari (RAA) narrated that the Messenger of Allah (ﷺ) said to me, “O 'Abdullah bin Qais, would you like to be guided to one of the treasures of Paradise.” l here is no might nor power except with Allah.’ Agreed upon."
+      }
+    },
+    {
+      "id": 112,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "زَادَ النَّسَائِيُّ: { وَلَا مَلْجَأَ مِنَ اللَّهِ إِلَّا إِلَيْهِ }   1‏‏1 ‏- كذا قال الحافظ، والمراد أن هذه الزيادة عند النسائي من حديث أبو موسى، ولكن لم أجدها من حديث أبي موسى مع العلم بأن النسائي روى حديث أبي موسى في أكثر من موضع، لكني وجدتها عنده في\" عمل اليوم والليلة\" من حديث أبي هريرة، برقم (358)‏، والله أعلم.‏",
+      "english": {
+        "narrator": "",
+        "text": "An-Nasa’i added in his version, “there is no refuge from Allah except by turning to Him.’"
+      }
+    },
+    {
+      "id": 113,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنِ النُّعْمَانِ بْنِ بَشِيرٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- عَنِ النَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { إِنَّ اَلدُّعَاءَ هُوَ اَلْعِبَادَةُ }  رَوَاهُ اَلْأَرْبَعَةُ, وَصَحَّحَهُ اَلتِّرْمِذِيُّ .‏  1‏‏1 ‏- صحيح.‏ رواه أبو داود (1479)‏، والنسائي في\" الكبرى\" (6 / 450)‏.‏ والترمذي (3247)‏، وابن ماجه (3828)‏، وزادوا ثم قرأ:\" وقال ربكم ادعوني استجب لكم إن الذين يستكبرون عن عبادتي سيدخلون جهنم داخرين\" غافر: 60 ، وقال الترمذي:\" هذا حديث حسن صحيح\".‏",
+      "english": {
+        "narrator": "An-Nu’man bin al-Bashir (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Verily supplication is worship.” Related by the four Imams and At-Tirmidhi graded it as Sahih,"
+      }
+    },
+    {
+      "id": 114,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَلَهُ مِنْ حَدِيثِ أَنَسٍ بِلَفْظِ: { اَلدُّعَاءُ مُخُّ اَلْعِبَادَةِ }   1‏ .‏‏1 ‏- ضعيف رواه الترمذي (3271)‏ وقال:\" هذا حديث غريب من هذا الوجه، لا نعرفه إلا من حديث ابن لهيعة\".‏ قلت: وهو صحيح بلفظ الحديث السابق، وأما بهذا اللفظ:\" مخ\" فهو ضعيف.‏",
+      "english": {
+        "narrator": "Anas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Supplication is the pith of worship.” Related by At-Tirmidhi with a full chain of narrators."
+      }
+    },
+    {
+      "id": 115,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَلَهُ مِنْ حَدِيثِ أَبِي هُرَيْرَةَ رَفَعَهُ: { لَيْسَ شَيْءٌ أَكْرَمَ عَلَى اَللَّهِ مِنَ الدُّعَاءِ }  وَصَحَّحَهُ اِبْنُ حِبَّانَ, وَالْحَاكِمُ .‏  1‏ .‏‏1 ‏- حسن.‏ رواه الترمذي (3370)‏، وابن حبان (870)‏ والحاكم (1 / 490)‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“Nothing is more honorable before Allah than supplication.” Related by At-Tirmidhi with a full chain of narrators. Ibn Hibban and Al-Hakim graded it as Sahih;."
+      }
+    },
+    {
+      "id": 116,
+      "chapterId": 16,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلدُّعَاءُ بَيْنَ اَلْأَذَانِ وَالْإِقَامَةِ لَا يُرَدُّ }  أَخْرَجَهُ النَّسَائِيُّ, وَغَيْرُهُ, وَصَحَّحَهُ اِبْنُ حِبَّانَ, وَغَيْرُهُ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه النسائي في\" عمل اليوم والليلة\"، ص (168)‏، وابن حبان (1696)‏، وفي الأصل زيادة تخريجه مع الكلام على ألفاظه.‏",
+      "english": {
+        "narrator": "Anas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+        "text": "“A supplication made between the Adhan and Iqamah is never rejected.” Related by An-Nasa’i and others, Ibn Hibban and others graded it as Sahih."
+      }
+    }
+  ]
+}

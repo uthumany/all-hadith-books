@@ -1,0 +1,16 @@
+{
+  "id": 248,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَأَصْلُهُ فِي اَلْبُخَارِيِّ .‏  1‏‏1 ‏- انظر ( 8 / 65 / فتح )‏ ووقع في رواية الإسماعيلي مثل ما وقع في \" سنن البيهقي \" كما قال الحافظ في \" الفتح \" .‏",
+  "english": {
+    "narrator": "",
+    "text": "And its basic meaning is found in Sahih al-Bukhari."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

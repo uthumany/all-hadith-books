@@ -1,0 +1,16 @@
+{
+  "id": 29,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، وَعُثْمَانُ، ابْنَا أَبِي شَيْبَةَ قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ مَعْبَدِ بْنِ خَالِدٍ، عَنْ حَارِثَةَ بْنِ وَهْبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَدْخُلُ الْجَنَّةَ الْجَوَّاظُ وَلاَ الْجَعْظَرِيُّ ‏\"‏ ‏.‏ قَالَ وَالْجَوَّاظُ الْغَلِيظُ الْفَظُّ ‏.‏",
+  "english": {
+    "narrator": "Harithah b. Wahab reported the Messenger of Allah (ﷺ) as saying :",
+    "text": "neither the Jawwaz nor the Jazari will enter paradise. He said that the Jawwaz is the one who is coarse and uncivil."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

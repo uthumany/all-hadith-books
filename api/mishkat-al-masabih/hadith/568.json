@@ -1,0 +1,16 @@
+{
+  "id": 568,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْهُ قَالَ: كَانَ مُعَاذٌ يُصَلِّي مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْعِشَاءَ ثُمَّ يَرْجِعُ إِلَى قَوْمِهِ فَيُصَلِّي بِهِمُ الْعِشَاءَ وَهِيَ لَهُ نَافِلَة. أخرجه الشَّافِعِي فِي مُسْنده والطَّحَاوِي وَالدَّارَقُطْنِيّ وَالْبَيْهَقِيّ",
+  "english": {
+    "narrator": "",
+    "text": "He said that Mu’adh would pray the evening prayer along with the Prophet, then return to his people and lead them in the evening prayer, it being a supererogatory prayer for him…* transmitted it.\n\n* The source is not mentioned. In al-Masabih, where the division of the chapters is into traditions which are sahih and traditions which are hasan, the collection of Tradition from which they are taken is not mentioned, but all those in section I are meant to be taken from Bukhari, or Muslim, or both. I have failed to find this one anywhere. The concordance does not seem to refer to it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

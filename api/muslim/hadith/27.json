@@ -1,0 +1,16 @@
+{
+  "id": 27,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا عِيسَى، - وَهُوَ ابْنُ يُونُسَ - حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ سُلَيْمَانَ بْنِ مُوسَى، قَالَ لَقِيتُ طَاوُسًا فَقُلْتُ حَدَّثَنِي فُلاَنٌ، كَيْتَ وَكَيْتَ ‏.‏ قَالَ إِنْ كَانَ صَاحِبُكَ مَلِيًّا فَخُذْ عَنْهُ ‏.‏",
+  "english": {
+    "narrator": "Ishāq bin Ibrāhīm al-Hanthalī narrated to us, Īsā, and he is Ibn Yūnus, informed us, al-Awzā’ī narrated to us, on authority of Sulyamān bin Mūsā, he said:",
+    "text": "‘I came across Tāwus and said: ‘So-and-so narrated to me such-and-such’. Then he said: ‘If your companion is trustworthy, then take from him.’"
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 119,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَسْوَدُ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَرَأَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعْدَ مَا أَحْدَثَ قَبْلَ أَنْ يَمَسَّ مَاءً وَرُبَّمَا قَالَ إِسْرَائِيلُ عَنْ رَجُلٍ عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) recited Qur’an after minor impurity before touching water, And perhaps Isra`eel said:  from a man, from `Ali    (رضي الله عنه), from the Prophet (ﷺ)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 180,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَزِيدُ، أَنْبَأَنَا إِسْرَائِيلُ، عَنْ ثُوَيْرِ بْنِ أَبِي فَاخِتَةَ، عَنْ أَبِيهِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ أَهْدَى كِسْرَى لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَبِلَ مِنْهُ وَأَهْدَى لَهُ قَيْصَرُ فَقَبِلَ مِنْهُ وَأَهْدَتْ لَهُ الْمُلُوكُ فَقَبِلَ مِنْهُمْ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "Chosroes gave a gift to the Messenger of Allah (ﷺ) and he accepted it from him; Caesar gave a gift to the Messenger of Allah (ﷺ) and he accepted it from him; the kings gave him gifts and he accepted them from them."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

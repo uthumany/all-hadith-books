@@ -1,0 +1,16 @@
+{
+  "id": 117,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ سَلْمَانَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ رَبَّكُمْ حَيِيٌّ كَرِيمٌ, يَسْتَحِي مِنْ عَبْدِهِ إِذَا رَفَعَ إِلَيْهِ يَدَيْهِ أَنْ يَرُدَّهُمَا صِفَرًا }  أَخْرَجَهُ اَلْأَرْبَعَةُ إِلَّا النَّسَائِيَّ, وَصَحَّحَهُ اَلْحَاكِمُ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (1488)‏، والترمذي (3556)‏، وابن ماجه (3865)‏، والحاكم (1 / 497)‏.‏",
+  "english": {
+    "narrator": "Salman (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Your Rabb (Lord of the Universe) is Modest and Generous, and would never turn the hands of a slave without gain when he raises them to Him (in supplication).” Related by the four lmams except An-Nasa’i. Al-Hakim graded it as Sahih."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

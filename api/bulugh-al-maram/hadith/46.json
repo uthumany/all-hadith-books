@@ -1,0 +1,16 @@
+{
+  "id": 46,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلظُّلْمُ ظُلُمَاتٌ يَوْمَ اَلْقِيَامَةِ }  مُتَّفَقٌ عَلَيْهِ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (2447)‏، ومسلم (2579)‏ وزاد مسلم في أوله:\" إن\".‏",
+  "english": {
+    "narrator": "Ibn 'Umar (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Oppression will turn into darkness on the Day of Resurrection.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 206,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا حَجَّاجٌ، حَدَّثَنِي إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ هَانِئٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ الْحَسَنُ أَشْبَهُ النَّاسِ بِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا بَيْنَ الصَّدْرِ إِلَى الرَّأْسِ وَالْحُسَيْنُ أَشْبَهُ النَّاسِ بِالنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا كَانَ أَسْفَلَ مِنْ ذَلِكَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "Al-Hasan (رضي الله عنه) most closely resembles the Messenger of Allah (ﷺ) in the chest and head, and Al-Husain (رضي الله عنه) most closely resembles the Prophet (ﷺ) in what is lower than that."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

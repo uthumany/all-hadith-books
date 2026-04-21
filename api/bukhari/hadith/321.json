@@ -1,0 +1,16 @@
+{
+  "id": 321,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا عَوْفٌ، عَنِ الْحَسَنِ، وَمُحَمَّدٍ، وَخِلاَسٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ مُوسَى كَانَ رَجُلاً حَيِيًّا، وَذَلِكَ قَوْلُهُ تَعَالَى ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَكُونُوا كَالَّذِينَ آذَوْا مُوسَى فَبَرَّأَهُ اللَّهُ مِمَّا قَالُوا وَكَانَ عِنْدَ اللَّهِ وَجِيهًا‏}‏‏\"‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "Allah's Messenger (ﷺ) said, \"Moses was a shy man, and that is what the Statement of Allah means: \n'O you who believe Be not like those who annoyed Moses, but Allah proved his innocence of that \nwhich they alleged and he was honorable in Allah's Sight.' (33.69)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

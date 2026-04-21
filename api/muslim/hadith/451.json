@@ -1,0 +1,16 @@
+{
+  "id": 451,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ عَمْرِو بْنِ جَبَلَةَ، حَدَّثَنَا أَبُو عَاصِمٍ، ح وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، كِلاَهُمَا عَنِ ابْنِ جُرَيْجٍ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَ حَدِيثِ ابْنِ بَكْرٍ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This hadith has been narrated on the authority of Juraij with the same chain of transmitters."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

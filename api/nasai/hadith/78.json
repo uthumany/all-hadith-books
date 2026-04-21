@@ -1,0 +1,16 @@
+{
+  "id": 78,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ عُيَيْنَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، قَالَ قَالَ ابْنُ عَبَّاسٍ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ نَبِيذِ الْجَرِّ ‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas said:",
+    "text": "\"The Messenger of Allah  forbade soaking (fruits) in earthenware jars.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

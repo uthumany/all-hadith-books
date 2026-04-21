@@ -1,0 +1,510 @@
+{
+  "page": 42,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 43,
+  "prevPage": 41,
+  "items": [
+    {
+      "id": 42,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا أَسْبَاطٌ، حَدَّثَنَا هِشَامٌ، عَنْ حَفْصَةَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ أَخَذَ عَلَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الْبَيْعَةِ أَلاَّ تَنُحْنَ فَمَا وَفَتْ مِنَّا غَيْرُ خَمْسٍ مِنْهُنَّ أُمُّ سُلَيْمٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Umm 'Atiyya reported that the Messenger of Allah (ﷺ) took pledge from us (including this promise) that we would not lament. Only five amongst us fulfilled the promise, and one of them (who fulfilled the promise) was Umm Sulaim."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، جَمِيعًا عَنْ أَبِي مُعَاوِيَةَ، - قَالَ زُهَيْرٌ حَدَّثَنَا مُحَمَّدُ بْنُ خَازِمٍ، - حَدَّثَنَا عَاصِمٌ، عَنْ حَفْصَةَ، عَنْ أُمِّ، عَطِيَّةَ قَالَتْ لَمَّا نَزَلَتْ هَذِهِ الآيَةُ ‏{‏ يُبَايِعْنَكَ عَلَى أَنْ لاَ يُشْرِكْنَ بِاللَّهِ شَيْئًا‏}‏ ‏{‏ وَلاَ يَعْصِينَكَ فِي مَعْرُوفٍ‏}‏ قَالَتْ كَانَ مِنْهُ النِّيَاحَةُ ‏.‏ قَالَتْ فَقُلْتُ يَا رَسُولَ اللَّهِ إِلاَّ آلَ فُلاَنٍ فَإِنَّهُمْ كَانُوا أَسْعَدُونِي فِي الْجَاهِلِيَّةِ فَلاَ بُدَّ لِي مِنْ أَنْ أُسْعِدَهُمْ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِلاَّ آلَ فُلاَنٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Hafsa narrated on the authority of Umm 'Atiyya that she said:",
+        "text": "When this verse was revealed:\" When believing women came to thee giving thee a pledge that they will not associate aught with Allah, and will not disobey thee in good\" (lx. 12), she (Umm Atiyya) said: In (this pledge) was also included wailing. I said: Messenger of Allah, except members of such a tribe who helped me (in lamentation) during pre-Islamic days, there is left no alternative for me, but that I should also help them. Upon this the Messenger of Allah (ﷺ) said: (Yes) but only in case of the members of such a tribe."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، حَدَّثَنَا ابْنُ عُلَيَّةَ، أَخْبَرَنَا أَيُّوبُ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ قَالَتْ أُمُّ عَطِيَّةَ كُنَّا نُنْهَى عَنِ اتِّبَاعِ الْجَنَائِزِ وَلَمْ يُعْزَمْ عَلَيْنَا ‏.‏",
+      "english": {
+        "narrator": "Umm 'Atiyya reported:",
+        "text": "We were forbidden to follow the bier, but it was not made absolute on us."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، كِلاَهُمَا عَنْ هِشَامٍ، عَنْ حَفْصَةَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ نُهِينَا عَنِ اتِّبَاعِ الْجَنَائِزِ، وَلَمْ يُعْزَمْ عَلَيْنَا ‏.‏",
+      "english": {
+        "narrator": "Umm 'Atiyya reported:",
+        "text": "We were refrained from following the bier, but it was not made absolute on us."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ دَخَلَ عَلَيْنَا النَّبِيُّ صلى الله عليه وسلم وَنَحْنُ نَغْسِلُ ابْنَتَهُ فَقَالَ ‏\"‏ اغْسِلْنَهَا ثَلاَثًا أَوْ خَمْسًا أَوْ أَكْثَرَ مِنْ ذَلِكَ إِنْ رَأَيْتُنَّ ذَلِكَ بِمَاءٍ وَسِدْرٍ وَاجْعَلْنَ فِي الآخِرَةِ كَافُورًا أَوْ شَيْئًا مِنْ كَافُورٍ فَإِذَا فَرَغْتُنَّ فَآذِنَّنِي ‏\"‏ ‏.‏ فَلَمَّا فَرَغْنَا آذَنَّاهُ فَأَلْقَى إِلَيْنَا حِقْوَهُ فَقَالَ ‏\"‏ أَشْعِرْنَهَا إِيَّاهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Umm 'Atiyya reported:",
+        "text": "The Apostle of Allah (ﷺ) came to us when we were bathing his daughter, and he told us: Wash her with water and (with the leaves of) the lote tree, three or five times, or more than that if you think fit, and put camphor or something like camphor in the last washing; then inform me when you have finished. So when we had finished, we informed him, and he gave to us his (own) under-garment saying:\" Put it next her body.\""
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ مَشَطْنَاهَا ثَلاَثَةَ قُرُونٍ ‏.‏",
+      "english": {
+        "narrator": "Umm 'Atiyya reported:",
+        "text": "We braided her hair in three plaits."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكِ بْنِ أَنَسٍ، ح وَحَدَّثَنَا أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، وَقُتَيْبَةُ، بْنُ سَعِيدٍ قَالاَ حَدَّثَنَا حَمَّادٌ، ح وَحَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، حَدَّثَنَا ابْنُ عُلَيَّةَ، كُلُّهُمْ عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ تُوُفِّيَتْ إِحْدَى بَنَاتِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَفِي حَدِيثِ ابْنِ عُلَيَّةَ قَالَتْ أَتَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَنَحْنُ نَغْسِلُ ابْنَتَهُ ‏.‏ وَفِي حَدِيثِ مَالِكٍ قَالَتْ دَخَلَ عَلَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم حِينَ تُوُفِّيَتِ ابْنَتُهُ ‏.‏ بِمِثْلِ حَدِيثِ يَزِيدَ بْنِ زُرَيْعٍ عَنْ أَيُّوبَ عَنْ مُحَمَّدٍ عَنْ أُمِّ عَطِيَّةَ ‏.‏",
+      "english": {
+        "narrator": "Umm 'Atiyya reported:",
+        "text": "One of the daughters of the Messenger of Allah (ﷺ) died. And in the hadith transmitted by Ibn 'Ulayya (the words are): The Messenger of Allah (ﷺ) came to us and we were washing his daughter. And in the hadith transmitted by Malik (the words are): There came in (our apartment) the Messenger of Allah (way peace be upon him) when his daughter died. The rest of the hadith is the same as narrated by Yazid b. Zurai' from Ayyub from Muhammad from Umm 'Atiyya."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ حَفْصَةَ، عَنْ أُمِّ عَطِيَّةَ، ‏.‏ بِنَحْوِهِ غَيْرَ أَنَّهُ قَالَ ‏\n\"‏ ثَلاَثًا أَوْ خَمْسًا أَوْ سَبْعًا أَوْ أَكْثَرَ مِنْ ذَلِكِ إِنْ رَأَيْتُنَّ ذَلِكِ ‏\"‏ ‏.‏ فَقَالَتْ حَفْصَةُ عَنْ أُمِّ عَطِيَّةَ وَجَعَلْنَا رَأْسَهَا ثَلاَثَةَ قُرُونٍ ‏.‏",
+      "english": {
+        "narrator": "A hadith like this has been transmitted by Hafsa on the authority of Umm 'Atiyya with the exception (of these words that the Prophet asked them to wash her dead body):",
+        "text": "\" three times, five times, seven times, or more than that, if you deem fit:\" Hafsa (further) said on the authority of Umm 'Atiyya: We braided (the hair) of her head in three plaits."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، حَدَّثَنَا ابْنُ عُلَيَّةَ، وَأَخْبَرَنَا أَيُّوبُ، قَالَ وَقَالَتْ حَفْصَةُ عَنْ أُمِّ عَطِيَّةَ، قَالَتِ اغْسِلْنَهَا وِتْرًا ثَلاَثًا أَوْ خَمْسًا أَوْ سَبْعًا قَالَ وَقَالَتْ أُمُّ عَطِيَّةَ مَشَطْنَاهَا ثَلاَثَةَ قُرُونٍ ‏.‏",
+      "english": {
+        "narrator": "Umm 'Atiyya reported:",
+        "text": "We washed her an odd number of times, i. e. three, five or seven times; and Umm 'Atiyya (further) said: We braided her hair in three plaits."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، جَمِيعًا عَنْ أَبِي مُعَاوِيَةَ، - قَالَ عَمْرٌو حَدَّثَنَا مُحَمَّدُ بْنُ خَازِمٍ أَبُو مُعَاوِيَةَ، - حَدَّثَنَا عَاصِمٌ الأَحْوَلُ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ لَمَّا مَاتَتْ زَيْنَبُ بِنْتُ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اغْسِلْنَهَا وِتْرًا ثَلاَثًا أَوْ خَمْسًا وَاجْعَلْنَ فِي الْخَامِسَةِ كَافُورًا أَوْ شَيْئًا مِنْ كَافُورٍ فَإِذَا غَسَلْتُنَّهَا فَأَعْلِمْنَنِي ‏\"‏ ‏.‏ قَالَتْ فَأَعْلَمْنَاهُ ‏.‏ فَأَعْطَانَا حِقْوَهُ وَقَالَ ‏\"‏ أَشْعِرْنَهَا إِيَّاهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Umm 'Atiyya reported:",
+        "text": "When Zainab the daughter of the Messenger of Allah (ﷺ) died, he said to us: Wash her odd number of times, i. e. three or five times, and put camphor or something-like camphor at the fifth time, and after you have washed her inform me. So we informed him and he gave us his under-garment, saying:\" Put it next her body.\""
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَمْرٌو النَّاقِدُ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا هِشَامُ بْنُ حَسَّانَ، عَنْ حَفْصَةَ، بِنْتِ سِيرِينَ عَنْ أُمِّ عَطِيَّةَ، قَالَتْ أَتَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَنَحْنُ نَغْسِلُ إِحْدَى بَنَاتِهِ فَقَالَ ‏\n\"‏ اغْسِلْنَهَا وِتْرًا خَمْسًا أَوْ أَكْثَرَ مِنْ ذَلِكِ ‏\"‏ ‏.‏ بِنَحْوِ حَدِيثِ أَيُّوبَ وَعَاصِمٍ وَقَالَ فِي الْحَدِيثِ قَالَتْ فَضَفَرْنَا شَعْرَهَا ثَلاَثَةَ أَثْلاَثٍ قَرْنَيْهَا وَنَاصِيَتَهَا ‏.‏",
+      "english": {
+        "narrator": "Umm 'Atiyya reported:",
+        "text": "There came to us the Messenger of Allah (ﷺ) as we were washing one of his daughters. So he said: Wash her (dead body) an odd number of times, five times or more than that, the rest of the hadith is the same. She (further) said: We braided her hair in three plaits: (two) on the sides of her head and one on her forehead."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ خَالِدٍ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم حَيْثُ أَمَرَهَا أَنْ تَغْسِلَ ابْنَتَهُ قَالَ لَهَا ‏\n\"‏ ابْدَأْنَ بِمَيَامِنِهَا وَمَوَاضِعِ الْوُضُوءِ مِنْهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Umm 'Atiyya reported that when the Messenger of Allah (ﷺ) asked her to wash his daughter, he told her to start from the right side, and with those parts of the body over which Wudu' is performed."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَمْرٌو النَّاقِدُ كُلُّهُمْ عَنِ ابْنِ عُلَيَّةَ، - قَالَ أَبُو بَكْرٍ حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، - عَنْ خَالِدٍ، عَنْ حَفْصَةَ، عَنْ أُمِّ عَطِيَّةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لَهُنَّ فِي غَسْلِ ابْنَتِهِ ‏\n\"‏ ابْدَأْنَ بِمَيَامِنِهَا وَمَوَاضِعِ الْوُضُوءِ مِنْهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Umm 'Atiyya reported that the Messenger of Allah (ﷺ) said to them (the women) in regard to the washing of his daughter to start from the right side and with those parts of the body over which Wudu' is performed."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ وَأَبُو كُرَيْبٍ - وَاللَّفْظُ لِيَحْيَى قَالَ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرُونَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، - عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ خَبَّابِ بْنِ الأَرَتِّ، قَالَ هَاجَرْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَبِيلِ اللَّهِ نَبْتَغِي وَجْهَ اللَّهِ فَوَجَبَ أَجْرُنَا عَلَى اللَّهِ فَمِنَّا مَنْ مَضَى لَمْ يَأْكُلْ مِنْ أَجْرِهِ شَيْئًا مِنْهُمْ مُصْعَبُ بْنُ عُمَيْرٍ ‏.‏ قُتِلَ يَوْمَ أُحُدٍ فَلَمْ يُوجَدْ لَهُ شَىْءٌ يُكَفَّنُ فِيهِ إِلاَّ نَمِرَةٌ فَكُنَّا إِذَا وَضَعْنَاهَا عَلَى رَأْسِهِ خَرَجَتْ رِجْلاَهُ وَإِذَا وَضَعْنَاهَا عَلَى رِجْلَيْهِ خَرَجَ رَأْسُهُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ ضَعُوهَا مِمَّا يَلِي رَأْسَهُ وَاجْعَلُوا عَلَى رِجْلَيْهِ الإِذْخِرَ ‏\"‏ ‏.‏ وَمِنَّا مَنْ أَيْنَعَتْ لَهُ ثَمَرَتُهُ فَهُوَ يَهْدِبُهَا ‏.‏",
+      "english": {
+        "narrator": "Khabbab al-Aratt reported:",
+        "text": "We migrated with the Messenger of Allah (ﷺ) in the path of Allah seeking Allah's pleasure alone. Thus our reward was assured with Allah. And amongst us were those who spent life (in such a state of piety and austerity) that nothing consumed their reward. Mus'ab b. 'Umair was one of them. He was killed on the Day of Uhud, and nothing but a woollen cloak was found to shroud him. When we covered his head with it, his feet became uncovered, and when we covered his feet, his head was uncovered. Upon this the Messenger of Allah (ﷺ) said: Place it (this cloak) on the side of his head and cover his feet with grass. And there is one amongst us for whom the fruit is ripened and he enjoys it."
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، ح وَحَدَّثَنَا مِنْجَابُ بْنُ الْحَارِثِ التَّمِيمِيُّ، أَخْبَرَنَا عَلِيُّ بْنُ مُسْهِرٍ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ ‏.‏ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "A hadith like this has been narrated by 'Uyaina on the authority of A'mash with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ - وَاللَّفْظُ لِيَحْيَى - قَالَ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، - عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كُفِّنَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي ثَلاَثَةِ أَثْوَابٍ بِيضٍ سَحُولِيَّةٍ مِنْ كُرْسُفٍ لَيْسَ فِيهَا قَمِيصٌ وَلاَ عِمَامَةٌ أَمَّا الْحُلَّةُ فَإِنَّمَا شُبِّهَ عَلَى النَّاسِ فِيهَا أَنَّهَا اشْتُرِيَتْ لَهُ لِيُكَفَّنَ فِيهَا فَتُرِكَتِ الْحُلَّةُ وَكُفِّنَ فِي ثَلاَثَةِ أَثْوَابٍ بِيضٍ سَحُولِيَّةٍ فَأَخَذَهَا عَبْدُ اللَّهِ بْنُ أَبِي بَكْرٍ فَقَالَ لأَحْبِسَنَّهَا حَتَّى أُكَفِّنَ فِيهَا نَفْسِي ثُمَّ قَالَ لَوْ رَضِيَهَا اللَّهُ عَزَّ وَجَلَّ لِنَبِيِّهِ لَكَفَّنَهُ فِيهَا ‏.‏ فَبَاعَهَا وَتَصَدَّقَ بِثَمَنِهَا ‏.‏",
+      "english": {
+        "narrator": "'A'isha reported that the Messenger of Allah (ﷺ) was shrouded in three cotton garments of white Yamani stuff from Sahul, among which was neither a shirt nor a turban; and so far as Hullah is concerned there was some doubt about it in the minds of people, that it was brought for him in order to shroud him with it, but it was abandoned, and he was shrouded in three cotton garments of white Yamani stuff from Sahul. Then 'Abdullah b. Abu Bakr got it and said:",
+        "text": "I would keep it in order to shroud myself in it. He then said: If Allah, the Exalted and Majestic, would have desired it for His Apostle, he would have been shrouded with it. So he sold it and gave its price in charity."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، أَخْبَرَنَا عَلِيُّ بْنُ مُسْهِرٍ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ أُدْرِجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي حُلَّةٍ يَمَنِيَّةٍ كَانَتْ لِعَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ ثُمَّ نُزِعَتْ عَنْهُ وَكُفِّنَ فِي ثَلاَثَةِ أَثْوَابٍ سُحُولٍ يَمَانِيَةٍ لَيْسَ فِيهَا عِمَامَةٌ وَلاَ قَمِيصٌ فَرَفَعَ عَبْدُ اللَّهِ الْحُلَّةَ فَقَالَ أُكَفَّنُ فِيهَا ‏.‏ ثُمَّ قَالَ لَمْ يُكَفَّنْ فِيهَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَأُكَفَّنُ فِيهَا ‏.‏ فَتَصَدَّقَ بِهَا ‏.",
+      "english": {
+        "narrator": "'A'isha reported that the Messenger of Allah (ﷺ) was wrapped in a Yamani wrapper which belonged to 'Abdullah b Abu Bakr; then it was removed from him, and he was shrouded in three cotton sheets of white Yamani stuff from Sahul among which was neither a shirt nor a turban. 'Abdullah took up the Hullah and said:",
+        "text": "I would be shrouded in it, but then said: How is it that I should be shrouded in it in which the Messenger of Allah (ﷺ) was not shrouded! So he gave it in charity."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، وَابْنُ، عُيَيْنَةَ وَابْنُ إِدْرِيسَ وَعَبْدَةُ وَوَكِيعٌ ح وَحَدَّثَنَاهُ يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، كُلُّهُمْ عَنْ هِشَامٍ، بِهَذَا الإِسْنَادِ وَلَيْسَ فِي حَدِيثِهِمْ قِصَّةُ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith is narrated on the authority of Hisham with the same chain of transmitters, but in the hadith narrated by him there is no mention of the story of 'Abdullah b. Abu Bakr."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي ابْنُ أَبِي عُمَرَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، عَنْ يَزِيدَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ، أَنَّهُ قَالَ سَأَلْتُ عَائِشَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم فَقُلْتُ لَهَا فِي كَمْ كُفِّنَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَتْ فِي ثَلاَثَةِ أَثْوَابٍ سَحُولِيَّةٍ ‏.‏",
+      "english": {
+        "narrator": "Abu Salama said:",
+        "text": "I asked 'A'isha with how many garments the Messenger of Allah (ﷺ) was shourded. She said: With three garments of Sahul."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَحَسَنٌ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَ عَبْدٌ أَخْبَرَنِي وَقَالَ، الآخَرَانِ حَدَّثَنَا يَعْقُوبُ، - وَهُوَ ابْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ - حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ، شِهَابٍ أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ، أَخْبَرَهُ أَنَّ عَائِشَةَ أُمَّ الْمُؤْمِنِينَ قَالَتْ سُجِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم حِينَ مَاتَ بِثَوْبِ حِبَرَةٍ ‏.‏",
+      "english": {
+        "narrator": "'A'isha reported:",
+        "text": "When the Messenger of Allah (may peace be upom him) died, he was covered with a Yamani wrapper."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالاَ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَخْبَرَنَا مَعْمَرٌ، ح وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ سَوَاءً ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated by Zuhri with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، وَحَجَّاجُ بْنُ الشَّاعِرِ، قَالاَ حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يُحَدِّثُ أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَ يَوْمًا فَذَكَرَ رَجُلاً مِنْ أَصْحَابِهِ قُبِضَ فَكُفِّنَ فِي كَفَنٍ غَيْرِ طَائِلٍ وَقُبِرَ لَيْلاً فَزَجَرَ النَّبِيُّ صلى الله عليه وسلم أَنْ يُقْبَرَ الرَّجُلُ بِاللَّيْلِ حَتَّى يُصَلَّى عَلَيْهِ إِلاَّ أَنْ يُضْطَرَّ إِنْسَانٌ إِلَى ذَلِكَ وَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ إِذَا كَفَّنَ أَحَدُكُمْ أَخَاهُ فَلْيُحَسِّنْ كَفَنَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir b. 'Abdullah reported:",
+        "text": "Allah's Messenger (ﷺ) one day in the course of his sermon made mention of a person among his Companions who had died and had been wrapped in a shroud not long (enough to cover his whole body) and was buried during the night. The Apostle of Allah (ﷺ) reprimanded (the audience) that a person was buried during the night (in a state that) funeral prayer could not be offered (over him by the Messenger of Allah). (And this is permissible only) when it becomes a dire necessity for a man. The Apostle of Allah (ﷺ) also said: When any one of you shrouds his brother, he should shroud him well."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، - قَالَ أَبُو بَكْرٍ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، - عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَسْرِعُوا بِالْجَنَازَةِ فَإِنْ تَكُ صَالِحَةً فَخَيْرٌ - لَعَلَّهُ قَالَ - تُقَدِّمُونَهَا عَلَيْهِ وَإِنْ تَكُنْ غَيْرَ ذَلِكَ فَشَرٌّ تَضَعُونَهُ عَنْ رِقَابِكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying:",
+        "text": "Make haste at a funeral; if the dead person was good, it is a good state to which you are sending him on; but if he was otherwise it is an evil of which you are ridding yourselves."
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، جَمِيعًا عَنْ عَبْدِ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، ح وَحَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي حَفْصَةَ، كِلاَهُمَا عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم غَيْرَ أَنَّ فِي حَدِيثِ مَعْمَرٍ قَالَ لاَ أَعْلَمُهُ إِلاَّ رَفَعَ الْحَدِيثَ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated by another chain of transmitters except with this variation (of words) that in the hadith narrated by Ma'mar (the words are):",
+        "text": "\" I do not know whether the hadith is marfu'.\""
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، وَهَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، قَالَ هَارُونُ حَدَّثَنَا وَقَالَ الآخَرَانِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ بْنُ يَزِيدَ، عَنِ ابْنِ شِهَابٍ، قَالَ حَدَّثَنِي أَبُو أُمَامَةَ بْنُ سَهْلِ بْنِ حُنَيْفٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ أَسْرِعُوا بِالْجَنَازَةِ فَإِنْ كَانَتْ صَالِحَةً قَرَّبْتُمُوهَا إِلَى الْخَيْرِ وَإِنْ كَانَتْ غَيْرَ ذَلِكَ كَانَ شَرًّا تَضَعُونَهُ عَنْ رِقَابِكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger as saying:",
+        "text": "Hasten at a funeral, for if (the dead person) is good, you would (soon) bring him close to the good. And if it is otherwise, it is an evil of which you are ridding yourselves."
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، وَهَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، - وَاللَّفْظُ لِهَارُونَ وَحَرْمَلَةَ - قَالَ هَارُونُ حَدَّثَنَا وَقَالَ الآخَرَانِ أَخْبَرَنَا ابْنُ وَهْبٍ أَخْبَرَنِي يُونُسُ عَنِ ابْنِ شِهَابٍ قَالَ حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ هُرْمُزَ الأَعْرَجُ أَنَّ أَبَا هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ شَهِدَ الْجَنَازَةَ حَتَّى يُصَلَّى عَلَيْهَا فَلَهُ قِيرَاطٌ وَمَنْ شَهِدَهَا حَتَّى تُدْفَنَ فَلَهُ قِيرَاطَانِ ‏\"‏ ‏.‏ قِيلَ وَمَا الْقِيرَاطَانِ قَالَ ‏\"‏ مِثْلُ الْجَبَلَيْنِ الْعَظِيمَيْنِ ‏\"‏ ‏.‏ انْتَهَى حَدِيثُ أَبِي الطَّاهِرِ وَزَادَ الآخَرَانِ قَالَ ابْنُ شِهَابٍ قَالَ سَالِمُ بْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ وَكَانَ ابْنُ عُمَرَ يُصَلِّي عَلَيْهَا ثُمَّ يَنْصَرِفُ فَلَمَّا بَلَغَهُ حَدِيثُ أَبِي هُرَيْرَةَ قَالَ لَقَدْ ضَيَّعْنَا قَرَارِيطَ كَثِيرَةً ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "He who attends the funeral till the prayer is offered for (the dead), for him is the reward of one qirat, and he who attends (and stays) till he is buried, for him is the reward of two qirats. It was said: What are the qirats? He said: They are equivalent to two huge mountains. Two other narrators added: Ibn 'Umar used to pray and then depart (without waiting for the burial of the dead). When the tradition of Abu Huraira reached him, he said:\" We have lost many qirats.\""
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الأَعْلَى، ح وَحَدَّثَنَا ابْنُ رَافِعٍ، وَعَبْدُ، بْنُ حُمَيْدٍ عَنْ عَبْدِ الرَّزَّاقِ، كِلاَهُمَا عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي، هُرَيْرَةَ عَنِ النَّبِيَّ صلى الله عليه وسلم إِلَى قَوْلِهِ الْجَبَلَيْنِ الْعَظِيمَيْنِ ‏.‏ وَلَمْ يَذْكُرَا مَا بَعْدَهُ وَفِي حَدِيثِ عَبْدِ الأَعْلَى حَتَّى يُفْرَغَ مِنْهَا وَفِي حَدِيثِ عَبْدِ الرَّزَّاقِ حَتَّى تُوضَعَ فِي اللَّحْدِ .",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Abu Huraira through another chain of narrators up to these words:",
+        "text": "\" two great mountains.\" No mention is made of what followed (these words) ; and in the hadith transmitted by 'Abd al- A'la (the words are):\" till (the burial) is complete.\" In the hadith transmitted by 'Abd ar-Razzaq (the words are):\" till he is placed in the grave.\""
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، قَالَ حَدَّثَنِي عُقَيْلُ، بْنُ خَالِدٍ عَنِ ابْنِ شِهَابٍ، أَنَّهُ قَالَ حَدَّثَنِي رِجَالٌ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِ حَدِيثِ مَعْمَرٍ وَقَالَ ‏\n\"‏ وَمَنِ اتَّبَعَهَا حَتَّى تُدْفَنَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith is narrated on thp authority of Abu Huraira through another chain of transmitters (with these words):",
+        "text": "\" He who followed it (the bier) till he (the dead) is buried.\""
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنِي سُهَيْلٌ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنْ صَلَّى عَلَى جَنَازَةٍ وَلَمْ يَتْبَعْهَا فَلَهُ قِيرَاطٌ فَإِنْ تَبِعَهَا فَلَهُ قِيرَاطَانِ ‏\"‏ ‏.‏ قِيلَ وَمَا الْقِيرَاطَانِ قَالَ ‏\"‏ أَصْغَرُهُمَا مِثْلُ أُحُدٍ ‏\"‏ .‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying:",
+        "text": "He who offered prayer over the dead, but did not follow the bier, for him is the reward of one qirat, and he who followed it, for him is the reward of two qirats. It was asked what the qirats were. He said: The smaller amongst the two is equivalent to Uhud."
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا جَرِيرٌ، - يَعْنِي ابْنَ حَازِمٍ - حَدَّثَنَا نَافِعٌ، قَالَ قِيلَ لاِبْنِ عُمَرَ إِنَّ أَبَا هُرَيْرَةَ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ تَبِعَ جَنَازَةً فَلَهُ قِيرَاطٌ مِنَ الأَجْرِ ‏\"‏ ‏.‏ فَقَالَ ابْنُ عُمَرَ أَكْثَرَ عَلَيْنَا أَبُو هُرَيْرَةَ ‏.‏ فَبَعَثَ إِلَى عَائِشَةَ فَسَأَلَهَا فَصَدَّقَتْ أَبَا هُرَيْرَةَ فَقَالَ ابْنُ عُمَرَ لَقَدْ فَرَّطْنَا فِي قَرَارِيطَ كَثِيرَةٍ ‏.‏",
+      "english": {
+        "narrator": "Nafi' narrated that it was said to Ibn 'Umar that Abu Huraira reported to have heard Allah's Messenger (ﷺ) as saying:",
+        "text": "He who follows the bier, for him is the reward of one qirat. Ibn 'Umar said: Abu Huraira narrated it too often. So he sent (a messenger to) 'A'isha to ascertain (the fact). She ('A'isha) testified Abu Huraira. Ibn 'Umar said: We missed so many qirats."
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ يَزِيدَ بْنِ كَيْسَانَ، حَدَّثَنِي أَبُو حَازِمٍ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنْ صَلَّى عَلَى جَنَازَةٍ فَلَهُ قِيرَاطٌ وَمَنِ اتَّبَعَهَا حَتَّى تُوضَعَ فِي الْقَبْرِ فَقِيرَاطَانِ ‏\"‏ ‏.‏ قَالَ قُلْتُ يَا أَبَا هُرَيْرَةَ وَمَا الْقِيرَاطُ قَالَ ‏\"‏ مِثْلُ أُحُدٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "He who offers prayer for the dead, for him is (the reward of) one qirat; and he who follows the bier till it is placed in the grave, for him (is the reward of) two qirats. I (Abu Hazim, one of the narrators) said: Abu Huraira, what is a qirat? He said: It is like the hill of Uhud."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنِي حَيْوَةُ، حَدَّثَنِي أَبُو صَخْرٍ، عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ قُسَيْطٍ، أَنَّهُ حَدَّثَهُ أَنَّ دَاوُدَ بْنَ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ حَدَّثَهُ عَنْ أَبِيهِ، أَنَّهُ كَانَ قَاعِدًا عِنْدَ عَبْدِ اللَّهِ بْنِ عُمَرَ إِذْ طَلَعَ خَبَّابٌ صَاحِبُ الْمَقْصُورَةِ فَقَالَ يَا عَبْدَ اللَّهِ بْنَ عُمَرَ أَلاَ تَسْمَعُ مَا يَقُولُ أَبُو هُرَيْرَةَ إِنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ خَرَجَ مَعَ جَنَازَةٍ مِنْ بَيْتِهَا وَصَلَّى عَلَيْهَا ثُمَّ تَبِعَهَا حَتَّى تُدْفَنَ كَانَ لَهُ قِيرَاطَانِ مِنْ أَجْرٍ كُلُّ قِيرَاطٍ مِثْلُ أُحُدٍ وَمَنْ صَلَّى عَلَيْهَا ثُمَّ رَجَعَ كَانَ لَهُ مِنَ الأَجْرِ مِثْلُ أُحُدٍ ‏\"‏ ‏.‏ فَأَرْسَلَ ابْنُ عُمَرَ خَبَّابًا إِلَى عَائِشَةَ يَسْأَلُهَا عَنْ قَوْلِ أَبِي هُرَيْرَةَ ثُمَّ يَرْجِعُ إِلَيْهِ فَيُخْبِرُهُ مَا قَالَتْ وَأَخَذَ ابْنُ عُمَرَ قَبْضَةً مِنْ حَصَى الْمَسْجِدِ يُقَلِّبُهَا فِي يَدِهِ حَتَّى رَجَعَ إِلَيْهِ الرَّسُولُ فَقَالَ قَالَتْ عَائِشَةُ صَدَقَ أَبُو هُرَيْرَةَ ‏.‏ فَضَرَبَ ابْنُ عُمَرَ بِالْحَصَى الَّذِي كَانَ فِي يَدِهِ الأَرْضَ ثُمَّ قَالَ لَقَدْ فَرَّطْنَا فِي قَرَارِيطَ كَثِيرَةٍ ‏.‏",
+      "english": {
+        "narrator": "Dawud b. 'Amir b. Sa'd b. Abu Waqqas reported on the authority of his father that while he was sitting along with 'Abdullah b. 'Umar, Khabbab, the owner of Maqsura, said:",
+        "text": "Ibn 'Umar, do you hear what Abu Huraira says that he heard the Messenger of Allah (ﷺ) say:\" He who goes out with the bier when taken out from its residence and offers prayer for it and he then follows it till it is buried, he would have two qirats of reward, each qirat being equivalent to Uhud; and he who, after having offered prayer, (directly) came back would have his reward (as great) as Uhud\"? Ibn 'Umar sent Khabbab to 'A'isha in order to ask her about the words of Abu Huraira (and also told him) to come back to him (Ibn 'Umar) and inform him what 'A'isha said. (In the meanwhile) Ibn 'Umar took up a handful of pebbles and turned them over in his hand till the messenger (Khabbab) came back to him and told (him) that 'A'isha testified (the statement of) Abu Huraira. Ibn 'Umar threw the pebbles he had in his hand on the ground and then said: We missed a large number of qirats."
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى، - يَعْنِي ابْنَ سَعِيدٍ - حَدَّثَنَا شُعْبَةُ، حَدَّثَنِي قَتَادَةُ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ مَعْدَانَ بْنِ أَبِي طَلْحَةَ الْيَعْمَرِيِّ، عَنْ ثَوْبَانَ، مَوْلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ صَلَّى عَلَى جَنَازَةٍ فَلَهُ قِيرَاطٌ فَإِنْ شَهِدَ دَفْنَهَا فَلَهُ قِيرَاطَانِ الْقِيرَاطُ مِثْلُ أُحُدٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Thauban, the freed slave of the Messenger of Allah (ﷺ) reported Allah's Messenger (ﷺ) as saying:",
+        "text": "He who offered prayer for the dead, for him is the reward of one qirat, and he who attended its burial, he would have two qirats as his reward. And qirat is equivalent to Uhud."
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي ابْنُ بَشَّارٍ، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي قَالَ، وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ سَعِيدٍ، ح وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا أَبَانٌ، كُلُّهُمْ عَنْ قَتَادَةَ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ ‏.‏ وَفِي حَدِيثِ سَعِيدٍ وَهِشَامٍ سُئِلَ النَّبِيُّ صلى الله عليه وسلم عَنِ الْقِيرَاطِ فَقَالَ ‏\n\"‏ مِثْلُ أُحُدٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated by Qatada with the same chain of transmitters. And in the hadith transmitted by Sa'id and Hisham, (the words are):",
+        "text": "\" The Apostle of Allah (ﷺ) was asked about qirat, and he said: It is equivalent to Uhud.\""
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عِيسَى، حَدَّثَنَا ابْنُ الْمُبَارَكِ، أَخْبَرَنَا سَلاَّمُ بْنُ أَبِي مُطِيعٍ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، - رَضِيعِ عَائِشَةَ - عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَا مِنْ مَيِّتٍ يُصَلِّي عَلَيْهِ أُمَّةٌ مِنَ الْمُسْلِمِينَ يَبْلُغُونَ مِائَةً كُلُّهُمْ يَشْفَعُونَ لَهُ إِلاَّ شُفِّعُوا فِيهِ ‏\"‏ ‏.‏ قَالَ فَحَدَّثْتُ بِهِ شُعَيْبَ بْنَ الْحَبْحَابِ فَقَالَ حَدَّثَنِي بِهِ أَنَسُ بْنُ مَالِكٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "'A'isha reported Allah's Apostle (ﷺ) saying:",
+        "text": "If a company of Muslims numbering one hundred pray over a dead person, all of them interceding for him, their intercession for him will be accepted."
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ، وَهَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، وَالْوَلِيدُ بْنُ شُجَاعٍ السَّكُونِيُّ، قَالَ الْوَلِيدُ حَدَّثَنِي وَقَالَ الآخَرَانِ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي أَبُو صَخْرٍ، عَنْ شَرِيكِ بْنِ عَبْدِ، اللَّهِ بْنِ أَبِي نَمِرٍ عَنْ كُرَيْبٍ، مَوْلَى ابْنِ عَبَّاسٍ عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّهُ مَاتَ ابْنٌ لَهُ بِقُدَيْدٍ أَوْ بِعُسْفَانَ فَقَالَ يَا كُرَيْبُ انْظُرْ مَا اجْتَمَعَ لَهُ مِنَ النَّاسِ ‏.‏ قَالَ فَخَرَجْتُ فَإِذَا نَاسٌ قَدِ اجْتَمَعُوا لَهُ فَأَخْبَرْتُهُ فَقَالَ تَقُولُ هُمْ أَرْبَعُونَ قَالَ نَعَمْ ‏.‏ قَالَ أَخْرِجُوهُ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَا مِنْ رَجُلٍ مُسْلِمٍ يَمُوتُ فَيَقُومُ عَلَى جَنَازَتِهِ أَرْبَعُونَ رَجُلاً لاَ يُشْرِكُونَ بِاللَّهِ شَيْئًا إِلاَّ شَفَّعَهُمُ اللَّهُ فِيهِ ‏\"‏ ‏.‏ وَفِي رِوَايَةِ ابْنِ مَعْرُوفٍ عَنْ شَرِيكِ بْنِ أَبِي نَمِرٍ عَنْ كُرَيْبٍ عَنِ ابْنِ عَبَّاسٍ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Abbas reported that his son died in Qudaid or 'Usfan. He said to Kuraib to see as to how many people had gathered there for his (funeral). He (Kuraib) said:",
+        "text": "So I went out and I informed him about the people who had gathered there. He (Ibn 'Abbas) said: Do you think they are forty? He (Kuraib) said: Yes. Ibn 'Abbas then said to them: Bring him (the dead body) out for I have heard Allah's Messenger (ﷺ) as saying: If any Muslim dies and forty men who associate nothing with Allah stand over his prayer (they offer prayer over him), Allah will accept them as intercessors for him."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَزُهَيْرُ بْنُ حَرْبٍ وَعَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ كُلُّهُمْ عَنِ ابْنِ عُلَيَّةَ، - وَاللَّفْظُ لِيَحْيَى قَالَ حَدَّثَنَا ابْنُ عُلَيَّةَ، - أَخْبَرَنَا عَبْدُ الْعَزِيزِ، بْنُ صُهَيْبٍ عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ مُرَّ بِجَنَازَةٍ فَأُثْنِيَ عَلَيْهَا خَيْرٌ فَقَالَ نَبِيُّ اللَّهِ صلى الله عليه وسلم ‏\"‏ وَجَبَتْ وَجَبَتْ وَجَبَتْ ‏\"‏ ‏.‏ وَمُرَّ بِجَنَازَةٍ فَأُثْنِيَ عَلَيْهَا شَرٌّ فَقَالَ نَبِيُّ اللَّهِ صلى الله عليه وسلم ‏\"‏ وَجَبَتْ وَجَبَتْ وَجَبَتْ ‏\"‏ ‏.‏ قَالَ عُمَرُ فِدًى لَكَ أَبِي وَأُمِّي مُرَّ بِجَنَازَةٍ فَأُثْنِيَ عَلَيْهَا خَيْرًا فَقُلْتَ وَجَبَتْ وَجَبَتْ وَجَبَتْ ‏.‏ وَمُرَّ بِجَنَازَةٍ فَأُثْنِيَ عَلَيْهَا شَرٌّ فَقُلْتَ وَجَبَتْ وَجَبَتْ وَجَبَتْ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ أَثْنَيْتُمْ عَلَيْهِ خَيْرًا وَجَبَتْ لَهُ الْجَنَّةُ وَمَنْ أَثْنَيْتُمْ عَلَيْهِ شَرًّا وَجَبَتْ لَهُ النَّارُ أَنْتُمْ شُهَدَاءُ اللَّهِ فِي الأَرْضِ أَنْتُمْ شُهَدَاءُ اللَّهِ فِي الأَرْضِ أَنْتُمْ شُهَدَاءُ اللَّهِ فِي الأَرْضِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported:",
+        "text": "There passed a bier (being carried by people) and it was lauded in good terms. Upon this the Messenger of Allah (ﷺ) said: It has become certain, it has become certain, it has become certain. And there passed a bier and it was condemned in bad words. Upon this the Messenger of Allah (ﷺ) said: It has become certain, it has become certain, it has become certain. 'Umar said: May my father and mother be ransom for you! There passed a bier and it was praised in good terms, and you said: It has become certain, it has become certain, it has become certain. And there passed a bier and it was condemned in bad words, and you said: It has become certain, it has become certain, it has become certain. Upon this the Messenger of Allah (way peace be upon him) said: He whom you praised in good terms, Paradise has become certain for him, and he whom you condemned in bad words, Hell has become certain for him. You are Allah's witnesses in the earth, you are Allah's witnesses in the earth, you are Allah's witnesses in the earth."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، حَدَّثَنَا حَمَّادٌ يَعْنِي ابْنَ زَيْدٍ، ح وَحَدَّثَنِي يَحْيَى بْنُ، يَحْيَى أَخْبَرَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، كِلاَهُمَا عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ مُرَّ عَلَى النَّبِيِّ صلى الله عليه وسلم بِجَنَازَةٍ ‏.‏ فَذَكَرَ بِمَعْنَى حَدِيثِ عَبْدِ الْعَزِيزِ عَنْ أَنَسٍ غَيْرَ أَنَّ حَدِيثَ عَبْدِ الْعَزِيزِ أَتَمُّ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated through another chain of transmitters."
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكِ بْنِ أَنَسٍ، فِيمَا قُرِئَ عَلَيْهِ عَنْ مُحَمَّدِ بْنِ عَمْرِو، بْنِ حَلْحَلَةَ عَنْ مَعْبَدِ بْنِ كَعْبِ بْنِ مَالِكٍ، عَنْ أَبِي قَتَادَةَ بْنِ رِبْعِيٍّ، أَنَّهُ كَانَ يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مُرَّ عَلَيْهِ بِجَنَازَةٍ فَقَالَ ‏\"‏ مُسْتَرِيحٌ وَمُسْتَرَاحٌ مِنْهُ ‏\"‏ ‏.‏ قَالُوا يَا رَسُولَ اللَّهِ مَا الْمُسْتَرِيحُ وَالْمُسْتَرَاحُ مِنْهُ ‏.‏ فَقَالَ ‏\"‏ الْعَبْدُ الْمُؤْمِنُ يَسْتَرِيحُ مِنْ نَصَبِ الدُّنْيَا وَالْعَبْدُ الْفَاجِرُ يَسْتَرِيحُ مِنْهُ الْعِبَادُ وَالْبِلاَدُ وَالشَّجَرُ وَالدَّوَابُّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Qatada b. Rib'i reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Whenever a bier passed before him, he said: He is the one to find relief and the one with (the departure of him) other will find relief. They said: Apostle of Allah, who is al-Mustarih and al-Mustarah? Upon this he said: The believing servant finds relief from the troubles of the world, and in the death of a wicked person, the people, towns, trees and animals find rellef."
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، جَمِيعًا عَنْ عَبْدِ اللَّهِ بْنِ سَعِيدِ بْنِ أَبِي هِنْدٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنِ ابْنٍ لِكَعْبِ بْنِ مَالِكٍ، عَنْ أَبِي قَتَادَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم وَفِي حَدِيثِ يَحْيَى بْنِ سَعِيدٍ ‏\n\"‏ يَسْتَرِيحُ مِنْ أَذَى الدُّنْيَا وَنَصَبِهَا إِلَى رَحْمَةِ اللَّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "In the hadith transmitted by Yahya b. Sa'id on the authority of Qatada (the words are):",
+        "text": "(The believing servant) finds relief from the troubles of the world and its hardships and (gets into) the Mercy of Allah."
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَعَى لِلنَّاسِ النَّجَاشِيَ فِي الْيَوْمِ الَّذِي مَاتَ فِيهِ فَخَرَجَ بِهِمْ إِلَى الْمُصَلَّى وَكَبَّرَ أَرْبَعَ تَكْبِيرَاتٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported that the Messenger of Allah (ﷺ) gave the people news of the death of Negus on the day he died, and he took them out to the place of prayer and observed four takbirs."
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، قَالَ حَدَّثَنِي عُقَيْلُ، بْنُ خَالِدٍ عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَأَبِي، سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ أَنَّهُمَا حَدَّثَاهُ عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قَالَ نَعَى لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم النَّجَاشِيَ صَاحِبَ الْحَبَشَةِ فِي الْيَوْمِ الَّذِي مَاتَ فِيهِ فَقَالَ ‏\n\"‏ اسْتَغْفِرُوا لأَخِيكُمْ ‏\"‏ ‏.‏ قَالَ ابْنُ شِهَابٍ وَحَدَّثَنِي سَعِيدُ بْنُ الْمُسَيَّبِ أَنَّ أَبَا هُرَيْرَةَ حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَفَّ بِهِمْ بِالْمُصَلَّى فَصَلَّى فَكَبَّرَ عَلَيْهِ أَرْبَعَ تَكْبِيرَاتٍ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported:",
+        "text": "The Messenger of Allah (ﷺ) gave us the news of the death of Negus, the ruler of Abyssinia, on the day when he died, and he said (to us): Beg pardon for your brother. Ibn Shihab said that Sa'id b. Musayyib had told that Abu Huraira had narrated to him that the Messenger of Allah (ﷺ) drew them up in a row in a place of prayer, and offered prayer and recited four takbirs for him."
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، وَحَسَنٌ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالُوا حَدَّثَنَا يَعْقُوبُ، - وَهُوَ ابْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ - حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، كَرِوَايَةِ عُقَيْلٍ بِالإِسْنَادَيْنِ جَمِيعًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith is narrated through another chain of transmitters."
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ سَلِيمِ بْنِ حَيَّانٍ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ مِينَاءَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى",
+      "english": {
+        "narrator": "",
+        "text": "Jabir b. 'Abdullah reported that the Messenger of Allah (ﷺ) offered prayer for Ashama, the Negus, and recited four takbirs."
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَاتَ الْيَوْمَ عَبْدٌ لِلَّهِ صَالِحٌ أَصْحَمَةُ ‏\"‏ ‏.‏ فَقَامَ فَأَمَّنَا وَصَلَّى عَلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There died today the pious servant of Allah, Ashama. So he stood up and led us in (funeral prayer) over him."
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ، بْنِ عَبْدِ اللَّهِ ح .\n وَحَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا ابْنُ عُلَيَّةَ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي، الزُّبَيْرِ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ أَخًا لَكُمْ قَدْ مَاتَ فَقُومُوا فَصَلُّوا عَلَيْهِ ‏\"‏ ‏.‏ قَالَ فَقُمْنَا فَصَفَّنَا صَفَّيْنِ ‏.‏",
+      "english": {
+        "narrator": "Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:",
+        "text": "A brother of yours has died, so stand up and offer prayer over him. So we stood up and drew ourselves up into two rows."
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَعَلِيُّ بْنُ حُجْرٍ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، ح وَحَدَّثَنَا يَحْيَى، بْنُ أَيُّوبَ حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الْمُهَلَّبِ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ أَخًا لَكُمْ قَدْ مَاتَ فَقُومُوا فَصَلُّوا عَلَيْهِ ‏\"‏ ‏.‏ يَعْنِي النَّجَاشِيَ وَفِي رِوَايَةِ زُهَيْرٍ ‏\"‏ إِنَّ أَخَاكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Imran b. Husain reported Allah's Messenger (ﷺ) as saying:",
+        "text": "A brother of yours has died; so stand up and offer prayer for him, i. e. Negus. And in the hadith transmitted by Zubair (the words are):\" Your brother.\""
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا حَسَنُ بْنُ الرَّبِيعِ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ، إِدْرِيسَ عَنِ الشَّيْبَانِيِّ، عَنِ الشَّعْبِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى عَلَى قَبْرٍ بَعْدَ مَا دُفِنَ فَكَبَّرَ عَلَيْهِ أَرْبَعًا ‏.‏ قَالَ الشَّيْبَانِيُّ فَقُلْتُ لِلشَّعْبِيِّ مَنْ حَدَّثَكَ بِهَذَا قَالَ الثِّقَةُ عَبْدُ اللَّهِ بْنُ عَبَّاسٍ ‏.‏ هَذَا لَفْظُ حَدِيثِ حَسَنٍ وَفِي رِوَايَةِ ابْنِ نُمَيْرٍ قَالَ انْتَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى قَبْرٍ رَطْبٍ فَصَلَّى عَلَيْهِ وَصَفُّوا خَلْفَهُ وَكَبَّرَ أَرْبَعًا ‏.‏ قُلْتُ لِعَامِرٍ مَنْ حَدَّثَكَ قَالَ الثِّقَةُ مَنْ شَهِدَهُ ابْنُ عَبَّاسٍ ‏.‏",
+      "english": {
+        "narrator": "Sha'bi reported that the Messenger of Allah (ﷺ) observed prayer over a grave after the dead was buried and he recited four takbirs over him. Shaibani said:",
+        "text": "I said to Sha'bi: Who narrated it to you? He said: An authentic one, 'Abdullah b. 'Abbas. This is the word of a hasan hadith. In the narration of Ibn Numair (the words are): The Messenger of Allah (ﷺ) went to the grave which had been newly prepared and prayed over it, and they also prayed who were behind him and he recited four takbirs. I said to 'Amir: Who narrated it to you? He said: An authentic one who saw him, i e. Ibn 'Abbas."
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، ح وَحَدَّثَنَا حَسَنُ بْنُ الرَّبِيعِ، وَأَبُو كَامِلٍ قَالاَ حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا جَرِيرٌ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، ح وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، كُلُّ هَؤُلاَءِ عَنِ الشَّيْبَانِيِّ، عَنِ الشَّعْبِيِّ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ وَلَيْسَ فِي حَدِيثِ أَحَدٍ مِنْهُمْ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَبَّرَ عَلَيْهِ أَرْبَعًا ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated through another chain of transmitters, but in one of them (these words are found):",
+        "text": "\" The Apostle of Allah (ﷺ) recited four takbirs.\""
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 11,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَهَارُونُ بْنُ عَبْدِ اللَّهِ، جَمِيعًا عَنْ وَهْبِ بْنِ جَرِيرٍ، عَنْ شُعْبَةَ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، ح وَحَدَّثَنِي أَبُو غَسَّانَ، مُحَمَّدُ بْنُ عَمْرٍو الرَّازِيُّ حَدَّثَنَا يَحْيَى بْنُ الضُّرَيْسِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنْ أَبِي حَصِينٍ، كِلاَهُمَا عَنِ الشَّعْبِيِّ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي صَلاَتِهِ عَلَى الْقَبْرِ نَحْوَ حَدِيثِ الشَّيْبَانِيِّ ‏.‏ لَيْسَ فِي حَدِيثِهِمْ وَكَبَّرَ أَرْبَعًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The hadith as narrated by Shaibani has been narrated through another chain of transmitters."
+      }
+    }
+  ]
+}

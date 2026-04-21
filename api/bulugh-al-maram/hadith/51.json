@@ -1,0 +1,16 @@
+{
+  "id": 51,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ سِبَابُ اَلْمُسْلِمِ فُسُوقٌ, وَقِتَالُهُ كُفْرٌ }  مُتَّفَقٌ عَلَيْهِ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6044)‏ ومسلم (64)‏.‏",
+  "english": {
+    "narrator": "Ibn Mas'ud (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "insulting a Muslim is disobedience to Allah, and fighting with him is Kufr (disbelief).” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

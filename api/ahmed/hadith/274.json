@@ -1,0 +1,16 @@
+{
+  "id": 274,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا سُفْيَانُ، عَنْ جَابِرٍ، عَنِ الشَّعْبِيِّ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ لَعَنَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ آكِلَ الرِّبَا وَمُوكِلَهُ وَشَاهِدَيْهِ وَكَاتِبَهُ وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ لِلْحُسْنِ وَمَانِعَ الصَّدَقَةِ وَالْمُحِلَّ وَالْمُحَلَّلَ لَهُ وَكَانَ يَنْهَى عَنْ النَّوْحِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) cursed the one who consumes riba, the one who pays it, the two who witness it, the one who writes it down, the woman who does tattoos and the woman who gets tattoos done for adornment, the one who withholds zakah, the one who marries a woman and divorces her so that she becomes permissible for her first husband, and the one for whom that is done, And he forbade wailing (for the deceased)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

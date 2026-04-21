@@ -1,0 +1,510 @@
+{
+  "page": 92,
+  "perPage": 50,
+  "totalPages": 116,
+  "totalCount": 5768,
+  "nextPage": 93,
+  "prevPage": 91,
+  "items": [
+    {
+      "id": 93,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، وَيَعْقُوبُ بْنُ إِبْرَاهِيمَ، - وَاللَّفْظُ لَهُ - عَنْ عَبْدِ الرَّحْمَنِ، عَنْ مَالِكٍ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، عَنْ أَبِي سُفْيَانَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَخَّصَ فِي الْعَرَايَا أَنْ تُبَاعَ بِخَرْصِهَا فِي خَمْسَةِ أَوْسُقٍ أَوْ مَا دُونَ خَمْسَةِ أَوْسُقٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was narrated from Au Hurairah that the prophet granted a concession allowing estimation for 'Ararya sales, so long as they were five Wasq or less then that"
+      }
+    },
+    {
+      "id": 94,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ يَحْيَى، عَنْ بُشَيْرِ بْنِ يَسَارٍ، عَنْ سَهْلِ بْنِ أَبِي حَثَمَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ الثَّمَرِ حَتَّى يَبْدُوَ صَلاَحُهُ وَرَخَّصَ فِي الْعَرَايَا أَنْ تُبَاعَ بِخَرْصِهَا يَأْكُلُهَا أَهْلُهَا رُطَبًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was narrated from Sahl bin Abi Hathamah that the Prophet forbade selling fruits before their condition was known, but he granted a concession allowing 'Araya sales by estimate, so its people could eat fresh dates."
+      }
+    },
+    {
+      "id": 95,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الْحُسَيْنُ بْنُ عِيسَى، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنِي الْوَلِيدُ بْنُ كَثِيرٍ، قَالَ أَخْبَرَنِي بُشَيْرُ بْنُ يَسَارٍ، أَنَّ رَافِعَ بْنَ خَدِيجٍ، وَسَهْلَ بْنَ أَبِي حَثْمَةَ، حَدَّثَاهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُزَابَنَةِ بَيْعُ الثَّمَرِ بِالتَّمْرِ إِلاَّ لأَصْحَابِ الْعَرَايَا فَإِنَّهُ أَذِنَ لَهُمْ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Rafi bin Khadij and Sahl Bi Abi Hathamah narrated that the Messenger of Allah forbade Muzabanah, which means selling fresh dates still on the tree for dried dates, except in cases of 'Araya, for which he gave permission. (Sahih"
+      }
+    },
+    {
+      "id": 96,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَحْيَى، عَنْ بُشَيْرِ بْنِ يَسَارٍ، عَنْ أَصْحَابِ، رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُمْ قَالُوا رَخَّصَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي بَيْعِ الْعَرَايَا بِخَرْصِهَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Bashir bin yasar that the Companions of the Messenger of Allah said:",
+        "text": "\"The Messenger of Allah granted a concession allowing 'Araya sales by estimate.\""
+      }
+    },
+    {
+      "id": 97,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا مَالِكٌ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ يَزِيدَ، عَنْ زَيْدِ بْنِ عَيَّاشٍ، عَنْ سَعْدٍ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ التَّمْرِ بِالرُّطَبِ فَقَالَ لِمَنْ حَوْلَهُ ‏\n\"‏ أَيَنْقُصُ الرُّطَبُ إِذَا يَبِسَ ‏\"‏ ‏.‏ قَالُوا نَعَمْ ‏.‏ فَنَهَى عَنْهُ ‏.‏",
+      "english": {
+        "narrator": "it was narrated that Sa'd said:",
+        "text": "\"The Messenger of Allah was asked about (buying) fresh dates with dried dates, and he said to those who were around him: 'Will fresh dates decrease (in weight or volume) when they dry out?\" they said Yes,' so he forbade that.\""
+      }
+    },
+    {
+      "id": 98,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيِّ بْنِ مَيْمُونٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ الْفِرْيَابِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، عَنْ زَيْدٍ، عَنْ سَعْدِ بْنِ مَالِكٍ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الرُّطَبِ بِالتَّمْرِ فَقَالَ ‏\n\"‏ أَيَنْقُصُ إِذَا يَبِسَ ‏\"‏ ‏.‏ قَالُوا نَعَمْ ‏.‏ فَنَهَى عَنْهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Sa 'd bin Malik said:",
+        "text": "\"The Messenger of Allah was asked about (buying) said; 'Will fresh dates decrees (in weight or volume) when they dry out? 'They said 'yes so he forbade that\""
+      }
+    },
+    {
+      "id": 99,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ الْحَسَنِ، قَالَ حَدَّثَنَا حَجَّاجٌ، قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الصُّبْرَةِ مِنَ التَّمْرِ لاَ يُعْلَمُ مَكِيلُهَا بِالْكَيْلِ الْمُسَمَّى مِنَ التَّمْرِ ‏.‏",
+      "english": {
+        "narrator": "Jabir bin 'Abdullahsaid:",
+        "text": "\"The Messenger of Allah forbade selling a heap of dried dates whose volume is unknown for known volume of dried dates,\""
+      }
+    },
+    {
+      "id": 100,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ الْحَسَنِ، قَالَ حَدَّثَنَا حَجَّاجٌ، قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ لاَ تُبَاعُ الصُّبْرَةُ مِنَ الطَّعَامِ بِالصُّبْرَةِ مِنَ الطَّعَامِ وَلاَ الصُّبْرَةُ مِنَ الطَّعَامِ بِالْكَيْلِ الْمُسَمَّى مِنَ الطَّعَامِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Zubair narrated that he heard Jabir bin 'Abdullah say:",
+        "text": "\"The Prophet said: '\nA heap of grain should not be sold for a heap of grain, or for a heap of grain of known measure. \""
+      }
+    },
+    {
+      "id": 101,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمُزَابَنَةِ أَنْ يَبِيعَ ثَمَرَ حَائِطِهِ وَإِنْ كَانَ نَخْلاً بِتَمْرٍ كَيْلاً وَإِنْ كَانَ كَرْمًا أَنْ يَبِيعَهُ بِزَبِيبٍ كَيْلاً وَإِنْ كَانَ زَرْعًا أَنْ يَبِيعَهُ بِكَيْلِ طَعَامٍ نَهَى عَنْ ذَلِكَ كُلِّهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'umar said:",
+        "text": "\"The Messenger of Allah forbade Muzabanah, which refers to when a man sells the dates of his  grove while they are still on the trees, for a measure of dry on the tree, for a measure of dry dates, estimating the amount( of dates on the trees). Or, if it is grapes, he sells them when they are still on the vines, for a measure of raisins, estimating the amount (of grapes on the vines). Or if it is grain in the field, he sells it for grain that has been harvested, estimating the amount (of grain in the fields). He forbade all of that.\"\""
+      }
+    },
+    {
+      "id": 102,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا مَخْلَدُ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُخَابَرَةِ وَالْمُزَابَنَةِ وَالْمُحَاقَلَةِ وَعَنْ بَيْعِ الثَّمَرِ قَبْلَ أَنْ يُطْعَمَ وَعَنْ بَيْعِ ذَلِكَ إِلاَّ بِالدَّنَانِيرِ وَالدَّرَاهِمِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir that:",
+        "text": "the Messenger of Allah forbade Mukhabarah, Muzabanah and Muhaqalah, and selling dates before they arte fit or eating, and selling them for anything except Dinars and Dirhams. ,\""
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ النَّخْلَةِ حَتَّى تَزْهُوَ وَعَنِ السُّنْبُلِ حَتَّى يَبْيَضَّ وَيَأْمَنَ الْعَاهَةَ نَهَى الْبَائِعَ وَالْمُشْتَرِيَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'umar that:",
+        "text": "the Messenger of Allah forbade selling dates in the trees before they ripen or selling ears of corn before the grains become visible and there is no fear of blight. He forbade that to the seller ad the buyer. ,\""
+      }
+    },
+    {
+      "id": 104,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنِ الأَعْمَشِ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ أَبِي صَالِحٍ، أَنَّ رَجُلاً، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَخْبَرَهُ قَالَ يَا رَسُولَ اللَّهِ إِنَّا لاَ نَجِدُ الصَّيْحَانِيَّ وَلاَ الْعِذْقَ بِجَمْعِ التَّمْرِ حَتَّى نَزِيدَهُمْ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ بِعْهُ بِالْوَرِقِ ثُمَّ اشْتَرِ بِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrate from Abu Salih that:",
+        "text": "a man form among the companions of the Prophet told him, he said: \"O Messenger of Allah we cannot buy Saihani dates or 'idhq dates for the same amount of mixed dates (which are of inferior quality). Should we increase (the amount we give in payment for the better quality dates)?\" The messenger of Allah said: \"Sell them for silver them buy with it\""
+      }
+    },
+    {
+      "id": 105,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ الْمَجِيدِ بْنِ سُهَيْلٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، وَعَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اسْتَعْمَلَ رَجُلاً عَلَى خَيْبَرَ فَجَاءَ بِتَمْرٍ جَنِيبٍ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَكُلُّ تَمْرِ خَيْبَرَ هَكَذَا ‏\"‏ ‏.‏ قَالَ لاَ وَاللَّهِ يَا رَسُولَ اللَّهِ إِنَّا لَنَأْخُذُ الصَّاعَ مِنْ هَذَا بِصَاعَيْنِ وَالصَّاعَيْنِ بِالثَّلاَثِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ تَفْعَلْ بِعِ الْجَمْعَ بِالدَّرَاهِمِ ثُمَّ ابْتَعْ بِالدَّرَاهِمِ جَنِيبًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Sa'eed Al'Khudri and Abu Hurairah that:",
+        "text": "the Messenger of Allah appointed a man in charge of kharibar and he brought some Janib dates. The messenger of Allah said; \"Are all the dates if khaibar like this?\" He said: \"No (by Allah, O Messenger of Allah) we take a Sa of these for two for three Sas (of other types of  dates).\" The messenger of Allah said: \"do not do that Sell the mixed dates for Dirhams then buy the Janib dates with the Dirhams\" ,\""
+      }
+    },
+    {
+      "id": 106,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا نَصْرُ بْنُ عَلِيٍّ، وَإِسْمَاعِيلُ بْنُ مَسْعُودٍ، - وَاللَّفْظُ لَهُ - عَنْ خَالِدٍ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُتِيَ بِتَمْرٍ رَيَّانٍ - وَكَانَ تَمْرُ رَسُولِ اللَّهِ صلى الله عليه وسلم بَعْلاً فِيهِ يُبْسٌ - فَقَالَ ‏\"‏ أَنَّى لَكُمْ هَذَا ‏\"‏ ‏.‏ قَالُوا ابْتَعْنَاهُ صَاعًا بِصَاعَيْنِ مِنْ تَمْرِنَا فَقَالَ ‏\"‏ لاَ تَفْعَلْ فَإِنَّ هَذَا لاَ يَصِحُّ وَلَكِنْ بِعْ تَمْرَكَ وَاشْتَرِ مِنْ هَذَا حَاجَتَكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Sa'eed Al-udri that:",
+        "text": "some dates from trees that were irrigated artificially were brought to the Messenger of Allah and the dates of the messenger of Allah were dates from trees that were nourished by their roots.  He said: \"Where did you get these from?\" They said: \"We bought a Sa of them for two Sa s of our dates: He said: \"Do not do that, for this is not right. Rather sell your dates and but what you need of these,\""
+      }
+    },
+    {
+      "id": 107,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "حَدَّثَنِي إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا أَبُو سَعِيدٍ الْخُدْرِيُّ، قَالَ كُنَّا نُرْزَقُ تَمْرَ الْجَمْعِ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَنَبِيعُ الصَّاعَيْنِ بِالصَّاعِ فَبَلَغَ ذَلِكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ لاَ صَاعَىْ تَمْرٍ بِصَاعٍ وَلاَ صَاعَىْ حِنْطَةٍ بِصَاعٍ وَلاَ دِرْهَمًا بِدِرْهَمَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "A Abu Sa 'eed al- Khudri said:",
+        "text": "\"We used to be given mixed dates during the time of the Messenger of Allah and we would sell two Sa s for one Sa News of that reached the Messenger of Allah and he said Do not sell) two Sa s of dates for a Sa, or two Sa s of wheat for s Sa or a Dirham for two Dirhams. ,\""
+      }
+    },
+    {
+      "id": 108,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هِشَامُ بْنُ عَمَّارٍ، عَنْ يَحْيَى، - وَهُوَ ابْنُ حَمْزَةَ - قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ يَحْيَى، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ، قَالَ حَدَّثَنِي أَبُو سَعِيدٍ، قَالَ كُنَّا نَبِيعُ تَمْرَ الْجَمْعِ صَاعَيْنِ بِصَاعٍ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ لاَ صَاعَىْ تَمْرٍ بِصَاعٍ وَلاَ صَاعَىْ حِنْطَةٍ بِصَاعٍ وَلاَ دِرْهَمَيْنِ بِدِرْهَمٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa' eed said:",
+        "text": "\"We used to sell two Sa s of mixed dates for a Sa but the Prophet said (Do not sell) two Sa s dates for a Sa or two Sa s wheat or a Sa or two Dirhams for a Dirham. ,\""
+      }
+    },
+    {
+      "id": 109,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هِشَامُ بْنُ عَمَّارٍ، عَنْ يَحْيَى، - وَهُوَ ابْنُ حَمْزَةَ - قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي يَحْيَى، قَالَ حَدَّثَنِي عُقْبَةُ بْنُ عَبْدِ الْغَافِرِ، قَالَ حَدَّثَنِي أَبُو سَعِيدٍ، قَالَ أَتَى بِلاَلٌ رَسُولَ اللَّهِ صلى الله عليه وسلم بِتَمْرٍ بَرْنِيٍّ فَقَالَ ‏\"‏ مَا هَذَا ‏\"‏ ‏.‏ قَالَ اشْتَرَيْتُهُ صَاعًا بِصَاعَيْنِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَوِّهْ عَيْنُ الرِّبَا لاَ تَقْرَبْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Saeed said:",
+        "text": "\"Bilal brought some Bami dates to the Messenger of Allah and he said: 'What is this? 'He said: 'I bought a Sa of them for two Sas. The Messenger of Allah said: \"O! The essence of Riba, do not approach it.\"'"
+      }
+    },
+    {
+      "id": 110,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ مَالِكِ بْنِ أَوْسِ بْنِ الْحَدَثَانِ، أَنَّهُ سَمِعَ عُمَرَ بْنَ الْخَطَّابِ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الذَّهَبُ بِالْوَرِقِ رِبًا إِلاَّ هَاءَ وَهَاءَ وَالتَّمْرُ بِالتَّمْرِ رِبًا إِلاَّ هَاءَ وَهَاءَ وَالْبُرُّ بِالْبُرِّ رِبًا إِلاَّ هَاءَ وَهَاءَ وَالشَّعِيرُ بِالشَّعِيرِ رِبًا إِلاَّ هَاءَ وَ هَاءَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Umar bin Al-Khattab said:",
+        "text": "\"The Messenger of Allah said: '(Exchanging) gold for silver is Riba unless it is done on the spot. (Exchanging) dates for dates is Riba unless it is done on the spot. (Exchanging) wheat for wheat is Riba unless it is done on the spot. (Exchanging) barley is Riba unless it is done on the spot.\"'"
+      }
+    },
+    {
+      "id": 111,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ التَّمْرُ بِالتَّمْرِ وَالْحِنْطَةُ بِالْحِنْطَةِ وَالشَّعِيرُ بِالشَّعِيرِ وَالْمِلْحُ بِالْمِلْحِ يَدًا بِيَدٍ فَمَنْ زَادَ أَوِ ازْدَادَ فَقَدْ أَرْبَى إِلاَّ مَا اخْتَلَفَتْ أَلْوَانُهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: 'Dates for dates, wheat for wheat, barley for barley, salt for salt, exchanged hand to hand. Whoever gives more or takes more has engaged in Riba unless they are of different types.\""
+      }
+    },
+    {
+      "id": 112,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ حَدَّثَنَا سَلَمَةُ، - وَهُوَ ابْنُ عَلْقَمَةَ - عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ مُسْلِمِ بْنِ يَسَارٍ، وَعَبْدِ اللَّهِ بْنِ عَتِيكٍ، قَالاَ جَمَعَ الْمَنْزِلُ بَيْنَ عُبَادَةَ بْنِ الصَّامِتِ وَمُعَاوِيَةَ حَدَّثَهُمْ عُبَادَةُ، قَالَ نَهَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الذَّهَبِ بِالذَّهَبِ وَالْوَرِقِ بِالْوَرِقِ وَالْبُرِّ بِالْبُرِّ وَالشَّعِيرِ بِالشَّعِيرِ وَالتَّمْرِ بِالتَّمْرِ - قَالَ أَحَدُهُمَا وَالْمِلْحِ بِالْمِلْحِ وَلَمْ يَقُلْهُ الآخَرُ - إِلاَّ مِثْلاً بِمِثْلٍ يَدًا بِيَدٍ وَأَمَرَنَا أَنْ نَبِيعَ الذَّهَبَ بِالْوَرِقِ وَالْوَرِقَ بِالذَّهَبِ وَالْبُرَّ بِالشِّعِيرِ وَالشَّعِيرَ بِالْبُرِّ يَدًا بِيَدٍ كَيْفَ شِئْنَا قَالَ أَحَدُهُمَا فَمَنْ زَادَ أَوِ ازْدَادَ فَقَدْ أَرْبَى ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Muslim bin Yasar and 'Abdullah bin 'Atik said:",
+        "text": "\"Ubadah bin As-Samit and Muawiyah met at a stopping place on the road. 'Ubadah told them: 'The Messenger of Allah forbade selling gold for gold, silver for silver, wheat for wheat, barley for barley, dates for dates\"'- one of them said: 'salt for salt,\"' but the other did not say it-\"unless it was like for like, hand to hand. And he commanded us to sell gold for silver and silver for gold, and wheat for barley and barley for wheat, and to hand, however we wanted.\"' And one of them said: \"Whoever gives more or ask for more has engaged in Riba.\"'"
+      }
+    },
+    {
+      "id": 113,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الْمُؤَمَّلُ بْنُ هِشَامٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ عُلَيَّةَ - عَنْ سَلَمَةَ بْنِ عَلْقَمَةَ، عَنِ ابْنِ سِيرِينَ، قَالَ حَدَّثَنِي مُسْلِمُ بْنُ يَسَارٍ، وَعَبْدُ اللَّهِ بْنُ عُبَيْدٍ، - وَقَدْ كَانَ يُدْعَى ابْنَ هُرْمُزَ - قَالَ جَمَعَ الْمَنْزِلُ بَيْنَ عُبَادَةَ بْنِ الصَّامِتِ وَبَيْنَ مُعَاوِيَةَ حَدَّثَهُمْ عُبَادَةُ، قَالَ نَهَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الذَّهَبِ بِالذَّهَبِ وَالْفِضَّةِ بِالْفِضَّةِ وَالتَّمْرِ بِالتَّمْرِ وَالْبُرِّ بِالْبُرِّ وَالشَّعِيرِ بِالشَّعِيرِ - قَالَ أَحَدُهُمَا وَالْمِلْحِ بِالْمِلْحِ وَلَمْ يَقُلْهُ الآخَرُ - إِلاَّ سَوَاءً بِسَوَاءٍ مِثْلاً بِمِثْلٍ - قَالَ أَحَدُهُمَا مَنْ زَادَ أَوِ ازْدَادَ فَقَدْ أَرْبَى وَلَمْ يَقُلْهُ الآخَرُ - وَأَمَرَنَا أَنْ نَبِيعَ الذَّهَبَ بِالْفِضَّةِ وَالْفِضَّةَ بِالذَّهَبِ وَالْبُرَّ بِالشَّعِيرِ وَالشَّعِيرَ بِالْبُرِّ يَدًا بِيَدٍ كَيْفَ شِئْنَا ‏.‏",
+      "english": {
+        "narrator": "Muslim bin Yasar and Abdullah bin Ubaid who was called Ibn Hurmuz narrated that 'Ubadah bin As-Samit and Muawiyah met at a stopping place on the road. 'Ubadah told them:",
+        "text": "\"The Messenger of Allah forbade selling gold for gold, silver for silver, dates for dates, wheat for wheat, barley for barley\"- one of them said: \"salt for salt,\" but the other did not say it-\"unless it was equal amount for equal amount, like for like.\" One of them said: \"Whoever gives more or takes more has engaged in Riba,\" but he other one did not say it. \"And he commanded us to sell gold for silver and silver for gold, and wheat for barley and barley for wheat, hand to hand, however we wanted.\""
+      }
+    },
+    {
+      "id": 114,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، قَالَ حَدَّثَنَا سَلَمَةُ بْنُ عَلْقَمَةَ، عَنْ مُحَمَّدٍ، قَالَ حَدَّثَنِي مُسْلِمُ بْنُ يَسَارٍ، وَعَبْدُ اللَّهِ بْنُ عُبَيْدٍ، قَالاَ جَمَعَ الْمَنْزِلُ بَيْنَ عُبَادَةَ بْنِ الصَّامِتِ وَبَيْنَ مُعَاوِيَةَ فَقَالَ عُبَادَةُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ نَبِيعَ الذَّهَبَ بِالذَّهَبِ وَالْوَرِقَ بِالْوَرِقِ وَالْبُرَّ بِالْبُرِّ وَالشَّعِيرَ بِالشَّعِيرِ وَالتَّمْرَ بِالتَّمْرِ - قَالَ أَحَدُهُمَا وَالْمِلْحَ بِالْمِلْحِ وَلَمْ يَقُلِ الآخَرُ - إِلاَّ سَوَاءً بِسَوَاءٍ مِثْلاً بِمِثْلٍ - قَالَ أَحَدُهُمَا مَنْ زَادَ أَوِ ازْدَادَ فَقَدْ أَرْبَى وَلَمْ يَقُلِ الآخَرُ - وَأَمَرَنَا أَنْ نَبِيعَ الذَّهَبَ بِالْوَرِقِ وَالْوَرِقَ بِالذَّهَبِ وَالْبُرَّ بِالشَّعِيرِ وَالشَّعِيرَ بِالْبُرِّ يَدًا بِيَدٍ كَيْفَ شِئْنَا فَبَلَغَ هَذَا الْحَدِيثُ مُعَاوِيَةَ فَقَامَ فَقَالَ مَا بَالُ رِجَالٍ يُحَدِّثُونَ أَحَادِيثَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَدْ صَحِبْنَاهُ وَلَمْ نَسْمَعْهُ مِنْهُ ‏.‏ فَبَلَغَ ذَلِكَ عُبَادَةَ بْنَ الصَّامِتِ فَقَامَ فَأَعَادَ الْحَدِيثَ فَقَالَ لَنُحَدِّثَنَّ بِمَا سَمِعْنَاهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَإِنْ رُغِمَ مُعَاوِيَةُ ‏.‏ خَالَفَهُ قَتَادَةُ رَوَاهُ عَنْ مُسْلِمِ بْنِ يَسَارٍ عَنْ أَبِي الأَشْعَثِ عَنْ عُبَادَةَ ‏.‏",
+      "english": {
+        "narrator": "Muslim bin Yasar and 'Abdullah bin 'Ubaid said:",
+        "text": "\"Ubadah bin As-Samit and Muawiyah met at a stopping place on the road. 'Ubadah said: 'The Messenger of Allah forbade us to sell gold for gold, silver for silver, wheat for wheat, barley for barley, dates for dates\"' - one of them said: \"salt for salt, \" but the other did not say \"unless it was equal amount for equal amount, like for like.\" One of them said: \"Whoever gives more or takes more has engaged in Riba,\" but the other one did not say it. \"And the commanded us to sell gold for silver and silver for gold, and wheat for barley and barley for wheat, hand to hand, however we wanted.' News of this hadith reached Muawiyah and he stood up and said: 'What is the matter with men who narrate Hadiths from the Messenger of Allah when we accompanied him and we never heard him say it? News of that reached 'Ubadah bin As-Samit and he stood up and repeated the Hadith, then he said: 'We will narrate what we heard from the Messenger of Allah, whether Muawiyah likes it or not.\"' Qatadah contradicted him, he reported it from Muslim bin Yasar, from Abu Al-=Ashath, from 'Ubadah."
+      }
+    },
+    {
+      "id": 115,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ آدَمَ، عَنْ عَبْدَةَ، عَنِ ابْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ مُسْلِمِ بْنِ يَسَارٍ، عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، - وَكَانَ بَدْرِيًّا وَكَانَ بَايَعَ النَّبِيَّ صلى الله عليه وسلم أَنْ لاَ يَخَافَ فِي اللَّهِ لَوْمَةَ لاَئِمٍ - أَنَّ عُبَادَةَ قَامَ خَطِيبًا فَقَالَ أَيُّهَا النَّاسُ إِنَّكُمْ قَدْ أَحْدَثْتُمْ بُيُوعًا لاَ أَدْرِي مَا هِيَ أَلاَ إِنَّ الذَّهَبَ بِالذَّهَبِ وَزْنًا بِوَزْنٍ تِبْرُهَا وَعَيْنُهَا وَإِنَّ الْفِضَّةَ بِالْفِضَّةِ وَزْنًا بِوَزْنٍ تِبْرُهَا وَعَيْنُهَا وَلاَ بَأْسَ بِبَيْعِ الْفِضَّةِ بِالذَّهَبِ يَدًا بِيَدٍ وَالْفِضَّةُ أَكْثَرُهُمَا وَلاَ تَصْلُحُ النَّسِيئَةُ أَلاَ إِنَّ الْبُرَّ بِالْبُرِّ وَالشَّعِيرَ بِالشَّعِيرِ مُدْيًا بِمُدْىٍ وَلاَ بَأْسَ بِبَيْعِ الشَّعِيرِ بِالْحِنْطَةِ يَدًا بِيَدٍ وَالشَّعِيرُ أَكْثَرُهُمَا وَلاَ يَصْلُحُ نَسِيئَةً أَلاَ وَإِنَّ التَّمْرَ بِالتَّمْرِ مُدْيًا بِمُدْىٍ حَتَّى ذَكَرَ الْمِلْحَ مُدًّا بِمُدٍّ فَمَنْ زَادَ أَوِ اسْتَزَادَ فَقَدْ أَرْبَى ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Ubdah bin As-Samit-who had been present at Badar and had given his pledge to the Prophet swearing not to fear the blame of any blamer for the sake of Allah that 'Ubadah stood up to deliver a speech and said:",
+        "text": "\"O people, you have invented kinds of transactions, I do not know what they are, but make sure it is gold for gold, of the same weight, or silver for silver, of the same weight. There is nothing wrong with selling silver for gold, hand to hand, giving more silver than gold, but no credit is allowed. When you sell wheat for wheat and barley for barley, it should be measure for measure, but there is nothing wrong with selling barley for wheat, hand to hand, giving more barley than wheat, but no credit is allowed. And when you sell dates for dates, it should be measure for measure\" And he mentioned salt, \"measure for measure, and whoever gives more or asks for more has engaged in Riba."
+      }
+    },
+    {
+      "id": 116,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَيَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالاَ حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، قَالَ حَدَّثَنَا هَمَّامٌ، قَالَ حَدَّثَنَا قَتَادَةُ، عَنْ أَبِي الْخَلِيلِ، عَنْ مُسْلِمٍ الْمَكِّيِّ، عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ الذَّهَبُ بِالذَّهَبِ تِبْرُهُ وَعَيْنُهُ وَزْنًا بِوَزْنٍ وَالْفِضَّةُ بِالْفِضَّةِ تِبْرُهُ وَعَيْنُهُ وَزْنًا بِوَزْنٍ وَالْمِلْحُ بِالْمِلْحِ وَالتَّمْرُ بِالتَّمْرِ وَالْبُرُّ بِالْبُرِّ وَالشَّعِيرُ بِالشَّعِيرِ سَوَاءً بِسَوَاءٍ مِثْلاً بِمِثْلٍ فَمَنْ زَادَ أَوِ ازْدَادَ فَقَدْ أَرْبَى ‏\"‏ ‏.‏ وَاللَّفْظُ لِمُحَمَّدٍ لَمْ يَذْكُرْ يَعْقُوبُ ‏\"‏ وَالشَّعِيرُ بِالشَّعِيرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Ubadah bin As-Samit said:",
+        "text": "\"The messenger of Allah said: 'Gold for gold, of equal measure; silver for silver, of equal measure; salt for salt, dates for dates wheat for wheat, barley for barley, like for like. Whoever gives more or  takes more has engaged in Riba.\"' (Sahih)\nThe wording is that of Muhammad Yaqub did not mention - \"Wheat for wheat\"."
+      }
+    },
+    {
+      "id": 117,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ سُلَيْمَانَ بْنِ عَلِيٍّ، أَنَّ أَبَا الْمُتَوَكِّلِ، مَرَّ بِهِمْ فِي السُّوقِ فَقَامَ إِلَيْهِ قَوْمٌ أَنَا مِنْهُمْ قَالَ قُلْنَا أَتَيْنَاكَ لِنَسْأَلَكَ عَنِ الصَّرْفِ ‏.‏ قَالَ سَمِعْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ قَالَ لَهُ رَجُلٌ مَا بَيْنَكَ وَبَيْنَ رَسُولِ اللَّهِ صلى الله عليه وسلم غَيْرُ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ لَيْسَ بَيْنِي وَبَيْنَهُ غَيْرُهُ ‏.‏ قَالَ فَإِنَّ الذَّهَبَ بِالذَّهَبِ وَالْوَرِقَ بِالْوَرِقِ - قَالَ سُلَيْمَانُ أَوْ قَالَ وَالْفِضَّةَ بِالْفِضَّةِ - وَالْبُرَّ بِالْبُرِّ وَالشَّعِيرَ بِالشَّعِيرِ وَالتَّمْرَ بِالتَّمْرِ وَالْمِلْحَ بِالْمِلْحِ سَوَاءً بِسَوَاءٍ فَمَنْ زَادَ عَلَى ذَلِكَ أَوِ ازْدَادَ فَقَدْ أَرْبَى وَالآخِذُ وَالْمُعْطِي فِيهِ سَوَاءٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Sulaiman bin Ali:",
+        "text": "\"Abu Al-Mutawakkil passed by them in the market and some people, including me, stood up to greet him. We said: 'We have come to you to ask you about transactions.' He said: 'I heard a man say to Abu Saeed Al-Khudri': 'Is there anyone between you and the Messenger of Allah (in the chain of narrators) apart from Abu Saeed Al-Khudri? He said: 'There is no one else between him and I. He said: Gold for gold, silver for silver, wheat for wheat, barley for barley, dates for dates, salt for salt, equal amounts. Whoever gives more than that or takes more has engaged in Riba, and the taker and the giver are the same.\"'"
+      }
+    },
+    {
+      "id": 118,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ قَالَ إِسْمَاعِيلُ حَدَّثَنَا حَكِيمُ بْنُ جَابِرٍ، ح وَأَنْبَأَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا حَكِيمُ بْنُ جَابِرٍ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ الذَّهَبُ الْكِفَّةُ بِالْكِفَّةِ ‏\"‏ ‏.‏ وَلَمْ يَذْكُرْ يَعْقُوبُ ‏\"‏ الْكِفَّةُ بِالْكِفَّةِ ‏\"‏ ‏.‏ فَقَالَ مُعَاوِيَةُ إِنَّ هَذَا لاَ يَقُولُ شَيْئًا ‏.‏ قَالَ عُبَادَةُ إِنِّي وَاللَّهِ مَا أُبَالِي أَنْ لاَ أَكُونَ بِأَرْضٍ يَكُونُ بِهَا مُعَاوِيَةُ إِنِّي أَشْهَدُ أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Ubadah bin As-Samit said:",
+        "text": "\"I heard the Messenger of Allah say: 'Gold, equal amount.\"' (One of the narrators) Yaqub did not mention: \"Equal amount.\" Muawiyah said: \"This does not mean anything.\" 'Ubadah said; \"By Allah I do not care if I am in a land where Muawiyah is not present. I bear witness that I heard the Messenger of Allah say that.\""
+      }
+    },
+    {
+      "id": 119,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ مُوسَى بْنِ أَبِي تَمِيمٍ، عَنْ سَعِيدِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الدِّينَارُ بِالدِّينَارِ وَالدِّرْهَمُ بِالدِّرْهَمِ لاَ فَضْلَ بَيْنَهُمَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah said:",
+        "text": "\"Dinar for Dinar Dirham for Dirham, no difference between them.\""
+      }
+    },
+    {
+      "id": 120,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ حُمَيْدِ بْنِ قَيْسٍ الْمَكِّيِّ، عَنْ مُجَاهِدٍ، قَالَ قَالَ ابْنُ عُمَرَ الدِّينَارُ بِالدِّينَارِ وَالدِّرْهَمُ بِالدِّرْهَمِ لاَ فَضْلَ بَيْنَهُمَا هَذَا عَهْدُ نَبِيِّنَا صلى الله عليه وسلم إِلَيْنَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Mujahid said:",
+        "text": "\"Umar said: Dinar for Dinar, Dirham for Dirham, no difference between them, this is the obligation that our Prophet enjoined upon us.\""
+      }
+    },
+    {
+      "id": 121,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ أَبِيهِ، عَنِ ابْنِ أَبِي نُعْمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الذَّهَبُ بِالذَّهَبِ وَزْنًا بِوَزْنٍ مِثْلاً بِمِثْلٍ وَالْفِضَّةُ بِالْفِضَّةِ وَزْنًا بِوَزْنٍ مِثْلاً بِمِثْلٍ فَمَنْ زَادَ أَوِ ازْدَادَ فَقَدْ أَرْبَى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: 'Gold for gold, weight for weight, like for like; and silver for silver, weight for weight, like for like. Whoever gives more or takes more has engaged in Riba.\"'"
+      }
+    },
+    {
+      "id": 122,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَبِيعُوا الذَّهَبَ بِالذَّهَبِ إِلاَّ مِثْلاً بِمِثْلٍ وَلاَ تُشِفُّوا بَعْضَهَا عَلَى بَعْضٍ وَلاَ تَبِيعُوا الْوَرِقَ بِالْوَرِقِ إِلاَّ مِثْلاً بِمِثْلٍ وَلاَ تَبِيعُوا مِنْهَا شَيْئًا غَائِبًا بِنَاجِزٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Saeed Al-Khudri that the Messenger of Allah said:",
+        "text": "\"Do not sell gold for gold except like for like and do not differentiate. Do not sell silver for silver except like for like, and do not sell it in return for something to be paid later.\""
+      }
+    },
+    {
+      "id": 123,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، وَإِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالاَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ - قَالَ حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ بَصُرَ عَيْنِي وَسَمِعَ أُذُنِي، مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ النَّهْىَ عَنِ الذَّهَبِ بِالذَّهَبِ وَالْوَرِقِ بِالْوَرِقِ إِلاَّ سَوَاءً بِسَوَاءٍ مِثْلاً بِمِثْلٍ ‏\n\"‏ وَلاَ تَبِيعُوا غَائِبًا بِنَاجِزٍ وَلاَ تُشِفُّوا أَحَدَهُمَا عَلَى الآخَرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Saeed Al-Khudri said:",
+        "text": "\"My eyes saw and my ears heard the Messenger of Allah. And he mentioned the prohibition of (selling) gold for gold and silver for silver, unless it is equal amounts, like for like. And do not sell it in return for something to be paid later, and do not differentiate.\""
+      }
+    },
+    {
+      "id": 124,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، أَنَّ مُعَاوِيَةَ، بَاعَ سِقَايَةً مِنْ ذَهَبٍ أَوْ وَرِقٍ بِأَكْثَرَ مِنْ وَزْنِهَا فَقَالَ أَبُو الدَّرْدَاءِ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنْ مِثْلِ هَذَا إِلاَّ مِثْلاً بِمِثْلٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Ata' bin Yasir that:",
+        "text": "Muawiyah sold a cup of gold or silver for more than its weight. Abu Ad-Darda' said: \"I heard the Messenger of Allah forbid such transactions unless it was like for like.\""
+      }
+    },
+    {
+      "id": 125,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ أَبِي شُجَاعٍ، سَعِيدِ بْنِ يَزِيدَ عَنْ خَالِدِ بْنِ أَبِي عِمْرَانَ، عَنْ حَنَشٍ الصَّنْعَانِيِّ، عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، قَالَ اشْتَرَيْتُ يَوْمَ خَيْبَرَ قِلاَدَةً فِيهَا ذَهَبٌ وَخَرَزٌ بِاثْنَىْ عَشَرَ دِينَارًا فَفَصَّلْتُهَا فَوَجَدْتُ فِيهَا أَكْثَرَ مِنَ اثْنَىْ عَشَرَ دِينَارًا فَذُكِرَ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ لاَ تُبَاعُ حَتَّى تُفَصَّلَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated the Fadalah bin 'Ubaid said:",
+        "text": "\"On the Day of Khaibar I bought a necklace containing gold and ggems for twelve Dinars. The I took it apart and found that it contatined more than twelve Dinars. Mentiion of that was made to the Prophet and he said: 'It should not be sold until it is taken apart.\""
+      }
+    },
+    {
+      "id": 126,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ مَحْبُوبٍ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ خَالِدِ بْنِ أَبِي عِمْرَانَ، عَنْ حَنَشٍ الصَّنْعَانِيِّ، عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، قَالَ أَصَبْتُ يَوْمَ خَيْبَرَ قِلاَدَةً فِيهَا ذَهَبٌ وَخَرَزٌ فَأَرَدْتُ أَنْ أَبِيعَهَا فَذُكِرَ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ افْصِلْ بَعْضَهَا مِنْ بَعْضٍ ثُمَّ بِعْهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Fadalah bin 'Ubad said:",
+        "text": "\"On the Day of Khaibar I got a necklace containing gold and gems, and I wanted to sell it. Mention of that was made to the Prophet and he said: 'Take it apart, and then sell it.\"'"
+      }
+    },
+    {
+      "id": 127,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، عَنْ سُفْيَانَ، عَنْ عَمْرٍو، عَنْ أَبِي الْمِنْهَالِ، قَالَ بَاعَ شَرِيكٌ لِي وَرِقًا بِنَسِيئَةٍ فَجَاءَنِي فَأَخْبَرَنِي فَقُلْتُ، هَذَا لاَ يَصْلُحُ ‏.‏ فَقَالَ قَدْ وَاللَّهِ بِعْتُهُ فِي السُّوقِ وَمَا عَابَهُ عَلَىَّ أَحَدٌ فَأَتَيْتُ الْبَرَاءَ بْنَ عَازِبٍ فَسَأَلْتُهُ فَقَالَ قَدِمَ عَلَيْنَا النَّبِيُّ صلى الله عليه وسلم الْمَدِينَةَ وَنَحْنُ نَبِيعُ هَذَا الْبَيْعَ فَقَالَ ‏\n\"‏ مَا كَانَ يَدًا بِيَدٍ فَلاَ بَأْسَ وَمَا كَانَ نَسِيئَةً فَهُوَ رِبًا ‏\"‏ ‏.‏ ثُمَّ قَالَ لِي ائْتِ زَيْدَ بْنَ أَرْقَمَ فَأَتَيْتُهُ فَسَأَلْتُهُ فَقَالَ مِثْلَ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that abu Al-Minhal said:",
+        "text": "\"Sharik sold some silver on credit for me. He came to me and told me. And I said: 'This is not correct.' He said; 'By Allah, I did this transaction in the market and no one criticized me .' So I went to Al-Bara bin Azib and asked him about that. He said: 'The Prophet came to us in Al-Madinah and we used to do this kind of transaction, but he said: Whatever is hand to hand, there is nothing wrong with it, but whatever is on credit, is Riba. Then he said to me: 'Go to Zaid bin Arqam.' So I went to him and asked him, and he said the same thing.\""
+      }
+    },
+    {
+      "id": 128,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ الْحَسَنِ، قَالَ حَدَّثَنَا حَجَّاجٌ، قَالَ قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ، وَعَامِرُ بْنُ مُصْعَبٍ، أَنَّهُمَا سَمِعَا أَبَا الْمِنْهَالِ، يَقُولُ سَأَلْتُ الْبَرَاءَ بْنَ عَازِبٍ وَزَيْدَ بْنَ أَرْقَمَ فَقَالاَ كُنَّا تَاجِرَيْنِ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَسَأَلْنَا نَبِيَّ اللَّهِ صلى الله عليه وسلم عَنِ الصَّرْفِ فَقَالَ ‏\n\"‏ إِنْ كَانَ يَدًا بِيَدٍ فَلاَ بَأْسَ وَإِنْ كَانَ نَسِيئَةً فَلاَ يَصْلُحُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Al-Minhal said:",
+        "text": "\" I asked Al-Bara bin 'Azib and Zaid bin Arqam and they said: 'We were merchants at the time of the Messenger of Allah and we asked the Prophet of Allah about money exchange. He said: \"If it is done hand to hand there is nothing wrong with it, but if it is done on credit then it is not right.\""
+      }
+    },
+    {
+      "id": 129,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ الْحَكَمِ، عَنْ مُحَمَّدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ حَبِيبٍ، قَالَ سَمِعْتُ أَبَا الْمِنْهَالِ، قَالَ سَأَلْتُ الْبَرَاءَ بْنَ عَازِبٍ عَنِ الصَّرْفِ، فَقَالَ سَلْ زَيْدَ بْنَ أَرْقَمَ فَإِنَّهُ خَيْرٌ مِنِّي وَأَعْلَمُ ‏.‏ فَسَأَلْتُ زَيْدًا فَقَالَ سَلِ الْبَرَاءَ فَإِنَّهُ خَيْرٌ مِنِّي وَأَعْلَمُ فَقَالاَ جَمِيعًا نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْوَرِقِ بِالذَّهَبِ دَيْنًا ‏.‏",
+      "english": {
+        "narrator": "Abu Al-Minhal said:",
+        "text": "\"I asked Al-Bara bin 'Azib about money exchange. He said: 'Ask Zaid bin Arqam, for he is better than me and more knowledgeable.' So I asked Zaid and he said: 'Ask Al-Bara for he is better than me and more knowledgeable.' And they both said: 'The Messenger of Allah forbade (selling) silver for gold on credit.\"'"
+      }
+    },
+    {
+      "id": 130,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "وَفِيمَا قَرَأَ عَلَيْنَا أَحْمَدُ بْنُ مَنِيعٍ قَالَ حَدَّثَنَا عَبَّادُ بْنُ الْعَوَّامِ، قَالَ حَدَّثَنَا يَحْيَى بْنُ أَبِي إِسْحَاقَ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرَةَ، عَنْ أَبِيهِ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الْفِضَّةِ بِالْفِضَّةِ وَالذَّهَبِ بِالذَّهَبِ إِلاَّ سَوَاءً بِسَوَاءٍ وَأَمَرَنَا أَنْ نَبْتَاعَ الذَّهَبَ بِالْفِضَّةِ كَيْفَ شِئْنَا وَالْفِضَّةَ بِالذَّهَبِ كَيْفَ شِئْنَا ‏.‏",
+      "english": {
+        "narrator": "'Abdur-Rahman bin Abi Bakrah narrated that his father said:",
+        "text": "\"The Messenger of Allah forbade selling silver for silver and gold for gold, unless it was of equal amounts. And he told us to sell gold for silver however we wanted, and silver for gold however we wanted."
+      }
+    },
+    {
+      "id": 131,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ مُحَمَّدِ بْنِ كَثِيرٍ الْحَرَّانِيُّ، قَالَ حَدَّثَنَا أَبُو تَوْبَةَ، قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ سَلاَّمٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرَةَ، عَنْ أَبِيهِ، قَالَ نَهَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ نَبِيعَ الْفِضَّةَ بِالْفِضَّةِ إِلاَّ عَيْنًا بِعَيْنٍ سَوَاءً بِسَوَاءٍ وَلاَ نَبِيعَ الذَّهَبَ بِالذَّهَبِ إِلاَّ عَيْنًا بِعَيْنٍ سَوَاءً بِسَوَاءٍ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ تَبَايَعُوا الذَّهَبَ بِالْفِضَّةِ كَيْفَ شِئْتُمْ وَالْفِضَّةَ بِالذَّهَبِ كَيْفَ شِئْتُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdur-Rahman bin Abi Bakrah that his father said:",
+        "text": "\"The Messenger of Allah forbade us from selling silver for silver unless it was of equal amounts, or selling gold for gold unless it was of equal amounts. The messenger of Allah said: 'Sell gold for silver however you want, and silver for gold however you want.\"'"
+      }
+    },
+    {
+      "id": 132,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي يَزِيدَ، سَمِعَ ابْنَ عَبَّاسٍ، يَقُولُ حَدَّثَنِي أُسَامَةُ بْنُ زَيْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ رِبًا إِلاَّ فِي النَّسِيئَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Usmah bin Zaid Narrated that the Messenger of Allah said:",
+        "text": "\"There is no Riba except in credit.'"
+      }
+    },
+    {
+      "id": 133,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ أَبِي صَالِحٍ، سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ قُلْتُ لاِبْنِ عَبَّاسٍ أَرَأَيْتَ هَذَا الَّذِي تَقُولُ أَشَيْئًا وَجَدْتَهُ فِي كِتَابِ اللَّهِ عَزَّ وَجَلَّ أَوْ شَيْئًا سَمِعْتَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ مَا وَجَدْتُهُ فِي كِتَابِ اللَّهِ عَزَّ وَجَلَّ وَلاَ سَمِعْتُهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَلَكِنْ أُسَامَةُ بْنُ زَيْدٍ أَخْبَرَنِي أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّمَا الرِّبَا فِي النَّسِيئَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Salih heard Abu Saeed Al-Khudri say:",
+        "text": "\"I said to Ibn Abbas: 'Do you think that what you are saying is something that you found in the Book of Allah, or something that you heard from the Messenger of Allah?' He said: 'I did not find it in the Book of Allah, nor did I hear it from the messenger of Allah, rather Usamah bin Zaid told me that the Messenger of Allah said: 'Riba is only in credit.\"'"
+      }
+    },
+    {
+      "id": 134,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي أَحْمَدُ بْنُ يَحْيَى، عَنْ أَبِي نُعَيْمٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ، قَالَ كُنْتُ أَبِيعُ الإِبِلَ بِالْبَقِيعِ فَأَبِيعُ بِالدَّنَانِيرِ وَآخُذُ الدَّرَاهِمَ فَأَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فِي بَيْتِ حَفْصَةَ فَقُلْتُ يَا رَسُولَ اللَّهِ إِنِّي أُرِيدُ أَنْ أَسْأَلَكَ إِنِّي أَبِيعُ الإِبِلَ بِالْبَقِيعِ فَأَبِيعُ بِالدَّنَانِيرِ وَآخُذُ الدَّرَاهِمَ قَالَ ‏\n\"‏ لاَ بَأْسَ أَنْ تَأْخُذَهَا بِسِعْرِ يَوْمِهَا مَا لَمْ تَفْتَرِقَا وَبَيْنَكُمَا شَىْءٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "\"I used to sell camels at Al-Baqi and I would sell Dinars in exchange for Dirhams. I came to the Prophet in the house of Hafsah and said: 'O Messenger of Allah, I want to ask you:  I sell camels in Al-Baqi and I sell Dinars in exchange for Dirhams. He said: 'There is nothing wrong with it if you take the price on that day, unless you depart when there is still unfinished business between you both (buyer and seller).\"'"
+      }
+    },
+    {
+      "id": 135,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سِمَاكٍ، عَنِ ابْنِ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ، قَالَ كُنْتُ أَبِيعُ الذَّهَبَ بِالْفِضَّةِ أَوِ الْفِضَّةَ بِالذَّهَبِ فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ بِذَلِكَ فَقَالَ ‏\n\"‏ إِذَا بَايَعْتَ صَاحِبَكَ فَلاَ تُفَارِقْهُ وَبَيْنَكَ وَبَيْنَهُ لَبْسٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "\"I used to sell gold for silver, or silver for gold. I came to the Messenger of Allah and told him about that, and he said: 'If you make a deal with your companion, d o not leave him when there is still any ambiguity (in the deal) between you.\"'"
+      }
+    },
+    {
+      "id": 136,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ أَنْبَأَنَا مُوسَى بْنُ نَافِعٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، أَنَّهُ كَانَ يَكْرَهُ أَنْ يَأْخُذَ، الدَّنَانِيرَ مِنَ الدَّرَاهِمِ وَالدَّرَاهِمَ مِنَ الدَّنَانِيرِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Saeed bin Jubair that:",
+        "text": "he did not like to exchange Dinars for Dirhams or Dirhams for Dinars."
+      }
+    },
+    {
+      "id": 137,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ أَنْبَأَنَا مُؤَمَّلٌ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي هَاشِمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ كَانَ لاَ يَرَى بَأْسًا - يَعْنِي - فِي قَبْضِ الدَّرَاهِمِ مِنَ الدَّنَانِيرِ وَالدَّنَانِيرِ مِنَ الدَّرَاهِمِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Saeed bin Jubair, from Ibn 'Umar, that:",
+        "text": "he did not see anything wrong with parying Dirhams for Dinars."
+      }
+    },
+    {
+      "id": 138,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الْهُذَيْلِ، عَنْ إِبْرَاهِيمَ، فِي قَبْضِ الدَّنَانِيرِ مِنَ الدَّرَاهِمِ أَنَّهُ كَانَ يَكْرَهُهَا إِذَا كَانَ مِنْ قَرْضٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibrahim, with regard to exchanging Dirnars for Dirhams, that:",
+        "text": "he disliked it (this transaction) if it was done on credit. (Da 'if )"
+      }
+    },
+    {
+      "id": 139,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مُوسَى أَبِي شِهَابٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، أَنَّهُ كَانَ لاَ يَرَى بَأْسًا وَإِنْ كَانَ مِنْ قَرْضٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Saeed bin Jubair that:",
+        "text": "he did not see anything wrong with it even if it was on credit."
+      }
+    },
+    {
+      "id": 140,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا مُوسَى بْنُ نَافِعٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، بِمِثْلِهِ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ كَذَا وَجَدْتُهُ فِي هَذَا الْمَوْضِعِ ‏.‏",
+      "english": {
+        "narrator": "Something similar was narrated form Saeed bin Jubair. Abu 'Abdur-Rehman (An-Nasai) said:",
+        "text": "This is what I have found on this topic."
+      }
+    },
+    {
+      "id": 141,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَمَّارٍ، قَالَ حَدَّثَنَا الْمُعَافَى، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَقُلْتُ رُوَيْدَكَ أَسْأَلُكَ إِنِّي أَبِيعُ الإِبِلَ بِالْبَقِيعِ بِالدَّنَانِيرِ وَآخُذُ الدَّرَاهِمَ ‏.‏ قَالَ ‏\n\"‏ لاَ بَأْسَ أَنْ تَأْخُذَ بِسِعْرِ يَوْمِهَا مَا لَمْ تَفْتَرِقَا وَبَيْنَكُمَا شَىْءٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "\"I came to the Prophet and said: 'Wait, I want to ask you something. I sell camels in Al-Baqi with a price set in Dinars but I accept Dirhams instead.' He said: 'There is nothing wrong with it if you take the price on that day, still unfinished business between you both (buyer and seller)\"'"
+      }
+    },
+    {
+      "id": 142,
+      "chapterId": 44,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ شُعْبَةَ، قَالَ أَخْبَرَنِي مُحَارِبُ بْنُ دِثَارٍ، عَنْ جَابِرٍ، قَالَ لَمَّا قَدِمَ النَّبِيُّ صلى الله عليه وسلم الْمَدِينَةَ دَعَا بِمِيزَانٍ فَوَزَنَ لِي وَزَادَنِي ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Jabir said:",
+        "text": "\"When the Prophet (ﷺ) came to Al-Madinah, he called for a scale and weighed (something) for me and gave me more.\""
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 143,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ دَاوُدَ بْنِ أَبِي عَوْفٍ أَبِي الْجَحَّافِ، - وَكَانَ مَرْضِيًّا - عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ أَحَبَّ الْحَسَنَ وَالْحُسَيْنَ فَقَدْ أَحَبَّنِي وَمَنْ أَبْغَضَهُمَا فَقَدْ أَبْغَضَنِي ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Hurairah said:",
+    "text": "\"The Messenger of Allah said: 'Whoever loves Hasan and Husain, loves me; and whoever hates them, hates me.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

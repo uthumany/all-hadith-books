@@ -1,0 +1,16 @@
+{
+  "id": 178,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، عَنْ شَرِيكٍ، عَنْ سِمَاكٍ، عَنْ حَنَشٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا جَلَسَ إِلَيْكَ الْخَصْمَانِ فَلَا تَكَلَّمْ حَتَّى تَسْمَعَ مِنْ الْآخَرِ كَمَا سَمِعْتَ مِنْ الْأَوَّلِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) said: “If two disputants sit before you, do not speak until you have listened to the second one as you listened to the first.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 290,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، حَدَّثَنِي رَجُلٌ، مِنْ عَنَزَةَ عَنْ رَجُلٍ، مِنْ بَنِي أَسَدٍ قَالَ خَرَجَ عَلِيٌّ حِينَ ثَوَّبَ الْمُثَوِّبُ لِصَلَاةِ الصُّبْحِ فَقَالَ إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَنَا بِوِتْرٍ فَثَبَتَ لَهُ هَذِهِ السَّاعَةَ ثُمَّ قَالَ أَقِمْ يَا ابْنَ النَّوَّاحَةِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that a man from  Banu Asad said:",
+    "text": "`Ali (رضي الله عنه) came out to us when the mu`adhdhin gave the call to Fajr prayer and said: The Messenger of Allah (ﷺ) has enjoined us to pray Witr and this is the time for it. Then he said: Give the iqamah for prayer, O Ibnun-Nawwahah."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

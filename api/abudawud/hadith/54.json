@@ -1,0 +1,16 @@
+{
+  "id": 54,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبَانُ، حَدَّثَنَا قَتَادَةُ، قَالَ حَدَّثَنِي أَبُو مِجْلَزٍ، عَنْ حُذَيْفَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَعَنَ مَنْ جَلَسَ وَسْطَ الْحَلْقَةِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Hudhayfah:",
+    "text": "The Messenger of Allah (ﷺ) cursed the one who sat in the middle of a circle."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

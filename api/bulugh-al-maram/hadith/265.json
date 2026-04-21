@@ -1,0 +1,16 @@
+{
+  "id": 265,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ : { كَانَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-إِذَا صَلَّى رَكْعَتَيْ اَلْفَجْرِ اِضْطَجَعَ عَلَى شِقِّهِ اَلْأَيْمَنِ }  رَوَاهُ اَلْبُخَارِيُّ .‏  1‏‏1 ‏- صحيح .‏ رواه البخاري ( 1160 )‏ .‏",
+  "english": {
+    "narrator": "Narrated 'Aishah (RA):",
+    "text": "The Prophet (ﷺ) used to lie down on his right side, after praying the two (voluntary) Rak'at of the Fajr (prayer).\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

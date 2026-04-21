@@ -1,0 +1,16 @@
+{
+  "id": 652,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ قَيْسٍ، عَنِ الْحَكَمِ، عَنِ الْقَاسِمِ بْنِ مُخَيْمِرَةَ، عَنْ شُرَيْحِ بْنِ هَانِئٍ، قَالَ أَتَيْتُ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا أَسْأَلُهَا عَنْ الْخُفَّيْنِ فَقَالَتْ عَلَيْكَ بِابْنِ أَبِي طَالِبٍ فَاسْأَلْهُ فَإِنَّهُ كَانَ يُسَافِرُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَتَيْتُهُ فَسَأَلْتُهُ فَقَالَ جَعَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلَاثَةَ أَيَّامٍ وَلَيَالِيَهُنَّ لِلْمُسَافِرِ وَيَوْمًا وَلَيْلَةً لِلْمُقِيمِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Shuraih bin Hani said:",
+    "text": "I came to `A`ishah (رضي الله عنها) to ask her about the khuffain (leather slippers). She said: Go to Ibn Abi Talib, for he used to travel with the Messenger of Allah (ﷺ). So I went to him and asked him, and he said: The Messenger of Allah (ﷺ) set three days and nights for the traveller and one day and night for one who is not travelling."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

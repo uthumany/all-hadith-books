@@ -1,0 +1,16 @@
+{
+  "id": 212,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "",
+  "english": {
+    "narrator": "",
+    "text": "Malik said that the people of Makka who are doing hajj should\nshorten the prayer to two rakas when at Mina until they go back to Ma\nka."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

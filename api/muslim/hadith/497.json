@@ -1,0 +1,16 @@
+{
+  "id": 497,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا هُشَيْمٌ، عَنْ سَيَّارٍ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "A hadith like this has been narrated on the authority of Abu Huraira (Allah be pleased with him)."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

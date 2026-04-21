@@ -1,0 +1,16 @@
+{
+  "id": 770,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنِي عَدِيُّ بْنُ ثَابِتٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ فِطْرٍ فَصَلَّى رَكْعَتَيْنِ لَمْ يُصَلِّ قَبْلَهُمَا وَلاَ بَعْدَهُمَا ثُمَّ أَتَى النِّسَاءَ وَمَعَهُ بِلاَلٌ فَأَمَرَهُنَّ بِالصَّدَقَةِ فَجَعَلَتِ الْمَرْأَةُ تُلْقِي خُرْصَهَا وَسِخَابَهَا ‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas said:",
+    "text": "The Messenger of Allah (ﷺ) came out on the day of the breaking of the fast and prayed two rak'ahs, before and after which he did not pray. He then went to women, taking Bilal with him, and commanded them to given alms. So one began to put her ear-ring and another her necklace (in the garment of Bilal)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

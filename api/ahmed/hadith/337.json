@@ -1,0 +1,16 @@
+{
+  "id": 337,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا مُسْهِرُ بْنُ عَبْدِ الْمَلِكِ بْنِ سَلْعٍ، حَدَّثَنَا أَبِي عَبْدُ الْمَلِكِ بْنُ سَلْعٍ، عَنْ عَبْدِ خَيْرٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ أَنَّهُ غَسَلَ كَفَّيْهِ ثَلَاثًا وَمَضْمَضَ وَاسْتَنْشَقَ ثَلَاثًا وَغَسَلَ وَجْهَهُ ثَلَاثًا وَقَالَ هَذَا وُضُوءُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Ali (رضي الله عنه) that He washed his hands three times, rinsed his mouth and nose three times, washed his face three times, and said:",
+    "text": "This is the wudoo’ of the Messenger of Allah (ﷺ)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

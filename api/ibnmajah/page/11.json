@@ -1,0 +1,510 @@
+{
+  "page": 11,
+  "perPage": 50,
+  "totalPages": 87,
+  "totalCount": 4345,
+  "nextPage": 12,
+  "prevPage": 10,
+  "items": [
+    {
+      "id": 33,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ حُمَيْدِ بْنِ كَاسِبٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي حَيْوَةُ بْنُ شُرَيْحٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ الأَسَدِيِّ أَبِي الأَسْوَدِ، عَنْ أَبِي عَبْدِ اللَّهِ، مَوْلَى شَدَّادِ بْنِ الْهَادِ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ مَنْ سَمِعَ رَجُلاً يَنْشُدُ ضَالَّةً فِي الْمَسْجِدِ فَلْيَقُلْ لاَ رَدَّ اللَّهُ عَلَيْكَ فَإِنَّ الْمَسَاجِدَ لَمْ تُبْنَ لِهَذَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu 'Abdullah, the freed slave of Shaddad bin Had that:",
+        "text": "He heard Abu Hurairah say: \"I heard the Messenger of Allah say: 'Whoever hears a man making a lost-and-found announcement in the mosque, let him say: \"May Allah not return it to you!\" For the mosques were not built for that.'\""
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، ح وَحَدَّثَنَا أَبُو بِشْرٍ، بَكْرُ بْنُ خَلَفٍ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالاَ حَدَّثَنَا هِشَامُ بْنُ حَسَّانَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِنْ لَمْ تَجِدُوا إِلاَّ مَرَابِضَ الْغَنَمِ وَأَعْطَانَ الإِبِلِ فَصَلُّوا فِي مَرَابِضِ الْغَنَمِ وَلاَ تُصَلُّوا فِي أَعْطَانِ الإِبِلِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "The Messenger of Allah said: \"If you cannot find anywhere (for prayer) except sheep's resting-places and camels' resting-places, then perform prayer in the sheep's resting-places and do not perform prayer in the camels' resting-places.\""
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا هُشَيْمٌ، عَنْ يُونُسَ، عَنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ الْمُزَنِيِّ، قَالَ قَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ ‏\n\"‏ صَلُّوا فِي مَرَابِضِ الْغَنَمِ وَلاَ تُصَلُّوا فِي أَعْطَانِ الإِبِلِ فَإِنَّهَا خُلِقَتْ مِنَ الشَّيَاطِينِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah bin Mughaffal Al-Muzani said:",
+        "text": "\"The Prophet said: 'Perform prayer in the sheep's resting-places and do not perform prayer in the camels' resting-places, for they were created from the devils.\""
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ رَبِيعِ بْنِ سَبْرَةَ بْنِ مَعْبَدٍ الْجُهَنِيُّ، أَخْبَرَنِي أَبِي، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ لاَ يُصَلَّى فِي أَعْطَانِ الإِبِلِ وَيُصَلَّى فِي مُرَاحِ الْغَنَمِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdul-Malik bin Rabi' bin Sabrah bin Ma'bad Al-Juhani said:",
+        "text": "\"My father told me, from his father that the Messenger of Allah said: 'Do not perform prayer in the camels' resting-places, and perform prayer in the sheep's resting-places.'\""
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، وَأَبُو مُعَاوِيَةَ عَنْ لَيْثٍ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَسَنِ، عَنْ أُمِّهِ، عَنْ فَاطِمَةَ بِنْتِ رَسُولِ اللَّهِ، ـ صلى الله عليه وسلم ـ قَالَتْ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ إِذَا دَخَلَ الْمَسْجِدَ يَقُولُ ‏\"‏ بِسْمِ اللَّهِ وَالسَّلاَمُ عَلَى رَسُولِ اللَّهِ اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ رَحْمَتِكَ ‏\"‏ ‏.‏ وَإِذَا خَرَجَ قَالَ ‏\"‏ بِسْمِ اللَّهِ وَالسَّلاَمُ عَلَى رَسُولِ اللَّهِ اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ فَضْلِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Fatimah the daughter of the Messenger of Allah said:",
+        "text": "\"Whenever the Messenger of Allah entered the mosque he would say: 'Bismillah, was-salamu 'ala Rasulillah, Allahummagh-firli dhunubi waftah li abwaba rahmatika. (In the Name of Allah, and peace be upon the Messenger of Allah. O Allah, forgive me my sins and open to me the gates of Your mercy).' When he left he would say: 'Bismillah, was-salamu 'ala Rasulillah, Allahummagh-firli dhunubi waftah li abwaba fadlika. (In the Name of Allah, and peace be upon the Messenger of Allah. O Allah, forgive me my sins and open to me the gates of Your bounty).'\""
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ بْنِ سَعِيدِ بْنِ كَثِيرِ بْنِ دِينَارٍ الْحِمْصِيُّ، وَعَبْدُ الْوَهَّابِ بْنُ الضَّحَّاكِ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ عُمَارَةَ بْنِ غَزِيَّةَ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ الْمَلِكِ بْنِ سَعِيدِ بْنِ سُوَيْدٍ الأَنْصَارِيِّ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيُسَلِّمْ عَلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ ثُمَّ لْيَقُلِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ ‏.‏ وَإِذَا خَرَجَ فَلْيَقُلِ اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Humaid As-Sa'idi said:",
+        "text": "\"The Messenger of Allah said: 'When anyone of you enters the mosque, let him send peace upon the prophet, then let him say: \"Allahummaftah li abwaba rahmatika (O Allah, open to me the gates of Your mercy).\" And when he leaves, let him say: \"Allahumma inni as'aluka min fadlika. (O Allah, I ask of you from Your bounty).\""
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، حَدَّثَنَا الضَّحَّاكُ بْنُ عُثْمَانَ، حَدَّثَنِي سَعِيدٌ الْمَقْبُرِيُّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيُسَلِّمْ عَلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ وَلْيَقُلِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ وَإِذَا خَرَجَ فَلْيُسَلِّمْ عَلَى النَّبِيِّ وَلْيَقُلِ اللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "The Mesenger of Allah said: \"When anyone of enters the mosque, let him send peace upon the Prophet, then let him say: 'Allahumma aftahli abwaba rahmatik (O Allah, open to me the gates of Your mercy).' And when he leaves, let him send peace upon the Prophet and say: 'Allahumma- simni minash-shaitanir-rajim (O Allah, protect me from the accursed Shaitan).'\""
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِذَا تَوَضَّأَ أَحَدُكُمْ فَأَحْسَنَ الْوُضُوءَ ثُمَّ أَتَى الْمَسْجِدَ لاَ يَنْهَزُهُ إِلاَّ الصَّلاَةُ لاَ يُرِيدُ إِلاَّ الصَّلاَةَ لَمْ يَخْطُ خَطْوَةً إِلاَّ رَفَعَهُ اللَّهُ بِهَا دَرَجَةً وَحَطَّ عَنْهُ بِهَا خَطِيئَةً حَتَّى يَدْخُلَ الْمَسْجِدَ فَإِذَا دَخَلَ الْمَسْجِدَ كَانَ فِي صَلاَةٍ مَا كَانَتِ الصَّلاَةُ تَحْبِسُهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: 'When one of you performs ablution and does it well, then he comes to the mosque with no other motive but prayer and not seeking anything other than the prayer, he does not take one step but Allah raises him in status one degree thereby, and takes away one of his sins, until he enters the mosque. When he enters the mosque he is in a state of prayer so long as he is waiting for the prayer.'\""
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو مَرْوَانَ الْعُثْمَانِيُّ، مُحَمَّدُ بْنُ عُثْمَانَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَأَبِي، سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ إِذَا أُقِيمَتِ الصَّلاَةُ فَلاَ تَأْتُوهَا وَأَنْتُمْ تَسْعَوْنَ وَأْتُوهَا تَمْشُونَ وَعَلَيْكُمُ السَّكِينَةُ فَمَا أَدْرَكْتُمْ فَصَلُّوا وَمَا فَاتَكُمْ فَأَتِمُّوا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "The Messenger of Allah said: \"When the Iqamah is called for the prayer, do not come running. Come walking with tranquility. Whatever you catch up with, pray, and whatever you miss, complete it.\""
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ، حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\"‏ أَلاَ أَدُلُّكُمْ عَلَى مَا يُكَفِّرُ اللَّهُ بِهِ الْخَطَايَا وَيَزِيدُ بِهِ فِي الْحَسَنَاتِ ‏\"‏ ‏.‏ قَالُوا بَلَى يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ إِسْبَاغُ الْوُضُوءِ عِنْدَ الْمَكَارِهِ وَكَثْرَةُ الْخُطَى إِلَى الْمَسَاجِدِ وَانْتِظَارُ الصَّلاَةِ بَعْدَ الصَّلاَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Sa'eed Al-Khudri that :",
+        "text": "He heard the Messenger of Allah say: 'Shall I not tell you of something by means of which Allah expiates for sins and increases good deeds?' They said: 'Yes, O Messenger of Allah.' He said: 'Performing ablution properly despite difficulties, increasing the number of steps one takes towards the mosque and waiting for the next prayer after prayer.'"
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ إِبْرَاهِيمَ الْهَجَرِيِّ، عَنْ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، قَالَ مَنْ سَرَّهُ أَنْ يَلْقَى اللَّهَ غَدًا مُسْلِمًا فَلْيُحَافِظْ عَلَى هَؤُلاَءِ الصَّلَوَاتِ الْخَمْسِ حَيْثُ يُنَادَى بِهِنَّ فَإِنَّهُنَّ مِنْ سُنَنِ الْهُدَى وَإِنَّ اللَّهَ شَرَعَ لِنَبِيِّكُمْ ـ صلى الله عليه وسلم ـ سُنَنَ الْهُدَى وَلَعَمْرِي لَوْ أَنَّ كُلَّكُمْ صَلَّى فِي بَيْتِهِ لَتَرَكْتُمْ سُنَّةَ نَبِيِّكُمْ وَلَوْ تَرَكْتُمْ سُنَّةَ نَبِيِّكُمْ لَضَلَلْتُمْ وَلَقَدْ رَأَيْتُنَا وَمَا يَتَخَلَّفُ عَنْهَا إِلاَّ مُنَافِقٌ مَعْلُومُ النِّفَاقِ وَلَقَدْ رَأَيْتُ الرَّجُلَ يُهَادَى بَيْنَ الرَّجُلَيْنِ حَتَّى يَدْخُلَ فِي الصَّفِّ وَمَا مِنْ رَجُلٍ يَتَطَهَّرُ فَيُحْسِنُ الطُّهُورَ فَيَعْمِدُ إِلَى الْمَسْجِدِ فَيُصَلِّي فِيهِ فَمَا يَخْطُو خَطْوَةً إِلاَّ رَفَعَ اللَّهُ لَهُ بِهَا دَرَجَةً وَحَطَّ عَنْهُ بِهَا خَطِيئَةً ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah said:",
+        "text": "\"Whoever would like to meet Allah tomorrow (i.e. on the Day of Judgment) as a Muslim, let him preserve these five (daily) prayer when the call for them is given, for they are part of the ways of guidance, and Allah prescribed the ways of guidance to your Prophet. By Allah, if each of you prays in his house, you will have abandoned the Sunnah of your Prophet, and if you abandon the Sunnah of your Prophet you will go astray. I remember when no one stayed behind from the prayer except a hypocrite who was known for his hypocrisy. I have a man coming supported by two others, until he joined the row (of worshippers). There is no man who purifies himself and does it well, and comes to the mosque and prays there, but for every step that he takes, Allah raises him in status one degree thereby, and takes away one of his sins.\""
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَعِيدِ بْنِ يَزِيدَ بْنِ إِبْرَاهِيمَ التُّسْتَرِيُّ، حَدَّثَنَا الْفَضْلُ بْنُ الْمُوَفَّقِ أَبُو الْجَهْمِ، حَدَّثَنَا فُضَيْلُ بْنُ مَرْزُوقٍ، عَنْ عَطِيَّةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ خَرَجَ مِنْ بَيْتِهِ إِلَى الصَّلاَةِ فَقَالَ اللَّهُمَّ إِنِّي أَسْأَلُكَ بِحَقِّ السَّائِلِينَ عَلَيْكَ وَأَسْأَلُكَ بِحَقِّ مَمْشَاىَ هَذَا فَإِنِّي لَمْ أَخْرُجْ أَشَرًا وَلاَ بَطَرًا وَلاَ رِيَاءً وَلاَ سُمْعَةً وَخَرَجْتُ اتِّقَاءَ سُخْطِكَ وَابْتِغَاءَ مَرْضَاتِكَ فَأَسْأَلُكَ أَنْ تُعِيذَنِي مِنَ النَّارِ وَأَنْ تَغْفِرَ لِي ذُنُوبِي إِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ - أَقْبَلَ اللَّهُ عَلَيْهِ بِوَجْهِهِ وَاسْتَغْفَرَ لَهُ سَبْعُونَ أَلْفَ مَلَكٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Sa'eed Al-Khudri said:",
+        "text": "\"The Messenger of Allah said: 'Whoever leaves his house for the prayer and says: 'Allahumma inni asa'luka bi-haqqis-sa'ilina 'alaika, wa as'aluka bi-haqqi mamshaya hadha, fa inni lam akhruj asharan wa la batran, wa la riya'an, wa la sum'atan, wa kharajtu-ttiqa'a sukhtika wabtigha'a mardatika, fa as'aluka an tu'idhani minan-nari wa an taghfira li dhunubi, Innahu la yaghfirudh-dhunuba illa Anta. (O Allah, I ask You by the right that those who ask of You have over You, and I ask by virtue of this walking of mine, for I am not going out because of pride or vanity, or to show off or make a reputation, rather I am going out because I fear Your wrath and seek Your pleasure. So I ask You to protect me from the Fire and to forgive me my sins, for no one can forgive sins except You),' Allah will turn His Face towards him and seventy thousand angels will pray for his forgiveness.\""
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا رَاشِدُ بْنُ سَعِيدِ بْنِ رَاشِدٍ الرَّمْلِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنْ أَبِي رَافِعٍ، إِسْمَاعِيلَ بْنِ رَافِعٍ عَنْ سُمَىٍّ، مَوْلَى أَبِي بَكْرٍ عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ الْمَشَّاءُونَ إِلَى الْمَسَاجِدِ فِي الظُّلَمِ أُولَئِكَ الْخَوَّاضُونَ فِي رَحْمَةِ اللَّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: 'Those who walk to the mosque in the dark are those who are diving into the mercy of Allah.'\""
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُحَمَّدٍ الْحَلَبِيُّ، حَدَّثَنَا يَحْيَى بْنُ الْحَارِثِ الشِّيرَازِيُّ، حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ التَّمِيمِيُّ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ لِيَبْشَرِ الْمَشَّاءُونَ فِي الظُّلَمِ إِلَى الْمَسَاجِدِ بِنُورٍ تَامٍّ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Sahl bin Sa'd As-Sa'idi said:",
+        "text": "\"The Messenger of Allah said: 'Give glad tidings, to those who walk to the mosques in the dark, of perfect light on the Day of Resurrection.'\""
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مَجْزَأَةُ بْنُ سُفْيَانَ بْنِ أَسِيدٍ، مَوْلَى ثَابِتٍ الْبُنَانِيِّ حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الصَّائِغُ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ بَشِّرِ الْمَشَّائِينَ فِي الظُّلَمِ إِلَى الْمَسَاجِدِ بِالنُّورِ التَّامِّ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas bin Malik said:",
+        "text": "\"The Messenger of Allah said: 'Give glad tidings to those who walk to the mosques in the dark, of perfect light on the Day of Resurrection.'\""
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ مِهْرَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ سَعْدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ الأَبْعَدُ فَالأَبْعَدُ مِنَ الْمَسْجِدِ أَعْظَمُ أَجْرًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: 'The greater the distance from the mosque, the greater the reward.'\""
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، حَدَّثَنَا عَبَّادُ بْنُ عَبَّادٍ الْمُهَلَّبِيُّ، حَدَّثَنَا عَاصِمٌ الأَحْوَلُ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنْ أُبَىِّ بْنِ كَعْبٍ، قَالَ كَانَ رَجُلٌ مِنَ الأَنْصَارِ بَيْتُهُ أَقْصَى بَيْتٍ بِالْمَدِينَةِ وَكَانَ لاَ تُخْطِئُهُ الصَّلاَةُ مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ‏.‏ قَالَ فَتَوَجَّعْتُ لَهُ فَقُلْتُ يَا فُلاَنُ لَوْ أَنَّكَ اشْتَرَيْتَ حِمَارًا يَقِيكَ الرَّمَضَ وَيَرْفَعُكَ مِنَ الْوَقَعِ وَيَقِيكَ هَوَامَّ الأَرْضِ ‏.‏ فَقَالَ وَاللَّهِ مَا أُحِبُّ أَنَّ بَيْتِي بِطُنُبِ بَيْتِ مُحَمَّدٍ ـ صلى الله عليه وسلم ـ ‏.‏ قَالَ فَحَمَلْتُ بِهِ حِمْلاً حَتَّى أَتَيْتُ بَيْتَ النَّبِيِّ ـ صلى الله عليه وسلم ـ فَذَكَرْتُ ذَلِكَ لَهُ فَدَعَاهُ فَسَأَلَهُ فَذَكَرَ لَهُ مِثْلَ ذَلِكَ وَذَكَرَ أَنَّهُ يَرْجُو فِي أَثَرِهِ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِنَّ لَكَ مَا احْتَسَبْتَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ubayy bin Ka'b said:",
+        "text": "\"There was a man among the Ansar whose house was the furthest house in Al-Madinah, yet he never missed prayer with the Messenger of Allah. I felt sorry for him and said: 'O so-and-so, why do you not buy a donkey to spare yourself the heat of the scorching sand, to carry over the stony ground, and to keep you away from the vermin on the ground?' He said: 'By Allah! I do not want to live so close to Muhammed.' This troubled me until I came to the house of the Prophet and mentioned that to him. He called (the man) and asked him, and he said something similar, and said that he was hoping for the reward for his steps. The Messenger of Allah said, 'You will have that (reward) that you sought.'\""
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو مُوسَى، مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أَرَادَتْ بَنُو سَلِمَةَ أَنْ يَتَحَوَّلُوا، مِنْ دِيَارِهِمْ إِلَى قُرْبِ الْمَسْجِدِ فَكَرِهَ النَّبِيُّ ـ صلى الله عليه وسلم ـ أَنْ يُعْرُوا الْمَدِينَةَ فَقَالَ ‏\n\"‏ يَا بَنِي سَلِمَةَ أَلاَ تَحْتَسِبُونَ آثَارَكُمْ ‏\"‏ ‏.‏ فَأَقَامُوا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "\"Banu Salimah wanted to move from their homes to somewhere near the mosque, but the Prophet did not want the outskirts of Al-madinah to be left vacant, so he said: 'O Banu Salimah, do you not hope for the reward of your footsteps?' So they stayed (where they were).\""
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ سِمَاكٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَتِ الأَنْصَارُ بَعِيدَةً مَنَازِلُهُمْ مِنَ الْمَسْجِدِ فَأَرَادُوا أَنْ يَقْتَرِبُوا فَنَزَلَتْ ‏{وَنَكْتُبُ مَا قَدَّمُوا وَآثَارَهُمْ}‏ قَالَ فَثَبَتُوا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "\"The houses of the Ansar were far from the mosque and they wanted to move closer. Then the following Verse was revealed: 'We record that which they send before (them), and their traces.'\"  He said: So they remained (where they were).\""
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ صَلاَةُ الرَّجُلِ فِي جَمَاعَةٍ تَزِيدُ عَلَى صَلاَتِهِ فِي بَيْتِهِ وَصَلاَتِهِ فِي سُوقِهِ بِضْعًا وَعِشْرِينَ دَرَجَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: 'A man's prayer in congregation is twenty-some levels higher than his prayer in his house or in the marketplace.'\""
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو مَرْوَانَ، مُحَمَّدُ بْنُ عُثْمَانَ الْعُثْمَانِيُّ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ فَضْلُ الْجَمَاعَةِ عَلَى صَلاَةِ أَحَدِكُمْ وَحْدَهُ خَمْسٌ وَعِشْرُونَ جُزْءًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "The Messenger of Allah said: \"The prayer in congregation is twenty-five times more virtuous than the prayer of anyone of you on his own.\""
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنْ هِلاَلِ بْنِ مَيْمُونٍ، عَنْ عَطَاءِ بْنِ يَزِيدَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ صَلاَةُ الرَّجُلِ فِي جَمَاعَةٍ تَزِيدُ عَلَى صَلاَتِهِ فِي بَيْتِهِ خَمْسًا وَعِشْرِينَ دَرَجَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Sa'eed Al-Khudri said:",
+        "text": "\"The Messenger of Allah said: 'the prayer of a man in congregation is twenty-five levels higher than his prayer in his home.'\""
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عُمَرَ، رُسْتَهْ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ صَلاَةُ الرَّجُلِ فِي جَمَاعَةٍ تَفْضُلُ عَلَى صَلاَةِ الرَّجُلِ وَحْدَهُ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "\"The Messenger of Allah said: 'The prayer of a man in congregation is twenty-seven levels more virtuous than a man's prayer on his own.'\""
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، حَدَّثَنَا يُونُسُ بْنُ أَبِي إِسْحَاقَ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَصِيرٍ، عَنْ أَبِيهِ، عَنْ أُبَىِّ بْنِ كَعْبٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ صَلاَةُ الرَّجُلِ فِي جَمَاعَةٍ تَزِيدُ عَلَى صَلاَةِ الرَّجُلِ وَحْدَهُ أَرْبَعًا وَعِشْرِينَ أَوْ خَمْسًا وَعِشْرِينَ دَرَجَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ubayy bin Ka'b said:",
+        "text": "\"The Messenger of Allah said: 'The prayer of a man in congregation is higher than his prayer on his own by twenty-four or twenty-five levels.\""
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ لَقَدْ هَمَمْتُ أَنْ آمُرَ بِالصَّلاَةِ فَتُقَامَ ثُمَّ آمُرَ رَجُلاً فَيُصَلِّيَ بِالنَّاسِ ثُمَّ أَنْطَلِقَ بِرِجَالٍ مَعَهُمْ حُزَمٌ مِنْ حَطَبٍ إِلَى قَوْمٍ لاَ يَشْهَدُونَ الصَّلاَةَ فَأُحَرِّقَ عَلَيْهِمْ بُيُوتَهُمْ بِالنَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: 'I was thinking of commanding that the call to prayer be given, then I would tell a man to lead the people in prayer, then I would go out with some other men carrying bundles of wood, and go to people who do not attend the prayer, and burn their houses down around them.'\""
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ زَائِدَةَ، عَنْ عَاصِمٍ، عَنْ أَبِي رَزِينٍ، عَنِ ابْنِ أُمِّ مَكْتُومٍ، قَالَ قُلْتُ لِلنَّبِيِّ ـ صلى الله عليه وسلم ـ إِنِّي كَبِيرٌ ضَرِيرٌ شَاسِعُ الدَّارِ وَلَيْسَ لِي قَائِدٌ يُلاَوِمُنِي فَهَلْ تَجِدُ لِي مِنْ رُخْصَةٍ قَالَ ‏\"‏ هَلْ تَسْمَعُ النِّدَاءَ ‏\"‏ ‏.‏ قُلْتُ نَعَمْ ‏.‏ قَالَ ‏\"‏ مَا أَجِدُ لَكَ رُخْصَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Umm Maktum said:",
+        "text": "\"I said to the Prophet: 'I am an old man and blind; my house is far away, and I have no one to lead me. Is there any concession (for me not to have to attend the prayer in the mosque)?' He said: 'Can you hear the call?' I said: 'Yes.' He said: 'Then I do not find any concession for you.'\""
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ بَيَانٍ الْوَاسِطِيُّ، أَنْبَأَنَا هُشَيْمٌ، عَنْ شُعْبَةَ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ مَنْ سَمِعَ النِّدَاءَ فَلَمْ يَأْتِهِ فَلاَ صَلاَةَ لَهُ إِلاَّ مِنْ عُذْرٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas that:",
+        "text": "The Prophet said: \"Whoever hears the call and does not come, his prayer is not valid, except for those who have an excuse.\""
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ الدَّسْتَوَائِيِّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنِ الْحَكَمِ بْنِ مِينَاءَ، أَخْبَرَنِي ابْنُ عَبَّاسٍ، وَابْنُ، عُمَرَ أَنَّهُمَا سَمِعَا النَّبِيَّ ـ صلى الله عليه وسلم ـ يَقُولُ عَلَى أَعْوَادِهِ ‏\n\"‏ لَيَنْتَهِيَنَّ أَقْوَامٌ عَنْ وَدْعِهِمُ الْجَمَاعَاتِ أَوْ لَيَخْتِمَنَّ اللَّهُ عَلَى قُلُوبِهِمْ ثُمَّ لَيَكُونُنَّ مِنَ الْغَافِلِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas and Ibn 'Umar narrated that:",
+        "text": "They heard the Prophet say on his pulpit: \"People should desist from failing to attend the congregations, otherwise Allah will seal their hearts, and they will be among the negligent.\""
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ إِسْمَاعِيلَ الْهُذَلِيُّ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنِ الزِّبْرِقَانِ بْنِ عَمْرٍو الضَّمْرِيِّ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ لَيَنْتَهِيَنَّ رِجَالٌ عَنْ تَرْكِ الْجَمَاعَةِ أَوْ لأُحَرِّقَنَّ بُيُوتَهُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Usamah bin Zaid said:",
+        "text": "\"The Messenger of Allah said: 'Let men desist from failing to attend the congregation, otherwise I will burn their houses down.'\""
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، حَدَّثَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ، حَدَّثَنِي عِيسَى بْنُ طَلْحَةَ، حَدَّثَتْنِي عَائِشَةُ، قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ لَوْ يَعْلَمُ النَّاسُ مَا فِي صَلاَةِ الْعِشَاءِ وَصَلاَةِ الْفَجْرِ لأَتَوْهُمَا وَلَوْ حَبْوًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "\"The Messenger of Allah said: 'If the people knew what (reward) there is in the 'Isha' prayer and fajr prayer, they would come even if they had to crawl.'\""
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، أَنْبَأَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِنَّ أَثْقَلَ الصَّلاَةِ عَلَى الْمُنَافِقِينَ صَلاَةُ الْعِشَاءِ وَصَلاَةُ الْفَجْرِ وَلَوْ يَعْلَمُونَ مَا فِيهِمَا لأَتَوْهُمَا وَلَوْ حَبْوًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: 'The most burdensome prayers for the hypocrites are the 'Isha' prayer and the Fajr prayer. If only they knew what (reward) there is in them, they would come to them even if they had to crawl.'\""
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ عُمَارَةَ بْنِ غَزِيَّةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ أَنَّهُ كَانَ يَقُولُ ‏\n\"‏ مَنْ صَلَّى فِي مَسْجِدٍ جَمَاعَةً أَرْبَعِينَ لَيْلَةً لاَ تَفُوتُهُ الرَّكْعَةُ الأُولَى مِنْ صَلاَةِ الْعِشَاءِ كَتَبَ اللَّهُ لَهُ بِهَا عِتْقًا مِنَ النَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Umar bin Khattab that:",
+        "text": "The Prophet used to say: \"Whoever performs prayer in congregation at the mosque for forty nights, never missing the first Rak'ah of the 'Isha' prayer, Allah will thereby decree for him salvation from the Fire.\""
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِنَّ أَحَدَكُمْ إِذَا دَخَلَ الْمَسْجِدَ كَانَ فِي صَلاَةٍ مَا كَانَتِ الصَّلاَةُ تَحْبِسُهُ وَالْمَلاَئِكَةُ يُصَلُّونَ عَلَى أَحَدِكُمْ مَادَامَ فِي مَجْلِسِهِ الَّذِي صَلَّى فِيهِ يَقُولُونَ اللَّهُمَّ اغْفِرْ لَهُ اللَّهُمَّ ارْحَمْهُ اللَّهُمَّ تُبْ عَلَيْهِ مَا لَمْ يُحْدِثْ فِيهِ مَا لَمْ يُؤْذِ فِيهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: 'When one of you enters the mosque, he is in a state of prayer, so long as the prayer keeps him there, and the angels will send prayer upon anyone of you so long as he remains in the place where he prayed, saying: \"O Allah, forgive him; O Allah, have mercy on him; O Allah, accept his repentance,\" so long as he does not commit Hadath nor disturb anyone.'\""
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الْمَقْبُرِيِّ، عَنْ سَعِيدِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ مَا تَوَطَّنَ رَجُلٌ مُسْلِمٌ الْمَسَاجِدَ لِلصَّلاَةِ وَالذِّكْرِ إِلاَّ تَبَشْبَشَ اللَّهُ لَهُ كَمَا يَتَبَشْبَشُ أَهْلُ الْغَائِبِ بِغَائِبِهِمْ إِذَا قَدِمَ عَلَيْهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "The Prophet said: \"A muslim does not regularly attend the mosques to perform prayer and remember Allah, but Allah feels happy with him just as the family of one who is absent feels happy when he comes back to them.\""
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ، حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَبِي أَيُّوبَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ صَلَّيْنَا مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ الْمَغْرِبَ فَرَجَعَ مَنْ رَجَعَ وَعَقَّبَ مَنْ عَقَّبَ فَجَاءَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ مُسْرِعًا قَدْ حَفَزَهُ النَّفَسُ و قَدْ حَسَرَ عَنْ رُكْبَتَيْهِ فَقَالَ ‏\n\"‏ أَبْشِرُوا هَذَا رَبُّكُمْ قَدْ فَتَحَ بَابًا مِنْ أَبْوَابِ السَّمَاءِ يُبَاهِي بِكُمُ الْمَلاَئِكَةَ يَقُولُ انْظُرُوا إِلَى عِبَادِي قَدْ قَضَوْا فَرِيضَةً وَهُمْ يَنْتَظِرُونَ أُخْرَى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah bin 'Amr said:",
+        "text": "\"We performed the Maghrib (prayer) with the Messenger of Allah, then those who went back went back, and those who stayed, stayed. Then the Messenger of Allah came back in a hurry, out of breath, with his garment pulled up to his knees, and said: 'Be of good cheer, for your Lord has opened one of the gates of heaven and is boasting of you before the angels, saying: \"Look at My slaves; they have fulfilled one obligatory duty and are awaiting another.\""
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 4,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا رِشْدِينُ بْنُ سَعْدٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنْ دَرَّاجٍ، عَنْ أَبِي الْهَيْثَمِ، عَنْ أَبِي سَعِيدٍ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\"‏ إِذَا رَأَيْتُمُ الرَّجُلَ يَعْتَادُ الْمَسَاجِدَ فَاشْهَدُوا لَهُ بِالإِيمَانِ قَالَ اللَّهُ تَعَالَى ‏{إِنَّمَا يَعْمُرُ مَسَاجِدَ اللَّهِ مَنْ آمَنَ بِاللَّهِ}‏ الآيَةَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Sa'eed that:",
+        "text": "The Messenger of Allah said: \"If you see a man frequenting the mosques, then bear witness to his faith. Allah says: 'The mosques of Allah shall be maintained only by those who believe in Allah and the Last Day. '\""
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ الطَّنَافِسِيُّ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنِي عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرِو بْنِ عَطَاءٍ، قَالَ سَمِعْتُ أَبَا حُمَيْدٍ السَّاعِدِيَّ، يَقُولُ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ إِذَا قَامَ إِلَى الصَّلَاةِ اسْتَقْبَلَ الْقِبْلَةَ وَرَفَعَ يَدَيْهِ وَقَالَ ‏\n\"‏ اللَّهُ أَكْبَرُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Muhammad\nbin ‘Amr bin ‘Ata’ said:",
+        "text": "“I heard Abu Humaid As-Sa’idi say:\n‘When the Messenger of Allah (ﷺ) stood up for prayer, he would\nface\nthe prayer direction, raise his hands, and say: “Allahu Akbar\n(Allah\nis Most Great).”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنِي جَعْفَرُ بْنُ سُلَيْمَانَ الضُّبَعِيُّ، حَدَّثَنِي عَلِيُّ بْنُ عَلِيٍّ الرِّفَاعِيُّ، عَنْ أَبِي الْمُتَوَكِّلِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَسْتَفْتِحُ صَلاَتَهُ يَقُولُ ‏\n\"‏ سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلاَ إِلَهَ غَيْرُكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Abu Sa’eed Al-Khudri said:",
+        "text": "“The Messenger of\nAllah\n(ﷺ) used to start his prayer by saying: ‘Subhanaka Allahumma\nwa\nbi hamdika, wa tabarakas-muka, wa ta’ala jadduka, wa la ilaha\nghairuka (Glory and praise be to You, O Allah, blessed be Your Name\nand exalted be Your majesty, none has the right to be worshipped but\nyou).”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ إِذَا كَبَّرَ سَكَتَ بَيْنَ التَّكْبِيرِ وَالْقِرَاءَةِ ‏.‏ قَالَ فَقُلْتُ بِأَبِي أَنْتَ وَأُمِّي أَرَأَيْتَ سُكُوتَكَ بَيْنَ التَّكْبِيرِ وَالْقِرَاءَةِ فَأَخْبِرْنِي مَا تَقُولُ قَالَ ‏\n\"‏ أَقُولُ اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَاىَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ اللَّهُمَّ نَقِّنِي مِنْ خَطَايَاىَ كَالثَّوْبِ الأَبْيَضِ مِنَ الدَّنَسِ اللَّهُمَّ اغْسِلْنِي مِنْ خَطَايَاىَ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Abu Hurairah said:",
+        "text": "“When the Messenger of Allah\n(ﷺ)\nsaid the Takbir (Allah Akbar), he would remain silent between\nthe\nTakbir and the recitation. I said: ‘May my father and mother be\nransomed for you! I noticed that you are silent between the Takbir\nand\nthe recitation; please tell me what you say then.’ He said: ‘I\nsay:\n‘Allahumma ba’id baini wa baina khatayaya kama ba’adta\nbainal-mashriqi\nwal-maghrib; Allahumma naqqini min khatayay\nkath-thawbil abyad minad-\ndanas; Allahummaghsilni min khatayaya\nbil-ma’i waththalji wal-barad (O\nAllah, distance me from my sins as\nYou have distanced the east from\nthe west; O Allah purify me of my\nsins as a white garment is purified\nof dirt; O Allah, cleanse me of\nmy sins with water and snow and\nhail).”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، وَعَبْدُ اللَّهِ بْنُ عِمْرَانَ، قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا حَارِثَةُ بْنُ أَبِي الرِّجَالِ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ إِذَا افْتَتَحَ الصَّلاَةَ قَالَ ‏\n\"‏ سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ تَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلاَ إِلَهَ غَيْرُكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from ‘Aishah that when the Prophet (ﷺ) started\nSalat he\nwould say:",
+        "text": "“Subhanak Allahumma wa bi hamdika, wa tabarakas-\nmuka wa\nta’ala jadduka, wa la ilaha ghayruk (Glory and praise is to\nYou, O\nAllah, blessed is Your Name and exalted is Your majesty, none\nhas the\nright to be worshipped but You).”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ عَاصِمٍ الْعَنَزِيِّ، عَنِ ابْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ حِينَ دَخَلَ فِي الصَّلاَةِ قَالَ ‏\n\"‏ اللَّهُ أَكْبَرُ كَبِيرًا اللَّهُ أَكْبَرُ كَبِيرًا - ثَلاَثًا - الْحَمْدُ لِلَّهِ كَثِيرًا الْحَمْدُ لِلَّهِ كَثِيرًا - ثَلاَثًا - سُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلاً - ثَلاَثَ مَرَّاتٍ - اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الشَّيْطَانِ الرَّجِيمِ مِنْ هَمْزِهِ وَنَفْخِهِ وَنَفْثِهِ ‏\"‏ ‏.‏ قَالَ عَمْرٌو هَمْزُهُ الْمُوتَةُ وَنَفْثُهُ الشِّعْرُ وَنَفْخُهُ الْكِبْرُ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Ibn Jubair bin Mut’im that his father said:",
+        "text": "“I\nsaw\nthe Messenger of Allah (ﷺ) when he started the prayer. He said:\n‘Allahu Akbaru kabiran, Allahu Akbaru kabiran (Allah is the Most\nGreat\nindeed),’ three times; ‘Al-hamdu Lillahi kathiran, al-hamdu\nLillahi\nkathiran (Much praise is to Allah),’ three times; ‘Subhan\nAllahi\nbukratan wa asilan (Glory is to Allah morning and evening),’\nthree\ntimes; ‘Allahumma inni a’udhu bika minash-Shaitanir-rajim,\nmin hamzihi\nwa nafkhihi wa nafthihi (O Allah, I seek refuge in You\nfrom the\naccursed Satan, from his madness, his poetry, and his\npride).”"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ الْمُنْذِرِ، حَدَّثَنَا ابْنُ فُضَيْلٍ، حَدَّثَنَا عَطَاءُ بْنُ السَّائِبِ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، عَنِ ابْنِ مَسْعُودٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الشَّيْطَانِ الرَّجِيمِ وَهَمْزِهِ وَنَفْخِهِ وَنَفْثِهِ ‏\"‏ ‏.‏ قَالَ هَمْزُهُ الْمُوتَةُ وَنَفْثُهُ الشِّعْرُ وَنَفْخُهُ الْكِبْرُ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Ibn Mas’ud that the Prophet (ﷺ) said:",
+        "text": "“Allahumma\ninni a’udhu bika minash-Shaitanir-rajim, wa hamzihi wa\nnafkhihi wa\nnafthihi (O Allah, I seek refuge in You from the accursed\nSatan, from\nhis madness, his pride, and his poetry).”"
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ قَبِيصَةَ بْنِ هُلْبٍ، عَنْ أَبِيهِ، قَالَ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ يَؤُمُّنَا فَيَأْخُذُ شِمَالَهُ بِيَمِينِهِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Qabisah bin Hulb that his father said:",
+        "text": "“The\nProphet\n(ﷺ) used to lead us in prayer, and he would take hold of his\nleft\nhand with his right.”"
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، ح وَحَدَّثَنَا بِشْرُ بْنُ مُعَاذٍ الضَّرِيرُ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، قَالاَ حَدَّثَنَا عَاصِمُ بْنُ كُلَيْبٍ، عَنْ أَبِيهِ، عَنْ وَائِلِ بْنِ حُجْرٍ، قَالَ رَأَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ يُصَلِّي فَأَخَذَ شِمَالَهُ بِيَمِينِهِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Wa’il bin Hujr said:",
+        "text": "“I saw the Prophet (ﷺ)\nperforming prayer, and he took hold of his left hand with his right.”"
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو إِسْحَاقَ الْهَرَوِيُّ، إِبْرَاهِيمُ بْنُ عَبْدِ اللَّهِ بْنِ حَاتِمٍ أَنْبَأَنَا هُشَيْمٌ، أَنْبَأَنَا الْحَجَّاجُ بْنُ أَبِي زَيْنَبَ السُّلَمِيُّ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ مَرَّ بِي النَّبِيُّ ـ صلى الله عليه وسلم ـ وَأَنَا وَاضِعٌ يَدِي الْيُسْرَى عَلَى الْيُمْنَى فَأَخَذَ بِيَدِي الْيُمْنَى فَوَضَعَهَا عَلَى الْيُسْرَى ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Abdullah bin Mas’ud said:",
+        "text": "“The Prophet (ﷺ)\npassed by me, and I was putting my left hand on my right. He took\nhold\nof my right hand and put it on my left.”"
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ، عَنْ أَبِي الْجَوْزَاءِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَفْتَتِحُ الْقِرَاءَةَ بِـ ‏{الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ }‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Aishah said:",
+        "text": "“The Messenger of Allah (ﷺ), Abu\nBakr, ‘Umar and ‘Uthman used to start their recitation with “All\npraises and thanks are to Allah, the Lord of all that exists.\n(Al-\nhamdu Lillahi Rabbil-‘Alamin).’” "
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ، عَنْ أَيُّوبَ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، ح وَحَدَّثَنَا جُبَارَةُ بْنُ الْمُغَلِّسِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ وَأَبُو بَكْرٍ وَعُمَرُ يَفْتَتِحُونَ الْقِرَاءَةَ بِـ ‏{الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ}‏",
+      "english": {
+        "narrator": "It was\nnarrated that Anas bin Malik said:",
+        "text": "“The Messenger of Allah\n(ﷺ),\nAbu Bakr and ‘Umar used to start their recitation with ‘All the\npraises and thanks are to Allah, the Lord of all that exists\n(Al-hamdu\nLillahi Rabbil-‘Alamin).” "
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، وَبَكْرُ بْنُ خَلَفٍ، وَعُقْبَةُ بْنُ مُكْرَمٍ، قَالُوا حَدَّثَنَا صَفْوَانُ بْنُ عِيسَى، حَدَّثَنَا بِشْرُ بْنُ رَافِعٍ، عَنْ أَبِي عَبْدِ اللَّهِ ابْنِ عَمِّ أَبِي هُرَيْرَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ يَفْتَتِحُ الْقِرَاءَةَ بِـ ‏{الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ}‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Abu Hurairah that the Prophet (ﷺ) used to\nstart his\nrecitation with ‘All the praises and thanks are to Allah,\nthe Lord\nof all that exists’ (Al-hamdu Lillahi Rabbil-‘Alamin),’ "
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنِ الْجُرَيْرِيِّ، عَنْ قَيْسِ بْنِ عَبَايَةَ، حَدَّثَنِي ابْنُ عَبْدِ اللَّهِ بْنِ الْمُغَفَّلِ، عَنْ أَبِيهِ، قَالَ وَقَلَّمَا رَأَيْتُ رَجُلاً أَشَدَّ عَلَيْهِ فِي الإِسْلاَمِ حَدَثًا مِنْهُ فَسَمِعَنِي وَأَنَا أَقْرَأُ ‏{بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ}‏ فَقَالَ أَىْ بُنَىَّ إِيَّاكَ وَالْحَدَثَ فَإِنِّي صَلَّيْتُ مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ وَمَعَ أَبِي بَكْرٍ وَمَعَ عُمَرَ وَمَعَ عُثْمَانَ فَلَمْ أَسْمَعْ رَجُلاً مِنْهُمْ يَقُولُهُ فَإِذَا قَرَأْتَ فَقُلِ ‏{الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ}‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn\n‘Abdullah bin Mughaffal narrated from his father and he said:",
+        "text": "“I\nhave rarely seen a man for whom innovation in Islam was harder to\nbear\nthan him. He heard me reciting: ‘In the Name of Allah, the\nMost\nGracious, the Most Merciful’ Bismillahir-Rahmanir-Rahim \nand he\nsaid: ‘O my son, beware of innovation, for I prayed with the\nMessenger\nof Allah (ﷺ), and with Abu Bakr, and with ‘Umar, and\nwith ‘Uthman,\nand I never heard any of them saying this. When you\n(begin to) recite,\nsay: ‘All the praises and thanks are to Allah,\nthe Lord of all that\nexists.’ (Al-hamdu Lillahi Rabbil-‘Alamin).’”\n"
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَرِيكٌ، وَسُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ زِيَادِ بْنِ عِلاَقَةَ، عَنْ قُطْبَةَ بْنِ مَالِكٍ، سَمِعَ النَّبِيَّ ـ صلى الله عليه وسلم ـ يَقْرَأُ فِي الصُّبْحِ ‏{وَالنَّخْلَ بَاسِقَاتٍ لَهَا طَلْعٌ نَضِيدٌ }‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Qutbah bin Malik that he heard the Prophet (ﷺ)\nrecite:",
+        "text": "“And tall date palms, with ranged clusters”  in\nthe\nSubh."
+      }
+    }
+  ]
+}

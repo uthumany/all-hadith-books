@@ -1,0 +1,16 @@
+{
+  "id": 45,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْهُ  1‏ قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَيْسَ اَلشَّدِيدُ بِالصُّرَعَةِ, إِنَّمَا اَلشَّدِيدُ اَلَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ اَلْغَضَبِ }  مُتَّفَقٌ عَلَيْهِ.‏  2‏ .‏‏1 ‏- أي: عن أبي هريرة ‏-رضي الله عنه‏-.‏‏2 ‏- صحيح.‏ رواه البخاري (6114)‏، ومسلم (2609)‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that Allah's Messenger (ﷺ) said:",
+    "text": "“The strong man is not the good wrestler; but the strong man is he who controls himself when he is angry.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

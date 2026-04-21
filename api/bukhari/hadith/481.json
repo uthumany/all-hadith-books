@@ -1,0 +1,16 @@
+{
+  "id": 481,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، سَمِعْتُ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم لأُبَىٍّ‏.‏ ‏\"‏ إِنَّ اللَّهَ أَمَرَنِي أَنْ أَقْرَأَ عَلَيْكَ ‏{‏لَمْ يَكُنِ الَّذِينَ كَفَرُوا‏}‏ ‏\"‏‏.‏ قَالَ وَسَمَّانِي قَالَ ‏\"‏ نَعَمْ ‏\"‏‏.‏ فَبَكَى‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "The Prophet (ﷺ) said to Ubai (bin Ka`b). \"Allah has ordered me to recite to you:--'Those who disbelieve \namong the people of the Scripture and among the idolators are not going to stop (from their disbelief.') \n(Sura 98) Ubai said, \"Did Allah mention me by name?\" The Prophet (ﷺ) said, \"Yes.\" On that, Ubai wept."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

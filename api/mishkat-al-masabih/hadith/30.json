@@ -1,0 +1,16 @@
+{
+  "id": 30,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْ جَابِرٌ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ احْتَجَمَ عَلَى وَرِكِهِ مِنْ وَثْءٍ كَانَ بِهِ. رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "",
+    "text": "Jabir told that the Prophet had himself cupped above the thigh for a contusion from which he suffered. \n\nAbu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

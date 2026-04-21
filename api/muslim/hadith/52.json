@@ -1,0 +1,16 @@
+{
+  "id": 52,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا الْحَسَنُ الْحُلْوَانِيُّ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا مِسْعَرٌ، قَالَ حَدَّثَنَا جَابِرُ بْنُ يَزِيدَ، قَبْلَ أَنْ يُحْدِثَ، مَا أَحْدَثَ ‏.‏",
+  "english": {
+    "narrator": "Al-Hasan al-Hulwānī narrated to us, Yahyā bin Ādam narrated to us, Mis’ar narrated to us, he said:",
+    "text": "‘Jābir bin Yazīd narrated to us before there took place what happened  ’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

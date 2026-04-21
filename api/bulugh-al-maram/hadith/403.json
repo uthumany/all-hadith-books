@@ -1,0 +1,16 @@
+{
+  "id": 403,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَمِثْلُهُ عِنْدَ ابْنِ خُزَيْمَةَ: عَنِ ابْنِ عَبَّاسٍ  1‏ .‏‏1 ‏- رقم (1344)‏ بسند صحيح، إلا أنه لم يذكر لفظه، وإنما أحال على لفظ حديث حذيفة.‏",
+  "english": {
+    "narrator": "",
+    "text": "Ibn Khuzaimah has reported it similarly from Ibn 'Abbas (RA)."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

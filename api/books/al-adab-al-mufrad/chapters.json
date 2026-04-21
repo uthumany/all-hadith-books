@@ -1,0 +1,401 @@
+[
+  {
+    "id": 1,
+    "bookId": 13,
+    "arabic": "كتاب الْوَالِدَيْنِ",
+    "english": "Parents",
+    "hadithsCount": 46
+  },
+  {
+    "id": 2,
+    "bookId": 13,
+    "arabic": "كتاب صِلَةِ الرَّحِمِ",
+    "english": "Ties of Kinship",
+    "hadithsCount": 27
+  },
+  {
+    "id": 3,
+    "bookId": 13,
+    "arabic": "كتاب مَوَالِي",
+    "english": "Mawlas (Clients of Manumission)",
+    "hadithsCount": 2
+  },
+  {
+    "id": 4,
+    "bookId": 13,
+    "arabic": "كتاب عول البنات",
+    "english": "Looking after girls",
+    "hadithsCount": 8
+  },
+  {
+    "id": 5,
+    "bookId": 13,
+    "arabic": "كتاب رعاية الأولاد",
+    "english": "Looking after children",
+    "hadithsCount": 17
+  },
+  {
+    "id": 6,
+    "bookId": 13,
+    "arabic": "كتاب الْجَارِ",
+    "english": "Neighbours",
+    "hadithsCount": 28
+  },
+  {
+    "id": 7,
+    "bookId": 13,
+    "arabic": "كتاب الْكَرَمِ وَ يَتِيمٌ",
+    "english": "Generosity and Orphans",
+    "hadithsCount": 14
+  },
+  {
+    "id": 8,
+    "bookId": 13,
+    "arabic": "كتاب موت الأولاد",
+    "english": "Children's Death",
+    "hadithsCount": 13
+  },
+  {
+    "id": 9,
+    "bookId": 13,
+    "arabic": "كتاب الملكة",
+    "english": "Being a master",
+    "hadithsCount": 56
+  },
+  {
+    "id": 10,
+    "bookId": 13,
+    "arabic": "كتاب الرعاية",
+    "english": "Supervision",
+    "hadithsCount": 9
+  },
+  {
+    "id": 11,
+    "bookId": 13,
+    "arabic": "كتاب الْمَعْرُوفِ",
+    "english": "Good Conduct",
+    "hadithsCount": 17
+  },
+  {
+    "id": 12,
+    "bookId": 13,
+    "arabic": "كتاب الِانْبِسَاطِ إِلَى النَّاسِ",
+    "english": "Cheerfulness Towards People",
+    "hadithsCount": 18
+  },
+  {
+    "id": 13,
+    "bookId": 13,
+    "arabic": "كتاب الْمَشُورَةِ",
+    "english": "Consultation",
+    "hadithsCount": 4
+  },
+  {
+    "id": 14,
+    "bookId": 13,
+    "arabic": "كتاب حسن الخلق",
+    "english": "Excellence in Character",
+    "hadithsCount": 50
+  },
+  {
+    "id": 15,
+    "bookId": 13,
+    "arabic": "كتاب اللعن",
+    "english": "Cursing",
+    "hadithsCount": 24
+  },
+  {
+    "id": 16,
+    "bookId": 13,
+    "arabic": "كتاب المدح",
+    "english": "Praise",
+    "hadithsCount": 11
+  },
+  {
+    "id": 17,
+    "bookId": 13,
+    "arabic": "كتاب الزِّيَارَةِ",
+    "english": "Visitation",
+    "hadithsCount": 10
+  },
+  {
+    "id": 18,
+    "bookId": 13,
+    "arabic": "كتاب الأكَابِرِ",
+    "english": "The Elderly",
+    "hadithsCount": 9
+  },
+  {
+    "id": 19,
+    "bookId": 13,
+    "arabic": "كتاب الصَّغِيرِ",
+    "english": "Children",
+    "hadithsCount": 10
+  },
+  {
+    "id": 20,
+    "bookId": 13,
+    "arabic": "كتاب رَحْمَةِ",
+    "english": "Mercy",
+    "hadithsCount": 13
+  },
+  {
+    "id": 21,
+    "bookId": 13,
+    "arabic": "كتاب ذات البين",
+    "english": "Social Behaviour",
+    "hadithsCount": 12
+  },
+  {
+    "id": 22,
+    "bookId": 13,
+    "arabic": "كتاب الهجر",
+    "english": "Abandonment",
+    "hadithsCount": 18
+  },
+  {
+    "id": 23,
+    "bookId": 13,
+    "arabic": "كتاب الإشارة",
+    "english": "Advising",
+    "hadithsCount": 4
+  },
+  {
+    "id": 24,
+    "bookId": 13,
+    "arabic": "كتاب السِّبَابِ",
+    "english": "Disparaging",
+    "hadithsCount": 23
+  },
+  {
+    "id": 25,
+    "bookId": 13,
+    "arabic": "كتاب السَّرَفِ فِي  الْبِنَاءِ",
+    "english": "Extravagance in Building",
+    "hadithsCount": 20
+  },
+  {
+    "id": 26,
+    "bookId": 13,
+    "arabic": "كتاب الرِّفْقِ",
+    "english": "Compassion",
+    "hadithsCount": 13
+  },
+  {
+    "id": 27,
+    "bookId": 13,
+    "arabic": "كتاب الاعتناء بالدنيا",
+    "english": "Attending to this world",
+    "hadithsCount": 8
+  },
+  {
+    "id": 28,
+    "bookId": 13,
+    "arabic": "كتاب الظُّلْم",
+    "english": "Injustice",
+    "hadithsCount": 8
+  },
+  {
+    "id": 29,
+    "bookId": 13,
+    "arabic": "كتاب عيادة المرضى",
+    "english": "Visiting the Ill",
+    "hadithsCount": 47
+  },
+  {
+    "id": 30,
+    "bookId": 13,
+    "arabic": "كتاب التصرف العام",
+    "english": "General Behavior",
+    "hadithsCount": 66
+  },
+  {
+    "id": 31,
+    "bookId": 13,
+    "arabic": "كتاب الدعاء",
+    "english": "Supplication",
+    "hadithsCount": 135
+  },
+  {
+    "id": 32,
+    "bookId": 13,
+    "arabic": "كتاب الضيف والنفقة",
+    "english": "Guests and Spending",
+    "hadithsCount": 15
+  },
+  {
+    "id": 33,
+    "bookId": 13,
+    "arabic": "كتاب الأقوال",
+    "english": "Sayings",
+    "hadithsCount": 57
+  },
+  {
+    "id": 34,
+    "bookId": 13,
+    "arabic": "كتاب الأسْمَاءِ",
+    "english": "Names",
+    "hadithsCount": 31
+  },
+  {
+    "id": 35,
+    "bookId": 13,
+    "arabic": "كتاب  الكُنْيَةِ",
+    "english": "Kunyas",
+    "hadithsCount": 14
+  },
+  {
+    "id": 36,
+    "bookId": 13,
+    "arabic": "كتاب الشِّعْرِ",
+    "english": "Poetry",
+    "hadithsCount": 19
+  },
+  {
+    "id": 37,
+    "bookId": 13,
+    "arabic": "كتاب الْكَلامِ",
+    "english": "Words",
+    "hadithsCount": 13
+  },
+  {
+    "id": 38,
+    "bookId": 13,
+    "arabic": "كتاب عاقبة الأمور",
+    "english": "Consequences",
+    "hadithsCount": 19
+  },
+  {
+    "id": 39,
+    "bookId": 13,
+    "arabic": "كتاب الطيرة",
+    "english": "Omens",
+    "hadithsCount": 12
+  },
+  {
+    "id": 40,
+    "bookId": 13,
+    "arabic": "كتاب الْعُطَاسَ والتثاؤب",
+    "english": "Sneezing and Yawning",
+    "hadithsCount": 33
+  },
+  {
+    "id": 41,
+    "bookId": 13,
+    "arabic": "كتاب الحركات",
+    "english": "Gestures",
+    "hadithsCount": 13
+  },
+  {
+    "id": 42,
+    "bookId": 13,
+    "arabic": "كتاب السَّلامِ",
+    "english": "Greetings",
+    "hadithsCount": 87
+  },
+  {
+    "id": 43,
+    "bookId": 13,
+    "arabic": "كتاب الاسْتِئْذَانُ",
+    "english": "Asking Permission",
+    "hadithsCount": 50
+  },
+  {
+    "id": 44,
+    "bookId": 13,
+    "arabic": "كتاب أَهْلِ الْكِتَابِ",
+    "english": "The People of the Book",
+    "hadithsCount": 16
+  },
+  {
+    "id": 45,
+    "bookId": 13,
+    "arabic": "كتاب الرَّسَائِلِ‏",
+    "english": "Letters",
+    "hadithsCount": 19
+  },
+  {
+    "id": 46,
+    "bookId": 13,
+    "arabic": "كتاب الْمَجَالِسِ",
+    "english": "Gatherings",
+    "hadithsCount": 17
+  },
+  {
+    "id": 47,
+    "bookId": 13,
+    "arabic": "كتاب تعامل الناس",
+    "english": "Behaviour with people",
+    "hadithsCount": 22
+  },
+  {
+    "id": 48,
+    "bookId": 13,
+    "arabic": "باب الجلوس والاستلقاء",
+    "english": "Sitting and lying down",
+    "hadithsCount": 24
+  },
+  {
+    "id": 49,
+    "bookId": 13,
+    "arabic": "كتاب الصباح والمساء",
+    "english": "Mornings and evenings",
+    "hadithsCount": 6
+  },
+  {
+    "id": 50,
+    "bookId": 13,
+    "arabic": "كتاب النوم والمبيت",
+    "english": "Sleep and night lodging",
+    "hadithsCount": 27
+  },
+  {
+    "id": 51,
+    "bookId": 13,
+    "arabic": "كتاب الْبَهَائِمِ",
+    "english": "Animals",
+    "hadithsCount": 6
+  },
+  {
+    "id": 52,
+    "bookId": 13,
+    "arabic": "كتاب الْقَائِلَةِ",
+    "english": "Midday Naps",
+    "hadithsCount": 6
+  },
+  {
+    "id": 53,
+    "bookId": 13,
+    "arabic": "كتاب الْخِتَانِ",
+    "english": "Circumcision",
+    "hadithsCount": 15
+  },
+  {
+    "id": 54,
+    "bookId": 13,
+    "arabic": "كتاب القمار ونحوه",
+    "english": "Betting and similar pastimes",
+    "hadithsCount": 23
+  },
+  {
+    "id": 55,
+    "bookId": 13,
+    "arabic": "كتاب المعرفة",
+    "english": "Recognition",
+    "hadithsCount": 23
+  },
+  {
+    "id": 56,
+    "bookId": 13,
+    "arabic": "كتاب الفضول والجفاء",
+    "english": "Meddling and Harshness",
+    "hadithsCount": 12
+  },
+  {
+    "id": 57,
+    "bookId": 13,
+    "arabic": "كتاب الْغَضَبِ",
+    "english": "Anger",
+    "hadithsCount": 7
+  }
+]

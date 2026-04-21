@@ -1,0 +1,16 @@
+{
+  "id": 41052,
+  "chapterId": 1,
+  "bookId": 17,
+  "arabic": "جُبِلَتِ الْقُلُوبُ عَلی حُبَّ مَنْ اَحْسَنَ اِلَیْهَا وَ بُغْضِ مَنْ اَسَاءَ اِلَیْهَا",
+  "english": {
+    "narrator": "",
+    "text": "Hearts are predisposed to love someone who does them good and detest someone who does them harm."
+  },
+  "book": {
+    "id": 17,
+    "name": "The Forty Hadith of Shah Waliullah",
+    "arabic": "أربعون الشاه ولي الله",
+    "slug": "waliullah-40"
+  }
+}

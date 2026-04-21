@@ -1,0 +1,16 @@
+{
+  "id": 99,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ،\n عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَتُقَاتِلُنَّ الْيَهُودَ فَلَتَقْتُلُنَّهُمْ حَتَّى يَقُولَ\n الْحَجَرُ يَا مُسْلِمُ هَذَا يَهُودِيٌّ فَتَعَالَ فَاقْتُلْهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar reported Allah's Messenger (ﷺ) as saying:",
+    "text": "You will fight against the Jews and you will kill them until even a stone would say: Come here, Muslim, there is a Jew (hiding himself behind me) ; kill him."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 81,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: \n\" مَا أَنْزَلَ اللَّهُ مِنَ السَّمَاءِ مِنْ بَرَكَةٍ إِلَّا أَصْبَحَ فَرِيقٌ مِنَ النَّاسِ بِهَا كَافِرِينَ يُنْزِلُ اللَّهُ الْغَيْثَ فَيَقُولُونَ: بِكَوْكَبِ كَذَا وَكَذَا \". رَوَاهُ مُسلم",
+  "english": {
+    "narrator": "",
+    "text": "Abu Huraira reported God’s messenger as saying, “God has not sent down any blessing from heaven without a section of the people disbelieving in it. God sends down the rain but they say it comes by means of such and such a star.” \n\nMuslim transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

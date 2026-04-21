@@ -1,0 +1,16 @@
+{
+  "id": 288,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أسامة بن زيد رضي الله عنهما عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ ما تركت بعدي فتنة هي أضر على الرجال من النساء‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Usamah bin Zaid (May Allah be pleased with them) reported:",
+    "text": "The Prophet (ﷺ) said, \"I am not leaving behind me a more harmful trial for men than women\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

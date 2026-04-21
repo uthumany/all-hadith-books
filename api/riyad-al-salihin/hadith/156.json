@@ -1,0 +1,16 @@
+{
+  "id": 156,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "فالأول ‏:‏ عن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏دعوني ماتركتكم‏:‏ إنما أهلك من كان قبلكم كثرة سؤالهم ، واختلافهم على أنبيائهم، فإذا نهيتكم عن شيء فاجتنبوه، وإذا أمرتكم بأمر فأتوا منه ما استطعتم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"Do not ask me unnecessarily about the details of the things which I do not mention to you. Verily, the people before you were doomed because they were used to putting many questions to their Prophets and had differences about their Prophets. Refrain from what I forbid you and do what I command you to the best of your ability and capacity\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

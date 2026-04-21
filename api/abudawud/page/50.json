@@ -1,0 +1,510 @@
+{
+  "page": 50,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 51,
+  "prevPage": 49,
+  "items": [
+    {
+      "id": 138,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو كَامِلٍ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شَيْبَانُ، عَنْ عَاصِمٍ، عَنْ زِرٍّ، عَنْ عَبْدِ اللَّهِ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصُومُ - يَعْنِي مِنْ غُرَّةِ كُلِّ شَهْرٍ - ثَلاَثَةَ أَيَّامٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Mas'ud:",
+        "text": "The Messenger of Allah (ﷺ) used to fast three days every month."
+      }
+    },
+    {
+      "id": 139,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ عَاصِمِ بْنِ بَهْدَلَةَ، عَنْ سَوَاءٍ الْخُزَاعِيِّ، عَنْ حَفْصَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصُومُ ثَلاَثَةَ أَيَّامٍ مِنَ الشَّهْرِ الاِثْنَيْنِ وَالْخَمِيسِ وَالاِثْنَيْنِ مِنَ الْجُمُعَةِ الأُخْرَى ‏.‏",
+      "english": {
+        "narrator": "Narrated Hafsah, Ummul Mu'minin:",
+        "text": "The apostle of Allah (ﷺ) used to fast three days every month: Monday, Thursday and Monday in the next week."
+      }
+    },
+    {
+      "id": 140,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، حَدَّثَنَا الْحَسَنُ بْنُ عُبَيْدِ اللَّهِ، عَنْ هُنَيْدَةَ الْخُزَاعِيِّ، عَنْ أُمِّهِ، قَالَتْ دَخَلْتُ عَلَى أُمِّ سَلَمَةَ فَسَأَلْتُهَا عَنِ الصِّيَامِ فَقَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْمُرُنِي أَنْ أَصُومَ ثَلاَثَةَ أَيَّامٍ مِنْ كُلِّ شَهْرٍ أَوَّلُهَا الاِثْنَيْنِ وَالْخَمِيسِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umm Salamah, Ummul Mu'minin:",
+        "text": "Hunaydah al-Khuza'i reported on the authority of her mother who said: I entered upon Umm Salamah and asked her about fasting. She said: The Messenger of Allah (ﷺ) used to command me to fast three days every month beginning with Monday or Thursday."
+      }
+    },
+    {
+      "id": 141,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ يَزِيدَ الرِّشْكِ، عَنْ مُعَاذَةَ، قَالَتْ قُلْتُ لِعَائِشَةَ أَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصُومُ مِنْ كُلِّ شَهْرٍ ثَلاَثَةَ أَيَّامٍ قَالَتْ نَعَمْ ‏.‏ قُلْتُ مِنْ أَىِّ شَهْرٍ كَانَ يَصُومُ قَالَتْ مَا كَانَ يُبَالِي مِنْ أَىِّ أَيَّامِ الشَّهْرِ كَانَ يَصُومُ ‏.‏",
+      "english": {
+        "narrator": "Mu'adhah (al-'Adawiyyah) said:",
+        "text": "I asked 'Aishah: Would the Messenger of Allah (ﷺ) fast three days every month ? She replied: Yes. I asked: Which days in the month he used to fast ? She replied: He did not care which days of the month he fasted."
+      }
+    },
+    {
+      "id": 142,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنِي ابْنُ لَهِيعَةَ، وَيَحْيَى بْنُ أَيُّوبَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ حَزْمٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، عَنْ حَفْصَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ لَمْ يُجْمِعِ الصِّيَامَ قَبْلَ الْفَجْرِ فَلاَ صِيَامَ لَهُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ اللَّيْثُ وَإِسْحَاقُ بْنُ حَازِمٍ أَيْضًا جَمِيعًا عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ مِثْلَهُ وَوَقَفَهُ عَلَى حَفْصَةَ مَعْمَرٌ وَالزُّبَيْدِيُّ وَابْنُ عُيَيْنَةَ وَيُونُسُ الأَيْلِيُّ كُلُّهُمْ عَنِ الزُّهْرِيِّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Hafsah, Ummul Mu'minin:",
+        "text": "The Messenger of Allah (ﷺ) said: He who does not determine to fast before dawn does not fast."
+      }
+    },
+    {
+      "id": 143,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، حَدَّثَنَا سُفْيَانُ، ح وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، جَمِيعًا عَنْ طَلْحَةَ بْنِ يَحْيَى، عَنْ عَائِشَةَ بِنْتِ طَلْحَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا دَخَلَ عَلَىَّ قَالَ ‏\"‏ هَلْ عِنْدَكُمْ طَعَامٌ ‏\"‏ ‏.‏ فَإِذَا قُلْنَا لاَ قَالَ ‏\"‏ إِنِّي صَائِمٌ ‏\"‏ ‏.‏ زَادَ وَكِيعٌ فَدَخَلَ عَلَيْنَا يَوْمًا آخَرَ فَقُلْنَا يَا رَسُولَ اللَّهِ أُهْدِيَ لَنَا حَيْسٌ فَحَبَسْنَاهُ لَكَ ‏.‏ فَقَالَ ‏\"‏ أَدْنِيهِ ‏\"‏ ‏.‏ قَالَ طَلْحَةُ فَأَصْبَحَ صَائِمًا وَأَفْطَرَ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "When the Prophet (ﷺ) entered upon me, he would ask: Do you have food ? When we said: No, he would say: I am fasting. Waki' added in his version: Another day when he entered upon us, we said: Messenger of Allah, some pudding (hair) has been presented to us and we have retained it for you. He said: Bring it to me. Talhah said: He fasted in the morning, but broke his fast (that day)."
+      }
+    },
+    {
+      "id": 144,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرُ بْنُ عَبْدِ الْحَمِيدِ، عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، عَنْ أُمِّ هَانِئٍ، قَالَتْ لَمَّا كَانَ يَوْمُ الْفَتْحِ فَتْحِ مَكَّةَ جَاءَتْ فَاطِمَةُ فَجَلَسَتْ عَنْ يَسَارِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأُمُّ هَانِئٍ عَنْ يَمِينِهِ قَالَتْ فَجَاءَتِ الْوَلِيدَةُ بِإِنَاءٍ فِيهِ شَرَابٌ فَنَاوَلَتْهُ فَشَرِبَ مِنْهُ ثُمَّ نَاوَلَهُ أُمَّ هَانِئٍ فَشَرِبَتْ مِنْهُ فَقَالَتْ يَا رَسُولَ اللَّهِ لَقَدْ أَفْطَرْتُ وَكُنْتُ صَائِمَةً ‏.‏ فَقَالَ لَهَا ‏\"‏ أَكُنْتِ تَقْضِينَ شَيْئًا ‏\"‏ ‏.‏ قَالَتْ لاَ ‏.‏ قَالَ ‏\"‏ فَلاَ يَضُرُّكِ إِنْ كَانَ تَطَوُّعًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umm Hani:",
+        "text": "On the days of the  conquest of Mecca, when Mecca was captured, Fatimah came and sat on the left side of the Messenger of Allah (ﷺ), and Umm Hani was on his right side. A slave-girl brought a vessel which contained some drink; she gave it to him and he drank of it. He then gave it to Umm Hani who drank of it. She said: Messenger of Allah, I have broken my fast; I was fasting. He said to her: Were you making atonement for something? She replied: No. He said: Then it does not harm you if it was voluntary (fast)."
+      }
+    },
+    {
+      "id": 145,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي حَيْوَةُ بْنُ شُرَيْحٍ، عَنِ ابْنِ الْهَادِ، عَنْ زُمَيْلٍ، مَوْلَى عُرْوَةَ عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، قَالَتْ أُهْدِيَ لِي وَلِحَفْصَةَ طَعَامٌ وَكُنَّا صَائِمَتَيْنِ فَأَفْطَرْنَا ثُمَّ دَخَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقُلْنَا لَهُ يَا رَسُولَ اللَّهِ إِنَّا أُهْدِيَتْ لَنَا هَدِيَّةٌ فَاشْتَهَيْنَاهَا فَأَفْطَرْنَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ عَلَيْكُمَا صُومَا مَكَانَهُ يَوْمًا آخَرَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "Some food was presented to me and Hafsah. We were fasting, but broke our fast. Then the Messenger of Allah (ﷺ) entered upon us. We said to him: A gift was presented to us; we coveted it and we broke our fast. The Messenger of Allah (ﷺ) said: There is no harm to you; keep a fast another day in lieu of it."
+      }
+    },
+    {
+      "id": 146,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَصُومُ الْمَرْأَةُ وَبَعْلُهَا شَاهِدٌ إِلاَّ بِإِذْنِهِ غَيْرَ رَمَضَانَ وَلاَ تَأْذَنُ فِي بَيْتِهِ وَهُوَ شَاهِدٌ إِلاَّ بِإِذْنِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "It is not allowable for a woman to keep (voluntary) fast when her husband is present without his permission, and she may not allow anyone to enter his house without his permission."
+      }
+    },
+    {
+      "id": 147,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي سَعِيدٍ، قَالَ جَاءَتِ امْرَأَةٌ إِلَى النَّبِيِّ صلى الله عليه وسلم وَنَحْنُ عِنْدَهُ فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ زَوْجِي صَفْوَانَ بْنَ الْمُعَطَّلِ يَضْرِبُنِي إِذَا صَلَّيْتُ وَيُفَطِّرُنِي إِذَا صُمْتُ وَلاَ يُصَلِّي صَلاَةَ الْفَجْرِ حَتَّى تَطْلُعَ الشَّمْسُ ‏.‏ قَالَ وَصَفْوَانُ عِنْدَهُ ‏.‏ قَالَ فَسَأَلَهُ عَمَّا قَالَتْ فَقَالَ يَا رَسُولَ اللَّهِ أَمَّا قَوْلُهَا يَضْرِبُنِي إِذَا صَلَّيْتُ فَإِنَّهَا تَقْرَأُ بِسُورَتَيْنِ وَقَدْ نَهَيْتُهَا ‏.‏ قَالَ فَقَالَ ‏\"‏ لَوْ كَانَتْ سُورَةً وَاحِدَةً لَكَفَتِ النَّاسَ ‏\"‏ ‏.‏ وَأَمَّا قَوْلُهَا يُفَطِّرُنِي فَإِنَّهَا تَنْطَلِقُ فَتَصُومُ وَأَنَا رَجُلٌ شَابٌّ فَلاَ أَصْبِرُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَئِذٍ ‏\"‏ لاَ تَصُومُ امْرَأَةٌ إِلاَّ بِإِذْنِ زَوْجِهَا ‏\"‏ ‏.‏ وَأَمَّا قَوْلُهَا إِنِّي لاَ أُصَلِّي حَتَّى تَطْلُعَ الشَّمْسُ فَإِنَّا أَهْلُ بَيْتٍ قَدْ عُرِفَ لَنَا ذَاكَ لاَ نَكَادُ نَسْتَيْقِظُ حَتَّى تَطْلُعَ الشَّمْسُ ‏.‏ قَالَ ‏\"‏ فَإِذَا اسْتَيْقَظْتَ فَصَلِّ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ حَمَّادٌ - يَعْنِي ابْنَ سَلَمَةَ - عَنْ حُمَيْدٍ أَوْ ثَابِتٍ عَنْ أَبِي الْمُتَوَكِّلِ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuSa'id al-Khudri:",
+        "text": "A woman came to the Prophet (ﷺ) while we were with him.  \n\n\n\n\n\nShe said: Messenger of Allah, my husband, Safwan ibn al-Mu'attal, beats me when I pray, and makes me break my fast when I keep a fast, and he does not offer the dawn prayer until the sun rises. \n\n\n\n\n\nHe asked Safwan, who was present, about what she had said.  He replied: Messenger of Allah, as for her statement \"he beats me when I pray\", she recites two surahs (during prayer) and I have prohibited her (to do so).  \n\n\n\n\n\nHe (the Prophet) said: If one surah is recited (during prayer), that is sufficient for the people.  \n\n\n\n\n\n(Safwan continued:) As regards her saying \"he makes me break my fast,\" she dotes on fasting; I am a young man, I cannot restrain myself.  \n\n\n\n\n\nThe Messenger of Allah (ﷺ) said on that day: A woman should not fast except with the permission of her husband.  \n\n\n\n\n\n(Safwan said:) As for her statement that I do not pray until the sun rises, we are a people belonging to a class, and that (our profession of supplying water) is already known about us. We do not awake until the sun rises.  He said: When you awake, offer your prayer."
+      }
+    },
+    {
+      "id": 148,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو خَالِدٍ، عَنْ هِشَامٍ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا دُعِيَ أَحَدُكُمْ فَلْيُجِبْ فَإِنْ كَانَ مُفْطِرًا فَلْيَطْعَمْ وَإِنْ كَانَ صَائِمًا فَلْيُصَلِّ ‏\"‏ ‏.‏ قَالَ هِشَامٌ وَالصَّلاَةُ الدُّعَاءُ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ حَفْصُ بْنُ غِيَاثٍ أَيْضًا عَنْ هِشَامٍ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "When one of you receives an invitation (for a meal), he should accept it. If he isn to fasting, he should eat, and if he is fasten, he should pray. Hisham said: The word salat means to pray (for him to Allah).\n\n\nAbu Dawud said: This tradition has also been narrated by Hafs b. Ghiyath from Hisham."
+      }
+    },
+    {
+      "id": 149,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا دُعِيَ أَحَدُكُمْ إِلَى طَعَامٍ وَهُوَ صَائِمٌ فَلْيَقُلْ إِنِّي صَائِمٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported Messenger of Allah (ﷺ) as saying:",
+        "text": "When one of you is invited (to a meal), and he is fasting, he should say that he is fasting."
+      }
+    },
+    {
+      "id": 150,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَعْتَكِفُ الْعَشْرَ الأَوَاخِرَ مِنْ رَمَضَانَ حَتَّى قَبَضَهُ اللَّهُ ثُمَّ اعْتَكَفَ أَزْوَاجُهُ مِنْ بَعْدِهِ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "The Prophet (ﷺ) used to observe retirement (i'tikaf) to the mosque during the last ten days of Ramadan till Allah took him, and then his wives observed retirement to the mosque after his death."
+      }
+    },
+    {
+      "id": 151,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا ثَابِتٌ، عَنْ أَبِي رَافِعٍ، عَنْ أُبَىِّ بْنِ كَعْبٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَعْتَكِفُ الْعَشْرَ الأَوَاخِرَ مِنْ رَمَضَانَ فَلَمْ يَعْتَكِفْ عَامًا فَلَمَّا كَانَ الْعَامُ الْمُقْبِلُ اعْتَكَفَ عِشْرِينَ لَيْلَةً ‏.‏",
+      "english": {
+        "narrator": "Narrated Ubayy ibn Ka'b:",
+        "text": "The Prophet (ﷺ) used to observe i'tikaf during the last ten days of Ramadan. One year he did not observe i'tikaf. When the next year came, he observed i'tikaf for twenty nights (i.e. days)."
+      }
+    },
+    {
+      "id": 152,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، وَيَعْلَى بْنُ عُبَيْدٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَرَادَ أَنْ يَعْتَكِفَ صَلَّى الْفَجْرَ ثُمَّ دَخَلَ مُعْتَكَفَهُ ‏.‏ قَالَتْ وَإِنَّهُ أَرَادَ مَرَّةً أَنْ يَعْتَكِفَ فِي الْعَشْرِ الأَوَاخِرِ مِنْ رَمَضَانَ ‏.‏ قَالَتْ فَأَمَرَ بِبِنَائِهِ فَضُرِبَ فَلَمَّا رَأَيْتُ ذَلِكَ أَمَرْتُ بِبِنَائِي فَضُرِبَ ‏.‏ قَالَتْ وَأَمَرَ غَيْرِي مِنْ أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم بِبِنَائِهِ فَضُرِبَ فَلَمَّا صَلَّى الْفَجْرَ نَظَرَ إِلَى الأَبْنِيَةِ فَقَالَ ‏\n\"‏ مَا هَذِهِ آلْبِرَّ تُرِدْنَ ‏\"‏ ‏.‏ قَالَتْ فَأَمَرَ بِبِنَائِهِ فَقُوِّضَ وَأَمَرَ أَزْوَاجُهُ بِأَبْنِيَتِهِنَّ فَقُوِّضَتْ ثُمَّ أَخَّرَ الاِعْتِكَافَ إِلَى الْعَشْرِ الأُوَلِ يَعْنِي مِنْ شَوَّالٍ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ ابْنُ إِسْحَاقَ وَالأَوْزَاعِيُّ عَنْ يَحْيَى بْنِ سَعِيدٍ نَحْوَهُ وَرَوَاهُ مَالِكٌ عَنْ يَحْيَى بْنِ سَعِيدٍ قَالَ اعْتَكَفَ عِشْرِينَ مِنْ شَوَّالٍ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "When the Messenger of Allah (ﷺ) intended to observe I'tikaf, he prayed the fajr prayer and then entered his place of seclusion. Once he intended to observe I'tikaf during the last ten days of Ramadan. She said: He ordered to pitch a tent for him, and it was pitched. She said: The other wives of the Prophet (ﷺ) also ordered to pitch tents for them and they were pitched. When he offered the fajr prayer, he saw the tents, and said: What is this ? Did you intend to do an act of virtue ? She said: He then ordered to demolish his tent, and it was demolished. Then his wives also ordered to demolish their tents and they were demolished. He then postponed I'tikaf till the first ten days, that is of Shawwal.\n\n\nAbu Dawud said: This tradition has been transmitted by Ibn Ishaq and al-Auza'i from Yahya b. Sa'id in a similar manner, and Malik narrated it from Yahya b. Sa'id, saying: He observed I'tikaf during twenty days of Shawwal."
+      }
+    },
+    {
+      "id": 153,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، أَنَّ نَافِعًا، أَخْبَرَهُ عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَعْتَكِفُ الْعَشْرَ الأَوَاخِرَ مِنْ رَمَضَانَ ‏.‏ قَالَ نَافِعٌ وَقَدْ أَرَانِي عَبْدُ اللَّهِ الْمَكَانَ الَّذِي يَعْتَكِفُ فِيهِ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الْمَسْجِدِ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar said:",
+        "text": "The Prophet (ﷺ) used to observe I'tikaf during the last ten days of Ramadan. Nafi' said: 'Abd Allah (b. 'Umar) showed me the place in the mosque where Messenger of Allah (ﷺ) used to observe I'tikaf."
+      }
+    },
+    {
+      "id": 154,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَنَّادٌ، عَنْ أَبِي بَكْرٍ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَعْتَكِفُ كُلَّ رَمَضَانَ عَشَرَةَ أَيَّامٍ فَلَمَّا كَانَ الْعَامُ الَّذِي قُبِضَ فِيهِ اعْتَكَفَ عِشْرِينَ يَوْمًا ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah said:",
+        "text": "The Prophet (ﷺ) used to observe I'tikaf during ten days of Ramadan every year. But when the year in which he died, he observed I'tikaf for twenty days."
+      }
+    },
+    {
+      "id": 155,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا اعْتَكَفَ يُدْنِي إِلَىَّ رَأْسَهُ فَأُرَجِّلُهُ وَكَانَ لاَ يَدْخُلُ الْبَيْتَ إِلاَّ لِحَاجَةِ الإِنْسَانِ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "When the Messenger of Allah (ﷺ) observed I'tikaf, he would put his head near me, and I would comb it.  and he entered the house only to fulfill human needs (i.e. to urinate or to relieve himself)."
+      }
+    },
+    {
+      "id": 156,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَعَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، قَالاَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ رَوَاهُ يُونُسُ عَنِ الزُّهْرِيِّ وَلَمْ يُتَابِعْ أَحَدٌ مَالِكًا عَلَى عُرْوَةَ عَنْ عَمْرَةَ وَرَوَاهُ مَعْمَرٌ وَزِيَادُ بْنُ سَعْدٍ وَغَيْرُهُمَا عَنِ الزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عَائِشَةَ ‏.‏",
+      "english": {
+        "narrator": "A similar tradition has been transmitted by 'Aishah from the Prophet (ﷺ) through a different chain of narrators.\n\n\nAbu Dawud said:",
+        "text": "And Yunus also narrated in a similar way from al-Zuhri, and no one supported Malik in his narration from 'Urwah from 'Umrah ; and Ma'mar, Ziyad b. Sad and others have also narrated it from al-Zuhri from 'Urwah on the authority of 'Aishah."
+      }
+    },
+    {
+      "id": 157,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، وَمُسَدَّدٌ، قَالاَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَكُونُ مُعْتَكِفًا فِي الْمَسْجِدِ فَيُنَاوِلُنِي رَأْسَهُ مِنْ خَلَلِ الْحُجْرَةِ فَأَغْسِلُ رَأْسَهُ ‏.‏ وَقَالَ مُسَدَّدٌ فَأُرَجِّلُهُ وَأَنَا حَائِضٌ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "The Messenger of Allah (ﷺ) used to observe I'tikaf in the mosque and put his head near me through the opening of the apartment, and I would wash his head. Musaddad said: \"And I would comb it while I was menstruating.\""
+      }
+    },
+    {
+      "id": 158,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ شَبُّويَةَ الْمَرْوَزِيُّ، حَدَّثَنِي عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ، عَنْ صَفِيَّةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم مُعْتَكِفًا فَأَتَيْتُهُ أَزُورُهُ لَيْلاً فَحَدَّثْتُهُ ثُمَّ قُمْتُ فَانْقَلَبْتُ فَقَامَ مَعِي لِيَقْلِبَنِي - وَكَانَ مَسْكَنُهَا فِي دَارِ أُسَامَةَ بْنِ زَيْدٍ - فَمَرَّ رَجُلاَنِ مِنَ الأَنْصَارِ فَلَمَّا رَأَيَا النَّبِيَّ صلى الله عليه وسلم أَسْرَعَا فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ عَلَى رِسْلِكُمَا إِنَّهَا صَفِيَّةُ بِنْتُ حُيَىٍّ ‏\"‏ ‏.‏ قَالاَ سُبْحَانَ اللَّهِ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ إِنَّ الشَّيْطَانَ يَجْرِي مِنَ الإِنْسَانِ مَجْرَى الدَّمِ فَخَشِيتُ أَنْ يَقْذِفَ فِي قُلُوبِكُمَا شَيْئًا ‏\"‏ ‏.‏ أَوْ قَالَ ‏\"‏ شَرًّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Safiyyah said:",
+        "text": "When the Messenger of Allah (ﷺ) was observing I'tikaf (in the mosque), I would come to him to visit him. I had a talk with him and then stood up. I then returned and he (the Prophet) also stood up to accompany me (to my house). Her dwelling place was in the house of Usamah b. Zaid. Two men from the Ansar (helpers) passed (by him at the moment). When they saw the Prophet (ﷺ), they walked quickly. The Prophet (ﷺ) said: Be at ease, she is Safiyyah daughter of Huyayy. They said: Be glory to Allah, Messenger of Allah! He said: Satan runs in man like blood. I feared he might inspire something in your mind, or he said: evil (the narrator doubted)."
+      }
+    },
+    {
+      "id": 159,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، بِإِسْنَادِهِ بِهَذَا قَالَتْ حَتَّى إِذَا كَانَ عِنْدَ بَابِ الْمَسْجِدِ الَّذِي عِنْدَ بَابِ أُمِّ سَلَمَةَ مَرَّ بِهِمَا رَجُلاَنِ ‏.‏ وَسَاقَ مَعْنَاهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The tradition mentioned above has also been transmitted by Al Zuhri through a different chain of narrators. In this version she said “When he was at the gate of the mosque which was near the gate of Umm Salamah, two men passed them. The narrator then transmitted the tradition to the same effect."
+      }
+    },
+    {
+      "id": 160,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، وَمُحَمَّدُ بْنُ عِيسَى، قَالاَ حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ حَرْبٍ، أَخْبَرَنَا اللَّيْثُ بْنُ أَبِي سُلَيْمٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - قَالَ النُّفَيْلِيُّ - قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يَمُرُّ بِالْمَرِيضِ وَهُوَ مُعْتَكِفٌ فَيَمُرُّ كَمَا هُوَ وَلاَ يُعَرِّجُ يَسْأَلُ عَنْهُ ‏.‏ وَقَالَ ابْنُ عِيسَى قَالَتْ إِنْ كَانَ النَّبِيُّ صلى الله عليه وسلم يَعُودُ الْمَرِيضَ وَهُوَ مُعْتَكِفٌ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "According to the version of Al Nufaili, A’ishah said “The Prophet (ﷺ) used to pass by a patient while he was observing I’tikaf(in the mosque) but he passed as usual and did not stay asking about him.”\n\n\nAccording to the version of Ibn Isa she said “The Prophet (ﷺ) would visit a patient while he was observing I’tikaf.”"
+      }
+    },
+    {
+      "id": 161,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، أَخْبَرَنَا خَالِدٌ، عَنْ عَبْدِ الرَّحْمَنِ، - يَعْنِي ابْنَ إِسْحَاقَ - عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتِ السُّنَّةُ عَلَى الْمُعْتَكِفِ أَنْ لاَ يَعُودَ مَرِيضًا وَلاَ يَشْهَدَ جَنَازَةً وَلاَ يَمَسَّ امْرَأَةً وَلاَ يُبَاشِرَهَا وَلاَ يَخْرُجَ لِحَاجَةٍ إِلاَّ لِمَا لاَ بُدَّ مِنْهُ وَلاَ اعْتِكَافَ إِلاَّ بِصَوْمٍ وَلاَ اعْتِكَافَ إِلاَّ فِي مَسْجِدٍ جَامِعٍ ‏.‏ قَالَ أَبُو دَاوُدَ غَيْرُ عَبْدِ الرَّحْمَنِ بْنِ إِسْحَاقَ لاَ يَقُولُ فِيهِ قَالَتِ السُّنَّةُ ‏.‏ قَالَ أَبُو دَاوُدَ جَعَلَهُ قَوْلَ عَائِشَةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The sunnah for one who is observing i'tikaf (in a mosque) is not to visit a patient, or to attend a funeral, or touch or embrace one's wife, or go out for anything but necessary purposes. There is no i'tikaf without fasting, and there is no i'tikaf except in a congregational mosque."
+      }
+    },
+    {
+      "id": 162,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُدَيْلٍ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، - رضى الله عنه - جَعَلَ عَلَيْهِ أَنْ يَعْتَكِفَ فِي الْجَاهِلِيَّةِ لَيْلَةً أَوْ يَوْمًا عِنْدَ الْكَعْبَةِ فَسَأَلَ النَّبِيَّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ اعْتَكِفْ وَصُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "Umar (may Allah be pleased with him) took a vow in the pre-Islamic days to spend a night or a day in devotion near the Ka'bah (in the sacred mosque). He asked the Prophet (ﷺ) about it. He said: Observe i'tikaf (i.e. spend a night or a day near the Ka'bah) and fast."
+      }
+    },
+    {
+      "id": 163,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ بْنِ مُحَمَّدٍ، عَنْ أَبَانَ بْنِ صَالِحٍ الْقُرَشِيِّ، حَدَّثَنَا عَمْرُو بْنُ مُحَمَّدٍ، - يَعْنِي الْعَنْقَزِيَّ - عَنْ عَبْدِ اللَّهِ بْنِ بُدَيْلٍ، بِإِسْنَادِهِ نَحْوَهُ قَالَ فَبَيْنَمَا هُوَ مُعْتَكِفٌ إِذْ كَبَّرَ النَّاسُ فَقَالَ مَا هَذَا يَا عَبْدَ اللَّهِ قَالَ سَبْىُ هَوَازِنَ أَعْتَقَهُمُ النَّبِيُّ صلى الله عليه وسلم قَالَ وَتِلْكَ الْجَارِيَةُ ‏.‏ فَأَرْسَلَهَا مَعَهُمْ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "The tradition mentioned above (No. 2468) has also been transmitted by Abdullah ibn Budayl through a different chain of narrators in a similar way. \n\n\n\n\n\nThis version adds: While he (Umar) was observing i'tikaf (in the sacred mosque), the people uttered (loudly):  \"Allah is most great.\" He said: What is this, Abdullah?  He said: These are the captives of the Hawazin whom the Messenger of Allah (ﷺ) has set free. He said: This slave-girl too? He sent her along with them."
+      }
+    },
+    {
+      "id": 164,
+      "chapterId": 14,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، وَقُتَيْبَةُ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا يَزِيدُ، عَنْ خَالِدٍ، عَنْ عِكْرِمَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتِ اعْتَكَفَتْ مَعَ النَّبِيِّ صلى الله عليه وسلم امْرَأَةٌ مِنْ أَزْوَاجِهِ فَكَانَتْ تَرَى الصُّفْرَةَ وَالْحُمْرَةَ فَرُبَّمَا وَضَعْنَا الطَّسْتَ تَحْتَهَا وَهِيَ تُصَلِّي ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "A’ishah(may Allaah be pleased with her) said “One of the wives of the Apostle of Allaah(ﷺ) observed I’tikaf along with him (in the mosque). She would see yellowness and redness. Sometimes we would place a washbasin while she prayed.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُؤَمَّلُ بْنُ الْفَضْلِ، حَدَّثَنَا الْوَلِيدُ، - يَعْنِي ابْنَ مُسْلِمٍ - عَنِ الأَوْزَاعِيِّ، عَنِ الزُّهْرِيِّ، عَنْ عَطَاءِ بْنِ يَزِيدَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ أَعْرَابِيًّا، سَأَلَ النَّبِيَّ صلى الله عليه وسلم عَنِ الْهِجْرَةِ فَقَالَ ‏\"‏ وَيْحَكَ إِنَّ شَأْنَ الْهِجْرَةِ شَدِيدٌ فَهَلْ لَكَ مِنْ إِبِلٍ ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏\"‏ فَهَلْ تُؤَدِّي صَدَقَتَهَا ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏\"‏ فَاعْمَلْ مِنْ وَرَاءِ الْبِحَارِ فَإِنَّ اللَّهَ لَنْ يَتِرَكَ مِنْ عَمَلِكَ شَيْئًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa’id Al Khudri said “A Bedouin asked the Prophet (ﷺ) about emigration. He replied “Woe to you! The matter of emigration is severe. Have you a Camel? He said, Yes. He asked “Do you pay its zakat? He said, Yes. He said, Then work (anywhere) beyond the seas. Allaah will not reduce anything from (the reward of) your work."
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، وَعُثْمَانُ، ابْنَا أَبِي شَيْبَةَ قَالاَ حَدَّثَنَا شَرِيكٌ، عَنِ الْمِقْدَامِ بْنِ شُرَيْحٍ، عَنْ أَبِيهِ، قَالَ سَأَلْتُ عَائِشَةَ - رضى الله عنها - عَنِ الْبَدَاوَةِ، فَقَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَبْدُو إِلَى هَذِهِ التِّلاَعِ وَإِنَّهُ أَرَادَ الْبَدَاوَةَ مَرَّةً فَأَرْسَلَ إِلَىَّ نَاقَةً مُحَرَّمَةً مِنْ إِبِلِ الصَّدَقَةِ فَقَالَ لِي ‏\n\"‏ يَا عَائِشَةُ ارْفُقِي فَإِنَّ الرِّفْقَ لَمْ يَكُنْ فِي شَىْءٍ قَطُّ إِلاَّ زَانَهُ وَلاَ نُزِعَ مِنْ شَىْءٍ قَطُّ إِلاَّ شَانَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Miqdan bin Shuraih reported on the authority of his father. I asked A’ishah about settling in the desert (to worship Allaah in loneliness). She said “The Apostle of Allaah(ﷺ) would go out (from Madina) to these torrential streams. Once he intended to go out to the desert (for worshipping Allaah). He sent me a She-Camel from the Camels of sadaqah that was not used as a mount. He said to me “A’ishah be lenient, for leniency makes a thing  decorated and when it is removed from a thing it makes it defective."
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، أَخْبَرَنَا عِيسَى، عَنْ حَرِيزِ بْنِ عُثْمَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَوْفٍ، عَنْ أَبِي هِنْدٍ، عَنْ مُعَاوِيَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ تَنْقَطِعُ الْهِجْرَةُ حَتَّى تَنْقَطِعَ التَّوْبَةُ وَلاَ تَنْقَطِعُ التَّوْبَةُ حَتَّى تَطْلُعَ الشَّمْسُ مِنْ مَغْرِبِهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Mu'awiyah:",
+        "text": "I heard the Messenger of Allah (ﷺ) say: Migration will not end until repentance ends, and repentance will not end until the sun rises in the west."
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ مُجَاهِدٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ الْفَتْحِ فَتْحِ مَكَّةَ ‏\n\"‏ لاَ هِجْرَةَ وَلَكِنْ جِهَادٌ وَنِيَّةٌ وَإِذَا اسْتُنْفِرْتُمْ فَانْفِرُوا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn ‘Abbas reported that Apostle of Allah (ﷺ) as saying on the day of the conquest of Makkah:",
+        "text": "There is no emigration (after the conquest of Makkah), but only Jihad (striving in the path of Allah) and some intention. So when you are summoned to go forth (for Jihad), go forth."
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، حَدَّثَنَا عَامِرٌ، قَالَ أَتَى رَجُلٌ عَبْدَ اللَّهِ بْنَ عَمْرٍو وَعِنْدَهُ الْقَوْمُ حَتَّى جَلَسَ عِنْدَهُ فَقَالَ أَخْبِرْنِي بِشَىْءٍ سَمِعْتَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَقَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ وَالْمُهَاجِرُ مَنْ هَجَرَ مَا نَهَى اللَّهُ عَنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "‘Amir said “A man came to ‘Abd Allaah bin ‘Amr while the people were with him. He sat with him and said “Tell me anything that you heard from the Apostle of Allaah(ﷺ)”. He said “I hears the Apostle of Allaah(ﷺ) say “A Muslim is he from whose tongue and hand the Muslims remain safe and an emigrant is he who abandons what Allaah has prohibited.””"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ سَتَكُونُ هِجْرَةٌ بَعْدَ هِجْرَةٍ فَخِيَارُ أَهْلِ الأَرْضِ أَلْزَمُهُمْ مُهَاجَرَ إِبْرَاهِيمَ وَيَبْقَى فِي الأَرْضِ شِرَارُ أَهْلِهَا تَلْفِظُهُمْ أَرَضُوهُمْ تَقْذَرُهُمْ نَفْسُ اللَّهِ وَتَحْشُرُهُمُ النَّارُ مَعَ الْقِرَدَةِ وَالْخَنَازِيرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "‘Abd Allaah bin ‘Amr said “ I heard the Apostle of Allaah(ﷺ) say “There will be emigration after emigration and the people who are best will be those who cleave most closely to places which Abraham migrated. The worst of its people will remain in the earth cast out by their lands, abhorred by Allaah, collected along with apes and swine by fire.””"
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ الْحَضْرَمِيُّ، حَدَّثَنَا بَقِيَّةُ، حَدَّثَنِي بَحِيرٌ، عَنْ خَالِدٍ، - يَعْنِي ابْنَ مَعْدَانَ - عَنْ أَبِي قُتَيْلَةَ، عَنِ ابْنِ حَوَالَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ سَيَصِيرُ الأَمْرُ إِلَى أَنْ تَكُونُوا جُنُودًا مُجَنَّدَةً جُنْدٌ بِالشَّامِ وَجُنْدٌ بِالْيَمَنِ وَجُنْدٌ بِالْعِرَاقِ ‏\"‏ ‏.‏ قَالَ ابْنُ حَوَالَةَ خِرْ لِي يَا رَسُولَ اللَّهِ إِنْ أَدْرَكْتُ ذَلِكَ ‏.‏ فَقَالَ ‏\"‏ عَلَيْكَ بِالشَّامِ فَإِنَّهَا خِيَرَةُ اللَّهِ مِنْ أَرْضِهِ يَجْتَبِي إِلَيْهَا خِيَرَتَهُ مِنْ عِبَادِهِ فَأَمَّا إِنْ أَبَيْتُمْ فَعَلَيْكُمْ بِيَمَنِكُمْ وَاسْقُوا مِنْ غُدُرِكُمْ فَإِنَّ اللَّهَ تَوَكَّلَ لِي بِالشَّامِ وَأَهْلِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Hawalah:",
+        "text": "The Prophet (ﷺ) said: It will turn out that you will be armed troops, one is Syria, one in the Yemen and one in Iraq. Ibn Hawalah said: Choose for me, Messenger of Allah, if I reach that time. He replied: Go to Syria, for it is Allah's chosen land, to which his best servants will be gathered, but if you are unwilling, go to your Yemen, and draw water from your tanks, for Allah has on my account taken special charge of Syria and its people."
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ قَتَادَةَ، عَنْ مُطَرِّفٍ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَزَالُ طَائِفَةٌ مِنْ أُمَّتِي يُقَاتِلُونَ عَلَى الْحَقِّ ظَاهِرِينَ عَلَى مَنْ نَاوَأَهُمْ حَتَّى يُقَاتِلَ آخِرُهُمُ الْمَسِيحَ الدَّجَّالَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Imran ibn Husayn:",
+        "text": "The Prophet (ﷺ) said: A section of my community will continue to fight for the right and overcome their opponents till the last of them fights with the Antichrist."
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا سُلَيْمَانُ بْنُ كَثِيرٍ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ عَطَاءِ بْنِ يَزِيدَ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ سُئِلَ أَىُّ الْمُؤْمِنِينَ أَكْمَلُ إِيمَانًا قَالَ ‏\n\"‏ رَجُلٌ يُجَاهِدُ فِي سَبِيلِ اللَّهِ بِنَفْسِهِ وَمَالِهِ وَرَجُلٌ يَعْبُدُ اللَّهَ فِي شِعْبٍ مِنَ الشِّعَابِ قَدْ كُفِيَ النَّاسُ شَرَّهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa’id (Al Khudri) reported The Prophet(ﷺ) was asked “Which believers are most perfect in respect of faith? He replied “A man who strives in the path of Allaah with his life and property and a man who worships Allaah in a mountain valley where he protects the people from his evil.””"
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُثْمَانَ التَّنُوخِيُّ أَبُو الْجَمَاهِرِ، حَدَّثَنَا الْهَيْثَمُ بْنُ حُمَيْدٍ، أَخْبَرَنِي الْعَلاَءُ بْنُ الْحَارِثِ، عَنِ الْقَاسِمِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي أُمَامَةَ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ ائْذَنْ لِي فِي السِّيَاحَةِ ‏.‏ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ إِنَّ سِيَاحَةَ أُمَّتِي الْجِهَادُ فِي سَبِيلِ اللَّهِ تَعَالَى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuUmamah:",
+        "text": "A man said: Messenger of Allah, allow tourism for me. The Prophet (ﷺ) said: The tourism of my people is striving in the path of Allah, the Exalted."
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى، حَدَّثَنَا عَلِيُّ بْنُ عَيَّاشٍ، عَنِ اللَّيْثِ بْنِ سَعْدٍ، حَدَّثَنَا حَيْوَةُ، عَنِ ابْنِ شُفَىٍّ، عَنْ شُفَىِّ بْنِ مَاتِعٍ، عَنْ عَبْدِ اللَّهِ، - هُوَ ابْنُ عَمْرٍو - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ قَفْلَةٌ كَغَزْوَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "The Prophet (ﷺ) said: Returning home is like going on an expedition."
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَلاَّمٍ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، عَنْ فَرَجِ بْنِ فَضَالَةَ، عَنْ عَبْدِ الْخَبِيرِ بْنِ ثَابِتِ بْنِ قَيْسِ بْنِ شَمَّاسٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ جَاءَتِ امْرَأَةٌ إِلَى النَّبِيِّ صلى الله عليه وسلم يُقَالُ لَهَا أُمُّ خَلاَّدٍ وَهِيَ مُنْتَقِبَةٌ تَسْأَلُ عَنِ ابْنِهَا وَهُوَ مَقْتُولٌ فَقَالَ لَهَا بَعْضُ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم جِئْتِ تَسْأَلِينَ عَنِ ابْنِكِ وَأَنْتِ مُنْتَقِبَةٌ فَقَالَتْ إِنْ أُرْزَإِ ابْنِي فَلَنْ أُرْزَأَ حَيَائِي ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ ابْنُكِ لَهُ أَجْرُ شَهِيدَيْنِ ‏\"‏ ‏.‏ قَالَتْ وَلِمَ ذَاكَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ لأَنَّهُ قَتَلَهُ أَهْلُ الْكِتَابِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Thabit ibn Qays:",
+        "text": "A woman called Umm Khallad came to the Prophet (ﷺ) while she was veiled. She was searching for her son who had been killed (in the battle) Some of the Companions of the Prophet (ﷺ) said to her: You have come here asking for your son while veiling your face? She said: If I am afflicted with the loss of my son, I shall not suffer the loss of my modesty. The Messenger of Allah (ﷺ) said: You will get the reward of two martyrs for your son. She asked: Why is that so, Messenger of Allah? He replied: Because the people of the Book have killed him."
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ زَكَرِيَّا، عَنْ مُطَرِّفٍ، عَنْ بِشْرٍ أَبِي عَبْدِ اللَّهِ، عَنْ بَشِيرِ بْنِ مُسْلِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَرْكَبُ الْبَحْرَ إِلاَّ حَاجٌّ أَوْ مُعْتَمِرٌ أَوْ غَازٍ فِي سَبِيلِ اللَّهِ فَإِنَّ تَحْتَ الْبَحْرِ نَارًا وَتَحْتَ النَّارِ بَحْرًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "The Prophet (ﷺ) said: No one should sail on the sea except the one who is going to perform hajj or umrah, or the one who is fighting in Allah's path for under the sea there is a fire, and under the fire there is a sea."
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْعَتَكِيُّ، حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ زَيْدٍ - عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ حَدَّثَتْنِي أُمُّ حَرَامٍ بِنْتُ مِلْحَانَ، أُخْتُ أُمِّ سُلَيْمٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ عِنْدَهُمْ فَاسْتَيْقَظَ وَهُوَ يَضْحَكُ ‏.‏ قَالَتْ فَقُلْتُ يَا رَسُولَ اللَّهِ مَا أَضْحَكَكَ قَالَ ‏\"‏ رَأَيْتُ قَوْمًا مِمَّنْ يَرْكَبُ ظَهْرَ هَذَا الْبَحْرِ كَالْمُلُوكِ عَلَى الأَسِرَّةِ ‏\"‏ ‏.‏ قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ ‏.‏ قَالَ ‏\"‏ فَإِنَّكِ مِنْهُمْ ‏\"‏ ‏.‏ قَالَتْ ثُمَّ نَامَ فَاسْتَيْقَظَ وَهُوَ يَضْحَكُ ‏.‏ قَالَتْ فَقُلْتُ يَا رَسُولَ اللَّهِ مَا أَضْحَكَكَ فَقَالَ مِثْلَ مَقَالَتِهِ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ ‏.‏ قَالَ ‏\"‏ أَنْتِ مِنَ الأَوَّلِينَ ‏\"‏ ‏.‏ قَالَ فَتَزَوَّجَهَا عُبَادَةُ بْنُ الصَّامِتِ فَغَزَا فِي الْبَحْرِ فَحَمَلَهَا مَعَهُ فَلَمَّا رَجَعَ قُرِّبَتْ لَهَا بَغْلَةٌ لِتَرْكَبَهَا فَصَرَعَتْهَا فَانْدَقَّتْ عُنُقُهَا فَمَاتَتْ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Anas bin Malik (may Allaah be pleased with him) said “Umm Haram, daughter of Milhan, sister of Umm Sulaim, narrated to me that the Apostle of Allaah(ﷺ) took a mid day nap with them. He then awoke laughing. She said “I asked the Apostle of Allaah(ﷺ), what made you laugh?” He replied  “I saw some people who ere sailing in the midst of the sea like kings on thrones. She said “I said the Apostle of Allaah(ﷺ) beseech Allaah that He may put me among them. He replied “You will be among them.” She said “He then slept and awoke laughing. She said “I asked the Apostle of Allaah(ﷺ), what made you laugh? He replied as he said in the first reply. She said “I said the Apostle of Allaah(ﷺ) beseech Allaah that HE may put me amongst them. He replied “You will be among the first. Then ‘Ubadah bin Al Samit married her and sailed on the sea on an expedition and took her with him. When he returned, a riding beast was brought near her to ride, but it threw her down. Her neck was broken and she died."
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّهُ سَمِعَهُ يَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا ذَهَبَ إِلَى قُبَاءٍ يَدْخُلُ عَلَى أُمِّ حَرَامٍ بِنْتِ مِلْحَانَ - وَكَانَتْ تَحْتَ عُبَادَةَ بْنِ الصَّامِتِ - فَدَخَلَ عَلَيْهَا يَوْمًا فَأَطْعَمَتْهُ وَجَلَسَتْ تَفْلِي رَأْسَهُ ‏.‏ وَسَاقَ هَذَا الْحَدِيثَ ‏.‏ قَالَ أَبُو دَاوُدَ وَمَاتَتْ بِنْتُ مِلْحَانَ بِقُبْرُصَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Anas bin Malik said “Whenever the Apostle of Allaah(ﷺ) went to Quba, he used to visit Umm Haram daughter of Milhan who was married to ‘Ubadah bin Al Samit. One day when he visited her she gave him food an sat clearing his head of lice. The narrator narrated the rest of the tradition.\n\n\nAbu Dawud said “Daughter of Milhan died in Cyprus”."
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ مَعِينٍ، حَدَّثَنَا هِشَامُ بْنُ يُوسُفَ، عَنْ مَعْمَرٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أُخْتِ أُمِّ سُلَيْمٍ الرُّمَيْصَاءِ، قَالَتْ نَامَ النَّبِيُّ صلى الله عليه وسلم فَاسْتَيْقَظَ وَكَانَتْ تَغْسِلُ رَأْسَهَا فَاسْتَيْقَظَ وَهُوَ يَضْحَكُ فَقَالَتْ يَا رَسُولَ اللَّهِ أَتَضْحَكُ مِنْ رَأْسِي قَالَ ‏\n\"‏ لاَ ‏\"‏ ‏.‏ وَسَاقَ هَذَا الْخَبَرَ يَزِيدُ وَيَنْقُصُ ‏.‏",
+      "english": {
+        "narrator": "Umm Sulaim Al Rumaisa said “The Prophet(ﷺ) slept and awoke while she was washing her head.” He awoke laughing. She asked “Apostle of Allaah(ﷺ) are you laughing at my head?” He replied, No. She then narrated the rest of the tradition enlarging and reducing.\n\n\nAbu Dawud said:",
+        "text": "Al-Rumaisa was the foster sister of Umm Sulaim."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَكَّارٍ الْعَيْشِيُّ، حَدَّثَنَا مَرْوَانُ، ح حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ عَبْدِ الرَّحِيمِ الْجَوْبَرِيُّ الدِّمَشْقِيُّ، - الْمَعْنَى - قَالَ حَدَّثَنَا مَرْوَانُ، أَخْبَرَنَا هِلاَلُ بْنُ مَيْمُونٍ الرَّمْلِيُّ، عَنْ يَعْلَى بْنِ شَدَّادٍ، عَنْ أُمِّ حَرَامٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ الْمَائِدُ فِي الْبَحْرِ الَّذِي يُصِيبُهُ الْقَىْءُ لَهُ أَجْرُ شَهِيدٍ وَالْغَرِقُ لَهُ أَجْرُ شَهِيدَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Umm Haram reported the Prophet(ﷺ) as saying “He who becomes sick on a stormy sea and vomits will have the reward of a martyr. And he who is drowned will have a reward of two martyrs."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ عَتِيقٍ، حَدَّثَنَا أَبُو مُسْهِرٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، - يَعْنِي ابْنَ سَمَاعَةَ - حَدَّثَنَا الأَوْزَاعِيُّ، حَدَّثَنِي سُلَيْمَانُ بْنُ حَبِيبٍ، عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ ثَلاَثَةٌ كُلُّهُمْ ضَامِنٌ عَلَى اللَّهِ عَزَّ وَجَلَّ رَجُلٌ خَرَجَ غَازِيًا فِي سَبِيلِ اللَّهِ فَهُوَ ضَامِنٌ عَلَى اللَّهِ حَتَّى يَتَوَفَّاهُ فَيُدْخِلَهُ الْجَنَّةَ أَوْ يَرُدَّهُ بِمَا نَالَ مِنْ أَجْرٍ وَغَنِيمَةٍ وَرَجُلٌ رَاحَ إِلَى الْمَسْجِدِ فَهُوَ ضَامِنٌ عَلَى اللَّهِ حَتَّى يَتَوَفَّاهُ فَيُدْخِلَهُ الْجَنَّةَ أَوْ يَرُدَّهُ بِمَا نَالَ مِنْ أَجْرٍ وَغَنِيمَةٍ وَرَجُلٌ دَخَلَ بَيْتَهُ بِسَلاَمٍ فَهُوَ ضَامِنٌ عَلَى اللَّهِ عَزَّ وَجَلَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Umamat Al Bahili reported the Apostle of Allaah(ﷺ) as saying “There are three persons who are in the security of Allaah, the Exalted.” “A man who goes out on an expedition to fight in the path of Allaah, the Exalted, is in the security of Allaah, until He takes him unto Him(i.e., he dies) and brings him into Paradise or brings him(alive) with reward and booty he obtains and a man who goes to the mosque is in the security of Allaah, until he takes him unto Him(i.e., he dies), and he brings him into Paradise or brings him with reward and spoils he obtains; and a man who enters his house after giving salutation is in the security of Allaah, the Exalted.”"
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ الْبَزَّازُ، حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنِي ابْنَ جَعْفَرٍ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَجْتَمِعُ فِي النَّارِ كَافِرٌ وَقَاتِلُهُ أَبَدًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurairah reported the Apostle of Allaah(ﷺ) as saying “An infidel and the one who killed him will never be brought together in Hell.”"
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا سُفْيَانُ، عَنْ قَعْنَبٍ، عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ حُرْمَةُ نِسَاءِ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ كَحُرْمَةِ أُمَّهَاتِهِمْ وَمَا مِنْ رَجُلٍ مِنَ الْقَاعِدِينَ يَخْلُفُ رَجُلاً مِنَ الْمُجَاهِدِينَ فِي أَهْلِهِ إِلاَّ نُصِبَ لَهُ يَوْمَ الْقِيَامَةِ فَقِيلَ لَهُ هَذَا قَدْ خَلَفَكَ فِي أَهْلِكَ فَخُذْ مِنْ حَسَنَاتِهِ مَا شِئْتَ ‏\"‏ ‏.‏ فَالْتَفَتَ إِلَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ مَا ظَنُّكُمْ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ كَانَ قَعْنَبٌ رَجُلاً صَالِحًا وَكَانَ ابْنُ أَبِي لَيْلَى أَرَادَ قَعْنَبًا عَلَى الْقَضَاءِ فَأَبَى عَلَيْهِ وَقَالَ أَنَا أُرِيدُ الْحَاجَةَ بِدِرْهَمٍ فَأَسْتَعِينُ عَلَيْهَا بِرَجُلٍ ‏.‏ قَالَ وَأَيُّنَا لاَ يَسْتَعِينُ فِي حَاجَتِهِ قَالَ أَخْرِجُونِي حَتَّى أَنْظُرَ فَأُخْرِجَ فَتَوَارَى ‏.‏ قَالَ سُفْيَانُ بَيْنَمَا هُوَ مُتَوَارٍ إِذْ وَقَعَ عَلَيْهِ الْبَيْتُ فَمَاتَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Buraidah reported the Apostle of Allaah(ﷺ) as saying “Respect to be shown by those who stay at home to the women of those who are engaged in jihad is t be like that shown to their mothers. If any man among those who stay at home is entrusted with the oversight of one’s family who is engaged in jihad and betrays him, he will be setup for him on the Day of Resurrection and he (the mujahid) will be told “This (man) was entrusted with the oversight of your family, so take what you want from his good deeds. The Apostle of Allaah(ﷺ) turned towards us and said “So what do you think.”\n\n\nAbu Dawud said “Qa’nab (a narrator of this tradition) was a pious man. Ibn Abi Laila intended to appoint him a judge, but he refused and said “If I intend to fulfill my need of a dirham, I seek the help of a person for it. He said “Which of us does not seek the help in his need? He said “Bring me out so that I may see. So he was brought out, and he concealed himself. Sufyan said “While he was concealing himself.” Sufyan said “While he was concealing himself the house suddenly fell on him and he died.”"
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنَا حَيْوَةُ، وَابْنُ، لَهِيعَةَ قَالاَ حَدَّثَنَا أَبُو هَانِئٍ الْخَوْلاَنِيُّ، أَنَّهُ سَمِعَ أَبَا عَبْدِ الرَّحْمَنِ الْحُبُلِيَّ، يَقُولُ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عَمْرٍو، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَا مِنْ غَازِيَةٍ تَغْزُو فِي سَبِيلِ اللَّهِ فَيُصِيبُونَ غَنِيمَةً إِلاَّ تَعَجَّلُوا ثُلُثَىْ أَجْرِهِمْ مِنَ الآخِرَةِ وَيَبْقَى لَهُمُ الثُّلُثُ فَإِنْ لَمْ يُصِيبُوا غَنِيمَةً تَمَّ لَهُمْ أَجْرُهُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "‘Abd Allah bin Amr reported the Apostle of Allaah(ﷺ) as saying “No warlike party will go out to fight in Allaah’s path and gain booty without getting beforehand two-thirds of their rewards in the next world and one-third (of their reward) will remain. And if they do not gain booty, they will get their rewards in full."
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يَحْيَى بْنِ أَيُّوبَ، وَسَعِيدِ بْنِ أَبِي أَيُّوبَ، عَنْ زَبَّانَ بْنِ فَائِدٍ، عَنْ سَهْلِ بْنِ مُعَاذٍ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ الصَّلاَةَ وَالصِّيَامَ وَالذِّكْرَ تُضَاعَفُ عَلَى النَّفَقَةِ فِي سَبِيلِ اللَّهِ بِسَبْعِمِائَةِ ضِعْفٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Mu'adh ibn Anas al-Juhani:",
+        "text": "The Messenger of Allah (ﷺ) said: (The reward of) prayer, fasting and remembrance of Allah is enhanced seven hundred times over (the reward of) spending in Allah's path."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ نَجْدَةَ، حَدَّثَنَا بَقِيَّةُ بْنُ الْوَلِيدِ، عَنِ ابْنِ ثَوْبَانَ، عَنْ أَبِيهِ، يَرُدُّ إِلَى مَكْحُولٍ إِلَى عَبْدِ الرَّحْمَنِ بْنِ غُنْمٍ الأَشْعَرِيِّ أَنَّ أَبَا مَالِكٍ الأَشْعَرِيَّ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ فَصَلَ فِي سَبِيلِ اللَّهِ فَمَاتَ أَوْ قُتِلَ فَهُوَ شَهِيدٌ أَوْ وَقَصَهُ فَرَسُهُ أَوْ بَعِيرُهُ أَوْ لَدَغَتْهُ هَامَّةٌ أَوْ مَاتَ عَلَى فِرَاشِهِ أَوْ بِأَىِّ حَتْفٍ شَاءَ اللَّهُ فَإِنَّهُ شَهِيدٌ وَإِنَّ لَهُ الْجَنَّةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuMalik al-Ash'ari:",
+        "text": "AbuMalik heard the Messenger of Allah (ﷺ) say: He who goes forth in Allah's path and dies or is killed is a martyr, or has his neck broken through being thrown by his horse or by his camel, or is stung by a poisonous creature, or dies on his bed by any kind of death Allah wishes is a martyr and will go to Paradise."
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 260,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن سعد بن أبي وقاص رضي الله عنه قال‏:‏ كنا مع النبي صلى الله عليه وسلم ستة نفر، فقال المشركون للنبي صلى الله عليه وسلم‏:‏ اطرد هؤلاء لايجترئون علينا، وكنت أنا وابن مسعود ورجلان لست أسميهما، فوقع في نفس رسول الله صلى الله عليه وسلم ما شاء الله أن يقع، فحدث نفسه، فأنزل الله تعالى‏:‏ ‏{‏ولا تطرد الذين يدعون ربهم بالغداة والعشي يريدون وجهه‏}‏ ‏(‏‏(‏الأنعام‏:‏ 52‏:‏ رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Sa'd bin Abu Waqqas (May Allah be pleased with him) reported:",
+    "text": "Six of us were with the Prophet (ﷺ) when the infidels said to him: \"Drive these ones away, lest they should begin to venture against us\". The six were, myself, Ibn Mas'ud, a man of the Hudhail tribe, Bilal and two other men whose names I don't know. Messenger of Allah (ﷺ) thought what Allah wished him to think, and Allah revealed: \"And turn not away those who invoke their Rubb, morning and afternoon seeking His Face.\" (6:52)."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي بكرة نفيع بن الحارث الثقفى رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إذ التقى المسلمان بسيفيهما فالقاتل والمقتول في  النار‏\"‏ قلت يارسول الله، هذا القاتل فما بال المقتول‏؟‏ قال‏:‏ ‏\"‏إنه كان حريصاً على قتل صاحبه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Bakrah Ath-Thaqafi (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said: \"When two Muslims are engaged in a combat against each other with their sword's and one is killed, both are doomed to Hell\". I said, \"O Messenger of Allah! As to the one who kills, it is understandable, but why the slain one?\" He (ﷺ) replied: \"He was eager to kill his opponent\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

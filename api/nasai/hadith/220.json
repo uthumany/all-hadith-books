@@ -1,0 +1,16 @@
+{
+  "id": 220,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، قَالَ كَانَ ابْنُ شُبْرُمَةَ لاَ يَشْرَبُ إِلاَّ الْمَاءَ وَاللَّبَنَ ‏.‏",
+  "english": {
+    "narrator": "Jarir said:",
+    "text": "\"Ibn Shubrumah would not drink anything except water and milk.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

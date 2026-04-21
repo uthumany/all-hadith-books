@@ -1,0 +1,16 @@
+{
+  "id": 570,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا ابْنُ مُعَاذٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، قَالَ سَمِعْتُ يَحْيَى، قَالَ سَمِعْتُ الْقَاسِمَ، يَقُولُ أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ، أَنَّهُ سَمِعَ عَبْدَ اللَّهِ بْنَ عُمَرَ، يَقُولُ مِنْ سُنَّةِ الصَّلاَةِ أَنْ تُضْجِعَ رِجْلَكَ الْيُسْرَى وَتَنْصِبَ الْيُمْنَى ‏.‏",
+  "english": {
+    "narrator": "(There is another chain) reported from Yahya who said:",
+    "text": "\"I heard Al-Qasim saying: \"Abdullah bin 'Abdullah informed me that he heard 'Abdullah bin 'Umar saying: \"From the Sunnah of the prayer is to lay your left foot on the ground, and raise your right foot.\""
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

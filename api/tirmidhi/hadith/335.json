@@ -1,0 +1,16 @@
+{
+  "id": 335,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَتَاكُمْ أَهْلُ الْيَمَنِ هُمْ أَضْعَفُ قُلُوبًا وَأَرَقُّ أَفْئِدَةً الإِيمَانُ يَمَانٍ وَالْحِكْمَةُ يَمَانِيَةٌ ‏\"‏ ‏.‏ وَفِي الْبَابِ عَنِ ابْنِ عَبَّاسٍ وَأَبِي مَسْعُودٍ ‏.‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Hurairah:",
+    "text": "that the Messenger of Allah (ﷺ) said: \"The people of Yemen have come to you. They are weaker in heart and softer in understanding, faith is Yemeni and wisdom is Yemeni.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

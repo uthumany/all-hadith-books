@@ -1,0 +1,16 @@
+{
+  "id": 233,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، عَنْ أَبِي خَلْدَةَ، قَالَ قُلْتُ لأَبِي الْعَالِيَةِ سَمِعَ أَنَسٌ، مِنَ النَّبِيِّ صلى الله عليه وسلم قَالَ خَدَمَهُ عَشْرَ سِنِينَ وَدَعَا لَهُ النَّبِيُّ صلى الله عليه وسلم وَكَانَ لَهُ بُسْتَانٌ يَحْمِلُ فِي السَّنَةِ الْفَاكِهَةَ مَرَّتَيْنِ وَكَانَ فِيهَا رَيْحَانٌ يَجِدُ مِنْهُ رِيحَ الْمِسْكِ ‏.‏ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَأَبُو خَلْدَةَ اسْمُهُ خَالِدُ بْنُ دِينَارٍ وَهُوَ ثِقَةٌ عِنْدَ أَهْلِ الْحَدِيثِ وَقَدْ أَدْرَكَ أَنَسَ بْنَ مَالِكٍ وَرَوَى عَنْهُ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Khaldah:",
+    "text": "\"I said to Abu Al-'Aliyah: '(Did) Anas heard from the Prophet (ﷺ)?' He said: 'He served him for ten years, and the Prophet (ﷺ) supplicated for him, and he used to have a garden that would bear fruit twice in the year, and there used to be sweet basil in it, from which could be found the smell of musk.'\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

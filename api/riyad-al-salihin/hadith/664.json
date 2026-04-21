@@ -1,0 +1,16 @@
+{
+  "id": 664,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول “من خلع يداً من طاعة لقي الله يوم القيامة ولا حجة له، ومن مات وليس في عنقه بيعة مات ميتة جاهلية” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ \n\nوفي رواية له‏:‏ “ومن مات وهو مفارق للجماعة، فإنه يموت ميتة جاهلية” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏\n\nوفي رواية له‏:‏ “ومن مات وهو مفارق للجماعة، فإنه يموت ميتة جاهلية”‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar (May Allah be pleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"One who withdraws his hand from obedience (to the Amir) will find no argument (in his defense) when he stands before Allah on the Day of Resurrection; and one who dies without having sworn allegiance will die the death of one belonging to the Days of Ignorance.\".Another narration is: The Messenger of Allah (ﷺ) said, \"He who dies having defected from obedience (to the Amir) and discards his association with the main body of the (Muslim) community, dies the death of one belonging to the Days of Jahiliyyah.\""
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

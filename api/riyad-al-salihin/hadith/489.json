@@ -1,0 +1,16 @@
+{
+  "id": 489,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة، رضي الله عنه، عن النبي صلى الله عليه وسلم، قال‏:‏ ‏\n\"‏أصدق كلمة قالها شاعر كلمة لبيد‏:‏ ألا كل شئ ما خلا الله باطل‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"The most truthful statement a poet has ever made is the saying of Labid: Everything besides Allah is vain.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

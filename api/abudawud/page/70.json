@@ -1,0 +1,510 @@
+{
+  "page": 70,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 71,
+  "prevPage": 69,
+  "items": [
+    {
+      "id": 35,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ، أَنَّ سُلَيْمَانَ بْنَ بِلاَلٍ، حَدَّثَهُمْ حَدَّثَنِي الْعَلاَءُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلاً، جَاءَ فَقَالَ يَا رَسُولَ اللَّهِ سَعِّرْ ‏.‏ فَقَالَ ‏\"‏ بَلْ أَدْعُو ‏\"‏ ‏.‏ ثُمَّ جَاءَهُ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ سَعِّرْ فَقَالَ ‏\"‏ بَلِ اللَّهُ يَخْفِضُ وَيَرْفَعُ وَإِنِّي لأَرْجُو أَنْ أَلْقَى اللَّهَ وَلَيْسَ لأَحَدٍ عِنْدِي مَظْلَمَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "A man came and said: Messenger of Allah, fix prices. He said: (No), but I shall pray. Again the man came and said: Messenger of Allah, fix prices. He said: It is but Allah Who makes the prices low and high. I hope that when I meet Allah, none of you has any claim on me for doing wrong regarding blood or property."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، أَخْبَرَنَا ثَابِتٌ، عَنْ أَنَسٍ، وَقَتَادَةُ، وَحُمَيْدٌ، عَنْ أَنَسٍ، قَالَ قَالَ النَّاسُ يَا رَسُولَ اللَّهِ غَلاَ السِّعْرُ فَسَعِّرْ لَنَا ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ اللَّهَ هُوَ الْمُسَعِّرُ الْقَابِضُ الْبَاسِطُ الرَّازِقُ وَإِنِّي لأَرْجُو أَنْ أَلْقَى اللَّهَ وَلَيْسَ أَحَدٌ مِنْكُمْ يُطَالِبُنِي بِمَظْلَمَةٍ فِي دَمٍ وَلاَ مَالٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "The people said: Messenger of Allah , prices have shot up, so fix prices for us. Thereupon the Messenger of Allah (ﷺ) said: Allah is the one Who fixes prices, Who withholds, gives lavishly and provides, and I hope that when I meet Allah, none of you will have any claim on me for an injustice regarding blood or property."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَرَّ بِرَجُلٍ يَبِيعُ طَعَامًا فَسَأَلَهُ ‏\"‏ كَيْفَ تَبِيعُ ‏\"‏ ‏.‏ فَأَخْبَرَهُ فَأُوحِيَ إِلَيْهِ أَنْ أَدْخِلْ يَدَكَ فِيهِ فَأَدْخَلَ يَدَهُ فِيهِ فَإِذَا هُوَ مَبْلُولٌ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لَيْسَ مِنَّا مَنْ غَشَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "The Messenger of Allah (ﷺ) passed a man who was selling grain. He asked him: How are you selling? He informed him. Revelation them came down to him saying: \"Put your hand into it.\" So he put his hand into it, and felt that it was damp. The Messenger of Allah (ﷺ) then said: \"He who deceives has nothing to do with us.\""
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ الصَّبَّاحِ، عَنْ عَلِيٍّ، عَنْ يَحْيَى، قَالَ كَانَ سُفْيَانُ يَكْرَهُ هَذَا التَّفْسِيرَ لَيْسَ مِنَّا لَيْسَ مِثْلَنَا ‏.‏",
+      "english": {
+        "narrator": "Yahya said:",
+        "text": "Sufyan disapproved of the interpretation of the phrase \"has nothing to do with us\" as \"not like us\"."
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْمُتَبَايِعَانِ كُلُّ وَاحِدٍ مِنْهُمَا بِالْخِيَارِ عَلَى صَاحِبِهِ مَا لَمْ يَفْتَرِقَا إِلاَّ بَيْعَ الْخِيَارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Abdullah bin 'Umar:",
+        "text": "The Messenger of Allah (ﷺ) as saying: Each one of the two parties in a business has an option (to annul it) against the other party so long as they have not separated, except in a conditional bargain."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمَعْنَاهُ قَالَ ‏\n\"‏ أَوْ يَقُولُ أَحَدُهُمَا لِصَاحِبِهِ اخْتَرْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "The tradition mentioned above has also been transmitted by Ibn 'Umar from the Prophet (ﷺ) to the same effect through a different chain of narrators. This version adds:",
+        "text": "\"Or one of them tells the other: \"Exercise the right.\""
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْمُتَبَايِعَانِ بِالْخِيَارِ مَا لَمْ يَفْتَرِقَا إِلاَّ أَنْ تَكُونَ صَفْقَةَ خِيَارٍ وَلاَ يَحِلُّ لَهُ أَنْ يُفَارِقَ صَاحِبَهُ خَشْيَةَ أَنْ يَسْتَقِيلَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "The Prophet (ﷺ) said: Both parties in a business transaction have a right to annul it so long as they have not separated unless it is a bargain with the option to annul is attached to it; and it is not permissible for one of them to separate from the other for fear that one may demand that the bargain be rescinded."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادٌ، عَنْ جَمِيلِ بْنِ مُرَّةَ، عَنْ أَبِي الْوَضِيءِ، قَالَ غَزَوْنَا غَزْوَةً لَنَا فَنَزَلْنَا مَنْزِلاً فَبَاعَ صَاحِبٌ لَنَا فَرَسًا بِغُلاَمٍ ثُمَّ أَقَامَا بَقِيَّةَ يَوْمِهِمَا وَلَيْلَتِهِمَا فَلَمَّا أَصْبَحَا مِنَ الْغَدِ حَضَرَ الرَّحِيلُ فَقَامَ إِلَى فَرَسِهِ يُسْرِجُهُ فَنَدِمَ فَأَتَى الرَّجُلَ وَأَخَذَهُ بِالْبَيْعِ فَأَبَى الرَّجُلُ أَنْ يَدْفَعَهُ إِلَيْهِ فَقَالَ بَيْنِي وَبَيْنَكَ أَبُو بَرْزَةَ صَاحِبُ النَّبِيِّ صلى الله عليه وسلم فَأَتَيَا أَبَا بَرْزَةَ فِي نَاحِيَةِ الْعَسْكَرِ فَقَالاَ لَهُ هَذِهِ الْقِصَّةَ ‏.‏ فَقَالَ أَتَرْضَيَانِ أَنْ أَقْضِيَ بَيْنَكُمَا بِقَضَاءِ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا ‏\"‏ ‏.‏ قَالَ هِشَامُ بْنُ حَسَّانَ حَدَّثَ جَمِيلٌ أَنَّهُ قَالَ مَا أُرَاكُمَا افْتَرَقْتُمَا ‏.‏",
+      "english": {
+        "narrator": "Narrated AbulWadi':",
+        "text": "We fought one of our battle, and encamped at a certain place. One of our companions sold a horse for a slave. After that they remained there for the rest of day and night. When the next morning came, they prepared themselves for departure. The buyer of the horse began to saddle it, but the seller was ashamed (of the transaction). He went to the man (buyer) and asked him to annul the transaction. The man refused to hand it over (the horse) to him.  \n\n\n\n\n\nHe said: AbuBarzah, the companion of the Prophet (ﷺ), is to decide between me and you. They went to AbuBarzah in the corner of the army. They related this story to him.  \n\n\n\n\n\nHe said: Do you agree that I make a decision between you on the basis of the decision of the Messenger of Allah (ﷺ)?  \n\n\n\n\n\nThe Messenger of Allah (ﷺ) said: Both parties in a business transaction have an option (right) to annul it so long as they have not separated.  \n\n\n\n\n\nHisham to Hassan said that Jamil said in his version: \"I do not think that you separated.\""
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمٍ الْجَرْجَرَائِيُّ، قَالَ مَرْوَانُ الْفَزَارِيُّ أَخْبَرَنَا عَنْ يَحْيَى بْنِ أَيُّوبَ، قَالَ كَانَ أَبُو زُرْعَةَ إِذَا بَايَعَ رَجُلاً خَيَّرَهُ قَالَ ثُمَّ يَقُولُ خَيِّرْنِي وَيَقُولُ سَمِعْتُ أَبَا هُرَيْرَةَ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَفْتَرِقَنَّ اثْنَانِ إِلاَّ عَنْ تَرَاضٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Yahya b. Ayyub:",
+        "text": "When Abu Zur'ah made a business transaction with a man, he gave him the right of option. He then would tell him: Give me the right of option (to annul the bargain). He said: I heard AbuHurayrah say: The Messenger of Allah (ﷺ) said: Two people must separate only by mutual consent."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَبِي الْخَلِيلِ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، عَنْ حَكِيمِ بْنِ حِزَامٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَفْتَرِقَا فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتِ الْبَرَكَةُ مِنْ بَيْعِهِمَا ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ رَوَاهُ سَعِيدُ بْنُ أَبِي عَرُوبَةَ وَحَمَّادٌ وَأَمَّا هَمَّامٌ فَقَالَ ‏\"‏ حَتَّى يَتَفَرَّقَا أَوْ يَخْتَارَ ‏\"‏ ‏.‏ ثَلاَثَ مِرَارٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Hakim b. Hizam:",
+        "text": "The Messenger of Allah (ﷺ) as saying: Both parties in a business transaction have a right of option (to annul it) so long as they are not separated ; and if they tell the truth and make everything clear, they will be blessed in their transaction, but it they conceal anything and lie, the blessing on their transaction will be blotted out.\n\n\nAbu Dawud said: A similar tradition has also been transmitted by Sa'id b. Abi 'Arubah and Hammad. As regards with Hammam, he said in his version: Until they separate or exercise the right of option (to annul the transaction), saying the words of option three times."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ مَعِينٍ، حَدَّثَنَا حَفْصٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَقَالَ مُسْلِمًا أَقَالَهُ اللَّهُ عَثْرَتَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: If anyone rescinds a sale with a Muslim, Allah will cancel his slip, on the Day of Resurrection."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، عَنْ يَحْيَى بْنِ زَكَرِيَّا، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ مَنْ بَاعَ بَيْعَتَيْنِ فِي بَيْعَةٍ فَلَهُ أَوْكَسُهُمَا أَوِ الرِّبَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: If anyone makes two transactions combined in one bargain, he should have the lesser of the two or it will involve usury."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي حَيْوَةُ بْنُ شُرَيْحٍ، ح وَحَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ التِّنِّيسِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَحْيَى الْبُرُلُّسِيُّ، حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ، عَنْ إِسْحَاقَ أَبِي عَبْدِ الرَّحْمَنِ، - قَالَ سُلَيْمَانُ عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْخُرَاسَانِيِّ، - أَنَّ عَطَاءً الْخُرَاسَانِيَّ، حَدَّثَهُ أَنَّ نَافِعًا حَدَّثَهُ عَنِ ابْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِذَا تَبَايَعْتُمْ بِالْعِينَةِ وَأَخَذْتُمْ أَذْنَابَ الْبَقَرِ وَرَضِيتُمْ بِالزَّرْعِ وَتَرَكْتُمُ الْجِهَادَ سَلَّطَ اللَّهُ عَلَيْكُمْ ذُلاًّ لاَ يَنْزِعُهُ حَتَّى تَرْجِعُوا إِلَى دِينِكُمْ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ الإِخْبَارُ لِجَعْفَرٍ وَهَذَا لَفْظُهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "I heard the Messenger of Allah, (ﷺ) say: When you enter into the inah transaction, hold the tails of oxen, are pleased with agriculture, and give up conducting jihad (struggle in the way of Allah). Allah will make disgrace prevail over you, and will not withdraw it until you return to your original religion."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ عَبْدِ اللَّهِ بْنِ كَثِيرٍ، عَنْ أَبِي الْمِنْهَالِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَهُمْ يُسْلِفُونَ فِي التَّمْرِ السَّنَةَ وَالسَّنَتَيْنِ وَالثَّلاَثَةَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَسْلَفَ فِي تَمْرٍ فَلْيُسْلِفْ فِي كَيْلٍ مَعْلُومٍ وَوَزْنٍ مَعْلُومٍ إِلَى أَجَلٍ مَعْلُومٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "When the Messenger of Allah (ﷺ) came to Medina, they were paying one, two and three years in advance for fruits, so he said: Those who pay in advance for anything, must do for a specified measure and weight with a specified time fixed."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنَا ابْنُ كَثِيرٍ، أَخْبَرَنَا شُعْبَةُ، أَخْبَرَنِي مُحَمَّدٌ، أَوْ عَبْدُ اللَّهِ بْنُ مُجَالِدٍ قَالَ اخْتَلَفَ عَبْدُ اللَّهِ بْنُ شَدَّادٍ وَأَبُو بُرْدَةَ فِي السَّلَفِ فَبَعَثُونِي إِلَى ابْنِ أَبِي أَوْفَى فَسَأَلْتُهُ فَقَالَ إِنْ كُنَّا نُسْلِفُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَبِي بَكْرٍ وَعُمَرَ فِي الْحِنْطَةِ وَالشَّعِيرِ وَالتَّمْرِ وَالزَّبِيبِ - زَادَ ابْنُ كَثِيرٍ - إِلَى قَوْمٍ مَا هُوَ عِنْدَهُمْ ‏.‏ ثُمَّ اتَّفَقَا وَسَأَلْتُ ابْنَ أَبْزَى فَقَالَ مِثْلَ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "Muhammad or 'Abd Allah b. Mujahid said:",
+        "text": "'Abd Allah b. Shaddad and Abu Burdah disputed over salaf (payment in advance). They sent me to Ibn Abi Awfa and I asked him (about it) and he replied: We used to pay in advance (salaf) during the time of the Messenger of Allah (ﷺ), Abu Bakr and 'Umar in wheat, barley, dates and raisins. Ibn Kathir added: \"to those people who did not possess these things.\" The agreed version then goes: I then asked Ibn Abza who gave a similar reply."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى، وَابْنُ، مَهْدِيٍّ قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي الْمُجَالِدِ، وَقَالَ عَبْدُ الرَّحْمَنِ، عَنِ ابْنِ أَبِي الْمُجَالِدِ، بِهَذَا الْحَدِيثِ قَالَ عِنْدَ قَوْمٍ مَا هُوَ عِنْدَهُمْ ‏.‏ قَالَ أَبُو دَاوُدَ الصَّوَابُ ابْنُ أَبِي الْمُجَالِدِ وَشُعْبَةُ أَخْطَأَ فِيهِ ‏.‏",
+      "english": {
+        "narrator": "The tradition mentioned above has also been transmitted by Ibn Abi al-Mujahid through a different chain of narrators. This version has:",
+        "text": "\"to those people who did not possess these things.\"\n\n\nAbu Dawud said: What is correct is Ibn Abi al-Mujahid. Shu'bah made a mistake in it."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى، حَدَّثَنَا أَبُو الْمُغِيرَةِ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ أَبِي غَنِيَّةَ، حَدَّثَنِي أَبُو إِسْحَاقَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى الأَسْلَمِيِّ، قَالَ غَزَوْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم الشَّامَ فَكَانَ يَأْتِينَا أَنْبَاطٌ مِنْ أَنْبَاطِ الشَّامِ فَنُسْلِفُهُمْ فِي الْبُرِّ وَالزَّيْتِ سِعْرًا مَعْلُومًا وَأَجَلاً مَعْلُومًا فَقِيلَ لَهُ مِمَّنْ لَهُ ذَلِكَ قَالَ مَا كُنَّا نَسْأَلُهُمْ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn AbuAwfa ibn AbuAwfa al-Aslami:",
+        "text": "We made a journey to Syria on an expedition along with the Messenger of Allah (ﷺ). The Nabateans of Syria came to us and we paid in advance to them (in a salam contract) in wheat and olive oil at a specified rate and for a specified time. He asked (by the people): you might have contracted with him who had these things in his possession? He replied: We did not ask them."
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ رَجُلٍ، نَجْرَانِيٍّ عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، أَسْلَفَ رَجُلاً فِي نَخْلٍ فَلَمْ تُخْرِجْ تِلْكَ السَّنَةَ شَيْئًا فَاخْتَصَمَا إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\"‏ بِمَ تَسْتَحِلُّ مَالَهُ ارْدُدْ عَلَيْهِ مَالَهُ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ لاَ تُسْلِفُوا فِي النَّخْلِ حَتَّى يَبْدُوَ صَلاَحُهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "A man paid in advance for a palm-tree. It did not bear fruit that year. They brought their case for decision to the Prophet (ﷺ). He said: for which do you make his property lawful? He then said: Do not pay in advance for a palm-tree till they (the fruits) were clearly in good condition."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا أَبُو بَدْرٍ، عَنْ زِيَادِ بْنِ خَيْثَمَةَ، عَنْ سَعْدٍ، - يَعْنِي الطَّائِيَّ - عَنْ عَطِيَّةَ بْنِ سَعْدٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَسْلَفَ فِي شَىْءٍ فَلاَ يَصْرِفْهُ إِلَى غَيْرِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuSa'id al-Khudri:",
+        "text": "The Prophet (ﷺ) said: If anyone pays in advance he must not transfer it to someone else before he receives it."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ بُكَيْرٍ، عَنْ عِيَاضِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ قَالَ أُصِيبَ رَجُلٌ فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي ثِمَارٍ ابْتَاعَهَا فَكَثُرَ دَيْنُهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ تَصَدَّقُوا عَلَيْهِ ‏\"‏ ‏.‏ فَتَصَدَّقَ النَّاسُ عَلَيْهِ فَلَمْ يَبْلُغْ ذَلِكَ وَفَاءَ دَيْنِهِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ خُذُوا مَا وَجَدْتُمْ وَلَيْسَ لَكُمْ إِلاَّ ذَلِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa’id Al Khudri :",
+        "text": "In the time of the Messenger of Allah (ﷺ) a man suffered loss affecting fruits he had bought and owed a large debt, so the Messenger of Allah (ﷺ) said: Give him sadaqah (alms). So the people gave him sadaqah (alms), but as that was not enough to pay the debt in full, the Messenger of Allah (ﷺ) said: Take what you find. But that is all you may have."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، وَأَحْمَدُ بْنُ سَعِيدٍ الْهَمْدَانِيُّ، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي ابْنُ جُرَيْجٍ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، - الْمَعْنَى - أَنَّ أَبَا الزُّبَيْرِ الْمَكِّيَّ، أَخْبَرَهُ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنْ بِعْتَ مِنْ أَخِيكَ تَمْرًا فَأَصَابَتْهَا جَائِحَةٌ فَلاَ يَحِلُّ لَكَ أَنْ تَأْخُذَ مِنْهُ شَيْئًا بِمَ تَأْخُذُ مَالَ أَخِيكَ بِغَيْرِ حَقٍّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir bin ‘Abdullah :",
+        "text": "The Messenger of Allah (ﷺ) as saying: If you were to sell dried dates to your brother and they were smitten by blight, it will not be allowable for you to take your brother's property unjustly."
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عُثْمَانُ بْنُ الْحَكَمِ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، قَالَ الْجَوَائِحُ كُلُّ ظَاهِرٍ مُفْسِدٍ مِنْ مَطَرٍ أَوْ بَرْدٍ أَوْ جَرَادٍ أَوْ رِيحٍ أَوْ حَرِيقٍ ‏.‏",
+      "english": {
+        "narrator": "'Ata said:",
+        "text": "Blight means anything which obviously damages (the crop), by rain, hail, locust, blast of wind, or fire."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عُثْمَانُ بْنُ الْحَكَمِ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّهُ قَالَ لاَ جَائِحَةَ فِيمَا أُصِيبَ دُونَ ثُلُثِ رَأْسِ الْمَالِ - قَالَ يَحْيَى - وَذَلِكَ فِي سُنَّةِ الْمُسْلِمِينَ ‏.‏",
+      "english": {
+        "narrator": "Yahya b. Sa'id said:",
+        "text": "Blight is not effective when less than one-third of goods are damaged. Yayha said: That has been the established practice of Muslims."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يُمْنَعُ فَضْلُ الْمَاءِ لِيُمْنَعَ بِهِ الْكَلأُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "The Messenger of Allah (ﷺ) as saying: Excess water should not be withheld so as to prevent (cattle) by it from grass."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ ثَلاَثَةٌ لاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ رَجُلٌ مَنَعَ ابْنَ السَّبِيلِ فَضْلَ مَاءٍ عِنْدَهُ وَرَجُلٌ حَلَفَ عَلَى سِلْعَةٍ بَعْدَ الْعَصْرِ - يَعْنِي كَاذِبًا - وَرَجُلٌ بَايَعَ إِمَامًا فَإِنْ أَعْطَاهُ وَفَى لَهُ وَإِنْ لَمْ يُعْطِهِ لَمْ يَفِ لَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "The Messenger of Allah (ﷺ) as saying: There are three people who Allah will not address on the Day of Judgement: a man who prevents traveller from the excess water which he has with him; and a man who swears for the goods (for sale) after the afternoon prayer, that is, (he swears) falsely; and a man who takes the oath of allegiance to a ruler (imam); if he gives him (something), he fullfils (the oath of allegiance) to him, if he does not give him (anything), he does not fulfill it."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، بِإِسْنَادِهِ وَمَعْنَاهُ قَالَ ‏\"‏ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ ‏\"‏ ‏.‏ وَقَالَ فِي السِّلْعَةِ ‏\"‏ بِاللَّهِ لَقَدْ أُعْطِيَ بِهَا كَذَا وَكَذَا فَصَدَّقَهُ الآخَرُ فَأَخَذَهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "The tradition mentioned above has also been related by al-'Amash to the same effect through a different chain of narrators. This version adds:",
+        "text": "\"He used: 'Not purify them ; grievously will be their penalty.'\"\n\n\nHe said about (selling) the goods: I swear by Allah, I was given (the price) so and so for it. The other man considered it to be correct and bought it."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا كَهْمَسٌ، عَنْ سَيَّارِ بْنِ مَنْظُورٍ، - رَجُلٍ مِنْ بَنِي فَزَارَةَ - عَنْ أَبِيهِ، عَنِ امْرَأَةٍ، يُقَالُ لَهَا بُهَيْسَةُ عَنْ أَبِيهَا، قَالَتِ اسْتَأْذَنَ أَبِي النَّبِيَّ صلى الله عليه وسلم فَدَخَلَ بَيْنَهُ وَبَيْنَ قَمِيصِهِ فَجَعَلَ يُقَبِّلُ وَيَلْتَزِمُ ثُمَّ قَالَ يَا نَبِيَّ اللَّهِ مَا الشَّىْءُ الَّذِي لاَ يَحِلُّ مَنْعُهُ قَالَ ‏\"‏ الْمَاءُ ‏\"‏ ‏.‏ قَالَ يَا نَبِيَّ اللَّهِ مَا الشَّىْءُ الَّذِي لاَ يَحِلُّ مَنْعُهُ قَالَ ‏\"‏ الْمِلْحُ ‏\"‏ ‏.‏ قَالَ يَا نَبِيَّ اللَّهِ مَا الشَّىْءُ الَّذِي لاَ يَحِلُّ مَنْعُهُ قَالَ ‏\"‏ أَنْ تَفْعَلَ الْخَيْرَ خَيْرٌ لَكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Buhaisah:",
+        "text": "On the authority of her father: My father asked the Prophet (ﷺ) for permission (to kiss his body). (When he was given permission), lifting his shirt he approached his body, and began to kiss and stick to him. He then asked: Prophet of Allah, what is the thing withholding of which is not lawful ? He replied: Water. He asked: Prophet of Allah, what is the thing withholding of which is not lawful ? He replied: Salt. He again asked: Prophet of Allah, what is the thing withholding of which is not lawful ? He said: That you do a good work is better for you."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ الْجَعْدِ اللُّؤْلُؤِيُّ، أَخْبَرَنَا حَرِيزُ بْنُ عُثْمَانَ، عَنْ حَبَّانَ بْنِ زَيْدٍ الشَّرْعَبِيِّ، عَنْ رَجُلٍ، مِنْ قَرْنٍ ح وَحَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا حَرِيزُ بْنُ عُثْمَانَ، حَدَّثَنَا أَبُو خِدَاشٍ، - وَهَذَا لَفْظُ عَلِيٍّ - عَنْ رَجُلٍ، مِنَ الْمُهَاجِرِينَ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالَ غَزَوْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم ثَلاَثًا أَسْمَعُهُ يَقُولُ ‏\n\"‏ الْمُسْلِمُونَ شُرَكَاءُ فِي ثَلاَثٍ فِي الْكَلإِ وَالْمَاءِ وَالنَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated A man:",
+        "text": "A man from the immigrants of the Companions of the Prophet (ﷺ) said: I participated in battle three times along with the Prophet (ﷺ). I heard him say: Muslims have common share in three (things). grass, water and fire."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا دَاوُدُ بْنُ عَبْدِ الرَّحْمَنِ الْعَطَّارُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ أَبِي الْمِنْهَالِ، عَنْ إِيَاسِ بْنِ عَبْدٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ فَضْلِ الْمَاءِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Iyas ibn Abd:",
+        "text": "The Messenger of Allah (ﷺ) forbade the sale of excess water."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، ح وَحَدَّثَنَا الرَّبِيعُ بْنُ نَافِعٍ أَبُو تَوْبَةَ، وَعَلِيُّ بْنُ بَحْرٍ، قَالاَ حَدَّثَنَا عِيسَى، وَقَالَ، إِبْرَاهِيمُ أَخْبَرَنَا عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ ثَمَنِ الْكَلْبِ وَالسِّنَّوْرِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Abdullah:",
+        "text": "The Prophet (ﷺ) forbade payment for dog and cat."
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا عُمَرُ بْنُ زَيْدٍ الصَّنْعَانِيُّ، أَنَّهُ سَمِعَ أَبَا الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ ثَمَنِ الْهِرَّةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir:",
+        "text": "The Prophet (ﷺ) forbade payment for cat."
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي مَسْعُودٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ نَهَى عَنْ ثَمَنِ الْكَلْبِ وَمَهْرِ الْبَغِيِّ وَحُلْوَانِ الْكَاهِنِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Mas'ud:",
+        "text": "The Prophet (ﷺ) forbade the price paid for a dog, the hire paid to prostitute, and the gift given to a soothsayer."
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الرَّبِيعُ بْنُ نَافِعٍ أَبُو تَوْبَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ، - يَعْنِي ابْنَ عَمْرٍو - عَنْ عَبْدِ الْكَرِيمِ، عَنْ قَيْسِ بْنِ حَبْتَرٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ ثَمَنِ الْكَلْبِ وَإِنْ جَاءَ يَطْلُبُ ثَمَنَ الْكَلْبِ فَامْلأْ كَفَّهُ تُرَابًا ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Messenger of Allah (ﷺ) forbade the price paid for a dog; if someone comes to ask for the price of a dog, fill his hand-palm with dust."
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا شُعْبَةُ، أَخْبَرَنِي عَوْنُ بْنُ أَبِي جُحَيْفَةَ، أَنَّ أَبَاهُ، قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ ثَمَنِ الْكَلْبِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Juhaifah:",
+        "text": "The Messenger of Allah (ﷺ)forbade the price paid for a dog."
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنِي مَعْرُوفُ بْنُ سُوَيْدٍ الْجُذَامِيُّ، أَنَّ عُلَىَّ بْنَ رَبَاحٍ اللَّخْمِيَّ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَحِلُّ ثَمَنُ الْكَلْبِ وَلاَ حُلْوَانُ الْكَاهِنِ وَلاَ مَهْرُ الْبَغِيِّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: The price paid for a dog, the price given to a soothsayer, and the hire paid to a prostitute are not lawful."
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ، عَنْ عَبْدِ الْوَهَّابِ بْنِ بُخْتٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ اللَّهَ حَرَّمَ الْخَمْرَ وَثَمَنَهَا وَحَرَّمَ الْمَيْتَةَ وَثَمَنَهَا وَحَرَّمَ الْخِنْزِيرَ وَثَمَنَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "The Messenger of Allah (ﷺ) as saying: Allah forbade wine and the price paid for it, and forbade dead meat and the price paid for it, and forbade swine and the price paid for it."
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ عَامَ الْفَتْحِ وَهُوَ بِمَكَّةَ ‏\"‏ إِنَّ اللَّهَ حَرَّمَ بَيْعَ الْخَمْرِ وَالْمَيْتَةِ وَالْخِنْزِيرِ وَالأَصْنَامِ ‏\"‏ ‏.‏ فَقِيلَ يَا رَسُولَ اللَّهِ أَرَأَيْتَ شُحُومَ الْمَيْتَةِ فَإِنَّهُ يُطْلَى بِهَا السُّفُنُ وَيُدْهَنُ بِهَا الْجُلُودُ وَيَسْتَصْبِحُ بِهَا النَّاسُ فَقَالَ ‏\"‏ لاَ هُوَ حَرَامٌ ‏\"‏ ‏.‏ ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم عِنْدَ ذَلِكَ ‏\"‏ قَاتَلَ اللَّهُ الْيَهُودَ إِنَّ اللَّهَ لَمَّا حَرَّمَ عَلَيْهِمْ شُحُومَهَا أَجْمَلُوهُ ثُمَّ بَاعُوهُ فَأَكَلُوا ثَمَنَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir bin ‘Abdullah :",
+        "text": "That he heard the Messenger of Allah (ﷺ) say in the year of the Conquest when he was in Mecca: Allah has forbidden the sale of wine, animals which have dead natural death, swine and idols. He was asked: Messenger of Allah, what do you think of the fat of animals which had died a natural death, for it was used for caulking ships, greasing skins, and making oil for lamps? He replies: No, it is forbidden. Thereafter, the Messenger of Allah (ﷺ) said: May Allah curse the Jews! When Allah declared the fat of such animals lawful, they melted it, then sold it, and enjoyed the price they received."
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ عَبْدِ الْحَمِيدِ بْنِ جَعْفَرٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، قَالَ كَتَبَ إِلَىَّ عَطَاءٌ عَنْ جَابِرٍ، نَحْوَهُ لَمْ يَقُلْ ‏\n\"‏ هُوَ حَرَامٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Yazid b. Abi Habib said:",
+        "text": "Jabir wrote to me a similar tradition. But he did not say in this version \"It is forbidden.\""
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، أَنَّ بِشْرَ بْنَ الْمُفَضَّلِ، وَخَالِدَ بْنَ عَبْدِ اللَّهِ، حَدَّثَاهُمُ - الْمَعْنَى، - عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ بَرَكَةَ، قَالَ مُسَدَّدٌ فِي حَدِيثِ خَالِدِ بْنِ عَبْدِ اللَّهِ عَنْ بَرَكَةَ أَبِي الْوَلِيدِ، ثُمَّ اتَّفَقَا - عَنِ ابْنِ عَبَّاسٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم جَالِسًا عِنْدَ الرُّكْنِ - قَالَ - فَرَفَعَ بَصَرَهُ إِلَى السَّمَاءِ فَضَحِكَ فَقَالَ ‏\"‏ لَعَنَ اللَّهُ الْيَهُودَ ‏\"‏ ‏.‏ ثَلاَثًا ‏\"‏ إِنَّ اللَّهَ حَرَّمَ عَلَيْهِمُ الشُّحُومَ فَبَاعُوهَا وَأَكَلُوا أَثْمَانَهَا وَإِنَّ اللَّهَ إِذَا حَرَّمَ عَلَى قَوْمٍ أَكْلَ شَىْءٍ حَرَّمَ عَلَيْهِمْ ثَمَنَهُ ‏\"‏ ‏.‏ وَلَمْ يَقُلْ فِي حَدِيثِ خَالِدِ بْنِ عَبْدِ اللَّهِ الطَّحَّانِ ‏\"‏ رَأَيْتُ ‏\"‏ ‏.‏ وَقَالَ ‏\"‏ قَاتَلَ اللَّهُ الْيَهُودَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "I saw the Messenger of Allah (ﷺ) sitting neat the Black stone (or at a corner of the Ka'bah). He said: He (the Prophet) raised his eyes towards the heaven, and laughed, and he said: May Allah curse the Jews! He said this three times. Allah declared unlawful for them the fats (of the animals which died a natural death); they sold them and they enjoyed the price they received for them. When Allah declared eating of thing forbidden for the people, He declares it price also forbidden for them. The version of Khalid b. 'Abd Allah al-Tahhan does not have the words \"I saw\". It has: \"May Allah destroy the Jews!\""
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، قَالَ حَدَّثَنَا ابْنُ إِدْرِيسَ، وَوَكِيعٌ، عَنْ طُعْمَةَ بْنِ عَمْرٍو الْجَعْفَرِيِّ، عَنْ عُمَرَ بْنِ بَيَانٍ التَّغْلِبِيِّ، عَنْ عُرْوَةَ بْنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ بَاعَ الْخَمْرَ فَلْيُشَقِّصِ الْخَنَازِيرَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Mughirah ibn Shu'bah:",
+        "text": "The Prophet (ﷺ) said: He who sold wine should shear the flesh of swine."
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا شُعْبَةُ، عَنْ سُلَيْمَانَ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ لَمَّا نَزَلَتِ الآيَاتُ الأَوَاخِرُ مِنْ سُورَةِ الْبَقَرَةِ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَرَأَهُنَّ عَلَيْنَا وَقَالَ ‏\n\"‏ حُرِّمَتِ التِّجَارَةُ فِي الْخَمْرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Aishah:",
+        "text": "When the last verses of Surat al-Baqarah were revealed, the Messenger of Allah (ﷺ) came out and recited them to us and siad: Trading in wine has been forbidden."
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، بِإِسْنَادِهِ وَمَعْنَاهُ قَالَ الآيَاتُ الأَوَاخِرُ فِي الرِّبَا ‏.‏",
+      "english": {
+        "narrator": "The tradition mentioned above has also been transmitted by al-A'mash to the same effect through a different chain of narrators. This version adds:",
+        "text": "\"The last verses about usury.\""
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَسْتَوْفِيَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar:",
+        "text": "The Messenger of Allah (ﷺ) as saying: If anyone buys grain, he must not sell it till receives it in full."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ قَالَ كُنَّا فِي زَمَنِ رَسُولِ اللَّهِ صلى الله عليه وسلم نَبْتَاعُ الطَّعَامَ فَيَبْعَثُ عَلَيْنَا مَنْ يَأْمُرُنَا بِانْتِقَالِهِ مِنَ الْمَكَانِ الَّذِي ابْتَعْنَاهُ فِيهِ إِلَى مَكَانٍ سِوَاهُ قَبْلَ أَنْ نَبِيعَهُ - يَعْنِي - جُزَافًا ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar:",
+        "text": "During the time of Messenger of Allah (ﷺ) we used to buy grain, and he sent a man to us who ordered us to move it from the spot where we had bought it to some other place, before we sold it without weighing or measuring it."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ كَانُوا يَتَبَايَعُونَ الطَّعَامَ جُزَافًا بِأَعْلَى السُّوقِ فَنَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَبِيعُوهُ حَتَّى يَنْقُلُوهُ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar said:",
+        "text": "They (the people) used to buy grain in the upper part of the market in the same spot without measuring or weighing it. The Messenger of Allah (ﷺ) forbade them to sell it there before removing it."
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنَا عَمْرٌو، عَنِ الْمُنْذِرِ بْنِ عُبَيْدٍ الْمَدِينِيِّ، أَنَّ الْقَاسِمَ بْنَ مُحَمَّدٍ، حَدَّثَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى أَنْ يَبِيعَ أَحَدٌ طَعَامًا اشْتَرَاهُ بِكَيْلٍ حَتَّى يَسْتَوْفِيَهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "The Messenger of Allah (ﷺ) forbade to sell grain which one buys by measurement until one receives it in full."
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، وَعُثْمَانُ، ابْنَا أَبِي شَيْبَةَ قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَكْتَالَهُ ‏\"‏ ‏.‏ زَادَ أَبُو بَكْرٍ قَالَ قُلْتُ لاِبْنِ عَبَّاسٍ لِمَ قَالَ أَلاَ تَرَى أَنَّهُمْ يَتَبَايَعُونَ بِالذَّهَبِ وَالطَّعَامُ مُرَجًّى ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "The Messenger of Allah (ﷺ) as saying: If anyone buys grain, he should not sell it until he measures it. Abu Bakr added in his version: I asked Ibn 'Abbas: Why ? He replied: Do you not see that they sell (grain) for gold, but the grain is still with the seller."
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، وَسُلَيْمَانُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا حَمَّادٌ، ح وَحَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، - وَهَذَا لَفْظُ مُسَدَّدٍ - عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِذَا اشْتَرَى أَحَدُكُمْ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَقْبِضَهُ ‏\"‏ ‏.‏ قَالَ سُلَيْمَانُ بْنُ حَرْبٍ ‏\"‏ حَتَّى يَسْتَوْفِيَهُ ‏\"‏ ‏.‏ زَادَ مُسَدَّدٌ قَالَ وَقَالَ ابْنُ عَبَّاسٍ وَأَحْسِبُ أَنَّ كُلَّ شَىْءٍ مِثْلُ الطَّعَامِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "The Messenger of Allah (ﷺ) as saying: If anyone buys a grain, he should not sell it until he takes possession of it. Sulaiman b. Harb said: Until he receives it in full. Musaddad added: Ibn 'Abbas said: And I think that everything is like grain."
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، قَالَ رَأَيْتُ النَّاسَ يُضْرَبُونَ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذَا اشْتَرَوُا الطَّعَامَ جُزَافًا أَنْ يَبِيعُوهُ حَتَّى يُبْلِغَهُ إِلَى رَحْلِهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "I saw that during the time of the Messenger of Allah (ﷺ) the people were beaten when they bought grain on the same spot and sold it there without moving it to their houses."
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 24,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَوْفٍ الطَّائِيُّ، حَدَّثَنَا أَحْمَدُ بْنُ خَالِدٍ الْوَهْبِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ أَبِي الزِّنَادِ، عَنْ عُبَيْدِ بْنِ حُنَيْنٍ، عَنِ ابْنِ عُمَرَ، قَالَ ابْتَعْتُ زَيْتًا فِي السُّوقِ فَلَمَّا اسْتَوْجَبْتُهُ لِنَفْسِي لَقِيَنِي رَجُلٌ فَأَعْطَانِي بِهِ رِبْحًا حَسَنًا فَأَرَدْتُ أَنْ أَضْرِبَ عَلَى يَدِهِ فَأَخَذَ رَجُلٌ مِنْ خَلْفِي بِذِرَاعِي فَالْتَفَتُّ فَإِذَا زَيْدُ بْنُ ثَابِتٍ فَقَالَ لاَ تَبِعْهُ حَيْثُ ابْتَعْتَهُ حَتَّى تَحُوزَهُ إِلَى رَحْلِكَ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى أَنْ تُبَاعَ السِّلَعُ حَيْثُ تُبْتَاعُ حَتَّى يَحُوزَهَا التُّجَّارُ إِلَى رِحَالِهِمْ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Umar:",
+        "text": "I bought olive oil in the market. When I became its owner, a man met me and offered good profit for it. I intended to settle the bargain with him, but a man caught hold of my hand from behind. When I turned I found that he was Zayd ibn Thabit. He said: Do not sell it on the spot where you have bought it until you take it to your house, for the Messenger of Allah (ﷺ) forbade to sell the goods where they are bought until the tradesmen take them to their houses."
+      }
+    }
+  ]
+}

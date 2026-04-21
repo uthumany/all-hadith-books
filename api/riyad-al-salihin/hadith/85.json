@@ -1,0 +1,16 @@
+{
+  "id": 85,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي عمرو، وقيل‏:‏ أبي عمرة سفيان بن عبد الله رضي الله عنه قال‏:‏ قلت‏:‏ يا رسول الله قل لي في الإسلام قولاً لا أسأل عنه أحداً غيرك‏.‏ قال‏:‏ ‏\n\"‏قل آمنت بالله‏:‏ ثم استقم‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Sufyan bin 'Abdullah (May Allah be pleased with him) reported:",
+    "text": "I said, \"O Messenger of Allah, tell me something of Islam which I will not ask anyone else about it.\" He (ﷺ) said, \"Say, 'I believe in Allah' and then be steadfast\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

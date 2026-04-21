@@ -1,0 +1,16 @@
+{
+  "id": 43,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "عَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِيَّاكُمْ وَالْحَسَدَ, فَإِنَّ اَلْحَسَدَ يَأْكُلُ اَلْحَسَنَاتِ, كَمَا تَأْكُلُ اَلنَّارُ اَلْحَطَبَ }  أَخْرَجَهُ أَبُو دَاوُدَ  1‏ .‏‏1 ‏- ضعيف رواه أبو داود (4903)‏، وفي سنده راو مجهول.‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that Allah’s Messenger (ﷺ) said:",
+    "text": "“Avoid envy, for envy devours good deeds just as fire devours firewood.” Related by Abu Dawud."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

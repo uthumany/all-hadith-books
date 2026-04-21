@@ -1,0 +1,16 @@
+{
+  "id": 223,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَفَّانُ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، حَدَّثَنَا رَجُلٌ، مِنْ بَنِي سَدُوسٍ يُقَالُ لَهُ جُرَيُّ بْنُ كُلَيْبٍ عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ عَضْبَاءِ الْأُذُنِ وَالْقَرْنِ قَالَ فَسَأَلْتُ سَعِيدَ بْنَ الْمُسَيَّبِ فَقَالَ النِّصْفُ فَمَا فَوْقَ ذَلِكَ‏.‏",
+  "english": {
+    "narrator": "It was narrated from `Ali bin Abi Talib (رضي الله عنه) that The Prophet (ﷺ) forbade (as a sacrifice) any animal that had lost most of its ear or horn. He  said:",
+    "text": "I asked Sa`eed bin al-Musayyab and he said: Half or more."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

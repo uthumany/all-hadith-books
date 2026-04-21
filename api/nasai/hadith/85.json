@@ -1,0 +1,16 @@
+{
+  "id": 85,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي رَجَاءٍ، قَالَ سَأَلْتُ الْحَسَنَ عَنْ نَبِيذِ الْجَرِّ، أَحَرَامٌ هُوَ قَالَ حَرَامٌ قَدْ حَدَّثَنَا مَنْ لَمْ يَكْذِبْ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ نَبِيذِ الْحَنْتَمِ وَالدُّبَّاءِ وَالْمُزَفَّتِ وَالنَّقِيرِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Raja' said:",
+    "text": "\"I asked Al-Hasan about Nabidh made in earthenware jars - is it unlawful? He said: '(It is) unlawful. One who would not lie narrated to us that the Messenger of Allah  forbade Nabidh made in Al-Hantam, Ad-Dubba' (gourds), Al-Muzaffat and An-Naqir.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

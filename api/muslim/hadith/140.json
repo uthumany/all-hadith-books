@@ -1,0 +1,16 @@
+{
+  "id": 140,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا سُرَيْجُ بْنُ يُونُسَ، حَدَّثَنَا هُشَيْمٌ، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، عَنِ الْمُغِيرَةِ،\n بْنِ شُعْبَةَ قَالَ مَا سَأَلَ أَحَدٌ النَّبِيَّ صلى الله عليه وسلم عَنِ الدَّجَّالِ أَكْثَرَ مِمَّا سَأَلْتُهُ قَالَ\n ‏\"‏ وَمَا سُؤَالُكَ ‏\"‏ ‏.‏ قَالَ قُلْتُ إِنَّهُمْ يَقُولُونَ مَعَهُ جِبَالٌ مِنْ خُبْزٍ وَلَحْمٍ وَنَهَرٌ مِنْ مَاءٍ ‏.‏ قَالَ\n ‏\"‏ هُوَ أَهْوَنُ عَلَى اللَّهِ مِنْ ذَلِكَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Mughira b. Shu'ba reported that none asked Allah's Apostle (ﷺ) about Dajjal more than I asked him. I (one of the narrators other than Mughira b. Shu'ba) said:",
+    "text": "What did you ask? Mughira replied: I said that the people alleged that he would have a mountain load of bread and mutton and rivers of water. Thereupon he said: He would be more insignificant in the eye of Allah compared with all this."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

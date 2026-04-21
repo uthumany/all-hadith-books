@@ -1,0 +1,16 @@
+{
+  "id": 285,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ لو كنت آمرًا أحدًا أن يسجد لأحد لأمرت المرأة أن تسجد لزوجها‏\"‏ ‏(‏‏(‏رواه الترمذي وقال ‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"If I were to order anyone to prostrate himself before another, I would have ordered a woman to prostrate herself before her husband\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

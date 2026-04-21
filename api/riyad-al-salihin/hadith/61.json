@@ -1,0 +1,16 @@
+{
+  "id": 61,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثانى‏:‏ عن أبي ذر جندب بن جنادة، وأبي عبد الرحمن معاذ بن جبل، رضي الله عنهما، عن رسول الله صلى الله عليه وسلم، قال‏:‏ ‏\n\"‏ اتق الله حيثما كنت واتبع السيئة الحسنة تمحها، وخالق الناس بخلق حسن‏\"‏ ‏(‏‏(‏رواه الترمذي وقال حديث حسن ‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Dharr and Mu'adh bin Jabal (May Allah be pleased with them) reported that:",
+    "text": "Messenger of Allah (ﷺ) said, \"Fear Allah wherever you are, do good deeds after doing bad ones, the former will wipe out the latter, and behave decently towards people\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

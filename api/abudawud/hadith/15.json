@@ -1,0 +1,16 @@
+{
+  "id": 15,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ الطُّفَاوِيُّ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ، - يَعْنِي ابْنَ الزُّبَيْرِ - فِي قَوْلِهِ ‏{‏ خُذِ الْعَفْوَ ‏}‏ قَالَ أُمِرَ نَبِيُّ اللَّهِ صلى الله عليه وسلم أَنْ يَأْخُذَ الْعَفْوَ مِنْ أَخْلاَقِ النَّاسِ ‏.‏",
+  "english": {
+    "narrator": "Explaining the Qur’anic verse “Hold to forgiveness”, `Abd Allah b. Al-Zubair said:",
+    "text": "The Prophet of Allah (ﷺ) was commanded to hold to forgiveness from the conduct of the people."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

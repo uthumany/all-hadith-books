@@ -1,0 +1,16 @@
+{
+  "id": 168,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى رَجُلاً يَتْبَعُ حَمَامَةً فَقَالَ ‏\n\"‏ شَيْطَانٌ يَتْبَعُ شَيْطَانَةً ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "The Messenger of Allah (ﷺ) saw a man pursuing a pigeon. He said: A devil is pursuing a female devil."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

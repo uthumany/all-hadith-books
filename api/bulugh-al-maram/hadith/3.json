@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ اَلنَوَّاسِ بْنِ سَمْعَانَ ‏- رضى الله عنه ‏- قَالَ: سَأَلْتُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-عَنْ اَلْبِرِّ وَالْإِثْمِ? فَقَالَ: { اَلْبِرُّ: حُسْنُ اَلْخُلُقِِ, وَالْإِثْمُ: مَا حَاكَ فِي صَدْرِكَ, وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ اَلنَّاسُ }  أَخْرَجَهُ مُسْلِمٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2553)‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "An-Nawwas bin Sam'an (RAA) narrated, ‘I asked the Messenger of Allah (ﷺ) about virtue and sin and he replied, “The essence of virtue is (manifested in) good morals (Akhlaq) whereas sinful conduct is that which turns in your heart (making you feel uncomfortable) and you dislike that it would be disclosed to other people.” Related by Muslim."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

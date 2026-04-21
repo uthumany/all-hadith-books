@@ -1,0 +1,16 @@
+{
+  "id": 307,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ مُحَمَّدِ بْنِ زَيْدِ بْنِ مُهَاجِرٍ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ إِذَا صَعِدَ الْمِنْبَرَ سَلَّمَ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "It was\nnarrated from Jabir that whenever the Prophet (ﷺ) ascended\nthe\npulpit he would greet (the people with Salam)."
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

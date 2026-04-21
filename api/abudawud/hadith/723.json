@@ -1,0 +1,16 @@
+{
+  "id": 723,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا قُلْتَ أَنْصِتْ وَالإِمَامُ يَخْطُبُ فَقَدْ لَغَوْتَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+    "text": "When you tell (your brother on Friday) to be silent while the imam is giving the sermon you are guilty of idle talk."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

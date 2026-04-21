@@ -1,0 +1,16 @@
+{
+  "id": 180,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي موسى الأشعري رضي الله عنه ، عن النبي صلى الله عليه وسلم أنه قال‏:‏ ‏\n\"‏ الخازن المسلم الأمين الذي ينفذ ما أمر به، فيعطيه كاملاً موفراً، طيبة به نفسه فيدفعه إلى الذي أمر له به أحد المتصدقين‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Musa (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"The honest Muslim trustee who carries out duties assigned to him (in another narration he said, \"Who gives\"), and he gives that in full, with his heart overflowing with cheerfulness, to whom he is ordered, he is one of the two givers of charity\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 286,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَلِأَبِي دَاوُدَ, وَاَلتِّرْمِذِيِّ نَحْوُهُ عَنْ عَائِشَةَ وَفِيهِ: { كُلَّ سُورَةٍ فِي رَكْعَةٍ, وَفِي اَلْأَخِيرَةِ: \n\"قُلْ هُوَ اَللَّهُ أَحَدٌ\", وَالْمُعَوِّذَتَيْنِ }   1‏ .‏‏1 ‏- صحيح دون لفظ:\"والمعوذتين\"، رواه أبو داود (1424)‏، والترمذي (463)‏، وقال الترمذي:\"حسن غريب\".‏",
+  "english": {
+    "narrator": "",
+    "text": "Abu Dawud and at-Tirmidhi report something similar from 'Aishah (RA) that Allah's Messenger (ﷺ) used to recite a Surat in every Rak'at and in the last (third) Rak'at he would recite Qul Huwa Allahu Ahad (Surat al-Ikhlas) and al-Mu'awwidhatain."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

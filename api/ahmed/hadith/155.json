@@ -1,0 +1,16 @@
+{
+  "id": 155,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَفَّانُ، حَدَّثَنَا شُعْبَةُ، قَالَ أَنْبَأَنَا أَبُو إِسْحَاقَ، قَالَ سَمِعْتُ هُبَيْرَةَ، يَقُولُ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَوْ نَهَانِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ خَاتَمِ الذَّهَبِ وَالْقَسِّيِّ وَالْمِيثَرَةِ‏.‏",
+  "english": {
+    "narrator": "Abu Ishaq said:",
+    "text": "I heard Hubairah say: I heard ‘Ali (رضي الله عنه) say: The Messenger of Allah (ﷺ)  forbade - or the Messenger of Allah (ﷺ) forbade me - to wear gold rings or garments made of a blend of linen and silk, and to use red saddle cloths."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

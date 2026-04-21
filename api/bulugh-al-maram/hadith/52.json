@@ -1,0 +1,16 @@
+{
+  "id": 52,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِيَّاكُمْ وَالظَّنَّ, فَإِنَّ اَلظَّنَّ أَكْذَبُ اَلْحَدِيثِ }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ وهو طرف من حديث رواه البخاري (5143)‏، ومسلم (2563)‏ وسيأتي ‏-أيضا‏- برقم (1520)‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Avoid suspicion, for suspicion is the most false form of talk.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

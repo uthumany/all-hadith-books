@@ -1,0 +1,16 @@
+{
+  "id": 31,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسٍ، بِهَذِهِ الْقِصَّةِ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ حَقًّا عَلَى اللَّهِ عَزَّ وَجَلَّ أَنْ لاَ يَرْتَفِعَ شَىْءٌ مِنَ الدُّنْيَا إِلاَّ وَضَعَهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrating this story Anas reported the Prophet (ﷺ) as saying:",
+    "text": "It is Allah’s right that nothing should become exalted in the world but he lowers it."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 326,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، رضى الله عنه قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَا يَنْبَغِي لأَحَدٍ أَنْ يَكُونَ خَيْرًا مِنِ ابْنِ مَتَّى ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated `Abdullah:",
+    "text": "Allah's Messenger (ﷺ) said, \"Nobody has the right to be better than (Jonah) bin Matta.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

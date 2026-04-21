@@ -1,0 +1,16 @@
+{
+  "id": 469,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏\n\"‏الدنيا سجن المؤمن وجنة الكافر‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said: \"The world is the believer's prison and the infidel's Jannah\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

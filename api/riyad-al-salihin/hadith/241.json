@@ -1,0 +1,16 @@
+{
+  "id": 241,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\n\"‏كل أمتي معافًى إلا المجاهرين، وإن من المجاهرة أن يعمل الرجل بالليل عملاً، ثم يصبح وقد ستره الله عليه فيقول‏:‏ يا فلان عملت البارحة كذا وكذا، وقد بات يستره ربه، ويصبح يكشف ستر الله عنه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Every one of my followers will be forgiven except those who expose (openly) their wrongdoings. An example of this is that of a man who commits a sin at night which Allah has covered for him, and in the morning, he would say (to people): \"I committed such and such sin last night,' while Allah had kept it a secret. During the night Allah has covered it up but in the morning he tears up the cover provided by Allah Himself.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

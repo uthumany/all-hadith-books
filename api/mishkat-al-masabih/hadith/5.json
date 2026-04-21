@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "chapterId": 24,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عَلَيْهِ وَسلم: «من رَآنِي فِي الْمَنَام فيسراني فِي الْيَقَظَةِ وَلَا يَتَمَثَّلُ الشَّيْطَانُ بِي»",
+  "english": {
+    "narrator": "Abu Huraira reported God’s messenger as saying:",
+    "text": "\"He who sees me in a dream will see me when awake*, for the devil, does not take my likeness.” \n\n(Bukhari and Muslim.)\n\n* This tradition has Caused some difficulty. It is suggested that if it refers to people in the Prophet’s time who have not yet emigrated to Medina, it means that they will emigrate and see the Prophet there; if it refers to people of later times, it means that they will see him in the next world."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 28,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا هِشَامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ ضَحَّى النَّبِيُّ صلى الله عليه وسلم بِكَبْشَيْنِ، يُسَمِّي وَيُكَبِّرُ‏.‏",
+  "english": {
+    "narrator": "Narrated Anas:",
+    "text": "The Prophet (ﷺ) slaughtered two rams as sacrifice and mentioned Allah's Name and said, \"Allahu-Akbar\" \nwhile slaughtering)."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

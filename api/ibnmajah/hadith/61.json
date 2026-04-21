@@ -1,0 +1,16 @@
+{
+  "id": 61,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا حَمَّادُ بْنُ نَجِيحٍ، - وَكَانَ ثِقَةً - عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ، عَنْ جُنْدُبِ بْنِ عَبْدِ اللَّهِ، قَالَ كُنَّا مَعَ النَّبِيِّ ـ صلى الله عليه وسلم ـ وَنَحْنُ فِتْيَانٌ حَزَاوِرَةٌ فَتَعَلَّمْنَا الإِيمَانَ قَبْلَ أَنْ نَتَعَلَّمَ الْقُرْآنَ ثُمَّ تَعَلَّمْنَا الْقُرْآنَ فَازْدَدْنَا بِهِ إِيمَانًا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Jundub bin 'Abdullah said:",
+    "text": "\"We were with the Prophet (ﷺ), and we were strong youths, so we learned faith before we learned Qur'an. Then we learned Qur'an and our faith increased thereby.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

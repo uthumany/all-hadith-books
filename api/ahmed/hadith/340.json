@@ -1,0 +1,16 @@
+{
+  "id": 340,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا الْأَعْمَشُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ قَدْ عَفَوْتُ لَكُمْ عَنْ الْخَيْلِ وَالرَّقِيقِ وَلَيْسَ فِيمَا دُونَ مِائَتَيْنِ زَكَاةٌ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said. The Messenger of Allah (ﷺ) said:",
+    "text": "“I have relieved you of zakah on horses and slaves, and there is no zakah on anything less than two hundred (dirhams).”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

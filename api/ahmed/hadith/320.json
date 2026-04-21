@@ -1,0 +1,16 @@
+{
+  "id": 320,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي وَهْبُ بْنُ بَقِيَّةَ الْوَاسِطِيُّ، أَنْبَأَنَا خَالِدٌ، عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كُنْتُ رَجُلًا مَذَّاءً فَسَأَلْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ فِيهِ الْوُضُوءُ وَفِي الْمَنِيِّ الْغُسْلُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "I was a man who emitted a lot of madhi. I asked the Prophet (ﷺ)  and he said: `Wudoo’ should be done for that and ghusl should be done for mani.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

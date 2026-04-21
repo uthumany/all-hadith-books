@@ -1,0 +1,16 @@
+{
+  "id": 197,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "أَنْبَأَنَا أَبُو النَّضْرِ، حَدَّثَنَا الْأَشْجَعِيُّ، عَنْ شَيْبَانَ، عَنْ جَابِرٍ، عَنْ عَبْدِ اللَّهِ بْنِ نُجَيٍّ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ ذَكَرْنَا الدَّجَّالَ عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ نَائِمٌ فَاسْتَيْقَظَ مُحْمَرًّا لَوْنُهُ فَقَالَ غَيْرُ ذَلِكَ أَخْوَفُ لِي عَلَيْكُمْ ذَكَرَ كَلِمَةً‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Ali (رضي الله عنه) from the Prophet (ﷺ):",
+    "text": "We spoke of the Dajjal in the presence of the Prophet (ﷺ) when he was sleeping. He woke up, with his face red, and said: `There is something else I fear more for you,` and he mentioned something."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

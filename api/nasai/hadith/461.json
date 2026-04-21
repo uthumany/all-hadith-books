@@ -1,0 +1,16 @@
+{
+  "id": 461,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، قَالَ سَمِعْتُ أَبَا مِجْلَزٍ، يَقُولُ سَأَلْتُ ابْنَ عَبَّاسٍ عَنْ شَىْءٍ، مِنْ أَمْرِ الْجِمَارِ فَقَالَ مَا أَدْرِي رَمَاهَا رَسُولُ اللَّهِ صلى الله عليه وسلم بِسِتٍّ أَوْ بِسَبْعٍ ‏.‏",
+  "english": {
+    "narrator": "It was narrated the Qatadah said:",
+    "text": "\"I heard Abu Mijlaz say: 'I asked Ibn 'Abbas something about the Jimar, and he said: I do not know, the Messenger of Allah stoned it with six or seven."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

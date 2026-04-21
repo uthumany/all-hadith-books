@@ -1,0 +1,510 @@
+{
+  "page": 114,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 115,
+  "prevPage": 113,
+  "items": [
+    {
+      "id": 152,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ، حَدَّثَنَا هَمَّامُ بْنُ يَحْيَى، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، أَنَّ نَبِيَّ\n اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ عَدْوَى وَلاَ طِيَرَةَ وَيُعْجِبُنِي الْفَأْلُ الْكَلِمَةُ الْحَسَنَةُ الْكَلِمَةُ\n الطَّيِّبَةُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no transitive disease, no divination, but good omen pleases me, i. e. the good word or a good word.\n\n\n\nNote: The majority of scholars interpret this to mean that these things in and of themselves do not transmit or cause harm through supernatural or hidden means but that Allah is ultimately in control and any fearful superstition around these is false."
+      }
+    },
+    {
+      "id": 153,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالاَ أَخْبَرَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ،\n سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسِ بْنِ مَالِكٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ عَدْوَى\n وَلاَ طِيَرَةَ وَيُعْجِبُنِي الْفَأْلُ ‏\"‏ ‏.‏ قَالَ قِيلَ وَمَا الْفَأْلُ قَالَ ‏\"‏ الْكَلِمَةُ الطَّيِّبَةُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no transitive disease, no divination, but good omen pleases me. It was said: What is good omen? He said: Sacred words."
+      }
+    },
+    {
+      "id": 154,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنِي مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُخْتَارٍ،\n حَدَّثَنَا يَحْيَى بْنُ عَتِيقٍ، حَدَّثَنَا مُحَمَّدُ بْنُ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى\n الله عليه وسلم ‏\n\"‏ لاَ عَدْوَى وَلاَ طِيَرَةَ وَأُحِبُّ الْفَأْلَ الصَّالِحَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no transitive disease, no divination, but I like good words."
+      }
+    },
+    {
+      "id": 155,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا هِشَامُ بْنُ حَسَّانٍ، عَنْ \n مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ عَدْوَى\n وَلاَ هَامَةَ وَلاَ طِيَرَةَ وَأُحِبُّ الْفَأْلَ الصَّالِحَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no transitive disease, no hama, no divination, but I like good omen."
+      }
+    },
+    {
+      "id": 156,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، ح وَحَدَّثَنَا يَحْيَى،\n بْنُ يَحْيَى قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنْ حَمْزَةَ، وَسَالِمٍ، ابْنَىْ عَبْدِ اللَّهِ بْنِ عُمَرَ\n عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الشُّؤْمُ فِي الدَّارِ وَالْمَرْأَةِ\n وَالْفَرَسِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Umar reported Allah's Messenger (ﷺ) as saying:",
+        "text": "If there be bad luck, it is in the house, and the wife, and the horse."
+      }
+    },
+    {
+      "id": 157,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ،\n عَنِ ابْنِ شِهَابٍ، عَنْ حَمْزَةَ، وَسَالِمٍ، ابْنَىْ عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ\n اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ عَدْوَى وَلاَ طِيَرَةَ وَإِنَّمَا الشُّؤْمُ فِي ثَلاَثَةٍ الْمَرْأَةِ وَالْفَرَسِ\n وَالدَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Umar reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no transitive disease, no ill omen, and bad luck is lound in the house, or wife or horse.\n\n\n\nNote: The majority of scholars interpret this to mean that these things in and of themselves do not transmit or cause harm through supernatural or hidden means but that Allah is ultimately in control and any fearful superstition around these is false."
+      }
+    },
+    {
+      "id": 158,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، وَحَمْزَةَ، ابْنَىْ عَبْدِ\n اللَّهِ عَنْ أَبِيهِمَا، عَنِ النَّبِيِّ صلى الله عليه وسلم ح \n وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، عَنْ سُفْيَانَ، عَنِ الزُّهْرِيِّ،\n عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح \n وَحَدَّثَنَا عَمْرٌو النَّاقِدُ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ،\n عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، وَحَمْزَةَ، ابْنَىْ عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنِ النَّبِيِّ\n صلى الله عليه وسلم ح \n وَحَدَّثَنِي عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ بْنِ سَعْدٍ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، حَدَّثَنِي \n عُقَيْلُ بْنُ خَالِدٍ، ح وَحَدَّثَنَاهُ يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ،\n إِسْحَاقَ ح وَحَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ،\n كُلُّهُمْ عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي الشُّؤْمِ ‏.‏ بِمِثْلِ\n حَدِيثِ مَالِكٍ لاَ يَذْكُرُ أَحَدٌ مِنْهُمْ فِي حَدِيثِ ابْنِ عُمَرَ الْعَدْوَى وَالْطِّيَرَةَ غَيْرُ يُونُسَ بْنِ يَزِيدَ\n ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been reported on the authority of Zuhri with other chains of transmitters but with slight variations of wording."
+      }
+    },
+    {
+      "id": 159,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ الْحَكَمِ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ \n عُمَرَ بْنِ مُحَمَّدِ بْنِ زَيْدٍ، أَنَّهُ سَمِعَ أَبَاهُ، يُحَدِّثُ عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم\n أَنَّهُ قَالَ ‏\n\"‏ إِنْ يَكُنْ مِنَ الشُّؤْمِ شَىْءٌ حَقٌّ فَفِي الْفَرَسِ وَالْمَرْأَةِ وَالدَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Umar b. Muhammad b. Zaid reported that he heard his father narrating from Ibn 'Umar that Allah's Messenger (ﷺ) had said. If bad luck is a fact, then it is in the horse, the woman and the house."
+      }
+    },
+    {
+      "id": 160,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ\n مِثْلَهُ وَلَمْ يَقُلْ ‏\n\"‏ حَقٌّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters but there is no mention of the word\" Haqq\"\" (fact)."
+      }
+    },
+    {
+      "id": 161,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو بَكْرِ بْنُ إِسْحَاقَ، حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، أَخْبَرَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، حَدَّثَنِي \n عُتْبَةُ بْنُ مُسْلِمٍ، عَنْ حَمْزَةَ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم\n قَالَ ‏\n\"‏ إِنْ كَانَ الشُّؤْمُ فِي شَىْءٍ فَفِي الْفَرَسِ وَالْمَسْكَنِ وَالْمَرْأَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Umar reported on the authority of his father that Allah's Messenger (ﷺ) said:",
+        "text": "If there is bad luck in anything, it is the horse, the abode and the woman."
+      }
+    },
+    {
+      "id": 162,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا مَالِكٌ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ،\n سَعْدٍ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنْ كَانَ فَفِي الْمَرْأَةِ وَالْفَرَسِ وَالْمَسْكَنِ\n ‏\"‏ ‏.‏ يَعْنِي الشُّؤْمَ ‏.‏",
+      "english": {
+        "narrator": "Sahl b. Sa'd reported Allah's Messenger (ﷺ) as saying:",
+        "text": "If bad luck were to be in anything, it is found in the woman, the horse and the abode."
+      }
+    },
+    {
+      "id": 163,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا الْفَضْلُ بْنُ دُكَيْنٍ، حَدَّثَنَا هِشَامُ بْنُ سَعْدٍ، عَنْ \n أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Sahl b. Sa'd with a different chain of transmitters."
+      }
+    },
+    {
+      "id": 164,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْحَارِثِ، عَنِ ابْنِ،\n جُرَيْجٍ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرًا، يُخْبِرُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ\n ‏\n\"‏ إِنْ كَانَ فِي شَىْءٍ فَفِي الرَّبْعِ وَالْخَادِمِ وَالْفَرَسِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir reported Allah's Messenger (ﷺ) as saying:",
+        "text": "If bad luck were to be in anything, it is found in the land, in the servant and in the horse."
+      }
+    },
+    {
+      "id": 165,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ،\n عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ مُعَاوِيَةَ بْنِ الْحَكَمِ السُّلَمِيِّ،\n قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أُمُورًا كُنَّا نَصْنَعُهَا فِي الْجَاهِلِيَّةِ كُنَّا نَأْتِي الْكُهَّانَ ‏.‏ قَالَ ‏\"‏ فَلاَ\n تَأْتُوا الْكُهَّانَ ‏\"‏ ‏.‏ قَالَ قُلْتُ كُنَّا نَتَطَيَّرُ ‏.‏ قَالَ ‏\"‏ ذَاكَ شَىْءٌ يَجِدُهُ أَحَدُكُمْ فِي نَفْسِهِ فَلاَ يَصُدَّنَّكُمْ\n ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Mu'awiya b. al-Hakam as-Sulami reported:",
+        "text": "I said: Messenger of Allah, there were things we used to do in the pre-Islamic days. We used to visit Kahins, whereupon he said: Don't visit Kahins. I said: We used to take omens. He said: That is a sort of personal whim of yours, so let it not prevent you (from doing a thing)."
+      }
+    },
+    {
+      "id": 166,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنِي حُجَيْنٌ، - يَعْنِي ابْنَ الْمُثَنَّى - حَدَّثَنَا اللَّيْثُ، عَنْ \n عُقَيْلٍ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالاَ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا \n مَعْمَرٌ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ بْنُ سَوَّارٍ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، ح\n وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، أَخْبَرَنَا إِسْحَاقُ بْنُ عِيسَى، أَخْبَرَنَا مَالِكٌ، كُلُّهُمْ عَنِ الزُّهْرِيِّ، بِهَذَا\n الإِسْنَادِ ‏.‏ مِثْلَ مَعْنَى حَدِيثِ يُونُسَ غَيْرَ أَنَّ مَالِكًا فِي حَدِيثِهِ ذَكَرَ الطِّيَرَةَ وَلَيْسَ فِيهِ ذِكْرُ\n الْكُهَّانِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of Zuhri with a slight variation of wording."
+      }
+    },
+    {
+      "id": 167,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ\n ابْنُ عُلَيَّةَ - عَنْ حَجَّاجٍ الصَّوَّافِ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ،\n حَدَّثَنَا الأَوْزَاعِيُّ، كِلاَهُمَا عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ هِلاَلِ بْنِ أَبِي مَيْمُونَةَ، عَنْ عَطَاءِ بْنِ،\n يَسَارٍ عَنْ مُعَاوِيَةَ بْنِ الْحَكَمِ السُّلَمِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمَعْنَى حَدِيثِ الزُّهْرِيِّ\n عَنْ أَبِي سَلَمَةَ عَنْ مُعَاوِيَةَ وَزَادَ فِي حَدِيثِ يَحْيَى بْنِ أَبِي كَثِيرٍ قَالَ قُلْتُ وَمِنَّا رِجَالٌ يَخُطُّونَ\n قَالَ ‏\n\"‏ كَانَ نَبِيٌّ مِنَ الأَنْبِيَاءِ يَخُطُّ فَمَنْ وَافَقَ خَطُّهُ فَذَاكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Mu'awiya b. Hakam as-Sulami through another chain of transmitters. The hadith transmitted on the authority of Yahya b. Abu Kathir (there is an addition of these words):",
+        "text": "I said: Among us there are men who draw lines and thus make divination. What about this? Thereupon he (the Holy Prophet) said: There was a Prophet who drew lines, so whose lines agree with his line for him it is allowable."
+      }
+    },
+    {
+      "id": 168,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ يَحْيَى،\n بْنِ عُرْوَةَ بْنِ الزُّبَيْرِ عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّ الْكُهَّانَ كَانُوا يُحَدِّثُونَنَا\n بِالشَّىْءِ فَنَجِدُهُ حَقًّا قَالَ ‏\n\"‏ تِلْكَ الْكَلِمَةُ الْحَقُّ يَخْطَفُهَا الْجِنِّيُّ فَيَقْذِفُهَا فِي أُذُنِ وَلِيِّهِ وَيَزِيدُ\n فِيهَا مِائَةَ كَذْبَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'A'isha reported:",
+        "text": "I said: Allah's Messenger, the kahins used to tell us about things (unseen) and we found them to be true. Thereupon he said: That is a word pertaining to truth which a jinn snatches and throws into the ear of his friend, and makes an addition of one hundred lies to it."
+      }
+    },
+    {
+      "id": 169,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، حَدَّثَنَا مَعْقِلٌ، - وَهْوَ ابْنُ عُبَيْدِ\n اللَّهِ - عَنِ الزُّهْرِيِّ، أَخْبَرَنِي يَحْيَى بْنُ عُرْوَةَ، أَنَّهُ سَمِعَ عُرْوَةَ، يَقُولُ قَالَتْ عَائِشَةُ سَأَلَ\n أُنَاسٌ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْكُهَّانِ فَقَالَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه\n وسلم ‏\"‏ لَيْسُوا بِشَىْءٍ ‏\"‏ ‏.‏ قَالُوا يَا رَسُولَ اللَّهِ فَإِنَّهُمْ يُحَدِّثُونَ أَحْيَانًا الشَّىْءَ يَكُونُ حَقًّا\n ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ تِلْكَ الْكَلِمَةُ مِنَ الْجِنِّ يَخْطَفُهَا الْجِنِّيُّ فَيَقُرُّهَا فِي\n أُذُنِ وَلِيِّهِ قَرَّ الدَّجَاجَةِ فَيَخْلِطُونَ فِيهَا أَكْثَرَ مِنْ مِائَةِ كَذْبَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Urwa reported from 'A'isha that she said that people asked Allah's Messenger (ﷺ) about the kahins. Allah's Messenger (ﷺ) said to them:",
+        "text": "It is nothing (i. e. it is a mere superstition). They said: Allah's Messenger, they at times narrate to us things which we find true. Thereupon Allah's Messenger (ﷺ) said: That is a word pertaining to truth which a jinn snatches away and then cackles into the ear of his friend as the hen does. And then they mix in it more than one hundred lies."
+      }
+    },
+    {
+      "id": 170,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي مُحَمَّدُ بْنُ عَمْرٍو، عَنِ \n ابْنِ جُرَيْجٍ، عَنِ ابْنِ شِهَابٍ، بِهَذَا الإِسْنَادِ نَحْوَ رِوَايَةِ مَعْقِلٍ عَنِ الزُّهْرِيِّ، ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Zuhri with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 171,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا حَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَ حَسَنٌ حَدَّثَنَا يَعْقُوبُ، وَقَالَ،\n عَبْدٌ حَدَّثَنِي يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي \n عَلِيُّ بْنُ حُسَيْنٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ، قَالَ أَخْبَرَنِي رَجُلٌ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله\n عليه وسلم مِنَ الأَنْصَارِ أَنَّهُمْ بَيْنَمَا هُمْ جُلُوسٌ لَيْلَةً مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم\n رُمِيَ بِنَجْمٍ فَاسْتَنَارَ فَقَالَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَاذَا كُنْتُمْ تَقُولُونَ فِي\n الْجَاهِلِيَّةِ إِذَا رُمِيَ بِمِثْلِ هَذَا ‏\"‏ ‏.‏ قَالُوا اللَّهُ وَرَسُولُهُ أَعْلَمُ كُنَّا نَقُولُ وُلِدَ اللَّيْلَةَ رَجُلٌ عَظِيمٌ\n وَمَاتَ رَجُلٌ عَظِيمٌ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَإِنَّهَا لاَ يُرْمَى بِهَا لِمَوْتِ أَحَدٍ\n وَلاَ لِحَيَاتِهِ وَلَكِنْ رَبُّنَا تَبَارَكَ وَتَعَالَى اسْمُهُ إِذَا قَضَى أَمْرًا سَبَّحَ حَمَلَةُ الْعَرْشِ ثُمَّ سَبَّحَ\n أَهْلُ السَّمَاءِ الَّذِينَ يَلُونَهُمْ حَتَّى يَبْلُغَ التَّسْبِيحُ أَهْلَ هَذِهِ السَّمَاءِ الدُّنْيَا ثُمَّ قَالَ الَّذِينَ يَلُونَ\n حَمَلَةَ الْعَرْشِ لِحَمَلَةِ الْعَرْشِ مَاذَا قَالَ رَبُّكُمْ فَيُخْبِرُونَهُمْ مَاذَا قَالَ - قَالَ - فَيَسْتَخْبِرُ\n بَعْضُ أَهْلِ السَّمَوَاتِ بَعْضًا حَتَّى يَبْلُغَ الْخَبَرُ هَذِهِ السَّمَاءَ الدُّنْيَا فَتَخْطَفُ الْجِنُّ السَّمْعَ\n فَيَقْذِفُونَ إِلَى أَوْلِيَائِهِمْ وَيُرْمَوْنَ بِهِ فَمَا جَاءُوا بِهِ عَلَى وَجْهِهِ فَهُوَ حَقٌّ وَلَكِنَّهُمْ يَقْرِفُونَ\n فِيهِ وَيَزِيدُونَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah. Ibn 'Abbas reported:",
+        "text": "A person from the Ansar who was amongst the Companions of Allah's Messenger (ﷺ) reported to me: As we were sitting during the night with Allah's Messenger (ﷺ), a meteor shot gave a dazzling light. Allah's Messenger (ﷺ) said: What did you say in the pre-Islamic days when there was such a shot (of meteor)? They said: Allah and His Messenger know best (the actual position), but we, however, used to say that that very night a great man had been born and a great man had died, whereupon Allah's Messenger (ﷺ) said: (These meteors) are shot neither at the death of anyone nor on the birth of anyone. Allah, the Exalted and Glorious, issues Command when He decides to do a thing. Then (the Angels) supporting the Throne sing His glory, then sing the dwellers of heaven who are near to them until this glory of God reaches them who are in the heaven of this world. Then those who are near the supporters of the Throne ask these supporters of the Throne: What your Lord has said? And they accordingly inform them what He says. Then the dwellers of heaven seek information from them until this information reaches the heaven of the world. In this process of transmission (the jinn snatches) what he manages to overhear and he carries it to his friends. And when the Angels see the jinn they attack them with meteors. If they narrate only which they manage to snatch that is correct but they alloy it with lies and make additions to it."
+      }
+    },
+    {
+      "id": 172,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا أَبُو عَمْرٍو الأَوْزَاعِيُّ، ح\n وَحَدَّثَنَا أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، ح وَحَدَّثَنِي سَلَمَةُ بْنُ،\n شَبِيبٍ حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، حَدَّثَنَا مَعْقِلٌ، - يَعْنِي ابْنَ عُبَيْدِ اللَّهِ - كُلُّهُمْ عَنِ الزُّهْرِيِّ،\n بِهَذَا الإِسْنَادِ غَيْرَ أَنَّ يُونُسَ، قَالَ عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ أَخْبَرَنِي رِجَالٌ مِنْ أَصْحَابِ\n رَسُولِ اللَّهِ مِنَ الأَنْصَارِ وَفِي حَدِيثِ الأَوْزَاعِيِّ ‏\"‏ وَلَكِنْ يَقْرِفُونَ فِيهِ وَيَزِيدُونَ ‏\"‏ ‏.‏ وَفِي\n حَدِيثِ يُونُسَ ‏\"‏ وَلَكِنَّهُمْ يَرْقَوْنَ فِيهِ وَيَزِيدُونَ ‏\"‏ ‏.‏ وَزَادَ فِي حَدِيثِ يُونُسَ وَقَالَ اللَّهُ ‏\"‏\n حَتَّى إِذَا فُزِّعَ عَنْ قُلُوبِهِمْ قَالُوا مَاذَا قَالَ رَبُّكُمْ قَالُوا الْحَقَّ ‏\"‏ ‏.‏ وَفِي حَدِيثِ مَعْقِلٍ كَمَا\n قَالَ الأَوْزَاعِيُّ ‏\"‏ وَلَكِنَّهُمْ يَقْرِفُونَ فِيهِ وَيَزِيدُونَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The hadith has been narrated on the authority of Zuhri through the same chain of transmitters but with a slight variation of wording."
+      }
+    },
+    {
+      "id": 173,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى الْعَنَزِيُّ، حَدَّثَنَا يَحْيَى، - يَعْنِي ابْنَ سَعِيدٍ - عَنْ عُبَيْدِ اللَّهِ،\n عَنْ نَافِعٍ، عَنْ صَفِيَّةَ، عَنْ بَعْضِ، أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم عَنِ النَّبِيِّ صلى الله\n عليه وسلم قَالَ ‏\n\"‏ مَنْ أَتَى عَرَّافًا فَسَأَلَهُ عَنْ شَىْءٍ لَمْ تُقْبَلْ لَهُ صَلاَةٌ أَرْبَعِينَ لَيْلَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Safiyya reported from some of the wives of Allah's Apostle (ﷺ) Allah's Apostle (ﷺ) having said:",
+        "text": "He who visits a diviner ('Arraf) and asks him about anything, his prayers extending to forty nights will not be accepted."
+      }
+    },
+    {
+      "id": 174,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا \n شَرِيكُ بْنُ عَبْدِ اللَّهِ، وَهُشَيْمُ بْنُ بَشِيرٍ، عَنْ يَعْلَى بْنِ عَطَاءٍ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، عَنْ أَبِيهِ،\n قَالَ كَانَ فِي وَفْدِ ثَقِيفٍ رَجُلٌ مَجْذُومٌ فَأَرْسَلَ إِلَيْهِ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ إِنَّا قَدْ\n بَايَعْنَاكَ فَارْجِعْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Amr b. Sharid reported on the authority of his father that there was in the delegation of Thaqif a leper. Allah's Apostle (ﷺ) sent a message to him:",
+        "text": "We have accepted your allegiance, so you may go."
+      }
+    },
+    {
+      "id": 175,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، وَابْنُ، نُمَيْرٍ عَنْ هِشَامٍ، ح\n وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا عَبْدَةُ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ أَمَرَ رَسُولُ اللَّهِ\n صلى الله عليه وسلم بِقَتْلِ ذِي الطُّفْيَتَيْنِ فَإِنَّهُ يَلْتَمِسُ الْبَصَرَ وَيُصِيبُ الْحَبَلَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'A'isha reported that Allah's Messenger (ﷺ) commanded the killing of a snake having stripes over it, for it affects eyesight and miscarries pregnancy."
+      }
+    },
+    {
+      "id": 176,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، أَخْبَرَنَا هِشَامٌ، بِهَذَا الإِسْنَادِ\n وَقَالَ الأَبْتَرُ وَذُو الطُّفْيَتَيْنِ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been transmitted on the authority of Hisham. He said:",
+        "text": "The short-tailed snake and the snake having stripes over it should be killed."
+      }
+    },
+    {
+      "id": 177,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَمْرُو بْنُ مُحَمَّدٍ النَّاقِدُ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ،\n عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\n\"‏ اقْتُلُوا الْحَيَّاتِ وَذَا الطُّفْيَتَيْنِ وَالأَبْتَرَ فَإِنَّهُمَا\n يَسْتَسْقِطَانِ الْحَبَلَ وَيَلْتَمِسَانِ الْبَصَرَ ‏\"‏ ‏.‏ قَالَ فَكَانَ ابْنُ عُمَرَ يَقْتُلُ كُلَّ حَيَّةٍ وَجَدَهَا فَأَبْصَرَهُ\n أَبُو لُبَابَةَ بْنُ عَبْدِ الْمُنْذِرِ أَوْ زَيْدُ بْنُ الْخَطَّابِ وَهُوَ يُطَارِدُ حَيَّةً فَقَالَ إِنَّهُ قَدْ نَهَى عَنْ ذَوَاتِ\n الْبُيُوتِ ‏.‏",
+      "english": {
+        "narrator": "Salim, on the authority of his father. reported Allah's Apostle (ﷺ) as saying:",
+        "text": "Kill the snakes having stripes over them and short-tailed snakes, for these two types cause miscarriage (of a pregnant woman) and they affect the eyesight adversely. So Ibn 'Umar used to kill every snake that he found. Abu Lubaba b. 'Abd al-Mundhir and Zaid b. Khattab saw him pursuing a snake, whereupon he said: They were forbidden (to kill) those snakes who live in houses."
+      }
+    },
+    {
+      "id": 178,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا حَاجِبُ بْنُ الْوَلِيدِ، حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، عَنِ الزُّبَيْدِيِّ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي \n سَالِمُ بْنُ عَبْدِ اللَّهِ، عَنِ ابْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَأْمُرُ بِقَتْلِ\n الْكِلاَبِ يَقُولُ ‏\\\"‏ اقْتُلُوا الْحَيَّاتِ وَالْكِلاَبَ وَاقْتُلُوا ذَا الطُّفْيَتَيْنِ وَالأَبْتَرَ فَإِنَّهُمَا يَلْتَمِسَانِ الْبَصَرَ\n وَيَسْتَسْقِطَانِ الْحَبَالَى ‏\\\"‏ ‏.‏ قَالَ الزُّهْرِيُّ وَنُرَى ذَلِكَ مِنْ سُمَّيْهِمَا وَاللَّهُ أَعْلَمُ ‏.‏ قَالَ سَالِمٌ\n قَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ فَلَبِثْتُ لاَ أَتْرُكُ حَيَّةً أَرَاهَا إِلاَّ قَتَلْتُهَا فَبَيْنَا أَنَا أُطَارِدُ حَيَّةً يَوْمًا\n مِنْ ذَوَاتِ الْبُيُوتِ مَرَّ بِي زَيْدُ بْنُ الْخَطَّابِ أَوْ أَبُو لُبَابَةَ وَأَنَا أُطَارِدُهَا فَقَالَ مَهْلاً يَا عَبْدَ\n اللَّهِ ‏.‏ فَقُلْتُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَ بِقَتْلِهِنَّ ‏.‏ قَالَ إِنَّ رَسُولَ اللَّهِ صلى\n الله عليه وسلم قَدْ نَهَى عَنْ ذَوَاتِ الْبُيُوتِ ‏.‏ \n وَحَدَّثَنِيهِ حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، ح وَحَدَّثَنَا عَبْدُ بْنُ،\n حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، ح وَحَدَّثَنَا حَسَنٌ الْحُلْوَانِيُّ، حَدَّثَنَا يَعْقُوبُ، حَدَّثَنَا \n أَبِي، عَنْ صَالِحٍ، كُلُّهُمْ عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّ صَالِحًا، قَالَ حَتَّى رَآنِي أَبُو لُبَابَةَ\n بْنُ عَبْدِ الْمُنْذِرِ وَزَيْدُ بْنُ الْخَطَّابِ فَقَالاَ إِنَّهُ قَدْ نَهَى عَنْ ذَوَاتِ الْبُيُوتِ ‏.‏ وَفِي حَدِيثِ يُونُسَ\n ‏\\\"‏ اقْتُلُوا الْحَيَّاتِ ‏\\\"‏ ‏.‏ وَلَمْ يَقُلْ ‏\\\"‏ ذَا الطُّفْيَتَيْنِ وَالأَبْتَرَ ‏\\\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar reported:",
+        "text": "I heard Allah's Messenger (ﷺ) commanding the killing of dogs and the killing of the striped and the short-tailed snakes, for both of them affect the eyesight adversely and cause miscarriage. Zuhri said: We thought of their poison (the pernicious effects of these two). Allah, however, knows best. 'Abdullah b. 'Umar said: I did not spare any snake. I rather killed everyone that I saw. One day as I was pursuing a snake from amongst the snakes of the house, Zaid b. Khattab or Abu Lubaba happened to pass by me and found me pursuing it. He said: 'Abdullah, wait. I said: Allah's Messenger (ﷺ) commanded (us) to kill them, whereupon he said that Allah's Messenger (ﷺ) forbade the killing of the snakes of the houses. This hadith has been narrated on the authority of Zuhri with the same chain of transmitters but with a slight variation of wording."
+      }
+    },
+    {
+      "id": 179,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، ح وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَاللَّفْظُ، لَهُ حَدَّثَنَا \n لَيْثٌ، عَنْ نَافِعٍ، أَنَّ أَبَا لُبَابَةَ، كَلَّمَ ابْنَ عُمَرَ لِيَفْتَحَ لَهُ بَابًا فِي دَارِهِ يَسْتَقْرِبُ بِهِ إِلَى الْمَسْجِدِ\n فَوَجَدَ الْغِلْمَةُ جِلْدَ جَانٍّ فَقَالَ عَبْدُ اللَّهِ الْتَمِسُوهُ فَاقْتُلُوهُ ‏.‏ فَقَالَ أَبُو لُبَابَةَ لاَ تَقْتُلُوهُ فَإِنَّ\n رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ قَتْلِ الْجِنَّانِ الَّتِي فِي الْبُيُوتِ ‏.‏",
+      "english": {
+        "narrator": "Nafi' reported that Abu Lubaba talked to Ibn 'Umar to open a door in his house which would bring them nearer to the mosque and they found a fresh slough of the snake, whereupon 'Abdullah said:",
+        "text": "Find it out and kill it. Abu Lubaba said: Don't kill them, for Allah's Messenger (ﷺ) forbade the killing of the snakes found in houses."
+      }
+    },
+    {
+      "id": 180,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، حَدَّثَنَا نَافِعٌ، قَالَ كَانَ ابْنُ عُمَرَ\n يَقْتُلُ الْحَيَّاتِ كُلَّهُنَّ حَتَّى حَدَّثَنَا أَبُو لُبَابَةَ بْنُ عَبْدِ الْمُنْذِرِ الْبَدْرِيُّ، أَنَّ رَسُولَ اللَّهِ صلى الله\n عليه وسلم نَهَى عَنْ قَتْلِ جِنَّانِ الْبُيُوتِ فَأَمْسَكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Nafi' reported that Ibn 'Urnar used to kill all types of snakes until Abu Lubaba b. 'Abd al-Mundhir Badri reported that Allah's Messenger (ﷺ) had forbidden the killing of the snakes of the houses, and so he abstained from it."
+      }
+    },
+    {
+      "id": 181,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، - وَهُوَ الْقَطَّانُ - عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي \n نَافِعٌ، أَنَّهُ سَمِعَ أَبَا لُبَابَةَ، يُخْبِرُ ابْنَ عُمَرَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ قَتْلِ\n الْجِنَّانِ ‏.",
+      "english": {
+        "narrator": "",
+        "text": "Nafi' reported that he heard Abu Lubaba informing Ibn 'Umar that Allah's Messenger (ﷺ) had forbidden the killing of domestic snakes."
+      }
+    },
+    {
+      "id": 182,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ مُوسَى الأَنْصَارِيُّ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، حَدَّثَنَا عُبَيْدُ،\n اللَّهِ عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ أَبِي لُبَابَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح \n وَحَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ الضُّبَعِيُّ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ نَافِعٍ، عَنْ \n عَبْدِ اللَّهِ، أَنَّ أَبَا لُبَابَةَ، أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ قَتْلِ الْجِنَّانِ\n الَّتِي فِي الْبُيُوتِ ‏.",
+      "english": {
+        "narrator": "",
+        "text": "'Abdullah reported that Abu Lubaba had informed him that Allah's Messenger (ﷺ) had forbidden the killing of the snakes found in the house."
+      }
+    },
+    {
+      "id": 183,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، - يَعْنِي الثَّقَفِيَّ - قَالَ سَمِعْتُ يَحْيَى،\n بْنَ سَعِيدٍ يَقُولُ أَخْبَرَنِي نَافِعٌ، أَنَّ أَبَا لُبَابَةَ بْنَ عَبْدِ الْمُنْذِرِ الأَنْصَارِيَّ، - وَكَانَ مَسْكَنُهُ بِقُبَاءٍ\n فَانْتَقَلَ إِلَى الْمَدِينَةِ - فَبَيْنَمَا عَبْدُ اللَّهِ بْنُ عُمَرَ جَالِسًا مَعَهُ يَفْتَحُ خَوْخَةً لَهُ إِذَا هُمْ بِحَيَّةٍ\n مِنْ عَوَامِرِ الْبُيُوتِ فَأَرَادُوا قَتْلَهَا فَقَالَ أَبُو لُبَابَةَ إِنَّهُ قَدْ نُهِيَ عَنْهُنَّ - يُرِيدُ عَوَامِرَ الْبُيُوتِ\n - وَأُمِرَ بِقَتْلِ الأَبْتَرِ وَذِي الطُّفْيَتَيْنِ وَقِيلَ هُمَا اللَّذَانِ يَلْتَمِعَانِ الْبَصَرَ وَيَطْرَحَانِ أَوْلاَدَ النِّسَاءِ\n ‏.‏",
+      "english": {
+        "narrator": "Nafi' reported that Abu Lubaba b. 'Abd al-Mundhir al-Ansari (first) lived in Quba. He then shifted to Medina and as he was in the company of 'Abdullah b. 'Umar opening a window for him, he suddenly saw a snake in the house. They (the inmates of the house) attempted to kill that. Thereupon Abu Lubaba said:",
+        "text": "They had been forbidden to make an attempt to kill house snakes and they had been commanded to kill the snakes having small tails, small snakes and those having streaks over them, and it was said: Both of them affect the eyes and cause miscarriage to women."
+      }
+    },
+    {
+      "id": 184,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا مُحَمَّدُ بْنُ جَهْضَمٍ، حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ\n عِنْدَنَا ابْنُ جَعْفَرٍ - عَنْ عُمَرَ بْنِ نَافِعٍ، عَنْ أَبِيهِ، قَالَ كَانَ عَبْدُ اللَّهِ بْنُ عُمَرَ يَوْمًا عِنْدَ هَدْمٍ\n لَهُ فَرَأَى وَبِيصَ جَانٍّ فَقَالَ اتَّبِعُوا هَذَا الْجَانَّ فَاقْتُلُوهُ ‏.‏ قَالَ أَبُو لُبَابَةَ الأَنْصَارِيُّ إِنِّي\n سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ قَتْلِ الْجِنَّانِ الَّتِي تَكُونُ فِي الْبُيُوتِ إِلاَّ\n الأَبْتَرَ وَذَا الطُّفْيَتَيْنِ فَإِنَّهُمَا اللَّذَانِ يَخْطِفَانِ الْبَصَرَ وَيَتَتَبَّعَانِ مَا فِي بُطُونِ النِّسَاءِ ‏.‏",
+      "english": {
+        "narrator": "Nafi' reported on the authority of his father that as 'Abdullah b. 'Umar saw one day (standing) near the ruin (of his house) the slough of a snake and said (to the people around him):",
+        "text": "Pursue this snake and kill it. Abu Lubaba Ansari said: I heard Allah's Messenger (ﷺ). He forbade the killing of snakes found in the houses except the short-tailed snakes and those having streaks upon them, for both of them obliterate eyesight and affect that which is in the wombs of (pregnant) women."
+      }
+    },
+    {
+      "id": 185,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنِي أُسَامَةُ، أَنَّ نَافِعًا، حَدَّثَهُ \n أَنَّ أَبَا لُبَابَةَ مَرَّ بِابْنِ عُمَرَ وَهُوَ عِنْدَ الأُطُمِ الَّذِي عِنْدَ دَارِ عُمَرَ بْنِ الْخَطَّابِ يَرْصُدُ حَيَّةً بِنَحْوِ\n حَدِيثِ اللَّيْثِ بْنِ سَعْدٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Nafi' reported that Abu Lubaba happened to pass by Ibn 'Umar who lived in the fortified place near the house of 'Umar b. Khattab and was busy in keeping his eyes upon a snake and killing it, the rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 186,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ\n - وَاللَّفْظُ لِيَحْيَى - قَالَ يَحْيَى وَإِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ \n الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، قَالَ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم\n فِي غَارٍ وَقَدْ أُنْزِلَتْ عَلَيْهِ ‏{‏ وَالْمُرْسَلاَتِ عُرْفًا‏}‏ ‏.‏ فَنَحْنُ نَأْخُذُهَا مِنْ فِيهِ رَطْبَةً إِذْ خَرَجَتْ\n عَلَيْنَا حَيَّةٌ فَقَالَ ‏\"‏ اقْتُلُوهَا ‏\"‏ ‏.‏ فَابْتَدَرْنَاهَا لِنَقْتُلَهَا فَسَبَقَتْنَا فَقَالَ رَسُولُ اللَّهِ صلى الله\n عليه وسلم ‏\"‏ وَقَاهَا اللَّهُ شَرَّكُمْ كَمَا وَقَاكُمْ شَرَّهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah reported:",
+        "text": "We were with Allah's Messenger (ﷺ) in a cave when there was revealed to him (the Sura al-Mursalat, i. e. Sura lxxvii.:\" By those sent forth to spread goodness\" ) and we had just heard (it) from his lips that there appeared before us a snake. He said: Kill it. We hastened to kill it, but it slipped away from us, thereupon Allah's Messenger (ﷺ) said: Allah saved it from your harm just as he saved you from its evil."
+      }
+    },
+    {
+      "id": 187,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، قَالاَ حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ،\n فِي هَذَا الإِسْنَادِ بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of al-A'mash with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 188,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا حَفْصٌ، - يَعْنِي ابْنَ غِيَاثٍ - حَدَّثَنَا الأَعْمَشُ، عَنْ إِبْرَاهِيمَ،\n عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَ مُحْرِمًا بِقَتْلِ حَيَّةٍ بِمِنًى\n ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Abdullah reported that Allah's Messenger (ﷺ) commanded a Muhrim (one who is in the state of pilgrimage) to kill the snake at Mina."
+      }
+    },
+    {
+      "id": 189,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنِي إِبْرَاهِيمُ،\n عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، قَالَ بَيْنَمَا نَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي غَارٍ\n ‏.‏ بِمِثْلِ حَدِيثِ جَرِيرٍ وَأَبِي مُعَاوِيَةَ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah reported:",
+        "text": "While we were with the Messenger of Allah (ﷺ) in the cave, the rest of the hadith is the same as the one narrated above."
+      }
+    },
+    {
+      "id": 190,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَحْمَدُ بْنُ عَمْرِو بْنِ سَرْحٍ أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي \n مَالِكُ بْنُ أَنَسٍ، عَنْ صَيْفِيٍّ، - وَهُوَ عِنْدَنَا مَوْلَى ابْنِ أَفْلَحَ - أَخْبَرَنِي أَبُو السَّائِبِ، مَوْلَى\n هِشَامِ بْنِ زُهْرَةَ أَنَّهُ دَخَلَ عَلَى أَبِي سَعِيدٍ الْخُدْرِيِّ فِي بَيْتِهِ قَالَ فَوَجَدْتُهُ يُصَلِّي فَجَلَسْتُ\n أَنْتَظِرُهُ حَتَّى يَقْضِيَ صَلاَتَهُ فَسَمِعْتُ تَحْرِيكًا فِي عَرَاجِينَ فِي نَاحِيَةِ الْبَيْتِ فَالْتَفَتُّ فَإِذَا\n حَيَّةٌ فَوَثَبْتُ لأَقْتُلَهَا فَأَشَارَ إِلَىَّ أَنِ اجْلِسْ ‏.‏ فَجَلَسْتُ فَلَمَّا انْصَرَفَ أَشَارَ إِلَى بَيْتٍ فِي\n الدَّارِ فَقَالَ أَتَرَى هَذَا الْبَيْتَ فَقُلْتُ نَعَمْ ‏.‏ قَالَ كَانَ فِيهِ فَتًى مِنَّا حَدِيثُ عَهْدٍ بِعُرْسٍ - قَالَ\n - فَخَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَى الْخَنْدَقِ فَكَانَ ذَلِكَ الْفَتَى يَسْتَأْذِنُ رَسُولَ\n اللَّهِ صلى الله عليه وسلم بِأَنْصَافِ النَّهَارِ فَيَرْجِعُ إِلَى أَهْلِهِ فَاسْتَأْذَنَهُ يَوْمًا فَقَالَ لَهُ رَسُولُ\n اللَّهِ صلى الله عليه وسلم ‏\"‏ خُذْ عَلَيْكَ سِلاَحَكَ فَإِنِّي أَخْشَى عَلَيْكَ قُرَيْظَةَ ‏\"‏ ‏.‏ فَأَخَذَ الرَّجُلُ\n سِلاَحَهُ ثُمَّ رَجَعَ فَإِذَا امْرَأَتُهُ بَيْنَ الْبَابَيْنِ قَائِمَةً فَأَهْوَى إِلَيْهَا الرُّمْحَ لِيَطْعُنَهَا بِهِ وَأَصَابَتْهُ\n غَيْرَةٌ فَقَالَتْ لَهُ اكْفُفْ عَلَيْكَ رُمْحَكَ وَادْخُلِ الْبَيْتَ حَتَّى تَنْظُرَ مَا الَّذِي أَخْرَجَنِي ‏.‏ فَدَخَلَ\n فَإِذَا بِحَيَّةٍ عَظِيمَةٍ مُنْطَوِيَةٍ عَلَى الْفِرَاشِ فَأَهْوَى إِلَيْهَا بِالرُّمْحِ فَانْتَظَمَهَا بِهِ ثُمَّ خَرَجَ فَرَكَزَهُ\n فِي الدَّارِ فَاضْطَرَبَتْ عَلَيْهِ فَمَا يُدْرَى أَيُّهُمَا كَانَ أَسْرَعَ مَوْتًا الْحَيَّةُ أَمِ الْفَتَى قَالَ فَجِئْنَا\n إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرْنَا ذَلِكَ لَهُ وَقُلْنَا ادْعُ اللَّهَ يُحْيِيهِ لَنَا ‏.‏ فَقَالَ ‏\"‏\n اسْتَغْفِرُوا لِصَاحِبِكُمْ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ إِنَّ بِالْمَدِينَةِ جِنًّا قَدْ أَسْلَمُوا فَإِذَا رَأَيْتُمْ مِنْهُمْ شَيْئًا\n فَآذِنُوهُ ثَلاَثَةَ أَيَّامٍ فَإِنْ بَدَا لَكُمْ بَعْدَ ذَلِكَ فَاقْتُلُوهُ فَإِنَّمَا هُوَ شَيْطَانٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu as-Sa'ib, the freed slaved of Hisham b. Zuhra, said that he visited Abu Sa'id Khudri in his house, (and he further) said:",
+        "text": "I found him saying his prayer, so I sat down waiting for him to finish his prayer when I heard a stir in the bundles (of wood) lying in a comer of the house. I looked towards it and found a snake. I jumped up in order to kill it, but he (Abu Sa'id Khudri) made a gesture that I should sit down. So I sat down and as he finished (the prayer) he pointed to a room in the house and said: Do you see this room? I said: Yes. He said: There was a young man amongst us who had been newly wedded. We went with Allah's Messenger (ﷺ) (to participate in the Battle) of Trench when a young man in the midday used to seek permission from Allah's Messenger (ﷺ) to return to his family. One day he sought permission from him and Allah's Messenger (ﷺ) (after granting him the permission) said to him: Carry your weapons with you for I fear the tribe of Quraiza (may harm you). The man carried the weapons and then came back and found his wife standing between the two doors. He bent towards her smitten by jealousy and made a dash towards her with a spear in order to stab her. She said: Keep your spear away and enter the house until you see that which has made me come out. He entered and found a big snake coiled on the bedding. He darted with the spear and pierced it and then went out having fixed it in the house, but the snake quivered and attacked him and no one knew which of them died first, the snake or the young man. We came to Allah's Apostle (ﷺ) and made a mention to him and said: Supplicate to Allah that that (man) may be brought back to life. Thereupon he said: Ask forgiveness for your companion and then said: There are in Medina jinns who have accepted Islam, so when you see any one of them, pronounce a warning to it for three days, and if they appear before you after that, then kill it for that is a devil."
+      }
+    },
+    {
+      "id": 191,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرِ بْنِ حَازِمٍ، حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ \n أَسْمَاءَ بْنَ عُبَيْدٍ، يُحَدِّثُ عَنْ رَجُلٍ، يُقَالُ لَهُ السَّائِبُ - وَهُوَ عِنْدَنَا أَبُو السَّائِبِ - قَالَ دَخَلْنَا\n عَلَى أَبِي سَعِيدٍ الْخُدْرِيِّ فَبَيْنَمَا نَحْنُ جُلُوسٌ إِذْ سَمِعْنَا تَحْتَ، سَرِيرِهِ حَرَكَةً فَنَظَرْنَا فَإِذَا\n حَيَّةٌ ‏.‏ وَسَاقَ الْحَدِيثَ بِقِصَّتِهِ نَحْوَ حَدِيثِ مَالِكٍ عَنْ صَيْفِيٍّ وَقَالَ فِيهِ فَقَالَ رَسُولُ اللَّهِ صلى\n الله عليه وسلم ‏\"‏ إِنَّ لِهَذِهِ الْبُيُوتِ عَوَامِرَ فَإِذَا رَأَيْتُمْ شَيْئًا مِنْهَا فَحَرِّجُوا عَلَيْهَا ثَلاَثًا\n فَإِنْ ذَهَبَ وَإِلاَّ فَاقْتُلُوهُ فَإِنَّهُ كَافِرٌ ‏\"‏ ‏.‏ وَقَالَ لَهُمُ ‏\"‏ اذْهَبُوا فَادْفِنُوا صَاحِبَكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Asma' b. 'Ubaid reported about a person who was called as-Sa'ib having said:",
+        "text": "We visited Abu Sa'id Khudri. When we had been sitting (with him) we heard a stir under his bed. When we looked we found a big snake, the rest of the hadith is the same. And in this Allah's Messenger (ﷺ) is reported to have said: Verily in these houses there live aged (snakes), so when you see one of them, make life hard for it for three days, and if it goes away (well and good), otherwise kill it for (in that case) it would be a nonbeliever. And he (the Holy Prophet) said (to his Companions): Go and bury your companion (who had died by the snake bite)."
+      }
+    },
+    {
+      "id": 192,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ ابْنِ عَجْلاَنَ، حَدَّثَنِي صَيْفِيٌّ،\n عَنْ أَبِي السَّائِبِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ سَمِعْتُهُ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه\n وسلم ‏\n\"‏ إِنَّ بِالْمَدِينَةِ نَفَرًا مِنَ الْجِنِّ قَدْ أَسْلَمُوا فَمَنْ رَأَى شَيْئًا مِنْ هَذِهِ الْعَوَامِرِ فَلْيُؤْذِنْهُ\n ثَلاَثًا فَإِنْ بَدَا لَهُ بَعْدُ فَلْيَقْتُلْهُ فَإِنَّهُ شَيْطَانٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id Khudri reported Allah's Messenger having said:",
+        "text": "There is a group of jinns in Medina who accepted Islam, so he who would see anything from these occupants should warn him three times; and if he appears after that, he should kill him for he is a satan."
+      }
+    },
+    {
+      "id": 193,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ،\n قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرُونَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَبْدِ الْحَمِيدِ بْنِ جُبَيْرِ،\n بْنِ شَيْبَةَ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أُمِّ شَرِيكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَمَرَهَا بِقَتْلِ\n الأَوْزَاغِ ‏.‏ وَفِي حَدِيثِ ابْنِ أَبِي شَيْبَةَ أَمَرَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Umm Sharik reported that Allah's Messenger (ﷺ) commanded her to kill geckos. This hadith has been transmitted on the authority of Ibn Abi Shaiba with a slight variation of wording."
+      }
+    },
+    {
+      "id": 194,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي ابْنُ جُرَيْجٍ، ح وَحَدَّثَنِي مُحَمَّدُ،\n بْنُ أَحْمَدَ بْنِ أَبِي خَلَفٍ حَدَّثَنَا رَوْحٌ، حَدَّثَنَا ابْنُ جُرَيْجٍ، ح وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا \n مُحَمَّدُ بْنُ بَكْرٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَبْدُ الْحَمِيدِ بْنُ جُبَيْرِ بْنِ شَيْبَةَ، أَنَّ سَعِيدَ بْنَ الْمُسَيَّبِ،\n أَخْبَرَهُ أَنَّ أُمَّ شَرِيكٍ أَخْبَرَتْهُ أَنَّهَا، اسْتَأْمَرَتِ النَّبِيَّ صلى الله عليه وسلم فِي قَتْلِ الْوِزْغَانِ\n فَأَمَرَ بِقَتْلِهَا ‏.‏ وَأُمُّ شَرِيكٍ إِحْدَى نِسَاءِ بَنِي عَامِرِ بْنِ لُؤَىٍّ ‏.‏ اتَّفَقَ لَفْظُ حَدِيثِ ابْنِ أَبِي خَلَفٍ\n وَعَبْدِ بْنِ حُمَيْدٍ وَحَدِيثُ ابْنِ وَهْبٍ قَرِيبٌ مِنْهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Umm Sharik reported that she consulted Allah's Apostle (ﷺ) in regard to killing of geckos, and he commanded to kill them and Umm Sharik is one of the women of Bani 'Amir b. Luwayy. This hadith has been reported through another chain of transmitters with the same meaning."
+      }
+    },
+    {
+      "id": 195,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالاَ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ،\n عَنِ الزُّهْرِيِّ، عَنْ عَامِرِ بْنِ سَعْدٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَمَرَ بِقَتْلِ الْوَزَغِ\n وَسَمَّاهُ فُوَيْسِقًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Amir b. Sa'd reported on the authority of his father that Allah's Apostle (ﷺ) commanded the killing of geckos, and he called them little noxious creatures."
+      }
+    },
+    {
+      "id": 196,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ الزُّهْرِيِّ،\n عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لِلْوَزَغِ ‏\n\"‏ الْفُوَيْسِقُ ‏\"‏ ‏.‏\n زَادَ حَرْمَلَةُ قَالَتْ وَلَمْ أَسْمَعْهُ أَمَرَ بِقَتْلِهِ ‏.‏",
+      "english": {
+        "narrator": "'A'isha reported that Allah's Messenger (ﷺ) said about the gecko as a noxious creature\". Harmala made this addition that she said:",
+        "text": "I did not hear that he had commanded to kill them."
+      }
+    },
+    {
+      "id": 197,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي،\n هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ قَتَلَ وَزَغَةً فِي أَوَّلِ ضَرْبَةٍ فَلَهُ\n كَذَا وَكَذَا حَسَنَةً وَمَنْ قَتَلَهَا فِي الضَّرْبَةِ الثَّانِيَةِ فَلَهُ كَذَا وَكَذَا حَسَنَةً لِدُونِ الأُولَى وَإِنْ قَتَلَهَا\n فِي الضَّرْبَةِ الثَّالِثَةِ فَلَهُ كَذَا وَكَذَا حَسَنَةً لِدُونِ الثَّانِيَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "He who killed a gecko with the first stroke for him is such and such a reward, and he who killed it with a second stroke for him is such and such reward less than the first one, and he who killed it with the third stroke for him is such and such a reward less than the second one."
+      }
+    },
+    {
+      "id": 198,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، ح وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ،\n ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا إِسْمَاعِيلُ يَعْنِي ابْنَ زَكَرِيَّاءَ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ،\n حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، كُلُّهُمْ عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله\n عليه وسلم ‏.‏ بِمَعْنَى حَدِيثِ خَالِدٍ عَنْ سُهَيْلٍ إِلاَّ جَرِيرًا وَحْدَهُ فَإِنَّ فِي حَدِيثِهِ ‏\n\"‏ مَنْ قَتَلَ\n وَزَغًا فِي أَوَّلِ ضَرْبَةٍ كُتِبَتْ لَهُ مِائَةُ حَسَنَةٍ وَفِي الثَّانِيَةِ دُونَ ذَلِكَ وَفِي الثَّالِثَةِ دُونَ ذَلِكَ\n ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been reported on the authority of Abu Huraira through another chain of transmitters (and the words are):",
+        "text": "- He who killed a gecko with the first stroke for him are ordained one hundred virtues, and with the second one less than that and with the third one less than that."
+      }
+    },
+    {
+      "id": 199,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا إِسْمَاعِيلُ يَعْنِي ابْنَ زَكَرِيَّاءَ، عَنْ سُهَيْلٍ، حَدَّثَتْنِي \n أُخْتِي، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ فِي أَوَّلِ ضَرْبَةٍ سَبْعِينَ\n حَسَنَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported Allah's Messenger (ﷺ) as saying (that he who kills a gecko) with the first stroke there are seventy rewards for him."
+      }
+    },
+    {
+      "id": 200,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ،\n عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَأَبِي، سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِي هُرَيْرَةَ، عَنْ \n رَسُولِ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَنَّ نَمْلَةً قَرَصَتْ نَبِيًّا مِنَ الأَنْبِيَاءِ فَأَمَرَ بِقَرْيَةِ النَّمْلِ\n فَأُحْرِقَتْ فَأَوْحَى اللَّهُ إِلَيْهِ أَفِي أَنْ قَرَصَتْكَ نَمْلَةٌ أَهْلَكْتَ أُمَّةً مِنَ الأُمَمِ تُسَبِّحُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "An ant had bitten a Prophet (one amongst the earlier Prophets) and he ordered that the colony of the ants should be burnt. And Allah revealed to him:\" Because of an ant's bite you have burnt a community from amongst the communities which sings My glory.\""
+      }
+    },
+    {
+      "id": 201,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا الْمُغِيرَةُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْحِزَامِيَّ - عَنْ \n أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ نَزَلَ نَبِيٌّ\n مِنَ الأَنْبِيَاءِ تَحْتَ شَجَرَةٍ فَلَدَغَتْهُ نَمْلَةٌ فَأَمَرَ بِجِهَازِهِ فَأُخْرِجَ مِنْ تَحْتِهَا ثُمَّ أَمَرَ بِهَا فَأُحْرِقَتْ\n فَأَوْحَى اللَّهُ إِلَيْهِ فَهَلاَّ نَمْلَةً وَاحِدَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "An Apostle from amongst the Apostles of Allah encamped under a tree, and an ant bit him, and he commanded his belongings to be removed from underneath the tree. He then commanded and it was burnt, and Allah revealed to bin):\" Why one ant (which had bitten you) was not killed?\""
+      }
+    }
+  ]
+}

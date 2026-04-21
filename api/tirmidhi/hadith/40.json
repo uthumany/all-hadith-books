@@ -1,0 +1,16 @@
+{
+  "id": 40,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا سَعِيدُ بْنُ يَعْقُوبَ الطَّالْقَانِيُّ، حَدَّثَنَا أَيُّوبُ بْنُ جَابِرٍ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ كَانَ خَاتَمُ رَسُولِ اللَّهِ صلى الله عليه وسلم - يَعْنِي الَّذِي بَيْنَ كَتِفَيْهِ غُدَّةً حَمْرَاءَ مِثْلَ بَيْضَةِ الْحَمَامَةِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Jabir bin Samurah:",
+    "text": "\"The seal of the Messenger of Allah (ﷺ)\" - meaning the one which was between his two shoulder blades - \"was fleshy and red, resembling the egg of a pigeon.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

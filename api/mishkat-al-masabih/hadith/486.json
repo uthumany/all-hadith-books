@@ -1,0 +1,16 @@
+{
+  "id": 486,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم: «من سمع الْمُنَادِي فَلَمْ يَمْنَعْهُ مِنِ اتِّبَاعِهِ عُذْرٌ» قَالُوا وَمَا الْعُذْرُ؟ قَالَ: «خَوْفٌ أَوْ مَرَضٌ لَمْ تُقْبَلْ مِنْهُ الصَّلَاةُ الَّتِي صَلَّى» . رَوَاهُ أَبُو دَاوُدَ وَالدَّارَقُطْنِيّ",
+  "english": {
+    "narrator": "",
+    "text": "Ibn ‘Abbas reported God’s Messenger as saying, “If any one hears him who makes the call to prayer and is not prevented from joining the congregation by any excuse,” (he was asked what an excuse consisted of and replied that it was fear or illness), “the prayer he says will not be accepted from him.” \n\nAbu Dawud and Daraqutni transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

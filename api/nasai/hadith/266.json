@@ -1,0 +1,16 @@
+{
+  "id": 266,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ أَنْبَأَنَا النَّضْرُ بْنُ شُمَيْلٍ، قَالَ أَنْبَأَنَا شُعْبَةُ، قَالَ حَدَّثَنَا خَلِيفَةُ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ الزُّبَيْرِ، قَالَ لاَ تُلْبِسُوا نِسَاءَكُمُ الْحَرِيرَ فَإِنِّي سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ لَبِسَهُ فِي الدُّنْيَا لَمْ يَلْبَسْهُ فِي الآخِرَةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Khalifah said:",
+    "text": "\"I heard 'Abdullah bin Az-Zubair say: 'Do not let your womenfolk wear silk, for I heard 'Umar bin Al-Khattab say: The Messenger of Allah  said: Whoever wears it in this world will not wear it in the Hereafter.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

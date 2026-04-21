@@ -1,0 +1,16 @@
+{
+  "id": 441,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن جابر بن عبد الله، رضي الله عنهما ، أنه سمع النبي، صلى الله عليه وسلم، قبل موته بثلاثة أيام يقول ‏:‏ لا يموتن أحدكم إلا وهو يحسن الظن بالله عز وجل‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Jabir bin 'Abdullah (May Allah be pleased with him) reported:",
+    "text": "I heard the Prophet (ﷺ) saying three days before his death: \"Let none of you die unless he has good expectations from Allah\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

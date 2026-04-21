@@ -1,0 +1,16 @@
+{
+  "id": 34,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرٌ، - يَعْنِي ابْنَ الْمُفَضَّلِ - حَدَّثَنَا أَبُو مَسْلَمَةَ، سَعِيدُ بْنُ يَزِيدَ عَنْ أَبِي نَضْرَةَ، عَنْ مُطَرِّفٍ، قَالَ قَالَ أَبِي انْطَلَقْتُ فِي وَفْدِ بَنِي عَامِرٍ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقُلْنَا أَنْتَ سَيِّدُنَا ‏.‏ فَقَالَ ‏\"‏ السَّيِّدُ اللَّهُ تَبَارَكَ وَتَعَالَى ‏\"‏ ‏.‏ قُلْنَا وَأَفْضَلُنَا فَضْلاً وَأَعْظَمُنَا طَوْلاً ‏.‏ فَقَالَ ‏\"‏ قُولُوا بِقَوْلِكُمْ أَوْ بَعْضِ قَوْلِكُمْ وَلاَ يَسْتَجْرِيَنَّكُمُ الشَّيْطَانُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn ash-Shikhkhir:",
+    "text": "I went with a deputation of Banu Amir to the apostle of Allah (ﷺ), and we said: You are our lord (sayyid). To this he replied: The lord is Allah, the Blessed and Exalted. Then we said: And the one of us most endowed with excellence and superiority. To this he replied: Say what you have to say, or part of what you have to say, and do not let the devil make you his agents."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

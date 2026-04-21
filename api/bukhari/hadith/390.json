@@ -1,0 +1,16 @@
+{
+  "id": 390,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ ‏{‏فَهَلْ مِنْ مُدَّكِرٍ‏}‏",
+  "english": {
+    "narrator": "Narrated `Abdullah bin Masud:",
+    "text": "The Prophet (ﷺ) used to recite: \"Fahal-min-Maddakir (then is there any that will receive admonition?\")"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

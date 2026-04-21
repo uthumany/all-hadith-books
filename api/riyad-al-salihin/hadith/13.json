@@ -1,0 +1,16 @@
+{
+  "id": 13,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\n\"‏والله  إني لأستغفر الله وأتوب إليه في  اليوم أكثر من سبعين مرة ‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "I heard Messenger of Allah (ﷺ) saying: \"By Allah, I seek Allah's forgiveness and repent to Him more than seventy times a day.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 319,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" إِذَا قَرَأَ ابْنُ آدَمَ السَّجْدَةَ فَسَجَدَ اعْتَزَلَ الشَّيْطَانُ يَبْكِي يَقُولُ: يَا وَيْلَتِي أُمِرَ ابْنُ آدَمَ بِالسُّجُودِ فَسَجَدَ فَلَهُ الْجَنَّةُ وَأُمِرْتُ بِالسُّجُودِ فَأَبَيْتُ فَلِيَ النَّارُ \". رَوَاهُ مُسْلِمٌ",
+  "english": {
+    "narrator": "He reported God’s Messenger as saying:",
+    "text": "When a man recites as-Sajda (Al-Qur’an; 32) the devil retires weeping and saying, “Woe is me! The son of Adam has been commanded to prostrate himself and has done so, and will be rewarded with paradise; but I have been commanded to prostrate myself and have refused, so I will be punished with hell.” \n\nMuslim transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

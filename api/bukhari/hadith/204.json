@@ -1,0 +1,16 @@
+{
+  "id": 204,
+  "chapterId": 78,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا عَبْدُ اللَّهِ، عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَقُولَنَّ أَحَدُكُمْ خَبُثَتْ نَفْسِي، وَلَكِنْ لِيَقُلْ لَقِسَتْ نَفْسِي ‏\"‏‏.‏ تَابَعَهُ عُقَيْلٌ‏.‏",
+  "english": {
+    "narrator": "Narrated Sal:",
+    "text": "The Prophet (ﷺ) said, \"None of you should say Khabuthat Nafsi but he is recommended to say 'Laqisat \nNafsi (See Hadith No. 202)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

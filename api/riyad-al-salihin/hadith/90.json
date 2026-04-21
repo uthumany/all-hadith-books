@@ -1,0 +1,16 @@
+{
+  "id": 90,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عن أبي هريرة ، قَالَ : جاءَ رَجُلٌ إِلَى النَّبيِّ فَقَالَ : يَا رسولَ الله ، أيُّ الصَّدَقَةِ أعْظَمُ أجْرَاً ؟ قَالَ : « أنْ تَصَدَّقَ وَأنتَ صَحيحٌ شَحيحٌ ، تَخشَى الفَقرَ وتَأمُلُ الغِنَى ، وَلا تُمهِلْ حَتَّى إِذَا بَلَغتِ الحُلقُومَ قُلْتَ لِفُلان كذا ولِفُلانٍ كَذا ، وقَدْ كَانَ لِفُلانٍ » . مُتَّفَقٌ عَلَيهِ .",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) said:",
+    "text": "There came a man to the Prophet (ﷺ) and said, \"O Messenger of Allah, which charity is the most rewardable?\" He (ﷺ) said, \"That you should give charity (in a state when you are) healthy and stingy and fear poverty, hoping to become rich (charity in such a state of health and mind is the best). And you must not defer (charity to such a length) that you are about to die and would be saying: 'This is for so-and-so, and this for so-and-so.' Lo! It has already come into (the possession of) so-and- so\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

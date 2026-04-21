@@ -1,0 +1,16 @@
+{
+  "id": 137,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ،\n عَنِ الزُّهْرِيِّ، فِي هَذَا الإِسْنَادِ بِمِثْلِهِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This hadith has been narrated by Zuhri with the same chain of transmitters."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 320,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبَانُ، حَدَّثَنَا قَتَادَةُ، أَنَّهُ بَلَغَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا رَأَى الْهِلاَلَ قَالَ ‏\"‏ هِلاَلُ خَيْرٍ وَرُشْدٍ هِلاَلُ خَيْرٍ وَرُشْدٍ هِلاَلُ خَيْرٍ وَرُشْدٍ آمَنْتُ بِالَّذِي خَلَقَكَ ‏\"‏ ‏.‏ ثَلاَثَ مَرَّاتٍ ‏.‏ ثُمَّ يَقُولُ ‏\"‏ الْحَمْدُ لِلَّهِ الَّذِي ذَهَبَ بِشَهْرِ كَذَا وَجَاءَ بِشَهْرِ كَذَا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Qatadah:",
+    "text": "When the Prophet of Allah (ﷺ) saw the new moon, he said: \"a new moon of good and right guidance; a new moon of good and right guidance; a new moon of good and right guidance. I believe in Him Who created you\" three times. He would then say: \"Praise be to Allah Who has made such and such a month to pass and has brought such and such a month.\""
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

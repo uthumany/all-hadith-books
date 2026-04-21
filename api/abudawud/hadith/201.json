@@ -1,0 +1,16 @@
+{
+  "id": 201,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ أَبِي حَيَّانَ، عَنْ يَزِيدَ بْنِ حَيَّانَ، عَنْ زَيْدِ بْنِ أَرْقَمَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَهُمْ فَقَالَ ‏\n\"‏ أَمَّا بَعْدُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Zaid b. Arqam said that the Prophet (May peace be upon him) addressed them, saying :",
+    "text": "To proceed (amma ba’d)"
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

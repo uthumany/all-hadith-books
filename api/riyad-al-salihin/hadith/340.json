@@ -1,0 +1,16 @@
+{
+  "id": 340,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي عيسى المغيرة بن شعبة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏إن الله تعالى حرم عليكم عقوق الأمهات، ومنعًا وهات، ووأد البنات، وكره لكم قيل وقال، وكثرة السؤال ، وإضاعة المال‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu 'Isa Al-Mughirah bin Shu'bah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"Allah has forbidden you: disobedience to your mothers, to withhold (what you should give), or demand (what you do not deserve), and to bury your daughters alive. And Allah dislikes idle talk, to ask too many questions (for things which will be of no benefit to one), and to waste your wealth\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

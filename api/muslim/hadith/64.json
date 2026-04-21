@@ -1,0 +1,16 @@
+{
+  "id": 64,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ رَقَبَةَ، أَنَّ أَبَا جَعْفَرٍ الْهَاشِمِيَّ الْمَدَنِيَّ، كَانَ يَضَعُ أَحَادِيثَ كَلاَمَ حَقٍّ وَلَيْسَتْ مِنْ أَحَادِيثِ النَّبِيِّ صلى الله عليه وسلم وَكَانَ يَرْوِيهَا عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Uthmān bin Abī Shaybah narrated to us, Jarīr narrated to us, on authority of Raqabah that ‘Abū Ja’far al-Hāshimī al-Madanī was fabricating narrations with words of truth, and they were not from the narrations of the Prophet, peace and blessings of Allah upon him, though he was transmitting them on authority of the Prophet, peace and blessings of Allah upon him.’"
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

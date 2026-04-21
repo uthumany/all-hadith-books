@@ -1,0 +1,16 @@
+{
+  "id": 175,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي مَالِكٍ الأَشْجَعِيِّ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ حُذَيْفَةَ، قَالَ قَالَ نَبِيُّكُمْ صلى الله عليه وسلم ‏\n\"‏ كُلُّ مَعْرُوفٍ صَدَقَةٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Hudhaifah said :",
+    "text": "Your prophet (May peace be upon him) said : Every good act is a SADAQAH (almsgiving)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

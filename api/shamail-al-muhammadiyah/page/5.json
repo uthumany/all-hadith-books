@@ -1,0 +1,510 @@
+{
+  "page": 5,
+  "perPage": 50,
+  "totalPages": 9,
+  "totalCount": 402,
+  "nextPage": 6,
+  "prevPage": 4,
+  "items": [
+    {
+      "id": 1,
+      "chapterId": 31,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا هُشَيْمٌ، قَالَ‏:‏ حَدَّثَنَا عَاصِمٌ الأَحْوَلُ، وَمُغِيرَةُ، عَنِ الشَّعْبِيِّ، عَنِ ابْنِ عَبَّاسٍ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم، شَرِبَ مِنْ زَمْزَمَ، وَهُوَ قَائِمٌ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas said (may Allah be well pleased with him and his father):",
+        "text": "“The Prophet (Allah bless him and give him peace) drank from  Zamzam while standing.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 31,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ‏:‏ رَأَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم، يَشْرَبُ قَائِمًا، وَقَاعِدًا‏.‏",
+      "english": {
+        "narrator": "'Amr ibn Shu'aib reports on the authority of his father that his grandfather said:",
+        "text": "\"I saw Allah's Messenger (Allah bless him and give him peace) drink while both standing and sitting.”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 31,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ‏:‏ حَدَّثَنَا ابْنُ الْمُبَارِكِ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنِ الشَّعْبِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ‏:‏ سَقَيْتُ النَّبِيَّ صلى الله عليه وسلم، مِنْ زَمْزَمَ، فَشَرِبَ، وَهُوَ قَائِمٌ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas said (may Allah be well pleased with him and his father):",
+        "text": "\"I gave Allah’s Messenger (Allah bless him and give him peace) Zamzam water, and he drank it standing up.”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 31,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلاءِ، وَمُحَمَّدُ بْنُ طَرِيفٍ الْكُوفِيُّ، قَالا‏:‏ حَدَّثَنَا ابْنُ الْفُضَيْلِ، عَنِ الأَعْمَشِ، عَنْ عَبْدِ الْمَلِكِ بْنِ مَيْسَرَةَ، عَنِ النَّزَّالِ بْنِ سَبْرَةَ، قَالَ‏:‏ أَتَى عَلِيٌّ، بِكُوزٍ مِنْ مَاءٍ، وَهُوَ فِي الرَّحْبَةِ، فَأَخَذَ مِنْهُ كَفًّا، فَغَسَلَ يَدَيْهِ، وَمَضْمَضَ، وَاسْتَنْشَقَ، وَمَسَحَ وَجْهَهُ وَذِرَاعَيْهِ وَرَأْسَهُ، ثُمَّ شَرِبَ وَهُوَ قَائِمٌ، ثُمَّ قَالَ‏:‏ هَذَا وُضُوءُ مَنْ لَمْ يُحْدِثْ، هَكَذَا رَأَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم، فَعَلَ‏.‏",
+      "english": {
+        "narrator": "An-Nazzal ibn Sabra said;\n\"Ali (may Allah be well pleased with him) brought a jug of water, while he was in ar-Rahba, after which he dipped out a handful, washed his hands, rinsed his mouth, snuffed up his nostrils, and wiped his face, his forearms and his head. Then he drank from it while standing. Then he said:",
+        "text": "'This is the minor ritual ablution of someone who has not excreted any substance that would render him ritually impure. I saw Allah’s Messenger (Allah bless him and give him peace) act in this manner'.\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 31,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَيُوسُفُ بْنُ حَمَّادٍ، قَالا‏:‏ حَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ سَعِيدٍ، عَنْ أَبِي عصَامَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم‏:‏ كَانَ يَتَنَفَّسُ فِي الإِنَاءِ ثَلاثًا إِذَا شَرِبَ، وَيَقُولُ‏:‏ هُوَ أَمْرَأُ، وَأَرْوَى‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said (may Allah be well pleased with him):",
+        "text": "\"The Prophet (Allah bless him and give him peace) used to breathe into the vessel three times when he drank, and he would say: 'It is more wholesome and more thirst-quenching!’”"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 31,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، قَالَ‏:‏ حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ رِشْدِينِ بْنِ كُرَيْبٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا شَرِبَ، تَنَفَّسَ مَرَّتَيْنِ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas said (may Allah be well pleased with him and his father):",
+        "text": "\"When the Prophet drank (Allah bless him and give him peace), he used to take two breaths.”"
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 31,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ يَزِيدَ بْنِ يَزِيدَ بْنِ جَابِرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَمْرَةَ، عَنْ جَدَّتِهِ كَبْشَةِ، قَالَتْ‏:‏ دَخَلَ عَلَيَّ النَّبِيُّ صلى الله عليه وسلم فَشَرِبَ مِنْ قِرْبَةٍ مُعَلَّقَةٍ قَائِمًا، فَقُمْتُ إِلَى فِيهَا فَقَطَعْتُهُ‏.‏",
+      "english": {
+        "narrator": "'Abd ar-Rahman ibn Abi 'Amra said that his grandmother Kabsha said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) entered my presence, then he drank from a suspended waterskin while standing, so I reached up to its mouth and cut it loose.”"
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 31,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ‏:‏ حَدَّثَنَا عُزْرَةُ بْنُ ثَابِتٍ الأَنْصَارِيُّ، عَنْ ثُمَامَةَ بْنِ عَبْدِ اللهِ، قَالَ‏:‏ كَانَ أَنَسُ بْنُ مَالِكٍ، يَتَنَفَّسُ فِي الإِنَاءِ ثَلاثًا، وَزَعَمَ أَنَسٌ، أَنَّ النَّبِيَّ صلى الله عليه وسلم، كَانَ يَتَنَفَّسُ فِي الإِنَاءِ ثَلاثًا‏.‏",
+      "english": {
+        "narrator": "Thumama ibn 'Abdi’llah said:",
+        "text": "“Anas ibn Malik used to breathe into the vessel three times, and Anas ibn Malik maintained that the Prophet (Allah bless him and give him peace) likewise used to breathe into the vessel three times.”"
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 31,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ‏:‏ حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَبْدِ الْكَرِيمِ، عَنِ الْبَرَاءِ بْنِ زَيْدٍ ابْنِ ابْنَةِ أَنَسِ بْنِ مَالِكٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم، دَخَلَ عَلَى أُمِّ سُلَيْمٍ، وَقِرْبَةٌ مُعَلَّقَةٌ، فَشَرِبَ مِنْ فَمِ الْقِرْبَةِ وَهُوَ قَائِمٌ، فَقَامَتْ أُمُّ سُلَيْمٍ إِلَى رَأْسِ الْقِرْبَةِ فَقَطَعَتْهَا‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) entered the presence of Umm Sulaim, and a waterskin was suspended there, so he drank from the mouth of the waterskin while standing. Umm Sulaim therefore reached up to the head of the waterskin and cut it loose.”"
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 31,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ نَصْرٍ النَّيْسَابُورِيُّ، قَالَ‏:‏ حَدَّثَنَا إِسْحَاقُ بْنُ مُحَمَّدٍ الْفَرْوِي، قَالَ‏:‏ حَدَّثَتْنَا عَبِيدَةُ بِنْتُ نَائِلٍ، عَنْ عَائِشَةَ بِنْتِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنِ أَبِيهَا، أَنَّ النَّبِيَّ صلى الله عليه وسلم، كَانَ يَشْرَبُ قَائِمًا، قَالَ أَبُو عِيسَى‏:‏ وَقَالَ بَعْضُهُمْ‏:‏ عُبَيْدَةُ بِنْتُ نَابِلٍ‏.‏",
+      "english": {
+        "narrator": "'A’isha bint Sa'd ibn Abi Waqqas reported that her father said:",
+        "text": "“The Prophet (Allah bless him and give him peace) used to drink while standing.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 32,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، وَاحِدٍ، قَالُوا‏:‏ حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، قَالَ‏:‏ حَدَّثَنَا شَيْبَانُ، عَنْ عَبْدِ اللهِ بْنِ الْمُخْتَارِ، عَنْ مُوسَى بْنِ أَنَسِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، قَالَ‏:‏ كَانَ لِرَسُولِ اللهِ صلى الله عليه وسلم سُكَّةٌ يَتَطَيَّبُ مِنْهَا‏.‏",
+      "english": {
+        "narrator": "Musa ibn Anas ibn Malik reports that his father said:",
+        "text": "“Allah’s Messenger (Allah bless him and give him peace) had a vial from which he used to perfume himself.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 32,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ‏:‏ حَدَّثَنَا عَزْرَةُ بْنُ ثَابِتٍ، عَنْ ثُمَامَةَ بْنِ عَبْدِ اللهِ، قَالَ‏:‏ كَانَ أَنَسُ بْنُ مَالِكٍ، لا يَرُدُّ الطِّيبَ، وَقَالَ أَنَسٌ‏:‏ إِنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ لا يَرُدُّ الطِّيبَ‏.‏",
+      "english": {
+        "narrator": "Thumama ibn 'Abdi’llah said:",
+        "text": "“Anas ibn Malik did not reject perfume. Anas also said: ‘The Prophet (Allah bless him and give him peace) did not reject perfume'.”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 32,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، عَنْ عَبْدِ اللهِ بْنِ مُسْلِمِ بْنِ جُنْدُبٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ ثَلاثٌ لا تُرَدُّ‏:‏ الْوَسَائِدُ، وَالدُّهْنُ، وَاللَّبَنُ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar said:",
+        "text": "\"Allah’s Messenger said (Allah bless him and give him peace): Three things are not to be rejected: cushions, oil and perfume, and milk.’”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 32,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو دَاوُدَ الْحَفَرِيُّ، عَنْ سُفْيَانَ، عَنِ الْجُرَيْرِيِّ، عَنْ أَبِي نَضْرَةَ، عَنْ رَجُلٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ طِيبُ الرِّجَالِ مَا ظَهَرَ رِيحُهُ، وَخَفِيَ لَوْنُهُ، وَطِيبُ النِّسَاءِ مَا ظَهَرَ لَوْنُهُ وَخَفِيَ رِيحُهُ‏.‏\n\nحَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ‏:‏ أَنْبَأَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنِ الْجُرَيْرِيِّ، عَنْ أَبِي نَضْرَةَ، عَنِ الطُّفَاوِيِّ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم، مِثْلَهُ بِمَعْنَاهُ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira said:",
+        "text": "\"Allah’s Messenger said (Allah bless him and give him peace): 'Men's perfume is perfume whose scent is apparent and whose color is not, and women's perfume is perfume\nwhose color is apparent and whose scent is not'.”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 32,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ خَلِيفَةَ، وَعَمْرُو بْنُ عَلِيٍّ، قَالا‏:‏ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ‏:‏ حَدَّثَنَا حَجَّاجٌ الصَّوَّافُ، عَنْ حَنَانٍ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ إِذَا أُعْطِيَ أَحَدُكُمُ الرَّيْحَانَ فَلا يَرُدُّهُ، فَإِنَّهُ خَرَجَ مِنَ الْجَنَّةِ‏.‏",
+      "english": {
+        "narrator": "Abu 'Uthman al-Hindi said:",
+        "text": "“Allah’s Messenger said (Allah bless him and give him peace): ‘If someone is given sweet basil, he should not reject it, for it comes from the Garden of Paradise!’\""
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 32,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عمر بن إسماعيل بن مجالد بن سعيد الهمذاني ‏,‏ حدثني أبي ‏,‏ عن بيان ‏,‏ عن قيس بن أبي حازم ‏,‏ عن جرير بن عبد الله قَالَ‏:‏عرضت بين يدى عمر بن الخطاب ‏,‏ فألقى جرير رداءه ‏,‏ ومشى في إزار ‏,‏ فقال له‏:‏ خذ رداءك ‏,‏ فقال للقوم‏:‏ ما رأيت رجلاً أحسن صورة من جرير ‏,‏ إلا ما بلغنا من صورة يوسف عليه السلام‏.‏‏.‏",
+      "english": {
+        "narrator": "Jarir ibn 'Abdi’llah reports:",
+        "text": "\"I was brought before ‘Umar ibn al-Khattab (may Allah be well pleased with him), whereupon Jarir discarded his cloak and walked in his loincloth, so he said to him: 'Pick up your cloak!' ‘Umar then said to the group: 'I have not seen any man more handsome in form than Jarir, except what we have been told about the appearance of Joseph, the Champion of Truth (peace be upon him)'!”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 33,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ الْبَصْرِيُّ، قَالَ‏:‏ حَدَّثَنَا حُمَيْدُ بْنُ الأَسْوَدِ، عَنِ أُسَامَةَ بْنِ زَيْدٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ مَا كَانَ رَسُولُ اللهِ صلى الله عليه وسلم يَسْرُدُ سرْدَكُمْ هَذَا، وَلَكِنَّهُ كَانَ يَتَكَلَّمُ بِكَلامٍ بَيِّنٍ فَصْلٍ، يَحْفَظُهُ مَنْ جَلَسَ إِلَيْهِ‏.‏",
+      "english": {
+        "narrator": "'A’isha said (may Allah the Exalted be well pleased with her):",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) would not speak on and on the way you do. Rather, he would pause periodically, so that those who sat with him would remember what he said.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 33,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، قَالَ‏:‏ حَدَّثَنَا أَبُو قُتَيْبَةَ سَلْمُ بْنُ قُتَيْبَةَ، عَنْ عَبْدِ اللهِ بْنِ الْمُثَنَّى، عَنْ ثُمَامَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ‏:‏ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم، يُعِيدُ الْكَلِمَةَ ثَلاثًا لِتُعْقَلَ عَنْهُ‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) used to repeat each expression three times in order to make himself understood.”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 33,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، قَالَ‏:‏ حَدَّثَنَا جُمَيْعُ بْنُ عُمَرَ بْنِ عَبْدِ الرَّحْمَنِ الْعِجْلِيُّ، قَالَ‏:‏ حدَّثنِي رَجُلٌ مِنْ بَنِي تَمِيمٍ مِنْ وَلَدِ أَبِي هَالَةَ زَوْجِ خَدِيجَةَ يُكْنَى أَبَا عَبْدِ اللهِ، عَنِ ابْنٍ لأَبِي هَالَةَ، عَنِ الْحَسَنِ بْنِ عَلِيٍّ، قَالَ‏:‏ سَأَلْتُ خَالِي هِنْدُ بْنُ أَبِي هَالَةَ، وَكَانَ وَصَّافًا، فَقُلْتُ‏:‏ صِفْ لِي مَنْطِقَ رَسُولِ اللهِ صلى الله عليه وسلم، قَالَ‏:‏ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم مُتَوَاصِلَ الأَحْزَانِ، دَائِمَ الْفِكْرَةِ، لَيْسَتْ لَهُ رَاحَةٌ، طَوِيلُ السَّكْتِ، لا يَتَكَلَّمُ فِي غَيْرِ حَاجَةٍ، يَفْتَتِحُ الْكَلامَ، وَيَخْتِمُهُ بِاسْمِ اللهِ تَعَالَى، وَيَتَكَلَّمُ بِجَوَامِعِ الْكَلِمِ، كَلامُهُ فَصْلٌ، لا فُضُولَ، وَلا تَقْصِيرَ، لَيْسَ بِالْجَافِي، وَلا الْمُهِينِ، يُعَظِّمُ النِّعْمَةَ وَإِنْ دَقَّتْ لا يَذُمُّ مِنْهَا شَيْئًا، غَيْرَ أَنَّهُ لَمْ يَكُنْ يَذُمُّ ذَوَّاقًا وَلا يَمْدَحُهُ، وَلا تُغْضِبُهُ الدُّنْيَا، وَلا مَا كَانَ لَهَا، فَإِذَا تُعُدِّيَ الْحَقُّ، لَمْ يَقُمْ لِغَضَبِهِ شَيْءٌ، حَتَّى يَنْتَصِرَ لَهُ، وَلا يَغْضَبُ لِنَفْسِهِ، وَلا يَنْتَصِرُ لَهَا، إِذَا أَشَارَ بِكَفِّهِ كُلِّهَا، وَإِذَا تَعَجَّبَ قَلَبَهَا، وَإِذَا تَحَدَّثَ اتَّصَلَ بِهَا، وَضَرَبَ بِرَاحَتِهِ الْيُمْنَى بَطْنَ إِبْهَامِهِ الْيُسْرَى، وَإِذَا غَضِبَ أَعْرَضَ وَأَشَاحَ، وَإِذَا فَرِحَ غَضَّ طَرْفَهُ، جُلُّ ضَحِكِهِ التَّبَسُّمُ، يَفْتَرُّ عَنْ مِثْلِ حَبِّ الْغَمَامِ‏.‏",
+      "english": {
+        "narrator": "Al-Hasan ibn 'Ali said (may Allah the Exalted be well pleased with him and his father):",
+        "text": "“I said to my maternal uncle, Hind ibn Abi Hala, who was skilled at describing people: ‘Describe for me the manner of speech Allah’s Messenger (Allah bless him and give him peace)!’ He said: Allah’s Messenger (Allah bless him and give him peace) was constantly sympathetic with sorrows, persistent in thought, having no repose, prolonged in silence. He would not speak unnecessarily. He would introduce and conclude his speech with: 'Bismillahi ta'ala . His speech was concise, neither excessive nor abridged. It was neither uncouth nor contemptible. He would extol a blessing, however small, and he would not find fault with any aspect of it. He neither condemned nor praised those who enjoyed food and drink, and he would not be angered by this world. If the truth were overstepped, he would be so furious that he could do nothing but right the wrong. He would not be angry for his own sake or come to his own defense. When he beckoned, he beckoned with the whole of the palm of his hand, and when he was astonished, he turned it over, and when he spoke, he gestured with his hands, and placed his right palm over the base of his left thumb. When he was angry, he turned away and averted his face, and when he was happy, he lowered his gaze. Most of his laughter was in the form of a smile that revealed teeth as white as hailstones'.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 34,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا عَبَّادُ بْنُ الْعَوَّامِ، قَالَ‏:‏ أَخْبَرَنَا الْحَجَّاجُ وَهُوَ ابْنُ أَرْطَاةَ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ‏:‏ كَانَ فِي سَاقَيْ رَسُولِ اللهِ صلى الله عليه وسلم، حُمُوشَةٌ، وَكَانَ لا يَضْحَكُ إِلا تَبَسُّمًا، فَكُنْتُ إِذَا نَظَرْتُ إِلَيْهِ، قُلْتُ‏:‏ أَكْحَلُ الْعَيْنَيْنِ، وَلَيْسَ بِأَكْحَلَ‏.‏‏.‏",
+      "english": {
+        "narrator": "Jabir ibn Samura said (may Allah be well pleased with him):",
+        "text": "\"There was a slenderness in the legs of Allah’s Messenger (Allah bless him and give him peace), and his laugh always took the\nform of a joyful smile, so when I looked at him, I said: 'His eyes are blackened , though and he is not black-eyed'!”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 34,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ أَخْبَرَنَا ابْنُ لَهِيعَةَ، عَنْ عُبَيْدِ اللهِ بْنِ الْمُغِيرَةِ، عَنْ عَبْدِ اللهِ بْنِ الْحَارِثِ بْنِ جَزْءٍ، أَنَّهُ قَالَ‏:‏ مَا رَأَيْتُ أَحَدًا أَكْثَرَ تَبَسُّمًا مِنْ رَسُولِ اللهِ صلى الله عليه وسلم‏.‏‏.‏",
+      "english": {
+        "narrator": "‘Abdullah ibn al-Harith ibn Jaz said (may Allah be well pleased with him):",
+        "text": "\"I have not seen anyone with a more cheerful countenance than Allah's Messenger (Allah bless him and give him peace)!\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 34,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ خَالِدٍ الْخَلالُ، قَالَ‏:‏ حَدَّثَنَا يَحْيَى بْنُ إِسْحَاقَ السَّيْلَحَانِيُّ، قَالَ‏:‏ حَدَّثَنَا لَيْثُ بْنُ سَعْدٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عَبْدِ اللهِ بْنِ الْحَارِثِ، قَالَ‏:‏ مَا كَانَ ضَحِكُ رَسُولِ اللهِ صلى الله عليه وسلم إِلا تَبَسُّمًا‏.‏‏.‏",
+      "english": {
+        "narrator": "Abdullah ibn al-Harith said (may Allah be well pleased with him):",
+        "text": "“The laughter of Allah’s Messenger (Allah bless him and give him peace) was nothing but a joyful smile.”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 34,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَبُو عَمَّارٍ الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ‏:‏ حَدَّثَنَا وَكِيعٌ، قَالَ‏:‏ حَدَّثَنَا الأَعْمَشُ، عَنِ الْمَعْرُورِ بْنِ سُوَيْدٍ، عَنْ أَبِي ذَرٍّ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ إِنِّي لأَعْلَمُ أَوَّلَ رَجُلٍ يَدْخُلُ الْجَنَّةَ، وَآخَرَ رَجُلٍ يَخْرُجُ مِنَ النَّارِ، يُؤْتَى بِالرَّجُلِ يَوْمَ الْقِيَامَةِ، فَيُقَالُ‏:‏ اعْرِضُوا عَلَيْهِ صِغَارَ ذُنُوبِهِ وَيُخَبَّأُ عَنْهُ كِبَارُهَا، فَيُقَالُ لَهُ‏:‏ عَمِلْتَ يَوْمَ كَذَا وَكَذَا، كَذَا، وَهُوَ مُقِرٌّ، لا يُنْكِرُ، وَهُوَ مُشْفِقٌ مِنْ كِبَارِهَا، فَيُقَالُ‏:‏ أَعْطُوهُ مَكَانَ كُلِّ سَيِّئَةٍ عَمِلَهَا حَسَنَةً، فَيَقُولُ‏:‏ إِنَّ لِي ذُنُوبًا مَا أَرَاهَا هَاهُنَا‏.‏‏.‏",
+      "english": {
+        "narrator": "Abu Dharr said (may Allah be well pleased with him):",
+        "text": "“Allah’s Messenger said (Allah bless him and give him peace): \"I surely know the first man who will enter the Garden of Paradise, and the last man who will emerge from the Fire of Hell. The man will be brought forth on the Day of Resurrection, and the command will be given: “Show him his minor sins, and let his major sins be hidden from him!” He will therefore be told: “On such-and-such a day, you committed such-and-such and such-and-such sins!” He will acknowledge  and not disavow them and he will be fearful of those sins that are major offenses, so the command will be given: “In place of every bad deed he committed, grant him a good deed!” He will therefore say: “I am guilty of sins that I do not see here!” Abu Dharr said: “I saw Allah’s Messenger (Allah bless him and give him peace) smile so broadly that his molar teeth showed!”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 34,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، قَالَ‏:‏ حَدَّثَنَا زَائِدَةُ، عَنْ بَيَانٍ، عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ، عَنْ جَرِيرِ بْنِ عَبْدِ اللهِ، قَالَ‏:‏ مَا حَجَبَنِي رَسُولُ اللهِ صلى الله عليه وسلم مُنْذُ أَسْلَمْتُ، وَلا رَآنِي إِلا ضَحِكَ‏.‏‏.‏",
+      "english": {
+        "narrator": "Jarir ibn ‘Abdi’llah said (may Allah be well pleased with him):",
+        "text": "“Allah’s Messenger (Allah bless him and give him peace) did not shun me from the time when I embraced Islam, and he never saw me without laughing.”"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 34,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، قَالَ‏:‏ حَدَّثَنَا زَائِدَةُ، عَنِ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، عَنْ قَيْسٍ، عَنْ جَرِيرٍ، قَالَ‏:‏ مَا حَجَبَنِي رَسُولُ اللهِ صلى الله عليه وسلم، وَلا رَآنِي مُنْذُ أَسْلَمْتُ إِلا تَبَسَّمَ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Same as the above hadith."
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 34,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، قَالَ‏:‏ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنِ إِبْرَاهِيمَ، عَنْ عَبِيدَةَ السَّلْمَانِيِّ، عَنْ عَبْدِ اللهِ بْنِ مَسْعُودٍ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ إِنِّي لأَعْرفُ آخِرَ أَهْلِ النَّارِ خُرُوجًا، رَجُلٌ يَخْرُجُ مِنْهَا زَحْفًا، فَيُقَالُ لَهُ‏:‏ انْطَلِقْ فَادْخُلِ الْجَنَّةَ، قَالَ‏:‏ فَيَذْهَبُ لِيَدْخُلَ الْجَنَّةَ، فَيَجِدُ النَّاسَ قَدْ أَخَذُوا الْمَنَازِلَ، فَيَرْجِعُ فَيَقُولُ‏:‏ يَا رَبِّ، قَدْ أَخَذَ النَّاسُ الْمَنَازِلَ، فَيُقَالُ لَهُ‏:‏ أَتَذْكُرُ الزَّمَانَ الَّذِي كُنْتَ فِيهِ، فَيَقُولُ‏:‏ نَعَمْ، قَالَ‏:‏ فَيُقَالُ لَهُ‏:‏ تَمَنَّ، قَالَ‏:‏ فَيَتَمَنَّى، فَيُقَالُ لَهُ‏:‏ فَإِنَّ لَكَ الَّذِي تَمَنَّيْتَ وَعَشَرَةَ أَضْعَافِ الدُّنْيَا، قَالَ‏:‏ فَيَقُولُ‏:‏ تَسْخَرُ بِي وَأَنْتَ الْمَلِكُ قَالَ‏:‏ فَلَقَدْ رَأَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم، ضَحِكَ، حَتَّى بَدَتْ نَوَاجِذُهُ‏.‏",
+      "english": {
+        "narrator": "Abdullah ibn Mas'ud said (may Allah be well pleased with him):",
+        "text": "\"Allah’s Messenger said (Allah bless him and give him peace): “I am well aware of the last person to emerge from the Hellfire. After crawling out, he will be told: ‘Go and enter the Garden of Paradise!’ He will therefore enter the Garden of Paradise, but he will find that the people have occupied the abodes, so he will return and say: ‘O my Lord, the people have occupied the abodes!’ He will therefore be asked: ‘Do you remember the time you were in?’ He will say: ‘Yes,’ so he will be told: ‘Make a wish!’ He will make a wish, whereupon he will be told: ‘You have what you wished for, and this world ten times over!’ He will then say: ‘Are you, the Sovereign, mocking me?”’ He  said: “I saw Allah’s Messenger (Allah bless him and give him peace) grin so broadly that his molar teeth showed!”"
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 34,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَلِيِّ بْنِ رَبِيعَةَ، قَالَ‏:‏ شَهِدْتُ عَلِيًّا، أُتِيَ بِدَابَّةٍ لِيَرْكَبَهَا فَلَمَّا وَضَعَ رِجْلَهُ فِي الرِّكَابِ، قَالَ‏:‏ بِسْمِ اللهِ، فَلَمَّا اسْتَوَى عَلَى ظَهْرِهَا، قَالَ‏:‏ الْحَمْدُ لِلَّهِ، ثُمَّ قَالَ‏:‏ سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ، ثُمَّ قَالَ‏:‏ الْحَمْدُ لِلَّهِ ثَلاثًا، وَاللَّهُ أَكْبَرُ ثَلاثًا، سُبْحَانَكَ إِنِّي ظَلَمْتُ نَفْسِي، فَاغْفِرْ لِي فَإِنَّهُ لا يَغْفِرُ الذُّنُوبَ إِلا أَنْتَ، ثُمَّ ضَحِكَ فَقُلْتُ‏:‏ مِنْ أَيِّ شَيْءٍ ضَحِكْتَ يَا أَمِيرَ الْمُؤْمِنِينَ‏؟‏ قَالَ‏:‏ رَأَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم صَنَعَ كَمَا صَنَعْتُ ثُمَّ ضَحِكَ، فَقُلْتُ‏:‏ مِنْ أَيِّ شَيْءٍ ضَحِكْتَ يَا رَسُولَ اللهِ‏؟‏ قَالَ‏:‏ إِنَّ رَبَّكَ لَيَعْجَبُ مِنْ عَبْدِهِ، إِذَا قَالَ‏:‏ رَبِّ اغْفِرْ لِي ذُنُوبِي، إِنَّهُ لا يَغْفِرُ الذُّنُوبَ غَيْرُكَ‏.‏‏",
+      "english": {
+        "narrator": "'Ali ibn Rabi'a said:",
+        "text": "\"I was present when 'Ali (may Allah be well pleased with him) had an animal brought for him to ride. When he placed his foot in the stirrup, he said: “In the Name of Allah . (Al-Qur'an;43:13-14)Then he said: “Praise be to Allah,” three times, and: “Allah is Supremely Great,” three times, then: “Glory be to You! I have wronged myself, so forgive me, for no one forgives sins but You!” Then he laughed, so I said to him: “What has made you laugh, O Commander of the Believers?” He said: “I saw Allah’s Messenger (Allah bless him and give him peace) do just as I did now, after which he laughed, so I said: \"What has made you laugh, O Messenger of Allah?\" He replied: ‘Your Lord surely marvels at His servant when he says: “My Lord, forgive me my sins,\nknowing that no one but He forgives sins'!”"
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 34,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ الأَنْصَارِيُّ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ عَوْنٍ، عَنْ مُحَمَّدِ بْنِ مُحَمَّدِ بْنِ الأَسْوَدِ، عَنْ عَامِرِ بْنِ سَعْدٍ، قَالَ‏:‏ قَالَ سَعْدٌ‏:‏ لَقَدْ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم، ضَحِكَ يَوْمَ الْخَنْدَقِ حَتَّى بَدَتْ نَوَاجِذُهُ قَالَ‏:‏ قُلْتُ‏:‏ كَيْفَ كَانَ‏؟‏ قَالَ‏:‏ كَانَ رَجُلٌ مَعَهُ تُرْسٌ، وَكَانَ سَعْدٌ رَامِيًا، وَكَانَ يَقُولُ كَذَا وَكَذَا بِالتُّرْسِ يُغَطِّي جَبْهَتَهُ، فَنَزَعَ لَهُ سَعْدٌ بِسَهْمٍ، فَلَمَّا رَفَعَ رَأْسَهُ رَمَاهُ فَلَمْ يُخْطِئْ هَذِهِ مِنْهُ يَعْنِي جَبْهَتَهُ وَانْقَلَبَ الرَّجُلُ، وَشَالَ بِرِجْلِهِ‏:‏ فَضَحِكَ النَّبِيُّ صلى الله عليه وسلم حَتَّى بَدَتْ نَوَاجِذُهُ قَالَ‏:‏ قُلْتُ‏:‏ مِنْ أَيِّ شَيْءٍ ضَحِكَ‏؟‏ قَالَ‏:‏ مِنْ فِعْلِهِ بِالرَّجُلِ‏.‏",
+      "english": {
+        "narrator": "'Amir ibn Sa'd said:",
+        "text": "“Sa'd  said: ‘I had seen the Prophet (Allah bless him and give him peace) laugh at the Battle of the Trench, so hard that his molar teeth became apparent.’ I said: ‘How was his laughter?’ He said: ‘There was a man holding a shield while Sa'd was shooting, and the man was saying such-and-such and such-and-such, with the shield covering his forehead. Sa'd therefore aimed an arrow at him and shot it when he raised his head, so it did not miss this part of him — meaning his forehead — and the man toppled over and kicked up his foot. The Prophet (Allah bless him and give him peace) then laughed so much that his molar teeth became apparent.’ I asked: ‘What made him laugh?’ He replied: ‘What he did to the man!”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 35,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ شَرِيكٍ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ‏:‏ إِنَّ النَّبِيَّ صلى الله عليه وسلم، قَالَ لَهُ‏:‏ يَا ذَا الأُذُنَيْنِ،‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) said to him: 'O two-eared'!”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 35,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، قَالَ‏:‏ حَدَّثَنَا وَكِيعٌ، عَنْ شُعْبَةَ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ‏:‏ إِنْ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم، لَيُخَالِطُنَا حَتَّى يَقُولَ لأَخٍ لِي صَغِيرٍ‏:‏ يَا أَبَا عُمَيْرٍ، مَا فَعَلَ النُّغَيْرُ‏؟‏",
+      "english": {
+        "narrator": "Anas ibn Malik said (may Allah be well pleased with him):",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) would associate so closely with us that he said to a young brother of mine: “O Abu 'Umair, what has the little red- beaked sparrow done?’”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 35,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ، قَالَ‏:‏ حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ بْنِ شَقِيقٍ، قَالَ‏:‏ أَنبأَنَا عَبْدُ اللهِ بْنُ الْمُبَارِكِ، عَنِ أُسَامَةَ بْنِ زَيْدٍ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ‏:‏ قَالُوا‏:‏ يَا رَسُولَ اللهِ، إِنَّكَ تُدَاعِبُنَا، قَالَ‏:‏ إِنِّي لا أَقُولُ إِلا حَقًّا‏.‏",
+      "english": {
+        "narrator": "Abu Huraira said (may Allah the Exalted be well pleased with him):",
+        "text": "“They said: ‘O Messenger of Allah, are you teasing us?’ He said: ‘Yes, except that I am telling nothing but the truth'!”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 35,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا خَالِدُ بْنُ عَبْدِ اللهِ، عَنْ حُمَيْدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَجُلا اسْتَحْمَلَ رَسُولَ اللهِ صلى الله عليه وسلم، فَقَالَ‏:‏ إِنِّي حَامِلُكَ عَلَى وَلَدِ نَاقَةٍ، فَقَالَ‏:‏ يَا رَسُولَ اللهِ، مَا أَصْنَعُ بِوَلَدِ النَّاقَةِ‏؟‏ فَقَالَ صلى الله عليه وسلم‏:‏ وَهَلْ تَلِدُ الإِبِلَ إِلا النُّوقُ‏؟‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "\"A man asked Allah’s Messenger (Allah bless him and give him peace) to provide him with a mount, so he said: 'I will mount you on the offspring of a she-camel The man said: 'O Messenger of Allah, what shall I do with the offspring of a she- camel?' He said (Allah bless him and give him peace): 'To what does a she-camel give birth, except more she-camels?’”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 35,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ‏:‏ حَدَّثَنَا مَعْمَرٌ، عَنْ ثَابِتٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَجُلا مِنْ أَهْلِ الْبَادِيَةِ كَانَ اسْمُهُ زَاهِرًا، وَكَانَ يُهْدِي إِلَى النَّبِيِّ صلى الله عليه وسلم، هَدِيَّةً مِنَ الْبَادِيَةِ، فَيُجَهِّزُهُ النَّبِيُّ صلى الله عليه وسلم، إِذَا أَرَادَ أَنْ يَخْرُجَ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم‏:‏ إِنَّ زَاهِرًا بَادِيَتُنَا وَنَحْنُ حَاضِرُوهُ وَكَانَ صلى الله عليه وسلم يُحِبُّهُ وَكَانَ رَجُلا دَمِيمًا، فَأَتَاهُ النَّبِيُّ صلى الله عليه وسلم، يَوْمًا وَهُوَ يَبِيعُ مَتَاعَهُ وَاحْتَضَنَهُ مِنْ خَلْفِهِ وَهُوَ لا يُبْصِرُهُ، فَقَالَ‏:‏ مَنْ هَذَا‏؟‏ أَرْسِلْنِي فَالْتَفَتَ فَعَرَفَ النَّبِيُّ صلى الله عليه وسلم فَجَعَلَ لا يَأْلُو مَا أَلْصَقَ ظَهْرَهُ بِصَدْرِ النَّبِيِّ صلى الله عليه وسلم حِينَ عَرَفَهُ، فَجَعَلَ النَّبِيُّ صلى الله عليه وسلم، يَقُولُ‏:‏ مَنْ يَشْتَرِي هَذَا الْعَبْدَ، فَقَالَ‏:‏ يَا رَسُولَ اللهِ، إِذًا وَاللَّهِ تَجِدُنِي كَاسِدًا، فَقَالَ النَّبِيُّ صلى الله عليه وسلم‏:‏ لَكِنْ عِنْدَ اللهِ لَسْتَ بِكَاسِدٍ أَوْ قَالَ‏:‏ أَنتَ عِنْدَ اللهِ غَالٍ‏.‏‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "“There was a man among the people of the desert — his name was Zahir — and he used to bring the Prophet (Allah bless him and give him peace) a present from the desert, so the Prophet (Allah bless him and give him peace) would equip him when he wished to go out to battle. “The Prophet said (Allah bless him and give him peace):‘Zahir is our desert, and we are his towns'. He (Allah bless\nhim and give him peace) used to love him, though he was a homely man, so the Prophet (Allah bless him and give him peace) came to him one day while he was selling his wares, and embraced him from behind so that he couldn't see who it was. So he said: ‘Who is this? Let go of me!’ Then he turned around and recognized the Prophet (Allah bless\nhim and give him peace). Once he recognized the Prophet (Allah bless him and give him peace), he kept his back pressed to the Prophet's chest, so the Prophet (Allah bless\nhim and give him peace) proceeded to say: ‘Who will buy this slave?’ The man said: ‘O Messenger of Allah, in that case, by Allah, you will find me an unsellable commodity!’\nThe Prophet said (Allah bless him and give him peace): ‘But you are not an unsaleable commodity in the view of Allah),’ or he said: ‘You are precious to Allah!'”"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 35,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، قَالَ‏:‏ حَدَّثَنَا مُصْعَبُ بْنُ الْمِقْدَامِ، قَالَ‏:‏ حَدَّثَنَا الْمُبَارِكُ بْنُ فَضَالَةَ، عَنِ الْحَسَنِ، قَالَ‏:‏ أَتَتْ عَجُوزٌ إِلَى النَّبِيِّ صلى الله عليه وسلم، فَقَالَتْ‏:‏ يَا رَسُولَ اللهِ، ادْعُ اللَّهَ أَنْ يُدْخِلَنِي الْجَنَّةَ، فَقَالَ‏:‏ يَا أُمَّ فُلانٍ، إِنَّ الْجَنَّةَ لا تَدْخُلُهَا عَجُوزٌ، قَالَ‏:‏ فَوَلَّتْ تَبْكِي، فَقَالَ‏:‏ أَخْبِرُوهَا أَنَّهَا لا تَدْخُلُهَا وَهِيَ عَجُوزٌ إِنَّ اللَّهَ تَعَالَى، يَقُولُ‏:‏ إِنَّا أَنْشَأْنَاهُنَّ إِنْشَاءً، فَجَعَلْنَاهُنَّ أَبْكَارًا، عُرُبًا أَتْرَابًا‏.‏",
+      "english": {
+        "narrator": "Al-Hasan Al-Basri said:",
+        "text": "\"An old woman came to the Prophet (Allah bless him and give him peace) and said: 'O Messenger of Allah, beseech Allah to let me enter the Garden of Paradise!' He replied: 'O Mother of So-and-so, no old woman will enter the Garden of Paradise!' She turned away weeping, so he said: 'Tell her that she will not enter it as an old woman, for Allah says: ‘We have created them a new creation, and made them virgins, loving, equal in age .’” (Al-Qur'an; 56:35-37)"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 36,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ‏:‏ حَدَّثَنَا شَرِيكٌ، عَنِ الْمِقْدَامِ بْنِ شُرَيْحٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ قِيلَ لَهَا‏:‏ هَلْ كَانَ النَّبِيُّ صلى الله عليه وسلم، يَتَمَثَّلُ بِشَيْءٍ مِنَ الشِّعْرِ‏؟‏ قَالَتْ‏:‏ كَانَ يَتَمَثَّلُ بِشِعْرِ ابْنِ رَوَاحَةَ، وَيَتَمَثَّلُ بِقَوْلِهِ‏:‏ يَأْتِيكَ بِالأَخْبَارِ مَنْ لَمْ تُزَوَّدِ‏.‏",
+      "english": {
+        "narrator": "'A’isha (may Allah be well pleased with her) said that she was asked:",
+        "text": "\"Was Allah’s Messenger (Allah bless him and give him peace) used to imitating any form of poetry?\" She said: \"He used to imitate the poetry of Ibn Rawaha, and he would imitate his\nsaying: “You will be brought the news by someone whom you have not furnished with travel provisions.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 36,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ الثَّوْرِيُّ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، قَالَ‏:‏ حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ إِنَّ أَصْدَقَ كَلِمَةٍ قَالَهَا الشَّاعِرُ، كَلِمَةُ لَبِيدٍ‏:‏ أَلا كُلُّ شَيْءٍ مَا خَلا اللَّهَ بَاطِلٌ، وَكَادَ أُمَيَّةُ بْنُ أَبِي الصَّلْتِ أَنْ يُسْلِمَ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira said (may Allah be well pleased with him):",
+        "text": "“Allah’s Messenger said (Allah bless him and give him peace): ‘The most truthful saying spoken by a poet is the saying of Labid: Everything but Allah is surely futile,’ and\n Umayya ibn Abi’s-Salt almost embraced Islam.’”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 36,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ جُنْدُبِ بْنِ سُفْيَانَ الْبَجَلِيِّ، قَالَ‏:‏ أَصَابَ حَجَرٌ أُصْبُعَ رَسُولِ اللهِ صلى الله عليه وسلم فَدَمِيَتْ، فَقَالَ‏:‏ هَلْ أَنْتِ إِلا أُصْبُعٌ دَمِيتِ وَفِي سَبِيلِ اللهِ مَا لَقِيتِ‏.‏\n\nحَدَّثَنَا ابْنُ أَبِي عُمَرَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ جُنْدُبِ بْنِ عَبْدِ اللهِ الْبَجَلِيِّ، نَحْوَهُ‏.‏‏",
+      "english": {
+        "narrator": "Jundub ibn Sufyan al-Bajali said:",
+        "text": "“A stone hit the finger of Allah’s Messenger (Allah bless him and give him peace), causing it to bleed, so he said :\n'Are you nothing but a finger that has bled without having suffered in Allah’s cause?'”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 36,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ الثَّوْرِيُّ، قَالَ‏:‏ أَنْبَأَنَا أَبُو إِسْحَاقَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ‏:‏ قَالَ لَهُ رَجُلٌ‏:‏ أَفَرَرْتُمْ عَنْ رَسُولِ اللهِ صلى الله عليه وسلم يَا أَبَا عُمَارَةَ‏؟‏ فَقَالَ‏:‏ لا وَاللَّهِ مَا وَلَّى رَسُولُ اللهِ صلى الله عليه وسلم، وَلَكِنْ وَلَّى سَرَعَانُ النَّاسِ، تَلَقَّتْهُمْ هَوَازِنُ بِالنَّبْلِ، وَرَسُولُ اللهِ صلى الله عليه وسلم، عَلَى بَغْلَتِهِ، وَأَبُو سُفْيَانَ بْنُ الْحَارِثِ بْنِ عَبْدِ الْمُطَّلِبِ آخِذٌ بِلِجَامِهَا، وَرَسُولُ اللهِ يَقُولُ‏:‏ أَنَا النَّبِيُّ لا كَذِبْ أَنَا ابْنُ عَبْدِ الْمُطَّلِبْ‏.‏",
+      "english": {
+        "narrator": "Al-Bara’ ibn 'Azib reported that:",
+        "text": "A man said to him: “Did you all flee from Allah’s Messenger (Allah bless him and give him peace), O Abu 'Umara?” He replied: “No, by Allah! Allah’s Messenger (Allah bless him and give him peace) did not retreat, but those who were hasty retreated, being assailed by the arrows of the Hawazin. Allah’s Messenger (Allah bless him and give him peace) was mounted on his female mule, while Abu Sufyan ibn al-Harith ibn 'Abd al-Muttalib was holding its bridle, and Allah’s Messenger (Allah bless him and give him peace) was saying : 'I am the Prophet, no lie! I am the son of 'Abd al-Muttalib!'”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 36,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ‏:‏ حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، قَالَ‏:‏ حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسٍ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ مَكَّةَ فِي عُمْرَةِ الْقَضَاءِ، وَابْنُ رَوَاحَةَ يَمْشِي بَيْنَ يَدَيْهِ، وَهُوَ يَقُولُ‏:‏ خَلُّوا بَنِي الْكُفَّارِ عَنْ سَبِيلِهِ الْيَوْمَ نَضْرِبُكُمْ عَلَى تَنْزِيلِهِ ضَرْبًا يُزِيلُ الْهَامَ عَنْ مَقِيلِهِ وَيُذْهِلُ الْخَلِيلَ عَنْ خَلِيلِهِ فَقَالَ لَهُ عُمَرُ‏:‏ يَا ابْنَ رَوَاحَةَ، بَيْنَ يَدِي رَسُولِ اللهِ صلى الله عليه وسلم، وَفِي حَرَمِ اللهِ تَقُولُ الشِّعْرَ، فَقَالَ صلى الله عليه وسلم‏:‏ خَلِّ عَنْهُ يَا عُمَرُ، فَلَهِيَ أَسْرَعُ فِيهِمْ، مِنْ نَضْحِ النَّبْلِ‏.‏",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) entered Mecca during the Visitation of Fulfillment : “Clear away from his path, O sons of the unbelievers! Today we shall prevent you from bringing it to a halt, with a blow that removes the owls from its way station, and distracts the bosom friend from his bosom friend!” 'Umar then said: “O Ibn Rawaha, you dare to utter poetry before Allah’s Messenger (Allah bless him and give him peace) and in Allah’s Sanctuary!” But he said (Allah bless him and give him peace): “Leave him alone, O 'Umar, for it will strike them down more quickly than a shower of arrows!’”"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 36,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ‏:‏ حَدَّثَنَا شَرِيكٌ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ‏:‏ جَالَسْتُ النَّبِيَّ صلى الله عليه وسلم، أَكْثَرَ مِنْ مِائَةِ مَرَّةٍ، وَكَانَ أَصْحَابُهُ يَتَنَاشَدُونَ الشِّعْرَ، وَيَتَذَاكَرُونَ أَشْيَاءَ مِنْ أَمْرِ الْجَاهِلِيَّةِ، وَهُوَ سَاكِتٌ وَرُبَّمَا تَبَسَّمَ مَعَهُمْ‏.‏",
+      "english": {
+        "narrator": "Jabir ibn Samura said:",
+        "text": "‘I sat with the Prophet (Allah bless him and give him peace) more than one hundred times, and his Companions used to recite poetry to one another. They would also reminisce over things relating to the pagan era , while he was silent and sometimes even smiled with them.’”"
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 36,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ‏:‏ حَدَّثَنَا شَرِيكٌ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم، قَالَ‏:‏ أَشْعَرُ كَلِمَةٍ تَكَلَّمَتْ بِهَا الْعَرَبُ كَلِمَةُ لَبِيدٍ‏:‏ أَلا كُلُّ شَيْءٍ مَا خَلا اللَّهَ بَاطِلٌ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira said:",
+        "text": "“As the Prophet said (Allah bless him and give him peace):‘The most poetic saying spoken by the Arabs is the saying of Labid: “Everything but Allah is surely futile!'”"
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 36,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، عَنْ عَبْدِ اللهِ بْنِ عَبْدِ الرَّحْمَنِ الطَّائِفِيِّ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، عَنْ أَبِيهِ، قَالَ‏:‏ كُنْتُ رِدْفَ النَّبِيِّ صلى الله عليه وسلم، فَأَنْشَدْتُهُ مِائَةَ قَافِيَةٍ مِنْ قَوْلِ أُمَيَّةَ بْنِ أَبِي الصَّلْتِ الثَّقَفِيِّ، كُلَّمَا أَنْشَدْتُهُ بَيْتًا، قَالَ لِيَ النَّبِيُّ صلى الله عليه وسلم‏:‏ هِيهْ حَتَّى أَنْشَدْتُهُ مِائَةً يَعْنِي بَيْتًا، فَقَالَ النَّبِيُّ صلى الله عليه وسلم‏:‏ إِنْ كَادَ لَيُسْلِمُ‏.‏",
+      "english": {
+        "narrator": "'Amr ibn ash-Sharid reported that his father said:",
+        "text": "\"As I rode behind the Prophet (Allah bless him and give him peace), I recited to him a hundred poetic verses, composed by Umayya ibn Abi’s-Salt. Whenever I recited a verse to\nhim, the Prophet (Allah bless him and give him peace) said to me: “Recite more!” until I had recited a hundred, meaning verses,to him.”’\nThe Prophet (Allah bless him and give him peace) therefore said: 'He was surely near to embracing Islam!'\""
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 36,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى الْفَزَارِيُّ، وَعَلِيُّ بْنُ حُجْرٍ، وَالْمَعْنَى وَاحِدٌ، قَالا‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الزِّنَادِ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم يَضَعُ لِحَسَّانَ بْنِ ثَابِتٍ مِنْبَرًا فِي الْمَسْجِدِ يَقُومُ عَلَيْهِ قَائِمًا يُفَاخِرُ عَنْ رَسُولِ اللهِ صلى الله عليه وسلم أَوْ قَالَ‏:‏ يُنَافِحُ عَنْ رَسُولِ اللهِ صلى الله عليه وسلم وَيَقُولُ صلى الله عليه وسلم‏:‏ إِنَّ اللَّهَ يُؤَيِّدُ حَسَّانَ بِرُوحِ الْقُدُسِ، مَا يُنَافِحُ أَوْ يُفَاخِرُ عَنْ رَسُولِ اللهِ صلى الله عليه وسلم‏.‏\n\nحَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى، وَعَلِيُّ بْنُ حُجْرٍ، قَالا‏:‏ حَدَّثَنَا ابْنُ أَبِي الزِّنَادِ، عَنْ أَبِيهِ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم، مِثْلَهُ‏.",
+      "english": {
+        "narrator": "'A’isha said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) used to set up a pulpit in the mosque for Hassan ibn Thabit. He would stand upright upon it, paying tribute to Allah’s Messenger (Allah bless him and give him peace)’ or: ‘defending Allah’s Messenger (Allah bless him and give him peace).’ He would say (Allah bless him and give him peace): “Allah (Exalted is He) supports Hassan with the Spirit of Holiness, when he defends or pays tribute to Allah’s Messenger (Allah bless him and give him peace)!'”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 37,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ صَبَّاحٍ الْبَزَّارُ، قَالَ‏:‏ حَدَّثَنَا أَبُو النَّضْرِ، قَالَ‏:‏ حَدَّثَنَا أَبُو عَقِيلٍ الثَّقَفِيُّ عَبْدُ اللهِ بْنُ عَقِيلٍ، عَنْ مُجَالِدٍ، عَنِ الشَّعْبِيِّ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ حَدَّثَ رَسُولُ اللهِ صلى الله عليه وسلم، ذَاتَ لَيْلَةٍ نِسَاءَهُ حَدِيثًا، فَقَالَتِ امْرَأَةٌ مِنْهُنَّ‏:‏ كَأَنَّ الْحَدِيثَ حَدِيثُ خُرَافَةَ، فَقَالَ‏:‏ أَتَدْرُونَ مَا خُرَافَةُ‏؟‏ إِنَّ خُرَافَةَ كَانَ رَجُلا مِنْ عُذْرَةَ، أَسَرَتْهُ الْجِنُّ فِي الْجَاهِلِيَّةِ، فَمَكَثَ فِيهِمْ دَهْرًا، ثُمَّ رَدُّوهُ إِلَى الإِنْسِ، فَكَانَ يُحَدِّثُ النَّاسَ بِمَا رَأَى فِيهِمْ مِنَ الأَعَاجِيبِ، فَقَالَ النَّاسُ‏:‏ حَدِيثُ خُرَافَةَ‏.‏",
+      "english": {
+        "narrator": "'Ai'sha said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) told his wives a story one night, and one of them said: “It sounds like a fable of Khurafa!” He said: “Do you know what that means? Khurafa was a man from , so he stayed with them for a long time, then they returned him to his people. He used to tell the people about the marvels that he saw among them, so the people said: ‘The fable of Khurafa.'”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 38,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ‏:‏ حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنِ أَخِيهِ عَبْدِ اللهِ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ جَلَسَتْ إِحْدَى عَشْرَةَ امْرَأَةً فَتَعَاهَدْنَ وَتَعَاقَدْنَ أَنْ لا يَكْتُمْنَ مِنْ أَخْبَارِ أَزْوَاجِهِنَّ شَيْئًا‏:‏ فَقَالَتِ الأُولَى‏:‏ زَوْجِي لَحْمُ جَمَلٍ غَثٍّ عَلَى رَأْسِ جَبَلٍ وَعْرٍ، لا سَهْلٌ فَيُرْتَقَى، وَلا سَمِينٌ فَيُنْتَقَلُ قَالَتِ الثَّانِيَةُ‏:‏ زَوْجِي لا أَبُثُّ خَبَرَهُ، إِنِّي أَخَافُ أَنْ لا أَذَرَهُ، إِنْ أَذْكُرْهُ أَذْكُرْ عُجَرَهُ، وَبُجَرَهُ قَالَتِ الثَّالِثَةُ‏:‏ زَوْجِي الْعَشَنَّقُ، إِنْ أَنْطِقْ أُطَلَّقْ، وَإِنْ أَسْكُتْ أُعَلَّقْ قَالَتِ الرَّابِعَةُ‏:‏ زَوْجِي كَلَيْلِ تِهَامَةَ، لا حَرٌّ، وَلا قُرٌّ، وَلا مَخَافَةَ، وَلا سَآمَةَ قَالَتِ الْخَامِسَةُ‏:‏ زَوْجِي إِنْ دَخَلَ فَهِدَ، وَإِنْ خَرَجَ أَسِدَ، وَلا يَسْأَلُ عَمَّا عَهِدَ قَالَتِ السَّادِسَةُ‏:‏ زَوْجِي إِنْ أَكَلَ لَفَّ، وَإِنْ شَرِبَ اشْتَفَّ، وَإِنِ اضْطَجَعَ الْتَفَّ، وَلا يُولِجُ الْكَفَّ، لِيَعْلَمَ الْبَثَّ قَالَتِ السَّابِعَةُ‏:‏ زَوْجِي عَيَايَاءُ، أَوْ غَيَايَاءُ طَبَاقَاءُ، كُلُّ دَاءٍ لَهُ دَاءٌ، شَجَّكِ، أَوْ فَلَّكِ، أَوْ جَمَعَ كُلا لَكِ قَالَتِ الثَّامِنَةُ‏:‏ زَوْجِي الْمَسُّ، مَسُّ أَرْنَبٍ وَالرِّيحُ، رِيحُ زَرْنَبٍ قَالَتِ التَّاسِعَةُ‏:‏ زَوْجِي رَفِيعُ الْعِمَادِ، طَوِيلُ النِّجَادِ عَظِيمُ الرَّمَادِ، قَرِيبُ الْبَيْتِ مِنَ النَّادِ قَالَتِ الْعَاشِرَةُ‏:‏ زَوْجِي مَالِكٌ، وَمَا مَالِكٌ مَالِكٌ خَيْرٌ مِنْ ذَلِكِ، لَهُ إِبِلٌ كَثِيرَاتُ الْمَبَارِكِ، قَلِيلاتُ الْمَسَارِحِ، إِذَا سَمِعْنَ صَوْتَ الْمِزْهَرِ، أَيْقَنَّ أَنَّهُنَّ هَوَالِكُ قَالَتِ الْحَادِيَةَ عَشْرَةَ‏:‏ زَوْجِي أَبُو زَرْعٍ وَمَا أَبُو زَرْعٍ‏؟‏ أَنَاسَ مِنْ حُلِيٍّ أُذُنَيَّ، وَمَلأَ مِنْ شَحْمٍ عَضُدَيَّ، وَبَجَّحَنِي، فَبَجَحَتْ إِلَيَّ نَفْسِي، وَجَدَنِي فِي أَهْلِ غُنَيْمَةٍ بِشَقٍّ فَجَعَلَنِي فِي أَهْلِ صَهِيلٍ، وَأَطِيطٍ وَدَائِسٍ وَمُنَقٍّ، فَعِنْدَهُ أَقُولُ، فَلا أُقَبَّحُ، وَأَرْقُدُ، فَأَتَصَبَّحُ، وَأَشْرَبُ، فَأَتَقَمَّحُ، أُمُّ أَبِي زَرْعٍ فَمَا أُمُّ أَبِي زَرْعٍ، عُكُومُهَا رَدَاحٌ، وَبَيْتُهَا فَسَاحٌ، ابْنُ أَبِي زَرْعٍ، فَمَا ابْنُ أَبِي زَرْعٍ، مَضْجَعُهُ كَمَسَلِّ شَطْبَةٍ، وَتُشْبِعُهُ ذِرَاعُ الْجَفْرَةِ، بِنْتُ أَبِي زَرْعٍ، فَمَا بِنْتُ أَبِي زَرْعٍ، طَوْعُ أَبِيهَا وَطَوْعُ أُمِّهَا، مِلْءُ كِسَائِهَا، وَغَيْظُ جَارَتِهَا، جَارِيَةُ أَبِي زَرْعٍ، فَمَا جَارِيَةُ أَبِي زَرْعٍ، لا تَبُثُّ حَدِيثَنَا تَبْثِيثًا، وَلا تُنَقِّثُ مِيرَتَنَا تَنْقِيثًا، وَلا تَمْلأُ بَيْتَنَا تَعْشِيشًا، قَالَتْ‏:‏ خَرَجَ أَبُو زَرْعٍ، وَالأَوْطَابُ تُمْخَضُ، فَلَقِيَ امْرَأَةً مَعَهَا وَلَدَانِ لَهَا، كَالْفَهْدَيْنِ، يَلْعَبَانِ مِنْ تَحْتِ خَصْرِهَا بِرُمَّانَتَيْنِ، فَطَلَّقَنِي وَنَكَحَهَا، فَنَكَحْتُ بَعْدَهُ رَجُلا سَرِيًّا، رَكِبَ شَرِيًّا، وَأَخَذَ خَطِّيًّا، وَأَرَاحَ عَلَيَّ نَعَمًا ثَرِيًّا، وَأَعْطَانِي مِنْ كُلِّ رَائِحَةٍ زَوْجًا، وَقَالَ‏:‏ كُلِي أُمَّ زَرْعٍ، وَمِيرِي أَهْلَكِ، فَلَوْ جَمَعْتُ كُلَّ شَيْءٍ أَعْطَانِيهِ، مَا بَلَغَ أَصْغَرَ آنِيَةِ أَبِي زَرْعٍ قَالَتْ عَائِشَةُ‏:‏ فَقَالَ لِي رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ كُنْتُ لَكِ كَأَبِي زَرْعٍ لأُمِّ زَرْعٍ‏.‏",
+      "english": {
+        "narrator": "'A’isha said:",
+        "text": "\"Eleven women sat together and agreed that they would not conceal anything pertaining to their husbands. .”\n‘The second said: “I do not broadcast my husbands story ”\n‘The third said: “My husband is extremely tall and ill- natured ”\n‘The fourth said: “My husband is like the night of Tihama .”\n‘The fifth said: “If my husband comes in, he is relaxed like the lynx .\n‘The sixth said: “If my husband eats, he gorges and mixes all sorts of food .”\n‘The seventh said: “My husband is incompetent , sick with\nevery sickness ”\n‘The eighth said: “My husband is softness, the softness of a rabbit ”\n‘The ninth said: “My husband is of lofty status .”\n‘The tenth said: “My husband is Malik, and what is Malik? Malik is better than that. ”\n‘The eleventh said: “My husband is Abu Zar\", and what about Abu Zar'? He has made my ears dangle with jewelry. He has filled my upper arms with fat. He has made me happy, so my soul has become happy with me. He found me among the owners of little sheep and goats, in dire straits, so he put me among the owners of neighing . I therefore speak in his presence, for I shall not be rebuked. I sleep soundly until the morning arrives, and I shall drink until I satisfy my thirst.\n“The mother of Abu Zar so what about the mother of Abu Zar? Her bundles  are heavy, and her house is spacious.\n“The son of Abu Zar so what about the son of Abu Zar? His couch is like a palm-stick stripped of its leaves , and the foreleg of the lamb fills his stomach.\n“The daughter of Abu Zar, so what about the daughter of Abu Zar? She is obedient to her father and obedient to her mother. She fits perfectly into her clothes, and she is the rage of her female neighbor.\n“The maidservant of Abu Zar so what about the maidservant of Abu Zar? She does not broadcast our speech, nor does she scatter our provisions, nor does she fill our home with treachery and slander.”\n‘She said: “Abu Zar\" went out while the milkskins were being churned, and so he encountered a woman accompanied by two children of hers. Like a pair of lynxes, they were playing below her waist with a couple of lumps shaped like pomegranates. He therefore divorced me and married her, so I married a nobly generous man. He rode a sturdy horse and held a spear. He endowed me with rich benefits, and gave me a couple of every perfume. He said: ‘Eat, Umm Zar, and feed your relatives!’ Yet even if I collected everything that he gave me, it would not amount to the smallest of the vessels of Abu Zar'!”\n'A'isha said (may Allah be well pleased with her): “Allah’s Messenger (Allah bless him and give him peace) said to me: ‘I have been to you as Abu Zar was to Umm Zar'.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 39,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ‏:‏ حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَبْدِ اللهِ بْنِ يَزِيدَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم، كَانَ إِذَا أَخَذَ مَضْجَعَهُ وَضَعَ كَفَّهُ الْيُمْنَى تَحْتَ خَدِّهِ الأَيْمَنِ، وَقَالَ‏:‏ رَبِّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ‏.‏\n\nحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ‏:‏ حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي عُبَيْدَةَ، عَنْ عَبْدِ اللهِ، مِثْلَهُ وَقَالَ‏:‏ يَوْمَ تَجْمَعُ عِبَادَكَ‏.‏",
+      "english": {
+        "narrator": "Al-Bara’ ibn 'Azib said:",
+        "text": "“When the Prophet (Allah bless him and give him peace) lay down to sleep, he placed the palm of his right hand under his right cheek and said: ‘O my Lord, preserve me from Your torment on the day when You resurrect Your servants!'”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 39,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ حُذَيْفَةَ، قَالَ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَوَى إِلَى فِرَاشِهِ، قَالَ‏:‏ اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا، وَإِذَا اسْتَيْقَظَ، قَالَ‏:‏ الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانًا بَعْدَمَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ‏.‏",
+      "english": {
+        "narrator": "Hudhaifa said:",
+        "text": "“When the Prophet (Allah bless him and give him peace) went to his mattress, he would say: ‘O Allah, in Your Name I shall die and live,’ and when he woke up, he would say:\n‘Praise be to Allah, who has revived us after He caused us to die, and to Him is the resurrection!'”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 39,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا الْمُفَضَّلُ بْنُ فَضَالَةَ، عَنْ عُقَيْلٍ، أُرَاهُ عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم، إِذَا أَوَى إِلَى فِرَاشِهِ كُلَّ لَيْلَةٍ جَمَعَ كَفَّيْهِ فَنَفَثَ فِيهِمَا، وَقَرَأَ فِيهِمَا‏:‏ قُلْ هُوَ اللَّهُ أَحَدٌ وَ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ وَ قُلْ أَعُوذُ بِرَبِّ النَّاسِ، ثُمَّ مَسَحَ بِهِمَا مَا اسْتَطَاعَ مِنْ جَسَدِهِ، يَبْدَأُ بِهِمَا رَأْسَهُ وَوَجْهَهُ وَمَا أَقْبَلَ مِنْ جَسَدِهِ، يَصْنَعُ ذَلِكَ ثَلاثَ مَرَّاتٍ‏.‏",
+      "english": {
+        "narrator": "'A’isha said:",
+        "text": "\"When Allah’s Messenger (Allah bless him and give him peace) went to his mattress each night, he joined the palms of his hands, then breathed into them and recited into them: “Say: ‘He is Allah, One !' (Al-Qur'an;114:1), Then he passed them over as much of his body as he could, beginning with his head and his face and the front of his body, doing that three times.”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 39,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ سَلَمَةَ بْنِ كُهَيلٍ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ‏:‏ أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم، نَامَ حَتَّى نَفَخَ، وَكَانَ إِذَا نَامَ نَفَخَ، فَأَتَاهُ بِلالٌ فَآذَنَهُ بِالصَّلاةِ، فَقَامَ وَصَلَّى وَلَمْ يَتَوَضَّأْ وَفِي الْحَدِيثِ قِصَّةٌ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas said:",
+        "text": "“Allah’s Messenger (Allah bless him and give him peace) slept until he gasped for breath, and he had gasped for breath while he was sleeping, so Bilal came to him and called him\nto the ritual prayer, whereupon he got up and performed the ritual prayer, and he did not perform the minor ritual ablution. And there is a story behind this tradition.\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 39,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ‏:‏ حَدَّثَنَا عَفَّانُ، قَالَ‏:‏ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم، كَانَ إِذَا أَوَى إِلَى فِرَاشِهِ، قَالَ‏:‏ الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَآوَانَا، فَكَمْ مِمَّنْ لا كَافِيَ لَهُ وَلا مُؤْوِي‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "“When Allah’s Messenger (Allah bless him and give him peace) went to his mattress, he would say: ‘Praise be to Allah, who has fed us and quenched our thirst, and has sufficed us\nand sheltered us, for how many there are without a provider of sufficiency and without a provider of shelter!'”"
+      }
+    }
+  ]
+}

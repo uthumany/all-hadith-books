@@ -1,0 +1,16 @@
+{
+  "id": 179,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عباس رضي الله عنهما أن رسول الله صلى الله عليه وسلم لقي ركبا بالروحاء فقال ‏:‏ ‏\"‏من القوم‏؟‏‏\"‏ قالوا‏:‏ المسلمون، فقالوا‏:‏ من أنت‏؟‏ قال‏:‏ ‏\"‏رسول الله‏\"‏ فرفعت إليه امرأة صبياً فقالت ‏:‏ ألهذا حج‏؟‏ قال‏:‏ ‏\"‏نعم ولك أجر‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas (May Allah be pleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) came across a party of mounted men at Ar-Rauha and asked them, \"Who are you?\" They answered: \"We are Muslims, and who are you?\" He said, \"I am the Messenger of Allah.\" A woman from among them lifted a boy up to him and asked: \"Can this one go on Hajj?\" He (ﷺ) said, \"Yes, and you will have the reward.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

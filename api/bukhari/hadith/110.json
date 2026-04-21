@@ -1,0 +1,16 @@
+{
+  "id": 110,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ مَا غِرْتُ عَلَى امْرَأَةٍ مَا غِرْتُ عَلَى خَدِيجَةَ، وَلَقَدْ أَمَرَهُ رَبُّهُ أَنْ يُبَشِّرَهَا بِبَيْتٍ فِي الْجَنَّةِ‏.‏",
+  "english": {
+    "narrator": "Narrated `Aisha:",
+    "text": "I never felt so jealous of any woman as I felt of Khadija, for Allah ordered him (the Prophet (ﷺ) ) to give \nKhadija the glad tidings of a palace in Paradise (for her)."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

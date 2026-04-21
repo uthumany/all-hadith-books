@@ -1,0 +1,16 @@
+{
+  "id": 40,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ الْمُهَاجِرِينَ، قَالُوا يَا رَسُولَ اللَّهِ ذَهَبَتِ الأَنْصَارُ بِالأَجْرِ كُلِّهِ ‏.‏ قَالَ ‏\n\"‏ لاَ مَا دَعَوْتُمُ اللَّهَ لَهُمْ وَأَثْنَيْتُمْ عَلَيْهِمْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Anas ibn Malik:",
+    "text": "The Immigrants (Muhajirun) said: Messenger of Allah! the Helpers (Ansar) got the entire reward. He said: no, so long as you pray to Allah for them and praise them."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

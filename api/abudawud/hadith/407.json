@@ -1,0 +1,16 @@
+{
+  "id": 407,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ رِبْعِيٍّ، عَنْ رَجُلٍ، مِنْ بَنِي عَامِرٍ أَنَّهُ اسْتَأْذَنَ عَلَى النَّبِيِّ صلى الله عليه وسلم بِمَعْنَاهُ ‏.‏ قَالَ فَسَمِعْتُهُ فَقُلْتُ السَّلاَمُ عَلَيْكُمْ أَأَدْخُلُ",
+  "english": {
+    "narrator": "Rib’i said that a man of Banu Amir told him that he asked permission of the prophet (May peace be upon him) to enter the house. He related the tradition to the same effect, saying :",
+    "text": "I heard it and so I said: Peace be upon you. May I enter?"
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

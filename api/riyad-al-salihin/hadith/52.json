@@ -1,0 +1,16 @@
+{
+  "id": 52,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي يحيى أسيد بن حضير رضي الله عنه أن رجلاً من الأنصار قال‏:‏ يا رسول الله ألا تستعملني كما استعملت فلاناً فقال‏:‏ ‏\n\"‏إنكم ستلقون بعدي أثرة، فاصبروا حتى تلقوني على الحوض‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Usaid bin Hudhair (May Allah be pleased with him) reported that:",
+    "text": "A person from among the Ansar said, \"O Messenger of Allah! You appointed such and such person and why do you not appoint me?\" Messenger of Allah (ﷺ) said, \"After me you will see others given preference to you, but you should remain patient till you meet me at the Haud (Al- Kauthar in Jannah)\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

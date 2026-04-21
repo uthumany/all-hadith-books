@@ -1,0 +1,16 @@
+{
+  "id": 116,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْجُرَيْرِيِّ، عَنْ أَبِي نَضْرَةَ،\n عَنْ أَبِي سَعِيدٍ، أَنَّ ابْنَ صَيَّادٍ، سَأَلَ النَّبِيَّ صلى الله عليه وسلم عَنْ تُرْبَةِ الْجَنَّةِ فَقَالَ ‏\n\"‏ دَرْمَكَةٌ\n بَيْضَاءُ مِسْكٌ خَالِصٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Sa'id reported that Ibn Sayyad asked Allah's Messenger (ﷺ) about the earth of Paradise. Whereupon he said:",
+    "text": "It is like white shining pure musk."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

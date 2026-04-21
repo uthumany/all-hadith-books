@@ -1,0 +1,16 @@
+{
+  "id": 90,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ عَبْدِ اللَّهِ بْنِ عِيسَى، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي الْجَعْدِ، عَنْ ثَوْبَانَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ لاَ يَزِيدُ فِي الْعُمْرِ إِلاَّ الْبِرُّ وَلاَ يَرُدُّ الْقَدَرَ إِلاَّ الدُّعَاءُ وَإِنَّ الرَّجُلَ لَيُحْرَمُ الرِّزْقَ لِلْخَطِيئَةِ يَعْمَلُهَا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Thawban said:",
+    "text": "\"The Messenger of Allah (ﷺ) said: 'Nothing extends one's life span but righteousness, nothing averts the Divine Decree but supplication, and nothing deprives a man of provision but the sin that he commits.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

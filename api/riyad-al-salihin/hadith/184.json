@@ -1,0 +1,16 @@
+{
+  "id": 184,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "فالأول‏:‏ عن أبي سعيد الخدري رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\n\"‏من رأى منكم منكرًا فليغيره بيده ، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه وذلك أضعف الإيمان‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Sa'id Al-Khudri (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Whoever amongst you sees an evil, he must change it with his hand; if he is unable to do so, then with his tongue; and if he is unable to do so, then with his heart; and that is the weakest form of Faith\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

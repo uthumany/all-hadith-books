@@ -1,0 +1,16 @@
+{
+  "id": 437,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنْ أَبِي غِفَارٍ، عَنْ أَبِي تَمِيمَةَ الْهُجَيْمِيِّ، عَنْ أَبِي جُرَىٍّ الْهُجَيْمِيِّ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَقُلْتُ عَلَيْكَ السَّلاَمُ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\n\"‏ لاَ تَقُلْ عَلَيْكَ السَّلاَمُ فَإِنَّ عَلَيْكَ السَّلاَمُ تَحِيَّةُ الْمَوْتَى ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuJurayy al-Hujaymi:",
+    "text": "I came to the Prophet (ﷺ) and said: Upon you be peace, Messenger of Allah! He said: Do not say: Upon you be peace, for \"Upon you be peace\" is the salutation to the dead."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

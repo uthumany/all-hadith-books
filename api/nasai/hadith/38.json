@@ -1,0 +1,16 @@
+{
+  "id": 38,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ حَبِيبٍ، - وَهُوَ ابْنُ أَبِي عَمْرَةَ - عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ السَّكَرُ خَمْرٌ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Sa'eed bin Jubair said:",
+    "text": "\"Strong drink is Khamr.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

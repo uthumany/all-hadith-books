@@ -1,0 +1,16 @@
+{
+  "id": 50,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي قَيْسٌ، عَنْ أَبِيهِ، أَنَّهُ جَاءَ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ فَقَامَ فِي الشَّمْسِ فَأَمَرَ بِهِ فَحُوِّلَ إِلَى الظِّلِّ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Qais quoted his father as saying that he (his father) came when the Messenger of Allah (ﷺ) was addressing. He stood in the sun. He ordered him (to shift) and he shifted to the shade."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

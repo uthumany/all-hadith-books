@@ -1,0 +1,16 @@
+{
+  "id": 118,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنِي أَسْوَدُ بْنُ عَامِرٍ، أَخْبَرَنَا أَبُو بَكْرٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُوتِرُ بِثَلَاثٍ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "It was narrated from ‘Ali (رضي الله عنه) that The Prophet (ﷺ) used to pray Witr with three raka’hs"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

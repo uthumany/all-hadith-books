@@ -1,0 +1,16 @@
+{
+  "id": 376,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا جَرِيرٌ، عَنْ سُهَيْلٍ، بِهَذَا الإِسْنَادِ بِمَعْنَاهُ قَالَ ‏\n\"‏ ثَلاَثُ أَخَوَاتٍ أَوْ ثَلاَثُ بَنَاتٍ أَوْ بِنْتَانِ أَوْ أُخْتَانِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "The tradition mentioned above has also been transmitted by Suhail through a different chain of narrators to the same effect. This version has :",
+    "text": "“three sisters, or three daughter, or two daughter, or two sisters”."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

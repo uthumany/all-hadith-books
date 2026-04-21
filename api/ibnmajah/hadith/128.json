@@ -1,0 +1,16 @@
+{
+  "id": 128,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، قَالَ رَأَيْتُ يَدَ طَلْحَةَ شَلاَّءَ وَقَى بِهَا رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَوْمَ أُحُدٍ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Qais said:",
+    "text": "\"I saw the paralyzed hand of Talhah, with which he had defended the Messenger of Allah on the Day of Uhud.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

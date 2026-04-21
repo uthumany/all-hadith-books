@@ -1,0 +1,16 @@
+{
+  "id": 664,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ قُدَامَةَ بْنِ وَبَرَةَ الْعُجَيْفِيِّ، عَنْ سَمُرَةَ بْنِ جُنْدُبٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ تَرَكَ الْجُمُعَةَ مِنْ غَيْرِ عُذْرٍ فَلْيَتَصَدَّقْ بِدِينَارٍ فَإِنْ لَمْ يَجِدْ فَبِنِصْفِ دِينَارٍ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَكَذَا رَوَاهُ خَالِدُ بْنُ قَيْسٍ وَخَالَفَهُ فِي الإِسْنَادِ وَوَافَقَهُ فِي الْمَتْنِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Samurah ibn Jundub:",
+    "text": "The Prophet (ﷺ) said: If anyone omits the Friday prayer without excuse, he must give a dinar in alms, or if he does not have as much, then half a dinar.\n\n\nAbu Dawud said: Khalid b. Qais reported this tradition in this manner, but he disagreed in respect of chain (of transmitters) and agreed in respect of the text."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

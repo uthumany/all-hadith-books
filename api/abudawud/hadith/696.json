@@ -1,0 +1,16 @@
+{
+  "id": 696,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا يَعْلَى بْنُ الْحَارِثِ، سَمِعْتُ إِيَاسَ بْنَ سَلَمَةَ بْنِ الأَكْوَعِ، يُحَدِّثُ عَنْ أَبِيهِ، قَالَ كُنَّا نُصَلِّي مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم الْجُمُعَةَ ثُمَّ نَنْصَرِفُ وَلَيْسَ لِلْحِيطَانِ فَىْءٌ ‏.‏",
+  "english": {
+    "narrator": "Salamah b. al-Akwa' reported on the authority of his father:",
+    "text": "We used to offer the Friday prayer along with the Messenger of Allah (ﷺ) and return (to our homes) while no shade of the walls was seen (at that time)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

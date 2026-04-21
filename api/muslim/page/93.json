@@ -1,0 +1,510 @@
+{
+  "page": 93,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 94,
+  "prevPage": 92,
+  "items": [
+    {
+      "id": 32,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، حَدَّثَنَا الْحَسَنُ، أَنَّ عَائِذَ بْنَ عَمْرٍو، - وَكَانَ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم - دَخَلَ عَلَى عُبَيْدِ اللَّهِ بْنِ زِيَادٍ فَقَالَ أَىْ بُنَىَّ إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِنَّ شَرَّ الرِّعَاءِ الْحُطَمَةُ فَإِيَّاكَ أَنْ تَكُونَ مِنْهُمْ ‏\"‏ ‏.‏ فَقَالَ لَهُ اجْلِسْ فَإِنَّمَا أَنْتَ مِنْ نُخَالَةِ أَصْحَابِ مُحَمَّدٍ صلى الله عليه وسلم ‏.‏ فَقَالَ وَهَلْ كَانَتْ لَهُمْ نُخَالَةٌ إِنَّمَا كَانَتِ النُّخَالَةُ بَعْدَهُمْ وَفِي غَيْرِهِمْ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Hasan that A'idh b. 'Amr who was one of the Companions of the Messenger of Allah (ﷺ) called on 'Ubaidullah b. Ziyad and said (to him):",
+        "text": "O my son, I have heard the Messenger of Allah (ﷺ) say: The worst of guardians is the cruel ruler. Beware of being one of them. Ubaidullah said (to him out of arrogance): Sit you down. You are from the chaff of the Companions of Muhammad (ﷺ). A'idh said: Was there worthless chaff among them? Such worthless chaff appeared after them and among other people."
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَبِي حَيَّانَ، عَنْ أَبِي، زُرْعَةَ عَنْ أَبِي هُرَيْرَةَ، قَالَ قَامَ فِينَا رَسُولُ اللَّهِ صلى الله عليه وسلم ذَاتَ يَوْمٍ فَذَكَرَ الْغُلُولَ فَعَظَّمَهُ وَعَظَّمَ أَمْرَهُ ثُمَّ قَالَ ‏\n\"‏ لاَ أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ يَقُولُ يَا رَسُولَ اللَّهِ أَغِثْنِي ‏.‏ فَأَقُولُ لاَ أَمْلِكُ لَكَ شَيْئًا قَدْ أَبْلَغْتُكَ ‏.‏ لاَ أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ فَرَسٌ لَهُ حَمْحَمَةٌ فَيَقُولُ يَا رَسُولَ اللَّهِ أَغِثْنِي ‏.‏ فَأَقُولُ لاَ أَمْلِكُ لَكَ شَيْئًا قَدْ أَبْلَغْتُكَ ‏.‏ لاَ أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ شَاةٌ لَهَا ثُغَاءٌ يَقُولُ يَا رَسُولَ اللَّهِ أَغِثْنِي ‏.‏ فَأَقُولُ لاَ أَمْلِكُ لَكَ شَيْئًا قَدْ أَبْلَغْتُكَ ‏.‏ لاَ أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ نَفْسٌ لَهَا صِيَاحٌ فَيَقُولُ يَا رَسُولَ اللَّهِ أَغِثْنِي ‏.‏ فَأَقُولُ لاَ أَمْلِكُ لَكَ شَيْئًا قَدْ أَبْلَغْتُكَ ‏.‏ لاَ أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ رِقَاعٌ تَخْفِقُ فَيَقُولُ يَا رَسُولَ اللَّهِ أَغِثْنِي ‏.‏ فَأَقُولُ لاَ أَمْلِكُ لَكَ شَيْئًا قَدْ أَبْلَغْتُكَ ‏.‏ لاَ أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ صَامِتٌ فَيَقُولُ يَا رَسُولَ اللَّهِ أَغِثْنِي فَأَقُولُ لاَ أَمْلِكُ لَكَ شَيْئًا قَدْ أَبْلَغْتُكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abu Huraira who said:",
+        "text": "One day the Messenger of Allah (ﷺ) stood among us (to deliver a sermon). He talked about the misappropriation of booty, and declared it to be a serious matter and a grave sin. Then he said: I shouldn't find that any of you should come on the Day of Judgment with a growling camel mounted on his neck, and should appeal to me for help saying:\" Messenger of Allah, help me.\" and I should say: I have no authority to help you; I already communicated to you. I shouldn't find that any of you should come on the Day of Judgment with a bleating ewe mounted on his neck, and he should say to me:\" Messenger of Allah, help me,\" and I should say: I have no authority to help you; I conveyed to you. I shouldn't find that one of you should come on the Day of Judgment with a Person crying loudly mounted on his neck, and he should say to me:\" Messenger of Allah, help me,\" and I should say: I have no authority to help you; I conveyed to you. I shouldn't find that any one of you should come on the Day of Judgment with fluttering clothes wrapped round his neck and he should say to me:\" Messenger of Allah, help me,\" and I should say: I have no authority to help you; I conveyed to you. I shouldn't find that any of you should come on the Day of Judgment with a heap of gold and silver placed on his neck and he should say to me:\" Messenger of Allah, help me.\" and I should say: I have no authority to help you; I already conveyed to you (the warning from the Almighty)."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، عَنْ أَبِي حَيَّانَ، ح وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ أَبِي حَيَّانَ، وَعُمَارَةَ بْنِ الْقَعْقَاعِ، جَمِيعًا عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، بِمِثْلِ حَدِيثِ إِسْمَاعِيلَ عَنْ أَبِي حَيَّانَ، ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The above tradition has been narrated on the same authority through different chains of transmitters."
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَحْمَدُ بْنُ سَعِيدِ بْنِ صَخْرٍ الدَّارِمِيُّ، حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ زَيْدٍ - عَنْ أَيُّوبَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ ذَكَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْغُلُولَ فَعَظَّمَهُ ‏.‏ وَاقْتَصَّ الْحَدِيثَ قَالَ حَمَّادٌ ثُمَّ سَمِعْتُ يَحْيَى بَعْدَ ذَلِكَ يُحَدِّثُهُ فَحَدَّثَنَا بِنَحْوِ مَا حَدَّثَنَا عَنْهُ أَيُّوبُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira has narrated this hadith with a slight variation of words."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَحْمَدُ بْنُ الْحَسَنِ بْنِ خِرَاشٍ، حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا أَيُّوبُ، عَنْ يَحْيَى بْنِ سَعِيدِ بْنِ حَيَّانَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِنَحْوِ حَدِيثِهِمْ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira has narrated this hadith similar to the above mentioned hadith."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَابْنُ أَبِي عُمَرَ، - وَاللَّفْظُ لأَبِي بَكْرٍ - قَالُوا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، قَالَ اسْتَعْمَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَجُلاً مِنَ الأَسْدِ يُقَالُ لَهُ ابْنُ اللُّتْبِيَّةِ - قَالَ عَمْرٌو وَابْنُ أَبِي عُمَرَ عَلَى الصَّدَقَةِ - فَلَمَّا قَدِمَ قَالَ هَذَا لَكُمْ وَهَذَا لِي أُهْدِيَ لِي قَالَ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى الْمِنْبَرِ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَقَالَ ‏\"‏ مَا بَالُ عَامِلٍ أَبْعَثُهُ فَيَقُولُ هَذَا لَكُمْ وَهَذَا أُهْدِيَ لِي ‏.‏ أَفَلاَ قَعَدَ فِي بَيْتِ أَبِيهِ أَوْ فِي بَيْتِ أُمِّهِ حَتَّى يَنْظُرَ أَيُهْدَى إِلَيْهِ أَمْ لاَ وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ لاَ يَنَالُ أَحَدٌ مِنْكُمْ مِنْهَا شَيْئًا إِلاَّ جَاءَ بِهِ يَوْمَ الْقِيَامَةِ يَحْمِلُهُ عَلَى عُنُقِهِ بَعِيرٌ لَهُ رُغَاءٌ أَوْ بَقَرَةٌ لَهَا خُوَارٌ أَوْ شَاةٌ تَيْعِرُ ‏\"‏ ‏.‏ ثُمَّ رَفَعَ يَدَيْهِ حَتَّى رَأَيْنَا عُفْرَتَىْ إِبْطَيْهِ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ هَلْ بَلَّغْتُ ‏\"‏ ‏.‏ مَرَّتَيْنِ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abu Humaid as-Sa'idi who said:",
+        "text": "The Messenger of Allah (ﷺ) appointed a man from the Asad tribe who was called Ibn Lutbiyya in charge of Sadaqa (i. e. authorised hign to receive Sadaqa from the people on behalf of the State. When he returned (with the collictions), he said: This is for you and (this is mine as) it was presented to me as a gift. The narrator said: The Messenger of Allah (may peace be upod him) stood on the pulpit and praised God and extolled Him. Then he said: What about a State official whom I give an assignment and who (comes and) says: This is for you and this has been presented to me as a gift? Why didn't he remain in the house of his father or the house of his mother so that he could observe whether gifts were presented to him or not. By the Being in Whose Hand is the life of Muhammad, any one of you will not take anything from it but will bring it on the Day of Judgment, carrying on his neck a camel that will be growling, or a cow that will be bellowing or an ewe that will be bleating. Then he raised his hands so that we could see the whiteness of his armpits. Then he said twice: O God, I have conveyed (Thy Commandments)."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالاَ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، قَالَ اسْتَعْمَلَ النَّبِيُّ صلى الله عليه وسلم ابْنَ اللُّتْبِيَّةِ - رَجُلاً مِنَ الأَزْدِ - عَلَى الصَّدَقَةِ فَجَاءَ بِالْمَالِ فَدَفَعَهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ هَذَا مَالُكُمْ وَهَذِهِ هَدِيَّةٌ أُهْدِيَتْ لِي ‏.‏ فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ أَفَلاَ قَعَدْتَ فِي بَيْتِ أَبِيكَ وَأُمِّكَ فَتَنْظُرَ أَيُهْدَى إِلَيْكَ أَمْ لاَ ‏\"‏ ‏.‏ ثُمَّ قَامَ النَّبِيُّ صلى الله عليه وسلم خَطِيبًا ‏.‏ ثُمَّ ذَكَرَ نَحْوَ حَدِيثِ سُفْيَانَ ‏.‏",
+      "english": {
+        "narrator": "It has been reported on the authority of Abu Humaid as-Sa'idi who said:",
+        "text": "The Prophet (ﷺ) appointed Ibn Lutbiyya, a man from the Azd tribe, in charge of Sadaqa (authorising him to receive gifts from the people on behalf of the State). He came with the collection, gave it to the Prophet (ﷺ), and said: This wealth is for you and this is a gift presented to me. The Prophet (ﷺ) said to him: Why didn't you remain in the house of your father and your mother to see whether gifts were presented to you or not. Then he stood up to deliver a sermon. Here follows the tradition like the tradition of Sufyan."
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، قَالَ اسْتَعْمَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَجُلاً مِنَ الأَزْدِ عَلَى صَدَقَاتِ بَنِي سُلَيْمٍ يُدْعَى ابْنَ الأُتْبِيَّةِ فَلَمَّا جَاءَ حَاسَبَهُ قَالَ هَذَا مَالُكُمْ وَهَذَا هَدِيَّةٌ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَهَلاَّ جَلَسْتَ فِي بَيْتِ أَبِيكَ وَأُمِّكَ حَتَّى تَأْتِيَكَ هَدِيَّتُكَ إِنْ كُنْتَ صَادِقًا ‏\"‏ ‏.‏ ثُمَّ خَطَبَنَا فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ ‏\"‏ أَمَّا بَعْدُ فَإِنِّي أَسْتَعْمِلُ الرَّجُلَ مِنْكُمْ عَلَى الْعَمَلِ مِمَّا وَلاَّنِي اللَّهُ فَيَأْتِي فَيَقُولُ هَذَا مَالُكُمْ وَهَذَا هَدِيَّةٌ أُهْدِيَتْ لِي ‏.‏ أَفَلاَ جَلَسَ فِي بَيْتِ أَبِيهِ وَأُمِّهِ حَتَّى تَأْتِيَهُ هَدِيَّتُهُ إِنْ كَانَ صَادِقًا وَاللَّهِ لاَ يَأْخُذُ أَحَدٌ مِنْكُمْ مِنْهَا شَيْئًا بِغَيْرِ حَقِّهِ إِلاَّ لَقِيَ اللَّهَ تَعَالَى يَحْمِلُهُ يَوْمَ الْقِيَامَةِ فَلأَعْرِفَنَّ أَحَدًا مِنْكُمْ لَقِيَ اللَّهَ يَحْمِلُ بَعِيرًا لَهُ رُغَاءٌ أَوْ بَقَرَةً لَهَا خُوَارٌ أَوْ شَاةً تَيْعِرُ ‏\"‏ ‏.‏ ثُمَّ رَفَعَ يَدَيْهِ حَتَّى رُئِيَ بَيَاضُ إِبْطَيْهِ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ هَلْ بَلَّغْتُ ‏\"‏ ‏.‏ بَصُرَ عَيْنِي وَسَمِعَ أُذُنِي ‏.‏",
+      "english": {
+        "narrator": "It has been reported on the authority of Abu Humaid as-Sa'idi who said:",
+        "text": "The Messenger of Allah (ﷺ) appointed a man from the Azd tribe called Ibn al-Utbiyya, in charge of Sadaqat to be received from Banu Sulaim. When he came (back), the Messenger of Allah (ﷺ) asked him to render his account. He said: This wealth is for you (i.e. for the public treasury) and this is a gift (presented to me). The Messenger of Allah (ﷺ) said: You should have remained in the house of your father and your mother, until your gift came to you if you spoke the truth; then he addressed us. He praised God and extolled Him, and afterwards said: I appoint a man from you to a responsible post sharing with him authority that God has entrusted to me, and he comes to me saying: This wealth is for you (i.e. for the public treasury) and this is a gift presented to me. Why did he not remain in the house of his father and his mother and his gift came to him, if he was truthful? By God, any one of you will not take anything from (the public funds) without any justification, but will meet his Lord carrying it on himself on the Day of judgment. I will recognise any one of you meeting Allah and carrying a growling camel, or a cow bellowing or a goat bleating. Then he raised his hands so high that whiteness of his armpits could be seen. Then he said: O my Lord, I have conveyed (Thy Commandments). The narrator says: My eyes saw (the Prophet standing in that pose) and my ears heard (what he said)."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا عَبْدَةُ، وَابْنُ، نُمَيْرٍ وَأَبُو مُعَاوِيَةَ ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ، أَبِي شَيْبَةَ حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، ح وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، كُلُّهُمْ عَنْ هِشَامٍ، بِهَذَا الإِسْنَادِ ‏.‏ وَفِي حَدِيثِ عَبْدَةَ وَابْنِ نُمَيْرٍ فَلَمَّا جَاءَ حَاسَبَهُ ‏.‏ كَمَا قَالَ أَبُو أُسَامَةَ ‏.‏ وَفِي حَدِيثِ ابْنِ نُمَيْرٍ ‏\n\"‏ تَعْلَمُنَّ وَاللَّهِ وَالَّذِي نَفْسِي بِيَدِهِ لاَ يَأْخُذُ أَحَدُكُمْ مِنْهَا شَيْئًا ‏\"‏ ‏.‏ وَزَادَ فِي حَدِيثِ سُفْيَانَ قَالَ بَصُرَ عَيْنِي وَسَمِعَ أُذُنَاىَ ‏.‏ وَسَلُوا زَيْدَ بْنَ ثَابِتٍ فَإِنَّهُ كَانَ حَاضِرًا مَعِي ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This tradition has been hanoed down through a different chain of transmitters on the authority of Hisham with aslight variation in the wording."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا جَرِيرٌ، عَنِ الشَّيْبَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ ذَكْوَانَ، - وَهُوَ أَبُو الزِّنَادِ - عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اسْتَعْمَلَ رَجُلاً عَلَى الصَّدَقَةِ فَجَاءَ بِسَوَادٍ كَثِيرٍ فَجَعَلَ يَقُولُ هَذَا لَكُمْ وَهَذَا أُهْدِيَ إِلَىَّ ‏.‏ فَذَكَرَ نَحْوَهُ قَالَ عُرْوَةُ فَقُلْتُ لأَبِي حُمَيْدٍ السَّاعِدِيِّ أَسَمِعْتَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ مِنْ فِيهِ إِلَى أُذُنِي ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abu Humaid as-Sa'idi that the Messenger of Allah (ﷺ) appointed a man in charge of Sadaqa (authorising him to receive charity from the people on behalf of the State). He came (back to the Holy prophet) with a large number of things and started saying:",
+        "text": "This is for you and this has been presented to me as a gift. Here follows the tradition that has gone before except that 'Urwa (one of the narrators in the chain of transmitters) asked Abu Humaid: Did you hear it from the Messenger of Allah (himself) (ﷺ)? He replied: My ears heard it from his mouth."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي، خَالِدٍ عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ، عَنْ عَدِيِّ بْنِ عَمِيرَةَ الْكِنْدِيِّ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ مَنِ اسْتَعْمَلْنَاهُ مِنْكُمْ عَلَى عَمَلٍ فَكَتَمَنَا مِخْيَطًا فَمَا فَوْقَهُ كَانَ غُلُولاً يَأْتِي بِهِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ قَالَ فَقَامَ إِلَيْهِ رَجُلٌ أَسْوَدُ مِنَ الأَنْصَارِ كَأَنِّي أَنْظُرُ إِلَيْهِ فَقَالَ يَا رَسُولَ اللَّهِ اقْبَلْ عَنِّي عَمَلَكَ قَالَ ‏\"‏ وَمَا لَكَ ‏\"‏ ‏.‏ قَالَ سَمِعْتُكَ تَقُولُ كَذَا وَكَذَا ‏.‏ قَالَ ‏\"‏ وَأَنَا أَقُولُهُ الآنَ مَنِ اسْتَعْمَلْنَاهُ مِنْكُمْ عَلَى عَمَلٍ فَلْيَجِئْ بِقَلِيلِهِ وَكَثِيرِهِ فَمَا أُوتِيَ مِنْهُ أَخَذَ وَمَا نُهِيَ عَنْهُ انْتَهَى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been reported on the authority of 'Adi b. 'Amira al-Kindi who said:",
+        "text": "I heard the Messenger of Allah (ﷺ) say: Whosoever from you is appointed by us to a position of authority and he conceals from us a needle or something smaller than that, it would be misappropriation (of public funds) and will (have to) produce it on the Day of Judgment. The narrator says: A dark-complexioned man from the Ansar stood up - I can visualise him still - and said: Messenger of Allah, take back from me your assignment. He said: What has happened to you? The man said: I have heard you say so and so. He said: I say that (even) now: Whosoever from you is appointed by us to a position of authority, he should bring everything, big or small, and whatever he is given therefrom he should take, and he should restrain himself from taking that which is forbidden."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي وَمُحَمَّدُ بْنُ بِشْرٍ، ح وَحَدَّثَنِي مُحَمَّدُ، بْنُ رَافِعٍ حَدَّثَنَا أَبُو أُسَامَةَ، قَالُوا حَدَّثَنَا إِسْمَاعِيلُ، بِهَذَا الإِسْنَادِ بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Isma'il with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا الْفَضْلُ بْنُ مُوسَى، حَدَّثَنَا إِسْمَاعِيلُ، بْنُ أَبِي خَالِدٍ أَخْبَرَنَا قَيْسُ بْنُ أَبِي حَازِمٍ، قَالَ سَمِعْتُ عَدِيَّ بْنَ عَمِيرَةَ الْكِنْدِيَّ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ بِمِثْلِ حَدِيثِهِمْ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Adi b. 'Amira al-Kindi heard Allah's Messenger (ﷺ) as saying (as) was narrated in the (above-mentioned) hadith."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَهَارُونُ بْنُ عَبْدِ اللَّهِ، قَالاَ حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ قَالَ ابْنُ جُرَيْجٍ نَزَلَ ‏{‏ يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الأَمْرِ مِنْكُمْ‏}‏ فِي عَبْدِ اللَّهِ بْنِ حُذَافَةَ بْنِ قَيْسِ بْنِ عَدِيٍّ السَّهْمِيِّ بَعَثَهُ النَّبِيُّ صلى الله عليه وسلم فِي سَرِيَّةٍ ‏.‏ أَخْبَرَنِيهِ يَعْلَى بْنُ مُسْلِمٍ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Ibn Juraij that the Qur'anic injunction:",
+        "text": "\" 0 you who believe, obey Allah, His Apostle and those in authority from amongst You\" (iv. 59) -was revealed in respect of 'Abdullah b. Hudhafa b. Qais b. Adi al-Sahmi who was despatched by the Prophet (ﷺ) as leader of a military campaign. The narrator said: He was informed of this fact by Ya'la b. Muslim who was informed by Sa'id b. Jubair who in turn was informed by Ibn Abbas."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا الْمُغِيرَةُ بْنُ عَبْدِ الرَّحْمَنِ الْحِزَامِيُّ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنْ أَطَاعَنِي فَقَدْ أَطَاعَ اللَّهَ وَمَنْ يَعْصِنِي فَقَدْ عَصَى اللَّهَ وَمَنْ يُطِعِ الأَمِيرَ فَقَدْ أَطَاعَنِي وَمَنْ يَعْصِ الأَمِيرَ فَقَدْ عَصَانِي ‏\"‏ ‏.‏\n وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا ابْنُ عُيَيْنَةَ، عَنْ أَبِي الزِّنَادِ، بِهَذَا الإِسْنَادِ وَلَمْ يَذْكُر \" وَمَنْ يَعْصِ الأَمِيرَ فَقَدْ عَصَانِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abu Huraira that the Holy prophet (ﷺ) said:",
+        "text": "Whoso obeys me obeys God, and whoso disobeys me disobeys God. Whoso obeys the commander (appointed by me) obeys me, and whoso disobeys the commander disobeys me. The same tradition transmitted by different persons omits the portion: And whose disobeys the commander disobeys me."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَهُ قَالَ حَدَّثَنَا أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ مَنْ أَطَاعَنِي فَقَدْ أَطَاعَ اللَّهَ وَمَنْ عَصَانِي فَقَدْ عَصَى اللَّهَ وَمَنْ أَطَاعَ أَمِيرِي فَقَدْ أَطَاعَنِي وَمَنْ عَصَى أَمِيرِي فَقَدْ عَصَانِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:",
+        "text": "Whoso obeys me obeys God; and whose disobeys me disobeys God. Whoso obeys my commander obeys me, and whoso disobeys my commander disobeys me."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مَكِّيُّ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ زِيَادٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ، أَخْبَرَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِمِثْلِهِ سَوَاءً ‏.",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Abu Huraira through another chain of transmitters."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو كَامِلٍ الْجَحْدَرِيُّ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ يَعْلَى بْنِ عَطَاءٍ، عَنْ أَبِي عَلْقَمَةَ، قَالَ حَدَّثَنِي أَبُو هُرَيْرَةَ، مِنْ فِيهِ إِلَى فِيَّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ح.\n وَحَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ، بْنُ جَعْفَرٍ قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ يَعْلَى بْنِ عَطَاءٍ، سَمِعَ أَبَا عَلْقَمَةَ، سَمِعَ أَبَا هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَ حَدِيثِهِمْ ‏.",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Abu Huraira by more than one chain of transmitters."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِ حَدِيثِهِمْ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Hammam b. Munabbih has transmitted this hadith on the authority of Abu Huraira."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ حَيْوَةَ، أَنَّ أَبَا يُونُسَ، مَوْلَى أَبِي هُرَيْرَةَ حَدَّثَهُ قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم بِذَلِكَ وَقَالَ ‏\n\"‏ مَنْ أَطَاعَ الأَمِيرَ ‏\"‏ ‏.‏ وَلَمْ يَقُلْ أَمِيرِي وَكَذَلِكَ فِي حَدِيثِ هَمَّامٍ عَنْ أَبِي هُرَيْرَةَ ‏.‏",
+      "english": {
+        "narrator": "According to one version of the tradition, the Messenger of Allah (ﷺ) said:",
+        "text": "Whoso obeys the commander. He did not say:\" My commander.\""
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، كِلاَهُمَا عَنْ يَعْقُوبَ، قَالَ سَعِيدٌ حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي صَالِحٍ السَّمَّانِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ عَلَيْكَ السَّمْعَ وَالطَّاعَةَ فِي عُسْرِكَ وَيُسْرِكَ وَمَنْشَطِكَ وَمَكْرَهِكَ وَأَثَرَةٍ عَلَيْكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:",
+        "text": "It is obligatory for you to listen to the ruler and obey him in adversity and prosperity, in pleasure and displeasure, and even when another person is given (rather undue) preference over you."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَبْدُ اللَّهِ بْنُ بَرَّادٍ الأَشْعَرِيُّ، وَأَبُو كُرَيْبٍ قَالُوا حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنْ شُعْبَةَ، عَنْ أَبِي عِمْرَانَ، عَنْ عَبْدِ اللَّهِ بْنِ الصَّامِتِ، عَنْ أَبِي ذَرٍّ، قَالَ إِنَّ خَلِيلِي أَوْصَانِي أَنْ أَسْمَعَ وَأُطِيعَ وَإِنْ كَانَ عَبْدًا مُجَدَّعَ الأَطْرَافِ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abu Dharr who said:",
+        "text": "My friend (i. e. the Holy Prophet) advised me to listen (to the man in position of authority) and obey (him) even if he were a slave maimed (and disabled)."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، ح وَحَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا النَّضْرُ، بْنُ شُمَيْلٍ جَمِيعًا عَنْ شُعْبَةَ، عَنْ أَبِي عِمْرَانَ، بِهَذَا الإِسْنَادِ وَقَالاَ فِي الْحَدِيثِ عَبْدًا حَبَشِيًّا مُجَدَّعَ الأَطْرَافِ ‏.‏",
+      "english": {
+        "narrator": "In another version of the tradition, we have the wording:",
+        "text": "\" An Abyssinian slave maimed and disabled.\""
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي عِمْرَانَ، بِهَذَا الإِسْنَادِ كَمَا قَالَ ابْنُ إِدْرِيسَ عَبْدًا مُجَدَّعَ الأَطْرَافِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu 'Imran narrated this hadith with a slight change of wording."
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ يَحْيَى بْنِ حُصَيْنٍ، قَالَ سَمِعْتُ جَدَّتِي، تُحَدِّثُ أَنَّهَا سَمِعَتِ النَّبِيَّ صلى الله عليه وسلم يَخْطُبُ فِي حَجَّةِ الْوَدَاعِ وَهُوَ يَقُولُ ‏\n\"‏ وَلَوِ اسْتُعْمِلَ عَلَيْكُمْ عَبْدٌ يَقُودُكُمْ بِكِتَابِ اللَّهِ فَاسْمَعُوا لَهُ وَأَطِيعُوا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Yahya b. Husain who learnt the tradition from his grandmother. She said that she heard the Prophet (ﷺ) delivering his sermon on the occasion of the Last Pilgrimage. He was saying:",
+        "text": "If a slave is appointed over you and he conducts your affairs according to the Book of Allah, you should listen to him and obeey (his orders)."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ ابْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، وَعَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ شُعْبَةَ، بِهَذَا الإِسْنَادِ وَقَالَ عَبْدًا حَبَشِيًّا ‏.‏",
+      "english": {
+        "narrator": "This hadith has been transmitted on the authority of Shu'ba with the same chain of transmitters, and he said:",
+        "text": "\"An Abyssinian slave.\""
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، عَنْ شُعْبَةَ، بِهَذَا الإِسْنَادِ وَقَالَ عَبْدًا حَبَشِيًّا مُجَدَّعًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "In other versions of the above tradition, the wordings are\" an Abyssinian slave.\" and\" a maimed Abyssinian slave\"."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ بِشْرٍ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ وَلَمْ يَذْكُرْ حَبَشِيًّا مُجَدَّعًا وَزَادَ أَنَّهَا سَمِعَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم بِمِنًى أَوْ بِعَرَفَاتٍ ‏.",
+      "english": {
+        "narrator": "Another version of the tradition does not qualify the slave with the epithets\" maimed,\"\" an Abyssinian\" but makes the addition:",
+        "text": "\" I have heard the Prophet (ﷺ) (say this) at Mina or 'Arafat.\""
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، حَدَّثَنَا مَعْقِلٌ، عَنْ زَيْدِ بْنِ أَبِي، أُنَيْسَةَ عَنْ يَحْيَى بْنِ حُصَيْنٍ، عَنْ جَدَّتِهِ أُمِّ الْحُصَيْنِ، قَالَ سَمِعْتُهَا تَقُولُ، حَجَجْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم حَجَّةَ الْوَدَاعِ - قَالَتْ - فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَوْلاً كَثِيرًا ثُمَّ سَمِعْتُهُ يَقُولُ ‏\n\"‏ إِنْ أُمِّرَ عَلَيْكُمْ عَبْدٌ مُجَدَّعٌ - حَسِبْتُهَا قَالَتْ - أَسْوَدُ يَقُودُكُمْ بِكِتَابِ اللَّهِ فَاسْمَعُوا لَهُ وَأَطِيعُوا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Yahya b. Husain who learnt the tradition from his grandmother. Umm Husain. He said':",
+        "text": "I heard her say: I performed Hajjat-ul-Wada' in the company of the Messenger of Allah (ﷺ). He said a lot of things (on this occasion). Then I heard him say: If a maimed slave is appointed a commander over you the narrator says: I think she said:\" a black stave\" who leads you according to the Book of Allah, then listen to him and obey him."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ عَلَى الْمَرْءِ الْمُسْلِمِ السَّمْعُ وَالطَّاعَةُ فِيمَا أَحَبَّ وَكَرِهَ إِلاَّ أَنْ يُؤْمَرَ بِمَعْصِيَةٍ فَإِنْ أُمِرَ بِمَعْصِيَةٍ فَلاَ سَمْعَ وَلاَ طَاعَةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Ibn 'Umar that the Prophet (ﷺ) said:",
+        "text": "It is obligatory upon a Muslim that he should listen (to the ruler appointed over him) and obey him whether he likes it or not, except that he is ordered to do a sinful thing. If he is ordered to do a sinful act, a Muslim should neither listen to him nor should he obey his orders."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا يَحْيَى، وَهُوَ الْقَطَّانُ ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي كِلاَهُمَا، عَنْ عُبَيْدِ اللَّهِ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of 'Ubaidullah."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ، بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ، عَنْ زُبَيْدٍ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيٍّ، أَنَّعليه وسلم بَعَثَ جَيْشًا وَأَمَّرَ عَلَيْهِمْ رَجُلاً فَأَوْقَدَ نَارًا وَقَالَ ادْخُلُوهَا ‏.‏ فَأَرَادَ نَاسٌ أَنْ يَدْخُلُوهَا وَقَالَ الآخَرُونَ إِنَّا قَدْ فَرَرْنَا مِنْهَا ‏.‏ فَذُكِرَ ذَلِكَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ لِلَّذِينَ أَرَادُوا أَنْ يَدْخُلُوهَا ‏\"‏ لَوْ دَخَلْتُمُوهَا لَمْ تَزَالُوا فِيهَا إِلَى يَوْمِ الْقِيَامَةِ ‏\"‏ ‏.‏ وَقَالَ لِلآخَرِينَ قَوْلاً حَسَنًا وَقَالَ ‏\"‏ لاَ طَاعَةَ فِي مَعْصِيَةِ اللَّهِ إِنَّمَا الطَّاعَةُ فِي الْمَعْرُوفِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abu 'Abd al-Rahman from 'Ali that the Messenger of Allah (ﷺ) sent a force (on a mission) and appointed over them a man. He kindled a fire and said:",
+        "text": "Enter it. Some people made up their minds to enter it (the fire), (carrying out the order of their commander), but the others said: We fled from the fire (that's why we have come into the fold of Islam). The matter was reported to the Messenger of Allah (ﷺ). He said to those who Contemplated entering (the fire at the order of their commander): If you had entered it, you would have remained there until the Day of Judgment. He commanded the act of the latter group and said: There is no submission in matters involving God's disobedience or displeasure. Submission is obligatory only in what is good (and reasonable)."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، وَزُهَيْرُ بْنُ حَرْبٍ، وَأَبُو سَعِيدٍ الأَشَجُّ - وَتَقَارَبُوا فِي اللَّفْظِ - قَالُوا حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الأَعْمَشُ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيٍّ، قَالَ بَعَثَ رَسُولُ اللَّهِ صلى الله عليه وسلم سَرِيَّةً وَاسْتَعْمَلَ عَلَيْهِمْ رَجُلاً مِنَ الأَنْصَارِ وَأَمَرَهُمْ أَنْ يَسْمَعُوا لَهُ وَيُطِيعُوا فَأَغْضَبُوهُ فِي شَىْءٍ فَقَالَ اجْمَعُوا لِي حَطَبًا ‏.‏ فَجَمَعُوا لَهُ ثُمَّ قَالَ أَوْقِدُوا نَارًا ‏.‏ فَأَوْقَدُوا ثُمَّ قَالَ أَلَمْ يَأْمُرْكُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ تَسْمَعُوا لِي وَتُطِيعُوا قَالُوا بَلَى ‏.‏ قَالَ فَادْخُلُوهَا ‏.‏ قَالَ فَنَظَرَ بَعْضُهُمْ إِلَى بَعْضٍ فَقَالُوا إِنَّمَا فَرَرْنَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم مِنَ النَّارِ ‏.‏ فَكَانُوا كَذَلِكَ وَسَكَنَ غَضَبُهُ وَطُفِئَتِ النَّارُ فَلَمَّا رَجَعُوا ذَكَرُوا ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ لَوْ دَخَلُوهَا مَا خَرَجُوا مِنْهَا إِنَّمَا الطَّاعَةُ فِي الْمَعْرُوفِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of 'All who said:",
+        "text": "The Mersenger of Allah (ﷺ) sent an expeditionand appointed over the Mujahids a man from the Ansar. (While making the appointment), he ordered that his work should be listened to and obeyed. They made him angry in a matter. He said: Collect for me dry wood. They collected it for him. Then he said: Kindle a fire. They kindled (the fire). Then he said: Didn't the Messenger of Allah (ﷺ) order you to listen to me and obey (my orders)? They said: Yes. He said: Enter the fire. The narrator says: (At this), they began to look at one another and said: We fled from the fire to (find refuge with) the Messenger of Allah (ﷺ) (and now you order us to enter it). They stood quiet until his anger cooled down and the fire went out. When they returned, they related the incident to the Messenger of Allah (ﷺ). He said: If they had entered it, they would not have come out. Obedience (to the commander) is obligatory only in what is good."
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، وَأَبُو مُعَاوِيَةَ عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of A'mash."
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، وَعُبَيْدِ اللَّهِ بْنِ عُمَرَ عَنْ عُبَادَةَ بْنِ الْوَلِيدِ بْنِ عُبَادَةَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ بَايَعْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى السَّمْعِ وَالطَّاعَةِ فِي الْعُسْرِ وَالْيُسْرِ وَالْمَنْشَطِ وَالْمَكْرَهِ وَعَلَى أَثَرَةٍ عَلَيْنَا وَعَلَى أَنْ لاَ نُنَازِعَ الأَمْرَ أَهْلَهُ وَعَلَى أَنْ نَقُولَ بِالْحَقِّ أَيْنَمَا كُنَّا لاَ نَخَافُ فِي اللَّهِ لَوْمَةَ لاَئِمٍ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of\" Ubida who learnt the tradition from his father who, in turn, learnt it from his own father. 'Ubada's grandfather said:",
+        "text": "The Messenger of Allah (ﷺ) took an oath of allegiance from us on our listening to and obeying the orders of our commander in adversity and prosperity, in pleasure and displeasure (and even) when somebody is given preference over us, on our avoiding to dispute the delegation of powers to a person deemed to be a fit recipient thereof (in the eye of one who delegates it) and on our telling the truth in whatever position we be without fearing in the matter ef Allah the reproach of the reproacher."
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ ابْنُ نُمَيْرٍ، حَدَّثَنَا عَبْدُ اللَّهِ، - يَعْنِي ابْنَ إِدْرِيسَ - حَدَّثَنَا ابْنُ عَجْلاَنَ، وَعُبَيْدُ اللَّهِ بْنُ عُمَرَ وَيَحْيَى بْنُ سَعِيدٍ عَنْ عُبَادَةَ بْنِ الْوَلِيدِ، فِي هَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of 'Ubada b. Walid with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي الدَّرَاوَرْدِيَّ - عَنْ يَزِيدَ، - وَهُوَ ابْنُ الْهَادِ - عَنْ عُبَادَةَ بْنِ الْوَلِيدِ بْنِ عُبَادَةَ بْنِ الصَّامِتِ، عَنْ أَبِيهِ، حَدَّثَنِي أَبِي قَالَ، بَايَعْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم بِمِثْلِ حَدِيثِ ابْنِ إِدْرِيسَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The same tradition has been handed down through more than one chain of transmitters."
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ وَهْبِ بْنِ مُسْلِمٍ، حَدَّثَنَا عَمِّي عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنَا عَمْرُو بْنُ الْحَارِثِ، حَدَّثَنِي بُكَيْرٌ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ جُنَادَةَ بْنِ أَبِي أُمَيَّةَ، قَالَ دَخَلْنَا عَلَى عُبَادَةَ بْنِ الصَّامِتِ وَهُوَ مَرِيضٌ فَقُلْنَا حَدِّثْنَا أَصْلَحَكَ اللَّهُ، بِحَدِيثٍ يَنْفَعُ اللَّهُ بِهِ سَمِعْتَهُ مِنْ، رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَقَالَ دَعَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَبَايَعْنَاهُ فَكَانَ فِيمَا أَخَذَ عَلَيْنَا أَنْ بَايَعَنَا عَلَى السَّمْعِ وَالطَّاعَةِ فِي مَنْشَطِنَا وَمَكْرَهِنَا وَعُسْرِنَا وَيُسْرِنَا وَأَثَرَةٍ عَلَيْنَا وَأَنْ لاَ نُنَازِعَ الأَمْرَ أَهْلَهُ قَالَ ‏\n\"‏ إِلاَّ أَنْ تَرَوْا كُفْرًا بَوَاحًا عِنْدَكُمْ مِنَ اللَّهِ فِيهِ بُرْهَانٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Junida b. Abu Umayya who said:",
+        "text": "We called upon 'Ubada b. Samit who was ill and said to him: May God give you health I Narrate to us a tradition which God may prove beneficial (to us) and which you have heard from the Messenger of Allah (ﷺ). He said: The Messenger of Allah (ﷺ) called us and we took the oath of allegiance to him. Among the injunctions he made binding upon us was: Listening and obedience (to the Amir) in our pleasure and displeasure, in our adversity and prosperity, even when somebody is given preference over us, and without disputing the delegation of powers to a man duly invested with them (Obedience shall be accorded to him in all circumstances) except when you have clear signs of his disbelief in (or disobedience to) God-signs that could be used as a conscientious justification (for non-compliance with his orders)."
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ، عَنْ مُسْلِمٍ، حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنِي وَرْقَاءُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّمَا الإِمَامُ جُنَّةٌ يُقَاتَلُ مِنْ وَرَائِهِ وَيُتَّقَى بِهِ فَإِنْ أَمَرَ بِتَقْوَى اللَّهِ عَزَّ وَجَلَّ وَعَدَلَ كَانَ لَهُ بِذَلِكَ أَجْرٌ وَإِنْ يَأْمُرْ بِغَيْرِهِ كَانَ عَلَيْهِ مِنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abu Huraira that the Prophet of Allah (ﷺ) said:",
+        "text": "A commander (of the Muslims) is a shield for them. They fight behind him and they are protected by (him from tyrants and aggressors). If he enjoins fear of God, the Exalted and Glorious, and dispenses justice, there will be a (great) reward for him; and if he enjoins otherwise, it redounds on him."
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ فُرَاتٍ الْقَزَّازِ، عَنْ أَبِي حَازِمٍ، قَالَ قَاعَدْتُ أَبَا هُرَيْرَةَ خَمْسَ سِنِينَ فَسَمِعْتُهُ يُحَدِّثُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ كَانَتْ بَنُو إِسْرَائِيلَ تَسُوسُهُمُ الأَنْبِيَاءُ كُلَّمَا هَلَكَ نَبِيٌّ خَلَفَهُ نَبِيٌّ وَإِنَّهُ لاَ نَبِيَّ بَعْدِي وَسَتَكُونُ خُلَفَاءُ فَتَكْثُرُ ‏\"‏ ‏.‏ قَالُوا فَمَا تَأْمُرُنَا قَالَ ‏\"‏ فُوا بِبَيْعَةِ الأَوَّلِ فَالأَوَّلِ وَأَعْطُوهُمْ حَقَّهُمْ فَإِنَّ اللَّهَ سَائِلُهُمْ عَمَّا اسْتَرْعَاهُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated by Abu Huraira that the Prophet (may pceace be upon him) said:",
+        "text": "Banu Isra'il were ruled over by the Prophets. When one Prophet died, another succeeded him; but after me there is no prophet and there will be caliphs and they will be quite large in number. His Companions said: What do you order us to do (in case we come to have more than one Caliph)? He said: The one to whom allegiance is sworn first has a supremacy over the others. Concede to them their due rights (i. e. obey them). God (Himself) will question them about the subjects whom He had entrusted to them."
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَبْدُ اللَّهِ بْنُ بَرَّادٍ الأَشْعَرِيُّ، قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ، بْنُ إِدْرِيسَ عَنِ الْحَسَنِ بْنِ فُرَاتٍ، عَنْ أَبِيهِ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The same tradition has been transmitted by a different chain of narrators."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو الأَحْوَصِ، وَوَكِيعٌ، ح وَحَدَّثَنِي أَبُو سَعِيدٍ، الأَشَجُّ حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، وَابْنُ، نُمَيْرٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ خَشْرَمٍ، قَالاَ أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، كُلُّهُمْ عَنِ الأَعْمَشِ، ح وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ زَيْدِ بْنِ، وَهْبٍ عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّهَا سَتَكُونُ بَعْدِي أَثَرَةٌ وَأُمُورٌ تُنْكِرُونَهَا ‏\"‏ ‏.‏ قَالُوا يَا رَسُولَ اللَّهِ كَيْفَ تَأْمُرُ مَنْ أَدْرَكَ مِنَّا ذَلِكَ قَالَ ‏\"‏ تُؤَدُّونَ الْحَقَّ الَّذِي عَلَيْكُمْ وَتَسْأَلُونَ اللَّهَ الَّذِي لَكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of 'Abdullah who said:",
+        "text": "The Messenger of Allah (ﷺ) said: After me there will be favouritism and many things that you will not like. They (his Companions) said: Messenger of Allah, what do you order that one should do if anyone from us has to live through such a time? He said: You should discharge your own responsibility (by obeying your Amir), and ask God for your right (by guiding the Amir to the right path or by replacing him by one more just and God-fearing)."
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ، زُهَيْرٌ حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ زَيْدِ بْنِ وَهْبٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ رَبِّ الْكَعْبَةِ، قَالَ دَخَلْتُ الْمَسْجِدَ فَإِذَا عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ جَالِسٌ فِي ظِلِّ الْكَعْبَةِ وَالنَّاسُ مُجْتَمِعُونَ عَلَيْهِ فَأَتَيْتُهُمْ فَجَلَسْتُ إِلَيْهِ فَقَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ فَنَزَلْنَا مَنْزِلاً فَمِنَّا مَنْ يُصْلِحُ خِبَاءَهُ وَمِنَّا مَنْ يَنْتَضِلُ وَمِنَّا مَنْ هُوَ فِي جَشَرِهِ إِذْ نَادَى مُنَادِي رَسُولِ اللَّهِ صلى الله عليه وسلم الصَّلاَةَ جَامِعَةً ‏.‏ فَاجْتَمَعْنَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ إِنَّهُ لَمْ يَكُنْ نَبِيٌّ قَبْلِي إِلاَّ كَانَ حَقًّا عَلَيْهِ أَنْ يَدُلَّ أُمَّتَهُ عَلَى خَيْرِ مَا يَعْلَمُهُ لَهُمْ وَيُنْذِرَهُمْ شَرَّ مَا يَعْلَمُهُ لَهُمْ وَإِنَّ أُمَّتَكُمْ هَذِهِ جُعِلَ عَافِيَتُهَا فِي أَوَّلِهَا وَسَيُصِيبُ آخِرَهَا بَلاَءٌ وَأُمُورٌ تُنْكِرُونَهَا وَتَجِيءُ فِتْنَةٌ فَيُرَقِّقُ بَعْضُهَا بَعْضًا وَتَجِيءُ الْفِتْنَةُ فَيَقُولُ الْمُؤْمِنُ هَذِهِ مُهْلِكَتِي ‏.‏ ثُمَّ تَنْكَشِفُ وَتَجِيءُ الْفِتْنَةُ فَيَقُولُ الْمُؤْمِنُ هَذِهِ هَذِهِ ‏.‏ فَمَنْ أَحَبَّ أَنْ يُزَحْزَحَ عَنِ النَّارِ وَيَدْخُلَ الْجَنَّةَ فَلْتَأْتِهِ مَنِيَّتُهُ وَهُوَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَلْيَأْتِ إِلَى النَّاسِ الَّذِي يُحِبُّ أَنْ يُؤْتَى إِلَيْهِ وَمَنْ بَايَعَ إِمَامًا فَأَعْطَاهُ صَفْقَةَ يَدِهِ وَثَمَرَةَ قَلْبِهِ فَلْيُطِعْهُ إِنِ اسْتَطَاعَ فَإِنْ جَاءَ آخَرُ يُنَازِعُهُ فَاضْرِبُوا عُنُقَ الآخَرِ ‏\"‏ ‏.‏ فَدَنَوْتُ مِنْهُ فَقُلْتُ لَهُ أَنْشُدُكَ اللَّهَ آنْتَ سَمِعْتَ هَذَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَهْوَى إِلَى أُذُنَيْهِ وَقَلْبِهِ بِيَدَيْهِ وَقَالَ سَمِعَتْهُ أُذُنَاىَ وَوَعَاهُ قَلْبِي ‏.‏ فَقُلْتُ لَهُ هَذَا ابْنُ عَمِّكَ مُعَاوِيَةُ يَأْمُرُنَا أَنْ نَأْكُلَ أَمْوَالَنَا بَيْنَنَا بِالْبَاطِلِ وَنَقْتُلَ أَنْفُسَنَا وَاللَّهُ يَقُولُ ‏{‏ يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ إِلاَّ أَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ وَلاَ تَقْتُلُوا أَنْفُسَكُمْ إِنَّ اللَّهَ كَانَ بِكُمْ رَحِيمًا‏}‏ قَالَ فَسَكَتَ سَاعَةً ثُمَّ قَالَ أَطِعْهُ فِي طَاعَةِ اللَّهِ وَاعْصِهِ فِي مَعْصِيَةِ اللَّهِ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of 'Abd al-Rahman b. Abd Rabb al-Ka'ba who said:",
+        "text": "I entered the mosque when 'Abdullah b. 'Amr b. al-'As was sitting in the shade of the Ka'ba and the people had gathered around him. I betook myself to them and sat near him. (Now) Abdullah said: I accompanied the Messenger of Allah (ﷺ) on a journey. We halted at a place. Some of us began to set right their tents, others began to compete with one another in shooting, and others began to graze their beasts, when an announcer of the Messenger of Allah (ﷺ) announced that the people should gather together for prayer, so we gathered around the Messenger of Allah (ﷺ). He said: It was the duty of every Prophet that has gone before me to guide his followers to what he knew was good for them and warn them against what he knew was bad for them; but this Umma of yours has its days of peace and (security) in the beginning of its career, and in the last phase of its existence it will be afflicted with trials and with things disagreeable to you. (In this phase of the Umma), there will be tremendous trials one after the other, each making the previous one dwindle into insignificance. When they would be afflicted with a trial, the believer would say: This is going to bring about my destruction. When at (the trial) is over, they would be afflicted with another trial, and the believer would say: This surely is going to be my end. Whoever wishes to be delivered from the fire and enter the garden should die with faith in Allah and the Last Day and should treat the people as he wishes to be treated by them. He who swears allegiance to a Caliph should give him the piedge of his hand and the sincerity of his heart (i. e. submit to him both outwardly as well as inwardly). He should obey him to the best of his capacity. It another man comes forward (as a claimant to Caliphate), disputing his authority, they (the Muslims) should behead the latter. The narrator says: I came close to him ('Abdullah b. 'Amr b. al-'As) and said to him: Can you say on oath that you heard it from the Messenger of Allah (ﷺ)? He pointed with his hands to his ears and his heart and said: My ears heard it and my mind retained it. I said to him: This cousin of yours, Mu'awiya, orders us to unjustly consume our wealth among ourselves and to kill one another, while Allah says:\" O ye who believe, do not consume your wealth among yourselves unjustly, unless it be trade based on mutual agreement, and do not kill yourselves. Verily, God is Merciful to you\" (iv. 29). The narrator says that (hearing this) Abdullah b. 'Amr b. al-As kept quiet for a while and then said: Obey him in so far as he is obedient to God; and diqobey him in matters involving disobedience to God."
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَابْنُ، نُمَيْرٍ وَأَبُو سَعِيدٍ الأَشَجُّ قَالُوا حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، كِلاَهُمَا عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of A'mash with a different chain of transmitters."
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا أَبُو الْمُنْذِرِ، إِسْمَاعِيلُ بْنُ عُمَرَ حَدَّثَنَا يُونُسُ بْنُ، أَبِي إِسْحَاقَ الْهَمْدَانِيُّ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي السَّفَرِ، عَنْ عَامِرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ، رَبِّ الْكَعْبَةِ الصَّائِدِيِّ قَالَ رَأَيْتُ جَمَاعَةً عِنْدَ الْكَعْبَةِ ‏.‏ فَذَكَرَ نَحْوَ حَدِيثِ الأَعْمَشِ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of 'Abd Rabb al-Ka'ba as-Sa'idl who said:",
+        "text": "I saw a group of people near the Ka'ba.... Then he narrated the tradition as narrated by A'mash."
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسِ بْنِ مَالِكٍ، عَنْ أُسَيْدِ بْنِ حُضَيْرٍ، أَنَّ رَجُلاً، مِنَ الأَنْصَارِ خَلاَ بِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ أَلاَ تَسْتَعْمِلُنِي كَمَا اسْتَعْمَلْتَ فُلاَنًا فَقَالَ ‏\n\"‏ إِنَّكُمْ سَتَلْقَوْنَ بَعْدِي أَثَرَةً فَاصْبِرُوا حَتَّى تَلْقَوْنِي عَلَى الْحَوْضِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Usaid b. Hudair that a man from the Ansar took the Messenger of Allah (ﷺ) aside and said to him:",
+        "text": "Will you not appoint me governor as you have appointed so and so? He (the Messenger of Allah) said: You will surely come across preferential treatment after me, so you should be patient until you meet me at the Cistern (Haud-i-Kauthar)."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ، حَدَّثَنَا خَالِدٌ، - يَعْنِي ابْنَ الْحَارِثِ - حَدَّثَنَا شُعْبَةُ بْنُ الْحَجَّاجِ، عَنْ قَتَادَةَ، قَالَ سَمِعْتُ أَنَسًا، يُحَدِّثُ عَنْ أُسَيْدِ بْنِ حُضَيْرٍ، أَنَّ رَجُلاً، مِنَ الأَنْصَارِ خَلاَ بِرَسُولِ اللَّهِ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏\n وَحَدَّثَنِيهِ عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ وَلَمْ يَقُلْ خَلاَ بِرَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "This tradition has been narrated on the same authority through a different chain of transmitters. Another version of the tradition narrated on the authority of Shu'ba does not include the words:",
+        "text": "\" He took the Messenger of Allah (ﷺ) aside.\""
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ عَلْقَمَةَ بْنِ وَائِلٍ الْحَضْرَمِيِّ، عَنْ أَبِيهِ، قَالَ سَأَلَ سَلَمَةُ بْنُ يَزِيدَ الْجُعْفِيُّ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا نَبِيَّ اللَّهِ أَرَأَيْتَ إِنْ قَامَتْ عَلَيْنَا أُمَرَاءُ يَسْأَلُونَا حَقَّهُمْ وَيَمْنَعُونَا حَقَّنَا فَمَا تَأْمُرُنَا فَأَعْرَضَ عَنْهُ ثُمَّ سَأَلَهُ فَأَعْرَضَ عَنْهُ ثُمَّ سَأَلَهُ فِي الثَّانِيَةِ أَوْ فِي الثَّالِثَةِ فَجَذَبَهُ الأَشْعَثُ بْنُ قَيْسٍ وَقَالَ ‏\n\"‏ اسْمَعُوا وَأَطِيعُوا فَإِنَّمَا عَلَيْهِمْ مَا حُمِّلُوا وَعَلَيْكُمْ مَا حُمِّلْتُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Alqama b. Wai'l al-Hadrami who learnt the tradition from his father. The latter said:",
+        "text": "Salama b. Yazid al-ju'afi asked the Messenger of Allah (ﷺ): Prophet of Allah, what do you think if we have rulers who rule over us and demand that we discharge our obligations towards them, but they (themselves) do not discharge their own responsibilities towards us? What do you order us to do? The Messenger of Allah (ﷺ) avoided giving any answer. Salama asked him again. He (again) avoided giving any answer. Then he asked again-it was the second time or the third time-when Ash'ath b. Qais (finding that the Prophet was unnecessarily being pressed for answer) pulled him aside and said: Listen to them and obey them, for on them shall he their burden and on you shall be your burden."
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكٍ، بِهَذَا الإِسْنَادِ مِثْلَهُ وَقَالَ فَجَذَبَهُ الأَشْعَثُ بْنُ قَيْسٍ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اسْمَعُوا وَأَطِيعُوا فَإِنَّمَا عَلَيْهِمْ مَا حُمِّلُوا وَعَلَيْكُمْ مَا حُمِّلْتُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated through a different chain of transmitters, on the authority of Simak who said:",
+        "text": "Ash'ath b. Qais pulled him (Salama b. Yazid) when the Messenger of Allah (ﷺ) said: Listen to them and obey them, for on them shall be the burden of what they do and on you shall be the burden of what you do."
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 33,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ يَزِيدَ بْنِ، جَابِرٍ حَدَّثَنِي بُسْرُ بْنُ عُبَيْدِ اللَّهِ الْحَضْرَمِيُّ، أَنَّهُ سَمِعَ أَبَا إِدْرِيسَ الْخَوْلاَنِيَّ، يَقُولُ سَمِعْتُ حُذَيْفَةَ بْنَ الْيَمَانِ، يَقُولُ كَانَ النَّاسُ يَسْأَلُونَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْخَيْرِ وَكُنْتُ أَسْأَلُهُ عَنِ الشَّرِّ مَخَافَةَ أَنْ يُدْرِكَنِي فَقُلْتُ يَا رَسُولَ اللَّهِ إِنَّا كُنَّا فِي جَاهِلِيَّةٍ وَشَرٍّ فَجَاءَنَا اللَّهُ بِهَذَا الْخَيْرِ فَهَلْ بَعْدَ هَذَا الْخَيْرِ شَرٌّ قَالَ ‏\"‏ نَعَمْ ‏\"‏ فَقُلْتُ هَلْ بَعْدَ ذَلِكَ الشَّرِّ مِنْ خَيْرٍ قَالَ ‏\"‏ نَعَمْ وَفِيهِ دَخَنٌ ‏\"‏ ‏.‏ قُلْتُ وَمَا دَخَنُهُ قَالَ ‏\"‏ قَوْمٌ يَسْتَنُّونَ بِغَيْرِ سُنَّتِي وَيَهْدُونَ بِغَيْرِ هَدْيِي تَعْرِفُ مِنْهُمْ وَتُنْكِرُ ‏\"‏ ‏.‏ فَقُلْتُ هَلْ بَعْدَ ذَلِكَ الْخَيْرِ مِنْ شَرٍّ قَالَ ‏\"‏ نَعَمْ دُعَاةٌ عَلَى أَبْوَابِ جَهَنَّمَ مَنْ أَجَابَهُمْ إِلَيْهَا قَذَفُوهُ فِيهَا ‏\"‏ ‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ صِفْهُمْ لَنَا ‏.‏ قَالَ ‏\"‏ نَعَمْ قَوْمٌ مِنْ جِلْدَتِنَا وَيَتَكَلَّمُونَ بِأَلْسِنَتِنَا ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ فَمَا تَرَى إِنْ أَدْرَكَنِي ذَلِكَ قَالَ ‏\"‏ تَلْزَمُ جَمَاعَةَ الْمُسْلِمِينَ وَإِمَامَهُمْ ‏\"‏ ‏.‏ فَقُلْتُ فَإِنْ لَمْ تَكُنْ لَهُمْ جَمَاعَةٌ وَلاَ إِمَامٌ قَالَ ‏\"‏ فَاعْتَزِلْ تِلْكَ الْفِرَقَ كُلَّهَا وَلَوْ أَنْ تَعَضَّ عَلَى أَصْلِ شَجَرَةٍ حَتَّى يُدْرِكَكَ الْمَوْتُ وَأَنْتَ عَلَى ذَلِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Hudhaifa b. al-Yaman who said:",
+        "text": "People used to ask the Messenger of Allah (ﷺ) about the good times, but I used to ask him about bad times fearing lest they overtake me. I said: Messenger of Allah, we were in the midst of ignorance and evil, and then God brought us this good (time through Islam). Is there any bad time after this good one? He said: Yes. I asked: Will there be a good time again after that bad time? He said: Yes, but therein will be a hidden evil. I asked: What will be the evil hidden therein? He said: (That time will witness the rise of) the people who will adopt ways other than mine and seek guidance other than mine. You will know good points as well as bad points. I asked: Will there be a bad time after this good one? He said: Yes. (A time will come) when there will be people standing and inviting at the gates of Hell. Whoso responds to their call they will throw them into the fire. I said: Messenger of Allah, describe them for us. He said: All right. They will be a people having the same complexion as ours and speaking our language. I said: Messenger of Allah, what do you suggest if I happen to live in that time? He said: You should stick to the main body of the Muslims and their leader. I said: If they have no (such thing as the) main body and have no leader? He said: Separate yourself from all these factions, though you may have to eat the roots of trees (in a jungle) until death comes to you and you are in this state."
+      }
+    }
+  ]
+}

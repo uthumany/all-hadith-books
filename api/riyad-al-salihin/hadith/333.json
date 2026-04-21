@@ -1,0 +1,16 @@
+{
+  "id": 333,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عمر رضي الله عنهما قال‏:‏ كانت تحتي امرأة، وكنت أحبها، وكان عمر يكرهها، فقال لي‏:‏ طلقها، فأبيت، فأتى عمر رضي الله عنه النبي صلى الله عليه وسلم، فذكر ذلك له، فقال النبي صلى الله عليه وسلم‏:‏ ‏\n\"‏طلقها‏\"‏‏.‏ \n‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar (May Allah be pleased with them) reported:",
+    "text": "I had a wife whom I loved but 'Umar (May Allah be pleased with him) disliked her. He asked me to divorce her and when I refused, 'Umar (May Allah be pleased with him) went to Messenger of Allah (ﷺ) and mentioned the matter to him. Messenger of Allah (ﷺ) asked me to divorce her.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 227,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْوَلِيدِ، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي بَكْرِ بْنِ حَفْصٍ، عَنْ عَبْدِ اللَّهِ بْنِ حُنَيْنٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ نُهِيتُ عَنِ الثَّوْبِ الأَحْمَرِ، وَخَاتَمِ الذَّهَبِ، وَأَنْ أَقْرَأَ وَأَنَا رَاكِعٌ، ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Ibn 'Abbas said:",
+    "text": "\"I was forbidden to wear red garments and gold rings, and to recite Qur'an when bowing.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 682,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا سُفْيَانُ بْنُ حُسَيْنٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي عُبَيْدٍ، مَوْلَى عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ تَحْبِسُوا لُحُومَ الْأَضَاحِيِّ بَعْدَ ثَلَاثٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Ubaid, the freed slave of AbdurRahman bin ‘Awf, said:",
+    "text": "I heard ‘Ali (رضي الله عنه) say: The Messenger of Allah (ﷺ) forbade keeping the meat of sacrificial animals after three days."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

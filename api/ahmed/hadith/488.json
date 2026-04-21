@@ -1,0 +1,16 @@
+{
+  "id": 488,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، قَالَ و حَدَّثَنَاه خَلَفُ بْنُ هِشَامٍ الْبَزَّارُ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عَبْدِ الْأَعْلَى، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ كَذَبَ عَلَى عَيْنَيْهِ كُلِّفَ يَوْمَ الْقِيَامَةِ عَقْدًا بَيْنَ طَرَفَيْ شَعِيرَةٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Abu `Abdur-Rahman, from `Ali (رضي الله عنه), that The Prophet (ﷺ) said:",
+    "text": "“Whoever tells a lie about his eyes (i.e., claims to have seen something in his dream that he did not see) will be commanded to tie the two ends of a grain of barley on the Day of Resurrection.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

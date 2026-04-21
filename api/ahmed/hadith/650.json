@@ -1,0 +1,16 @@
+{
+  "id": 650,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَزِيدُ، أَنْبَأَنَا سُفْيَانُ، وَشَرِيكٌ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ عَفَوْتُ لَكُمْ عَنْ صَدَقَةِ الْخَيْلِ وَالرَّقِيقِ فَأَدُّوا رُبُعَ الْعُشُورِ‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Ali (رضي الله عنه) that The Prophet (ﷺ) said:",
+    "text": "“I have relieved you of zakah on horses and slaves, so give one quarter of one tenth.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

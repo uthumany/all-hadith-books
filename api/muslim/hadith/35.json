@@ -1,0 +1,16 @@
+{
+  "id": 35,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ سَمِعْتُ النَّضْرَ، يَقُولُ سُئِلَ ابْنُ عَوْنٍ عَنْ حَدِيثٍ، لِشَهْرٍ وَهُوَ قَائِمٌ عَلَى أُسْكُفَّةِ الْبَابِ فَقَالَ إِنَّ شَهْرًا نَزَكُوهُ إِنَّ شَهْرًا نَزَكُوهُ ‏.‏ قَالَ مُسْلِمٌ رَحِمَهُ اللَّهُ يَقُولُ أَخَذَتْهُ أَلْسِنَةُ النَّاسِ تَكَلَّمُوا فِيهِ ‏.‏",
+  "english": {
+    "narrator": "Ubayd Allah bin Sa’īd narrated to us, he said, I heard an-Naḍr saying:",
+    "text": "‘Ibn Awn was asked about the Ḥadīth of Shahr and he was standing at the threshold of the door, so  said: ‘Indeed they criticized Shahr, indeed they criticized Shahr’. Muslim, may Allah have mercy on him, said ‘He means- the tongues of men were busy criticizing him’.’"
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 96,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ تَمِيمٍ الدَّارِيِّ ‏- رضى الله عنه ‏- قَالَ: قَالَ ‏- صلى الله عليه وسلم ‏-{ اَلدِّينُ اَلنَّصِيحَةُ\n\" ثَلَاثًا.‏ قُلْنَا: لِمَنْ يَا رَسُولَ اَللَّهِ? قَالَ:\" لِلَّهِ وَلِكِتَابِهِ وَلِرَسُولِهِ وَلِأَئِمَّةِ اَلْمُسْلِمِينَ وَعَامَّتِهِمْ }  أَخْرَجَهُ مُسْلِمٌ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (55)‏ وليس عنده لفظ:\" ثلاثا\" ولا كررت جملة:\" الدين النصيحة\"، وإن جاء ذلك عند غيره إما إشارة أو تكرارا، كما وقع ذلك ‏-أيضا‏- في غير حديث تميم.‏",
+  "english": {
+    "narrator": "Tamim ad-Dari (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“The religion is Nasihah.” the people said, ‘To whom should it be directed?’ He replied, “To Allah, His Book, His Messenger (ﷺ), to the leaders of the Muslims and to the common folk of the Muslims.” Related by Muslim."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

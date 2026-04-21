@@ -1,0 +1,16 @@
+{
+  "id": 131,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، وَخَالِي، يَعْلَى وَوَكِيعٌ عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، قَالَ سَمِعْتُ سَعْدَ بْنَ أَبِي وَقَّاصٍ، يَقُولُ إِنِّي لأَوَّلُ الْعَرَبِ رَمَى بِسَهْمٍ فِي سَبِيلِ اللَّهِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Qais said:",
+    "text": "\"I heard Sa'd bin Abu Waqqas say: 'I am the first of the Arabs to shoot an arrow in the cause of Allah.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

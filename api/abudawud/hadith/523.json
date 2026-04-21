@@ -1,0 +1,16 @@
+{
+  "id": 523,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، ح وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، - وَهَذَا حَدِيثُهُ وَهُوَ أَتَمُّ - عَنِ الأَعْمَشِ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، عَنْ تَمِيمِ بْنِ طَرَفَةَ الطَّائِيِّ، عَنْ جَابِرِ بْنِ سَمُرَةَ، - قَالَ عُثْمَانُ - قَالَ دَخَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَسْجِدَ فَرَأَى فِيهِ نَاسًا يُصَلُّونَ رَافِعِي أَيْدِيهِمْ إِلَى السَّمَاءِ - ثُمَّ اتَّفَقَا - فَقَالَ ‏\n\"‏ لَيَنْتَهِيَنَّ رِجَالٌ يَشْخَصُونَ أَبْصَارَهُمْ إِلَى السَّمَاءِ - قَالَ مُسَدَّدٌ فِي الصَّلاَةِ - أَوْ لاَ تَرْجِعُ إِلَيْهِمْ أَبْصَارُهُمْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Jabir b. Samurah said(this is the version of the narrator ‘Uthman):",
+    "text": "The Messenger of Allah(ﷺ) entered the mosque and saw there some people praying raising their hand towards the heaven. (This Is the common version: ) He said : People must stop raising their eyes to the heaven. The narrator Musaddad said: During prayer, otherwise their sight will be taken away."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 267,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ صَلَاةُ اَللَّيْلِ مَثْنَى مَثْنَى , فَإِذَا خَشِيَ أَحَدُكُمْ اَلصُّبْحِ صَلَّى رَكْعَةً وَاحِدَةً , تُوتِرُ لَهُ مَا قَدْ صَلَّى }  مُتَّفَقٌ عَلَيْهِ .‏  1‏‏1 ‏- صحيح .‏ رواه البخاري ( 990 )‏ ، ومسلم ( 749 )‏ ، وتحرف في \" أ \" : \" ابن عمر \" إلى : \" أبي عمر \" .‏",
+  "english": {
+    "narrator": "Narrated Ibn 'Umar (RA):",
+    "text": "Allah's Messenger (ﷺ) said: \"The (voluntary) night prayers are two Rak'at, two Rak'at (in pairs), and if one fears that the dawn prayer is due, he should then offer one Rak'at which will make what he has prayed an odd number.\"\n\n[Agreed upon)."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

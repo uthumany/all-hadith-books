@@ -1,0 +1,16 @@
+{
+  "id": 125,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ بُرَيْدَةَ ‏- رضى الله عنه ‏- قَالَ: { سَمِعَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-رَجُلاً يَقُولُ: اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي أَشْهَدُ أَنَّكَ أَنْتَ اَللَّهُ لَا إِلَهَ إِلَّا أَنْتَ, اَلْأَحَدُ اَلصَّمَدُ, اَلَّذِي لَمْ يَلِدْ, وَلَمْ يُولَدْ, وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ.‏ فَقَالَ\" لَقَدْ سَأَلَ اَللَّهُ بِاسْمِهِ اَلَّذِي إِذَا سُئِلَ بِهِ أَعْطَى, وَإِذَا دُعِيَ بِهِ أَجَابَ }  أَخْرَجَهُ اَلْأَرْبَعَةُ, وَصَحَّحَهُ اِبْنُ حِبَّانَ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (1493)‏، والنسائي في\" الكبرى\" (4 / 394‏- 395)‏.‏ والترمذي (3475)‏، وابن ماجه (3857)‏، وابن حبان (2383)‏.‏",
+  "english": {
+    "narrator": "Buraidah (RAA) narrated, ‘The Messenger of Allah (ﷺ) heard a man saying:",
+    "text": "‘O Allah! I ask you by virtue that I testify that you are Allah; there is no God but You, the one —· the Self Sufficient Master, Who did not beget, and was not begotten, and to whom no one is equal.’ Allah’s Messenger (ﷺ) then said, “He has asked Allah by His Name by which when asked, He gives, and by which when supplicated, He answers.” Related by the four Imams and Ibn Hibban graded it as Sahih."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

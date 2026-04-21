@@ -1,0 +1,16 @@
+{
+  "id": 406,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي الأَحْوَصِ، عَنْ مَنْصُورٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، قَالَ حُدِّثْتُ أَنَّ رَجُلاً مِنْ بَنِي عَامِرٍ اسْتَأْذَنَ عَلَى النَّبِيِّ صلى الله عليه وسلم بِمَعْنَاهُ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ حَدَّثَنَا مُسَدَّدٌ حَدَّثَنَا أَبُو عَوَانَةَ عَنْ مَنْصُورٍ عَنْ رِبْعِيٍّ وَلَمْ يَقُلْ عَنْ رَجُلٍ مِنْ بَنِي عَامِرٍ ‏.‏",
+  "english": {
+    "narrator": "Rib’i b. Hirash said I was told that a man of Banu ‘Amir asked the prophet (May peace be upon him) for permission to enter the house. He then mentioned the rest of the tradition to the same effect.\n\n\nAbu Dawud said:",
+    "text": "Similarly, Musaddad transmitted it to us saying that Abu 'Awanah related it to us from Mansur. He did not say: \"a man of Banu 'Amir\"."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

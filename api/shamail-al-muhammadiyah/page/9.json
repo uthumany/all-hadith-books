@@ -1,0 +1,30 @@
+{
+  "page": 9,
+  "perPage": 50,
+  "totalPages": 9,
+  "totalCount": 402,
+  "nextPage": null,
+  "prevPage": 8,
+  "items": [
+    {
+      "id": 10,
+      "chapterId": 56,
+      "bookId": 11,
+      "arabic": "حدثنا محمد بن علي، قال سمعت أبي يقول‏:‏ قال عبد الله ابن المبارك‏:‏ إذا ابتليت بالقضاء فعليك بالأثر‏.‏",
+      "english": {
+        "narrator": "Abdu llah ibn al-Mubarak said:",
+        "text": "“If you are afflicted with the responsibility of judgeship, you must follow the !”"
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 56,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَلِيٍّ ، قَالَ : حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ ، قَالَ : أَنْبَأَنَا ابْنُ عَوْنٍ ، عَنِ ابْنِ سِيرِينَ ، قَالَ : \n\" هَذَا الْحَدِيثُ دِينٌ ، فَانْظُرُوا عَمَّنْ تَأَخُذُونَ دِينَكُمْ \" .",
+      "english": {
+        "narrator": "Ibn Sirin said:",
+        "text": "\"This tradition  is religion, so consider from whom you accept your religion.”"
+      }
+    }
+  ]
+}

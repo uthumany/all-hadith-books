@@ -1,0 +1,16 @@
+{
+  "id": 360,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَفِي رِوَايَةٍ: { فِي عَهْدِ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-.‏ }   1‏ .‏‏1 ‏- وهي رواية علي بن حجر عند مسلم (859)‏.‏",
+  "english": {
+    "narrator": "Another narration has:",
+    "text": "\"during the life time of Allah's Messenger (ﷺ)."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

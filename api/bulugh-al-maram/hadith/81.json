@@ -1,0 +1,16 @@
+{
+  "id": 81,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { كَفَّارَةٌ مَنْ اِغْتَبْتَهُ أَنْ تَسْتَغْفِرَ لَهُ }  رَوَاهُ اَلْحَارِثُ بْنُ أَبِي أُسَامَةَ بِسَنَدٍ ضَعِيفٍ.‏  1‏ .‏‏1 ‏- موضوع ففي سند عنبسة بن عبد الرحمن القرشي، وكان يضع الحديث.‏",
+  "english": {
+    "narrator": "Anas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“The atonement of backbiting a man is to ask Allah to forgive him.” Related by Al-Harith bin Abu Usamah with a weak chain of narrators."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 211,
+  "chapterId": 78,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا خَالِدٌ، حَدَّثَنَا حُصَيْنٌ، عَنْ سَالِمٍ، عَنْ جَابِرٍ ـ رضى الله عنه ـ قَالَ وُلِدَ لِرَجُلٍ مِنَّا غُلاَمٌ فَسَمَّاهُ الْقَاسِمَ فَقَالُوا لاَ نَكْنِيهِ حَتَّى نَسْأَلَ النَّبِيَّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ سَمُّوا بِاسْمِي، وَلاَ تَكْتَنُوا بِكُنْيَتِي ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Jabi:",
+    "text": "A man among us begot a boy whom he named Al-Qasim. The people said, \"We will not call him (i.e., \nthe father) by that Kuniya (Abu-l-Qasim) till we ask the Prophet (ﷺ) about it. The Prophet (ﷺ) said. \"Name \nyourselves by my name, but do not call (yourselves) by my Kuniya.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

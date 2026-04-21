@@ -1,0 +1,16 @@
+{
+  "id": 231,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي قتادة الحارث بن ربعي رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏إني لأقوم إلى الصلاة، وأريد أن أطول فيها ، فأسمع بكاء الصبي، فأتجوز في صلاتي كراهية أن أشق على أمه‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Qatadah Al-Harith bin Rib'i (May Allah bepleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"I stand up to lead Salat with the intention of prolonging it. Then I hear the crying of an infant and I shorten the Salat lest I should make it burdensome for his mother\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

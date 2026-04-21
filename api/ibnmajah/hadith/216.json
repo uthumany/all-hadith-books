@@ -1,0 +1,16 @@
+{
+  "id": 216,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ بْنِ سَعِيدِ بْنِ كَثِيرِ بْنِ دِينَارٍ الْحِمْصِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، عَنْ أَبِي عُمَرَ، عَنْ كَثِيرِ بْنِ زَاذَانَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ قَرَأَ الْقُرْآنَ وَحَفِظَهُ أَدْخَلَهُ اللَّهُ الْجَنَّةَ وَشَفَّعَهُ فِي عَشَرَةٍ مِنْ أَهْلِ بَيْتِهِ كُلُّهُمْ قَدِ اسْتَوْجَبُوا النَّارَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that 'Ali bin Abu Talib said:",
+    "text": "\"The Messenger of Allah said: 'Whoever reads the Qur'an and memorizes it, Allah will admit him to Paradise and allow him to intercede for ten of his family members who all deserved to enter Hell.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

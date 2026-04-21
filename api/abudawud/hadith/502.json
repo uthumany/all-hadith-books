@@ -1,0 +1,16 @@
+{
+  "id": 502,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ بْنِ سُفْيَانَ، وَابْنُ السَّرْحِ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\n\"‏ يَقُولُ اللَّهُ عَزَّ وَجَلَّ يُؤْذِينِي ابْنُ آدَمَ يَسُبُّ الدَّهْرَ وَأَنَا الدَّهْرُ بِيَدِيَ الأَمْرُ أُقَلِّبُ اللَّيْلَ وَالنَّهَارَ ‏\"‏ ‏.‏ قَالَ ابْنُ السَّرْحِ عَنِ ابْنِ الْمُسَيَّبِ مَكَانَ سَعِيدٍ ‏.‏ وَاللَّهُ أَعْلَمُ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah reported the prophet (ﷺ) as saying:",
+    "text": "Allah most high says : “The son of Adam injures me by abusing time, whereas I am time. Authority is in my hand. I alternate the night and the day”.\n\n\nIbn al-Sarh said: “on the authority of Ibn al-Musayyab instead of Sa’id’."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

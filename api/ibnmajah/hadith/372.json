@@ -1,0 +1,16 @@
+{
+  "id": 372,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَنَسِ بْنِ سِيرِينَ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يُصَلِّي مِنَ اللَّيْلِ مَثْنَى مَثْنَى. وَيُوتِرُ بِرَكْعَةٍ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Ibn ‘Umar said:",
+    "text": "“The Messenger of Allah (ﷺ)\nused\nto pray (voluntary prayers) at night two by two, and he would\npray\none Rak’ah of Witr.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

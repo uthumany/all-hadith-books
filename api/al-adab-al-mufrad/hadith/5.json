@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "chapterId": 57,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، قَالَ‏:‏ حَدَّثَنَا لَيْثٌ قَالَ‏:‏ حَدَّثَنِي طَاوُسٌ، عَنِ ابْنِ عَبَّاسٍ قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ عَلِّمُوا وَيَسِّرُوا، عَلِّمُوا وَيَسِّرُوا، ثَلاَثَ مَرَّاتٍ، وَإِذَا غَضِبْتَ فَاسْكُتْ، مَرَّتَيْنِ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Ibn 'Abbas said, \"The Messenger of Allah, may Allah bless him\nand grant him peace, said, ' Teach and make it easy. Teach and make it\neasy.' three times. He went on, 'When you are angry, be silent' twice.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

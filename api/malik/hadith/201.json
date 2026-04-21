@@ -1,0 +1,16 @@
+{
+  "id": 201,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّهُ لَقِيَ رَجُلاً مِنْ أَهْلِهِ يُقَالُ لَهُ الْمُجَبَّرُ قَدْ أَفَاضَ وَلَمْ يَحْلِقْ وَلَمْ يُقَصِّرْ جَهِلَ ذَلِكَ فَأَمَرَهُ عَبْدُ اللَّهِ أَنْ يَرْجِعَ فَيَحْلِقَ أَوْ يُقَصِّرَ ثُمَّ يَرْجِعَ إِلَى الْبَيْتِ فَيُفِيضَ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nonce met a relative of his called al-Mujabbar who had done the tawaf\nal-ifada but, out of ignorance, had not shaved his head or cut his\nhair. Abdullah told him to go back and shave his head or cut his hair,\nand then go back and do the tawaf al-ifada."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

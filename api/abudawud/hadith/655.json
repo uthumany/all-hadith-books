@@ -1,0 +1,16 @@
+{
+  "id": 655,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ إِبْرَاهِيمَ بْنِ أَبِي النَّضْرِ، عَنْ أَبِيهِ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ صَلاَةُ الْمَرْءِ فِي بَيْتِهِ أَفْضَلُ مِنْ صَلاَتِهِ فِي مَسْجِدِي هَذَا إِلاَّ الْمَكْتُوبَةَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Zayd ibn Thabit:",
+    "text": "The Prophet (ﷺ) said: The prayer a man offers in his house is more excellent than his prayer in this mosque of mine except obligatory prayer."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

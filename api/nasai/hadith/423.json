@@ -1,0 +1,16 @@
+{
+  "id": 423,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ، قَالَ حَدَّثَنِي جَرِيرٌ، عَنْ مُطَرِّفٍ، عَنِ الشَّعْبِيِّ، عَنْ عُرْوَةَ بْنِ مُضَرِّسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَدْرَكَ جَمْعًا مَعَ الإِمَامِ وَالنَّاسِ حَتَّى يُفِيضَ مِنْهَا فَقَدْ أَدْرَكَ الْحَجَّ وَمَنْ لَمْ يُدْرِكْ مَعَ النَّاسِ وَالإِمَامِ فَلَمْ يُدْرِكْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Urwah bin Mudarris said:",
+    "text": "The Messenger of allah said: \"Whoever catches up (with Fajir prayer) in Jam (Al-Muzdalifah) with the Imam and the people (and stays there) until they move on, the he has caught up with Hajj. Whoever does not catuch up with the people and the Imam, then has not caught it (Hajj).'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

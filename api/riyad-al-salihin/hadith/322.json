@@ -1,0 +1,16 @@
+{
+  "id": 322,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ليس الواصل بالمكافئ ولكن الواصل الذي إذا قَطَعت رحمُه وصلها‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin 'Amr Al-'as (May Allah be pleased with them) reported:",
+    "text": "The Prophet (ﷺ) said, \"The person who perfectly maintains the ties of kinship is not the one who does it because he gets recompensed by his relatives (for being kind and good to them), but the one who truly maintains the bonds of kinship is the one who persists in doing so even though the latter has severed the ties of kinship with him\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

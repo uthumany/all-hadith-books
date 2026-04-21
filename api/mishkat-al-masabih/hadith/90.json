@@ -1,0 +1,16 @@
+{
+  "id": 90,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَبْدِ الرَّحْمَنِ بْنِ طَرَفَةَ أَنَّ جَدَّهُ عَرفجةَ بن أسعد قُطِعَ أَنْفُهُ يَوْمَ الْكُلَابِ فَاتَّخَذَ أَنْفًا مِنْ وَرِقٍ فَأَنْتَنَ عَلَيْهِ فَأَمَرَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يَتَّخِذَ أَنْفًا مِنْ ذَهَبٍ. رَوَاهُ التِّرْمِذِيّ وَأَبُو دَاوُد وَالنَّسَائِيّ",
+  "english": {
+    "narrator": "",
+    "text": "‘Abd ar-Rahman b. Tarafa told that his grandfather ‘Arfaja b. As'ad who had had his nose cut off at the battle of al-Kulab (This was a battle about ten years before the Hijra in which the tribe of Tamim was engaged) got a silver nose, but it developed a stench, so the Prophet ordered him to get a gold nose. \nTirmidhi, Abu Dawud and Nasa’i transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

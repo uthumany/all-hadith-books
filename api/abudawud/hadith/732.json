@@ -1,0 +1,16 @@
+{
+  "id": 732,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَدْرَكَ رَكْعَةً مِنَ الصَّلاَةِ فَقَدْ أَدْرَكَ الصَّلاَةَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+    "text": "If anyone obtains a rak'ah in the prayer (along with the imam), he has obtained the whole prayer."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

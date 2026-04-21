@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا كُنْتُمْ ثَلَاثَةً, فَلَا يَتَنَاجَى اِثْنَانِ دُونَ اَلْآخَرِ, حَتَّى تَخْتَلِطُوا بِالنَّاسِ; مِنْ أَجْلِ أَنَّ ذَلِكَ يُحْزِنُهُ }  مُتَّفَقٌ عَلَيْهِ, وَاللَّفْظُ لِمُسْلِمٍ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6290)‏، ومسلم (2184)‏، وليس عند مسلم لفظ\" ذلك\".‏",
+  "english": {
+    "narrator": "Ibn Mas’ud (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“When three of you get together in company, two of you must not talk privately while isolating the third, so as not to make him feel sad (that he is left out) till you mingle with other people (i.e. you are joined by others).” Agreed upon and the wording is from Muslim."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

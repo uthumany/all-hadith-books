@@ -1,0 +1,16 @@
+{
+  "id": 132,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «طِيبُ الرِّجَالِ مَا ظَهَرَ رِيحُهُ وَخَفِيَ لَوْنُهُ وَطِيبُ النِّسَاءِ مَا ظَهَرَ لَوْنُهُ وَخَفِيَ رِيحُهُ» . رَوَاهُ التِّرْمِذِيُّ وَالنَّسَائِيُّ",
+  "english": {
+    "narrator": "",
+    "text": "Abu Huraira reported God’s messenger as saying, “The perfume for men is that whose odour is apparent but whose colour is hidden, and the perfume for women is that whose colour is apparent but whose odour is hidden. \nTirmidhi and Nasa’i transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

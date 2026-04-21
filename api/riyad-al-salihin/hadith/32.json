@@ -1,0 +1,16 @@
+{
+  "id": 32,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال ‏:‏ ‏\n\"‏ يقول الله تعالى ‏:‏ ما لعبدي المؤمن عندي جزاء إذا قبضت صفيه من أهل الدنيا ثم احتسبه إلا الجنة‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Messenger of Allah (ﷺ) said, \"Allah, the Exalted, says: 'I have no reward other than Jannah for a believing slave of Mine who remains patient for My sake when I take away his beloved one from among the inhabitants of the world\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 473,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عُمَرَ: أَنَّهُ أَذَّنَ بِالصَّلَاةِ فِي لَيْلَةٍ ذَاتِ بَرْدٍ وَرِيحٍ ثُمَّ قَالَ أَلَا صَلُّوا فِي الرِّحَالِ ثُمَّ قَالَ: إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَأْمُرُ الْمُؤَذِّنَ إِذَا كَانَتْ لَيْلَةٌ ذَاتُ بَرْدٍ وَمَطَرٍ يَقُولُ: «أَلَا صَلُّوا فِي الرِّحَالِ»",
+  "english": {
+    "narrator": "Ibn ‘Umar called the adhan for prayer on a cold, windy night, then added, “Pray in your dwellings.” Then he said:",
+    "text": "When it was a cold, rainy night, God’s Messenger used to command the mu’adhdhin to say, “Pray in your dwellings.” \n\n(Bukhari and Muslim.)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

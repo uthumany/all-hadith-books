@@ -1,0 +1,16 @@
+{
+  "id": 761,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو سَعِيدٍ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ أَبِي ظَبْيَانَ، أَنَّ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ قَالَ لِعُمَرَ يَا أَمِيرَ الْمُؤْمِنِينَ أَمَا سَمِعْتَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ رُفِعَ الْقَلَمُ عَنْ ثَلَاثَةٍ عَنْ النَّائِمِ حَتَّى يَسْتَيْقِظَ وَعَنْ الصَّغِيرِ حَتَّى يَكْبَرَ وَعَنْ الْمُبْتَلَى حَتَّى يَعْقِلَ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Abu Zayban that `Ali (رضي الله عنه) said to `Umar:",
+    "text": "O Ameer al-Mu`mineen, did you not hear the Messenger of Allah (ﷺ) say: `The Pen has been lifted from three :from the sleeper until he wakes up, from the minor until he grows up and from the insane until he comes to his senses`?"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

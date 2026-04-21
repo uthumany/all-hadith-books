@@ -1,0 +1,16 @@
+{
+  "id": 72,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الرابع‏:‏ عن أبي ظريف عدي بن حاتم الطائي رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم  يقول‏:‏ ‏\n\"‏من حلف على يمين ثم رأى أتقى لله منها فليأت التقوى‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Adi bin Hatim At-Ta'i (May Allah be pleased with him) said:",
+    "text": "I heard the Messenger of Allah (ﷺ) say: \"He who has taken an oath (to do something) but found something else better than that (which brings him closer to Allah), then he should do that which is better in piety (and he should expiate for the breaking of oath)\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

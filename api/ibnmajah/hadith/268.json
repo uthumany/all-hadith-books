@@ -1,0 +1,16 @@
+{
+  "id": 268,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ أَبِي الطُّفَيْلِ، عَنْ مُعَاذِ بْنِ جَبَلٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ جَمَعَ بَيْنَ الظُّهْرِ وَالْعَصْرِ وَالْمَغْرِبِ وَالْعِشَاءِ فِي غَزْوَةِ تَبُوكَ فِي السَّفَرِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "It was\nnarrated from Mu’adh bin Jabal that the Prophet (ﷺ) combined\nthe\nZuhr and ‘Asr, and the Maghrib and ‘Isha’ when traveling during\nthe campaign of Tabuk."
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

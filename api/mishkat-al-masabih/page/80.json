@@ -1,0 +1,510 @@
+{
+  "page": 80,
+  "perPage": 50,
+  "totalPages": 89,
+  "totalCount": 4428,
+  "nextPage": 81,
+  "prevPage": 79,
+  "items": [
+    {
+      "id": 53,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن ابْن عمر أَنَّهُ سَمِعَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: \" اقْتُلُوا الْحَيَّاتِ وَاقْتُلُوا ذَا الطُّفْيَتَيْنِ وَالْأَبْتَرَ فَإِنَّهُمَا يَطْمِسَانِ الْبَصَرَ وَيَسْتَسْقِطَانِ الْحَبَلَ قَالَ عَبْدُ اللَّهِ: فَبَيْنَا أَنَا أُطَارِدُ حَيَّةً أَقْتُلَهَا نَادَانِي أَبُو لُبَابَةَ: لَا تَقْتُلْهَا فَقُلْتُ: إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَ بِقَتْلِ الْحَيَّاتِ. فَقَالَ: إِنَّهُ نَهَى بَعْدَ ذَلِكَ عَنْ ذَوَات الْبيُوت وَهن العوامر",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar told of hearing the Prophet say, \"Kill snakes, kill those which have two streaks and those with small tails, for they obliterate the eyesight and cause miscarriage.\" ‘Abdallah  said that while he was chasing a snake and trying to kill it Abu Lubaba called to him not to kill it, but he replied that God's messenger had given command that snakes should be killed. He then said that he had later prohibited killing house-snakes, for they are resident jinn. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن أبي السَّائِب قَالَ: دَخَلْنَا عَلَى أَبِي سَعِيدٍ الْخُدْرِيِّ فَبَيْنَمَا نحنُ جلوسٌ إِذ سمعنَا تَحت سَرِيره فَنَظَرْنَا فَإِذَا فِيهِ حَيَّةٌ فَوَثَبْتُ لِأَقْتُلَهَا وَأَبُو سَعِيدٍ يُصَلِّي فَأَشَارَ إِلَيَّ أَنِ اجْلِسْ فَجَلَسْتُ فَلَمَّا انْصَرَفَ أَشَارَ إِلَى بَيْتٍ فِي الدَّارِ فَقَالَ: أَتَرَى هَذَا البيتَ؟ فَقلت: نعم فَقَالَ: كَانَ فِيهِ فَتًى مِنَّا حَدِيثُ عَهْدٍ بِعُرْسٍ قَالَ: فَخَرَجْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى الْخَنْدَقِ فَكَانَ ذَلِكَ الْفَتَى يَسْتَأْذِنُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِأَنْصَافِ النَّهَارِ فَيَرْجِعُ إِلَى أَهْلِهِ فَاسْتَأْذَنَهُ يَوْمًا فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «خُذْ عَلَيْكَ سِلَاحَكَ فَإِنِّي أَخْشَى عَلَيْكَ قُرَيْظَةَ» . فَأَخَذَ الرَّجُلُ سِلَاحَهُ ثُمَّ رَجَعَ فَإِذَا امْرَأَتُهُ بَيْنَ الْبَابَيْنِ قَائِمَةٌ فَأَهْوَى إِلَيْهَا بِالرُّمْحِ لِيَطْعَنَهَا بِهِ وَأَصَابَتْهُ غَيْرَةٌ فَقَالَتْ لَهُ: اكْفُفْ عَلَيْكَ رُمْحَكَ وَادْخُلِ الْبَيْتَ حَتَّى تَنْظُرَ مَا الَّذِي أَخْرَجَنِي فَدَخَلَ فَإِذَا بِحَيَّةٍ عَظِيمَةٍ مُنْطَوِيَةٍ عَلَى الْفِرَاشِ فَأَهْوَى إِلَيْهَا بِالرُّمْحِ فَانْتَظَمَهَا بِهِ ثُمَّ خَرَجَ فَرَكَزَهُ فِي الدَّارِ فَاضْطَرَبَتْ عَلَيْهِ فَمَا يُدْرَى أَيُّهُمَا كَانَ أَسْرَعَ مَوْتًا: الْحَيَّةُ أَمِ الْفَتَى؟ قَالَ: فَجِئْنَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَذَكَرْنَا ذَلِكَ لَهُ وَقُلْنَا: ادْعُ اللَّهَ يُحْيِيهِ لَنَا فَقَالَ: «اسْتَغْفِرُوا لِصَاحِبِكُمْ» ثُمَّ قَالَ: «إِنَّ لِهَذِهِ الْبُيُوتِ عَوَامِرَ فَإِذَا رأيتُم مِنْهَا شَيْئا فحرِّجوا عَلَيْهَا ثَلَاثًا فإنْ ذَهَبَ وَإِلَّا فَاقْتُلُوهُ فَإِنَّهُ كَافِرٌ» . وَقَالَ لَهُمْ: «اذْهَبُوا فَادْفِنُوا صَاحِبَكُمْ» وَفِي رِوَايَةٍ قَالَ: «إِنَّ بالمدينةِ جِنَّاً قد أَسْلمُوا فَإِذا رأيتُم مِنْهُم شَيْئًا فَآذِنُوهُ ثَلَاثَةَ أَيَّامٍ فَإِنْ بَدَا لَكُمْ بَعْدَ ذَلِكَ فَاقْتُلُوهُ فَإِنَّمَا هُوَ شَيْطَانٌ» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Abus Sa’ib said:",
+        "text": "We went in to visit Abu Sa'id al-Khudri, and while we were sitting we heard a movement under his couch. When we had looked and found a snake in it I jumped up to kill it, but Abu Sa'id who was engaged in prayer made a gesture to me indicating that I should sit down, so I sat down. When he finished he pointed to a room in the house and asked if I saw it, and when I said I did he told me that a servant of theirs who had recently been married had occupied it. They went out with God’s messenger to the Trench, and that young man was asking permission from God’s messenger to leave after staying half the day and would return to his wife. One day when he asked God's messenger’s permission he told him to carry his weapons with him as he feared Quraiza might do him harm. The man took his weapons and returned, and finding his wife standing between the two doors he was smitten with jealousy and made to pierce her with his lance, but she told him to put away his lance and enter the house to see what had made her come out. He entered and found a huge snake coiled on the bedding, so he made for it with the lance and pierced it with it and then went out and fixed it in the ground in the house, but the snake quivered and attacked him, and no one knew which of them died first, the snake or the young man. They went to God's messenger and mentioned that incident to him, asking him to supplicate God to restore him to life for them, but he replied, \"Ask forgiveness for your friend.\" Then he said, \"These houses have resident jinn, so when you see one of them give it a warning three times. 1 If it goes away, well and good; otherwise kill it, for it is an infidel.'' He then told them to go and bury their friend. A version reports him as saying, ''In Medina there are jinn who have accepted Islam, so when you see one of them pronounce a warning to it for three days and if it appears to you after that kill it, for it is only a devil.\" \n1. Hiarrijiu ‘alaiha thalithan. The verb means to make things difficult. This phrase is explained as meaning that one should tell the snake three times that it will be in difficulties if it returns, and that it must not blame one if, after this warning, it is driven away and killed.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن أم شريك: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَ بِقَتْلِ الْوَزَغِ وَقَالَ: «كَانَ يَنْفُخُ عَلَى إِبْرَاهِيم»",
+      "english": {
+        "narrator": "",
+        "text": "Umm Sharik told that God’s messenger ordered geckos to be killed, saying the gecko blew on Abraham.1 \n\n1. Al-Qur’an 21:68 speaks of Abraham being put into a fire. In this tradition it is said that the gecko blew on the fire to stir it up.\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَ بِقَتْلِ الْوَزَغِ وَسَمَّاهُ فُوَيْسِقًا. رَوَاهُ مُسْلِمٌ",
+      "english": {
+        "narrator": "",
+        "text": "Sa‘d b. Abu Waqqas told that God’s messenger ordered geckos to be killed, calling them noxious little creatures. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ قَتَلَ وَزَغًا فِي أولَّ ضَرْبَة كتبت لَهُ مِائَةُ حَسَنَةٍ وَفِي الثَّانِيَةِ دُونَ ذَلِكَ وَفِي الثَّالِثَة دون ذَلِك» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God's messenger as saying, \"If anyone kills a gecko with the first blow a hundred good deeds will be recorded for him, less if he kills it at the second and less still if he kills it at the third.\" \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" قَرَصَتْ نَمْلَةٌ نَبِيًّا من الأنبياءِ فأمرَ بقربةِ النَّمْلِ فَأُحْرِقَتْ فَأَوْحَى اللَّهُ تَعَالَى إِلَيْهِ: أَنْ قَرَصَتْكَ نَمْلَةٌ أَحْرَقْتَ أُمَّةً مِنَ الْأُمَمِ تُسَبِّحُ؟ \"",
+      "english": {
+        "narrator": "",
+        "text": "He reported God’s messenger as saying that when a prophet was stung by an ant he ordered a colony of ants to be burned, and God most high revealed to him, \"Because an ant stung you you have burned a community which glorifies me.\" \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا وَقَعَتِ الْفَأْرَةُ فِي السَّمْنِ فَإِنْ كَانَ جَامِدًا فَأَلْقُوهَا وَمَا حَوْلَهَا وَإِنْ كَانَ مَائِعًا فَلَا تَقْرَبُوهُ» . رَوَاهُ أَحْمد وَأَبُو دَاوُد\nوَرَوَاهُ الدَّارمِيّ عَن ابْن عَبَّاس",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, \"When a mouse falls into clarified butter which, is solid throw the mouse and what is around it away; but if it is in a liquid state do not go near it.\" \n\nAhmad and Abu Dawud transmitted it, and Darimi transmitted it on the authority of Ibn ‘Abbas."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ سَفِينَةَ قَالَ: أَكَلْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَحْمَ حُبَارَى. رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Safina told that he and God's messenger ate the flesh of a bustard. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ أَكْلِ الْجَلَّالَةِ وَأَلْبَانِهَا. رَوَاهُ التِّرْمِذِيُّ وَفِي رِوَايَةِ أَبِي دَاوُدَ: قَالَ: نُهِيَ عَنْ ركوبِ الْجَلالَة",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar told that God's messenger prohibited eating the animal which feeds on filth or drinking its milk. \n\nTrimidhi transmitted it. In Abu Dawud’s version he said that he forbade riding the animal which feeds on filth."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن عبدِ الرَّحمنِ بنِ شِبْلٍ: أَنَّ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ أَكْلِ لَحْمِ الضَّبِّ. رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "",
+        "text": "‘Abd ar-Rahman b. Shibl said the Prophet forbade eating the flesh of lizards. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ أَكْلِ الْهِرَّةِ وَأَكْلِ ثَمَنِهَا. رَوَاهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "Jabir said the Prophet forbade eating cats or what is paid for them. 1\n1. This might be either what was paid in kind, or what was bought with money paid for them.\n\nAbu Dawud and Tirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعنهُ حَرَّمَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَعْنِي يَوْمَ خَيْبَرَ الْحُمُرَ الْإِنْسِيَّةَ وَلُحُومَ الْبِغَالِ وَكُلَّ ذِي نَابٍ مِنَ السِّبَاعِ وَكُلَّ ذِي مِخْلَبٍ مِنَ الطَّيْرِ. رَوَاهُ التِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيث غَرِيب",
+      "english": {
+        "narrator": "",
+        "text": "He said, referring to the day of Khaibar, that God’s messenger declared domestic asses, the flesh of mules, every beast of prey with a fang and every bird with a talon to be unlawful. \n\nTirmidhi transmitted it, saying this is a gharib tradition."
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن خالدِ بْنِ الْوَلِيدِ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ أَكْلِ لُحُومِ الْخَيْلِ والبِغالِ والحميرِ. رَوَاهُ أَبُو دَاوُد وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Khalid b. al-Walld said God’s messenger prohibited eating the flesh of horses, mules and asses. \n\nAbu Dawud and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ قَالَ: غَزَوْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمَ خَيْبَرَ فَأَتَتِ الْيَهُودُ فَشَكَوْا أَنَّ النَّاسَ قَدْ أَسْرَعُوا إِلَى خَضَائِرِهِمْ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَلَا لَا يَحِلُّ أَمْوَالُ المعاهِدينَ إِلاَّ بحقِّها» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "He said that he went with the Prophet to fight at the battle of Khaibar and the Jews came and complained that the people had hastened to take their green dates, 2 so God’s messenger said, ''The property of those who have been given a covenant is not lawful except for the dues which are levied.\" \n2. The reference is to dates which fall from the tree while still green.\n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" أُحِلَّتْ لَنَا مَيْتَتَانِ وَدَمَانِ: الْمَيْتَتَانِ: الْحُوتُ وَالْجَرَادُ وَالدَّمَانِ: الْكَبِدُ وَالطِّحَالُ \". رَوَاهُ أحمدُ وابنُ مَاجَه وَالدَّارَقُطْنِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar reported God’s messenger as saying, \"Two types of animals which have died a natural death and two types of blood have been made allowable to us, the two which die a natural death being the fish and the locust, and the two types of blood being the liver and the spleen.\" \n\nAhmad, Ibn Majah and Daraqutni transmitted it."
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن أبي الزُّبيرِ عَنْ جَابِرٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم: «مَا ألقاهُ البحرُ وجزر عَنْهُ الْمَاءُ فَكُلُوهُ وَمَا مَاتَ فِيهِ وَطَفَا فَلَا تَأْكُلُوهُ» . رَوَاهُ أَبُو دَاوُدَ وَابْنُ مَاجَهْ\nوَقَالَ مُحْيِي السُّنَّةِ: الْأَكْثَرُونَ عَلَى أَنَّهُ مَوْقُوفٌ على جَابر",
+      "english": {
+        "narrator": "",
+        "text": "Abuz Zubair quoted Jabir’s authority for the statement that God's messenger said, \"What the sea throws up and is left by the tide you may eat, but what dies in the sea and floats you must not eat.\" \n\nAbu Dawud and Ibn Majah transmitted it, but Muhyi as-Sunna said most people hold that it goes no farther back than Jabir."
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن سلمَان قَالَ: سُئِلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الْجَرَادِ فَقَالَ: «أَكْثَرُ جُنُودِ اللَّهِ لَا آكُلُهُ وَلَا أُحَرِّمُهُ» . رَوَاهُ أَبُو دَاوُدُ وَقَالَ محيي السّنة: ضَعِيف",
+      "english": {
+        "narrator": "",
+        "text": "Salman said the Prophet was asked about locusts and replied, \"They are the most numerous of God’s hosts. I neither eat them nor declare them unlawful.\"\n\nAbu Dawud transmitted it, but Muhyi as-Sunna said it is weak."
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن زيدِ بن خالدٍ قَالَ: نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ سَبِّ الدِّيكِ وَقَالَ: «إِنَّهُ يُؤَذِّنُ للصَّلاةِ» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Zaid b. Khalid said that God’s messenger prohibited reviling a cock, saying that it is making the caH to prayer. \n\nIt is transmitted in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَسُبُّوا الدِّيكَ فَإِنَّهُ يُوقِظُ للصلاةِ» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "He reported God’s messenger as saying, \"Do not revile a cock, for it wakens people for prayer.\" \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى قَالَ: قَالَ أَبُو لَيْلَى: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" إِذَا ظَهَرَتِ الْحَيَّةُ فِي الْمَسْكَنِ فَقُولُوا لَهَا: إِنَّا نَسْأَلُكِ بِعَهْدِ نُوحٍ وَبِعَهْدِ سُلَيْمَانَ بْنِ دَاوُدَ أَنْ لَا تُؤْذِينَا فَإِنْ عَادَتْ فَاقْتُلُوهَا \". رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ",
+      "english": {
+        "narrator": "",
+        "text": "'Abd ar-Rahman b. Abu Laila. said that Abu Laila reported God’s messenger as saying, \"When a snake appears in a dwelling say to it, ‘We ask you by the covenant made with Noah and the covenant made with Solomon son of David not to harm us.’ Then if it comes back, kill it.\" \n\nTirmidhi and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن عكرمةَ عَن ابنِ عبَّاسٍ قَالَ: لَا أَعْلَمُهُ إِلَّا رَفَعَ الْحَدِيثَ: أَنَّهُ كَانَ يَأْمُرُ بِقَتْلِ الْحَيَّاتِ وَقَالَ: «مَنْ تَرَكَهُنَّ خَشْيَةَ ثَائِرٍ فَلَيْسَ مِنَّا» . رَوَاهُ فِي شَرْحِ السّنة",
+      "english": {
+        "narrator": "",
+        "text": "‘Ikrima told on the authority of Ibn ‘Abbas, saying he was sure that he traced it back to the Prophet, that he used to order snakes to be killed and say, \"He who leaves them alone fearing that one will come to take revenge does not belong to us.\" \n\nIt is transmitted in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَا سَالَمْنَاهُمْ مُنْذُ حَارَبْنَاهُمْ وَمَنْ تَرَكَ شَيْئًا مِنْهُمْ خِيفَةً فَلَيْسَ منَّا» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God's messenger as saying, \"We have not made peace with them 1 since we fought with them, so he who leaves any of them alone through fear does not belong to us.\" \n1. i.e. snakes.\n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ مَسْعُودٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «اقْتُلُوا الْحَيَّاتِ كُلَّهُنَّ فَمَنْ خَافَ ثَأْرَهُنَّ فَلَيْسَ مِنِّي» . رَوَاهُ أَبُو دَاوُدَ وَالنَّسَائِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn Mas'ud reported God's messenger as saying, \"Kill all the snakes, and he who fears their revenge does not belong to me.\" \n\nAbu Dawud and Nasa'i transmitted it."
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن العبَّاسِ رَضِيَ اللَّهُ عَنْهُ قَالَ: يَا رَسُولَ اللَّهِ إِنَّا نُرِيدُ أَنْ نَكْنُسَ زَمْزَمَ وَإِنَّ فِيهَا مِنْ هَذِهِ الْجِنَّانِ يَعْنِي الْحَيَّاتِ الصِّغَارِ فَأَمَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِقَتْلِهِنَّ. رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Al-'Abbas said, \"Messenger of God, we wish to sweep out Zamzam, but in it there are some of these jinnan,\" meaning small snakes; so God’s messenger ordered that they should be killed. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى الله عَلَيْهِ وَسلم قَالَ: «اقْتُلُوا الْحَيَّاتِ كُلَّهَا إِلَّا الْجَانَّ الْأَبْيَضَ الَّذِي كَأَنَّهُ قضيب فضَّة» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Ibn Mas'ud reported God’s messenger as saying, \"Kill all the snakes except the little white one which looks like a silver wand.\" \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا وَقَعَ الذُّبَابُ فِي إِنَاءِ أَحَدِكُمْ فَامْقُلُوهُ فَإِنَّ فِي أَحَدِ جَنَاحَيْهِ دَاءً وَفِي الْآخَرِ شِفَاءً فَإِنَّهُ يَتَّقِي بِجَنَاحِهِ الَّذِي فِيهِ الدَّاءُ فَلْيَغْمِسْهُ كُلَّهُ» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, \"When a fly alights in the vessel of any of you plunge it in, for in one of its wings there is disease and in the other a cure; it puts forward the one containing the disease, so dip it all in.\" \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِذَا وَقَعَ الذُّبَابُ فِي الطَّعَامِ فَامْقُلُوهُ فَإِنَّ فِي أَحَدِ جَنَاحَيْهِ سُمًّا وَفِي الْآخَرِ شِفَاءً وَإِنَّهُ يُقَدِّمُ السَّمَّ وَيُؤَخِّرُ الشِّفَاءَ» . رَوَاهُ فِي شرح السّنة",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa'id al-Khudri reported the Prophet as saying, \"When a fly alights on food plunge it in, for one of its wings contains poison and the other a cure, and it puts the poison first and the cure second.\" \n\nIt is transmitted in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ قَتْلِ أَرْبَعٍ مِنَ الدَّوَابِّ: النَّمْلَةِ وَالنَّحْلَةِ وَالْهُدْهُدُ وَالصُّرَدُ. رَوَاهُ أَبُو دَاوُدَ وَالدَّارِمِيُّ",
+      "english": {
+        "narrator": "Ibn ‘Abbas said God’s messenger prohibited killing four creatures:",
+        "text": "ants, bees, hoopoes and sparrow-hawks. Abu Dawud and Darimi transmitted it."
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: كَانَ أَهْلُ الْجَاهِلِيَّةِ يَأْكُلُونَ أَشْيَاءَ وَيَتْرُكُونَ أَشْيَاءَ تَقَذُّرًا فَبَعَثَ اللَّهُ نَبِيَّهُ وَأَنْزَلَ كِتَابَهُ وَأَحَلَّ حَلَالَهُ وَحَرَّمَ حَرَامَهُ فَمَا أَحَلَّ فَهُوَ حَلَالٌ وَمَا حَرَّمَ فَهُوَ حَرَامٌ وَمَا سَكَتَ عَنْهُ فهوَ عفْوٌ وتَلا (قُلْ لَا أَجِدُ فِيمَا أُوحِيَ إِلَيَّ مُحَرَّمًا عَلَى طَاعِمٍ يَطْعَمُهُ إِلَّا أَنْ يَكُونَ مَيْتَةً أَو دَمًا)\nرَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas said that the people of pre-Islamic times used to eat some things and leave others alone, considering them unclean. Then God sent His Prophet and sent down His Book, marking some things lawful and others unlawful; so what He made lawful is lawful, what He made unlawful is unlawful, and what He said nothing about is allowable. And he recited, ''Say, I do not find in what is revealed to me anything forbidden to him who eats it, except carrion or blood...\" 1 \n1. Qur'an, vi, 145.\n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن زاهرٍ الأسلميِّ قَالَ: إِنِّي لَأُوقِدُ تَحْتَ الْقُدُورِ بِلُحُومِ الْحُمُرِ إِذْ نَادَى مُنَادِي رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْهَاكُمْ عَنْ لُحُومِ الْحُمُرِ. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Zahir al-Aslami said he was kindling fire under pots which contained asses' flesh when God's messenger's crier made an announcement to the effect that God's messenger prohibited asses' flesh to the people. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن أبي ثعلبةَ الخُشَنيَّ يَرْفَعُهُ: «الْجِنُّ ثَلَاثَةُ أَصْنَافٍ صِنْفٌ لَهُمْ أَجْنِحَةٌ يَطِيرُونَ فِي الْهَوَاءِ وَصِنْفٌ حَيَّاتٌ وَكِلَابٌ وَصِنْفٌ يُحلُّونَ ويظعنونَ» . رَوَاهُ فِي شرح السنَّة",
+      "english": {
+        "narrator": "",
+        "text": "Abu Tha'laba al-Khushani traced to the Prophet the saying that the jinn are of three classes, one which have wings and fly in the air, one which consists of snakes and dogs, and one which stay in places and travel about. \n\nIt is transmitted in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "عَن سلمانَ بن عامرٍ الضَّبي قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَعَ الْغُلَامِ عَقِيقَةٌ فَأَهْرِيقُوا عَنْهُ دَمًا وأمِيطوا عَنهُ الْأَذَى» . رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Salman b. ‘Amir ad Dabbl told that he heard God's messenger say, “Along with a boy there is an ‘aqiqa, so shed blood on his behalf and remove injury from him.”* \n*This is variously explained as shaving the hair of the infant, or removing the impurities with which it is defiled at birth, or even circumcision.\n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُؤْتَى بِالصِّبْيَانِ فَيُبَرِّكُ عَلَيْهِمْ وَيُحَنِّكُهُمْ. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha told that boys used to be brought to God’s messenger, and he would invoke blessings on them and soften some dates and rub their palates with them. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ أَنَّهَا حَمَلَتْ بِعَبْدِ اللَّهِ بْنِ الزُّبَيْرِ بِمَكَّةَ قَالَتْ: فَوَلَدْتُ بِقُبَاءَ ثُمَّ أَتَيْتُ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَوَضَعْتُهُ فِي حِجْرِهِ ثُمَّ دَعَا بِتَمْرَةٍ فَمَضَغَهَا ثُمَّ تَفَلَ فِي فِيهِ ثُمَّ حَنَّكَهُ ثُمَّ دَعَا لَهُ وبرك عَلَيْهِ فَكَانَ أَوَّلَ مَوْلُودٍ وُلِدَ فِي الْإِسْلَامِ",
+      "english": {
+        "narrator": "",
+        "text": "Asma’ daughter of Abu Bakr said she conceived ‘Abdallah b. azZubair in Mecca and gave birth to him in Quba’, then took him to God’s messenger and placed him in his lap. He called for a date, chewed it and spat in his mouth, after which he rubbed his palate and then made supplication for him and invoked a blessing on him. He was the first child to be born in the Islamic period. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "عَن أُمِّ كُرْزٍ قَالَتْ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «أَقِرُّوا الطَّيْرَ عَلَى مَكِنَاتِهَا» . قَالَتْ: وَسَمِعْتُهُ يَقُولُ: «عَنِ الْغُلَامِ شَاتَانِ وَعَنِ الْجَارِيَةِ شَاةٌ وَلَا يَضُرُّكُمْ ذُكْرَانًا كُنَّ أَوْ إِنَاثًا» . رَوَاهُ أَبُو دَاوُد وللترمذي وَالنَّسَائِيّ من قَوْله: يَقُول: «عَن الْغُلَام» إِلَّا آخِره وَقَالَ التِّرْمِذِيّ: هَذَا صَحِيح",
+      "english": {
+        "narrator": "",
+        "text": "Umm Kurz told that she heard God’s messenger say, “Let the birds stay in their roosts.”* She told that she also heard him say, “Two sheep are to be sacrificed for a boy and one for a girl, but it does you no harm whether they are male or female.” \n*Either that they are not to be molested, or that they are not to be disturbed for the purpose of taking omens.\n\nAbu Dawud transmitted it. Tirmidhi and Nasa’i transmit it from “two sheep” to the end, Tirmidhi saying this is a sahih tradition."
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن الحسنِ عَن سَمُرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْغُلَامُ مُرْتَهَنٌ بِعَقِيقَتِهِ تُذْبَحُ عَنْهُ يَوْمَ السَّابِعِ وَيُسَمَّى وَيُحْلَقُ رَأْسُهُ» . رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ وَالنَّسَائِيُّ لَكِنْ فِي رِوَايَتِهِمَا «رَهِينَةٌ» بدل «مرتهنٌ» وَفِي رِوَايَة لِأَحْمَد وَأبي دَاوُد: «وَيُدْمَى» مَكَانَ: «وَيُسَمَّى» وَقَالَ أَبُو دَاوُدَ: «وَيُسَمَّى» أصحُّ",
+      "english": {
+        "narrator": "",
+        "text": "Al-Hasan quoted Samura who reported God’s messenger as saying, \"A boy is in pledge for his ‘aqiqa. Sacrifice is made for him on the seventh day, he is given a name and his head is shaved.” \n\nAhmad, Tirmidhi, Abu Dawud and Nasa’i transmitted it, but the last two have “a pledge” for “in pledge.” A version by Ahmad and Abu Dawud has “is smeared with blood” 1 in place of “is given a name.” Abu Dawud says th at “is given a name” is sounder."
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ مُحَمَّدِ بْنِ عَلِيِّ بْنِ حُسَيْنٍ عَنْ عَليّ بن أبي طَالب قَالَ: عَقَّ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الْحَسَنِ بِشَاةٍ وَقَالَ: «يَا فَاطِمَةُ احْلِقِي رَأْسَهُ وَتَصَدَّقِي بِزِنَةِ شَعْرِهِ فِضَّةً» فَوَزَنَّاهُ فَكَانَ وَزْنُهُ دِرْهَمًا أَوْ بَعْضَ دِرْهَمٍ. رَوَاهُ التِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ وَإِسْنَادُهُ لَيْسَ بِمُتَّصِلٍ لِأَنَّ مُحَمَّدَ بْنَ عَلِيِّ بْنِ حُسَيْنٍ لَمْ يُدْرِكْ عَلِيَّ بْنَ أَبِي طَالِبٍ",
+      "english": {
+        "narrator": "",
+        "text": "Muhammad b. ‘All b. Husain quoted ‘Ali b. Abu Talib as saying that God’s messenger sacrificed a sheep on the seventh day for al-Hasan and said, “Shave his head, Fatima, and give the weight of his hair in silver as sadaqa.” So they weighed it and it amounted to a dirham or part of a dirham. \n\nTirmidhi transmitted it, saying this is a hasan gharib tradition, but its isnad is not fully connected because Muhammad b. ‘Ali b. Husain was not born in the time of ‘Ali b. Abu Talib."
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَقَّ عَنِ الْحَسَنِ وَالْحُسَيْنِ كَبْشًا كَبْشًا. رَوَاهُ أَبُو دَاوُدَ وَعِنْدَ النَّسَائِيِّ: كبشين كبشين",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas told that God’s messenger sacrificed a ram on the seventh day for both al-Hasan and al-Husain. \n\nAbu Dawud transmitted it. Nasa’i says two rams each."
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَ: سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الْعَقِيقَةِ فَقَالَ: «لَا يُحِبُّ اللَّهُ الْعُقُوقَ» كَأَنَّهُ كَرِهَ الِاسْمَ وَقَالَ: «مَنْ وُلِدَ لَهُ وَلَدٌ فَأَحَبَّ أَنْ يَنْسِكَ عَنْهُ فَلْيَنْسِكْ عَنِ الْغُلَامِ شَاتَيْنِ وَعَنِ الْجَارِيَةِ شَاةً» . رَوَاهُ أَبُو دَاوُد وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "'Amr b. Shu'aib, on his father's authority, said his grandfather told that God’s messenger was asked about the ‘aqiqa and replied, “God does not like the breaking of ties (‘uquq),” as though he disliked the name. And he said, “If anyone has a child born to him and wishes to offer a sacrifice on its behalf, he may offer two sheep for a boy and one for a girl. \n\nAbu Dawud and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "وَعَن أبي رافعٍ قَالَ: رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أذَّنَ فِي أُذُنِ الحسنِ ابنِ عليٍّ حِينَ وَلَدَتْهُ فَاطِمَةُ بِالصَّلَاةِ. رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ. وَقَالَ التِّرْمِذِيُّ: هَذَا حَيْثُ حسن صَحِيح",
+      "english": {
+        "narrator": "",
+        "text": "Abu Rafi' told th at he saw God's messenger uttering the call to prayer in the ear of al-Hasan b. ‘Ali when Fatima gave birth to him.\n\nTirmidhi and Abu Dawud transmitted it, Tirmidhi saying this is a hasan sahih tradition."
+      }
+    },
+    {
+      "id": 93,
+      "chapterId": 20,
+      "bookId": 14,
+      "arabic": "عَن بُريدةَ قَالَ: كُنَّا فِي الْجَاهِلَيَّةِ إِذَا وُلِدَ لِأَحَدِنَا غلامٌ ذَبَحَ شاةٌ ولطَّخَ رأسَه بدمه فَلَمَّا جَاءَ الْإِسْلَامُ كُنَّا نَذْبَحُ الشَّاةَ يَوْمَ السَّابِعِ وَنَحْلِقُ رَأْسَهُ وَنُلَطِّخُهُ بِزَعْفَرَانٍ. رَوَاهُ أَبُو دَاوُد وَزَاد رزين: ونُسمِّيه",
+      "english": {
+        "narrator": "Buraida said:",
+        "text": "When a boy was born to one of us in the pre-Islamic period he sacrificed a sheep and smeared his head with its blood; but when Islam came we sacrificed a sheep on the seventh day, shaved his head and smeared it with saffron. \n\nAbu Dawud transmitted it, and Razin added, “and gave him his name.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 21,
+      "bookId": 14,
+      "arabic": "عَن عمر بن أبي سَلمَة قَالَ: كُنْتُ غُلَامًا فِي حِجْرِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَكَانَتْ يَدِي تَطِيشُ فِي الصفحة. فَقَالَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ «سم الله وكل يَمِينك وكل مِمَّا يليك»",
+      "english": {
+        "narrator": "‘Umar b. Abu Salama said:",
+        "text": "I was a boy under the protection of God’s messenger, and as my hand used to roam at large in the dish he said to me, “Mention God’s name, eat with your right hand, and eat from what is next you.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 21,
+      "bookId": 14,
+      "arabic": "وَعَن حُذَيْفَة قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ الشَّيْطَانَ يَسْتَحِلُّ الطَّعَامَ أَنْ لَا يُذْكَرَ اسْم الله عَلَيْهِ» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Hudhaifa reported God’s messenger as saying, “The devil considers food lawful for him when God’s name is not mentioned over it.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 21,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" إِذَا دَخَلَ الرَّجُلُ بَيْتَهُ فَذَكَرَ اللَّهَ عِنْدَ دُخُولِهِ وَعِنْدَ طَعَامِهِ قَالَ الشَّيْطَانُ: لَا مَبِيتَ لَكُمْ وَلَا عَشَاءَ وَإِذَا دَخَلَ فَلَمْ يَذْكُرِ اللَّهَ عِنْدَ دُخُولِهِ قَالَ الشَّيْطَانُ: أَدْرَكْتُمُ الْمَبِيتَ وَإِذَا لَمْ يَذْكُرِ اللَّهَ عِنْدَ طَعَامِهِ قَالَ: أَدْرَكْتُمُ الْمَبِيتَ وَالْعَشَاءَ \". رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Jabir reported God’s messenger as saying that when a man enters his house and mentions God’s name on entering and when at his food, the devil says, “You* have no place to spend the night and no evening meal; ” but when he enters without mentioning God’s name on entering the devil says, “You have found a place to spend the night; ” and when he does not mention God at his food he says, “You have found a place to spend the night and an evening meal.” \n*The pronoun is plural. The devil is said to be addressing his assistants.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 21,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا أَكَلَ أَحَدُكُمْ فَلْيَأْكُلْ بِيَمِينِهِ وَإِذَا شَرِبَ فَلْيَشْرَبْ بِيَمِينِهِ» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar reported God’s messenger as saying, “When any of you eats he should eat with his right hand, and when he drinks he should drink with his right hand.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 21,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يَأْكُلَنَّ أَحَدُكُمْ بِشِمَالِهِ وَلَا يَشْرَبَنَّ بِهَا فَإِنَّ الشَّيْطَانَ يَأْكُلُ بِشِمَالِهِ وَيَشْرَبُ بهَا» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "He reported God’s messenger as saying, “None of you must ever eat or drink with his left hand, for the devil eats and drinks with his left hand.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 21,
+      "bookId": 14,
+      "arabic": "وَعَنْ كَعْبِ بْنِ مَالِكٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَأْكُلُ بِثَلَاثَةِ أَصَابِعَ وَيَلْعَقُ يَدَهُ قَبْلَ أَن يمسحها. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Ka'b b. Malik said that God's messenger used to eat with three fingers and lick his hand before wiping it. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 21,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٌ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَ بِلَعْقِ الْأَصَابِعِ وَالصَّفْحَةِ وَقَالَ: \n\" إِنَّكُمْ لَا تَدْرُونَ: فِي أَيَّهِ الْبَرَكَةُ؟ \". رَوَاهُ مُسْلِمٌ",
+      "english": {
+        "narrator": "",
+        "text": "Jabir said the Prophet ordered people to lick their fingers and the dish, saying, “You do not know in what portion blessing lies.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 21,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِذَا أَكَلَ أَحَدُكُمْ فَلَا يمسحْ يدَه حَتَّى يلعقها أَو يلعقها»",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas reported the Prophet as saying, “When one of you eats he must not wipe his hand till he licks it, or gives it to someone to lick.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 21,
+      "bookId": 14,
+      "arabic": "وَعَن جَابر قَالَ: النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: \n\" إِنَّ الشَّيْطَانَ يَحْضُرُ أَحَدَكُمْ عِنْدَ كُلِّ شَيْءٍ مِنْ شَأْنِهِ حَتَّى يَحْضُرَهُ عِنْدَ طَعَامِهِ فَإِذَا سَقَطَتْ من أحدكُم لقْمَة فَلْيُمِطْ مَا كَانَ بِهَا مِنْ أَذًى ثُمَّ ليأكلها وَلَا يَدعهَا للشَّيْطَان فَإِذا فرع فليلعق أصَاب فَإِنَّهُ لَا يَدْرِي: فِي أَيِّ طَعَامِهِ يَكُونُ الْبركَة؟ \". رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Jabir told that he heard the Prophet say, “The devil is present with one of you in everything he does, even being present when he is at food; so if any of you drops a mouthful he should wipe away anything injurious on it and eat it and not leave it for the devil; and when he finishes he should lick his fingers, for he does not know in what part of the food the blessing lies.” \n\nMuslim transmitted it."
+      }
+    }
+  ]
+}

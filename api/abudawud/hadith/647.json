@@ -1,0 +1,16 @@
+{
+  "id": 647,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَمْرٍو، عَنْ عَبْدِ اللَّهِ بْنِ الْوَلِيدِ، عَنْ سُفْيَانَ، عَنْ جَابِرٍ، - يَعْنِي الْجُعْفِيَّ - قَالَ حَدَّثَنَا الْمُغِيرَةُ بْنُ شُبَيْلٍ الأَحْمَسِيُّ، عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا قَامَ الإِمَامُ فِي الرَّكْعَتَيْنِ فَإِنْ ذَكَرَ قَبْلَ أَنْ يَسْتَوِيَ قَائِمًا فَلْيَجْلِسْ فَإِنِ اسْتَوَى قَائِمًا فَلاَ يَجْلِسْ وَيَسْجُدُ سَجْدَتَىِ السَّهْوِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَلَيْسَ فِي كِتَابِي عَنْ جَابِرٍ الْجُعْفِيِّ إِلاَّ هَذَا الْحَدِيثُ ‏.‏",
+  "english": {
+    "narrator": "Narrated Al-Mughirah ibn Shu'bah:",
+    "text": "The Prophet (ﷺ) said: When an imam stands up at the end of two rak'ahs , if he remembers before standing straight up, he should sit down, but if he stands straight up, he must not sit down, but perform the two prostrations of forgetfulness.\n\n\n\n\nAbu Dawud said: I have not narrated in this book of mine any hadith from Jabir Al-Ju'fi (one of the narrators) except this one."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

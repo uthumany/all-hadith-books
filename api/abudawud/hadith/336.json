@@ -1,0 +1,16 @@
+{
+  "id": 336,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، وَعُبَيْدُ اللَّهِ بْنُ عُمَرَ الْجُشَمِيُّ، قَالاَ حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا سَعِيدٌ، - قَالَ نَصْرٌ ابْنُ أَبِي عَرُوبَةَ - عَنْ قَتَادَةَ، عَنْ أَبِي نَهِيكٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ مَنِ اسْتَعَاذَ بِاللَّهِ فَأَعِيذُوهُ وَمَنْ سَأَلَكُمْ بِوَجْهِ اللَّهِ فَأَعْطُوهُ ‏\"‏ ‏.‏ قَالَ عُبَيْدُ اللَّهِ ‏\"‏ مَنْ سَأَلَكُمْ بِاللَّهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Abbas:",
+    "text": "The Prophet (ﷺ) said: If anyone asks (you) for refuge for the sake of Allah, give him refuge; and if anyone asks you (for something) for the pleasure of Allah, give him. Ubaydullah said: If anyone asks you for the sake of Allah."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

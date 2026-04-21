@@ -1,0 +1,16 @@
+{
+  "id": 380,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُسْلِمٌ، حَدَّثَنَا أَبُو الأَشْهَبِ، حَدَّثَنَا أَبُو الْجَوْزَاءِ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما فِي قَوْلِهِ ‏{‏اللاَّتَ وَالْعُزَّى‏}‏ كَانَ الَّلاَتُ رَجُلاً يَلُتُّ سَوِيقَ الْحَاجِّ‏.‏",
+  "english": {
+    "narrator": "Narrated Ibn `Abbas:",
+    "text": "(regarding His Statement about the Lat and the `Uzza: Lat was originally a man who used to mix \nSawiq for the pilgrim."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

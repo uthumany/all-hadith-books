@@ -1,0 +1,16 @@
+{
+  "id": 321,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الْأُمَوِيُّ، حَدَّثَنَا ابْنُ أَبِي لَيْلَى، عَنْ ابْنِ الْأَصْبَهَانِيِّ، عَنْ جَدَّةٍ، لَهُ وَكَانَتْ سُرِّيَّةً لِعَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَتْ قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ كُنْتُ رَجُلًا نَئُومًا وَكُنْتُ إِذَا صَلَّيْتُ الْمَغْرِبَ وَعَلَيَّ ثِيَابِي نِمْتُ ثُمَّ قَالَ يَحْيَى بْنُ سَعِيدٍ فَأَنَامُ قَبْلَ الْعِشَاءِ فَسَأَلْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ فَرَخَّصَ لِي‏.‏",
+  "english": {
+    "narrator": "Ibn Abu Laila narrated from Ibn al-Asbahani from his grandmother, who was a concubine of ‘Ali (رضي الله عنه), that she said:",
+    "text": "`Ali (رضي الله عنه) said: I was a man who fell asleep easily, and when I had prayed Maghrib and was covered with my garment, I would sleep then - Yahya bin Sa’eed said: I would sleep before `Isha`- I asked the Messenger of  Allah (ﷺ) about that and he granted me a concession."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

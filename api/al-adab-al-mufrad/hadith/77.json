@@ -1,0 +1,16 @@
+{
+  "id": 77,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ هِشَامٍ، عَنِ الْحَسَنِ قَالَ‏:‏ التَّسْلِيمُ تَطَوَّعٌ، وَالرَّدُّ فَرِيضَةٌ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Al-Hasan said, \"Greeting is an act of obedience while the answer\nis a duty.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

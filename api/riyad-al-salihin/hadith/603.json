@@ -1,0 +1,16 @@
+{
+  "id": 603,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه أنه مر على صبيان فسلم عليهم وقال‏:‏ كان النبي صلى الله عليه وسلم يفعله‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) passed by some children and greeted them (by saying As-salamu 'alaikum to them). Then he said:",
+    "text": "The Prophet (ﷺ) used to do the same.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

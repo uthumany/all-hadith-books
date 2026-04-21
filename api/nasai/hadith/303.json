@@ -1,0 +1,16 @@
+{
+  "id": 303,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ اشْتِمَالِ الصَّمَّاءِ وَأَنْ يَحْتَبِيَ فِي ثَوْبٍ وَاحِدٍ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Jabir that:",
+    "text": "\"The Messenger of Allah  forbade Ishtimal As-Samma' and wrapping oneself in a single garment (that did not cover the private parts).\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

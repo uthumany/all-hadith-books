@@ -1,0 +1,16 @@
+{
+  "id": 248,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَفَّانُ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ يُودَى الْمُكَاتَبُ بِقَدْرِ مَا أَدَّى‏.‏",
+  "english": {
+    "narrator": "It was narrated from `Ali bin Abi Talib (رضي الله عنه) that The Prophet (ﷺ) said:",
+    "text": "`Blood money will be paid for the mukatab (a slave with a contract of manumission) commensurate with as much as he had paid off.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

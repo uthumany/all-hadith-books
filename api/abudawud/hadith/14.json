@@ -1,0 +1,16 @@
+{
+  "id": 14,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رضى الله عنها، قَالَتْ مَا ضَرَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَادِمًا وَلاَ امْرَأَةً قَطُّ ‏.‏",
+  "english": {
+    "narrator": "`A’isha said:",
+    "text": "the Messenger of Allah (saws ) never struck a servant or a woman."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

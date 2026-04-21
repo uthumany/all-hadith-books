@@ -1,0 +1,510 @@
+{
+  "page": 113,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 114,
+  "prevPage": 112,
+  "items": [
+    {
+      "id": 102,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، ح وَحَدَّثَنَا يَحْيَى،\n بْنُ يَحْيَى أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ رُمِيَ سَعْدُ بْنُ مُعَاذٍ فِي أَكْحَلِهِ\n - قَالَ - فَحَسَمَهُ النَّبِيُّ صلى الله عليه وسلم بِيَدِهِ بِمِشْقَصٍ ثُمَّ وَرِمَتْ فَحَسَمَهُ الثَّانِيَةَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Jabir reported that Sa'd b. Mu'adh received a wound of the arrow in his vein. Allah's Messenger (ﷺ) cauterised it with a rod and it was swollen, to the Messenger of Allah (ﷺ) did it for the second time."
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَحْمَدُ بْنُ سَعِيدِ بْنِ صَخْرٍ الدَّارِمِيُّ، حَدَّثَنَا حَبَّانُ بْنُ هِلاَلٍ، حَدَّثَنَا وُهَيْبٌ،\n حَدَّثَنَا عَبْدُ اللَّهِ بْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم احْتَجَمَ\n وَأَعْطَى الْحَجَّامَ أَجْرَهُ وَاسْتَعَطَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn 'Abbas reported that Allah's Apostle (ﷺ) got himself cupped and gave to the cupper his wages and he put the medicine in the nostril."
+      }
+    },
+    {
+      "id": 104,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالَ أَبُو بَكْرٍ حَدَّثَنَا وَكِيعٌ، وَقَالَ،\n أَبُو كُرَيْبٍ - وَاللَّفْظُ لَهُ - أَخْبَرَنَا وَكِيعٌ، عَنْ مِسْعَرٍ، عَنْ عَمْرِو بْنِ عَامِرٍ الأَنْصَارِيِّ، قَالَ\n سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ احْتَجَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَكَانَ لاَ يَظْلِمُ أَحَدًا\n أَجْرَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Anas b. Malik reported that Allah's Messenger (ﷺ) got himself cupped and never withheld the wages of anyone."
+      }
+    },
+    {
+      "id": 105,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا يَحْيَى، - وَهُوَ ابْنُ سَعِيدٍ\n - عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْحُمَّى\n مِنْ فَيْحِ جَهَنَّمَ فَابْرُدُوهَا بِالْمَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Umar reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The fever from the vehement raging of the (heat of Hell), so cool it with the help of water."
+      }
+    },
+    {
+      "id": 106,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي وَمُحَمَّدُ بْنُ بِشْرٍ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،\n حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، وَمُحَمَّدُ بْنُ بِشْرٍ، قَالاَ حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ \n النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ شِدَّةَ الْحُمَّى مِنْ فَيْحِ جَهَنَّمَ فَابْرُدُوهَا بِالْمَاءِ ‏\"‏\n ‏.‏",
+      "english": {
+        "narrator": "Ibn Umar reported Allah's Apostle (ﷺ) as saying:",
+        "text": "Fever is due to vehemence of the heat of Hell, so cool it with water."
+      }
+    },
+    {
+      "id": 107,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي مَالِكٌ، ح وَحَدَّثَنَا مُحَمَّدُ،\n بْنُ رَافِعٍ حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، أَخْبَرَنَا الضَّحَّاكُ، - يَعْنِي ابْنَ عُثْمَانَ - كِلاَهُمَا عَنْ نَافِعٍ،\n عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْحُمَّى مِنْ فَيْحِ جَهَنَّمَ فَأَطْفِئُوهَا\n بِالْمَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Umar reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Fever is from the vehement raging of the fire of Hell, so extinguish it with water."
+      }
+    },
+    {
+      "id": 108,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ الْحَكَمِ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنِي \n هَارُونُ بْنُ عَبْدِ اللَّهِ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا رَوْحٌ، حَدَّثَنَا شُعْبَةُ، عَنْ عُمَرَ بْنِ مُحَمَّدِ بْنِ زَيْدٍ،\n عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْحُمَّى مِنْ فَيْحِ جَهَنَّمَ\n فَأَطْفِئُوهَا بِالْمَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Fever is from the vehement Paging of the Hell-fire, so cool it with water."
+      }
+    },
+    {
+      "id": 109,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ هِشَامٍ، عَنْ \n أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْحُمَّى مِنْ فَيْحِ جَهَنَّمَ فَابْرُدُوهَا\n بِالْمَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'A'isha reported Allah's messenger (ﷺ) as saying:",
+        "text": "Fever is from the vehement raging of the Hell-fire, so cool it with water."
+      }
+    },
+    {
+      "id": 110,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا خَالِدُ بْنُ الْحَارِثِ، وَعَبْدَةُ بْنُ سُلَيْمَانَ، جَمِيعًا\n عَنْ هِشَامٍ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Hisham with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 111,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ هِشَامٍ، عَنْ فَاطِمَةَ،\n عَنْ أَسْمَاءَ، أَنَّهَا كَانَتْ تُؤْتَى بِالْمَرْأَةِ الْمَوْعُوكَةِ فَتَدْعُو بِالْمَاءِ فَتَصُبُّهُ فِي جَيْبِهَا وَتَقُولُ\n إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ ابْرُدُوهَا بِالْمَاءِ ‏\"‏ ‏.‏ وَقَالَ ‏\"‏ إِنَّهَا مِنْ فَيْحِ\n جَهَنَّمَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Asma' reported that a woman running high fever was brought to her. She asked water to be brought and then sprinkled it in the opening of a shirt at the uppermost part of the chest and said that Allah's Messenger (ﷺ) had said:",
+        "text": "Cool (the fever) with water. for it is because of the vehemence of the beat of Hell."
+      }
+    },
+    {
+      "id": 112,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ نُمَيْرٍ، وَأَبُو أُسَامَةَ عَنْ هِشَامٍ، بِهَذَا الإِسْنَادِ ‏.‏ وَفِي\n حَدِيثِ ابْنِ نُمَيْرٍ صَبَّتِ الْمَاءَ بَيْنَهَا وَبَيْنَ جَيْبِهَا ‏.‏ وَلَمْ يَذْكُرْ فِي حَدِيثِ أَبِي أُسَامَةَ ‏\n\"‏ أَنَّهَا\n مِنْ فَيْحِ جَهَنَّمَ ‏\"‏ ‏.‏ قَالَ أَبُو أَحْمَدَ قَالَ إِبْرَاهِيمُ حَدَّثَنَا الْحَسَنُ بْنُ بِشْرٍ حَدَّثَنَا أَبُو أُسَامَةَ\n بِهَذَا الإِسْنَادِ ‏.‏",
+      "english": {
+        "narrator": "Hisham reported this hadith with the same chain of transmitters. In the hadith transmitted on the authority of Ibn Numair (the words are):",
+        "text": "\" She poured water on her sides and in the opening of the shirt at the uppermost part of the chest.\" There is no mention of these words:\" It is from the vehemence of the heat of the Hell.\" This hadith has been narrated on the authority of Abu Usama with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 113,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنْ عَبَايَةَ،\n بْنِ رِفَاعَةَ عَنْ جَدِّهِ، رَافِعِ بْنِ خَدِيجٍ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ\n ‏\n\"‏ إِنَّ الْحُمَّى فَوْرٌ مِنْ جَهَنَّمَ فَابْرُدُوهَا بِالْمَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Rafi' b. Khadij reported:",
+        "text": "I heard Allah's messenger (ﷺ) as saying: The fever is due to the intense heat of the Hell, so cool it with water."
+      }
+    },
+    {
+      "id": 114,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ حَاتِمٍ، وَأَبُو بَكْرِ بْنُ\n نَافِعٍ قَالُوا حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ أَبِيهِ، عَنْ عَبَايَةَ بْنِ رِفَاعَةَ، حَدَّثَنِي \n رَافِعُ بْنُ خَدِيجٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ الْحُمَّى مِنْ فَوْرِ جَهَنَّمَ\n فَابْرُدُوهَا عَنْكُمْ بِالْمَاءِ ‏\"‏ ‏.‏ وَلَمْ يَذْكُرْ أَبُو بَكْرٍ ‏\"‏ عَنْكُمْ ‏\"‏ ‏.‏ وَقَالَ قَالَ أَخْبَرَنِي رَافِعُ بْنُ\n خَدِيجٍ ‏.‏",
+      "english": {
+        "narrator": "Rafi' b. Khadij reported:",
+        "text": "I heard Allah's Messenger (ﷺ) as saying: The fever is due to the intense heat of Hell, so cool it down in your (bodies) with water. Aba Bakr has made no mention of the word\" from you\" ('ankum), but he said that Rafi' b. Khadij had informed him of it."
+      }
+    },
+    {
+      "id": 115,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ سُفْيَانَ، حَدَّثَنِي مُوسَى بْنُ أَبِي،\n عَائِشَةَ عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ عَائِشَةَ، قَالَتْ لَدَدْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم\n فِي مَرَضِهِ فَأَشَارَ أَنْ لاَ تَلُدُّونِي ‏.‏ فَقُلْنَا كَرَاهِيَةُ الْمَرِيضِ لِلدَّوَاءِ ‏.‏ فَلَمَّا أَفَاقَ قَالَ ‏\n\"‏ لاَ\n يَبْقَى أَحَدٌ مِنْكُمْ إِلاَّ لُدَّ غَيْرُ الْعَبَّاسِ فَإِنَّهُ لَمْ يَشْهَدْكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'A'isha reported:",
+        "text": "we (intended to pour) medicine in the mouth of Allah's Messenger (ﷺ) in his illness, but he pointed out (with the gesture of his hand) that it should not be poured into the mouth against his will. We said: (It was perhaps due to the natural) aversion of the patient against medicine. When he recovered, he said: Medicine should be poured into the mouth of every one of you except Ibn 'Abbas, for he was not present amongst you."
+      }
+    },
+    {
+      "id": 116,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَمْرٌو النَّاقِدُ وَزُهَيْرُ\n بْنُ حَرْبٍ وَابْنُ أَبِي عُمَرَ - وَاللَّفْظُ لِزُهَيْرٍ - قَالَ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرُونَ، حَدَّثَنَا سُفْيَانُ،\n بْنُ عُيَيْنَةَ عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ أُمِّ قَيْسٍ بِنْتِ مِحْصَنٍ، أُخْتِ عُكَّاشَةَ\n بْنِ مِحْصَنٍ قَالَتْ دَخَلْتُ بِابْنٍ لِي عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم لَمْ يَأْكُلِ الطَّعَامَ\n فَبَالَ عَلَيْهِ فَدَعَا بِمَاءٍ فَرَشَّهُ ‏.‏ \n قَالَتْ وَدَخَلْتُ عَلَيْهِ بِابْنٍ لِي قَدْ أَعْلَقْتُ عَلَيْهِ مِنَ الْعُذْرَةِ فَقَالَ ‏\n\"‏ عَلاَمَهْ تَدْغَرْنَ\n أَوْلاَدَكُنَّ بِهَذَا الْعِلاَقِ عَلَيْكُنَّ بِهَذَا الْعُودِ الْهِنْدِيِّ فَإِنَّ فِيهِ سَبْعَةَ أَشْفِيَةٍ مِنْهَا ذَاتُ الْجَنْبِ\n يُسْعَطُ مِنَ الْعُذْرَةِ وَيُلَدُّ مِنْ ذَاتِ الْجَنْبِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Umm Qais, daughter of Mihsan, the sister of 'Ukasha b. Mihsan said:",
+        "text": "I visited Allah's Messenger (ﷺ) along with my son who had not, by that time, been weaned and he urinated over his (clothes). He ordered water to be brought and sprinkled (it) over them. She (further) said: I visited him (Allah's Apostle) along with my son and I had squeezed the swelling in the uvula, whereupon he said: Why do you afflict your children by compressing like this? Use this Indian aloeswood, for it contains seven types of remedies, one among them being a remedy for pleurisy. It is applied through the nose for a swelling of the uvula and poured into the side of the mouth for pleurisy."
+      }
+    },
+    {
+      "id": 117,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ بْنُ يَزِيدَ، أَنَّ ابْنَ شِهَابٍ،\n أَخْبَرَهُ قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، أَنَّ أُمَّ قَيْسٍ بِنْتَ مِحْصَنٍ،\n - وَكَانَتْ مِنَ الْمُهَاجِرَاتِ الأُوَلِ اللاَّتِي بَايَعْنَ رَسُولَ اللَّهِ صلى الله عليه وسلم وَهِيَ أُخْتُ\n عُكَّاشَةَ بْنِ مِحْصَنٍ أَحَدِ بَنِي أَسَدِ بْنِ خُزَيْمَةَ - قَالَ أَخْبَرَتْنِي أَنَّهَا أَتَتْ رَسُولَ اللَّهِ صلى\n الله عليه وسلم بِابْنٍ لَهَا لَمْ يَبْلُغْ أَنْ يَأْكُلَ الطَّعَامَ وَقَدْ أَعْلَقَتْ عَلَيْهِ مِنَ الْعُذْرَةِ - قَالَ يُونُسُ\n أَعْلَقَتْ غَمَزَتْ فَهِيَ تَخَافُ أَنْ يَكُونَ بِهِ عُذْرَةٌ - قَالَتْ - فَقَالَ رَسُولُ اللَّهِ صلى الله عليه\n وسلم ‏\n\"‏ عَلاَمَهْ تَدْغَرْنَ أَوْلاَدَكُنَّ بِهَذَا الإِعْلاَقِ عَلَيْكُمْ بِهَذَا الْعُودِ الْهِنْدِيِّ - يَعْنِي بِهِ الْكُسْتَ\n - فَإِنَّ فِيهِ سَبْعَةَ أَشْفِيَةٍ مِنْهَا ذَاتُ الْجَنْبِ ‏\"‏ ‏.‏ \n قَالَ عُبَيْدُ اللَّهِ وَأَخْبَرَتْنِي أَنَّ ابْنَهَا ذَاكَ بَالَ فِي حَجْرِ رَسُولِ اللَّهِ صلى الله عليه\n وسلم فَدَعَا رَسُولُ اللَّهِ صلى الله عليه وسلم بِمَاءٍ فَنَضَحَهُ عَلَى بَوْلِهِ وَلَمْ يَغْسِلْهُ غَسْلاً\n ‏.‏",
+      "english": {
+        "narrator": "Umm Qais, daughter of Mihsan, was one of the earlier female emigrants who had pledged allegiance to Allah's Messenger (ﷺ). She was the sister of Ukasha b. Mihsan, one of the posterity of Asad b. Khuzaima. She reported that she came to Allah's messenger (ﷺ) along with her son who had not attained the age of weaning and she had compressed the swelling of his uvula. (Yunus said:",
+        "text": "She compressed the uvula because she was afraid that there might be swelling of uvula.) Thereupon Allah's Messenger (ﷺ) said: Why do you afflict your children by compressing in this way? You should use Indian aloeswood, for it has seven remedies in it, one of them being the remedy for pleurisy. Ubaidullah reported that she had told that that was the child who had urinated in the lap of Allah's Messenger (ﷺ), and Allah's Messenger (ﷺ) called for water and sprinkled it on his urine, but he did not wash it well."
+      }
+    },
+    {
+      "id": 118,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحِ بْنِ الْمُهَاجِرِ، أَخْبَرَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي \n أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، وَسَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ، أَخْبَرَهُمَا أَنَّهُ، سَمِعَ رَسُولَ\n اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِنَّ فِي الْحَبَّةِ السَّوْدَاءِ شِفَاءً مِنْ كُلِّ دَاءٍ إِلاَّ السَّامَ ‏\"‏\n ‏.‏ وَالسَّامُ الْمَوْتُ ‏.‏ وَالْحَبَّةُ السَّوْدَاءُ الشُّونِيزُ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported that he heard Allah's Messenger (ﷺ) as saying:",
+        "text": "Nigella seed is a remedy for every disease except death."
+      }
+    },
+    {
+      "id": 119,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ،\n شِهَابٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح \n وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، وَابْنُ أَبِي عُمَرَ،\n قَالُوا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ح وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ،\n ح وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، كُلُّهُمْ عَنِ \n الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِ حَدِيثِ عُقَيْلٍ\n وَفِي حَدِيثِ سُفْيَانَ وَيُونُسَ الْحَبَّةُ السَّوْدَاءُ ‏.‏ وَلَمْ يَقُلِ الشُّونِيزُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated through other chains of transmitters but with a slight variation of wording."
+      }
+    },
+    {
+      "id": 120,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَابْنُ، حُجْرٍ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ، -\n وَهُوَ ابْنُ جَعْفَرٍ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم\n قَالَ ‏\n\"‏ مَا مِنْ دَاءٍ إِلاَّ فِي الْحَبَّةِ السَّوْدَاءِ مِنْهُ شِفَاءٌ إِلاَّ السَّامَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no disease for which Nigella seed does not provide remedy."
+      }
+    },
+    {
+      "id": 121,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ بْنِ سَعْدٍ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، حَدَّثَنِي \n عُقَيْلُ بْنُ خَالِدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم\n أَنَّهَا كَانَتْ إِذَا مَاتَ الْمَيِّتُ مِنْ أَهْلِهَا فَاجْتَمَعَ لِذَلِكَ النِّسَاءُ ثُمَّ تَفَرَّقْنَ إِلاَّ أَهْلَهَا وَخَاصَّتَهَا\n - أَمَرَتْ بِبُرْمَةٍ مِنْ تَلْبِينَةٍ فَطُبِخَتْ ثُمَّ صُنِعَ ثَرِيدٌ فَصُبَّتِ التَّلْبِينَةُ عَلَيْهَا ثُمَّ قَالَتْ كُلْنَ مِنْهَا\n فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ التَّلْبِينَةُ مَجَمَّةٌ لِفُؤَادِ الْمَرِيضِ تُذْهِبُ\n بَعْضَ الْحُزْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'A'isha the wife of Allah's Apostle (ﷺ) said:",
+        "text": "When there was any bereavement in her family the women gathered there for condolence and they departed except the members of the family and some selected persons. She asked to prepare talbina in a small couldron and it was cooked and then tharid was prepared and it was poured over talbina, then she said: Eat it, for I heard Allah's Messenger (may peade be upon him) as saying: Talbina gives comfort to the aggrieved heart and it lessens grief."
+      }
+    },
+    {
+      "id": 122,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا \n مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَبِي الْمُتَوَكِّلِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ جَاءَ\n رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ إِنَّ أَخِي اسْتَطْلَقَ بَطْنُهُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى\n الله عليه وسلم ‏\"‏ اسْقِهِ عَسَلاً ‏\"‏ ‏.‏ فَسَقَاهُ ثُمَّ جَاءَهُ فَقَالَ إِنِّي سَقَيْتُهُ عَسَلاً فَلَمْ يَزِدْهُ إِلاَّ\n اسْتِطْلاَقًا ‏.‏ فَقَالَ لَهُ ثَلاَثَ مَرَّاتٍ ثُمَّ جَاءَ الرَّابِعَةَ فَقَالَ ‏\"‏ اسْقِهِ عَسَلاً ‏\"‏ ‏.‏ فَقَالَ لَقَدْ سَقَيْتُهُ\n فَلَمْ يَزِدْهُ إِلاَّ اسْتِطْلاَقًا ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ صَدَقَ اللَّهُ وَكَذَبَ بَطْنُ\n أَخِيكَ ‏\"‏ ‏.‏ فَسَقَاهُ فَبَرَأَ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id Khudri reported that a person came to Allah's Apostle (ﷺ) and told him that his brother's bowels were loose. Thereupon Allah's Messenger (ﷺ) said:",
+        "text": "Give him honey. So he gave him that and then came and said: I gave him honey but it has only made his bowels more loose. He said this three times; and then he came the fourth time, and he (the Holy Prophet) said: Give him honey. He said: I did give him, but it has only made his bowels more loose, whereupon Allah's Messenger (ﷺ) said: Allah has spoken the truth and your brother's bowels are in the wrong. So he made him drink (honey) and he was recovered."
+      }
+    },
+    {
+      "id": 123,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ عَمْرُو بْنُ زُرَارَةَ، أَخْبَرَنَا عَبْدُ الْوَهَّابِ، - يَعْنِي ابْنَ عَطَاءٍ - عَنْ سَعِيدٍ،\n عَنْ قَتَادَةَ، عَنْ أَبِي الْمُتَوَكِّلِ النَّاجِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَجُلاً، أَتَى النَّبِيَّ صلى الله\n عليه وسلم فَقَالَ إِنَّ أَخِي عَرِبَ بَطْنُهُ ‏.‏ فَقَالَ لَهُ ‏\n\"‏ اسْقِهِ عَسَلاً ‏\"‏ ‏.‏ بِمَعْنَى حَدِيثِ شُعْبَةَ\n ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Abu Sa'id Khudri through another chain of transmitters but with a slight variation of wording."
+      }
+    },
+    {
+      "id": 124,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، وَأَبِي النَّضْرِ،\n مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ أَبِيهِ، أَنَّهُ سَمِعَهُ يَسْأَلُ، أُسَامَةَ\n بْنَ زَيْدٍ مَاذَا سَمِعْتَ مِنْ، رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الطَّاعُونِ فَقَالَ أُسَامَةُ قَالَ\n رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ الطَّاعُونُ رِجْزٌ أَوْ عَذَابٌ أُرْسِلَ عَلَى بَنِي إِسْرَائِيلَ أَوْ\n عَلَى مَنْ كَانَ قَبْلَكُمْ فَإِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلاَ تَقْدَمُوا عَلَيْهِ وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا\n فَلاَ تَخْرُجُوا فِرَارًا مِنْهُ ‏\"‏ ‏.‏ وَقَالَ أَبُو النَّضْرِ ‏\"‏ لاَ يُخْرِجُكُمْ إِلاَّ فِرَارٌ مِنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Amir b. Sa'd b. Abu Waqqas reported on the authority of his father that he asked Usama b. Zaid:",
+        "text": "What have you heard from Allah's Messenger (ﷺ) about plague? Thereupon Usama said: Allah's Messenger (ﷺ) said: Plague is a calamity which was sent to Bani Isra'il or upon those who were before you. So when you hear that it has broken out in a land, don't go to it, and when it has broken out in the land where you are, don't run out of it. In the narration transmitted on the authority of Abu Nadr there is a slight variation of wording."
+      }
+    },
+    {
+      "id": 125,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، قَالاَ أَخْبَرَنَا الْمُغِيرَةُ، -\n وَنَسَبَهُ ابْنُ قَعْنَبٍ فَقَالَ ابْنُ عَبْدِ الرَّحْمَنِ الْقُرَشِيُّ - عَنْ أَبِي النَّضْرِ، عَنْ عَامِرِ بْنِ سَعْدِ،\n بْنِ أَبِي وَقَّاصٍ عَنْ أُسَامَةَ بْنِ زَيْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الطَّاعُونُ\n آيَةُ الرِّجْزِ ابْتَلَى اللَّهُ عَزَّ وَجَلَّ بِهِ نَاسًا مِنْ عِبَادِهِ فَإِذَا سَمِعْتُمْ بِهِ فَلاَ تَدْخُلُوا عَلَيْهِ وَإِذَا\n وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَفِرُّوا مِنْهُ ‏\"‏ ‏.‏ هَذَا حَدِيثُ الْقَعْنَبِيِّ وَقُتَيْبَةَ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "Usama b. Zaid reported that Allah's Messenger (ﷺ) had said:",
+        "text": "Plague is the sign of a calamity with which Allah, the Exalted and Glorious, affects people from His servants. So when you hear about it, don't enter there (where it has broken out), and when it has broken out in a land and you are there, then don't run away from it."
+      }
+    },
+    {
+      "id": 126,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سُفْيَانُ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،\n عَنْ عَامِرِ بْنِ سَعْدٍ، عَنْ أُسَامَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ هَذَا الطَّاعُونَ\n رِجْزٌ سُلِّطَ عَلَى مَنْ كَانَ قَبْلَكُمْ أَوْ عَلَى بَنِي إِسْرَائِيلَ فَإِذَا كَانَ بِأَرْضٍ فَلاَ تَخْرُجُوا مِنْهَا\n فِرَارًا مِنْهُ وَإِذَا كَانَ بِأَرْضٍ فَلاَ تَدْخُلُوهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Usama reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Plague is a calamity which was inflicted on those who were before you, or upon Bani Isra'il. So when it has broken out in a land, don't run out of it, and when it has spread in a land, then don't enter it."
+      }
+    },
+    {
+      "id": 127,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَمْرُو،\n بْنُ دِينَارٍ أَنَّ عَامِرَ بْنَ سَعْدٍ، أَخْبَرَهُ أَنَّ رَجُلاً سَأَلَ سَعْدَ بْنَ أَبِي وَقَّاصٍ عَنِ الطَّاعُونِ،\n فَقَالَ أُسَامَةُ بْنُ زَيْدٍ أَنَا أُخْبِرُكَ عَنْهُ، قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ هُوَ عَذَابٌ\n أَوْ رِجْزٌ أَرْسَلَهُ اللَّهُ عَلَى طَائِفَةٍ مِنْ بَنِي إِسْرَائِيلَ أَوْ نَاسٍ كَانُوا قَبْلَكُمْ فَإِذَا سَمِعْتُمْ بِهِ\n بِأَرْضٍ فَلاَ تَدْخُلُوهَا عَلَيْهِ وَإِذَا دَخَلَهَا عَلَيْكُمْ فَلاَ تَخْرُجُوا مِنْهَا فِرَارًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Amir b. Sa'd reported that a person asked Sa'd b. Abu Waqqas about the plague, whereupon Usama b. Zaid said:",
+        "text": "I would inform you about it. The Messenger of Allah (ﷺ) said: It is a calamity or a disease which Allah sent to a group of Bani Isra'il, or to the people who were before you; so when you hear of it in land, don't enter it and when it has broken out in your land, don't run away from it."
+      }
+    },
+    {
+      "id": 128,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو الرَّبِيعِ، سُلَيْمَانُ بْنُ دَاوُدَ وَقُتَيْبَةُ بْنُ سَعِيدٍ قَالاَ حَدَّثَنَا حَمَّادٌ، وَهُوَ\n ابْنُ زَيْدٍ ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، كِلاَهُمَا عَنْ عَمْرِو بْنِ،\n دِينَارٍ بِإِسْنَادِ ابْنِ جُرَيْجٍ نَحْوَ حَدِيثِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Ibn Juraij through another chain of transmitters."
+      }
+    },
+    {
+      "id": 129,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، أَحْمَدُ بْنُ عَمْرٍو وَحَرْمَلَةُ بْنُ يَحْيَى قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ،\n أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عَامِرُ بْنُ سَعْدٍ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، عَنْ رَسُولِ\n اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ إِنَّ هَذَا الْوَجَعَ أَوِ السَّقَمَ رِجْزٌ عُذِّبَ بِهِ بَعْضُ الأُمَمِ\n قَبْلَكُمْ ثُمَّ بَقِيَ بَعْدُ بِالأَرْضِ فَيَذْهَبُ الْمَرَّةَ وَيَأْتِي الأُخْرَى فَمَنْ سَمِعَ بِهِ بِأَرْضٍ فَلاَ يَقْدَمَنَّ\n عَلَيْهِ وَمَنْ وَقَعَ بِأَرْضٍ وَهُوَ بِهَا فَلاَ يُخْرِجَنَّهُ الْفِرَارُ مِنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Usama b. Zaid reported Allah's Messenger (ﷺ) having said this:",
+        "text": "This calamity or illness was a punishment with which were punished some of the nations before you. Then it was left upon the earth. It goes away once and comes back again. He who heard of its presence in a land should not go towards it, and he who happened to be in a land where it had broken out should not fly from it."
+      }
+    },
+    {
+      "id": 130,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ أَبُو كَامِلٍ الْجَحْدَرِيُّ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، - يَعْنِي ابْنَ زِيَادٍ - حَدَّثَنَا \n مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِإِسْنَادِ يُونُسَ نَحْوَ حَدِيثِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Zuhri with a different chain of transmitters."
+      }
+    },
+    {
+      "id": 131,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ حَبِيبٍ، قَالَ كُنَّا بِالْمَدِينَةِ\n فَبَلَغَنِي أَنَّ الطَّاعُونَ قَدْ وَقَعَ بِالْكُوفَةِ فَقَالَ لِي عَطَاءُ بْنُ يَسَارٍ وَغَيْرُهُ إِنَّ رَسُولَ اللَّهِ\n صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا كُنْتَ بِأَرْضٍ فَوَقَعَ بِهَا فَلاَ تَخْرُجْ مِنْهَا وَإِذَا بَلَغَكَ أَنَّهُ\n بِأَرْضٍ فَلاَ تَدْخُلْهَا ‏\"‏ ‏.‏ قَالَ قُلْتُ عَمَّنْ قَالُوا عَنْ عَامِرِ بْنِ سَعْدٍ يُحَدِّثُ بِهِ ‏.‏ قَالَ فَأَتَيْتُهُ\n فَقَالُوا غَائِبٌ - قَالَ - فَلَقِيتُ أَخَاهُ إِبْرَاهِيمَ بْنَ سَعْدٍ فَسَأَلْتُهُ فَقَالَ شَهِدْتُ أُسَامَةَ يُحَدِّثُ\n سَعْدًا قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ إِنَّ هَذَا الْوَجَعَ رِجْزٌ أَوْ عَذَابٌ\n أَوْ بَقِيَّةُ عَذَابٍ عُذِّبَ بِهِ أُنَاسٌ مِنْ قَبْلِكُمْ فَإِذَا كَانَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا مِنْهَا\n وَإِذَا بَلَغَكُمْ أَنَّهُ بِأَرْضٍ فَلاَ تَدْخُلُوهَا ‏\"‏ ‏.‏ قَالَ حَبِيبٌ فَقُلْتُ لإِبْرَاهِيمَ آنْتَ سَمِعْتَ أُسَامَةَ\n يُحَدِّثُ سَعْدًا وَهُوَ لاَ يُنْكِرُ قَالَ نَعَمْ ‏.‏",
+      "english": {
+        "narrator": "Shu'ba reported from Habib:",
+        "text": "While we were in Medina we heard of plague having broken out in Kufa. 'Ata b. Yasir and others said to me that Allah's Messenger (ﷺ) had said. If you are in a land where it (this scourge) has broken out, don't get out of it, and if you were to know that it had broken (in another land, then don't enter it. I said to him: From whom (did you hear it)? They said: 'Amir b. Sa'd has narrated it. So I came to him. They said that he was not present there. So I met his brother Ibrahim b. Sa'd and asked him. He said: I bear testimony to the fact that Usama narrated it to Sa'd saying: I heard Allah's Messenger (ﷺ) as saying that it is a God-sent punishment from the calamity or from the remnant of the calamity with which people were afflicted before you. So when it is in a land and you are there, don't get out of it, and if (this news reaches you) that it has broken out in a land, then don't enter therein. Habib said: I said to Ibrahim: Did you hear Usama narrating it to Sa'd and he was not denying it. He said: Yes."
+      }
+    },
+    {
+      "id": 132,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّهُ لَمْ\n يَذْكُرْ قِصَّةَ عَطَاءِ بْنِ يَسَارٍ فِي أَوَّلِ الْحَدِيثِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters except for the fact that no mention has been made of the account of 'Ata b. Yasir as in the previous hadith."
+      }
+    },
+    {
+      "id": 133,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ حَبِيبٍ، عَنْ إِبْرَاهِيمَ،\n بْنِ سَعْدٍ عَنْ سَعْدِ بْنِ مَالِكٍ، وَخُزَيْمَةَ بْنِ ثَابِتٍ، وَأُسَامَةَ بْنِ زَيْدٍ، قَالُوا قَالَ رَسُولُ اللَّهِ صلى\n الله عليه وسلم بِمَعْنَى حَدِيثِ شُعْبَةَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of Sa'd b. Malik, Khuzaima b. Thabit and Usama b. Zaid."
+      }
+    },
+    {
+      "id": 134,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، كِلاَهُمَا عَنْ جَرِيرٍ، عَنِ الأَعْمَشِ،\n عَنْ حَبِيبٍ، عَنْ إِبْرَاهِيمَ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، قَالَ كَانَ أُسَامَةُ بْنُ زَيْدٍ وَسَعْدٌ جَالِسَيْنِ\n يَتَحَدَّثَانِ فَقَالاَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِنَحْوِ حَدِيثِهِمْ ‏.‏",
+      "english": {
+        "narrator": "Ibrahim b. Sa'd b. Abu Waqqas reported:",
+        "text": "Usama b. Zaid and Sa'd had been sitting and they had been conversing and they said this hadith."
+      }
+    },
+    {
+      "id": 135,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ وَهْبُ بْنُ بَقِيَّةَ، أَخْبَرَنَا خَالِدٌ، - يَعْنِي الطَّحَّانَ - عَنِ الشَّيْبَانِيِّ، عَنْ حَبِيبِ،\n بْنِ أَبِي ثَابِتٍ عَنْ إِبْرَاهِيمَ بْنِ سَعْدِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏\n بِنَحْوِ حَدِيثِهِمْ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted by Ibrahim b. Sa'd b. Malik on the authority of his father."
+      }
+    },
+    {
+      "id": 136,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنْ عَبْدِ،\n الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ زَيْدِ بْنِ الْخَطَّابِ عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ الْحَارِثِ بْنِ نَوْفَلٍ،\n عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، خَرَجَ إِلَى الشَّامِ حَتَّى إِذَا كَانَ بِسَرْغَ لَقِيَهُ\n أَهْلُ الأَجْنَادِ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ وَأَصْحَابُهُ فَأَخْبَرُوهُ أَنَّ الْوَبَاءَ قَدْ وَقَعَ بِالشَّامِ ‏.‏ قَالَ\n ابْنُ عَبَّاسٍ فَقَالَ عُمَرُ ادْعُ لِيَ الْمُهَاجِرِينَ الأَوَّلِينَ ‏.‏ فَدَعَوْتُهُمْ فَاسْتَشَارَهُمْ وَأَخْبَرَهُمْ\n أَنَّ الْوَبَاءَ قَدْ وَقَعَ بِالشَّامِ فَاخْتَلَفُوا فَقَالَ بَعْضُهُمْ قَدْ خَرَجْتَ لأَمْرٍ وَلاَ نَرَى أَنْ تَرْجِعَ\n عَنْهُ ‏.‏ وَقَالَ بَعْضُهُمْ مَعَكَ بَقِيَّةُ النَّاسِ وَأَصْحَابُ رَسُولِ اللَّهِ صلى الله عليه وسلم وَلاَ نَرَى\n أَنْ تُقْدِمَهُمْ عَلَى هَذَا الْوَبَاءِ ‏.‏ فَقَالَ ارْتَفِعُوا عَنِّي ‏.‏ ثُمَّ قَالَ ادْعُ لِيَ الأَنْصَارَ فَدَعَوْتُهُمْ لَهُ\n فَاسْتَشَارَهُمْ فَسَلَكُوا سَبِيلَ الْمُهَاجِرِينَ وَاخْتَلَفُوا كَاخْتِلاَفِهِمْ ‏.‏ فَقَالَ ارْتَفِعُوا عَنِّي ‏.‏ ثُمَّ\n قَالَ ادْعُ لِي مَنْ كَانَ هَا هُنَا مِنْ مَشْيَخَةِ قُرَيْشٍ مِنْ مُهَاجِرَةِ الْفَتْحِ ‏.‏ فَدَعَوْتُهُمْ فَلَمْ يَخْتَلِفْ\n عَلَيْهِ رَجُلاَنِ فَقَالُوا نَرَى أَنْ تَرْجِعَ بِالنَّاسِ وَلاَ تُقْدِمْهُمْ عَلَى هَذَا الْوَبَاءِ ‏.‏ فَنَادَى عُمَرُ\n فِي النَّاسِ إِنِّي مُصْبِحٌ عَلَى ظَهْرٍ فَأَصْبِحُوا عَلَيْهِ ‏.‏ فَقَالَ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ أَفِرَارًا\n مِنْ قَدَرِ اللَّهِ فَقَالَ عُمَرُ لَوْ غَيْرُكَ قَالَهَا يَا أَبَا عُبَيْدَةَ - وَكَانَ عُمَرُ يَكْرَهُ خِلاَفَهُ - نَعَمْ\n نَفِرُّ مِنْ قَدَرِ اللَّهِ إِلَى قَدَرِ اللَّهِ أَرَأَيْتَ لَوْ كَانَتْ لَكَ إِبِلٌ فَهَبَطْتَ وَادِيًا لَهُ عِدْوَتَانِ إِحْدَاهُمَا\n خَصْبَةٌ وَالأُخْرَى جَدْبَةٌ أَلَيْسَ إِنْ رَعَيْتَ الْخَصْبَةَ رَعَيْتَهَا بِقَدَرِ اللَّهِ وَإِنْ رَعَيْتَ الْجَدْبَةَ رَعَيْتَهَا\n بِقَدَرِ اللَّهِ قَالَ فَجَاءَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ وَكَانَ مُتَغَيِّبًا فِي بَعْضِ حَاجَتِهِ فَقَالَ إِنَّ عِنْدِي\n مِنْ هَذَا عِلْمًا سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلاَ\n تَقْدَمُوا عَلَيْهِ وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا فِرَارًا مِنْهُ ‏\"‏ ‏.‏ قَالَ فَحَمِدَ اللَّهَ عُمَرُ\n بْنُ الْخَطَّابِ ثُمَّ انْصَرَفَ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Abbas reported:",
+        "text": "Umar b. Khattab set out for Syria. As he came at Sargh (a town by the side of Hijaz on the way to Syria), there met him the commander of the forces, Abu Ubaida b. Jandb, and his companions. They informed him that a scourge had broken out in Syria. Ibn 'Abbas further reported that 'Umar said: Call to me tile earliest emigrants. So I called them. He (Hadrat 'Umar) sought their advice, and they told him that the scourge had broker, out in Syria. There was a difference of opinion (whether they should proceed further or go back to their homes in such a situation). Some of them said: You ('Umar) have set forth for a task, and, therefore, we would not advise you to go back, whereas some of them said: You have along with you the remnants (of the sacred galaxy) of men and (the blessed) Companions of Allah's Messenger (ﷺ), so we would not advise you to go forth towards this calamity (with such eminent persons and thus expose them deliberately to a danger). He (Hadrat 'Umar) said: You can now go away. He said: Call to me the Ansar. So I called them to him, and he consulted them, and they trod the same path as was trodden by the Muhajirin, and they differed in their opinions as they had differed. He said: Now, you can go. He again said: Call to me the old persons of the Quraish who had migrated before the Victory (that is the Victory of Mecca), so I called them (and Hadrat 'Umar consulted them) and not even two persons differed (from the opinion held by the earlier delegates). They said: Our opinion is that you better go back along with the people and do not make them go to this scourge, So 'Umar made announcement to the people: In the morning I would be on the back of my side. So they (set forth in the morning), whereupon Abu 'Ubaida b. Jarrah said: Are you going to run away from the Divine Decree? Thereupon 'Umar said: Had it been someone else to say this besides you! 'Umar (in fact) did not approve of his opposing (this decision) and he said: Yes, we are running from the Divine Decree (to the) Divine Decree. You should think if there had been camels for you and you happened to get down in a valley having two sides, one of them covered with verdure and the other being barren, would you not (be doing) according to the Divine Decree if you graze them in verdure? And in case you graze them in the barren land (even then you would be grazing them) according to the Divine Decree. \nThere happened to come 'Abd al-Rahman b. 'Auf and he had been absent in connection with some of his needs. He said: I have with me a knowledge of it, that I heard Allah's Messenger (ﷺ) as saying: If you hear of its presence (the presence of plague) in a land, don't enter it, but if it spreads in the land where you are, don't fly from it. Thereupon 'Umar b. Khattab praised Allah and then went back?"
+      }
+    },
+    {
+      "id": 137,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَ ابْنُ رَافِعٍ\n حَدَّثَنَا وَقَالَ الآخَرَانِ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، بِهَذَا الإِسْنَادِ ‏.‏ نَحْوَ حَدِيثِ مَالِكٍ\n وَزَادَ فِي حَدِيثِ مَعْمَرٍ قَالَ وَقَالَ لَهُ أَيْضًا أَرَأَيْتَ أَنَّهُ لَوْ رَعَى الْجَدْبَةَ وَتَرَكَ الْخَصْبَةَ أَكُنْتَ\n مُعَجِّزَهُ قَالَ نَعَمْ ‏.‏ قَالَ فَسِرْ إِذًا ‏.‏ قَالَ فَسَارَ حَتَّى أَتَى الْمَدِينَةَ فَقَالَ هَذَا الْمَحِلُّ ‏.‏ أَوْ\n قَالَ هَذَا الْمَنْزِلُ إِنْ شَاءَ اللَّهُ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been reported on the authority of Ma'mar with the same chain of transmitters but with this addition:",
+        "text": "\" Do you think that he would graze in the barren land but would abandon the green land? Would you not attribute it to be a failing on his part? He said: Yes. He said: Then proceed. And he moved on until he came to Medina. And he said to me: This is the right place, or he said: That is the destination if Allah so wills.\""
+      }
+    },
+    {
+      "id": 138,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ،\n عَنِ ابْنِ شِهَابٍ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّهُ قَالَ إِنَّ عَبْدَ اللَّهِ بْنَ الْحَارِثِ حَدَّثَهُ ‏.‏ وَلَمْ يَقُلْ عَبْدِ\n اللَّهِ بْنِ عَبْدِ اللَّهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of 'Abdullah b. Harith with a slight variation of wording."
+      }
+    },
+    {
+      "id": 139,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنْ عَبْدِ اللَّهِ بْنِ،\n عَامِرِ بْنِ رَبِيعَةَ أَنَّ عُمَرَ، خَرَجَ إِلَى الشَّامِ فَلَمَّا جَاءَ سَرْغَ بَلَغَهُ أَنَّ الْوَبَاءَ قَدْ وَقَعَ بِالشَّامِ\n ‏.‏ فَأَخْبَرَهُ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا سَمِعْتُمْ\n بِهِ بِأَرْضٍ فَلاَ تَقْدَمُوا عَلَيْهِ ‏.‏ وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا فِرَارًا مِنْهُ ‏\"‏ ‏.‏ فَرَجَعَ\n عُمَرُ بْنُ الْخَطَّابِ مِنْ سَرْغَ ‏.‏ وَعَنِ ابْنِ شِهَابٍ عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ أَنَّ عُمَرَ إِنَّمَا انْصَرَفَ\n بِالنَّاسِ مِنْ حَدِيثِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ ‏.‏",
+      "english": {
+        "narrator": "'Amir b. Rabi'ah reported:",
+        "text": "'Umar went to Syria and as he came to Sargh, information was given to him that an epidemic had broken out in Syria. 'Abd al-Rahman b. 'Auf narrated to him that Allah's Messenger (ﷺ) had said: When you hear of its presence in a land, don't move towards it, and when it breaks out in a land and you are therein, then don't run away from it. So 'Umar b. Khattab came back from Sargh. Salim b. 'Abdullah reported that 'Umar went back, along with people on hearing the hadith reported on the authority of 'Abd al-Rahman b. 'Auf."
+      }
+    },
+    {
+      "id": 140,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، - وَاللَّفْظُ لأَبِي الطَّاهِرِ - قَالاَ أَخْبَرَنَا \n ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، قَالَ ابْنُ شِهَابٍ فَحَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي،\n هُرَيْرَةَ حِينَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ عَدْوَى وَلاَ صَفَرَ وَلاَ هَامَةَ ‏\"‏ ‏.‏ فَقَالَ\n أَعْرَابِيٌّ يَا رَسُولَ اللَّهِ فَمَا بَالُ الإِبِلِ تَكُونُ فِي الرَّمْلِ كَأَنَّهَا الظِّبَاءُ فَيَجِيءُ الْبَعِيرُ الأَجْرَبُ\n فَيَدْخُلُ فِيهَا فَيُجْرِبُهَا كُلَّهَا قَالَ ‏\"‏ فَمَنْ أَعْدَى الأَوَّلَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no infection, no safar, no hama. A desert Arab said: Allah's Messenger, how is it that when the camel is in the sand it is like a deer-then a camel afflicted with scab mixes with it and it is affected by sub? He (the Holy Prophet) said: Who infected the first one?\n\n\nNote: The majority of scholars interpret this to mean that these things in and of themselves do not transmit or cause harm through supernatural or hidden means but that Allah is ultimately in control and any fearful superstition around these is false."
+      }
+    },
+    {
+      "id": 141,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، وَحَسَنٌ الْحُلْوَانِيُّ، قَالاَ حَدَّثَنَا يَعْقُوبُ، - وَهُوَ ابْنُ إِبْرَاهِيمَ\n بْنِ سَعْدٍ - حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، وَغَيْرُهُ،\n أَنَّ أَبَا هُرَيْرَةَ، قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ عَدْوَى وَلاَ طِيَرَةَ وَلاَ\n صَفَرَ وَلاَ هَامَةَ ‏\"‏ ‏.‏ فَقَالَ أَعْرَابِيٌّ يَا رَسُولَ اللَّهِ ‏.‏ بِمِثْلِ حَدِيثِ يُونُسَ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no transitive disease, no evil omen, no safar, no hama. A desert Arab said: Allah's, Messenger.... The rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 142,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، عَنْ شُعَيْبٍ، عَنِ \n الزُّهْرِيِّ، أَخْبَرَنِي سِنَانُ بْنُ أَبِي سِنَانٍ الدُّؤَلِيُّ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه\n وسلم ‏\"‏ لاَ عَدْوَى ‏\"‏ ‏.‏ فَقَامَ أَعْرَابِيٌّ ‏.‏ فَذَكَرَ بِمِثْلِ حَدِيثِ يُونُسَ وَصَالِحٍ ‏.‏ وَعَنْ شُعَيْبٍ\n عَنِ الزُّهْرِيِّ قَالَ حَدَّثَنِي السَّائِبُ بْنُ يَزِيدَ ابْنُ أُخْتِ نَمِرٍ أَنَّ النَّبِيَّ صلى الله عليه وسلم\n قَالَ ‏\"‏ لاَ عَدْوَى وَلاَ صَفَرَ وَلاَ هَامَةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no trahsitive disease. Thereupon a desert Arab stood up. The rest of the hadith is the same and in the hadith transmitted on the authority of Zuhri' the Prophet (ﷺ) is reported to have said: There is no transitive disease, no safar, no hama."
+      }
+    },
+    {
+      "id": 143,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، - وَتَقَارَبَا فِي اللَّفْظِ - قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ،\n أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، حَدَّثَهُ أَنَّ رَسُولَ\n اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ عَدْوَى ‏\"‏ ‏.‏ وَيُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم\n قَالَ ‏\"‏ لاَ يُورِدُ مُمْرِضٌ عَلَى مُصِحٍّ ‏\"‏ ‏.‏ \n قَالَ أَبُو سَلَمَةَ كَانَ أَبُو هُرَيْرَةَ يُحَدِّثُهُمَا كِلْتَيْهِمَا عَنْ رَسُولِ اللَّهِ صلى الله عليه\n وسلم ثُمَّ صَمَتَ أَبُو هُرَيْرَةَ بَعْدَ ذَلِكَ عَنْ قَوْلِهِ ‏\"‏ لاَ عَدْوَى ‏\"‏ ‏.‏ وَأَقَامَ عَلَى ‏\"‏ أَنْ لاَ يُورِدُ\n مُمْرِضٌ عَلَى مُصِحٍّ ‏\"‏ ‏.‏ قَالَ فَقَالَ الْحَارِثُ بْنُ أَبِي ذُبَابٍ - وَهُوَ ابْنُ عَمِّ أَبِي هُرَيْرَةَ -\n قَدْ كُنْتُ أَسْمَعُكَ يَا أَبَا هُرَيْرَةَ تُحَدِّثَنَا مَعَ هَذَا الْحَدِيثِ حَدِيثًا آخَرَ قَدْ سَكَتَّ عَنْهُ كُنْتَ\n تَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ عَدْوَى ‏\"‏ ‏.‏ فَأَبَى أَبُو هُرَيْرَةَ أَنْ يَعْرِفَ\n ذَلِكَ وَقَالَ ‏\"‏ لاَ يُورِدُ مُمْرِضٌ عَلَى مُصِحٍّ ‏\"‏ ‏.‏ فَمَا رَآهُ الْحَارِثُ فِي ذَلِكَ حَتَّى غَضِبَ أَبُو\n هُرَيْرَةَ فَرَطَنَ بِالْحَبَشِيَّةِ فَقَالَ لِلْحَارِثِ أَتَدْرِي مَاذَا قُلْتُ قَالَ لاَ ‏.‏ قَالَ أَبُو هُرَيْرَةَ ‏.‏ قُلْتُ\n أَبَيْتُ ‏.‏ قَالَ أَبُو سَلَمَةَ وَلَعَمْرِي لَقَدْ كَانَ أَبُو هُرَيْرَةَ يُحَدِّثُنَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه\n وسلم قَالَ ‏\"‏ لاَ عَدْوَى ‏\"‏ ‏.‏ فَلاَ أَدْرِي أَنَسِيَ أَبُو هُرَيْرَةَ أَوْ نَسَخَ أَحَدُ الْقَوْلَيْنِ الآخَرَ",
+      "english": {
+        "narrator": "Abu Salama h. 'Abd al-Rahman b. 'Auf reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no transitive disease, but he is also reported to have said: A sick person should not be taken to one who is healthy. Abu Salama said that Abu Huraira used to narrate these two (different ahadith) from Allah's Messenger (ﷺ), but afterwards Abu Huraira became silent on these words:\" There is no transitive disease,\" but he stuck to this that the sick person should not be taken to one who is healthy. Harith b. Abu Dhubab (and he was the first cousin of Abu Huraira) said: Abu Huraira, I used to hear from you that you narrated to us along with this hadith and the other one also (there is no transitive disease), but now you observe silence about it. You used to say that Allah's Messenger (ﷺ) said: There is no transitive disease. Abu Huraira denied having any knowledge of that, but he said that the sick camel should not be taken to the healthy one. Harith, however, did not agree with him, which irritated Abu Huraira and he said to him some words in the Abyssinian language. He said to Harith: Do you know what I said to you? He said: No. Abu Huraira said: I simply denied having said it. Abu Salama sad: By my life, Abu Huraira in fact used to report Allah's Messenger (ﷺ) having said: There is no transitive disease. I do not know whether Abu Huraira has forgotten it or he deemed it an abrogated statement in the light of the other one."
+      }
+    },
+    {
+      "id": 144,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، وَحَسَنٌ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَ عَبْدٌ حَدَّثَنِي وَقَالَ،\n الآخَرَانِ حَدَّثَنَا يَعْقُوبُ، - يَعْنُونَ ابْنَ إِبْرَاهِيمَ بْنِ سَعْدٍ - حَدَّثَنِي أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ،\n شِهَابٍ أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى\n الله عليه وسلم قَالَ ‏\"‏ لاَ عَدْوَى ‏\"‏ ‏.‏ وَيُحَدِّثُ مَعَ ذَلِكَ ‏\"‏ لاَ يُورِدُ الْمُمْرِضُ عَلَى الْمُصِحِّ\n ‏\"‏ ‏.‏ بِمِثْلِ حَدِيثِ يُونُسَ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no transitive disease and he also reported along with it: The ill should not be taken to the healthy."
+      }
+    },
+    {
+      "id": 145,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَاهُ عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، حَدَّثَنَا شُعَيْبٌ، عَنِ \n الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been reported on the authority of Zuhri with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 146,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنُونَ ابْنَ\n جَعْفَرٍ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ\n ‏\n\"‏ لاَ عَدْوَى وَلاَ هَامَةَ وَلاَ نَوْءَ وَلاَ صَفَرَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no transitive disease, no huma, no star promising rain, no safar."
+      }
+    },
+    {
+      "id": 147,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، ح \n وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ\n رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ عَدْوَى وَلاَ طِيَرَةَ وَلاَ غُولَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir reported Allal's Messenger (ﷺ) as saying:",
+        "text": "There is no transitive disease, no ill omen, no ghoul.\n\n\nNote: The majority of scholars interpret this to mean that these things in and of themselves do not transmit or cause harm through supernatural or hidden means but that Allah is ultimately in control and any fearful superstition around these is false."
+      }
+    },
+    {
+      "id": 148,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَبْدُ اللَّهِ بْنُ هَاشِمِ بْنِ حَيَّانَ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا يَزِيدُ، - وَهُوَ التُّسْتَرِيُّ\n - حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ عَدْوَى وَلاَ\n غُولَ وَلاَ صَفَرَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There is no transitive disease, no ghoul, no safar."
+      }
+    },
+    {
+      "id": 149,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو\n الزُّبَيْرِ أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\"‏ لاَ عَدْوَى\n وَلاَ صَفَرَ وَلاَ غُولَ ‏\"‏ ‏.‏ وَسَمِعْتُ أَبَا الزُّبَيْرِ يَذْكُرُ أَنَّ جَابِرًا فَسَّرَ لَهُمْ قَوْلَهُ ‏\"‏ وَلاَ صَفَرَ ‏\"‏\n ‏.‏ فَقَالَ أَبُو الزُّبَيْرِ الصَّفَرُ الْبَطْنُ ‏.‏ فَقِيلَ لِجَابِرٍ كَيْفَ قَالَ كَانَ يُقَالُ دَوَابُّ الْبَطْنِ ‏.‏ قَالَ وَلَمْ\n يُفَسِّرِ الْغُولَ ‏.‏ قَالَ أَبُو الزُّبَيْرِ هَذِهِ الْغُولُ الَّتِي تَغَوَّلُ ‏.‏",
+      "english": {
+        "narrator": "Jabir b. 'Abdullah reported Allah's Apostle (ﷺ) as saying:",
+        "text": "There is no transitive disease, no safar, no ghoul. He (the narrator) said: I heard Abu Zubair say: Jabir explained for them the word safar. Abu Zubair said: safar means belly. It was said to Jabir: Why is it so? He said that it was held that safar implied the worms of the belly, but he gave no explanation of ghoul. Abu Zubair said: Ghoul is that which kills the travellers."
+      }
+    },
+    {
+      "id": 150,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ،\n اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ أَنَّ أَبَا هُرَيْرَةَ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\"‏\n لاَ طِيَرَةَ وَخَيْرُهَا الْفَأْلُ ‏\"‏ ‏.‏ قِيلَ يَا رَسُولَ اللَّهِ وَمَا الْفَأْلُ قَالَ ‏\"‏ الْكَلِمَةُ الصَّالِحَةُ يَسْمَعُهَا\n أَحَدُكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported:",
+        "text": "I heard Allah's Messenger (ﷺ) as saying: There is no divination but the best type is the good omen. It was said to Allah's Messenger (ﷺ): What is good omen? Thereupon he said: A good word which one of you hears."
+      }
+    },
+    {
+      "id": 151,
+      "chapterId": 39,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، حَدَّثَنِي عُقَيْلُ بْنُ،\n خَالِدٍ ح وَحَدَّثَنِيهِ عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، كِلاَهُمَا\n عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ ‏.‏ وَفِي حَدِيثِ عُقَيْلٍ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم\n ‏.‏ وَلَمْ يَقُلْ سَمِعْتُ ‏.‏ وَفِي حَدِيثِ شُعَيْبٍ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم كَمَا قَالَ\n مَعْمَرٌ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Zuhri with the same chain of transmitters but with a slight variation of wording."
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 475,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو سَعِيدٍ الأَشَجُّ قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الأَعْمَشُ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "A hadith like this has been narrated by A'mash with the same chain of transmitters."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

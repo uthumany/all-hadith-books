@@ -1,0 +1,16 @@
+{
+  "id": 542,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، وَعَبْدُ الرَّزَّاقِ، أَخْبَرَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ قَيْسٍ، عَنِ الْحَكَمِ، عَنِ الْقَاسِمِ بْنِ مُخَيْمِرَةَ، عَنْ شُرَيْحِ بْنِ هَانِئٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ جَعَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِلْمُسَافِرِ ثَلَاثَةَ أَيَّامٍ وَلَيَالِيَهُنَّ وَلِلْمُقِيمِ يَوْمًا وَلَيْلَةً‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) allowed three days and nights for the traveller and one day and night for one who is not travelling (i.e., with regard to wiping over the khuffain or leather slippers)"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

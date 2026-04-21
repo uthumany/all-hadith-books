@@ -1,0 +1,16 @@
+{
+  "id": 21,
+  "chapterId": 7,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَتَّابٌ، حَدَّثَنَا عَبْدُ اللَّهِ، حَدَّثَنَا فُلَيْحُ بْنُ مُحَمَّدٍ، عَنِ الْمُنْذِرِ بْنِ الزُّبَيْرِ، رَضِيَ اللَّهُ عَنْهُ عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَعْطَى الزُّبَيْرَ سَهْمًا وَأُمَّهُ سَهْمًا وَفَرَسَهُ سَهْمَيْنِ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "It was narrated from al Mundhir bin az-Zubair (رضي الله عنه) from his father that The Prophet (ﷺ) gave a share to az-Zubair, a share to his mother, and two shares to his horse."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

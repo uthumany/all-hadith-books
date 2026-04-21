@@ -1,0 +1,16 @@
+{
+  "id": 490,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُكْثِرُ أَنْ يَقُولَ فِي رُكُوعِهِ وَسُجُودِهِ ‏\n\"‏ سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اللَّهُمَّ اغْفِرْ لِي ‏\"‏‏.‏ يَتَأَوَّلُ الْقُرْآنَ‏.‏",
+  "english": {
+    "narrator": "Narrated Aisha:",
+    "text": "Allah's Messenger (ﷺ) used to say very often in bowing and prostration (during his prayers), Subhanka \nAllahumma Rabbana wa bihamdika; Allahumma ighfirli,\" according to the order of the Qur'an."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

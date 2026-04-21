@@ -1,0 +1,16 @@
+{
+  "id": 94,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ, وَمَا زَادَ اَللَّهُ عَبْدًا بِعَفْوٍ إِلَّا عِزًّا, وَمَا تَوَاضَعَ أَحَدٌ لِلَّهِ إِلَّا رَفَعَهُ }  أَخْرَجَهُ مُسْلِمٌ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2588)‏ وزاد:\" الله\".‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Sadaqah does not decrease property and Allah increases the honor of him who forgives and no one will humble himself for Allah’s sake except that Allah raises his status.” Related by Muslim."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

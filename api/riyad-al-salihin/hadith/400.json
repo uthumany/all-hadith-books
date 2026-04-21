@@ -1,0 +1,16 @@
+{
+  "id": 400,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عمر رضي الله عنهما أن رسول الله، صلى الله عليه وسلم، قال‏\n\"‏ يقوم الناس لرب العالمين حتى يغيب أحدهم في رشحه إلى أنصاف أذنيه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏\n\n‏‏(‏‏(‏و‏ ‏الرشح‏ :‏ العرق‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar (May Allah be pleased with them) reported:",
+    "text": "I heard Messenger of Allah (ﷺ) as saying, \"Mankind will stand before Allah, the Rubb of the worlds (on the Day of Resurrection), some of them will stand submerged in perspiration up to half of their ears\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 480,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، عَنْ إِسْرَائِيلَ، وَعَلِيِّ بْنِ صَالِحٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ شُرَيْحِ بْنِ النُّعْمَانِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ أَمَرَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ نَسْتَشْرِفَ الْعَيْنَ وَالْأُذُنَ وَلَا نُضَحِّيَ بِشَرْقَاءَ وَلَا خَرْقَاءَ وَلَا مُقَابَلَةٍ وَلَا مُدَابَرَةٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) instructed us to check the eyes and ears, and not to sacrifice any animal whose ears are slit in two lengthwise, any animal that has a round hole in its ear as a distinguishing mark, any animal that has the edge of its ears cut, or any animal whose ears were slit from the back."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

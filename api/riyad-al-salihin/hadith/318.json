@@ -1,0 +1,16 @@
+{
+  "id": 318,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه أن رجلاً قَالَ : يَا رَسُول الله ! إنّ لِي قَرابةً أصِلُهُمْ وَيَقْطَعُوني ، وَأُحْسِنُ إلَيْهِمْ وَيُسِيئُونَ إلَيَّ ، وَأحْلَمُ عَنْهُمْ وَيَجْهَلُونَ عَلَيَّ ، فَقَالَ : \n\" لَئِنْ كُنْتَ كَمَا قُلْتَ ، فَكأنَّمَا تُسِفُّهُمْ الْمَلَّ ، وَلا يَزَالُ مَعَكَ مِنَ اللهِ ظَهِيرٌ عَلَيْهِمْ مَا دُمْتَ عَلَى ذلِكَ \". ((رواه مسلم)).",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "A man said to Messenger of Allah (ﷺ): \"I have relatives with whom I try to keep the ties of relationship but they sever relations with me; and whom I treat kindly but they treat me badly, I am gentle with them but they are rough to me.\" He (ﷺ) replied, \"If you are as you say, it is as if you are feeding them hot ashes, and you will be with a supporter against them from Allah as long as you continue to do so\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

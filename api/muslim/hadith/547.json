@@ -1,0 +1,16 @@
+{
+  "id": 547,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، وَابْنُ، نُمَيْرٍ عَنْ هِشَامِ بْنِ عُرْوَةَ، بِهَذَا الإِسْنَادِ ‏.‏ نَحْوَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This hadith has been narrated by Hisham b. 'Urwa with the same chain of transmitters."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

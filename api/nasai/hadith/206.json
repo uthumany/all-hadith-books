@@ -1,0 +1,16 @@
+{
+  "id": 206,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ مَعْمَرٍ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ كَانَ يَكْرَهُ أَنْ يَجْعَلَ، نَطْلَ النَّبِيذِ فِي النَّبِيذِ لِيَشْتَدَّ بِالنَّطْلِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Sa'eed bin Al-Musayyib that:",
+    "text": "He disliked putting the dregs of Nabidh into (new) Nabidh lest it become strong because of the dregs."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

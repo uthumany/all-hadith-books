@@ -1,0 +1,16 @@
+{
+  "id": 252,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، وَسُلَيْمَانُ بْنُ دَاوُدَ، قَالاَ حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ صَوَّرَ صُورَةً عَذَّبَهُ اللَّهُ بِهَا يَوْمَ الْقِيَامَةِ حَتَّى يَنْفُخَ فِيهَا وَلَيْسَ بِنَافِخٍ وَمَنْ تَحَلَّمَ كُلِّفَ أَنْ يَعْقِدَ شَعِيرَةً وَمَنِ اسْتَمَعَ إِلَى حَدِيثِ قَوْمٍ يَفِرُّونَ بِهِ مِنْهُ صُبَّ فِي أُذُنِهِ الآنُكُ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Ibn ‘Abbas reported the Prophet (ﷺ) as saying :",
+    "text": "If anyone makes a representation of anything, Allah will punish him on the Day of Resurrection for it until he breathes into it, but he will be unable to do so. If anyone pretends to have had a dream which he did not see, he will be ordered to tie a knot in a grain of barley. If anyone listens to other people’s talk when they try to avoid him, lead will be poured into his ears on the Day of Resurrection."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

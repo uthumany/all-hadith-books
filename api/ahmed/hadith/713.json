@@ -1,0 +1,16 @@
+{
+  "id": 713,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي حَجَّاحُ بْنُ الشَّاعِرِ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنِي نُعَيْمُ بْنُ حَكِيمٍ، حَدَّثَنِي أَبُو مَرْيَمَ، وَرَجُلٌ، مِنْ جُلَسَاءِ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ عَنْ عَلِيٍّ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ يَوْمَ غَدِيرِ خُمٍّ مَنْ كُنْتُ مَوْلَاهُ فَعَلِيٌّ مَوْلَاهُ قَالَ فَزَادَ النَّاسُ بَعْدُ وَالِ مَنْ وَالَاهُ وَعَادِ مَنْ عَادَاهُ‏.‏",
+  "english": {
+    "narrator": "It was narrated from `Ali (رضي الله عنه) that The Prophet (ﷺ) said on the day of Ghadeer Khumm:",
+    "text": "`If I am a person`s mawla (friend and supporter) then `Ali is also his mawla.” And the people added after that: `So take as friends those who take him as a friend and take as enemies those who take him as an enemy.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

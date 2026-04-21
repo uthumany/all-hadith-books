@@ -1,0 +1,510 @@
+{
+  "page": 23,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 24,
+  "prevPage": 22,
+  "items": [
+    {
+      "id": 711,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ خُبَيْبٍ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ مَعْنٍ، عَنْ بِنْتِ الْحَارِثِ بْنِ النُّعْمَانِ، قَالَتْ مَا حَفِظْتُ ق إِلاَّ مِنْ فِي رَسُولِ اللَّهِ صلى الله عليه وسلم كَانَ يَخْطُبُ بِهَا كُلَّ جُمُعَةٍ قَالَتْ وَكَانَ تَنُّورُ رَسُولِ اللَّهِ صلى الله عليه وسلم وَتَنُّورُنَا وَاحِدًا قَالَ أَبُو دَاوُدَ قَالَ رَوْحُ بْنُ عُبَادَةَ عَنْ شُعْبَةَ قَالَ بِنْتِ حَارِثَةَ بْنِ النُّعْمَانِ وَقَالَ ابْنُ إِسْحَاقَ أُمِّ هِشَامٍ بِنْتِ حَارِثَةَ بْنِ النُّعْمَانِ ‏.‏",
+      "english": {
+        "narrator": "Bint al-Harith b. al-Nu'man said:",
+        "text": "I memorized Surah al-Qaf from the mouth of the Messenger of Allah (ﷺ); he would recite it in his speech on every friday. Our oven and his oven were same.\n\n\nAbu Dawud said: Rawh b. 'Ubadah reported on the authority of Shu'bah the name Bint Harithah b. al-Nu'man ; and Ibn Ishaq reported the name of Umm Hisham hint Harithah b. al-Nu'man."
+      }
+    },
+    {
+      "id": 712,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي سِمَاكٌ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ كَانَتْ صَلاَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم قَصْدًا وَخُطْبَتُهُ قَصْدًا يَقْرَأُ آيَاتٍ مِنَ الْقُرْآنِ وَيُذَكِّرُ النَّاسَ ‏.‏",
+      "english": {
+        "narrator": "Jabir b. Samurah said:",
+        "text": "The prayer offered by the Messenger of Allah (ﷺ) was moderate, and the sermon given by him was (also) moderate. He would recite a few verses from the Qur'an and exhort the people."
+      }
+    },
+    {
+      "id": 713,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، حَدَّثَنَا مَرْوَانُ، حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ أُخْتِهَا، قَالَتْ مَا أَخَذْتُ ق إِلاَّ مِنْ فِي رَسُولِ اللَّهِ صلى الله عليه وسلم كَانَ يَقْرَؤُهَا فِي كُلِّ جُمُعَةٍ ‏.‏ قَالَ أَبُو دَاوُدَ كَذَا رَوَاهُ يَحْيَى بْنُ أَيُّوبَ وَابْنُ أَبِي الرِّجَالِ عَنْ يَحْيَى بْنِ سَعِيدٍ عَنْ عَمْرَةَ عَنْ أُمِّ هِشَامٍ بِنْتِ حَارِثَةَ بْنِ النُّعْمَانِ ‏.‏",
+      "english": {
+        "narrator": "'Umrah reported on the authority of her sister:",
+        "text": "I memorized Surah al-Qaf from the mouth of the Messenger of Allah (ﷺ); he used to recite it on every friday.\n\n\nAbu Dawud said: This tradition has been narrated in a similar way by Yahya b. Ayyub, Ibn Abu Ar-Rijal, from Yahya b. Sa'id, from 'Umrah from Umm Hisham hint Harithah b. al-Nu'man."
+      }
+    },
+    {
+      "id": 714,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا ابْنُ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يَحْيَى بْنُ أَيُّوبَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ أُخْتٍ، لِعَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ كَانَتْ أَكْبَرَ مِنْهَا بِمَعْنَاهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This tradition has also been transmitted to the same effect through a different chain of narrators by 'Umrah from her sister 'Umrah daughter of 'Abd al-Rahman who was older than her."
+      }
+    },
+    {
+      "id": 715,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زَائِدَةُ، عَنْ حُصَيْنِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ رَأَى عُمَارَةُ بْنُ رُؤَيْبَةَ بِشْرَ بْنَ مَرْوَانَ وَهُوَ يَدْعُو فِي يَوْمِ جُمُعَةٍ فَقَالَ عُمَارَةُ قَبَّحَ اللَّهُ هَاتَيْنِ الْيَدَيْنِ ‏.‏ قَالَ زَائِدَةُ قَالَ حُصَيْنٌ حَدَّثَنِي عُمَارَةُ قَالَ لَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم وَهُوَ عَلَى الْمِنْبَرِ مَا يَزِيدُ عَلَى هَذِهِ يَعْنِي السَّبَّابَةَ الَّتِي تَلِي الإِبْهَامَ ‏.‏",
+      "english": {
+        "narrator": "'Umarah b. Ruwaibah said that he saw Bishr b. Marwan (on the pulpit) praying on Friday (by raising his hands). 'Umarah said:",
+        "text": "May Allah reject these hands! I have seen the Messenger of Allah (ﷺ) on the pulpit gesturing no more than this pointing with his forefinger."
+      }
+    },
+    {
+      "id": 716,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرٌ، - يَعْنِي ابْنَ الْمُفَضَّلِ - حَدَّثَنَا عَبْدُ الرَّحْمَنِ، - يَعْنِي ابْنَ إِسْحَاقَ - عَنْ عَبْدِ الرَّحْمَنِ بْنِ مُعَاوِيَةَ، عَنِ ابْنِ أَبِي ذُبَابٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، قَالَ مَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم شَاهِرًا يَدَيْهِ قَطُّ يَدْعُو عَلَى مِنْبَرِهِ وَلاَ عَلَى غَيْرِهِ وَلَكِنْ رَأَيْتُهُ يَقُولُ هَكَذَا وَأَشَارَ بِالسَّبَّابَةِ وَعَقَدَ الْوُسْطَى بِالإِبْهَامِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl ibn Sa'd:",
+        "text": "I never saw the Messenger of Allah (ﷺ) raising his hands and praying on the pulpit or otherwise. But I saw him saying (doing) this way, and he would point with his forefinger making a circle by joining the middle finger with his thumb."
+      }
+    },
+    {
+      "id": 717,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الْعَلاَءُ بْنُ صَالِحٍ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنْ أَبِي رَاشِدٍ، عَنْ عَمَّارِ بْنِ يَاسِرٍ، قَالَ أَمَرَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم بِإِقْصَارِ الْخُطَبِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ammar ibn Yasir:",
+        "text": "The Messenger of Allah (ﷺ) commanded us to shorten the speeches."
+      }
+    },
+    {
+      "id": 718,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، حَدَّثَنَا الْوَلِيدُ، أَخْبَرَنِي شَيْبَانُ أَبُو مُعَاوِيَةَ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ السُّوَائِيِّ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم لاَ يُطِيلُ الْمَوْعِظَةَ يَوْمَ الْجُمُعَةِ إِنَّمَا هُنَّ كَلِمَاتٌ يَسِيرَاتٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Samurah as-Suwa'i:",
+        "text": "The Messenger of Allah (ﷺ) would not lengthen the sermon on Friday. He would say a few words."
+      }
+    },
+    {
+      "id": 719,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ وَجَدْتُ فِي كِتَابِ أَبِي بِخَطِّ يَدِهِ وَلَمْ أَسْمَعْهُ مِنْهُ قَالَ قَتَادَةُ عَنْ يَحْيَى بْنِ مَالِكٍ عَنْ سَمُرَةَ بْنِ جُنْدُبٍ أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ احْضُرُوا الذِّكْرَ وَادْنُوا مِنَ الإِمَامِ فَإِنَّ الرَّجُلَ لاَ يَزَالُ يَتَبَاعَدُ حَتَّى يُؤَخَّرَ فِي الْجَنَّةِ وَإِنْ دَخَلَهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Samurah ibn Jundub:",
+        "text": "The Prophet (ﷺ) said: Attend the sermon (on Friday) and sit near the imam, for a man keeps himself away until he will be left behind at the time of entering Paradise though he enters it."
+      }
+    },
+    {
+      "id": 720,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، أَنَّ زَيْدَ بْنَ حُبَابٍ، حَدَّثَهُمْ حَدَّثَنَا حُسَيْنُ بْنُ وَاقِدٍ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَقْبَلَ الْحَسَنُ وَالْحُسَيْنُ - رضى الله عنهما - عَلَيْهِمَا قَمِيصَانِ أَحْمَرَانِ يَعْثُرَانِ وَيَقُومَانِ فَنَزَلَ فَأَخَذَهُمَا فَصَعِدَ بِهِمَا الْمِنْبَرَ ثُمَّ قَالَ ‏\"‏ صَدَقَ اللَّهُ ‏{‏ إِنَّمَا أَمْوَالُكُمْ وَأَوْلاَدُكُمْ فِتْنَةٌ ‏}‏ رَأَيْتُ هَذَيْنِ فَلَمْ أَصْبِرْ ‏\"‏ ‏.‏ ثُمَّ أَخَذَ فِي الْخُطْبَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Buraydah ibn al-Hasib:",
+        "text": "The Messenger of Allah (ﷺ) delivered a speech to us; meanwhile al-Hasan and al-Husayn came upon there stumbling, wearing red shirts. He came down from the pulpit, took them and ascended it with them. He then said: Allah truly said: \"Your property and your children are only trial\" (Ixiv.15). I saw both of them, and I could not wait. Afterwards he resumed the speech."
+      }
+    },
+    {
+      "id": 721,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَوْفٍ، حَدَّثَنَا الْمُقْرِئُ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي أَيُّوبَ، عَنْ أَبِي مَرْحُومٍ، عَنْ سَهْلِ بْنِ مُعَاذِ بْنِ أَنَسٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْحُبْوَةِ يَوْمَ الْجُمُعَةِ وَالإِمَامُ يَخْطُبُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "The Messenger of Allah (ﷺ) prohibited to sit on hips by erecting feet, sticking them to the stomach and holding them with hands on Friday while the imam is delivering the sermon."
+      }
+    },
+    {
+      "id": 722,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا دَاوُدُ بْنُ رُشَيْدٍ، حَدَّثَنَا خَالِدُ بْنُ حَيَّانَ الرَّقِّيُّ، حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ اللَّهِ بْنِ الزِّبْرِقَانِ، عَنْ يَعْلَى بْنِ شَدَّادِ بْنِ أَوْسٍ، قَالَ شَهِدْتُ مَعَ مُعَاوِيَةَ بَيْتَ الْمَقْدِسِ فَجَمَّعَ بِنَا فَنَظَرْتُ فَإِذَا جُلُّ مَنْ فِي الْمَسْجِدِ أَصْحَابُ النَّبِيِّ صلى الله عليه وسلم فَرَأَيْتُهُمْ مُحْتَبِينَ وَالإِمَامُ يَخْطُبُ ‏.‏ قَالَ أَبُو دَاوُدَ كَانَ ابْنُ عُمَرَ يَحْتَبِي وَالإِمَامُ يَخْطُبُ وَأَنَسُ بْنُ مَالِكٍ وَشُرَيْحٌ وَصَعْصَعَةُ بْنُ صُوحَانَ وَسَعِيدُ بْنُ الْمُسَيَّبِ وَإِبْرَاهِيمُ النَّخَعِيُّ وَمَكْحُولٌ وَإِسْمَاعِيلُ بْنُ مُحَمَّدِ بْنِ سَعْدٍ وَنُعَيْمُ بْنُ سَلاَمَةَ قَالَ لاَ بَأْسَ بِهَا ‏.‏ قَالَ أَبُو دَاوُدَ وَلَمْ يَبْلُغْنِي أَنَّ أَحَدًا كَرِهَهَا إِلاَّ عُبَادَةُ بْنُ نُسَىٍّ ‏.‏",
+      "english": {
+        "narrator": "Ya'la b. Shaddad b. Aws said:",
+        "text": "I came to Mu'awiyah in Jerusalem. He led us in the Friday prayer. I saw that most of the people in the mosque were the Companions of the Prophet (ﷺ). I saw them sitting in ihtiba condition, i.e. sitting on hips erecting the feet and sticking them to the stomach and holding them with hands or tying them with a cloth to the back, while the imam was giving sermon.\n\n\nAbu Dawud said: Ibn 'Umar used to sit in ihtiba position while the imam gave the Friday sermon. Anas b. Malik, Shuraih, Sa'sa'ah b. Sawhan, Sa'id b. al-Musayyib, Ibrahim al-Nakha'i, Makhul, Isma'il, Ismail b. Muhammad b. Sa'd, and Nu'aim b. Sulamah said: There is no harm in sitting in ihtiba position.\n\n\nAbu Dawud said: I do not know whether anyone considered it disapproved except 'Ubadah b. Nasayy."
+      }
+    },
+    {
+      "id": 723,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا قُلْتَ أَنْصِتْ وَالإِمَامُ يَخْطُبُ فَقَدْ لَغَوْتَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "When you tell (your brother on Friday) to be silent while the imam is giving the sermon you are guilty of idle talk."
+      }
+    },
+    {
+      "id": 724,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، وَأَبُو كَامِلٍ قَالاَ حَدَّثَنَا يَزِيدُ، عَنْ حَبِيبٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ يَحْضُرُ الْجُمُعَةَ ثَلاَثَةُ نَفَرٍ رَجُلٌ حَضَرَهَا يَلْغُو وَهُوَ حَظُّهُ مِنْهَا وَرَجُلٌ حَضَرَهَا يَدْعُو فَهُوَ رَجُلٌ دَعَا اللَّهَ عَزَّ وَجَلَّ إِنْ شَاءَ أَعْطَاهُ وَإِنْ شَاءَ مَنَعَهُ وَرَجُلٌ حَضَرَهَا بِإِنْصَاتٍ وَسُكُوتٍ وَلَمْ يَتَخَطَّ رَقَبَةَ مُسْلِمٍ وَلَمْ يُؤْذِ أَحَدًا فَهِيَ كَفَّارَةٌ إِلَى الْجُمُعَةِ الَّتِي تَلِيهَا وَزِيَادَةُ ثَلاَثَةِ أَيَّامٍ وَذَلِكَ بِأَنَّ اللَّهَ عَزَّ وَجَلَّ يَقُولُ ‏{‏ مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا ‏}‏ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "The Prophet (ﷺ) said: Three types of people attend Friday prayer; One is present in a frivolous way and that is all he gets from it; another comes with a supplication, Allah may grant or refuse his request as He wishes; another is present silently and quietly with-out stepping over a Muslim or annoying anyone, and that is an atonement for his sins till the next Friday and three days more, the reason being that Allah, the Exalted, says: \"He who does a good deed will have ten times as much\" (vi.160)."
+      }
+    },
+    {
+      "id": 725,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْحَسَنِ الْمِصِّيصِيُّ، حَدَّثَنَا حَجَّاجٌ، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي هِشَامُ بْنُ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِذَا أَحْدَثَ أَحَدُكُمْ فِي صَلاَتِهِ فَلْيَأْخُذْ بِأَنْفِهِ ثُمَّ لْيَنْصَرِفْ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ حَمَّادُ بْنُ سَلَمَةَ وَأَبُو أُسَامَةَ عَنْ هِشَامٍ عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ إِذَا دَخَلَ وَالإِمَامُ يَخْطُبُ ‏\"‏ ‏.‏ لَمْ يَذْكُرَا عَائِشَةَ رضى الله عنها ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Prophet (ﷺ) said: When one of you becomes defiled during prayer, he should hold his nose and then turn away.\n\n\n\n\nAbu Dawud said: This tradition has been narrated by Hammad b. Salamah and Abu Usamah from Hisham on the authority of his father from the Prophet (Saws). They did not mention the name of 'Aishah."
+      }
+    },
+    {
+      "id": 726,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرٍو، - وَهُوَ ابْنُ دِينَارٍ - عَنْ جَابِرٍ، أَنَّ رَجُلاً، جَاءَ يَوْمَ الْجُمُعَةِ وَالنَّبِيُّ صلى الله عليه وسلم يَخْطُبُ فَقَالَ ‏\"‏ أَصَلَّيْتَ يَا فُلاَنُ ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ قَالَ ‏\"‏ قُمْ فَارْكَعْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir said:",
+        "text": "A man came (to the mosque) while the Prophet (ﷺ) was giving the (Friday) sermon. He asked: Did you pray, so-and-so? He replied: No. He (ﷺ) said: Stand and pray."
+      }
+    },
+    {
+      "id": 727,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَحْبُوبٍ، وَإِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، - الْمَعْنَى - قَالاَ حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، وَعَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالاَ جَاءَ سُلَيْكٌ الْغَطَفَانِيُّ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ فَقَالَ لَهُ ‏\"‏ أَصَلَّيْتَ شَيْئًا ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ قَالَ ‏\"‏ صَلِّ رَكْعَتَيْنِ تَجَوَّزْ فِيهِمَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir and Abu Salih reported on the authority of Abu Hurairah:",
+        "text": "Sulaik al-Ghatafani came (to the mosque) while the Messenger of Allah (ﷺ) was giving the (Friday) sermon. He asked him: Did you pray something ? He said: No. He said: Offer two rak'ahs and make them short."
+      }
+    },
+    {
+      "id": 728,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ سَعِيدٍ، عَنِ الْوَلِيدِ أَبِي بِشْرٍ، عَنْ طَلْحَةَ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يُحَدِّثُ أَنَّ سُلَيْكًا، جَاءَ فَذَكَرَ نَحْوَهُ زَادَ ثُمَّ أَقْبَلَ عَلَى النَّاسِ قَالَ ‏\n\"‏ إِذَا جَاءَ أَحَدُكُمْ وَالإِمَامُ يَخْطُبُ فَلْيُصَلِّ رَكْعَتَيْنِ يَتَجَوَّزُ فِيهِمَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This tradition has also been transmitted through a different chain of narrators by Jabir b. 'Abd Allah. This version adds:",
+        "text": "He (the Prophet) turned to the people and said: When one of you comes (on Friday) while the imam is preaching, he should pray two rak'ahs and make them short."
+      }
+    },
+    {
+      "id": 729,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ، حَدَّثَنَا بِشْرُ بْنُ السَّرِيِّ، حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ، عَنْ أَبِي الزَّاهِرِيَّةِ، قَالَ كُنَّا مَعَ عَبْدِ اللَّهِ بْنِ بُسْرٍ صَاحِبِ النَّبِيِّ صلى الله عليه وسلم يَوْمَ الْجُمُعَةِ فَجَاءَ رَجُلٌ يَتَخَطَّى رِقَابَ النَّاسِ فَقَالَ عَبْدُ اللَّهِ بْنُ بُسْرٍ جَاءَ رَجُلٌ يَتَخَطَّى رِقَابَ النَّاسِ يَوْمَ الْجُمُعَةِ وَالنَّبِيُّ صلى الله عليه وسلم يَخْطُبُ فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ اجْلِسْ فَقَدْ آذَيْتَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu al-Zahiriyyah said:",
+        "text": "We were in the company of 'Abd Allah b. Busr, the Companion of the Prophet (ﷺ), on a Friday. A man came and stepped over the people. 'Abd Allah b. Busr said: A man came and stepped over the people while the Prophet (ﷺ) was giving the sermon on Friday. The Prophet (ﷺ) said: Sit down, you have annoyed (the people)."
+      }
+    },
+    {
+      "id": 730,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ عَبْدَةَ، عَنِ ابْنِ إِسْحَاقَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِذَا نَعَسَ أَحَدُكُمْ وَهُوَ فِي الْمَسْجِدِ فَلْيَتَحَوَّلْ مِنْ مَجْلِسِهِ ذَلِكَ إِلَى غَيْرِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "The Prophet (ﷺ) said: When any of you dozes in the mosque (on Friday), he should change his place."
+      }
+    },
+    {
+      "id": 731,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، عَنْ جَرِيرٍ، - هُوَ ابْنُ حَازِمٍ لاَ أَدْرِي كَيْفَ قَالَهُ مُسْلِمٌ أَوْ لاَ - عَنْ ثَابِتٍ عَنْ أَنَسٍ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَنْزِلُ مِنَ الْمِنْبَرِ فَيَعْرِضُ لَهُ الرَّجُلُ فِي الْحَاجَةِ فَيَقُومُ مَعَهُ حَتَّى يَقْضِيَ حَاجَتَهُ ثُمَّ يَقُومُ فَيُصَلِّي ‏.‏ قَالَ أَبُو دَاوُدَ الْحَدِيثُ لَيْسَ بِمَعْرُوفٍ عَنْ ثَابِتٍ هُوَ مِمَّا تَفَرَّدَ بِهِ جَرِيرُ بْنُ حَازِمٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "I saw the Apostle (ﷺ) would descend from the pulpit and a man stop him for his need. He would remain standing with him until his need was fulfilled. Then he would stand and  pray.\n\n\n\nAbu Dawud said: This tradition is not well known from the narrator Thabit. Jarir b. Hazim is the only narrator of this tradition."
+      }
+    },
+    {
+      "id": 732,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَدْرَكَ رَكْعَةً مِنَ الصَّلاَةِ فَقَدْ أَدْرَكَ الصَّلاَةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "If anyone obtains a rak'ah in the prayer (along with the imam), he has obtained the whole prayer."
+      }
+    },
+    {
+      "id": 733,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ، عَنْ أَبِيهِ، عَنْ حَبِيبِ بْنِ سَالِمٍ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقْرَأُ فِي الْعِيدَيْنِ وَيَوْمِ الْجُمُعَةِ بِـ ‏{‏ سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى ‏}‏ وَ ‏{‏ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ ‏}‏ قَالَ وَرُبَّمَا اجْتَمَعَا فِي يَوْمٍ وَاحِدٍ فَقَرَأَ بِهِمَا ‏.‏",
+      "english": {
+        "narrator": "Al-Nu'man b. Bashir said:",
+        "text": "The Messenger of Allah (ﷺ) used to recite at the two 'Ids (festivals) and on Friday, \"Glorify the name of your most high Lord.\" (87) and \"Has the story of the overwhelming reached you?\" (88) He said: When a festival ('Id) and a Friday coincided, he recited them both (at the two prayers)."
+      }
+    },
+    {
+      "id": 734,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ ضَمْرَةَ بْنِ سَعِيدٍ الْمَازِنِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ الضَّحَّاكَ بْنَ قَيْسٍ، سَأَلَ النُّعْمَانَ بْنَ بَشِيرٍ مَاذَا كَانَ يَقْرَأُ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ الْجُمُعَةِ عَلَى إِثْرِ سُورَةِ الْجُمُعَةِ فَقَالَ كَانَ يَقْرَأُ ‏{‏ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Al-Dahhak b. Qais asked al-Nu'man b. Bashir:",
+        "text": "What did the Messenger of Allah (ﷺ) recited on Friday after reciting the Surah al-Jumu'ah (62). He replied: He used to recite, \"Had the story of overwhelming event reached you ?\" (88)."
+      }
+    },
+    {
+      "id": 735,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، حَدَّثَنَا سُلَيْمَانُ، - يَعْنِي ابْنَ بِلاَلٍ - عَنْ جَعْفَرٍ، عَنْ أَبِيهِ، عَنِ ابْنِ أَبِي رَافِعٍ، قَالَ صَلَّى بِنَا أَبُو هُرَيْرَةَ يَوْمَ الْجُمُعَةِ فَقَرَأَ بِسُورَةِ الْجُمُعَةِ وَفِي الرَّكْعَةِ الآخِرَةِ ‏{‏ إِذَا جَاءَكَ الْمُنَافِقُونَ ‏}‏ قَالَ فَأَدْرَكْتُ أَبَا هُرَيْرَةَ حِينَ انْصَرَفَ فَقُلْتُ لَهُ إِنَّكَ قَرَأْتَ بِسُورَتَيْنِ كَانَ عَلِيٌّ - رضى الله عنه - يَقْرَأُ بِهِمَا بِالْكُوفَةِ ‏.‏ قَالَ أَبُو هُرَيْرَةَ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقْرَأُ بِهِمَا يَوْمَ الْجُمُعَةِ ‏.‏",
+      "english": {
+        "narrator": "Ibn Abi Rafi' said:",
+        "text": "Abu Hurairah led us in the Friday prayer and recited Surah al-Jumu'ah and \"When the hypocrites come to you\" (63) in  the last rak'ah. He said: I met Abu Hurairah when he finished the prayer and said to him: You recited the two surah that 'Ali used to recite at Kufah. Abu Hurairah said: I heard the Messenger of Allah (ﷺ) reciting them on Friday."
+      }
+    },
+    {
+      "id": 736,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ شُعْبَةَ، عَنْ مَعْبَدِ بْنِ خَالِدٍ، عَنْ زَيْدِ بْنِ عُقْبَةَ، عَنْ سَمُرَةَ بْنِ جُنْدُبٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقْرَأُ فِي صَلاَةِ الْجُمُعَةِ ‏{‏ سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى ‏}‏ وَ ‏{‏ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Samurah ibn Jundub:",
+        "text": "The Messenger of Allah (ﷺ) used to recite in the Friday prayer: \"Glorify the name of your most high Lord\" (Surah 87) and Has the story of the overwhelming event reached you? (Surah 88)."
+      }
+    },
+    {
+      "id": 737,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي حُجْرَتِهِ وَالنَّاسُ يَأْتَمُّونَ بِهِ مِنْ وَرَاءِ الْحُجْرَةِ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "The Messenger of Allah (ﷺ) offered the prayer in his apartment and people were following him behind apartment."
+      }
+    },
+    {
+      "id": 738,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، وَسُلَيْمَانُ بْنُ دَاوُدَ، - الْمَعْنَى - قَالاَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، حَدَّثَنَا أَيُّوبُ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ، رَأَى رَجُلاً يُصَلِّي رَكْعَتَيْنِ يَوْمَ الْجُمُعَةِ فِي مَقَامِهِ فَدَفَعَهُ وَقَالَ أَتُصَلِّي الْجُمُعَةَ أَرْبَعًا وَكَانَ عَبْدُ اللَّهِ يُصَلِّي يَوْمَ الْجُمُعَةِ رَكْعَتَيْنِ فِي بَيْتِهِ وَيَقُولُ هَكَذَا فَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Nafi' said:",
+        "text": "Ibn 'Umar saw a man praying two rak'ahs after the Friday prayer on the same place (where he offered the Friday prayer). He pushed him and said: Do you offer four rak'ahs of Friday prayer ? 'Abd Allah (b. 'Umar) used to pray two rak'ahs in his house after the Friday prayer, and he used to say: This is how the Messenger of Allah (ﷺ) did."
+      }
+    },
+    {
+      "id": 739,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، أَخْبَرَنَا أَيُّوبُ، عَنْ نَافِعٍ، قَالَ كَانَ ابْنُ عُمَرَ يُطِيلُ الصَّلاَةَ قَبْلَ الْجُمُعَةِ وَيُصَلِّي بَعْدَهَا رَكْعَتَيْنِ فِي بَيْتِهِ وَيُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَفْعَلُ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "Nafi' said: Ibn Umar used to lengthen his prayer before the Friday prayer and would offer two rak'ahs after it in his house. He used to say that the Messenger of Allah (ﷺ) would do that."
+      }
+    },
+    {
+      "id": 740,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عُمَرُ بْنُ عَطَاءِ بْنِ أَبِي الْخُوَارِ، أَنَّ نَافِعَ بْنَ جُبَيْرٍ، أَرْسَلَهُ إِلَى السَّائِبِ بْنِ يَزِيدَ ابْنِ أُخْتِ نَمِرٍ يَسْأَلُهُ عَنْ شَىْءٍ، رَأَى مِنْهُ مُعَاوِيَةُ فِي الصَّلاَةِ فَقَالَ صَلَّيْتُ مَعَهُ الْجُمُعَةَ فِي الْمَقْصُورَةِ فَلَمَّا سَلَّمْتُ قُمْتُ فِي مَقَامِي فَصَلَّيْتُ فَلَمَّا دَخَلَ أَرْسَلَ إِلَىَّ فَقَالَ لاَ تَعُدْ لِمَا صَنَعْتَ إِذَا صَلَّيْتَ الْجُمُعَةَ فَلاَ تَصِلْهَا بِصَلاَةٍ حَتَّى تَكَلَّمَ أَوْ تَخْرُجَ فَإِنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم أَمَرَ بِذَلِكَ أَنْ لاَ تُوصَلَ صَلاَةٌ بِصَلاَةٍ حَتَّى يَتَكَلَّمَ أَوْ يَخْرُجَ ‏.‏",
+      "english": {
+        "narrator": "'Umar b. 'Ata' b. Abu al-Khuwar said that Nafi' b. Jubair sent him to al-Sa'ib b. Yazid b. Ukht Namir to ask him about something Mu'awiyyah had seen him do in prayer. He said:",
+        "text": "I offered the Friday prayer along with him in enclosure. When I uttered the salutation I stood up in my place and prayed. When he went in, he sent me a message saying: Never again do what you have done. When you pray the Friday prayer, you must not join another prayer to it till you have engaged in conversation or gone out, for the Prophet of Allah (ﷺ) gave the precise command not to join on prayer till you have engaged in conversation or gone out."
+      }
+    },
+    {
+      "id": 741,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْعَزِيزِ بْنِ أَبِي رِزْمَةَ الْمَرْوَزِيُّ، أَخْبَرَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ عَبْدِ الْحَمِيدِ بْنِ جَعْفَرٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ إِذَا كَانَ بِمَكَّةَ فَصَلَّى الْجُمُعَةَ تَقَدَّمَ فَصَلَّى رَكْعَتَيْنِ ثُمَّ تَقَدَّمَ فَصَلَّى أَرْبَعًا وَإِذَا كَانَ بِالْمَدِينَةِ صَلَّى الْجُمُعَةَ ثُمَّ رَجَعَ إِلَى بَيْتِهِ فَصَلَّى رَكْعَتَيْنِ وَلَمْ يُصَلِّ فِي الْمَسْجِدِ فَقِيلَ لَهُ فَقَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَفْعَلُ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "'Ata said:",
+        "text": "When Ibn 'Umar offered the Friday prayer in Mecca he would go forward and pray two rak'ahs, he would then go forward and pray four rak'ahs; but when he was in Medina, he offered the Friday prayer, then returned to his house and prayed two rak'ahs, not praying them in the mosque. Someone mentioned this to him and he replied that the Messenger of Allah (ﷺ) used to do it."
+      }
+    },
+    {
+      "id": 742,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ الْبَزَّازُ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ زَكَرِيَّا، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم - قَالَ ابْنُ الصَّبَّاحِ قَالَ - ‏\"‏ مَنْ كَانَ مُصَلِّيًا بَعْدَ الْجُمُعَةِ فَلْيُصَلِّ أَرْبَعًا ‏\"‏ ‏.‏ وَتَمَّ حَدِيثُهُ وَقَالَ ابْنُ يُونُسَ ‏\"‏ إِذَا صَلَّيْتُمُ الْجُمُعَةَ فَصَلُّوا بَعْدَهَا أَرْبَعًا ‏\"‏ ‏.‏ قَالَ فَقَالَ لِي أَبِي يَا بُنَىَّ فَإِنْ صَلَّيْتَ فِي الْمَسْجِدِ رَكْعَتَيْنِ ثُمَّ أَتَيْتَ الْمَنْزِلَ أَوِ الْبَيْتَ فَصَلِّ رَكْعَتَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying (this is the  version of the narrator Ibn al-Sabbah):",
+        "text": "If anyone of you prays after the Friday prayer, he should say for rak'ahs. According to the version of the narrator Ibn Yunus, the tradition goes: When you have offered the Friday prayer, pray after it four rak'ahs. He said: My father said to me: My son, if you have said two rak'ahs in the mosque, then you comes to your house, pray two rak'ahs more."
+      }
+    },
+    {
+      "id": 743,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي بَعْدَ الْجُمُعَةِ رَكْعَتَيْنِ فِي بَيْتِهِ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ رَوَاهُ عَبْدُ اللَّهِ بْنُ دِينَارٍ عَنِ ابْنِ عُمَرَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "The Messenger of Allah (ﷺ) used to pray two rak'ahs in his house after the Friday prayer.\n\n\n\n\nAbu Dawud said: This tradition has been transmitted in a similar way by 'Abd Allah b. Dinar from Ibn 'Umar."
+      }
+    },
+    {
+      "id": 744,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْحَسَنِ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي عَطَاءٌ، أَنَّهُ رَأَى ابْنَ عُمَرَ يُصَلِّي بَعْدَ الْجُمُعَةِ فَيَنْمَازُ عَنْ مُصَلاَّهُ الَّذِي، صَلَّى فِيهِ الْجُمُعَةَ قَلِيلاً غَيْرَ كَثِيرٍ قَالَ فَيَرْكَعُ رَكْعَتَيْنِ قَالَ ثُمَّ يَمْشِي أَنْفَسَ مِنْ ذَلِكَ فَيَرْكَعُ أَرْبَعَ رَكَعَاتٍ قُلْتُ لِعَطَاءٍ كَمْ رَأَيْتَ ابْنَ عُمَرَ يَصْنَعُ ذَلِكَ قَالَ مِرَارًا قَالَ أَبُو دَاوُدَ وَرَوَاهُ عَبْدُ الْمَلِكِ بْنُ أَبِي سُلَيْمَانَ وَلَمْ يُتِمَّهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "Ibn Jurayj said: Ata' told me that he saw Ibn Umar pray after the Friday prayer. He moved a little from the place where he offered the Friday prayer. Then he would pray two rak'ahs. He then walked far away from that place and would offer four rak'ahs. I asked Ata': How many times did you see Ibn Umar do that? He replied: Many times. AbuDawud said: This has been narrated by AbdulMalik ibn AbuSulayman, but did not narrate it completely."
+      }
+    },
+    {
+      "id": 745,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ وَلَهُمْ يَوْمَانِ يَلْعَبُونَ فِيهِمَا فَقَالَ ‏\"‏ مَا هَذَانِ الْيَوْمَانِ ‏\"‏ ‏.‏ قَالُوا كُنَّا نَلْعَبُ فِيهِمَا فِي الْجَاهِلِيَّةِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ اللَّهَ قَدْ أَبْدَلَكُمْ بِهِمَا خَيْرًا مِنْهُمَا يَوْمَ الأَضْحَى وَيَوْمَ الْفِطْرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "When the Messenger of Allah (ﷺ) came to Medina, the people had two days on which they engaged in games. He asked: What are these two days (what is the significance)? They said: We used to engage ourselves on them in the pre-Islamic period. The Messenger of Allah (ﷺ) said: Allah has substituted for them something better than them, the day of sacrifice and the day of the breaking of the fast."
+      }
+    },
+    {
+      "id": 746,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا أَبُو الْمُغِيرَةِ، حَدَّثَنَا صَفْوَانُ، حَدَّثَنَا يَزِيدُ بْنُ خُمَيْرٍ الرَّحْبِيُّ، قَالَ خَرَجَ عَبْدُ اللَّهِ بْنُ بُسْرٍ صَاحِبُ رَسُولِ اللَّهِ صلى الله عليه وسلم مَعَ النَّاسِ فِي يَوْمِ عِيدِ فِطْرٍ أَوْ أَضْحَى فَأَنْكَرَ إِبْطَاءَ الإِمَامِ فَقَالَ إِنَّا كُنَّا قَدْ فَرَغْنَا سَاعَتَنَا هَذِهِ وَذَلِكَ حِينَ التَّسْبِيحِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Busr:",
+        "text": "Yazid ibn Khumayr ar-Rahbi said: Abdullah ibn Busr, the Companion of the Messenger of Allah (ﷺ) came out along with the people on the day of the breaking of the fast or on the day of sacrifice (to offer the prayer). He disliked the delay of the imam, and said: We would finish (our 'Id prayer) at this moment, that is, at the time of forenoon."
+      }
+    },
+    {
+      "id": 747,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، وَيُونُسَ، وَحَبِيبٍ، وَيَحْيَى بْنِ عَتِيقٍ، وَهِشَامٍ، - فِي آخَرِينَ - عَنْ مُحَمَّدٍ، أَنَّ أُمَّ عَطِيَّةَ، قَالَتْ أَمَرَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ نُخْرِجَ ذَوَاتِ الْخُدُورِ يَوْمَ الْعِيدِ ‏.‏ قِيلَ فَالْحُيَّضُ قَالَ ‏\"‏ لِيَشْهَدْنَ الْخَيْرَ وَدَعْوَةَ الْمُسْلِمِينَ ‏\"‏ ‏.‏ قَالَ فَقَالَتِ امْرَأَةٌ يَا رَسُولَ اللَّهِ إِنْ لَمْ يَكُنْ لإِحْدَاهُنَّ ثَوْبٌ كَيْفَ تَصْنَعُ قَالَ ‏\"‏ تُلْبِسُهَا صَاحِبَتُهَا طَائِفَةً مِنْ ثَوْبِهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Umm 'Atiyyah said:",
+        "text": "The Messenger of Allah (ﷺ) commanded us to bring out the secluded women on the day of 'Id (festival). He was asked: What about the menstruous women ? He said: They should be present at the place of virtue and the supplications of the Muslims. A woman said: Messenger of Allah, what should we do it one of us does not possess an outer garment ? He replied: Let her friend lend a part of her garment."
+      }
+    },
+    {
+      "id": 748,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا أَيُّوبُ، عَنْ مُحَمَّدٍ، عَنْ أُمِّ عَطِيَّةَ، بِهَذَا الْخَبَرِ قَالَ ‏\n\"‏ وَيَعْتَزِلُ الْحُيَّضُ مُصَلَّى الْمُسْلِمِينَ ‏\"‏ ‏.‏ وَلَمْ يَذْكُرِ الثَّوْبَ ‏.‏ قَالَ وَحَدَّثَ عَنْ حَفْصَةَ عَنِ امْرَأَةٍ تُحَدِّثُهُ عَنِ امْرَأَةٍ أُخْرَى قَالَتْ قِيلَ يَا رَسُولَ اللَّهِ فَذَكَرَ مَعْنَى حَدِيثِ مُوسَى فِي الثَّوْبِ ‏.‏",
+      "english": {
+        "narrator": "This tradition has also been narrated by Umm 'Atiyyah in a similar manner through a different chain. She added:",
+        "text": "The menstruating women should keep themselves away from the place of prayer of the Muslims. She did not mention the garment. She narrated this tradition from Hafsah mentioning a woman who asked about another woman saying: O Messenger of Allah ....She then reported the tradition like that narrated by Musa mentioning the garment."
+      }
+    },
+    {
+      "id": 749,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا عَاصِمٌ الأَحْوَلُ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ كُنَّا نُؤْمَرُ بِهَذَا الْخَبَرِ قَالَتْ وَالْحُيَّضُ يَكُنَّ خَلْفَ النَّاسِ فَيُكَبِّرْنَ مَعَ النَّاسِ ‏.‏",
+      "english": {
+        "narrator": "This tradition has also been narrated by Umm 'Atiyyah though a different chain of transmitters. She said:",
+        "text": "We were commanded to go out (for offering the 'Id prayer). She further said: The menstruating women stood behind the people and they uttered the takbir (Allah is most great) along with the people."
+      }
+    },
+    {
+      "id": 750,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، - يَعْنِي الطَّيَالِسِيَّ - وَمُسْلِمٌ قَالاَ حَدَّثَنَا إِسْحَاقُ بْنُ عُثْمَانَ، حَدَّثَنِي إِسْمَاعِيلُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عَطِيَّةَ، عَنْ جَدَّتِهِ أُمِّ عَطِيَّةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمَّا قَدِمَ الْمَدِينَةَ جَمَعَ نِسَاءَ الأَنْصَارِ فِي بَيْتٍ فَأَرْسَلَ إِلَيْنَا عُمَرَ بْنَ الْخَطَّابِ فَقَامَ عَلَى الْبَابِ فَسَلَّمَ عَلَيْنَا فَرَدَدْنَا عَلَيْهِ السَّلاَمَ ثُمَّ قَالَ أَنَا رَسُولُ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَيْكُنَّ ‏.‏ وَأَمَرَنَا بِالْعِيدَيْنِ أَنْ نُخْرِجَ فِيهِمَا الْحُيَّضَ وَالْعُتَّقَ وَلاَ جُمُعَةَ عَلَيْنَا وَنَهَانَا عَنِ اتِّبَاعِ الْجَنَائِزِ ‏.‏",
+      "english": {
+        "narrator": "Umm 'Atiyyah said:",
+        "text": "When the Messenger of Allah (ﷺ) came to Medina, he gathered the women of Ansar in a house, and sent to us (to them) 'Umar b. al-Khattab. He stood at the door and gave the salutation to us and we returned it (the salutation) to him. Thereupon, he said: I am the messenger of the Messenger of Allah (ﷺ) to you. He commanded us to bring out the menstruating women and the virgins for both the 'Id prayers, and that the Friday prayer is not obligatory on us. He prohibited us to accompany the funeral procession."
+      }
+    },
+    {
+      "id": 751,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الأَعْمَشُ، عَنْ إِسْمَاعِيلَ بْنِ رَجَاءٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، ح وَعَنْ قَيْسِ بْنِ مُسْلِمٍ، عَنْ طَارِقِ بْنِ شِهَابٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ أَخْرَجَ مَرْوَانُ الْمِنْبَرَ فِي يَوْمِ عِيدٍ فَبَدَأَ بِالْخُطْبَةِ قَبْلَ الصَّلاَةِ فَقَامَ رَجُلٌ فَقَالَ يَا مَرْوَانُ خَالَفْتَ السُّنَّةَ أَخْرَجْتَ الْمِنْبَرَ فِي يَوْمِ عِيدٍ وَلَمْ يَكُنْ يُخْرَجُ فِيهِ وَبَدَأْتَ بِالْخُطْبَةِ قَبْلَ الصَّلاَةِ ‏.‏ فَقَالَ أَبُو سَعِيدٍ الْخُدْرِيُّ مَنْ هَذَا قَالُوا فُلاَنُ بْنُ فُلاَنٍ ‏.‏ فَقَالَ أَمَّا هَذَا فَقَدْ قَضَى مَا عَلَيْهِ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ رَأَى مُنْكَرًا فَاسْتَطَاعَ أَنْ يُغَيِّرَهُ بِيَدِهِ فَلْيُغَيِّرْهُ بِيَدِهِ فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ وَذَلِكَ أَضْعَفُ الإِيمَانِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id al-Khudri said:",
+        "text": "Marwan brought out the pulpit on 'Id. He began preaching before the prayer. A man stood and said: You opposed the sunnah, O Marwan. You brought out the pulpit on the 'Id, it was not brought out before: and you began preaching before the prayer. Abu Sa'id al-Khudri said: Wh is this (man) ? They (people) said: So-and so son of so-and-so. He has performed his duty. I heard the Messenger of Allah (ﷺ) say: He who observes and evil deed should change it with his hand if he can do so; if he cannot do, (he should change it) then with his tongue; if he cannot do then (he should change it) with his heart, and that is the weakest degree of the faith."
+      }
+    },
+    {
+      "id": 752,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، وَمُحَمَّدُ بْنُ بَكْرٍ، قَالاَ أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَطَاءٌ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ سَمِعْتُهُ يَقُولُ إِنَّ النَّبِيَّ صلى الله عليه وسلم قَامَ يَوْمَ الْفِطْرِ فَصَلَّى فَبَدَأَ بِالصَّلاَةِ قَبْلَ الْخُطْبَةِ ثُمَّ خَطَبَ النَّاسَ فَلَمَّا فَرَغَ نَبِيُّ اللَّهِ صلى الله عليه وسلم نَزَلَ فَأَتَى النِّسَاءَ فَذَكَّرَهُنَّ وَهُوَ يَتَوَكَّأُ عَلَى يَدِ بِلاَلٍ وَبِلاَلٌ بَاسِطٌ ثَوْبَهُ تُلْقِي فِيهِ النِّسَاءُ الصَّدَقَةَ قَالَ تُلْقِي الْمَرْأَةُ فَتَخَهَا وَيُلْقِينَ وَيُلْقِينَ وَقَالَ ابْنُ بَكْرٍ فَتَخَتَهَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Abdullah:",
+        "text": "The Prophet (ﷺ) stood on the day of the breaking of the fast ('Id) and offered prayer. He began the prayer before the sermon.  He then addressed the people. When the Prophet (ﷺ) finished the sermon, he descended (from the pulpit) and went to women. He gave them an exhortation while he was leaning on the hand of Bilal. Bilal was spreading his garment in which women were putting alms; some women put their rings and others other things."
+      }
+    },
+    {
+      "id": 753,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنَا ابْنُ كَثِيرٍ، أَخْبَرَنَا شُعْبَةُ، عَنْ أَيُّوبَ، عَنْ عَطَاءٍ، قَالَ أَشْهَدُ عَلَى ابْنِ عَبَّاسٍ وَشَهِدَ ابْنُ عَبَّاسٍ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ خَرَجَ يَوْمَ فِطْرٍ فَصَلَّى ثُمَّ خَطَبَ ثُمَّ أَتَى النِّسَاءَ وَمَعَهُ بِلاَلٌ ‏.‏ قَالَ ابْنُ كَثِيرٍ أَكْبَرُ عِلْمِ شُعْبَةَ فَأَمَرَهُنَّ بِالصَّدَقَةِ فَجَعَلْنَ يُلْقِينَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Messenger of Allah (ﷺ) came out on 'Id (the festival day). He first offered the prayer and then delivered the sermon . He then went to women, taking Bilal with him. The narrator Ibn Kathir said: The probable opinion of Shu'bah is that he commanded them to give alms. So they began to put (their jewellery)."
+      }
+    },
+    {
+      "id": 754,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، وَأَبُو مَعْمَرٍ عَبْدُ اللَّهِ بْنُ عَمْرٍو قَالاَ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَيُّوبَ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، بِمَعْنَاهُ قَالَ فَظَنَّ أَنَّهُ لَمْ يُسْمِعِ النِّسَاءَ فَمَشَى إِلَيْهِنَّ وَبِلاَلٌ مَعَهُ فَوَعَظَهُنَّ وَأَمَرَهُنَّ بِالصَّدَقَةِ فَكَانَتِ الْمَرْأَةُ تُلْقِي الْقُرْطَ وَالْخَاتَمَ فِي ثَوْبِ بِلاَلٍ ‏.‏",
+      "english": {
+        "narrator": "The above mentioned tradition has also been narrated by Ibn 'Abbas to the same effect through a different chain of transmitters. This version adds:",
+        "text": "He (the Prophet) thought that women could not hear (his sermon). So he went to them and Bilal was in his company. He gave them exhortation and commanded them to give alms. Some women put their ear-rings and other their rings in the garment of Bilal."
+      }
+    },
+    {
+      "id": 755,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، فِي هَذَا الْحَدِيثِ قَالَ فَجَعَلَتِ الْمَرْأَةُ تُعْطِي الْقُرْطَ وَالْخَاتَمَ وَجَعَلَ بِلاَلٌ يَجْعَلُهُ فِي كِسَائِهِ قَالَ فَقَسَمَهُ عَلَى فُقَرَاءِ الْمُسْلِمِينَ ‏.‏",
+      "english": {
+        "narrator": "The above mentioned tradition has also bee transmitted by Ibn 'Abbas through a different chain of narrators. This version adds:",
+        "text": "The women began to give their ear-rings and rings in alms. Bilal began to collect them in his garment. He (the Prophet) then distributed them among the poor Muslims."
+      }
+    },
+    {
+      "id": 756,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ عُيَيْنَةَ، عَنْ أَبِي جَنَابٍ، عَنْ يَزِيدَ بْنِ الْبَرَاءِ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نُوِّلَ يَوْمَ الْعِيدِ قَوْسًا فَخَطَبَ عَلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "Al-Bara' said:",
+        "text": "Someone presented a bow to the Prophet (ﷺ) on the 'Id (festival). So he preached leaning on it."
+      }
+    },
+    {
+      "id": 757,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَابِسٍ، قَالَ سَأَلَ رَجُلٌ ابْنَ عَبَّاسٍ أَشَهِدْتَ الْعِيدَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ نَعَمْ وَلَوْلاَ مَنْزِلَتِي مِنْهُ مَا شَهِدْتُهُ مِنَ الصِّغَرِ فَأَتَى رَسُولُ اللَّهِ صلى الله عليه وسلم الْعَلَمَ الَّذِي عِنْدَ دَارِ كَثِيرِ بْنِ الصَّلْتِ فَصَلَّى ثُمَّ خَطَبَ وَلَمْ يَذْكُرْ أَذَانًا وَلاَ إِقَامَةً قَالَ ثُمَّ أَمَرَ بِالصَّدَقَةِ - قَالَ - فَجَعَلَ النِّسَاءُ يُشِرْنَ إِلَى آذَانِهِنَّ وَحُلُوقِهِنَّ قَالَ فَأَمَرَ بِلاَلاً فَأَتَاهُنَّ ثُمَّ رَجَعَ إِلَى النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "'Abd al-Rahman b. 'Abis said:",
+        "text": "A man asked Ibb 'Abbas: Have you been present along with the Messenger of Allah (ﷺ) ? He replied: Yes. Had there been no dignity for me in his eyes, I would not have been present with him due to my minority. Then the Messenger of Allah (ﷺ) came to the point that was near the house of Kathir b. al-Salt. He prayed and afterwards preached. He (Ibn 'Abbas) did not mention the adhan (call to prayer) and the iqamah. He then commanded to give alms. The women began to point to their ears and throats (to give their jewelry in alms)."
+      }
+    },
+    {
+      "id": 758,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ جُرَيْجٍ، عَنِ الْحَسَنِ بْنِ مُسْلِمٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى الْعِيدَ بِلاَ أَذَانٍ وَلاَ إِقَامَةٍ وَأَبَا بَكْرٍ وَعُمَرَ أَوْ عُثْمَانَ شَكَّ يَحْيَى ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Messenger of Allah (ﷺ) offered the 'Id prayer without the adhan and the iqamah. AbuBakr and Umar or Uthman also did so. The narrator Yahya is doubtful about Uthman."
+      }
+    },
+    {
+      "id": 759,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَهَنَّادٌ، - وَهَذَا لَفْظُهُ - قَالاَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سِمَاكٍ، - يَعْنِي ابْنَ حَرْبٍ - عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ صَلَّيْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم غَيْرَ مَرَّةٍ وَلاَ مَرَّتَيْنِ الْعِيدَيْنِ بِغَيْرِ أَذَانٍ وَلاَ إِقَامَةٍ ‏.‏",
+      "english": {
+        "narrator": "Jabir b. Samurah said:",
+        "text": "I prayed the 'Id prayer with the Prophet (ﷺ) not once or twice (but many times) without the adhan and the iqamah."
+      }
+    },
+    {
+      "id": 760,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُكَبِّرُ فِي الْفِطْرِ وَالأَضْحَى فِي الأُولَى سَبْعَ تَكْبِيرَاتٍ وَفِي الثَّانِيَةِ خَمْسًا ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Messenger of Allah (ﷺ) would say the takbir (Allah is most great) seven times  in the first rak'ah and five times in the second rak'ah on the day of the breaking of the fast and on the day of sacrifice (on the occasion of both the 'Id prayers, the two festivals)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 341,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عن ابن عمر رضي الله عنهما أن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏إن أبر البر أن يصل الرجل ود أبيه‏\"‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin 'Umar (May Allah be pleased with them) reported:",
+    "text": "The Prophet (ﷺ) said, \"The finest act of goodness is that a person should treat kindly the loved ones of his father\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

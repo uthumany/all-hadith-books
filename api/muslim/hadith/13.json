@@ -1,0 +1,16 @@
+{
+  "id": 13,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ، قَالَ مَا أَنْتَ بِمُحَدِّثٍ قَوْمًا حَدِيثًا لاَ تَبْلُغُهُ عُقُولُهُمْ إِلاَّ كَانَ لِبَعْضِهِمْ فِتْنَةً ‏.‏",
+  "english": {
+    "narrator": "Abūt-Tāhir and Harmalah bin Yahyā narrated to me, they said Ibn Wahb narrated to us, he said Yūnus informed me, on authority of Ibn Shihāb, on authority of Ubayd Allah bin Abd Allah bin Utbah, that Abd Allah bin Mas’ūd said:",
+    "text": "‘It is the case that you do not relate to the people a narration which their minds cannot grasp except that it becomes a Fitnah for some of them’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

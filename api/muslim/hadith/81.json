@@ -1,0 +1,16 @@
+{
+  "id": 81,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي أَحْمَدُ بْنُ يُوسُفَ الأَزْدِيُّ، قَالَ سَمِعْتُ عَبْدَ الرَّزَّاقِ، يَقُولُ مَا رَأَيْتُ ابْنَ الْمُبَارَكِ يُفْصِحُ بِقَوْلِهِ كَذَّابٌ إِلاَّ لِعَبْدِ الْقُدُّوسِ فَإِنِّي سَمِعْتُهُ يَقُولُ لَهُ كَذَّابٌ ‏.‏",
+  "english": {
+    "narrator": "Ahmad bin Yūsuf al-Azdī narrated to me, he said, I heard Abd ar-Razzāq saying:",
+    "text": "‘I did not see Ibn al-Mubārak express so plainly the charge of ‘lying’ except towards Abd ul-Quddūs; for indeed I heard him saying to him ‘ a liar’.’"
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

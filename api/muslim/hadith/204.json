@@ -1,0 +1,16 @@
+{
+  "id": 204,
+  "chapterId": 45,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنْ سُهَيْلٍ، عَنْ \n أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الأَرْوَاحُ جُنُودٌ مُجَنَّدَةٌ\n فَمَا تَعَارَفَ مِنْهَا ائْتَلَفَ وَمَا تَنَاكَرَ مِنْهَا اخْتَلَفَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) Saying:",
+    "text": "Souls are troops collected together and those who familiarised with each other (in the heaven from where these come) would have affinity, with one another (in the world) and those amongst them who opposed each other (in the Heaven) would also be divergent (in the world)."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

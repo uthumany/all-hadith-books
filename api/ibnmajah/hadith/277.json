@@ -1,0 +1,16 @@
+{
+  "id": 277,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ الْبَالِسِيُّ، حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ بْنِ شَقِيقٍ، حَدَّثَنَا حُسَيْنُ بْنُ وَاقِدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ الْعَهْدُ الَّذِي بَيْنَنَا وَبَيْنَهُمُ الصَّلاَةُ، فَمَنْ تَرَكَهَا فَقَدْ كَفَرَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "‘Abdullah bin Buraidah narrated that his father said:",
+    "text": "“The\nMessenger\nof Allah (ﷺ) said: ‘The covenant that distinguishes\nbetween us and\nthem is prayer; so whoever leaves it, he has committed\nKufr.’”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

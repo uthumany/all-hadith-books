@@ -1,0 +1,16 @@
+{
+  "id": 324,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا شُجَاعُ بْنُ الْوَلِيدِ، قَالَ ذَكَرَ خَلَفُ بْنُ حَوْشَبٍ عَنْ أَبِي إِسْحَاقَ، عَنْ عَبْدِ خَيْرٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ سَبَقَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَصَلَّى أَبُو بَكْرٍ وَثَلَّثَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ ثُمَّ خَبَطَتْنَا أَوْ أَصَابَتْنَا فِتْنَةٌ يَعْفُو اللَّهُ عَمَّنْ يَشَاءُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Prophet (ﷺ) came first, followed by Abu Bakr, and the third one was `Umar  (رضي الله عنهما). Then turmoil (fitnah) struck us; Allah will pardon whomever He will."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

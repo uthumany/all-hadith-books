@@ -1,0 +1,16 @@
+{
+  "id": 73,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الخامس‏:‏ عن أبي أمامة صدي بن عجلان الباهلي رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يخطب في حجة الوداع فقال ‏:‏ اتقوا الله ، وصلوا خمسكم، وصوموا شهركم، وأدوا زكاة أموالكم، وأطيعوا أمراءكم، تدخلوا جنة ربكم‏\"‏ ‏(‏‏(‏رواه الترمذي، في آخر كتاب الصلاة وقال ‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Umamah (May Allah be pleased with him) said:",
+    "text": "I heard Messenger of Allah (ﷺ) during the sermon of the Farewell Pilgrimage saying, \"Be mindful of your duty to Allah; perform your five daily Salat, observe Saum during the month (of Ramadan) , pay the Zakat on your properties and obey your leaders; (if you do so) you will enter the Jannah of your Rubb\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

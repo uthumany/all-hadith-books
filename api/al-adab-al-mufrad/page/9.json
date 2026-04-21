@@ -1,0 +1,510 @@
+{
+  "page": 9,
+  "perPage": 50,
+  "totalPages": 27,
+  "totalCount": 1326,
+  "nextPage": 10,
+  "prevPage": 8,
+  "items": [
+    {
+      "id": 3,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ صَالِحٍ قَالَ‏:‏ حَدَّثَنِي اللَّيْثُ قَالَ‏:‏ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ ثُمَّ الْجُنْدَعِيِّ، أَنَّ أَبَا أَيُّوبَ صَاحِبَ رَسُولِ اللهِ صلى الله عليه وسلم أَخْبَرَهُ أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ‏:‏ لاَ يَحِلُّ لأَحَدٍ أَنْ يَهْجُرَ أَخَاهُ فَوْقَ ثَلاَثِ لَيَالٍ، يَلْتَقِيَانِ فَيَصُدُّ هَذَا وَيَصُدُّ هَذَا، وَخَيْرُهُمَا الَّذِي يَبْدَأُ بِالسَّلامِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Ayyub, the Companion of the Messenger of Allah, may Allah bless\nhim and grant him peace, said, \"It is not lawful for anyone to cut himself\noff from his Muslim brother for more than three nights so that when they\nmeet, one of them turns his face away in avoidance and the other one turns\nhis face away as well. The better of them is the one who initiates the\ngreeting.\""
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا مُوسَى، قَالَ‏:‏ حَدَّثَنَا وُهَيْبٌ، قَالَ‏:‏ حَدَّثَنَا سُهَيْلٌ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ‏:‏ لاَ تَبَاغَضُوا، وَلاَ تَنَافَسُوا، وَكُونُوا عِبَادَ اللهِ إِخْوَانًا‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurayra reported that the Messenger of Allah, may Allah bless\nhim and grant him peace, said, \"Do not hate one another nor contend with\none another. Slaves of Allah, be brothers.\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ قَالَ‏:‏ حَدَّثَنِي ابْنُ وَهْبٍ قَالَ‏:‏ أَخْبَرَنِي عَمْرٌو، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ سِنَانِ بْنِ سَعْدٍ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ‏:‏ مَا تَوَادَّ اثْنَانِ فِي اللهِ جَلَّ وَعَزَّ أَوْ فِي الإِسْلاَمِ، فَيُفَرِّقُ بَيْنَهُمَا إِلاَّ بِذَنْبٍ يُحْدِثُهُ أَحَدُهُمَا‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Anas reported that the Messenger of Allah, may Allah bless him\nand grant him peace, said, \"Two people do not love each other in Allah\nAlmighty or in Islam if the first wrong action that one of them does creates\na split between them.\""
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ يَزِيدَ قَالَ‏:‏ قَالَتْ مُعَاذَةَ‏:‏ سَمِعْتُ هِشَامَ بْنَ عَامِرٍ الأَنْصَارِيَّ، ابْنَ عَمِّ أَنَسِ بْنِ مَالِكٍ، وَكَانَ قُتِلَ أَبُوهُ يَوْمَ أُحُدٍ، أَنَّهُ سَمِعَ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ‏:‏ لاَ يَحِلُّ لِمُسْلِمٍ أَنْ يُصَارِمَ مُسْلِمًا فَوْقَ ثَلاَثٍ، فَإِنَّهُمَا نَاكِبَانِ عَنِ الْحَقِّ مَا دَامَا عَلَى صِرَامِهِمَا، وَإِنَّ أَوَّلَهُمَا فَيْئًا يَكُونُ كَفَّارَةً عَنْهُ سَبْقُهُ بِالْفَيْءِ، وَإِنْ مَاتَا عَلَى صِرَامِهِمَا لَمْ يَدْخُلاَ الْجَنَّةَ جَمِيعًا أَبَدًا، وَإِنْ سَلَّمَ عَلَيْهِ فَأَبَى أَنْ يَقْبَلَ تَسْلِيمَهُ وَسَلاَمَهُ، رَدَّ عَلَيْهِ الْمَلَكُ، وَرَدَّ عَلَى الْآخَرِ الشَّيْطَانُ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Hisham ibn 'Amir al-Ansari, the cousin of Anas ibn Malik whose\nfather was killed in the Battle of Uhud, that he heard the Messenger of\nAllah, may Allah bless him and grant him peace, say, \"It is not lawful\nfor a Muslim to snub another Muslim for more than three nights. As long\nas they are cut off from each other, they are turning away from the Truth.\nThe first of them to return to a proper state has his expiation for that\ninasmuch as he was the first to return to a proper state. If they die while\nthey are cut off from each other, neither of them will ever enter the Garden.\nIf one of them greets the other and he refuses to return the greeting or\naccept his greeting, then an angel returns the greeting to him and Shaytan\nanswers the other.\""
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدَةُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ إِنِّي لَأَعْرِفُ غَضَبَكِ وَرِضَاكِ، قَالَتْ‏:‏ قُلْتُ‏:‏ وَكَيْفَ تَعْرِفُ ذَلِكَ يَا رَسُولَ اللهِ‏؟‏ قَالَ‏:‏ إِنَّكِ إِذَا كُنْتِ رَاضِيَةً قُلْتِ‏:‏ بَلَى، وَرَبِّ مُحَمَّدٍ، وَإِذَا كُنْتِ سَاخِطَةً قُلْتِ‏:‏ لاَ، وَرَبِّ إِبْرَاهِيمَ، قَالَتْ‏:‏ قُلْتُ‏:‏ أَجَلْ، لَسْتُ أُهَاجِرُ إِلا اسْمَكَ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'A'isha mentioned that the Messenger of Allah, may Allah bless\nhim and grant him peace, told her, \"I can see you when you are angry or\npleased.\" She asked, \"How do you see that, Messenger of Allah?\" He replied,\n\"When you are pleased, you say, 'Yes, by the Lord of Muhammad.' But when\nyou are angry, you say, 'No, by the Lord of Ibrahim.'\" She said that she\nreplied, \"Yes, I only cut out your name.\""
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ يَزِيدَ، قَالَ‏:‏ حَدَّثَنَا حَيْوَةُ قَالَ‏:‏ حَدَّثَنِي أَبُو عُثْمَانَ الْوَلِيدُ بْنُ أَبِي الْوَلِيدِ الْمَدَنِيُّ، أَنَّ عِمْرَانَ بْنَ أَبِي أَنَسٍ حَدَّثَهُ، عَنْ أَبِي خِرَاشٍ السُّلَمِيِّ، أَنَّهُ سَمِعَ رَسُولَ اللهِ صلى الله عليه وسلم يَقُولُ‏:‏ مَنْ هَجَرَ أَخَاهُ سَنَةً، فَهُوَ كَسَفْكِ دَمِهِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Khirash al-Aslami reported that he heard the Messenger of Allah,\nmay Allah bless him and grant him peace, say, \"Whoever snubs his brother\nfor a year has split his blood.\""
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، قَالَ‏:‏ أَخْبَرَنَا يَحْيَى بْنُ أَيُّوبَ قَالَ‏:‏ حَدَّثَنِي الْوَلِيدُ بْنُ أَبِي الْوَلِيدِ الْمَدَنِيُّ، أَنَّ عِمْرَانَ بْنَ أَبِي أَنَسٍ حَدَّثَهُ، أَنَّ رَجُلاً مِنْ أَسْلَمَ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم حَدَّثَهُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ‏:‏ هِجْرَةُ الْمُسْلِمِ سَنَةً كَدَمِهِ، وَفِي الْمَجْلِسِ مُحَمَّدُ بْنُ الْمُنْكَدِرِ، وَعَبْدُ اللهِ بْنُ أَبِي عَتَّابٍ، فَقَالاَ‏:‏ قَدْ سَمِعْنَا هَذَا عَنْهُ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Imran ibn Abi Anas reported from a man of Aslam who was one of\nthe Companions of the Prophet, may Allah bless him and grant him peace,\nthat the Prophet, may Allah bless him and grant him peace, said, \"Snubbing\na believer for a year is like spilling his blood.\""
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ قَالَ‏:‏ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ، عَنْ أَبِي أَيُّوبَ الأَنْصَارِيِّ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ‏:‏ لاَ يَحِلُّ لِمُسْلِمٍ أَنْ يَهْجُرَ أَخَاهُ فَوْقَ ثَلاَثَةِ أَيَّامٍ، يَلْتَقِيَانِ فَيُعْرِضُ هَذَا وَيُعْرِضُ هَذَا، وَخَيْرُهُمَا الَّذِي يَبْدَأُ بِالسَّلامِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Ayyub al-Ansari reported that the Messenger of Allah, may Allah\nbless him and grant him peace, said, \"It is not lawful for a Muslim to\nrefuse to speak to his (Muslim) brother for more than three days so that\nwhen they meet, one goes this way and the goes that way. The better of\nthe two is the one who initiates the greeting.\""
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ يَزِيدَ، عَنْ مُعَاذَةَ، أَنَّهَا سَمِعَتْ هِشَامَ بْنَ عَامِرٍ يَقُولُ‏:‏ سَمِعْتُ رَسُولَ اللهِ صلى الله عليه وسلم يَقُولُ‏:‏ لاَ يَحِلُّ لِمُسْلِمٍ أَنْ يُصَارِمَ مُسْلِمًا فَوْقَ ثَلاَثِ لَيَالٍ، فَإِنَّهُمَا مَا صَارَمَا فَوْقَ ثَلاَثِ لَيَالٍ، فَإِنَّهُمَا نَاكِبَانِ عَنِ الْحَقِّ مَا دَامَا عَلَى صِرَامِهِمَا، وَإِنَّ أَوَّلَهُمَا فَيْئًا يَكُونُ كَفَّارَةً لَهُ سَبْقُهُ بِالْفَيْءِ، وَإِنْ هُمَا مَاتَا عَلَى صِرَامِهِمَا لَمْ يَدْخُلاَ الْجَنَّةَ جَمِيعًا‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Hisham ibn 'Amir heard the Messenger of Allah, may Allah bless\nhim and grant him peace, say, \"It is not lawful for a Muslim to snub another\nMuslim for more than three nights. As long as they are cut off from each\nother, they are turning away from the Truth. The first of them to return\nto a proper state has his expiation for that inasmuch as he was the first\nto return to a proper state. If they die while they are cut off from one\nanother, neither of them will ever enter the Garden.\""
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلامٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدَةُ، قَالَ‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو، قَالَ‏:‏ حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ لاَ تَبَاغَضُوا، وَلاَ تَحَاسَدُوا، وَكُونُوا عِبَادَ اللهِ إِخْوَانًا‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurayra reported that the Messenger of Allah, may Allah bless\nhim and grant him peace, said, \"Do not hate one another and do not envy\none another. Let the slaves of Allah be brothers.\""
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا مُحَمَّدٌ، قَالَ‏:‏ حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، قَالَ‏:‏ حَدَّثَنَا أَبِي، قَالَ‏:‏ حَدَّثَنَا الأَعْمَشُ، قَالَ‏:‏ حَدَّثَنَا أَبُو صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ‏:‏ تَجِدُ مِنْ شَرِّ النَّاسِ يَوْمَ الْقِيَامَةِ عِنْدَ اللهِ ذَا الْوَجْهَيْنِ، الَّذِي يَأْتِي هَؤُلاَءِ بِوَجْهٍ، وَهَؤُلاَءِ بِوَجْهٍ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurayra reported that the Prophet, may Allah bless him and\ngrant him peace, said, \"You will find that the worst of people in the sight\nof Allah on the Day of Rising will be the two-faced person who presents\none face to a group of people and another face to a different group of\npeople.\""
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مُحَمَّدٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ‏:‏ أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ إِيَّاكُمْ وَ الظَّنَّ، فَإِنَّ الظَّنَّ أَكْذَبُ الْحَدِيثِ، وَلاَ تَنَاجَشُوا، وَلاَ تَحَاسَدُوا، وَلاَ تَبَاغَضُوا، وَلاَ تَنَافَسُوا، وَلاَ تَدَابَرُوا وَكُونُوا عِبَادَ اللهِ إِخْوَانًا‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurayra reported that the Messenger of Allah, may Allah bless\nhim and grant him peace, said, \"Beware of opinion. Opinion is the most\nlying form of speech. Do not try to ensnare one another (in sales) nor\nenvy one another nor hate one another nor shun one another. Rather be the\nslaves of Allah and brothers.\""
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ قَالَ‏:‏ حَدَّثَنِي مَالِكٌ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ‏:‏ تُفْتَحُ أَبْوَابُ الْجَنَّةِ يَوْمَ الِاثْنَيْنِ وَيَوْمَ الْخَمِيسِ، فَيُغْفَرُ لِكُلِّ عَبْدٍ لاَ يُشْرِكُ بِاللَّهِ شَيْئًا، إِلاَّ رَجُلٌ كَانَتْ بَيْنَهُ وَبَيْنَ أَخِيهِ شَحْنَاءُ، فَيُقَالُ‏:‏ أَنْظِرُوا هَذَيْنِ حَتَّى يَصْطَلِحَا‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurayra reported that the Messenger of Allah, may Allah bless\nhim and grant him peace, said, \"The gates of the Garden are opened on Mondays\nand Thursdays. Every person who does not associate anything with Allah\nis forgiven except for someone who has enmity between existing between\nhim and another man. It is said, 'Leave these two until they make peace.'\""
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا بِشْرُ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ، قَالَ‏:‏ أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ قَالَ‏:‏ أَخْبَرَنِي أَبُو إِدْرِيسَ، أَنَّهُ سَمِعَ أَبَا الدَّرْدَاءِ يَقُولُ‏:‏ أَلاَ أُحَدِّثُكُمْ بِمَا هُوَ خَيْرٌ لَكُمْ مِنَ الصَّدَقَةِ وَالصِّيَامِ‏؟‏ صَلاَحُ ذَاتِ الْبَيْنِ، أَلاَ وَإِنَّ الْبُغْضَةَ هِيَ الْحَالِقَةُ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu'd-Darda' said, \"Shall I tell you about something better for\nyou than sadaqa and fasting? Improving the state of friendship. Hatred\nis what shaves things away.\""
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ سُلَيْمَانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو شِهَابٍ، عَنْ لَيْثٍ، عَنْ أَبِي فَزَارَةَ، عَنْ يَزِيدَ بْنِ الأَصَمِّ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ‏:‏ ثَلاَثٌ مَنْ لَمْ يَكُنَّ فِيهِ، غُفِرَ لَهُ مَا سِوَاهُ لِمَنْ شَاءَ، مَنْ مَاتَ لاَ يُشْرِكُ بِاللَّهِ شَيْئًا، وَلَمْ يَكُنْ سَاحِرًا يَتَّبِعُ السَّحَرَةَ، وَلَمْ يَحْقِدْ عَلَى أَخِيهِ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas reported that the Prophet, may Allah bless him and grant\nhim peace, said, \"Three things are not concealed and He forgives everything\nelse to whomever He wills:",
+        "text": "the one who dies and has not associated anything\nwith Allah, the one who was not a sorcerer nor a follower of the sorcerers,\nand the one who did not have rancour towards his brother.\""
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 22,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ قَالَ‏:‏ حَدَّثَنِي مُحَمَّدُ بْنُ هِلاَلِ بْنِ أَبِي هِلاَلٍ مَوْلَى ابْنِ كَعْبٍ الْمَذْحِجِيِّ، عَنْ أَبِيهِ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ قَالَ‏:‏ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ‏:‏ لاَ يَحِلُّ لِرَجُلٍ أَنْ يَهْجُرَ مُؤْمِنًا فَوْقَ ثَلاَثَةِ أَيَّامٍ، فَإِذَا مَرَّتْ ثَلاَثَةُ أَيَّامٍ فَلْيَلْقَهُ فَلْيُسَلِّمْ عَلَيْهِ، فَإِنْ رَدَّ عَلَيْهِ السَّلاَمَ فَقَدِ اشْتَرَكَا فِي الأَجْرِ، وَإِنْ لَمْ يَرُدَّ عَلَيْهِ فَقَدْ بَرِئ الْمُسْلِمُ مِنَ الْهِجْرَةِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurayra reported that he heard the Prophet, may Allah bless\nhim and grant him peace, say, \"It is not lawful for a Muslim man to refuse\nto speak to a believer for more than three days. When three days have passed,\nhe should meet him and greet him. If he returns the greeting, they share\nin the reward. If he does not return the greeting, the one who gives the\ngreeting is innocent of having severed relations.\""
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 23,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا مَخْلَدُ بْنُ مَالِكٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَغْرَاءَ، قَالَ‏:‏ حَدَّثَنَا الْفَضْلُ بْنُ مُبَشِّرٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللهِ، عَنْ أَبِيهِ، كَانَ عُمَرُ يَقُولُ لِبَنِيهِ‏:‏ إِذَا أَصْبَحْتُمْ فَتَبَدَّدُوا، وَلاَ تَجْتَمِعُوا فِي دَارٍ وَاحِدَةٍ، فَإِنِّي أَخَافُ عَلَيْكُمْ أَنْ تَقَاطَعُوا، أَوْ يَكُونَ بَيْنَكُمْ شَرٌّ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Salim ibn 'Abdullah reported from his father that 'Umar used to\nsay to his sons, \"Separate in the morning and do not meet together in the\nsame house. I fear that you might split up or that some evil may take place\nbetween you.\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 23,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، قَالَ‏:‏ حَدَّثَنَا بَكْرٌ، عَنِ ابْنِ عَجْلاَنَ، أَنَّ وَهْبَ بْنَ كَيْسَانَ أَخْبَرَهُ، وَكَانَ وَهْبٌ أَدْرَكَ عَبْدَ اللهِ بْنَ عُمَرَ، أَنَّ ابْنَ عُمَرَ رَأَى رَاعِيًا وَغَنَمًا فِي مَكَانٍ قَبِيحٍ وَرَأَى مَكَانًا أَمْثَلَ مِنْهُ، فَقَالَ لَهُ‏:‏ وَيْحَكَ، يَا رَاعِي، حَوِّلْهَا، فَإِنِّي سَمِعْتُ رَسُولَ اللهِ صلى الله عليه وسلم يَقُولُ‏:‏ كُلُّ رَاعٍ مَسْئُولٌ عَنْ رَعِيَّتِهِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn 'Umar saw a shepherd with some sheep in a bad place and saw\na place which was better than it. He told him, \"Woe to you, shepherd! Move\nthem! I heard the Messenger of Allah, may Allah bless him and grant him\npeace, say, 'Every shepherd is responsible for his flock.'\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 23,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ‏:‏ لَيْسَ لَنَا مَثَلُ السَّوْءِ، الْعَائِدُ فِي هِبَتِهِ، كَالْكَلْبِ يَرْجِعُ فِي قَيْئِهِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn 'Abbas reported that the Prophet, may Allah bless him and grant\nhim peace, said, \"We do not give a bad example. The one who takes back\nhis gift is like the dog who returns to his own vomit.\""
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 23,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الْحَجَّاجِ، قَالَ‏:‏ حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، قَالَ‏:‏ حَدَّثَنَا أَبُو الأَسْبَاطِ الْحَارِثِيُّ وَاسْمُهُ بِشْرُ بْنُ رَافِعٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ الْمُؤْمِنُ غِرٌّ كَرِيمٌ، وَالْفَاجِرُ خَبٌّ لَئِيمٌ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurayra reported that the Messenger of Allah, may Allah bless\nhim and grant him peace, said, \"The believer is guileless and generous\nwhile the corrupt is a swindler and miserly.\""
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أُمَيَّةَ، قَالَ‏:‏ حَدَّثَنَا عِيسَى بْنُ مُوسَى، عَنْ عَبْدِ اللهِ بْنِ كَيْسَانَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ قَالَ‏:‏ اسْتَبَّ رَجُلاَنِ عَلَى عَهْدِ رَسُولِ اللهِ صلى الله عليه وسلم، فَسَبَّ أَحَدُهُمَا وَالْآخَرُ سَاكِتٌ، وَالنَّبِيُّ صلى الله عليه وسلم جَالِسٌ، ثُمَّ رَدَّ الْآخَرُ‏.‏ فَنَهَضَ النَّبِيُّ صلى الله عليه وسلم، فَقِيلَ‏:‏ نَهَضْتَ‏؟‏ قَالَ‏:‏ نَهَضَتِ الْمَلاَئِكَةُ فَنَهَضْتُ مَعَهُمْ، إِنَّ هَذَا مَا كَانَ سَاكِتًا رَدَّتِ الْمَلاَئِكَةُ عَلَى الَّذِي سَبَّهُ، فَلَمَّا رَدَّ نَهَضَتِ الْمَلاَئِكَةُ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn 'Abbas said, \"Two men defamed one another in the time of the\nMessenger of Allah, may Allah bless him and grant him peace. One of them\nreviled the other who remained silent. The Prophet, may Allah bless him\nand grant him peace, remained seated. Then the other man answered him back\nand the Prophet, may Allah bless him and grant him peace, got up. He was\nasked, \"You got up?\" He said, \"The angels left, so I left with them. While\nthis man was silent, the angels were answering the one who cursed him.\nWhen he answered, the angels left.\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، قَالَ‏:‏ حَدَّثَنَا رُدَيْحُ بْنُ عَطِيَّةَ، قَالَ‏:‏ حَدَّثَنَا إِبْرَاهِيمُ بْنُ أَبِي عَبْلَةَ، عَنْ أُمِّ الدَّرْدَاءِ أَنَّ رَجُلاً أَتَاهَا فَقَالَ‏:‏ إِنَّ رَجُلاً نَالَ مِنْكِ عِنْدَ عَبْدِ الْمَلِكِ، فَقَالَتْ‏:‏ إِنْ نُؤْبَنَ بِمَا لَيْسَ فِينَا، فَطَالَمَا زُكِّينَا بِمَا لَيْسَ فِينَا‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Umm ad-Darda' reported that a man came up to her and said, \"A man\nhas said bad things about you in the presence of 'Abdu'l-Malik.' She said,\n\"We are suspected of something which we did not do. How often we have been\npraised for what we did not do!\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا شِهَابُ بْنُ عَبَّادٍ، قَالَ‏:‏ حَدَّثَنَا إِبْرَاهِيمُ بْنُ حُمَيْدٍ الرُّؤَاسِيُّ، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ قَالَ‏:‏ قَالَ عَبْدُ اللهِ‏:‏ إِذَا قَالَ الرَّجُلُ لِصَاحِبِهِ‏:‏ أَنْتَ عَدُوِّي، فَقَدْ خَرَجَ أَحَدُهُمَا مِنَ الإِسْلاَمِ، أَوْ بَرِئ مِنْ صَاحِبِهِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Abdullah said, \"When a man says to his companion, 'You are my\nenemy,' then one of them has left Islam or he is innocent of what his companion\nsaid.'\""
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْوَاحِدِ، قَالَ‏:‏ حَدَّثَنَا لَيْثٌ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، أَظُنُّهُ رَفَعَهُ، شَكَّ لَيْثٌ، قَالَ‏:‏ فِي ابْنِ آدَمَ سِتُّونَ وَثَلاَثُمِئَةِ سُلاَمَى، أَوْ عَظْمٍ، أَوْ مَفْصِلٍ، عَلَى كُلِّ وَاحِدٍ فِي كُلِّ يَوْمٍ صَدَقَةٌ، كُلُّ كَلِمَةٍ طَيْبَةٍ صَدَقَةٌ، وَعَوْنُ الرَّجُلِ أَخَاهُ صَدَقَةٌ، وَالشَّرْبَةُ مِنَ الْمَاءِ يَسْقِيهَا صَدَقَةٌ، وَإِمَاطَةُ الأَذَى عَنِ الطَّرِيقِ صَدَقَةٌ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn 'Abbas said, \"There are 360 joints and each of them owes sadaqa\nevery single day. Every good word is sadaqa. A man's helping his brother\nis sadaqa. A drink of water which he gives is sadaqa. Removing something\nharmful from the road is sadaqa.\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، قَالَ‏:‏ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، قَالَ‏:‏ حَدَّثَنَا الْعَلاَءُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ‏:‏ الْمُسْتَبَّانِ مَا قَالاَ فَعَلَى الْبَادِئِ، مَا لَمْ يَعْتَدِ الْمَظْلُومُ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurayra reported that the Prophet, may Allah bless him and\ngrant him peace, said, \"When two people revile each other, the responsibility\nfor what they say rests on the first to speak as long as the one who wronged\ndoes not become excessive.\""
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عِيسَى، قَالَ‏:‏ حَدَّثَنَا ابْنُ وَهْبٍ قَالَ‏:‏ أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ سِنَانِ بْنِ سَعْدٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ‏:‏ الْمُسْتَبَّانِ مَا قَالاَ، فَعَلَى الْبَادِئِ، حَتَّى يَعْتَدِيَ الْمَظْلُومُ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "As 423, but from Anas."
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "وَقَالَ النَّبِيُّ صلى الله عليه وسلم‏:‏ أَتَدْرُونَ مَا الْعَضْهُ‏؟‏ قَالُوا‏:‏ اللَّهُ وَرَسُولُهُ أَعْلَمُ، قَالَ‏:‏ نَقْلُ الْحَدِيثِ مِنْ بَعْضِ النَّاسِ إِلَى بَعْضٍ، لِيُفْسِدُوا بَيْنَهُمْ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The Prophet, may Allah bless him and grant him peace, said, \"Do you know what calumny is?\" They said, \"No, Allah and His Messenger know best.\" He said, \"Telling people what other people have said in order to create dissension between them.\""
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "وَقَالَ النَّبِيُّ صلى الله عليه وسلم‏:‏ إِنَّ اللَّهَ عَزَّ وَجَلَّ أَوْحَى إِلَيَّ أَنْ تَوَاضَعُوا، وَلاَ يَبْغِ بَعْضُكُمْ عَلَى بَعْضٍ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The Prophet, may Allah bless him and grant him peace, said, \"Allah\nAlmighty revealed to me that you should be humble and that you should not\nwrong one another.\""
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ مَرْزُوقٍ، قَالَ‏:‏ أَخْبَرَنَا عِمْرَانُ، عَنْ قَتَادَةَ، عَنْ يَزِيدَ بْنِ عَبْدِ اللهِ بْنِ الشِّخِّيرِ، عَنْ عِيَاضِ بْنِ حِمَارٍ قَالَ‏:‏ قُلْتُ‏:‏ يَا رَسُولَ اللهِ، الرَّجُلُ يَسُبُّنِي‏؟‏ قَالَ النَّبِيُّ صلى الله عليه وسلم‏:‏ الْمُسْتَبَّانِ شَيْطَانَانِ يَتَهَاتَرَانِ وَيَتَكَاذَبَانِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Iyad ibn Himar said, \"I said, 'Messenger of Allah, there is someone\nwho reviles me.' The Prophet, may Allah bless him and grant him peace,\nsaid, 'Those who revile one another are two shaytans who accuse one another\nand deny one another.'\""
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا أَحْمَدُ، قَالَ‏:‏ حَدَّثَنَا أَبِي قَالَ‏:‏ حَدَّثَنِي إِبْرَاهِيمُ، عَنْ حَجَّاجِ بْنِ حَجَّاجٍ، عَنْ قَتَادَةَ، عَنْ يَزِيدَ بْنِ عَبْدِ اللهِ، عَنْ عِيَاضِ بْنِ حِمَارٍ قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ إِنَّ اللَّهَ أَوْحَى إِلَيَّ أَنْ تَوَاضَعُوا حَتَّى لاَ يَبْغِيَ أَحَدٌ عَلَى أَحَدٍ، وَلاَ يَفْخَرَ أَحَدٌ عَلَى أَحَدٍ، فَقُلْتُ‏:‏ يَا رَسُولَ اللهِ، أَرَأَيْتَ لَوْ أَنَّ رَجُلاً سَبَّنِي فِي مَلَأٍ هُمْ أَنْقُصُ مِنِّي، فَرَدَدْتُ عَلَيْهِ، هَلْ عَلَيَّ فِي ذَلِكَ جُنَاحٌ‏؟‏ قَالَ‏:‏ الْمُسْتَبَّانِ شَيْطَانَانِ يَتَهَاتَرَانِ وَيَتَكَاذَبَانِ‏.‏\nقَالَ عِيَاضٌ‏:‏ وَكُنْتُ حَرْبًا لِرَسُولِ اللهِ صلى الله عليه وسلم فَأَهْدَيْتُ إِلَيْهِ نَاقَةً، قَبْلَ أَنْ أُسْلِمَ، فَلَمْ يَقْبَلْهَا وَقَالَ‏:‏ إِنِّي أَكْرَهُ زَبْدَ الْمُشْرِكِينَ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Iyad ibn Himar reported that the Messenger of Allah, may Allah\nbless him and grant him peace, said, \"Allah has revealed to me that you\nshould be humble so that none of you will oppress anyone else and none\nof you will disdain another.' I said, 'Messenger of Allah, what do you\nthink I should do when a man reviles me in a low assembly and then I answer\nhim back? Do I incur any wrong action in doing that?' He replied, 'Two\nmen who revile one another are two shaytans who accuse one another and\ndeny one another.'\"\n\n'Iyad said, \"I was at war with the Messenger of Allah, may Allah bless him and grant him peace, and I gave him a she-camel before I became Muslim. He said, \"I dislike the froth of the idolaters.\""
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى قَالَ‏:‏ أَخْبَرَنِي يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ زَكَرِيَّا، عَنْ أَبِي إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ سَعْدِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ‏:‏ سِبَابُ الْمُسْلِمِ فُسُوقٌ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Sa'id ibn Malik reported that the Prophet, may Allah bless him\nand grant him peace, said, \"Reviling a Muslim is deviant behaviour.\""
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سِنَانٍ، قَالَ‏:‏ أَخْبَرَنَا فُلَيْحُ بْنُ سُلَيْمَانَ، قَالَ‏:‏ حَدَّثَنَا هِلاَلُ بْنُ عَلِيٍّ، عَنْ أَنَسٍ قَالَ‏:‏ لَمْ يَكُنْ رَسُولُ اللهِ صلى الله عليه وسلم فَاحِشًا، وَلاَ لَعَّانًا، وَلاَ سَبَّابًا، كَانَ يَقُولُ عِنْدَ الْمَعْتَبَةِ‏:‏ مَا لَهُ تَرِبَ جَبِينُهُ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Anas said, \"The Messenger of Allah, may Allah bless him and grant\nhim peace, was neither coarse nor a curser nor a reviler, He used to say\nwhen he wanted to censure someone, 'What is wrong with him? May his brow\nbe dusty!'\""
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنْ زُبَيْدٍ قَالَ‏:‏ سَمِعْتُ أَبَا وَائِلٍ، عَنْ عَبْدِ اللهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏:‏ سِبَابُ الْمُسْلِمِ فُسُوقٌ، وَقِتَالُهُ كُفْرٌ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Abdullah reported that the Prophet, may Allah bless him and grant\nhim peace, said, \"Reviling a Muslim is deviant behaviour and killing him\nis disbelief.\""
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنِ الْحُسَيْنِ، عَنْ عَبْدِ اللهِ بْنِ بُرَيْدَةَ، قَالَ‏:‏ حَدَّثَنَا يَحْيَى بْنُ يَعْمَُرَ، أَنَّ أَبَا الأَسْوَدِ الدِّيلِيَّ حَدَّثَهُ، أَنَّهُ سَمِعَ أَبَا ذَرٍّ قَالَ‏:‏ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ‏:‏ لاَ يَرْمِي رَجُلٌ رَجُلاً بِالْفُسُوقِ، وَلاَ يَرْمِيهِ بِالْكُفْرِ، إِلاَّ ارْتَدَّتْ عَلَيْهِ، إِنْ لَمْ يَكُنْ صَاحِبُهُ كَذَلِكَ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Dharr is reported as saying that he heard the Prophet, may\nAllah bless him and grant him peace, say, \"If a man accuses another man\nof deviance or accuses him of disbelief, that accusation will come back\non him if his companion is not as he said.\""
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "وَبِالسَّنَدِ، عَنْ أَبِي ذَرٍّ، سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ‏:‏ مَنِ ادَّعَى لِغَيْرِ أَبِيهِ وَهُوَ يَعْلَمُ فَقَدْ كَفَرَ، وَمَنِ ادَّعَى قَوْمًا لَيْسَ هُوَ مِنْهُمْ فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ، وَمَنْ دَعَا رَجُلاً بِالْكُفْرِ، أَوْ قَالَ‏:‏ عَدُوُّ اللهِ، وَلَيْسَ كَذَلِكَ إِلا حَارَتْ عَلَيْهِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Dharr states that he heard the Prophet, may Allah bless him\nand grant him peace, say, \"A person who knowingly claims a father other\nthan his own has disbelieved. A person who claims to be from a people when\nhe is not one of them will take his place in the Fire. A person who calls\na man an unbeliever or says, 'Enemy of Allah,' when that is not the case\nwill have that come back on him.\""
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عُمَرُ، قَالَ‏:‏ حَدَّثَنَا أَبِي، قَالَ‏:‏ حَدَّثَنَا الأَعْمَشُ، قَالَ‏:‏ حَدَّثَنَا عَدِيُّ بْنُ ثَابِتٍ قَالَ‏:‏ سَمِعْتُ سُلَيْمَانَ بْنَ صُرَدٍ، رَجُلاً مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم، قَالَ‏:‏ اسْتَبَّ رَجُلاَنِ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَغَضِبَ أَحَدُهُمَا، فَاشْتَدَّ غَضَبُهُ حَتَّى انْتَفَخَ وَجْهُهُ وَتَغَيَّرَ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم‏:‏ إِنِّي لَأَعْلَمُ كَلِمَةً لَوْ قَالَهَا لَذَهَبَ عَنْهُ الَّذِي يَجِدُ، فَانْطَلَقَ إِلَيْهِ الرَّجُلُ، فَأَخْبَرَهُ بِقَوْلِ النَّبِيِّ صلى الله عليه وسلم وَقَالَ‏:‏ تَعَوَّذْ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ، وَقَالَ‏:‏ أَتَرَى بِي بَأْسًا، أَمَجْنُونٌ أَنَا‏؟‏ اذْهَبْ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Sulayman ibn Surad, one of the Companions of the Prophet, said,\n\"Two men reviled one another in the presence of the Prophet, may Allah\nbless him and grant him peace, and one of them became angry. He became\nso angry that his face puffed out and changed colour. The Prophet, may\nAllah bless him and grant him peace, said, 'I know some words which will\nmake what he feels depart if he says them.' The man came to him and told\nhim what the Prophet, may Allah bless him and grant him peace, had said,\nHe said, 'Seek refuge with Allah from the Accursed Shaytan.' He said, 'Do\nyou think that there is something wrong with me? Am I mad? Leave!'\""
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا خَلاَّدُ بْنُ يَحْيَى، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، عَنْ عَمْرِو بْنِ سَلَمَةَ، عَنْ عَبْدِ اللهِ قَالَ‏:‏ مَا مِنْ مُسْلِمَيْنِ إِلاَّ بَيْنَهُمَا مِنَ اللهِ عَزَّ وَجَلَّ سِتْرٌ، فَإِذَا قَالَ أَحَدُهُمَا لِصَاحِبِهِ كَلِمَةَ هَجْرٍ فَقَدْ خَرَقَ سِتْرَ اللهِ، وَإِذَا قَالَ أَحَدُهُمَا لِلْآخَرِ‏:‏ أَنْتَ كَافِرٌ، فَقَدْ كَفَرَ أَحَدُهُمَا‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Abdullah said, \"There is a veil from Allah Almighty between every\ntwo Muslims. When one of them says ugly words to his companion, he has\nrent the veil of Allah. When one of them tells the other, 'You are an unbeliever,'\nthen one of them has disbelieved.\""
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، قَالَ‏:‏ حَدَّثَنَا أَبِي، قَالَ‏:‏ حَدَّثَنَا الأَعْمَشُ، قَالَ‏:‏ حَدَّثَنَا مُسْلِمٌ، عَنْ مَسْرُوقٍ قَالَ‏:‏ قَالَتْ عَائِشَةُ‏:‏ صَنَعَ النَّبِيُّ صلى الله عليه وسلم شَيْئًا، فَرَخَّصَ فِيهِ، فَتَنَزَّهَ عَنْهُ قَوْمٌ، فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَخَطَبَ، فَحَمِدَ اللَّهَ، ثُمَّ قَالَ‏:‏ مَا بَالُ أَقْوَامٍ يَتَنَزَّهُونَ عَنِ الشَّيْءِ أَصْنَعُهُ‏؟‏ فَوَاللَّهِ إِنِّي لَأَعْلَمُهُمْ بِاللَّهِ، وَأَشَدُّهُمْ لَهُ خَشْيَةً‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'A'isha said, \"The Prophet, may Allah bless him and grant him peace,\ndid something and thereby created a dispensation for doing it. Some people\nstill refrained from doing. The Prophet, may Allah bless him and grant\nhim peace, heard about that and he gave a speech and praised Allah. Then\nhe said, 'What is wrong with people who restrain themselves from doing\nsomething which I do? By Allah, I know Allah better than they do and I\nfear Him more than they do!'\""
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْمُبَارَكِ، قَالَ‏:‏ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ سَلْمٍ الْعَلَوِيِّ، عَنْ أَنَسٍ قَالَ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم قَلَّ مَا يُوَاجِهُ الرَّجُلَ بِشَيْءٍ يَكْرَهُهُ، فَدَخَلَ عَلَيْهِ يَوْمًا رَجُلٌ، وَعَلَيْهِ أَثَرُ صُفْرَةٍ، فَلَمَّا قَامَ قَالَ لأَصْحَابِهِ‏:‏ لَوْ غَيَّرَ، أَوْ نَزَعَ، هَذِهِ الصُّفْرَةَ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Anas said, \"The Prophet, may Allah bless him and grant him peace,\nrarely told a man something to his face which he disliked. One day a man\ncame to him with a trace of yellowish scent on him. When he stood up, he\nsaid to his Companions, 'If only he would change - or remove -\nthis yellow!'\""
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا مُوسَى، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْعَزِيزِ، قَالَ‏:‏ حَدَّثَنَا حُصَيْنٌ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ قَالَ‏:‏ سَمِعْتُ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ يَقُولُ‏:‏ بَعَثَنِي النَّبِيُّ صلى الله عليه وسلم وَالزُّبَيْرَ بْنَ الْعَوَّامِ، وَكِلاَنَا فَارِسٌ، فَقَالَ‏:‏ انْطَلِقُوا حَتَّى تَبْلُغُوا رَوْضَةَ كَذَا وَكَذَا، وَبِهَا امْرَأَةٌ مَعَهَا كِتَابٌ مِنْ حَاطِبٍ إِلَى الْمُشْرِكِينَ، فَأْتُونِي بِهَا، فَوَافَيْنَاهَا تَسِيرُ عَلَى بَعِيرٍ لَهَا حَيْثُ وَصَفَ لَنَا النَّبِيُّ صلى الله عليه وسلم، فَقُلْنَا‏:‏ الْكِتَابُ الَّذِي مَعَكِ‏؟‏ قَالَتْ‏:‏ مَا مَعِي كِتَابٌ، فَبَحَثْنَاهَا وَبَعِيرَهَا، فَقَالَ صَاحِبِي‏:‏ مَا أَرَى، فَقُلْتُ‏:‏ مَا كَذَبَ النَّبِيُّ صلى الله عليه وسلم، وَالَّذِي نَفْسِي بِيَدِهِ لَأُجَرِّدَنَّكِ أَوْ لَتُخْرِجِنَّهُ، فَأَهْوَتْ بِيَدِهَا إِلَى حُجْزَتِهَا وَعَلَيْهَا إِزَارٌ صُوفٌ، فَأَخْرَجَتْ، فَأَتَيْنَا النَّبِيَّ صلى الله عليه وسلم، فَقَالَ عُمَرُ‏:‏ خَانَ اللَّهَ وَرَسُولَهُ وَالْمُؤْمِنِينَ، دَعْنِي أَضْرِبْ عُنُقَهُ، وَقَالَ‏:‏ مَا حَمَلَكَ‏؟‏ فَقَالَ‏:‏ مَا بِي إِلاَّ أَنْ أَكُونَ مُؤْمِنًا بِاللَّهِ، وَأَرَدْتُ أَنْ يَكُونَ لِي عِنْدَ الْقَوْمِ يَدٌ، قَالَ‏:‏ صَدَقَ يَا عُمَرُ، أَوَ لَيْسَ قَدْ شَهِدَ بَدْرًا، لَعَلَّ اللَّهَ اطَّلَعَ إِلَيْهِمْ فَقَالَ‏:‏ اعْمَلُوا مَا شِئْتُمْ فَقَدْ وَجَبَتْ لَكُمُ الْجَنَّةُ، فَدَمَعَتْ عَيْنَا عُمَرَ وَقَالَ‏:‏ اللَّهُ وَرَسُولُهُ أَعْلَمُ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Ali said. \"The Prophet, may Allah bless him and grant him peace,\nsent for me and az-Zubayr ibn al-'Awwam while we were both on horseback\nand said, 'Go to such-and-such a meadow. There is a woman there who has\na letter with her from Hatib to the idolaters. Bring her to me.' We found\nher rising along on one of her camels as the Prophet, may Allah bless him\nand grant him peace, had described her. We said, ' the letter\nyou have with you.' 'I do not have any letter,' she replied. We searched\nand her camel. My companion said, 'I do not see it.' I said, 'The Prophet,\nmay Allah bless him and grant him peace, does not lie. By the One in whose\nhand my soul is, I will strip her unless she produces it!' She put her\nhand in the knot of her shawl - as she was wearing a black shawl -\nand brought it out. We went back to the Prophet, may Allah bless him and\ngrant him peace. 'Umar exclaimed, 'He (i.e. Hatim) has betrayed Allah,\nHis Messenger, and the believers! Let me strike off his head!' He asked,\n'What made you do it?' Hatim said, 'I believe in Allah, but I want to have\nsome authority with the people.' He said, ;He has spoken the truth, 'Umar.\nWas he not present at Badr? Perhaps Allah has looked on them and said,\n\"Do whatever you like. The Garden is guaranteed for you.\"' 'Umar wept and\nsaid, 'Allah and His Messenger know best.''\""
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ‏:‏ حَدَّثَنَا مَالِكٌ، عَنْ عَبْدِ اللهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ‏:‏ أَيُّمَا رَجُلٌ قَالَ لأَخِيهِ‏:‏ كَافِرٌ، فَقَدْ بَاءَ بِهَا أَحَدُهُمَا‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Abdullah ibn 'Umar reported that the Messenger of Allah, may Allah\nbless him and grant him peace, said, \"If a man says to his brother, 'You\nare an unbeliever,' it is true for one or the other of them.\""
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ دَاوُدَ، قَالَ‏:‏ حَدَّثَنَا مَالِكٌ، أَنَّ نَافِعًا حَدَّثَهُ، أَنَّ عَبْدَ اللهِ بْنَ عُمَرَ أَخْبَرَهُ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ‏:‏ إِذَا قَالَ لِلْآخَرِ‏:‏ كَافِرٌ، فَقَدْ كَفَرَ أَحَدُهُمَا، إِنْ كَانَ الَّذِي قَالَ لَهُ كَافِرًا فَقَدْ صَدَقَ، وَإِنْ لَمْ يَكُنْ كَمَا قَالَ لَهُ فَقَدْ بَاءَ الَّذِي قَالَ لَهُ بِالْكُفْرِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Abdullah ibn 'Umar reported that the Messenger of Allah, may Allah\nbless him and grant him peace, said, \"When someone says to another, 'Unbeliever!'\nthen one of them is an unbeliever. If the one to whom he says it is an\nunbeliever, he has spoke the truth. If that is not the case, then the one\nwho said it has brought down disbelief on himself.\""
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 24,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مُحَمَّدٍ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ سُمَيٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَتَعَوَّذُ مِنْ سُوءِ الْقَضَاءِ، وَشَمَاتَةِ الأعداء‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurayra reported that the Prophet, may Allah bless him and\ngrant him peace, used to seek refuge from an evil end and the glaoting\nof enemies."
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 25,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ يُوسُفَ، قَالَ‏:‏ أَخْبَرَنَا مَالِكٌ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ‏:‏ إِنَّ اللَّهَ يَرْضَى لَكُمْ ثَلاَثًا، وَيَسْخَطُ لَكُمْ ثَلاَثًا، يَرْضَى لَكُمْ‏:‏ أَنْ تَعْبُدُوهُ وَلاَ تُشْرِكُوا بِهِ شَيْئًا، وَأَنْ تَعْتَصِمُوا بِحَبْلِ اللهِ جَمِيعًا، وَأَنْ تَنَاصَحُوا مَنْ وَلاَّهُ اللَّهُ أَمْرَكُمْ، وَيَكْرَهُ لَكُمْ‏:‏ قِيلَ وَقَالَ، وَكَثْرَةَ السُّؤَالِ، وَإِضَاعَةَ الْمَالِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurayra reported that the Messenger of Allah, may Allah bless\nhim and grant him peace, said, \"Allah is pleased with you about three things\nand He is angry with you about three things. He is pleased that you worship\nHim, not associating anything with Him, that you all take hold of the rope\nof Allah and that you give good counsel to those that Allah has put in\nauthority over you. He dislikes you engaging in chitchat, asking a lot\nof questions and squandering wealth.\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 25,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، قَالَ‏:‏ حَدَّثَنَا إِسْمَاعِيلُ بْنُ زَكَرِيَّا، عَنْ عَمْرِو بْنِ قَيْسٍ الْمُلاَئِيِّ، عَنِ الْمِنْهَالِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، فِي قَوْلِهِ عَزَّ وَجَلَّ‏:‏ ‏{‏وَمَا أَنْفَقْتُمْ مِنْ شَيْءٍ فَهُوَ يَخْلُفُهُ وَهُوَ خَيْرُ الرَّازِقِينَ‏}‏، قَالَ‏:‏ فِي غَيْرِ إِسْرَافٍ، ولا تَقْتِيرٍ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "In commenting on the words of Allah Almighty, \"Anything you\nspend will be replaced by Him. and He is the best of Providers,\" (34:39)\nIbn 'Abbas said, \"without extravagance or parsimony.\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 25,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا قَبِيصَةُ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ سَلَمَةَ، عَنْ مُسْلِمٍ الْبَطِينِ، عَنْ أَبِي الْعُبَيْدَيْنِ قَالَ‏:‏ سَأَلْتُ عَبْدَ اللهِ عَنِ الْمُبَذِّرِينَ، قَالَ‏:‏ الَّذِينَ يُنْفِقُونَ فِي غَيْرِ حَقٍّ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu'l-'Ubaydayn said, \"I asked 'Abdullah about those who squander\nand he said, 'They are those who spend incorrectly.'\""
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 25,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَارِمٌ، قَالَ‏:‏ حَدَّثَنَا هُشَيْمٌ، قَالَ‏:‏ حَدَّثَنَا حُصَيْنٌ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ‏:‏ ‏{‏الْمُبَذِّرِينَ‏}‏، قَالَ‏:‏ الْمُبَذِّرِينَ فِي غَيْرِ حَقٍّ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn 'Abbas said that he said that \"the squanderers\" were those\nwho wasted money incorrectly."
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 25,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ يُوسُفَ، قَالَ‏:‏ حَدَّثَنَا اللَّيْثُ، قَالَ‏:‏ حَدَّثَنَا ابْنُ عَجْلاَنَ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ قَالَ‏:‏ كَانَ عُمَرُ يَقُولُ عَلَى الْمِنْبَرِ‏:‏ يَا أَيُّهَا النَّاسُ، أَصْلِحُوا عَلَيْكُمْ مَثَاوِيكُمْ، وَأَخِيفُوا هَذِهِ الْجِنَّانَ قَبْلَ أَنْ تُخِيفَكُمْ، فَإِنَّهُ لَنْ يَبْدُوَ لَكُمْ مُسْلِمُوهَا، وَإِنَّا وَاللَّهِ مَا سَالَمْنَاهُنَّ مُنْذُ عَادَيْنَاهُنَّ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Zayd ibn Aslam reported from his father that 'Umar used to say\non the minbar, \"O people! Improve your homes but be careful about these\nhouse snakes  before they make you afraid. Those\namong them which are Muslim will not be clear to you and, by Allah, we\nhave not made peace with them since the time when we treated them as an\nenemy.\""
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 25,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مُوسَى، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنْ حَارِثَةَ بْنِ مُضَرِّبٍ، عَنْ خَبَّابٍ قَالَ‏:‏ إِنَّ الرَّجُلَ لَيُؤْجَرُ فِي كُلِّ شَيْءٍ، إِلا الْبِنَاءَ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Khabbab said, \"A man is rewarded for everything except building.\""
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 25,
+      "bookId": 13,
+      "arabic": "حَدَّثَنَا أَبُو حَفْصِ بْنُ عَلِيٍّ، قَالَ‏:‏ حَدَّثَنَا أَبُو عَاصِمٍ، قَالَ‏:‏ حَدَّثَنَا عَمْرُو بْنُ وَهْبٍ الطَّائِفِيُّ، قَالَ‏:‏ حَدَّثَنَا غُطَيْفُ بْنُ أَبِي سُفْيَانَ، أَنَّ نَافِعَ بْنَ عَاصِمٍ أَخْبَرَهُ، أَنَّهُ سَمِعَ عَبْدَ اللهِ بْنَ عَمْرٍو قَالَ لِابْنِ أَخٍ لَهُ خَرَجَ مِنَ الْوَهْطِ‏:‏ أَيَعْمَلُ عُمَّالُكَ‏؟‏ قَالَ‏:‏ لاَ أَدْرِي، قَالَ‏:‏ أَمَا لَوْ كُنْتَ ثَقَفِيًّا لَعَلِمْتَ مَا يَعْمَلُ عُمَّالُكَ، ثُمَّ الْتَفَتَ إِلَيْنَا فَقَالَ‏:‏ إِنَّ الرَّجُلَ إِذَا عَمِلَ مَعَ عُمَّالِهِ فِي دَارِهِ، وَقَالَ أَبُو عَاصِمٍ مَرَّةً‏:‏ فِي مَالِهِ، كَانَ عَامِلاً مِنْ عُمَّالِ اللهِ عَزَّ وَجَلَّ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Abdullah ibn 'Amr was heard to say to a nephew of his who had\nleft al-Waht, \"Are your workers at work?\" \"I don't know,\" he replied. He\nsaid, \"If you were clever, you would work as your workers work.\" Then he\nturned towards us and said, \"When a man works with his workers in his house\n(and Abu 'Asim once said, 'in his property'), he is one of the workers\nof Allah Almighty.\""
+      }
+    }
+  ]
+}

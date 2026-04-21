@@ -1,0 +1,16 @@
+{
+  "id": 211,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، قَالَ أَبُو إِسْحَاقَ عَنْ هَانِئِ بْنِ هَانِئٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كُنْتُ جَالِسًا عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَجَاءَ عَمَّارٌ فَاسْتَأْذَنَ فَقَالَ ائْذَنُوا لَهُ مَرْحَبًا بِالطَّيِّبِ الْمُطَيَّبِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "I was sitting with the Prophet (ﷺ) and ‘Ammar came and asked for permission to enter. He said: `Let him in; welcome to the good and purified one.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

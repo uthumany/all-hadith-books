@@ -1,0 +1,16 @@
+{
+  "id": 230,
+  "chapterId": 19,
+  "bookId": 14,
+  "arabic": "وَعَن رويفع بْنِ ثَابِتٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلَا يَرْكَبْ دَابَّةً مِنْ فَيْءِ الْمُسْلِمِينَ حَتَّى إِذَا أَعْجَفَهَا رَدَّهَا فِيهِ وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلَا يَلْبَسْ ثَوْبًا مِنْ فَيْءِ الْمُسلمين حَتَّى إِذا أخلقه ردهَا فِيهِ» . رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "",
+    "text": "Ruwaifi' b. Thabit reported the Prophet as saying, “He who believes in God and the last day must not ride a packhorse belonging to the booty of the Muslims and put it back when he has emaciated it; and he who believes in God and the last day must not wear a garment belonging to the booty of the Muslims and put it back when he has made it threadbare.” \n\nAbu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

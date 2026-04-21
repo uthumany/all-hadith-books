@@ -1,0 +1,16 @@
+{
+  "id": 24,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا أَبُو بَكْرٍ، - يَعْنِي ابْنَ عَيَّاشٍ - قَالَ سَمِعْتُ الْمُغِيرَةَ، يَقُولُ لَمْ يَكُنْ يَصْدُقُ عَلَى عَلِيٍّ - رضى الله عنه - فِي الْحَدِيثِ عَنْهُ إِلاَّ مِنْ أَصْحَابِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ ‏.‏",
+  "english": {
+    "narrator": "Alī bin Khashram narrated to us, Abū Bakr, meaning Ibn Ayyāsh, informed us, he said ‘I heard al-Mughīrah saying:",
+    "text": "‘There are no Ḥadīth on authority of Alī, may Allah be pleased with him, that are confirmed except from the companions of Abd Allah bin Mas’ūd.’"
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 177,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ مَنْصُورًا، عَنْ إِبْرَاهِيمَ، عَنْ نُبَاتَةَ، عَنْ سُوَيْدِ بْنِ غَفَلَةَ، قَالَ كَتَبَ عُمَرُ بْنُ الْخَطَّابِ إِلَى بَعْضِ عُمَّالِهِ أَنِ ارْزُقِ، الْمُسْلِمِينَ مِنَ الطِّلاَءِ مَا ذَهَبَ ثُلُثَاهُ وَبَقِيَ ثُلُثُهُ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Suwiad bin Ghafalah said:",
+    "text": "\"Umar bin Al-Khattab wrote to some of his workers saying: 'Give to the Muslims thickened grape juice when two thirds of it have gone and one-third is left.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

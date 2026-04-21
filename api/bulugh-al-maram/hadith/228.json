@@ -1,0 +1,16 @@
+{
+  "id": 228,
+  "chapterId": 7,
+  "bookId": 12,
+  "arabic": "وَأَخْرَجَهُ أَحْمَدُ , وَالْبَزَّارُ مِنْ حَدِيثِ أَبِي اَلدَّرْدَاءِ  1‏ .‏‏1 ‏- رواه أحمد ( 6 / 440 ‏- 441 )‏ ، والبزار ( 1382 )‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Ahmad and al-Bazzar reported the aforesaid narration from the Hadith of Abu ad-Darda."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

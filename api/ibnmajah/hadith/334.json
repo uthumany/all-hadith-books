@@ -1,0 +1,16 @@
+{
+  "id": 334,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا الْهَيْثَمُ بْنُ جَمِيلٍ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ أَبَانَ بْنِ تَغْلِبَ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنْ أَبِيهِ، قَالَ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ إِذَا قَامَ عَلَى الْمِنْبَرِ اسْتَقْبَلَهُ أَصْحَابُهُ بِوُجُوهِهِمْ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated from ‘Adi bin Thabit that his father said:",
+    "text": "“When the\nProphet (ﷺ) stood on the pulpit, his Companions would turn to face\nhim.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

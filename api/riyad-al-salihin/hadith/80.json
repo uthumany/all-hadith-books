@@ -1,0 +1,16 @@
+{
+  "id": 80,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "السابع‏:‏ عن أبي عمارة البراء بن عازب رضي الله عنهما قال ‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏ يا فلان إذا أويت إلى فراشك فقل‏:‏ اللهم أسلمت نفسي إليك، ووجهت وجهي إليك‏:‏ وفوضت أمري إليك ، وألجأت ظهري إليك، رغبة ورهبة إليك، لا ملجأ ولا منجى منك إلا إليك ، آمنت بكتابك الذي أنزلت، ونبيك الذي أرسلت؛ فإنك إن مت من ليلتك مت على الفطرة، وإن أصبحت أصبت خيراً‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Al-Bara' bin 'Azib (May Allah be pleased with them) said:",
+    "text": "Messenger of Allah (ﷺ) asked me to recite whenever I go to bed: \"Allahumma aslamtu nafsi ilaika, wa wajjahtu wajhi ilaika, wa fawwadtu amri ilaika, wal-ja'tu zahri ilaika, raghbatan wa rahbatan ilaika, la malja wa la manja minka illa ilaika. Amantu bikitabikal-ladhi anzalta, wa nabiyyikal-ladhi arsalta (O Allah! I have submitted myself to You, I have turned my face to You, entrusted my affairs to You; and committed my back to You out of desire for You and fear of You; expecting Your reward and fearing Your punishment). There is no refuge and no place of safety from You but with You. I believe in the Book You have revealed and in the Prophet You have sent.\" Messenger of Allah (ﷺ) said that if anyone recited these words and died that night, he would die in the true religion. In case he remains alive till morning, he will obtain good. and let these words be your last\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 510,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ نَاجِيَةَ بْنِ كَعْبٍ، عَنْ عَلِيٍّ، قَالَ لَمَّا مَاتَ أَبُو طَالِبٍ أَتَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقُلْتُ إِنَّ عَمَّكَ الشَّيْخَ الضَّالَّ قَدْ مَاتَ فَقَالَ انْطَلِقْ فَوَارِهِ وَلَا تُحْدِثْ شَيْئًا حَتَّى تَأْتِيَنِي قَالَ فَانْطَلَقْتُ فَوَارَيْتُهُ فَأَمَرَنِي فَاغْتَسَلْتُ ثُمَّ دَعَا لِي بِدَعَوَاتٍ مَا أُحِبُّ أَنَّ لِي بِهِنَّ مَا عَرُضَ مِنْ شَيْءٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated that  ‘Ali (رضي الله عنه) said:",
+    "text": "When Abu Talib died, I came to the Prophet (ﷺ) and said: Your paternal uncle, the misguided old man, has died. He said: `Go and bury him, and do not do anything until you come to me.` So I went and buried him. Then he told me to do ghusl, then he prayed for me, offering supplications that I would not like to have anything else instead of them."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

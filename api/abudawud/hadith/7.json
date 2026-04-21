@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ التَّيْمِيِّ، عَنِ الْحَارِثِ بْنِ سُوَيْدٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا تَعُدُّونَ الصُّرَعَةَ فِيكُمْ ‏\"‏ ‏.‏ قَالُوا الَّذِي لاَ يَصْرَعُهُ الرِّجَالُ ‏.‏ قَالَ ‏\"‏ لاَ وَلَكِنَّهُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "`Abd Allah (b. Mas`ud) reported the Messenger of Allah (ﷺ) as saying:",
+    "text": "Whom do you consider a wrestler among you? The people replied: (the man) whom the men cannot defeat in wrestling. He said: No, it is he who controls himself when he is angry."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "page": 116,
+  "perPage": 50,
+  "totalPages": 116,
+  "totalCount": 5768,
+  "nextPage": null,
+  "prevPage": 115,
+  "items": [
+    {
+      "id": 203,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ بَسَّامٍ، قَالَ سَأَلْتُ أَبَا جَعْفَرٍ عَنِ النَّبِيذِ، قَالَ كَانَ عَلِيُّ بْنُ حُسَيْنٍ رضى الله عنه يُنْبَذُ لَهُ مِنَ اللَّيْلِ فَيَشْرَبُهُ غُدْوَةً وَيُنْبَذُ لَهُ غُدْوَةً فَيَشْرَبُهُ مِنَ اللَّيْلِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Bassam said:",
+        "text": "\"I asked Abu Ja'far about Nabidh and he said: \" 'Ali bin Husain, may Allah be pleased with him, would have Nabidh made for him at night, and he would drink it in the morning, and he would have Nabidh made in the morning and he would drink it at night.'\""
+      }
+    },
+    {
+      "id": 204,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، قَالَ سَمِعْتُ سُفْيَانَ، سُئِلَ عَنِ النَّبِيذِ، قَالَ انْتَبِذْ عَشِيًّا وَاشْرَبْهُ غُدْوَةً ‏.‏",
+      "english": {
+        "narrator": "'Abdullah said:",
+        "text": "\"I heard Sufyan being asked about Nabidh. He said: 'Make Nabidh at night and drink it in the morning.'\""
+      }
+    },
+    {
+      "id": 205,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ أَبِي عُثْمَانَ، وَلَيْسَ، بِالنَّهْدِيِّ أَنَّ أُمَّ الْفَضْلِ، أَرْسَلَتْ إِلَى أَنَسِ بْنِ مَالِكٍ تَسْأَلُهُ عَنْ نَبِيذِ الْجَرِّ فَحَدَّثَهَا عَنِ النَّضْرِ ابْنِهِ أَنَّهُ كَانَ يُنْبَذُ فِي جَرٍّ يُنْبَذُ غُدْوَةً وَيَشْرَبُهُ عَشِيَّةً ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu 'Uthman, who was not Al-Hindi, that:",
+        "text": "Umm Al-Fadl sent word to Anas bin Malik, asking him about Nabidh made in an earthenware jar. He told her about his son An-Nadr, who used to make Nabidh in an earthenware jar in the morning and drink it in the evening."
+      }
+    },
+    {
+      "id": 206,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ مَعْمَرٍ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ كَانَ يَكْرَهُ أَنْ يَجْعَلَ، نَطْلَ النَّبِيذِ فِي النَّبِيذِ لِيَشْتَدَّ بِالنَّطْلِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Sa'eed bin Al-Musayyib that:",
+        "text": "He disliked putting the dregs of Nabidh into (new) Nabidh lest it become strong because of the dregs."
+      }
+    },
+    {
+      "id": 207,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُفْيَانَ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ قَالَ فِي النَّبِيذِ خَمْرُهُ دُرْدِيُّهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Sa'eed bin Al-Musayyab said concerning Nabidh:",
+        "text": "\"The dregs are what intoxicates.\""
+      }
+    },
+    {
+      "id": 208,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، قَالَ إِنَّمَا سُمِّيَتِ الْخَمْرُ لأَنَّهَا تُرِكَتْ حَتَّى مَضَى صَفْوُهَا وَبَقِيَ كَدَرُهَا ‏.‏ وَكَانَ يَكْرَهُ كُلَّ شَىْءٍ يُنْبَذُ عَلَى عَكَرٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Sa'eed bin Al-Musayyab said:",
+        "text": "\"Khamr is so called because it is left until the good parts are gone and the dregs remain.\" And he disliked everything that was made by using dregs (by adding new materials to the dregs)."
+      }
+    },
+    {
+      "id": 209,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَبُو بَكْرِ بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا الْقَوَارِيرِيُّ، قَالَ حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، قَالَ حَدَّثَنَا حَسَنُ بْنُ عَمْرٍو، عَنْ فُضَيْلِ بْنِ عَمْرٍو، عَنْ إِبْرَاهِيمَ، قَالَ كَانُوا يَرَوْنَ أَنَّ مَنْ، شَرِبَ شَرَابًا فَسَكِرَ مِنْهُ لَمْ يَصْلُحْ لَهُ أَنْ يَعُودَ فِيهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibrahim said:",
+        "text": "\"They used to think that whoever drank something and became intoxicated from it, it was not befitting for him to go back and drink more of the same.\""
+      }
+    },
+    {
+      "id": 210,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُفْيَانَ، عَنْ مُغِيرَةَ، عَنْ أَبِي مَعْشَرٍ، عَنْ إِبْرَاهِيمَ، قَالَ لاَ بَأْسَ بِنَبِيذِ الْبُخْتُجِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibrahim said:",
+        "text": "\"There is nothing wrong with Nabidh Al-Bukhtuj.\""
+      }
+    },
+    {
+      "id": 211,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ أَبِي عَوَانَةَ، عَنْ أَبِي مِسْكِينٍ، قَالَ سَأَلْتُ إِبْرَاهِيمَ قُلْتُ إِنَّا نَأْخُذُ دُرْدِيَّ الْخَمْرِ أَوِ الطِّلاَءَ فَنُنَظِّفُهُ ثُمَّ نَنْقَعُ فِيهِ الزَّبِيبَ ثَلاَثًا ثُمَّ نُصَفِّيهِ ثُمَّ نَدَعُهُ حَتَّى يَبْلُغَ فَنَشْرَبُهُ قَالَ يُكْرَهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Al-Miskin said:",
+        "text": "\"I asked Ibrahim: 'We take the dregs of Khamr or Tila' (thickened grape juice) and clean them, then we soak it with raisins for three days, then we strain it and leave it until it matures, then we drink it.' He said: 'That is Makruh.'\""
+      }
+    },
+    {
+      "id": 212,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنِ ابْنِ شُبْرُمَةَ، قَالَ رَحِمَ اللَّهُ إِبْرَاهِيمَ شَدَّدَ النَّاسُ فِي النَّبِيذِ وَرَخَّصَ فِيهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Shubrumah said:",
+        "text": "\"May Allah have mercy on Ibrahim. Other scholars had strict views on Nabidh but he was lenient.\""
+      }
+    },
+    {
+      "id": 213,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، عَنْ أَبِي أُسَامَةَ، قَالَ سَمِعْتُ ابْنَ الْمُبَارَكِ، يَقُولُ مَا وَجَدْتُ الرُّخْصَةَ فِي الْمُسْكِرِ عَنْ أَحَدٍ صَحِيحًا إِلاَّ عَنْ إِبْرَاهِيمَ ‏.‏",
+      "english": {
+        "narrator": "Ibn Al-Mubarak said:",
+        "text": "\"I have never found any sound report, giving a concession on intoxicants, except the report narrated from Ibrahim.\""
+      }
+    },
+    {
+      "id": 214,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ سَمِعْتُ أَبَا أُسَامَةَ، يَقُولُ مَا رَأَيْتُ رَجُلاً أَطْلَبَ لِلْعِلْمِ مِنْ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ الشَّامَاتِ وَمِصْرَ وَالْيَمَنَ وَالْحِجَازَ ‏.‏",
+      "english": {
+        "narrator": "'Ubaidullah bin Sa'eed said:",
+        "text": "\"I heard Abu Usamah say: 'I never saw any man more assiduous in seeking knowledge than 'Abdullah bin Al-Mubarak, not in Ash-Sham, Egypt, Yemen or the Hijaz.'\""
+      }
+    },
+    {
+      "id": 215,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَسَدُ بْنُ مُوسَى، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، رضى الله عنه قَالَ كَانَ لأُمِّ سُلَيْمٍ قَدَحٌ مِنْ عَيْدَانٍ فَقَالَتْ سَقَيْتُ فِيهِ رَسُولَ اللَّهِ صلى الله عليه وسلم كُلَّ الشَّرَابِ الْمَاءَ وَالْعَسَلَ وَاللَّبَنَ وَالنَّبِيذَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "Umm Sulaim had a wooden cup and she said: \"I gave the Messenger of Allah  all kinds of things to drink in it: Water, honey, milk and Nabidh.\""
+      }
+    },
+    {
+      "id": 216,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُفْيَانَ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ ذَرِّ بْنِ عَبْدِ اللَّهِ، عَنْ سَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبْزَى، عَنْ أَبِيهِ، قَالَ سَأَلْتُ أُبَىَّ بْنَ كَعْبٍ عَنِ النَّبِيذِ، فَقَالَ اشْرَبِ الْمَاءَ وَاشْرَبِ الْعَسَلَ وَاشْرَبِ السَّوِيقَ وَاشْرَبِ اللَّبَنَ الَّذِي نُجِعَتْ بِهِ ‏.‏ فَعَاوَدْتُهُ فَقَالَ الْخَمْرَ تُرِيدُ الْخَمْرَ تُرِيدُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Sa'eed bin 'Abdur-Rahman bin Abza that his father said:",
+        "text": "\"I asked Ubayy bin Ka'b about Nabidh, and he said: 'Drink water, drink honey, drink Sawiq (barley gruel) and drink milk that you have been nourished with since childhood.' I repeated the question and he said: 'Is it wine you want? Is it wine you want?'\""
+      }
+    },
+    {
+      "id": 217,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي أَحْمَدُ بْنُ عَلِيِّ بْنِ سَعِيدِ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا الْقَوَارِيرِيُّ، قَالَ حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ، عَنْ أَبِيهِ، عَنْ مُحَمَّدٍ، عَنْ عَبِيدَةَ، عَنِ ابْنِ مَسْعُودٍ، قَالَ أَحْدَثَ النَّاسُ أَشْرِبَةً مَا أَدْرِي مَا هِيَ فَمَا لِي شَرَابٌ مُنْذُ عِشْرِينَ سَنَةً أَوْ قَالَ أَرْبَعِينَ سَنَةً إِلاَّ الْمَاءُ وَالسَّوِيقُ غَيْرَ أَنَّهُ لَمْ يَذْكُرِ النَّبِيذَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Mas'ud said:",
+        "text": "\"The people have invented new drinks and I do not know what they are. I have not drunk anything for 20 years (or he said: 40 years) except water and Sawiq (barley gruel), and he did not mention Nabidh.\""
+      }
+    },
+    {
+      "id": 218,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ عَبِيدَةَ، قَالَ أَحْدَثَ النَّاسُ أَشْرِبَةً مَا أَدْرِي مَا هِيَ وَمَا لِي شَرَابٌ مُنْذُ عِشْرِينَ سَنَةً إِلاَّ الْمَاءُ وَاللَّبَنُ وَالْعَسَلُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abidah said:",
+        "text": "\"The people have invented drinks and I do not know what they are. I have not drunk anything for 20 years except water, milk and honey.\""
+      }
+    },
+    {
+      "id": 219,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنِ ابْنِ شُبْرُمَةَ، قَالَ قَالَ طَلْحَةُ لأَهْلِ الْكُوفَةِ فِي النَّبِيذِ فِتْنَةٌ يَرْبُو فِيهَا الصَّغِيرُ وَيَهْرَمُ فِيهَا الْكَبِيرُ قَالَ وَكَانَ إِذَا كَانَ فِيهِمْ عُرْسٌ كَانَ طَلْحَةُ وَزُبَيْرٌ يَسْقِيَانِ اللَّبَنَ وَالْعَسَلَ ‏.‏ فَقِيلَ لِطَلْحَةَ أَلاَ تَسْقِيهِمُ النَّبِيذَ قَالَ إِنِّي أَكْرَهُ أَنْ يَسْكَرَ مُسْلِمٌ فِي سَبَبِي ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Shubrumah said:",
+        "text": "\"Talhah said to the people of Al-Kufah concerning Nabidh: 'It is a test whereby a young man may benefit but an old man may be harmed.' If there was a wedding among them, Talhah and Zubaid would offer milk and honey to drink. It was said to Talhah: 'Why don't you offer Nabidh?' He said: 'I would not like a Muslim to become intoxicated because of me.'\""
+      }
+    },
+    {
+      "id": 220,
+      "chapterId": 51,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، قَالَ كَانَ ابْنُ شُبْرُمَةَ لاَ يَشْرَبُ إِلاَّ الْمَاءَ وَاللَّبَنَ ‏.‏",
+      "english": {
+        "narrator": "Jarir said:",
+        "text": "\"Ibn Shubrumah would not drink anything except water and milk.\""
+      }
+    }
+  ]
+}

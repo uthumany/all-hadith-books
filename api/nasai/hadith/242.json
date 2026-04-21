@@ -1,0 +1,16 @@
+{
+  "id": 242,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ حُجْرٍ، - وَاللَّفْظُ لَهُ - قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ قَدِ اصْطَنَعْنَا خَاتَمًا وَنَقَشْنَا عَلَيْهِ نَقْشًا فَلاَ يَنْقُشْ عَلَيْهِ أَحَدٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Anas said:",
+    "text": "\"The Messenger of Allah  said: 'We have had a ring made with an inscription, and no one else should copy this inscription.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

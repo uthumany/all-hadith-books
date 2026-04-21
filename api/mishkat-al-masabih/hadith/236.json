@@ -1,0 +1,16 @@
+{
+  "id": 236,
+  "chapterId": 19,
+  "bookId": 14,
+  "arabic": "وَعَن عمْرو بن عَبَسةَ قَالَ: صَلَّى بِنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى بَعِيرٍ مِنَ الْمَغْنَمِ فَلَمَّا سَلَّمَ أَخَذَ وَبَرَةً مِنْ جَنْبِ الْبَعِيرِ ثُمَّ قَالَ: «وَلَا يَحِلُّ لِي مِنْ غَنَائِمِكُمْ مِثْلُ هَذَا إِلَّا الْخُمُسُ وَالْخُمُسُ مَرْدُودٌ فِيكُمْ» . رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "‘Amr b. ‘Abasa said:",
+    "text": "God’s Messenger led us in prayer facing a camel which had been taken in booty, and when he had given the salutation he took a hair from the camel’s side and said, \"I have no right to as much as this of your booty, but only to the fifth, and the fifth is returned to you.\" \n\nAbu Dawud transmited it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 549,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلاً سأل رسول الله صلى الله عليه وسلم ‏:‏ أى الإسلام خير‏؟‏ قال‏:‏ ‏\n\"‏تطعم الطعام، وتقرأ السلام على من عرفت ومن لم تعرف‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported:",
+    "text": "A man asked Messenger of Allah (ﷺ), \"Which act in Islam is the best?\" He (ﷺ) replied, \"To feed (the poor and the needy) and to greet those whom you know and those you do not know.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

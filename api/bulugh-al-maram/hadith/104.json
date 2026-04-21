@@ -1,0 +1,16 @@
+{
+  "id": 104,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَا جَلَسَ قَوْمٌ مَجْلِسًا, يَذْكُرُونَ اَللَّهَ إِلَّا حَفَّتْ بِهِمُ الْمَلَائِكَةُ, وَغَشِيَتْهُمُ الرَّحْمَةُ, وَذَكَرَهُمُ اللَّهُ فِيمَنْ عِنْدَهُ }  أَخْرَجَهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2700)‏ عن أبي هريرة وأبي سعيد، بلفظ:\" لا يقعد قوم يذكرون الله ‏-عز وجل‏-، إلا حفتهم.‏.‏.‏.‏.‏.‏.‏.‏\".‏ والباقي مثله.‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“People will not sit in an assembly in which they remember Allah without the angels surrounding them, mercy covering them, and Allah mentioning them among those who are with Him.” Related by Muslim."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

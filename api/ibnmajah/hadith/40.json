@@ -1,0 +1,16 @@
+{
+  "id": 40,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنِ الأَعْمَشِ، عَنِ الْحَكَمِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَلِيٍّ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ مَنْ رَوَى عَنِّي حَدِيثًا وَهُوَ يَرَى أَنَّهُ كَذِبٌ فَهُوَ أَحَدُ الْكَاذِبَيْنِ ‏\"‏ ‏.‏\n \n حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ، أَنْبَأَنَا الْحَسَنُ بْنُ مُوسَى الأَشْيَبُ، عَنْ شُعْبَةَ، مِثْلَ حَدِيثِ سَمُرَةَ بْنِ جُنْدُبٍ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from `Ali that:",
+    "text": "The Prophet (ﷺ) said: \"Whoever narrates a Hadith from me thinking it to be false, then he is one of the two liars.\"\n\nAnother chain similar to the narration of Samurah bin Jundub."
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

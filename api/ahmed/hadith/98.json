@@ -1,0 +1,16 @@
+{
+  "id": 98,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا خَلَفٌ، حَدَّثَنَا خَالِدٌ، عَنْ مُطَرِّفٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى أَنْ يَرْفَعَ الرَّجُلُ صَوْتَهُ بِالْقِرَاءَةِ قَبْلَ الْعِشَاءِ وَبَعْدَهَا يُغَلِّطُ أَصْحَابَهُ وَهُمْ يُصَلُّونَ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "It was narrated from ‘Ali (رضي الله عنه) that The Messenger of Allah (ﷺ) forbade raising the voice when reciting Qur`an before or after Isha` and causing others to make mistakes  in recitation when praying."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 445,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ هِشَامٍ، بِهَذَا الإِسْنَادِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This hadith has been narrated on the authority of Hisham with the same chain of transmitters."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

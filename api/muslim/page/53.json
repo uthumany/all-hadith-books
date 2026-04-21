@@ -1,0 +1,510 @@
+{
+  "page": 53,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 54,
+  "prevPage": 52,
+  "items": [
+    {
+      "id": 223,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ سَعِيدٍ الْجُرَيْرِيِّ، عَنْ عَبْدِ اللَّهِ، بْنِ شَقِيقٍ قَالَ قُلْتُ لِعَائِشَةَ رضى الله عنها هَلْ كَانَ النَّبِيُّ صلى الله عليه وسلم يَصُومُ شَهْرًا مَعْلُومًا سِوَى رَمَضَانَ قَالَتْ وَاللَّهِ إِنْ صَامَ شَهْرًا مَعْلُومًا سِوَى رَمَضَانَ حَتَّى مَضَى لِوَجْهِهِ وَلاَ أَفْطَرَهُ حَتَّى يُصِيبَ مِنْهُ ‏.‏",
+      "english": {
+        "narrator": "Abdullah b. Shaqiq reported:",
+        "text": "I said to'A'isha (Allah be pleased with her): Did the Messenger of Allah (ﷺ) fast for a full month besides Ramadan? She said: I do not know of any month in which he fasted throughout, but that of the month of Ramadan and (the month) in which he did not fast at all, till he ran the course of his life."
+      }
+    },
+    {
+      "id": 224,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا كَهْمَسٌ، عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، قَالَ قُلْتُ لِعَائِشَةَ - رضى الله عنها - أَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصُومُ شَهْرًا كُلَّهُ قَالَتْ مَا عَلِمْتُهُ صَامَ شَهْرًا كُلَّهُ إِلاَّ رَمَضَانَ وَلاَ أَفْطَرَهُ كُلَّهُ حَتَّى يَصُومَ مِنْهُ حَتَّى مَضَى لِسَبِيلِهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. Shaqiq reported:",
+        "text": "I said to 'A'isha (Allah be pleased with her): Did the Messenger of Allah (ﷺ) observe fast during a month? She said, I do not know of any month in which he fasted throughout except Ramadan and (the month) in which he did not fast at all till he ran the course of his life. May peace be upon him."
+      }
+    },
+    {
+      "id": 225,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، وَهِشَامٍ، عَنْ مُحَمَّدٍ، عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، - قَالَ حَمَّادٌ وَأَظُنُّ أَيُّوبَ قَدْ سَمِعَهُ مِنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، - قَالَ سَأَلْتُ عَائِشَةَ - رضى الله عنها - عَنْ صَوْمِ النَّبِيِّ صلى الله عليه وسلم فَقَالَتْ كَانَ يَصُومُ حَتَّى نَقُولَ قَدْ صَامَ قَدْ صَامَ ‏.‏ وَيُفْطِرُ حَتَّى نَقُولَ قَدْ أَفْطَرَ قَدْ أَفْطَرَ - قَالَتْ - وَمَا رَأَيْتُهُ صَامَ شَهْرًا كَامِلاً مُنْذُ قَدِمَ الْمَدِينَةَ إِلاَّ أَنْ يَكُونَ رَمَضَانَ ‏.‏",
+      "english": {
+        "narrator": "Abdullah b. Shaqiq reported. I asked 'A'isha (Allah be pleased with her) about fasting of the Messenger of Allah (ﷺ). She said:",
+        "text": "He used to observe fast (at times) so continuously that we said: He has fasted, he has fasted. And (at times) he did not observe fast (for days) and we began to say: He has abandoned fasting, he has abandoned fasting. She said: I did not see him observing fast throughout the whole of the month since he arrived in Medina, but that of Ramadan."
+      }
+    },
+    {
+      "id": 226,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، قَالَ سَأَلْتُ عَائِشَةَ - رضى الله عنها - بِمِثْلِهِ وَلَمْ يَذْكُرْ فِي الإِسْنَادِ هِشَامًا وَلاَ مُحَمَّدًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "A hadith like this has been narrated on the authority of Abdullah b. Shaqiq but in the chain of transmitters no mention is made of Hisham and Muhammad."
+      }
+    },
+    {
+      "id": 227,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ أَبِي النَّضْرِ، مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ، - رضى الله عنها - أَنَّهَا قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصُومُ حَتَّى نَقُولَ لاَ يُفْطِرُ ‏.‏ وَيُفْطِرُ حَتَّى نَقُولَ لاَ يَصُومُ ‏.‏ وَمَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم اسْتَكْمَلَ صِيَامَ شَهْرٍ قَطُّ إِلاَّ رَمَضَانَ وَمَا رَأَيْتُهُ فِي شَهْرٍ أَكْثَرَ مِنْهُ صِيَامًا فِي شَعْبَانَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'A'isha, the Mother of the Believers (Allah be pleased with her), reported that the Messenger of Allah (ﷺ) used to fast (so continuously) that we said that he would not break, and did not fast at all till we said that he would not fast. And I did not see the Messenger of Allah (ﷺ) completing the fast of a month, but that of Ramadan, and I did not see him fasting more in any other month than that of Sha'ban."
+      }
+    },
+    {
+      "id": 228,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، - قَالَ أَبُو بَكْرٍ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، - عَنِ ابْنِ أَبِي لَبِيدٍ، عَنْ أَبِي سَلَمَةَ، قَالَ سَأَلْتُ عَائِشَةَ - رضى الله عنها - عَنْ صِيَامِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ كَانَ يَصُومُ حَتَّى نَقُولَ قَدْ صَامَ ‏.‏ وَيُفْطِرُ حَتَّى نَقُولَ قَدْ أَفْطَرَ ‏.‏ وَلَمْ أَرَهُ صَائِمًا مِنْ شَهْرٍ قَطُّ أَكْثَرَ مِنْ صِيَامِهِ مِنْ شَعْبَانَ كَانَ يَصُومُ شَعْبَانَ كُلَّهُ كَانَ يَصُومُ شَعْبَانَ إِلاَّ قَلِيلاً ‏.‏",
+      "english": {
+        "narrator": "Abu Salama reported:",
+        "text": "I asked 'A'isha (Allah be pleased with her) about the fasting of the Messenger of Allah (ﷺ). She said: He used to observe fast (at times so continuously) that we said: He has fasted (never to break), and he did not observe fast till we said: He has given up perhaps never to fast, and I never saw him observing (voluntary fasts) more in any other month than that of Sha'ban. (lt appeared as if) he observed fast throughout the whole of Sha'ban except a few (days)."
+      }
+    },
+    {
+      "id": 229,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ يَحْيَى بْنِ، أَبِي كَثِيرٍ حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ لَمْ يَكُنْ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الشَّهْرِ مِنَ السَّنَةِ أَكْثَرَ صِيَامًا مِنْهُ فِي شَعْبَانَ وَكَانَ يَقُولُ ‏\"‏ خُذُوا مِنَ الأَعْمَالِ مَا تُطِيقُونَ فَإِنَّ اللَّهَ لَنْ يَمَلَّ حَتَّى تَمَلُّوا ‏\"‏ ‏.‏ وَكَانَ يَقُولُ ‏\"‏ أَحَبُّ الْعَمَلِ إِلَى اللَّهِ مَا دَاوَمَ عَلَيْهِ صَاحِبُهُ وَإِنْ قَلَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'A'isha (Allah be pleased with her) reported:",
+        "text": "The Messenger of Allah (ﷺ) did not observe fast in any month of the year more than in the month of Sha'ban, and used to say: Do as many deeds as you are capable of doing, for Allah will not become weary (of giving you reward), but you would be tired (of doing good deeds) ; and he also said: The deed liked most by Allah is one to which the doer adheres constantly even if it is small."
+      }
+    },
+    {
+      "id": 230,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، - رضى الله عنهما - قَالَ مَا صَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم شَهْرًا كَامِلاً قَطُّ غَيْرَ رَمَضَانَ ‏.‏ وَكَانَ يَصُومُ إِذَا صَامَ حَتَّى يَقُولَ الْقَائِلُ لاَ وَاللَّهِ لاَ يُفْطِرُ ‏.‏ وَيُفْطِرُ إِذَا أَفْطَرَ حَتَّى يَقُولَ الْقَائِلُ لاَ وَاللَّهِ لاَ يَصُومُ ‏.‏",
+      "english": {
+        "narrator": "Ibn Abbas (Allah be pleased with both of them) reported:",
+        "text": "The Messenger of Allah (ﷺ) did not fast throughout any month except during ramadan. And when he observed fast (he fasted so continuously) that one would say that he would not break (them) and when he Abandoned, he abandoned (so continuously) that one would say: By Allah, perhaps he would never fast."
+      }
+    },
+    {
+      "id": 231,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ وَأَبُو بَكْرِ بْنُ نَافِعٍ عَنْ غُنْدَرٍ عَنْ شُعْبَةَ عَنْ أَبِي بِشْرٍ بِهَذَا الْإِسْنَادِ وَقَالَ شَهْرًا مُتَتَابِعًا مُنْذُ قَدِمَ الْمَدِينَةَ",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Abu Bishr with the same chain of transmitters (with a slight variation of words and these are), that he (the narrator) said:",
+        "text": "\" During any month continuously since he came to Medina.\""
+      }
+    },
+    {
+      "id": 232,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُثْمَانُ بْنُ حَكِيمٍ الأَنْصَارِيُّ، قَالَ سَأَلْتُ سَعِيدَ بْنَ جُبَيْرٍ عَنْ صَوْمِ، رَجَبٍ - وَنَحْنُ يَوْمَئِذٍ فِي رَجَبٍ - فَقَالَ سَمِعْتُ ابْنَ عَبَّاسٍ - رضى الله عنهما - يَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصُومُ حَتَّى نَقُولَ لاَ يُفْطِرُ ‏.‏ وَيُفْطِرُ حَتَّى نَقُولَ لاَ يَصُومُ ‏.‏",
+      "english": {
+        "narrator": "'Uthman b. Hakim al-Ansari said:",
+        "text": "I asked Sa'id b. Jubair about fasting In Rajab, and we were then passing through the month of Rajab, whereupon he said: I heard Ibn 'Abbas (Allah be pleased with both of them) as saying: The Messenger of Allah (ﷺ) used to observe fast (so continuously) that we (were inclined) to say that he would not break (them) and did not observe them so conti- nuously) that we (were inclined to say) that he would not observe fast."
+      }
+    },
+    {
+      "id": 233,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، ح وَحَدَّثَنِي إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، كِلاَهُمَا عَنْ عُثْمَانَ بْنِ حَكِيمٍ، فِي هَذَا الإِسْنَادِ ‏.‏ بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The same hadith as the previous hadith has been transmitted through another chain."
+      }
+    },
+    {
+      "id": 234,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَابْنُ أَبِي خَلَفٍ، قَالاَ حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، رضى الله عنه ح.\n وَحَدَّثَنِي أَبُو بَكْرِ بْنُ نَافِعٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا بَهْزٌ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسٍ، رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَصُومُ حَتَّى يُقَالَ قَدْ صَامَ قَدْ صَامَ ‏.‏ وَيُفْطِرُ حَتَّى يُقَالَ قَدْ أَفْطَرَ قَدْ أَفْطَرَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Anas (Allah be pleased with him) reported that the Messenger of Allah (ﷺ) used to observe fast till it was said that he had observed fast, he had observed fast (perhaps never to break it), and he did not fast till it was said that he had given up fast, he had given up fast (perhaps never to observe it)."
+      }
+    },
+    {
+      "id": 235,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ وَهْبٍ، يُحَدِّثُ عَنْ يُونُسَ، عَنِ ابْنِ، شِهَابٍ ح وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، وَأَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ أَنَّ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ الْعَاصِ، قَالَ أُخْبِرَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنَّهُ يَقُولُ لأَقُومَنَّ اللَّيْلَ وَلأَصُومَنَّ النَّهَارَ مَا عِشْتُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ آنْتَ الَّذِي تَقُولُ ذَلِكَ ‏\"‏ ‏.‏ فَقُلْتُ لَهُ قَدْ قُلْتُهُ يَا رَسُولَ اللَّهِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَإِنَّكَ لاَ تَسْتَطِيعُ ذَلِكَ فَصُمْ وَأَفْطِرْ وَنَمْ وَقُمْ وَصُمْ مِنَ الشَّهْرِ ثَلاَثَةَ أَيَّامٍ فَإِنَّ الْحَسَنَةَ بِعَشْرِ أَمْثَالِهَا وَذَلِكَ مِثْلُ صِيَامِ الدَّهْرِ ‏\"‏ ‏.‏ قَالَ قُلْتُ فَإِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ ‏.‏ قَالَ ‏\"‏ صُمْ يَوْمًا وَأَفْطِرْ يَوْمَيْنِ ‏\"‏ ‏.‏ قَالَ قُلْتُ فَإِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ صُمْ يَوْمًا وَأَفْطِرْ يَوْمًا وَذَلِكَ صِيَامُ دَاوُدَ - عَلَيْهِ السَّلاَمُ - وَهُوَ أَعْدَلُ الصِّيَامِ ‏\"‏ ‏.‏ قَالَ قُلْتُ فَإِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ أَفْضَلَ مِنْ ذَلِكَ ‏\"‏ ‏.‏ قَالَ عَبْدُ اللَّهِ بْنُ عَمْرٍو رضى الله عنهما لأَنْ أَكُونَ قَبِلْتُ الثَّلاَثَةَ الأَيَّامَ الَّتِي قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَحَبُّ إِلَىَّ مِنْ أَهْلِي وَمَالِي ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Amr b. al-'As reported that the Messenger of Allah (ﷺ) was informed that he could stand up for (prayer) throughout the night and observe fast every day so long as he lived. Thereupon the Messenger of Allah (ﷺ) said:",
+        "text": "Is it you who said this? I said to him: Messenger of Allah, it is I who said that. Thereupon the Messenger of Allah may peace be upon him) said: You are not capable enough to do so. Observe fast and break it; sleep and stand for prayer, and observe fast for three days during the month; for every good is multiplied ten times and this is like fasting for ever. I said: Messenger of Allah. I am capable of doing more than this. Thereupon he said: Fast one day and do not fast for the next two days. I said: Messenger of Allah, I have the strength to do more than that. The Prophet (ﷺ), said: Fast one day and break on the other day. That is known as the fasting of David (peace be upon him) and that is the best fasting. I said: I am capable of doing more than this. Thereupon the Messenger of Allah (ﷺ) said: There is nothing better than this. 'Abdullah b. 'Amr (Allah be pleased with them) said: Had I accepted the three days (fasting during every month) as the Messenger of Allah (ﷺ) had said, it would have been more dear to me than my family and my property."
+      }
+    },
+    {
+      "id": 236,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الرُّومِيُّ، حَدَّثَنَا النَّضْرُ بْنُ مُحَمَّدٍ، حَدَّثَنَا عِكْرِمَةُ، - وَهُوَ ابْنُ عَمَّارٍ - حَدَّثَنَا يَحْيَى، قَالَ انْطَلَقْتُ أَنَا وَعَبْدُ اللَّهِ بْنُ يَزِيدَ، حَتَّى نَأْتِيَ أَبَا سَلَمَةَ فَأَرْسَلْنَا إِلَيْهِ رَسُولاً فَخَرَجَ عَلَيْنَا وَإِذَا عِنْدَ بَابِ دَارِهِ مَسْجِدٌ - قَالَ - فَكُنَّا فِي الْمَسْجِدِ حَتَّى خَرَجَ إِلَيْنَا ‏.‏ فَقَالَ إِنْ تَشَاءُوا أَنْ تَدْخُلُوا وَإِنْ تَشَاءُوا أَنْ تَقْعُدُوا هَا هُنَا ‏.‏ - قَالَ - فَقُلْنَا لاَ بَلْ نَقْعُدُ هَا هُنَا فَحَدِّثْنَا ‏.‏ قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ - رضى الله عنهما - قَالَ كُنْتُ أَصُومُ الدَّهْرَ وَأَقْرَأُ الْقُرْآنَ كُلَّ لَيْلَةٍ - قَالَ - فَإِمَّا ذُكِرْتُ لِلنَّبِيِّ صلى الله عليه وسلم وَإِمَّا أَرْسَلَ إِلَىَّ فَأَتَيْتُهُ فَقَالَ لِي ‏\"‏ أَلَمْ أُخْبَرْ أَنَّكَ تَصُومُ الدَّهْرَ وَتَقْرَأُ الْقُرْآنَ كُلَّ لَيْلَةٍ ‏\"‏ ‏.‏ قُلْتُ بَلَى يَا نَبِيَّ اللَّهِ وَلَمْ أُرِدْ بِذَلِكَ إِلاَّ الْخَيْرَ ‏.‏ قَالَ ‏\"‏ فَإِنَّ بِحَسْبِكَ أَنْ تَصُومَ مِنْ كُلِّ شَهْرٍ ثَلاَثَةَ أَيَّامٍ ‏\"‏ ‏.‏ قُلْتُ يَا نَبِيَّ اللَّهِ إِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ ‏.‏ قَالَ ‏\"‏ فَإِنَّ لِزَوْجِكَ عَلَيْكَ حَقًّا وَلِزَوْرِكَ عَلَيْكَ حَقًّا وَلِجَسَدِكَ عَلَيْكَ حَقًّا - قَالَ - فَصُمْ صَوْمَ دَاوُدَ نَبِيِّ اللَّهِ صلى الله عليه وسلم فَإِنَّهُ كَانَ أَعْبَدَ النَّاسِ ‏\"‏ ‏.‏ قَالَ قُلْتُ يَا نَبِيَّ اللَّهِ وَمَا صَوْمُ دَاوُدَ قَالَ ‏\"‏ كَانَ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا ‏\"‏ ‏.‏ قَالَ ‏\"‏ وَاقْرَإِ الْقُرْآنَ فِي كُلِّ شَهْرٍ ‏\"‏ ‏.‏ قَالَ قُلْتُ يَا نَبِيَّ اللَّهِ إِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ قَالَ ‏\"‏ فَاقْرَأْهُ فِي كُلِّ عِشْرِينَ ‏\"‏ ‏.‏ قَالَ قُلْتُ يَا نَبِيَّ اللَّهِ إِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ قَالَ ‏\"‏ فَاقْرَأْهُ فِي كُلِّ عَشْرٍ ‏\"‏ ‏.‏ قَالَ قُلْتُ يَا نَبِيَّ اللَّهِ إِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ ‏.‏ قَالَ ‏\"‏ فَاقْرَأْهُ فِي كُلِّ سَبْعٍ وَلاَ تَزِدْ عَلَى ذَلِكَ ‏.‏ فَإِنَّ لِزَوْجِكَ عَلَيْكَ حَقًّا وَلِزَوْرِكَ عَلَيْكَ حَقًّا وَلِجَسَدِكَ عَلَيْكَ حَقًّا ‏\"‏ ‏.‏ قَالَ فَشَدَّدْتُ فَشُدِّدَ عَلَىَّ ‏.‏ قَالَ وَقَالَ لِيَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِنَّكَ لاَ تَدْرِي لَعَلَّكَ يَطُولُ بِكَ عُمْرٌ ‏\"‏ ‏.‏ قَالَ فَصِرْتُ إِلَى الَّذِي قَالَ لِيَ النَّبِيُّ صلى الله عليه وسلم فَلَمَّا كَبِرْتُ وَدِدْتُ أَنِّي كُنْتُ قَبِلْتُ رُخْصَةَ نَبِيِّ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Yahya reported:",
+        "text": "I and 'Abdullah b. Yazid set out till we came to Abu Salama. We sent a messenger to him (in his house in order to inform him about our arrival) and he came to us. There was a mosque near the door of his house, and we were in that mosque, till he came out to us. He said: If you like you may enter (the house) and, if you like, you may sit here (in the mosque). We said: We would rather sit here and (you) relate to us. He (Yahya) then narrated that 'Abdullah b Amr b. al-'As (Allah be pleased with them) told him: I used to observe fast uninterruptedly and recited the (whole of the) Qur'an every night. It (the uninterrupted fasting and recital of the Qur'an every night) was mentioned to the Messenger of Allah (ﷺ) or he sent for me, and I went to him and he said to me: I have been informed that you fast continuously and recite (the whole of the Qur'an) every night. I said: Apostle of Allah, it is right, but I covet thereby nothing but good, whereupon he said: It suffices for you that you should observe fast for three days during every month. I said: Apostle of Allah, I am capable of doing more than this. He said: Your wife has a right upon you, your visitor has a right upon you, your body has a right upon you; so observe the fast of David, the Messenger of Allah (peace be upon him), for he was the best worshipper of Allah. I said: Apostle of Allah, what is the fast of David? He said: He used to fast one day and did not fast the other day. He (also) said: Recite the Qur'an during every month. I said: Apostle of Allah, I am capable of doing more than this, whereupon he said: Recite it in twenty days; recite it in ten days. I said: I am capable of doing more than this, whereupon he said: Recite it every week, and do not exceed beyond this, for your wife has a right upon you, your visitor has a right upon you, your body has a right upon you. He ('Amr b. 'As) said: I was hard to myself and thus I was put to hardship. The Apostle of Allah (ﷺ) had told me: 'You do not know you may live long (thus and bear the hardships for a long time), and I accepted that which the Messenger of Allah (ﷺ) had told me. When I grew old I wished I had availed myself of the concession (granted by) the Messenger of Allah (ﷺ)."
+      }
+    },
+    {
+      "id": 237,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ يَحْيَى، بْنِ أَبِي كَثِيرٍ بِهَذَا الإِسْنَادِ وَزَادَ فِيهِ بَعْدَ قَوْلِهِ ‏\"‏ مِنْ كُلِّ شَهْرٍ ثَلاَثَةَ أَيَّامٍ ‏\"‏ ‏\"‏ فَإِنَّ لَكَ بِكُلِّ حَسَنَةٍ عَشْرَ أَمْثَالِهَا فَذَلِكَ الدَّهْرُ كُلُّهُ ‏\"‏ ‏.‏ وَقَالَ فِي الْحَدِيثِ قُلْتُ وَمَا صَوْمُ نَبِيِّ اللَّهِ دَاوُدَ قَالَ ‏\"‏ نِصْفُ الدَّهْرِ ‏\"‏ ‏.‏ وَلَمْ يَذْكُرْ فِي الْحَدِيثِ مِنْ قِرَاءَةِ الْقُرْآنِ شَيْئًا وَلَمْ يَقُلْ ‏\"‏ وَإِنَّ لِزَوْرِكَ عَلَيْكَ حَقًّا ‏\"‏ ‏.‏ وَلَكِنْ قَالَ ‏\"‏ وَإِنَّ لِوَلَدِكَ عَلَيْكَ حَقًّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated by Yahya b. Abu Kathir with the same chain of transmitters and he made this addition after these words:",
+        "text": "During every month, (fasting) for three days, there is for you ten times for every good and that is perpetual fasting (for three days would bring a reward for full thirty days). I said: What is the fast of the Messenger of Allah, David? He said: Half of the age (observing fast on alternate days for the whole life). And in the hadith no mention has been made of the recital of the Qur'an, and he did not say: Your visitor has a right upon you, but (instead) he said: Your son has a right upon you."
+      }
+    },
+    {
+      "id": 238,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي الْقَاسِمُ بْنُ زَكَرِيَّاءَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ شَيْبَانَ، عَنْ يَحْيَى، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، مَوْلَى بَنِي زُهْرَةَ عَنْ أَبِي سَلَمَةَ، قَالَ - وَأَحْسِبُنِي قَدْ سَمِعْتُهُ أَنَا مِنْ أَبِي سَلَمَةَ، - عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، - رضى الله عنهما - قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اقْرَإِ الْقُرْآنَ فِي كُلِّ شَهْرٍ ‏\"‏ ‏.‏ قَالَ قُلْتُ إِنِّي أَجِدُ قُوَّةً ‏.‏ قَالَ ‏\"‏ فَاقْرَأْهُ فِي عِشْرِينَ لَيْلَةً ‏\"‏ ‏.‏ قَالَ قُلْتُ إِنِّي أَجِدُ قُوَّةً ‏.‏ قَالَ ‏\"‏ فَاقْرَأْهُ فِي سَبْعٍ وَلاَ تَزِدْ عَلَى ذَلِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Amr (Allah be pleased with them) reported:",
+        "text": "The Messenger of Allah (ﷺ) said to me: Recite the whole of the Qur'An during every month. I said: I find power (to recite it) in a shorter period. He said: Then recite it in twenty nights. I said: I find power (to recite it in a shorter period even than this), whereupon he said: Then recite it in seven (nights) and do not exceed beyond it."
+      }
+    },
+    {
+      "id": 239,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَحْمَدُ بْنُ يُوسُفَ الأَزْدِيُّ، حَدَّثَنَا عَمْرُو بْنُ أَبِي سَلَمَةَ، عَنِ الأَوْزَاعِيِّ، قِرَاءَةً قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنِ ابْنِ الْحَكَمِ بْنِ ثَوْبَانَ، حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، - رضى الله عنهما - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ يَا عَبْدَ اللَّهِ لاَ تَكُنْ بِمِثْلِ فُلاَنٍ كَانَ يَقُومُ اللَّيْلَ فَتَرَكَ قِيَامَ اللَّيْلِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Amr b. al-'As (Allah be pleased with them) reported that the Messenger of Allah (ﷺ) said:",
+        "text": "'Abdullah, don't be like so and so who observed prayer during the whole night and then abandoned it (altogether)."
+      }
+    },
+    {
+      "id": 240,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ سَمِعْتُ عَطَاءً، يَزْعُمُ أَنَّ أَبَا الْعَبَّاسِ، أَخْبَرَهُ أَنَّهُ، سَمِعَ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ الْعَاصِ، - رضى الله عنهما - يَقُولُ بَلَغَ النَّبِيَّ صلى الله عليه وسلم أَنِّي أَصُومُ أَسْرُدُ وَأُصَلِّي اللَّيْلَ فَإِمَّا أَرْسَلَ إِلَىَّ وَإِمَّا لَقِيتُهُ فَقَالَ ‏\"‏ أَلَمْ أُخْبَرْ أَنَّكَ تَصُومُ وَلاَ تُفْطِرُ وَتُصَلِّي اللَّيْلَ فَلاَ تَفْعَلْ فَإِنَّ لِعَيْنِكَ حَظًّا وَلِنَفْسِكَ حَظًّا وَلأَهْلِكَ حَظًّا ‏.‏ فَصُمْ وَأَفْطِرْ وَصَلِّ وَنَمْ وَصُمْ مِنْ كُلِّ عَشْرَةِ أَيَّامٍ يَوْمًا وَلَكَ أَجْرُ تِسْعَةٍ ‏\"‏ ‏.‏ قَالَ إِنِّي أَجِدُنِي أَقْوَى مِنْ ذَلِكَ يَا نَبِيَّ اللَّهِ ‏.‏ قَالَ ‏\"‏ فَصُمْ صِيَامَ دَاوُدَ عَلَيْهِ السَّلاَمُ ‏\"‏ ‏.‏ قَالَ وَكَيْفَ كَانَ دَاوُدُ يَصُومُ يَا نَبِيَّ اللَّهِ قَالَ ‏\"‏ كَانَ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا وَلاَ يَفِرُّ إِذَا لاَقَى ‏\"‏ ‏.‏ قَالَ مَنْ لِي بِهَذِهِ يَا نَبِيَّ اللَّهِ قَالَ عَطَاءٌ فَلاَ أَدْرِي كَيْفَ ذَكَرَ صِيَامَ الأَبَدِ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لاَ صَامَ مَنْ صَامَ الأَبَدَ لاَ صَامَ مَنْ صَامَ الأَبَدَ لاَ صَامَ مَنْ صَامَ الأَبَدَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abdu'llah b. 'Amr b. 'As (Allah be pleased with them) reported:",
+        "text": "It was conveyed to the Messenger of Allah (ﷺ) that I observe fast successively and pray during the whole night. He sent for me or I met him and he (the Holy Prophet) said: It has been conveyed to me that you observe fast continuously and do not break it and pray during the whole night. Don't do that. for there is share for your eyes, share for your own self, share for your family; so observe fast and break it, pray and sleep and observe fast for one day during the ten days, and there is a reward for you (for other) nine (days besides the tenth day of the fast). I said: Apostle of Allah, I find myself more powerful than this. He said: Then observe the fast of David (peace be upon him). He ('Amr) said: Apostle of Allah, how did David observe fast? He (the Holy Prophet) said: He used to fast one day and break it on the other day, and he did not run (from the battlefield) as he encountered (the enemy). He said: Apostle of Allah, who can guarantee this for me (will I also encounter the enemy dauntlessly)? 'Ata', the narrator of the hadith, said: I do not know how there (crept in) the matter of perpetual fast. The Apostle of Allah (ﷺ), however, said: He who observed perpetual fast did not fast at all; he who observed perpetual fast did not fast at all, he who observed perpetual fast did not fast at all."
+      }
+    },
+    {
+      "id": 241,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، بِهَذَا الإِسْنَادِ وَقَالَ إِنَّ أَبَا الْعَبَّاسِ الشَّاعِرَ أَخْبَرَهُ ‏.‏ قَالَ مُسْلِمٌ أَبُو الْعَبَّاسِ السَّائِبُ بْنُ فَرُّوخَ مِنْ أَهْلِ مَكَّةَ ثِقَةٌ عَدْلٌ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated by Ibn Juraij with the same chain of transmitters. Imam Muslim has narrated this hadith on the authority of Abu 'Abbas al-Sa'ib b. Farrukh and he was a trustworthy and reliable (narrator) among the people of Mecca."
+      }
+    },
+    {
+      "id": 242,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنِي أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ حَبِيبٍ، سَمِعَ أَبَا الْعَبَّاسِ، سَمِعَ عَبْدَ اللَّهِ بْنَ عَمْرٍو، - رضى الله عنهما - قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَا عَبْدَ اللَّهِ بْنَ عَمْرٍو إِنَّكَ لَتَصُومُ الدَّهْرَ وَتَقُومُ اللَّيْلَ وَإِنَّكَ إِذَا فَعَلْتَ ذَلِكَ هَجَمَتْ لَهُ الْعَيْنُ وَنَهِكَتْ لاَ صَامَ مَنْ صَامَ الأَبَدَ صَوْمُ ثَلاَثَةِ أَيَّامٍ مِنَ الشَّهْرِ صَوْمُ الشَّهْرِ كُلِّهِ ‏\"‏ ‏.‏ قُلْتُ فَإِنِّي أُطِيقُ أَكْثَرَ مِنْ ذَلِكَ ‏.‏ قَالَ ‏\"‏ فَصُمْ صَوْمَ دَاوُدَ كَانَ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا وَلاَ يَفِرُّ إِذَا لاَقَى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abdullah b. Amr (Allah be pleased with both of them) reported:",
+        "text": "The Messenger of Allah (ﷺ) said to me: 'Abdullah b. Amr, you fast continuously and stand in prayer for the whole of night. If you do like that, your eyes would be highly strained and would sink and lose sight. There is no (reward for) fasting (for him) who fasts perpetually. Fasting for three days during the month is like fasting, the whole of the month. I said: I am capable of doing more than this, whereupon he said: Observe the fast of David. He used to fast one day and break (the other) day. And he did not turn back in the encounter."
+      }
+    },
+    {
+      "id": 243,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ بِشْرٍ، عَنْ مِسْعَرٍ، حَدَّثَنَا حَبِيبُ بْنُ أَبِي ثَابِتٍ، بِهَذَا الإِسْنَادِ وَقَالَ ‏\n\"‏ وَنَفِهَتِ النَّفْسُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith is narrated on the authority of Habib b. Abu Thabit with the same chain of transmitters and he said:",
+        "text": "\" And you would become exhausted.\""
+      }
+    },
+    {
+      "id": 244,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، عَنْ أَبِي الْعَبَّاسِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، - رضى الله عنهما - قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَلَمْ أُخْبَرْ أَنَّكَ تَقُومُ اللَّيْلَ وَتَصُومُ النَّهَارَ ‏\"‏ ‏.‏ قُلْتُ إِنِّي أَفْعَلُ ذَلِكَ ‏.‏ قَالَ ‏\"‏ فَإِنَّكَ إِذَا فَعَلْتَ ذَلِكَ هَجَمَتْ عَيْنَاكَ وَنَفِهَتْ نَفْسُكَ لِعَيْنِكَ حَقٌّ وَلِنَفْسِكَ حَقٌّ وَلأَهْلِكَ حَقٌّ قُمْ وَنَمْ وَصُمْ وَأَفْطِرْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Amr (Allah be pleased with both of them) reported:",
+        "text": "The Messenger of Allah (ﷺ) said to me: I have been informed that you stand for prayer the whole of night and fast during the day. I said: I do that, whereupon he said: If you did that you in fact strained heavily your eyes and made yourself weak. There is a right of your eyes (upon you) and a right of your self (upon you) and a right of your family (upon you). Stand for prayer and sleep. observe fasts and break (them)."
+      }
+    },
+    {
+      "id": 245,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالَ زُهَيْرٌ حَدَّثَنَا سُفْيَانُ بْنُ، عُيَيْنَةَ عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ عَمْرِو بْنِ أَوْسٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، - رضى الله عنهما - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ أَحَبَّ الصِّيَامِ إِلَى اللَّهِ صِيَامُ دَاوُدَ وَأَحَبَّ الصَّلاَةِ إِلَى اللَّهِ صَلاَةُ دَاوُدَ عَلَيْهِ السَّلاَمُ كَانَ يَنَامُ نِصْفَ اللَّيْلِ وَيَقُومُ ثُلُثَهُ وَيَنَامُ سُدُسَهُ وَكَانَ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Amr (Allah be pleased with both of them) reported Allah's Messenger (ﷺ) as saying:",
+        "text": "With Allah the best fasting is that of David and the best prayer is that of David (peace be upon him) for he slept half of the night and stood for prayer for the third of it and (then) slept the sixth part of it and he observed fast one day and broke on the other."
+      }
+    },
+    {
+      "id": 246,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَمْرُو، بْنُ دِينَارٍ أَنَّ عَمْرَو بْنَ أَوْسٍ، أَخْبَرَهُ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، - رضى الله عنهما - أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَحَبُّ الصِّيَامِ إِلَى اللَّهِ صِيَامُ دَاوُدَ كَانَ يَصُومُ نِصْفَ الدَّهْرِ وَأَحَبُّ الصَّلاَةِ إِلَى اللَّهِ عَزَّ وَجَلَّ صَلاَةُ دَاوُدَ - عَلَيْهِ السَّلاَمُ - كَانَ يَرْقُدُ شَطْرَ اللَّيْلِ ثُمَّ يَقُومُ ثُمَّ يَرْقُدُ آخِرَهُ يَقُومُ ثُلُثَ اللَّيْلِ بَعْدَ شَطْرِهِ ‏\"‏ ‏.‏ قَالَ قُلْتُ لِعَمْرِو بْنِ دِينَارٍ أَعَمْرُو بْنُ أَوْسٍ كَانَ يَقُولُ يَقُومُ ثُلُثَ اللَّيْلِ بَعْدَ شَطْرِهِ قَالَ نَعَمْ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Amr b. al-'As reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The best fasting in the eye of Allah is that of David, for he fasted for half of the age (he fasted on alternate days), and the best prayer in the eye of Allah, the Exalted and Majestic, is that of David (peace be upon him), for he slept for half of the night and then stood for prayer and then again slept. He prayed for one-third of the night after midnight. He (the narrator) said: I asked 'Amr b. Dinar whether 'Amr b. Aus said that he stood for prayer one-third of the night after midnight. He said: Yes."
+      }
+    },
+    {
+      "id": 247,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنْ خَالِدٍ، عَنْ أَبِي قِلاَبَةَ، قَالَ أَخْبَرَنِي أَبُو الْمَلِيحِ، قَالَ دَخَلْتُ مَعَ أَبِيكَ عَلَى عَبْدِ اللَّهِ بْنِ عَمْرٍو فَحَدَّثَنَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ذُكِرَ لَهُ صَوْمِي فَدَخَلَ عَلَىَّ فَأَلْقَيْتُ لَهُ وِسَادَةً مِنْ أَدَمٍ حَشْوُهَا لِيفٌ فَجَلَسَ عَلَى الأَرْضِ وَصَارَتِ الْوِسَادَةُ بَيْنِي وَبَيْنَهُ فَقَالَ لِي ‏\"‏ أَمَا يَكْفِيكَ مِنْ كُلِّ شَهْرٍ ثَلاَثَةُ أَيَّامٍ ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ خَمْسًا ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ سَبْعًا ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ تِسْعًا ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ أَحَدَ عَشَرَ ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لاَ صَوْمَ فَوْقَ صَوْمِ دَاوُدَ شَطْرُ الدَّهْرِ صِيَامُ يَوْمٍ وَإِفْطَارُ يَوْمٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Qatada reported that Abu al Malih informed me:",
+        "text": "I went along with your father to 'Abdullah b. Amr, and he narrated to us that the Messenger of Allah (ﷺ) was informed about my fasting and he came to me, and I placed a leather cushion filled with fibre of date-palms for him. He sat down upon the ground and there was that cushion between me and him, and he said to me: Does three days' fasting in a month not suffice you? I said: Messenger of Allah, (I am capable of observing more fasts). He said: (Would) five (not suffice for you)? I said: Messenger of Allah, (I am capable of observing more fasts) He said: (Would) seven (fasts) not suffice you? I said: Messenger of Allah, (I am capable of observing more fasts). He (the Holy Prophet) then said: (Would) nine (fasts not suffice you)? I said: Messenger of Allah, (I am capable of observing more fasts). He said: (Would) eleven (fasts not suffice you)? I said: Messenger of Allah, (I am capable of observing more fasts than these). Thereupon the Messenger of Allah (ﷺ) said: There is no fasting (better than) the fasting of David which comprises half of the age, fasting a day and not fasting a day."
+      }
+    },
+    {
+      "id": 248,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ زِيَادِ بْنِ فَيَّاضٍ، قَالَ سَمِعْتُ أَبَا عِيَاضٍ، عَنْ عَبْدِ، اللَّهِ بْنِ عَمْرٍو - رضى الله عنهما - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لَهُ ‏\"‏ صُمْ يَوْمًا وَلَكَ أَجْرُ مَا بَقِيَ ‏\"‏ ‏.‏ قَالَ إِنِّي أُطِيقُ أَكْثَرَ مِنْ ذَلِكَ ‏.‏ قَالَ ‏\"‏ صُمْ يَوْمَيْنِ وَلَكَ أَجْرُ مَا بَقِيَ ‏\"‏ ‏.‏ قَالَ إِنِّي أُطِيقُ أَكْثَرَ مِنْ ذَلِكَ ‏.‏ قَالَ ‏\"‏ صُمْ ثَلاَثَةَ أَيَّامٍ وَلَكَ أَجْرُ مَا بَقِيَ ‏\"‏ ‏.‏ قَالَ إِنِّي أُطِيقُ أَكْثَرَ مِنْ ذَلِكَ ‏.‏ قَالَ ‏\"‏ صُمْ أَرْبَعَةَ أَيَّامٍ وَلَكَ أَجْرُ مَا بَقِيَ ‏\"‏ ‏.‏ قَالَ إِنِّي أُطِيقُ أَكْثَرَ مِنْ ذَلِكَ ‏.‏ قَالَ ‏\"‏ صُمْ أَفْضَلَ الصِّيَامِ عِنْدَ اللَّهِ صَوْمَ دَاوُدَ - عَلَيْهِ السَّلاَمُ - كَانَ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. Amr (Allah be pleased with them) reported that the Messenger of Allah (ﷺ) had said to him:",
+        "text": "Observe fast for a day and there would be reward for you for the rest (of the days). He said: I am capable of doing more than this. He then said: Observe fast for two days, and there would be reward for you for the rest (of the days). He said: I am capable of doing more than this. He (the Holy Prophet) said: Observe fast for three days and there would be reward for you for the rest of the days. He said: I am capable of doing more than this, whereupon he said: Observe fast for four days and there would be reward for you for the rest of the days. He said: I am capable of doing more than this. Thereupon he said: Then observe fast (which is the) best in the eye of Allah, the fast of David (peace be upon him) ; he used to observe fast one day and break on the other day."
+      }
+    },
+    {
+      "id": 249,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ حَاتِمٍ، جَمِيعًا عَنِ ابْنِ مَهْدِيٍّ، - قَالَ زُهَيْرٌ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، - حَدَّثَنَا سَلِيمُ بْنُ حَيَّانَ، حَدَّثَنَا سَعِيدُ بْنُ مِينَاءَ، قَالَ قَالَ عَبْدُ اللَّهِ بْنُ عَمْرٍو قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَا عَبْدَ اللَّهِ بْنَ عَمْرٍو بَلَغَنِي أَنَّكَ تَصُومُ النَّهَارَ وَتَقُومُ اللَّيْلَ فَلاَ تَفْعَلْ فَإِنَّ لِجَسَدِكَ عَلَيْكَ حَظًّا وَلِعَيْنِكَ عَلَيْكَ حَظًّا وَإِنَّ لِزَوْجِكَ عَلَيْكَ حَظًّا صُمْ وَأَفْطِرْ صُمْ مِنْ كُلِّ شَهْرٍ ثَلاَثَةَ أَيَّامٍ فَذَلِكَ صَوْمُ الدَّهْرِ ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّ بِي قُوَّةً ‏.‏ قَالَ ‏\"‏ فَصُمْ صَوْمَ دَاوُدَ - عَلَيْهِ السَّلاَمُ - صُمْ يَوْمًا وَأَفْطِرْ يَوْمًا ‏\"‏ ‏.‏ فَكَانَ يَقُولُ يَا لَيْتَنِي أَخَذْتُ بِالرُّخْصَةِ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. 'Amr (Allah be pleased with them) reported that the Messenger of Allah (ﷺ) said to me! 'Abdullah b. 'Amr, it has been conveyed to me that you observe fast during the day and stand in prayer during the whole night. Don't do that, for your body has a share of its own in you, your eye has a share of its own in you, your wife has a share of her own in you. Observe fast and break it too. Fast for three days in every month and that is a prepetual fasting. I said! Messenger of Allah, I have got strength enough (to do more than this), whereupon he said:",
+        "text": "Then observe the fast of David (peace be upon him). Observe fast one day and break it (on the other) day. And he ('Abdullah b. 'Amr) used to say: Would that I had availed myself of this concession."
+      }
+    },
+    {
+      "id": 250,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ يَزِيدَ الرِّشْكِ، قَالَ حَدَّثَتْنِي مُعَاذَةُ، الْعَدَوِيَّةُ أَنَّهَا سَأَلَتْ عَائِشَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصُومُ مِنْ كُلِّ شَهْرٍ ثَلاَثَةَ أَيَّامٍ قَالَتْ نَعَمْ ‏.‏ فَقُلْتُ لَهَا مِنْ أَىِّ أَيَّامِ الشَّهْرِ كَانَ يَصُومُ قَالَتْ لَمْ يَكُنْ يُبَالِي مِنْ أَىِّ أَيَّامِ الشَّهْرِ يَصُومُ ‏.‏",
+      "english": {
+        "narrator": "Mu'adha al-'Adawiyya reported that she asked 'A'isha, the wife of the Messenger of Allah (ﷺ), whether the Messenger of Allah (ﷺ) observed fasts for three days during every month. She said:",
+        "text": "Yes I said to her: Which were (the particular) days of the month on which he observed fast? She said: He was not particular about the days of the month on which to observe fast."
+      }
+    },
+    {
+      "id": 251,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ الضُّبَعِيُّ، حَدَّثَنَا مَهْدِيٌّ، - وَهُوَ ابْنُ مَيْمُونٍ - حَدَّثَنَا غَيْلاَنُ بْنُ جَرِيرٍ، عَنْ مُطَرِّفٍ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، - رضى الله عنهما - أَنَّصلى الله عليه وسلم قَالَ لَهُ أَوْ قَالَ لِرَجُلٍ وَهُوَ يَسْمَعُ ‏\"‏ يَا فُلاَنُ أَصُمْتَ مِنْ سُرَّةِ هَذَا الشَّهْرِ ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ قَالَ ‏\"‏ فَإِذَا أَفْطَرْتَ فَصُمْ يَوْمَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Imran b. Husain (Allah be pleased with them) reported that the Messenger of Allah (ﷺ) said to him (or he said to another person and he was listening to it):",
+        "text": "O, so and so, did you observe fast in the middle of the month? He said: No. Thereupon he (the Messenger of Allah) said: When you break it, then observe fast for two days."
+      }
+    },
+    {
+      "id": 252,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، جَمِيعًا عَنْ حَمَّادٍ، - قَالَ يَحْيَى أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، - عَنْ غَيْلاَنَ، عَنْ عَبْدِ اللَّهِ بْنِ مَعْبَدٍ الزِّمَّانِيِّ، عَنْ أَبِي قَتَادَةَ، رَجُلٌ أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ كَيْفَ تَصُومُ فَغَضِبَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَلَمَّا رَأَى عُمَرُ - رضى الله عنه - غَضَبَهُ قَالَ رَضِينَا بِاللَّهِ رَبًّا وَبِالإِسْلاَمِ دِينًا وَبِمُحَمَّدٍ نَبِيًّا نَعُوذُ بِاللَّهِ مِنْ غَضَبِ اللَّهِ وَغَضَبِ رَسُولِهِ ‏.‏ فَجَعَلَ عُمَرُ - رضى الله عنه - يُرَدِّدُ هَذَا الْكَلاَمَ حَتَّى سَكَنَ غَضَبُهُ فَقَالَ عُمَرُ يَا رَسُولَ اللَّهِ كَيْفَ بِمَنْ يَصُومُ الدَّهْرَ كُلَّهُ قَالَ ‏\"‏ لاَ صَامَ وَلاَ أَفْطَرَ - أَوْ قَالَ - لَمْ يَصُمْ وَلَمْ يُفْطِرْ ‏\"‏ ‏.‏ قَالَ كَيْفَ مَنْ يَصُومُ يَوْمَيْنِ وَيُفْطِرُ يَوْمًا قَالَ ‏\"‏ وَيُطِيقُ ذَلِكَ أَحَدٌ ‏\"‏ ‏.‏ قَالَ كَيْفَ مَنْ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا قَالَ ‏\"‏ ذَاكَ صَوْمُ دَاوُدَ عَلَيْهِ السَّلاَمُ ‏\"‏ ‏.‏ قَالَ كَيْفَ مَنْ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمَيْنِ قَالَ ‏\"‏ وَدِدْتُ أَنِّي طُوِّقْتُ ذَلِكَ ‏\"‏ ‏.‏ ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ ثَلاَثٌ مِنْ كُلِّ شَهْرٍ وَرَمَضَانُ إِلَى رَمَضَانَ فَهَذَا صِيَامُ الدَّهْرِ كُلِّهِ صِيَامُ يَوْمِ عَرَفَةَ أَحْتَسِبُ عَلَى اللَّهِ أَنْ يُكَفِّرَ السَّنَةَ الَّتِي قَبْلَهُ وَالسَّنَةَ الَّتِي بَعْدَهُ وَصِيَامُ يَوْمِ عَاشُورَاءَ أَحْتَسِبُ عَلَى اللَّهِ أَنْ يُكَفِّرَ السَّنَةَ الَّتِي قَبْلَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Qatada reported that a person came to the Messenger of Allah (ﷺ) and said:",
+        "text": "How do you fast? The Messenger of Allah (ﷺ) felt annoyed. When 'Umar (Allah be pleased with him) noticed his annoyance, he said: We are well pleased with Allah as our Lord, with Islam as our code of life, and with Muhammad as our Prophet. We seek refuge with Allah from the anger of Allah and that of His Messenger. 'Umar kept on repeating these words till his (the Prophet's) anger calmed down. Then Umar said: Messenger of Allah, what is the position of one who fasts perpetually? He (ﷺ) said: He neither fasted nor broke it, or he said: He did not fast and he did not break it. 'Umar said: What about him who fasts for two days and does not fast one day? He (ﷺ) said: Is anyone capable of doing that? He ('Umar) said: What is the position of him who fasts for a day and doesn't fast on the other day? Thereupon he (the Holy Prophet) said: That is the fast of David (peace be upon him). He ('Umar) said: What about him who fasts one day and doesn't fast for two days. Thereupon he (the Messenger of Allah) said: I wish I were given the strength to do that. Thereafter he (ﷺ) said: Fasting three days every month and that of Ramadan every year is a perpetual fasting. I seek from Allah that fasting on the day of 'Arafa may atone for the sins of the preceding and the coming years, and I seek from Allah that fasting on the day of Ashura may atone for the sins of the preceding year."
+      }
+    },
+    {
+      "id": 253,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ غَيْلاَنَ بْنِ جَرِيرٍ، سَمِعَ عَبْدَ اللَّهِ بْنَ مَعْبَدٍ الزِّمَّانِيَّ، عَنْ أَبِي قَتَادَةَ الأَنْصَارِيِّ، رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سُئِلَ عَنْ صَوْمِهِ قَالَ فَغَضِبَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ عُمَرُ رضى الله عنه رَضِينَا بِاللَّهِ رَبًّا وَبِالإِسْلاَمِ دِينًا وَبِمُحَمَّدٍ رَسُولاً وَبِبَيْعَتِنَا بَيْعَةً ‏.‏ قَالَ فَسُئِلَ عَنْ صِيَامِ الدَّهْرِ فَقَالَ ‏\"‏ لاَ صَامَ وَلاَ أَفْطَرَ ‏\"‏ ‏.‏ أَوْ ‏\"‏ مَا صَامَ وَمَا أَفْطَرَ ‏\"‏ ‏.‏ قَالَ فَسُئِلَ عَنْ صَوْمِ يَوْمَيْنِ وَإِفْطَارِ يَوْمٍ قَالَ ‏\"‏ وَمَنْ يُطِيقُ ذَلِكَ ‏\"‏ ‏.‏ قَالَ وَسُئِلَ عَنْ صَوْمِ يَوْمٍ وَإِفْطَارِ يَوْمَيْنِ قَالَ ‏\"‏ لَيْتَ أَنَّ اللَّهَ قَوَّانَا لِذَلِكَ ‏\"‏ ‏.‏ قَالَ وَسُئِلَ عَنْ صَوْمِ يَوْمٍ وَإِفْطَارِ يَوْمٍ قَالَ ‏\"‏ ذَاكَ صَوْمُ أَخِي دَاوُدَ عَلَيْهِ السَّلاَمُ ‏\"‏ ‏.‏ قَالَ وَسُئِلَ عَنْ صَوْمِ يَوْمِ الاِثْنَيْنِ قَالَ ‏\"‏ ذَاكَ يَوْمٌ وُلِدْتُ فِيهِ وَيَوْمٌ بُعِثْتُ أَوْ أُنْزِلَ عَلَىَّ فِيهِ ‏\"‏ ‏.‏ قَالَ فَقَالَ ‏\"‏ صَوْمُ ثَلاَثَةٍ مِنْ كُلِّ شَهْرٍ وَرَمَضَانَ إِلَى رَمَضَانَ صَوْمُ الدَّهْرِ ‏\"‏ ‏.‏ قَالَ وَسُئِلَ عَنْ صَوْمِ يَوْمِ عَرَفَةَ فَقَالَ ‏\"‏ يُكَفِّرُ السَّنَةَ الْمَاضِيَةَ وَالْبَاقِيَةَ ‏\"‏ ‏.‏ قَالَ وَسُئِلَ عَنْ صَوْمِ يَوْمِ عَاشُورَاءَ فَقَالَ ‏\"‏ يُكَفِّرُ السَّنَةَ الْمَاضِيَةَ ‏\"‏ ‏.‏ وَفِي هَذَا الْحَدِيثِ مِنْ رِوَايَةِ شُعْبَةَ قَالَ وَسُئِلَ عَنْ صَوْمِ يَوْمِ الاِثْنَيْنِ وَالْخَمِيسِ فَسَكَتْنَا عَنْ ذِكْرِ الْخَمِيسِ لَمَّا نَرَاهُ وَهْمًا ‏.‏",
+      "english": {
+        "narrator": "Abu Qatada al-Ansari (Allah be pleased with him) reported that the Messenger of Allah (ﷺ) was asked about his fasting. The Messenger of Allah (ﷺ) felt annoyed. Thereupon 'Umar (Allah be pleased with him) said:",
+        "text": "We are pleased with Allah as the Lord, with Islam as our Code of Life, with Muhammad as the Messenger and with our pledge (to you for willing and cheerful submission) as a (sacred) commitment. He was then asked about perpetual fasting, whereupon he said: He neither fasted nor did he break it, or he did not fast and he did not break it. He was then asked about fasting for two days and breaking one day. He (the Holy Prophet) said: And who has strength enough to do it? He was asked about fasting for a day and breaking for two days, whereupon he said: May Allah bestow upon us strength to do it. He was then asked about fasting for a day and breaking on the other, whereupon he said: That is the fasting of my brother David (peace be upon him). He was then asked about fasting on Monday, whereupon he said: It was the day on which I was born. on which I was commissioned with prophethood or revelation was sent to me, (and he further) said: Three days' fasting every month and of the whole of Ramadan every year is a perpetual fast. He was asked about fasting on the day of 'Arafa (9th of Dhu'I-Hijja), whereupon he said: It expiates the sins of the preceding year and the coming year. He was asked about fasting on the day of 'Ashura (10th of Muharram), whereupon be said: It expiates the sins of the preceding year. (Imam Muslim said that in this hadith there is a) narration of Imam Shu'ba that he was asked about fasting on Monday and Thursday, but we (Imam Muslim) did not mention Thursday for we found it as an error (in reporting)."
+      }
+    },
+    {
+      "id": 254,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا النَّضْرُ بْنُ شُمَيْلٍ، كُلُّهُمْ عَنْ شُعْبَةَ، بِهَذَا الإِسْنَادِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated by Shu'ba with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 255,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ، حَدَّثَنَا حَبَّانُ بْنُ هِلاَلٍ، حَدَّثَنَا أَبَانُ الْعَطَّارُ، حَدَّثَنَا غَيْلاَنُ بْنُ جَرِيرٍ، فِي هَذَا الإِسْنَادِ بِمِثْلِ حَدِيثِ شُعْبَةَ غَيْرَ أَنَّهُ ذَكَرَ فِيهِ الاِثْنَيْنِ وَلَمْ يَذْكُرِ الْخَمِيسَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated by Ghailan b. Jarir with the same chain of transmitters, but with one variation, that there has been made mention of Monday and not of Thursday."
+      }
+    },
+    {
+      "id": 256,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا مَهْدِيُّ بْنُ مَيْمُونٍ، عَنْ غَيْلاَنَ، عَنْ عَبْدِ اللَّهِ بْنِ مَعْبَدٍ الزِّمَّانِيِّ، عَنْ أَبِي قَتَادَةَ الأَنْصَارِيِّ، رضى الله عنه أَنَّرَسُولَ اللَّهِ صلى الله عليه وسلم سُئِلَ عَنْ صَوْمِ الاِثْنَيْنِ فَقَالَ ‏\n\"‏ فِيهِ وُلِدْتُ وَفِيهِ أُنْزِلَ عَلَىَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Qatada Ansari (Allah be pleased with him) reported that Allah's Massenger (ﷺ) was asked about fasting on Monday, whereupon he said:",
+        "text": "It is (the day) when I was born and revelation was sent down to me."
+      }
+    },
+    {
+      "id": 257,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ مُطَرِّفٍ، - وَلَمْ أَفْهَمْ مُطَرِّفًا مِنْ هَدَّابٍ - عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، - رضى الله عنهما - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لَهُ أَوْ لآخَرَ ‏\"‏ أَصُمْتَ مِنْ سَرَرِ شَعْبَانَ ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ قَالَ ‏\"‏ فَإِذَا أَفْطَرْتَ فَصُمْ يَوْمَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Imran b. Husain (Allah be pleased with them) reported Allah's Messenger (may peace he upon him) having said to him or to someone else:",
+        "text": "Did you fast in the middle of Sha'ban? He said: No. Thereupon he (the Holy Prophet) said: If you did not observe fast, then you should observe fast for two days."
+      }
+    },
+    {
+      "id": 258,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنِ الْجُرَيْرِيِّ، عَنْ أَبِي، الْعَلاَءِ عَنْ مُطَرِّفٍ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، - رضى الله عنهما - أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لِرَجُلٍ ‏\"‏ هَلْ صُمْتَ مِنْ سُرَرِ هَذَا الشَّهْرِ شَيْئًا ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَإِذَا أَفْطَرْتَ مِنْ رَمَضَانَ فَصُمْ يَوْمَيْنِ مَكَانَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Imran b. Husain (Allah be pleased with them) reported that Allah's Apostle (ﷺ) said to a person:",
+        "text": "Did you observe any fast in the middle of this month (Sha'ban)? He said: No. Thereupon the Messenger of Allah (ﷺ) said: Fast for two days instead of (one fast) when you have completed (fasts of) Ramadan."
+      }
+    },
+    {
+      "id": 259,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنِ ابْنِ أَخِي، مُطَرِّفِ بْنِ الشِّخِّيرِ قَالَ سَمِعْتُ مُطَرِّفًا، يُحَدِّثُ عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، - رضى الله عنهما - أَنَّصلى الله عليه وسلم قَالَ لِرَجُلٍ ‏\"‏ هَلْ صُمْتَ مِنْ سِرَرِ هَذَا الشَّهْرِ شَيْئًا ‏\"‏ ‏.‏ يَعْنِي شَعْبَانَ ‏.‏ قَالَ لاَ ‏.‏ قَالَ فَقَالَ لَهُ ‏\"‏ إِذَا أَفْطَرْتَ رَمَضَانَ فَصُمْ يَوْمًا أَوْ يَوْمَيْنِ ‏\"‏ ‏.‏ شُعْبَةُ الَّذِي شَكَّ فِيهِ قَالَ وَأَظُنُّهُ قَالَ يَوْمَيْنِ ‏.‏",
+      "english": {
+        "narrator": "'Imran b. Husain (Allah be pleased with them) reported that the Messenger of Allah (ﷺ) said to a person:",
+        "text": "Did you observe fast in the middle of this month. i. e. Sha'ban? He said: No. Thereupon he said to him: When it is the end of Ramadan, then observe fast for one day or two (Shu'ba had some doubt about it) but he said: I think that he has said: two days."
+      }
+    },
+    {
+      "id": 260,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ قُدَامَةَ، وَيَحْيَى اللُّؤْلُؤِيُّ، قَالاَ أَخْبَرَنَا النَّضْرُ، أَخْبَرَنَا شُعْبَةُ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ هَانِئِ ابْنِ أَخِي، مُطَرِّفٍ فِي هَذَا الإِسْنَادِ ‏.‏ بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith is narrated by 'Abdullah b. Hani b. Akhi Mutarrif with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 261,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، الْحِمْيَرِيِّ عَنْ أَبِي هُرَيْرَةَ، - رضى الله عنه - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَفْضَلُ الصِّيَامِ بَعْدَ رَمَضَانَ شَهْرُ اللَّهِ الْمُحَرَّمُ وَأَفْضَلُ الصَّلاَةِ بَعْدَ الْفَرِيضَةِ صَلاَةُ اللَّيْلِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Haraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The most excellent fast after Ramadan is God's month. al-Muharram, and the most excellent prayer after what is prescribed is prayer during the night."
+      }
+    },
+    {
+      "id": 262,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ مُحَمَّدِ بْنِ، الْمُنْتَشِرِ عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، - رضى الله عنه - يَرْفَعُهُ قَالَ سُئِلَ أَىُّ الصَّلاَةِ أَفْضَلُ بَعْدَ الْمَكْتُوبَةِ وَأَىُّ الصِّيَامِ أَفْضَلُ بَعْدَ شَهْرِ رَمَضَانَ فَقَالَ ‏\n\"‏ أَفْضَلُ الصَّلاَةِ بَعْدَ الصَّلاَةِ الْمَكْتُوبَةِ الصَّلاَةُ فِي جَوْفِ اللَّيْلِ وَأَفْضَلُ الصِّيَامِ بَعْدَ شَهْرِ رَمَضَانَ صِيَامُ شَهْرِ اللَّهِ الْمُحَرَّمِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira (Allah be pleased with him) reported that he (the Messenger of Allah) was asked as to which prayer was most excellent after the prescribed prayer, and which fast was most excellent after the month of Ramadan. He said:",
+        "text": "Prayer offered in the middle of the night and the most excellent fast after (fasting) in the month of Ramadan is the fast in God's month al-Muharram."
+      }
+    },
+    {
+      "id": 263,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، عَنْ عَبْدِ الْمَلِكِ، بْنِ عُمَيْرٍ بِهَذَا الإِسْنَادِ فِي ذِكْرِ الصِّيَامِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "A hadith like this has been reported from the Messenger of Allah (ﷺ) by 'Abd al-Malik with the same chain of transmitters in connection with fast."
+      }
+    },
+    {
+      "id": 264,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَعَلِيُّ بْنُ حُجْرٍ، جَمِيعًا عَنْ إِسْمَاعِيلَ، - قَالَ ابْنُ أَيُّوبَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، - أَخْبَرَنِي سَعْدُ بْنُ سَعِيدِ بْنِ قَيْسٍ، عَنْ عُمَرَ، بْنِ ثَابِتِ بْنِ الْحَارِثِ الْخَزْرَجِيِّ عَنْ أَبِي أَيُّوبَ الأَنْصَارِيِّ، - رضى الله عنه - أَنَّهُ حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ صَامَ رَمَضَانَ ثُمَّ أَتْبَعَهُ سِتًّا مِنْ شَوَّالٍ كَانَ كَصِيَامِ الدَّهْرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Ayyub al-Ansari (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:",
+        "text": "He who observed the fast of Ramadan and then followed it with six (fasts) of Shawwal. it would be as if he fasted perpetually."
+      }
+    },
+    {
+      "id": 265,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سَعْدُ بْنُ سَعِيدٍ، أَخُو يَحْيَى بْنِ سَعِيدٍ أَخْبَرَنَا عُمَرُ بْنُ ثَابِتٍ، أَخْبَرَنَا أَبُو أَيُّوبَ الأَنْصَارِيُّ، - رضى الله عنه - قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏.‏ بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "Abu Ayyub al-Ansari reported (through another chain of transmitters):",
+        "text": "I heard Allah's Messenger (ﷺ) saying like this."
+      }
+    },
+    {
+      "id": 266,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ سَعْدِ بْنِ سَعِيدٍ، قَالَ سَمِعْتُ عُمَرَ بْنَ ثَابِتٍ، قَالَ سَمِعْتُ أَبَا أَيُّوبَ، - رضى الله عنه - يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Ayyub reported a hadith like this (through another chain of transmitters)."
+      }
+    },
+    {
+      "id": 267,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، - رضى الله عنهما - أَنَّ رِجَالاً، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أُرُوا لَيْلَةَ الْقَدْرِ فِي الْمَنَامِ فِي السَّبْعِ الأَوَاخِرِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَرَى رُؤْيَاكُمْ قَدْ تَوَاطَأَتْ فِي السَّبْعِ الأَوَاخِرِ فَمَنْ كَانَ مُتَحَرِّيَهَا فَلْيَتَحَرَّهَا فِي السَّبْعِ الأَوَاخِرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar (Allah be pleased with them) reported that some persons among the Companions of the Messenger of Allah (ﷺ) were shown Lailat- ul-Qadr while sleeping in the last week (of Ramadan). Thereupon Allah's Messenger (ﷺ) said:",
+        "text": "I see that your dreams agree regarding the last week; so he who wants to seek it should seek it in the last week (during the night)."
+      }
+    },
+    {
+      "id": 268,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ، عُمَرَ - رضى الله عنهما - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ تَحَرَّوْا لَيْلَةَ الْقَدْرِ فِي السَّبْعِ الأَوَاخِرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar (Allah be pleased with them) reported Allah's Apostle (ﷺ) as saying:",
+        "text": "Seek Lailat-ul-Qadr in the last week (of Ramadan)."
+      }
+    },
+    {
+      "id": 269,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالَ زُهَيْرٌ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، - رضى الله عنه - قَالَ رَأَى رَجُلٌ أَنَّ لَيْلَةَ الْقَدْرِ لَيْلَةُ سَبْعٍ وَعِشْرِينَ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ أَرَى رُؤْيَاكُمْ فِي الْعَشْرِ الأَوَاخِرِ فَاطْلُبُوهَا فِي الْوِتْرِ مِنْهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Salim reported on the authority of his father that a person saw Lailat-ul- Qadr on the 27th (of Ramadan). Thereupon Allah's Apostle (ﷺ) said:",
+        "text": "I see that your dreams agree regarding the last ten (nights of Ramadan). So seek it on an odd number (of these ten nights)."
+      }
+    },
+    {
+      "id": 270,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ أَبَاهُ، - رضى الله عنه - قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ لِلَيْلَةِ الْقَدْرِ ‏\n\"‏ إِنَّ نَاسًا مِنْكُمْ قَدْ أُرُوا أَنَّهَا فِي السَّبْعِ الأُوَلِ وَأُرِيَ نَاسٌ مِنْكُمْ أَنَّهَا فِي السَّبْعِ الْغَوَابِرِ فَالْتَمِسُوهَا فِي الْعَشْرِ الْغَوَابِرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Salim b. 'Abdullah b. 'Umar reported that his father said:",
+        "text": "I heard Allah's Messenger (ﷺ) as saying: So far as Lailat-ul-Qadr is concerned. some persons among you have seen it (in a dream) in the first week and some persons among you have been shown that it is in the last week; so seek it in the last ten (nights)."
+      }
+    },
+    {
+      "id": 271,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عُقْبَةَ، - وَهُوَ ابْنُ حُرَيْثٍ - قَالَ سَمِعْتُ ابْنَ عُمَرَ، - رضى الله عنهما - يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الْتَمِسُوهَا فِي الْعَشْرِ الأَوَاخِرِ - يَعْنِي لَيْلَةَ الْقَدْرِ - فَإِنْ ضَعُفَ أَحَدُكُمْ أَوْ عَجَزَ فَلاَ يُغْلَبَنَّ عَلَى السَّبْعِ الْبَوَاقِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Seek it (Lailat-ul-Qadr) in the last (ten nights). If one among you shows slackness and weakness (in the earlier part of Ramadan), it should not be allowed to prevail upon him in the last week."
+      }
+    },
+    {
+      "id": 272,
+      "chapterId": 13,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ جَبَلَةَ، قَالَ سَمِعْتُ ابْنَ عُمَرَ، - رضى الله عنهما - يُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ مَنْ كَانَ مُلْتَمِسَهَا فَلْيَلْتَمِسْهَا فِي الْعَشْرِ الأَوَاخِرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) as saying:",
+        "text": "He who is anxious to seek it (Lailat-ul-Qadr) should seek it in the last ten (nights of Ramadan)."
+      }
+    }
+  ]
+}

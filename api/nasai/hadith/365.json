@@ -1,0 +1,16 @@
+{
+  "id": 365,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ سُفْيَانَ، عَنْ جَعْفَرٍ، عَنْ أَبِيهِ، عَنْ جَابِرٍ، قَالَ لَمَّا تَصَوَّبَتْ قَدَمَا رَسُولِ اللَّهِ صلى الله عليه وسلم فِي بَطْنِ الْوَادِي رَمَلَ حَتَّى خَرَجَ مِنْهُ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Jabir said:",
+    "text": "\"When the Messenger of Allah reached level ground at the bottom of the valley, he would hasten until he came out of it.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

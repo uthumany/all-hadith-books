@@ -1,0 +1,16 @@
+{
+  "id": 548,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، أَخْبَرَنَا عِيسَى بْنُ حَفْصِ بْنِ عَاصِمٍ، حَدَّثَنَا نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ صَبَرَ عَلَى لأْوَائِهَا كُنْتُ لَهُ شَفِيعًا أَوْ شَهِيدًا يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) as saying:",
+    "text": "He who patiently endures the hardships of it (of this city of Medina), I would be an intercessor or a withness on his behalf on the Day of Resurrection."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

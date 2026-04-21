@@ -1,0 +1,16 @@
+{
+  "id": 347,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ الدِّمَشْقِيُّ، حَدَّثَنَا الْفِرْيَابِيُّ، حَدَّثَنَا سَلَمَةُ بْنُ بِشْرٍ الدِّمَشْقِيُّ، عَنْ بِنْتِ وَاثِلَةَ بْنِ الأَسْقَعِ، أَنَّهَا سَمِعَتْ أَبَاهَا، يَقُولُ قُلْتُ يَا رَسُولَ اللَّهِ مَا الْعَصَبِيَّةُ قَالَ ‏\n\"‏ أَنْ تُعِينَ قَوْمَكَ عَلَى الظُّلْمِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Wathilah ibn al-Asqa':",
+    "text": "I asked: Messenger of Allah! what is party spirit? He replied: That you should help your people in wrongdoing."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

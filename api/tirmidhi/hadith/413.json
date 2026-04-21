@@ -1,0 +1,16 @@
+{
+  "id": 413,
+  "chapterId": 47,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ مُحَارِبِ بْنِ دِثَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الْكَوْثَرُ نَهْرٌ فِي الْجَنَّةِ حَافَّتَاهُ مِنْ ذَهَبٍ وَمَجْرَاهُ عَلَى الدُّرِّ وَالْيَاقُوتِ تُرْبَتُهُ أَطْيَبُ مِنَ الْمِسْكِ وَمَاؤُهُ أَحْلَى مِنَ الْعَسَلِ وَأَبْيَضُ مِنَ الثَّلْجِ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "`Abdullah bin `Umar narrated that :",
+    "text": "the Messenger of Allah said: “Al-Kauthar is a river in Paradise, whose banks are of gold, and it flows over pearls and corundum. Its dirt is purer than musk, and its water is sweeter than honey and whiter than milk.”"
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 304,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي ذر رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏يا أبا ذر إذا طبخت مرقة، فأكثر ماءها، وتعاهد جيرانك‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ \nوفي رواية له عن أبي ذر قال‏:‏ إن خليلي صلى الله عليه وسلم أوصاني‏:‏ ‏\"‏ إذا طبخت مرقًا فأكثر ماءها، ثم انظر أهل بيت من جيرانك، فأصبهم منها بمعروف‏\"‏‏.‏",
+  "english": {
+    "narrator": "Abu Dharr (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) commanded me thus, \"O Abu Dharr! Whenever you prepare a broth, put plenty of water in it, and and give some of it to your neighbours\"..In another narration of Muslim, narrated Abu Dharr (May Allah be pleased with him): My friend, (Messenger of Allah (ﷺ)) advised me saying, \"Whenever you prepare a broth, put plenty of water in it, and give some to your neighbours and then give them out of this with courtesy.\""
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

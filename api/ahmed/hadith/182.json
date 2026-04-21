@@ -1,0 +1,16 @@
+{
+  "id": 182,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَزِيدُ، أَنْبَأَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عَبْدِ الْعَزِيزِ بْنِ أَبِي الصَّعْبَةِ، عَنْ عَبْدِ اللَّهِ بْنِ زُرَيْرٍ الْغَافِقِيِّ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ أَخَذَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَهَبًا بِيَمِينِهِ وَحَرِيرًا بِشِمَالِهِ ثُمَّ رَفَعَ بِهِمَا يَدَيْهِ فَقَالَ هَذَانِ حَرَامٌ عَلَى ذُكُورِ أُمَّتِي‏.‏",
+  "english": {
+    "narrator": "It was narrated that `Abdullah bin Zurair al-Ghafiqi said:",
+    "text": "I heard ‘Ali (رضي الله عنه) say: The Messenger of Allah (ﷺ) held some gold in his right hand and some silk in his left hand, then he raised his hands and said: “These two are haram for the males of my ummah.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

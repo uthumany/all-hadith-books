@@ -1,0 +1,16 @@
+{
+  "id": 173,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، حَدَّثَنَا خَالِدٌ، عَنْ يُونُسَ، عَنْ عَمْرِو بْنِ سَعِيدٍ، عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ، عَنْ جَرِيرٍ، قَالَ بَايَعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى السَّمْعِ وَالطَّاعَةِ وَأَنْ أَنْصَحَ لِكُلِّ مُسْلِمٍ - قَالَ - وَكَانَ إِذَا بَاعَ الشَّىْءَ أَوِ اشْتَرَاهُ قَالَ ‏\n\"‏ أَمَا إِنَّ الَّذِي أَخَذْنَا مِنْكَ أَحَبُّ إِلَيْنَا مِمَّا أَعْطَيْنَاكَ فَاخْتَرْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Jarir:",
+    "text": "I swore allegiance to the Messenger of Allah (ﷺ) promising to hear and obey, and behave sincerely towards every Muslim. AbuZur'ah said: Whenever he sold and bought anything, he would say: What we took from you is dearer to us than what we gave you. So choose (as you like)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

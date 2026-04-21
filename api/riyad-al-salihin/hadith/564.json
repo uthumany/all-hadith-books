@@ -1,0 +1,16 @@
+{
+  "id": 564,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم  ‏\n\"‏ طعام الاثنين كافي الثلاثة، وطعام الثلاثة كافي الأربعة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ \n\nوفى رواية لمسلم عن جابر رضي الله عنه ، عن النبي صلى الله عليه وسلم قال‏:‏ طعام الواحد يكفي الاثنين وطعام الاثنين يكفي الأربعة، وطعام الأربعة يكفي الثمانية‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"The food for two suffices for three; and the food for three suffices for four persons.\".In Muslim, Jabir (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"The food for one person suffices for two; the food for two suffices for four, and the food for four suffices for eight persons.\""
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

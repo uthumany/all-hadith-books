@@ -1,0 +1,510 @@
+{
+  "page": 5,
+  "perPage": 50,
+  "totalPages": 36,
+  "totalCount": 1767,
+  "nextPage": 6,
+  "prevPage": 4,
+  "items": [
+    {
+      "id": 22,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِلْحَاكِمِ فِي حَدِيثِ جَابِرٍ ‏- رضى الله عنه ‏- نَحْوُهُ, وَزَادَ فِي اَلَّذِي يُحَرِّمُ اَلطَّعَامَ: { إِنَّهُ يَذْهَبُ مُسْتَطِيلاً فِي اَلْأُفُقِ }  وَفِي اَلْآخَرِ: { إِنَّهُ كَذَنَبِ اَلسِّرْحَان }   1‏ .‏‏1 ‏- صحيح.‏ رواه الحاكم (191)‏ وقال: \"إسناده صحيح\".‏ وقال الذهبي: \"صحيح\".‏ \"والسرحان\": هو: الذئب، والمراد أنه لا يذهب مستطيلا ممتدا، بل يرتفع في السماء كالعمود.‏ قاله الصنعاني.‏",
+      "english": {
+        "narrator": "al-Hakim reported something similar to the above Hadith from Jabir and added to the type of dawn in which eating is forbidden:",
+        "text": "\"it is spread widely in the horizon,\" and to the other type: \"it has the shape of wolf's tail.\""
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ اِبْنِ مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ أَفْضَلُ اَلْأَعْمَالِ اَلصَّلَاةُ فِي أَوَّلِ وَقْتِهَا }  رَوَاهُ اَلتِّرْمِذِيُّ, وَالْحَاكِمُ.‏ وَصَحَّحَاهُ  1‏ .‏‏1 ‏- صحيح.‏ رواه الترمذي (173)‏، والحاكم (188)‏ واللفظ للحاكم.‏",
+      "english": {
+        "narrator": "Narrated Ibn Mas'ud (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"One of the best deeds is to offer Salat (prayer) in its early time.\"\n\n."
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَأَصْلُهُ فِي \n\"اَلصَّحِيحَيْنِ\"  1‏ .‏‏1 ‏- انظر \"الأصل\" ففيه تفصيل لألفاظ الحديث ورواياته.‏",
+      "english": {
+        "narrator": "",
+        "text": "Its basic meaning is in the Sahihain of al-Bukhari and Muslim."
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي مَحْذُورَةَ ‏- رضى الله عنه ‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ: { أَوَّلُ اَلْوَقْتِ رِضْوَانُ اَللَّهُ, وَأَوْسَطُهُ رَحْمَةُ اَللَّهِ; وَآخِرُهُ عَفْوُ اَللَّهِ }  أَخْرَجَهُ اَلدَّارَقُطْنِيُّ بِسَنَدٍ ضَعِيفٍ جِدًّا  1‏ .‏‏1 ‏- موضوع.‏ رواه الدارقطني (149‏-2502)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Mahdhurah (RA):",
+        "text": "The Prophet (ﷺ) said: \"The earliest time of prayer is what pleases Allah, the midtime is for the mercy of Allah and the latest time is what Allah pardons.\"\n\n."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِلتِّرْمِذِيِّ مِنْ حَدِيثِ اِبْنِ عُمَرَ نَحْوُهُ, دُونَ اَلْأَوْسَطِ, وَهُوَ ضَعِيفٌ أَيْضًا  1‏‏1 ‏- موضوع.‏ كسابقه.‏ رواه الترمذي (172)‏، وفي قول الحافظ: \"ضعيف\" تساهل؛ فإن في إسناده يعقوب بن الوليد كان من الكذابين الكبار كما قال أحمد.‏",
+      "english": {
+        "narrator": "",
+        "text": "at-Tirmidhi has reported something similar, narrated by Ibn 'Umar, without mentioning the midtime.\n\n."
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { لَا صَلَاةَ بَعْدَ اَلْفَجْرِ إِلَّا سَجْدَتَيْنِ }  أَخْرَجَهُ اَلْخَمْسَةُ, إِلَّا النَّسَائِيُّ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (1278)‏، والترمذي (419)‏، وأحمد (5811)‏، وعند أبي داود في أوله زيادة: \"ليبلغ شاهدكم غائبكم\".‏ وقال الترمذي: \"ومعنى هذا الحديث إنما يقول: لا صلاة بعد طلوع الفجر إلا ركعتي الفجر\".‏ قلت: وما قاله الترمذي هو لفظ رواية عبد الرازق.‏ وأما ابن ماجه (235)‏ فاقتصر على قوله: \"ليبلغ شاهدكم غائبكم\"، وبذلك يتبين أو عزو الحديث له غير دقيق من الحافظ رحمه الله .‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"There is no Salat (i.e. voluntary prayer) after the break of dawn except Sajdatain (Sunnah of Fajr).\"\n\n."
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةِ عَبْدِ اَلرَّزَّاقِ: { لَا صَلَاةَ بَعْدَ طُلُوعِ اَلْفَجْرِ إِلَّا رَكْعَتَيْ اَلْفَجْرِ }   1‏ .‏‏1 ‏- صحيح.‏ رواه عبد الرازق في \"المصنف\" (3 /53 /4760)‏.‏",
+      "english": {
+        "narrator": "In another narration :",
+        "text": "'Abdur-Razzaq also narrated: \"There is no Salat (voluntary prayer) after the break of dawn ecept the two (Sunnah) Rak'a of Fajr.\""
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَمِثْلُهُ لِلدَّارَقُطْنِيّ عَنْ اِبْنِ عَمْرِوِ بْنِ اَلْعَاصِ  1‏ .‏‏1 ‏- صحيح بما قبله.‏ ورواه الدارقطني (1/419/3)‏ ولفظه: \"لا صلاة بعد صلاة الفجر إلا ركعتين\".‏",
+      "english": {
+        "narrator": "",
+        "text": "A narration of ad-Daraqutni narrated by Amr bin al-'Aas is similar to the one above."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَمْ سَلَمَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { صَلَّى رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-اَلْعَصْرَ, ثُمَّ دَخَلَ بَيْتِي, فَصَلَّى رَكْعَتَيْنِ, فَسَأَلْتُهُ, فَقَالَ: \"شُغِلْتُ عَنْ رَكْعَتَيْنِ بَعْدَ اَلظُّهْرِ, فَصَلَّيْتُهُمَا اَلْآنَ\", قُلْتُ: أَفَنَقْضِيهِمَا إِذَا فَاتَتْنَا? قَالَ: \"لَا\" }  أَخْرَجَهُ أَحْمَدُ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أحمد (6/315)‏ وفي \"الأصل\" بيان علة الضعف مع الرد على تحسين الشيخ عبد العزيز بن باز ‏-حفظه الله‏- للحديث في تعليقه على \"الفتح\" (2 /65)‏.‏",
+      "english": {
+        "narrator": "Narrated Umm Salamah (RA):",
+        "text": "Allah's Messenger (ﷺ) came to my house after offering 'Asr prayer and offered two Rak'a, then I asked him about that and he replied, \"I was kept busy (and failed to pray) the two (Sunnah) Rak'a after Zuhr prayer, so I offered them now.\" I asked him, \"Should we offer them if we miss them?\" He (ﷺ) replied, \"No.\"\n\n."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِأَبِي دَاوُدَ عَنْ عَائِشَةَ بِمَعْنَاهُ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أبو داود (1280)‏ عن عائشة؛ أن رسول الله صلى الله عليه وسلم: كان يصلي بعد العصر وينهي عنها.‏.‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The narration of Abu Dawud from 'Aishah (RA) has the same meaning."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "عَنْ عَبْدِ اَللَّهِ بْنِ زَيْدِ بْنِ عَبْدِ رَبِّهِ ‏- رضى الله عنه ‏- قَالَ: { طَافَ بِي ‏-وَأَنَا نَائِمٌ‏- رَجُلٌ فَقَالَ: تَقُولُ: \"اَللَّهُ أَكْبَرَ اَللَّهِ أَكْبَرُ, فَذَكَرَ اَلْآذَانَ ‏- بِتَرْبِيع اَلتَّكْبِيرِ بِغَيْرِ تَرْجِيعٍ, وَالْإِقَامَةَ فُرَادَى, إِلَّا قَدْ قَامَتِ اَلصَّلَاةُ ‏- قَالَ: فَلَمَّا أَصْبَحْتُ أَتَيْتُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-فَقَالَ: \"إِنَّهَا لَرُؤْيَا حَقٍّ.‏.‏.‏\" }  اَلْحَدِيثَ.‏ أَخْرَجَهُ أَحْمَدُ, وَأَبُو دَاوُدَ, وَصَحَّحَهُ اَلتِّرْمِذِيُّ, وَابْنُ خُزَيْمَةَ  1‏ .‏‏1 ‏- صحيح وإسناده حسن.‏ رواه أبو داود (499)‏، والترمذي (189)‏، وأحمد (4 /43)‏، وابن خزيمة (371)‏ وقال الترمذي: \"هذا حديث حسن صحيح\".‏ وقال ابن خزيمة (197)‏: \"خبر ثابت صحيح من جهة النقل\".‏",
+      "english": {
+        "narrator": "Narrated 'Abdullah bin Zaid bin Abd-Rabbihi (RA):",
+        "text": "A man appeared to me while I was asleep and told me to say, \"Allahu Akbar, Allahu Akbar (Allah is the Most Great, Allah is the Most Great)\" and he mentioned the Adhan with Allahu Akbar four times without Tarji', and the Iqama once except Qad qamat-is-Salah (the prayer stood ready to begin), (he repeated it twice). He ('Abdullah) said when it was morning I went to Allah's Messenger (ﷺ) and he said, \"It is a true vision...\"\n\n."
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَزَادَ أَحْمَدُ فِي آخِرِهِ قِصَّةَ قَوْلِ بِلَالٍ فِي آذَانِ اَلْفَجْرِ: { اَلصَّلَاةُ خَيْرٌ مِنَ اَلنَّوْمِ }   1‏ .‏‏1 ‏- انظر ما قبله.‏",
+      "english": {
+        "narrator": "Ahmad added to the end of the above Hadith, the story of BIlal's statement in the Fajr Adhan (morning prayer call):",
+        "text": "as-Salatu khairun minan-nawm - \"Prayer is better than sleep\"."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِابْنِ خُزَيْمَةَ: عَنْ أَنَسٍ قَالَ: { مِنْ اَلسُّنَّةِ إِذَا قَالَ اَلْمُؤَذِّنُ فِي اَلْفَجْرِ: حَيٌّ عَلَى اَلْفَلَاحِ, قَالَ: اَلصَّلَاةُ خَيْرٌ مِنَ اَلنَّوْمِ }   1‏ .‏‏1 ‏- رواه ابن خزيمة (386)‏ بسند صحيح.‏",
+      "english": {
+        "narrator": "Ibn Khuzaimah reported from Anas (RA):",
+        "text": "\"It is from the Sunnah that when the Mu'adhadhin says  Fajr (prayer time): 'Haiya 'alal-Falah (Come to the success)', he says (also) 'as-Salatu khairun minan-nawm (Prayer is better than sleep).'\""
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "عَنْ أَبِي مَحْذُورَةَ ‏- رضى الله عنه ‏- { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-عَلَّمَهُ اَلْآذَانَ, فَذَكَرَ فِيهِ اَلتَّرْجِيعَ }  أَخْرَجَهُ مُسْلِمٌ.‏ وَلَكِنْ ذَكَرَ اَلتَّكْبِيرَ فِي أَوَّلِهِ مَرَّتَيْنِ فَقَطْ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (379)‏.‏ \"والترجيع\": أي في الشهادتين فيقولها مرة بصوت منخفض، ومرة أخرى بصوت مرتفع.‏",
+      "english": {
+        "narrator": "Narrated Abu Mahdhura (RA):",
+        "text": "The Prophet (ﷺ) taught him the Adhan (call to prayer) and he (the narrator) mentioned the Tarji' in it.\n\n[Muslim reported it, but mentioned the phrase (Takbir) \"Allah is the Most Great\" at its beginning just twice."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَرَوَاهُ اَلْخَمْسَةُ فَذَكَرُوهُ مُرَبَّعًا  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (502)‏، والنسائي (2 /4‏-5)‏، والترمذي (192 )‏، وابن ماجه (709)‏، وأحمد (3 /409 و 6 /401)‏، وقال الترمذي: \"حديث حسن صحيح\".‏",
+      "english": {
+        "narrator": "",
+        "text": "al-Khamsah reported it, but mentioned the Takbir four times."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَنَسِ]بْنِ مَالِكٍ] ‏- رضى الله عنه ‏- قَالَ: { أُمِرَ بِلَالٌ أَنْ يَشْفَعَ اَلْآذَانَ, وَيُوتِرَ اَلْإِقَامَةَ, إِلَّا اَلْإِقَامَةَ, يَعْنِي قَوْلَهُ: قَدْ قَامَتِ اَلصَّلَاةُ }  مُتَّفَقٌ عَلَيْهِ, وَلَمْ يَذْكُرْ مُسْلِمٌ اَلِاسْتِثْنَاءَ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (605)‏، ومسلم (378)‏.‏",
+      "english": {
+        "narrator": "Narrated Anas (RA):",
+        "text": "Bilal was commanded to announce the Adhan (each phrase) twice and the Iqamah (each phrase) once except \"The prayer stood ready to begin\" (to be pronounced twice).\n\n."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِلنَّسَائِيِّ: { أَمَرَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-بِلَالاً }   1‏ .‏‏1 ‏- صحيح.‏ رواه النسائي (2/3)‏ .‏",
+      "english": {
+        "narrator": "A narration of an-Nasa'i has:",
+        "text": "\"Bilal was ordered by the Prophet (ﷺ).\""
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي جُحَيْفَةَ ‏- رضى الله عنه ‏- قَالَ: { رَأَيْتُ بِلَالاً يُؤَذِّنُ وَأَتَتَبَّعُ فَاهُ, هَاهُنَا وَهَاهُنَا, وَإِصْبَعَاهُ فِي أُذُنَيْهِ }  رَوَاهُ أَحْمَدُ, وَاَلتِّرْمِذِيُّ وَصَحَّحَهُ  1‏ .‏‏1 ‏- صحيح.‏ رواه أحمد (4/308‏-309)‏، والترمذي (197)‏، وقال الترمذي: \"حديث حسن صحيح\".‏",
+      "english": {
+        "narrator": "Narrated Abu Juhaifa (RA):",
+        "text": "I saw Bilal calling for prayer and I would follow (looking at) his mouth (as he turned it) this (right) side and that (left) side with his fingers in his ears.\n\n."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِابْنِ مَاجَهْ: وَجَعَلَ إِصْبَعَيْهِ فِي أُذُنَيْهِ  1‏ .‏‏1 ‏- ابن ماجه (711)‏، وهو صحيح أيضا، وإن كان في سنده ضعيف.‏",
+      "english": {
+        "narrator": "",
+        "text": "In a narration of Ibn Majah - 'and he put his fingers in his ears'."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِأَبِي دَاوُدَ: { لَوَى عُنُقَهُ, لَمَّا بَلَغَ \n\"حَيَّ عَلَى اَلصَّلَاةِ \" يَمِينًا وَشِمَالاً وَلَمْ يَسْتَدِرْ }   1‏ .‏‏1 ‏- أبو داود (520)‏ وهو منكر .‏",
+      "english": {
+        "narrator": "",
+        "text": "And also a narration of Abu Dawud - 'he turned his neck to the right and left when he reached Haiya 'alas-Salah (Come to the prayer) and did not turn his body'."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَأَصْلِهِ فِي اَلصَّحِيحَيْنِ  1‏ .‏‏1 ‏- قلت.‏ هو في البخاري (634)‏، ومسلم (503)‏، عن ابن أبي جحيفة، عن أبيه؛ أنه رأى بلالا يؤذن.‏ قال: فجعلت أتتبع فاه هاهنا وهاهنا.‏",
+      "english": {
+        "narrator": "",
+        "text": "And its basic meaning is in Sahihain (al-Bukhari and Muslim)."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي مَحْذُورَةَ ‏- رضى الله عنه ‏- { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-أَعْجَبَهُ صَوْتُهُ, فَعَلَّمَهُ اَلْآذَانَ }  رَوَاهُ اِبْنُ خُزَيْمَةَ  1‏ .‏‏1 ‏- رواه ابن خزيمة (377)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Mandhura (RA):",
+        "text": "The Prophet (ﷺ) liked his voice, so he taught him the Adhan (call to prayer).\n\n."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرِ بْنِ سَمُرَةٍ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: { صَلَّيْتُ مَعَ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-اَلْعِيدَيْنِ, غَيْرَ مَرَّةٍ وَلَا مَرَّتَيْنِ, بِغَيْرِ أَذَانٍ وَلَا إِقَامَةٍ }  رَوَاهُ مُسْلِمٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (887)‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir bin Samurah (RA):",
+        "text": "I prayed with the Prophet (ﷺ) the two 'Eids, not only once or twice, without an Adhan or an Iqamah.\n\n."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَنَحْوُهُ فِي اَلْمُتَّفَقِ: عَنْ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا, وَغَيْرُهُ  1‏ .‏‏1 ‏- وتخريجه وسياق لفظه بالأصل.‏",
+      "english": {
+        "narrator": "",
+        "text": "A similar narration is in al-Bukhari and Muslim narrated by 'Abdullah bin 'Abbas (RA) and others."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي قَتَادَةٌ فِي اَلْحَدِيثِ اَلطَّوِيلِ, { فِي نَوْمهُمْ عَنْ اَلصَّلَاةِ ‏- ثُمَّ أَذَّنَ بِلَالٌ, فَصَلَّى رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-كَمَا كَانَ يَصْنَعُ كُلَّ يَوْمٍ }  رَوَاهُ مُسْلِمٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (681)‏ في حديث طويل.‏",
+      "english": {
+        "narrator": "Narrated Abu Qatadah (RA) in a long Hadith about their (Sahaba) sleeping late past the time of Salat (prayer):",
+        "text": "Then Bilal proclaimed the Adhan and the Prophet (ﷺ) offered the prayer (while leading the Companions) as he used to do every day.\n\n."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلَهُ عَنْ جَابِرٍ; { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-أَتَى اَلْمُزْدَلِفَةَ فَصَلَّى بِهَا اَلْمَغْرِبَ وَالْعِشَاءَ, بِأَذَانٍ وَاحِدٍ وَإِقَامَتَيْنِ }   1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2/891/عبد الباقي)‏، وفي مسلم بعد اللفظ المذكور قوله: \"ولم يسبح بينهما شيئا\".‏ قلت: وهذا هو الصواب في تلك الليلة ‏-ليلة مزدلفة‏- وأما ما ذكره بعضهم أن من السنة صلاة ركعتين سنة المغرب اعتمادا منه على رواية ابن مسعود التي في \"البخاري\" فهو خطأ، وقد رددت عيه مفصلا \"بالأصل\".‏",
+      "english": {
+        "narrator": "Muslim also reported from Jabir (RA):",
+        "text": "The Prophet (ﷺ) came to al-Muzdalifah and offered at it both the Maghrib and 'Isha prayers with one Adhan and two Iqamah."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلَهُ عَنْ اِبْنِ عُمَرَ: { جَمَعَ بَيْنَ اَلْمَغْرِبِ وَالْعِشَاءِ بِإِقَامَةٍ وَاحِدَةٍ }   1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (1288)‏ (289 و 290)‏ وقوله: \"بإقامة واحدة\" أي: لكل صلاة كما هي رواية أبي داود (1928)‏، وهذا الحمل لرواية مسلم أولى من القول بشذوذها.‏ وأما رواية أبي داود: \"ولم يناد في واحدة منهما\" فهي شاذة.‏ والله أعلم.‏",
+      "english": {
+        "narrator": "Muslim also reported from Ibn 'Umar (RA):",
+        "text": "The Prophet (ﷺ) combined the Maghrib and 'Isha prayers with one Iqamah."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "زَادَ أَبُو دَاوُدَ: { لِكُلِّ صَلَاةٍ }  .‏",
+      "english": {
+        "narrator": "Abu Dawud added the words:",
+        "text": "\"for each prayer\"."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةِ لَهُ: { وَلَمْ يُنَادِ فِي وَاحِدَةٍ مِنْهُمَا }  .‏",
+      "english": {
+        "narrator": "And in another narration he reported:",
+        "text": "The Adhan was not announced for any one of them."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ اِبْنِ عُمَرَ, وَعَائِشَةَ قَالَا: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ بِلَالاً يُؤَذِّنُ بِلَيْلٍ, فَكُلُوا وَاشْرَبُوا حَتَّى يُنَادِيَ اِبْنُ أُمِّ مَكْتُومٍ\", وَكَانَ رَجُلاً أَعْمَى لَا يُنَادِي, حَتَّى يُقَالَ لَهُ: أَصْبَحْتَ, أَصْبَحْتَ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏ \n\nوَفِي آخِرِهِ إِدْرَاجٌ  2‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (617)‏، ومسلم (1092)‏ واللفظ للبخاري.‏\n\n‏2 ‏- الإدراج أقسام، منها إدراج كلام بعض الرواة في متن الحديث، وقد يقع الإدراج في أول الحديث وفي وسطه، كما يقع عقبه، كما في المثال المذكور هنا.‏ والجملة المدرجة هي قوله: \"وكان رجلا أعمى لا ينادي، حتى يقال له: أصبحت.‏ أصبحت\".‏ والراجح أنها من قول الزهري كما روى ذلك الطحاوي في: \"شرح المعاني\" وغيره بالإسناد الصحيح من نفس طريق البخاري، خلافا لما جزم به ابن قدامة في \"المغني\" من أن القائل هو ابن عمر.‏ ولكن لا يمنع من أن ابن شهاب قاله أن يكون قاله غيره.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar and 'Aishah (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"Bilal calls for prayer when it is still night, so eat and drink till Ibn Umm Maktum calls for prayer.\" And he (Ibn Umm Maktum) was a blind man who did not call for a prayer until he was told: \"It is morning time, it is morning time.\"\n\n.\n\nThere is an Idraj in its last part."
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ اِبْنِ عُمَرَ; { إِنَّ بِلَالاً أَذَّنَ قَبْلَ اَلْفَجْرِ, فَأَمَرَهُ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-أَنْ يَرْجِعَ, فَيُنَادِيَ: \"أَلَا إِنَّ اَلْعَبْدَ نَامَ }  رَوَاهُ أَبُو دَاوُدَ وَضَعَّفَهُ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (532)‏، وأما تضعيف أبي داود فمثله فعل الترمذي إذ قال: \"حديث غير محفوظ\"، وحجتهم في ذلك أن حماد بن سلمة أخطأ فيه.‏ قلت: وتخطئة الثقة بدون بينة مردود كما فعلوا ذلك هنا.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar (RA):",
+        "text": "Bilal called for prayer before dawn and the Prophet (ﷺ) told him to return and announce: \"Lo! the slave of Allah (i.e. Bilal) had slept (hence this mistake)\".\n\n."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا سَمِعْتُمْ اَلنِّدَاءَ, فَقُولُوا مِثْلَ مَا يَقُولُ اَلْمُؤَذِّنُ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (611)‏، ومسلم (383)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa'id al-Khudri (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"When you hear the Adhan repeat what the Mu'adhdhin (the call-maker) says.\"\n\n."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِلْبُخَارِيِّ: عَنْ مُعَاوِيَةَ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (612)‏ وفي رواية له برقم (914)‏ من طريق أبي أمامة بن سهل بن حنيف قال: سمعت معاوية بن أبي سفيان، وهو جالس على المنبر، أذن المؤذن قال: الله أكبر.‏ الله أكبر.‏ قال معاوية: الله أكبر.‏ الله أكبر.‏ قال: أشهد أن لا إله إلا الله.‏ فقال معاوية: أنا فقال: أشهد أن محمدا رسول الله.‏ فقال معاوية: وأنا.‏ فلما قضى التأذين.‏ قال: يا أيها الناس! إني سمعت رسول الله صلى الله عليه وسلم على هذا المجلس ‏-حين أذن المؤذن‏- يقول: ما سمعتم مني من مقالتي.‏",
+      "english": {
+        "narrator": "",
+        "text": "And al-Bukhari has reported similarly in a narration by Mu'awiyah (RA)."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِمُسْلِمٍ: { عَنْ عُمَرَ فِي فَضْلِ اَلْقَوْلِ كَمَا يَقُولُ اَلْمُؤَذِّنُ كَلِمَةً كَلِمَةً, سِوَى اَلْحَيْعَلَتَيْنِ, فَيَقُولُ: \n\"لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاَللَّهِ\" }   1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (385)‏ ونصه: عن عمر بن الخطاب رضي الله عنه، قال: قال رسول الله صلى الله عليه وسلم: \"إذ قال المؤذن: الله أكبر.‏ الله أكبر.‏ فقال أحدكم: الله أكبر.‏ الله أكبر.‏ ثم قال: أشهد أن لا إله إلا الله.‏ قال: أشهد أن لا إله إلا الله.‏ ثم قال: أشهد أن محمدا رسول الله.‏ قال: أشهد أن محمدا رسول الله.‏ ثم قال: حي على الصلاة .‏ قال: لا حول ولا قوة إلا بالله.‏ ثم قال: حي على الفلاح.‏ قال: لا حول ولا قوة إلا بالله.‏ ثم قال: الله أكبر.‏ الله أكبر.‏ قال: الله أكبر .‏ الله أكبر .‏ ثم قال: لا إله إلا الله.‏ قال: لا إله إلا الله.‏ من قلبه دخل الجنة\".‏",
+      "english": {
+        "narrator": "And Muslim reported a narration by 'Umar (RA) regarding the virtue of repeating what the Mu'adhdhin pronounces word by word except when the Mu'adhdhin says:",
+        "text": "\"Haiya 'alas-Salah, Haiya 'alal-Falah (Come to the prayer and come to the success)\", one should say: \"La hawla wa la quwwata illa billah .\""
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ عُثْمَانَ بْنِ أَبِي الْعَاصِ ‏- رضى الله عنه ‏- { أَنَّهُ قَالَ : يَا رَسُولَ اَللَّهِ اِجْعَلْنِي إِمَامَ قَوْمِي .‏ قَالَ : \"أَنْتَ إِمَامُهُمْ , وَاقْتَدِ بِأَضْعَفِهِمْ , وَاِتَّخِذْ مُؤَذِّنًا لَا يَأْخُذُ عَلَى أَذَانِهِ أَجْرًا }  أَخْرَجَهُ اَلْخَمْسَةُ , وَحَسَّنَهُ اَلتِّرْمِذِيُّ , وَصَحَّحَهُ اَلْحَاكِمُ .‏  1‏‏1 ‏- صحيح .‏ رواه أبو داود (531)‏ ، والترمذي (209)‏ ، وابن ماجه (714)‏ ، وأحمد (4/21و217)‏ ، والحاكم (1/199و201)‏ .‏ وقال الترمذي : حسن كما نقل الحافظ عنه ، ويتأيد نقل الحافظ بنقل غيره من الأئمة الآخرين كالنووي ، والزيلعي، والمزي وغيرهم ، إلا أنه في بعض النسخ التي اعتمد عليها الشيخ أحمد شاكر ‏-رحمه الله‏- قول الترمذي : \"حسن صحيح\" .‏ ولم أجد ما يؤيد ذلك إلى الآن.‏ فالله أعلم .‏ قلت : ولفظ وطريق الحديث عند الترمذي ، وابن ماجه يختلف عنه عند الباقين ، ولم يكن يحسن من الحافظ ‏-رحمه الله‏- العزو لهم كلهم هكذا إجمالا .‏",
+      "english": {
+        "narrator": "Narrated 'Uthman bin Abul-'Aas (RA):",
+        "text": "He said, \"O Messenger of Allah, appointment as the Imam (leader) of my people (in prayers). He (ﷺ) said: \"You are their Imam, but you should follow (observe the strength of) the weakest among them and appoint a Mu'adhdhin who does not charge for the call of Adhan.\"\n\n."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ مَالِكِ بْنِ الْحُوَيْرِثِ ‏- رضى الله عنه ‏- قَالَ : قَالَ لَنَا اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-{ وَإِذَا حَضَرَتِ اَلصَّلَاةُ فَلْيُؤَذِّنْ لَكُمْ أَحَدُكُمْ .‏ .‏ .‏ }  اَلْحَدِيثَ أَخْرَجَهُ اَلسَّبْعَةُ .‏  1‏‏1 ‏- صحيح .‏ رواه البخاري (628)‏ ، ومسلم (674)‏ ، وأبو داود (589)‏ ، والنسائي (2/9)‏ ، والترمذي (205)‏ ، وابن ماجه (9799)‏ ، وأحمد (3/436 و5/53)‏ وله ألفاظ ، وهو عند بعضهم مطولا ، وعند بعضهم مختصرا .‏ وزاد البخاري في بعض رواياته : \"وصلوا كما رأيتموني أصلي\" وهي عند أحمد بلفظ : \"كما تروني أصلي\" ، وليست هذه الزيادة عند أحد من أصحاب الكتب الستة سوى البخاري .‏ وانظر رقم (327)‏ .‏",
+      "english": {
+        "narrator": "Narrated Malik bin al-Huwairith (RA):",
+        "text": "The Prophet (ﷺ) said to us, \"When the time of Salat (prayer) comes, one of you should announce the Adhan.\"\n\n."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ لِبِلَالٍ : { إِذَا أَذَّنْتَ فَتَرَسَّلْ , وَإِذَا أَقَمْتُ فَاحْدُرْ , وَاجْعَلْ بَيْنَ أَذَانِكَ وَإِقَامَتِكَ قَدْرَ مَا يَفْرُغُ اَلْآكِلُ مِنْ أَكْلِهِ }  اَلْحَدِيثَ .‏ رَوَاهُ اَلتِّرْمِذِيُّ وَضَعَّفَهُ .‏  1‏ .‏‏1 ‏- منكر .‏ رواه الترمذي (1959)‏ ، وتمامه : \"والشارب من شربه ، والمعتصر إذا دخل لقضاء حاجته ، ولا تقوموا حتى تروني\" .‏ وقال الترمذي : \"حديث جابر هذا حديث لا نعرفه إلا من هذا الوجه ، من حديث عبد المنعم ، وهو إسناد مجهول ، وعبد المنعم : شيخ بصري\" .‏ قلت: عبد المنعم : هو ابن نعيم الأسواري ، وهو منكر الحديث كما قال البخاري وأبو حاتم .‏",
+      "english": {
+        "narrator": "Narrated Jabir (RA):",
+        "text": "Allah's Messenger (ﷺ) said to Bilal, \"When you announce the Adhan, utter deliberately and when you pronounce the Iqamah utter quickly, and leave between your Adhan and your Iqamah time for one who is eating to finish his food.\"\n\n."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلَهُ : عَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ : { لَا يُؤَذِّنُ إِلَّا مُتَوَضِّئٌ }  وَضَعَّفَهُ أَيْضًا  1‏ .‏  \n\nفَالْحَدِيثُ ضَعِيفٌ مَرْفُوعًا وَمَوْقُوفًا .‏‏1 ‏- ضعيف .‏ رواه الترمذي (200)‏ وضعفه بالانقطاع بين الزهري وبين أبي هريرة .‏ قلت : ورواه أيضا (201)‏ موقوفا على أبي هريرة ‏- ولا يصح أيضا ‏- بلفظ : \"لا ينادي بالصلاة إلا متوضئ \".‏",
+      "english": {
+        "narrator": "He also reported from Abu Hurairah (RA):",
+        "text": "The Prophet (ﷺ) said: \"No one should announce Adhan except the one who has performed the ablution\".\n\n.\n\nSo the narration is weak whether Marfu'  or Mawquf (saying of a Companion)."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلَهُ : عَنْ زِيَادِ بْنِ اَلْحَارِثِ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ وَمَنْ أَذَّنَ فَهُوَ يُقِيمُ }  وَضَعَّفَهُ أَيْضًا  1‏ .‏‏1 ‏- ضعيف .‏ رواه الترمذي (199)‏ وقال : \"حديث زياد إنما نعرفه من حديث الإفريقي ، والإفريقي ضعيف عند أهل الحديث\".‏ قلت: نعم هذا هو الصواب ، وإن خالف بعضهم في ذلك كالعلامة أحمد شاكر ‏-رحمه الله‏- الذي وثقه ، وصحح حديثه ، وكالحازمي الذي حسن حديثه.‏",
+      "english": {
+        "narrator": "He also reported from Ziyad bin al-Harith (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"The one who announces the Adhan should also pronounce the Iqamah.\"\n\n."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِأَبِي دَاوُدَ: فِي حَدِيثِ عَبْدِ اَللَّهِ بْنِ زَيْدٍ أَنَّهُ قَالَ : أَنَا رَأَيْتُهُ ‏- يَعْنِي : اَلْأَذَانُ ‏- وَأَنَا كُنْتُ أُرِيدُهُ .‏ قَالَ : \n\"فَأَقِمْ أَنْتَ \" وَفِيهِ ضَعْفٌ أَيْضًا  1‏ .‏‏1 ‏- ضعيف .‏ رواه أبو داود (512)‏.‏",
+      "english": {
+        "narrator": "Narrated 'Abdullah bin Zaid in another narration of the Hadith reported by Abu Dawud:",
+        "text": "I saw it, i.e. the Adhan (in a vision) and I wanted to announce it. Allah's Messenger (ﷺ) said: \"You pronounce the Iqamah.\"\n\n."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْمُؤَذِّنُ أَمْلَكُ بِالْأَذَانِ , وَالْإِمَامُ أَمْلَكُ بِالْإِقَامَةِ }  رَوَاهُ اِبْنُ عَدِيٍّ وَضَعَّفَهُ .‏  1‏‏1 ‏- ضعيف .‏ رواه ابن عدي في \"الكامل\" (4/1327)‏ وفي سنده شريك بن عبد الله القاضي ، وهو سيئ الحفظ .‏ وبه أعله ابن عدي .‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"The Mu'adhdhin has more right to  pronounce the Iqamah.\"\n\n."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِلْبَيْهَقِيِّ نَحْوُهُ : عَنْ عَلِيٍّ مِنْ قَوْلِهِ  1‏ .‏‏1 ‏- صحيح موقوفا .‏ رواه البيهقي (2/19)‏ ولفظه : \"المؤذن أملك بالأذان ، والإمام أملك بالإقامة \".‏",
+      "english": {
+        "narrator": "",
+        "text": "al-Baihaqi has reported a similar narration from the saying of 'Ali (RA)."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا يُرَدُّ اَلدُّعَاءُ بَيْنَ اَلْأَذَانِ وَالْإِقَامَةِ }  رَوَاهُ النَّسَائِيُّ , وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ .‏  1‏ .‏‏1 ‏- صحيح .‏ رواه النسائي في \"عمل اليوم والليلة \" (67و68و69)‏ ، وابن خزيمة في \"صحيحه\" (425و426و427)‏ .‏ ورواه الترمذي (3594)‏ وذاد فيه : \"فماذا نقول يا رسول الله ؟ قال : سلوا الله العافية في الدنيا والآخرة \".‏ قلت : وهي زيادة ضعيفة تفرد بها يحيى بن يمان ، وفي حفظه ضعف ، وفي \"الأصل\" زيادة تفصيل في طرق الحديث وألفاظه.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"A supplication made between the Adhan and Iqamah is not rejected.\"\n\n."
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "]وَعَنْ جَابِرٍ‏- رَضِيَ اَللَّهُ عَنْهُ‏- أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ : { مَنْ قَالَ حِينَ يَسْمَعُ اَلنِّدَاءَ : اَللَّهُمَّ رَبَّ هَذِهِ اَلدَّعْوَةِ اَلتَّامَّةِ , وَالصَّلَاةِ اَلْقَائِمَةِ , آتِ مُحَمَّدًا اَلْوَسِيلَةَ وَالْفَضِيلَةَ , وَابْعَثْهُ مَقَامًا مَحْمُودًا اَلَّذِي وَعَدْتَهُ , حَلَّتْ لَهُ شَفَاعَتِي يَوْمَ اَلْقِيَامَةِ }  أَخْرَجَهُ اَلْأَرْبَعَةُ .‏  1‏‏1 ‏- صحيح .‏ وهذا الحديث لا يوجد في \"الأصل\" ، وإنما هو من \"أ\" مع الإشارة في الهامش إلى أنه من نسخة ، فأنا أثبته هنا زائدا ، وإن كانت النفس تطمئن إلى ما في \"الأصل\" أكثر ، خاصة وفيه وهم في التخريج .‏ والله أعلم .‏ رواه البخاري (614)‏ ، وأبو داود (529)‏ ، والنسائي (2/26 ‏- 27)‏ ، والترمذي (211)‏ ، وابن ماجه (722)‏ .‏",
+      "english": {
+        "narrator": "Narrated Jabir (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"If anyone says when he hears the Adhan: 'O Allah! Lord of this perfect call and of the regular prayer which is going to be established! Kindly give Muhammad (ﷺ) the right of intercession and superiority, and send him (on the Day of Judgement) to the best and highest place in Paradise which You promised him', he will be assured of my intercession on the Day of Judgement.\"\n\n."
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "عَنْ عَلِيِّ بْنِ طَلْقٍ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا فَسَا أَحَدُكُمْ فِي اَلصَّلَاةِ فَلْيَنْصَرِفْ , وَلْيَتَوَضَّأْ , وَلْيُعِدْ اَلصَّلَاةَ }  رَوَاهُ اَلْخَمْسَةُ , وَصَحَّحَهُ اِبْنُ حِبَّانَ .‏  1‏‏1 ‏- ضعيف .‏ رواه أبو داود (205)‏ ، والنسائي في \"عشرة النساء \" ، (137 ‏- 140)‏ ، والترمذي (1166)‏ ، وأحمد (1/86)‏ وجعله من مسند علي بن أبي طالب ، وهو خطأ منه كما نبه على ذلك ابن كثير في \"التفسير\" (1 /385)‏ ، وابن حبان في \"صحيحه\" (2237)‏ .‏ قلت : والحديث ضعيف؛ لأن مداره على مجهول هذا أولا .‏ وثانيا: عند بعضهم زيادة النهي عن إتيان النساء في أدبارهن ، وهذه الزيادة صحيحة بما لها من شواهد أخرى.‏ ثالثا : الحديث لم يروه ابن ماجه ، وهذا من أوهام الحافظ ‏-رحمه الله‏- .‏",
+      "english": {
+        "narrator": "Narrated 'Ali bin Talq (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"When one of you releases air (through his anus) during Salat (prayer), he should break the Salat (prayer) then perform ablution and repeat the prayer.\"\n\n."
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "]وَعَنْ عَائِشَةَ ‏- رضى الله عنها ‏- قَالَتْ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ أَصَابَهُ قَيْءٌ , أَوْ رُعَافٌ , أَوْ مَذْيٌ , فَلْيَنْصَرِفْ , فَلْيَتَوَضَّأْ , ثُمَّ لِيَبْنِ عَلَى صَلَاتِهِ , وَهُوَ فِي ذَلِكَ لَا يَتَكَلَّمُ }  رَوَاهُ اِبْنُ مَاجَهْ , وَضَعَّفَهُ أَحْمَدُ  1‏ .‏‏1 ‏- تقدم تخريجه برقم (74)‏.‏",
+      "english": {
+        "narrator": "Narrated 'Aisha (ra):",
+        "text": "Allah’s Messenger (ﷺ) said: “Whoever vomits, bleeds through the nose, or released Madhi (urethral discharge) should go, perform ablution and then complete his Salat (prayer) (by continuing from where he had stopped at) on condition that he does not speak in the process”. Reported by Ibn Majah and it was graded weak by Ahmed."
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْهَا , عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ : { لَا يَقْبَلُ اَللَّهُ صَلَاةَ حَائِضٍ إِلَّا بِخِمَارٍ }  رَوَاهُ اَلْخَمْسَةُ إِلَّا النَّسَائِيُّ , وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ.‏  1‏‏1 ‏- صحيح .‏ وإن أعله بعضهم بما لا يقدح .‏ ورواه أبو داود (641)‏ ، والترمذي (377)‏ ، وابن ماجه (655)‏ ، وأحمد (6/150 و 218 و 259)‏ ، وابن خزيمة (775)‏.‏",
+      "english": {
+        "narrator": "Narrated :",
+        "text": "The Prophet (ﷺ) said: \"The Salat (prayer) of a woman, who has reached puberty, is not accepted unless she is wearing a Khimar.\"\n\n."
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ لَهُ : { إِنْ كَانَ اَلثَّوْبُ وَاسِعًا فَالْتَحِفْ بِهِ\" }  ‏- يَعْنِي : فِي اَلصَّلَاةِ ‏- وَلِمُسْلِمٍ : { \"فَخَالِفْ بَيْنَ طَرَفَيْهِ ‏- وَإِنْ كَانَ ضَيِّقًا فَاتَّزِرْ بِهِ \" }  .‏ مُتَّفَقٌ عَلَيْهِ .‏  1‏‏1 ‏- صحيح .‏ رواه البخاري (361)‏ ، ومسلم (3010)‏ ، واللفظ هنا للبخاري.‏",
+      "english": {
+        "narrator": "Narrated Jabir (RA):",
+        "text": "The Prophet (ﷺ) said: \"If the garment is ample, wrap it round your body i.e. during the Salat (prayer).\" A narration by Muslim has: \"you should cross the two ends, and if it is tight, you should wrap it round your waist.\"\n\n."
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلَهُمَا مِنْ حَدِيثِ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- { لَا يُصَلِّي أَحَدُكُمْ فِي اَلثَّوْبِ اَلْوَاحِدِ لَيْسَ عَلَى عَاتِقِهِ مِنْهُ شَيْءٌ }   1‏‏1 ‏- \"صحيح .‏ رواه البخاري\" (359)‏ ، ومسلم (516)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": " None of you should offer Salat (prayer) in a single garment with no part of it on his shoulders.\n\n."
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أُمِّ سَلَمَةَ ‏- رَضِيَ اَللَّهُ عَنْهَا‏- ; أَنَّهَا سَأَلَتْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-{ أَتُصَلِّي اَلْمَرْأَةُ فِي دِرْعٍ وَخِمَارٍ , بِغَيْرِ إِزَارٍ ? قَالَ : \"إِذَا كَانَ اَلدِّرْعُ سَابِغًا يُغَطِّي ظُهُورَ قَدَمَيْهَا }  أَخْرَجَهُ أَبُو دَاوُدَ وَصَحَّحَ اَلْأَئِمَّةُ وَقْفَهُ .‏  1‏‏1 ‏- \"ضعيف مرفوعا وموقوفا\" .‏ رواه أبو داود (640)‏ ، وقال عقبه : \"روى هذا الحديث مالك بن أنس ، وبكر بن مضر ، وحفص بن غياث ، وإسماعيل بن جعفر ، وابن أبي ذئب ، وابن إسحاق عن محمد بن زيد ، عن أمه ، عن أم سلمة ، لم يذكر أحد منهم النبي ‏-صلى الله عليه وسلم‏- قصروا به على أم سلمة ‏- رضي الله عنها‏- \" .‏ قلت : وهذا الموقوف هو الصواب كما نقل الحافظ عن الأئمة ، ولكن لا يعني صحة الموقوف ، ففرق بين صواب الرواية وصحتها ، إذ الموقوف أيضا سنده ضعيف ، وعليه فلا حجة في قول الصنعاني في \"السبل\" (1/276)‏ وقول تابعه الفقي بأن الموقوف له حكم الرفع !!.‏",
+      "english": {
+        "narrator": "Narrated Umm Salamah (RA):",
+        "text": "She asked the Prophet (ﷺ), \"Can a woman pray in a long dress and a veil without wearing a lower garment?\" He replied, \"If the long dress is ample and covers the surface of her feet.\"\n\n."
+      }
+    }
+  ]
+}

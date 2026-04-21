@@ -1,0 +1,16 @@
+{
+  "id": 170,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "وَلِلنَّسَائِيِّ: \n\"وَلَا تَمْتَشِطْ\"  1‏‏1 ‏- وهي زيادات صحيحة.‏ والأولى رواها أبو داود (2302)‏، والثانية للنسائي (603)‏.‏",
+  "english": {
+    "narrator": "an-Nasa'i added:",
+    "text": "\"nor comb (her hair).\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

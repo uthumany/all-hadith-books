@@ -1,0 +1,16 @@
+{
+  "id": 153,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عمر بن الخطاب رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏ من نام عن حزبه من الليل، أو عن شيء منه فقرأه ما بين صلاة الفجر وصلاة الظهر، كتب له كأنما قرأه من الليل‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Umar bin Al-Khattab (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Should anyone fall asleep at night and fail to recite his portion of the Qur'an, or a part of it, if he recites it between the Fajr prayer and the Zuhr prayer, it will be recorded for him as though he had recited it during the night\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

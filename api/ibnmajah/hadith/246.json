@@ -1,0 +1,16 @@
+{
+  "id": 246,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ نُبَيْحٍ الْعَنَزِيِّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ إِذَا مَشَى مَشَى أَصْحَابُهُ أَمَامَهُ وَتَرَكُوا ظَهْرَهُ لِلْمَلاَئِكَةِ ‏.‏",
+  "english": {
+    "narrator": "It was narrarted that Jabir bin 'Abdullah said:",
+    "text": "\"When the Prophet walked, his Companions would walk in front of him, and he would leave his back for the angels.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

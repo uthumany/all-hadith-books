@@ -1,0 +1,16 @@
+{
+  "id": 12,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ يَقْبِضُ اللَّهُ الأَرْضَ يَوْمَ الْقِيَامَةِ، وَيَطْوِي السَّمَاءَ بِيَمِينِهِ ثُمَّ يَقُولُ أَنَا الْمَلِكُ أَيْنَ مُلُوكُ الأَرْضِ ‏\"‏‏.‏ وَقَالَ شُعَيْبٌ وَالزُّبَيْدِيُّ وَابْنُ مُسَافِرٍ وَإِسْحَاقُ بْنُ يَحْيَى عَنِ الزُّهْرِيِّ عَنْ أَبِي سَلَمَةَ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "The Prophet (ﷺ) said, \"On the Day of Resurrection Allah will hold the whole earth and fold the heaven \nwith His right hand and say, 'I am the King: where are the kings of the earth?\" '"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 30,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْمَكِّيُّ، حَدَّثَنَا سُفْيَانُ، ح وَحَدَّثَنِي أَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ، - وَاللَّفْظُ لَهُ - قَالَ سَمِعْتُ سُفْيَانَ بْنَ عُيَيْنَةَ، عَنْ مِسْعَرٍ، قَالَ سَمِعْتُ سَعْدَ بْنَ إِبْرَاهِيمَ، يَقُولُ لاَ يُحَدِّثُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلاَّ الثِّقَاتُ ‏.‏",
+  "english": {
+    "narrator": "Muhammad bin Abī Umar al-Makkī narrated to us, Sufyān narrated to us; and Abū Bakr bin Khallād al-Bāhilī narrated to us – and the wording is his, he said, I heard Sufyān bin Uyaynah, on authority of Mis’ar, he said, I heard Sa’d bin Ibrāhīm saying:",
+    "text": "‘There is to be no narrating on authority of the Messenger of Allah, may Allah send blessings and peace upon him, except by trustworthy narrators (Thiqāt)’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

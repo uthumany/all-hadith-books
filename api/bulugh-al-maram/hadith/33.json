@@ -1,0 +1,16 @@
+{
+  "id": 33,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ تَعِسَ عَبْدُ اَلدِّينَارِ, وَالدِّرْهَمِ, وَالْقَطِيفَةِ, إِنْ أُعْطِيَ رَضِيَ, وَإِنْ لَمْ يُعْطَ لَمْ يَرْضَ }   1‏ أَخْرَجَهُ الْبُخَارِيُّ.‏‏1 ‏- صحيح.‏ رواه البخاري (6335)‏.‏ وزاد\" والخميصة\".‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Cursed is he, who is the slave of the Dinar, the slave of the Dirham, and the slave of the cloak bordered with silk. If he is given anything he would be satisfied, but if he is not given anything he is displeased.” Related by Al-Bukhari."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

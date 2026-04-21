@@ -1,0 +1,510 @@
+{
+  "page": 140,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 141,
+  "prevPage": 139,
+  "items": [
+    {
+      "id": 81,
+      "chapterId": 52,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، حَدَّثَنَا ابْنُ إِدْرِيسَ، ح وَحَدَّثَنَا مِنْجَابُ بْنُ الْحَارِثِ التَّمِيمِيُّ،\n حَدَّثَنَا ابْنُ مُسْهِرٍ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ خَشْرَمٍ، قَالاَ أَخْبَرَنَا عِيسَى،\n بْنُ يُونُسَ ح وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، كُلُّهُمْ عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ ‏.‏ نَحْوَهُ\n ‏.‏ وَزَادَ مِنْجَابٌ فِي رِوَايَتِهِ عَنِ ابْنِ مُسْهِرٍ قَالَ الأَعْمَشُ وَحَدَّثَنِي عَمْرُو بْنُ مُرَّةَ عَنْ شَقِيقٍ\n عَنْ عَبْدِ اللَّهِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of 'Abdullah through other chains of transmitters."
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 52,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، ح وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ،\n - وَاللَّفْظُ لَهُ - حَدَّثَنَا فُضَيْلُ بْنُ عِيَاضٍ، عَنْ مَنْصُورٍ، عَنْ شَقِيقٍ أَبِي وَائِلٍ، قَالَ كَانَ عَبْدُ\n اللَّهِ يُذَكِّرُنَا كُلَّ يَوْمِ خَمِيسٍ فَقَالَ لَهُ رَجُلٌ يَا أَبَا عَبْدِ الرَّحْمَنِ إِنَّا نُحِبُّ حَدِيثَكَ وَنَشْتَهِيهِ\n وَلَوَدِدْنَا أَنَّكَ حَدَّثْتَنَا كُلَّ يَوْمٍ ‏.‏ فَقَالَ مَا يَمْنَعُنِي أَنْ أُحَدِّثَكُمْ إِلاَّ كَرَاهِيَةُ أَنْ أُمِلَّكُمْ ‏.‏ إِنَّ رَسُولَ\n اللَّهِ صلى الله عليه وسلم كَانَ يَتَخَوَّلُنَا بِالْمَوْعِظَةِ فِي الأَيَّامِ كَرَاهِيَةَ السَّآمَةِ عَلَيْنَا ‏.‏",
+      "english": {
+        "narrator": "Shaqiq b. Wi'il reported that 'Abdullah used to give us sermon on every Thursday. A person said:",
+        "text": "Abu 'Abd al-Rahman, we love your talk and so we yearn (to listen to you) and earnestly desire that you should deliver us lecture every day. Thereupon he said: There is nothing to hinder me in giving you talk (every day) but the fact that you may be bored. Allah's Messenger (ﷺ) did not deliver sermons on certain days (fearing that we might be bored)."
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، وَحُمَيْدٍ، عَنْ \n أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ حُفَّتِ الْجَنَّةُ بِالْمَكَارِهِ وَحُفَّتِ\n النَّارُ بِالشَّهَوَاتِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported:",
+        "text": "The Paradise is surrounded by hardships and the Hell-Fire is surrounded by temptations."
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنِي وَرْقَاءُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،\n عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Abu Huraira through another chain of transmitters."
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ عَمْرٍو الأَشْعَثِيُّ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالَ زُهَيْرٌ حَدَّثَنَا وَقَالَ، سَعِيدٌ\n أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم\n قَالَ ‏\"‏ قَالَ اللَّهُ عَزَّ وَجَلَّ أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لاَ عَيْنٌ رَأَتْ وَلاَ أُذُنٌ سَمِعَتْ وَلاَ\n خَطَرَ عَلَى قَلْبِ بَشَرٍ ‏\"‏ ‏.‏ مِصْدَاقُ ذَلِكَ فِي كِتَابِ اللَّهِ ‏{‏ فَلاَ تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ\n قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ‏}‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying that:",
+        "text": "Allah the Exalted and Glorious, said: I have prepared for My pious servants which no eye has ever seen, and no ear has ever heard, and no human heart has ever perceived but it is testified by the Book of Allah. He then recited:\" No soul knows what comfort has been concealed from them, as a reward for what they did\". (xxxii. 17)"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ،\n عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ قَالَ اللَّهُ عَزَّ وَجَلَّ أَعْدَدْتُ\n لِعِبَادِيَ الصَّالِحِينَ مَا لاَ عَيْنٌ رَأَتْ وَلاَ أُذُنٌ سَمِعَتْ وَلاَ خَطَرَ عَلَى قَلْبِ بَشَرٍ ذُخْرًا بَلْهَ مَا\n أَطْلَعَكُمُ اللَّهُ عَلَيْهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported that Allah's Apostle (ﷺ) said:",
+        "text": "Allah, the Exalted and Glorious, said: I have prepared for My pious servants which no eye (has ever) seen, no ear has (ever) heard and no human heart has ever perceived those bounties leaving apart (those bounties) about which Allah has informed you."
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، ح وَحَدَّثَنَا ابْنُ،\n نُمَيْرٍ - وَاللَّفْظُ لَهُ - حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ\n رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَقُولُ اللَّهُ عَزَّ وَجَلَّ أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لاَ\n عَيْنٌ رَأَتْ وَلاَ أُذُنٌ سَمِعَتْ وَلاَ خَطَرَ عَلَى قَلْبِ بَشَرٍ ‏.‏ ذُخْرًا بَلْهَ مَا أَطْلَعَكُمُ اللَّهُ عَلَيْهِ ‏\"‏ ‏.‏\n ثُمَّ قَرَأَ ‏{‏ فَلاَ تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ‏}‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) said that Allah, the Exalted and Glorious, said:",
+        "text": "I have prepared for My pious servants which the eye has seen not, and the ear has heard not and no human heart has ever perceived such bounties leaving aside those about which Allah has informed you. He then recited:\" No soul knows what comfort has been hidden for thein\"."
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ، وَهَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنِي \n أَبُو صَخْرٍ، أَنَّ أَبَا حَازِمٍ، حَدَّثَهُ قَالَ سَمِعْتُ سَهْلَ بْنَ سَعْدٍ السَّاعِدِيَّ، يَقُولُ شَهِدْتُ مِنْ رَسُولِ\n اللَّهِ صلى الله عليه وسلم مَجْلِسًا وَصَفَ فِيهِ الْجَنَّةَ حَتَّى انْتَهَى ثُمَّ قَالَ صلى الله عليه وسلم\n فِي آخِرِ حَدِيثِهِ ‏\"‏ فِيهَا مَا لاَ عَيْنٌ رَأَتْ وَلاَ أُذُنٌ سَمِعَتْ وَلاَ خَطَرَ عَلَى قَلْبِ بَشَرٍ ‏\"‏ ‏.‏ ثُمَّ\n اقْتَرَأَ هَذِهِ الآيَةَ ‏{‏ تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ\n يُنْفِقُونَ * فَلاَ تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Sahl b. Sa'd as-Sa'idi reported:",
+        "text": "I was in the company of Allah's Messenger (ﷺ) that he gave a description of Paradise and then Allah's Apostle (ﷺ) concluded with these words: There would be bounties which the eye has not seen and the ear has not heard and no human heart has ever perceived them. He then recited this verse:\" They forsake (their) beds, calling upon their Lord in fear and in hope, and spend out of what We have given them. So no soul knows what refreshment of the eyes is hidden for them: a reward for what they did\" (xxxii. 16-17)"
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِيهِ،\n عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ إِنَّ فِي الْجَنَّةِ لَشَجَرَةً\n يَسِيرُ الرَّاكِبُ فِي ظِلِّهَا مِائَةَ سَنَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "In Paradise, there is a tree under the shadow of which a rider can travel for a hundred years."
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا الْمُغِيرَةُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْحِزَامِيَّ - عَنْ \n أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ وَزَادَ ‏\n\"‏ لاَ\n يَقْطَعُهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Abu Huraira through another chain of transmitters with the addition of these words:",
+        "text": "\" He will not be able to cover this distance.\""
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا الْمَخْزُومِيُّ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَبِي،\n حَازِمٍ عَنْ سَهْلِ بْنِ سَعْدٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِنَّ فِي الْجَنَّةِ لَشَجَرَةً\n يَسِيرُ الرَّاكِبُ فِي ظِلِّهَا مِائَةَ عَامٍ لاَ يَقْطَعُهَا ‏\"‏ ‏.‏ \n قَالَ أَبُو حَازِمٍ فَحَدَّثْتُ بِهِ النُّعْمَانَ بْنَ أَبِي عَيَّاشٍ الزُّرَقِيَّ، فَقَالَ حَدَّثَنِي أَبُو\n سَعِيدٍ الْخُدْرِيُّ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِنَّ فِي الْجَنَّةِ شَجَرَةً يَسِيرُ الرَّاكِبُ\n الْجَوَادَ الْمُضَمَّرَ السَّرِيعَ مِائَةَ عَامٍ مَا يَقْطَعُهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Sahl b. Sa'd reported Allah's Messenger (ﷺ) as saying:",
+        "text": "In Paradise, there is a tree under the shadow of which a rider can travel for a hundred years without covering (the distance) completely. This hadith has also been transmitted on the authority of Abu Sa'id al-Khudri that Allah's Apostle (ﷺ) is reported to have said: In Paradise, there is a tree under the shadow of which a rider of a fine and swift-footed horse would travel for a hundred years without covering the distance completely. There would be the pleasure of Allah for the inmates of Paradise and He would never be annoyed with them."
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ سَهْمٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا مَالِكُ،\n بْنُ أَنَسٍ ح وَحَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنِي \n مَالِكُ بْنُ أَنَسٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ النَّبِيَّ\n صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ اللَّهَ يَقُولُ لأَهْلِ الْجَنَّةِ يَا أَهْلَ الْجَنَّةِ ‏.‏ فَيَقُولُونَ لَبَّيْكَ رَبَّنَا\n وَسَعْدَيْكَ وَالْخَيْرُ فِي يَدَيْكَ ‏.‏ فَيَقُولُ هَلْ رَضِيتُمْ فَيَقُولُونَ وَمَا لَنَا لاَ نَرْضَى يَا رَبِّ وَقَدْ\n أَعْطَيْتَنَا مَا لَمْ تُعْطِ أَحَدًا مِنْ خَلْقِكَ فَيَقُولُ أَلاَ أُعْطِيكُمْ أَفْضَلَ مِنْ ذَلِكَ فَيَقُولُونَ يَا رَبِّ وَأَىُّ\n شَىْءٍ أَفْضَلُ مِنْ ذَلِكَ فَيَقُولُ أُحِلُّ عَلَيْكُمْ رِضْوَانِي فَلاَ أَسْخَطُ عَلَيْكُمْ بَعْدَهُ أَبَدًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id al-Khudri reported that Allah's Apostle (ﷺ) said that Allah would say to the inmates of Paradise:",
+        "text": "O, Dwellers of Paradise, and they would say in response: At thy service and pleasure, our Lord, the good is in Thy Hand. He (the Lord) would say: Are you well pleased now? They would say: Why should we not be pleased, O Lord, when Thou hast given us what Thou hast not given to any of Thy creatures? He would, however, say: May I not give you (something) even more excellent than that? And they would say: O Lord, what thing can be more excellent than this? And He would say: I shall cause My pleasure to alight upon you and I shall never be afterwards annoyed with you."
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْقَارِيَّ - عَنْ \n أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِنَّ أَهْلَ الْجَنَّةِ\n لَيَتَرَاءَوْنَ الْغُرْفَةَ فِي الْجَنَّةِ كَمَا تَرَاءَوْنَ الْكَوْكَبَ فِي السَّمَاءِ ‏\"‏ ‏.‏ \n قَالَ فَحَدَّثْتُ بِذَلِكَ النُّعْمَانَ بْنَ أَبِي عَيَّاشٍ، فَقَالَ سَمِعْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ\n كَمَا تَرَاءَوْنَ الْكَوْكَبَ الدُّرِّيَّ فِي الأُفُقِ الشَّرْقِيِّ أَوِ الْغَرْبِيِّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Sahl b. Sa'd reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The inmates of Paradise will look to the upper apartment of Paradise as you see the planets in the sky. I narrated this hadith to Nu'man b. Abi 'Ayyash and he said: I heard Abu Sa'id al-Khudri as saying: As you see the shining planets in the eastern and western (sides of) horizon."
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا الْمَخْزُومِيُّ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَبِي حَازِمٍ،\n بِالإِسْنَادَيْنِ جَمِيعًا نَحْوَ حَدِيثِ يَعْقُوبَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Abu Hazim through another chain of transmitters."
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ جَعْفَرِ بْنِ يَحْيَى بْنِ خَالِدٍ، حَدَّثَنَا مَعْنٌ، حَدَّثَنَا مَالِكٌ، ح وَحَدَّثَنِي \n هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي مَالِكُ بْنُ أَنَسٍ،\n عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله\n عليه وسلم قَالَ ‏\"‏ إِنَّ أَهْلَ الْجَنَّةِ لَيَتَرَاءَوْنَ أَهْلَ الْغُرَفِ مِنْ فَوْقِهِمْ كَمَا تَتَرَاءَوْنَ الْكَوْكَبَ\n الدُّرِّيَّ الْغَابِرَ مِنَ الأُفُقِ مِنَ الْمَشْرِقِ أَوِ الْمَغْرِبِ لِتَفَاضُلِ مَا بَيْنَهُمْ ‏\"‏ ‏.‏ قَالُوا يَا رَسُولَ اللَّهِ\n تِلْكَ مَنَازِلُ الأَنْبِيَاءِ لاَ يَبْلُغُهَا غَيْرُهُمْ ‏.‏ قَالَ ‏\"‏ بَلَى وَالَّذِي نَفْسِي بِيَدِهِ رِجَالٌ آمَنُوا بِاللَّهِ\n وَصَدَّقُوا الْمُرْسَلِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The inmates of Paradise would see the inmates of the apartment over them just as you see the shining planets which remain in the eastern and the western horizon because of the superiority some have over others. They said: Allah's Messenger, would in these abodes of Apostles others besides them not be able to reach? He said: Yes, they will, by Him, in Whose hand is my life, those who believe in God and acknowledge the Truth, will reach them."
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ - عَنْ سُهَيْلٍ،\n عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مِنْ أَشَدِّ أُمَّتِي لِي\n حُبًّا نَاسٌ يَكُونُونَ بَعْدِي يَوَدُّ أَحَدُهُمْ لَوْ رَآنِي بِأَهْلِهِ وَمَالِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The people most loved by me from amongst my Ummah would be those who would come after me but everyone amongst them would have the keenest desire to catch a glimpse of me even at the cost of his family and wealth."
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو عُثْمَانَ، سَعِيدُ بْنُ عَبْدِ الْجَبَّارِ الْبَصْرِيُّ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ،\n الْبُنَانِيِّ عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ فِي الْجَنَّةِ لَسُوقًا\n يَأْتُونَهَا كُلَّ جُمُعَةٍ فَتَهُبُّ رِيحُ الشَّمَالِ فَتَحْثُو فِي وُجُوهِهِمْ وَثِيَابِهِمْ فَيَزْدَادُونَ حُسْنًا وَجَمَالاً\n فَيَرْجِعُونَ إِلَى أَهْلِيهِمْ وَقَدِ ازْدَادُوا حُسْنًا وَجَمَالاً فَيَقُولُ لَهُمْ أَهْلُوهُمْ وَاللَّهِ لَقَدِ ازْدَدْتُمْ\n بَعْدَنَا حُسْنًا وَجَمَالاً ‏.‏ فَيَقُولُونَ وَأَنْتُمْ وَاللَّهِ لَقَدِ ازْدَدْتُمْ بَعْدَنَا حُسْنًا وَجَمَالاً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported that Allah's Messenger (ﷺ) said:",
+        "text": "In Paradise there is a street to which they would come every Friday. The north wind will blow and would scatter fragrance on their faces and on their clothes and would add to their beauty and loveliness, and then they would go back to their family after having an added lustre to their beauty and loveliness, and their family would say to them: By Allah, you have been increased in beauty and loveliness after leaving us, and they would say: By Allah, you have also increased in beauty and loveliness after us."
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي عَمْرٌو النَّاقِدُ، وَيَعْقُوبُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، جَمِيعًا عَنِ ابْنِ عُلَيَّةَ، - وَاللَّفْظُ\n لِيَعْقُوبَ - قَالاَ حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، أَخْبَرَنَا أَيُّوبُ، عَنْ مُحَمَّدٍ، قَالَ إِمَّا تَفَاخَرُوا وَإِمَّا\n تَذَاكَرُوا الرِّجَالُ فِي الْجَنَّةِ أَكْثَرُ أَمِ النِّسَاءُ فَقَالَ أَبُو هُرَيْرَةَ أَوَلَمْ يَقُلْ أَبُو الْقَاسِمِ صلى\n الله عليه وسلم ‏\n\"‏ إِنَّ أَوَّلَ زُمْرَةٍ تَدْخُلُ الْجَنَّةَ عَلَى صُورَةِ الْقَمَرِ لَيْلَةَ الْبَدْرِ وَالَّتِي تَلِيهَا عَلَى\n أَضْوَإِ كَوْكَبٍ دُرِّيٍّ فِي السَّمَاءِ لِكُلِّ امْرِئٍ مِنْهُمْ زَوْجَتَانِ اثْنَتَانِ يُرَى مُخُّ سُوقِهِمَا مِنْ وَرَاءِ\n اللَّحْمِ وَمَا فِي الْجَنَّةِ أَعْزَبُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Muhammad reported that some (persons) stated with a sense of pride and some discussed whether there would be more men in Paradise or more women. It was upon this that Abu Huraira reported that Abu'l Qasim (the Holy Prophet) (ﷺ) said:",
+        "text": "The (members) of the first group to get into Paradise would have their faces as bright as full moon during the night, and the next to this group would have their faces as bright as the shining stars in the sky, and every person would have two wives and the marrow of their shanks would glimmer beneath the flesh and there would be none without a wife in Paradise."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ، عَنِ ابْنِ سِيرِينَ، قَالَ اخْتَصَمَ الرِّجَالُ\n وَالنِّسَاءُ أَيُّهُمْ فِي الْجَنَّةِ أَكْثَرُ فَسَأَلُوا أَبَا هُرَيْرَةَ فَقَالَ قَالَ أَبُو الْقَاسِمِ صلى الله عليه\n وسلم بِمِثْلِ حَدِيثِ ابْنِ عُلَيَّةَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Abu Huraira through another chain of transmitters."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، - يَعْنِي ابْنَ زِيَادٍ - عَنْ عُمَارَةَ بْنِ،\n الْقَعْقَاعِ حَدَّثَنَا أَبُو زُرْعَةَ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه\n وسلم ‏\"‏ أَوَّلُ مَنْ يَدْخُلُ الْجَنَّةَ ‏\"‏ ‏.‏ ح \n وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَزُهَيْرُ بْنُ حَرْبٍ، - وَاللَّفْظُ لِقُتَيْبَةَ - قَالاَ حَدَّثَنَا جَرِيرٌ،\n عَنْ عُمَارَةَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم\n ‏\"‏ إِنَّ أَوَّلَ زُمْرَةٍ يَدْخُلُونَ الْجَنَّةَ عَلَى صُورَةِ الْقَمَرِ لَيْلَةَ الْبَدْرِ وَالَّذِينَ يَلُونَهُمْ عَلَى أَشَدِّ كَوْكَبٍ\n دُرِّيٍّ فِي السَّمَاءِ إِضَاءَةً لاَ يَبُولُونَ وَلاَ يَتَغَوَّطُونَ وَلاَ يَمْتَخِطُونَ وَلاَ يَتْفُلُونَ أَمْشَاطُهُمُ الذَّهَبُ\n وَرَشْحُهُمُ الْمِسْكُ وَمَجَامِرُهُمُ الأَلُوَّةُ وَأَزْوَاجُهُمُ الْحُورُ الْعِينُ أَخْلاَقُهُمْ عَلَى خُلُقِ رَجُلٍ وَاحِدٍ\n عَلَى صُورَةِ أَبِيهِمْ آدَمَ سِتُّونَ ذِرَاعًا فِي السَّمَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Abu Huraira through another chain of transmitters that Allah's Messenger (ﷺ) said:",
+        "text": "The (members of the) first group which would get into Paradise will have their faces as bright as stars in the sky. They would neither pass water, nor void excrement, nor will they suffer from catarrh, nor will they spit, and their combs would be made of gold, and their sweat will be musk, the fuel of their brazier will be aloes, and their wives will be large-eyed maidens and their form would be alike as one single person after the form of their father (Adam) sixty cubits tall."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،\n عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَوَّلُ زُمْرَةٍ\n تَدْخُلُ الْجَنَّةَ مِنْ أُمَّتِي عَلَى صُورَةِ الْقَمَرِ لَيْلَةَ الْبَدْرِ ثُمَّ الَّذِينَ يَلُونَهُمْ عَلَى أَشَدِّ نَجْمٍ فِي السَّمَاءِ\n إِضَاءَةً ثُمَّ هُمْ بَعْدَ ذَلِكَ مَنَازِلُ لاَ يَتَغَوَّطُونَ وَلاَ يَبُولُونَ وَلاَ يَمْتَخِطُونَ وَلاَ يَبْزُقُونَ أَمْشَاطُهُمُ\n الذَّهَبُ وَمَجَامِرُهُمُ الأَلُوَّةُ وَرَشْحُهُمُ الْمِسْكُ أَخْلاَقُهُمْ عَلَى خُلُقِ رَجُلٍ وَاحِدٍ عَلَى طُولِ أَبِيهِمْ\n آدَمَ سِتُّونَ ذِرَاعًا ‏\"‏ ‏.‏ قَالَ ابْنُ أَبِي شَيْبَةَ عَلَى خُلُقِ رَجُلٍ ‏.‏ وَقَالَ أَبُو كُرَيْبٍ عَلَى خَلْقِ\n رَجُلٍ ‏.‏ وَقَالَ ابْنُ أَبِي شَيْبَةَ عَلَى صُورَةِ أَبِيهِمْ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "The first group of my Ummah to get into Paradise would be like a full moon in the night. Then those who would be next to them; they would be like the most significantly glittering stars in regard to brightness, then after them (others) in ranks. They would neither void excrement, nor pass water, nor suffer from catarrh, nor would they spit. And their combs would be made of gold, and the fuel of their braziers would be aloes and their sweat would be musk and their form would be the form of one single person according to the length of their father sixty cubits tall. This hadith has been transmitted on the authority of Ibn Abi Shaiba with a slight variation of wording."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ\n هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ\n رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَوَّلُ زُمْرَةٍ تَلِجُ الْجَنَّةَ صُوَرُهُمْ عَلَى صُورَةِ الْقَمَرِ لَيْلَةَ\n الْبَدْرِ لاَ يَبْصُقُونَ فِيهَا وَلاَ يَمْتَخِطُونَ وَلاَ يَتَغَوَّطُونَ فِيهَا آنِيَتُهُمْ وَأَمْشَاطُهُمْ مِنَ الذَّهَبِ وَالْفِضَّةِ\n وَمَجَامِرُهُمْ مِنَ الأَلُوَّةِ وَرَشْحُهُمُ الْمِسْكُ وَلِكُلِّ وَاحِدٍ مِنْهُمْ زَوْجَتَانِ يُرَى مُخُّ سَاقِهِمَا مِنْ\n وَرَاءِ اللَّحْمِ مِنَ الْحُسْنِ لاَ اخْتِلاَفَ بَيْنَهُمْ وَلاَ تَبَاغُضَ قُلُوبُهُمْ قَلْبٌ وَاحِدٌ يُسَبِّحُونَ اللَّهَ بُكْرَةً\n وَعَشِيًّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Hammam b. Munabbih reported:",
+        "text": "These are some of the ahidith which Abu Huraira reported from Allah's Messenger (ﷺ) and one is this that he is reported to have said: The (members of the) first group that would be admitted to Paradise would have their faces as bright as full moon during the night. They would neither spit nor suffer catarrh, nor void excrement. They would have their utensils and their combs made of gold and silver and the fuel of their braziers would be aloes and their sweat would be musk and every one of them would have two spouses (so beautiful) that the marrow of their shanks would be visible through the flesh. There would be no dissension amongst them and no enmity in their hearts. Their hearts would be like one heart, glorifying Allah morning and evening."
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، - وَاللَّفْظُ لِعُثْمَانَ - قَالَ عُثْمَانُ\n حَدَّثَنَا وَقَالَ، إِسْحَاقُ أَخْبَرَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، قَالَ سَمِعْتُ \n النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\"‏ إِنَّ أَهْلَ الْجَنَّةِ يَأْكُلُونَ فِيهَا وَيَشْرَبُونَ وَلاَ يَتْفُلُونَ وَلاَ\n يَبُولُونَ وَلاَ يَتَغَوَّطُونَ وَلاَ يَمْتَخِطُونَ ‏\"‏ ‏.‏ قَالُوا فَمَا بَالُ الطَّعَامِ قَالَ ‏\"‏ جُشَاءٌ وَرَشْحٌ كَرَشْحِ\n الْمِسْكِ يُلْهَمُونَ التَّسْبِيحَ وَالتَّحْمِيدَ كَمَا يُلْهَمُونَ النَّفَسَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir reported:",
+        "text": "I heard Allah's Apostle (ﷺ) as saying that the inmates of Paradise would eat and drink but would neither spit, nor pass water, nor void excrement, nor suffer catarrah. It was said: Then, what would happen with food? Thereupon he said: They would belch and sweat (and it would be over with their food), and their sweat would be that of musk and they would glorify and praise Allah as easily as you breathe."
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،\n بِهَذَا الإِسْنَادِ إِلَى قَوْلِهِ ‏\n\"‏ كَرَشْحِ الْمِسْكِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of A'mash with a slight variation of wording."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، وَحَجَّاجُ بْنُ الشَّاعِرِ، كِلاَهُمَا عَنْ أَبِي عَاصِمٍ،\n - قَالَ حَسَنٌ حَدَّثَنَا أَبُو عَاصِمٍ، - عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ،\n عَبْدِ اللَّهِ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَأْكُلُ أَهْلُ الْجَنَّةِ فِيهَا وَيَشْرَبُونَ\n وَلاَ يَتَغَوَّطُونَ وَلاَ يَمْتَخِطُونَ وَلاَ يَبُولُونَ وَلَكِنْ طَعَامُهُمْ ذَاكَ جُشَاءٌ كَرَشْحِ الْمِسْكِ يُلْهَمُونَ\n التَّسْبِيحَ وَالْحَمْدَ كَمَا يُلْهَمُونَ النَّفَسَ ‏\"‏ ‏.‏ قَالَ وَفِي حَدِيثِ حَجَّاجٍ ‏\"‏ طَعَامُهُمْ ذَلِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Jabir b. Abdullah reported that Allah's Messenger (ﷺ) said that the inmates of Paradise would eat therein and they would also drink, but they would neither void excrement, nor suffer catarrh, nor pass water, and their eating (would be digested) in the form of belching and their sweat would be musk aged they would glorify and praise Allah as easily ai you breathe."
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي سَعِيدُ بْنُ يَحْيَى الأُمَوِيُّ، حَدَّثَنِي أَبِي، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ،\n عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ غَيْرَ أَنَّهُ قَالَ ‏\n\"‏ وَيُلْهَمُونَ التَّسْبِيحَ وَالتَّكْبِيرَ\n كَمَا يُلْهَمُونَ النَّفَسَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of Jabir with a slight variation of wording."
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ \n ثَابِتٍ، عَنْ أَبِي رَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ يَدْخُلُ\n الْجَنَّةَ يَنْعَمُ لاَ يَبْأَسُ لاَ تَبْلَى ثِيَابُهُ وَلاَ يَفْنَى شَبَابُهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying:",
+        "text": "He who would get into Paradise (would be made to enjoy such an everlasting) bliss that he would neither become destitute, nor would his clothes wear out, nor his youth would decline."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، - وَاللَّفْظُ لإِسْحَاقَ - قَالاَ أَخْبَرَنَا \n عَبْدُ الرَّزَّاقِ، قَالَ قَالَ الثَّوْرِيُّ فَحَدَّثَنِي أَبُو إِسْحَاقَ، أَنَّ الأَغَرَّ، حَدَّثَهُ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،\n وَأَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ يُنَادِي مُنَادٍ إِنَّ لَكُمْ أَنْ تَصِحُّوا فَلاَ\n تَسْقَمُوا أَبَدًا وَإِنَّ لَكُمْ أَنْ تَحْيَوْا فَلاَ تَمُوتُوا أَبَدًا وَإِنَّ لَكُمْ أَنْ تَشِبُّوا فَلاَ تَهْرَمُوا أَبَدًا وَإِنَّ\n لَكُمْ أَنْ تَنْعَمُوا فَلاَ تَبْتَئِسُوا أَبَدًا ‏\"‏ ‏.‏ فَذَلِكَ قَوْلُهُ عَزَّ وَجَلَّ ‏{‏ وَنُودُوا أَنْ تِلْكُمُ الْجَنَّةُ أُورِثْتُمُوهَا\n بِمَا كُنْتُمْ تَعْمَلُونَ‏}‏",
+      "english": {
+        "narrator": "Abu Sa'id al-Khudri and Abu Huraira both reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There would be an announcer (in Paradise) who would make this announcement: Verily I there is in store for you (everlasting) health and that you should never fall ill and that you live (for ever) and do not die at all. And that you would remain young and never grow old. And that you would always live in affluent circumstances and never become destitute, as words of Allah, the Exalted and Glorious, are:\" And it would be announced to them: This is the Paradise. You have been made to inherit it for what you used to do\". (VII; 43)"
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، عَنْ أَبِي قُدَامَةَ، - وَهُوَ الْحَارِثُ بْنُ عُبَيْدٍ - عَنْ أَبِي،\n عِمْرَانَ الْجَوْنِيِّ عَنْ أَبِي بَكْرِ بْنِ عَبْدِ اللَّهِ بْنِ قَيْسٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم\n قَالَ ‏\n\"‏ إِنَّ لِلْمُؤْمِنِ فِي الْجَنَّةِ لَخَيْمَةً مِنْ لُؤْلُؤَةٍ وَاحِدَةٍ مُجَوَّفَةٍ طُولُهَا سِتُّونَ مِيلاً لِلْمُؤْمِنِ فِيهَا\n أَهْلُونَ يَطُوفُ عَلَيْهِمُ الْمُؤْمِنُ فَلاَ يَرَى بَعْضُهُمْ بَعْضًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Bakr b. Abdullah b. Qais reported on the authority of his father that Allah's Messenger (ﷺ) said that in Paradise there would be for a believer a tent of a single hollowed pearl the breadth of which would be sixty miles. It would be meant for a believer and the believers would go around it and none would be able to see the others."
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو غَسَّانَ الْمِسْمَعِيُّ، حَدَّثَنَا أَبُو عَبْدِ الصَّمَدِ، حَدَّثَنَا أَبُو عِمْرَانَ الْجَوْنِيُّ،\n عَنْ أَبِي بَكْرِ بْنِ عَبْدِ اللَّهِ بْنِ قَيْسٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏\n فِي الْجَنَّةِ خَيْمَةٌ مِنْ لُؤْلُؤَةٍ مُجَوَّفَةٍ عَرْضُهَا سِتُّونَ مِيلاً فِي كُلِّ زَاوِيَةٍ مِنْهَا أَهْلٌ مَا يَرَوْنَ\n الآخَرِينَ يَطُوفُ عَلَيْهِمُ الْمُؤْمِنُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Bakr b. Abdullah b. Qais reported on the authority of his father that Allah's Messenger (ﷺ) said that in Paradise there would be a tent made of a single hollowed pearl, the breadth of which would be sixty miles from all sides and there would live a family in each corner and the other would not be able to see the believer who goes around them."
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا هَمَّامٌ، عَنْ أَبِي،\n عِمْرَانَ الْجَوْنِيِّ عَنْ أَبِي بَكْرِ بْنِ أَبِي مُوسَى بْنِ قَيْسٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه\n وسلم قَالَ ‏\n\"‏ الْخَيْمَةُ دُرَّةٌ طُولُهَا فِي السَّمَاءِ سِتُّونَ مِيلاً فِي كُلِّ زَاوِيَةٍ مِنْهَا أَهْلٌ لِلْمُؤْمِنِ\n لاَ يَرَاهُمُ الآخَرُونَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of Abu Bakr b. Abu Musa b. Qais who, on the authority of his father, reported the Apostle (ﷺ) to have said that there would be a tent made of a pearl whose height towards the sky would be sixty miles. In each corner, there would be a family of the believer, out of sight for the others."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، وَعَبْدُ اللَّهِ بْنُ نُمَيْرٍ، وَعَلِيُّ بْنُ مُسْهِرٍ،\n عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا \n عُبَيْدُ اللَّهِ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ\n اللَّهِ صلى الله عليه وسلم ‏\n\"‏ سَيْحَانُ وَجَيْحَانُ وَالْفُرَاتُ وَالنِّيلُ كُلٌّ مِنْ أَنْهَارِ الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Saihan, Jaihan, Euphrates and Nile are all among the rivers of Paradise."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا أَبُو النَّضْرِ، هَاشِمُ بْنُ الْقَاسِمِ اللَّيْثِيُّ حَدَّثَنَا إِبْرَاهِيمُ،\n - يَعْنِي ابْنَ سَعْدٍ - حَدَّثَنَا أَبِي، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه\n وسلم قَالَ ‏\n\"‏ يَدْخُلُ الْجَنَّةَ أَقْوَامٌ أَفْئِدَتُهُمْ مِثْلُ أَفْئِدَةِ الطَّيْرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There would enter Paradise people whose hearts would be like those of the hearts of birds."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ\n هَذَا مَا حَدَّثَنَا بِهِ أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَذَكَرَ أَحَادِيثَ مِنْهَا\n وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَلَقَ اللَّهُ عَزَّ وَجَلَّ آدَمَ عَلَى صُورَتِهِ طُولُهُ سِتُّونَ\n ذِرَاعًا فَلَمَّا خَلَقَهُ قَالَ اذْهَبْ فَسَلِّمْ عَلَى أُولَئِكَ النَّفَرِ وَهُمْ نَفَرٌ مِنَ الْمَلاَئِكَةِ جُلُوسٌ فَاسْتَمِعْ\n مَا يُجِيبُونَكَ فَإِنَّهَا تَحِيَّتُكَ وَتَحِيَّةُ ذُرِّيَّتِكَ قَالَ فَذَهَبَ فَقَالَ السَّلاَمُ عَلَيْكُمْ فَقَالُوا السَّلاَمُ\n عَلَيْكَ وَرَحْمَةُ اللَّهِ - قَالَ - فَزَادُوهُ وَرَحْمَةُ اللَّهِ - قَالَ - فَكُلُّ مَنْ يَدْخُلُ الْجَنَّةَ عَلَى صُورَةِ\n آدَمَ وَطُولُهُ سِتُّونَ ذِرَاعًا فَلَمْ يَزَلِ الْخَلْقُ يَنْقُصُ بَعْدَهُ حَتَّى الآنَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Allah, the Exalted and Glorious, created Adam in His image with His length of sixty cubits, and as He created him He told him to greet that group, and that was a party of angels sitting there, and listen to the response that they give him, for it would form his greeting and that of his offspring. He then went away and said: Peace be upon you! They (the angels) said: May there be peace upon you and the Mercy of Allah, and they made an addition of\" Mercy of Allah\". So he who would get into Paradise would get in the form of Adam, his length being sixty cubits, then the people who followed him continued to diminish in size up to this day."
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، حَدَّثَنَا أَبِي، عَنِ الْعَلاَءِ بْنِ خَالِدٍ الْكَاهِلِيِّ، عَنْ \n شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ يُؤْتَى بِجَهَنَّمَ يَوْمَئِذٍ لَهَا\n سَبْعُونَ أَلْفَ زِمَامٍ مَعَ كُلِّ زِمَامٍ سَبْعُونَ أَلْفَ مَلَكٍ يَجُرُّونَهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abdullah b. Mas`ud reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Hell would be brought on that day (the Day of Judgment) with seventy thousand bridles, and seventy thousand angels dragging each bridle."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا الْمُغِيرَةُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْحِزَامِيَّ - عَنْ \n أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ نَارُكُمْ هَذِهِ\n الَّتِي يُوقِدُ ابْنُ آدَمَ جُزْءٌ مِنْ سَبْعِينَ جُزْءًا مِنْ حَرِّ جَهَنَّمَ ‏\"‏ ‏.‏ قَالُوا وَاللَّهِ إِنْ كَانَتْ لَكَافِيَةً\n يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ فَإِنَّهَا فُضِّلَتْ عَلَيْهَا بِتِسْعَةٍ وَسِتِّينَ جُزْءًا كُلُّهَا مِثْلُ حَرِّهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying:",
+        "text": "The fire which sons of Adam burn is only one-seventieth part of the Fire of Hell. His Companions said: By Allah, even ordinary fire would have been enough (to burn people). Thereupon he said: It is sixty-nine parts in excess of (the heat of) fire in this world each of them being equivalent to their heat."
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ \n أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِ حَدِيثِ أَبِي الزِّنَادِ غَيْرَ أَنَّهُ قَالَ ‏\n\"‏ كُلُّهُنَّ\n مِثْلُ حَرِّهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Abn Huraira through another chain of transmitters with a slight variation of wording."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، حَدَّثَنَا خَلَفُ بْنُ خَلِيفَةَ، حَدَّثَنَا يَزِيدُ بْنُ كَيْسَانَ، عَنْ أَبِي،\n حَازِمٍ عَنْ أَبِي هُرَيْرَةَ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذْ سَمِعَ وَجْبَةً فَقَالَ\n النَّبِيُّ صلى الله عليه وسلم ‏\"‏ تَدْرُونَ مَا هَذَا ‏\"‏ ‏.‏ قَالَ قُلْنَا اللَّهُ وَرَسُولُهُ أَعْلَمُ ‏.‏ قَالَ ‏\"‏\n هَذَا حَجَرٌ رُمِيَ بِهِ فِي النَّارِ مُنْذُ سَبْعِينَ خَرِيفًا فَهُوَ يَهْوِي فِي النَّارِ الآنَ حَتَّى انْتَهَى إِلَى\n قَعْرِهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported:",
+        "text": "We were in the company of Allah's Messenger (ﷺ) that we heard a terrible sound. Thereupon Allah's Apostle (ﷺ) said: Do you know what (sound) is this? We said: Allah and His Messenger know best. Thereupon he said: That is a stone which was thrown seventy years before in Hell and it has'been constantly slipping down and now it has reached its base."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ عَبَّادٍ، وَابْنُ أَبِي عُمَرَ، قَالاَ حَدَّثَنَا مَرْوَانُ، عَنْ يَزِيدَ بْنِ كَيْسَانَ،\n عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، بِهَذَا الإِسْنَادِ وَقَالَ ‏\n\"‏ هَذَا وَقَعَ فِي أَسْفَلِهَا فَسَمِعْتُمْ وَجْبَتَهَا\n ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Abfi Huraira with the same chain of transmitters but with this change of wording that the Prophet (may. peace be upon him) said:",
+        "text": "It reached at its base and you heard its sound."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ بْنُ عَبْدِ الرَّحْمَنِ،\n قَالَ قَالَ قَتَادَةُ سَمِعْتُ أَبَا نَضْرَةَ، يُحَدِّثُ عَنْ سَمُرَةَ، أَنَّهُ سَمِعَ نَبِيَّ اللَّهِ صلى الله عليه وسلم\n يَقُولُ ‏\n\"‏ إِنَّ مِنْهُمْ مَنْ تَأْخُذُهُ النَّارُ إِلَى كَعْبَيْهِ وَمِنْهُمْ مَنْ تَأْخُذُهُ إِلَى حُجْزَتِهِ وَمِنْهُمْ مَنْ تَأْخُذُهُ\n إِلَى عُنُقِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Samura b. Jundub reported Allah's Apostle (may peace -be upon him) as saying:",
+        "text": "There will be some to whose ankels the fire will reach, some to whose knees, some to whose waist the fire will reach, and some to whose collar-bone the fire will reach."
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي عَمْرُو بْنُ زُرَارَةَ، أَخْبَرَنَا عَبْدُ الْوَهَّابِ، - يَعْنِي ابْنَ عَطَاءٍ - عَنْ سَعِيدٍ،\n عَنْ قَتَادَةَ، قَالَ سَمِعْتُ أَبَا نَضْرَةَ، يُحَدِّثُ عَنْ سَمُرَةَ بْنِ جُنْدَبٍ، أَنَّ النَّبِيَّ صلى الله عليه\n وسلم قَالَ ‏\n\"‏ مِنْهُمْ مَنْ تَأْخُذُهُ النَّارُ إِلَى كَعْبَيْهِ وَمِنْهُمْ مَنْ تَأْخُذُهُ النَّارُ إِلَى رُكْبَتَيْهِ وَمِنْهُمْ\n مَنْ تَأْخُذُهُ النَّارُ إِلَى حُجْزَتِهِ وَمِنْهُمْ مَنْ تَأْخُذُهُ النَّارُ إِلَى تَرْقُوَتِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Samura b. Jundub reported Allah's Messenger (ﷺ) as saying:",
+        "text": "There would be among them those to whom the fire will reach up to their ankels and to some of them the fire would reach their knees and to some it would reach their waists and to some it would reach up to their collar-bones."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالاَ حَدَّثَنَا رَوْحٌ، حَدَّثَنَا سَعِيدٌ، بِهَذَا\n الإِسْنَادِ وَجَعَلَ مَكَانَ حُجْزَتِهِ حَقْوَيْهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Sa'id with the same chain of transmitters but with a slight variation of wording."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ،\n قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ احْتَجَّتِ النَّارُ وَالْجَنَّةُ فَقَالَتْ هَذِهِ يَدْخُلُنِي\n الْجَبَّارُونَ وَالْمُتَكَبِّرُونَ ‏.‏ وَقَالَتْ هَذِهِ يَدْخُلُنِي الضُّعَفَاءُ وَالْمَسَاكِينُ فَقَالَ اللَّهُ عَزَّ وَجَلَّ لِهَذِهِ\n أَنْتِ عَذَابِي أُعَذِّبُ بِكِ مَنْ أَشَاءُ - وَرُبَّمَا قَالَ أُصِيبُ بِكِ مَنْ أَشَاءُ - وَقَالَ لِهَذِهِ أَنْتِ\n رَحْمَتِي أَرْحَمُ بِكِ مَنْ أَشَاءُ وَلِكُلِّ وَاحِدَةٍ مِنْكُمَا مِلْؤُهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as say- ing:",
+        "text": "There was a dispute between the Hell and the Paradise and it (the Hell) said: The haughty and the proud would find abode in me. And the Paradise said: The meek and the humble would find their abode in me. Thereupon Allah, the Exalted and Glorious, (addressing the Hell) said: You are (the means) of My punishment by which I punish those of My servants whom I wish. (And addressing the Paradise) He said: You are only My Mercy by means of which 1 shall show mercy to those whom I wish, but each one of you would be full."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنِي وَرْقَاءُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،\n عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ تَحَاجَّتِ النَّارُ وَالْجَنَّةُ فَقَالَتِ النَّارُ\n أُوثِرْتُ بِالْمُتَكَبِّرِينَ وَالْمُتَجَبِّرِينَ ‏.‏ وَقَالَتِ الْجَنَّةُ فَمَا لِي لاَ يَدْخُلُنِي إِلاَّ ضُعَفَاءُ النَّاسِ وَسَقَطُهُمْ\n وَعَجَزُهُمْ ‏.‏ فَقَالَ اللَّهُ لِلْجَنَّةِ أَنْتِ رَحْمَتِي أَرْحَمُ بِكِ مَنْ أَشَاءُ مِنْ عِبَادِي ‏.‏ وَقَالَ لِلنَّارِ أَنْتِ\n عَذَابِي أُعَذِّبُ بِكِ مَنْ أَشَاءُ مِنْ عِبَادِي وَلِكُلِّ وَاحِدَةٍ مِنْكُمْ مِلْؤُهَا فَأَمَّا النَّارُ فَلاَ تَمْتَلِئُ ‏.‏\n فَيَضَعُ قَدَمَهُ عَلَيْهَا فَتَقُولُ قَطْ قَطْ ‏.‏ فَهُنَالِكَ تَمْتَلِئُ وَيُزْوَى بَعْضُهَا إِلَى بَعْضٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as say- ing:",
+        "text": "The Hell and the Paradise fell into dispute and the Hell said: I have been dis- tinguished by the proud and the haughty. And the Paradise said: What is the matter with me that the meek and the humble amongst people and the downtrodden and the simple enter me? Thereupon Allah said to the Paradise: You are (the means) of My Mercy whereby I show mercy to those of My servants whom 1 wish, and He said to the Hell: You are (the means) of punishment whereby 1 punish those of My servants whoml wish. Both of you will be full. The Hell will riot be filled up until Allah puts down His foot in it. The Hell would say: Enough, enough, enough, and at that time it will be filled up, all its parts integrated together."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَوْنٍ الْهِلاَلِيُّ، حَدَّثَنَا أَبُو سُفْيَانَ، - يَعْنِي مُحَمَّدَ بْنَ حُمَيْدٍ -\n عَنْ مَعْمَرٍ، عَنْ أَيُّوبَ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ\n ‏\n\"‏ احْتَجَّتِ الْجَنَّةُ وَالنَّارُ ‏\"‏ ‏.‏ وَاقْتَصَّ الْحَدِيثَ بِمَعْنَى حَدِيثِ أَبِي الزِّنَادِ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying:",
+        "text": "The Paradise and the Hell disputed with each other. The rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ\n هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ\n رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ تَحَاجَّتِ الْجَنَّةُ وَالنَّارُ فَقَالَتِ النَّارُ أُوثِرْتُ بِالْمُتَكَبِّرِينَ\n وَالْمُتَجَبِّرِينَ ‏.‏ وَقَالَتِ الْجَنَّةُ فَمَا لِي لاَ يَدْخُلُنِي إِلاَّ ضُعَفَاءُ النَّاسِ وَسَقَطُهُمْ وَغِرَّتُهُمْ قَالَ\n اللَّهُ لِلْجَنَّةِ إِنَّمَا أَنْتِ رَحْمَتِي أَرْحَمُ بِكِ مَنْ أَشَاءُ مِنْ عِبَادِي ‏.‏ وَقَالَ لِلنَّارِ إِنَّمَا أَنْتِ عَذَابِي\n أُعَذِّبُ بِكِ مَنْ أَشَاءُ مِنْ عِبَادِي ‏.‏ وَلِكُلِّ وَاحِدَةٍ مِنْكُمَا مِلْؤُهَا فَأَمَّا النَّارُ فَلاَ تَمْتَلِئُ حَتَّى\n يَضَعَ اللَّهُ تَبَارَكَ وَتَعَالَى رِجْلَهُ تَقُولُ قَطْ قَطْ قَطْ ‏.‏ فَهُنَالِكَ تَمْتَلِئُ وَيُزْوَى بَعْضُهَا إِلَى بَعْضٍ\n وَلاَ يَظْلِمُ اللَّهُ مِنْ خَلْقِهِ أَحَدًا وَأَمَّا الْجَنَّةُ فَإِنَّ اللَّهَ يُنْشِئُ لَهَا خَلْقًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Hammam b. Munabbih reported that Abu Huraira narrated to them some ahadith of Allah's Messenger (ﷺ) and one of them is this that Allah's Messenger (ﷺ) said:",
+        "text": "The Paradise and the Hell fell into dispute and the Hell said: 1 have been distinguished for accommodating (the haughty and proud in me), and the Paradise said: What is the matter that the meek and the humble and the downtrodden and simple would find an abode in me? Thereupon Allah said to Paradise: You are a (means) of My Mercy. 1 shall show mercy through you to one whom I will from amongst My servants. And lie said to the Hell: You are a (sign) of My chastisement and I shall chastise through you anyone whom I will from amongst My servants and both of you, would be full. And as regards the Hell it would not be full until Allah, the Exalted and Glorious, places His foot therein, and it would say: Enough, enough, enough, and it would be then full and the one part would draw very close to the other one and Allah would not treat unjustly anyone amongst His creation and He would create another creation for the Paradise (to accommodate it)."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ \n أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ احْتَجَّتِ الْجَنَّةُ وَالنَّارُ ‏\"‏\n ‏.‏ فَذَكَرَ نَحْوَ حَدِيثِ أَبِي هُرَيْرَةَ إِلَى قَوْلِهِ ‏\"‏ وَلِكِلَيْكُمَا عَلَىَّ مِلْؤُهَا ‏\"‏ ‏.‏ وَلَمْ يَذْكُرْ مَا بَعْدَهُ\n مِنَ الزِّيَادَةِ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id al-Khudri reported that Allah's Messenger (ﷺ) said:",
+        "text": "The Paradise and the Hell disputed with each other. The rest of the hadith is the same as transmitted by Abu Huraira up to the words'.\" It is essential for Me to fill up both of you.\""
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ، عَنْ قَتَادَةَ، حَدَّثَنَا \n أَنَسُ بْنُ مَالِكٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَزَالُ جَهَنَّمُ تَقُولُ هَلْ مِنْ مَزِيدٍ\n ‏.‏ حَتَّى يَضَعَ فِيهَا رَبُّ الْعِزَّةِ تَبَارَكَ وَتَعَالَى قَدَمَهُ فَتَقُولُ قَطْ قَطْ وَعِزَّتِكَ ‏.‏ وَيُزْوَى بَعْضُهَا\n إِلَى بَعْضٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported that Allah's Apostle (ﷺ) said that the Hell would continue to say:",
+        "text": "Is there anything more, until Allah, the Exalted and High, would place His foot therein and that would say: Enough, enough, by Your Honour, and some parts of it would draw close to the other."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنَا أَبَانُ بْنُ يَزِيدَ،\n الْعَطَّارِ حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمَعْنَى حَدِيثِ شَيْبَانَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Anas through another chain of transmitters."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 53,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الرُّزِّيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ عَطَاءٍ، فِي قَوْلِهِ عَزَّ وَجَلَّ\n ‏{‏ يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلأْتِ وَتَقُولُ هَلْ مِنْ مَزِيدٍ‏}‏ فَأَخْبَرَنَا عَنْ سَعِيدٍ عَنْ قَتَادَةَ عَنْ\n أَنَسِ بْنِ مَالِكٍ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\"‏ لاَ تَزَالُ جَهَنَّمُ يُلْقَى فِيهَا وَتَقُولُ\n هَلْ مِنْ مَزِيدٍ حَتَّى يَضَعَ رَبُّ الْعِزَّةِ فِيهَا قَدَمَهُ فَيَنْزَوِي بَعْضُهَا إِلَى بَعْضٍ وَتَقُولُ قَطْ قَطْ\n بِعِزَّتِكَ وَكَرَمِكَ ‏.‏ وَلاَ يَزَالُ فِي الْجَنَّةِ فَضْلٌ حَتَّى يُنْشِئَ اللَّهُ لَهَا خَلْقًا فَيُسْكِنَهُمْ فَضْلَ الْجَنَّةِ\n ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abd al-Wahhab b. Ata' reported in connection with the words of Allah, the Exalted and the Glorious:",
+        "text": "We would say to Hell on the Day of Ressurection: Have you been completely filled up? and it would say: Is there anything -more? And he stated on the authority of Anas b. Malik that Allah's Apostle (ﷺ) said: (The sinners) would be thrown therein and it would continue to say: Is there anything more, until Allah, the Exalted and Glorious, would keep His foot there- in and some of its part would draw close to the other and it would say: Enough, enough, by Thy Honour and by Thy Dignity, and there would be enough space in Paradise until Allah would create a new creation and He would make them accommo- date that spare place in Paradise."
+      }
+    }
+  ]
+}

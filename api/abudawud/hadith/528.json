@@ -1,0 +1,16 @@
+{
+  "id": 528,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، حَدَّثَنَا مَالِكٌ، عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ عَمْرِو بْنِ سُلَيْمٍ، عَنْ أَبِي قَتَادَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُصَلِّي وَهُوَ حَامِلٌ أُمَامَةَ بِنْتَ زَيْنَبَ بِنْتِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَإِذَا سَجَدَ وَضَعَهَا وَإِذَا قَامَ حَمَلَهَا ‏.‏",
+  "english": {
+    "narrator": "Abu Qatadah said:",
+    "text": "The Messenger of Allah (ﷺ) was leading the people in prayer with Umamah daughter of Zainab daughter of the Messenger of Allah(ﷺ) (in his lap). When he prostrated, he put her down and when he got up(after prostration) he lifted her up."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

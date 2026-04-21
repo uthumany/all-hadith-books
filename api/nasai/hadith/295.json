@@ -1,0 +1,16 @@
+{
+  "id": 295,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ عَبْدِ الْعَزِيزِ بْنِ أَبِي رَوَّادٍ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الإِسْبَالُ فِي الإِزَارِ وَالْقَمِيصِ وَالْعِمَامَةِ مَنْ جَرَّ مِنْهَا شَيْئًا خُيَلاَءَ لاَ يَنْظُرُ اللَّهُ إِلَيْهِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Ibn 'Umar said:",
+    "text": "\"The Messenger of Allah  said: 'Al-Isbal may apply to the Izar, the Qamis and the turban. Whoever drags any one of these out of vanity, Allah will not look at him on the Day of Resurrection.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

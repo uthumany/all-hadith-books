@@ -1,0 +1,510 @@
+{
+  "page": 16,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 17,
+  "prevPage": 15,
+  "items": [
+    {
+      "id": 361,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الزُّهْرِيُّ، حَدَّثَنَا سُفْيَانُ، عَنْ يَزِيدَ، نَحْوَ حَدِيثِ شَرِيكٍ لَمْ يَقُلْ ثُمَّ لاَ يَعُودُ ‏.‏ قَالَ سُفْيَانُ قَالَ لَنَا بِالْكُوفَةِ بَعْدُ ثُمَّ لاَ يَعُودُ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَى هَذَا الْحَدِيثَ هُشَيْمٌ وَخَالِدٌ وَابْنُ إِدْرِيسَ عَنْ يَزِيدَ لَمْ يَذْكُرُوا ثُمَّ لاَ يَعُودُ ‏.‏",
+      "english": {
+        "narrator": "This tradition has been narrated by Sufyan through a different chain of transmitters. This version does not have the words “then he did not repeat”. Sufyan said:",
+        "text": "The words “then he did not repeat“ were narrated to us later on at Kufah by him (Yazid).\n\n\nAbu Dawud said: This tradition has also been transmitted by Hushaim, Khalid, and Ibn Idris from Yazid. They did not mention the words “then he did not repeat”"
+      }
+    },
+    {
+      "id": 362,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حُسَيْنُ بْنُ عَبْدِ الرَّحْمَنِ، أَخْبَرَنَا وَكِيعٌ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ أَخِيهِ، عِيسَى عَنِ الْحَكَمِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم رَفَعَ يَدَيْهِ حِينَ افْتَتَحَ الصَّلاَةَ ثُمَّ لَمْ يَرْفَعْهُمَا حَتَّى انْصَرَفَ ‏.‏ قَالَ أَبُو دَاوُدَ هَذَا الْحَدِيثُ لَيْسَ بِصَحِيحٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Bara' ibn Azib:",
+        "text": "I saw that the Messenger of Allah (ﷺ) raised his hands when he began prayer, but he did not raise them until he finished (prayer).\n\n\n\nAbu Dawud said: This tradition is not sound."
+      }
+    },
+    {
+      "id": 363,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنْ سَعِيدِ بْنِ سَمْعَانَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا دَخَلَ فِي الصَّلاَةِ رَفَعَ يَدَيْهِ مَدًّا ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "When the Messenger of Allah (ﷺ) began his prayer, he raised his hands extensively."
+      }
+    },
+    {
+      "id": 364,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنَا أَبُو أَحْمَدَ، عَنِ الْعَلاَءِ بْنِ صَالِحٍ، عَنْ زُرْعَةَ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ سَمِعْتُ ابْنَ الزُّبَيْرِ، يَقُولُ صَفُّ الْقَدَمَيْنِ وَوَضْعُ الْيَدِ عَلَى الْيَدِ مِنَ السُّنَّةِ ‏.‏",
+      "english": {
+        "narrator": "Zur’ah b. ‘Abd al-Rahman said:",
+        "text": "I heard Ibn al-Zubair say: Setting the feet right and placing one hand on the other is a sunnah."
+      }
+    },
+    {
+      "id": 365,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَكَّارِ بْنِ الرَّيَّانِ، عَنْ هُشَيْمِ بْنِ بَشِيرٍ، عَنِ الْحَجَّاجِ بْنِ أَبِي زَيْنَبَ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنِ ابْنِ مَسْعُودٍ، أَنَّهُ كَانَ يُصَلِّي فَوَضَعَ يَدَهُ الْيُسْرَى عَلَى الْيُمْنَى فَرَآهُ النَّبِيُّ صلى الله عليه وسلم فَوَضَعَ يَدَهُ الْيُمْنَى عَلَى الْيُسْرَى ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Mas'ud:",
+        "text": "AbuUthman an-Nahdi said: When Ibn Mas'ud prayed he placed his left hand on the right. The Prophet (ﷺ) saw him and placed his right hand on his left one."
+      }
+    },
+    {
+      "id": 366,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَحْبُوبٍ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ إِسْحَاقَ، عَنْ زِيَادِ بْنِ زَيْدٍ، عَنْ أَبِي جُحَيْفَةَ، أَنَّ عَلِيًّا، - رضى الله عنه - قَالَ السُّنَّةُ وَضْعُ الْكَفِّ عَلَى الْكَفِّ فِي الصَّلاَةِ تَحْتَ السُّرَّةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ali ibn AbuTalib:",
+        "text": "AbuJuhayfah said: Ali said that it is a sunnah to place one hand on the other in prayer below the navel."
+      }
+    },
+    {
+      "id": 367,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ قُدَامَةَ، - يَعْنِي ابْنَ أَعْيَنَ - عَنْ أَبِي بَدْرٍ، عَنْ أَبِي طَالُوتَ عَبْدِ السَّلاَمِ، عَنِ ابْنِ جَرِيرٍ الضَّبِّيِّ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ عَلِيًّا - رضى الله عنه - يُمْسِكُ شِمَالَهُ بِيَمِينِهِ عَلَى الرُّسْغِ فَوْقَ السُّرَّةِ ‏.‏ قَالَ أَبُو دَاوُدَ وَرُوِيَ عَنْ سَعِيدِ بْنِ جُبَيْرٍ فَوْقَ السُّرَّةِ ‏.‏ وَقَالَ أَبُو مِجْلَزٍ تَحْتَ السُّرَّةِ ‏.‏ وَرُوِيَ عَنْ أَبِي هُرَيْرَةَ وَلَيْسَ بِالْقَوِيِّ ‏.‏",
+      "english": {
+        "narrator": "Jarir ad-Dabbi reported:",
+        "text": "I saw Ali (Allah be pleased with him) catching hold of his left hand) by his right hand on the wrist above the navel.\n\n\n\n\nAbu Dawud said: Sa'id b. Jubair narrated the words: \"above the navel\". Abu Mijlaz reported the words: \"below the navel\". This has also been narrated by Abu Hurairah. But that is not strong."
+      }
+    },
+    {
+      "id": 368,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ إِسْحَاقَ الْكُوفِيِّ، عَنْ سَيَّارٍ أَبِي الْحَكَمِ، عَنْ أَبِي وَائِلٍ، قَالَ قَالَ أَبُو هُرَيْرَةَ أَخْذُ الأَكُفِّ عَلَى الأَكُفِّ فِي الصَّلاَةِ تَحْتَ السُّرَّةِ ‏.‏ قَالَ أَبُو دَاوُدَ سَمِعْتُ أَحْمَدَ بْنَ حَنْبَلٍ يُضَعِّفُ عَبْدَ الرَّحْمَنِ بْنَ إِسْحَاقَ الْكُوفِيَّ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "(The established way of folding hands is) to hold the hands by the hands in prayer below the navel.\n\n\nAbu Dawud said: I heard Ahmad b. Hanbal say: The narrator 'Abd al-Rahman b. Ishaq al-Kufi is weak (i.e. not reliable)."
+      }
+    },
+    {
+      "id": 369,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو تَوْبَةَ، حَدَّثَنَا الْهَيْثَمُ، - يَعْنِي ابْنَ حُمَيْدٍ - عَنْ ثَوْرٍ، عَنْ سُلَيْمَانَ بْنِ مُوسَى، عَنْ طَاوُسٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَضَعُ يَدَهُ الْيُمْنَى عَلَى يَدِهِ الْيُسْرَى ثُمَّ يَشُدُّ بَيْنَهُمَا عَلَى صَدْرِهِ وَهُوَ فِي الصَّلاَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Tawus:",
+        "text": "The Messenger of Allah (ﷺ) used to place his right hand on his left hand, then he folded them strictly on his chest in prayer."
+      }
+    },
+    {
+      "id": 370,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي سَلَمَةَ، عَنْ عَمِّهِ الْمَاجِشُونِ بْنِ أَبِي سَلَمَةَ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، - رضى الله عنه - قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا قَامَ إِلَى الصَّلاَةِ كَبَّرَ ثُمَّ قَالَ ‏\"‏ وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالأَرْضَ حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ إِنَّ صَلاَتِي وَنُسُكِي وَمَحْيَاىَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ لاَ شَرِيكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ اللَّهُمَّ أَنْتَ الْمَلِكُ لاَ إِلَهَ لِي إِلاَّ أَنْتَ أَنْتَ رَبِّي وَأَنَا عَبْدُكَ ظَلَمْتُ نَفْسِي وَاعْتَرَفْتُ بِذَنْبِي فَاغْفِرْ لِي ذُنُوبِي جَمِيعًا إِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ وَاهْدِنِي لأَحْسَنِ الأَخْلاَقِ لاَ يَهْدِي لأَحْسَنِهَا إِلاَّ أَنْتَ وَاصْرِفْ عَنِّي سَيِّئَهَا لاَ يَصْرِفُ سَيِّئَهَا إِلاَّ أَنْتَ لَبَّيْكَ وَسَعْدَيْكَ وَالْخَيْرُ كُلُّهُ فِي يَدَيْكَ وَالشَّرُّ لَيْسَ إِلَيْكَ أَنَا بِكَ وَإِلَيْكَ تَبَارَكْتَ وَتَعَالَيْتَ أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ ‏\"‏ ‏.‏ وَإِذَا رَكَعَ قَالَ ‏\"‏ اللَّهُمَّ لَكَ رَكَعْتُ وَبِكَ آمَنْتُ وَلَكَ أَسْلَمْتُ خَشَعَ لَكَ سَمْعِي وَبَصَرِي وَمُخِّي وَعِظَامِي وَعَصَبِي ‏\"‏ ‏.‏ وَإِذَا رَفَعَ قَالَ ‏\"‏ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ رَبَّنَا وَلَكَ الْحَمْدُ مِلْءَ السَّمَوَاتِ وَالأَرْضِ وَمِلْءَ مَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَىْءٍ بَعْدُ ‏\"‏ ‏.‏ وَإِذَا سَجَدَ قَالَ ‏\"‏ اللَّهُمَّ لَكَ سَجَدْتُ وَبِكَ آمَنْتُ وَلَكَ أَسْلَمْتُ سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَصَوَّرَهُ فَأَحْسَنَ صُورَتَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ وَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ ‏\"‏ ‏.‏ وَإِذَا سَلَّمَ مِنَ الصَّلاَةِ قَالَ ‏\"‏ اللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ وَمَا أَسْرَفْتُ وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي أَنْتَ الْمُقَدِّمُ وَالْمُؤَخِّرُ لاَ إِلَهَ إِلاَّ أَنْتَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "‘Ali b. Ali Talib said:",
+        "text": "When the Messenger of Allah (ﷺ) stood up for prayer, he uttered the takbir (Allah is most great), then said: I have turned my face, breaking with all others, towards Him Who created the heavens and the earth, and I am not a polytheist. My prayer and my devotion, my life and my death belong to Allah, the Lord of the Universe, Who has no partner. That is what I have been commanded, and I am first of Muslims (those who surrender themselves). O Allah, Thou art the King. There is no God but Thee. Thou art my Lord and I am Thy servant. I have wronged myself, but I acknowledge my sin, so forgive me all my sins; Thou Who alone canst forgive sins; and guide me to the best qualities. Thou Who alone canst guide to the best of them; and turn me from evil ones. Thou who alone canst turn from evil qualities. I come to serve and please Thee. All good is in Thy Hands, and evil does not pertain to Thee. I seek refuge in Thee and turn to Thee, Who art blessed and exalted. I ask Thy forgiveness and turn to thee in repentance. When he bowed, he said: O Allah, to Thee I bow, in Thee I trust, and to Thee I submit myself. My hearing, my sight, my brain, my bone and my sinews humble themselves before Thee. When he raised his head, he said: Allah listens to him who praises Him. O our lord, and all praises be to Thee in the whole of the heavens and the earth, and what is between them, and in whatever Thou creates afterwards. When he prostrated himself, he said: O Allah, to Thee I prostrate myself, to Thee I trust, and to Thee I submit myself. My face prostrated itself before Him Who created it, fashioned it, and fashioned it in the best shape, and brought forth its hearing and seeing. Blessed is Allah, the best of creators. When he saluted at the end of the prayer, he said: O Allah, forgive me my former and my latter sins, my open and secret sins, my sins in exceeding the limits, and what Thou knowest better than I. Thou art He Who puts forward and puts back. There is deity but Thee."
+      }
+    },
+    {
+      "id": 371,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْهَاشِمِيُّ، أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الزِّنَادِ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ بْنِ رَبِيعَةَ بْنِ الْحَارِثِ بْنِ عَبْدِ الْمُطَّلِبِ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ كَانَ إِذَا قَامَ إِلَى الصَّلاَةِ الْمَكْتُوبَةِ كَبَّرَ وَرَفَعَ يَدَيْهِ حَذْوَ مَنْكِبَيْهِ وَيَصْنَعُ مِثْلَ ذَلِكَ إِذَا قَضَى قِرَاءَتَهُ وَإِذَا أَرَادَ أَنْ يَرْكَعَ وَيَصْنَعُهُ إِذَا رَفَعَ مِنَ الرُّكُوعِ وَلاَ يَرْفَعُ يَدَيْهِ فِي شَىْءٍ مِنْ صَلاَتِهِ وَهُوَ قَاعِدٌ وَإِذَا قَامَ مِنَ السَّجْدَتَيْنِ رَفَعَ يَدَيْهِ كَذَلِكَ وَكَبَّرَ وَدَعَا نَحْوَ حَدِيثِ عَبْدِ الْعَزِيزِ فِي الدُّعَاءِ يَزِيدُ وَيَنْقُصُ الشَّىْءَ وَلَمْ يَذْكُرْ ‏\"‏ وَالْخَيْرُ كُلُّهُ فِي يَدَيْكَ وَالشَّرُّ لَيْسَ إِلَيْكَ ‏\"‏ ‏.‏ وَزَادَ فِيهِ وَيَقُولُ عِنْدَ انْصِرَافِهِ مِنَ الصَّلاَةِ ‏\"‏ اللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ وَأَخَّرْتُ وَمَا أَسْرَرْتُ وَأَعْلَنْتُ أَنْتَ إِلَهِي لاَ إِلَهَ إِلاَّ أَنْتَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "‘Ali b. Ali Talib said:",
+        "text": "When the Messenger of Allah (ﷺ) stood up for (offering) obligatory prayer, he uttered the takbir (Allah is most great) and raised his hands opposite to his shoulders, and he did so when he finished the recitation (of the Qur’an) and when he was about to bow; and he did like that when he raised (his head) after bowing. He did not raise his hands in prayer when he was sitting. When he stood at the end of two rak’ahs, he raised his hands in a similar way and uttered the takbir and supplicated in a more or less the same manner as narrated by ‘Abd al-‘Aziz in his version. This version does not mention the words “All good is in Thy Hands and evil does not pertain to Thee.” And this adds: He said when he finished the prayer: “O Allah, forgive me my former and latter sins, my open and secret sins; Thou art my deity; there is no God but Thee."
+      }
+    },
+    {
+      "id": 372,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، حَدَّثَنَا شُرَيْحُ بْنُ يَزِيدَ، حَدَّثَنِي شُعَيْبُ بْنُ أَبِي حَمْزَةَ، قَالَ قَالَ لِي مُحَمَّدُ بْنُ الْمُنْكَدِرِ وَابْنُ أَبِي فَرْوَةَ وَغَيْرُهُمَا مِنْ فُقَهَاءِ أَهْلِ الْمَدِينَةِ فَإِذَا قُلْتَ أَنْتَ ذَاكَ فَقُلْ ‏\"‏ وَأَنَا مِنَ الْمُسْلِمِينَ ‏\"‏ ‏.‏ يَعْنِي قَوْلَهُ ‏\"‏ وَأَنَا أَوَّلُ الْمُسْلِمِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Shu’aib b. Abi Hamzah said:",
+        "text": "Ibn al-Munkadir, Ibn Abi Farwah and a number of jurists of Madina said to me: When you recite the supplication “I am first of the Muslims,” say instead; “I am one of the Muslims”."
+      }
+    },
+    {
+      "id": 373,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، أَخْبَرَنَا حَمَّادٌ، عَنْ قَتَادَةَ، وَثَابِتٍ، وَحُمَيْدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَجُلاً، جَاءَ إِلَى الصَّلاَةِ وَقَدْ حَفَزَهُ النَّفَسُ فَقَالَ اللَّهُ أَكْبَرُ الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ فَلَمَّا قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَتَهُ قَالَ ‏\"‏ أَيُّكُمُ الْمُتَكَلِّمُ بِالْكَلِمَاتِ فَإِنَّهُ لَمْ يَقُلْ بَأْسًا ‏\"‏ ‏.‏ فَقَالَ الرَّجُلُ أَنَا يَا رَسُولَ اللَّهِ جِئْتُ وَقَدْ حَفَزَنِي النَّفَسُ فَقُلْتُهَا ‏.‏ فَقَالَ ‏\"‏ لَقَدْ رَأَيْتُ اثْنَىْ عَشَرَ مَلَكًا يَبْتَدِرُونَهَا أَيُّهُمْ يَرْفَعُهَا ‏\"‏ ‏.‏ وَزَادَ حُمَيْدٌ فِيهِ ‏\"‏ وَإِذَا جَاءَ أَحَدُكُمْ فَلْيَمْشِ نَحْوَ مَا كَانَ يَمْشِي فَلْيُصَلِّ مَا أَدْرَكَهُ وَلْيَقْضِ مَا سَبَقَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik said:",
+        "text": "A man came panting to join the row of worshippers, and said: Allah is most great; praise be to Allah, much praise, good and blessed. When the Messenger of Allah(ﷺ) finished his prayer, he asked: Which of you is the one who spoke the words? He said nothing wrong. Then the man said: I (said), Messenger of Allah (ﷺ); I came and had difficulty in breathing, so I said them. He said: I saw twelve angels racing against one another to be the one to take them to Allah.\n\n\nThe narrator Humaid added: When any of you comes for praying, he should walk as usual (i.e. he should not hasten and run quickly); then he should pray as much as he finds it (along with the imam), and should offer the part of the prayer himself (when the prayer is finished) which the Imam had offered before him."
+      }
+    },
+    {
+      "id": 374,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ مَرْزُوقٍ، أَخْبَرَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ عَاصِمٍ الْعَنَزِيِّ، عَنِ ابْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنْ أَبِيهِ، أَنَّهُ رَأَى رَسُولَ اللَّهِ صلى الله عليه وسلم يُصَلِّي صَلاَةً قَالَ عَمْرٌو لاَ أَدْرِي أَىَّ صَلاَةٍ هِيَ فَقَالَ ‏\"‏ اللَّهُ أَكْبَرُ كَبِيرًا اللَّهُ أَكْبَرُ كَبِيرًا اللَّهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلَّهِ كَثِيرًا وَالْحَمْدُ لِلَّهِ كَثِيرًا وَالْحَمْدُ لِلَّهِ كَثِيرًا وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلاً ‏\"‏ ‏.‏ ثَلاَثًا ‏\"‏ أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ مِنْ نَفْخِهِ وَنَفْثِهِ وَهَمْزِهِ ‏\"‏ ‏.‏ قَالَ نَفْثُهُ الشِّعْرُ وَنَفْخُهُ الْكِبْرُ وَهَمْزُهُ الْمُوتَةُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jubayr ibn Mut'im:",
+        "text": "Jabir saw the Messenger of Allah (ﷺ) observing prayer. (The narrator Amr said: I do not know which prayer he was offering.) \n\n\n\n\n\nHe (the Prophet) said: Allah is altogether great; Allah is altogether great; Allah is altogether great; and praise be to Allah in abundance; and praise be to Allah is abundance; and praise be to Allah in abundance. Glory be to Allah in the morning and after (saying it three times). I seek refuge in Allah from the accursed devil, from his puffing up (nafkh), his spitting (nafth) and his evil suggestion (hamz). \n\n\n\n\n\nHe (Amr) said: His nafth it poetry, his nafkh is pride, and his hamz is madness."
+      }
+    },
+    {
+      "id": 375,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ مِسْعَرٍ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ رَجُلٍ، عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ فِي التَّطَوُّعِ ذَكَرَ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "The above mentioned tradition has also been reported by Jubair b. Mut’im through a different chain of narrators. This version adds:",
+        "text": "I head the Prophet(ﷺ) uttering (all these supplications) in a supererogatory prayer; he narrated the tradition in a similar manner."
+      }
+    },
+    {
+      "id": 376,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، أَخْبَرَنِي مُعَاوِيَةُ بْنُ صَالِحٍ، أَخْبَرَنِي أَزْهَرُ بْنُ سَعِيدٍ الْحَرَازِيُّ، عَنْ عَاصِمِ بْنِ حُمَيْدٍ، قَالَ سَأَلْتُ عَائِشَةَ بِأَىِّ شَىْءٍ كَانَ يَفْتَتِحُ رَسُولُ اللَّهِ صلى الله عليه وسلم قِيَامَ اللَّيْلِ فَقَالَتْ لَقَدْ سَأَلْتَنِي عَنْ شَىْءٍ مَا سَأَلَنِي عَنْهُ أَحَدٌ قَبْلَكَ كَانَ إِذَا قَامَ كَبَّرَ عَشْرًا وَحَمِدَ اللَّهَ عَشْرًا وَسَبَّحَ عَشْرًا وَهَلَّلَ عَشْرًا وَاسْتَغْفَرَ عَشْرًا وَقَالَ ‏\n\"‏ اللَّهُمَّ اغْفِرْ لِي وَاهْدِنِي وَارْزُقْنِي وَعَافِنِي ‏\"‏ ‏.‏ وَيَتَعَوَّذُ مِنْ ضِيقِ الْمَقَامِ يَوْمَ الْقِيَامَةِ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ خَالِدُ بْنُ مَعْدَانَ عَنْ رَبِيعَةَ الْجُرَشِيِّ عَنْ عَائِشَةَ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "Asim ibn Humayd said: I asked Aisha: By what words the Messenger of Allah (ﷺ) would begin his supererogatory prayer at night? \n\n\n\n\n\nShe replied: You ask me about a thing of which no one asked me before you. When he stood up, be uttered the takbir (Allah is most great) ten times, and uttered \"Praise be to Allah\" ten times, and uttered \"Glory be to Allah \" ten times, and uttered \"There is no god but Allah\" ten times, and sought forgiveness ten times, and said: O Allah, forgive me, and guide me, and give me sustenance, and keep me well, and he sought refuge in Allah from the hardship of standing before Allah on the Day of Judgment.\n\n\n\nAbu Dawud said: This tradition has also been narrated by Khalid b. Ma'dan from Rab'iah al-Jarashi on the authority of 'Aishah."
+      }
+    },
+    {
+      "id": 377,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا عُمَرُ بْنُ يُونُسَ، حَدَّثَنَا عِكْرِمَةُ، حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، سَأَلْتُ عَائِشَةَ بِأَىِّ شَىْءٍ كَانَ نَبِيُّ اللَّهِ صلى الله عليه وسلم يَفْتَتِحُ صَلاَتَهُ إِذَا قَامَ مِنَ اللَّيْلِ قَالَتْ كَانَ إِذَا قَامَ مِنَ اللَّيْلِ يَفْتَتِحُ صَلاَتَهُ ‏\n\"‏ اللَّهُمَّ رَبَّ جِبْرِيلَ وَمِيكَائِيلَ وَإِسْرَافِيلَ فَاطِرَ السَّمَوَاتِ وَالأَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ اهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ إِنَّكَ أَنْتَ تَهْدِي مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Salamah b. ‘Abd al-Rahman b. ‘Awf said:",
+        "text": "I asked ‘A’ishah: By what words the Prophet(ﷺ) used to begin his prayer when he stood up at night (to offer tahajjud prayer). She said: When he stood up at night, he began his prayer by saying: O Allah, Lord of Jibra’il, Lord of Mik’ail, and Lord of Israfil, Creator of the Heavens and the Earth, the Knower of what is seen and of what is unseen; Thou decides between Thy servants in which they used to differ. Guide me to the truth where there is a difference of opinion by Thy permission. Thou guidest anyone Thou wishes to the right path."
+      }
+    },
+    {
+      "id": 378,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا أَبُو نُوحٍ، قُرَادٌ حَدَّثَنَا عِكْرِمَةُ، بِإِسْنَادِهِ بِلاَ إِخْبَارٍ وَمَعْنَاهُ قَالَ كَانَ إِذَا قَامَ بِاللَّيْلِ كَبَّرَ وَيَقُولُ ‏.‏",
+      "english": {
+        "narrator": "The above mentioned tradition has been reported by ‘Ikramah with a different chain of narrators. This version adds:",
+        "text": "When he stood up, he said the takbir (Allah is most great) and said. . . ."
+      }
+    },
+    {
+      "id": 379,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، قَالَ لاَ بَأْسَ بِالدُّعَاءِ فِي الصَّلاَةِ فِي أَوَّلِهِ وَأَوْسَطِهِ وَفِي آخِرِهِ فِي الْفَرِيضَةِ وَغَيْرِهَا ‏.‏",
+      "english": {
+        "narrator": "Malik said:",
+        "text": "There is no harm in uttering supplication in prayer, in its beginning, in its middle, and in the end, in obligatory prayer or other."
+      }
+    },
+    {
+      "id": 380,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ نُعَيْمِ بْنِ عَبْدِ اللَّهِ الْمُجْمِرِ، عَنْ عَلِيِّ بْنِ يَحْيَى الزُّرَقِيِّ، عَنْ أَبِيهِ، عَنْ رِفَاعَةَ بْنِ رَافِعٍ الزُّرَقِيِّ، قَالَ كُنَّا يَوْمًا نُصَلِّي وَرَاءَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَلَمَّا رَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَأْسَهُ مِنَ الرُّكُوعِ قَالَ ‏\"‏ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ ‏\"‏ ‏.‏ قَالَ رَجُلٌ وَرَاءَ رَسُولِ اللَّهِ صلى الله عليه وسلم اللَّهُمَّ رَبَّنَا وَلَكَ الْحَمْدُ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ فَلَمَّا انْصَرَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ مَنِ الْمُتَكَلِّمُ بِهَا آنِفًا ‏\"‏ ‏.‏ فَقَالَ الرَّجُلُ أَنَا يَا رَسُولَ اللَّهِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لَقَدْ رَأَيْتُ بِضْعَةً وَثَلاَثِينَ مَلَكًا يَبْتَدِرُونَهَا أَيُّهُمْ يَكْتُبُهَا أَوَّلَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Rifa’ah b. Rafi’ said:",
+        "text": "One day we were praying behind the Messenger of Allah (ﷺ). When the Messenger of Allah (ﷺ) raised his head after bowing, he said: Allah listened to him who praised Him. A man behind the Messenger of Allah(ﷺ) said: O Allah, Our Lord, and to Thee be praise, much praise, good and blessed. When the Messenger of Allah (ﷺ) finished his prayer, he asked: Which of you if the one who spoke (the words) just now. The man said: I (uttered) these words, Prophet of Allah. The Messenger of Allah(ﷺ) said: I saw more than thirty angels racing against one another to be the one to write them first."
+      }
+    },
+    {
+      "id": 381,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا قَامَ إِلَى الصَّلاَةِ مِنْ جَوْفِ اللَّيْلِ يَقُولُ ‏\n\"‏ اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَوَاتِ وَالأَرْضِ وَلَكَ الْحَمْدُ أَنْتَ قَيَّامُ السَّمَوَاتِ وَالأَرْضِ وَلَكَ الْحَمْدُ أَنْتَ رَبُّ السَّمَوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ أَنْتَ الْحَقُّ وَقَوْلُكَ الْحَقُّ وَوَعْدُكَ الْحَقُّ وَلِقَاؤُكَ حَقٌّ وَالْجَنَّةُ حَقٌّ وَالنَّارُ حَقٌّ وَالسَّاعَةُ حَقٌّ اللَّهُمَّ لَكَ أَسْلَمْتُ وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ وَإِلَيْكَ أَنَبْتُ وَبِكَ خَاصَمْتُ وَإِلَيْكَ حَاكَمْتُ فَاغْفِرْ لِي مَا قَدَّمْتُ وَأَخَّرْتُ وَأَسْرَرْتُ وَأَعْلَنْتُ أَنْتَ إِلَهِي لاَ إِلَهَ إِلاَّ أَنْتَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn ‘Abbas said:",
+        "text": "When the Messenger of Allah (ﷺ) stood up for praying at midnight, he said: o Allah, be praise to Thee, Thou art the light of the heavens and the earth; and to Thee be praise; Thou are the maintainer of the heavens and the earth; and to Thee be praise, Thou art the heavens and the earth and what is between them; Thou art the truth, and Thy statement is truth; and Thy promise is the truth; and the visitation with Thee is true; and the Paradise is true and the Hell-fire is true and the Hour is true; O Allah, to Thee I turned my attention, and by Thee I disputed, and to Thee I brought forth my case, so forgive me my former and latter sins, and my secret and open sins, Thou art my deity, there is no deity but Thou."
+      }
+    },
+    {
+      "id": 382,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو كَامِلٍ، حَدَّثَنَا خَالِدٌ، - يَعْنِي ابْنَ الْحَارِثِ - حَدَّثَنَا عِمْرَانُ بْنُ مُسْلِمٍ، أَنَّ قَيْسَ بْنَ سَعْدٍ، حَدَّثَهُ قَالَ حَدَّثَنَا طَاوُسٌ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ فِي التَّهَجُّدِ يَقُولُ بَعْدَ مَا يَقُولُ ‏\n\"‏ اللَّهُ أَكْبَرُ ‏\"‏ ‏.‏ ثُمَّ ذَكَرَ مَعْنَاهُ ‏.‏",
+      "english": {
+        "narrator": "Ibn ‘Abbas said:",
+        "text": "The Messenger of Allah (ﷺ) used to say in his tahajjud prayer(i.e. supererogatory prayer offered in or after the midnight) after he said the takbir; he then narrated the tradition to the same effect."
+      }
+    },
+    {
+      "id": 383,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَسَعِيدُ بْنُ عَبْدِ الْجَبَّارِ، نَحْوَهُ قَالَ قُتَيْبَةُ حَدَّثَنَا رِفَاعَةُ بْنُ يَحْيَى بْنِ عَبْدِ اللَّهِ بْنِ رِفَاعَةَ بْنِ رَافِعٍ، عَنْ عَمِّ، أَبِيهِ مُعَاذِ بْنِ رِفَاعَةَ بْنِ رَافِعٍ عَنْ أَبِيهِ، قَالَ صَلَّيْتُ خَلْفَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَعَطَسَ رِفَاعَةُ لَمْ يَقُلْ قُتَيْبَةُ رِفَاعَةُ فَقُلْتُ الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ مُبَارَكًا عَلَيْهِ كَمَا يُحِبُّ رَبُّنَا وَيَرْضَى فَلَمَّا صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم انْصَرَفَ فَقَالَ ‏\n\"‏ مَنِ الْمُتَكَلِّمُ فِي الصَّلاَةِ ‏\"‏ ‏.‏ ثُمَّ ذَكَرَ نَحْوَ حَدِيثِ مَالِكٍ وَأَتَمَّ مِنْهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Rifa'ah ibn Rafi':",
+        "text": "I offered prayer behind the Messenger of Allah (ﷺ). Rifa'ah sneezed. The narrator Qutaybah did not mention the name Rifa'ah (but he said: I sneezed). So I said: Praise be to Allah, praise much, good and blessed therein, blessed thereupon, as our Lord likes and is pleased. When the Messenger of Allah (ﷺ) finished his prayer, he turned and said: Who was the speaker in prayer? He then narrated the rest of the tradition like that of Malik and completed it."
+      }
+    },
+    {
+      "id": 384,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا شَرِيكٌ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ، عَنْ أَبِيهِ، قَالَ عَطَسَ شَابٌّ مِنَ الأَنْصَارِ خَلْفَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ فِي الصَّلاَةِ فَقَالَ الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ حَتَّى يَرْضَى رَبُّنَا وَبَعْدَ مَا يَرْضَى مِنْ أَمْرِ الدُّنْيَا وَالآخِرَةِ فَلَمَّا انْصَرَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ مَنِ الْقَائِلُ الْكَلِمَةَ ‏\"‏ ‏.‏ قَالَ فَسَكَتَ الشَّابُّ ثُمَّ قَالَ ‏\"‏ مَنِ الْقَائِلُ الْكَلِمَةَ فَإِنَّهُ لَمْ يَقُلْ بَأْسًا ‏\"‏ ‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ أَنَا قُلْتُهَا لَمْ أُرِدْ بِهَا إِلاَّ خَيْرًا ‏.‏ قَالَ ‏\"‏ مَا تَنَاهَتْ دُونَ عَرْشِ الرَّحْمَنِ تَبَارَكَ وَتَعَالَى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Rabi’ah said:",
+        "text": "A young man from the Ansar sneezed behind the Messenger of Allah (ﷺ) while he was praying. He then said: Praise be to Allah, much, good, blessed, till our Lord is pleased (with us) in the affairs relating to this world and to the other world. When the Messenger of Allah (ﷺ) finished his prayer, he said: Who was the speaker of these words (in prayer)? The young man kept silence. He again asked: Who was the speaker of these words? He did not say wrong. He said: Messenger of Allah, I said these (words). I did not intend by them but good. He said: These words did not stay below the Throne of the Compassionate (Allah)."
+      }
+    },
+    {
+      "id": 385,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ مُطَهَّرٍ، حَدَّثَنَا جَعْفَرٌ، عَنْ عَلِيِّ بْنِ عَلِيٍّ الرِّفَاعِيِّ، عَنْ أَبِي الْمُتَوَكِّلِ النَّاجِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا قَامَ مِنَ اللَّيْلِ كَبَّرَ ثُمَّ يَقُولُ ‏\"‏ سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلاَ إِلَهَ غَيْرُكَ ‏\"‏ ‏.‏ ثُمَّ يَقُولُ ‏\"‏ لاَ إِلَهَ إِلاَّ اللَّهُ ‏\"‏ ‏.‏ ثَلاَثًا ثُمَّ يَقُولُ ‏\"‏ اللَّهُ أَكْبَرُ كَبِيرًا ‏\"‏ ‏.‏ ثَلاَثًا ‏\"‏ أَعُوذُ بِاللَّهِ السَّمِيعِ الْعَلِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ مِنْ هَمْزِهِ وَنَفْخِهِ وَنَفْثِهِ ‏\"‏ ‏.‏ ثُمَّ يَقْرَأُ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا الْحَدِيثُ يَقُولُونَ هُوَ عَنْ عَلِيِّ بْنِ عَلِيٍّ عَنِ الْحَسَنِ مُرْسَلاً الْوَهَمُ مِنْ جَعْفَرٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuSa'id al-Khudri:",
+        "text": "When the Messenger of Allah (ﷺ) got up to pray at night (for tahajjud prayer) he uttered the takbir and then said: \"Glory be to Thee, O Allah,\" and \"Praise be to Thee\" and \"Blessed is Thy name,\" and Exalted is Thy greatness.\" and \"There is no god but Thee.\" He then said: \"There is no god but Allah\" three times; he then said: \"Allah is altogether great\" three times: \"I seek refuge in Allah, All-Hearing and All-Knowing from the accursed devil, from his evil suggestion (hamz), from his puffing up (nafkh), and from his spitting (nafth)\" He then recited (the Qur'an).\n\n\n\nAbu Dawud said: It is said that this tradition has been narrated by 'Ali b. 'Ali from al-Hasan omitting the name of the Companion of the Prophet (ﷺ). The misunderstanding occurred on the part of Ja'far."
+      }
+    },
+    {
+      "id": 386,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حُسَيْنُ بْنُ عِيسَى، حَدَّثَنَا طَلْقُ بْنُ غَنَّامٍ، حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ حَرْبٍ الْمُلاَئِيُّ، عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ، عَنْ أَبِي الْجَوْزَاءِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا اسْتَفْتَحَ الصَّلاَةَ قَالَ ‏\n\"‏ سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلاَ إِلَهَ غَيْرُكَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا الْحَدِيثُ لَيْسَ بِالْمَشْهُورِ عَنْ عَبْدِ السَّلاَمِ بْنِ حَرْبٍ لَمْ يَرْوِهِ إِلاَّ طَلْقُ بْنُ غَنَّامٍ وَقَدْ رَوَى قِصَّةَ الصَّلاَةِ عَنْ بُدَيْلٍ جَمَاعَةٌ لَمْ يَذْكُرُوا فِيهِ شَيْئًا مِنْ هَذَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "When the Messenger of Allah (ﷺ) began his prayer, he said: \"Glory be to Thee, O Allah,\" and \"Praise be to Thee\" and \"Blessed is Thy name, and Exalted is Thy greatness, sand there is no god but Allah.\"\n\n\n\nAbu Dawud said: This tradition is not well known from 'Abd al-Salam b. Harb. No one narrated this except Talq b. Ghannam. A group of narrators reported the description of prayer from (the narrator) Budail; they did not mention therein this supplication."
+      }
+    },
+    {
+      "id": 387,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ يُونُسَ، عَنِ الْحَسَنِ، قَالَ قَالَ سَمُرَةُ حَفِظْتُ سَكْتَتَيْنِ فِي الصَّلاَةِ سَكْتَةً إِذَا كَبَّرَ الإِمَامُ حَتَّى يَقْرَأَ وَسَكْتَةً إِذَا فَرَغَ مِنْ فَاتِحَةِ الْكِتَابِ وَسُورَةٍ عِنْدَ الرُّكُوعِ قَالَ فَأَنْكَرَ ذَلِكَ عَلَيْهِ عِمْرَانُ بْنُ حُصَيْنٍ قَالَ فَكَتَبُوا فِي ذَلِكَ إِلَى الْمَدِينَةِ إِلَى أُبَىٍّ فَصَدَّقَ سَمُرَةَ ‏.‏ قَالَ أَبُو دَاوُدَ كَذَا قَالَ حُمَيْدٌ فِي هَذَا الْحَدِيثِ وَسَكْتَةً إِذَا فَرَغَ مِنَ الْقِرَاءَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Samurah ibn Jundub:",
+        "text": "I remember two period of silence in prayer, one when the imam said the takbir; and one when he finished reciting the Fatihah and the surah when he was about to bow. But Imran ibn Husayn took it as something strange. So they wrote about it to Ubayy (ibn Ka'b) in Medina. He verified the statement of Samurah.\n\n\n\nAbu Dawud said: Humaid also narrated in this tradition the words \"and one period silence when he finished the recitation (of the Qur'an)\""
+      }
+    },
+    {
+      "id": 388,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ خَلاَّدٍ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، عَنْ أَشْعَثَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ بْنِ جُنْدُبٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يَسْكُتُ سَكْتَتَيْنِ إِذَا اسْتَفْتَحَ وَإِذَا فَرَغَ مِنَ الْقِرَاءَةِ كُلِّهَا ‏.‏ فَذَكَرَ مَعْنَى حَدِيثِ يُونُسَ ‏.‏",
+      "english": {
+        "narrator": "Samurah b. Jundub said:",
+        "text": "The Prophet(ﷺ) had two periods of silence; when he began his prayer and when he finished the recitation (of the Qur’an). He then narrated the tradition like the version of Yunus."
+      }
+    },
+    {
+      "id": 389,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ، حَدَّثَنَا سَعِيدٌ، حَدَّثَنَا قَتَادَةُ، عَنِ الْحَسَنِ، أَنَّ سَمُرَةَ بْنَ جُنْدُبٍ، وَعِمْرَانَ بْنَ حُصَيْنٍ، تَذَاكَرَا فَحَدَّثَ سَمُرَةُ بْنُ جُنْدُبٍ، أَنَّهُ حَفِظَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم سَكْتَتَيْنِ سَكْتَةً إِذَا كَبَّرَ وَسَكْتَةً إِذَا فَرَغَ مِنْ قِرَاءَةِ ‏{‏ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلاَ الضَّالِّينَ ‏}‏ فَحَفِظَ ذَلِكَ سَمُرَةُ وَأَنْكَرَ عَلَيْهِ عِمْرَانُ بْنُ حُصَيْنٍ فَكَتَبَا فِي ذَلِكَ إِلَى أُبَىِّ بْنِ كَعْبٍ وَكَانَ فِي كِتَابِهِ إِلَيْهِمَا أَوْ فِي رَدِّهِ عَلَيْهِمَا أَنَّ سَمُرَةَ قَدْ حَفِظَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Samurah ibn Jundub; Ubayy ibn Ka'b:",
+        "text": "Samurah ibn Jundub and Imran ibn Husayn had a discussion (about the periods of silence in prayer). Samurah then said that he remembered two periods of silence from the Messenger of Allah (ﷺ); one when he uttered the takbir and the other when he finished reciting: \"Not of those with whom Thou art angry, nor of those who go astray\" (i.7). \n\n\n\n\n\nSamurah remembered that, but Imran ibn Husayn rejected it. \n\n\n\n\n\nThen they wrote about it to Ubayy ibn Ka'b. He wrote a letter to them and gave a reply to them that Samurah remembered correctly."
+      }
+    },
+    {
+      "id": 390,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا سَعِيدٌ، بِهَذَا قَالَ عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، قَالَ سَكْتَتَانِ حَفِظْتُهُمَا عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ فِيهِ قَالَ سَعِيدٌ قُلْنَا لِقَتَادَةَ مَا هَاتَانِ السَّكْتَتَانِ قَالَ إِذَا دَخَلَ فِي صَلاَتِهِ وَإِذَا فَرَغَ مِنَ الْقِرَاءَةِ ثُمَّ قَالَ بَعْدُ وَإِذَا قَالَ ‏{‏ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلاَ الضَّالِّينَ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Samurah ibn Jundub:",
+        "text": "I remember from the Messenger of Allah (ﷺ) two periods of silence. Sa'id said: We asked Qatadah: What are those two periods of silence? He said: (one) when he began his prayer, and (one) when he finished the recitation. Then he added: When he finished reciting (the closing verse of the Fatihah): \"Not of those with whom Thou art angry, nor of who go astray.\""
+      }
+    },
+    {
+      "id": 391,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ عُمَارَةَ، ح وَحَدَّثَنَا أَبُو كَامِلٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، عَنْ عُمَارَةَ، - الْمَعْنَى - عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا كَبَّرَ فِي الصَّلاَةِ سَكَتَ بَيْنَ التَّكْبِيرِ وَالْقِرَاءَةِ فَقُلْتُ لَهُ بِأَبِي أَنْتَ وَأُمِّي أَرَأَيْتَ سُكُوتَكَ بَيْنَ التَّكْبِيرِ وَالْقِرَاءَةِ أَخْبِرْنِي مَا تَقُولُ ‏.‏ قَالَ ‏\n\"‏ اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَاىَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ اللَّهُمَّ أَنْقِنِي مِنْ خَطَايَاىَ كَالثَّوْبِ الأَبْيَضِ مِنَ الدَّنَسِ اللَّهُمَّ اغْسِلْنِي بِالثَّلْجِ وَالْمَاءِ وَالْبَرَدِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah said:",
+        "text": "The Messenger of Allah (ﷺ) kept silence between the takbir and the recitation of Qur’an. So I asked him, for whom I would give my father and mother as ransom: What do you say during you period of silence between the takbir and the recitation? He replied (that he said): O Allah, purify me from sins as a white garment is purified from filth. O Allah, wash away my sings with snow, water and hail."
+      }
+    },
+    {
+      "id": 392,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم وَأَبَا بَكْرٍ وَعُمَرَ وَعُثْمَانَ كَانُوا يَفْتَتِحُونَ الْقِرَاءَةَ بِـ ‏{‏ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "‘Anas said:",
+        "text": "The Prophet(peace be upon hm), Abu Bakr, ‘Umar and ‘Uthman used to begin the recitation with “Praise be to Allah, the Lord of the Universe.”"
+      }
+    },
+    {
+      "id": 393,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ سَعِيدٍ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ، عَنْ أَبِي الْجَوْزَاءِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَفْتَتِحُ الصَّلاَةَ بِالتَّكْبِيرِ وَالْقِرَاءَةَ بِـ ‏{‏ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ‏}‏ وَكَانَ إِذَا رَكَعَ لَمْ يُشْخِصْ رَأْسَهُ وَلَمْ يُصَوِّبْهُ وَلَكِنْ بَيْنَ ذَلِكَ وَكَانَ إِذَا رَفَعَ رَأْسَهُ مِنَ الرُّكُوعِ لَمْ يَسْجُدْ حَتَّى يَسْتَوِيَ قَائِمًا وَكَانَ إِذَا رَفَعَ رَأْسَهُ مِنَ السُّجُودِ لَمْ يَسْجُدْ حَتَّى يَسْتَوِيَ قَاعِدًا وَكَانَ يَقُولُ فِي كُلِّ رَكْعَتَيْنِ ‏\"‏ التَّحِيَّاتُ ‏\"‏ ‏.‏ وَكَانَ إِذَا جَلَسَ يَفْرِشُ رِجْلَهُ الْيُسْرَى وَيَنْصِبُ رِجْلَهُ الْيُمْنَى وَكَانَ يَنْهَى عَنْ عَقِبِ الشَّيْطَانِ وَعَنْ فِرْشَةِ السَّبُعِ وَكَانَ يَخْتِمُ الصَّلاَةَ بِالتَّسْلِيمِ ‏.‏",
+      "english": {
+        "narrator": "‘A’ishah said:",
+        "text": "The Messenger of Allah(ﷺ) began prayer with the takbir (Allah is most great) and with reciting “Praise be to Allah, the Lord of the Universe”. And when he bowed, he neither raised up nor lowered down his head, but kept it between the two (conditions). And when he raised his head after bowing, he did not prostrate himself until he stood up straight; and when he raised his head after prostration, he did not prostrate (the second time) until he sat down properly; and he recited al-tahiyyat after every pair of rak’ahs; and when he sat, he spread out his left foot and raised his right. He forbade to sit like the sitting of the devil, and to spread out to hands (on the ground in prostration) like animals. He used to finish prayer with uttering the salutation."
+      }
+    },
+    {
+      "id": 394,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنِ الْمُخْتَارِ بْنِ فُلْفُلٍ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أُنْزِلَتْ عَلَىَّ آنِفًا سُورَةٌ ‏\"‏ ‏.‏ فَقَرَأَ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ‏{‏ إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ ‏}‏ حَتَّى خَتَمَهَا ‏.‏ قَالَ ‏\"‏ هَلْ تَدْرُونَ مَا الْكَوْثَرُ ‏\"‏ ‏.‏ قَالُوا اللَّهُ وَرَسُولُهُ أَعْلَمُ ‏.‏ قَالَ ‏\"‏ فَإِنَّهُ نَهْرٌ وَعَدَنِيهِ رَبِّي فِي الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik said:",
+        "text": "The Messenger of Allah (ﷺ) said: A surah has just been revealed to me. He then recited:”In the name of Allah, the Compassionate, the Merciful. Lo! We have given thee Abundance” until he finished it. Then he asked: Do you know what Abundance (al-Kawthar) is? They replied: Allah and His Apostle know it better. He said: It is a river of which my Lord, the Exalted, the Majestic has promised me to give in Paradise."
+      }
+    },
+    {
+      "id": 395,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قَطَنُ بْنُ نُسَيْرٍ، حَدَّثَنَا جَعْفَرٌ، حَدَّثَنَا حُمَيْدٌ الأَعْرَجُ الْمَكِّيُّ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، وَذَكَرَ الإِفْكَ، قَالَتْ جَلَسَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَكَشَفَ عَنْ وَجْهِهِ وَقَالَ ‏\"‏ أَعُوذُ بِالسَّمِيعِ الْعَلِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ ‏{‏ إِنَّ الَّذِينَ جَاءُوا بِالإِفْكِ عُصْبَةٌ مِنْكُمْ ‏}‏ ‏\"‏ ‏.‏ الآيَةَ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا حَدِيثٌ مُنْكَرٌ قَدْ رَوَى هَذَا الْحَدِيثَ جَمَاعَةٌ عَنِ الزُّهْرِيِّ لَمْ يَذْكُرُوا هَذَا الْكَلاَمَ عَلَى هَذَا الشَّرْحِ وَأَخَافُ أَنْ يَكُونَ أَمْرُ الاِسْتِعَاذَةِ مِنْ كَلاَمِ حُمَيْدٍ ‏.‏",
+      "english": {
+        "narrator": "‘Urwah reported on the authority of ‘A’ishah mentioning the incident of slander. She said:",
+        "text": "The Messenger of Allah (ﷺ) sat and unveiled his face and said: “I take refuge in Allah, All-Hearing, All-Knowing from the accursed devil. Lo! They who spread the slander are a gang among you.”\n\n\nAbu Dawud said: This is a rejected (munkar) tradition. A group of narrators have reported this tradition from al-Zuhri; but did not mention this detail. I am afraid the phrase concerning “seeking refuge in Allah” is the statement of Humaid."
+      }
+    },
+    {
+      "id": 396,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَوْنٍ، أَخْبَرَنَا هُشَيْمٌ، عَنْ عَوْفٍ، عَنْ يَزِيدَ الْفَارِسِيِّ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، قَالَ قُلْتُ لِعُثْمَانَ بْنِ عَفَّانَ مَا حَمَلَكُمْ أَنْ عَمَدْتُمْ، إِلَى بَرَاءَةَ وَهِيَ مِنَ الْمِئِينَ وَإِلَى الأَنْفَالِ وَهِيَ مِنَ الْمَثَانِي فَجَعَلْتُمُوهُمَا فِي السَّبْعِ الطُّوَلِ وَلَمْ تَكْتُبُوا بَيْنَهُمَا سَطْرَ ‏{‏ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ‏}‏ قَالَ عُثْمَانُ كَانَ النَّبِيُّ صلى الله عليه وسلم مِمَّا يَنْزِلُ عَلَيْهِ الآيَاتُ فَيَدْعُو بَعْضَ مَنْ كَانَ يَكْتُبُ لَهُ وَيَقُولُ لَهُ ‏\n\"‏ ضَعْ هَذِهِ الآيَةَ فِي السُّورَةِ الَّتِي يُذْكَرُ فِيهَا كَذَا وَكَذَا ‏\"‏ ‏.‏ وَتَنْزِلُ عَلَيْهِ الآيَةُ وَالآيَتَانِ فَيَقُولُ مِثْلَ ذَلِكَ وَكَانَتِ الأَنْفَالُ مِنْ أَوَّلِ مَا أُنْزِلَ عَلَيْهِ بِالْمَدِينَةِ وَكَانَتْ بَرَاءَةُ مِنْ آخِرِ مَا نَزَلَ مِنَ الْقُرْآنِ وَكَانَتْ قِصَّتُهَا شَبِيهَةً بِقِصَّتِهَا فَظَنَنْتُ أَنَّهَا مِنْهَا فَمِنْ هُنَاكَ وَضَعْتُهُمَا فِي السَّبْعِ الطُّوَلِ وَلَمْ أَكْتُبْ بَيْنَهُمَا سَطْرَ ‏{‏ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Uthman ibn Affan:",
+        "text": ":\n\n\n\n\n\n\nYazid al-Farisi said: I heard Ibn Abbas say: I asked Uthman ibn Affan: What moved you to put the (Surah) al-Bara'ah which belongs to the mi'in (surahs) (containing one hundred verses) and the (Surah) al-Anfal which belongs to the mathani (Surahs) in the category of as-sab'u at-tiwal (the first long surah or chapters of the Qur'an), and you did not write \"In the name of Allah, the Compassionate, the Merciful\" between them?  \n\n\n\n\n\nUthman replied: When the verses of the Qur'an were revealed to the Prophet (ﷺ), he called someone to write them down for him and said to him: Put this verse in the surah in which such and such has been mentioned; and when one or two verses were revealed, he used to say similarly (regarding them). (Surah) al-Anfal is the first surah that was revealed at Medina, and (Surah) al-Bara'ah was revealed last in the Qur'an, and its contents were similar to those of al-Anfal. I, therefore, thought that it was a part of al-Anfal. Hence I put them in the category of as-sab'u at-tiwal (the seven lengthy surahs), and I did not write \"In the name of Allah, the Compassionate, the Merciful\" between them."
+      }
+    },
+    {
+      "id": 397,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا زِيَادُ بْنُ أَيُّوبَ، حَدَّثَنَا مَرْوَانُ، - يَعْنِي ابْنَ مُعَاوِيَةَ - أَخْبَرَنَا عَوْفٌ الأَعْرَابِيُّ، عَنْ يَزِيدَ الْفَارِسِيِّ، حَدَّثَنَا ابْنُ عَبَّاسٍ، بِمَعْنَاهُ قَالَ فِيهِ فَقُبِضَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَلَمْ يُبَيِّنْ لَنَا أَنَّهَا مِنْهَا ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ الشَّعْبِيُّ وَأَبُو مَالِكٍ وَقَتَادَةُ وَثَابِتُ بْنُ عُمَارَةَ إِنَّ النَّبِيَّ صلى الله عليه وسلم لَمْ يَكْتُبْ ‏{‏ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ‏}‏ حَتَّى نَزَلَتْ سُورَةُ النَّمْلِ هَذَا مَعْنَاهُ ‏.‏",
+      "english": {
+        "narrator": "The above mentioned tradition has been reported by ibn abbas through a different chain of narrators to the same effect. This version adds:",
+        "text": "The apostle of Allah (ﷺ) died, but he did not mention to us that surah al baraah ins a part of al-anfal.\n\n\nAbu Dawood said: Al-sha’bl, Abu Malik, Qatadah, and Thabit b. ‘Umarah said: The prophet( may peace be upon him) did not write”In the name of Allah, the compassionate, the merciful” until Surah al-naml was revealed. This is the meaning of what they said. Further, this is a mursal traditional(omitting the name of the companion)"
+      }
+    },
+    {
+      "id": 398,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَأَحْمَدُ بْنُ مُحَمَّدٍ الْمَرْوَزِيُّ، وَابْنُ السَّرْحِ، قَالُوا حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، - قَالَ قُتَيْبَةُ فِيهِ - عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم لاَ يَعْرِفُ فَصْلَ السُّورَةِ حَتَّى تُنَزَّلَ عَلَيْهِ ‏{‏ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ‏}‏ ‏.‏ وَهَذَا لَفْظُ ابْنِ السَّرْحِ ‏.‏",
+      "english": {
+        "narrator": "Ibn Abbas said:",
+        "text": "The prophet (ﷺ) did not distinguish between the two surahs until the words “In the name of Allah, the Compassionate, the merciful” was revealed to him. These are the words of Ibn al-sarh."
+      }
+    },
+    {
+      "id": 399,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عُمَرُ بْنُ عَبْدِ الْوَاحِدِ، وَبِشْرُ بْنُ بَكْرٍ، عَنِ الأَوْزَاعِيِّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنِّي لأَقُومُ إِلَى الصَّلاَةِ وَأَنَا أُرِيدُ أَنْ أُطَوِّلَ فِيهَا فَأَسْمَعُ بُكَاءَ الصَّبِيِّ فَأَتَجَوَّزُ كَرَاهِيَةَ أَنْ أَشُقَّ عَلَى أُمِّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Qatadah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "I stand up to pray and intend to prolong it; but when I hear the cry of a boy I shorten if for fear that his mother  might be distressed."
+      }
+    },
+    {
+      "id": 400,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، سَمِعَهُ مِنْ، جَابِرٍ قَالَ كَانَ مُعَاذٌ يُصَلِّي مَعَ النَّبِيِّ صلى الله عليه وسلم ثُمَّ يَرْجِعُ فَيَؤُمُّنَا - قَالَ مَرَّةً ثُمَّ يَرْجِعُ فَيُصَلِّي بِقَوْمِهِ - فَأَخَّرَ النَّبِيُّ صلى الله عليه وسلم لَيْلَةً الصَّلاَةَ - وَقَالَ مَرَّةً الْعِشَاءَ - فَصَلَّى مُعَاذٌ مَعَ النَّبِيِّ صلى الله عليه وسلم ثُمَّ جَاءَ يَؤُمُّ قَوْمَهُ فَقَرَأَ الْبَقَرَةَ فَاعْتَزَلَ رَجُلٌ مِنَ الْقَوْمِ فَصَلَّى فَقِيلَ نَافَقْتَ يَا فُلاَنُ ‏.‏ فَقَالَ مَا نَافَقْتُ ‏.‏ فَأَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ إِنَّ مُعَاذًا يُصَلِّي مَعَكَ ثُمَّ يَرْجِعُ فَيَؤُمُّنَا يَا رَسُولَ اللَّهِ وَإِنَّمَا نَحْنُ أَصْحَابُ نَوَاضِحَ وَنَعْمَلُ بِأَيْدِينَا وَإِنَّهُ جَاءَ يَؤُمُّنَا فَقَرَأَ بِسُورَةِ الْبَقَرَةِ ‏.‏ فَقَالَ ‏\"‏ يَا مُعَاذُ أَفَتَّانٌ أَنْتَ أَفَتَّانٌ أَنْتَ اقْرَأْ بِكَذَا اقْرَأْ بِكَذَا ‏\"‏ ‏.‏ قَالَ أَبُو الزُّبَيْرِ بِـ ‏{‏ سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى ‏}‏ ‏{‏ وَاللَّيْلِ إِذَا يَغْشَى ‏}‏ فَذَكَرْنَا لِعَمْرٍو فَقَالَ أُرَاهُ قَدْ ذَكَرَهُ ‏.‏",
+      "english": {
+        "narrator": "Jabir said:",
+        "text": "Mu’adh b. Jabal used to pray along with the Prophet (ﷺ); then he returned and led us in prayer. Sometimes he (the narrator) said: then he returned and led his people in prayer. One night the Prophet (ﷺ) delayed the prayer. Sometimes he (the narrator) mentioned the word “the night prayer”. Then Mu’adh prayed along with the Prophet (ﷺ), then returned to his people and led them in prayer, and recited Surat al-Baqarah. A man turned aside and prayed alone. The people said to him: Have you become a hypocrite, so and so? He replied: I did not become a hypocrite. He then came to the Prophet (ﷺ) and said (to him): Messenger of Allah, Mu’adh prays along with you and then returns and leads us in prayers. We look after camels used for watering and work for by day. He came to us leading us in prayer, and he recited Surah al-Baqarah (in prayer). He (the Prophet) said: Mu’adh, are you a trouble maker? Recite such and such ; recite such and such (surahs) The narrator Abu al-Zubair said (recite) “Glorify the name of the most high lord” (surah lxxxvii) and “By the night when it covers over” (surah xcii). We mentioned this to ‘Amr. He said I think he mentioned it (the names of some surahs)."
+      }
+    },
+    {
+      "id": 401,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا طَالِبُ بْنُ حَبِيبٍ، سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ جَابِرٍ، يُحَدِّثُ عَنْ حَزْمِ بْنِ أُبَىِّ بْنِ كَعْبٍ، أَنَّهُ أَتَى مُعَاذَ بْنَ جَبَلٍ وَهُوَ يُصَلِّي بِقَوْمٍ صَلاَةَ الْمَغْرِبِ فِي هَذَا الْخَبَرِ قَالَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ يَا مُعَاذُ لاَ تَكُنْ فَتَّانًا فَإِنَّهُ يُصَلِّي وَرَاءَكَ الْكَبِيرُ وَالضَّعِيفُ وَذُو الْحَاجَةِ وَالْمُسَافِرُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Hazm b. Ubayy b. Ka’b said that he came to mu’adh b. jabal who was leading the people in the sunset  prayer.  According to this version, the Messenger of Allah (ﷺ) said:",
+        "text": "O mu’adh, do not become a trouble , because the aged, the weak, the needy and the traveler pray behind you."
+      }
+    },
+    {
+      "id": 402,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، عَنْ سُلَيْمَانَ، عَنْ أَبِي صَالِحٍ، عَنْ بَعْضِ، أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم لِرَجُلٍ ‏\"‏ كَيْفَ تَقُولُ فِي الصَّلاَةِ ‏\"‏ ‏.‏ قَالَ أَتَشَهَّدُ وَأَقُولُ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ أَمَا إِنِّي لاَ أُحْسِنُ دَنْدَنَتَكَ وَلاَ دَنْدَنَةَ مُعَاذٍ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ حَوْلَهَا نُدَنْدِنُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Some Companions of the Prophet:",
+        "text": "AbuSalih reported on the authority of some Companions of the Prophet (ﷺ): The Prophet (ﷺ) said to a person: what do you say in prayer? \n\n\n\n\n\nHe replied: I first recite tashahhud (supplication recited in sitting position), and then I say: O Allah, I ask Thee for Paradise, and I seek refuge in Thee from Hell-Fire, but I do not understand your sound and the sound of Mu'adh (what you say or he says in prayer). The Prophet (ﷺ) said: We too go around it (paradise and Hell-fire)."
+      }
+    },
+    {
+      "id": 403,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا مُحَمَّدُ بْنُ عَجْلاَنَ، عَنْ عُبَيْدِ اللَّهِ بْنِ مِقْسَمٍ، عَنْ جَابِرٍ، ذَكَرَ قِصَّةَ مُعَاذٍ قَالَ وَقَالَ - يَعْنِي النَّبِيَّ صلى الله عليه وسلم لِلْفَتَى - ‏\"‏ كَيْفَ تَصْنَعُ يَا ابْنَ أَخِي إِذَا صَلَّيْتَ ‏\"‏ ‏.‏ قَالَ أَقْرَأُ بِفَاتِحَةِ الْكِتَابِ وَأَسْأَلُ اللَّهَ الْجَنَّةَ وَأَعُوذُ بِهِ مِنَ النَّارِ وَإِنِّي لاَ أَدْرِي مَا دَنْدَنَتُكَ وَلاَ دَنْدَنَةُ مُعَاذٍ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنِّي وَمُعَاذٌ حَوْلَ هَاتَيْنِ ‏\"‏ ‏.‏ أَوْ نَحْوَ هَذَا ‏.‏",
+      "english": {
+        "narrator": "Jabir narrated the story of mu’adh and said:",
+        "text": "The prophet (ﷺ) said to a youth: My nephew, what do you do in prayer? He replied: I recited fatihat al-katab and I ask Allah for paradise and seek his refuge from hell-fire I do not understand well your sound and the sound of mu’adh. The prophet (ﷺ) said: I and Mu’adh go around both (paradise and Hell-fire), or he said something similar."
+      }
+    },
+    {
+      "id": 404,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا صَلَّى أَحَدُكُمْ لِلنَّاسِ فَلْيُخَفِّفْ فَإِنَّ فِيهِمُ الضَّعِيفَ وَالسَّقِيمَ وَالْكَبِيرَ وَإِذَا صَلَّى لِنَفْسِهِ فَلْيُطَوِّلْ مَا شَاءَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the prophet (ﷺ) as saying:",
+        "text": "When one of you leads the people in prayer, he should be brief, for among them are the weak, the sick, and the aged. But when one of you prays by himself, he may pray as long as he likes."
+      }
+    },
+    {
+      "id": 405,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنِ ابْنِ الْمُسَيَّبِ، وَأَبِي، سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا صَلَّى أَحَدُكُمْ لِلنَّاسِ فَلْيُخَفِّفْ فَإِنَّ فِيهِمُ السَّقِيمَ وَالشَّيْخَ الْكَبِيرَ وَذَا الْحَاجَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the prophet (ﷺ) as saying:",
+        "text": "when one of you leads the people in prayer, he should be brief, for among them are the sick, the aged and the needy."
+      }
+    },
+    {
+      "id": 406,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ بَكْرٍ، - يَعْنِي ابْنَ مُضَرَ - عَنِ ابْنِ عَجْلاَنَ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ عُمَرَ بْنِ الْحَكَمِ، عَنْ عَبْدِ اللَّهِ بْنِ عَنَمَةَ الْمُزَنِيِّ، عَنْ عَمَّارِ بْنِ يَاسِرٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِنَّ الرَّجُلَ لَيَنْصَرِفُ وَمَا كُتِبَ لَهُ إِلاَّ عُشْرُ صَلاَتِهِ تُسْعُهَا ثُمُنُهَا سُبُعُهَا سُدُسُهَا خُمُسُهَا رُبُعُهَا ثُلُثُهَا نِصْفُهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "‘Ammar b. Yasir said:",
+        "text": "I heard the apostle of Allah (ﷺ) say: A man returns after saying his prayer while a tenth part of his prayer, or a ninth part, or an eight part, or a seventh part, or a sixth part, or a fifth part, or a third part, or half of it, is recorded for him."
+      }
+    },
+    {
+      "id": 407,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ قَيْسِ بْنِ سَعْدٍ، وَعُمَارَةَ بْنِ مَيْمُونٍ، وَحَبِيبٍ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ فِي كُلِّ صَلاَةٍ يُقْرَأُ فَمَا أَسْمَعَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم أَسْمَعْنَاكُمْ وَمَا أَخْفَى عَلَيْنَا أَخْفَيْنَا عَلَيْكُمْ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah said:",
+        "text": "In every prayer there is a recitation. We make you listen what the Messenger of Allah(ﷺ) made us listen, and we keep hidden from you what he kept hidden from us."
+      }
+    },
+    {
+      "id": 408,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامِ بْنِ أَبِي عَبْدِ اللَّهِ، ح وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ الْحَجَّاجِ، - وَهَذَا لَفْظُهُ - عَنْ يَحْيَى، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، - قَالَ ابْنُ الْمُثَنَّى وَأَبِي سَلَمَةَ ثُمَّ اتَّفَقَا - عَنْ أَبِي قَتَادَةَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي بِنَا فَيَقْرَأُ فِي الظُّهْرِ وَالْعَصْرِ فِي الرَّكْعَتَيْنِ الأُولَيَيْنِ بِفَاتِحَةِ الْكِتَابِ وَسُورَتَيْنِ وَيُسْمِعُنَا الآيَةَ أَحْيَانًا وَكَانَ يُطَوِّلُ الرَّكْعَةَ الأُولَى مِنَ الظُّهْرِ وَيُقَصِّرُ الثَّانِيَةَ وَكَذَلِكَ فِي الصُّبْحِ ‏.‏ قَالَ أَبُو دَاوُدَ لَمْ يَذْكُرْ مُسَدَّدٌ فَاتِحَةَ الْكِتَابِ وَسُورَةً ‏.‏",
+      "english": {
+        "narrator": "Abu Qatadah said:",
+        "text": "The apostle of Allah (ﷺ) used to lead us in prayer and recite in the first two rak’ahs of the noon prayers Fatihat al-kitab and two surahs, and he would sometimes recite loud enough for us to hear the verse. He would prolong the first rak’ah of the noon prayer and shorten the second; and he did so in the morning prayer.\n\n\nAbu Dawud said: Musaddad did not mention the words fatihat al-kitab and surah."
+      }
+    },
+    {
+      "id": 409,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا هَمَّامٌ، وَأَبَانُ بْنُ يَزِيدَ الْعَطَّارُ، عَنْ يَحْيَى، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، بِبَعْضِ هَذَا وَزَادَ فِي الأُخْرَيَيْنِ بِفَاتِحَةِ الْكِتَابِ ‏.‏ وَزَادَ عَنْ هَمَّامٍ قَالَ وَكَانَ يُطَوِّلُ فِي الرَّكْعَةِ الأُولَى مَا لاَ يُطَوِّلُ فِي الثَّانِيَةِ وَهَكَذَا فِي صَلاَةِ الْعَصْرِ وَهَكَذَا فِي صَلاَةِ الْغَدَاةِ ‏.‏",
+      "english": {
+        "narrator": "The above mentioned tradition as been reported by Abu Qatadah through a different chain of narrators. This version adds:",
+        "text": "He would recite Fatihat al-kitab in the last two surahs. Hammam added: He would prolong the first rak’ah but would not prolong the second so much; and he did so similarly in the afternoon prayer, and so in the morning prayer."
+      }
+    },
+    {
+      "id": 410,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ يَحْيَى، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، قَالَ فَظَنَنَّا أَنَّهُ يُرِيدُ بِذَلِكَ أَنْ يُدْرِكَ النَّاسُ الرَّكْعَةَ الأُولَى ‏.‏",
+      "english": {
+        "narrator": "Abu Qatadah said:",
+        "text": "We thought that by this (prolonging the first rak’ah). He (the prophet) meant that the people might join the first rak’ah."
+      }
+    }
+  ]
+}

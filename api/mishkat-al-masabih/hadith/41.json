@@ -1,0 +1,16 @@
+{
+  "id": 41,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَا أُبَالِي مَا أَتَيْتُ إِنْ أَنَا شَرِبْتُ تِرْيَاقًا أَوْ تَعَلَّقْتُ تَمِيمَةً أَوْ قُلْتُ الشِّعْرَ مِنْ قِبَلِ نَفْسِي» . رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "‘Abdallah b. ‘Umar told that he heard God’s messenger say:",
+    "text": "“If I drink an antidote, or tie on an amulet, or compose poetry, I am the type who does not care what he does.”*\n\nAbu Dawud transmitted it.\n\n* Meaning that one who does any such thing is an abandoned character."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

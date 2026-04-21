@@ -1,0 +1,16 @@
+{
+  "id": 289,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏ دينار أنفقته في سبيل الله، ودينار أنفقته في رقبة، ودينار تصدقت به على مسكين، ودينار أنفقته على أهلك، أعظمها أجرًا الذي أنفقته على أهلك‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"A dinar you spend in Allah's way, or to free a slave, or as a charity you give to a needy person, or to support your family, the one yielding the greatest reward is that which you spend on your family\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

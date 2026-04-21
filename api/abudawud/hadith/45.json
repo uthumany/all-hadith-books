@@ -1,0 +1,16 @@
+{
+  "id": 45,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عِيسَى النَّيْسَابُورِيُّ، أَخْبَرَنَا ابْنُ الْمُبَارَكِ، أَخْبَرَنَا جَرِيرُ بْنُ حَازِمٍ، عَنْ إِسْحَاقَ بْنِ سُوَيْدٍ، عَنِ ابْنِ حُجَيْرٍ الْعَدَوِيِّ، قَالَ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي هَذِهِ الْقِصَّةِ قَالَ ‏\n\"‏ وَتُغِيثُوا الْمَلْهُوفَ وَتَهْدُوا الضَّالَّ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Umar ibn al-Khattab:",
+    "text": "The Prophet (ﷺ) said: the same occasion: Help the oppressed (sorrowful) and guide those who have lost their way."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

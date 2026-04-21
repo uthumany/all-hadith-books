@@ -1,0 +1,16 @@
+{
+  "id": 520,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ سَمِعْتُ أَبَا الأَحْوَصِ، يُحَدِّثُنَا فِي مَجْلِسِ سَعِيدِ بْنِ الْمُسَيَّبِ قَالَ قَالَ أَبُو ذَرٍّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَزَالُ اللَّهُ عَزَّ وَجَلَّ مُقْبِلاً عَلَى الْعَبْدِ وَهُوَ فِي صَلاَتِهِ مَا لَمْ يَلْتَفِتْ فَإِذَا الْتَفَتَ انْصَرَفَ عَنْهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuDharr:",
+    "text": "The Prophet (ﷺ) said: Allah, the Most High, continues to turn favourably towards a servant while he is engaged in prayer as long as he does not look to the side (by turning the neck), but if he does so, He turns away from him."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18,
+  "chapterId": 56,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي مَالِكٌ، أَنَّهُ بَلَغَهُ أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ، كَانَ يَقُولُ لاَ يَزَالُ الْعَبْدُ يَكْذِبُ وَتُنْكَتُ فِي قَلْبِهِ نُكْتَةٌ سَوْدَاءُ حَتَّى يَسْوَدَّ قَلْبُهُ كُلُّهُ فَيُكْتَبَ عِنْدَ اللَّهِ مِنَ الْكَاذِبِينَ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Malik related to me that he heard that Abdullah ibn Masud used to\nsay, \"The slave continues to lie and a black spot grows in his heart\nuntil all his heart becomes black. Then he is written, in Allah's\nsight, among the liars.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

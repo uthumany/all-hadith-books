@@ -1,0 +1,16 @@
+{
+  "id": 432,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ ابْنِ أَبِي حُسَيْنٍ، سَمِعَهُ مِنْ، شَهْرِ بْنِ حَوْشَبٍ يَقُولُ أَخْبَرَتْهُ أَسْمَاءُ بِنْتُ يَزِيدَ، مَرَّ عَلَيْنَا النَّبِيُّ صلى الله عليه وسلم فِي نِسْوَةٍ فَسَلَّمَ عَلَيْنَا ‏.‏",
+  "english": {
+    "narrator": "Asma', daughter of Yazid, said :",
+    "text": "the Prophet (ﷺ), passed us by when we were with some women and gave us a salutation."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

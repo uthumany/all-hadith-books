@@ -1,0 +1,16 @@
+{
+  "id": 252,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عن حارثة بن وهب رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ “ألا أخبركم بأهل الجنة‏؟‏ كل ضعيف متضعف ، لو أقسم على الله لأبره‏.‏ ألا أخبركم بأهل النار‏؟‏ كل عتل جواظ مستكبر‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ (21)",
+  "english": {
+    "narrator": "Harithah bin Wahb (May Allah be pleased with him) reported:",
+    "text": "I heard Messenger of Allah (ﷺ) saying, \"Shall I not inform you about the people of Jannah? It is every person who is, modest and humble (before Allah), a person who is accounted weak and is looked down upon but if he adjures Allah, Allah will certainly give him what he desires. Now shall I not inform you about the inmates of Hell? It is every violent, impertinent and proud man\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

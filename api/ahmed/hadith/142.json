@@ -1,0 +1,16 @@
+{
+  "id": 142,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَعْقُوبُ، وَسَعْدٌ، قَالَا حَدَّثَنَا أَبِي، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ شَدَّادٍ، قَالَ سَعْدٌ ابْنِ الْهَادِ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ مَا سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَجْمَعُ أَبَاهُ وَأُمَّهُ لِأَحَدٍ غَيْرَ سَعْدِ بْنِ أَبِي وَقَّاصٍ فَإِنِّي سَمِعْتُهُ يَقُولُ يَوْمَ أُحُدٍ ارْمِ يَا سَعْدُ فِدَاكَ أَبِي وَأُمِّي‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Abdullah bin Shaddad:",
+    "text": "Sa`d bin al-Hadi said: I heard `Ali (رضي الله عنه) say: I never heard the Prophet (ﷺ)  mention his father and mother together (in the phrase `may my father and mother be sacrificed for you`) for anyone except Sa’d bin Abi Waqqas. I heard him say on the day of Uhud: `Shoot, O Sa`d, may my father and mother be sacrificed for you!`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

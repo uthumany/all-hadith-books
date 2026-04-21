@@ -1,0 +1,16 @@
+{
+  "id": 136,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ صِلَةَ بْنِ زُفَرَ، عَنْ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ لأَبِي عُبَيْدَةَ بْنِ الْجَرَّاحِ ‏\n\"‏ هَذَا أَمِينُ هَذِهِ الأُمَّةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from 'Abdullah that:",
+    "text": "The Messenger of Allah said to Abu 'Ubaidah bin Jarrah: \"This is the trustworthy man of this Ummah.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

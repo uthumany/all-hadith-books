@@ -1,0 +1,16 @@
+{
+  "id": 201,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "وَعَنْ زِيَادِ اَلسَّهْمِيِّ ‏- رضى الله عنه ‏- قَالَ: { نَهَى رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-أَنْ تُسْتَرْضَعَ اَلْحَمْقَى.‏ }  أَخْرَجَهُ أَبُو دَاوُدَ وَهُوَ مُرْسَلٌ, وَلَيْسَتْ لِزِيَادٍ صُحْبَةٌ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أبو داود في \"المراسيل\" (207)‏ وفي سنده مجهول فضلا عن كونه مرسلا.‏",
+  "english": {
+    "narrator": "Narrated Ziyad as-Sahmi:",
+    "text": "Allah's Messenger (ﷺ) forbade that a stupid woman may be asked to suckle an infant.\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

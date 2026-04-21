@@ -1,0 +1,16 @@
+{
+  "id": 525,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَنَسٍ قَالَ: صَلَّيْتُ أَنَا وَيَتِيمٌ فِي بَيْتِنَا خَلْفَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأم سليم خلفنا. رَوَاهُ مُسلم",
+  "english": {
+    "narrator": "Anas said:",
+    "text": "An orphan and I prayed in our house behind the Prophet, and Umm Sulaim* was behind us. \n\n*She was the mother of Anas.\n\nMuslim transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

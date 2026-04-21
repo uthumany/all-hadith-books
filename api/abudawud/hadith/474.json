@@ -1,0 +1,16 @@
+{
+  "id": 474,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، رِوَايَةً وَقَالَ مَرَّةً يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم ‏\n\"‏ لاَ تَتْرُكُوا النَّارَ فِي بُيُوتِكُمْ حِينَ تَنَامُونَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Salim quoting his father(Ibn ‘Umar) said( sometimes he traced back to the Prophet(ﷺ):",
+    "text": "Do not leave a fire burning in your houses while you are asleep."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

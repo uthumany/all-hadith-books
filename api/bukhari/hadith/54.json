@@ -1,0 +1,16 @@
+{
+  "id": 54,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا وُهَيْبٌ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ أَبِي الْعَالِيَةِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقُولُ عِنْدَ الْكَرْبِ ‏\n\"‏ لاَ إِلَهَ إِلاَّ اللَّهُ الْعَلِيمُ الْحَلِيمُ لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ السَّمَوَاتِ وَرَبُّ الأَرْضِ رَبُّ الْعَرْشِ الْكَرِيمِ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Ibn `Abbas:",
+    "text": "The Prophet (ﷺ) used to say at the time of difficulty, 'La ilaha il-lallah Al-`Alimul-Halim. La-ilaha illallah \nRabul- Arsh-al-Azim, La ilaha-il-lallah Rabus-Samawati Rab-ul-Ard; wa Rab-ul-Arsh Al- \nKarim.' (See Hadith No. 356 and 357, Vol. 8)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

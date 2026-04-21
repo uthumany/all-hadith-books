@@ -1,0 +1,16 @@
+{
+  "id": 250,
+  "chapterId": 19,
+  "bookId": 14,
+  "arabic": "وَعَنْ عُقْبَةَ بْنِ عَامِرٍ قَالَ: قُلْتُ: يَا رَسُولَ اللَّهِ إِنَّا نَمَرُّ بِقَوْمٍ فَلَا هُمْ يُضَيِّفُونَا وَلَا هُمْ يُؤَدُّونَ مَا لنا عَلَيْهِم منَ الحقِّ وَلَا نَحْنُ نَأْخُذُ مِنْهُمْ. فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنْ أَبَوْا إِلَّا أنْ تأخُذوا كُرهاً فَخُذُوا» . رَوَاهُ التِّرْمِذِيّ",
+  "english": {
+    "narrator": "",
+    "text": "‘Uqba b. 'Amir told that he said, “Messenger of God, we come to people who do not give us hospitality, or pay what is due to us from them, and we take nothing from them.’’ He replied, “If they make it necessary for you to take it by force, do so.” \n\nTirmidhi transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

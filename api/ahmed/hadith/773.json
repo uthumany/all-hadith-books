@@ -1,0 +1,16 @@
+{
+  "id": 773,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ لَمَّا نَحَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بُدْنَهُ نَحَرَ بِيَدِهِ ثَلَاثِينَ وَأَمَرَنِي فَنَحَرْتُ سَائِرَهَا وَقَالَ اقْسِمْ لُحُومَهَا بَيْنَ النَّاسِ وَجُلُودَهَا وَجِلَالَهَا وَلَا تُعْطِيَنَّ جَازِرًا مِنْهَا شَيْئًا‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "When the Messenger of Allah (ﷺ) slaughtered his sacrificial animals, he slaughtered thirty with his own hand and told me to slaughter the rest. Then he said: `Share out their meat, skins and blankets among the people, but do not give the butcher any of it.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

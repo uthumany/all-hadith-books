@@ -1,0 +1,16 @@
+{
+  "id": 391,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ آدَمَ، عَنِ ابْنِ الْمُبَارَكِ، عَنْ سَلَمَةَ بْنِ نُبَيْطٍ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَخْطُبُ يَوْمَ عَرَفَةَ عَلَى جَمَلٍ أَحْمَرَ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Salamah bin Nubait that his father said:",
+    "text": "\"I saw the Messenger of Allah delivering a Khutbah on the day of Arafat atop a red camel.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

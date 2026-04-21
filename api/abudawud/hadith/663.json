@@ -1,0 +1,16 @@
+{
+  "id": 663,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، قَالَ حَدَّثَنِي عُبَيْدَةُ بْنُ سُفْيَانَ الْحَضْرَمِيُّ، عَنْ أَبِي الْجَعْدِ الضَّمْرِيِّ، - وَكَانَتْ لَهُ صُحْبَةٌ - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ تَرَكَ ثَلاَثَ جُمَعٍ تَهَاوُنًا بِهَا طَبَعَ اللَّهُ عَلَى قَلْبِهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Al-Ja'd ad-Damri:",
+    "text": "The Prophet (ﷺ) said: He who leaves the Friday prayer (continuously) for three Friday on account of slackness, Allah will print a stamp on his heart."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

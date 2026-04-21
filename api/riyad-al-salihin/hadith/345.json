@@ -1,0 +1,16 @@
+{
+  "id": 345,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس بن مالك رضي الله عنه قال‏:‏ خرجت مع جرير بن عبد الله البجلي رضي الله عنه في سفر، فكان يخدمني فقلت له‏:‏ لا تفعل، فقال‏:‏ إني قد رأيت الأنصار تصنع برسول الله صلى الله عليه وسلم شيئًا آليت على نفسي أن لا أصحب أحدًا منهم إلا خدمته‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Anas bin Malik (May Allah be pleased with him) reported:",
+    "text": "I set out along with Jarir bin 'Abdullah Al-Bajali (May Allah be pleased with him) on a journey and he served me. I said to him: \"Don't do that.\" Thereupon, he said, \"I have seen the Ansar doing this with Messenger of Allah (ﷺ), and I swore by Allah, whenever I accompany anyone of the Ansar, I would serve him\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

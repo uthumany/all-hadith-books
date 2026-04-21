@@ -1,0 +1,16 @@
+{
+  "id": 288,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَلِابْنِ حِبَّانَ: { مَنْ أَدْرَكَ اَلصُّبْحَ وَلَمْ يُوتِرْ فَلَا وِتْرَ لَهُ }   1‏ .‏‏1 ‏- أي: من حديث أبي سعيد، وهو صحيح أيضا.‏ رواه ابن حبان (2408)‏.‏",
+  "english": {
+    "narrator": "Ibn Hibban has:",
+    "text": "'Whosoever reaches the dawn, and he did not offer Witr, then there is no Witr for him.'"
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

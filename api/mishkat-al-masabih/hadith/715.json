@@ -1,0 +1,16 @@
+{
+  "id": 715,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "بن أبي بكر قَالَ: سَمِعت أبي يَقُولُ: كُنَّا نَنْصَرِفُ فِي رَمَضَانَ مِنَ الْقِيَامِ فَنَسْتَعْجِلُ الْخَدَمَ بِالطَّعَامِ مَخَافَةَ فَوْتِ السَّحُورِ. وَفِي أُخْرَى مَخَافَة الْفجْر. رَوَاهُ مَالك",
+  "english": {
+    "narrator": "‘Abdallah b. Abu Bakr said:",
+    "text": "I'heard Ubayy say, “We used to finish night prayers in Ramadan and ask the servants to hurry up with the food, for fear we would miss the meal before dawn.” In another version he said, “for fear the dawn would come.” \n\nMalik transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

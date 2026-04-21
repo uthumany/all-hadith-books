@@ -1,0 +1,16 @@
+{
+  "id": 30,
+  "chapterId": 7,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا كَثِيرُ بْنُ هِشَامٍ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ عَبْدِ اللَّهِ بْنِ سَلِمَةَ، أَوْ مَسْلَمَةَ قَالَ كَثِيرٌ وَحِفْظِي سَلِمَةَ عَنْ عَلِيٍّ أَوْ عَنِ الزُّبَيْرِ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَخْطُبُنَا فَيُذَكِّرُنَا بِأَيَّامِ اللَّهِ حَتَّى نَعْرِفَ ذَلِكَ فِي وَجْهِهِ وَكَأَنَّهُ نَذِيرُ قَوْمٍ يُصَبِّحُهُمْ الْأَمْرُ غُدْوَةً وَكَانَ إِذَا كَانَ حَدِيثَ عَهْدٍ بِجِبْرِيلَ لَمْ يَتَبَسَّمْ ضَاحِكًا حَتَّى يَرْتَفِعَ عَنْهُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali or az-Zubair said:",
+    "text": "The Messenger of Allah (ﷺ) used to address us and remind us of the annals of Allah, until we could see that on his face (because of alarm). It was as if he was warning people against an enemy that would attack them in the morning. If he had just recently met with Jibreel, he would not smile until Jibreel had departed from him."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

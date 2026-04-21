@@ -1,0 +1,16 @@
+{
+  "id": 601,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِيهِ عَبْدُ اللَّهِ بْنُ هَاشِمٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنِ ابْنِ دِينَارٍ، بِهَذَا الإِسْنَادِ ‏.‏ وَلَمْ يَذْكُرْ كُلَّ سَبْتٍ ‏.‏",
+  "english": {
+    "narrator": "This hadlth has been narrated on the authority of Ibn Dinar, but he made no mention of:",
+    "text": "\" Every Saturday.\""
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

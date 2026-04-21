@@ -1,0 +1,16 @@
+{
+  "id": 582,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن بريدة رضي الله عنه قال‏:‏ كان النبي صلى الله عليه وسلم يعلمهم إذا خرجوا إلى المقابر أن يقول قائلهم‏:‏ “السلام عليكم أهل الديار من المؤمنين والمسلمين وإنا إن شاء الله بكم للاحقون، أسأل الله لنا ولكم العافية” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Buraidah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) used to teach them (i.e., the Companions) whenever they came out to visit the graveyard to say: \"As-salamu 'alaikum ahlad-diyyari minal- Mu'minina wal-Muslimina, wa inna in sha' Allahu bikum lahiqun. As 'alul-laha lana wa-lakumul- 'afiyyah (May you be safe, O inmates of the abodes of the believers and the Muslims, and if Allah pleases, we shall follow you, we pray to Allah for well-being for ourselves and for you).\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

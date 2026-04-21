@@ -1,0 +1,16 @@
+{
+  "id": 115,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَلَهُ مِنْ حَدِيثِ أَبِي هُرَيْرَةَ رَفَعَهُ: { لَيْسَ شَيْءٌ أَكْرَمَ عَلَى اَللَّهِ مِنَ الدُّعَاءِ }  وَصَحَّحَهُ اِبْنُ حِبَّانَ, وَالْحَاكِمُ .‏  1‏ .‏‏1 ‏- حسن.‏ رواه الترمذي (3370)‏، وابن حبان (870)‏ والحاكم (1 / 490)‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Nothing is more honorable before Allah than supplication.” Related by At-Tirmidhi with a full chain of narrators. Ibn Hibban and Al-Hakim graded it as Sahih;."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

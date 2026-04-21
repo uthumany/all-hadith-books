@@ -1,0 +1,16 @@
+{
+  "id": 121,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْمُسْلِمُ أَخُو الْمُسْلِمِ لاَ يَظْلِمُهُ وَلاَ يُسْلِمُهُ مَنْ كَانَ فِي حَاجَةِ أَخِيهِ فَإِنَّ اللَّهَ فِي حَاجَتِهِ وَمَنْ فَرَّجَ عَنْ مُسْلِمٍ كُرْبَةً فَرَّجَ اللَّهُ عَنْهُ بِهَا كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "‘Abd Allah b. Umar reported the prophet (May peace be upon him) as saying :",
+    "text": "A Muslim is a Muslim’s brother: he does not wrong him or abandon him. If anyone cares for his brother’s need, Allah will care for his need ; if anyone removes a Muslim’s anxiety, Allah will remove from him, on account of it, one of the anxieties of the Day of resurrection ; and if anyone conceals a Muslim’s fault, Allah will conceal his fault on the Day of resurrection."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 342,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَبْدَانُ، عَنْ أَبِي حَمْزَةَ، عَنِ الأَعْمَشِ، عَنْ مُسْلِمٍ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ مَضَى خَمْسٌ الدُّخَانُ وَالرُّومُ وَالْقَمَرُ وَالْبَطْشَةُ وَاللِّزَامُ‏.‏",
+  "english": {
+    "narrator": "Narrated `Abdullah:",
+    "text": "Five things have passed, i.e. the smoke, the defeat of the Romans, the splitting of the moon, Al-Batsha \n(the defeat of the infidels in the battle of Badr) and Al-Lizam (the punishment)'."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

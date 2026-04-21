@@ -1,0 +1,16 @@
+{
+  "id": 560,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا إِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ، عَنِ الْحَارِثِ بْنِ شُبَيْلٍ، عَنْ أَبِي عَمْرٍو الشَّيْبَانِيِّ، عَنْ زَيْدِ بْنِ أَرْقَمَ، قَالَ كَانَ أَحَدُنَا يُكَلِّمُ الرَّجُلَ إِلَى جَنْبِهِ فِي الصَّلاَةِ فَنَزَلَتْ ‏{‏ وَقُومُوا لِلَّهِ قَانِتِينَ ‏}‏ فَأُمِرْنَا بِالسُّكُوتِ وَنُهِينَا عَنِ الْكَلاَمِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Zaid b. Arqam said ; One of us used to speak to the man standing by his side during prayer. Then the Quranic verse “ And stand up with devotion to Allah”"
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

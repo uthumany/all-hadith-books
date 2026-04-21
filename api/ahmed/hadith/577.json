@@ -1,0 +1,16 @@
+{
+  "id": 577,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي قَطَنُ بْنُ نُسَيْرٍ أَبُو عَبَّادٍ الذَّارِعُ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، حَدَّثَنَا عُتَيْبَةُ الضَّرِيرُ، حَدَّثَنَا بُرَيْدُ بْنُ أَصْرَمَ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ مَاتَ رَجُلٌ مِنْ أَهْلِ الصُّفَّةِ وَتَرَكَ دِينَارًا وَدِرْهَمًا فَقِيلَ يَا رَسُولَ اللَّهِ تَرَكَ دِينَارًا وَدِرْهَمًا فَقَالَ كَيَّتَانِ صَلُّوا عَلَى صَاحِبِكُمْ‏.‏",
+  "english": {
+    "narrator": "Buraid bin Asram said. I heard ‘Ali (رضي الله عنه) say:",
+    "text": "A man from among ahlus-suffah died, and he left behind a dinar and a dirham. It was said: O Messenger of Allah (ﷺ), he left behind a dinar and a dirham. He said: “Two brands; offer the funeral prayer for your companion.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

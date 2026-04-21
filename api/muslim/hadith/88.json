@@ -1,0 +1,16 @@
+{
+  "id": 88,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنِي أَحْمَدُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، قَالَ حَدَّثَنِي عَبْدُ السَّلاَمِ الْوَابِصِيُّ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ جَعْفَرٍ الرَّقِّيُّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ كَانَ يَحْيَى بْنُ أَبِي أُنَيْسَةَ كَذَّابًا ‏.‏",
+  "english": {
+    "narrator": "Ahmad bin Ibrāhīm ad-Dawraqī narrated to me, he said, Abd us-Salām al-Wābisī narrated to me, he said, Abd Allah bin Ja’far ar-Raqqī narrated to me, on authority of Ubayd Allah bin Amr, he said:",
+    "text": "‘Yahyā bin Abī Unaysah was a liar’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 677,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "-عن أبي سعيد وأبي هريرة رضي الله عنهما أن رسول الله صلى الله عليه وسلم قال ‏:‏ “ما بعث الله من نبي، ولا استخلف من خليفة إلا كانت له بطانتان بطانة تأمره بالمعروف وتحضه عليه، وبطانة تأمره بالشر وتحضه عليه، والمعصوم من عصم الله” ‏(‏‏(‏رواه البخارى‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Sa'id and Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Allah neither raised up any Prophet nor did He authorize any person with ruling power but for whom there were two types of entourage: one enjoins upon him to do good and incites him to carry it out, and the other enjoins evil and goads him; and the protected (from the bad entourage) is the one whom Allah protects.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

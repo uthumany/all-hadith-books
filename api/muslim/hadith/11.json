@@ -1,0 +1,16 @@
+{
+  "id": 11,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ مَهْدِيٍّ، يَقُولُ لاَ يَكُونُ الرَّجُلُ إِمَامًا يُقْتَدَى بِهِ حَتَّى يُمْسِكَ عَنْ بَعْضِ مَا سَمِعَ ‏.‏",
+  "english": {
+    "narrator": "Muhammad bin ul-Muthannā narrated to us, he said I heard Abd ar-Rahman bin Mahdī saying:",
+    "text": "‘A man cannot be an Imām whose example is followed until he withholds from some of what he hears’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

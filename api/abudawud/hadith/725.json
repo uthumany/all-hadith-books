@@ -1,0 +1,16 @@
+{
+  "id": 725,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْحَسَنِ الْمِصِّيصِيُّ، حَدَّثَنَا حَجَّاجٌ، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي هِشَامُ بْنُ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِذَا أَحْدَثَ أَحَدُكُمْ فِي صَلاَتِهِ فَلْيَأْخُذْ بِأَنْفِهِ ثُمَّ لْيَنْصَرِفْ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ حَمَّادُ بْنُ سَلَمَةَ وَأَبُو أُسَامَةَ عَنْ هِشَامٍ عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ إِذَا دَخَلَ وَالإِمَامُ يَخْطُبُ ‏\"‏ ‏.‏ لَمْ يَذْكُرَا عَائِشَةَ رضى الله عنها ‏.‏",
+  "english": {
+    "narrator": "Narrated Aisha, Ummul Mu'minin:",
+    "text": "The Prophet (ﷺ) said: When one of you becomes defiled during prayer, he should hold his nose and then turn away.\n\n\n\n\nAbu Dawud said: This tradition has been narrated by Hammad b. Salamah and Abu Usamah from Hisham on the authority of his father from the Prophet (Saws). They did not mention the name of 'Aishah."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 78,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو دَاوُدَ الْحَفَرِيُّ، حَدَّثَنَا سُفْيَانُ الثَّوْرِيُّ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا صَلَّى الْفَجْرَ تَرَبَّعَ فِي مَجْلِسِهِ حَتَّى تَطْلُعَ الشَّمْسُ حَسْنَاءَ ‏.‏",
+  "english": {
+    "narrator": "Jabir b. Samurah said:",
+    "text": "When the Prophet (ﷺ) prayed the dawn prayer, he sat cross-legged where he was till the sun had come well up."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

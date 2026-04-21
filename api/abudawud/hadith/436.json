@@ -1,0 +1,16 @@
+{
+  "id": 436,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَمُسَدَّدٌ، قَالاَ حَدَّثَنَا بِشْرٌ، - يَعْنِيَانِ ابْنَ الْمُفَضَّلِ - عَنِ ابْنِ عَجْلاَنَ، عَنِ الْمَقْبُرِيِّ، - قَالَ مُسَدَّدٌ سَعِيدُ بْنُ أَبِي سَعِيدٍ الْمَقْبُرِيُّ - عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا انْتَهَى أَحَدُكُمْ إِلَى الْمَجْلِسِ فَلْيُسَلِّمْ فَإِذَا أَرَادَ أَنْ يَقُومَ فَلْيُسَلِّمْ فَلَيْسَتِ الأُولَى بِأَحَقَّ مِنَ الآخِرَةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "The Prophet (ﷺ) said: When one of you comes to an assembly, he should give a salutation and if he feels inclined to get up, he should give a salutation, for the former is not more of a duty than the latter."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

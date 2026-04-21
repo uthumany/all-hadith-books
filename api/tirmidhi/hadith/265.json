@@ -1,0 +1,16 @@
+{
+  "id": 265,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، قَالَ حَدَّثَنَا عُثْمَانُ بْنُ نَاجِيَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مُسْلِمٍ أَبِي طَيْبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَا مِنْ أَحَدٍ مِنْ أَصْحَابِي يَمُوتُ بِأَرْضٍ إِلاَّ بُعِثَ قَائِدًا وَنُورًا لَهُمْ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏. هَذَا حَدِيثٌ غَرِيبٌ ‏.‏ وَرُوِيَ هَذَا الْحَدِيثُ عَنْ عَبْدِ اللَّهِ بْنِ مُسْلِمٍ أَبِي طَيْبَةَ عَنِ ابْنِ بُرَيْدَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم مُرْسَلاً وَهُوَ أَصَحُّ ‏.‏",
+  "english": {
+    "narrator": "Narrated 'Abdullah bin Buraidah:",
+    "text": "from his father, that the Messenger of Allah (ﷺ) said: \"There is no one among my Companions who dies in a land except that he shall be resurrected as a guide and light for them (people of that land) on the Day of Resurrection.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

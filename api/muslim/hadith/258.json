@@ -1,0 +1,16 @@
+{
+  "id": 258,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ، حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ، حَدَّثَنَا حُمَيْدُ بْنُ هِلاَلٍ، عَنْ عَبْدِ،\n اللَّهِ بْنِ الصَّامِتِ قَالَ قَالَ أَبُو ذَرٍّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ غِفَارُ غَفَرَ اللَّهُ\n لَهَا وَأَسْلَمُ سَالَمَهَا اللَّهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Dharr reported Allah's Messenger (ﷺ) as saying:",
+    "text": "Go to your people and say that the Messenger of Allah (ﷺ) says: Ghifar (is a tribe) to whom Allah granted pardon, and Aslam (is the tribe) to whom Allah granted safety."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

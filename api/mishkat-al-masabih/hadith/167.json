@@ -1,0 +1,16 @@
+{
+  "id": 167,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَن عُثْمَانَ بْنِ عَبْدِ اللَّهِ بْنِ مَوْهَبٍ قَالَ: دَخَلْتُ عَلَى أُمِّ سَلَمَةَ فَأَخْرَجَتْ إِلَيْنَا شَعْرًا مِنْ شَعْرِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مخضوبا. رَوَاهُ البُخَارِيّ",
+  "english": {
+    "narrator": "‘Uthman b. ‘Abdallah b. Mauhib said :",
+    "text": "I went to visit Umm Salama and she brought out for us some hairs of the Prophet which had been dyed. \nBukhari transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

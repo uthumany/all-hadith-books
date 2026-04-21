@@ -1,0 +1,16 @@
+{
+  "id": 403,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا أَبُو دَاوُدَ الْحَفَرِيُّ، عَنْ سُفْيَانَ، عَنِ الأَعْمَشِ، عَنْ طَلْحَةَ بْنِ مُصَرِّفٍ، عَنْ رَجُلٍ، عَنْ سَعْدٍ، نَحْوَهُ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "A similar tradition has also been transmitted by Talhah b. Musarrif from a man from Sa’d from the prophet (May peace be upon him) through a different chain of narrators."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

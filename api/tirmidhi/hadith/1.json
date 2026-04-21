@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا خَلاَّدُ بْنُ أَسْلَمَ الْبَغْدَادِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ مُصْعَبٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ أَبِي عَمَّارٍ، عَنْ وَاثِلَةَ بْنِ الأَسْقَعِ، رضى الله عنه قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ اللَّهَ اصْطَفَى مِنْ وَلَدِ إِبْرَاهِيمَ إِسْمَاعِيلَ وَاصْطَفَى مِنْ وَلَدِ إِسْمَاعِيلَ بَنِي كِنَانَةَ وَاصْطَفَى مِنْ بَنِي كِنَانَةَ قُرَيْشًا وَاصْطَفَى مِنْ قُرَيْشٍ بَنِي هَاشِمٍ وَاصْطَفَانِي مِنْ بَنِي هَاشِمٍ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Wathilah bin Al-Asqa':",
+    "text": "that the Messenger of Allah (ﷺ) said: \"Indeed Allah has chosen Isma'il from the children of Ibrahim, and He chose Banu Kinanah from the children of Isma'il, and He chose the Quraish from Banu Kinanah, and He chose Banu Hashim from Quraish, and He chose me from Banu Hashim.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

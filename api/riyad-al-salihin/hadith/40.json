@@ -1,0 +1,16 @@
+{
+  "id": 40,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏ لا يتمنين أحدكم الموت لضر أصابه، فإن كان لابد فاعلاً فليقل‏:‏ اللهم أحيني ما كانت الحياة خيراً لي وتوفني إذا كانت الوفاة خيراً لي‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported that:",
+    "text": "The Messenger of Allah (ﷺ) said, \"Let not one of you wish for death because of a misfortune which befalls him. If he cannot help doing so, he should say: 'O Allah, keep me alive as long as You know that life is better for me, and make me die when death is better for me\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

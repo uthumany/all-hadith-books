@@ -1,0 +1,16 @@
+{
+  "id": 74,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا عَبْدُ الْوَاحِدِ، عَنْ إِسْمَاعِيلَ، - وَهُوَ ابْنُ سُمَيْعٍ - قَالَ حَدَّثَنِي مَالِكُ بْنُ عُمَيْرٍ، قَالَ قَالَ صَعْصَعَةُ لِعَلِيِّ بْنِ أَبِي طَالِبٍ كَرَّمَ اللَّهُ وَجْهَهُ انْهَنَا يَا أَمِيرَ الْمُؤْمِنِينَ عَمَّا نَهَاكَ عَنْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ نَهَانِي رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الدُّبَّاءِ وَالْحَنْتَمِ ‏.‏",
+  "english": {
+    "narrator": "Sa'sa'ah said to 'Ali bin Abi Talib - may Allah honor his face - :",
+    "text": "\"Forbid to us, O Commander of the Believers! What the Messenger of Allah  forbade me from using Ad-Dubba' and Al-Hantam.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

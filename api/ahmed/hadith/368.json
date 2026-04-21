@@ -1,0 +1,16 @@
+{
+  "id": 368,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا هُشَيْمٌ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ سَالِمٍ، عَنِ الشَّعْبِيِّ، قَالَ أُتِيَ عَلِيٌّ بِزَانٍ مُحْصَنٍ فَجَلَدَهُ يَوْمَ الْخَمِيسِ مِائَةَ جَلْدَةٍ ثُمَّ رَجَمَهُ يَوْمَ الْجُمُعَةِ فَقِيلَ لَهُ جَمَعْتَ عَلَيْهِ حَدَّيْنِ فَقَالَ جَلَدْتُهُ بِكِتَابِ اللَّهِ وَرَجَمْتُهُ بِسُنَّةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ash-Sha`bi said:",
+    "text": "A married adulterer was brought to ‘Ali. He gave him one hundred lashes on Thursday and he stoned him on Friday. It was said to him: You gave him two hadd punishments? He said: I flogged him in accordance with the Book of Allah and I stoned him in accordance with the Sunnah of the Messenger of Allah (ﷺ)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

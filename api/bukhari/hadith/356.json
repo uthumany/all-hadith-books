@@ -1,0 +1,16 @@
+{
+  "id": 356,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا مُعَاوِيَةُ بْنُ قُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ قَرَأَ النَّبِيُّ صلى الله عليه وسلم يَوْمَ فَتْحِ مَكَّةَ سُورَةَ الْفَتْحِ فَرَجَّعَ فِيهَا‏.‏ قَالَ مُعَاوِيَةُ لَوْ شِئْتُ أَنْ أَحْكِيَ لَكُمْ قِرَاءَةَ النَّبِيِّ صلى الله عليه وسلم لَفَعَلْتُ‏.‏",
+  "english": {
+    "narrator": "Narrated `Abdullah bin Mughaffal:",
+    "text": "On the Day of the Conquest of Mecca, the Prophet (ﷺ) recited Surat Al-Fath in a vibrating and pleasant \nvoice. (Muawaiya, the subnarrator said, \"If I could imitate the recitation of the Prophet (ﷺ) I would do \nso.\")"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 355,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عمرو بن شعيب، عن أبيه ، عن جده رضي الله عنهم قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏ليس منا من لم يرحم صغيرنا، ويعرف شرف كبيرنا‏\"‏ ‏(‏‏(‏حديث صحيح رواه أبو داود والترمذي، وقال الترمذي‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Amr bin Shu'aib (May Allah be pleased with him)on the authority of his father who heard it from his father reported:",
+    "text": "Messenger of Allah (ﷺ) said: \"He is not one of us who shows no mercy to younger ones and does not acknowledge the honour due to our elders\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

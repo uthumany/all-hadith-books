@@ -1,0 +1,16 @@
+{
+  "id": 220,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَفَّانُ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، حَدَّثَنَا عُتَيْبَةُ، عَنْ بُرَيْدِ بْنِ أَصْرَمَ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ مَاتَ رَجُلٌ مِنْ أَهْلِ الصُّفَّةِ وَتَرَكَ دِينَارَيْنِ أَوْ دِرْهَمَيْنِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَيَّتَانِ صَلُّوا عَلَى صَاحِبِكُمْ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Buraid bin Asram said:",
+    "text": "I heard `Ali (رضي الله عنه) say: A man of Ahlus-Suffah died and left behind two dinars or two dirhams. The Messenger of Allah (ﷺ) said: `Two brands of iron; offer the funeral prayer for your companion.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

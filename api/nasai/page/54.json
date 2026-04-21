@@ -1,0 +1,510 @@
+{
+  "page": 54,
+  "perPage": 50,
+  "totalPages": 116,
+  "totalCount": 5768,
+  "nextPage": 55,
+  "prevPage": 53,
+  "items": [
+    {
+      "id": 28,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا بِشْرُ بْنُ السَّرِيِّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مُحَمَّدِ بْنِ عُقْبَةَ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ رَفَعَتِ امْرَأَةٌ صَبِيًّا لَهَا مِنْ هَوْدَجٍ فَقَالَتْ يَا رَسُولَ اللَّهِ أَلِهَذَا حَجٌّ قَالَ ‏\n\"‏ نَعَمْ وَلَكِ أَجْرٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "\"A woman lifted up a child of hers from a howdah (litter) and said: 'O Messenger of Allah, is there Hajj for this one?' He said: 'Yes, and you will be rewarded.'''(sahih)"
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ إِبْرَاهِيمَ بْنِ عُقْبَةَ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ رَفَعَتِ امْرَأَةٌ إِلَى النَّبِيِّ صلى الله عليه وسلم صَبِيًّا فَقَالَتْ أَلِهَذَا حَجٌّ قَالَ ‏\n\"‏ نَعَمْ وَلَكِ أَجْرٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "\"A woman lifted a child up to the Messenger of Allah and said: 'Is there Hajj for this one?' He said: 'Yes, and you will be rewarded.'''(sahih)"
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ عُقْبَةَ، ح وَحَدَّثَنَا الْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنْ سُفْيَانَ، عَنْ إِبْرَاهِيمَ بْنِ عُقْبَةَ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ صَدَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَلَمَّا كَانَ بِالرَّوْحَاءِ لَقِيَ قَوْمًا فَقَالَ ‏\"‏ مَنْ أَنْتُمْ ‏\"‏ ‏.‏ قَالُوا الْمُسْلِمُونَ ‏.‏ قَالُوا مَنْ أَنْتُمْ قَالُوا رَسُولُ اللَّهِ ‏.‏ قَالَ فَأَخْرَجَتِ امْرَأَةٌ صَبِيًّا مِنَ الْمِحَفَّةِ فَقَالَتْ أَلِهَذَا حَجٌّ قَالَ ‏\"‏ نَعَمْ وَلَكِ أَجْرٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "\"The Messenger of Allah set out and when he was in Ar-Rawha he met some people and said: 'Who are you?' They said: 'Muslins.' They said: 'Who are you?' They said: 'The Messenger of Allah.' A woman brought a child out of the litter and said: 'Is there Hajj for this one?' He said\" \"Yes, and you will be rewarded.'''(Shih)"
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُلَيْمَانُ بْنُ دَاوُدَ بْنِ حَمَّادِ بْنِ سَعْدٍ ابْنُ أَخِي، رِشْدِينَ بْنِ سَعْدٍ أَبُو الرَّبِيعِ وَالْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، قَالَ أَخْبَرَنِي مَالِكُ بْنُ أَنَسٍ، عَنْ إِبْرَاهِيمَ بْنِ عُقْبَةَ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَرَّ بِامْرَأَةٍ وَهِيَ فِي خِدْرِهَا مَعَهَا صَبِيٌّ فَقَالَتْ أَلِهَذَا حَجٌّ قَالَ ‏\n\"‏ نَعَمْ وَلَكِ أَجْرٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas that:",
+        "text": "the Messenger of Allah passed by a woman when she was in her seclusion and had a child with her. She said: \"Is there Hajj for this one?'' He said: \"Yes, and you will be rewarded.''(sahih)"
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنِ ابْنِ أَبِي زَائِدَةَ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ أَخْبَرَتْنِي عَمْرَةُ، أَنَّهَا سَمِعَتْ عَائِشَةَ، تَقُولُ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم لِخَمْسٍ بَقِينَ مِنْ ذِي الْقَعْدَةِ لاَ نُرَى إِلاَّ الْحَجَّ حَتَّى إِذَا دَنَوْنَا مِنْ مَكَّةَ أَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَنْ لَمْ يَكُنْ مَعَهُ هَدْىٌ إِذَا طَافَ بِالْبَيْتِ أَنْ يَحِلَّ ‏.‏",
+      "english": {
+        "narrator": "Aishah said:",
+        "text": "\"We went out with the Messenger of Allah when there were five days left of Dhul-Qa'dah, with no intention other than to perform Hajj. When we were close to Makkah, the Messenger of Allah commanded those who did not have a Hadi (sacrificial animal) with them to exit Ihram after circumambulating the House.''"
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ يُهِلُّ أَهْلُ الْمَدِينَةِ مِنْ ذِي الْحُلَيْفَةِ وَأَهْلُ الشَّامِ مِنَ الْجُحْفَةِ وَأَهْلُ نَجْدٍ مِنْ قَرْنٍ ‏\"‏ ‏.‏ قَالَ عَبْدُ اللَّهِ وَبَلَغَنِي أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ وَيُهِلُّ أَهْلُ الْيَمَنِ مِنْ يَلَمْلَمَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Umar that the Messenger of Allah said:",
+        "text": "\"The people of Al-Madinah should enter into Ihram from Dhul-Hulaifah, the people of Ash-sham from Al-Juhfah, the people of Najd from Qarn.\" 'Abdullah said: \"And it was conveyed to me, that the Messenger of Allah said: 'And the people of Yemen should enter into Ihram from Yalamlam.'''"
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، قَالَ حَدَّثَنَا نَافِعٌ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَجُلاً، قَامَ فِي الْمَسْجِدِ فَقَالَ يَا رَسُولَ اللَّهِ مِنْ أَيْنَ تَأْمُرُنَا أَنْ نُهِلَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يُهِلُّ أَهْلُ الْمَدِينَةِ مِنْ ذِي الْحُلَيْفَةِ وَيُهِلُّ أَهْلُ الشَّامِ مِنَ الْجُحْفَةِ وَيُهِلُّ أَهْلُ نَجْدٍ مِنْ قَرْنٍ ‏\"‏ ‏.‏ قَالَ ابْنُ عُمَرَ وَيَزْعُمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ وَيُهِلُّ أَهْلُ الْيَمَنِ مِنْ يَلَمْلَمَ ‏\"‏ ‏.‏ وَكَانَ ابْنُ عُمَرَ يَقُولُ لَمْ أَفْقَهْ هَذَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Umar that a man stood up in the Masjid and said:",
+        "text": "\"O Messenger of Allah, from where do you command us to enter Ihram?'' The Messenger of Allah Said: \"The people of Al-Madinah should enter Ihram from Dhul-Hulaifah, the people of Ash-sham should enter Ihram from Al-Juhfah, the people of Najd should enter Ihram from Qarn.'' Ibn 'Umar said: \"And they say that the Messenger of Allah said: 'the people of Yemen should enter into Ihram from Yalamlam.''' And 'Ibn 'Umar used to say: \"I did not hear this from the Messenger of Allah.'''"
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا هِشَامُ بْنُ بَهْرَامَ، قَالَ حَدَّثَنَا الْمُعَافَى، عَنْ أَفْلَحَ بْنِ حُمَيْدٍ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم وَقَّتَ لأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ وَلأَهْلِ الشَّامِ وَمِصْرَ الْجُحْفَةَ وَلأَهْلِ الْعِرَاقِ ذَاتَ عِرْقٍ وَلأَهْلِ الْيَمَنِ يَلَمْلَمَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah:",
+        "text": "That the Messenger of Allah designated Dhul-Hulaifah as the Miqat for the people of Al-Madinah, Al-Juhfah for the people of Ash-sham and Eguypt, Dhat 'Irq fro the people of al-Iraq, and Yalamlam for the people of Yemen."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ، صَاحِبُ الشَّافِعِيِّ قَالَ حَدَّثَنَا يَحْيَى بْنُ حَسَّانَ، قَالَ حَدَّثَنَا وُهَيْبٌ، وَحَمَّادُ بْنُ زَيْدٍ، عَنْ عَبْدِ اللَّهِ بْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم وَقَّتَ لأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ وَلأَهْلِ الشَّامِ الْجُحْفَةَ وَلأَهْلِ نَجْدٍ قَرْنًا وَلأَهْلِ الْيَمَنِ يَلَمْلَمَ وَقَالَ ‏\n\"‏ هُنَّ لَهُنَّ وَلِكُلِّ آتٍ أَتَى عَلَيْهِنَّ مِنْ غَيْرِهِنَّ فَمَنْ كَانَ أَهْلُهُ دُونَ الْمِيقَاتِ حَيْثُ يُنْشِئُ حَتَّى يَأْتِيَ ذَلِكَ عَلَى أَهْلِ مَكَّةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas that:",
+        "text": "the Messenger of Allah designated Dhul-Hulaifah as the Miqat for the people of Al-Madinah Al-Juhfah for the people of Najd, and Yalmlam for the people of Yemen. He said: \"They are for them, and for anyone who comes to them from elsewhere. If a person's place of residence is within the boundary of the Miqat, then (he should enter into Ihram) from where he starts his journey, and this also applies to the people of Makkah.''(Sihah)"
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ يُهِلُّ أَهْلُ الْمَدِينَةِ مِنْ ذِي الْحُلَيْفَةِ وَأَهْلُ الشَّامِ مِنَ الْجُحْفَةِ وَأَهْلُ نَجْدٍ مِنْ قَرْنٍ ‏\"‏ ‏.‏ وَذُكِرَ لِي وَلَمْ أَسْمَعْ أَنَّهُ قَالَ ‏\"‏ وَيُهِلُّ أَهْلُ الْيَمَنِ مِنْ يَلَمْلَمَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Salim, from his father, that the Prophet said:",
+        "text": "\"The people of Al-Madinah should enter into Ihram from Dhul-Hulaifah, the people of Ash-sham from Al-Juhfah, the people of Najd from Qarn.\" And it was mentioned to me, although I did not hear him say it: \"And the people of Yemen should enter into Ihram from Yalamlam.;"
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَمَّارٍ الْمَوْصِلِيُّ، قَالَ حَدَّثَنَا أَبُو هَاشِمٍ، مُحَمَّدُ بْنُ عَلِيٍّ عَنِ الْمُعَافَى، عَنْ أَفْلَحَ بْنِ حُمَيْدٍ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، قَالَتْ وَقَّتَ رَسُولُ اللَّهِ صلى الله عليه وسلم لأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ وَلأَهْلِ الشَّامِ وَمِصْرَ الْجُحْفَةَ وَلأَهْلِ الْعِرَاقِ ذَاتَ عِرْقٍ وَلأَهْلِ نَجْدٍ قَرْنًا وَلأَهْلِ الْيَمَنِ يَلَمْلَمَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Messenger of Allah designated Dhul-Hulaifah as the Miqat for the people of Al-Madinah, Al-Juhfah for the people Ash-sham and Egypt, Dhat 'Irq for the people Al-'Iraq, Qarn for the people of Najd and Yalamlam for the people of Yemen.\""
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ، قَالَ حَدَّثَنَا مَعْمَرٌ، قَالَ أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ وَقَّتَ رَسُولُ اللَّهِ صلى الله عليه وسلم لأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ وَلأَهْلِ الشَّامِ الْجُحْفَةَ وَلأَهْلِ نَجْدٍ قَرْنًا وَلأَهْلِ الْيَمَنِ يَلَمْلَمَ قَالَ ‏\n\"‏ هُنَّ لَهُمْ وَلِمَنْ أَتَى عَلَيْهِنَّ مِمَّنْ سِوَاهُنَّ لِمَنْ أَرَادَ الْحَجَّ وَالْعُمْرَةَ وَمَنْ كَانَ دُونَ ذَلِكَ مِنْ حَيْثُ بَدَأَ حَتَّى يَبْلُغَ ذَلِكَ أَهْلَ مَكَّةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "\"The Messenger of 'Allah designated Dhul-Hulaifah as the Miqat for the people of Al-Madinah, Al-Juhfah for the people of Ash-sham, Qarn for the people of Najd, and Yalamalam for the people of Yemen. He aid: \"They are for them and for those who pass by them who are not of their people who intend to perform Hajj and 'Umrah. If a person's place of residence is within the boundary of the Miqat, then (he should enter into Ihram) from where he starts his journey, and this also applies to the people of Makkah.''"
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم وَقَّتَ لأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ وَلأَهْلِ الشَّامِ الْجُحْفَةَ وَلأَهْلِ الْيَمَنِ يَلَمْلَمَ وَلأَهْلِ نَجْدٍ قَرْنًا فَهُنَّ لَهُمْ وَلِمَنْ أَتَى عَلَيْهِنَّ مِنْ غَيْرِ أَهْلِهِنَّ مِمَّنْ كَانَ يُرِيدُ الْحَجَّ وَالْعُمْرَةَ فَمَنْ كَانَ دُونَهُنَّ فَمِنْ أَهْلِهِ حَتَّى أَنَّ أَهْلَ مَكَّةَ يُهِلُّونَ مِنْهَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was narrated from Ibn 'Abbas that the Prophet designated Dhul-Hulaifah as the Miqat for the people of Al-Madinah, Al-Juhfah for the people of Ash-shamham, Yalmlam for the people of Yemen, and Qarn for the people of Najd. They are for them and for those who pass by them who are not of their people, intending to perform Hajj or 'Umrah. If a person's place of residence is within the boundary of they Miqat, then (he should enter Ihram) from where he starts his journey, and this also applies to the people of Makkah."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عِيسَى بْنُ إِبْرَاهِيمَ بْنِ مَثْرُودٍ، عَنِ ابْنِ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، قَالَ ابْنُ شِهَابٍ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ أَبَاهُ، قَالَ بَاتَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِذِي الْحُلَيْفَةِ بِبَيْدَاءَ وَصَلَّى فِي مَسْجِدِهَا ‏.‏",
+      "english": {
+        "narrator": "'Ubaidullah bin 'Abdullah bin 'Umar narrated that his father said:",
+        "text": "\"The Messenger of Allah stayed overnight in dhul-Hulaifah, where he started his Hajj with this action, and he prayed in the Masjid there.''(sahih)"
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدَةُ بْنُ عَبْدِ اللَّهِ، عَنْ سُوَيْدٍ، عَنْ زُهَيْرٍ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ وَهُوَ فِي الْمُعَرَّسِ بِذِي الْحُلَيْفَةِ أُتِيَ فَقِيلَ لَهُ إِنَّكَ بِبَطْحَاءَ مُبَارَكَةٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Umar that:",
+        "text": "when the Messenger of Allah was in Dhul-Hulaifah someone came to him and he was told: \"You are in a blessed valley.''(sahih)"
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَنَاخَ بِالْبَطْحَاءِ الَّتِي بِذِي الْحُلَيْفَةِ وَصَلَّى بِهَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar:",
+        "text": "That the Messenger of Allah stopped in the valley that is in Dhul-Hulaifah and prayed there. (sahih)"
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا النَّضْرُ، - وَهُوَ ابْنُ شُمَيْلٍ - قَالَ حَدَّثَنَا أَشْعَثُ، - وَهُوَ ابْنُ عَبْدِ الْمَلِكِ - عَنِ الْحَسَنِ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى الظُّهْرَ بِالْبَيْدَاءِ ثُمَّ رَكِبَ وَصَعِدَ جَبَلَ الْبَيْدَاءِ فَأَهَلَّ بِالْحَجِّ وَالْعُمْرَةِ حِينَ صَلَّى الظُّهْرَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Anas bin Malik that:",
+        "text": "the Messenger of Allah prayed Zuhr in Al-Baida then he rode up the mountain of Al-Baida; and began the Talbiyah for Hajj and 'Umrah, when he had prayed Zuhr (Daif)"
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ أَسْمَاءَ بِنْتِ عُمَيْسٍ، أَنَّهَا وَلَدَتْ مُحَمَّدَ بْنَ أَبِي بَكْرٍ الصِّدِّيقِ بِالْبَيْدَاءِ فَذَكَرَ أَبُو بَكْرٍ ذَلِكَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ مُرْهَا فَلْتَغْتَسِلْ ثُمَّ لْتُهِلَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Asma bin 'Umais that:",
+        "text": "she gave birth to Muhammad bin Abi Bakr As-Siddiq in Al-Baida, Abu Bakr told the Messenger of Allah about that, and he said: \"Tell her to perform Gusl then begin the Talbiyah.''"
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي أَحْمَدُ بْنُ فَضَالَةَ بْنِ إِبْرَاهِيمَ النَّسَائِيُّ، قَالَ حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، قَالَ حَدَّثَنِي سُلَيْمَانُ بْنُ بِلاَلٍ، قَالَ حَدَّثَنِي يَحْيَى، - وَهُوَ ابْنُ سَعِيدٍ الأَنْصَارِيُّ - قَالَ سَمِعْتُ الْقَاسِمَ بْنَ مُحَمَّدٍ، يُحَدِّثُ عَنْ أَبِيهِ، عَنْ أَبِي بَكْرٍ، أَنَّهُ خَرَجَ حَاجًّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم حَجَّةَ الْوَدَاعِ وَمَعَهُ امْرَأَتُهُ أَسْمَاءُ بِنْتُ عُمَيْسٍ الْخَثْعَمِيَّةُ فَلَمَّا كَانُوا بِذِي الْحُلَيْفَةِ وَلَدَتْ أَسْمَاءُ مُحَمَّدَ بْنَ أَبِي بَكْرٍ فَأَتَى أَبُو بَكْرٍ النَّبِيَّ صلى الله عليه وسلم فَأَخْبَرَهُ فَأَمَرَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَأْمُرَهَا أَنْ تَغْتَسِلَ ثُمَّ تُهِلَّ بِالْحَجِّ وَتَصْنَعَ مَا يَصْنَعُ النَّاسُ إِلاَّ أَنَّهَا لاَ تَطُوفُ بِالْبَيْتِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Bakr:",
+        "text": "That he went out for Hajj with the Messenger of Allah on the Farewell Pilgrimage, and his wife Asma' bint 'Umais Al-Khath'amiyyah was with him. When they were at Dhul-Hulaifah, Asma gave birth to Muhammad bin abi Bakr. Abu Bakr. Came to the Prophet and told him, and the Messenger of Allah told him to tell her to perform Ghusl, then begin the Talbniyah for Hajj, and to do everything that the people do, except that she should not circumambulate the House.(sahih)"
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ حُنَيْنٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، وَالْمِسْوَرِ بْنِ مَخْرَمَةَ، أَنَّهُمَا اخْتَلَفَا بِالأَبْوَاءِ فَقَالَ ابْنُ عَبَّاسٍ يَغْسِلُ الْمُحْرِمُ رَأْسَهُ ‏.‏ وَقَالَ الْمِسْوَرُ لاَ يَغْسِلُ رَأْسَهُ ‏.‏ فَأَرْسَلَنِي ابْنُ عَبَّاسٍ إِلَى أَبِي أَيُّوبَ الأَنْصَارِيِّ أَسْأَلُهُ عَنْ ذَلِكَ فَوَجَدْتُهُ يَغْتَسِلُ بَيْنَ قَرْنَىِ الْبِئْرِ وَهُوَ مُسْتَتِرٌ بِثَوْبٍ فَسَلَّمْتُ عَلَيْهِ وَقُلْتُ أَرْسَلَنِي إِلَيْكَ عَبْدُ اللَّهِ بْنُ عَبَّاسٍ أَسْأَلُكَ كَيْفَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَغْسِلُ رَأْسَهُ وَهُوَ مُحْرِمٌ فَوَضَعَ أَبُو أَيُّوبَ يَدَهُ عَلَى الثَّوْبِ فَطَأْطَأَهُ حَتَّى بَدَا رَأْسُهُ ثُمَّ قَالَ لإِنْسَانٍ يَصُبُّ عَلَى رَأْسِهِ ثُمَّ حَرَّكَ رَأْسَهُ بِيَدَيْهِ فَأَقْبَلَ بِهِمَا وَأَدْبَرَ وَقَالَ هَكَذَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَفْعَلُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Abbas and Al-Miswar bin Makhramah that:",
+        "text": "they had a difference of opinion in al-Abwa. Ibn 'Abbas said: \"The Muhrim (Pilgrim in Ihram) may wash his head.\" Al-Miswar said: \"He should not wash his head.\"Ibn 'Abbas sent me (the narrator) to Abu Ayyub Al-Ansari to ask him about that. I found him performing Ghusl in front of the well, screened with a cloth. I greeted him with Salam and said: \"Abdullah bin 'Abbas has sent me to you to ask you how the Messenger of Allah used to wash his head when he was in Ihram.\" Abu put his hand on the cloth and lowered it, until his head appeared, then he told someone to puor water on his head. Then he rubbed his head with his hands, back and forth, and said: \"This is what I saw the Messenger of Allah do.\""
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَلْبَسَ الْمُحْرِمُ ثَوْبًا مَصْبُوغًا بِزَعْفَرَانٍ أَوْ بِوَرْسٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "\"The Messenger of Allah forbade the Muhrim to wear clothes dyed with saffron or Wars.\""
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، عَنْ سُفْيَانَ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَا يَلْبَسُ الْمُحْرِمُ مِنَ الثِّيَابِ قَالَ ‏\n\"‏ لاَ يَلْبَسُ الْقَمِيصَ وَلاَ الْبُرْنُسَ وَلاَ السَّرَاوِيلَ وَلاَ الْعِمَامَةَ وَلاَ ثَوْبًا مَسَّهُ وَرْسٌ وَلاَ زَعْفَرَانٌ وَلاَ خُفَّيْنِ إِلاَّ لِمَنْ لاَ يَجِدُ نَعْلَيْنِ فَإِنْ لَمْ يَجِدْ نَعْلَيْنِ فَلْيَقْطَعْهُمَا حَتَّى يَكُونَا أَسْفَلَ مِنَ الْكَعْبَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Salim that his father said:",
+        "text": "\"The Messenger of Allah was asked what clothes the Muhrim may wear. He said: 'He should not wear a shirt, or a burnous, or pants, or an 'Imamah (turban, or any garment that has been touched by (dyed with) Wars or saffron, or Khuffs except for one who cannot find sandals. If he cannot find sandals, then let him cut them until they come lower than the ankles, (sahih)"
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا نُوحُ بْنُ حَبِيبٍ الْقُومَسِيُّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، قَالَ حَدَّثَنِي عَطَاءٌ، عَنْ صَفْوَانَ بْنِ يَعْلَى بْنِ أُمَيَّةَ، عَنْ أَبِيهِ، أَنَّهُ قَالَ لَيْتَنِي أَرَى رَسُولَ اللَّهِ صلى الله عليه وسلم وَهُوَ يُنْزَلُ عَلَيْهِ فَبَيْنَا نَحْنُ بِالْجِعِرَّانَةِ وَالنَّبِيُّ صلى الله عليه وسلم فِي قُبَّةٍ فَأَتَاهُ الْوَحْىُ فَأَشَارَ إِلَىَّ عُمَرُ أَنْ تَعَالَ فَأَدْخَلْتُ رَأْسِي الْقُبَّةَ فَأَتَاهُ رَجُلٌ قَدْ أَحْرَمَ فِي جُبَّةٍ بِعُمْرَةٍ مُتَضَمِّخٌ بِطِيبٍ فَقَالَ يَا رَسُولَ اللَّهِ مَا تَقُولُ فِي رَجُلٍ قَدْ أَحْرَمَ فِي جُبَّةٍ إِذْ أُنْزِلَ عَلَيْهِ الْوَحْىُ فَجَعَلَ النَّبِيُّ صلى الله عليه وسلم يَغِطُّ لِذَلِكَ فَسُرِّيَ عَنْهُ فَقَالَ ‏\"‏ أَيْنَ الرَّجُلُ الَّذِي سَأَلَنِي آنِفًا ‏\"‏ ‏.‏ فَأُتِيَ بِالرَّجُلِ فَقَالَ ‏\"‏ أَمَّا الْجُبَّةُ فَاخْلَعْهَا وَأَمَّا الطِّيبُ فَاغْسِلْهُ ثُمَّ أَحْدِثْ إِحْرَامًا ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ ‏\"‏ ثُمَّ أَحْدِثْ إِحْرَامًا ‏\"‏ ‏.‏ مَا أَعْلَمُ أَحَدًا قَالَهُ غَيْرَ نُوحِ بْنِ حَبِيبٍ وَلاَ أَحْسِبُهُ مَحْفُوظًا وَاللَّهُ سُبْحَانَهُ وَتَعَالَى أَعْلَمُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Safwan bin Umayyah, from his father that he said:",
+        "text": "\"I wished that I could see the Messenger of Allah when Revelation was coming down to him. While we were in Al-Jirranah and the Prophet was in a tent, Revelation was coming down to him and 'Umar gestured to me to come. So I put my head into the tent. A man had come to him who had entered Ihram wearing a said: 'O Messenger of Allah, what do you say concerning a man who entered Ihram wearing a Jubbah?'Then (because of this question) the Revelation came. The Prophet started to breath deeply, and when it was over he said: 'Where is the man who asked me just now?' The man was brought to him, and he saidA: 'As for the Jubbah, take it off, and as for the perfume, wash it off, then enter Ihram.'''(Sahih)\nChatper 30. The Prohibiton Of Wearing A Shirt In Ihram"
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم مَا يَلْبَسُ الْمُحْرِمُ مِنَ الثِّيَابِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَلْبَسُوا الْقُمُصَ وَلاَ الْعَمَائِمَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْبَرَانِسَ وَلاَ الْخِفَافَ إِلاَّ أَحَدٌ لاَ يَجِدُ نَعْلَيْنِ فَلْيَلْبَسْ خُفَّيْنِ وَلْيَقْطَعْهُمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ وَلاَ تَلْبَسُوا شَيْئًا مَسَّهُ الزَّعْفَرَانُ وَلاَ الْوَرْسُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Umar that:",
+        "text": "a man asked the Messenger of Allah \"What clothes can the Muhrim wear?\" The Messenger of Allah said: \"They should not wear shirts nor 'Imamahs, or pants, or burnoues, or Khuffs - unless a person cannot find sandals, in which cause he may wear Khuffs. But he should cut them to come lower than the ankles. And they should not wear anything that has been touched by (dyed with) saffron or Wars.\""
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ مَا نَلْبَسُ مِنَ الثِّيَابِ إِذَا أَحْرَمْنَا قَالَ ‏\"‏ لاَ تَلْبَسُوا الْقَمِيصَ ‏\"‏ ‏.‏ وَقَالَ عَمْرٌو مَرَّةً أُخْرَى ‏\"‏ الْقُمُصَ وَلاَ الْعَمَائِمَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْخُفَّيْنِ إِلاَّ أَنْ لاَ يَكُونَ لأَحَدِكُمْ نَعْلاَنِ فَلْيَقْطَعْهُمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ وَلاَ ثَوْبًا مَسَّهُ وَرْسٌ وَلاَ زَعْفَرَانٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that a man said:",
+        "text": "\"O Messenger of Allah, what clothes should we wear when we enter Ihram?\" He said: \"Do not wear a shirt (or shirts), or 'Imamahs, or pants, or Khuffs unless someone \nCannot find sandals, in which case he should cut them (the Khuffs) so that they come beneath the ankles or any garment that has been touched by (dyed with ) wars or saffron."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرٍو، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَخْطُبُ وَهُوَ يَقُولُ ‏\n\"‏ السَّرَاوِيلُ لِمَنْ لاَ يَجِدُ الإِزَارَ وَالْخُفَّيْنِ لِمَنْ لاَ يَجِدُ النَّعْلَيْنِ ‏\"‏ ‏.‏ لِلْمُحْرِمِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said;\n\"I heard the Prophet delivering a khutbah and he said:",
+        "text": "'Pants (are allowed) for one who cannot find an Izar, and Khuffs for one who cannot find sandals to wear in Ihram.;;"
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي أَيُّوبُ بْنُ مُحَمَّدٍ الْوَزَّانُ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ لَمْ يَجِدْ إِزَارًا فَلْيَلْبَسْ سَرَاوِيلَ وَمَنْ لَمْ يَجِدْ نَعْلَيْنِ فَلْيَلْبَسْ خُفَّيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said;\n\"I heard the Messenger of Allah say:",
+        "text": "'Whoever cannot find an Izar, let him wear pants, and whoever cannot find sandals, let him wear khuffs.\""
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ مَاذَا تَأْمُرُنَا أَنْ نَلْبَسَ مِنَ الثِّيَابِ فِي الإِحْرَامِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَلْبَسُوا الْقَمِيصَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْعَمَائِمَ وَلاَ الْبَرَانِسَ وَلاَ الْخِفَافَ إِلاَّ أَنْ يَكُونَ أَحَدٌ لَيْسَتْ لَهُ نَعْلاَنِ فَلْيَلْبَسِ الْخُفَّيْنِ مَا أَسْفَلَ مِنَ الْكَعْبَيْنِ وَلاَ تَلْبَسُوا شَيْئًا مِنَ الثِّيَابِ مَسَّهُ الزَّعْفَرَانُ وَلاَ الْوَرْسُ وَلاَ تَنْتَقِبُ الْمَرْأَةُ الْحَرَامُ وَلاَ تَلْبَسُ الْقُفَّازَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said;\n\"A man stood up and said:",
+        "text": "'O Messenger of Allah! What garments do you command us to wear in Ihran?' The Messenger of Allah said: 'Do not wear shirts or pants, or 'Imamahs, or burnouses, or Khuffs except if someone does not have sandals, in which case let him wear Khuffs that come below the ankles. And do not wear any garment that has been touched by (dyed with) saffron or Wars. And women should not cover their faces when in Ihram, or wear gloves.''"
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم مَا يَلْبَسُ الْمُحْرِمُ مِنَ الثِّيَابِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَلْبَسُوا الْقَمِيصَ وَلاَ الْعَمَائِمَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْبَرَانِسَ وَلاَ الْخِفَافَ إِلاَّ أَحَدٌ لاَ يَجِدُ نَعْلَيْنِ فَلْيَلْبَسْ خُفَّيْنِ وَلْيَقْطَعْهُمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ وَلاَ تَلْبَسُوا شَيْئًا مَسَّهُ الزَّعْفَرَانُ وَلاَ الْوَرْسُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Umar that:",
+        "text": "a man asked the Messenger of Allah what clothes the Muhrim should wear? The Messenger of Allah said: \"Do not wear shirts, or 'Imamahs, or pants, or burnouses, or Khuffs except if someone does not have sandals, in which case let him wear Khuffs, and cut them so that they come below the ankles. And do not wear any garment that has been touched by (dyed with) saffron or Wars."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، وَعَمْرُو بْنُ عَلِيٍّ، قَالاَ حَدَّثَنَا يَزِيدُ، وَهُوَ ابْنُ هَارُونَ قَالَ حَدَّثَنَا يَحْيَى، - وَهُوَ ابْنُ سَعِيدٍ الأَنْصَارِيُّ - عَنْ عُمَرَ بْنِ نَافِعٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم مَا نَلْبَسُ مِنَ الثِّيَابِ إِذَا أَحْرَمْنَا قَالَ ‏\n\"‏ لاَ تَلْبَسُوا الْقَمِيصَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْعَمَائِمَ وَلاَ الْبَرَانِسَ وَلاَ الْخِفَافَ إِلاَّ أَنْ يَكُونَ أَحَدٌ لَيْسَتْ لَهُ نَعْلاَنِ فَلْيَلْبَسِ الْخُفَّيْنِ أَسْفَلَ مِنَ الْكَعْبَيْنِ وَلاَ تَلْبَسُوا مِنَ الثِّيَابِ شَيْئًا مَسَّهُ وَرْسٌ وَلاَ زَعْفَرَانٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that:",
+        "text": "a man asked the Messenger of Allah what garments we should wear when we enter Ihram. He said: \"Do not wear shirts, or pants, or 'Imamahs, or burnouses, or Khuffs unless someone does not have any sandals, in which case he should wear Khuffs that come beneath the ankles. And do not wear any garment that has been touched by (dyed with) Wars or saffron."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَبُو الأَشْعَثِ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ نَادَى النَّبِيَّ صلى الله عليه وسلم رَجُلٌ فَقَالَ مَا نَلْبَسُ إِذَا أَحْرَمْنَا قَالَ ‏\n\"‏ لاَ تَلْبَسِ الْقَمِيصَ وَلاَ الْعِمَامَةَ وَلاَ السَّرَاوِيلَ وَلاَ الْبُرْنُسَ وَلاَ الْخُفَّيْنِ إِلاَّ أَنْ لاَ تَجِدَ نَعْلَيْنِ فَإِنْ لَمْ تَجِدِ النَّعْلَيْنِ فَمَا دُونَ الْكَعْبَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said;\n\"A man came to the Prophet and said:",
+        "text": "'What should we wear when we enter Ihram?' He said: 'Do not wear a shirt, or an 'Imamah, or pants, or a burnouts, or Khuffs unless you cannot find any sandals. If you cannot find any sandals, then wear something that comes beneath the ankles."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَبُو الأَشْعَثِ، أَحْمَدُ بْنُ الْمِقْدَامِ قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ نَادَى النَّبِيَّ صلى الله عليه وسلم رَجُلٌ فَقَالَ مَا نَلْبَسُ إِذَا أَحْرَمْنَا قَالَ ‏\n\"‏ لاَ تَلْبَسِ الْقَمِيصَ وَلاَ الْعَمَائِمَ وَلاَ الْبَرَانِسَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْخِفَافَ إِلاَّ أَنْ لاَ يَكُونَ نِعَالٌ فَإِنْ لَمْ يَكُنْ نِعَالٌ فَخُفَّيْنِ دُونَ الْكَعْبَيْنِ وَلاَ ثَوْبًا مَصْبُوغًا بِوَرْسٍ أَوْ زَعْفَرَانٍ أَوْ مَسَّهُ وَرْسٌ أَوْ زَعْفَرَانٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "\"A man came to the Prophet and said: 'What should we wear when we enter Ihram?' He said: 'Do not wear shirts, or 'Imamahs, or burnouses, or pants, or Khuffs unless there are no sandals; if there are no sandals, then wear Khuffs that come beneath the ankles. And (do not wear) any garment that has been dyed with Wars or saffron, or has been touched by Wars or saffron."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنِ ابْنِ أَبِي زَائِدَةَ، قَالَ أَنْبَأَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ تَلْبَسُوا فِي الإِحْرَامِ الْقَمِيصَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْعَمَائِمَ وَلاَ الْبَرَانِسَ وَلاَ الْخِفَافَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "\"I heard the Prophet say; 'do not wear shirts, or pants, or 'Imamahs, or burnouses, or Khuffs while in Ihram.'''(sahih)"
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ أَنْبَأَنَا أَيُّوبُ، عَنْ عَمْرٍو، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِذَا لَمْ يَجِدْ إِزَارًا فَلْيَلْبَسِ السَّرَاوِيلَ وَإِذَا لَمْ يَجِدِ النَّعْلَيْنِ فَلْيَلْبَسِ الْخُفَّيْنِ وَلْيَقْطَعْهُمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "\"I heard the Messenger of Allah say; 'If you cannot find an Izar then wear pants, and if you cannot find sandals then wear khuffs, but \ncut them so that they come lower than the ankles."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَنْبَأَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، رضى الله عنهما عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا لَمْ يَجِدِ الْمُحْرِمُ النَّعْلَيْنِ فَلْيَلْبَسِ الْخُفَّيْنِ وَلْيَقْطَعْهُمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar:",
+        "text": "That the Prophet said \"If a Muhrim cannot find sandals then let him wear Khuffs, and cut them, so that they come lower than the ankles.''"
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، قَامَ فَقَالَ يَا رَسُولَ اللَّهِ مَاذَا تَأْمُرُنَا أَنْ نَلْبَسَ مِنَ الثِّيَابِ فِي الإِحْرَامِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَلْبَسُوا الْقُمُصَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْخِفَافَ إِلاَّ أَنْ يَكُونَ رَجُلٌ لَهُ نَعْلاَنِ فَلْيَلْبَسِ الْخُفَّيْنِ أَسْفَلَ مِنَ الْكَعْبَيْنِ وَلاَ يَلْبَسْ شَيْئًا مِنَ الثِّيَابِ مَسَّهُ الزَّعْفَرَانُ وَلاَ الْوَرْسُ وَلاَ تَنْتَقِبُ الْمَرْأَةُ الْحَرَامُ وَلاَ تَلْبَسُ الْقُفَّازَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that a man stood up and said:",
+        "text": "\"O Messenger of Allah! What garments do you command us to wear in Ihram?\" The Messenger of Allah said; \"Do not wear shirts, or pants, or Khuffs unless a man does not have any sandals, in which case he may wear Khuffs that come lower than the ankles. And do not wear any garment that has been touched by (dyed with) saffron or Wars. And a woman in Ihram should not cover her face or wear gloves.\""
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ أَخْبَرَنِي نَافِعٌ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ أُخْتِهِ، حَفْصَةَ قَالَتْ قُلْتُ لِلنَّبِيِّ صلى الله عليه وسلم يَا رَسُولَ اللَّهِ مَا شَأْنُ النَّاسِ حَلُّوا وَلَمْ تَحِلَّ مِنْ عُمْرَتِكَ قَالَ ‏\n\"‏ إِنِّي لَبَّدْتُ رَأْسِي وَقَلَّدْتُ هَدْيِي فَلاَ أُحِلُّ حَتَّى أُحِلَّ مِنَ الْحَجِّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Umar that his sister, Hafsah, said;\n\"I said to the Prophet;'O Messenger of Allah! Why is it that the people have exited Ihram and you have not exited Ihram following your 'Umrah?'He said:",
+        "text": "'I have matted my hair and garlanded my Hadi (sacrificial animal), so I will not exit Ihram until I exit Ihram after Hajj.'''"
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، وَاللَّفْظُ، لَهُ عَنِ ابْنِ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُهِلُّ مُلَبِّدًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Salim that his father said:",
+        "text": "\"I saw the Messenger of Allah entering Ihram with his hair matted."
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرٍو، عَنْ سَالِمٍ، عَنْ عَائِشَةَ، قَالَتْ طَيَّبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عِنْدَ إِحْرَامِهِ حِينَ أَرَادَ أَنْ يُحْرِمَ وَعِنْدَ إِحْلاَلِهِ قَبْلَ أَنْ يُحِلَّ بِيَدَىَّ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I put perfume on the Messenger of Allah when he decided to enter Ihram, and when he exited Ihram, before he exited Ihram, with my own hand. ''"
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ طَيَّبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم لإِحْرَامِهِ قَبْلَ أَنْ يُحْرِمَ وَلِحِلِّهِ قَبْلَ أَنْ يَطُوفَ بِالْبَيْتِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Aishah said:",
+        "text": "\"I put perfume on the Messenger of Allah for his Ihram when he entered Ihram, and for his exiting Ihram when he had stoned Jamrat Al-Aqabah, before he circumambulated the House.''"
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا حُسَيْنُ بْنُ مَنْصُورِ بْنِ جَعْفَرٍ النَّيْسَابُورِيُّ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ طَيَّبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم لإِحْرَامِهِ قَبْلَ أَنْ يُحْرِمَ وَلِحِلِّهِ حِينَ أَحَلَّ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I put perfume on the Messenger of Allah for his Ihram before he entered Ihram, and for his exiting Ihram when he exited Ihram.''"
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ أَبُو عُبَيْدِ اللَّهِ الْمَخْزُومِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ طَيَّبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم لِحُرْمِهِ حِينَ أَحْرَمَ وَلِحِلِّهِ بَعْدَ مَا رَمَى جَمْرَةَ الْعَقَبَةِ قَبْلَ أَنْ يَطُوفَ بِالْبَيْتِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I put perfume on the Messenger of Allah for his Ihram when he entered Ihram, and for his exiting Ihram when he had stoned Jamrat Al-Aqabah, before he circumambulated the House.''"
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عِيسَى بْنُ مُحَمَّدٍ أَبُو عُمَيْرٍ، عَنْ ضَمْرَةَ، عَنِ الأَوْزَاعِيِّ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ طَيَّبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم لإِحْلاَلِهِ وَطَيَّبْتُهُ لإِحْرَامِهِ طِيبًا لاَ يُشْبِهُ طِيبَكُمْ هَذَا تَعْنِي لَيْسَ لَهُ بَقَاءٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Aishah said:",
+        "text": "\"I put perfume on the Messenger of Allah for his exiting Ihram, and I put perfume on him for his Ihram, perfume which was not like this perfume of yours\" she meant that it does not last.(Shah)"
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا عُثْمَانُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، قَالَ قُلْتُ لِعَائِشَةَ بِأَىِّ شَىْءٍ طَيَّبْتِ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَتْ بِأَطْيَبِ الطِّيبِ عِنْدَ حُرْمِهِ وَحِلِّهِ ‏.‏",
+      "english": {
+        "narrator": "'Uthman bin 'Urwah narrated that his father said:",
+        "text": "\"I said to 'Aishah: 'What kind of perfume did you put on the Messenger of Allah?' she said: 'The best kind of perfume, when he entered Ihram and when he exited Ihram."
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ يَحْيَى بْنِ الْوَزِيرِ بْنِ سُلَيْمَانَ، قَالَ أَنْبَأَنَا شُعَيْبُ بْنُ اللَّيْثِ، عَنْ أَبِيهِ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ عُثْمَانَ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أُطَيِّبُ رَسُولَ اللَّهِ صلى الله عليه وسلم عِنْدَ إِحْرَامِهِ بِأَطْيَبِ مَا أَجِدُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I used to put perfume on the Messenger of Allah when he entered Ihram, using the best perfume I could find."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أُطَيِّبُ رَسُولَ اللَّهِ صلى الله عليه وسلم بِأَطْيَبِ مَا أَجِدُ لِحُرْمِهِ وَلِحِلِّهِ وَحِينَ يُرِيدُ أَنْ يَزُورَ الْبَيْتَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I used to put perfume on the Messenger of Allah using the best I could find, when he entered Ihram and when he exited Ihram, and when he wanted to visit the House."
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَنْبَأَنَا مَنْصُورٌ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنِ الْقَاسِمِ، قَالَ قَالَتْ عَائِشَةُ طَيَّبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قَبْلَ أَنْ يُحْرِمَ وَيَوْمَ النَّحْرِ قَبْلَ أَنْ يَطُوفَ بِالْبَيْتِ بِطِيبٍ فِيهِ مِسْكٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Al-Qasim said:",
+        "text": "\"'Aishah said: 'I put perfume on the Messenger of Allah (ﷺ) before he entered Ihram and on the Day of Sacrifice before he circumambulated the House, using perfume containing musk.\"'"
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْوَلِيدِ، - يَعْنِي الْعَدَنِيَّ - عَنْ سُفْيَانَ، ح وَأَنْبَأَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ أَنْبَأَنَا إِسْحَاقُ، - يَعْنِي الأَزْرَقَ - قَالَ أَنْبَأَنَا سُفْيَانُ، عَنِ الْحَسَنِ بْنِ عُبَيْدِ اللَّهِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَأَنِّي أَنْظُرُ إِلَى وَبِيصِ الطِّيبِ فِي رَأْسِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ مُحْرِمٌ وَقَالَ أَحْمَدُ بْنُ نَصْرٍ فِي حَدِيثِهِ وَبِيصِ طِيبِ الْمِسْكِ فِي مَفْرِقِ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Aishah said:",
+        "text": "\"It is as if I can see the glistening of the perfume on the head of the Messenger of Allah when he is in Ihram.\" Ahmad bin Nasr (one of the narrators) said in his narration: \"The glistening of the perfume of musk in the parting (of the hair) of the Messenger of Allah\""
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، قَالَ قَالَ لِي إِبْرَاهِيمُ حَدَّثَنِي الأَسْوَدُ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ لَقَدْ كَانَ يُرَى وَبِيصُ الطِّيبِ فِي مَفَارِقِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ مُحْرِمٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The glistening of the perfume could be seen in the parting (of the hair) of the Messenger of Allah while he was in Ihram.''"
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَأَنِّي أَنْظُرُ إِلَى وَبِيصِ الطِّيبِ فِي رَأْسِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ مُحْرِمٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"It is as if I can see the glistening of the perfume on the head of the Messenger of Allah while he is in Ihram."
+      }
+    }
+  ]
+}

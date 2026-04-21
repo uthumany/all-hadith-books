@@ -1,0 +1,16 @@
+{
+  "id": 289,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا هَاشِمُ بْنُ الْقَاسِمِ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، قَالَ سَمِعْتُ رَجُلًا، مِنْ عَنَزَةَ يُحَدِّثُ عَنْ رَجُلٍ، مِنْ بَنِي أَسَدٍ قَالَ خَرَجَ عَلَيْنَا عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ فَقَالَ إِنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَ بِالْوَتْرِ ثَبَتَ وِتْرُهُ هَذِهِ السَّاعَةَ يَا ابْنَ النَّبَّاحِ أَذِّنْ أَوْ ثَوِّبْ‏.‏",
+  "english": {
+    "narrator": "It was narrated that a man from  Banu Asad said:",
+    "text": "`Ali (رضي الله عنه) came out to us and said: The Prophet (ﷺ) has enjoined Witr, and this is the time to pray Witr. O Ibnun-Nabbah, give the call to prayer."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

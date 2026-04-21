@@ -1,0 +1,510 @@
+{
+  "page": 35,
+  "perPage": 50,
+  "totalPages": 89,
+  "totalCount": 4428,
+  "nextPage": 36,
+  "prevPage": 34,
+  "items": [
+    {
+      "id": 16,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنِ اسْتَفَادَ مَالًا فَلَا زَكَاة فِيهِ حَتَّى يحول عيه الْحَوْلُ» . رَوَاهُ التِّرْمِذِيُّ وَذَكَرَ جَمَاعَةٌ أَنَّهُمْ وَقَفُوهُ على ابْن عمر",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar reported God’s messenger as saying, \n“He who acquires property is not liable for zakat on it till a year passes.” \n\nTirmidhi transmitted it, mentioning that a number traced the tradition no farther back than Ibn ‘Umar."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ: أَنَّ الْعَبَّاسَ سَأَلَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي تَعْجِيل صَدَقَة قَبْلَ أَنْ تَحِلَّ: فَرَخَّصَ لَهُ فِي ذَلِكَ. رَوَاهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَابْنُ مَاجَهْ وَالدَّارِمِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "Ali said that al-'Abbas asked God’s messenger about paying his sadaqa in advance before it became due, and he gave him permission to do that. \n\nAbu Dawud, Tirmidhi, Ibn Majah and Darimi transmitted it."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَطَبَ النَّاسَ فَقَالَ: «أَلَا مَنْ وَلِيَ يَتِيمًا لَهُ مَالٌ فَلْيَتَّجِرْ فِيهِ وَلَا يَتْرُكْهُ حَتَّى تَأْكُلَهُ الصَّدَقَةُ» . رَوَاهُ التِّرْمِذِيُّ وَقَالَ: فِي إِسْنَادِهِ مقَال: لِأَن الْمثنى بن الصَّباح ضَعِيف",
+      "english": {
+        "narrator": "",
+        "text": "‘Amr b. Shu'aib on his father’s authority said that his grandfather told of the Prophet addressing the people and saying, \n“If anyone is guardian of an orphan who owns property, he must trade with it and not leave it till the sadaqa consumes it.\" \n\nTirmidhi transmitted it, adding that its isnad has been criticised because al-Muthanna b. as- Sabbah was weak."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ قَالَ: لَمَّا تُوُفِّيَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَاسْتُخْلِفَ أَبُو بَكْرٍ وَكَفَرَ مَنْ كَفَرَ مِنَ الْعَرَبِ قَالَ عُمَرُ: يَا أَبَا بَكْرٍ كَيْفَ تُقَاتِلُ النَّاسَ وَقَدْ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَقُولُوا: لَا إِلَهَ إِلَّا اللَّهُ فَمَنْ قَالَ: لَا إِلَهَ إِلَّا اللَّهُ عَصَمَ مِنِّي مَالَهُ وَنَفْسَهُ إِلَّا بِحَقِّهِ وَحِسَابُهُ على الله \". قَالَ أَبُو بَكْرٍ: وَاللَّهِ لَأُقَاتِلَنَّ مَنْ فَرَّقَ بَيْنَ الصَّلَاةِ وَالزَّكَاةِ فَإِنَّ الزَّكَاةَ حَقُّ الْمَالِ وَاللَّهِ لَوْ مَنَعُونِي عَنَاقًا كَانُوا يُؤَدُّونَهَا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَقَاتَلْتُهُمْ عَلَى مَنْعِهَا. قَالَ عُمَرُ: فَوَاللَّهِ مَا هُوَ إِلَّا أَن رَأَيْت أَن قد شرح الله صَدْرَ أَبِي بَكْرٍ لِلْقِتَالِ فَعَرَفْتُ أَنَّهُ الْحَقُّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira said that when Abu Bakr was made the Prophet's successor after his death and infidelity arose among certain Arabs, ‘Umar b. al-Khattab asked Abu Bakr how he could fight with the people when God’s messenger had said, “I have been commanded to fight with the people till they say there is no god but God, so whoever says so has protected his property and his person from me except for what is due from him, and his reckoning is left to God.” \nAbu Bakr replied, “I swear by God that I will certainly fight with those who make a distinction between prayer and zakat, for the zakat is what is due from property. I swear by God that if they were to refuse me a female kid which they used to pay to God’s messenger I would fight with them over the refusal of it.\" \n‘Umar then said, “I swear by God that I clearly saw God had made Abu Bakr feel justified in fighting, and I recognised that it was right.\" \n\n(Bukhari and Muslim)."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يَكُونُ كَنْزُ أَحَدِكُمْ يَوْمَ الْقِيَامَةِ شُجَاعًا أَقْرَعَ يَفِرُّ مِنْهُ صَاحِبُهُ وَهُوَ يَطْلُبُهُ حَتَّى يُلْقِمَهُ أَصَابِعه» . رَوَاهُ أَحْمد",
+      "english": {
+        "narrator": "",
+        "text": "He reported God’s messenger as saying, \n“The treasure of one of you on the day of resurrection will be a large bald snake from which he will flee, but it will keep following after him till he gives it his fingers to eat.\" \n\nAhmad transmitted it."
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ مَسْعُودٍ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَا مِنْ رَجُلٍ لَا يُؤَدِّي زَكَاةَ مَالِهِ إِلَّا جَعَلَ اللَّهُ يَوْمَ الْقِيَامَةِ فِي عُنُقِهِ شُجَاعًا» ثُمَّ قَرَأَ عَلَيْنَا مِصْدَاقَهُ مِنْ كِتَابِ اللَّهِ: (وَلَا يَحْسَبَنَّ الَّذِينَ يبلخون بِمَا آتَاهُم الله من فَضله)\nالْآيَة. رَوَاهُ التِّرْمِذِيّ وَالنَّسَائِيّ وَابْن مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "Ibn Mas'ud reported the Prophet as saying, \n“No man will fail to pay the zakat on his property without God putting a large snake on his neck on the day of resurrection.\" He then recited to them the justification of it from God s Book, “Let not those who are niggardly with what God has given them from His bounty suppose…”*\n\nTirmidhi, Nasa’i and Ibn Majah transmitted it.\n\n* Quran 3:180."
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَا خَالَطَتِ الزَّكَاةُ مَالًا قَطُّ إِلَّا أَهْلَكَتْهُ» . رَوَاهُ الشَّافِعِيُّ وَالْبُخَارِيُّ فِي تَارِيخِهِ وَالْحُمَيْدِيُّ وَزَادَ قَالَ: يَكُونُ قَدْ وَجَبَ عَلَيْكَ صَدَقَةٌ فَلَا تُخْرِجْهَا فَيُهْلِكُ الْحَرَامُ الْحَلَالَ. وَقَدِ احْتَجَّ بِهِ من يرى تعلق الزَّكَاةِ بِالْعَيْنِ هَكَذَا فِي الْمُنْتَقَى\nوَرَوَى الْبَيْهَقِيُّ فِي شُعَبِ الْإِيمَانِ عَنْ أَحْمَدَ بْنِ حَنْبَلٍ بِإِسْنَادِهِ إِلَى عَائِشَةَ. وَقَالَ أَحْمَدُ فِي «خَالَطَتْ» : تَفْسِيرُهُ أَنَّ الرَّجُلَ يَأْخُذُ الزَّكَاةَ وَهُوَ مُوسِرٌ أَو غَنِي وَإِنَّمَا هِيَ للْفُقَرَاء",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha said she heard God’s messenger say, \n“zakat is never mingled with any property without destroying it.” \n\nShafi'i, Bukhari in his Ta’rikh, and al-Humaidi transmitted it, al-Humaidl adding He said, “Sadaqa will have been incumbent on you and you will not pay it, so what is forbidden will destroy what is lawful.” Those who hold that the zakat is connected with the property itself have used this as an argument. It is given thus in al-Muntaqa.\n\nBaihaqi transmitted in Shu’ab al-iman from Ahmad b. Hanbal with, his isnad to ‘A’isha, and Ahmad said “mingled” means that a man accepts zakat when he is opulent or rich, whereas it is only for the poor."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَيْسَ فِيمَا دُونَ خَمْسَةِ أَوْسُقٍ مِنَ التَّمْرِ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسِ أَوَاقٍ مِنَ الْوَرِقِ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسِ ذَوْدٍ من الْإِبِل صَدَقَة»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa'id al-Khudri reported God’s messenger as saying, \n“No sadaqa is payable on less than five camel-loads (wasq) of dates, on less than five ounces of silver, and on less than five camels.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَيْسَ عَلَى الْمُسْلِمِ صَدَقَةٌ فِي عَبْدِهِ وَلَا فِي فَرَسِهِ» . وَفِي رِوَايَةٍ قَالَ: «لَيْسَ فِي عَبْدِهِ صَدَقَةٌ إِلَّا صَدَقَةُ الْفِطْرِ»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, \n“No sadaqa is due from a Muslim on his slave or his horse.” \nIn a version he said, “There is no sadaqa on his slave except that given at the breaking of the fast.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَن أنس بن مَالك: أَن أَبَا بكر رَضِي الله عَنهُ كَتَبَ لَهُ هَذَا الْكِتَابَ لَمَّا وَجَّهَهُ إِلَى الْبَحْرِينِ: بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ هَذِهِ فَرِيضَةُ الصَّدَقَةِ الَّتِي فَرَضَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى الْمُسْلِمِينَ وَالَّتِي أَمَرَ اللَّهُ عز وَجل بهَا رَسُوله فَمن سَأَلَهَا مِنَ الْمُسْلِمِينَ عَلَى وَجْهِهَا فَلْيُعْطِهَا وَمَنْ سُئِلَ فَوْقَهَا فَلَا يُعْطِ: فِي أَرْبَعٍ وَعِشْرِينَ مِنَ الْإِبِل فَمَا دونهَا خَمْسٍ شَاةٌ. فَإِذَا بَلَغَتْ خَمْسًا وَعِشْرِينَ إِلَى خَمْسٍ وَثَلَاثِينَ فَفِيهَا بِنْتُ مَخَاضٍ أُنْثَى فَإِذَا بلغت سِتا وَثَلَاثِينَ فَفِيهَا بنت لبون أُنْثَى. فَإِذا بلغت سِتَّة وَأَرْبَعين إِلَى سِتِّينَ فَفِيهَا حِقَّةٌ طَرُوقَةُ الْجَمَلِ فَإِذَا بَلَغَتْ وَاحِدَةً وَسِتِّينَ فَفِيهَا جَذَعَة. فَإِذا بلغت سِتا وَسبعين فَفِيهَا بِنْتَا لَبُونٍ. فَإِذَا بَلَغَتْ إِحْدَى وَتِسْعِينَ إِلَى عِشْرِينَ وَمِائَةٍ فَفِيهَا حِقَّتَانِ طَرُوقَتَا الْجَمَلِ. فَإِذَا زَادَتْ عَلَى عِشْرِينَ وَمِائَةٍ فَفِي كُلِّ أَرْبَعِينَ بِنْتُ لَبُونٍ وَفِي كُلِّ خَمْسِينَ حِقَّةٌ. وَمَنْ لَمْ يَكُنْ مَعَهُ إِلَّا أَرْبَعٌ مِنَ الْإِبِلِ فَلَيْسَ فِيهَا صَدَقَةٌ إِلَّا أَنْ يَشَاءَ رَبُّهَا. فَإِذَا بَلَغَتْ خَمْسًا فَفِيهَا شَاةٌ وَمَنْ بَلَغَتْ عِنْدَهُ مِنَ الْإِبِلِ صَدَقَةَ الْجَذَعَةِ وَلَيْسَتْ عِنْده جَذَعَة وَعِنْده حقة فَإِنَّهَا تقبل مِنْهُ الْحِقَّةُ وَيُجْعَلُ مَعَهَا شَاتَيْنِ إِنِ اسْتَيْسَرَتَا لَهُ أَوْ عِشْرِينَ دِرْهَمًا. وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةَ الْحِقَّةِ وَلَيْسَتْ عِنْدَهُ الْحِقَّةُ وَعِنْدَهُ الْجَذَعَةُ فَإِنَّهَا تُقْبَلُ مِنْهُ الْجَذَعَةُ وَيُعْطِيهِ الْمُصَدِّقُ عِشْرِينَ دِرْهَمًا أَوْ شَاتَيْنِ. وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةَ الْحِقَّةِ وَلَيْسَت إِلَّا عِنْده بِنْتُ لَبُونٍ فَإِنَّهَا تُقْبَلُ مِنْهُ بِنْتُ لَبُونٍ وَيُعْطِي مَعهَا شَاتَيْنِ أَوْ عِشْرِينَ دِرْهَمًا. وَمَنْ بَلَغَتْ صَدَقَتُهُ بنت لبون وَعِنْده حقة فَإِنَّهَا تقبل مِنْهُ الْحِقَّةُ وَيُعْطِيهِ الْمُصَدِّقُ عِشْرِينَ دِرْهَمًا أَوْ شَاتَيْنِ. وَمَنْ بَلَغَتْ صَدَقَتُهُ بَنْتَ لِبَوْنٍ وَلَيْسَتْ عِنْدَهُ وَعِنْدَهُ بِنْتُ مَخَاضٍ فَإِنَّهَا تُقْبَلُ مِنْهُ بِنْتُ مَخَاضٍ وَيُعْطَى مَعَهَا عِشْرِينَ دِرْهَمًا أَوْ شَاتَيْنِ. وَمَنْ بَلَغَتْ صَدَقَتُهُ بَنْتَ مَخَاضٍ وَلَيْسَتْ عِنْدَهُ وَعِنْدَهُ بِنْتُ لَبُونٍ فَإِنَّهَا تُقْبَلُ مِنْهُ وَيُعْطِيهِ الْمُصَدِّقُ عِشْرِينَ دِرْهَمًا أَوْ شَاتَيْنِ. فَإِنْ لَمْ تَكُنْ عِنْدَهُ بِنْتُ مَخَاضٍ عَلَى وَجْهِهَا وَعِنْدَهُ ابْن لَبُونٍ فَإِنَّهُ يُقْبَلُ مِنْهُ وَلَيْسَ مَعَهُ شَيْءٌ. وَفِي صَدَقَةِ الْغَنَمِ فِي سَائِمَتِهَا إِذَا كَانَتْ أَرْبَعِينَ فَفِيهَا شَاة إِلَى عشْرين وَمِائَة شَاة فَإِن زَادَتْ عَلَى عِشْرِينَ وَمِائَةٍ إِلَى مِائَتَيْنِ فَفِيهَا شَاتَان. فَإِن زَادَتْ عَلَى مِائَتَيْنِ إِلَى ثَلَاثِمِائَةٍ فَفِيهَا ثَلَاثُ شِيَاهٍ. فَإِذَا زَادَتْ عَلَى ثَلَاثِمِائَةٍ فَفِي كُلِّ مِائَةٍ شَاةٌ. فَإِذَا كَانَتْ سَائِمَةُ الرَّجُلِ نَاقِصَةً مِنْ أَرْبَعِينَ شَاةً وَاحِدَةً فَلَيْسَ فِيهَا صَدَقَةٌ إِلَّا أَنْ يَشَاءَ رَبُّهَا. وَلَا تُخْرَجَ فِي الصَّدَقَة هرمة وَلَا ذَات عور وَلَا تَيْسٌ إِلَّا مَا شَاءَ الْمُصَدِّقُ. وَلَا يجمع بَين متفرق وَلَا يفرق بَين مُجْتَمع خَشْيَةَ الصَّدَقَةِ وَمَا كَانَ مِنْ خَلِيطَيْنِ فَإِنَّهُمَا يَتَرَاجَعَانِ بَيْنَهُمَا بِالسَّوِيَّةِ. وَفِي الرِّقَةِ رُبُعُ الْعُشْرِ فَإِنْ لَمْ تَكُنْ إِلَّا تِسْعِينَ وَمِائَةً فَلَيْسَ فِيهَا شَيْءٌ إِلَّا أَنْ يَشَاءَ رَبُّهَا. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "Anas said that when Abu Bakr sent him to al-Bahrain he wrote him this letter:",
+        "text": "In the name of God, the Compassionate, the Merciful. This is the obligatory sadaqa which God’s messenger imposed on the Muslims which God commanded him to impose. Those Muslims who are asked for the proper amount must give it, but those who are asked for more than that must not give it. For twenty-four camels or less, a sheep is to be given for every five. When they reach twenty-five to thirty-five, a she-camel in her second year is to be given. When they reach thirty-six to forty-five, a she-camel in her third year is to be given. When they reach forty-six to sixty, a she-camel in her fourth year which is ready to be covered by a stallion is to be given. When they reach sixty-one to seventy-five, a she-camel in her fifth year is to be given. When they reach seventy-six to ninety, two she-camels in their third year are to be given. When they reach ninety-one to a hundred and twenty, two she-camels in their fourth year which are ready to be covered by a stallion are to be given. When they exceed a hundred and twenty, a she-camel in her third year is to be given for every forty and a she-camel in her fourth year for every fifty. If anyone has only four camels, no sadaqa is payable on them unless their owner wishes, but when they reach five a sheep is payable on them. If anyone whose camels reach the number on which a she-camel in her fifth year is payable does not possess one but possesses one in her fourth year, that will be accepted from him along with two sheep if he can conveniently give them, or else twenty dirhams. If anyone whose camels reach the number on which a she-camel in her fourth year is payable does not possess one but possesses one in her fifth year, that will be accepted from him, and the collector must give him twenty dirhams or two sheep. If anyone whose camels reach the number on which a she-camel in her fourth year is payable possesses only one in her third year, that will be accepted from him along with two sheep or twenty dirhams. If any one whose camels reach the number on which a she-camel in her third year is payable possesses one in her fourth year, that will be accepted from him, and the collector must give him twenty dirhams or two sheep. If anyone whose camels reach the number on which a she-camel in her third year is payable does not possess one but possesses one in her second year, that will be accepted from him, and he must give along with it twenty dirhams or two sheep. If anyone whose camels reach the number on which a she-camel in her second year is payable does not possess one but possesses one in her third year, that will be accepted from him, and the collector must give him twenty dirhams or two sheep; but if he does not possess a she-camel in her second year as is required and possesses a male camel in its third year, that will be accepted from him and nothing extra is to be demanded along with it. Concerning the sadaqa on sheep which are pasturing, when they number from forty to a hundred and twenty, a sheep is to be given. On over a hundred and twenty up to two hundred two sheep are to be given. On over two hundred up to three hundred three sheep are to be given. If they exceed three hundred, a sheep is to be given for every hundred. If a man’s pasturing animals are one less than forty no sadaqa is due on them unless their owner wishes. An old sheep, one with a defect in the eye, or a male goat is not to be brought forth as sadaqa unless the collector is willing. Those which are in separate flocks are not to be brought together and those which are in one flock are not to be separated from fear of sadaqa. * Regarding what belongs to two partners, they can make claims for restitution from one another with equity. On dirhams a fortieth is payable, but if there are only a hundred and ninety nothing is payable unless their owner wishes. \n\nBukhari transmitted it.\n\n* The principle is that there is to be no rearrangement either so that the collector may get more than he might, or the owner may give less than he might."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «فِيمَا سَقَتِ السَّمَاءُ وَالْعُيُونُ أَوْ كَانَ عَثَرِيًّا الْعُشْرُ. وَمَا سقِِي بالنضح نصف الْعشْر» . رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. ‘Umar reported the Prophet as saying, \n“A tenth is payable on what is watered by rain or wells, or from underground moisture, and a twentieth on what is watered by draught camels.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم: «العجماء جرحها جَبَّار والبشر جَبَّار والمعدن جَبَّار وَفِي الرِّكَاز الْخمس»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, \n“No retaliation is payable for a wound caused by a dumb animal, or for an accident in a well or a mine, but a fifth is payable on buried treasure.” *\n\n(Bukhari and Muslim.)\n\n* The word used (rikaz) is applied to treasure buried by people in pre-Islamic times; but the word may also mean metal in mines."
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" قَدْ عَفَوْتُ عَنِ الْخَيْلِ وَالرَّقِيقِ فَهَاتُوا صَدَقَةً الرِّقَةِ: مِنْ كُلِّ أَرْبَعِينَ دِرْهَمًا دِرْهَمٌ وَلَيْسَ فِي تِسْعِينَ وَمِائَةٍ شَيْءٌ فَإِذَا بَلَغَتْ مِائَتَيْنِ فَفِيهَا خَمْسَةُ دَرَاهِمَ \". رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ وَفِي رِوَايَةٍ لأبي دَاوُد عَن الْحَارِث عَنْ عَلِيٍّ قَالَ زُهَيْرٌ أَحْسَبُهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ: \" هَاتُوا رُبْعَ الْعُشْرِ مِنْ كُلِّ أَرْبَعِينَ دِرْهَمًا دِرْهَمٌ وَلَيْسَ عَلَيْكُمْ شَيْءٌ حَتَّى تَتِمَّ مِائَتَيْ دِرْهَمٍ. فَإِذَا كَانَتْ مِائَتَيْ دِرْهَمٍ فَفِيهَا خَمْسَةُ دَرَاهِمَ. فَمَا زَادَ فَعَلَى حِسَابِ ذَلِكَ. وَفِي الْغَنَمِ فِي كُلِّ أَرْبَعِينَ شَاةً شَاةٌ إِلَى عِشْرِينَ وَمِائَة ز فَإِن زَادَت وَاحِدَة فشاتان إِلَى مِائَتَيْنِ. فَإِن زَادَتْ فَثَلَاثُ شِيَاهٍ إِلَى ثَلَاثِمِائَةٍ فَإِذَا زَادَتْ على ثَلَاث مائَة فَفِي كُلِّ مِائَةٍ شَاةٌ. فَإِنْ لَمْ تَكُنْ إِلَّا تِسْعٌ وَثَلَاثُونَ فَلَيْسَ عَلَيْكَ فِيهَا شَيْءٌ\nوَفِي الْبَقَرِ: فِي كُلِّ ثَلَاثِينَ تَبِيعٌ وَفِي الْأَرْبَعين مُسِنَّة وَلَيْسَ على العوامل شَيْء \"",
+      "english": {
+        "narrator": "",
+        "text": "‘Ali reported God’s messenger as saying, \n“I have given exemption regarding horses and slaves; with regard to coins, however, you must pay a dirham for every forty, but nothing is payable on a hundred and ninety. When the total reaches two hundred, five dirhams are payable.” \n\nTirmidhi and Abu Dawud transmitted it. \n\nIn a version by Abu Dawud from al-Harith al-A'war from ‘Ali, from the Prophet, as Zuhair thought,* he said, “Pay a fortieth.” A dirham is payable on every forty, but you are not liable for payment till you have a complete two hundred dirhams. When they reach two hundred five dirhams are payable, and that proportion is applicable to larger amounts. Regarding sheep, for every forty sheep up to a hundred and twenty, one sheep is payable. If there is one more, then up to two hundred two sheep are payable. If there are more, then up to three hundred three sheep are payable, and if there are more than three hundred a sheep is payable for every hundred. But if you possess only thirty-nine, nothing is payable on them. Regarding cattle, a male calf of a year old is payable for every thirty and a cow in its third year for forty, but nothing is payable on working animals.\n\n* Zuhair, from whom Abu Dawud’s immediate informant got the tradition, is here quoted as saying he thought 'Ali got the tradition from the Prophet directly. See Abu Dawud, zakat, 5. There are three stages in the isnad between Zuhair and Ali."
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ مُعَاذٍ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمَّا وَجَّهَهُ إِلَى الْيَمَنِ أَمْرَهُ أَنْ يَأْخُذَ مِنْ الْبَقَرَة: مِنْ كُلِّ ثَلَاثِينَ تَبِيعًا أَوْ تَبِيعَةً وَمِنْ كل أَرْبَعِينَ مُسِنَّةً. رَوَاهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَالنَّسَائِيُّ والدارمي",
+      "english": {
+        "narrator": "",
+        "text": "Mu'adh said that when the Prophet sent him to the Yemen he ordered him to take a male or female calf of a year old for every thirty cattle and a cow in its third year for every forty. \n\nAbu Dawud, Tirmidhi, Nasa’i and Darimi transmitted it."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْمُعْتَدِي فِي الصَّدَقَةِ كَمَانِعِهَا» . رَوَاهُ أَبُو دَاوُد وَالتِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Anas reported God’s messenger as saying, \n“He who collects more sadaqa than is due is like him who refuses to pay it.” *\n\nAbu Dawud and Tirmidhi transmitted it.\n\n* Meaning that the sin committed by both is similar in its seriousness."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَيْسَ فِي حَبٍّ وَلَا تَمْرٍ صَدَقَةٌ حَتَّى يَبْلُغَ خَمْسَةَ أَوْسُقٍ» . رَوَاهُ النَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa’id al-Khudri reported the Prophet as saying, \n“There is no sadaqa payable on grain or dates till they reach five camel-loads.” \n\nNasa’i transmitted it."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ مُوسَى بْنِ طَلْحَةَ قَالَ: عِنْدَنَا كِتَابُ مُعَاذِ بْنِ جَبَلٍ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ: إِنَّمَا أَمَرَهُ أَنْ يَأْخُذَ الصَّدَقَةَ مِنَ الْحِنْطَةِ وَالشَّعِيرِ وَالزَّبِيبِ وَالتَّمْرِ. مُرْسل رَوَاهُ فِي شرح السّنة",
+      "english": {
+        "narrator": "",
+        "text": "Musa b. Talha said he had the letter of Mu'adh b. Jabal from the Prophet to the effect that he ordered him to collect sadaqa only on wheat, barley, raisins and dates. \n\nIt is in mursal form and is transmitted in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَتَّابِ بْنِ أَسِيدٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ فِي زَكَاةِ الْكُرُومِ: «إِنَّهَا تُخْرَصُ كَمَا تُخْرَصُ النَّخْلُ ثُمَّ تُؤَدَّى زَكَاتُهُ زَبِيبًا كَمَا تُؤَدَّى زَكَاةُ النَّخْلِ تَمْرًا» . رَوَاهُ التِّرْمِذِيّ وَأَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "‘Attab b. Usaid reported the Prophet as saying regarding the zakat on vines, \n“They are to be estimated as palm-trees are, then the zakat is to be paid in raisins as the zakat on palm-trees is paid in dried dates.” \n\nTirmidhi and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ حَدَّثَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَقُولُ: «إِذَا خَرَصْتُمْ فَخُذُوا وَدَعُوا الثُّلُثَ فَإِنْ لَمْ تَدَعُوا الثُّلُثَ فَدَعُوا الرُّبُعَ» . رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُد وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Sahl b. Abu Hathma related that God’s messenger used to say, \n“When you estimate take them leaving a third, and if you do not leave a third leave a quarter.” *\n\nTirmidhi, Abu Dawud and Nasa'i transmitted it.\n\n* This is interpreted by some as meaning that a third or a quarter was not to be reckoned when assessing the tax."
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ قَالَتْ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يبْعَث عبد الله ابْن رَوَاحَةَ إِلَى يَهُودٍ فَيَخْرُصُ النَّخْلَ حِينَ يَطِيبُ قَبْلَ أَنْ يُؤْكَلَ مِنْهُ. رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "",
+        "text": "'A’isha said the Prophet used to send 'Abdallah b. Rawaha to Jews, and he would make an estimate of the palm trees when the fruit was in good condition before any of it was eaten.\n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم فِي الْعَمَل: «فِي كُلِّ عَشْرَةِ أَزُقٍّ زِقٌّ» . رَوَاهُ التِّرْمِذِيُّ وَقَالَ: فِي إِسْنَادِهِ مَقَالٌ وَلَا يَصِحُّ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي هَذَا الْبَاب كثير شَيْء",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar reported God’s messenger as saying regarding honey, \n“A skin is payable on every ten.” \n\nTirmidhi transmitted it, saying its isnad is criticised and that little on this subject is soundly reported from the Prophet."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ زَيْنَبَ امْرَأَةِ عَبْدِ اللَّهِ قَالَتْ: خَطَبَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «يَا مَعْشَرَ النِّسَاءِ تَصَدَّقْنَ وَلَوْ مِنْ حُلِيِّكُنَّ فَإِنَّكُنَّ أَكْثَرُ أَهْلِ جَهَنَّمَ يَوْمَ الْقِيَامَةِ» . رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Zainab the wife of ‘Abdallah said God’s messenger addressed them saying, \n“You women should give alms even if it consists of your jewellery, * for you will be the majority of the inhabitants of jahannam on the day of resurrection.” \n\nTirmidhi transmitted it.\n\n* There is a difference of opinion as to whether this means simply giving some of their jewellery, or whether it means that zakat must be paid on jewellery which they possess."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ: أَنَّ امْرَأَتَيْنِ أَتَتَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَفِي أَيْدِيهِمَا سِوَارَانِ مِنْ ذَهَبٍ فَقَالَ لَهُمَا: «تُؤَدِّيَانِ زَكَاتَهُ؟» قَالَتَا: لَا. فَقَالَ لَهُمَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَتُحِبَّانِ أَنْ يُسَوِّرَكُمَا اللَّهُ بِسِوَارَيْنِ مِنْ نَارٍ؟» قَالَتَا: لَا. قَالَ: «فَأَدِّيَا زَكَاتَهُ» رَوَاهُ التِّرْمِذِيّ وَقَالَ: هَذَا حَدِيث قد رَوَاهُ الْمُثَنَّى بْنُ الصَّبَّاحِ عَنْ عَمْرِو بْنِ شُعَيْبٍ نَحْوَ هَذَا وَالْمُثَنَّى بْنُ الصَّبَّاحِ وَابْنُ لَهِيعَةَ يُضَعَّفَانِ فِي الْحَدِيثِ وَلَا يَصِحُّ فِي هَذَا الْبَابِ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَيْء",
+      "english": {
+        "narrator": "",
+        "text": "‘Amr b. Shu'aib on his father’s authority said that his grandfather told of two women wearing gold bangles on their wrists coming to God’s messenger, who asked them whether they paid zakat on them. On their replying that they did not, he asked them whether they wanted God to put two bangles of fire on them, and when they replied that they did not, he told them to pay the zakat due on them. \n\nTirmidhi transmitted it, saying something similar to this tradition has been transmitted by al-Muthanna b. as-Sabbah from ‘Amr b. Shu'aib; but al-Muthanna b. as-Sabbah and Ibn Lahi'a are declared to be weak in tradition; and nothing on this subject is soundly reported from the Prophet."
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أُمِّ سَلَمَةَ قَالَتْ: كُنْتُ أَلْبَسُ أَوْضَاحًا مِنْ ذَهَبٍ فَقُلْتُ: يَا رَسُولَ اللَّهِ أَكَنْزٌ هُوَ؟ فَقَالَ: «مَا بلغ أَن يُؤدى زَكَاتُهُ فَزُكِّيَ فَلَيْسَ بِكَنْزٍ» . رَوَاهُ مَالِكٌ وَأَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Umm Salama said she was wearing gold ornaments and asked God’s messenger whether that was a treasure,* to which he replied, \n“Whatever reaches a quantity on which zakat is payable is not a treasure when the zakat is paid.” \n\nMalik and Abu Dawud transmitted it.\n\n* The word kanz which means a treasure is used as a technical term for property liable to zakat on which the zakat is not paid."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ سَمُرَةَ بْنِ جُنْدُبٍ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَأْمُرُنَا أَنْ نُخْرِجَ الصَّدَقَةَ مِنَ الَّذِي نُعِدُّ لِلْبَيْعِ. رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Samura b. Jundub said God’s messenger used to order them to deduct the sadaqa from what they prepared for trade. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ غَيْرِ وَاحِدٍ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَقْطَعَ لِبِلَالِ بْنِ الْحَارِثِ الْمُزَنِيِّ معادن الْقبلية وَهِيَ مِنْ نَاحِيَةِ الْفُرْعِ فَتِلْكَ الْمَعَادِنُ لَا تُؤْخَذُ مِنْهَا إِلَّا الزَّكَاةُ إِلَى الْيَوْمِ. رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Rabi'a b. ‘Abd ar-Rahman on more than one person’s authority said, \n“God’s messenger assigned as a fief to Bilal b. al-Harith al-Muzani the mines of al-Qabaliya which is in the neighbourhood of al-Fur‘,* and only zakat is levied on those mines up to the present day.” \n\nAbu Dawud transmitted it.\n\n* Yaqut, Mu'jam, ii, 471, says it is a village in the neighbourhood of ar-Rabadha, eight stages from Medina on the way to Mecca; some say four days’ journey."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "عَنْ عَلِيٍّ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَيْسَ فِي الْخَضْرَاوَاتِ صَدَقَةٌ وَلَا فِي الْعَرَايَا صَدَقَةٌ وَلَا فِي أَقَلَّ مِنْ خَمْسَةِ أَوْسُقٍ صَدَقَةٌ وَلَا فِي الْعَوَامِلِ صَدَقَةٌ وَلَا فِي الْجَبْهَةِ صَدَقَةٌ» . قَالَ الصَّقْرُ: الْجَبْهَةُ الْخَيل وَالْبِغَال وَالْعَبِيد. رَوَاهُ الدَّارَقُطْنِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘Ali reported the Prophet as saying, \n“There is no sadaqa on green herbs, palm-trees given in usufruct for a year, less than five camel-loads, working animals, or al-jabha.” As-Saqr said al-jabha* consists of horses, mules and slaves. \n\nDaraqutni transmitted it.\n\n* Applied usually to horses, meaning the best type."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ طَاوُسٍ أَنَّ مُعَاذَ بْنَ جَبَلٍ أَتَى بِوَقَصِ الْبَقَرِ فَقَالَ: لَمْ يَأْمُرْنِي فِيهِ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِشَيْءٍ. رَوَاهُ الدَّارَقُطْنِيُّ وَالشَّافِعِيُّ وَقَالَ: الْوَقَصُ مَا لَمْ يَبْلُغِ الْفَرِيضَةَ",
+      "english": {
+        "narrator": "",
+        "text": "Tawus told that a waqs of cattle was brought to Mu'adh b. Jabal and he said the Prophet did not command him to pay anything on them. \n\nDaraqutni and Shafi' transmitted it, the latter saying that a waqs is a number less than that on which sadaqa is payable. *\n\n* The word waqs or waqas is applied to odd numbers of animals (usually cattle) between one limit of assessment and the next."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ عُمَرَ قَالَ: فَرَضَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ زَكَاةَ الْفِطْرِ صَاعًا مِنْ تَمْرٍ أَوْ صَاعًا مِنْ شَعِيرٍ عَلَى الْعَبْدِ وَالْحُرِّ وَالذَّكَرِ وَالْأُنْثَى وَالصَّغِيرِ وَالْكَبِيرِ مِنَ الْمُسْلِمِينَ وَأَمَرَ بِهَا أَنْ تُؤَدَّى قَبْلَ خُرُوجِ النَّاس إِلَى الصَّلَاة",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar said God’s messenger prescribed as the zakat payable by slave and freeman, male and female, young and old among the Muslims on breaking the fast of Ramadan a sa'*  of dried dates or a sa' of barley, and gave command that this should be paid before the people went out to prayer. \n\n(Bukhari and Muslim.)\n\n* The Hijazi sa' is described as a measure equivalent to four mudds, the mudd being the amount a man with average size hands can hold with both hands extended."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ: كُنَّا نُخْرِجُ زَكَاةَ الْفِطْرِ صَاعًا مِنْ طَعَامٍ أَو صَاعا من شعير أَو صَاعا من تَمْرٍ أَوْ صَاعًا مَنْ أَقِطٍ أَوْ صَاعًا من زبيب",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa'id al-Khudrl said, \n“We used to bring forth as the zakat on breaking the fast of Ramadan a sa’ of grain, or of barley, or of dried dates, or of cheese, or of raisins.\" \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ عَبَّاسٍ قَالَ: فِي آخِرِ رَمَضَانَ أخرجُوا صَدَقَة صومكم. فرض رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ هَذِهِ الصَّدَقَةَ صَاعًا مِنْ تَمْرٍ أَوْ شَعِيرٍ أَوْ نِصْفَ صَاعٍ مِنْ قَمْحٍ عَلَى كُلِّ حُرٍّ أَوْ مَمْلُوكٍ ذَكَرٍ أَوْ أُنْثَى صَغِيرٍ أَوْ كَبِيرٍ. رَوَاهُ أَبُو دَاوُد وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn 'Abbas said, \n“At the end of Ramadan bring forth the sadaqa relating to your fast. God's messenger prescribed this sadaqa as a sa' of dried dates or barley, or half a sa' of wheat payable by every free¬man or slave, male or female, young or old.\" \n\nAbu Dawud and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَن ابْنِ عَبَّاسٍ قَالَ: فَرَضَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ زَكَاةَ الْفِطْرِ طُهْرَ الصِّيَامِ مِنَ اللَّغْوِ وَالرَّفَثِ وَطُعْمَةً لِلْمَسَاكِينِ. رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "He said that God’s messenger prescribed the zakat relating to the breaking of the fast as a purification of the fasting from empty and obscene talk and as food for the poor. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "عَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعَثَ مُنَادِيًا فِي فِجَاجِ مَكَّةَ: «أَلَا إِنَّ صَدَقَةَ الْفِطْرِ وَاجِبَةٌ عَلَى كُلِّ مُسْلِمٍ ذَكَرٍ أَوْ أُنْثَى حُرٍّ أَوْ عَبْدٍ صَغِيرٍ أَوْ كَبِيرٍ مُدَّانِ مِنْ قَمْحٍ أَوْ سِوَاهُ أَوْ صَاع من طَعَام» . رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘Amr b. Shu'aib on his father’s authority said his grandfather told that the Prophet sent someone to announce in the ravines of Mecca, \n“The sadaqa relating to the breaking of the fast is incumbent on every Muslim, male or female, freeman or slave, young or old, consisting of two mudds of wheat or such like, or a sa' of grain.\" \n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ ثَعْلَبَةَ أَوْ ثَعْلَبَةَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي صُعَيْرٍ عَنْ أَبِيهِ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «صَاعٌ مِنْ بُرٍّ أَوْ قَمْحٍ عَنْ كُلِّ اثْنَيْنِ صَغِيرٍ أَوْ كَبِيرٍ حُرٍّ أَوْ عَبْدٍ ذَكَرٍ أَوْ أُنْثَى. أَمَّا غَنِيُّكُمْ فَيُزَكِّيهِ اللَّهُ. وَأَمَّا فَقِيرُكُمْ فَيَرُدُّ عَلَيْهِ أَكْثَرَ مَا أعطَاهُ» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. Tha'laba, or Tha'laba b. ‘Abdallah b. Abu Su'air* reported on his father’s authority that God’s messenger said, \n“A sa’ of wheat** is to be taken from every two, young or old, freeman or slave, male or female. Those of you who are rich will be purified by God and those of you who are poor will have more than they gave returned by Him to them.” \n\nAbu Dawud transmitted it.\n\n* Abu Dawud, zakat, 21 gives the name as above, but others often give b. Su'air. Ibn 'Abd al-Barr in Isti'ab and Ibn Hajar in Tahdhib give b. Su'air, adding that b. Abu Su'air also occurs.\n** The transmitter is not sure which word for \"wheat” was used, so he gives either burr or qamh."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "عَنْ أَنَسٍ قَالَ: مَرَّ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اللَّهُ عَلَيْهِ وَسَلَّمَ بِتَمْرَةٍ فِي الطَّرِيقِ فَقَالَ: «لَوْلَا أَنِّي أَخَافُ أَنْ تَكُونَ مِنَ الصَّدَقَةِ لأكلتها»",
+      "english": {
+        "narrator": "",
+        "text": "Anas told that the Prophet came upon a date on the road and said, \n“Were it not that I fear it may be part of the sadaqa I would eat it.”\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: أَخَذَ الْحَسَنُ بْنُ عَلِيٍّ تَمْرَةً مِنْ تَمْرِ الصَّدَقَةِ فَجَعَلَهَا فِي فِيهِ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «كِخْ كِخْ» لِيَطْرَحَهَا ثُمَّ قَالَ: «أما شَعرت أَنا لَا نَأْكُل الصَّدَقَة؟»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira told that al-Hasan b. 'All took one of the dates of the sadaqa and put it in his mouth, whereupon the Prophet said, “Leave it alone, leave it alone,” in order that he might throw it away. He then said, \n“Do you not know that we* do not eat the sadaqa?’ \n\n(Bukhari and Muslim.)\n\n* The pronoun includes the Prophet and his family, al Hasan being his grandson. The idea is more definitely expressed in 'Abd al-Muttalib's tradition."
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ الْمُطَّلِبِ بْنِ رَبِيعَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم: «إِن هَذِهِ الصَّدَقَاتِ إِنَّمَا هِيَ أَوْسَاخُ النَّاسِ وَإِنَّهَا لَا تَحِلُّ لِمُحَمَّدٍ وَلَا لِآلِ مُحَمَّدٍ» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "‘Abd al-Muttalib b. Rabi'a reported God’s messenger as saying, \n“These sadaqat are only people’s impurities,* and they are not lawful for Muhammad or Muhammad’s family.” \n\nMuslim transmitted it.\n\n* i.e. an atonement for their sins."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا أُتِيَ بِطَعَامٍ سَأَلَ عَنْهُ: «أَهَدْيَةٌ أَمْ صَدَقَةٌ؟» فَإِنْ قِيلَ: صَدَقَةٌ: قَالَ لِأَصْحَابِهِ: «كُلُوا» وَلَمْ يَأْكُلْ وَإِنْ قِيلَ: هَدِيَّةٌ ضَرَبَ بِيَدِهِ فَأَكَلَ مَعَهم",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira said that when God’s messenger was brought food he asked whether it was a present or sadaqa, and if he was informed that it was sadaqa he told his companions to eat, but did not eat himself; if however he was informed that it was a present he put in his hand and ate along with them.\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: كَانَ فِي بَرِيرَةَ ثَلَاثُ سُنَنٍ: إِحْدَى السُّنَنِ أَنَّهَا عُتِقَتْ فَخُيِّرَتْ فِي زَوْجِهَا وَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْوَلَاءُ لِمَنْ أَعْتَقَ» . وَدَخَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَالْبُرْمَةُ تَفُورُ بِلَحْمٍ فَقُرِّبَ إِلَيْهِ خُبْزٌ وَأُدْمٌ مِنْ أُدْمِ الْبَيْتِ فَقَالَ: «أَلَمْ أَرَ بُرْمَةً فِيهَا لَحْمٌ؟» قَالُوا: بَلَى وَلَكِنَّ ذَلِكَ لَحْمٌ تُصُدِّقَ بِهِ عَلَى بَرِيرَةَ وَأَنْتَ لَا تَأْكُلُ الصَّدَقَةَ قَالَ: «هُوَ عَلَيْهَا صَدَقَةٌ وَلنَا هَدِيَّة»",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha said that three sunnas concerned Barira.* One was that she became free and was given her choice regarding her husband. God’s messenger said, \n\"The right of inheritance from an emancipated slave belongs to the one who set him free.”* \nGod’s messenger once came in when the pot was boiling with meat in it, and he was presented with some of the bread and condiments which were in the house. \nHe asked, “Did I not see a pot containing meat?” and was told, “Yes, but that is meat which was given as sadaqa to Barira and you do not eat the sadaqa.” \nHe replied, “It is sadaqa for her and a gift to us.” ***\n\n\n(Bukhari and Muslim.)\n\n* A slave-woman whom 'A’isha bought and set free.\n** The context shows that these words are said to have been spoken in connection with Barira.\n*** This is the part of the tradition which makes it relevant in this chapter, as it declares that one who may not lawfully receive sadaqa may accept as a gift sadaqa which has been received by one who may lawfully receive it."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُقَبِّلُ الْهَدِيَّة ويثيب عَلَيْهَا. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "She said that God’s messenger would accept a present and give something in return for it. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَوْ دُعِيتُ إِلَى كُرَاعٍ لَأَجَبْتُ وَلَوْ أُهْدِيَ إِلَيَّ ذِرَاع لقبلت» . رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, “If I were invited to eat a trotter I would accept the invitation, and if I were presented with a fore-leg I would accept it.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَيْسَ الْمِسْكِينُ الَّذِي يَطُوفُ عَلَى النَّاسِ تَرُدُّهُ اللُّقْمَةُ وَاللُّقْمَتَانِ وَالتَّمْرَةُ وَالتَّمْرَتَانِ وَلَكِنَّ الْمِسْكِينَ الَّذِي لَا يَجِدُ غِنًى يُغْنِيهِ وَلَا يُفْطَنُ بِهِ فَيُتَصَدَّقَ عَلَيْهِ وَلَا يَقُومُ فَيَسْأَلَ النَّاس»",
+      "english": {
+        "narrator": "",
+        "text": "He reported God’s messenger as saying, \n\"The poor man (miskin) is not the one who goes round to people and is dismissed with one or two morsels, and one or two dates, but is he who does not get enough to satisfy him, is not taken notice of so that alms may be given him, yet does not get up and beg from people.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي رَافِعٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعَثَ رَجُلًا مِنْ بَنِي مَخْزُومٍ عَلَى الصَّدَقَةِ فَقَالَ لِأَبِي رَافِعٍ: اصْحَبْنِي كَيْمَا تُصِيبُ مِنْهَا. فَقَالَ: لَا حَتَّى أَتَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَسْأَلَهُ. فَانْطَلَقَ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَسَأَلَهُ فَقَالَ: «إِنَّ الصَّدَقَةَ لَا تَحِلُّ لَنَا وَإِنَّ مَوَالِيَ الْقَوْمِ مِنْ أَنْفُسِهِمْ» . رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُد وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Rafi' said God’s messenger sent a man of the B. Makhzum to collect sadaqa and he asked him to accompany him so that he might get some of it; but he refused to do so till he went to God's messenger and asked him. He went to the Prophet and asked him, and he said, \n“The sadaqa is not lawful for us, and the clients of a people are treated as being of their number.” *\n\nTirmidhi, Abu Dawud and Nasa’i transmitted it.\n* Abu Rafi’ had been a slave of the Prophet by whom he was set free. The point of the tradition is that the rules which apply to any people apply to their freedmen as well, and so Abu Rafi' was not entitled to receive sadaqa."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَحِلُّ الصَّدَقَةُ لِغَنِيٍّ وَلَا لِذِي مِرَّةٍ سَوِيٍّ» . رَوَاهُ التِّرْمِذِيّ وَأَبُو دَاوُد والدارمي\nوَرَوَاهُ أَحْمَدُ وَالنَّسَائِيُّ وَابْنُ مَاجَهْ عَنْ أَبِي هُرَيْرَة",
+      "english": {
+        "narrator": "",
+        "text": "'Abdallah b. ‘Amr reported God’s messenger as saying, \n“Sadaqa may not be given to a rich man, or to one who has strength and is sound in limb.” \n\nTirmidhi, Abu Dawud and Darimi transmitted it, \nand Ahmad, Nasa’i and Ibn Majah transmitted it from Abu Huraira."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عُبَيْدِ اللَّهِ بْنِ عَدِيِّ بْنِ الْخِيَارِ قَالَ: أَخْبَرَنِي رَجُلَانِ أَنَّهُمَا أَتَيَا النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ فِي حَجَّةِ الْوَدَاعِ وَهُوَ يُقَسِّمُ الصَّدَقَةَ فَسَأَلَاهُ مِنْهَا فَرَفَعَ فِينَا النَّظَرَ وَخَفَضَهُ فَرَآنَا جَلْدَيْنِ فَقَالَ: «إِنْ شِئْتُمَا أَعْطَيْتُكُمَا وَلَا حَظَّ فِيهَا لِغَنِيٍّ وَلَا لِقَوِيٍّ مكتسب» . رَوَاهُ أَبُو دَاوُد وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘Ubaidallah b. ‘Adi b. al-Khiyar said two men informed him that they had come to the Prophet when he was at the Farewell Pilgrimage while he was dividing the sadaqa and asked him for some of it. He looked them up and down, and seeing that they were robust, he said, \n“If you wish I shall give you something, but there is no share in it for a rich man or for one who is strong and able to earn a living.” \n\nAbu Dawud and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَطَاءِ بْنِ يَسَارٍ مُرْسَلًا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم: \n\" لَا تَحِلُّ الصَّدَقَةُ لِغَنِيٍّ إِلَّا لِخَمْسَةٍ: لِغَازٍ فِي سَبِيلِ اللَّهِ أَوْ لِعَامِلٍ عَلَيْهَا أَوْ لِغَارِمٍ أَوْ لِرَجُلٍ اشْتَرَاهَا بِمَالِهِ أَوْ لِرَجُلٍ كَانَ لَهُ جَارٌ مِسْكِينٌ فَتَصَدَّقَ عَلَى الْمِسْكِينِ فَأَهْدَى الْمِسْكِين للغني \". رَوَاهُ مَالك وَأَبُو دَاوُد\nوَفِي رِوَايَةٍ لِأَبِي دَاوُدَ عَنْ أَبِي سَعِيدٍ: «أوابن السَّبِيل»",
+      "english": {
+        "narrator": "‘Ata’ b. Yasar reported in mursal form that God’s messenger said, \n''Sadaqa may not be given to a rich man, with the exception of five classes:",
+        "text": "one who fights in God’s path, or one who collects it, or a debtor, a man who buys it with his money, or a man who has a poor neighbour a no has been given sadaqa and gives a present to the rich man.” \n\nMalik and Abu Dawud transmitted it. A version by Abu Dawud from Abu Sa'id has ‘‘or a traveller.”"
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ زِيَادِ بْنِ الْحَارِثِ الصُّدَائِيِّ قَالَ: أَتَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَبَايَعْتُهُ فَذَكَرَ حَدِيثًا طَوِيلًا فَأَتَاهُ رَجُلٌ فَقَالَ: أَعْطِنِي مِنَ الصَّدَقَةِ. فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ اللَّهَ لَمْ يَرْضَ بِحُكْمِ نَبِيٍّ وَلَا غَيْرِهِ فِي الصَّدَقَاتِ حَتَّى حَكَمَ فِيهَا هُوَ فَجَزَّأَهَا ثَمَانِيَةَ أَجْزَاءٍ فَإِنْ كُنْتَ مِنْ تِلْكَ الْأَجْزَاء أَعطيتك» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Ziyad b. al-Harith as-Suda’i said he came to the Prophet and swore allegiance to him, and after telling a long story he said that a man came to him and asked him to give him some of the sadaqa. God’s messenger then said to him, \n‘‘God is not pleased with a prophet's or anyone else's decision about sadaqat till He has given a decision about them Himself. He has divided those entitled to them into eight categories,* so if you come within those categories I shall give you something.” \n\nAbu Dawud transmitted it.\n\n* Reference is to Al-Qur'an 9:60"
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "عَنْ زَيْدِ بْنِ أَسْلَمَ قَالَ: شَرِبَ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ لَبَنًا فَأَعْجَبَهُ فَسَأَلَ الَّذِي سَقَاهُ: مِنْ أَيْنَ هَذَا اللَّبَنُ؟ فَأَخْبَرَهُ أَنَّهُ وَرَدَ عَلَى مَاءٍ قَدْ سَمَّاهُ فَإِذَا نَعَمٌ مِنْ نَعَمِ الصَّدَقَةِ وَهُمْ يَسْقُونَ فَحَلَبُوا مِنْ أَلْبَانِهَا فَجَعَلْتُهُ فِي سِقَائِي فَهُوَ هَذَا: فَأدْخل عمر يَده فاستقاءه. رَوَاهُ مَالِكٌ وَالْبَيْهَقِيُّ فِي شُعَبِ الْإِيمَانِ",
+      "english": {
+        "narrator": "",
+        "text": "Zaid b. Aslam said that ‘Umar b. al-Khattab drank some milk which pleased him and asked the man who gave him the drink where that milk had come from. He informed him that he had gone down to a watering-place which he named and found there some camels which had been given as sadaqa being watered. Saying that the people had drawn off some of their milk, he added, “I put it in this milk-skin of mine, and this is it.” \n‘Umar thereupon put his hand in his mouth and made himself vomit. \n\nMalik and Baihaqi, in Shu’ab al-iman, transmitted it."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "عَن قبيصَة بن مُخَارق الْهِلَالِي قَالَ: تَحَمَّلْتُ حَمَالَةً فَأَتَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَسْأَلُهُ فِيهَا. فَقَالَ: «أَقِمْ حَتَّى تَأْتِينَا الصَّدَقَة فنأمر لَك بهَا» . قَالَ ثُمَّ قَالَ: «يَا قَبِيصَةُ إِنَّ الْمَسْأَلَةَ لَا تَحِلُّ إِلَّا لِأَحَدِ ثَلَاثَةٍ رَجُلٍ تَحَمَّلَ حَمَالَةً فَحَلَّتْ لَهُ الْمَسْأَلَةُ حَتَّى يُصِيبَهَا ثُمَّ يُمْسِكُ وَرَجُلٍ أَصَابَتْهُ جَائِحَةٌ اجْتَاحَتْ مَالَهُ فَحَلَّتْ لَهُ الْمَسْأَلَةُ حَتَّى يُصِيبَ قِوَامًا مِنْ عَيْشٍ أَوْ قَالَ سِدَادًا مِنْ عَيْشٍ وَرَجُلٍ أَصَابَتْهُ فَاقَةٌ حَتَّى يقوم ثَلَاثَة من ذَوي الحجى مِنْ قَوْمِهِ. لَقَدْ أَصَابَتْ فُلَانًا فَاقَةٌ فَحَلَّتْ لَهُ الْمَسْأَلَةُ حَتَّى يُصِيبَ قِوَامًا مِنْ عَيْشٍ أَوْ قَالَ سِدَادًا مِنْ عَيْشٍ فَمَا سِوَاهُنَّ من الْمَسْأَلَة يَا قبيصَة سحتا يأكلها صَاحبهَا سحتا» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Qabisa b. Mukhariq said he had become a guarantor for a payment* and he went to God’s messenger to beg from him regarding it. He said, “Wait till I receive the sadaqa and I shall order it to be given you.” He then said, \n“Begging, Qabisa, is allowable only to one of three classes:",
+        "text": "a man who has become a guarantor for a payment, to whom begging is allowed till he gets it, after which he must stop begging; a man whose property has been destroyed by a calamity which has smitten him, to whom begging is allowed till he gets what will support life (or he said, what will provide a reasonable subsistence); and a man who has been smitten by poverty, the genuineness of which is confirmed by three intelligent members of his people, to whom begging is allowed till he gets what will support life (or he said, what will provide a reasonable subsistence). Any other reason for begging, Qabisa, is forbidden, and one who engages in such consumes it as a thing which is forbidden.”**\n\nMuslim transmitted it.\n\n* The word hamala is used of an undertaking to pay a debt or bloodwit.\n** The word here used is suht, for its use of Quran (5:42,62,63)"
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 6,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ سَأَلَ النَّاسَ أَمْوَالَهُمْ تَكَثُّرًا فَإِنَّمَا يَسْأَلُ جمرا. فليستقل أَو ليستكثر» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, \n“He who begs the property of others to increase his own is asking only for live coals,* so let him ask little or much.” \n\nMuslim transmitted it.\n\n* A reference incurring some of the punishment of hell."
+      }
+    }
+  ]
+}

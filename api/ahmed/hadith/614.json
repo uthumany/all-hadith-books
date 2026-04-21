@@ -1,0 +1,16 @@
+{
+  "id": 614,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا سُفْيَانُ، عَنْ شَيْخٍ، لَهُمْ يُقَالُ لَهُ سَالِمٌ عَنْ عَبْدِ اللَّهِ بْنِ مُلَيْلٍ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ أُعْطِيَ كُلُّ نَبِيٍّ سَبْعَةَ نُجَبَاءَ مِنْ أُمَّتِهِ وَأُعْطِيَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَرْبَعَةَ عَشَرَ نَجِيبًا مِنْ أُمَّتِهِ مِنْهُمْ أَبُو بَكْرٍ وَعُمَرُ رَضِيَ اللَّهُ عَنْهُمَا‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Abdullah bin Mulail said:",
+    "text": "I heard `Ali (رضي الله عنه) say: Each Prophet (ﷺ) was given seven advisers from his nation and the Prophet (ﷺ)  was given fourteen advisers from his ummah, among them Abu Bakr and `Umar     (رضي الله عنهما)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

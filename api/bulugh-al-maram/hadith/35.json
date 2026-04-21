@@ -1,0 +1,16 @@
+{
+  "id": 35,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنِ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ تَشَبَّهَ بِقَوْمٍ, فَهُوَ مِنْهُمْ }  أَخْرَجَهُ أَبُو دَاوُدَ, وَصَحَّحَهُ اِبْنُ حِبَّانَ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (4031)‏.‏",
+  "english": {
+    "narrator": "Ibn ’Umar (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“He who imitates any people (in their actions) is considered to be one of them.” Related by Abu Dawud and Ibn Hibban graded it as Sahih."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

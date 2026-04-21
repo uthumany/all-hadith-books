@@ -1,0 +1,16 @@
+{
+  "id": 34,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ أَبُو حَفْصٍ، قَالَ سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ، قَالَ سَأَلْتُ سُفْيَانَ الثَّوْرِيَّ وَشُعْبَةَ وَمَالِكًا وَابْنَ عُيَيْنَةَ عَنِ الرَّجُلِ لاَ يَكُونُ ثَبْتًا فِي الْحَدِيثِ فَيَأْتِينِي الرَّجُلُ فَيَسْأَلُنِي عَنْهُ ‏.‏ قَالُوا أَخْبِرْ عَنْهُ أَنَّهُ لَيْسَ بِثَبْتٍ ‏.‏",
+  "english": {
+    "narrator": "Amr bin Alī Abū Hafs narrated to us, he said I heard Yahyā bin Sa’īd, he said:",
+    "text": "‘I asked Sufyān ath-Thawrī , Shu’bah, Mālik, and Ibn Uyaynah about a man who is not reliable (Thabt) in Ḥadīth, and someone comes and asks me about him, and they said: ‘Inform  against him that he is not reliable’.’"
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

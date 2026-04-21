@@ -1,0 +1,16 @@
+{
+  "id": 312,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "قَالَ أَبُو دَاوُدَ وَبِهَذَا الإِسْنَادِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا أَصْبَحَ أَحَدُكُمْ فَلْيَقُلْ أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ رَبِّ الْعَالَمِينَ اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَذَا الْيَوْمِ فَتْحَهُ وَنَصْرَهُ وَنُورَهُ وَبَرَكَتَهُ وَهُدَاهُ وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِيهِ وَشَرِّ مَا بَعْدَهُ ثُمَّ إِذَا أَمْسَى فَلْيَقُلْ مِثْلَ ذَلِكَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "AbuDawud said:",
+    "text": "And through the same chain of transmitters the Messenger of Allah (ﷺ) said: When one rises in the morning, one should say: \"We have reached the morning, and in the morning the dominion belongs to Allah, the Lord of the universe. O Allah! I ask Thee for the good this day contains, for conquest, victory, light, blessing and guidance during it; and I seek refuge in Thee from the evil it contains and the evil contained in what comes after it.\" In the evening he should say the equivalent."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

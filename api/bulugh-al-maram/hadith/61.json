@@ -1,0 +1,16 @@
+{
+  "id": 61,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ قُطْبَةَ بْنِ مَالِكٍ ‏- رضى الله عنه ‏- قَالَ: كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَقُولُ: { اَللَّهُمَّ جَنِّبْنِي مُنْكَرَاتِ اَلْأَخْلَاقِ, وَالْأَعْمَالِ, وَالْأَهْوَاءِ, وَالْأَدْوَاءِ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ , وَصَحَّحَهُ اَلْحَاكِمُ وَاللَّفْظِ لَهُ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه الترمذي (3591)‏، والحاكم (1 / 532)‏.‏ و\" الدواء\": جمع داء، وهي الأسقام.‏",
+  "english": {
+    "narrator": "",
+    "text": "Qutbah bin Malik (RAA) narrated, ‘The Messenger of Allah (ﷺ) used to say, “O Allah, I seek refuge in you from evil morals, deeds, passions and diseases.” Related by At-Tirmidhi. Al-Hakim graded it as Sahih and it is his version."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

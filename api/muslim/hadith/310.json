@@ -1,0 +1,16 @@
+{
+  "id": 310,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، وَحَجَّاجُ بْنُ الشَّاعِرِ، قَالاَ حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ،\n قَالَ قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ سَمِعْتُ النَّبِيَّ\n صلى الله عليه وسلم يَقُولُ قَبْلَ أَنْ يَمُوتَ بِشَهْرٍ ‏\n\"‏ تَسْأَلُونِي عَنِ السَّاعَةِ وَإِنَّمَا عِلْمُهَا\n عِنْدَ اللَّهِ وَأُقْسِمُ بِاللَّهِ مَا عَلَى الأَرْضِ مِنْ نَفْسٍ مَنْفُوسَةٍ تَأْتِي عَلَيْهَا مِائَةُ سَنَةٍ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Jabir b. 'Abdullah reported:",
+    "text": "I heard Allah's Messenger (ﷺ) as saying this one month before his death: You asked me about the Last Hour whereas its knowledge is with Allah. I, however, take an oath and say that none upon the earth, the created beings (from amongst my Companions), would survive at the end of one hundred years."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 243,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الْمِصِّيصِيُّ، لُوَيْنٌ حَدَّثَنَا ابْنُ أَبِي الزِّنَادِ، عَنْ أَبِيهِ، عَنْ عُرْوَةَ، وَهِشَامٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَضَعُ لِحَسَّانَ مِنْبَرًا فِي الْمَسْجِدِ فَيَقُومُ عَلَيْهِ يَهْجُو مَنْ قَالَ فِي رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ رُوحَ الْقُدُسِ مَعَ حَسَّانَ مَا نَافَحَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Aisha, Ummul Mu'minin:",
+    "text": "The Messenger of Allah (ﷺ) used to setup a pulpit in the mosque for Hassan who would stand on it and satirise those who spoke against the Messenger of Allah (ﷺ). The Messenger of Allah (ﷺ) would say: The spirit of holiness (i.e. Gabriel) is with Hassan so long as he speaks in defence of the Messenger of Allah (ﷺ)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

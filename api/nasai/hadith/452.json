@@ -1,0 +1,16 @@
+{
+  "id": 452,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا مَالِكٌ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي بَكْرٍ، عَنْ أَبِيهِ، عَنْ أَبِي الْبَدَّاحِ بْنِ عَاصِمِ بْنِ عَدِيٍّ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَخَّصَ لِلرُّعَاةِ فِي الْبَيْتُوتَةِ يَرْمُونَ يَوْمَ النَّحْرِ وَالْيَوْمَيْنِ اللَّذَيْنِ بَعْدَهُ يَجْمَعُونَهُمَا فِي أَحَدِهِمَا ‏.‏",
+  "english": {
+    "narrator": "It was narrated from al-Baddah bin Asim bin Adiyy from his father, that:",
+    "text": "the Messenger of Allah granted a concession to some camel herders, allowing them to not stay overnight in Mina, and allowing them to stone the Jimar on the Day of Sacrifice, then to combine the stoning of two days after sacrifice, so that they could do it on one of the two days."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

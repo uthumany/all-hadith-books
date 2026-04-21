@@ -1,0 +1,16 @@
+{
+  "id": 363,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "وَعَنْ عُقْبَةَ بْنِ صُهْبَانَ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ الْمُغَفَّلِ الْمُزَنِيِّ، فِي الْبَوْلِ فِي الْمُغْتَسَلِ‏.‏",
+  "english": {
+    "narrator": "`Abdullah bin Al-Mughaffal \nAl-Muzani also said:",
+    "text": "\"The Prophet (ﷺ) also forbade urinating at the place where one takes a bath.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

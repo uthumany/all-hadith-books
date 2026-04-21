@@ -1,0 +1,16 @@
+{
+  "id": 6,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا أَكَلَ أَحَدُكُمْ طَعَامًا, فَلَا يَمْسَحْ يَدَهُ, حَتَّى يَلْعَقَهَا, أَوْ يُلْعِقَهَا }  مُتَّفَقٌ عَلَيْهِ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (5456)‏، ومسلم (2031)‏، وهو عند البخاري بدون لفظ: \"طعاما\" وفي رواية أخرى لمسلم\" من الطعام\".‏",
+  "english": {
+    "narrator": "Ibn Abbas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“When one of you eats, he must not wipe his hand till he licks it, or gives it to someone else to lick (such as a wife, husband, etc.).” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

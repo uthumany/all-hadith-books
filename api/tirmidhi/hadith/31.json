@@ -1,0 +1,16 @@
+{
+  "id": 31,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ مَا رَأَيْتُ مِنْ ذِي لِمَّةٍ فِي حُلَّةٍ حَمْرَاءَ أَحْسَنَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم لَهُ شَعْرٌ يَضْرِبُ مَنْكِبَيْهِ بَعِيدٌ مَا بَيْنَ الْمَنْكِبَيْنِ لَمْ يَكُنْ بِالْقَصِيرِ وَلاَ بِالطَّوِيلِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Al-Bara:",
+    "text": "\"I have not seen anyone with hair past his shoulders in a red Hullah more handsome than the Messenger of Allah (ﷺ). He had hair that would flow on his shoulders, having broad shoulders, not too short and not too tall.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

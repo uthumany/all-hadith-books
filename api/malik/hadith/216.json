@@ -1,0 +1,16 @@
+{
+  "id": 216,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me that Malik said, \"Someone who comes to Makka\nat or before the new moon of Dhu'l-Hij ja and goes into ihram for the\nhajj should do the full prayer until he leaves Makka for Mina, and\nthen he should shorten the prayer. This is because he has decided to\nstay there for more than four nights.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

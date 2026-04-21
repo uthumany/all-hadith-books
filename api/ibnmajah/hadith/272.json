@@ -1,0 +1,16 @@
+{
+  "id": 272,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا أَبُو عَاصِمٍ، وَقَرَأْتُهُ، عَلَيْهِ أَنْبَأَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَطَاءٌ، حَدَّثَنِي جَابِرُ بْنُ عَبْدِ اللَّهِ، فِي أُنَاسٍ مَعِي قَالَ قَدِمَ النَّبِيُّ ـ صلى الله عليه وسلم ـ مَكَّةَ صُبْحَ رَابِعَةٍ مَضَتْ مِنْ شَهْرِ ذِي الْحِجَّةِ ‏.‏",
+  "english": {
+    "narrator": "‘Ata’\nnarrated:",
+    "text": "“Jabir bin ‘Abdullah, who was among the people with\nme,\ntold me that the Prophet (ﷺ) arrived in Makkah in the morning of\nthe fourth day of Dhul-Hijjah.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

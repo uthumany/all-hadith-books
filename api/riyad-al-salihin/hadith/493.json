@@ -1,0 +1,16 @@
+{
+  "id": 493,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه، قال‏:‏ لم يأكل النبي صلى الله عليه وسلم على خوان حتى مات، وما أكل خبزاً مرققاً حتى مات‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏ \n‏(‏‏(‏ وفي روايه له‏:‏ ولا رأى شاة سميطاً بعينه قط‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) neither ate on a dining cloth, nor ate soft bread throughout his life..One narration adds: He (ﷺ) never even saw a Samit lamb.Samit is an animal prepared for food by removing its hair by boiling water, and then roasted without being skinned. This type of food is preferred by wealthy people. (Editor's Note)"
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 428,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَلِلْبُخَارِيِّ مِنْ حَدِيثِ أَبِي بَكْرَةَ ‏- رضى الله عنه ‏- { فَصَلُّوا وَادْعُوا حَتَّى يُكْشَفَ مَا بِكُمْ }   1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (1040)‏.‏",
+  "english": {
+    "narrator": "al-Bukhari's narration from Abu Bakrah (RA) has:",
+    "text": "Pray and supplicate (to Allah) till (the eclipse) is over.\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

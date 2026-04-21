@@ -1,0 +1,16 @@
+{
+  "id": 52,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا ابْنُ زَبْرٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَنْبِذُوا فِي الدُّبَّاءِ وَلاَ الْمُزَفَّتِ وَلاَ النَّقِيرِ وَكُلُّ مُسْكِرٍ حَرَامٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from 'Aishah that:",
+    "text": "The Prophet  said: \"Do not soak (fruits) in Ad-Dubba', An-Naqir, Al-Hantam, and every intoxicant is unlawful.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

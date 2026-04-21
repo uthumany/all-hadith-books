@@ -1,0 +1,16 @@
+{
+  "id": 104,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "العاشر عن أنس رضي الله عنه عن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ يتبع الميت ثلاثة‏:‏ أهله وماله وعمله؛ فيرجع اثنان ويبقى واحد‏:‏ يرجع أهله وماله، ويبقى عمله‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Three follow a dead body: members of his family, his possessions and his deeds. Two of them return and one remains with him. His family and his possessions return; his deeds remain with him\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

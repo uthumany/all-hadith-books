@@ -1,0 +1,16 @@
+{
+  "id": 123,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، عَنْ سِمَاكٍ، عَنْ حَنَشٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ لِي النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا تَقَدَّمَ إِلَيْكَ خَصْمَانِ فَلَا تَسْمَعْ كَلَامَ الْأَوَّلِ حَتَّى تَسْمَعَ كَلَامَ الْآخَرِ فَسَوْفَ تَرَى كَيْفَ تَقْضِي قَالَ فَقَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ فَمَا زِلْتُ بَعْدَ ذَلِكَ قَاضِيًا‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Prophet (ﷺ) said to me. “When two disputants come to you, do not listen to the words of the first one until you have also listened to the words of the other, then you will know how to judge.` And ‘Ali (رضي الله عنها) said: Since then I have continued to be a good judge."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

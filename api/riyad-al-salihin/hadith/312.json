@@ -1,0 +1,16 @@
+{
+  "id": 312,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عن أبي عبد الرحمن عبد الله بن مسعود رضي الله عنه قال‏:‏ سألت النبي صلى الله عليه وسلم ‏:‏ أي العمل أحب إلى الله تعالى‏؟‏ قال ‏\"‏ الصلاة على وقتها‏\"‏ قلت‏:‏ ثم أي‏؟‏ قال‏:‏ ‏\"‏ بر الوالدين‏\"‏ قلت‏:‏ ثم أي‏؟‏ قال‏:‏ ‏\"‏ الجهاد في سبيل الله‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin Mas'ud (May Allah be pleased with him) reported:",
+    "text": "I asked the Prophet (ﷺ) , \"Which of the deeds is loved most by Allah?\" Messenger of Allah (ﷺ) said, \"Salat at its proper time.\" I asked, ''What next?\" He (ﷺ) replied, ''Kindness to parents.\" I asked, ''What next?\" He replied, ''Jihad in the way of Allah.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

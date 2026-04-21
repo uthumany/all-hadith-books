@@ -1,0 +1,16 @@
+{
+  "id": 545,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عدى بن حاتم رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏اتقوا النار ولو بشق تمرة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Adi bin Hatim (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Protect yourself from Hell-fire even by giving a piece of date as charity.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

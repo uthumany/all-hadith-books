@@ -1,0 +1,16 @@
+{
+  "id": 101,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَرِيكٌ، عَنِ الرُّكَيْنِ بْنِ الرَّبِيعِ، عَنْ نُعَيْمِ بْنِ حَنْظَلَةَ، عَنْ عَمَّارٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ كَانَ لَهُ وَجْهَانِ فِي الدُّنْيَا كَانَ لَهُ يَوْمَ الْقِيَامَةِ لِسَانَانِ مِنْ نَارٍ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Ammar:",
+    "text": "The Prophet (ﷺ) said: He who is two-faced in this world will have two tongues of fire on the Day of Resurrection."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

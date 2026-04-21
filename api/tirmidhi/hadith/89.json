@@ -1,0 +1,16 @@
+{
+  "id": 89,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ قَدْ كَانَ يَكُونُ فِي الأُمَمِ مُحَدَّثُونَ فَإِنْ يَكُ فِي أُمَّتِي أَحَدٌ فَعُمَرُ بْنُ الْخَطَّابِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.وَ أَخْبَرَنِي بَعْضُ أَصْحَابِ سُفْيَانَ بْنِ عُيَيْنَةَ قَالَ قَالَ سُفْيَانُ بْنُ عُيَيْنَةَ مُحَدَّثُونَ يَعْنِي مُفَهَّمُونَ ‏.‏",
+  "english": {
+    "narrator": "Narrated 'Aishah:",
+    "text": "that the Messenger of Allah (ﷺ) said: \"Among the nations, there used to be Muhaddathun (those who were given understanding), and if there were one in my nation, it would be 'Umar bin Al-Khattab.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

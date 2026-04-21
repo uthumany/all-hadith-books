@@ -1,0 +1,510 @@
+{
+  "page": 4,
+  "perPage": 50,
+  "totalPages": 9,
+  "totalCount": 402,
+  "nextPage": 5,
+  "prevPage": 3,
+  "items": [
+    {
+      "id": 6,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ‏:‏ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَيُّوبَ، عَنِ الْقَاسِمِ التَّمِيمِيِّ، عَنْ زَهْدَمٍ الْجَرْمِيِّ، قَالَ‏:‏ كُنَّا عِنْدَ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ‏:‏ فَقَدَّمَ طَعَامَهُ وَقَدَّمَ فِي طَعَامِهِ لَحْمَ دَجَاجٍ وَفِي الْقَوْمِ رَجُلٌ مِنْ بَنِي تَيْمِ اللهِ أَحْمَرُ كَأَنَّهُ مَوْلًى، قَالَ‏:‏ فَلَمْ يَدْنُ فَقَالَ لَهُ أَبُو مُوسَى‏:‏ ادْنُ، فَإِنِّي قَدْ رَأَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم أَكَلَ مِنْهُ، فَقَالَ‏:‏ إِنِّي رَأَيْتُهُ يَأْكُلُ شَيْئًا، فَقَذِرْتُهُ فَحَلَفْتُ أَنْ لا أَطْعَمَهُ أَبَدًا‏.‏",
+      "english": {
+        "narrator": "Zahdam al-Jarmi said:",
+        "text": "\"We were in the presence of Abu Musa al-Ash'ari. Among the people there was a man from the Banu Taimi’llah, ruddy as if he were a freed slave, and he did not draw near, so Abu Musa said to him: 'Draw near, for I saw Allah’s Messenger (Allah bless him and give\nhim peace) eat some of it,' but he said: 'I saw it eat something and I found it loathsome, so I swore that I would never taste it'!”"
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، وَأَبُو نُعَيْمٍ، قَالا‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ اللهِ بْنِ عِيسَى، عَنْ رَجُلٍ مِنْ أَهْلِ الشَّامِ، يُقَالُ‏:‏ لَهُ عَطَاءٌ، عَنْ أَبِي أَسِيدٍ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ كُلُوا الزَّيْتَ، وَادَّهِنُوا بِهِ، فَإِنَّهُ مِنْ شَجَرَةٍ مُبَارَكَةٍ‏.‏",
+      "english": {
+        "narrator": "Ata’ ibn Abi Asid, said:",
+        "text": "“Allah’s Messenger said (Allah bless him and give him peace): ‘Eat  oil, and anoint with it, for it is from a blessed tree!’”"
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ‏:‏ حَدَّثَنَا مَعْمَرٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ كُلُوا الزَّيْتَ وَادَّهِنُوا بِهِ، فَإِنَّهُ مِنْ شَجَرَةٍ مُبَارَكَةٍ‏.‏",
+      "english": {
+        "narrator": "'Umar ibn al-Khattab (may Allah the Exalted be well pleased with him) said:",
+        "text": "“Allah’s Messenger said (Allah bless him and give him peace): ‘Eat oil, and anoint with it, for it is from a blessed tree'!”"
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا السِّنْجِيُّ وَهُوَ أَبُو دَاوُدَ سُلَيْمَانُ بْنُ مَعْبَدٍ السِّنْجِيُّ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ، وَلَمْ يَذْكُرْ فِيهِ عَنْ عُمَرَ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Another chain reports similar to the previous narration and it did not mention \"related from 'Umar (RA)\""
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، وَعَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالا‏:‏ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم يُعْجِبُهُ الدُّبَّاءُ فَأُتِيَ بِطَعَامٍ، أَوْ دُعِيَ لَهُ فَجَعَلْتُ أَتَتَبَّعُهُ، فَأَضَعُهُ بَيْنَ يَدَيْهِ لِمَا أَعْلَمُ أَنَّهُ يُحِبُّهُ‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "“The Prophet (Allah bless him and give him peace) used to admire the gourd, so when he was brought a meal or invited to one, I would seek it out and set it in front of him, because I knew that he liked it.”"
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ إِسْمَاعِيلَ بْنُ أَبِي خَالِدٍ، عَنْ حَكِيمِ بْنِ جَابِرٍ، عَنْ أَبِيهِ، قَالَ‏:‏ دَخَلْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم، فَرَأَيْتُ عِنْدَهُ دُبَّاءً يُقَطَّعُ، فَقُلْتُ‏:‏ مَا هَذَا‏؟‏ قَالَ‏:‏ نُكَثِّرُ بِهِ طَعَامَنَا‏.‏\n\nقال أبو عيسى: وجابر هذا هو جابر بن طارق، ويقال ابن أبي طارق وهو رجل من أصحاب رسول الله صلى الله عليه وسلم ولا نعرف له إلا هذا الحديث الواحد وأبو خالد اسمه سعد.",
+      "english": {
+        "narrator": "Hakim ibn Jabir reported that his father said:",
+        "text": "\"I entered the presence of the Prophet (Allah bless him and give him peace), and I saw beside him a gourd being carved into pieces, so I said: 'What is this?' He said: 'We use it to augment our meal'.\""
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنِ إِسْحَاقَ بْنِ عَبْدِ اللهِ بْنِ أَبِي طَلْحَةَ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ، يَقُولُ‏:‏ إِنَّ خَيَّاطًا دَعَا رَسُولَ اللهِ صلى الله عليه وسلم، لِطَعَامٍ صَنَعَهُ، قَالَ أَنَسٌ‏:‏ فَذَهَبْتُ مَعَ رَسُولِ اللهِ صلى الله عليه وسلم، إِلَى ذَلِكَ الطَّعَامِ، فَقَرَّبَ إِلَى رَسُولِ اللهِ صلى الله عليه وسلم خُبْزًا مِنْ شَعِيرٍ، وَمَرَقًا فِيهِ دُبَّاءٌ وَقَدِيدٌ، قَالَ أَنَسُ‏:‏ فَرَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَتَتَبَّعُ الدُّبَّاءَ حَوَالَيِ الْقَصْعَةِ فَلَمْ أَزَلْ أُحِبُّ الدُّبَّاءَ مِنْ يَوْمِئِذٍ‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "“A tailor invited Allah’s Messenger (Allah bless him and give him peace) to a meal he had made, so I went with Allah’s Messenger (Allah bless him and give him peace) to that meal. He presented Allah's Messenger (Allah bless him and give him peace) with some barley-bread and broth containing a gourd and jerked meat. Then I saw the Prophet (Allah bless him and give him peace) looking for chunks of gourd all around the bowl, and and I've loved gourd ever since.”"
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، وَسَلَمَةُ بْنُ شَبِيبٍ، وَمَحْمُودُ بْنُ غَيْلانَ، قَالُوا‏:‏ حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم يُحِبُّ الْحَلْوَاءَ وَالْعَسَلَ‏.‏",
+      "english": {
+        "narrator": "'A’isha said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) used to love sweets and honey.”"
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ مُحَمَّدٍ الزَّعْفَرَانِيُّ، قَالَ‏:‏ حَدَّثَنَا الْحَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ‏:‏ قَالَ ابْنُ جُرَيْجٍ‏:‏ أَخْبَرَنِي مُحَمَّدُ بْنُ يُوسُفَ، أَنَّ عَطَاءَ بْنَ يَسَارٍ أَخْبَرَهُ، أَنَّ أُمَّ سَلَمَةَ أَخْبَرَتْهُ، أَنَّهَا قَرَّبَتْ إِلَى رَسُولِ اللهِ صلى الله عليه وسلم، جَنْبًا مَشْوِيًّا، فَأَكَلَ مِنْهُ، ثُمَّ قَامَ إِلَى الصَّلاةِ، وَمَا تَوَضَّأَ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Umm Salama informed 'Ata ibn Yasar that she served Allah’s Messenger (Allah bless him and give him peace) a grilled flank, so he ate from it, then embarked on the ritual prayer and did not perform the minor ritual ablution."
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، قَالَ‏:‏ حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ سُلَيْمَانَ بْنِ زِيَادٍ، عَنْ عَبْدِ اللهِ بْنِ الْحَارِثِ، قَالَ‏:‏ أَكَلْنَا مَعَ رَسُولِ اللهِ صلى الله عليه وسلم شِوَاءً فِي الْمَسْجِدِ‏.‏",
+      "english": {
+        "narrator": "'Abdu’llah ibn al-Harith said:",
+        "text": "\"Together with Allah’s Messenger (Allah bless him and give him peace), we ate grilled meat in the mosque.”"
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا وَكِيعٌ، قَالَ‏:‏ حَدَّثَنَا مِسْعَرٌ، عَنْ أَبِي صَخْرَةَ جَامِعِ بْنِ شَدَّادٍ، عَنِ الْمُغِيرَةِ بْنِ عَبْدِ اللهِ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ‏:‏ ضِفْتُ مَعَ رَسُولِ اللهِ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ، فَأُتِيَ بِجَنْبٍ مَشْوِيٍّ، ثُمَّ أَخَذَ الشَّفْرَةَ فَجَعَلَ يَحُزُّ، فَحَزَّ لِي بِهَا مِنْهُ، قَالَ‏:‏ فَجَاءَ بِلالٌ يُؤْذِنُهُ بِالصَّلاةِ فَأَلْقَى الشَّفْرَةَ، فَقَالَ‏:‏ مَا لَهُ تَرِبَتْ يَدَاهُ‏؟‏، قَالَ‏:‏ وَكَانَ شَارِبُهُ قَدْ وَفَى، فَقَالَ لَهُ‏:‏ أَقُصُّهُ لَكَ عَلَى سِوَاكٍ أَوْ قُصُّهُ عَلَى سِوَاكٍ‏.‏",
+      "english": {
+        "narrator": "Al-Mughira ibn Shu'ba said:",
+        "text": "“I was a guest one night together with Allah’s Messenger (Allah bless him and give him peace), so he was brought a grilled flank. Then he took the blade and set about carving, and he carved some for me. Bilal arrived calling him to prayer, so he threw the blade away, and he said: ‘Why have his hands been soiled?’ His mustache hung down close to his mouth, so he said to him: ‘I shall clip it for you over a tooth-stick,’ or: ‘Clip it over a tooth-stick'!”"
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، قَالَ‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ أَبِي حَيَّانَ التَّيْمِيِّ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ‏:‏ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِلَحْمٍ، فَرُفِعَ إِلَيْهِ الذِّرَاعُ، وَكَانَتْ تُعْجِبُهُ، فَنَهَسَ مِنْهَا‏.‏",
+      "english": {
+        "narrator": "Abu Huraira said:",
+        "text": "‘The Prophet (Allah bless him and give him peace) was brought some meat, so the foreleg was set before him, and he liked it, so he took a bite of it.”"
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا أَبُو دَاوُدَ، عَنْ زُهَيْرٍ يَعْنِي ابْنَ مُحَمَّدٍ، عَنِ أَبِي إِسْحَاقَ، عَنْ سَعْدِ بْنِ عِيَاضٍ، عَنِ ابْنِ مَسْعُودٍ، قَالَ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم يُعْجِبُهُ الذِّرَاعُ، قَالَ‏:‏ وَسُمَّ فِي الذِّرَاعِ، وَكَانَ يَرَى أَنَّ الْيَهُودَ سَمُّوهُ‏.‏",
+      "english": {
+        "narrator": "Ibn Mas'ud said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) used to like the foreleg  also said: \"He was poisoned with a foreleg, however, as he used to believe that the Jews had poisoned him.”"
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، قَالَ‏:‏ حَدَّثَنَا أَبَانُ بْنُ يَزِيدَ، عَنْ قَتَادَةَ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أَبِي عُبَيْدَةَ، قَالَ‏:‏ طَبَخْتُ لِلنَّبِيِّ صلى الله عليه وسلم، قِدْرًا، وَقَدْ كَانَ يُعْجِبُهُ الذِّرَاعُ، فَنَاوَلْتُهُ الذِّرَاعَ، ثُمَّ قَالَ‏:‏ نَاوِلْنِي الذِّرَاعَ، فَنَاوَلْتُهُ، ثُمَّ قَالَ‏:‏ نَاوِلْنِي الذِّرَاعَ، فَقُلْتُ‏:‏ يَا رَسُولَ اللهِ، وَكَمْ لِلشَّاةِ مِنْ ذِرَاعٍ، فَقَالَ‏:‏ وَالَّذِي نَفْسِي بِيَدِهِ لَوْ سَكَتَّ لَنَاوَلْتَنِي الذِّرَاعَ مَا دَعَوْتُ‏.‏",
+      "english": {
+        "narrator": "Abu 'Ubaid said:",
+        "text": "\"I cooked a dish for the Prophet (Allah bless him and give him peace), and he used to take great pleasure in the foreleg ,so I passed him the foreleg. Then he said: 'Pass me the foreleg,' so I passed it to him. Then he said: 'Pass me the foreleg,' so I said: 'O Messenger of Allah, how many forelegs does a sheep have?' He said: 'By the One in whose Hand is my soul, if you kept silent, you would surely pass me the foreleg whenever I asked for it!’”"
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ مُحَمَّدٍ الزَّعْفَرَانِيُّ، قَالَ‏:‏ حَدَّثَنَا يَحْيَى بْنُ عَبَّادٍ، عَنْ فُلَيْحِ بْنِ سُلَيْمَانَ، قَالَ‏:‏ حَدَّثَنِي رَجُلٌ، مِنْ بَنِي عَبَّادٍ يُقَالَ لَهُ‏:‏ عَبْدُ الْوَهَّابِ بْنُ يَحْيَى بْنُ عَبَّادٍ، عَنْ عَبْدِ اللهِ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ مَا كَانَتِ الذِّرَاعُ أَحَبَّ اللَّحْمِ إِلَى رَسُولِ اللهِ صلى الله عليه وسلم، وَلَكِنَّهُ كَانَ لا يَجِدُ اللَّحْمَ إِلا غِبًّا، وَكَانَ يَعْجَلُ إِلَيْهَا، لأَنَّهَا أَعْجَلُهَا نُضْجًا‏.‏",
+      "english": {
+        "narrator": "'A’isha said (may Allah be well pleased with her):",
+        "text": "“The foreleg was not the meat dearest to Allah’s Messenger (Allah bless him and give him peace), but he only got to have meat occasionally, so he would rush to it, because it was the part that got done the most quickly.”"
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو أَحْمَدَ، قَالَ‏:‏ حَدَّثَنَا مِسْعَرٌ، قَالَ‏:‏ سَمِعْتُ شَيْخًا، مِنْ فَهْمٍ، قَالَ‏:‏ سَمِعْتُ عَبْدَ اللهِ بْنَ جَعْفَرٍ، يَقُولُ‏:‏ سَمِعْتُ رَسُولَ اللهِ صلى الله عليه وسلم، يَقُولُ‏:‏ إِنَّ أَطْيَبَ اللَّحْمِ لَحْمُ الظَّهْرِ‏.‏",
+      "english": {
+        "narrator": "'Abdu’llah ibn Ja'far said:",
+        "text": "“I heard Allah’s Messenger say (Allah bless him and give him peace): ‘The best of the meat is the back'.”"
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، قَالَ‏:‏ حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، عَنْ عَبْدِ اللهِ بْنِ الْمَؤَمَّلِ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عَائِشَةَ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم، قَالَ‏:‏ نِعْمَ الإِدَامُ الْخَلُّ‏.‏",
+      "english": {
+        "narrator": "'A’isha said (may Allah be well pleased with her):",
+        "text": "\"The Prophet said (Allah bless him and give him peace): 'What an excellent condiment vinegar is'!”"
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلاءِ، قَالَ‏:‏ حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ ثَابِتٍ أَبِي حَمْزَةَ الثُّمَالِيِّ، عَنِ الشَّعْبِيِّ، عَنْ أُمِّ هَانِئِ، قَالَتْ‏:‏ دَخَلَ عَلَيَّ النَّبِيُّ صلى الله عليه وسلم، فَقَالَ‏:‏ أَعِنْدَكِ شَيْءٌ‏؟‏ فَقُلْتُ‏:‏ لا، إِلا خُبْزٌ يَابِسٌ، وَخَلٌّ فَقَالَ‏:‏ هَاتِي، مَا أَقْفَرَ بَيْتٌ مِنْ أُدُمٍ فِيهِ الخل‏.‏",
+      "english": {
+        "narrator": "Umm Hani said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) entered my presence and said: 'Do you have anything in your possession?' I said: 'No, apart from some dry bread and vinegar', so he said: 'Give me some! A household in which there is vinegar is not devoid of seasoning'!”"
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ مُرَّةَ الْهَمْدَانِيِّ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم، قَالَ‏:‏ فَضْلُ عَائِشَةَ عَلَى النِّسَاءِ كَفَضْلِ الثَّرِيدِ عَلَى سَائِرِ الطَّعَامِ‏.‏",
+      "english": {
+        "narrator": "Abu Musa al-Ash'ari said that the Prophet said (Allah bless him and give him peace):",
+        "text": "“The superiority of 'Aisha over all other women is like the superiority of tharid  over all other food.”"
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ‏:‏ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ بْنِ مَعْمَرٍ الأَنْصَارِيُّ أَبُو طُوَالَةَ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ، يَقُولُ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ فَضْلُ عَائِشَةَ عَلَى النِّسَاءِ كَفَضْلِ الثَّرِيدِ عَلَى سَائِرِ الطَّعَامِ‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "“Allah’s Messenger said (Allah bless him and give him peace):‘The superiority of 'A'isha over all other women is like the superiority of tharid  over all other food'.”"
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنِ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ رَأَى رَسُولَ اللهِ صلى الله عليه وسلم، تَوَضَّأَ مِنْ أَكْلِ ثَوْرِ أَقِطٍ، ثُمَّ رَآهُ أَكَلَ مِنْ كَتِفِ شَاةٍ، ثُمَّ صَلَّى، وَلَمْ يَتَوَضَّأْ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira (may Allah be well pleased with him) said that he saw Allah’s Messenger (Allah bless him and give him peace) perform the minor ritual ablution because of eating cottage cheese. Then he saw him eat from the flank of a sheep, and then perform the ritual prayer without performing the minor ritual ablution."
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ وَائِلِ بْنِ دَاوُدَ، عَنِ ابْنِهِ، وَهُوَ بَكْرُ بْنُ وَائِلٍ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ‏:‏ أَوْلَمَ رَسُولُ اللهِ صلى الله عليه وسلم عَلَى صَفِيَّةَ بِتَمْرٍ وَسَوِيقٍ‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) gave a wedding banquet for Safiyya consisting of dried dates and parched barley.”"
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا الْحُسَيْنُ بْنُ مُحَمَّدٍ الْبَصْرِيُّ، قَالَ‏:‏ حَدَّثَنَا الْفُضَيْلُ بْنُ سُلَيْمَانَ، قَالَ‏:‏ حَدَّثَنِي فَائِدٌ، مَوْلَى عُبَيْدِ اللهِ بْنِ عَلِيِّ بْنِ أَبِي رَافِعٍ مَوْلَى رَسُولِ اللهِ صلى الله عليه وسلم، قَالَ‏:‏ حَدَّثَنِي عُبَيْدُ اللهِ بْنُ عَلِيٍّ، عَنْ جَدَّتِهِ سَلْمَى، أَنَّ الْحَسَنَ بْنَ عَلِيٍّ، وَابْنَ عَبَّاسٍ، وَابْنَ جَعْفَرٍ أَتَوْهَا فَقَالُوا لَهَا‏:‏ اصْنَعِي لَنَا طَعَامًا مِمَّا كَانَ يُعْجِبُ رَسُولَ اللهِ صلى الله عليه وسلم، وَيُحْسِنُ أَكْلَهُ فَقَالَتْ‏:‏ يَا بُنَيَّ لا تَشْتَهِيهِ الْيَوْمَ، قَالَ‏:‏ بَلَى اصْنَعِيهِ لَنَا قَالَ‏:‏ فَقَامَتْ فَأَخَذَتْ مِنْ شَعِيرٍ فَطَحَنَتْهُ، ثُمَّ جَعَلَتْهُ فِي قِدْرٍ، وَصَبَّتْ عَلَيْهِ شَيْئًا مِنْ زَيْتٍ، وَدَقَّتِ الْفُلْفُلَ، وَالتَّوَابِلَ، فَقَرَّبَتْهُ إِلَيْهِمْ، فَقَالَتْ‏:‏ هَذَا مِمَّا كَانَ يُعْجِبُ رَسُولَ اللهِ صلى الله عليه وسلم، وَيُحْسِنُ أَكْلَهُ‏.‏",
+      "english": {
+        "narrator": "Salma said that al-Hasan ibn 'Ali, Ibn 'Abbas and Ibn Ja'far came to her and said to her:",
+        "text": "\"Make us a meal consisting of that which used to delight Allah’s Messenger (Allah bless him and give him peace), and which used to make his food more palatable!\" She replied: ‘O my dear son, do not wish for it today!’ He said: ‘Oh yes, you must make it for us!’ She therefore got up, took some barley and ground it. Then she put it into a pot, poured some oil over it, crushed the pepper and the spices, and presented it to them. She said: \"This is some of that which used to delight Allah’s Messenger (Allah bless him and give him peace), and which used to make his food \nmore palatable!”"
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو أَحْمَدَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ نُبَيْحٍ الْعَنَزِيِّ، عَنْ جَابِرِ بْنِ عَبْدِ اللهِ، قَالَ‏:‏ أَتَانَا النَّبِيُّ صلى الله عليه وسلم، فِي مَنْزِلِنَا، فَذَبَحْنَا لَهُ شَاةً، فَقَالَ‏:‏ كَأَنَّهُمْ عَلِمُوا أَنَّا نُحِبُّ اللَّحْمَ وَفِي الْحَدِيثِ قِصَّةٌ‏.‏",
+      "english": {
+        "narrator": "Jabir ibn 'Abdi’llah said:",
+        "text": "“The Prophet (Allah bless him and give him peace) came to us in our house, so we slaughtered a sheep for him, and he said: ‘It is as if they knew that we love meat'!\" (This\ntradition is part of a longer story)."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ مُحَمَّدِ بْنِ عَقِيلٍ، أَنَّهُ سمعَ جَابِرًا ‏(‏ح‏)‏ قَالَ سُفْيَانُ‏:‏ وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُنْكَدِرِ، عَنْ جَابِرٍ، قَالَ‏:‏ خَرَجَ رَسُولُ اللهِ صلى الله عليه وسلم، وَأَنَا مَعَهُ فَدَخَلَ عَلَى امْرَأَةٍ مِنَ الأَنْصَارِ، فذَبَحَتْ لَهُ شَاةً، فَأَكَلَ مِنْهَا، وَأَتَتْهُ بِقِنَاعٍ مِنْ رُطَبٍ، فَأَكَلَ مِنْهُ، ثُمَّ تَوَضَّأَ لِلظُّهْرِ، وَصَلَّى، صلى الله عليه وسلم، ثُمَّ انْصَرَفَ، فَأَتَتْهُ بِعُلالَةٍ مِنْ عُلالَةِ الشَّاةِ، فَأَكَلَ ثُمَّ صَلَّى الْعَصْرَ، وَلَمْ يَتَوَضَّأْ‏.‏",
+      "english": {
+        "narrator": "Jabir said:",
+        "text": "“Allah’s Messenger (Allah bless him and give him peace) went out and I went with him, then he went in to see a woman from among the Helpers , so she slaughtered a sheep for him and he ate some of it. She also brought him a dish of ripe dates, and he ate some of them. Then he performed the minor ritual ablution for the noon prayer, and performed it. Then he departed, and she\nbrought him a leftover from the remnant of the sheep, and he ate. Then he performed the afternoon ritual prayer but did not perform the minor ritual ablution.”"
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ، قَالَ‏:‏ حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، قَالَ‏:‏ حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ، عَنْ عُثْمَانَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ يَعْقُوبَ بْنِ أَبِي يَعْقُوبَ، عَنْ أُمِّ الْمُنْذِرِ، قَالَتْ‏:‏ دَخَلَ عَلَيَّ رَسُولُ اللهِ صلى الله عليه وسلم، وَمَعَهُ عَلِيٌّ، وَلَنَا دَوَالٍ مُعَلَّقَةٌ، قَالَتْ‏:‏ فَجَعَلَ رَسُولُ اللهِ صلى الله عليه وسلم يَأْكُلُ وَعَلِيٌّ مَعَهُ يَأْكُلُ، فَقَالَ رَسُولُ اللهِ صلى الله عليه وسلم، لِعَلِيٍّ‏:‏ مَهْ يَا عَلِيُّ، فَإِنَّكَ نَاقَةٌ، قَالَتْ‏:‏ فَجَلَسَ عَلِيٌّ، وَالنَّبِيُّ صلى الله عليه وسلم يَأْكُلُ، قَالَتْ‏:‏ فَجَعَلْتُ لَهُمْ سِلْقًا وَشَعِيرًا، فَقَالَ النَّبِيُّ صلى الله عليه وسلم لِعَلِيٍّ‏:‏ مِنْ هَذَا فَأَصِبْ فَإِنَّ هَذَا أَوْفَقُ لَكَ‏.‏",
+      "english": {
+        "narrator": "Umm al-Mundhir said:",
+        "text": "“Allah’s Messenger (Allah bless him and give him peace) came to see me with 'Ali. We had some suspended clusters of grapes, so Allah’s Messenger (Allah bless him and give him peace) started to eat, and 'Ali was eating with him. Allah’s Messenger (Allah bless him and give him peace) therefore said to 'Ali: ‘Take it easy, O ‘Ali, for you are a convalescent!’ So 'Ali sat down while the Prophet (Allah bless him and give him peace) ate, and I offered them some chard and barley. The Prophet (Allah bless him and give him peace) said to 'Ali: ‘Eat some of this, for this is more appropriate for you'!”"
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا بِشْرُ بْنُ السَّرِيِّ، عَنْ سُفْيَانَ، عَنْ طَلْحَةَ بْنِ يَحْيَى، عَنْ عَائِشَةَ بِنْتِ طَلْحَةَ، عَنْ عَائِشَةَ، أُمِّ الْمُؤْمِنِينَ، قَالَتْ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم يَأْتِينِي فَيَقُولُ‏:‏ أَعِنْدَكِ غَدَاءٌ‏؟‏ فَأَقُولُ‏:‏ لا قَالَتْ‏:‏ فَيَقُولُ‏:‏ إِنِّي صَائِمٌ قَالَتْ‏:‏ فَأَتَانِي يَوْمًا، فَقُلْتُ‏:‏ يَا رَسُولَ اللهِ، إِنَّهُ أُهْدِيَتْ لَنَا هَدِيَّةٌ، قَالَ‏:‏ وَمَا هِيَ‏؟‏ قُلْتُ‏:‏ حَيْسٌ، قَالَ‏:‏ أَمَا إِنِّي أَصْبَحْتُ صَائِمًا، قَالَتْ‏:‏ ثُمَّ أَكَلَ‏.‏",
+      "english": {
+        "narrator": "'A’isha, the Mother of the Believers (may Allah be well pleased with her), said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) used to come to me and say: “Do you have something for lunch?” I would say: “No,” so he would say: “I am fasting.” When he came to me one day, I said: “O Messenger of Allah, we have been given a gift!” He said: “What is it?” I said: “It is a meal of dates mixed with butter and curds.” He said: “As for me,\nI began the day fasting.” But then he ate.”"
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ‏:‏ حَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، قَالَ‏:‏ حَدَّثَنَا أَبِي، عَنْ مُحَمَّدِ بْنِ أَبِي يَحْيَى الأَسْلَمِيِّ، عَنْ يَزِيدَ بْنِ أَبِي أُمَيَّةَ الأَعْوَرِ، عَنْ يُوسُفَ بْنِ عَبْدِ اللهِ بْنِ سَلامٍ، قَالَ‏:‏ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم أَخَذَ كِسْرَةً مِنْ خُبْزِ الشَّعِيرِ فَوَضَعَ عَلَيْهَا تَمْرَةً وَقَالَ‏:‏ هَذِهِ إِدَامُ هَذِهِ، وأكل‏.‏",
+      "english": {
+        "narrator": "Yusuf ibn 'Abdi’llah ibn Salam said:",
+        "text": "“I saw the Prophet (Allah bless him and give him peace) take a slice of barley-bread. Then he put a dried date on it and said: ‘This is the condiment for this,’ and he ate it.”"
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ‏:‏ حَدَّثَنَا سَعِيدُ بْنُ سُلَيْمَانَ، عَنْ عَبَّادِ بْنِ الْعَوَّامِ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ‏:‏ أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم كَانَ يُعْجِبُهُ الثُّفْلُ، قَالَ عَبْدُ اللهِ‏:‏ يَعْنِي مَا بَقِيَ مِنَ الطَّعَامِ‏.‏",
+      "english": {
+        "narrator": "Anas said about Allah’s Messenger (Allah bless him and give him peace):",
+        "text": "\"He used to like the dregs .” 'Abdullah said: “That means what is left over from the meal.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 26,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَيُّوبَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم خَرَجَ مِنَ الْخَلاءِ، فَقُرِّبَ إِلَيْهِ الطَّعَامُ، فَقَالُوا‏:‏ أَلا نَأْتِيكَ بِوَضُوءٍ‏؟‏ قَالَ‏:‏ إِنَّمَا أُمِرْتُ بِالْوُضُوءِ، إِذَا قُمْتُ إِلَى الصَّلاةِ‏.‏",
+      "english": {
+        "narrator": "Ibn Abbas said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) emerged from the toilet, whereupon the meal was presented to him and they said: 'Should we not bring you water for the minor ritual ablution?' He replied: 'I have only been commanded to perform the minor ritual ablution when I get ready for the ritual prayer'.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 26,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ سَعِيدِ بْنِ الْحُوَيْرِثِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ‏:‏ خَرَجَ رَسُولُ اللهِ صلى الله عليه وسلم مِنَ الْغَائِطِ فَأُتِيَ بِطَعَامٍ، فَقِيلَ لَهُ‏:‏ أَلا تَتَوَضَّأُ‏؟‏ فَقَالَ‏:‏ أَأُصَلِّي، فَأَتَوَضَّأُ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) emerged from having a bowel movement and he was brought a meal, so he was asked: 'Will you not perform the minor\nritual ablution?' He replied: “Am I about to perform the ritual prayer, so that I should perform the minor ritual ablution'?”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 26,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ نُمَيْرٍ، قَالَ‏:‏ حَدَّثَنَا قَيْسُ بْنُ الرَّبِيعِ ‏(‏ح‏)‏ وَحَدَّثَنَا قُتَيْبَةُ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْكَرِيمِ الْجُرْجَانِيُّ، عَنْ قَيْسِ بْنِ الرَّبِيعِ، عَنْ أَبِي هَاشِمٍ، عَنْ زَاذَانَ، عَنْ سَلْمَانَ، قَالَ‏:‏ قَرَأْتُ فِي التَّوْرَاةِ، أَنَّ بَرَكَةَ الطَّعَامِ الْوُضُوءُ بَعْدَهُ، فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم، وَأَخْبَرْتُهُ بِمَا قَرَأْتُ فِي التَّوْرَاةِ، فَقَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ بَرَكَةُ الطَّعَامِ الْوُضُوءُ قَبْلَهُ، وَالْوُضُوءُ بَعْدَهُ‏.‏",
+      "english": {
+        "narrator": "Salman said:",
+        "text": "“I read in the Torah that the blessing of the meal is the minor ritual ablution after it, so I mentioned this to the Prophet (Allah bless him and give him peace), and I informed him of what I had read in the Torah. Allah’s Messenger (Allah bless him and give him peace) then said: ‘The blessing of the meal is the minor ritual ablution before it and the minor ritual ablution after it'!”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 27,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ رَاشِدِ بْنِ جَنْدَلٍ الْيَافِعِيِّ، عَنْ حَبِيبِ بْنِ أَوْسٍ، عَنْ أَبِي أَيُّوبَ الأَنْصَارِيِّ، قَالَ‏:‏ كُنَّا عِنْدَ النَّبِيِّ صلى الله عليه وسلم، يَوْمًا، فَقَرَّبَ طَعَامًا، فَلَمْ أَرَ طَعَامًا كَانَ أَعْظَمَ بَرَكَةً مِنْهُ، أَوَّلَ مَا أَكَلْنَا، وَلا أَقَلَّ بَرَكَةً فِي آخِرِهِ، قُلْنَا‏:‏ يَا رَسُولَ اللهِ، كَيْفَ هَذَا‏؟‏ قَالَ‏:‏ إِنَّا ذَكَرْنَا اسْمَ اللهِ حِينَ أَكَلْنَا، ثُمَّ قَعَدَ مَنْ أَكَلَ وَلَمْ يُسَمِّ اللَّهَ تَعَالَى فَأَكَلَ مَعَهُ الشَّيْطَانُ‏.‏",
+      "english": {
+        "narrator": "Abu Ayyub Al-Ansari said:",
+        "text": "\"We were in the home of the Prophet (Allah bless him and give him peace) one day, and he served a meal. I had never seen a meal from which greater blessing was obtained at the beginning of our eating, nor less blessing at the end of it, so we said: 'O Messenger of Allah, how is this?' He said: 'We mentioned the Name of Allah when we ate. Then someone who ate sat down and did not pronounce the Name of Allah (Exalted is He), so Satan ate with him!’”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 27,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى، قَالَ‏:‏ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ‏:‏ حَدَّثَنَا هِشَامٌ الدَّسْتُوائِيُّ، عَنْ بُدَيْلٍ الْعُقَيْلِيُّ، عَنْ عَبْدِ اللهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ، عَنْ أُمِّ كُلْثُومٍ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ إِذَا أَكَلَ أَحَدُكُمْ، فَنَسِيَ أَنْ يَذْكُرَ اللَّهَ تَعَالَى عَلَى طَعَامِهِ، فَلْيَقُلْ‏:‏ بِسْمِ اللهِ أَوَّلَهُ وَآخِرَهُ‏.‏",
+      "english": {
+        "narrator": "'A’isha said:",
+        "text": "“Allah’s Messenger said (Allah bless him and give him peace): ‘If one of you eats and forgets to mention Allah (Exalted is He) during his meal, let him say: B'ismillah awwalahu wa akhirahu, which means, 'In the name of Allah at its beginning and at its end'.”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 27,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ الصَّبَّاحِ الْهَاشِمِيُّ الْبَصْرِيُّ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ مَعْمَرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عُمَرَ بْنِ أَبِي سَلَمَةَ، أَنَّهُ دَخَلَ عَلَى رَسُولِ اللهِ صلى الله عليه وسلم، وَعِنْدَهُ طَعَامٌ، فَقَالَ‏:‏ ادْنُ يَا بُنَيَّ، فَسَمِّ اللَّهَ تَعَالَى، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ‏.‏",
+      "english": {
+        "narrator": "'Umar ibn Abi Salama said that he went in to see Allah’s Messenger (Allah bless him and give him peace), who had a meal before him, so he said to him:",
+        "text": "'O my dear son, pronounce\nthe Name of Allah(Exalted is He), eat with your right hand, and eat what is directly in front of you!’”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 27,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ الثَّوْرِيُّ، عَنْ أَبِي هَاشِمٍ، عَنِ إِسْمَاعِيلَ بْنِ رِيَاحٍ، عَنْ أَبِيهِ رِيَاحِ بْنِ عَبِيدَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ‏:‏ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم إِذَا فَرَغَ مِنْ طَعَامِهِ، قَالَ‏:‏ الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ‏.‏",
+      "english": {
+        "narrator": "Abu Sa‘id al-Khudri said:",
+        "text": "“Allah’s Messenger (Allah bless him and give him peace) used to say, when he had finished his meal: ‘Praise be to Allah, who has fed us and quenched our thirst, and has made us Muslims'!”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 27,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا ثَوْرُ بْنُ يَزِيدَ، عَنْ خَالِدُ بْنُ مَعْدَانَ، عَنْ أَبِي أُمَامَةَ، قَالَ‏:‏ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم إِذَا رُفِعَتِ الْمَائِدَةُ مِنْ بَيْنِ يَدَيْهِ، يَقُولُ‏:‏ الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ، غَيْرَ مُودَعٍ، وَلا مُسْتَغْنًى عَنْهُ رَبَّنَا‏.‏",
+      "english": {
+        "narrator": "Abu Umama said:",
+        "text": "“When the table was removed from in front of him, Allah’s Messenger (Allah bless him and give him peace) used to say: ‘Much fine blessed praise to Allah! It is neither the last of our food, nor can it be dispensed with, O our Lord'!”"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 27,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ مُحَمَّدُ بْنُ أَبَانَ، قَالَ‏:‏ حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامٍ الدَّسْتُوائِيِّ، عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ الْعُقَيْلِيِّ، عَنْ عَبْدِ اللهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ، عَنْ أُمِّ كُلْثُومٍ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم يَأْكُلُ الطَّعَامَ فِي سِتَّةٍ مِنْ أَصْحَابِهِ، فَجَاءَ أَعْرَابِيٌّ، فَأَكَلَهُ بِلُقْمَتَيْنِ، فَقَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ لَوْ سَمَّى لَكَفَاكُمْ‏.‏",
+      "english": {
+        "narrator": "'Aisha said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) was eating with six of his Companions, when a Bedouin came and devoured it in two mouthfuls, so Allah’s Messenger said (Allah bless him and give him peace): 'If he had invoked the Name of Allah, it would have been enough for you all'!”"
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 27,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا هَنَّادٌ، وَمَحْمُودُ بْنُ غَيْلانَ، قَالا‏:‏ حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ سَعِيدِ بْنِ أَبِي بُرْدَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ إِنَّ اللَّهَ لَيَرْضَى عَنِ الْعَبْدِ أَنْ يَأْكُلَ الأَكْلَةَ، أَوْ يَشْرَبَ الشَّرْبَةَ فَيَحْمَدَهُ عَلَيْهَا‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "\"Allah’s Messenger said (Allah bless him and give him peace): 'Allah is surely well pleased with the servant’s eating and praising Him for the food, or drinking and praising Him for the drink'!”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 28,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا الْحُسَيْنُ بْنُ الأَسْوَدِ الْبَغْدَادِيُّ، قَالَ‏:‏ حَدَّثَنَا عَمْرُو بْنُ مُحَمَّدٍ، قَالَ‏:‏ حَدَّثَنَا عِيسَى بْنُ طَهْمَانَ، عَنْ ثَابِتٍ، قَالَ‏:‏ أَخَرَجَ إِلَيْنَا أَنَسُ بْنُ مَالِكٍ، قَدَحَ خَشَبٍ، غَلِيظًا، مُضَبَّبًا بِحَدِيدٍ، فَقَالَ‏:‏ يَا ثَابِتُ، هَذَا قَدَحُ رَسُولِ اللهِ صلى الله عليه وسلم‏.‏",
+      "english": {
+        "narrator": "Thabit said:",
+        "text": "“Anas ibn Malik brought out to us a wooden drinking vessel, roughly clamped with iron, then he said: ‘O Ihabit, this is the drinking vessel of Allah’s Messenger (Allah bless\nhim and give him peace)'!”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 28,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ‏:‏ أَنْبَأَنَا عَمْرُو بْنُ عَاصِمٍ، قَالَ‏:‏ أَنْبَأَنَا حَمَّادُ بْنُ سَلَمَةَ، قَالَ‏:‏ أَنْبَأَنَا حُمَيْدٌ، وَثَابِتٌ، عَنْ أَنَسٍ، قَالَ‏:‏ لَقَدْ سَقَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم، بِهَذَا الْقَدَحِ الشَّرَابَ كُلَّهُ، الْمَاءَ، وَالنَّبِيذَ، وَالْعَسَلَ، وَاللَّبَنَ‏.‏",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "\"I had given Allah’s Messenger (Allah bless him and give him peace) every kind of beverage to drink using this vessel: water, date juice, honey and milk.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 29,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى الْفَزَارِيُّ، قَالَ‏:‏ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللهِ، قَالَ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم، يَأْكُلُ الْقِثَّاءَ بِالرُّطَبِ‏.‏",
+      "english": {
+        "narrator": "'Abdullah ibn Ja'far said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) used to eat cucumbers with ripe dates.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 29,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدَةُ بْنُ عَبْدِ اللهِ الْخُزَاعِيُّ الْبَصْرِيُّ، قَالَ‏:‏ حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ، عَنْ سُفْيَانَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم، كَانَ يَأْكُلُ الْبِطِّيخَ بِالرُّطَبِ‏.‏",
+      "english": {
+        "narrator": "'A’isha said:",
+        "text": "(may Allah be well pleased with her):\n\"The Prophet (Allah bless him and give him peace) used to eat watermelon with ripe dates.”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 29,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ‏:‏ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، قَالَ‏:‏ حَدَّثَنَا أَبِي، قَالَ‏:‏ سَمِعْتُ حُمَيْدًا، أَوْ قَالَ‏:‏ حَدَّثَنِي حُمَيْدٌ، قَالَ وَهْبٌ‏:‏ وَكَانَ صَدِيقًا لَهُ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ‏:‏ رَأَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم، يَجْمَعُ بَيْنَ الْخِرْبِزِ وَالرُّطَبِ‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "\"I saw Allah’s Messenger (Allah bless him and give him peace) combine watermelon and ripe dates.”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 29,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، قَالَ‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْعَزِيزِ الرَّمْلِيُّ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ يَزِيدَ بْنِ الصَّلْتِ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ يَزِيدَ بْنِ رُومَانَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم أَكَلَ الْبِطِّيخَ بِالرُّطَبِ‏.‏",
+      "english": {
+        "narrator": "A’isha(may Allah be well pleased with her) said:",
+        "text": "“The Prophet (Allah bless him and give him peace) ate watermelon with ripe dates.”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 29,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكِ بْنِ أَنَسٍ ‏(‏ح‏)‏ وَحَدَّثَنَا إِسْحَاقُ بْنُ مُوسَى، قَالَ‏:‏ حَدَّثَنَا مَعْنٌ، قَالَ‏:‏ حَدَّثَنَا مَالِكٌ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ‏:‏ كَانَ النَّاسُ إِذَا رَأَوْا أَوَّلَ الثَّمَرِ جَاءُوا بِهِ إِلَى رَسُولِ اللهِ صلى الله عليه وسلم، فَإِذَا أَخَذَهُ رَسُولُ اللهِ صلى الله عليه وسلم، قَالَ‏:‏ اللَّهُمَّ بَارِكْ لَنَا فِي ثِمَارِنَا، وَبَارِكْ لَنَا فِي مَدِينَتِنَا، وَبَارِكْ لَنَا فِي صَاعِنَا وَفِي مُدِّنَا، اللَّهُمَّ إِنَّ إِبْرَاهِيمَ عَبْدُكَ وَخَلِيلُكَ وَنَبِيُّكَ، وَإِنِّي عَبْدُكَ وَنَبِيُّكَ، وَإِنَّهُ دَعَاكَ لِمَكَّةَ، وَإِنِّي أَدْعُوكَ لِلْمَدِينَةِ، بِمِثْلِ مَا دَعَاكَ بِهِ لِمَكَّةَ وَمِثْلِهِ مَعَهُ، قَالَ‏:‏ ثُمَّ يَدْعُو أَصْغَرَ وَلِيدٍ يَرَاهُ، فَيُعْطِيهِ ذَلِكَ الثَّمَرَ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira said:",
+        "text": "“When the people saw the first fruit  and Your Prophet, and I am Your servant and Your Prophet. He supplicated You on behalf of Mecca, and I supplicate You on behalf of Medina, for the like of what he supplicated You for on behalf of Mecca, and the like thereof as well!’ Then he would summon the youngest child he saw and give him that fruit.”"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 29,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حُمَيْدٍ الرَّازِيُّ، قَالَ‏:‏ حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُخْتَارِ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ أَبِي عُبَيْدَةَ بْنِ مُحَمَّدِ بْنِ عَمَّارِ بْنِ يَاسِرٍ، عَنِ الرُّبَيِّعِ بِنْتِ مُعَوِّذِ بْنِ عَفْرَاءَ، قَالَتْ‏:‏ بَعَثَنِي مُعَاذُ بْنُ عَفْرَاءَ بِقِنَاعٍ مِنْ رُطَبٍ وَعَلَيْهِ أَجْرٌ مِنْ قِثَّاءِ زُغْبٍ وَكَانَ النَّبِيُّ صلى الله عليه وسلم يُحِبُّ الْقِثَّاءَ، فَأَتَيْتُهُ بِهِ وَعِنْدَهُ حِلْيَةٌ قَدْ قَدِمَتْ عَلَيْهِ مِنَ الْبَحْرَيْنِ، فَمَلأَ يَدَهُ مِنْهَا فَأَعْطَانِيهِ‏.‏",
+      "english": {
+        "narrator": "Ar-Rubai bint Mu'awwidh ibn 'Afra’ said:",
+        "text": "\"Mu'adh ibn 'Afra sent me with a tray of ripe dates, and on it there were pieces of fluffy cucumber. He  (Allah bless him and give him peace) used to love cucumbers, so I brought them to him. He had with him some ornaments that had come to him from Bahrain, so he took a handful of them and gave it to me.\""
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 29,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ‏:‏ حَدَّثَنَا شَرِيكٌ، عَنْ عَبْدِ اللهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنِ الرُّبَيِّعِ بِنْتِ مُعَوِّذِ بْنِ عَفْرَاءَ، قَالَتْ‏:‏ أَتيتُ النَّبِيَّ صلى الله عليه وسلم، بِقِنَاعٍ مِنْ رُطَبٍ، وَأَجْرٍ زُغْبٍ، فَأَعْطَانِي مِلْءَ كَفِّهِ حُلِيًّا أَوْ قَالَتْ‏:‏ ذَهَبًا‏.‏",
+      "english": {
+        "narrator": "Ar-Rubai bint Mu'awwidh ibn 'Afra said:",
+        "text": "\"I brought the Prophet (Allah bless him and give him peace) a tray of ripe dates and fluffy cucumber, so he gave me a handful of ornaments, or she said: of gold.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 30,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ كَانَ أَحَبَّ الشَّرَابِ إِلَى رَسُولِ اللهِ صلى الله عليه وسلم، الْحُلْوُ الْبَارِدُ‏.‏",
+      "english": {
+        "narrator": "'A’isha said (may Allah be well pleased with her):",
+        "text": "\"The beverage dearest to Allah’s Messenger (Allah bless him and give him peace) was cold water sweetened with honey.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 30,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، قَالَ‏:‏ حَدَّثَنَا عَلِيُّ بْنُ زَيْدٍ، عَنْ عُمَرَ هُوَ ابْنُ أَبِي حَرْمَلَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ‏:‏ دَخَلْتُ مَعَ رَسُولِ اللهِ صلى الله عليه وسلم، أَنَا، وَخَالِدُ بْنُ الْوَلِيدِ عَلَى مَيْمُونَةَ، فَجَاءَتْنَا بِإِنَاءٍ مِنْ لَبَنٍ، فَشَرِبَ رَسُولُ اللهِ صلى الله عليه وسلم، وَأَنَا عَلَى يَمِينِهِ، وَخَالِدٌ عَلَى شِمَالِهِ، فَقَالَ لِي‏:‏ الشَّرْبَةُ لَكَ، فَإِنْ شِئِتَ آثَرْتَ بِهَا خَالِدًا، فَقُلْتُ‏:‏ مَا كُنْتُ لأُوثِرَ عَلَى سُؤْرِكَ أَحدًا، ثُمَّ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ مَنْ أَطْعَمَهُ اللَّهُ طَعَامًا، فَلْيَقُلِ‏:‏ اللَّهُمَّ بَارِكْ لَنَا فِيهِ، وَأَطْعِمْنَا خَيْرًا مِنْهُ، وَمَنْ سَقَاهُ اللَّهُ عَزَّ وَجَلَّ لَبَنًا، فَلْيَقُلِ‏:‏ اللَّهُمَّ بَارِكْ لَنَا فِيهِ، وَزِدْنَا مِنْهُ ثُمَّ قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ لَيْسَ شَيْءٌ يُجْزِئُ مَكَانَ الطَّعَامِ وَالشَّرَابِ، غَيْرُ اللَّبَنِ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas said (may Allah be well pleased with him and his father):",
+        "text": "\"Together with Allah’s Messenger (Allah bless him and give him peace), Khalid ibn al-Walid and I entered the presence of Maimuna, whereupon she brought us a vessel of milk and Allah’s Messenger drank (Allah bless him and give him peace), while I was on his right side and Khalid was on his left. He said to me: 'The drink is yours, but if you wish, you may let Khalid have it.' I said: 'I wouldn't give up your leftover drink for anyone!' Then Allah’s Messenger said (Allah bless him and give him peace): 'If Allah feeds someone a meal, let him say: ‘O Allah, bless us in it, and give us something even better!’ If Allah (Almighty and Glorious is He) gives a person some milk to drink, let him say: ‘O Allah, bless us in it, and grant us more of it!’ Then Allah’s Messenger said (Allah bless him and give him peace): 'Nothing but milk can substitute for both food and drink'!\""
+      }
+    }
+  ]
+}

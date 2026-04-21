@@ -1,0 +1,16 @@
+{
+  "id": 635,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا جَرِيرٌ، وَمُحَمَّدُ بْنُ فُضَيْلِ بْنِ غَزْوَانَ، عَنْ مُطَرِّفٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يُصَلِّي صَلَاةً يُصَلَّى بَعْدَهَا إِلَّا صَلَّى بَعْدَهَا رَكْعَتَيْنِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) did not offer any prayer after which (nafl) prayer may be offered, but he prayed two rak`ahs after it."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

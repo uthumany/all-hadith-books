@@ -1,0 +1,16 @@
+{
+  "id": 106,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَلَمَةَ، قَالَ سَمِعْتُ عَلِيًّا، يَقُولُ خَيْرُ النَّاسِ بَعْدَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَبُو بَكْرٍ وَخَيْرُ النَّاسِ بَعْدَ أَبِي بَكْرٍ عُمَرُ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that 'Abdullah bin Salimah said:",
+    "text": "\"I heard 'Ali say: 'The best of people after the Messenger of Allah is Abu Bakr, and the best of people after Abu Bakr is 'Umar.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

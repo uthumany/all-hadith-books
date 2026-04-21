@@ -1,0 +1,16 @@
+{
+  "id": 259,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنِي هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَبِيدَةَ، هُوَ السَّلْمَانِيُّ عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَيْرُ النَّاسِ قَرْنِي ثُمَّ الَّذِينَ يَلُونَهُمْ ثُمَّ الَّذِينَ يَلُونَهُمْ ثُمَّ يَأْتِي قَوْمٌ مِنْ بَعْدِ ذَلِكَ تَسْبِقُ أَيْمَانُهُمْ شَهَادَاتِهِمْ أَوْ شَهَادَاتُهُمْ أَيْمَانَهُمْ ‏\"‏ ‏.‏ وَفِي الْبَابِ عَنْ عُمَرَ وَعِمْرَانَ بْنِ حُصَيْنٍ وَبُرَيْدَةَ ‏.‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated 'Abdullah bin Mas'ud:",
+    "text": "that the Messenger of Allah (ﷺ) said: \"The best generation is my generation, then those who follow them, then those who follow them. Then comes a people after that whose swearing precedes their testimony, or whose testimony precedes their swearing.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

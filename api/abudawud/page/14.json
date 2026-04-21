@@ -1,0 +1,510 @@
+{
+  "page": 14,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 15,
+  "prevPage": 13,
+  "items": [
+    {
+      "id": 261,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى، - يَعْنِي ابْنَ إِسْمَاعِيلَ - حَدَّثَنَا أَبَانُ، حَدَّثَنَا قَتَادَةُ، حَدَّثَنِي بَكْرُ بْنُ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا قَالَ ‏\"‏ فِيهِمَا خَبَثًا ‏\"‏ ‏.‏ قَالَ فِي الْمَوْضِعَيْنِ ‏\"‏ خَبَثًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This tradition has also been transmitted through a chain by Bakr b. ‘Abd Allah. This version has the word Khubuth (filth) and in two places the word Khubuthan (filth)."
+      }
+    },
+    {
+      "id": 262,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ الْفَزَارِيُّ، عَنْ هِلاَلِ بْنِ مَيْمُونٍ الرَّمْلِيِّ، عَنْ يَعْلَى بْنِ شَدَّادِ بْنِ أَوْسٍ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَالِفُوا الْيَهُودَ فَإِنَّهُمْ لاَ يُصَلُّونَ فِي نِعَالِهِمْ وَلاَ خِفَافِهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aws ibn Thabit al-Ansari:",
+        "text": "The Messenger of Allah (ﷺ) said: Act differently from the Jews, for they do not pray in their sandals or their shoes."
+      }
+    },
+    {
+      "id": 263,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُصَلِّي حَافِيًا وَمُنْتَعِلاً ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "I saw the Messenger of Allah (ﷺ) praying both  barefooted and wearing sandals."
+      }
+    },
+    {
+      "id": 264,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، حَدَّثَنَا صَالِحُ بْنُ رُسْتُمَ أَبُو عَامِرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ قَيْسٍ، عَنْ يُوسُفَ بْنِ مَاهَكَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا صَلَّى أَحَدُكُمْ فَلاَ يَضَعْ نَعْلَيْهِ عَنْ يَمِينِهِ وَلاَ عَنْ يَسَارِهِ فَتَكُونَ عَنْ يَمِينِ غَيْرِهِ إِلاَّ أَنْ لاَ يَكُونَ عَنْ يَسَارِهِ أَحَدٌ وَلْيَضَعْهُمَا بَيْنَ رِجْلَيْهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: When any of you prays, he should not place his sandals on his right side or on his left so as to be on the right side of someone else, unless no one is at his left, but should place them between his feet."
+      }
+    },
+    {
+      "id": 265,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ نَجْدَةَ، حَدَّثَنَا بَقِيَّةُ، وَشُعَيْبُ بْنُ إِسْحَاقَ، عَنِ الأَوْزَاعِيِّ، حَدَّثَنِي مُحَمَّدُ بْنُ الْوَلِيدِ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا صَلَّى أَحَدُكُمْ فَخَلَعَ نَعْلَيْهِ فَلاَ يُؤْذِ بِهِمَا أَحَدًا لِيَجْعَلْهُمَا بَيْنَ رِجْلَيْهِ أَوْ لِيُصَلِّ فِيهِمَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "when any of you prays and takes off his sandals, he should not harm anyone by them. He should place them between his feet or pray with them on"
+      }
+    },
+    {
+      "id": 266,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، حَدَّثَنَا خَالِدٌ، عَنِ الشَّيْبَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ شَدَّادٍ، حَدَّثَتْنِي مَيْمُونَةُ بِنْتُ الْحَارِثِ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي وَأَنَا حِذَاءَهُ وَأَنَا حَائِضٌ وَرُبَّمَا أَصَابَنِي ثَوْبُهُ إِذَا سَجَدَ وَكَانَ يُصَلِّي عَلَى الْخُمْرَةِ ‏.‏",
+      "english": {
+        "narrator": "Maimunah bint al-Harith reported :",
+        "text": "the Messenger of Allah (ﷺ) used to pray while. I was by his side in the state of menstruation. Sometime his cloth would touch me when he prostrated. He would pray on a small mat."
+      }
+    },
+    {
+      "id": 267,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ أَنَسِ بْنِ سِيرِينَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَجُلٌ مِنَ الأَنْصَارِ يَا رَسُولَ اللَّهِ إِنِّي رَجُلٌ ضَخْمٌ - وَكَانَ ضَخْمًا - لاَ أَسْتَطِيعُ أَنْ أُصَلِّيَ مَعَكَ - وَصَنَعَ لَهُ طَعَامًا وَدَعَاهُ إِلَى بَيْتِهِ - فَصَلِّ حَتَّى أَرَاكَ كَيْفَ تُصَلِّي فَأَقْتَدِيَ بِكَ ‏.‏ فَنَضَحُوا لَهُ طَرَفَ حَصِيرٍ كَانَ لَهُمْ فَقَامَ فَصَلَّى رَكْعَتَيْنِ ‏.‏ قَالَ فُلاَنُ بْنُ الْجَارُودِ لأَنَسِ بْنِ مَالِكٍ أَكَانَ يُصَلِّي الضُّحَى قَالَ لَمْ أَرَهُ صَلَّى إِلاَّ يَوْمَئِذٍ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported:",
+        "text": "A man from the Ansar said: I am a corpulent man-and he was (actually) a fat man; I cannot pray along with you. He prepared food for him and invited him to his house. (he said) (please) pray (here) so that I may see how you pray, and then I would follow you. They (the people) washed one side of their mat. He (the prophet) then got up and prayed two Rak’ahs. Ibn al-Jarud asked Anas b. Malik: would he (the prophet) say the forenoon prayer? He replied: I did not see him offering this prayer except that day."
+      }
+    },
+    {
+      "id": 268,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا الْمُثَنَّى بْنُ سَعِيدٍ الذَّرَّاعُ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَزُورُ أُمَّ سُلَيْمٍ فَتُدْرِكُهُ الصَّلاَةُ أَحْيَانًا فَيُصَلِّي عَلَى بِسَاطٍ لَنَا وَهُوَ حَصِيرٌ نَنْضَحُهُ بِالْمَاءِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Anas b. Malik said; the prophet (ﷺ) used to visit Umm Sulaim. Sometimes the time for prayer would come and he would pray on out carpet that was really a mat. She (Umm Sulaim) used to wash it with water."
+      }
+    },
+    {
+      "id": 269,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، - بِمَعْنَى الإِسْنَادِ وَالْحَدِيثِ - قَالاَ حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، عَنْ يُونُسَ بْنِ الْحَارِثِ، عَنْ أَبِي عَوْنٍ، عَنْ أَبِيهِ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي عَلَى الْحَصِيرِ وَالْفَرْوَةِ الْمَدْبُوغَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Mughirah ibn Shu'bah:",
+        "text": "The Messenger of Allah (ﷺ) used to pray on a mat and on a tanned skin."
+      }
+    },
+    {
+      "id": 270,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا بِشْرٌ، - يَعْنِي ابْنَ الْمُفَضَّلِ - حَدَّثَنَا غَالِبٌ الْقَطَّانُ، عَنْ بَكْرِ بْنِ عَبْدِ اللَّهِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كُنَّا نُصَلِّي مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي شِدَّةِ الْحَرِّ فَإِذَا لَمْ يَسْتَطِعْ أَحَدُنَا أَنْ يُمَكِّنَ وَجْهَهُ مِنَ الأَرْضِ بَسَطَ ثَوْبَهُ فَسَجَدَ عَلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik said:",
+        "text": "we used to pray along with the Messenger of Allah (ﷺ) in intense heat. When any of us could not rest his face on bare ground while prostrating due to intense heat he spread his cloth and would prostrate on it."
+      }
+    },
+    {
+      "id": 271,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، قَالَ سَأَلْتُ سُلَيْمَانَ الأَعْمَشَ عَنْ جَابِرِ بْنِ سَمُرَةَ، فِي الصُّفُوفِ الْمُقَدَّمَةِ فَحَدَّثَنَا عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، عَنْ تَمِيمِ بْنِ طَرْفَةَ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَلاَ تَصُفُّونَ كَمَا تَصُفُّ الْمَلاَئِكَةُ عِنْدَ رَبِّهِمْ جَلَّ وَعَزَّ ‏\"‏ ‏.‏ قُلْنَا وَكَيْفَ تَصُفُّ الْمَلاَئِكَةُ عِنْدَ رَبِّهِمْ قَالَ ‏\"‏ يُتِمُّونَ الصُّفُوفَ الْمُقَدَّمَةَ وَيَتَرَاصُّونَ فِي الصَّفِّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "jabir b. Samurah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "Why do you stand in rows as the angels do in the presence of their Lord? We asked: how do the angles stand in rows in the presence of their Lord? He replied: they make the first row complete and keep close together in the row."
+      }
+    },
+    {
+      "id": 272,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ أَبِي الْقَاسِمِ الْجَدَلِيِّ، قَالَ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، يَقُولُ أَقْبَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى النَّاسِ بِوَجْهِهِ فَقَالَ ‏\"‏ أَقِيمُوا صُفُوفَكُمْ ‏\"‏ ‏.‏ ثَلاَثًا ‏\"‏ وَاللَّهِ لَتُقِيمُنَّ صُفُوفَكُمْ أَوْ لَيُخَالِفَنَّ اللَّهُ بَيْنَ قُلُوبِكُمْ ‏\"‏ ‏.‏ قَالَ فَرَأَيْتُ الرَّجُلَ يُلْزِقُ مَنْكِبَهُ بِمَنْكِبِ صَاحِبِهِ وَرُكْبَتَهُ بِرُكْبَةِ صَاحِبِهِ وَكَعْبَهُ بِكَعْبِهِ ‏.‏",
+      "english": {
+        "narrator": "Al-Nu’man b. Bashir said:",
+        "text": "the Messenger of Allah (ﷺ) paid attention to the people and said three times; straighten your rows (in prayer); by Allah, you must straighten your rows, or Allah will certainly put your faces in contrary directions. I then saw that every person stood in prayer keeping his shoulder close to that of the other, and his knee close to that of the other, and his ankle close to that of the other."
+      }
+    },
+    {
+      "id": 273,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ سِمَاكِ بْنِ حَرْبٍ، قَالَ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، يَقُولُ كَانَ النَّبِيُّ صلى الله عليه وسلم يُسَوِّينَا فِي الصُّفُوفِ كَمَا يُقَوَّمُ الْقِدْحُ حَتَّى إِذَا ظَنَّ أَنْ قَدْ أَخَذْنَا ذَلِكَ عَنْهُ وَفَقِهْنَا أَقْبَلَ ذَاتَ يَوْمٍ بِوَجْهِهِ إِذَا رَجُلٌ مُنْتَبِذٌ بِصَدْرِهِ فَقَالَ ‏\n\"‏ لَتُسَوُّنَّ صُفُوفَكُمْ أَوْ لَيُخَالِفَنَّ اللَّهُ بَيْنَ وُجُوهِكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Al-Nu’man b. Bashir said:",
+        "text": "the prophet (ﷺ) used to straighten us in the rows of prayer as the arrow is straightened, until he thought that we had learned it from him and understood it. One day he turned towards us, and shoulders in order, and say; Do not be irregular. And he would say: Allah and his Angels bless those who near the first rows."
+      }
+    },
+    {
+      "id": 274,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، وَأَبُو عَاصِمِ بْنِ جَوَّاسٍ الْحَنَفِيُّ عَنْ أَبِي الأَحْوَصِ، عَنْ مَنْصُورٍ، عَنْ طَلْحَةَ الْيَامِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَوْسَجَةَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَخَلَّلُ الصَّفَّ مِنْ نَاحِيَةٍ إِلَى نَاحِيَةٍ يَمْسَحُ صُدُورَنَا وَمَنَاكِبَنَا وَيَقُولُ ‏\"‏ لاَ تَخْتَلِفُوا فَتَخْتَلِفَ قُلُوبُكُمْ ‏\"‏ ‏.‏ وَكَانَ يَقُولُ ‏\"‏ إِنَّ اللَّهَ وَمَلاَئِكَتَهُ يُصَلُّونَ عَلَى الصُّفُوفِ الأُوَلِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Bara' ibn Azib:",
+        "text": "The Messenger of Allah (ﷺ) used to pass through the row from one side to the other; he used to set out chests and shoulders in order, and say: Do not be irregular. And he would say: Allah and His angels bless those who are near the first rows."
+      }
+    },
+    {
+      "id": 275,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا ابْنُ مُعَاذٍ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا حَاتِمٌ، - يَعْنِي ابْنَ أَبِي صَغِيرَةَ - عَنْ سِمَاكٍ، قَالَ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُسَوِّي صُفُوفَنَا إِذَا قُمْنَا لِلصَّلاَةِ فَإِذَا اسْتَوَيْنَا كَبَّرَ ‏.‏",
+      "english": {
+        "narrator": "Narrated An-Nu'man ibn Bashir:",
+        "text": "The Messenger of Allah (ﷺ) used to straighten our rows when we stood up to pray, and when we were straight, he said: Allah is most great (takbir)."
+      }
+    },
+    {
+      "id": 276,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عِيسَى بْنُ إِبْرَاهِيمَ الْغَافِقِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، ح وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، - وَحَدِيثُ ابْنِ وَهْبٍ أَتَمُّ - عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ، عَنْ أَبِي الزَّاهِرِيَّةِ، عَنْ كَثِيرِ بْنِ مُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، - قَالَ قُتَيْبَةُ عَنْ أَبِي الزَّاهِرِيَّةِ، عَنْ أَبِي شَجَرَةَ، لَمْ يَذْكُرِ ابْنَ عُمَرَ - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ أَقِيمُوا الصُّفُوفَ وَحَاذُوا بَيْنَ الْمَنَاكِبِ وَسُدُّوا الْخَلَلَ وَلِينُوا بِأَيْدِي إِخْوَانِكُمْ ‏\"‏ ‏.‏ لَمْ يَقُلْ عِيسَى ‏\"‏ بِأَيْدِي إِخْوَانِكُمْ ‏\"‏ ‏.‏ ‏\"‏ وَلاَ تَذَرُوا فُرُجَاتٍ لِلشَّيْطَانِ وَمَنْ وَصَلَ صَفًّا وَصَلَهُ اللَّهُ وَمَنْ قَطَعَ صَفًّا قَطَعَهُ اللَّهُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ أَبُو شَجَرَةَ كَثِيرُ بْنُ مُرَّةَ ‏.‏ قَالَ أَبُو دَاوُدَ وَمَعْنَى ‏\"‏ وَلِينُوا بِأَيْدِي إِخْوَانِكُمْ ‏\"‏ ‏.‏ إِذَا جَاءَ رَجُلٌ إِلَى الصَّفِّ فَذَهَبَ يَدْخُلُ فِيهِ فَيَنْبَغِي أَنْ يُلَيِّنَ لَهُ كُلُّ رَجُلٍ مَنْكِبَيْهِ حَتَّى يَدْخُلَ فِي الصَّفِّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "The Prophet (ﷺ) said: Set the rows in order, stand shoulder to shoulder, close the gaps, be pliant in the hands of your brethren, and do not leave openings for the devil. If anyone joins up a row, Allah will join him up, but if anyone  breaks a row, Allah will cut him off.\n\n\n\nAbu Dawud said: The name of Abu Shjrah is Kathir b. Murrah."
+      }
+    },
+    {
+      "id": 277,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبَانُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ رُصُّوا صُفُوفَكُمْ وَقَارِبُوا بَيْنَهَا وَحَاذُوا بِالأَعْنَاقِ فَوَالَّذِي نَفْسِي بِيَدِهِ إِنِّي لأَرَى الشَّيْطَانَ يَدْخُلُ مِنْ خَلَلِ الصَّفِّ كَأَنَّهَا الْحَذَفُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "The Prophet (ﷺ) said: Stand close together in your rows, bring them near one another, and stand neck to neck, for by Him in Whose hand my soul is, I see the devil coming in through openings in the row just like a small black sheep."
+      }
+    },
+    {
+      "id": 278,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، وَسُلَيْمَانُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ سَوُّوا صُفُوفَكُمْ فَإِنَّ تَسْوِيَةَ الصَّفِّ مِنْ تَمَامِ الصَّلاَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas reported the Messenger of Allah (ﷺ) as saying :",
+        "text": "Straighten your rows for the straightening of the rows is part of perfecting the prayer."
+      }
+    },
+    {
+      "id": 279,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنْ مُصْعَبِ بْنِ ثَابِتِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ مُحَمَّدِ بْنِ مُسْلِمِ بْنِ السَّائِبِ، صَاحِبِ الْمَقْصُورَةِ قَالَ صَلَّيْتُ إِلَى جَنْبِ أَنَسِ بْنِ مَالِكٍ يَوْمًا فَقَالَ هَلْ تَدْرِي لِمَ صُنِعَ هَذَا الْعُودُ فَقُلْتُ لاَ وَاللَّهِ ‏.‏ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَضَعُ يَدَهُ عَلَيْهِ فَيَقُولُ ‏\n\"‏ اسْتَوُوا وَعَدِّلُوا صُفُوفَكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Muhammad b. Muslim b. al-Sa’ib said:",
+        "text": "one day I prayed by the side of Anas b. Malik. He said ; Do you know why this stick is placed here ? I said : No, by Allah. He said; The Messenger of Allah (ﷺ) used to put his hand upon it and say: Keep straight and straighten your rows."
+      }
+    },
+    {
+      "id": 280,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حُمَيْدُ بْنُ الأَسْوَدِ، حَدَّثَنَا مُصْعَبُ بْنُ ثَابِتٍ، عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ، عَنْ أَنَسٍ، بِهَذَا الْحَدِيثِ قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا قَامَ إِلَى الصَّلاَةِ أَخَذَهُ بِيَمِينِهِ ثُمَّ الْتَفَتَ فَقَالَ ‏\"‏ اعْتَدِلُوا سَوُّوا صُفُوفَكُمْ ‏\"‏ ‏.‏ ثُمَّ أَخَذَهُ بِيَسَارِهِ فَقَالَ ‏\"‏ اعْتَدِلُوا سَوُّوا صُفُوفَكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This tradition has also ben transmitted by Anas through a different chain of transmitters. This version goes:",
+        "text": "when the Messenger of Allah (ﷺ) stood for prayer, he took it (the stick) in his right hand and turning (to the right side) said; keep straight and straighten your rows. He then took it in his left hand and said; keep straight and straighten your rows."
+      }
+    },
+    {
+      "id": 281,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، - يَعْنِي ابْنَ عَطَاءٍ - عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَتِمُّوا الصَّفَّ الْمُقَدَّمَ ثُمَّ الَّذِي يَلِيهِ فَمَا كَانَ مِنْ نَقْصٍ فَلْيَكُنْ فِي الصَّفِّ الْمُؤَخَّرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "The Prophet (ﷺ) said: Complete the front row, then the one that comes next, and if there is any incompleteness, let it be in the last row."
+      }
+    },
+    {
+      "id": 282,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا ابْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَاصِمٍ، حَدَّثَنَا جَعْفَرُ بْنُ يَحْيَى بْنِ ثَوْبَانَ، قَالَ أَخْبَرَنِي عَمِّي، عُمَارَةُ بْنُ ثَوْبَانَ عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خِيَارُكُمْ أَلْيَنُكُمْ مَنَاكِبَ فِي الصَّلاَةِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ جَعْفَرُ بْنُ يَحْيَى مِنْ أَهْلِ مَكَّةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Prophet (ﷺ) said: The best of you are those whose shoulders are soft in prayer."
+      }
+    },
+    {
+      "id": 283,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، عَنْ يَحْيَى بْنِ هَانِئٍ، عَنْ عَبْدِ الْحَمِيدِ بْنِ مَحْمُودٍ، قَالَ صَلَّيْتُ مَعَ أَنَسِ بْنِ مَالِكٍ يَوْمَ الْجُمُعَةِ فَدُفِعْنَا إِلَى السَّوَارِي فَتَقَدَّمْنَا وَتَأَخَّرْنَا فَقَالَ أَنَسٌ كُنَّا نَتَّقِي هَذَا عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Narrated AbdulHamid ibn Mahmud:",
+        "text": "I offered the Friday prayer along with Anas ibn Malik.  We were pushed to the pillars (due to the crowd of people). We, therefore, stopped forward and backward. Anas then said: We used to avoid it (setting a row between the pillars) during the time of the Messenger of Allah (ﷺ)."
+      }
+    },
+    {
+      "id": 284,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا ابْنُ كَثِيرٍ، أَخْبَرَنِي سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ عُمَارَةَ بْنِ عُمَيْرٍ، عَنْ أَبِي مَعْمَرٍ، عَنْ أَبِي مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لِيَلِنِي مِنْكُمْ أُولُو الأَحْلاَمِ وَالنُّهَى ثُمَّ الَّذِينَ يَلُونَهُمْ ثُمَّ الَّذِينَ يَلُونَهُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Ma’sud reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "let those of your who are sedate and prudent be near me, then those who are next to them, then those who are next to them."
+      }
+    },
+    {
+      "id": 285,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا خَالِدٌ، عَنْ أَبِي مَعْشَرٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏ وَزَادَ ‏\n\"‏ وَلاَ تَخْتَلِفُوا فَتَخْتَلِفَ قُلُوبُكُمْ وَإِيَّاكُمْ وَهَيْشَاتِ الأَسْوَاقِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This tradition has also been transmitted by ‘Abd Allah (b. Mas’ud) through a different chain of narrators. This version adds:",
+        "text": "“Do not be irregular, so have your hearts irregular, and beware of tumult such as found in market”."
+      }
+    },
+    {
+      "id": 286,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ، حَدَّثَنَا سُفْيَانُ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، عَنْ عُثْمَانَ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ اللَّهَ وَمَلاَئِكَتَهُ يُصَلُّونَ عَلَى مَيَامِنِ الصُّفُوفِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Messenger of Allah (ﷺ) said: Allah and His angels bless those who are on the right flanks of the rows."
+      }
+    },
+    {
+      "id": 287,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عِيسَى بْنُ شَاذَانَ، حَدَّثَنَا عَيَّاشٌ الرَّقَّامُ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا قُرَّةُ بْنُ خَالِدٍ، حَدَّثَنَا بُدَيْلٌ، حَدَّثَنَا شَهْرُ بْنُ حَوْشَبٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ غَنْمٍ، قَالَ قَالَ أَبُو مَالِكٍ الأَشْعَرِيُّ أَلاَ أُحَدِّثُكُمْ بِصَلاَةِ النَّبِيِّ صلى الله عليه وسلم قَالَ فَأَقَامَ الصَّلاَةَ وَصَفَّ الرِّجَالَ وَصَفَّ خَلْفَهُمُ الْغِلْمَانَ ثُمَّ صَلَّى بِهِمْ فَذَكَرَ صَلاَتَهُ ثُمَّ قَالَ هَكَذَا صَلاَةُ قَالَ عَبْدُ الأَعْلَى لاَ أَحْسَبُهُ إِلاَّ قَالَ ‏\n\"‏ صَلاَةُ أُمَّتِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuMalik al-Ash'ari:",
+        "text": "Should I not tell you how the Messenger of Allah (ﷺ) led the prayer? He said: He had the iqamah announced, drew the men up in line and drew up the youths behind them, then led them in prayer. He then mentioned how he conducted it. and said: Thus is the prayer of......AbdulA'la said: I think he must have said: My people."
+      }
+    },
+    {
+      "id": 288,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ الْبَزَّازُ، حَدَّثَنَا خَالِدٌ، وَإِسْمَاعِيلُ بْنُ زَكَرِيَّا، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَيْرُ صُفُوفِ الرِّجَالِ أَوَّلُهَا وَشَرُّهَا آخِرُهَا وَخَيْرُ صُفُوفِ النِّسَاءِ آخِرُهَا وَشَرُّهَا أَوَّلُهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "the best of the men’s row is the first and the worst of them is the last, but the best of the women’s rows is the last and the worst of them is the first."
+      }
+    },
+    {
+      "id": 289,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ مَعِينٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ عِكْرِمَةَ بْنِ عَمَّارٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَزَالُ قَوْمٌ يَتَأَخَّرُونَ عَنِ الصَّفِّ الأَوَّلِ حَتَّى يُؤَخِّرَهُمُ اللَّهُ فِي النَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "‘A’ishah reported the Messenger of Allah (ﷺ) as saying the people will continue to keep themselves away from the front row until Allah will keep them away (from the front) in the Hell-fire."
+      }
+    },
+    {
+      "id": 290,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ الْخُزَاعِيُّ، قَالاَ حَدَّثَنَا أَبُو الأَشْهَبِ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى فِي أَصْحَابِهِ تَأَخُّرًا فَقَالَ لَهُمْ ‏\n\"‏ تَقَدَّمُوا فَائْتَمُّوا بِي وَلْيَأْتَمَّ بِكُمْ مَنْ بَعْدَكُمْ وَلاَ يَزَالُ قَوْمٌ يَتَأَخَّرُونَ حَتَّى يُؤَخِّرَهُمُ اللَّهُ عَزَّ وَجَلَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa’Id al-Khudri said; The Messenger of Allah (ﷺ) saw a tendency among his companions to go to the back. He said to them; come forward and follow my lead, and let those who come after you follow your lead people will continue to keep to the back till Allah would put them at the back."
+      }
+    },
+    {
+      "id": 291,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، عَنْ يَحْيَى بْنِ بَشِيرِ بْنِ خَلاَّدٍ، عَنْ أُمِّهِ، أَنَّهَا دَخَلَتْ عَلَى مُحَمَّدِ بْنِ كَعْبٍ الْقُرَظِيِّ فَسَمِعَتْهُ يَقُولُ حَدَّثَنِي أَبُو هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ وَسِّطُوا الإِمَامَ وَسُدُّوا الْخَلَلَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: Have the imam in the centre and close up the gaps."
+      }
+    },
+    {
+      "id": 292,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، وَحَفْصُ بْنُ عُمَرَ، قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ هِلاَلِ بْنِ يِسَافٍ، عَنْ عَمْرِو بْنِ رَاشِدٍ، عَنْ وَابِصَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى رَجُلاً يُصَلِّي خَلْفَ الصَّفِّ وَحْدَهُ فَأَمَرَهُ أَنْ يُعِيدَ - قَالَ سُلَيْمَانُ بْنُ حَرْبٍ - الصَّلاَةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Wabisah:",
+        "text": "The Messenger of Allah (ﷺ) saw a man praying alone behind the row. He ordered him to repeat. Sulayman ibn Harb said: The prayer."
+      }
+    },
+    {
+      "id": 293,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، أَنَّ يَزِيدَ بْنَ زُرَيْعٍ، حَدَّثَهُمْ حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ زِيَادٍ الأَعْلَمِ، حَدَّثَنَا الْحَسَنُ، أَنَّ أَبَا بَكْرَةَ، حَدَّثَ أَنَّهُ، دَخَلَ الْمَسْجِدَ وَنَبِيُّ اللَّهِ صلى الله عليه وسلم رَاكِعٌ - قَالَ - فَرَكَعْتُ دُونَ الصَّفِّ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ زَادَكَ اللَّهُ حِرْصًا وَلاَ تَعُدْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Bakrah said that he came to the mosque when the prophet (ﷺ) was bowing. So I bowed outside the row (before joining it). The prophet (ﷺ) said; May Allah increase your eagerness! But do not do it again."
+      }
+    },
+    {
+      "id": 294,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا زِيَادٌ الأَعْلَمُ، عَنِ الْحَسَنِ، أَنَّ أَبَا بَكْرَةَ، جَاءَ وَرَسُولُ اللَّهِ رَاكِعٌ فَرَكَعَ دُونَ الصَّفِّ ثُمَّ مَشَى إِلَى الصَّفِّ فَلَمَّا قَضَى النَّبِيُّ صلى الله عليه وسلم صَلاَتَهُ قَالَ ‏\"‏ أَيُّكُمُ الَّذِي رَكَعَ دُونَ الصَّفِّ ثُمَّ مَشَى إِلَى الصَّفِّ ‏\"‏ ‏.‏ فَقَالَ أَبُو بَكْرَةَ أَنَا ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ زَادَكَ اللَّهُ حِرْصًا وَلاَ تَعُدْ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ زِيَادٌ الأَعْلَمُ زِيَادُ بْنُ فُلاَنِ بْنِ قُرَّةَ وَهُوَ ابْنُ خَالَةِ يُونُسَ بْنِ عُبَيْدِ اللَّهِ ‏.‏",
+      "english": {
+        "narrator": "Al-Hasan reported :",
+        "text": "Abu Bakrah came when the apostle of Allah (ﷺ) was bowing. So he bowed without the row (before joining it). He then went to the row. When the prophet (ﷺ) finished his prayer, he said: which of your bowed without the row, and then went to the row? Abu Bakrah said; it was i. the prophet (ﷺ) said: May Allah increase your eagerness ! but do not do it again."
+      }
+    },
+    {
+      "id": 295,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ الْعَبْدِيُّ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ سِمَاكٍ، عَنْ مُوسَى بْنِ طَلْحَةَ، عَنْ أَبِيهِ، طَلْحَةَ بْنِ عُبَيْدِ اللَّهِ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا جَعَلْتَ بَيْنَ يَدَيْكَ مِثْلَ مُؤَخَّرَةِ الرَّحْلِ فَلاَ يَضُرُّكَ مَنْ مَرَّ بَيْنَ يَدَيْكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Talhah b. 'Ubaid Allah reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "When you place in front of you something such as the back of a saddle, then there is no harm if someone passes in front of you (i.e. the other side of it)."
+      }
+    },
+    {
+      "id": 296,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، قَالَ آخِرَةُ الرَّحْلِ ذِرَاعٌ فَمَا فَوْقَهُ ‏.‏",
+      "english": {
+        "narrator": "'Ata said:",
+        "text": "The back of the saddle is (about) one cubit (in height) or more than that."
+      }
+    },
+    {
+      "id": 297,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا خَرَجَ يَوْمَ الْعِيدِ أَمَرَ بِالْحَرْبَةِ فَتُوضَعَ بَيْنَ يَدَيْهِ فَيُصَلِّي إِلَيْهَا وَالنَّاسُ وَرَاءَهُ وَكَانَ يَفْعَلُ ذَلِكَ فِي السَّفَرِ فَمِنْ ثَمَّ اتَّخَذَهَا الأُمَرَاءُ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar said:",
+        "text": "When the Messenger of Allah (ﷺ) would go out (for prayer) on the day of 'Id, he ordered to bring a lance, it was then setup in front of him and he would pray in its direction, and the people (stood) behind him. He used to do so during journey ; hence the rulers would take it (lance with them)."
+      }
+    },
+    {
+      "id": 298,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى بِهِمْ بِالْبَطْحَاءِ وَبَيْنَ يَدَيْهِ عَنَزَةٌ الظُّهْرَ رَكْعَتَيْنِ وَالْعَصْرَ رَكْعَتَيْنِ يَمُرُّ خَلْفَ الْعَنَزَةِ الْمَرْأَةُ وَالْحِمَارُ ‏.‏",
+      "english": {
+        "narrator": "Abu Juhaifah said:",
+        "text": "The Prophet (ﷺ) led them in prayer at al-Batha', with a staff set up in front of him. (He prayed) two rak'ahs of the Zuhr prayer and two rak'ahs of the 'Asr prayer. The women and the donkeys would pass in front of the staff."
+      }
+    },
+    {
+      "id": 299,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ أُمَيَّةَ، حَدَّثَنِي أَبُو عَمْرِو بْنُ مُحَمَّدِ بْنِ حُرَيْثٍ، أَنَّهُ سَمِعَ جَدَّهُ، حُرَيْثًا يُحَدِّثُ عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا صَلَّى أَحَدُكُمْ فَلْيَجْعَلْ تِلْقَاءَ وَجْهِهِ شَيْئًا فَإِنْ لَمْ يَجِدْ فَلْيَنْصِبْ عَصًا فَإِنْ لَمْ يَكُنْ مَعَهُ عَصًا فَلْيَخْطُطْ خَطًّا ثُمَّ لاَ يَضُرُّهُ مَا مَرَّ أَمَامَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: When one of you prays, he should put something in front of his face, and if he can find nothing , he should set up his staff; but if he has no staff, he should draw a line; then what passes in front of him will not harm him."
+      }
+    },
+    {
+      "id": 300,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، حَدَّثَنَا عَلِيٌّ، - يَعْنِي ابْنَ الْمَدِينِيِّ - عَنْ سُفْيَانَ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ أَبِي مُحَمَّدِ بْنِ عَمْرِو بْنِ حُرَيْثٍ، عَنْ جَدِّهِ، حُرَيْثٍ - رَجُلٍ مِنْ بَنِي عُذْرَةَ - عَنْ أَبِي هُرَيْرَةَ، عَنْ أَبِي الْقَاسِمِ، صلى الله عليه وسلم قَالَ فَذَكَرَ حَدِيثَ الْخَطِّ ‏.‏ قَالَ سُفْيَانُ لَمْ نَجِدْ شَيْئًا نَشُدُّ بِهِ هَذَا الْحَدِيثَ وَلَمْ يَجِئْ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏ قَالَ قُلْتُ لِسُفْيَانَ إِنَّهُمْ يَخْتَلِفُونُ فِيهِ فَتَفَكَّرَ سَاعَةً ثُمَّ قَالَ مَا أَحْفَظُ إِلاَّ أَبَا مُحَمَّدِ بْنَ عَمْرٍو قَالَ سُفْيَانُ قَدِمَ هَا هُنَا رَجُلٌ بَعْدَ مَا مَاتَ إِسْمَاعِيلُ بْنُ أُمَيَّةَ فَطَلَبَ هَذَا الشَّيْخَ أَبَا مُحَمَّدٍ حَتَّى وَجَدَهُ فَسَأَلَهُ عَنْهُ فَخَلَطَ عَلَيْهِ ‏.‏ قَالَ أَبُو دَاوُدَ وَسَمِعْتُ أَحْمَدَ بْنَ حَنْبَلٍ سُئِلَ عَنْ وَصْفِ الْخَطِّ غَيْرَ مَرَّةٍ فَقَالَ هَكَذَا عَرْضًا مِثْلَ الْهِلاَلِ ‏.‏ قَالَ أَبُو دَاوُدَ وَسَمِعْتُ مُسَدَّدًا قَالَ قَالَ ابْنُ دَاوُدَ الْخَطُّ بِالطُّولِ ‏.‏ قَالَ أَبُو دَاوُدَ وَسَمِعْتُ أَحْمَدَ بْنَ حَنْبَلٍ وَصَفَ الْخَطَّ غَيْرَ مَرَّةٍ فَقَالَ هَكَذَا - يَعْنِي - بِالْعَرْضِ حَوْرًا دَوْرًا مِثْلَ الْهِلاَلِ يَعْنِي مُنْعَطِفًا ‏.‏",
+      "english": {
+        "narrator": "This tradition has also been reported by Abu Hurairah through a different chain of narrators.\n\t\t\t\t\t\n\nAbu Hurairah reported:",
+        "text": "The Prophet (ﷺ) said: ...... He then narrated the tradition about drawing the line.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\nSufyan said: We did not find anything by which we could reinforce this tradition, and this has been narrated only through this chain.\n\n\nHe ('Ali b. al-Madini, a narrator) said: I said to Sufyan: There is a difference of opinion of the name (Abu Muhammad b. 'Amr). He pondered for a moment and then said: I do not remember except Abu Muhammad b. 'Amr Sufyan said: A man had come to Kufah after the death of Isma'il b. Umayyah ; he was seeking Abu Muhammad until he found him. He asked him (about this tradition) but he became confused. Abu Dawud said: I heard Ahmad b. Hanbal who was questioned many times how the line should be drawn. He replied: In this way. horizontally like crescent.\n\n\nAbu Dawud said: I heard Musaddad say: Ibn Dawud said: The line should be drawn perpendicularly.\n\n\nAbu Dawud said: I heard Ahmad b. Hanbal describing many times how the line should be drawn. He said: In this way horizontally  in the round semi-circular form like the crescent, that is (the line should be) a curve."
+      }
+    },
+    {
+      "id": 301,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الزُّهْرِيُّ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، قَالَ رَأَيْتُ شَرِيكًا صَلَّى بِنَا فِي جَنَازَةٍ الْعَصْرَ فَوَضَعَ قَلَنْسُوَتَهُ بَيْنَ يَدَيْهِ - يَعْنِي - فِي فَرِيضَةٍ حَضَرَتْ ‏.‏",
+      "english": {
+        "narrator": "Sufyan b. 'Uyainah said:",
+        "text": "I saw Sharik who led us in the 'Asr prayer during a funeral ceremony. He placed his cap in front of him, that is, for saying the obligatory prayer the time of which had come."
+      }
+    },
+    {
+      "id": 302,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَوَهْبُ بْنُ بَقِيَّةَ، وَابْنُ أَبِي خَلَفٍ، وَعَبْدُ اللَّهِ بْنُ سَعِيدٍ، - قَالَ عُثْمَانُ - حَدَّثَنَا أَبُو خَالِدٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُصَلِّي إِلَى بَعِيرِهِ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar said:",
+        "text": "The Prophet (ﷺ) used to pray facing his camel."
+      }
+    },
+    {
+      "id": 303,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ الدِّمَشْقِيُّ، حَدَّثَنَا عَلِيُّ بْنُ عَيَّاشٍ، حَدَّثَنَا أَبُو عُبَيْدَةَ الْوَلِيدُ بْنُ كَامِلٍ، عَنِ الْمُهَلَّبِ بْنِ حُجْرٍ الْبَهْرَانِيِّ، عَنْ ضُبَاعَةَ بِنْتِ الْمِقْدَادِ بْنِ الأَسْوَدِ، عَنْ أَبِيهَا، قَالَ مَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُصَلِّي إِلَى عُودٍ وَلاَ عَمُودٍ وَلاَ شَجَرَةٍ إِلاَّ جَعَلَهُ عَلَى حَاجِبِهِ الأَيْمَنِ أَوِ الأَيْسَرِ وَلاَ يَصْمُدُ لَهُ صَمْدًا ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Miqdad ibn al-Aswad:",
+        "text": "I never saw the Messenger of Allah (ﷺ) praying in front of a stick, a pillar, or a tree, without having it opposite his right or left eyebrow, and not facing it directly."
+      }
+    },
+    {
+      "id": 304,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ مُحَمَّدِ بْنِ أَيْمَنَ، عَنْ عَبْدِ اللَّهِ بْنِ يَعْقُوبَ بْنِ إِسْحَاقَ، عَمَّنْ حَدَّثَهُ عَنْ مُحَمَّدِ بْنِ كَعْبٍ الْقُرَظِيِّ، قَالَ قُلْتُ لَهُ - يَعْنِي لِعُمَرَ بْنِ عَبْدِ الْعَزِيزِ - حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبَّاسٍ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تُصَلُّوا خَلْفَ النَّائِمِ وَلاَ الْمُتَحَدِّثِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Prophet (ﷺ) said: Do not pray behind a sleeping or a talking person."
+      }
+    },
+    {
+      "id": 305,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ بْنِ سُفْيَانَ، أَخْبَرَنَا سُفْيَانُ، ح وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَحَامِدُ بْنُ يَحْيَى، وَابْنُ السَّرْحِ، قَالُوا حَدَّثَنَا سُفْيَانُ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا صَلَّى أَحَدُكُمْ إِلَى سُتْرَةٍ فَلْيَدْنُ مِنْهَا لاَ يَقْطَعُ الشَّيْطَانُ عَلَيْهِ صَلاَتَهُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ وَاقِدُ بْنُ مُحَمَّدٍ عَنْ صَفْوَانَ عَنْ مُحَمَّدِ بْنِ سَهْلٍ عَنْ أَبِيهِ أَوْ عَنْ مُحَمَّدِ بْنِ سَهْلٍ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ بَعْضُهُمْ عَنْ نَافِعِ بْنِ جُبَيْرٍ عَنْ سَهْلِ بْنِ سَعْدٍ وَاخْتُلِفَ فِي إِسْنَادِهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl ibn AbuHathmah:",
+        "text": "The Prophet (ﷺ) said: When one of you prays facing a sutrah he should keep close to it, and not let the devil interrupt his prayer.\n\n\nAbu Dawud said: This tradition has also been narrated by Waqid b. Muhammad from Safwan from Muhammad b. Sahl on the authority of his father, or on the authority of Muhammad b. Sahl from the Prophet (ﷺ). Some have narrated it from Nafi' b. Jubair on the authority of Sahl b. Sa'd. There is a variation in the chain of its narrators."
+      }
+    },
+    {
+      "id": 306,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، وَالنُّفَيْلِيُّ، قَالاَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، قَالَ أَخْبَرَنِي أَبِي، عَنْ سَهْلٍ، قَالَ وَكَانَ بَيْنَ مُقَامِ النَّبِيِّ صلى الله عليه وسلم وَبَيْنَ الْقِبْلَةِ مَمَرُّ عَنْزٍ ‏.‏ قَالَ أَبُو دَاوُدَ الْخَبَرُ لِلنُّفَيْلِيِّ ‏.‏",
+      "english": {
+        "narrator": "Sahl said:",
+        "text": "The distance between the place where the Prophet (ﷺ) stood and the qiblah (i.e. the sutrah or the wall of the mosque) was as much as to allow a goat to pass."
+      }
+    },
+    {
+      "id": 307,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا كَانَ أَحَدُكُمْ يُصَلِّي فَلاَ يَدَعْ أَحَدًا يَمُرُّ بَيْنَ يَدَيْهِ وَلْيَدْرَأْهُ مَا اسْتَطَاعَ فَإِنْ أَبَى فَلْيُقَاتِلْهُ فَإِنَّمَا هُوَ شَيْطَانٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id al-Khudri reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "When one of you prays, he should not let anyone pass in front of him; he should turn him away as far as possible; but if he refuses (to go), he should fight him, for he is only a devil."
+      }
+    },
+    {
+      "id": 308,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو خَالِدٍ، عَنِ ابْنِ عَجْلاَنَ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا صَلَّى أَحَدُكُمْ فَلْيُصَلِّ إِلَى سُتْرَةٍ وَلْيَدْنُ مِنْهَا ‏\"‏ ‏.‏ ثُمَّ سَاقَ مَعْنَاهُ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id al-Khudri reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "When one of you prays, he should pray facing the sutrah (screen or covering) and he should keep himself close to it. He then narrated the tradition to the same effect."
+      }
+    },
+    {
+      "id": 309,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي سُرَيْجٍ الرَّازِيُّ، أَخْبَرَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، أَخْبَرَنَا مَسَرَّةُ بْنُ مَعْبَدٍ اللَّخْمِيُّ، - لَقِيتُهُ بِالْكُوفَةِ - قَالَ حَدَّثَنِي أَبُو عُبَيْدٍ، حَاجِبُ سُلَيْمَانَ قَالَ رَأَيْتُ عَطَاءَ بْنَ يَزِيدَ اللَّيْثِيَّ قَائِمًا يُصَلِّي فَذَهَبْتُ أَمُرُّ بَيْنَ يَدَيْهِ فَرَدَّنِي ثُمَّ قَالَ حَدَّثَنِي أَبُو سَعِيدٍ الْخُدْرِيُّ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنِ اسْتَطَاعَ مِنْكُمْ أَنْ لاَ يَحُولَ بَيْنَهُ وَبَيْنَ قِبْلَتِهِ أَحَدٌ فَلْيَفْعَلْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu 'Ubaid said:",
+        "text": "I saw 'Ata b. Yazid al-Laithi praying in a standing posture. So I went to him passing in front of him; he, therefore, turned me away. He then said to me: Abu Sa'id al-Khudri reported the Messenger of Allah (ﷺ) as saying: If anyone of you can do that he should not let anyone pass between him and the qiblah, he should do it."
+      }
+    },
+    {
+      "id": 310,
+      "chapterId": 2,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا سُلَيْمَانُ، - يَعْنِي ابْنَ الْمُغِيرَةِ - عَنْ حُمَيْدٍ، - يَعْنِي ابْنَ هِلاَلٍ - قَالَ قَالَ أَبُو صَالِحٍ أُحَدِّثُكَ عَمَّا رَأَيْتُ مِنْ أَبِي سَعِيدٍ وَسَمِعْتُهُ مِنْهُ، دَخَلَ أَبُو سَعِيدٍ عَلَى مَرْوَانَ فَقَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِذَا صَلَّى أَحَدُكُمْ إِلَى شَىْءٍ يَسْتُرُهُ مِنَ النَّاسِ فَأَرَادَ أَحَدٌ أَنْ يَجْتَازَ بَيْنَ يَدَيْهِ فَلْيَدْفَعْ فِي نَحْرِهِ فَإِنْ أَبَى فَلْيُقَاتِلْهُ فَإِنَّمَا هُوَ شَيْطَانٌ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ سُفْيَانُ الثَّوْرِيُّ يَمُرُّ الرَّجُلُ يَتَبَخْتَرُ بَيْنَ يَدَىَّ وَأَنَا أُصَلِّي فَأَمْنَعُهُ وَيَمُرُّ الضَّعِيفُ فَلاَ أَمْنَعُهُ ‏.‏",
+      "english": {
+        "narrator": "Abu Salih said:",
+        "text": "I narrate what I witnesses from Abu Sa'id and heard from him. Abu Sa'id entered upon Marwan and said: I heard the Messenger of Allah (ﷺ) say: When one of you prays facing any object which conceals him from people, and someone wishes to pass in front of him, he should strike him at his chest; if he refuses (to go), he should fight him; he is only a devil.\t\n\nAbu Dawud said: Sufyan Ath-Thawri said: \"A person arrogantly walks in front of me while I am praying, so I stop him, and a weak person passes, so I dont stop him.\""
+      }
+    }
+  ]
+}

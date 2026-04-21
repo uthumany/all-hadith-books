@@ -1,0 +1,510 @@
+{
+  "page": 5,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 6,
+  "prevPage": 4,
+  "items": [
+    {
+      "id": 201,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، وَدَاوُدُ بْنُ شَبِيبٍ، قَالاَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ الْبُنَانِيِّ، أَنَّ أَنَسَ بْنَ مَالِكٍ، قَالَ أُقِيمَتْ صَلاَةُ الْعِشَاءِ فَقَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ لِي حَاجَةً ‏.‏ فَقَامَ يُنَاجِيهِ حَتَّى نَعَسَ الْقَوْمُ أَوْ بَعْضُ الْقَوْمِ ثُمَّ صَلَّى بِهِمْ وَلَمْ يَذْكُرْ وُضُوءًا ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported:",
+        "text": "(The people) stood up for the night prayer and a man stood up and spoke forth: Messenger of Allah, I have to say something to you. He (the Prophet) entered into secret conversation with him, till the people or some of the people dozed off, ad then he led them in prayer. He (Thabit al-Bunani) did not mention ablution."
+      }
+    },
+    {
+      "id": 202,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ مَعِينٍ، وَهَنَّادُ بْنُ السَّرِيِّ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، عَنْ عَبْدِ السَّلاَمِ بْنِ حَرْبٍ، - وَهَذَا لَفْظُ حَدِيثِ يَحْيَى - عَنْ أَبِي خَالِدٍ الدَّالاَنِيِّ، عَنْ قَتَادَةَ، عَنْ أَبِي الْعَالِيَةِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَسْجُدُ وَيَنَامُ وَيَنْفُخُ ثُمَّ يَقُومُ فَيُصَلِّي وَلاَ يَتَوَضَّأُ ‏.‏ قَالَ فَقُلْتُ لَهُ صَلَّيْتَ وَلَمْ تَتَوَضَّأْ وَقَدْ نِمْتَ فَقَالَ ‏\"‏ إِنَّمَا الْوُضُوءُ عَلَى مَنْ نَامَ مُضْطَجِعًا ‏\"‏ ‏.‏ زَادَ عُثْمَانُ وَهَنَّادٌ ‏\"‏ فَإِنَّهُ إِذَا اضْطَجَعَ اسْتَرْخَتْ مَفَاصِلُهُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَوْلُهُ ‏\"‏ الْوُضُوءُ عَلَى مَنْ نَامَ مُضْطَجِعًا ‏\"‏ ‏.‏ هُوَ حَدِيثٌ مُنْكَرٌ لَمْ يَرْوِهِ إِلاَّ يَزِيدُ أَبُو خَالِدٍ الدَّالاَنِيُّ عَنْ قَتَادَةَ وَرَوَى أَوَّلَهُ جَمَاعَةٌ عَنِ ابْنِ عَبَّاسٍ وَلَمْ يَذْكُرُوا شَيْئًا مِنْ هَذَا وَقَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم مَحْفُوظًا وَقَالَتْ عَائِشَةُ - رضى الله عنها - قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ تَنَامُ عَيْنَاىَ وَلاَ يَنَامُ قَلْبِي ‏\"‏ ‏.‏ وَقَالَ شُعْبَةُ إِنَّمَا سَمِعَ قَتَادَةُ مِنْ أَبِي الْعَالِيَةِ أَرْبَعَةَ أَحَادِيثَ حَدِيثَ يُونُسَ بْنِ مَتَّى وَحَدِيثَ ابْنِ عُمَرَ فِي الصَّلاَةِ وَحَدِيثَ الْقُضَاةُ ثَلاَثَةٌ وَحَدِيثَ ابْنِ عَبَّاسٍ حَدَّثَنِي رِجَالٌ مَرْضِيُّونَ مِنْهُمْ عُمَرُ وَأَرْضَاهُمْ عِنْدِي عُمَرُ ‏.‏ قَالَ أَبُو دَاوُدَ وَذَكَرْتُ حَدِيثَ يَزِيدَ الدَّالاَنِيِّ لأَحْمَدَ بْنِ حَنْبَلٍ فَانْتَهَرَنِي اسْتِعْظَامًا لَهُ وَقَالَ مَا لِيَزِيدَ الدَّالاَنِيِّ يُدْخِلُ عَلَى أَصْحَابِ قَتَادَةَ وَلَمْ يَعْبَأْ بِالْحَدِيثِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Messenger of Allah (ﷺ) used to prostrate and sleep (in prostration) and produce puffing sounds (during sleep). Then he would stand and pray and would not perform ablution. I said to him: you prayed but did not perform ablution though you slept (in prostration). He replied: Ablution is necessary for one who sleeps while he is lying down. Uthman and Hannad added: For when he lies down, his joints are relaxed.\n\n\n\nAbu Dawud said: The statement \"ablution is necessary for one who sleeps while one is lying down\" is a munkar (rejected) tradition. It has been narrated only by Yazid Abu Khalid al-Dalani, on the authority of Qatadah. And its earlier part has been narrated by a group (of narrators) from Ibn 'Abbas; they did not mention anything about it. He (Ibn 'Abbas) said: The Prophet (ﷺ) was protected (during his sleep). 'Aishah reported: The Prophet (ﷺ) said: My eyes sleep, but my heart does not sleep. Shu'bah said: Qatadah heard from Abu'l-'Aliyah only four traditions: the tradition about Jonah son of Matthew, the tradition reported by Ibn 'Umar about prayer, the tradition stating that the judges are three, and the tradition narrated by Ibn 'Abbas saying: (This tradition) has been narrated to me by reliable persons ; 'Umar is one of them, and the most reliable of them in my opinion is 'Umar. Abu Dawud said: I asked Ahmad b. Hanbal about the tradition narrated by Yazid al-Dalani. He rebuked me out of respect for him. Then he said: Yazid al-Dalani does not add anything to what has been narrated by the teachers of Qatadah. He did not care of this tradition (due to its weakness)."
+      }
+    },
+    {
+      "id": 203,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ الْحِمْصِيُّ، - فِي آخَرِينَ - قَالُوا حَدَّثَنَا بَقِيَّةُ، عَنِ الْوَضِينِ بْنِ عَطَاءٍ، عَنْ مَحْفُوظِ بْنِ عَلْقَمَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَائِذٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، - رضى الله عنه - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ وِكَاءُ السَّهِ الْعَيْنَانِ فَمَنْ نَامَ فَلْيَتَوَضَّأْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ali ibn AbuTalib:",
+        "text": "The Messenger of Allah (ﷺ) said: The eyes are the leather strap of the anus, so one who sleeps should perform ablution."
+      }
+    },
+    {
+      "id": 204,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، وَإِبْرَاهِيمُ بْنُ أَبِي مُعَاوِيَةَ، عَنْ أَبِي مُعَاوِيَةَ، ح وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنِي شَرِيكٌ، وَجَرِيرٌ، وَابْنُ، إِدْرِيسَ عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، قَالَ قَالَ عَبْدُ اللَّهِ كُنَّا لاَ نَتَوَضَّأُ مِنْ مَوْطِئٍ وَلاَ نَكُفُّ شَعْرًا وَلاَ ثَوْبًا ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ إِبْرَاهِيمُ بْنُ أَبِي مُعَاوِيَةَ فِيهِ عَنِ الأَعْمَشِ عَنْ شَقِيقٍ عَنْ مَسْرُوقٍ أَوْ حَدَّثَهُ عَنْهُ قَالَ قَالَ عَبْدُ اللَّهِ وَقَالَ هَنَّادٌ عَنْ شَقِيقٍ أَوْ حَدَّثَهُ عَنْهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Mas'ud:",
+        "text": "We would not wash our feet after treading on something unclean, nor would we hold our hair and garments (during prayer).\n\n\nAbu Dawud said: The tradition has been reported by Ibrahim b. Abi Mu'awiyah through a different chain of narrators: A'mash - Shaqiq - Masruq - 'Abd Allah (b. Mas'ud). And Hannad reported from Shaqiq, or reported on his authority saying: 'Abd Allah (b. Mas'ud) said."
+      }
+    },
+    {
+      "id": 205,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرُ بْنُ عَبْدِ الْحَمِيدِ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ عِيسَى بْنِ حِطَّانَ، عَنْ مُسْلِمِ بْنِ سَلاَّمٍ، عَنْ عَلِيِّ بْنِ طَلْقٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا فَسَا أَحَدُكُمْ فِي الصَّلاَةِ فَلْيَنْصَرِفْ فَلْيَتَوَضَّأْ وَلْيُعِدِ الصَّلاَةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ali ibn Talq:",
+        "text": "The Messenger of Allah (ﷺ) said: When any of you breaks wind during the prayer, he should turn away and perform ablution and repeat the prayer."
+      }
+    },
+    {
+      "id": 206,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبِيدَةُ بْنُ حُمَيْدٍ الْحَذَّاءُ، عَنِ الرُّكَيْنِ بْنِ الرَّبِيعِ، عَنْ حُصَيْنِ بْنِ قَبِيصَةَ، عَنْ عَلِيٍّ، - رضى الله عنه - قَالَ كُنْتُ رَجُلاً مَذَّاءً فَجَعَلْتُ أَغْتَسِلُ حَتَّى تَشَقَّقَ ظَهْرِي فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم - أَوْ ذُكِرَ لَهُ - فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَفْعَلْ إِذَا رَأَيْتَ الْمَذْىَ فَاغْسِلْ ذَكَرَكَ وَتَوَضَّأْ وُضُوءَكَ لِلصَّلاَةِ فَإِذَا فَضَخْتَ الْمَاءَ فَاغْتَسِلْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "‘Ali said:",
+        "text": "My prostatic fluid flowed excessively. I used to take a bath until my back cracked (because of frequent washing). I mentioned it to the prophet (May peace be upon him), or the fact was mentioned to him (by someone else). The Messenger of Allah (May peace be upon him) said; Do not do so. When you find prostatic fluid, wash your penis and perform ablution as you do for your prayer, but when you have seminal emission, you should take a bath."
+      }
+    },
+    {
+      "id": 207,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي النَّضْرِ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنِ الْمِقْدَادِ بْنِ الأَسْوَدِ، أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ، - رضى الله عنه - أَمَرَهُ أَنْ يَسْأَلَ لَهُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الرَّجُلِ إِذَا دَنَا مِنْ أَهْلِهِ فَخَرَجَ مِنْهُ الْمَذْىُ مَاذَا عَلَيْهِ فَإِنَّ عِنْدِي ابْنَتَهُ وَأَنَا أَسْتَحْيِي أَنْ أَسْأَلَهُ ‏.‏ قَالَ الْمِقْدَادُ فَسَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ ذَلِكَ فَقَالَ ‏\n\"‏ إِذَا وَجَدَ أَحَدُكُمْ ذَلِكَ فَلْيَنْضَحْ فَرْجَهُ وَلْيَتَوَضَّأْ وُضُوءَهُ لِلصَّلاَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Miqdad ibn al-Aswad:",
+        "text": "Ali ibn AbuTalib commanded him to ask the Messenger of Allah (ﷺ)  what a man should do when he wants to have intercourse with his wife and the prostatic fluid comes out (at this moment). (He said): I am ashamed of consulting him because of the position of his daughter. Al-Miqdad said: I asked the Messenger of Allah (ﷺ) about it.  He said: When any of you finds, he should wash his private part, and perform ablution as he does for prayer."
+      }
+    },
+    {
+      "id": 208,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ، قَالَ لِلْمِقْدَادِ وَذَكَرَ نَحْوَ هَذَا قَالَ فَسَأَلَهُ الْمِقْدَادُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لِيَغْسِلْ ذَكَرَهُ وَأُنْثَيَيْهِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ الثَّوْرِيُّ وَجَمَاعَةٌ عَنْ هِشَامٍ عَنْ أَبِيهِ عَنْ عَلِيٍّ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ فِيهِ ‏:‏ ‏\"‏ وَالأُنْثَيَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "‘Urwah said :",
+        "text": "‘Ali b abi Talib said to al-miqdad, and made a similar statement as above. Al-Miqdad asked him (the prophet). The prophet (peace be upon him) said: he should wash his penis and testicles.\n\n\nAbu Dawud said : The tradition has been narrators by al-Thawri and a group of narrators from Hisham on the authority of his father from al-Miqdad, from ‘Ali reporting from the prophet (May peace be upon him)."
+      }
+    },
+    {
+      "id": 209,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، قَالَ حَدَّثَنَا أَبِي، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ حَدِيثٍ، حَدَّثَهُ عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ قُلْتُ لِلْمِقْدَادِ ‏.‏ فَذَكَرَ مَعْنَاهُ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ الْمُفَضَّلُ بْنُ فَضَالَةَ وَجَمَاعَةٌ وَالثَّوْرِيُّ وَابْنُ عُيَيْنَةَ عَنْ هِشَامٍ عَنْ أَبِيهِ عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ وَرَوَاهُ ابْنُ إِسْحَاقَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنِ الْمِقْدَادِ عَنِ النَّبِيِّ صلى الله عليه وسلم لَمْ يَذْكُرْ ‏\n\"‏ أُنْثَيَيْهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "‘Urwah reported on the Authority of his father a tradition from ‘Ali b. Abi Talib who said :",
+        "text": "I Asked al-Miqdad (to consult the prophet). He then narrated the tradition bearing the same meaning.\n\n\nAbu Dawud said; this tradition has been reported with another chain of narrators. This version does not mention the word “testicles”."
+      }
+    },
+    {
+      "id": 210,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنِي ابْنَ إِبْرَاهِيمَ - أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، حَدَّثَنِي سَعِيدُ بْنُ عُبَيْدِ بْنِ السَّبَّاقِ، عَنْ أَبِيهِ، عَنْ سَهْلِ بْنِ حُنَيْفٍ، قَالَ كُنْتُ أَلْقَى مِنَ الْمَذْىِ شِدَّةً وَكُنْتُ أُكْثِرُ مِنْهُ الاِغْتِسَالَ فَسَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ ذَلِكَ فَقَالَ ‏\"‏ إِنَّمَا يُجْزِيكَ مِنْ ذَلِكَ الْوُضُوءُ ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ فَكَيْفَ بِمَا يُصِيبُ ثَوْبِي مِنْهُ قَالَ ‏\"‏ يَكْفِيكَ بِأَنْ تَأْخُذَ كَفًّا مِنْ مَاءٍ فَتَنْضَحَ بِهَا مِنْ ثَوْبِكَ حَيْثُ تُرَى أَنَّهُ أَصَابَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl ibn Hunayf:",
+        "text": "I felt greatly distressed by the frequent flowing of prostatic fluid. For this reason I used to take a bath very often. I asked the apostle of Allah (ﷺ) about this. He replied: Ablution will be sufficient for you because of this. I asked: Messenger of Allah, what should I do if it smears my clothes. He replied: It is sufficient if you take a handful of water  and sprinkle it on your clothe when you find it has smeared it."
+      }
+    },
+    {
+      "id": 211,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنَا مُعَاوِيَةُ، - يَعْنِي ابْنَ صَالِحٍ - عَنِ الْعَلاَءِ بْنِ الْحَارِثِ، عَنْ حَرَامِ بْنِ حَكِيمٍ، عَنْ عَمِّهِ عَبْدِ اللَّهِ بْنِ سَعْدٍ الأَنْصَارِيِّ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَمَّا يُوجِبُ الْغُسْلَ وَعَنِ الْمَاءِ يَكُونُ بَعْدَ الْمَاءِ فَقَالَ ‏\n\"‏ ذَاكَ الْمَذْىُ وَكُلُّ فَحْلٍ يُمْذِي فَتَغْسِلُ مِنْ ذَلِكَ فَرْجَكَ وَأُنْثَيَيْكَ وَتَوَضَّأْ وُضُوءَكَ لِلصَّلاَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Sa'd al-Ansari:",
+        "text": "I asked the Messenger of Allah (ﷺ) as to what makes it necessary to take a bath and about the (prostatic) fluid that flows after taking a bath. He replied: that is called madhi (prostatic fluid). It flows from every male. You should wash your private parts and testicles because of it and perform ablution as you do for prayer."
+      }
+    },
+    {
+      "id": 212,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ مُحَمَّدِ بْنِ بَكَّارٍ، حَدَّثَنَا مَرْوَانُ، - يَعْنِي ابْنَ مُحَمَّدٍ - حَدَّثَنَا الْهَيْثَمُ بْنُ حُمَيْدٍ، حَدَّثَنَا الْعَلاَءُ بْنُ الْحَارِثِ، عَنْ حَرَامِ بْنِ حَكِيمٍ، عَنْ عَمِّهِ، أَنَّهُ سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم مَا يَحِلُّ لِي مِنَ امْرَأَتِي وَهِيَ حَائِضٌ قَالَ ‏\n\"‏ لَكَ مَا فَوْقَ الإِزَارِ ‏\"‏ ‏.‏ وَذَكَرَ مُؤَاكَلَةَ الْحَائِضِ أَيْضًا وَسَاقَ الْحَدِيثَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Sa'd al-Ansari:",
+        "text": "Abdullah asked the Messenger of Allah (ﷺ): What is lawful for me to do with my wife when she is menstruating? He replied: What is above the waist-wrapper is lawful for you.  \n\n\n\n\n\nThe narrator also mentioned (the lawfulness of) eating with a woman in menstruation, and he transmitted the tradition in full."
+      }
+    },
+    {
+      "id": 213,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَبْدِ الْمَلِكِ الْيَزَنِيُّ، حَدَّثَنَا بَقِيَّةُ بْنُ الْوَلِيدِ، عَنْ سَعْدٍ الأَغْطَشِ، - وَهُوَ ابْنُ عَبْدِ اللَّهِ - عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَائِذٍ الأَزْدِيِّ، - قَالَ هِشَامٌ وَهُوَ ابْنُ قُرْطٍ أَمِيرُ حِمْصَ - عَنْ مُعَاذِ بْنِ جَبَلٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَمَّا يَحِلُّ لِلرَّجُلِ مِنَ امْرَأَتِهِ وَهِيَ حَائِضٌ قَالَ فَقَالَ ‏\n\"‏ مَا فَوْقَ الإِزَارِ وَالتَّعَفُّفُ عَنْ ذَلِكَ أَفْضَلُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَلَيْسَ هُوَ - يَعْنِي الْحَدِيثَ - بِالْقَوِيِّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Mu'adh ibn Jabal:",
+        "text": "I asked the Messenger of Allah (ﷺ): What is lawful for a man to do with his wife when she is menstruating? He replied: What is above the waist-wrapper, but it is better to abstain from it, too.\n\n\n\nAbu Dawud said: This (tradition) is not strong."
+      }
+    },
+    {
+      "id": 214,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، - يَعْنِي ابْنَ الْحَارِثِ - عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي بَعْضُ، مَنْ أَرْضَى أَنَّ سَهْلَ بْنَ سَعْدٍ السَّاعِدِيَّ، أَخْبَرَهُ أَنَّ أُبَىَّ بْنَ كَعْبٍ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم إِنَّمَا جَعَلَ ذَلِكَ رُخْصَةً لِلنَّاسِ فِي أَوَّلِ الإِسْلاَمِ لِقِلَّةِ الثِّيَابِ ثُمَّ أَمَرَ بِالْغُسْلِ وَنَهَى عَنْ ذَلِكَ ‏.‏ قَالَ أَبُو دَاوُدَ يَعْنِي ‏\n\"‏ الْمَاءَ مِنَ الْمَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ubayy b. Ka’b reported :",
+        "text": "The Messenger of Allah (May peace be upon him) made a concession in the early days of Islam on account of the paucity of clothes that one should not take a bath if one has sexual intercourse (and has no seminal emission). But later on her commanded to take a bath in such a case and prohibited its omission."
+      }
+    },
+    {
+      "id": 215,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مِهْرَانَ الْبَزَّازُ الرَّازِيُّ، حَدَّثَنَا مُبَشِّرٌ الْحَلَبِيُّ، عَنْ مُحَمَّدٍ أَبِي غَسَّانَ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، حَدَّثَنِي أُبَىُّ بْنُ كَعْبٍ، أَنَّ الْفُتْيَا الَّتِي، كَانُوا يُفْتُونَ أَنَّ الْمَاءَ مِنَ الْمَاءِ كَانَتْ رُخْصَةً رَخَّصَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي بَدْءِ الإِسْلاَمِ ثُمَّ أَمَرَ بِالاِغْتِسَالِ بَعْدُ ‏.‏",
+      "english": {
+        "narrator": "Ubayy b. Ka’b said :",
+        "text": "The verdict that water (bath) is necessary when there is emission given by the people (in the early days of Islam) was due to the concession granted by the Messenger of Allah in the beginning of Islam. He then commanded to take a bath (in such a case).\n\n\nAbu Dawud said : By Abu Ghassan is meant Muhammad b. mutarrif."
+      }
+    },
+    {
+      "id": 216,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ الْفَرَاهِيدِيُّ، حَدَّثَنَا هِشَامٌ، وَشُعْبَةُ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ أَبِي رَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا قَعَدَ بَيْنَ شُعَبِهَا الأَرْبَعِ وَأَلْزَقَ الْخِتَانَ بِالْخِتَانِ فَقَدْ وَجَبَ الْغُسْلُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported the Prophet (May peace be upon him) as saying :",
+        "text": "when anyone sits between the four parts of a woman and the parts (of the male and female) which are circumscised join together, then bath becomes obligatory."
+      }
+    },
+    {
+      "id": 217,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْمَاءُ مِنَ الْمَاءِ ‏\"‏ ‏.‏ وَكَانَ أَبُو سَلَمَةَ يَفْعَلُ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "Aba Sa’id al-Khudri reported :",
+        "text": "The Messenger of Allah (May peace be upon him) said : water (bath) is necessary only when there is seminal emission. And Abu Salamah followed it."
+      }
+    },
+    {
+      "id": 218,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا حُمَيْدٌ الطَّوِيلُ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم طَافَ ذَاتَ يَوْمٍ عَلَى نِسَائِهِ فِي غُسْلٍ وَاحِدٍ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَكَذَا رَوَاهُ هِشَامُ بْنُ زَيْدٍ عَنْ أَنَسٍ وَمَعْمَرٌ عَنْ قَتَادَةَ عَنْ أَنَسٍ وَصَالِحُ بْنُ أَبِي الأَخْضَرِ عَنِ الزُّهْرِيِّ كُلُّهُمْ عَنْ أَنَسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Anas reported :",
+        "text": "One day the Messenger of Allah (May peace be upon him) had sexual intercourse with (all) his wives with a single bath.\n\n\nAbu Dawud said: This tradition has been transmitted through another chain of narrators."
+      }
+    },
+    {
+      "id": 219,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي رَافِعٍ، عَنْ عَمَّتِهِ، سَلْمَى عَنْ أَبِي رَافِعٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم طَافَ ذَاتَ يَوْمٍ عَلَى نِسَائِهِ يَغْتَسِلُ عِنْدَ هَذِهِ وَعِنْدَ هَذِهِ ‏.‏ قَالَ فَقُلْتُ لَهُ يَا رَسُولَ اللَّهِ أَلاَ تَجْعَلُهُ غُسْلاً وَاحِدًا قَالَ ‏\n\"‏ هَذَا أَزْكَى وَأَطْيَبُ وَأَطْهَرُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ أَنَسٍ أَصَحُّ مِنْ هَذَا ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuRafi':",
+        "text": "One day the Prophet (ﷺ) had intercourse with all his wives. He took a bath after each intercourse. I asked him: Messenger of Allah, why don't you make it a single bath? He replied: This is more purifying, better and cleaning.\n\n\n\nAbu Dawud said: The tradition narrated by Anas is more sound that this tradition."
+      }
+    },
+    {
+      "id": 220,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ أَبِي الْمُتَوَكِّلِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا أَتَى أَحَدُكُمْ أَهْلَهُ ثُمَّ بَدَا لَهُ أَنْ يُعَاوِدَ فَلْيَتَوَضَّأْ بَيْنَهُمَا وُضُوءًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu sa’id al-Khudri reported :",
+        "text": "The Prophet (May peace be upon him) said : When any of you has intercourse with his wife and desire to repeat it, he should perform ablution between them."
+      }
+    },
+    {
+      "id": 221,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّهُ قَالَ ذَكَرَ عُمَرُ بْنُ الْخَطَّابِ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ تُصِيبُهُ الْجَنَابَةُ مِنَ اللَّيْلِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ تَوَضَّأْ وَاغْسِلْ ذَكَرَكَ ثُمَّ نَمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "‘Abd Allah b. ‘Umar reported :",
+        "text": "‘Umar b. al-Khattab said to the Messenger of Allah (May peace be upon him) that he became sexually defiled at night (asking him what he should do). The Messenger of Allah (May peace be upon him) said : You should perform ablution and wash your penis and then sleep."
+      }
+    },
+    {
+      "id": 222,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا أَرَادَ أَنْ يَنَامَ وَهُوَ جُنُبٌ تَوَضَّأَ وُضُوءَهُ لِلصَّلاَةِ ‏.‏",
+      "english": {
+        "narrator": "‘A’ishah reported:",
+        "text": "when the prophet (ﷺ) intended to sleep while he was sexually defiled, he would perform ablution as he did for prayer."
+      }
+    },
+    {
+      "id": 223,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ الْبَزَّازُ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، بِإِسْنَادِهِ وَمَعْنَاهُ زَادَ ‏\n\"‏ وَإِذَا أَرَادَ أَنْ يَأْكُلَ وَهُوَ جُنُبٌ غَسَلَ يَدَيْهِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ ابْنُ وَهْبٍ عَنْ يُونُسَ فَجَعَلَ قِصَّةَ الأَكْلِ قَوْلَ عَائِشَةَ مَقْصُورًا وَرَوَاهُ صَالِحُ بْنُ أَبِي الأَخْضَرِ عَنِ الزُّهْرِيِّ كَمَا قَالَ ابْنُ الْمُبَارَكِ إِلاَّ أَنَّهُ قَالَ عَنْ عُرْوَةَ أَوْ أَبِي سَلَمَةَ وَرَوَاهُ الأَوْزَاعِيُّ عَنْ يُونُسَ عَنِ الزُّهْرِيِّ عَنِ النَّبِيِّ صلى الله عليه وسلم كَمَا قَالَ ابْنُ الْمُبَارَكِ ‏.‏",
+      "english": {
+        "narrator": "This Tradition has been narrated on the Authority of al-Zuhri through a different chain. It adds :",
+        "text": "If he intends to eat while he is defiled, he should wash both his hands.\n\n\nAbu Dawud said: Ibn Wahb narrated this tradition on the authority of  Yunus. He described the fact of eating as the statement of ‘A’ishah (not the saying of the prophet). It has also been narrated it from ‘Urwah or Abu Salamah. Al-Awza’I narrated it from Yunus on the Authority of Al-Zuhri from the prophet (ﷺ) as narrated by Ibn al-Mubarak."
+      }
+    },
+    {
+      "id": 224,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا أَرَادَ أَنْ يَأْكُلَ أَوْ يَنَامَ تَوَضَّأَ ‏.‏ تَعْنِي وَهُوَ جُنُبٌ ‏.‏",
+      "english": {
+        "narrator": "‘A’ishah reported :",
+        "text": "When the Prophet (May peace be upon him) wanted to eat or sleep, he would perform ablution. She meant that (the prophet did so) when he was sexually defiled."
+      }
+    },
+    {
+      "id": 225,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى، - يَعْنِي ابْنَ إِسْمَاعِيلَ - حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ سَلَمَةَ - أَخْبَرَنَا عَطَاءٌ الْخُرَاسَانِيُّ، عَنْ يَحْيَى بْنِ يَعْمَرَ، عَنْ عَمَّارِ بْنِ يَاسِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَخَّصَ لِلْجُنُبِ إِذَا أَكَلَ أَوْ شَرِبَ أَوْ نَامَ أَنْ يَتَوَضَّأَ ‏.‏ قَالَ أَبُو دَاوُدَ بَيْنَ يَحْيَى بْنِ يَعْمَرَ وَعَمَّارِ بْنِ يَاسِرٍ فِي هَذَا الْحَدِيثِ رَجُلٌ وَقَالَ عَلِيُّ بْنُ أَبِي طَالِبٍ وَابْنُ عُمَرَ وَعَبْدُ اللَّهِ بْنُ عَمْرٍو الْجُنُبُ إِذَا أَرَادَ أَنْ يَأْكُلَ تَوَضَّأَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ammar ibn Yasir:",
+        "text": "The Prophet (ﷺ) granted permission to a person who was sexually defiled to eat or drink or sleep after performing ablution.\n\n\nAbu Dawud said: In the chain of this tradition there is a narrator between Yahya b. Ya'mur and 'Ammar b. Yasir. 'Ali b. Abi Talib, Ibn 'Umar and 'Abd Allah b. 'Amr said: When a person is sexually defiled wants to eat, he should perform ablution."
+      }
+    },
+    {
+      "id": 226,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا الْمُعْتَمِرُ، ح حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، قَالاَ حَدَّثَنَا بُرْدُ بْنُ سِنَانٍ، عَنْ عُبَادَةَ بْنِ نُسَىٍّ، عَنْ غُضَيْفِ بْنِ الْحَارِثِ، قَالَ قُلْتُ لِعَائِشَةَ أَرَأَيْتِ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَغْتَسِلُ مِنَ الْجَنَابَةِ فِي أَوَّلِ اللَّيْلِ أَوْ فِي آخِرِهِ قَالَتْ رُبَّمَا اغْتَسَلَ فِي أَوَّلِ اللَّيْلِ وَرُبَّمَا اغْتَسَلَ فِي آخِرِهِ ‏.‏ قُلْتُ اللَّهُ أَكْبَرُ الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ فِي الأَمْرِ سَعَةً ‏.‏ قُلْتُ أَرَأَيْتِ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُوتِرُ أَوَّلَ اللَّيْلِ أَمْ فِي آخِرِهِ قَالَتْ رُبَّمَا أَوْتَرَ فِي أَوَّلِ اللَّيْلِ وَرُبَّمَا أَوْتَرَ فِي آخِرِهِ ‏.‏ قُلْتُ اللَّهُ أَكْبَرُ الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ فِي الأَمْرِ سَعَةً ‏.‏ قُلْتُ أَرَأَيْتِ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَجْهَرُ بِالْقُرْآنِ أَمْ يَخْفِتُ بِهِ قَالَتْ رُبَّمَا جَهَرَ بِهِ وَرُبَّمَا خَفَتَ ‏.‏ قُلْتُ اللَّهُ أَكْبَرُ الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ فِي الأَمْرِ سَعَةً ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "Ghudayf ibn al-Harith reported: I asked Aisha: Have you seen the Messenger of Allah (ﷺ) washing (because of defilement) at the beginning of the night or at the end?  \n\n\n\n\n\nShe replied: Sometimes he would take a bath at the beginning of the night and sometimes at the end.  \n\n\n\n\n\nThereupon I exclaimed: Allah is most Great. All Praise be to Allah Who made this matter accommodative.  \n\n\n\n\n\nI again asked her: What do you think, did the Messenger of Allah (ﷺ) say the witr prayer (additional prayer after obligatory prayer at night) in the beginning of the night or at the end?  \n\n\n\n\n\nShe replied: Sometimes he would say the witr prayer at the beginning of the night and sometimes at the end.  \n\n\n\n\n\nI exclaimed: Allah is most Great. All praise be to Allah Who made the matter accommodative.  \n\n\n\n\n\nAgain I asked her: What do you think, did the Messenger of Allah (ﷺ) recite the Qur'an (in the prayer) loudly or softly?  \n\n\n\n\n\nShe replied: Sometimes he would recite loudly and sometimes softly.  \n\n\n\n\n\nI exclaimed: Allah is most Great. All praise be to Allah Who made the matter flexible."
+      }
+    },
+    {
+      "id": 227,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ النَّمَرِيُّ، حَدَّثَنَا شُعْبَةُ، عَنْ عَلِيِّ بْنِ مُدْرِكٍ، عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ، عَنْ عَبْدِ اللَّهِ بْنِ نُجَىٍّ، عَنْ أَبِيهِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، - رضى الله عنه - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَدْخُلُ الْمَلاَئِكَةُ بَيْتًا فِيهِ صُورَةٌ وَلاَ كَلْبٌ وَلاَ جُنُبٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ali ibn AbuTalib:",
+        "text": "The Prophet (ﷺ) said: Angels do not enter the house where there is a picture, or a dog, or a person who is sexually defiled."
+      }
+    },
+    {
+      "id": 228,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَنَامُ وَهُوَ جُنُبٌ مِنْ غَيْرِ أَنْ يَمَسَّ مَاءً ‏.‏ قَالَ أَبُو دَاوُدَ حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْوَاسِطِيُّ قَالَ سَمِعْتُ يَزِيدَ بْنَ هَارُونَ يَقُولُ هَذَا الْحَدِيثُ وَهَمٌ ‏.‏ يَعْنِي حَدِيثَ أَبِي إِسْحَاقَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Messenger of Allah (ﷺ) would sleep while he was sexually defiled without touching water.\n\n\n\nAbu Dawud said: Hasan b. 'Ali al-Wasiti said that the heard Yazid b. Harun say: This tradition is based on a misunderstanding, i.e. the tradition reported by Abu Ishaq."
+      }
+    },
+    {
+      "id": 229,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَلِمَةَ، قَالَ دَخَلْتُ عَلَى عَلِيٍّ - رضى الله عنه - أَنَا وَرَجُلاَنِ رَجُلٌ مِنَّا وَرَجُلٌ مِنْ بَنِي أَسَدٍ - أَحْسِبُ فَبَعَثَهُمَا عَلِيٌّ - رضى الله عنه - وَجْهًا وَقَالَ إِنَّكُمَا عِلْجَانِ فَعَالِجَا عَنْ دِينِكُمَا ‏.‏ ثُمَّ قَامَ فَدَخَلَ الْمَخْرَجَ ثُمَّ خَرَجَ فَدَعَا بِمَاءٍ فَأَخَذَ مِنْهُ حَفْنَةً فَتَمَسَّحَ بِهَا ثُمَّ جَعَلَ يَقْرَأُ الْقُرْآنَ فَأَنْكَرُوا ذَلِكَ فَقَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَخْرُجُ مِنَ الْخَلاَءِ فَيُقْرِئُنَا الْقُرْآنَ وَيَأْكُلُ مَعَنَا اللَّحْمَ وَلَمْ يَكُنْ يَحْجُبُهُ - أَوْ قَالَ يَحْجُزُهُ - عَنِ الْقُرْآنِ شَىْءٌ لَيْسَ الْجَنَابَةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ali ibn AbuTalib:",
+        "text": "Abdullah ibn Salamah said: I, accompanied by other two persons, one from us and the other from Banu Asad, called upon Ali. He sent them to a certain territory (on some mission) saying: You are sturdy and vigorous people; hence display your power for religion. He then stood and entered the toilet. He then came out and called for water and took a handful of it. Then he wiped (his hands) with it and began to recite the Qur'an. They were surprised at this (action).  \n\n\n\n\n\nThereupon he said: The Messenger of Allah (ﷺ) came out from the privy and taught us the Qur'an and took meat  with us. Nothing prevented him; or the narrator said: Nothing prevented him from (reciting) the Qur'an except sexual defilement."
+      }
+    },
+    {
+      "id": 230,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ مِسْعَرٍ، عَنْ وَاصِلٍ، عَنْ أَبِي وَائِلٍ، عَنْ حُذَيْفَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم لَقِيَهُ فَأَهْوَى إِلَيْهِ فَقَالَ إِنِّي جُنُبٌ ‏.‏ فَقَالَ ‏\n\"‏ إِنَّ الْمُسْلِمَ لاَ يَنْجُسُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Hudhaifah reported :",
+        "text": "The prophet (ﷺ) visited him and inclined towards him (for shaking hand). He said : I am sexually defiled. The prophet (ﷺ) replied : A muslim is not defiled."
+      }
+    },
+    {
+      "id": 231,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، وَبِشْرٌ، عَنْ حُمَيْدٍ، عَنْ بَكْرٍ، عَنْ أَبِي رَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ لَقِيَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فِي طَرِيقٍ مِنْ طُرُقِ الْمَدِينَةِ وَأَنَا جُنُبٌ فَاخْتَنَسْتُ فَذَهَبْتُ فَاغْتَسَلْتُ ثُمَّ جِئْتُ فَقَالَ ‏\"‏ أَيْنَ كُنْتَ يَا أَبَا هُرَيْرَةَ ‏\"‏ ‏.‏ قَالَ قُلْتُ إِنِّي كُنْتُ جُنُبًا فَكَرِهْتُ أَنْ أُجَالِسَكَ عَلَى غَيْرِ طَهَارَةٍ ‏.‏ فَقَالَ ‏\"‏ سُبْحَانَ اللَّهِ إِنَّ الْمُسْلِمَ لاَ يَنْجُسُ ‏\"‏ ‏.‏ وَقَالَ فِي حَدِيثِ بِشْرٍ حَدَّثَنَا حُمَيْدٌ حَدَّثَنِي بَكْرٌ ‏.‏",
+      "english": {
+        "narrator": "Abu Hudhaifah reported :",
+        "text": "The Messenger of Allah (ﷺ) met me on one of the streets of medina while I was sexually defiled. I retreated and went away. I then took a bath and came to him. He asked : Where were you, O Abu Hurairah? I replied : As I was sexually defiled, I disliked to sit in your company without purification. He exclaimed: Glory be to Allah! A Muslim is not defiled.\n\n\nHe (Abu Dawud) said : The version of this tradition reported by Bishr has the chain: Humaid reported from Bakr."
+      }
+    },
+    {
+      "id": 232,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، حَدَّثَنَا الأَفْلَتُ بْنُ خَلِيفَةَ، قَالَ حَدَّثَتْنِي جَسْرَةُ بِنْتُ دِجَاجَةَ، قَالَتْ سَمِعْتُ عَائِشَةَ، رضى الله عنها تَقُولُ جَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَوُجُوهُ بُيُوتِ أَصْحَابِهِ شَارِعَةٌ فِي الْمَسْجِدِ فَقَالَ ‏\"‏ وَجِّهُوا هَذِهِ الْبُيُوتَ عَنِ الْمَسْجِدِ ‏\"‏ ‏.‏ ثُمَّ دَخَلَ النَّبِيُّ صلى الله عليه وسلم وَلَمْ يَصْنَعِ الْقَوْمُ شَيْئًا رَجَاءَ أَنْ تَنْزِلَ فِيهِمْ رُخْصَةٌ فَخَرَجَ إِلَيْهِمْ بَعْدُ فَقَالَ ‏\"‏ وَجِّهُوا هَذِهِ الْبُيُوتَ عَنِ الْمَسْجِدِ فَإِنِّي لاَ أُحِلُّ الْمَسْجِدَ لِحَائِضٍ وَلاَ جُنُبٍ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَهُوَ فُلَيْتٌ الْعَامِرِيُّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Messenger of Allah (ﷺ) came and saw that the doors of the houses of his Companions were facing the mosque. He said: Turn the direction of the houses from the mosque. The Prophet (ﷺ) then entered (the houses or the mosque), and the people did take any step in this regard hoping that some concession might be revealed. He the Prophet) again came upon them and said: Turn the direction of these (doors) from the mosque I do not make the mosque lawful for a menstruating woman and for a person who is sexually defiled.\n\n\n\nAbu Dawud said: Aflat b. Khalifah is also called Fulait al-'Amiri."
+      }
+    },
+    {
+      "id": 233,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ زِيَادٍ الأَعْلَمِ، عَنِ الْحَسَنِ، عَنْ أَبِي بَكْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم دَخَلَ فِي صَلاَةِ الْفَجْرِ فَأَوْمَأَ بِيَدِهِ أَنْ مَكَانَكُمْ ثُمَّ جَاءَ وَرَأْسُهُ يَقْطُرُ فَصَلَّى بِهِمْ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuBakrah:",
+        "text": "The Messenger of Allah (ﷺ) began to lead (the people) in the dawn prayer. He then signalled with his hand: (Stay) at your places. (Then he entered his home). He then returned while drops of water were coming down from him (from his body) and he led them in prayer."
+      }
+    },
+    {
+      "id": 234,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا حَمَّادُ بْنُ سَلَمَةَ، بِإِسْنَادِهِ وَمَعْنَاهُ قَالَ فِي أَوَّلِهِ فَكَبَّرَ ‏.‏ وَقَالَ فِي آخِرِهِ فَلَمَّا قَضَى الصَّلاَةَ قَالَ ‏\"‏ إِنَّمَا أَنَا بَشَرٌ وَإِنِّي كُنْتُ جُنُبًا ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ الزُّهْرِيُّ عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِي هُرَيْرَةَ قَالَ فَلَمَّا قَامَ فِي مُصَلاَّهُ وَانْتَظَرْنَا أَنْ يُكَبِّرَ انْصَرَفَ ثُمَّ قَالَ ‏\"‏ كَمَا أَنْتُمْ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ أَيُّوبُ وَابْنُ عَوْنٍ وَهِشَامٌ عَنْ مُحَمَّدٍ مُرْسَلاً عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ فَكَبَّرَ ثُمَّ أَوْمَأَ بِيَدِهِ إِلَى الْقَوْمِ أَنِ اجْلِسُوا فَذَهَبَ فَاغْتَسَلَ ‏.‏ وَكَذَلِكَ رَوَاهُ مَالِكٌ عَنْ إِسْمَاعِيلَ بْنِ أَبِي حَكِيمٍ عَنْ عَطَاءِ بْنِ يَسَارٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَبَّرَ فِي صَلاَةٍ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ حَدَّثَنَاهُ مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا أَبَانُ عَنْ يَحْيَى عَنِ الرَّبِيعِ بْنِ مُحَمَّدٍ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَبَّرَ ‏.‏",
+      "english": {
+        "narrator": "This tradition has been reported by Hammad b. Salamah through the same chain of narrators and conveying a similar meaning. This version adds in the beginning:",
+        "text": "He uttered TAKBIR (Allahu akbar), and in the end : when he finished the prayer, he said : I am a human being; I was sexually defiled.\n\n\nAbu Dawud said : This tradition has been narrated al-Zuhri from Abu Salamah b. ‘Abd al-Rahman on the authority of Abu Hurairah. It says: When he stood at the place of prayer, we waited for his utterance of takbir (Allah-u akbar).He went away and said : (remain) as you were.\n\n\nAnother version on the authority of Muhammad reporting  from the Prophet (ﷺ) says: He uttered takbir (Allah-u-Akbar) and then made a sign to the people, meaning \"sit down\". He then went away and took a bath. This tradition has also been narrated through a different chain. It says: The Messenger of Allah (ﷺ) uttered takbir (Allah-u-akbar) in a prayer.\n\n\nAbu Dawud said: Another version through a different chain says; The Prophet (May peace be upon him) uttered takbir (Allah-u akbar)."
+      }
+    },
+    {
+      "id": 235,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، حَدَّثَنَا الزُّبَيْدِيُّ، ح وَحَدَّثَنَا عَيَّاشُ بْنُ الأَزْرَقِ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، ح وَحَدَّثَنَا مَخْلَدُ بْنُ خَالِدٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ خَالِدٍ، - إِمَامُ مَسْجِدِ صَنْعَاءَ - حَدَّثَنَا رَبَاحٌ، عَنْ مَعْمَرٍ، ح وَحَدَّثَنَا مُؤَمَّلُ بْنُ الْفَضْلِ، حَدَّثَنَا الْوَلِيدُ، عَنِ الأَوْزَاعِيِّ، كُلُّهُمْ عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أُقِيمَتِ الصَّلاَةُ وَصَفَّ النَّاسُ صُفُوفَهُمْ فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم حَتَّى إِذَا قَامَ فِي مَقَامِهِ ذَكَرَ أَنَّهُ لَمْ يَغْتَسِلْ فَقَالَ لِلنَّاسِ ‏\n\"‏ مَكَانَكُمْ ‏\"‏ ‏.‏ ثُمَّ رَجَعَ إِلَى بَيْتِهِ فَخَرَجَ عَلَيْنَا يَنْطُفُ رَأْسُهُ وَقَدِ اغْتَسَلَ وَنَحْنُ صُفُوفٌ ‏.‏ وَهَذَا لَفْظُ ابْنِ حَرْبٍ وَقَالَ عَيَّاشٌ فِي حَدِيثِهِ فَلَمْ نَزَلْ قِيَامًا نَنْتَظِرُهُ حَتَّى خَرَجَ عَلَيْنَا وَقَدِ اغْتَسَلَ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah reported:",
+        "text": "The prayer (in congregation) began and people stood in their rows. The Messenger of Allah (May peace be upon him) came out (from his residence). When he stood at his proper place he recalled that he did not take a bath. He then said to the people: (Remain standing) at your places. Then he returned to his house and came out upon us after taking a bath while the drops of water were coming down from his head. We were standing in the rows (of prayer). This is the version of Ibn Harb. ‘Ayyash reported in his version: we kept on waiting for him while we were standing until he came upon us after he had taken a bath."
+      }
+    },
+    {
+      "id": 236,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حَمَّادُ بْنُ خَالِدٍ الْخَيَّاطُ، حَدَّثَنَا عَبْدُ اللَّهِ الْعُمَرِيُّ، عَنْ عُبَيْدِ اللَّهِ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، قَالَتْ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الرَّجُلِ يَجِدُ الْبَلَلَ وَلاَ يَذْكُرُ احْتِلاَمًا قَالَ ‏\"‏ يَغْتَسِلُ ‏\"‏ ‏.‏ وَعَنِ الرَّجُلِ يَرَى أَنَّهُ قَدِ احْتَلَمَ وَلاَ يَجِدُ الْبَلَلَ قَالَ ‏\"‏ لاَ غُسْلَ عَلَيْهِ ‏\"‏ ‏.‏ فَقَالَتْ أُمُّ سُلَيْمٍ الْمَرْأَةُ تَرَى ذَلِكَ أَعَلَيْهَا غُسْلٌ قَالَ ‏\"‏ نَعَمْ إِنَّمَا النِّسَاءُ شَقَائِقُ الرِّجَالِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Prophet (ﷺ) was asked about a person who found moisture (on his body or clothes) but did not remember the sexual dream. He replied: He should take a bath. He was asked about a person who remembered that he had a sexual dream but did not find moisture. He replied: Bath is not necessary for him. Umm Salamah then asked: Is washing necessary for a woman if she sees that (in her dream)? He replied: Yes. Woman are counterpart of men."
+      }
+    },
+    {
+      "id": 237,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَنْبَسَةُ، حَدَّثَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ قَالَ عُرْوَةُ عَنْ عَائِشَةَ، أَنَّ أُمَّ سُلَيْمٍ الأَنْصَارِيَّةَ، - وَهِيَ أُمُّ أَنَسِ بْنِ مَالِكٍ - قَالَتْ يَا رَسُولَ اللَّهِ إِنَّ اللَّهَ عَزَّ وَجَلَّ لاَ يَسْتَحْيِي مِنَ الْحَقِّ أَرَأَيْتَ الْمَرْأَةَ إِذَا رَأَتْ فِي النَّوْمِ مَا يَرَى الرَّجُلُ أَتَغْتَسِلُ أَمْ لاَ قَالَتْ عَائِشَةُ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ نَعَمْ فَلْتَغْتَسِلْ إِذَا وَجَدَتِ الْمَاءَ ‏\"‏ ‏.‏ قَالَتْ عَائِشَةُ فَأَقْبَلْتُ عَلَيْهَا فَقُلْتُ أُفٍّ لَكِ وَهَلْ تَرَى ذَلِكَ الْمَرْأَةُ فَأَقْبَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ تَرِبَتْ يَمِينُكِ يَا عَائِشَةُ وَمِنْ أَيْنَ يَكُونُ الشَّبَهُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ رَوَى عُقَيْلٌ وَالزُّبَيْدِيُّ وَيُونُسُ وَابْنُ أَخِي الزُّهْرِيِّ عَنِ الزُّهْرِيِّ وَإِبْرَاهِيمُ بْنُ أَبِي الْوَزِيرِ عَنْ مَالِكٍ عَنِ الزُّهْرِيِّ وَوَافَقَ الزُّهْرِيَّ مُسَافِعٌ الْحَجَبِيُّ قَالَ عَنْ عُرْوَةَ عَنْ عَائِشَةَ ‏.‏ وَأَمَّا هِشَامُ بْنُ عُرْوَةَ فَقَالَ عَنْ عُرْوَةَ عَنْ زَيْنَبَ بِنْتِ أَبِي سَلَمَةَ عَنْ أُمِّ سَلَمَةَ أَنَّ أُمَّ سُلَيْمٍ جَاءَتْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "‘A’ishah reported on the authority of Umm Sulaim al-Ansariyah, who was the mother of Anas b. Malik, said:",
+        "text": "Messenger of Allah. Allah is not ashamed of truth what do you think, if a woman sees what a man sees in dream, should she take a bath or not? The prophet (ﷺ) replied: Yes, she should take a bath if she finds the liquid (vaginal secretion) ‘A’ishah said : Then I came upon her and said her : Woe to you! Does a woman see that (sexual dream)? In the meantime, the Messenger of Allah (ﷺ) came upon me and said: May your right hand be covered with dust! How can there be the resemblance (i.e., between the child and the mother)?\n\n\nAbu Dawud said: A similar version has been narrated by Zubaid, ‘Uqail, Yunus, cousin of Al-Zuhri, Ibn Abi-Wazir, on the authority of al-Zuhr, musan, al-Hajabi, like al-Zuhri, narrated on the authority of ‘Urwah from ‘A’ishah, but  Hisham b. ‘Urwah narrated from ‘Urwah on the authority of Zainab daughter of Abu Salamah from Umm Salamah saying. Umm Sulaim came to the Messenger of Allah (ﷺ)."
+      }
+    },
+    {
+      "id": 238,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَغْتَسِلُ مِنْ إِنَاءٍ - هُوَ الْفَرَقُ - مِنَ الْجَنَابَةِ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ مَعْمَرٌ عَنِ الزُّهْرِيِّ فِي هَذَا الْحَدِيثِ قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ فِيهِ قَدْرُ الْفَرَقِ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَى ابْنُ عُيَيْنَةَ نَحْوَ حَدِيثِ مَالِكٍ ‏.‏ قَالَ أَبُو دَاوُدَ سَمِعْتُ أَحْمَدَ بْنَ حَنْبَلٍ يَقُولُ الْفَرَقُ سِتَّةَ عَشَرَ رِطْلاً ‏.‏ وَسَمِعْتُهُ يَقُولُ صَاعُ ابْنِ أَبِي ذِئْبٍ خَمْسَةُ أَرْطَالٍ وَثُلُثٌ ‏.‏ قَالَ فَمَنْ قَالَ ثَمَانِيَةُ أَرْطَالٍ قَالَ لَيْسَ ذَلِكَ بِمَحْفُوظٍ ‏.‏ قَالَ أَبُو دَاوُدَ وَسَمِعْتُ أَحْمَدَ يَقُولُ مَنْ أَعْطَى فِي صَدَقَةِ الْفِطْرِ بِرَطْلِنَا هَذَا خَمْسَةَ أَرْطَالٍ وَثُلُثًا فَقَدْ أَوْفَى ‏.‏ قِيلَ الصَّيْحَانِيُّ ثَقِيلٌ قَالَ الصَّيْحَانِيُّ أَطْيَبُ ‏.‏ قَالَ لاَ أَدْرِي ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "The Messenger of Allah (May peace be upon him) used to take bath with from a vessel (which contained seven to eight seers, i.e., fifteen to sixteen pounds) because of sexual intercourse.\n\n\nAbu Dawud said: The version narrated by Mu’ammar on the authority of al-Zuhri has: She (‘A’ishah) said: I and the Messenger of Allah (May peace be upon him) took a bath from a vessel which was equal to al-faraq in measurement (i.e., containing water about seven or eight seers).\n\n\nAbu Dawud said: Ibn ‘Uyainah also narrated like the version of Malik.\n\n\nAbu Dawud said; I heard Ahmad b. Hanbal say: Al-Faraq contains sixteen rotls (of water). I also heard him say: The sa’of of Ibn Abi Dhi’b contained 5 rotls (of water). The view that a sa’ contains eight rotls (of water) is not safe.\n\n\nAbu Dawud said: I heard Ahmad (b. Hanbal) say: Whoever gave 5 1/3 rotls (measuring) with our rotl alms of fitr (sadaqat al-fitr), he gave in full, Thereupon he was questioned: Are the dates called al-saihani heavier (can one sa’ of them be given as alms of fitr)? He replied: The dates called al-saihani are good. But I do not know (whether water is heavier or the dates)."
+      }
+    },
+    {
+      "id": 239,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو إِسْحَاقَ، أَخْبَرَنِي سُلَيْمَانُ بْنُ صُرَدٍ، عَنْ جُبَيْرِ بْنِ مُطْعِمٍ، أَنَّهُمْ ذَكَرُوا عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم الْغُسْلَ مِنَ الْجَنَابَةِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَمَّا أَنَا فَأُفِيضُ عَلَى رَأْسِي ثَلاَثًا ‏\"‏ ‏.‏ وَأَشَارَ بِيَدَيْهِ كِلْتَيْهِمَا ‏.‏",
+      "english": {
+        "narrator": "Jubair b. Mut’im reported :",
+        "text": "People made a mention of washing because of sexual defilement before the Messenger of Allah (May peace be upon him). The Messenger of Allah (May peace be upon him) said: I pour (water) on my head three times. And he made a sign with both his hands."
+      }
+    },
+    {
+      "id": 240,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ حَنْظَلَةَ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ دَعَا بِشَىْءٍ نَحْوِ الْحِلاَبِ فَأَخَذَ بِكَفِّهِ فَبَدَأَ بِشِقِّ رَأْسِهِ الأَيْمَنِ ثُمَّ الأَيْسَرِ ثُمَّ أَخَذَ بِكَفَّيْهِ فَقَالَ بِهِمَا عَلَى رَأْسِهِ ‏.‏",
+      "english": {
+        "narrator": "'Aishah reported :",
+        "text": "when the Messenger of Allah (May peace be upon him) wanted to wash himself because of sexual defilement, he called for a vessel like HILAB (a vessel used for milking the camel). He then took a handful of water and began to pour it on the right side of his head and then on the left side. He then took water in both his hands together and poured it on his head."
+      }
+    },
+    {
+      "id": 241,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، - يَعْنِي ابْنَ مَهْدِيٍّ - عَنْ زَائِدَةَ بْنِ قُدَامَةَ، عَنْ صَدَقَةَ، حَدَّثَنَا جُمَيْعُ بْنُ عُمَيْرٍ، - أَحَدُ بَنِي تَيْمِ اللَّهِ بْنِ ثَعْلَبَةَ - قَالَ دَخَلْتُ مَعَ أُمِّي وَخَالَتِي عَلَى عَائِشَةَ فَسَأَلَتْهَا إِحْدَاهُمَا كَيْفَ كُنْتُمْ تَصْنَعُونَ عِنْدَ الْغُسْلِ فَقَالَتْ عَائِشَةُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَوَضَّأُ وُضُوءَهُ لِلصَّلاَةِ ثُمَّ يُفِيضُ عَلَى رَأْسِهِ ثَلاَثَ مَرَّاتٍ وَنَحْنُ نُفِيضُ عَلَى رُءُوسِنَا خَمْسًا مِنْ أَجْلِ الضَّفْرِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "Jumay' ibn Umayr, one of the sons of Banu Taym Allah ibn Tha'labah, said: Accompanied by my mother and aunt I entered upon Aisha. One of them asked her: How did you do while taking a bath? Aisha replied: The Messenger of Allah (ﷺ) performed ablution (in the beginning) as he did for prayer. He then poured (water) upon his head three times. But we poured water upon our heads five times due to plaits."
+      }
+    },
+    {
+      "id": 242,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ الْوَاشِحِيُّ، وَمُسَدَّدٌ، قَالاَ حَدَّثَنَا حَمَّادٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ - قَالَ سُلَيْمَانُ يَبْدَأُ فَيُفْرِغُ مِنْ يَمِينِهِ عَلَى شِمَالِهِ ‏.‏ وَقَالَ مُسَدَّدٌ غَسَلَ يَدَيْهِ يَصُبُّ الإِنَاءَ عَلَى يَدِهِ الْيُمْنَى ثُمَّ اتَّفَقَا فَيَغْسِلُ فَرْجَهُ ‏.‏ - قَالَ مُسَدَّدٌ - يُفْرِغُ عَلَى شِمَالِهِ وَرُبَّمَا كَنَتْ عَنِ الْفَرْجِ ثُمَّ يَتَوَضَّأُ وُضُوءَهُ لِلصَّلاَةِ ثُمَّ يُدْخِلُ يَدَيْهِ فِي الإِنَاءِ فَيُخَلِّلُ شَعْرَهُ حَتَّى إِذَا رَأَى أَنَّهُ قَدْ أَصَابَ الْبَشَرَةَ أَوْ أَنْقَى الْبَشَرَةَ أَفْرَغَ عَلَى رَأْسِهِ ثَلاَثًا فَإِذَا فَضَلَ فَضْلَةٌ صَبَّهَا عَلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "'Aishah reported :",
+        "text": "When the Messenger of Allah (May peace be upon him) would take a bath because of sexual defilement, according to the version of Sulaiman, in the beginning he would pour water with his right hand (upon his left hand); and according to the version of Musaddad, he would wash both (hands) pouring water from the vessel upon his right hand. According to the agreed version, he then would wash the private part. He would then perform ablution as he did for prayer, then put his hands in the vessel and made the water go through his hair. When he knew that water had reached the entire surface of the body and cleaned it well, he would pour water upon his head three times. If some water was left, he would pour it also upon himself."
+      }
+    },
+    {
+      "id": 243,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ الْبَاهِلِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عَدِيٍّ، حَدَّثَنِي سَعِيدٌ، عَنْ أَبِي مَعْشَرٍ، عَنِ النَّخَعِيِّ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَرَادَ أَنْ يَغْتَسِلَ مِنَ الْجَنَابَةِ بَدَأَ بِكَفَّيْهِ فَغَسَلَهُمَا ثُمَّ غَسَلَ مَرَافِغَهُ وَأَفَاضَ عَلَيْهِ الْمَاءَ فَإِذَا أَنْقَاهُمَا أَهْوَى بِهِمَا إِلَى حَائِطٍ ثُمَّ يَسْتَقْبِلُ الْوُضُوءَ وَيُفِيضُ الْمَاءَ عَلَى رَأْسِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Aishah said; When the Messenger of Allah (May peace be upon him) intended to take a bath because of sexual defilement, he would begin with his hands and wash them. Then he would wash the joints of his limbs and pour water upon him when he cleansed both his (hands), he would rub them on the wall (to make them perfectly clean with the dust). Then he would perform ablution and pour water over his head."
+      }
+    },
+    {
+      "id": 244,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ شَوْكَرٍ، حَدَّثَنَا هُشَيْمٌ، عَنْ عُرْوَةَ الْهَمْدَانِيِّ، حَدَّثَنَا الشَّعْبِيُّ، قَالَ قَالَتْ عَائِشَةُ رضى الله عنها لَئِنْ شِئْتُمْ لأُرِيَنَّكُمْ أَثَرَ يَدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الْحَائِطِ حَيْثُ كَانَ يَغْتَسِلُ مِنَ الْجَنَابَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "If you want, I can certainly show you the marks of the hand of the Messenger of Allah (ﷺ) on the wall where he took a bath because of sexual defilement."
+      }
+    },
+    {
+      "id": 245,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنِ الأَعْمَشِ، عَنْ سَالِمٍ، عَنْ كُرَيْبٍ، حَدَّثَنَا ابْنُ عَبَّاسٍ، عَنْ خَالَتِهِ، مَيْمُونَةَ قَالَتْ وَضَعْتُ لِلنَّبِيِّ صلى الله عليه وسلم غُسْلاً يَغْتَسِلُ بِهِ مِنَ الْجَنَابَةِ فَأَكْفَأَ الإِنَاءَ عَلَى يَدِهِ الْيُمْنَى فَغَسَلَهَا مَرَّتَيْنِ أَوْ ثَلاَثًا ثُمَّ صَبَّ عَلَى فَرْجِهِ فَغَسَلَ فَرْجَهُ بِشِمَالِهِ ثُمَّ ضَرَبَ بِيَدِهِ الأَرْضَ فَغَسَلَهَا ثُمَّ تَمَضْمَضَ وَاسْتَنْشَقَ وَغَسَلَ وَجْهَهُ وَيَدَيْهِ ثُمَّ صَبَّ عَلَى رَأْسِهِ وَجَسَدِهِ ثُمَّ تَنَحَّى نَاحِيَةً فَغَسَلَ رِجْلَيْهِ فَنَاوَلْتُهُ الْمِنْدِيلَ فَلَمْ يَأْخُذْهُ وَجَعَلَ يَنْفُضُ الْمَاءَ عَنْ جَسَدِهِ ‏.‏ فَذَكَرْتُ ذَلِكَ لإِبْرَاهِيمَ فَقَالَ كَانُوا لاَ يَرَوْنَ بِالْمِنْدِيلِ بَأْسًا وَلَكِنْ كَانُوا يَكْرَهُونَ الْعَادَةَ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ مُسَدَّدٌ فَقُلْتُ لِعَبْدِ اللَّهِ بْنِ دَاوُدَ كَانُوا يَكْرَهُونَهُ لِلْعَادَةِ فَقَالَ هَكَذَا هُوَ وَلَكِنْ وَجَدْتُهُ فِي كِتَابِي هَكَذَا ‏.‏",
+      "english": {
+        "narrator": "Maimunah reported:",
+        "text": "I placed (the vessel of) water for the Prophet (May peace be upon him) to wash himself because of sexual intercourse. He lowered down the vessel and poured water on his right hand. He then washed it twice or thrice. He then poured water over his private parts and washed them with his left hand. Then he put it on the ground and wiped it. He then rinsed his mouth and snuffed up water, and washed his face and hands. He then poured water over his head and body. Then he moved aside and washed his feet. I handed him a garment, but he began to shake he moved aside and washed his feet. I handed him a garment, but he began to shake off water from his body. I mentioned it to Ibrahim. He said that they (companions) did not think there was any harm in using the garment (to wipe the water), but they disliked its use as a habit.\n\n\nAbu Dawud said: Musaddad said: I asked ‘Abd Allah b. Dawud whether they (the companions) disliked to make it a habit. He replied: it (the tradition) goes in a similar way and I found it in a similar way in this book of mine."
+      }
+    },
+    {
+      "id": 246,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حُسَيْنُ بْنُ عِيسَى الْخُرَاسَانِيُّ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنْ شُعْبَةَ، قَالَ إِنَّ ابْنَ عَبَّاسٍ كَانَ إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ يُفْرِغُ بِيَدِهِ الْيُمْنَى عَلَى يَدِهِ الْيُسْرَى سَبْعَ مِرَارٍ ثُمَّ يَغْسِلُ فَرْجَهُ فَنَسِيَ مَرَّةً كَمْ أَفْرَغَ فَسَأَلَنِي كَمْ أَفْرَغْتُ فَقُلْتُ لاَ أَدْرِي ‏.‏ فَقَالَ لاَ أُمَّ لَكَ وَمَا يَمْنَعُكَ أَنْ تَدْرِيَ ثُمَّ يَتَوَضَّأُ وُضُوءَهُ لِلصَّلاَةِ ثُمَّ يُفِيضُ عَلَى جِلْدِهِ الْمَاءَ ثُمَّ يَقُولُ هَكَذَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَطَهَّرُ ‏.‏",
+      "english": {
+        "narrator": "Shu’bah reported :",
+        "text": "when Ibn ‘Abbas took a bath because of sexual defilement, he poured (water) over his left hand with his right hand seven times. Once he forgot how many times he had poured (water). Therefore he asked me: how many times did I pour (water)? I do not know. He said : may you miss your mother! What prevented you from remembering it? He then performed ablution as he did for prayer and poured water over his skin (body). He then said: this is how the Messenger of Allah (May peace be upon him) purified (himself)."
+      }
+    },
+    {
+      "id": 247,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَيُّوبُ بْنُ جَابِرٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُصْمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ كَانَتِ الصَّلاَةُ خَمْسِينَ وَالْغُسْلُ مِنَ الْجَنَابَةِ سَبْعَ مِرَارٍ وَغَسْلُ الْبَوْلِ مِنَ الثَّوْبِ سَبْعَ مِرَارٍ فَلَمْ يَزَلْ رَسُولُ اللَّهِ صلى الله عليه وسلم يَسْأَلُ حَتَّى جُعِلَتِ الصَّلاَةُ خَمْسًا وَالْغُسْلُ مِنَ الْجَنَابَةِ مَرَّةً وَغَسْلُ الْبَوْلِ مِنَ الثَّوْبِ مَرَّةً ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "There were fifty prayers (obligatory in the beginning); and (in the beginning of Islam) washing seven times because of sexual defilement (was obligatory); and washing the urine from the cloth seven times (was obligatory).  \n\n\n\n\n\nThe Apostle  of Allah (ﷺ) kept on praying to Allah until the number of prayers was reduced to five and washing because of sexual defilement was allowed only once and washing the urine from the clothe was also permitted only once."
+      }
+    },
+    {
+      "id": 248,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنِي الْحَارِثُ بْنُ وَجِيهٍ، حَدَّثَنَا مَالِكُ بْنُ دِينَارٍ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ تَحْتَ كُلِّ شَعْرَةٍ جَنَابَةً فَاغْسِلُوا الشَّعْرَ وَأَنْقُوا الْبَشَرَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ الْحَارِثُ بْنُ وَجِيهٍ حَدِيثُهُ مُنْكَرٌ وَهُوَ ضَعِيفٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Messenger of Allah (ﷺ) said: There is sexual defilement under every hair; so wash the hair and cleanse the skin.\n\n\n\nAbu Dawud said: The tradition narrated by Harith b. Wajih is rejected (Munkar). He is weak (in transmission)."
+      }
+    },
+    {
+      "id": 249,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا عَطَاءُ بْنُ السَّائِبِ، عَنْ زَاذَانَ، عَنْ عَلِيٍّ، - رضى الله عنه - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ تَرَكَ مَوْضِعَ شَعْرَةٍ مِنْ جَنَابَةٍ لَمْ يَغْسِلْهَا فُعِلَ بِهِ كَذَا وَكَذَا مِنَ النَّارِ ‏\"‏ ‏.‏ قَالَ عَلِيٌّ فَمِنْ ثَمَّ عَادَيْتُ رَأْسِي فَمِنْ ثَمَّ عَادَيْتُ رَأْسِي ثَلاَثًا ‏.‏ وَكَانَ يَجِزُّ شَعْرَهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ali ibn AbuTalib:",
+        "text": "The Messenger of Allah (ﷺ) said: If anyone who is sexual defiled leaves a spot equal to the breadth of a hair without washing, such and such an amount of Hell-fire will have to be suffered for it. Ali said:  On that account I treated my head (hair) as an enemy, meaning I cut my hair. He used to cut the hair (of his head). May Allah be pleased with him."
+      }
+    },
+    {
+      "id": 250,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَغْتَسِلُ وَيُصَلِّي الرَّكْعَتَيْنِ وَصَلاَةَ الْغَدَاةِ وَلاَ أُرَاهُ يُحْدِثُ وُضُوءًا بَعْدَ الْغُسْلِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Messenger of Allah (ﷺ) took a bath and offered two rak'ahs of prayer and said the dawn prayer. I do not think he performed ablution afresh after taking a bath."
+      }
+    }
+  ]
+}

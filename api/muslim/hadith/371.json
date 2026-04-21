@@ -1,0 +1,16 @@
+{
+  "id": 371,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مِهْرَانَ الرَّازِيُّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم وَأَبَا بَكْرٍ وَعُمَرَ كَانُوا يَنْزِلُونَ الأَبْطَحَ.",
+  "english": {
+    "narrator": "",
+    "text": "Ibn 'Umar (Allah be pleased with him) reported that Allah's Messenger (ﷺ) and Abu Bakr and 'Umar observed halt at al-Abtah."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

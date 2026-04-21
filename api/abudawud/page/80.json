@@ -1,0 +1,510 @@
+{
+  "page": 80,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 81,
+  "prevPage": 79,
+  "items": [
+    {
+      "id": 25,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، - رضى الله عنه - قَالَ مَنْ مَلَكَ ذَا رَحِمٍ مَحْرَمٍ فَهُوَ حُرٌّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umar ibn al-Khattab:",
+        "text": "Qatadah reported Umar ibn al-Khattab (may Allah be pleased with him) as saying: If anyone gets possession of a relative who is within the prohibited degrees, that person becomes free."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، قَالَ مَنْ مَلَكَ ذَا رَحِمٍ مَحْرَمٍ فَهُوَ حُرٌّ ‏.‏",
+      "english": {
+        "narrator": "Qatadah reported 'Umar b. al-Khattab (ra) as saying:",
+        "text": "If anyone gets possession of a relative who is within the prohibited degrees, that person becomes free."
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ جَابِرِ بْنِ زَيْدٍ، وَالْحَسَنِ، مِثْلَهُ ‏.‏ قَالَ أَبُو دَاوُدَ سَعِيدٌ أَحْفَظُ مِنْ حَمَّادٍ ‏.‏",
+      "english": {
+        "narrator": "A similar tradition has also been transmitted by Jabir b. Zaid and al-Hasan through a different chain of narrators.\n\n\nAbu Dawud said:",
+        "text": "The narrator sa'id retained te tradition more carefully than Hammad."
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ خَطَّابِ بْنِ صَالِحٍ، مَوْلَى الأَنْصَارِيِّ عَنْ أُمِّهِ، عَنْ سَلاَمَةَ بِنْتِ مَعْقِلٍ، - امْرَأَةٍ مِنْ خَارِجَةِ قَيْسِ عَيْلاَنَ - قَالَتْ قَدِمَ بِي عَمِّي فِي الْجَاهِلِيَّةِ فَبَاعَنِي مِنَ الْحُبَابِ بْنِ عَمْرٍو أَخِي أَبِي الْيَسَرِ بْنِ عَمْرٍو فَوَلَدْتُ لَهُ عَبْدَ الرَّحْمَنِ بْنَ الْحُبَابِ ثُمَّ هَلَكَ فَقَالَتِ امْرَأَتُهُ الآنَ وَاللَّهِ تُبَاعِينَ فِي دَيْنِهِ فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ إِنِّي امْرَأَةٌ مِنْ خَارِجَةِ قَيْسِ عَيْلاَنَ قَدِمَ بِي عَمِّي الْمَدِينَةَ فِي الْجَاهِلِيَّةِ فَبَاعَنِي مِنَ الْحُبَابِ بْنِ عَمْرٍو أَخِي أَبِي الْيَسَرِ بْنِ عَمْرٍو فَوَلَدْتُ لَهُ عَبْدَ الرَّحْمَنِ بْنَ الْحُبَابِ فَقَالَتِ امْرَأَتُهُ الآنَ وَاللَّهِ تُبَاعِينَ فِي دَيْنِهِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ وَلِيُّ الْحُبَابِ ‏\"‏ ‏.‏ قِيلَ أَخُوهُ أَبُو الْيَسَرِ بْنُ عَمْرٍو فَبَعَثَ إِلَيْهِ فَقَالَ ‏\"‏ أَعْتِقُوهَا فَإِذَا سَمِعْتُمْ بِرَقِيقٍ قَدِمَ عَلَىَّ فَأْتُونِي أُعَوِّضْكُمْ مِنْهَا ‏\"‏ ‏.‏ قَالَتْ فَأَعْتَقُونِي وَقَدِمَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم رَقِيقٌ فَعَوَّضَهُمْ مِنِّي غُلاَمًا ‏.‏",
+      "english": {
+        "narrator": "Narrated Sulamah bint Ma'qil al-Qasiyyah:",
+        "text": "My uncle brought me (to Medina) in the pre-Islamic days. He sold me to al-Hubab ibn Amr, brother of AbulYusr ibn Amr. I bore a child, AbdurRahman ibn al-Hubab, to him and he (al-Hubab) then died.  \n\n\n\n\n\nThereupon his wife said: I swear by Allah, now you will be sold (as a repayment) for his loan.  \n\n\n\n\n\nSo I came to the Messenger of Allah (ﷺ) and said: Messenger of Allah! I am a woman of Banu Kharijah Qays ibn Aylan. My uncle had brought me to Medina in pre-Islamic days. He sold me to al-Hubab ibn Amr, brother of AbulYusr ibn Amr. I bore AbdurRahman ibn al-Hubab to him. His wife said: I swear by Allah, you will be sold for his loan.  \n\n\n\n\n\nThe Messenger of Allah (ﷺ) said: Who is the guardian of al-Hubab?  \n\n\n\n\n\nHe was told: His brother, AbulYusr ibn Amr. He then sent for him and said: Set her free; when you hear that some slaves have been brought to me, came to me, and I shall compensate you for her.  \n\n\n\n\n\nShe said: They set me free, and when some slaves were brought to the Messenger of Allah (ﷺ), he gave them a slave in compensation for me."
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ قَيْسٍ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ بِعْنَا أُمَّهَاتِ الأَوْلاَدِ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَبِي بَكْرٍ فَلَمَّا كَانَ عُمَرُ نَهَانَا فَانْتَهَيْنَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Abdullah:",
+        "text": "We sold slave-mothers during the time of the Messenger of Allah (ﷺ) and of AbuBakr. When Umar was in power, he forbade us and we stopped."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا هُشَيْمٌ، عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ، عَنْ عَطَاءٍ، وَإِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَجُلاً، أَعْتَقَ غُلاَمًا لَهُ عَنْ دُبُرٍ مِنْهُ وَلَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُ فَأَمَرَ بِهِ النَّبِيُّ صلى الله عليه وسلم فَبِيعَ بِسَبْعِمِائَةٍ أَوْ بِتِسْعِمِائَةٍ ‏.‏",
+      "english": {
+        "narrator": "Jabir b. 'Abd Allah said:",
+        "text": "A man declared that his slave would be free after his death, but he had no other property. So the Prophet (ﷺ) ordered (to sell him). He was then sold for seven hundred or nine hundred (dirhams)."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ، حَدَّثَنَا بِشْرُ بْنُ بَكْرٍ، أَخْبَرَنَا الأَوْزَاعِيُّ، حَدَّثَنِي عَطَاءُ بْنُ أَبِي رَبَاحٍ، حَدَّثَنِي جَابِرُ بْنُ عَبْدِ اللَّهِ، بِهَذَا زَادَ وَقَالَ - يَعْنِي النَّبِيَّ صلى الله عليه وسلم - ‏\n\"‏ أَنْتَ أَحَقُّ بِثَمَنِهِ وَاللَّهُ أَغْنَى عَنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "The tradition mentioned above also has been transmitted by Jabir b. 'Abd Allah through a different chain of narrators. This version added:",
+        "text": "The Prophet (ﷺ) said: You are more entitled to his price, and Allah has no need of it."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ رَجُلاً، مِنَ الأَنْصَارِ يُقَالُ لَهُ أَبُو مَذْكُورٍ أَعْتَقَ غُلاَمًا لَهُ يُقَالُ لَهُ يَعْقُوبُ عَنْ دُبُرٍ وَلَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُ فَدَعَا بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ مَنْ يَشْتَرِيهِ ‏\"‏ ‏.‏ فَاشْتَرَاهُ نُعَيْمُ بْنُ عَبْدِ اللَّهِ بْنِ النَّحَّامِ بِثَمَانِمِائَةِ دِرْهَمٍ فَدَفَعَهَا إِلَيْهِ ثُمَّ قَالَ ‏\"‏ إِذَا كَانَ أَحَدُكُمْ فَقِيرًا فَلْيَبْدَأْ بِنَفْسِهِ فَإِنْ كَانَ فِيهَا فَضْلٌ فَعَلَى عِيَالِهِ فَإِنْ كَانَ فِيهَا فَضْلٌ فَعَلَى ذِي قَرَابَتِهِ ‏\"‏ ‏.‏ أَوْ قَالَ ‏\"‏ عَلَى ذِي رَحِمِهِ فَإِنْ كَانَ فَضْلاً فَهَا هُنَا وَهَا هُنَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir said:",
+        "text": "A man of the Ansar called Abu Madhkur declared that his slave called Ya'qub would be free after his death, but he had no other property. So the Messenger of Allah (ﷺ) called him and said: Who will buy him ? Nu'aim b. 'Abd Allah b. al-Nahham bought him for eight hundred dirhams. When he handed them over to him, he  (Prophet) said: If any of you is poor, he should begin from himself ; if anything is left over, give it to your family; if anything is left over, give it to your relatives ; if anything is left over (when they received something), then here and here."
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الْمُهَلَّبِ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَجُلاً، أَعْتَقَ سِتَّةَ أَعْبُدٍ عِنْدَ مَوْتِهِ وَلَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُمْ فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَقَالَ لَهُ قَوْلاً شَدِيدًا ثُمَّ دَعَاهُمْ فَجَزَّأَهُمْ ثَلاَثَةَ أَجْزَاءٍ فَأَقْرَعَ بَيْنَهُمْ فَأَعْتَقَ اثْنَيْنِ وَأَرَقَّ أَرْبَعَةً ‏.‏",
+      "english": {
+        "narrator": "'Imran b. Hussain said:",
+        "text": "A man who had no other property emancipated six slaves of his at the time of the death. When the Prophet (ﷺ) was informed about it, he spoke severely of him. He then called them, divided them into three sections, cast lots among them, and emancipated two and kept four in slavery."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو كَامِلٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ الْمُخْتَارِ - حَدَّثَنَا خَالِدٌ، عَنْ أَبِي قِلاَبَةَ، بِإِسْنَادِهِ وَمَعْنَاهُ وَلَمْ يَقُلْ فَقَالَ لَهُ قَوْلاً شَدِيدًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The tradition mentioned above has also been transmitted by Abu Qilabah through a different chain of narrators on the authority of 'Imran b. Husain to the same effect. But in this version he did not mention \"He spoke severely of them.\""
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، حَدَّثَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، - هُوَ الطَّحَّانُ - عَنْ خَالِدٍ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي زَيْدٍ، أَنَّ رَجُلاً، مِنَ الأَنْصَارِ بِمَعْنَاهُ وَقَالَ - يَعْنِي النَّبِيَّ صلى الله عليه وسلم - ‏\n\"‏ لَوْ شَهِدْتُهُ قَبْلَ أَنْ يُدْفَنَ لَمْ يُدْفَنْ فِي مَقَابِرِ الْمُسْلِمِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "The tradition mentioned above has also been transmitted by Abu Qilabah from Abu Zaid through a different chain of narrators to the same effect:",
+        "text": "A man of the Ansar ... The Prophet (ﷺ) said: Had I been present before his burial, he would not have been buried in a Muslim cemetry."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ يَحْيَى بْنِ عَتِيقٍ، وَأَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَجُلاً، أَعْتَقَ سِتَّةَ أَعْبُدٍ عِنْدَ مَوْتِهِ وَلَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُمْ فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَأَقْرَعَ بَيْنَهُمْ فَأَعْتَقَ اثْنَيْنِ وَأَرَقَّ أَرْبَعَةً ‏.‏",
+      "english": {
+        "narrator": "'Imran b. Husain said:",
+        "text": "A man emancipated six slaved at the time of his death and he had no other property. The Prophet (ﷺ) was informed about it. He cast lots among them, emancipated two and retained four in slavery."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي ابْنُ لَهِيعَةَ، وَاللَّيْثُ بْنُ سَعْدٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، عَنْ بُكَيْرِ بْنِ الأَشَجِّ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَعْتَقَ عَبْدًا وَلَهُ مَالٌ فَمَالُ الْعَبْدِ لَهُ إِلاَّ أَنْ يَشْتَرِطَهُ السَّيِّدُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abd Allah b. 'Umar reported the Messenger of Allah (ﷺ) as saying:",
+        "text": "If anyone emancipates a slave who has property, the property of the slave belongs to him except that the master makes a stipulation."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا جَرِيرٌ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ وَلَدُ الزِّنَا شَرُّ الثَّلاَثَةِ ‏\"‏ ‏.‏ وَقَالَ أَبُو هُرَيْرَةَ لأَنْ أُمَتِّعَ بِسَوْطٍ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ أَحَبُّ إِلَىَّ مِنْ أَنْ أَعْتِقَ وَلَدَ زِنْيَةٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: The child of adultery is worst of the three.\n\n\n\n\nAbu Hurairah said: That I give a flog in the path of Allah (as a charity) is dearer to me than emancipating a child of adultery."
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عِيسَى بْنُ مُحَمَّدٍ الرَّمْلِيُّ، حَدَّثَنَا ضَمْرَةُ، عَنْ إِبْرَاهِيمَ بْنِ أَبِي عَبْلَةَ، عَنِ الْغَرِيفِ بْنِ الدَّيْلَمِيِّ، قَالَ أَتَيْنَا وَاثِلَةَ بْنَ الأَسْقَعِ فَقُلْنَا لَهُ حَدِّثْنَا حَدِيثًا، لَيْسَ فِيهِ زِيَادَةٌ وَلاَ نُقْصَانٌ فَغَضِبَ وَقَالَ إِنَّ أَحَدَكُمْ لَيَقْرَأُ وَمُصْحَفُهُ مُعَلَّقٌ فِي بَيْتِهِ فَيَزِيدُ وَيَنْقُصُ ‏.‏ قُلْنَا إِنَّمَا أَرَدْنَا حَدِيثًا سَمِعْتَهُ مِنَ النَّبِيِّ صلى الله عليه وسلم ‏.‏ قَالَ أَتَيْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم فِي صَاحِبٍ لَنَا أَوْجَبَ - يَعْنِي - النَّارَ بِالْقَتْلِ فَقَالَ ‏\n\"‏ أَعْتِقُوا عَنْهُ يُعْتِقِ اللَّهُ بِكُلِّ عُضْوٍ مِنْهُ عُضْوًا مِنْهُ مِنَ النَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Wathilah ibn al-Asqa:",
+        "text": "Al-Arif ibn ad-Daylami said: We went to Wathilah ibn al-Asqa and said to him: Tell us a tradition which has not addition or omission. He became angry and replied: One of you recites when his copy of a Qur'an is hung up in his house, and he makes additions and omissions. We said: All we mean is a tradition you have heard from the Messenger of Allah (ﷺ). He said: We went to the Prophet (ﷺ) about a friend of ours who deserved. Hell for murder. He said: Emancipate a slave on his behalf; Allah will set free from Hell a member of the body for every member of his."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ مَعْدَانَ بْنِ أَبِي طَلْحَةَ الْيَعْمَرِيِّ، عَنْ أَبِي نَجِيحٍ السُّلَمِيِّ، قَالَ حَاصَرْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِقَصْرِ الطَّائِفِ - قَالَ مُعَاذٌ سَمِعْتُ أَبِي يَقُولُ بِقَصْرِ الطَّائِفِ بِحِصْنِ الطَّائِفِ كُلُّ ذَلِكَ - فَسَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ مَنْ بَلَغَ بِسَهْمٍ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ فَلَهُ دَرَجَةٌ ‏\"‏ ‏.‏ وَسَاقَ الْحَدِيثَ وَسَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ أَيُّمَا رَجُلٍ مُسْلِمٍ أَعْتَقَ رَجُلاً مُسْلِمًا فَإِنَّ اللَّهَ عَزَّ وَجَلَّ جَاعِلٌ وِقَاءَ كُلِّ عَظْمٍ مِنْ عِظَامِهِ عَظْمًا مِنْ عِظَامِ مُحَرَّرِهِ مِنَ النَّارِ وَأَيُّمَا امْرَأَةٍ أَعْتَقَتِ امْرَأَةً مُسْلِمَةً فَإِنَّ اللَّهَ جَاعِلٌ وِقَاءَ كُلِّ عَظْمٍ مِنْ عِظَامِهَا عَظْمًا مِنْ عِظَامِ مُحَرَّرِهَا مِنَ النَّارِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuNajih as-Sulami:",
+        "text": "Along with the Messenger of Allah (ﷺ) we besieged the palace of at-Ta'if. The narrator, Mutadh, said: I heard my father (sometimes) say: \"Palace of at-Ta'if,\" and (sometimes) \"Fort of at-Ta'if,\" which are the same.  \n\n\n\n\n\nI heard the Messenger of Allah (ﷺ) say: he who causes an arrow to hit its mark in Allah's cause will have it counted as a degree for him (in Paradise). He then transmitted the rest of the tradition.  \n\n\n\n\n\nI heard the Messenger of Allah (ﷺ) say: If a Muslim man emancipates a Muslim man, Allah, the Exalted, will make  every bone of his protection for every bone of his emancipator from Hell; and if a Muslim woman emancipates a Muslim woman, Allah will make every bone of hers protection for every bone of her emancipator from Hell on the Day of Resurrection."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ نَجْدَةَ، حَدَّثَنَا بَقِيَّةُ، حَدَّثَنَا صَفْوَانُ بْنُ عَمْرٍو، حَدَّثَنِي سُلَيْمُ بْنُ عَامِرٍ، عَنْ شُرَحْبِيلَ بْنِ السِّمْطِ، أَنَّهُ قَالَ لِعَمْرِو بْنِ عَبَسَةَ حَدِّثْنَا حَدِيثًا، سَمِعْتَهُ مِنْ، رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ أَعْتَقَ رَقَبَةً مُؤْمِنَةً كَانَتْ فِدَاءَهُ مِنَ النَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Amr ibn Abasah, said that Marrah ibn Ka'b said:",
+        "text": "I heard the Messenger of Allah (ﷺ) say: If anyone emancipates a Muslim slave, that will be his ransom from Jahannam."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ شُرَحْبِيلَ بْنِ السِّمْطِ، أَنَّهُ قَالَ لِكَعْبِ بْنِ مُرَّةَ أَوْ مُرَّةَ بْنِ كَعْبٍ حَدِّثْنَا حَدِيثًا، سَمِعْتَهُ مِنْ، رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ مَعْنَى مُعَاذٍ إِلَى قَوْلِهِ ‏\"‏ وَأَيُّمَا امْرِئٍ أَعْتَقَ مُسْلِمًا وَأَيُّمَا امْرَأَةٍ أَعْتَقَتِ امْرَأَةً مُسْلِمَةً ‏\"‏ ‏.‏ زَادَ ‏\"‏ وَأَيُّمَا رَجُلٍ أَعْتَقَ امْرَأَتَيْنِ مُسْلِمَتَيْنِ إِلاَّ كَانَتَا فِكَاكَهُ مِنَ النَّارِ يُجْزَى مَكَانَ كُلِّ عَظْمَيْنِ مِنْهُمَا عَظْمٌ مِنْ عِظَامِهِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ سَالِمٌ لَمْ يَسْمَعْ مِنْ شُرَحْبِيلَ مَاتَ شُرَحْبِيلُ بِصِفِّينَ ‏.‏",
+      "english": {
+        "narrator": "The tradition mentioned above has also been transmitted by Mu'adh through a different chain of narrators. After mentioning the words \"If any Muslim emancipates a Muslim slave... and if a woman emancipates a Muslim woman, this version adds:",
+        "text": "\"If a man emancipates two Muslim women, they will be deliverance from Hell fire; two bones of their will be emancipation for each of his bone.\"\n\n\nAbu Dawud said: Salim did not hear (traditions) from Shurahbil. Shurahbil died at Siffin."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 31,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي حَبِيبَةَ الطَّائِيِّ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَثَلُ الَّذِي يُعْتِقُ عِنْدَ الْمَوْتِ كَمَثَلِ الَّذِي يُهْدِي إِذَا شَبِعَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbudDarda':",
+        "text": "The Prophet (ﷺ) said: the similitude of a man who emancipates a slave at the time of his death is like that of a man who gives a present after satisfying his appetite."
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، ح وَحَدَّثَنَا نَصْرُ بْنُ عَاصِمٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرٍ، رضى الله عنه أَنَّ النَّبِيَّ صلى الله عليه وسلم قَرَأَ ‏{‏ وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى ‏}‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Abdullah:",
+        "text": "The Prophet (ﷺ) read the Qur'anic verse, \"And take ye the Station of Abraham as a place of prayer."
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى، - يَعْنِي ابْنَ إِسْمَاعِيلَ - حَدَّثَنَا حَمَّادٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ رَجُلاً، قَامَ مِنَ اللَّيْلِ فَقَرَأَ فَرَفَعَ صَوْتَهُ بِالْقُرْآنِ فَلَمَّا أَصْبَحَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ يَرْحَمُ اللَّهُ فُلاَنًا كَائِنٌ مِنْ آيَةٍ أَذْكَرَنِيهَا اللَّيْلَةَ كُنْتُ قَدْ أَسْقَطْتُهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated A'ishah:",
+        "text": "A man got up (for prayer) at night, he read the Qur'an and raised his voice in reading. When the morning came, the Messenger of Allah (ﷺ) said: May Allah have mercy on so-and-so! Last night he reminded me a number of verses which I was about to forget."
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، حَدَّثَنَا خُصَيْفٌ، حَدَّثَنَا مِقْسَمٌ، مَوْلَى ابْنِ عَبَّاسٍ قَالَ قَالَ ابْنُ عَبَّاسٍ رضى الله عنهما نَزَلَتْ هَذِهِ الآيَةُ ‏{‏ وَمَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ ‏}‏ فِي قَطِيفَةٍ حَمْرَاءَ فُقِدَتْ يَوْمَ بَدْرٍ فَقَالَ بَعْضُ النَّاسِ لَعَلَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَخَذَهَا فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏ وَمَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ ‏}‏ إِلَى آخِرِ الآيَةِ ‏.‏ قَالَ أَبُو دَاوُدَ يَغُلَّ مَفْتُوحَةُ الْيَاءِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The verse \"And no Prophet could (ever) be false to his trust\" was revealed about a red velvet. When it was found missing on the day of Badr, some people said; Perhaps the Messenger of Allah (ﷺ) has taken it. So Allah, the Exalted, sent down \"And no prophet could (ever) be false to his trust\" to the end of the verse.\n\n\n\n\nAbu Dawud said: In the word yaghulla the letter ya has a short vowel a."
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ أَبِي قَالَ، سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبُخْلِ وَالْهَرَمِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported that Messenger of Allah (ﷺ) as saying:",
+        "text": "O Allah, I seek refuge in Thee from niggardliness and old age."
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَحْيَى بْنُ سُلَيْمٍ، عَنْ إِسْمَاعِيلَ بْنِ كَثِيرٍ، عَنْ عَاصِمِ بْنِ لَقِيطِ بْنِ صَبِرَةَ، عَنْ أَبِيهِ، لَقِيطِ بْنِ صَبِرَةَ قَالَ كُنْتُ وَافِدَ بَنِي الْمُنْتَفِقِ - أَوْ فِي وَفْدِ بَنِي الْمُنْتَفِقِ - إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ الْحَدِيثَ فَقَالَ - يَعْنِي النَّبِيَّ صلى الله عليه وسلم - ‏\n\"‏ لاَ تَحْسِبَنَّ ‏\"‏ ‏.‏ وَلَمْ يَقُلْ لاَ تَحْسَبَنَّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Laqit ibn Sabirah:",
+        "text": "I came in the deputation of Banu al-Muntafiq to the Messenger of Allah (ﷺ). He then narrated the rest of the tradition. The Prophet (ﷺ) said: la tahsibanna (do not think) and did not say: la tahsabanna (do not think)."
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ لَحِقَ الْمُسْلِمُونَ رَجُلاً فِي غُنَيْمَةٍ لَهُ فَقَالَ السَّلاَمُ عَلَيْكُمْ فَقَتَلُوهُ وَأَخَذُوا تِلْكَ الْغُنَيْمَةَ فَنَزَلَتْ ‏{‏ وَلاَ تَقُولُوا لِمَنْ أَلْقَى إِلَيْكُمُ السَّلاَمَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ الْحَيَاةِ الدُّنْيَا ‏}‏ تِلْكَ الْغُنَيْمَةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "The Muslims met a man with some sheep of his. He said: Peace be upon you. But they killed him and took those few sheep. Thereupon the following Qur'anic verse was revealed: \"...And say to anyone who offers you a salutation: Thou art none of believer, coveting the perishable good of this life.\" meaning these few sheep."
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا ابْنُ أَبِي الزِّنَادِ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، عَنِ ابْنِ أَبِي الزِّنَادِ، - وَهُوَ أَشْبَعُ - عَنْ أَبِيهِ، عَنْ خَارِجَةَ بْنِ زَيْدِ بْنِ ثَابِتٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْرَأُ ‏{‏ غَيْرُ أُولِي الضَّرَرِ ‏}‏ وَلَمْ يَقُلْ سَعِيدٌ كَانَ يَقْرَأُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Zayd ibn Thabit:",
+        "text": "The Prophet (ﷺ) used to read: \"Not equal are those believers who sit (at home) and receive no hurt (ghayru ulid-darari) but the narrator Sa'id did not say the words \"used to read\""
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الْعَلاَءِ، قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، حَدَّثَنَا يُونُسُ بْنُ يَزِيدَ، عَنْ أَبِي عَلِيِّ بْنِ يَزِيدَ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَرَأَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏{‏ وَالْعَيْنُ بِالْعَيْنِ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "The Messenger of Allah (ﷺ) read the verse: \"eye for eye\" (al-'aynu bil-'ayn)."
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنَا أَبِي، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، حَدَّثَنَا يُونُسُ بْنُ يَزِيدَ، عَنْ أَبِي عَلِيِّ بْنِ يَزِيدَ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَرَأَ ‏{‏ وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنُ بِالْعَيْنِ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "The Prophet (ﷺ) read the verse: \"We ordained therein for them: Life for life and eye for eye (an-nafsa bin-nafsi wal-'aynu bil-'ayn)."
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا فُضَيْلُ بْنُ مَرْزُوقٍ، عَنْ عَطِيَّةَ بْنِ سَعْدٍ الْعَوْفِيِّ، قَالَ قَرَأْتُ عَلَى عَبْدِ اللَّهِ بْنِ عُمَرَ ‏{‏ اللَّهُ الَّذِي خَلَقَكُمْ مِنْ ضَعْفٍ ‏}‏ فَقَالَ ‏{‏ مِنْ ضُعْفٍ ‏}‏ قَرَأْتُهَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم كَمَا قَرَأْتَهَا عَلَىَّ فَأَخَذَ عَلَىَّ كَمَا أَخَذْتُ عَلَيْكَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "Atiyyah ibn Sa'd al-Awfi said: I recited to Abdullah ibn Umar the verse: \"It is Allah Who created you in a state of (helplessness) weakness (min da'f).\"  He said: (Read) min du'f. I recited it to the Messenger of Allah (ﷺ) as you recited it to me, and he gripped me as I gripped you."
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى الْقُطَعِيُّ، حَدَّثَنَا عُبَيْدٌ، - يَعْنِي ابْنَ عَقِيلٍ - عَنْ هَارُونَ، عَنْ عَبْدِ اللَّهِ بْنِ جَابِرٍ، عَنْ عَطِيَّةَ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏{‏ مِنْ ضُعْفٍ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuSa'id al-Khudri:",
+        "text": "The Prophet (ﷺ) read the verse mentioned above, \"min du'f.\""
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَسْلَمَ الْمِنْقَرِيِّ، عَنْ عَبْدِ اللَّهِ، عَنْ أَبِيهِ عَبْدِ الرَّحْمَنِ بْنِ أَبْزَى، قَالَ قَالَ أُبَىُّ بْنُ كَعْبٍ ‏{‏ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَلِكَ فَلْتَفْرَحُوا ‏}‏ ‏.‏ قَالَ أَبُو دَاوُدَ بِالتَّاءِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ubayy b. Ka'b:",
+        "text": "\"Say, in the bounty of Allah, and in His mercy- in that let you rejoice.\""
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا الْمُغِيرَةُ بْنُ سَلَمَةَ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنِ الأَجْلَحِ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ بْنِ أَبْزَى، عَنْ أَبِيهِ، عَنْ أُبَىٍّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَرَأَ ‏{‏ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا تَجْمَعُونَ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Abzi:",
+        "text": "Ubayy ibn Ka'b) said: The Prophet (ﷺ) read the verse: \"Say: In the bounty of Allah and in His mercy--in that let you rejoice: that is better than the wealth you hoard.\""
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا ثَابِتٌ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أَسْمَاءَ بِنْتِ يَزِيدَ، أَنَّهَا سَمِعَتِ النَّبِيَّ صلى الله عليه وسلم يَقْرَأُ ‏{‏ إِنَّهُ عَمِلَ غَيْرَ صَالِحٍ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Asma' daughter of Yazid:",
+        "text": "She heard the Prophet (ﷺ) read the verse: \"He acted unrighteously.\" (innahu 'amila ghayra salih)."
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو كَامِلٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ الْمُخْتَارِ - حَدَّثَنَا ثَابِتٌ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، قَالَ سَأَلْتُ أُمَّ سَلَمَةَ كَيْفَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم صلى الله عليه وسلم يَقْرَأُ هَذِهِ الآيَةَ ‏{‏ إِنَّهُ عَمَلٌ غَيْرُ صَالِحٍ ‏}‏ فَقَالَتْ قَرَأَهَا ‏{‏ إِنَّهُ عَمِلَ غَيْرَ صَالِحٍ ‏}‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ هَارُونُ النَّحْوِيُّ وَمُوسَى بْنُ خَلَفٍ عَنْ ثَابِتٍ كَمَا قَالَ عَبْدُ الْعَزِيزِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umm Salamah, Ummul Mu'minin:",
+        "text": "Shahr ibn Hawshab said: I asked Umm Salamah: How did the Messenger of Allah  (ﷺ) read this verse: \"For his conduct is unrighteous (innahu 'amalun  ghayru salih\". She replied: He read it: \"He acted unrighteously\" (innahu 'amila ghayra salih).\n\n\nAbu Dawud said: This tradition has been transmitted by Harun al-Nahwi and Musa b. Khalaf from Thabit as reported by the narrator 'Abd al-Aziz."
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عِيسَى، عَنْ حَمْزَةَ الزَّيَّاتِ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أُبَىِّ بْنِ كَعْبٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا دَعَا بَدَأَ بِنَفْسِهِ وَقَالَ ‏\"‏ رَحْمَةُ اللَّهِ عَلَيْنَا وَعَلَى مُوسَى لَوْ صَبَرَ لَرَأَى مِنْ صَاحِبِهِ الْعَجَبَ وَلَكِنَّهُ قَالَ ‏{‏ إِنْ سَأَلْتُكَ عَنْ شَىْءٍ بَعْدَهَا فَلاَ تُصَاحِبْنِي قَدْ بَلَغْتَ مِنْ لَدُنِي ‏}‏ ‏\"‏ ‏.‏ طَوَّلَهَا حَمْزَةُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ubayy ibn Ka'b:",
+        "text": ":\n\n\n\n\n\n\nWhen the Messenger of Allah (ﷺ) prayed, he began with himself and said: May the mercy of Allah be upon us and upon Moses. If he had patience, he would have seen marvels from his Companion. But he said: \"(Moses) said: If ever I ask thee about anything after this, keep me not in they company: then wouldst thou have received (full) excuse from my side\". Hamzah lengthened it."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ أَبُو عَبْدِ اللَّهِ الْعَنْبَرِيُّ، حَدَّثَنَا أُمَيَّةُ بْنُ خَالِدٍ، حَدَّثَنَا أَبُو الْجَارِيَةِ الْعَبْدِيُّ، عَنْ شُعْبَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أُبَىِّ بْنِ كَعْبٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَرَأَهَا ‏{‏ قَدْ بَلَغْتَ مِنْ لَدُنِّي ‏}‏ وَثَقَّلَهَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Ubayy ibn Ka'b:",
+        "text": "The Prophet (ﷺ) read the Qur'anic verse: \"Thou hast received (full) excuse from me (min ladunni)\" and put tashdid (doubling of consonants) on nun (n)."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَسْعُودٍ الْمِصِّيصِيُّ، حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنَا مُحَمَّدُ بْنُ دِينَارٍ، حَدَّثَنَا سَعْدُ بْنُ أَوْسٍ، عَنْ مِصْدَعٍ أَبِي يَحْيَى، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ أَقْرَأَنِي أُبَىُّ بْنُ كَعْبٍ كَمَا أَقْرَأَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏{‏ فِي عَيْنٍ حَمِئَةٍ ‏}‏ مُخَفَّفَةً ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "Ubayy ibn Ka'b made me read the following verse as the Messenger of Allah (ﷺ) made him read: \"in a spring of murky water\" (fi 'aynin hami'atin) with short vowel a after h."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ الْفَضْلِ، حَدَّثَنَا وُهَيْبٌ، - يَعْنِي ابْنَ عَمْرٍو النَّمَرِيَّ - أَخْبَرَنَا هَارُونُ، أَخْبَرَنِي أَبَانُ بْنُ تَغْلِبَ، عَنْ عَطِيَّةَ الْعَوْفِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ إِنَّ الرَّجُلَ مِنْ أَهْلِ عِلِّيِّينَ لَيُشْرِفُ عَلَى أَهْلِ الْجَنَّةِ فَتُضِيءُ الْجَنَّةُ لِوَجْهِهِ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ ‏\"‏ ‏.‏ قَالَ وَهَكَذَا جَاءَ الْحَدِيثُ ‏\"‏ دُرِّيٌّ ‏\"‏ ‏.‏ مَرْفُوعَةُ الدَّالِ لاَ تُهْمَزُ ‏\"‏ وَإِنَّ أَبَا بَكْرٍ وَعُمَرَ لَمِنْهُمْ وَأَنْعَمَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuSa'id al-Khudri:",
+        "text": "The Prophet (ﷺ) said: A man from the Illiyyun will look downwards at the people of Paradise and Paradise will be glittering as if it were a brilliant star. \n\n\n\n\n\nHe (the narrator) said: In this way the word durri (brilliant) occurs in this tradition, i.e. the letter dal (d) has short vowel u and it has no hamzah ('). AbuBakr and Umar will be of them and will have some additional blessings."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَهَارُونُ بْنُ عَبْدِ اللَّهِ، قَالاَ حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنِي الْحَسَنُ بْنُ الْحَكَمِ النَّخَعِيُّ، حَدَّثَنَا أَبُو سَبْرَةَ النَّخَعِيُّ، عَنْ فَرْوَةَ بْنِ مُسَيْكٍ الْغُطَيْفِيِّ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَذَكَرَ الْحَدِيثَ فَقَالَ رَجُلٌ مِنَ الْقَوْمِ يَا رَسُولَ اللَّهِ أَخْبِرْنَا عَنْ سَبَإٍ مَا هُوَ أَرْضٌ أَمِ امْرَأَةٌ فَقَالَ ‏\n\"‏ لَيْسَ بِأَرْضٍ وَلاَ امْرَأَةٍ وَلَكِنَّهُ رَجُلٌ وَلَدَ عَشَرَةً مِنَ الْعَرَبِ فَتَيَامَنَ سِتَّةٌ وَتَشَاءَمَ أَرْبَعَةٌ ‏\"‏ ‏.‏ قَالَ عُثْمَانُ الْغَطَفَانِيِّ مَكَانَ الْغُطَيْفِيِّ وَقَالَ حَدَّثَنَا الْحَسَنُ بْنُ الْحَكَمِ النَّخَعِيُّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Farwah ibn Musayk al-Ghutayfi:",
+        "text": "I came to the Prophet (ﷺ). He then narrated the rest of the tradition. \n\n\n\n\n\nA man from the people said: \"Messenger of Allah! tell us about Saba'; what is it: land or woman? He replied: It is neither land nor woman; it is a man to whom ten children of the Arabs were born: six of them lived in the Yemen and four lived in Syria. \n\n\n\n\n\nThe narrator Uthman said al-Ghatafani instead of al-Ghutayfi. He said: It has been transmitted to us by al-Hasan ibn al-Hakam an-Nakha'i."
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، وَإِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ أَبُو مَعْمَرٍ الْهُذَلِيُّ، عَنْ سُفْيَانَ، عَنْ عَمْرٍو، عَنْ عِكْرِمَةَ، قَالَ حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم - قَالَ إِسْمَاعِيلُ عَنْ أَبِي هُرَيْرَةَ رِوَايَةً - فَذَكَرَ حَدِيثَ الْوَحْىِ قَالَ فَذَلِكَ قَوْلُهُ تَعَالَى ‏{‏ حَتَّى إِذَا فُزِّعَ عَنْ قُلُوبِهِمْ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "The Prophet (ﷺ) as saying - the narrator Isma'il transmitted it from Abu Hurairah, and mentioned the tradition about the coming down of revelation-: \"So far (is this the case) that when terror is removed from their hearts.\""
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ النَّيْسَابُورِيُّ، حَدَّثَنَا إِسْحَاقُ بْنُ سُلَيْمَانَ الرَّازِيُّ، سَمِعْتُ أَبَا جَعْفَرٍ، يَذْكُرُ عَنِ الرَّبِيعِ بْنِ أَنَسٍ، عَنْ أُمِّ سَلَمَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ قِرَاءَةُ النَّبِيِّ صلى الله عليه وسلم ‏{‏ بَلَى قَدْ جَاءَتْكِ آيَاتِي فَكَذَّبْتِ بِهَا وَاسْتَكْبَرْتِ وَكُنْتِ مِنَ الْكَافِرِينَ ‏}‏ قَالَ أَبُو دَاوُدَ هَذَا مُرْسَلٌ الرَّبِيعُ لَمْ يُدْرِكْ أُمَّ سَلَمَةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umm Salamah, wife of the Prophet (ﷺ):",
+        "text": "The reading of the following verse by the Prophet (ﷺ) goes: \"Nay, but there came to thee (ja'atki) my signs, and thou didst reject them (fakadhdhabti biha) ; thou wast haughty (wastakbarti) and became one of those who reject Faith (wa kunti).\n\n\nAbu Dawud said: This is a mursal tradition, i.e. the link of the Companion has been omitted, for the narrator al-Rabi' did not meet Umm Salamah."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هَارُونُ بْنُ مُوسَى النَّحْوِيُّ، عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ، عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، عَنْ عَائِشَةَ، - رضى الله تعالى عنها - قَالَتْ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقْرَؤُهَا ‏{‏ فَرُوحٌ وَرَيْحَانٌ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "I heard the Messenger of Allah (ﷺ) read: \"(There is for him) Rest and satisfaction\" (faruhun wa rayhan)."
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَأَحْمَدُ بْنُ عَبْدَةَ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ عَطَاءٍ، - قَالَ ابْنُ حَنْبَلٍ لَمْ أَفْهَمْهُ جَيِّدًا - عَنْ صَفْوَانَ، - قَالَ ابْنُ عَبْدَةَ ابْنِ يَعْلَى - عَنْ أَبِيهِ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم عَلَى الْمِنْبَرِ يَقْرَأُ ‏{‏ وَنَادَوْا يَا مَالِكُ ‏}‏ ‏.‏ قَالَ أَبُو دَاوُدَ يَعْنِي بِلاَ تَرْخِيمٍ ‏.‏",
+      "english": {
+        "narrator": "Safwan b. Ya'la quoting his father said:",
+        "text": "I heard the Prophet (ﷺ) read on the pulpit the verse: \"They will cry: O Malik.\"\n\n\nAbu Dawud said: That is, without shortening the name (Malik)."
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنَا أَبُو أَحْمَدَ، أَخْبَرَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ عَبْدِ اللَّهِ، قَالَ أَقْرَأَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏{‏ إِنِّي أَنَا الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ ‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Mas'ud:",
+        "text": "The Messenger of Allah (ﷺ) made me read the verse \"It is I who give (all) sustenance, Lord of power, steadfast (for ever)."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْرَؤُهَا ‏{‏ فَهَلْ مِنْ مُدَّكِرٍ ‏}‏ يَعْنِي مُثَقَّلاً ‏.‏ قَالَ أَبُو دَاوُدَ مَضْمُومَةَ الْمِيمِ مَفْتُوحَةَ الدَّالِ مَكْسُورَةَ الْكَافِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Mas'ud:",
+        "text": "The Prophet (ﷺ) used to read the verse \"Is there any that will receive admonition (muddakir)? \" that is with doubling of consonant .\n\n\nAbu Dawud said: The word muddakir may be pronounced as mim (m) with a short vowel u. (dal)(d) with a short vowel and kaf (k) with a short vowel i."
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَبْدِ الرَّحْمَنِ الذِّمَارِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنِي مُحَمَّدُ بْنُ الْمُنْكَدِرِ، عَنْ جَابِرٍ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَقْرَأُ ‏{‏ يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ ‏}‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Abdullah:",
+        "text": "I saw the Prophet (ﷺ) reading the verse; \"does he think that his wealth would make him last for ever?\""
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ خَالِدٍ، عَنْ أَبِي قِلاَبَةَ، عَمَّنْ أَقْرَأَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏{‏ فَيَوْمَئِذٍ لاَ يُعَذَّبُ عَذَابَهُ أَحَدٌ * وَلاَ يُوثَقُ وَثَاقَهُ أَحَدٌ ‏}‏ ‏.‏ قَالَ أَبُو دَاوُدَ بَعْضُهُمْ أَدْخَلَ بَيْنَ خَالِدٍ وَأَبِي قِلاَبَةَ رَجُلاً ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Qilabah:",
+        "text": "That the Prophet (ﷺ) made a man read the verse: \"For, that day His chastisement will be such as none (else) can be chastised. And his bonds will be such as none (other) can be bound.\n\n\nAbu Dawud said: According to some (scholars), there is a narrator between the narrator Khalid and Abu Qilabah."
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادٌ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، قَالَ أَنْبَأَنِي مَنْ، أَقْرَأَهُ النَّبِيُّ صلى الله عليه وسلم أَوْ مَنْ أَقْرَأَهُ مَنْ أَقْرَأَهُ النَّبِيُّ صلى الله عليه وسلم ‏{‏ فَيَوْمَئِذٍ لاَ يُعَذَّبُ ‏}‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَرَأَ عَاصِمٌ وَالأَعْمَشُ وَطَلْحَةُ بْنُ مُصَرِّفٍ وَأَبُو جَعْفَرٍ يَزِيدُ بْنُ الْقَعْقَاعِ وَشَيْبَةُ بْنُ نَصَّاحٍ وَنَافِعُ بْنُ عَبْدِ الرَّحْمَنِ وَعَبْدُ اللَّهِ بْنُ كَثِيرٍ الدَّارِيُّ وَأَبُو عَمْرِو بْنِ الْعَلاَءِ وَحَمْزَةُ الزَّيَّاتُ وَعَبْدُ الرَّحْمَنِ الأَعْرَجُ وَقَتَادَةُ وَالْحَسَنُ الْبَصْرِيُّ وَمُجَاهِدٌ وَحُمَيْدٌ الأَعْرَجُ وَعَبْدُ اللَّهِ بْنُ عَبَّاسٍ وَعَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرٍ ‏{‏ لاَ يُعَذِّبُ ‏}‏ ‏{‏ وَلاَ يُوثِقُ ‏}‏ إِلاَّ الْحَدِيثَ الْمَرْفُوعَ فَإِنَّهُ ‏{‏ يُعَذَّبُ ‏}‏ بِالْفَتْحِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Qilabah:",
+        "text": "A man whom the Prophet (ﷺ) made the following verse read informed me, or he was informed by a man whom a man made the following verse read through a man whom the Prophet (ﷺ) made the following verse read: \"For, that day His chastisement will be such as none (else) can be inflicted (la yu'adhdhabu)\n\n \nAbu Dawud said: 'Asim, al-A'mash, Talhah b. Musarrif, Abu Ja'far Yazid b. al-Qa'qa', Shaibah b. Nassah, Nafi' b. 'Abd al-Rahman, 'Abd Allah b. Kathir al-Dari, Abu 'Amr b. al-'Ala', Hamzat al-Zayyat, 'Abd al-Rahman al-A'raj, Qatadah, al-Hasan al-Basri, Mujahid, Hamid al=A'raj, Abd Allah b. 'Abbas and 'Abd al-Rahman b. Abi Bakr recited: \"For,that day His chastisement will be such as none (else) can inflict (la ya'adhdhibu), and His bonds will be such as none (other) can bind (wa la yathiqu), except the verse mentioned in this tradition from the Prophet (ﷺ). It has een read yu'adhdhabu with short vowel a in passive voice."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الْعَلاَءِ، أَنَّ مُحَمَّدَ بْنَ أَبِي عُبَيْدَةَ، حَدَّثَهُمْ قَالَ حَدَّثَنَا أَبِي، عَنِ الأَعْمَشِ، عَنْ سَعْدٍ الطَّائِيِّ، عَنْ عَطِيَّةَ الْعَوْفِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ حَدَّثَ رَسُولُ اللَّهِ صلى الله عليه وسلم حَدِيثًا ذَكَرَ فِيهِ ‏\n\"‏ جِبْرِيلَ وَمِيكَالَ ‏\"‏ ‏.‏ فَقَرَأَ ‏{‏ جِبْرَائِلَ وَمِيكَائِلَ ‏}‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ خَلَفٌ مُنْذُ أَرْبَعِينَ سَنَةً لَمْ أَرْفَعِ الْقَلَمَ عَنْ كِتَابَةِ الْحُرُوفِ مَا أَعْيَانِي شَىْءٌ مَا أَعْيَانِي جِبْرَائِلُ وَمِيكَائِلُ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuSa'id al-Khudri:",
+        "text": "The Messenger of Allah (ﷺ) related a tradition in which he mentioned the words \"Jibril and Mikal\" and he pronounced them \"Jibra'ila wa Mika'ila.\"\n\n\n\n\nAbu Dawud said: Khalaf said: I did not put the pen aside from writing letters (huruf) for forty years: nothing tired me (or made me incapable of writing), even Jibril and Mika'il did not tire me."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 32,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا زَيْدُ بْنُ أَخْزَمَ، حَدَّثَنَا بِشْرٌ، - يَعْنِي ابْنَ عُمَرَ - حَدَّثَنَا مُحَمَّدُ بْنُ خَازِمٍ، قَالَ ذُكِرَ كَيْفَ قِرَاءَةُ جِبْرَائِلَ وَمِيكَائِلَ عِنْدَ الأَعْمَشِ فَحَدَّثَنَا الأَعْمَشُ عَنْ سَعْدٍ الطَّائِيِّ عَنْ عَطِيَّةَ الْعَوْفِيِّ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ ذَكَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم صَاحِبَ الصُّورِ فَقَالَ ‏\n\"‏ عَنْ يَمِينِهِ جِبْرَائِلُ وَعَنْ يَسَارِهِ مِيكَائِلُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuSa'id al-Khudri:",
+        "text": "The Messenger of Allah (ﷺ) mentioned the name of the one who will sound the trumpet (sahib as-sur) and said: On his right will be Jibra'il and on his left will be Mika'il."
+      }
+    }
+  ]
+}

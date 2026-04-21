@@ -1,0 +1,16 @@
+{
+  "id": 417,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَاهُ أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ بِشْرٍ، عَنْ مِسْعَرٍ، حَدَّثَنِي بُكَيْرُ بْنُ الأَخْنَسِ، قَالَ سَمِعْتُ أَنَسًا، يَقُولُ مُرَّ عَلَى النَّبِيِّ صلى الله عليه وسلم بِبَدَنَةٍ ‏.‏ فَذَكَرَ مِثْلَهُ ‏.‏",
+  "english": {
+    "narrator": "Anas (Allah be pleased with him) reported:",
+    "text": "There happened to pass (a person) with a sacrificial camel by Allah's Apostle (ﷺ) and the rest of the hadith is the same."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

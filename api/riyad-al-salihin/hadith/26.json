@@ -1,0 +1,16 @@
+{
+  "id": 26,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي سعيد سعد بن مالك بن سنان الخدري رضي الله عنهما‏:‏ ‏\"‏أن ناساً من الأنصار سألوا رسول الله صلى الله عليه وسلم فأعطاهم، ثم سألوه فأعطاهم ، حتى نفد ما عنده، فقال لهم حين أنفق كل شيء بيده ‏:‏ ‏\"‏ما يكن عندي من خير فلن أدخره عنكم ، ومن يستعفف يعفه الله، ومن يستغن يغنه الله، ومن يتصبر يصبره الله‏.‏ وما أعطي أحد عطاءً خيراً وأوسع من الصبر‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Sa'id Al-Khudri (May Allah be pleased with him) reported that:",
+    "text": "Certain people of the Ansar asked the Messenger of Allah (ﷺ) and he gave them; then they again asked him and he gave them until all what he possessed was exhausted. Then the Prophet (ﷺ) said, \"Whatever wealth I have, I will not withhold from you. Whosoever would be chaste and modest; Allah will keep him chaste and modest and whosoever would seek self-sufficiency, Allah will make him self-sufficient; and whosoever would be patient, Allah will give him patience, and no one is granted a gift better and more comprehensive than patience\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

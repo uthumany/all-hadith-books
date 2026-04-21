@@ -1,0 +1,16 @@
+{
+  "id": 354,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي موسى رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏إن من إجلال الله تعالى إكرام ذي الشيبة المسلم، وحامل القرآن غير الغالي فيه، والجافي عنه وإكرام ذي السلطان المقسط‏\"‏ ‏(‏‏(‏حديث حسن رواه أبو داود‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Musa (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"It is out of reverence to Allah in respecting an aged Muslim, and the one who commits the Qur'an to memory and does not exaggerate pronouncing its letters nor forgets it after memorizing, and to respect the just ruler\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

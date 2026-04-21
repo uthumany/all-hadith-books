@@ -1,0 +1,16 @@
+{
+  "id": 17,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏ من تاب قبل أن تطلع الشمس من مغربها تاب الله عليه‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) narrated:",
+    "text": "Messenger of Allah (ﷺ) said, \"He who repents before the sun rises from the west, Allah will forgive him\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

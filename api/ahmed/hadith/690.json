@@ -1,0 +1,16 @@
+{
+  "id": 690,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي الْحَسْنَاءِ، عَنِ الْحَكَمِ، عَنْ حَنَشٍ، قَالَ رَأَيْتُ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ يُضَحِّي بِكَبْشَيْنِ فَقُلْتُ لَهُ مَا هَذَا فَقَالَ أَوْصَانِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ أُضَحِّيَ عَنْهُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Hanash said:",
+    "text": "I saw ‘Ali (رضي الله عنه) sacrificing two rams and I said to him: “What is this?” He said: “The Messenger of Allah (ﷺ) told me to offer a sacrifice on his behalf”."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

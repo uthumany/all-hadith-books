@@ -1,0 +1,16 @@
+{
+  "id": 262,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي حُسَيْنُ بْنُ حُرَيْثٍ، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ خُثَيْمِ بْنِ عِرَاكٍ، عَنْ أَبِيهِ،\n عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَسْلَمُ سَالَمَهَا اللَّهُ وَغِفَارُ غَفَرَ\n اللَّهُ لَهَا أَمَا إِنِّي لَمْ أَقُلْهَا وَلَكِنْ قَالَهَا اللَّهُ عَزَّ وَجَلَّ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+    "text": "To the tribe of Aslam Allah has granted safety and to the tribe of Ghifar Allah has granted pardon. Verily it is not I that say this, but (it is) Allah the Exalted and Glorious. (who) says this."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 697,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، أَنَّهُ سَمِعَ جُرَيَّ بْنَ كُلَيْبٍ، يُحَدِّثُ أَنَّهُ سَمِعَ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ عَضْبَاءِ الْقَرْنِ وَالْأُذُنِ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Qatadah that he heard Jurayy bin Kulaib narrate that he heard ‘Ali (رضي الله عنه) say:",
+    "text": "The Messenger of Allah (ﷺ) forbade (sacrificing) an animal that had lost most of its horn or ear."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

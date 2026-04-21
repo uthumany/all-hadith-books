@@ -1,0 +1,16 @@
+{
+  "id": 220,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عمر رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “ لا يزال المؤمن في فسحة من دينه ما لم يصب دمًا حرًا‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar (May Allah bepleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"A believer continues to guard his Faith (and thus hopes for Allah's Mercy) so long as he does not shed blood unjustly\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

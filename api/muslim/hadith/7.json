@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ حَفْصٍ، حَدَّثَنَا شُعْبَةُ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِ ذَلِكَ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Abū Bakr bin Abī Shaybah narrated to us, Alī bin Hafs narrated to us, Shu’bah narrated to us, on authority of Khubayb bin Abd ir-Rahman, on authority of Hafs bin Āsim, on authority of Abī Hurayrah, on authority of the Prophet, peace and blessings of Allah upon him, the same as that."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 142,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ رَضِيَ اَللَّهُ عَنْهُمَا; { أَنَّهُ سُئِلَ عَنْ اَلرَّجُلِ يُطَلِّقُ, ثُمَّ يُرَاجِعُ, وَلَا يُشْهِدُ? فَقَالَ: أَشْهِدْ عَلَى طَلَاقِهَا, وَعَلَى رَجْعَتِهَا }  .‏ رَوَاهُ أَبُو دَاوُدَ هَكَذَا مَوْقُوفًا, وَسَنَدُهُ صَحِيحٌ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (2186)‏، ولفظه تاما: \"طلقت لغير سنة، وراجعت لغير سنة؛ أشهد على طلاقها، وعلى رجعتها، ولا تعد\".‏",
+  "english": {
+    "narrator": "Narrated 'Imran bin Husain (RA):",
+    "text": "He was asked about a man who divorces his wife, then takes her back without taking witnesses (on either). So he replied, \"Get witnesses on her divorce, and on her return.\"\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

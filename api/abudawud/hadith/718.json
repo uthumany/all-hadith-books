@@ -1,0 +1,16 @@
+{
+  "id": 718,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، حَدَّثَنَا الْوَلِيدُ، أَخْبَرَنِي شَيْبَانُ أَبُو مُعَاوِيَةَ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ السُّوَائِيِّ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم لاَ يُطِيلُ الْمَوْعِظَةَ يَوْمَ الْجُمُعَةِ إِنَّمَا هُنَّ كَلِمَاتٌ يَسِيرَاتٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Jabir ibn Samurah as-Suwa'i:",
+    "text": "The Messenger of Allah (ﷺ) would not lengthen the sermon on Friday. He would say a few words."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

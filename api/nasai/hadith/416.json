@@ -1,0 +1,16 @@
+{
+  "id": 416,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كُنْتُ فِيمَنْ قَدَّمَ النَّبِيُّ صلى الله عليه وسلم لَيْلَةَ الْمُزْدَلِفَةِ فِي ضَعَفَةِ أَهْلِهِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated Abbas said:",
+    "text": "\"I was one those whom the Prophet sent ahead on the night of Al-Muzdalifah among the weak ones of his family.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

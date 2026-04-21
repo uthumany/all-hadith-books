@@ -1,0 +1,16 @@
+{
+  "id": 12,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنِ الأَوْزَاعِيِّ، قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَجْمَعُوا بَيْنَ التَّمْرِ وَالزَّبِيبِ وَلاَ بَيْنَ الزَّهْوِ وَالرُّطَبِ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin Abi Qatadah narrated from his father that:",
+    "text": "The Prophet  said: \"Do not combine dried dates with raisins, nor Az-Zahuw with ripe dates.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

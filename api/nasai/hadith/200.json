@@ -1,0 +1,16 @@
+{
+  "id": 200,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، قَالَ حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي إِسْحَاقَ، عَنْ يَحْيَى بْنِ عُبَيْدٍ الْبَهْرَانِيِّ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُنْقَعُ لَهُ الزَّبِيبُ فَيَشْرَبُهُ يَوْمَهُ وَالْغَدَ وَبَعْدَ الْغَدِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Ibn 'Abbas that:",
+    "text": "Raisins would be soaked for the Messenger of Allah  and he would drink it that day, the following day, and the day after that."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

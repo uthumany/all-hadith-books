@@ -1,0 +1,510 @@
+{
+  "page": 10,
+  "perPage": 50,
+  "totalPages": 38,
+  "totalCount": 1896,
+  "nextPage": 11,
+  "prevPage": 9,
+  "items": [
+    {
+      "id": 140,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن جابر رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏إذا قضى أحدكم صلاته في مسجده، فليجعل لبيته نصيبًا من صلاته، فإن الله جاعل في بيته صلاته خيرًا‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Jabir (May Allah be pleased with him)reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"When you have finished your (Fard) Salat (prayer) in the mosque, you should observe some of your (Sunnah and Nawafil) Salat at home; Allah will bless your homes because of your Salat (in your homes).\""
+      }
+    },
+    {
+      "id": 141,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن عمر بن عطاء أن نافع بن جبير أرسله إلى السائب ابن أخت نمر يسأله عن شيء رآه منه معاوية في الصلاة فقال‏:‏ نعم صليت معه الجمعة في المقصورة، فلما سلم الإمام، قمت في مقامي، فصليت فلما دخل أرسل إلي فقال‏:‏ لا تعد لما فعلت‏:‏ إذا صليت الجمعة فلا تصلها بصلاة حتى تتكلم أو تخرج، فإن رسول الله صلى الله عليه وسلم أمرنا بذلك أن لا نوصل صلاة بصلاة حتى نتكلم أو نخرج‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "'Umar bin 'Ata reported that Nafi' bin Jubair sent him to Sa'ib bin Ukht Namir to ask him about something that Mu'awiyah had seen him doing in Salat (prayer). He said:",
+        "text": "\"Yes, I performed the Friday prayer along with him in the enclosure (Maqsurah), and when the Imam concluded the Salat with Taslim, I stood up in my place and performed the Sunnah prayer. When Mu'awiyah went home, he sent for me (and when I came) he said: \"Never do again what you have done. When you have observed the Friday prayer, you must not start another Sunnah prayer till you have spoken to some one or have shifted your place; because the Messenger of Allah (ﷺ) ordered us not to follow up the congregational Salat with any other Salat until we have talked (to some one) or moved from the place.\"."
+      }
+    },
+    {
+      "id": 142,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "عن علي رضي الله عنه قال‏:‏ الوتر ليس بختم كصلاة المكتوبة ولكن سن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏إن الله وتر يحب الوتر، فأوتروا يا أهل القرآن‏\"‏‏.‏ ‏(‏‏(‏رواه أبو داود والترمذي‏)‏‏)‏‏.‏ وقال‏:‏ حديث حسن‏.‏",
+      "english": {
+        "narrator": "'Ali (bin Abu Talib) (May Allah be pleased with him) reported:",
+        "text": "The Witr prayer is not obligatory as the prescribed Salat (prayers), but the Messenger of Allah (ﷺ) observed it as his regular practice (Sunnah). He (ﷺ) said, \"Allah is Witr (single, odd) and loves what is Witr. So perform Witr prayer. O followers of Qur'an, observe Witr (prayer).\"."
+      }
+    },
+    {
+      "id": 143,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن عائشة رضي الله عنها قالت‏:‏ من كل الليل قد أوتر رسول الله صلى الله عليه وسلم‏:‏ من أول الليل ومن أوسطه، ومن آخره‏.‏ وانتهى وتره إلى السحر‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+      "english": {
+        "narrator": "'Aishah (May Allah be pleased with her) reported:",
+        "text": "The Messenger of Allah (ﷺ) observed Witr prayer in every part of night at the beginning, middle and at the last part. He (ﷺ), however, would finish his Witr prayer before dawn.."
+      }
+    },
+    {
+      "id": 144,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن ابن عمر رضي الله عنهما، عن النبي صلى الله عليه وسلم‏:‏ ‏\n\"‏ اجعلوا آخر صلاتكم بالليل وترًا‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+      "english": {
+        "narrator": "Ibn 'Umar (May Allah be pleased with them) reported:",
+        "text": "The Prophet (ﷺ) said, \"Make Witr prayer the last of your Salat at night.\"."
+      }
+    },
+    {
+      "id": 145,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أبي سعيد الخدري رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏أوتروا قبل أن تصبحوا‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id Al-Khudri (May Allah be pleased with him) reported:",
+        "text": "The Prophet (ﷺ) said, \"Perform Witr prayer before dawn.\"."
+      }
+    },
+    {
+      "id": 146,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن عائشة رضي الله عنها أن النبي صلى الله عليه وسلم كان يصلي بالليل، وهي معترضة بين يديه، فإذا بقي الوتر، أيقظها فأوترت‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ \nوفي رواية له‏:‏ فإذا بقي الوتر قال‏:‏ ‏\n\"‏قومي فأوتري يا عائشة‏\"‏",
+      "english": {
+        "narrator": "'Aishah (May Allah be pleased with her) reported:",
+        "text": "The Prophet (ﷺ) used to perform his voluntary prayer at night (i.e., Tahajjud prayer) while she was sleeping in front of him; and when the Witr prayer was yet to be observed, he would awaken her to perform her Witr prayer.."
+      }
+    },
+    {
+      "id": 147,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن ابن عمر رضي الله عنهما أن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏بادروا الصبح بالوتر‏\"‏ ‏(‏‏(‏رواه أبو داود والترمذي‏)‏‏)‏‏.‏ وقال‏:‏ حديث حسن صحيح‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar (May Allah be pleased with them) reported:",
+        "text": "The Prophet (ﷺ) said, \"Hasten to perform the Witr prayer before dawn.\"."
+      }
+    },
+    {
+      "id": 148,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن جابر رضي الله عنه قال قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏من خاف أن لا يقوم الليل فليوتر أوله، ومن طمع أن يقوم آخره، فليوتر آخر الليل، فإن صلاة آخر الليل مشهودة، وذلك أفضل‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Jabir (May Allah be pleased with him)reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"He who apprehends that he may not get up in the later part of the night, should observe the Witr prayer in the first part of it; and he who is certain to get up in the last part of it, he should observe Witr at the end of the night, because Salat at the end of the night is attended (by the angels), and that is better.\"."
+      }
+    },
+    {
+      "id": 149,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "عن أبي هريرة رضي الله عنه قال‏:‏ أوصاني خليلي صلى الله عليه وسلم بصيام ثلاثة أيام من كل شهر، وركعتي الضحى، وأن أوتر قبل أن أرقد‏\"‏ ‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏  \nوالإيتار قبل النوم إنما يستحب لمن لا يثق باستيقاظ آخر الليل، فإن وثق فآخر الليل أفضل‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+        "text": "My Khalil (the Messenger of Allah (ﷺ)) directed me to fast three days of each month, and to observe two Rak'ah Duha (optional prayer) at forenoon, and to perform the Witr prayer before going to bed.."
+      }
+    },
+    {
+      "id": 150,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أبي ذر رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏يصبح على كل سلامى من أحدكم صدقة‏:‏ فكل تسبيحة صدقة، وكل تهليلة صدقة، وكل تكبيرة صدقة، وأمر بالمعروف صدقة، ونهي عن المنكر صدقة، ويجزئ من ذلك ركعتان يركعهما من الضحى‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Abu Dharr (May Allah be pleased with him)reported:",
+        "text": "The Prophet (ﷺ) said, \"In the morning, charity is due on every joint bone of the body of everyone of you. Every utterance of Allah's Glorification (i.e., saying Subhan Allah) is an act of charity, and every utterance of His Praise (i.e., saying Al-hamdu lillah) is an act of charity and every utterance of declaration of His Greatness (i.e., saying La ilaha illAllah) is an act of charity; and enjoining M'aruf (good) is an act of charity, and forbidding Munkar (evil) is an act of charity, and two Rak'ah Duha prayers which one performs in the forenoon is equal to all this (in reward).\"."
+      }
+    },
+    {
+      "id": 151,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن عائشة رضي الله عنها قالت‏:‏ كان رسول الله صلى الله عليه وسلم يصلي الضحى أربعًا ويزيد ما شاء الله ‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "'Aishah (May Allah be pleased with her) reported:",
+        "text": "The Messenger of Allah (ﷺ) used to perform four Rak'ah of Duha prayer (at the forenoon) and would add to them whatever Allah wished.."
+      }
+    },
+    {
+      "id": 152,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أم هانئ فاختة بنت أبي طالب رضي الله عنها قالت‏:‏ ذهبت إلى رسول الله صلى الله عليه وسلم عام الفتح فوجدته يغتسل فلما فرغ من غسله صلى ثمان ركعات، وذلك ضحى‏\"‏ ‏(‏‏(‏متفق عليه وهذا مختصر لفظ إحدى روايات مسلم‏)‏‏)‏",
+      "english": {
+        "narrator": "Umm Hani, daughter of Abu Talib (May Allah be pleased with her) reported:",
+        "text": "I went to the Messenger of Allah (ﷺ) on the day of the conquest of Makkah. He was taking a bath at that time. When he finished the bath, he performed eight Rak'ah (of optional) prayers. This was during the Duha (forenoon).."
+      }
+    },
+    {
+      "id": 153,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "عن زيد بن أرقم رضي الله عنه أنه رأى قومًا يصلون من الضحى، فقال‏:‏ أما لقد علموا أن الصلاة في غير هذه الساعة أفضل، إن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏صلاة الأوابين حين ترمض الفصال‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Zaid bin Arqam (May Allah be pleased with him) reported:",
+        "text": "I saw some people performing Duha (prayers) in the early forenoon and warned them (saying): These people must know that performing Salat a little later is better. The Messenger of Allah (ﷺ) said, \"The Salat of the penitent is to be observed when the young ones of camels feel the heat of the sun (i.e., when it becomes very hot).\"."
+      }
+    },
+    {
+      "id": 154,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أبي قتادة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏ إذا دخل أحدكم المسجد فلا يجلس حتى يصلي ركعتين‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Abu Qatadah (May Allah be pleased with him)reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"When anyone of you enters the mosque, he should perform two Rak'ah (of voluntary prayer) before sitting.\"."
+      }
+    },
+    {
+      "id": 155,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن جابر، رضي الله عنه قال‏:‏ أتيت النبي صلى الله عليه وسلم وهو في المسجد فقال‏:‏ ‏\n\"‏صلِ ركعتين‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Jabir (May Allah be pleased with him) reported:",
+        "text": "I came to the Prophet (ﷺ) when he was in the mosque, and he said to me, \"Perform two Rak'ah prayer.\"."
+      }
+    },
+    {
+      "id": 156,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال لبلال‏:‏ يا بلال حدثني بأرجى عمل عملته في الإسلام، فإني سمعت دف نعليك بين يدي في الجنة، قال‏:‏ ما عملت عملا أرجى عندي من أني لم أتطهر طهورًا في ساعة من ليل أو نهار إلا صليت بذلك الطهور ما كتب لي أن أصلي‏.‏ ‏(‏‏(‏متفق عليه وهذا لفظ البخاري‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) said to Bilal (May Allah be pleased with him) \"Tell me about the most hopeful act (i.e., one which you deem the most rewarding with Allah) you have done since your acceptance of Islam because I heard the sound of the steps of your shoes in front of me in Jannah.\" Bilal said: \"I do not consider any act more hopeful than that whenever I make Wudu' (or took a bath) in an hour of night or day, I would immediately perform Salat (prayer) for as long as was destined for me to perform.\"."
+      }
+    },
+    {
+      "id": 157,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏ خير يوم طلعت عليه الشمس يوم الجمعة‏:‏ فيه خلق آدم، وفيه أدخل الجنة، وفيه أخرج منها‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"The best day on which the sun has risen is Friday. On that day Adam was created, he was admitted to Jannah, and he was expelled therefrom.\"."
+      }
+    },
+    {
+      "id": 158,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعنه قال‏:‏ قال رسول الله، صلى الله عليه وسلم ‏:‏ ‏\n\"‏من توضأ فأحسن الوضوء ثم أتي الجمعة، فاستمع وأنصت، غفر له ما بينه وبين الجمعة وزيادة ثلاثة أيام، ومن مس الحصى،  فقد لغا‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"If anyone performs Wudu' properly, then comes to the Friday prayer, listens to the Khutbah (religious talk) attentively and keeps silent, his (minor) sins between that Friday and the following Friday will be forgiven, with the addition of three more days; but he who touches pebbles has caused an interruption. \"."
+      }
+    },
+    {
+      "id": 159,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعنه عن النبي، صلى الله عليه وسلم قال‏:‏ ‏\n\"‏الصلوات الخمس والجمعة إلى الجمعة، ورمضان إلى رمضان، مكفرات ما بينهن إذا اجتنبت الكبائر‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (May Allah be pleased with him)reported:",
+        "text": "The Prophet (ﷺ) said, \"The five daily (prescribed) Salat, and Friday (prayer) to the next Friday (prayer), and the fasting of Ramadan to the next Ramadan, is expiation of the sins committed in between them, so long as major sins are avoided.\"."
+      }
+    },
+    {
+      "id": 160,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعنه وعن ابن عمر، رضي الله عنهم، أنهما سمعا رسول الله صلى الله عليه وسلم ، يقول على أعواد منبره‏:‏ ‏\n\"‏لينتهين أقوام عن وَدعهم الجمعات، أو ليختمن الله على قلوبهم، ثم ليكونن من الغافلين‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar and Abu Hurairah (May Allah be pleased with them) reported:",
+        "text": "We heard the Messenger of Allah (ﷺ) saying (while delivering Khutbah on his wooden pulpit), \"Either some people (i.e., hypocrites) stop neglecting the Friday prayers, or Allah will seal their hearts and they will be among the heedless.\"."
+      }
+    },
+    {
+      "id": 161,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن ابن عمر رضي الله عنهما، أن رسول الله صلى الله عليه وسلم ، قال‏:‏ ‏\n\"‏إذا جاء أحدكم الجمعة، فليغتسل‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar (May Allah be pleased with them) reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"When one of you intends to come for the Friday prayer, he should take a bath.\"."
+      }
+    },
+    {
+      "id": 162,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أبي سعيد الخدري، رضي الله عنه، أن رسول الله صلى الله عليه وسلم ، قال‏:‏ ‏\n\"‏غسل الجمعة واجب على كل محتلم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id Al-Khudri (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"Taking a bath (before coming to Friday prayers) is obligatory on every adult.\"."
+      }
+    },
+    {
+      "id": 163,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن سمرة،  رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏من توضأ يوم الجمعة، فبها ونعمت، ومن اغتسل فالغسل أفضل‏\"‏ ‏(‏‏(‏رواه أبو داود، والترمذي وقال حديث حسن‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Samurah (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"It suffices to perform Wudu' properly for the Friday prayer; but it is better to take a bath.\"."
+      }
+    },
+    {
+      "id": 164,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "- وعن سلمان، رضي الله عنه، قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏لا يغتسل رجل يوم الجمعة، ويتطهر ما استطاع من طهر، ويدهن من دهنه، أو يمس من طيب بيته، ثم يخرج فلا يفرق بين اثنين، ثم يصلي ما كتب له، ثم ينصت إذا تكلم الإمام، إلا غفر له ما بينه وبين الجمعة الأخرى‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Salman (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"If a man takes bath on Friday, (or) purifies himself as much as he can with Wudu', oils his hair, applies whatever perfume available in his house, sets forth for the mosque, does not separate two people (to make a seat for himself), performs Salat what is prescribed for him, remains silent when the Imam speaks, his (minor) sins between that Friday and the following Friday will be forgiven.\"."
+      }
+    },
+    {
+      "id": 165,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أبي هريرة رضي الله عنه، أن رسول الله صلى الله عليه وسلم ، قال‏:‏ ‏\n\"‏من اغتسل يوم الجمعة غسل الجنابة، ثم راح في الساعة الأولى فكأنما قرب بدنة، ومن راح في الساعة الثانية، فكأنما قرب بقرة، ومن راح في الساعة الثالثة، فكأنما قرب كبشًا أقرن، ومن راح في الساعة الرابعة، فكأنما قرب دجاجة، ومن راح في الساعة الخامسة، فكأنما قرب بيضة، فإذا خرج الإمام، حضرت الملائكة يستمعون الذكر‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"He who takes a bath on Friday, like the bath for ceremonial purity, and then goes (to the mosque), he is like one who offers a camel as a sacrifice to seek the Pleasure of Allah; and he who comes at the second hour is like one who offers a cow to win the Pleasure of Allah; and he who comes at the third hour is like one who offers a ram with horns (in sacrifice); and he who comes at the fourth hour is like one who offers a hen; and he who comes at the fifth hour is like one who offers an egg. And when the Imam ascends the pulpit, the angels (who write the names of those who come to the mosque before the coming of the Imam) close (their record) in order to listen to the Khutbah.\"."
+      }
+    },
+    {
+      "id": 166,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعنه أن رسول الله صلى الله عليه وسلم ، ذكر يوم الجمعة، فقال‏:‏ ‏\n\"‏فيها ساعة لا يوافقها عبد مسلم، وهو قائم يصلي يسأل الله شيئًا، إلا أعطاه إياه‏\"‏ وأشار بيده يقللها، ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) said while talking about the merits of Friday, \"There is a time on Friday at which a Muslim, while he (or she) is performing Salat and is supplicating, will be granted whatever he (or she) is supplicating for.\" And he (ﷺ) pointed with his hand to indicate that this period of time is very short.."
+      }
+    },
+    {
+      "id": 167,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أبي بردة بن أبي موسى الأشعري، رضي الله عنه، قال‏:‏ قال عبد الله بن عمر رضي الله عنهما‏:‏ أسمعت أباك يحدث عن رسول الله صلى الله عليه وسلم ، في شأن ساعة الجمعة‏؟‏ قال‏:‏ قلت‏:‏ نعم، سمعته يقول‏:‏ سمعت رسول الله صلى الله عليه وسلم ، يقول‏:‏ ‏\n\"‏هي ما بين أن يجلس الإمام إلى أن تقضى الصلاة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Abu Burdah bin Abu Musa Al-Ash'ari (May Allah be pleased with him) reported:",
+        "text": "'Abdullah bin 'Umar (May Allah be pleased with them) said to me: \"Did you hear your father narrating something from the Messenger of Allah (ﷺ) about the special moment during Friday?\" I said: \"Yes, I heard him report from the Messenger of Allah (ﷺ): 'It occurs between the time when the Imam sits down (on the pulpit after the first Khutbah) and the time Salat is over.\"'."
+      }
+    },
+    {
+      "id": 168,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أوس بن أوس، رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏إن من أفضل أيامكم يوم الجمعة، فأكثروا علي من الصلاة فيه، فإن صلاتكم معروضة علي‏\"‏ ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Aus bin Aus (May Allah be pleased with him)reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"Among the best of your days is Friday. On that day pray to Allah to exalt my mention frequently, for your such supplications are presented to me.\"."
+      }
+    },
+    {
+      "id": 169,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "عن سعد بن أبي وقاص، رضي الله عنه، قال‏:‏ خرجنا مع رسول الله صلى الله عليه وسلم من مكة نريد المدينة، فلما كنا قريبًا من عزوراء نزل ثم رفع يديه، فدعا الله ساعة، ثم خر ساجدًا، فمكث طويلا، ثم قام فرفع يديه ساعة، ثم خر ساجدًا- فعله- ثلاثًا- وقال‏:‏ ‏\n\"‏إني سألت ربي، وشفعت لأمتي، فأعطاني ثلث أمتي، فخررت ساجدًا لربي شكرًا، ثم رفعت رأسي، فسألت ربي لأمتي، فأعطاني ثلث أمتي، فخررت ساجدًا لربي شكرًا، ثم رفعت رأسي، فسألت ربي لأمتي، فأعطاني الثلث الآخر، فخررت ساجدًا لربي‏\"‏ ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Sa'd bin Abu Waqqas (May Allah be pleased with him) reported:",
+        "text": "We left Makkah with the Messenger of Allah (ﷺ) for Al-Madinah, and when we were near 'Azwara,' he (ﷺ) alighted (from his riding-camel) raised his hands in supplication to Allah for a while and prostrated himself. He remained for a long time in prostration. Then he stood up and raised his hands for a while, after which he prostrated himself (again), and remained for a long time in prostration. Then he stood up and raised his hands for a while, after which he prostrated himself for the third time. Then he (ﷺ) said, \"I supplicated my Rubb and made intercession for my Ummah, and He granted me one-third of them. So I again prostrated myself in gratitude to my Rubb. Then I raised my head and supplicated my Rubb for my Ummah, and He granted me another third of them. Again I raised my head and supplicated my Rubb for my Ummah and He granted me the last third of them. So I fell into prostration out of gratitude before my Rubb.\"."
+      }
+    },
+    {
+      "id": 170,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن عائشة رضي الله عنها، قالت‏:‏ كان النبي صلى الله عليه وسلم ، يقوم من الليل حتى تتفطر قدماه، فقلت له‏:‏ لم تصنع هذا يا رسول الله، وقد غفر لك ما تقدم من ذنبك وما تأخر‏؟‏ قال‏:‏ ‏\n\"‏أفلا أكون عبدًا شكورًا‏\"‏‏.‏ ‏(‏‏(‏متفق عليه وعن المغيرة بن شعبة نحوه، متفق عليه‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "'Aishah (May Allah be pleased with her) reported:",
+        "text": "The Prophet (ﷺ) kept standing (in prayer) so long that the skin of his feet would crack. I asked him: \"Why do you do this, while you have been forgiven of your former and latter sins?\" He said, \"Should I not be a grateful slave of Allah?\"."
+      }
+    },
+    {
+      "id": 171,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن علي رضي الله عنه، أن النبي صلى الله عليه وسلم، طرقه وفاطمة ليلا، فقال‏:‏ ‏\"‏ألا تصليان‏؟‏‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ (20)",
+      "english": {
+        "narrator": "'Ali (May Allah be pleased with him) reported:",
+        "text": "The Prophet (ﷺ) visited me and Fatimah (May Allah be pleased with her) one night and said, \"Do you not observe prayer (at night)?\"."
+      }
+    },
+    {
+      "id": 172,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن سالم بن عبد الله بن عمر بن الخطاب، رضي الله عنهم، عن أبيه‏:‏ أن رسول الله صلى الله عليه وسلم ، قال‏:‏ ‏\n\"‏نعم الرجل عبد الله لو كان يصلي من الليل‏\"‏ قال سالم‏:‏ فكان عبد الله بعد ذلك لا ينام إلا قليلا‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+      "english": {
+        "narrator": "",
+        "text": "Salim bin 'Abdullah bin 'Umar bin Al-Khattab (May Allah be pleased with them) reported, on the authority of his father, that the Messenger of Allah (ﷺ) said, \"What an excellent man 'Abdullah is! If only he could perform optional prayers at night.\" Salim said that after this, (his father) 'Abdullah slept very little at night.."
+      }
+    },
+    {
+      "id": 173,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن عبد الله بن عمرو بن العاص، رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏يا عبد الله لا تكن مثل فلان‏:‏ كان يقوم الليل فترك قيام الليل‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah bin 'Amr bin Al-'As (May Allah be pleased with them) reported:",
+        "text": "The Messenger of Allah (ﷺ) said to me, \"Do not be like so-and-so O 'Abdullah! He used to pray during the night, then stopped the practice.\"."
+      }
+    },
+    {
+      "id": 174,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن ابن مسعود رضي الله عنه ، قال‏:‏ ذكر عند النبي، صلى الله عليه وسلم رجل نام ليلة حتى أصبح‏!‏ قال‏:‏ ‏\n\"‏ذاك رجل بال الشيطان في أذنيه- أو قال‏:‏ في أذنه-‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah bin Mas'ud (May Allah be pleased with him) reported:",
+        "text": "Mention was made before the Prophet (ﷺ) of a man who slept throughout the night till morning. The Messenger of Allah (ﷺ) remarked, \"He is a man in whose ears Satan urinated.\".n"
+      }
+    },
+    {
+      "id": 175,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أبي هريرة رضي الله عنه، أن رسول الله صلى الله عليه وسلم ، قال‏:‏ ‏\n\"‏يعقد الشيطان على قافية، رأس أحدكم، إذا هو نام، ثلاث عقد، يضرب على كل عقدة‏:‏ عليك ليل طويل فارقد، فإن استيقظ أحدكم، فذكر الله تعالى انحلت عقدة، فإن توضأ انحلت عقدة، فإن صلى انحلت عقدة، فأصبح نشيطًا طيب النفس، وإلا أصبح خبيث النفس كسلان‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"When any one of you sleeps, Satan ties three knots at the back of his neck. He recites this incantation at every knot: 'You have a long night, so sleep.' If he awakes and remembers Allah, one knot is loosened. If he performs Wudu', the (second) knot is loosened; and if he performs prayer, (all) knots are loosened. He begins his morning in a happy and refreshed mood; otherwise, he gets up in bad spirits and sluggish state.\"."
+      }
+    },
+    {
+      "id": 176,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن عبد الله بن سلام، رضي الله عنه ، أن النبي، صلى الله عليه وسلم ،قال‏:‏ ‏\n\"‏أيها الناس أفشوا السلام، وأطعموا الطعام، وصلوا بالليل والناس نيام، تدخلوا الجنة بسلام‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "'Abdullah bin Salam (May Allah be pleased with him) reported:",
+        "text": "The Prophet (ﷺ) said, \"O people, promote the greetings, feed (the poor and needy) and perform Salat when others are asleep so that you will enter Jannah safely.\"."
+      }
+    },
+    {
+      "id": 177,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أبي هريرة، رضي الله عنه، قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏أفضل الصيام بعد رمضان شهر الله المحرم، وأفضل الصلاة بعد الفريضة صلاة الليل‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"The best month for observing Saum (fasting) after Ramadan is Muharram, and the best Salat after the prescribed Salat is Salat at night.\"."
+      }
+    },
+    {
+      "id": 178,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن ابن عمر رضي الله عنهما، أن النبي صلى الله عليه وسلم ، قال‏:‏ ‏\n\"‏صلاة الليل مثنى مثنى، فإذا خفت الصبح فأوتر بواحدة‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar (May Allah be pleased with them) reported:",
+        "text": "The Prophet (ﷺ) said, \"Salat during the night should consist of pairs of but if you fear that morning is near, then pray one Rak'ah as Witr.\"."
+      }
+    },
+    {
+      "id": 179,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعنه قال‏:‏ كان النبي صلى الله عليه وسلم ، يصلي من الليل مثنى مثنى، ويوتر بركعة‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar (May Allah be pleased with them) reported:",
+        "text": "The Prophet (ﷺ) performed the night prayer in pairs (i.e., Rak'ah) and made it odd number by observing one Rak'ah (as Witr).."
+      }
+    },
+    {
+      "id": 180,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أنس رضي الله عنه، قال‏:‏ كان رسول الله صلى الله عليه وسلم ، يفطر من الشهر حتى نظن أن  لا يصوم منه، ويصوم حتى نظن أن لا يفطر منه شيئًا، وكان لا تشاء أن تراه من الليل مصليا إلا رأيته، ولا نائمًا إلا رأيته‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Anas (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) used to leave off observing Saum (fasting) during a month until we thought that he would not observe Saum at all during it; and (sometimes) he would observe Saum till we began to think that he would not omit any day of that month. If one wished to see him performing Salat during the night, he could do that; and if one wished to see him sleeping at night, he could do that.."
+      }
+    },
+    {
+      "id": 181,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن عائشة رضي الله عنها، أن رسول الله صلى الله عليه وسلم، كان يصلي إحدى عشرة ركعة- تعني في الليل- يسجد السجدة من ذلك قدر ما يقرأ أحدكم خمسين آية قبل أن يرفع رأسه، ويركع ركعتين قبل صلاة الفجر، ثم يضطجع على شقه الأيمن حتى يأتيه المنادي للصلاة، ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "'Aishah (May Allah be pleased with her) reported:",
+        "text": "The Messenger of Allah (ﷺ) used to perform eleven Rak'ah (of Tahajjud) prayers at night. He (ﷺ) would prostrate so long as one of you might recite fifty Ayat (of the Qur'an). Thereafter, he would perform two Rak'ah before Fajr prayers and would lie down on his right side till the Mu'adhdhin would come and inform him about the time of (Fajr) prayer.."
+      }
+    },
+    {
+      "id": 182,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعنها قالت‏:‏ ما كان رسول الله صلى الله عليه وسلم ، يزيد- في رمضان ولا في غيره- على إحدي عشرة ركعة‏:‏ يصلي أربعًا فلا تسأل عن حسنهن وطولهن‏!‏ ثم يصلي أربعًا فلا تسأل عن حسنهن وطولهن‏!‏ ثم يصلي ثلاثًا‏.‏ فقلت‏:‏ يا رسول الله أتنام قبل أن توتر‏!‏‏؟‏ فقال‏:‏ ‏\n\"‏يا عائشة إن عيني تنامان ولا ينام قلبي‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "'Aishah (May Allah be pleased with her) reported:",
+        "text": "The Messenger of Allah (ﷺ) did not observe more than eleven Rak'ah (of Tahajjud prayers), be in Ramadan or any other month. First of all he would perform four Rak'ah. Ask not about their excellence and their length. He (ﷺ) would then perform four more Rak'ah; and do not ask about their excellence and their length. Then he would perform three Rak'ah (Witr prayer). ('Aishah (May Allah be pleased with her) added) I submitted: \"O Messenger of Allah! Do you sleep before performing the Witr prayer?\" He (ﷺ) said, \"O 'Aishah! My eyes sleep but my heart does not sleep.\"."
+      }
+    },
+    {
+      "id": 183,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعنها أن النبي صلى الله عليه وسلم، كان ينام أول الليل، ويقوم آخره فيصلي‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "'Aishah (May Allah be pleased with her) reported:",
+        "text": "The Prophet (ﷺ) would sleep during the early part of night and stand in Salat during the latter part.."
+      }
+    },
+    {
+      "id": 184,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن ابن مسعود رضي الله عنه، قال‏:‏ صليت مع النبي صلى الله عليه وسلم ، ليلة، فلم يزل قائمًا حتى هممت بأمر سوء‏.‏ قيل‏:‏ ما هممت‏؟‏ قال‏:‏ هممت أن أجلس وأدعه‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Mas'ud (May Allah be pleased with him) reported:",
+        "text": "One night I joined the Prophet (ﷺ) in his (optional) Salat. He (ﷺ) prolonged the Qiyam (standing) so much that I made up my mind to commit an act of wrong. He was questioned: \"What did you intend to do?\" He replied: \"I intended to sit down and stop following him (in Salat).\"."
+      }
+    },
+    {
+      "id": 185,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن حذيفة رضي الله عنه، قال‏:‏ صليت مع النبي صلى الله عليه وسلم ، ذات ليلة فافتتح البقرة، فقلت‏:‏ يركع عند المائة، ثم مضى، فقلت‏:‏ يصلي بها في ركعة، فمضي، فقلت‏:‏ يركع بها، ثم افتتح النساء فقرأها، ثم افتتح آل عمران، فقرأها، يقرأ مترسلا‏.‏ إذا مر بآية فيها تسبيح سبح، وإذا بسؤال سأل، وإذا مر بتعوذ تعوذ، ثم ركع، فجعل يقول‏:‏ سبحان ربي العظيم، فكان ركوعه نحوًا من قيامه، ثم قال‏:‏ سمع الله لمن حمده، ربنا لك الحمد، ثم قام طويلا قريبًا مما ركع، ثم سجد فقال‏:‏ سبحان ربي الأعلى، فكان سجوده قريبًا من قيامه‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Hudhaifah (May Allah be pleased with him) reported:",
+        "text": "I performed Salat with the Prophet (ﷺ) one night, and he started reciting Surat Al- Baqarah. I thought that he would go in Ruku' (bowing posture in Salat) at the end of one hundred Ayat, but he continued (reciting); and I thought that he would perhaps recite (this Surah) in the whole Rak'ah (prayer), but he continued the recitation; I thought he would perhaps bow on completing (this Surah). He (ﷺ) then started reciting Surat An-Nisa' which he followed with Surat Al-Imran. He recited leisurely. When he recited an Ayah which mentioned the tasbeeh, he would say Subhan Allah and when he recited the Ayah which tells how the Rubb is to be asked, the Messenger of Allah (ﷺ) would then ask from Him; and when he (ﷺ) recited an Ayah asking one to seek Protection Allah, he would seek Protection of Allah. Then he bowed and said, \"Subhana Rabbiyal-Azim (My Rubb the Great is free from imperfection)\"; his bowing lasted about the same length of time as his standing, (and then on returning to the standing posture after Ruku') he would say, \"Sami' Allahu liman hamidah, Rabbana lakal-hamd (Allah listens to him who praises Him. Praise be to You, Our Rubb!),\" and he would then stand about the same length of time as he had spent in bowing. He would then prostrate himself and say, \"Subhana Rabbiyal-A'la (My Rubb the Supreme is free from imperfection),\" and his prostration lasted nearly the same length of time as his standing (Qiyam).."
+      }
+    },
+    {
+      "id": 186,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن جابر رضي الله عنه قال‏:‏ سئل رسول الله صلى الله عليه وسلم ‏:‏ أي الصلاة أفضل‏؟‏ قال‏:‏ ‏\n\"‏طول القنوت‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Jabir (May Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) was asked: \"Which Salat is the best?\" He replied, \" The best Salat is that in which Qiyam (the duration of standing) is longer.\"."
+      }
+    },
+    {
+      "id": 187,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن عبد الله بن عمرو بن العاص، رضي الله عنهما، أن رسول الله صلى الله عليه وسلم ، قال‏:‏ ‏\n\"‏أحب الصلاة إلى الله صلاة داود، وأحب الصيام إلى الله صيام داود، كان ينام نصف الليل ويقوم ثلثه وينام سدسه ويصوم يومًا ويفطر يومًا‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah bin 'Amr (May Allah be pleased with them) reported:",
+        "text": "The Messenger of Allah (ﷺ) said, \"The Salat which is dearest to Allah is that of (Prophet) Dawud; and As-Saum (the fasting) which is dearest to Allah is that of (Prophet) Dawud. He used to sleep half the night, get up to perform Salat for one-third of it, then sleep through the remaining one-sixth of it; and he used to observe Saum on alternative days.\"."
+      }
+    },
+    {
+      "id": 188,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن جابر رضي اللله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم ، يقول‏:‏ ‏\n\"‏إن في الليل لساعة، لا يوافقها رجل مسلم يسأل الله تعالى خيرًا من أمر الدنيا والآخرة، إلا أعطاه إياه، وذلك كل ليلة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Jabir (May Allah be pleased with him) reported:",
+        "text": "I heard the Messenger of Allah (ﷺ) saying, \"Every night there is a special time during which whatever a Muslim asks Allah of any good relating to this life or the Hereafter, it will be granted to him; and this moment comes every night.\"."
+      }
+    },
+    {
+      "id": 189,
+      "chapterId": 8,
+      "bookId": 10,
+      "arabic": "وعن أبي هريرة رضي الله عنه، أن النبي صلى الله عليه وسلم، قال‏:‏ ‏\n\"‏إذا قام أحدكم من الليل فليفتتح الصلاة بركعتين خفيفتين‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+        "text": "The Prophet (ﷺ) said, \"When one of you gets up at night to perform (Tahajjud) prayer, let him start Salat with two short Rak'ah.\"."
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 65,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ سُفْيَانَ، حَدَّثَنَا مُحَمَّدُ بْنُ عُمَرَ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِذَا بَعَثْتَنِي أَكُونُ كَالسِّكَّةِ الْمُحْمَاةِ أَمْ الشَّاهِدُ يَرَى مَا لَا يَرَى الْغَائِبُ قَالَ الشَّاهِدُ يَرَى مَا لَا يَرَى الْغَائِبُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "I said: O Messenger of Allah (ﷺ), when you send me on a mission, should I go and do what you tell me to do (with no delay) or witness and find out what someone who is not there cannot find out? He said: `Witness and find out what someone who is not there cannot find out.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

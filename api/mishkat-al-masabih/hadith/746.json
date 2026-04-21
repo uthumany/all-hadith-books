@@ -1,0 +1,16 @@
+{
+  "id": 746,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَجْمَعُ بَين الظُّهْرِ وَالْعَصْر إِذَا كَانَ عَلَى ظَهْرِ سَيْرٍ وَيجمع بَين الْمغرب وَالْعشَاء. رَوَاهُ البُخَارِيّ",
+  "english": {
+    "narrator": "",
+    "text": "Ibn ‘Abbas said that God’s Messenger used to combine the noon and the afternoon prayer while travelling, and also to combine the sunset and the evening prayer. \n\nBukhari transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

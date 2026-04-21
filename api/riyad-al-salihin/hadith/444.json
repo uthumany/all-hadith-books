@@ -1,0 +1,16 @@
+{
+  "id": 444,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي سعيد الخدري، رضي الله عنه ، أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏إذا وضعت الجنازة واحتملها الناس أو الرجال على أعناقهم، فإن كانت صالحة قالت‏:‏ فدموني قدموني، وإن كانت غير صالحة، قالت يا ويلها‏!‏ أين تذهبون بها‏؟‏ يسمع صوته كل شئ إلا الإنسان، ولو سمعه صعق‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Sa'id Al-Khudri (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"When a dead body is placed on a bier and men carry it on their shoulders, if the deceased was pious, it (the corpse) will say: 'Take me in haste'; but if he was not, it will say (to its bearers): 'Woe to it. Where are you taking it?' Everything except man hears its voice. Had a human being heard its voice, he would have surely died\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

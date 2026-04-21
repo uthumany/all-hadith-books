@@ -1,0 +1,16 @@
+{
+  "id": 74,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حُمَيْدٍ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُخْتَارِ، عَنْ إِسْحَاقَ بْنِ رَاشِدٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَمَرَ بِسَدِّ الأَبْوَابِ إِلاَّ بَابَ أَبِي بَكْرٍ ‏.‏ هَذَا حَدِيثٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏.‏ وَفِي الْبَابِ عَنْ أَبِي سَعِيدٍ ‏.‏",
+  "english": {
+    "narrator": "Narrated 'Aishah:",
+    "text": "that the Prophet (ﷺ) ordered the closing of all the gates, except for the gate of Abu Bakr. And there is a narration on this topic from Abu Sa'eed."
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 110,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" خَالِفُوا الْمُشْرِكِينَ: أَوْفِرُوا اللِّحَى وَأَحْفُوا الشَّوَارِبَ \". وَفِي رِوَايَةٍ: «أنهكوا الشَّوَارِب وأعفوا اللحى»",
+  "english": {
+    "narrator": "",
+    "text": "Ibn ‘Umar reported God’s messenger as saying, \"Do the opposite of what the polytheists do ; let the beard grow long and clip the moustache.” A version has, “Cut the moustache down and leave the beard.” \n(Bukhari and Muslim.)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

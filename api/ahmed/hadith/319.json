@@ -1,0 +1,16 @@
+{
+  "id": 319,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ كُنْتُ رَجُلًا مَذَّاءً فَسَأَلْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ فِيهِ الْوُضُوءُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abdur-Rahman bin Abi Laila said:",
+    "text": "I heard ‘Ali (رضي الله عنه) say: I was a man who emitted a lot of madhi. I asked the Prophet (ﷺ)  and he said: `Wudoo’ should be done for that.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

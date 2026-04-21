@@ -1,0 +1,16 @@
+{
+  "id": 210,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا هَنَّادٌ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقِ بْنِ سَلَمَةَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خُذُوا الْقُرْآنَ مِنْ أَرْبَعَةٍ مِنِ ابْنِ مَسْعُودٍ وَأُبَىِّ بْنِ كَعْبٍ وَمُعَاذِ بْنِ جَبَلٍ وَسَالِمٍ مَوْلَى أَبِي حُذَيْفَةَ ‏\"‏ ‏. هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated 'Abdullah bin 'Amr:",
+    "text": "that the Messenger of Allah (ﷺ) said: \"Take the Qur'an from four: From Ibn Mas'ud, Ubayy bin Ka'b, Mu'adh bin Jabal, and Salim the freed slave of Abu Hudhaifah.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

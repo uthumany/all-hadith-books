@@ -1,0 +1,510 @@
+{
+  "page": 4,
+  "perPage": 50,
+  "totalPages": 36,
+  "totalCount": 1767,
+  "nextPage": 5,
+  "prevPage": 3,
+  "items": [
+    {
+      "id": 151,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ تَحْتَ كُلِّ شَعْرَةٍ جَنَابَةً, فَاغْسِلُوا اَلشَّعْرَ, وَأَنْقُوا اَلْبَشَرَ }  رَوَاهُ أَبُو دَاوُدَ, وَاَلتِّرْمِذِيُّ وَضَعَّفَاه ُ  1‏ .‏‏1 ‏- منكر.‏ رواه أبو داود (248)‏، والترمذي (106)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RAA):",
+        "text": "Allah's Messenger (Peace be upon him) said: \"There is Janabah (trace of sexual impurity) under every hair, so wash your hair and cleanse the skin.\"\nAbu Dawud and at-Tirmidhi transmitted it but they declared it to be weak."
+      }
+    },
+    {
+      "id": 152,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَلِأَحْمَدَ عَنْ عَائِشَةَ نَحْوُهُ, وَفِيهِ رَاوٍ مَجْهُول ٌ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أحمد (654)‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ahmad transmitted a similar narration to the above, on the authority of `A'ishah (RAA), but this version has an unknown transmitter."
+      }
+    },
+    {
+      "id": 153,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "عَنْ جَابِرِ بْنِ عَبْدِ اَللَّهِ رَضِيَ اَللَّهُ عَنْهُمَا; أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ: { أُعْطِيتُ خَمْسًا لَمْ يُعْطَهُنَّ أَحَدٌ قَبْلِي: نُصِرْتُ بِالرُّعْبِ مَسِيرَةَ شَهْرٍ, وَجُعِلَتْ لِي اَلْأَرْضُ مَسْجِدًا وَطَهُورًا, فَأَيُّمَا رَجُلٍ أَدْرَكَتْهُ اَلصَّلَاةُ فَلْيُصَلِّ }  وَذَكَرَ اَلْحَدِيث َ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (335)‏، ومسلم (521)‏ وتمامه: \"وأحلت لي المغانم ولم تحل لأحد قبلي، وأعطيت الشفاعة، وكان النبي يبعث إلى قومه خاصة، وبعثت إلى الناس عامة\" والسياق للبخاري.‏ تنبيه: هكذا الحديث في الأصل دون ذكر من أخرجه وكتب بالهامش: لعله سقط \"متفق عليه\".‏",
+      "english": {
+        "narrator": "Narrated Jabir bin 'Abdullah (RAA):",
+        "text": "The Prophet (ﷺ) said: \"I have been given five things which were not given to anyone else before me. Allah made me victorious by awe (of frightening my enemies) for a distance of one month's journey. The earth has been made for me (and my followers) a place for praying and something with which to perform Tayammum (to purify oneself for prayer). Therefore, anyone (of my followers) can pray (anywhere) and at any time that the Salat (prayer) is due.\""
+      }
+    },
+    {
+      "id": 154,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَفِي حَدِيثِ حُذَيْفَةَ عِنْدَ مُسْلِمٍ: { وَجُعِلَتْ تُرْبَتُهَا لَنَا طَهُورًا, إِذَا لَمْ نَجِدِ اَلْمَاءَ }   1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (522)‏، وأوله: \"فضلنا على الناس بثلاث: جعلت صفوفنا كصفوف الملائكة، وجعلت.‏.‏.‏\" الحديث.‏",
+      "english": {
+        "narrator": "In another narration by Hudhaifah (RAA):",
+        "text": "\"And the soil of the earth had been made for us as a means with which to purify ourselves (for prayer), when we cannot find water.\"\nRelated by Muslim."
+      }
+    },
+    {
+      "id": 155,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَلِيٍّ ‏- رضى الله عنه ‏- عِنْدَ أَحْمَدَ: { وَجُعِلَ اَلتُّرَابُ لِي طَهُورًا }   1‏ .‏‏1 ‏- حسن.‏ رواه أحمد (763)‏ وتمام لفظه: \"أعطيت ما لم يعط أحد من الأنبياء\" فقلنا: يا رسول الله! ما هو؟ قال: \"نصرت بالرعب، وأعطيت مفاتيح الأرض، وسميت: أحمد، وجعل التراب لي طهورا، وجعلت أمتي خير الأمم\".‏",
+      "english": {
+        "narrator": "Ahmad transmitted on the authority of `Ali (RAA):",
+        "text": "\"The earth (dust) has been made for me as a means for purification.\""
+      }
+    },
+    {
+      "id": 156,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَمَّارِ بْنِ يَاسِرٍ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: { بَعَثَنِي اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-فِي حَاجَةٍ, فَأَجْنَبْتُ, فَلَمْ أَجِدِ اَلْمَاءَ, فَتَمَرَّغْتُ فِي اَلصَّعِيدِ كَمَا تَمَرَّغُ اَلدَّابَّةُ, ثُمَّ أَتَيْتُ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-فَذَكَرْتُ ذَلِكَ لَهُ, فَقَالَ: \n\"إِنَّمَا كَانَ يَكْفِيكَ أَنْ تَقُولَ بِيَدَيْكَ هَكَذَا\" ثُمَّ ضَرَبَ بِيَدَيْهِ اَلْأَرْضَ ضَرْبَةً وَاحِدَةً, ثُمَّ مَسَحَ اَلشِّمَالَ عَلَى اَلْيَمِينِ, وَظَاهِرَ كَفَّيْهِ وَوَجْهَهُ }  مُتَّفَقٌ عَلَيْهِ, وَاللَّفْظُ لِمُسْلِم ٍ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (347)‏، ومسلم (368)‏.‏",
+      "english": {
+        "narrator": "Narrated `Ammar bin Yasir (RAA):",
+        "text": "The Prophet (ﷺ) sent me on some errands and I became junub (sexually impure), and could not find water. I rolled myself in the dirt just as an animal does. I then came to the Prophet (ﷺ) and mentioned that to him. He said, \"This would have been enough for you,\" and he struck the earth with his hands once, then he wiped the right hand with the left one, and the outside of the palms of his hands and his face.\n."
+      }
+    },
+    {
+      "id": 157,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةٍ لِلْبُخَارِيِّ: وَضَرَبَ بِكَفَّيْهِ اَلْأَرْضَ, وَنَفَخَ فِيهِمَا, ثُمَّ مَسَحَ بِهِمَا وَجْهَهُ وَكَفَّيْه ِ  1‏ .‏‏1 ‏- البخاري رقم (338)‏.‏",
+      "english": {
+        "narrator": "In a version by Al-Bukhari, `Ammar said:",
+        "text": "'He (ﷺ) struck the earth with the palms of his hands, blew in them and wiped his face and hands with them."
+      }
+    },
+    {
+      "id": 158,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنِ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ التَّيَمُّمُ ضَرْبَتَانِ ضَرْبَةٌ لِلْوَجْهِ, وَضَرْبَةٌ لِلْيَدَيْنِ إِلَى اَلْمِرْفَقَيْنِ }  رَوَاهُ اَلدَّارَقُطْنِيُّ, وَصَحَّحَ اَلْأَئِمَّةُ وَقْفَه ُ  1‏ .‏‏1 ‏- ضعيف جدا.‏ رواه الدارقطني (1806)‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Umar (RAA):",
+        "text": "Allah’s Messenger (ﷺ) said: \"Tayammum is two strikes: one for the face and one for the hands up to the elbows.\"\nReported by Ad-Daraqutni"
+      }
+    },
+    {
+      "id": 159,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلصَّعِيدُ وُضُوءُ اَلْمُسْلِمِ, وَإِنْ لَمْ يَجِدِ اَلْمَاءَ عَشْرَ سِنِينَ, فَإِذَا وَجَدَ اَلْمَاءَ فَلْيَتَّقِ اَللَّهَ, وَلْيُمِسَّهُ بَشَرَتَهُ }  رَوَاهُ اَلْبَزَّارُ, وَصَحَّحَهُ اِبْنُ اَلْقَطَّانِ, ]و] لَكِنْ صَوَّبَ اَلدَّارَقُطْنِيُّ إِرْسَالَه ُ  1‏ .‏‏1 ‏- صحيح.‏ رواه البزار (310 زوائد)‏ وما بعده يشهد له.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RAA):",
+        "text": "Allah’s Messenger (ﷺ) said: \"The soil is a purifier for a Muslim, even if he does not find water for ten years; but if he finds water, he must fear Allah and let it touch his skin.\""
+      }
+    },
+    {
+      "id": 160,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَلِلتِّرْمِذِيِّ: عَنْ أَبِي ذَرٍّ نَحْوُهُ, وَصَحَّحَه ُ  1‏ .‏‏1 ‏- صحيح.‏ رواه الترمذي (124)‏ ولفظه: \"إن الصعيد الطيب طهور المسلم، وإن لم يجد الماء عشر سنين، فإذا وجد الماء فليمسه بشرته؛ فإن ذلك خير\" وقال: \"حديث حسن صحيح\".‏",
+      "english": {
+        "narrator": "Narrated Abu Dharr (RAA):",
+        "text": "a similar Hadith transmitted by at-Tirmidhi"
+      }
+    },
+    {
+      "id": 161,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ ‏- رضى الله عنه ‏- قَالَ: { خَرَجَ رَجُلَانِ فِي سَفَرٍ, فَحَضَرَتْ اَلصَّلَاةَ ‏-وَلَيْسَ مَعَهُمَا مَاءٌ‏- فَتَيَمَّمَا صَعِيدًا طَيِّبًا, فَصَلَّيَا, ثُمَّ وَجَدَا اَلْمَاءَ فِي اَلْوَقْتِ.‏ فَأَعَادَ أَحَدُهُمَا اَلصَّلَاةَ وَالْوُضُوءَ, وَلَمْ يُعِدِ اَلْآخَرُ, ثُمَّ أَتَيَا رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-فَذَكَرَا ذَلِكَ لَهُ, فَقَالَ لِلَّذِي لَمْ يُعِدْ: \"أَصَبْتَ اَلسُّنَّةَ وَأَجْزَأَتْكَ صَلَاتُكَ\" وَقَالَ لِلْآخَرِ: \"لَكَ اَلْأَجْرُ مَرَّتَيْنِ\" }  رَوَاهُ أَبُو دَاوُدَ, ]و] النَّسَائِيّ ُ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (338)‏، والنسائي (113)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa'id al-Khudri (RAA):",
+        "text": "Two men set out on a journey and when the time of Salat (prayer) came they had no water. They performed Tayammum with clean earth and prayed. Later on they found water within the time of the prayer.  One of them repeated his prayer with ablution but the other did not repeat. Then they came to Allah's Messenger (ﷺ), and related the matter to him. Addressing himself to the one who did not repeat, he said, \"You followed the Sunnah and your (first) prayer was enough for you.\" He said to the one who performed ablution and repeated: \"For you there is a double reward\".\n"
+      }
+    },
+    {
+      "id": 162,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا فِي قَوْلِهِ عَزَّ وَجَلَّ ﴿ وَإِنْ كُنْتُمْ مَرْضَى أَوْ عَلَى سَفَرٍ  ﴾ 1‏ قَالَ: \n\"إِذَا كَانَتْ بِالرَّجُلِ اَلْجِرَاحَةُ فِي سَبِيلِ اَللَّهِ وَالْقُرُوحُ, فَيُجْنِبُ, فَيَخَافُ أَنْ يَمُوتَ إِنْ اِغْتَسَلَ: تَيَمَّمَ\" .‏ رَوَاهُ اَلدَّارَقُطْنِيُّ مَوْقُوفًا, وَرَفَعَهُ اَلْبَزَّارُ, وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ, وَالْحَاكِم ُ  2‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (338)‏، والنسائي (113)‏.‏‏2 ‏- ضعيف موقوفا، ومرفوعا.‏ والموقوف رواه الدار قطني (177/9)‏.‏ والمرفوع رواه ابن خزيمة (272)‏، والحاكم (165)‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas (RAA):",
+        "text": "concerning the verse, “And if you are ill or on a journey...” (an-Nisa': 43). He said, \"If a man sustains a wound, which he suffered during Jihad (in the cause of Allah) or ulcers, then he became junub (sexually impure) and is afraid that if he bathes he would die; he may perform ablution with clean earth (Tayammum).\n."
+      }
+    },
+    {
+      "id": 163,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَلِيٍّ ‏- رضى الله عنه ‏- قَالَ: { اِنْكَسَرَتْ إِحْدَى زَنْدَيَّ فَسَأَلَتْ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-فَأَمَرَنِي أَنْ أَمْسَحَ عَلَى اَلْجَبَائِرِ }  رَوَاهُ اِبْنُ مَاجَه بِسَنَدٍ وَاهٍ جِدًّ ا  1‏ .‏‏1 ‏- موضوع.‏ رواه ابن ماجه (657)‏.‏",
+      "english": {
+        "narrator": "Narrated `Ali (RAA):",
+        "text": "One of my forearms was broken. Then I consulted Allah's Messenger (Peace be upon him) and he ordered me to wipe over the bandages.\n."
+      }
+    },
+    {
+      "id": 164,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "{ وَعَنْ جَابِرٍ]بْنُ عَبْدِ اَللَّهِ] رَضِيَ اَللَّهُ عَنْهُمَا فِي اَلرَّجُلِ اَلَّذِي شُجَّ, فَاغْتَسَلَ فَمَاتَ ‏-: \"إِنَّمَا كَانَ يَكْفِيهِ أَنْ يَتَيَمَّمَ, وَيَعْصِبَ عَلَى جُرْحِهِ خِرْقَةً, ثُمَّ يَمْسَحَ عَلَيْهَا وَيَغْسِلَ سَائِرَ جَسَدِهِ\" }  رَوَاهُ أَبُو دَاوُدَ بِسَنَدٍ فِيهِ ضَعْفٌ, وَفِيهِ اِخْتِلَافٌ عَلَى رُوَاتِه ِ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أبو داود (336)‏ من حديث جابر، قال: خرجنا في سفر، فأصاب رجلا منا حجر فشجه في رأسه، ثم احتلم، فسأل أصحابه، فقال: هل تجدون لي رخصة في التيمم؟ فقالوا: ما نجد لك رخصة وأنت تقدر على الماء، فاغتسل فمات، فلما قدمنا على النبي صلى الله عليه وسلم أخبر بذلك، فقال: \"قتلوه قتلهم الله، ألا سألوا إذ لم يعلموا، فإنما شفاه العي السؤال، .‏.‏.‏\" الحديث.‏ وإطلاق التحسين على الحديث لأن له شواهد كما في \"جامع الأصول\" (764)‏ فهو من باب الخطأ، إذ الشواهد إنما تشهد للقدر الذي ذكرته فقط هنا، وأما القدر الذي ذكره الحافظ ‏-وهو محل الشاهد‏- فيبقي على ضعفه.‏ والله أعلم.‏",
+      "english": {
+        "narrator": "Narrated Jabir bin 'Abdullah (RAA):",
+        "text": "concerning the man who had a head injury, and then he made Ghusl and died: Allah's Messenger Peace be upon him said, \"It would have been enough for him to perform Tayammum and wrap it with something and wipe over the wrapping and wash the rest of his body.\"\n"
+      }
+    },
+    {
+      "id": 165,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: { مِنْ اَلسُّنَّةِ أَنْ لَا يُصَلِّيَ اَلرَّجُلُ بِالتَّيَمُّمِ إِلَّا صَلَاةً وَاحِدَةً, ثُمَّ يَتَيَمَّمُ لِلصَّلَاةِ اَلْأُخْرَى }  رَوَاهُ اَلدَّارَقُطْنِيُّ بِإِسْنَادٍ ضَعِيفٍ جِدًّ ا  1‏ .‏‏1 ‏- ضعيف جدا.‏ رواه الدارقطني (185)‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas (RAA):",
+        "text": "It is from the Sunnah of the Prophet (ﷺ) for the man to pray only one prayer with each Tayammum, and then perform Tayammum for the next prayer.\n"
+      }
+    },
+    {
+      "id": 166,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "عَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { إِنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ كَانَتْ تُسْتَحَاضُ, فَقَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-\n\"إِنَّ دَمَ اَلْحَيْضِ دَمٌ أَسْوَدُ يُعْرَفُ, فَإِذَا كَانَ ذَلِكَ فَأَمْسِكِي مِنَ اَلصَّلَاةِ, فَإِذَا كَانَ اَلْآخَرُ فَتَوَضَّئِي, وَصَلِّي\" }  رَوَاهُ أَبُو دَاوُدَ, وَالنَّسَائِيُّ, وَصَحَّحَهُ اِبْنُ حِبَّانَ, وَالْحَاكِمُ, وَاسْتَنْكَرَهُ أَبُو حَاتِم ٍ  1‏ .‏‏1 ‏- حسن.‏ رواه أبو داود (286)‏، والنسائي (185)‏، وابن حبان (1348)‏، والحاكم (174)‏ وزادوا خلا ابن حبان: \"فإنما هو عرق\".‏",
+      "english": {
+        "narrator": "Narrated `A'ishah (RAA):",
+        "text": "Fatima bint Abu Hubaish used to have a prolonged flow of blood (Istihadah) and so Allah’s Messenger (Peace be upon him)· told her, \"If it is the blood of menstruation it will be dark (almost black) and recognizable (by women). If it is that, then leave the prayer. If it is other than that, then make ablution and pray.\"\n"
+      }
+    },
+    {
+      "id": 167,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَفِي حَدِيثِ أَسْمَاءَ بِنْتِ عُمَيْسٍ عِنْدَ أَبِي دَاوُدَ: { لِتَجْلِسْ فِي مِرْكَنٍ, فَإِذَا رَأَتْ صُفْرَةً فَوْقَ اَلْمَاءِ, فَلْتَغْتَسِلْ لِلظُّهْرِ وَالْعَصْرِ غُسْلاً وَاحِدًا, وَتَغْتَسِلْ لِلْمَغْرِبِ وَالْعِشَاءِ غُسْلاً وَاحِدًا, وَتَغْتَسِلْ لِلْفَجْرِ غُسْلاً, وَتَتَوَضَّأْ فِيمَا بَيْنَ ذَلِكَ }   1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (296)‏، عن أسماء بنت عميس، قالت: قلت: يا رسول الله.‏ إن فاطمة بنت أبي حبيش استحيضت منذ كذا وكذا، فلم تصل، فقال رسول الله صلى الله عليه وسلم: \"سبحان الله! هذا من الشيطان، لتجلس.‏.‏.‏\" الحديث.‏",
+      "english": {
+        "narrator": "In the narration of Asma bint ‘Umais, Abu Dawud transmitted, (the Prophet Peace be upon him said:",
+        "text": ") \"She should sit in a tub, and if she sees yellowness appearing (on top of the water) she should wash (three times), once for the Dhuhr and Asr prayers, and once for the Maghrib and Isha prayers, and once for the Fajr prayer, and she should then perform ablution in between those times.\""
+      }
+    },
+    {
+      "id": 168,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ حَمْنَةَ بِنْتِ جَحْشٍ قَالَتْ: { كُنْتُ أُسْتَحَاضُ حَيْضَةً كَبِيرَةً شَدِيدَةً, فَأَتَيْتُ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-أَسْتَفْتِيهِ, فَقَالَ: \"إِنَّمَا هِيَ رَكْضَةٌ مِنَ اَلشَّيْطَانِ, فَتَحَيَّضِي سِتَّةَ أَيَّامٍ, أَوْ سَبْعَةً, ثُمَّ اِغْتَسِلِي, فَإِذَا اسْتَنْقَأْتِ فَصَلِّي أَرْبَعَةً وَعِشْرِينَ, أَوْ ثَلَاثَةً وَعِشْرِينَ, وَصُومِي وَصَلِّي, فَإِنَّ ذَلِكَ يُجْزِئُكَ, وَكَذَلِكَ فَافْعَلِي كَمَا تَحِيضُ اَلنِّسَاءُ, فَإِنْ قَوِيتِ عَلَى أَنْ تُؤَخِّرِي اَلظُّهْرَ وَتُعَجِّلِي اَلْعَصْرَ, ثُمَّ تَغْتَسِلِي حِينَ تَطْهُرِينَ وَتُصَلِّينَ اَلظُّهْرَ وَالْعَصْرِ جَمِيعًا, ثُمَّ تُؤَخِّرِينَ اَلْمَغْرِبَ وَتُعَجِّلِينَ اَلْعِشَاءِ, ثُمَّ تَغْتَسِلِينَ وَتَجْمَعِينَ بَيْنَ اَلصَّلَاتَيْنِ, فَافْعَلِي.‏ وَتَغْتَسِلِينَ مَعَ اَلصُّبْحِ وَتُصَلِّينَ.‏ قَالَ: وَهُوَ أَعْجَبُ اَلْأَمْرَيْنِ إِلَيَّ }  رَوَاهُ اَلْخَمْسَةُ إِلَّا النَّسَائِيَّ, وَصَحَّحَهُ اَلتِّرْمِذِيُّ, وَحَسَّنَهُ اَلْبُخَارِيّ ُ  1‏ .‏‏1 ‏- حسن.‏ رواه أبو داود (287)‏، والترمذي (128)‏، وابن ماجه (627)‏، وأحمد (6 /439)‏.‏",
+      "english": {
+        "narrator": "Narrated Hamnah bint Jahsh:",
+        "text": "'I had a very strong prolonged flow of blood. I went to the Prophet (Peace be upon him) to ask him about it. He said, \"This is a strike from Satan. So observe your menses for six or seven days, then perform Ghusl until you see that you are clean. Pray for twenty-four or twenty-three nights and days and fast, and that will suffice you. Do so every month just as the other women menstruate  (and are purified).  But if you are strong enough to delay the Dhuhr prayer and advance the Asr prayer, then make Ghusl when your purified and combine the Dhuhr and the Asr prayers together; then delay the Maghrib prayer and advance the Isha prayer, and perform Ghusl and combine the two prayers, do so. Do so, and then wash at dawn and pray Fajr. This is how you may pray and fast if you have the ability to do so.\" And he said, \"That is the more preferable way to me.\"\n"
+      }
+    },
+    {
+      "id": 169,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا; { أَنَّ أُمَّ حَبِيبَةَ بِنْتَ جَحْشٍ شَكَتْ إِلَى رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-اَلدَّمَ, فَقَالَ: \n\"اُمْكُثِي قَدْرَ مَا كَانَتْ تَحْبِسُكِ حَيْضَتُكِ, ثُمَّ اِغْتَسِلِي\" فَكَانَتْ تَغْتَسِلُ كُلَّ صَلَاةٍ }  رَوَاهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (334)‏ (66)‏.‏",
+      "english": {
+        "narrator": "Narrated `A'ishah (RAA):",
+        "text": "Umm Habiba bint Jahsh complained to Allah's Messenger (Peace be upon him) about a prolonged flow of blood. He said to her, \"Keep away (from prayer) as long as your normal period used to prevent you (from praying), and afterwards she should perform Ghusl (and pray)\". (She used to take a bath for every prayer).\n"
+      }
+    },
+    {
+      "id": 170,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةٍ لِلْبُخَارِيِّ: { وَتَوَضَّئِي لِكُلِّ صَلَاةٍ }  وَهِيَ لِأَبِي دَاوُدَ وَغَيْرِهِ مِنْ وَجْهٍ آخَرَ.‏",
+      "english": {
+        "narrator": "In another version by Al-Bukhari, he (ﷺ) said:",
+        "text": "\"And perform ablution for every Salat (prayer)\". Abu Dawud and others transmitted a similar narration."
+      }
+    },
+    {
+      "id": 171,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أُمِّ عَطِيَّةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { كُنَّا لَا نَعُدُّ اَلْكُدْرَةَ وَالصُّفْرَةَ بَعْدَ اَلطُّهْرِ شَيْئًا }  رَوَاهُ اَلْبُخَارِيُّ, وَأَبُو دَاوُدَ وَاللَّفْظُ لَه ُ  1‏ .‏‏1 ‏- صحيح.‏ وهو موقوف.‏ رواه البخاري (326)‏، وأبو داود (307)‏.‏",
+      "english": {
+        "narrator": "Narrated Umm `Atiyah (RAA):",
+        "text": "After we were pure, we did not consider the yellow or muddy discharge to be anything (i.e. of the menses blood)\n."
+      }
+    },
+    {
+      "id": 172,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- { أَنَّ اَلْيَهُودَ كَانُوا إِذَا حَاضَتْ اَلْمَرْأَةُ لَمْ يُؤَاكِلُوهَا, فَقَالَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-\n\"اِصْنَعُوا كُلَّ شَيْءٍ إِلَّا اَلنِّكَاحَ\" }  رَوَاهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (302)‏ ولفظه: عن أنس؛ أن اليهود كانوا إذا حاضت المرأة فيهم، لم يؤاكلوها، ولم يجامعوهن في البيوت، فسأل أصحاب النبي صلى الله عليه وسلم النبي صلى الله عليه وسلم، فأنزل الله تعالى: ويسألونك عن المحيض قل هو أذى فاعتزلوا النساء في المحيض إلى آخر الآية فقال رسول الله صلى الله عليه وسلم: \" اصنعوا كل شيء إلا النكاح\" فبلغ ذلك اليهود، فقالوا: ما يريد هذا الرجل أن يدع من أمرنا شيئا إلا خالفنا فيه.‏ فجاء أسيد بن حضير وعباد بن بشر فقالا: يا رسول الله! إن اليهود تقول: كذا وكذا.‏ فلا نجامعهن؟ فتغير وجه رسول الله صلى الله عليه وسلم حتى ظننا أن قد وجد عليهما، فخرجا، فاستقبلهما هدية من لبن إلى النبي صلى الله عليه وسلم، فأرسل في آثارهما، فسقاهما، فعرفا أن لم يجد عليهما.‏ ومعنى \"وجد\": غضب.‏",
+      "english": {
+        "narrator": "Narrated Anas (RAA):",
+        "text": "The Jews used not to eat with a woman during her menstruation period, so the Prophet (Peace be upon him) said: \"Do every thing else apart from sexual intercourse (with your wives)\".\n"
+      }
+    },
+    {
+      "id": 173,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَأْمُرُنِي فَأَتَّزِرُ, فَيُبَاشِرُنِي وَأَنَا حَائِضٌ }  مُتَّفَقٌ عَلَيْه ِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (300)‏، ومسلم (293)‏، واللفظ للبخاري.‏",
+      "english": {
+        "narrator": "Narrated `A'ishah (RAA):",
+        "text": "When I was menstruating, the Prophet saws would order me to wrap myself up (with an Izar, which is a dress worn below the waist) and would start fondling me.\nReported by Al-Bukhari and Muslim."
+      }
+    },
+    {
+      "id": 174,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنِ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا, عَنِ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-‏-فِي اَلَّذِي يَأْتِي اِمْرَأَتَهُ وَهِيَ حَائِضٌ‏- قَالَ: { يَتَصَدَّقُ بِدِينَارٍ, أَوْ نِصْفِ دِينَارٍ }  رَوَاهُ اَلْخَمْسَةُ, وَصَحَّحَهُ اَلْحَاكِمُ وَابْنُ اَلْقَطَّانِ, وَرَجَّحَ غَيْرَهُمَا وَقْفَه ُ  1‏ .‏‏1 ‏- صحيح مرفوعا.‏ باللفظ الذي ذكره الحافظ فقط.‏ رواه أبو داود (264)‏، والنسائي (153)‏، والترمذي (136)‏، وابن ماجه (640)‏، وأحمد (172)‏، والحاكم (172)‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas (RAA):",
+        "text": "Allah's Messenger (Peace be upon him) said regarding a husband who has sexual intercourse with his wife during her menstruation period, \"He must pay a Dinar or half a Dinar in way of charity.”\n"
+      }
+    },
+    {
+      "id": 175,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ أَلَيْسَ إِذَا حَاضَتْ لَمْ تُصَلِّ وَلَمْ تَصُمْ? }  مُتَّفَقٌ عَلَيْهِ فِي حَدِيث ٍ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (304)‏، وهو بتمامه: عن أبي سعيد الخدري، قال: خرج رسول الله صلى الله عليه وسلم في أضحى أو فطر إلى المصلي، فمر على النساء فقال: \"يا معشر النساء تصدقن، فإني أريتكن أكثر أهل النار\" فقلن: وبم يا رسول الله؟ قال: \"تكثرن اللعن، وتكفرن العشير، ما رأيت من ناقصات عقل ودين وأذهب للب الرجل الحازم من إحداكن\" قلن: وما نقصان ديننا وعقلنا يا رسول الله؟ قال: \"أليس شهادة المرأة مثل نصف شهادة الرجل؟\" قلن: بلى.‏ قال: \"فذلك من نقصان عقلها\".‏ \"أليس إذا حاضت لم تصل ولم تصم\" قلن: بلى.‏ قال: \"فذلك من نقصان دينها\".‏ وأما مسلم فقد ساق سنده برقم (80)‏ ولم يسق لفظه، وأعاده (889)‏ بلفظ آخر ليس فيه محل الشاهد، ولذلك يدخل هذا الحديث في أوهام الحافظ رحمه الله.‏ ثم رأيته قال في \"النكت الظراف\" (3 /440)‏: \"والواقع أن مسلما لم يسق لفظه أصلا!!.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa'id al-Khudri (RAA):",
+        "text": "Allah's Messenger (Peace be upon him) said: \"Is it not the case that when a woman menstruates, she neither prays nor fasts?\"\n"
+      }
+    },
+    {
+      "id": 176,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { لَمَّا جِئْنَا سَرِفَ حِضْتُ, فَقَالَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-\n\"اِفْعَلِي مَا يَفْعَلُ اَلْحَاجُّ, غَيْرَ أَنْ لَا تَطُوفِي بِالْبَيْتِ حَتَّى تَطْهُرِي\" }  مُتَّفَقٌ عَلَيْهِ فِي حَدِيث ٍ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (305)‏، ومسلم (1211)‏ (120)‏.‏",
+      "english": {
+        "narrator": "Narrated `A'ishah (RAA):",
+        "text": "When we came to a place called Sarif, I menstruated and the Prophet (Peace be upon him) told me, \"You should perform all that a pilgrim would do, except circumambulation until you are pure (i.e. performed Ghusl).\"\n"
+      }
+    },
+    {
+      "id": 177,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ مُعَاذٍ ‏- رضى الله عنه ‏- { أَنَّهُ سَأَلَ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-مَا يَحِلُّ لِلرَّجُلِ مِنِ اِمْرَأَتِهِ, وَهِيَ حَائِضٌ? قَالَ: \n\"مَا فَوْقَ اَلْإِزَارِ\" }  رَوَاهُ أَبُو دَاوُدَ وَضَعَّفَه ُ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (213)‏ وتضعيف أبي داود رحمه الله في محله، ولكنه ينصب على حديث معاذ، إذ إسناده ضعيف، وفيه زيادة وهي قوله: \"والتعفف عن ذلك أفضل\" وهي زيادة منكرة.‏ وتصحيحي للحديث إنما هو للجملة التي ذكرها الحافظ فقط، إذ يوجد ما يشهد لها كما هو مذكور \"بالأصل\".‏ والله أعلم.‏",
+      "english": {
+        "narrator": "Narrated Mu'adh Ibn Jabal (RAA):",
+        "text": "He asked the Prophet (Peace be upon him), “What is lawful for a man regarding his wife when she is menstruating?\" and he replied, \"What is above the waist wrapper (Izar).”\n"
+      }
+    },
+    {
+      "id": 178,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أُمِّ سَلَمَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { كَانَتِ اَلنُّفَسَاءُ تَقْعُدُ فِي عَهْدِ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-بَعْدَ نِفَاسِهَا أَرْبَعِينَ }  رَوَاهُ اَلْخَمْسَةُ إِلَّا النَّسَائِيَّ, وَاللَّفْظُ لِأَبِي دَاوُد َ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أبو داود (311)‏، والترمذي (139)‏، وابن ماجه (648)‏، وأحمد (6/300)‏ وقال الترمذي: \"غريب\".‏",
+      "english": {
+        "narrator": "Narrated Umm Salamah (RAA):",
+        "text": "During the lifetime of the Prophet (Peace be upon him) the women having bleeding after delivery (postnatal or puerperal blood) would refrain (from prayer) for forty days.\n."
+      }
+    },
+    {
+      "id": 179,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَفِي لَفْظٍ لَهُ: { وَلَمْ يَأْمُرْهَا اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-بِقَضَاءِ صَلَاةِ اَلنِّفَاسِ }  وَصَحَّحَهُ اَلْحَاكِم ُ  1‏ .‏‏1 ‏- ضعيف.‏ كسابقه، وهو عند أبي داود (312)‏، والحاكم (175)‏.‏",
+      "english": {
+        "narrator": "In another version of Abu Da’ud:",
+        "text": "\"The Prophet (Peace be upon him) did not command her to repeat the prayers (missed during the period of bleeding).\""
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "عَنْ عَبْدِ اَللَّهِ بْنِ عَمْرِوٍ رَضِيَ اَللَّهُ عَنْهُمَا; أَنَّ نَبِيَّ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { وَقْتُ اَلظُّهْرِ إِذَا زَالَتْ اَلشَّمْسُ,  وَكَانَ ظِلُّ اَلرَّجُلِ كَطُولِهِ  مَا لَمْ يَحْضُرْ اَلْعَصْرُ,  وَوَقْتُ اَلْعَصْرِ مَا لَمْ تَصْفَرَّ اَلشَّمْسُ,  وَوَقْتُ صَلَاةِ اَلْمَغْرِبِ مَا لَمْ يَغِبْ اَلشَّفَقُ,  وَوَقْتُ صَلَاةِ اَلْعِشَاءِ إِلَى نِصْفِ اَللَّيْلِ اَلْأَوْسَطِ,  وَوَقْتُ صَلَاةِ اَلصُّبْحِ مِنْ طُلُوعِ اَلْفَجْرِ مَا لَمْ تَطْلُعْ اَلشَّمْسُ }  رَوَاهُ مُسْلِمٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (612)‏ (173)‏، وتمامه: \"فإذا طلعت الشمس فأمسك عن الصلاة، فإنها تطلع بين قرني شيطان\".‏ وله ألفاظ أخر.‏",
+      "english": {
+        "narrator": "Narrated 'Abdullah bin 'Amr (RA):",
+        "text": "The Prophet (ﷺ) said: \"The time of the Zuhr (noon) prayer is when the sun passes the meridian and a man's shadow is of the same length as his height. It lasts until the time of the 'Asr (afternoon) prayer. The time of the 'Asr prayer is as long as the sun has not become yellow (during its setting). The time of the Maghrib (sunset) prayer is as long as the twilight has not disappeared. The time of the 'Isha' (night) prayer is up to midnight. And the time of the Fajr (morning) prayer is from the appearance of dawn as long as the sun has not risen; (but when the sun rises abstain from prayer; for it rises between the two horns of Satan).\"\n\n."
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلَهُ مِنْ حَدِيثِ بُرَيْدَةَ فِي اَلْعَصْرِ: { وَالشَّمْسُ بَيْضَاءُ نَقِيَّةٌ }   1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (613)‏ وعنده: \"والشمس مرتفعة.‏.‏.‏ \".‏ ومعنى \"بيضاء نقية\": أي: لم يدخلها شيء من الصفرة، وفي الحديث السابق: \"ما لم تصفر الشمس\".‏",
+      "english": {
+        "narrator": "Narrated Buraidah (RA) in another version of the above Hadith regarding 'Asr (afternoon prayer):",
+        "text": "\"When the sun is white and clear.\"\n\n."
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَمِنْ حَدِيثِ أَبِي مُوسَى: { وَالشَّمْسُ مُرْتَفِعَةٌ }   1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (614)‏ من حديث طويل، وفيه: \"ثم أمره، فأقام بالعصر.‏.‏.‏ \".‏",
+      "english": {
+        "narrator": "And Abu Musa (RA) narrated regarding the time of 'Asr prayer:",
+        "text": "\"While the sun is high.\"\n\n."
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي بَرْزَةَ الْأَسْلَمِيِّ قَالَ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يُصَلِّيَ اَلْعَصْرَ, ثُمَّ يَرْجِعُ أَحَدُنَا إِلَى رَحْلِهِ  فِي أَقْصَى اَلْمَدِينَةِ  وَالشَّمْسُ حَيَّةٌ,  وَكَانَ يَسْتَحِبُّ أَنْ يُؤَخِّرَ مِنْ اَلْعِشَاءِ,  وَكَانَ يَكْرَهُ اَلنَّوْمَ قَبْلَهَا  وَالْحَدِيثَ بَعْدَهَا,  وَكَانَ يَنْفَتِلُ مِنْ صَلَاةِ اَلْغَدَاةِ حِينَ يَعْرِفُ اَلرَّجُلُ جَلِيسَهُ,  وَيَقْرَأُ بِالسِّتِّينَ إِلَى اَلْمِائَةِ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (547)‏، ومسلم (647)‏ واللفظ للبخاري.‏ و \"رحله\": بفتح الراء وسكون الحاء المهملة \"مسكنة\".‏ و \"حية\": أي بيضاء نقية كما في الرواية السابقة، وصح عن أحد التابعين قوله: حياتها أن تجد حرها.‏ و \"ينفتل\": أي: ينصرف.‏",
+      "english": {
+        "narrator": "Narrated Abu Barza al-Aslami (RA):",
+        "text": "Allah's Messenger (ﷺ) used to offer the 'Asr prayer (and after the prayer) one of us would return to his house at the furthest end of al-Madinah and arrive while the sun was still hot and bright. And he (ﷺ) loved to delay the 'Isha' prayer, and he disliked sleeping before it and conversation after it. After the Fajr prayer he used to leave when a man could recognize the one sitting beside him and he used to recite between 60 to 100 Verse of Qur'an in the Fajr prayer.\n\n."
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعِنْدَهُمَا مِنْ حَدِيثِ جَابِرٍ: { وَالْعِشَاءَ أَحْيَانًا وَأَحْيَانًا: إِذَا رَآهُمْ اِجْتَمَعُوا عَجَّلَ, وَإِذَا رَآهُمْ أَبْطَئُوا أَخَّرَ,  وَالصُّبْحَ: كَانَ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-يُصَلِّيهَا بِغَلَسٍ }   1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (560)‏، ومسلم (646)‏، واللفظ للبخاري ولفظ مسلم: \"والعشاء أحيانا يؤخرها، وأحيانا يعجل\".‏",
+      "english": {
+        "narrator": "Narrated Jabir (RA), in the version of al-BUkhari and Muslim:",
+        "text": " used to advance the 'Isha' prayer sometimes and delay it at other times. Whenever he saw the people assembled (for the 'Isha' prayer) he would pray early and if the people delayed, he would delay the prayer. And the Prophet (ﷺ) used to offer the Fajr prayer when it was still dark."
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِمُسْلِمٍ مِنْ حَدِيثِ أَبِي مُوسَى: { فَأَقَامَ اَلْفَجْرَ حِينَ اِنْشَقَّ اَلْفَجْرُ, وَالنَّاسُ لَا يَكَادُ يَعْرِفُ بَعْضُهُمْ بَعْضًا }",
+      "english": {
+        "narrator": "Narrated Abu Musa (RA) in another version of Muslim:",
+        "text": "He (ﷺ) offered the Fajr prayer at daybreak when the people could hardly recognize one another."
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ رَافِعِ بْنِ خَدِيجٍ قَالَ: { كُنَّا نُصَلِّي اَلْمَغْرِبَ مَعَ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-فَيَنْصَرِفُ أَحَدُنَا وَإِنَّهُ لَيُبْصِرُ مَوَاقِعَ نَبْلِهِ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (559)‏، ومسلم (637)‏.‏ وقال الحافظ في \"الفتح\" (2 /41)‏: \"ومقتضاه المبادرة بالمغرب في أول وقتها، بحيث أن الفراغ منها يقع والضوء باق\".‏",
+      "english": {
+        "narrator": "Narrated Rafi' bin Khadij (RA):",
+        "text": "We used to offer the Maghrib prayer with Allah's Messenger (ﷺ) and then one of us would go (out of the mosque) and be able to see the spot his would fall at.\n\n."
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { أَعْتَمَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-ذَاتَ لَيْلَةٍ بِالْعَشَاءِ,  حَتَّى ذَهَبَ عَامَّةُ اَللَّيْلِ,  ثُمَّ خَرَجَ, فَصَلَّى, وَقَالَ: \n\"إِنَّهُ لَوَقْتُهَا لَوْلَا أَنْ أَشُقَّ عَلَى أُمَّتِي\" }  رَوَاهُ مُسْلِمٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (638)‏ (219)‏.‏ و \"أعتم\": أخرها حتى اشتدت عتمة الليل، وهي ظلمته.‏",
+      "english": {
+        "narrator": "Narrated 'Aishah (RA):",
+        "text": "The Prophet (ﷺ) delayed (the 'Isha' prayer) one night till a great part of the night passed, then he went out and offered the prayer, and said, \"This is the proper time for it; were it not that I would impose a burden on my followers.\"\n\n."
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا اِشْتَدَّ اَلْحَرُّ فَأَبْرِدُوا بِالصَّلَاةِ, فَإِنَّ شِدَّةَ اَلْحَرِّ مِنْ فَيْحِ جَهَنَّمَ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (536)‏، ومسلم (615)‏.‏ و \"الإبراد\" تأخير صلاة الظهر إلى أن يبرد الوقت.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"When it is hot, delay the (Zuhr) prayer till it cools down, for the intensity of heat is from the exhalation of Hell.\"\n\n."
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ رَافِعِ بْنِ خَدِيجٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ أَصْبِحُوا بِالصُّبْحِ فَإِنَّهُ أَعْظَمُ لِأُجُورِكُمْ }  رَوَاهُ اَلْخَمْسَةُ, وَصَحَّحَهُ اَلتِّرْمِذِيُّ, وَابْنُ حِبَّانَ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (424)‏، والنسائي (172)‏، والترمذي (154)‏، وابن ماجه (672)‏، وأحمد (3 /465 و 440 و 142 و 143)‏، وابن حبان (1490)‏، (1491)‏.‏ وفي لفظ: \"أعظم للأجر\"، وفي أخر: \"لأجرها\".‏ وقال الترمذي: \"حديث رافع بن خديج حديث حسن صحيح\".‏ ومعنى \"أسفروا\": أراد صلى الله عليه وسلم في الليالي المقمرة التي لا يتبين فيها وضوح طلوع الفجر؛ لئلا يؤدي المرء صلاة الصبح إلا بعد التيقن بالإسفار بطلوع الفجر، فإن الصلاة إذا أديت كما وصفنا كان أعظم للأجر من أن تصلى على غير يقين من طلوع الفجر.‏ قاله ابن حبان.‏ ومن قبل ذلك نقل الترمذي عن الشافعي وأحمد وإسحاق أنهم قالوا: معنى الإسفار: أن يضح الفجر فلا يشك فيه.‏",
+      "english": {
+        "narrator": "Narrated Rafi' bin Khadij (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"Offer the morning prayer at dawn, for it is greater for your rewards.\"\n\n."
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { مَنْ أَدْرَكَ مِنْ اَلصُّبْحِ رَكْعَةً قَبْلِ أَنْ تَطْلُعَ اَلشَّمْسُ فَقَدْ أَدْرَكَ اَلصُّبْحَ, وَمَنْ أَدْرَكَ رَكْعَةً مِنْ اَلْعَصْرِ قَبْلَ أَنْ تَغْرُبَ اَلشَّمْسُ فَقَدْ أَدْرَكَ اَلْعَصْرَ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (579)‏، ومسلم (608)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": "The Prophet (ﷺ) said: \"He who prays a Rak'a of the Fajr prayer before the sun rises, has offered the dawn prayer in its time, and he who prays a Rak'a of the 'Asr prayer before the sun sets has offered the afternoon prayer.\"\n\n."
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِمُسْلِمٍ عَنْ عَائِشَةَ نَحْوَهُ, وَقَالَ: \"سَجْدَةً\" بَدَلَ \"رَكْعَةً\".‏ ثُمَّ قَالَ: وَالسَّجْدَةُ إِنَّمَا هِيَ اَلرَّكْعَةُ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (609)‏ ولفظه: \"من أدرك من العصر سجدة قبل أن تغرب الشمس، أو من الصبح قبل أن تطلع فقد أدركها\" والسجدة إنما هي الركعة.‏",
+      "english": {
+        "narrator": "Muslim reported the same above Hadith in another version narrated by 'Aishah (RA), who narrated 'Sajdah (prostration)' instead of 'Rak'a (prayer unit)' and then he (Muslim) said:",
+        "text": "\"A Sajdah implies a Rak'a.\""
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ ‏- رضى الله عنه ‏- قَالَ: سَمِعْتَ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَقُولُ: { لَا صَلَاةَ بَعْدَ اَلصُّبْحِ حَتَّى تَطْلُعَ اَلشَّمْسُ وَلَا صَلَاةَ بَعْدَ اَلْعَصْرِ حَتَّى تَغِيبَ اَلشَّمْسُ }  مُتَّفَقٌ عَلَيْهِ.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa'id al-Khudri (RA):",
+        "text": "I heard Allah's Messenger (ﷺ) saying: \"No Salat (prayer) is to be offered after the morning prayer until the sun rises, or after the afternoon prayer until the sun sets.\"\n\n."
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلَفْظُ مُسْلِمٍ: { لَا صَلَاةَ بَعْدَ صَلَاةِ اَلْفَجْرِ }   1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (586)‏، ومسلم (827)‏ وفي لفظ البخاري \"ترتفع\" بدل \"تطلع\".‏ وأن لفظ مسلم فعدا عما ذكره الحافظ فقد وقع عنده تقديم النهي عن الصلاة بعد العصر على النهي بعد صلاة الفجر.‏ وعنده أيضا \"تغرب\" بدل \"تغيب\".‏",
+      "english": {
+        "narrator": "And in the narration of Muslim:",
+        "text": "\"There is no Salat (prayer) after the Fajr (morning) prayer.\""
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلَهُ عَنْ عُقْبَةَ بْنِ عَامِرٍ: { ثَلَاثُ سَاعَاتٍ كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَنْهَانَا أَنْ نُصَلِّي فِيهِنَّ, وَأَنْ  1‏ نَقْبُرَ فِيهِنَّ مَوْتَانَا: حِينَ تَطْلُعُ اَلشَّمْسُ بَازِغَةً حَتَّى تَرْتَفِعَ, وَحِينَ يَقُومُ قَائِمُ اَلظَّهِيرَةِ حَتَّى تَزُولَ  2‏ اَلشَّمْسُ, وَحِينَ تَتَضَيَّفُ  3‏ اَلشَّمْسُ لِلْغُرُوبِ }   4‏ .‏‏1 ‏- في مسلم: \"أو أن\".‏‏2 ‏- في مسلم: \"تميل\" .‏‏3 ‏- في مسلم: \"تتضيف\".‏ وهي بمعنى \"تميل\" .‏‏4 ‏- صحيح.‏ رواه مسلم (831)‏.‏ و \"قائم الظهيرة\": أي قيام الشمس وقت الزوال، وذلك عند بلوغها وسط السماء فإنها عند ذلك يبطئ حركتها.‏",
+      "english": {
+        "narrator": "'Uqbah bin 'Aamir (RA) narrated:",
+        "text": "\"There are three times at which Allah's Messenger (ﷺ) used to forbid us to pray or bury our dead: (a)  when the sun begins to rise till it is fully up, (b) when the sun is at its height at midday till it passes the meridian, and (c) when the sun draws near to setting till it sets.\"\n\n."
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَالْحُكْمُ اَلثَّانِي عِنْدَ \n\"اَلشَّافِعِيِّ\" مِنْ:",
+      "english": {
+        "narrator": "",
+        "text": "ash-Shafi'i views the second ruling from"
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "حَدِيثِ أَبِي هُرَيْرَةَ بِسَنَدٍ ضَعِيفٍ.‏ وَزَادَ: { إِلَّا يَوْمَ اَلْجُمْعَةِ }   1‏ .‏‏1 ‏- ضعيف جدا.‏ رواه الشافعي في \"المسند\" (139 /408)‏ عن أبي هريرة؛ أن النبي صلى الله عليه وسلم نهى عن الصلاة نصف النهار، حتى تزول الشمس إلا يوم الجمعة.‏ قلت: وفي إسناده متروكان.‏",
+      "english": {
+        "narrator": "A Hadith narrated by Abu Hurairah (RA) through a weak Sanad with the addition:",
+        "text": "\"Except on Friday\"."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَكَذَا لِأَبِي دَاوُدَ: عَنْ أَبِي قَتَادَةَ نَحْوُهُ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أبو داود (1083)‏ عن أبي قتادة، عن النبي صلى الله عليه وسلم؛ أنه كره الصلاة نصف النهار إلا يوم الجمعة، وقال: \"إن جهنم تسجر إلا يوم الجمعة\".‏ قلت: وفي سنده ضعف وانقطاع.‏ وأما عن الصلاة نصف النهار، فقد قال ابن القيم في \"الزاد\" (1/380)‏: \"اختلف الناس في كراهة الصلاة نصف النهار على ثلاثة أقوال.‏ أحدها: أنه ليس وقت كراهة بحال، وهو مذهب مالك.‏ الثاني: أنه وقت كراهة في يوم الجمعة وغيرها، وهو مذهب أبي حنيفة والمشهور من مذهب أحمد.‏ الثالث: أنه وقت كراهة إلا يوم الجمعة، فليس بوقت كراهة، وهذا مذهب الشافعي\".‏ ا.‏ هـ.‏ قلت: ومذهب الشافعي هو أعدل المذاهب، وهو الذي تدل عليه الأحاديث الصحيحة.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Dawud reported something similar from Abu Qatadah (RA)."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ جُبَيْرِ بْنِ مُطْعِمٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ يَا بَنِي عَبْدِ مَنَافٍ, لَا تَمْنَعُوا أَحَدًا طَافَ بِهَذَا اَلْبَيْتِ وَصَلَّى أَيَّةَ سَاعَةٍ شَاءَ مِنْ لَيْلٍ]أَ] وْ نَهَارٍ }  رَوَاهُ اَلْخَمْسَةُ, وَصَحَّحَهُ اَلتِّرْمِذِيُّ, وَابْنُ حِبَّانَ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (1894)‏، والنسائي (184 و 523)‏، والترمذي (868)‏، وابن ماجه (1254)‏، وأحمد (4/80 و 81 و 82 و 83 و 84)‏، وابن حبان (1552 و 1553 و 1554)‏.‏ وقال الترمذي: \"حديث حسن صحيح\".‏",
+      "english": {
+        "narrator": "Narrated Jubair bin Mut'im (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"O descendants of 'Abd Manaf! You must not prevent anyone who goes round this House (Ka'bah) and prays (here) at any hour of the night or day that he wishes.\"\n\n."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا; عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { اَلشَّفَقُ اَلْحُمْرَةُ }  رَوَاهُ اَلدَّارَقُطْنِيُّ وَصَحَّحَ اِبْنُ خُزَيْمَةَ وَغَيْرُهُ وَقْفَهُ  1‏ .‏‏1 ‏- ضعيف.‏ رواه الدارقطني في \"السنن\" (1/269/3)‏ وتمام لفظه: \"فإذا غاب الشفق، وجبت الصلاة\".‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar (RA):",
+        "text": "The Prophet (ﷺ) said: \"The twilight is the redness.\"\n\n."
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْفَجْرُ فَجْرَانِ: فَجْرٌ يُحَرِّمُ اَلطَّعَامَ وَتَحِلُّ فِيهِ اَلصَّلَاةُ, وَفَجْرٌ تَحْرُمُ فِيهِ اَلصَّلَاةُ ‏- أَيْ: صَلَاةُ اَلصُّبْحِ ‏- وَيَحِلَّ فِيهِ اَلطَّعَامُ }  رَوَاهُ اِبْنُ خُزَيْمَةَ, وَالْحَاكِمُ, وَصَحَّحَاهُ  1‏ .‏‏1 ‏- صحيح.‏ رواه ابن خزيمة (356)‏، وعنه الحاكم (191)‏، ويشهد له ما بعده.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas (RA):",
+        "text": "Allah's Messenger (ﷺ) said that, \"Dawn is of two types; the dawn in which eating is forbidden (for the fasting person) and prayer is permitted and the dawn in which prayer is forbidden i.e. the morning prayer and eating is permitted.\"\n\n."
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 166,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْأَعْمَشُ، عَنْ مُسْلِمٍ الْبَطِينِ، عَنْ عَلِيِّ بْنِ الْحُسَيْنِ، عَنْ مَرْوَانَ بْنِ الْحَكَمِ، قَالَ كُنَّا نَسِيرُ مَعَ عُثْمَانَ رَضِيَ اللَّهُ عَنْهُ فَإِذَا رَجُلٌ يُلَبِّي بِهِمَا جَمِيعًا فَقَالَ عُثْمَانُ رَضِيَ اللَّهُ عَنْهُ مَنْ هَذَا فَقَالُوا عَلِيٌّ فَقَالَ أَلَمْ تَعْلَمْ أَنِّي قَدْ نَهَيْتُ عَنْ هَذَا قَالَ بَلَى وَلَكِنْ لَمْ أَكُنْ لِأَدَعَ قَوْلَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِقَوْلِكَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Marwan bin al-Hakam said:",
+    "text": "We were walking with ‘Uthman (رضي الله عنه) and saw a man entering ihram for both .`Uthman (رضي الله عنه) said Who is this? They said: `Ali. He said: Do you not know that I have forbidden this? He said: Yes, but I will not give up the advice of the Messenger of Allah (ﷺ)  for your opinion."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

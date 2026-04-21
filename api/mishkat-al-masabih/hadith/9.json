@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "chapterId": 24,
+  "bookId": 14,
+  "arabic": "وَعَن جَابر قَالَ: جَاءَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: رَأَيْتُ فِي الْمَنَامِ كَأَنَّ رَأْسِي قُطِعَ قَالَ: فَضَحِكَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقَالَ: «إِذَا لَعِبَ الشَّيْطَانُ بِأَحَدِكُمْ فِي مَنَامِهِ فَلَا يُحَدِّثْ بِهِ النَّاس» . رَوَاهُ مُسلم",
+  "english": {
+    "narrator": "Jabir told that a man came to the Prophet and said:",
+    "text": "“In a dream I seemed to see any head had been cut off.\"  The Prophet laughed and replied:\n“When the devil makes sport of any of you in a dream he should not tell people about it.\" \n\nMuslim transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

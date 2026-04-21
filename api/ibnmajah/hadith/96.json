@@ -1,0 +1,16 @@
+{
+  "id": 96,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، وَعَمْرُو بْنُ عَبْدِ اللَّهِ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الأَعْمَشُ، عَنْ عَطِيَّةَ بْنِ سَعْدٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِنَّ أَهْلَ الدَّرَجَاتِ الْعُلَى يَرَاهُمْ مَنْ أَسْفَلَ مِنْهُمْ كَمَا يُرَى الْكَوْكَبُ الطَّالِعُ فِي الأُفُقِ مِنْ آفَاقِ السَّمَاءِ وَإِنَّ أَبَا بَكْرٍ وَعُمَرَ مِنْهُمْ وَأَنْعَمَا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Sa'eed Al-Khudri said:",
+    "text": "\"The Messenger of Allah said: 'The people of the highest degrees of Paradise will be seen by those beneath them as a rising star is seen on the horizon. Abu Bakr and 'Umar will be among them, and how blessed they are!'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

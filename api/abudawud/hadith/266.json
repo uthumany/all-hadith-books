@@ -1,0 +1,16 @@
+{
+  "id": 266,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ حَكِيمِ بْنِ الدَّيْلَمِ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِيهِ، قَالَ كَانَتِ الْيَهُودُ تَعَاطَسُ عِنْدَ النَّبِيِّ صلى الله عليه وسلم رَجَاءَ أَنْ يَقُولَ لَهَا يَرْحَمُكُمُ اللَّهُ فَكَانَ يَقُولُ ‏\n\"‏ يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuBurdah:",
+    "text": "The Jews used to try to sneezes in the presence of the Prophet (ﷺ) hoping that he would say to them: \"Allah have mercy on you!\" but he would say: May Allah guide you and grant you well-being!"
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

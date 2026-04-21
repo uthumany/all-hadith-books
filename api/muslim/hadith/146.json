@@ -1,0 +1,16 @@
+{
+  "id": 146,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا أَبُو أَحْمَدَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي حَيَّانَ،\n عَنْ أَبِي زُرْعَةَ، قَالَ تَذَاكَرُوا السَّاعَةَ عِنْدَ مَرْوَانَ فَقَالَ عَبْدُ اللَّهِ بْنُ عَمْرٍو سَمِعْتُ رَسُولَ\n اللَّهِ صلى الله عليه وسلم يَقُولُ ‏.‏ بِمِثْلِ حَدِيثِهِمَا وَلَمْ يَذْكُرْ ضُحًى ‏.‏",
+  "english": {
+    "narrator": "Abu Zur'a reported that there was a discussion in the presence of Marwan about the Last Hour, and Abdullah b. 'Amr said:",
+    "text": "I heard Allah's Messenger (ﷺ) as saying. The rest of the hadith is the same, but there is no mention of forenoon."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 331,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ أَبِي، يَزِيدَ أَنَّهُ سَمِعَ ابْنَ عَبَّاسٍ، يَقُولُ أَنَا مِمَّنْ، قَدَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي ضَعَفَةِ أَهْلِهِ ‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas (Allah be pleased with them) reported:",
+    "text": "I was among those (i. e. women and children) whom Allah's Messenger (ﷺ) sent forth with the weak members of his family."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

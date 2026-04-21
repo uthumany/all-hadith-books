@@ -1,0 +1,16 @@
+{
+  "id": 86,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه ‏:‏ قال‏:‏ قال رسول الله صلى الله عليه وسلم قاربوا وسددوا، واعلموا أنه لن ينجو أحد منكم بعمله‏\"‏ قالوا‏:‏ ولا أنت يا رسول الله ‏؟‏ قال‏:‏ ‏\"‏ولا أنا إلا أن يتغمدنى الله برحمة منه وفضل‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Follow the Right Path of Faith strictly, and be steadfast; and keep in mind that none of you can achieve salvation through his (good) actions.\" Someone asked, \"Not even you, O Messenger of Allah?\" He (ﷺ) said, \"Not even me, unless Allah grants me His Mercy and Grace\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

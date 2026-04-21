@@ -1,0 +1,16 @@
+{
+  "id": 585,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “لا يتمنين أحدكم الموت لضر أصابه فإن كان لابد فاعلاً، فليقل‏:‏ اللهم أحينى ما كانت الحياة خيراً لى، وتوفنى إذا كانت الوفاة خيراً لى” ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas bin Malik (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Let none of you wish for death on account of an affliction that befalls him. If he has no alternative, let him pray: 'Allahumma ahyine ma kanatil-hayatu khairan li, wa tawaffani idha kanatil-wafatu khairan li (O Allah! Give my life so long as the life is good for me, and take away my life if death is good for me)'.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

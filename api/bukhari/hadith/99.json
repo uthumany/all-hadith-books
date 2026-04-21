@@ -1,0 +1,16 @@
+{
+  "id": 99,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ أَبِي عِيسَى، أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الْمَدِينَةُ يَأْتِيهَا الدَّجَّالُ فَيَجِدُ الْمَلاَئِكَةَ يَحْرُسُونَهَا فَلاَ يَقْرَبُهَا الدَّجَّالُ وَلاَ الطَّاعُونُ إِنْ شَاءَ اللَّهُ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "Allah's Messenger (ﷺ) said, \"Ad-Dajjal will come to Medina and find the angels guarding it. If Allah will, \nneither Ad-Dajjal nor plague will be able to come near it.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

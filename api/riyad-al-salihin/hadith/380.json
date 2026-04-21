@@ -1,0 +1,16 @@
+{
+  "id": 380,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن البراء بن عازب رضي الله عنهما عن النبي صلى الله عليه وسلم أنه قال في الأنصار‏:‏ ‏\n\"‏لا يحبهم إلا مؤمن، ولا يبغضهم إلا منافق، من أحبهم أحبه الله، ومن أبغضهم أبغضه الله‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Al-Bara' bin 'Azib (May Allah be pleased with them) reported:",
+    "text": "The Prophet (ﷺ) said about the Ansar: \"Only a believer loves them, and only a hypocrite hates them. Allah loves him who loves them and Allah hates him who hates them\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

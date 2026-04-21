@@ -1,0 +1,16 @@
+{
+  "id": 350,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، أَخْبَرَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنِ الْحَكَمِ، عَمَّنْ سَمِعَ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ وَابْنَ مَسْعُودٍ يَقُولَانِ قَضَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالْجِوَارِ‏.‏",
+  "english": {
+    "narrator": "It was narrated from al-Hakam, from someone who heard ‘Ali (رضي الله عنه) and Ibn Mas`ood say:",
+    "text": "The Messenger of Allah (ﷺ) issued a judgement on the basis of one being the neighbour of the other."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

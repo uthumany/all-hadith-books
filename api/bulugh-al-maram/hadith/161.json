@@ -1,0 +1,16 @@
+{
+  "id": 161,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "وَفِي رِوَايَةٍ لِمُسْلِمٍ: { وَهُوَ يُعَرِّضُ بِأَنْ يَنْفِيَهُ }  , وَقَالَ فِي آخِرِهِ: { وَلَمْ يُرَخِّصْ لَهُ فِي اَلِانْتِفَاءِ مِنْهُ }   1‏ .‏‏1 ‏- هي في مسلم برقم (19)‏.‏",
+  "english": {
+    "narrator": "Muslim concluded the Hadith as follows:",
+    "text": "\"He did not permit him to disown him\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

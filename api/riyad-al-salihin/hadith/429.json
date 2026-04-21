@@ -1,0 +1,16 @@
+{
+  "id": 429,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن جابر، رضي الله عنه قال‏:‏ قال رسول الله ، صلى الله عليه وسلم‏:‏ ‏\n\"‏مثل الصلوات الخمس كمثل نهر جار غمر على باب أحدكم يغتسل منه كل يوم خمس مرات‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏\n\n('‏‏الغمر: الكثير‏.‏')",
+  "english": {
+    "narrator": "Jabir (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"The five daily Salat (prayers) are like a great river running by your door in which you take a bath five times a day.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

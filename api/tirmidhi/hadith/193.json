@@ -1,0 +1,16 @@
+{
+  "id": 193,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ جَمَعَ الْقُرْآنَ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم أَرْبَعَةٌ كُلُّهُمْ مِنَ الأَنْصَارِ أُبَىُّ بْنُ كَعْبٍ وَمُعَاذُ بْنُ جَبَلٍ وَزَيْدُ بْنُ ثَابِتٍ وَأَبُو زَيْدٍ ‏.‏ قُلْتُ لأَنَسٍ مَنْ أَبُو زَيْدٍ قَالَ أَحَدُ عُمُومَتِي ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Qatadah:",
+    "text": "that Anas bin Malik said: \"Four gathered the Qur'an during the time of the Messenger of Allah (ﷺ), all of them are from the Ansar: Ubayy bin Ka'b, Mu'adh bin Jabal, Zaid bin Thabit, and Abu Zaid.\" I said to Anas: \"Who is Abu Zaid?\" He said: \"One of my uncles.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 705,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنْ نُعَيْمِ بْنِ حَكِيمٍ، عَنْ أَبِي مَرْيَمَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَ عَلَى الْكَعْبَةِ أَصْنَامٌ فَذَهَبْتُ لِأَحْمِلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَيْهَا فَلَمْ أَسْتَطِعْ فَحَمَلَنِي فَجَعَلْتُ أَقْطَعُهَا وَلَوْ شِئْتُ لَنِلْتُ السَّمَاءَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "There were idols on top of the Ka`bah, and I wanted to lift up the Prophet (ﷺ) so he could reach them, but I could not do it. So he lifted me up, and I started smashing them, and if I had wanted to, I could have touched the sky."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

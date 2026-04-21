@@ -1,0 +1,16 @@
+{
+  "id": 97,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "عَنِ ابْنِ عُمَرَ قَالَ: رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَلْبَسُ النِّعَالَ الَّتِي ليسَ فِيهَا شعرٌ. رَوَاهُ البُخَارِيّ",
+  "english": {
+    "narrator": "",
+    "text": "Ibn ‘Umar told that he saw God’s messenger wearing sandals which had no hair on them.\nBukhari transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

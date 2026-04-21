@@ -1,0 +1,16 @@
+{
+  "id": 678,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ، حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنَا هُرَيْمٌ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ، عَنْ قَيْسِ بْنِ مُسْلِمٍ، عَنْ طَارِقِ بْنِ شِهَابٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْجُمُعَةُ حَقٌّ وَاجِبٌ عَلَى كُلِّ مُسْلِمٍ فِي جَمَاعَةٍ إِلاَّ أَرْبَعَةً عَبْدٌ مَمْلُوكٌ أَوِ امْرَأَةٌ أَوْ صَبِيٌّ أَوْ مَرِيضٌ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ طَارِقُ بْنُ شِهَابٍ قَدْ رَأَى النَّبِيَّ صلى الله عليه وسلم وَلَمْ يَسْمَعْ مِنْهُ شَيْئًا ‏.‏",
+  "english": {
+    "narrator": "Narrated Tariq ibn Shihab:",
+    "text": "The Prophet (ﷺ) said: The Friday prayer in congregation is a necessary duty for every Muslim, with four exceptions; a slave, a woman, a boy, and a sick person.\n\n\n\n\nAbu Dawud said: Tariq b. Shihab had seen the Prophet (ﷺ) but not heard anything from him."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

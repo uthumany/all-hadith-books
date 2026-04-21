@@ -1,0 +1,16 @@
+{
+  "id": 434,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُسْلِمٍ - عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّهُ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ الْيَهُودَ إِذَا سَلَّمَ عَلَيْكُمْ أَحَدُهُمْ فَإِنَّمَا يَقُولُ السَّامُ عَلَيْكُمْ فَقُولُوا وَعَلَيْكُمْ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ رَوَاهُ مَالِكٌ عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ وَرَوَاهُ الثَّوْرِيُّ عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ قَالَ فِيهِ ‏\"‏ وَعَلَيْكُمْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Umar:",
+    "text": "The Prophet (ﷺ) said: When one of the Jews greets you saying: Death may come upon you, reply: The same to you.\n\n\nAbu Dawud said: Malik b. 'Adb Allah b. Dinar transmitted it in a similar manner, and al-Thawri transmitted it from 'Abd Allah b. Dinar. He said in this version: The same to you."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

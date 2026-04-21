@@ -1,0 +1,16 @@
+{
+  "id": 78,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي اَلدَّرْدَاءِ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ اَللَّعَّانِينَ لَا يَكُونُونَ شُفَعَاءَ, وَلَا شُهَدَاءَ يَوْمَ اَلْقِيَامَةِ }  أَخْرَجَهُ مُسْلِمٌ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2589)‏ (86)‏.‏",
+  "english": {
+    "narrator": "Abu ad-Darda’ (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Men accustomed to cursing will not be intercessors or witnesses on the Day of Resurrection.” Related by Muslim."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

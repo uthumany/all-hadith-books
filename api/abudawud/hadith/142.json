@@ -1,0 +1,16 @@
+{
+  "id": 142,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ الْبَزَّازُ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا سُفْيَانُ الثَّوْرِيُّ، عَنْ مَنْصُورٍ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَحِلُّ لِمُسْلِمٍ أَنْ يَهْجُرَ أَخَاهُ فَوْقَ ثَلاَثٍ فَمَنْ هَجَرَ فَوْقَ ثَلاَثٍ فَمَاتَ دَخَلَ النَّارَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "The Prophet (ﷺ) said: It is not allowable for a Muslim to keep apart from his brother for more than three days, for one who does so and dies will enter Hell."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 20,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنِي سَعِيدُ بْنُ سُلَيْمَانَ، عَنِ ابْنِ الْمُبَارَكِ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ سَالِمٍ، عَنْ عَبْدِ اللَّهِ، قَالَ أَكْثَرُ مَا كَانَ النَّبِيُّ صلى الله عليه وسلم يَحْلِفُ ‏\n\"‏ لاَ وَمُقَلِّبِ الْقُلُوبِ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated `Abdullah:",
+    "text": "The Prophet (ﷺ) frequently used to swear, \"No, by the One Who turns the hearts.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

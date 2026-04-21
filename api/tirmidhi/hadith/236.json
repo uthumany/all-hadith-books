@@ -1,0 +1,16 @@
+{
+  "id": 236,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ حَدَّثَنَا هُشَيْمٌ،  قَالَ أَخْبَرَنَا يَعْلَى بْنُ عَطَاءٍ، عَنِ الْوَلِيدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنِ ابْنِ عُمَرَ، أَنَّهُ قَالَ لأَبِي هُرَيْرَةَ يَا أَبَا هُرَيْرَةَ أَنْتَ كُنْتَ أَلْزَمَنَا لِرَسُولِ اللَّهِ صلى الله عليه وسلم وَأَحْفَظَنَا لِحَدِيثِهِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Al-Walid bin 'Abdur-Rahman:",
+    "text": "that Ibn 'Umar said to Abu Hurairah: \"You used to stick to the Messenger of Allah (ﷺ) most out of all of us, and you used to best memorize his Ahadith out of us.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

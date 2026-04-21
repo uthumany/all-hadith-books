@@ -1,0 +1,16 @@
+{
+  "id": 283,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا; عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { اِجْعَلُوا آخِرَ صَلَاتِكُمْ بِاللَّيْلِ وِتْرًا }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (998)‏، ومسلم (751)‏ (151)‏.‏",
+  "english": {
+    "narrator": "Narrated Ibn 'Umar (RA):",
+    "text": "The Prophet (ﷺ) said: \"Make the last of your prayer at night Witr (an odd number).\"\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

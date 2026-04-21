@@ -1,0 +1,16 @@
+{
+  "id": 127,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الحادي عشر‏:‏ عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ لقد رأيت رجلا يتقلب في الجنة في شجرة قطعها من ظهر الطريق كانت تؤذى المسلمين‏\"‏‏.‏‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ \nوفي رواية‏:‏ ‏ ‏ مر رجل بغصن شجرة على ظهر طريق فقال‏:‏ والله لأنحين هذا عن المسلمين لا يؤذيهم، فأدخل الجنة‏ ‏‏.‏\nوفي رواية لهما‏:‏ ‏ ‏ بينما رجل يمشى بطريق وجد غصن شوك على الطريق، فأخره فشكره الله له، فغفر له‏ .‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"I saw a man going about in Jannah (and enjoying himself) as a reward for cutting from the middle of the road, a tree which was causing inconvenience to the Muslims\"..Another narration says: \"A man who passed by a branch of a tree leaning over a road and decided to remove it, saying to himself, 'By Allah! I will remove from the way of Muslims so that it would not harm them.' On account of this he was admitted to Jannah\".According to the narration in Al-Bukhari and Muslim: Messenger of Allah (ﷺ) said, \"While a man was walking, he saw a thorny branch on the road, so he removed it and Allah appreciated his action and forgave him\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

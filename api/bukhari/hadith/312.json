@@ -1,0 +1,16 @@
+{
+  "id": 312,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، عَنْ يَحْيَى، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ قَالَ عُمَرُ ـ رضى الله عنه ـ قُلْتُ يَا رَسُولَ اللَّهِ، يَدْخُلُ عَلَيْكَ الْبَرُّ وَالْفَاجِرُ، فَلَوْ أَمَرْتَ أُمَّهَاتِ الْمُؤْمِنِينَ بِالْحِجَابِ، فَأَنْزَلَ اللَّهُ آيَةَ الْحِجَابِ‏.‏",
+  "english": {
+    "narrator": "Narrated `Umar:",
+    "text": "I said, \"O Allah's Messenger (ﷺ)! Good and bad persons enter upon you, so I suggest that you order the \nmothers of the Believers (i.e. your wives) to observe veils.\" Then Allah revealed the Verses of Al- \nHijab."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

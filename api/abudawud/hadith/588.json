@@ -1,0 +1,16 @@
+{
+  "id": 588,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْحَدِيثِ قَالَ ‏\n\"‏ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "This tradition has also been reported by Shu’bah through a different chain of narrators. This version adds:",
+    "text": "Bless Muhammad and Muhammad’s family as Thou didst bless Abraham."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

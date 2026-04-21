@@ -1,0 +1,16 @@
+{
+  "id": 486,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شَيْبَانُ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ لَمَّا عُرِجَ بِالنَّبِيِّ صلى الله عليه وسلم إِلَى السَّمَاءِ قَالَ ‏\n\"‏ أَتَيْتُ عَلَى نَهَرٍ حَافَتَاهُ قِبَابُ اللُّؤْلُؤِ مُجَوَّفًا فَقُلْتُ مَا هَذَا يَا جِبْرِيلُ قَالَ هَذَا الْكَوْثَرُ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Anas:",
+    "text": "When the Prophet (ﷺ) was made to ascend to the Heavens, he said (after his return), \"I came upon a river \nthe banks of which were made of tents of hollow pearls. I asked Gabriel. What is this (river?) He replied, 'This is the Kauthar.'"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

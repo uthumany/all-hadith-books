@@ -1,0 +1,16 @@
+{
+  "id": 54,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "فالأول عن ابن مسعود رضي الله عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏إن الصدق يهدي إلى البر وإن البر يهدي إلى الجنة، وإن الرجل ليصدق حتى يكتب عند الله صديقاً، وإن الكذب يهدي إلى الفجور، وإن الفجور يهدي إلى النار، وإن الرجل ليكذب حتى يكتب عند الله كذاباً‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abdullah bin Mas'ud (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"Truth leads to piety and piety leads to Jannah. A man persists in speaking the truth till he is enrolled with Allah as a truthful. Falsehood leads to vice and vice leads to the Fire (Hell), and a person persists on telling lies until he is enrolled as a liar\".'."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

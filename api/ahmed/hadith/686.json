@@ -1,0 +1,16 @@
+{
+  "id": 686,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي مُحْرِزُ بْنُ عَوْنِ بْنِ أَبِي عَوْنٍ، حَدَّثَنَا شَرِيكٌ، عَنْ سِمَاكٍ، عَنْ حَنَشٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ بَعَثَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَاضِيًا فَقَالَ إِذَا جَاءَكَ الْخَصْمَانِ فَلَا تَقْضِ عَلَى أَحَدِهِمَا حَتَّى تَسْمَعَ مِنْ الْآخَرِ فَإِنَّهُ يَبِينُ لَكَ الْقَضَاءُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) sent me as a judge and said: `If two disputants come to you, do not pass judgement against one of them until you hear what the other has to say, then the right verdict will become clear to you.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 226,
+  "chapterId": 78,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ كَانَتْ أُمُّ سُلَيْمٍ فِي الثَّقَلِ وَأَنْجَشَةُ غُلاَمُ النَّبِيِّ صلى الله عليه وسلم يَسُوقُ بِهِنَّ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ يَا أَنْجَشَ، رُوَيْدَكَ، سَوْقَكَ بِالْقَوَارِيرِ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Anas:",
+    "text": "Once Um Sulaim was (with the women who were) in charge of the luggage on a journey, and \nAnjashah, the slave of the Prophet, was driving their camels (very fast). The Prophet (ﷺ) said, \"O Anjash! \nDrive slowly (the camels) with the glass vessels (i.e., ladies)."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

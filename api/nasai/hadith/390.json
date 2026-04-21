@@ -1,0 +1,16 @@
+{
+  "id": 390,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، عَنْ سَلَمَةَ بْنِ نُبَيْطٍ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَخْطُبُ عَلَى جَمَلٍ أَحْمَرَ بِعَرَفَةَ قَبْلَ الصَّلاَةِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Salamah bin Nubait, that his father said:",
+    "text": "\"I saw the Messenger of Allah delivering a Khutab atop a red camel in Arafat, before the Salah.\" (Daif)"
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

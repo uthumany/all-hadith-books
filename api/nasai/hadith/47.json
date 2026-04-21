@@ -1,0 +1,16 @@
+{
+  "id": 47,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ مَيْمُونٍ، قَالَ حَدَّثَنَا ابْنُ أَبِي رَوَّادٍ، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ كُلُّ مُسْكِرٍ خَمْرٌ وَكُلُّ مُسْكِرٍ حَرَامٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Ibn 'Umar said:",
+    "text": "\"The Messenger of Allah  said: 'Every intoxicant is Khamr and every intoxicant is unlawful.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

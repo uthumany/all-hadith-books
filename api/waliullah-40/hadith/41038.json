@@ -1,0 +1,16 @@
+{
+  "id": 41038,
+  "chapterId": 1,
+  "bookId": 17,
+  "arabic": "مَا قَلَّ وَكَفَى خَيْرٌ مِمَّا كَثُرَ وَأَلْهَى",
+  "english": {
+    "narrator": "",
+    "text": "A little that suffices is better than an abundance that distracts."
+  },
+  "book": {
+    "id": 17,
+    "name": "The Forty Hadith of Shah Waliullah",
+    "arabic": "أربعون الشاه ولي الله",
+    "slug": "waliullah-40"
+  }
+}

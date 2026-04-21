@@ -1,0 +1,16 @@
+{
+  "id": 65,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي صِرْمَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ ضَارَّ مُسْلِمًا ضَارَّهُ اَللَّهُ, وَمَنْ شَاقَّ مُسَلِّمًا شَقَّ اَللَّهُ عَلَيْهِ }  أَخْرَجَهُ أَبُو دَاوُدَ وَاَلتِّرْمِذِيُّ وَحَسَّنَهُ.‏  1‏ .‏‏1 ‏- حسن.‏ رواه أبو داود (3635)‏، والترمذي (1940)‏، وليس عندهما لفظ\" مسلما\".‏",
+  "english": {
+    "narrator": "Abu Sirmah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“He who causes harm to a Muslim will be harmed by Allah, and he who acts in a hostile manner against a Muslim, will be punished in the same way by Allah.” Related by Abu Dawud and At-Tirmidhi who graded it to be Hasan (good)."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

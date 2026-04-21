@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي موسى عبد الله بن قيس الأشعرى رضي الله عنه قال‏:‏ سئل رسول الله صلى الله عليه وسلم عن الرجل يقاتل شجاعة، ويقاتل حميةً، ويقاتل رياء، أى ذلك في  سبيل الله‏؟‏ فقال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏ من قاتل لتكون كلمة الله هى العليا فهو في  سبيل الله‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Musa Al-Ash'ari (May Allah be pleased with him) reported that Messenger of Allah (ﷺ) was asked about who fights in the battlefield out of valour, or out of zeal, or out of hypocrisy, which of this is considered as fighting in the cause of Allah? He said:",
+    "text": "\"He who fights in order that the Word of Allah remains the supreme, is considered as fighting in the cause of Allah\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

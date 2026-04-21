@@ -1,0 +1,16 @@
+{
+  "id": 145,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ، أَهْدَى جَمَلاً فِي حَجٍّ أَوْ عُمْرَةٍ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Yahya ibn Said that Umar ibn\nAbd al-Aziz once sacrificed a camel during a hajj or an umra."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

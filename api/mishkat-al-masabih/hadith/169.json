@@ -1,0 +1,16 @@
+{
+  "id": 169,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَن الوليدِ بن عقبةَ قَالَ: لَمَّا فَتَحَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَكَّةَ جَعَلَ أَهْلُ مَكَّةَ يَأْتُونَهُ بصبيانهم فيدعو لَهُم بِالْبركَةِ وَيمْسَح رؤوسهم فَجِيءَ بِي إِلَيْهِ وَأَنَا مُخَلَّقٌ فَلَمْ يَمَسَّنِي من أجل الخَلوق. رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "Al-Walid b. ‘Uqba said :",
+    "text": "When God’s messenger conquered Mecca the people of Mecca began to bring their boys and he would invoke a blessing on them and rub their heads. I was brought, but as I had been perfumed with a mixture of saffron he did not touch me because of the perfume.\nAbu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

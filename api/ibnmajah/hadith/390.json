@@ -1,0 +1,16 @@
+{
+  "id": 390,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ زُهَيْرٍ، عَنْ مَنْصُورٍ، عَنِ الْحَكَمِ، عَنْ مِقْسَمٍ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يُوتِرُ بِسَبْعٍ أَوْ بِخَمْسٍ لاَ يَفْصِلُ بَيْنَهُنَّ بِتَسْلِيمٍ وَلاَ كَلاَمٍ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Umm Salamah said:",
+    "text": "“The Messenger of Allah (ﷺ)\nused\nto pray Witr with seven or five Rak’ah, and he would not say\nSalam\nor speak in between them.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 363,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، حَدَّثَنَا الْمُعَلَّى بْنُ مَنْصُورٍ، أَخْبَرَنَا هُشَيْمٌ، عَنْ مَنْصُورٍ، عَنِ ابْنِ سِيرِينَ، عَنِ ابْنِ الْعَلاَءِ، عَنِ الْعَلاَءِ، - يَعْنِي ابْنَ الْحَضْرَمِيِّ - أَنَّهُ كَتَبَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَبَدَأَ بِاسْمِهِ ‏.‏",
+  "english": {
+    "narrator": "Ibn al-Ala said :",
+    "text": "Al-Ala b. al-Hadrami wrote to the prophet (May peace be upon him), and he began with his name."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 365,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَفِي رِوَايَةٍ لَهُ كَانَتْ خُطْبَةُ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-يَوْمَ اَلْجُمُعَةِ: { يَحْمَدُ اَللَّهَ وَيُثْنِي عَلَيْهِ, ثُمَّ يَقُولُ عَلَى إِثْرِ ذَلِكَ, وَقَدْ عَلَا صَوْتُهُ }",
+  "english": {
+    "narrator": "And in a narration of Muslim:",
+    "text": "\"In the Prophet's Khutbah on Friday: He would praise Allah and extol Him. Then, following that, he would say - and he had raised his voice...\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

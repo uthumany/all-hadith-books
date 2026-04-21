@@ -1,0 +1,16 @@
+{
+  "id": 116,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عِيسَى بْنُ مُحَمَّدٍ الرَّمْلِيُّ، وَابْنُ، عَوْفٍ - وَهَذَا لَفْظُهُ - قَالاَ حَدَّثَنَا الْفِرْيَابِيُّ، عَنْ سُفْيَانَ، عَنْ ثَوْرٍ، عَنْ رَاشِدِ بْنِ سَعْدٍ، عَنْ مُعَاوِيَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِنَّكَ إِنِ اتَّبَعْتَ عَوْرَاتِ النَّاسِ أَفْسَدْتَهُمْ أَوْ كِدْتَ أَنْ تُفْسِدَهُمْ ‏\"‏ ‏.‏ فَقَالَ أَبُو الدَّرْدَاءِ كَلِمَةٌ سَمِعَهَا مُعَاوِيَةُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم نَفَعَهُ اللَّهُ تَعَالَى بِهَا ‏.‏",
+  "english": {
+    "narrator": "Narrated Mu'awiyah:",
+    "text": "I heard the Messenger of Allah (ﷺ) say: If you search for the faults of the people, you will corrupt them, or will nearly corrupt them. AbudDarda' said: These are the words which Mu'awiyah himself from the Messenger of Allah (ﷺ), and Allah benefited him by them."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

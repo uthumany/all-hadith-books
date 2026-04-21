@@ -1,0 +1,16 @@
+{
+  "id": 815,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا اسْتَوَى عَلَى الْمِنْبَرِ اسْتَقْبَلْنَاهُ بِوُجُوهِنَا. رَوَاهُ التِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ لَا نَعْرِفُهُ إِلَّا مِنْ حَدِيثِ مُحَمَّدِ بْنِ الْفَضْلِ وَهُوَ ضَعِيفٌ ذَاهِبُ الْحَدِيثِ",
+  "english": {
+    "narrator": "",
+    "text": "‘Abdallah b. Mas'ud said, “When the Prophet sat down on the pulpit we faced him.” \n\nTirmidhi transmitted it, and said this was a tradition he knew only among the traditions of Muhammad b. al-Fadl who was weak and whose traditions were not accepted."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

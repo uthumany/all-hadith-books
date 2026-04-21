@@ -1,0 +1,510 @@
+{
+  "page": 89,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 90,
+  "prevPage": 88,
+  "items": [
+    {
+      "id": 14,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالاَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، ح وَحَدَّثَنِي بِشْرُ، بْنُ خَالِدٍ أَخْبَرَنَا مُحَمَّدٌ، - يَعْنِي ابْنَ جَعْفَرٍ - كِلاَهُمَا عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لِكُلِّ غَادِرٍ لِوَاءٌ يَوْمَ الْقِيَامَةِ يُقَالُ هَذِهِ غَدْرَةُ فُلاَنٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah reported Allah's Prophet (ﷺ) as saying:",
+        "text": "There will be a flag for every perfidious person on the Day of Judgment, and it would be said: Here is the perfidy of so and so."
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا النَّضْرُ بْنُ شُمَيْلٍ، ح وَحَدَّثَنِي عُبَيْدُ اللَّهِ، بْنُ سَعِيدٍ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، جَمِيعًا عَنْ شُعْبَةَ، فِي هَذَا الإِسْنَادِ ‏.‏ وَلَيْسَ فِي حَدِيثِ عَبْدِ الرَّحْمَنِ ‏\n\"‏ يُقَالُ هَذِهِ غَدْرَةُ فُلاَنٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Shu'ba with a slight variation of wording."
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، عَنْ يَزِيدَ بْنِ عَبْدِ الْعَزِيزِ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لِكُلِّ غَادِرٍ لِوَاءٌ يَوْمَ الْقِيَامَةِ يُعْرَفُ بِهِ يُقَالُ هَذِهِ غَدْرَةُ فُلاَنٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abdullah that the Messenger of Allah (ﷺ) said:",
+        "text": "There will be for every perfidious person on the Day of Judgment a flag by which he will be recognised. It will be announced: Here is the breach of faith of so and so."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ شُعْبَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لِكُلِّ غَادِرٍ لِوَاءٌ يَوْمَ الْقِيَامَةِ يُعْرَفُ بِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas reported Allah's Messenger (ﷺ) having said this:",
+        "text": "There would be a flag for every perfidious person on the Day of Judgment by which he will be recognised."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا شُعْبَةُ، عَنْ خُلَيْدٍ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لِكُلِّ غَادِرٍ لِوَاءٌ عِنْدَ اسْتِهِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Sa'id that the Messenger of Allah (ﷺ) said:",
+        "text": "On the Day of Judgment there will be a flag fixed behind the buttocks of every person guilty of the breach of faith."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنَا الْمُسْتَمِرُّ بْنُ الرَّيَّانِ، حَدَّثَنَا أَبُو نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لِكُلِّ غَادِرٍ لِوَاءٌ يَوْمَ الْقِيَامَةِ يُرْفَعُ لَهُ بِقَدْرِ غَدْرِهِ أَلاَ وَلاَ غَادِرَ أَعْظَمُ غَدْرًا مِنْ أَمِيرِ عَامَّةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Sa'id that the Messenger of Allah (ﷺ) said:",
+        "text": "On the Day of Judgment there will be a flag for every person guilty of the breach of faith. It will be raised in proportion to the extent of his guilt; and there is no guilt of treachery more serious than the one committed by the ruler of men."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، - وَاللَّفْظُ لِعَلِيٍّ وَزُهَيْرٍ - قَالَ عَلِيٌّ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعَ عَمْرٌو، جَابِرًا يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الْحَرْبُ خَدْعَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Jabir that the Messenger of Allah (ﷺ) said:",
+        "text": "War is a stratagem."
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ سَهْمٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏الْحَرْبُ خُدْعَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has also been narrated on the authority of Abu Huraira."
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالاَ حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ، عَنِ الْمُغِيرَةِ، - وَهُوَ ابْنُ عَبْدِ الرَّحْمَنِ الْحِزَامِيُّ - عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي، هُرَيْرَةَ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَمَنَّوْا لِقَاءَ الْعَدُوِّ فَإِذَا لَقِيتُمُوهُمْ فَاصْبِرُوا‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:",
+        "text": "Do not desire an encounter with the enemy; but when you encounter them, be firm."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي مُوسَى، بْنُ عُقْبَةَ عَنْ أَبِي النَّضْرِ، عَنْ كِتَابِ، رَجُلٍ مِنْ أَسْلَمَ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم يُقَالُ لَهُ عَبْدُ اللَّهِ بْنُ أَبِي أَوْفَى فَكَتَبَ إِلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ حِينَ سَارَ إِلَى الْحَرُورِيَّةِ يُخْبِرُهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ فِي بَعْضِ أَيَّامِهِ الَّتِي لَقِيَ فِيهَا الْعَدُوَّ يَنْتَظِرُ حَتَّى إِذَا مَالَتِ الشَّمْسُ قَامَ فِيهِمْ فَقَالَ ‏\"‏ يَا أَيُّهَا النَّاسُ لاَ تَتَمَنَّوْا لِقَاءَ الْعَدُوِّ وَاسْأَلُوا اللَّهَ الْعَافِيَةَ فَإِذَا لَقِيتُمُوهُمْ فَاصْبِرُوا وَاعْلَمُوا أَنَّ الْجَنَّةَ تَحْتَ ظِلاَلِ السُّيُوفِ ‏\"‏ ‏.‏ ثُمَّ قَامَ النَّبِيُّ صلى الله عليه وسلم وَقَالَ ‏\"‏ اللَّهُمَّ مُنْزِلَ الْكِتَابِ وَمُجْرِيَ السَّحَابِ وَهَازِمَ الأَحْزَابِ اهْزِمْهُمْ وَانْصُرْنَا عَلَيْهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated by Abu Nadr that he learnt from a letter sent by a man from the Aslam tribe, who was a Companion of the Prophet (ﷺ) and whose name was 'Abdullah b. Abu Aufa, to 'Umar b. 'Ubaidullah when the latter marched upon Haruriyya (Khawarij) informing him that the Messenger of Allah (ﷺ) in one of those days when lie was confronting the enemy waited until the sun had declined. Then he stood up (to address the people) and said:",
+        "text": "O ye men, do not wish for an encounter with the enemy. Pray to Allah to grant you security; (but) when you (have to) encounter them exercise patience, and you should know that Paradise is under the shadows of the swords. Then the Messenger of Allah (ﷺ) stood up (again) and said: O Allah. Revealer of the Book, Disperser of the clouds, Defeater of the hordes, put our enemy to rout and help us against them."
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى، قَالَ دَعَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى الأَحْزَابِ فَقَالَ ‏\n\"‏ اللَّهُمَّ مُنْزِلَ الْكِتَابِ سَرِيعَ الْحِسَابِ اهْزِمِ الأَحْزَابَ اللَّهُمَّ اهْزِمْهُمْ وَزَلْزِلْهُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Ibn Abu Aufa that the Messenger of Allah (ﷺ) cursed the tribes (who had marched upon Medina with a combined force in 5 H) and said:",
+        "text": "O Allah, Revealer of the Book, swift in (taking) account, put the tribes to rout. O Lord, defeat them and shake them."
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي، خَالِدٍ قَالَ سَمِعْتُ ابْنَ أَبِي أَوْفَى، يَقُولُ دَعَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏ بِمِثْلِ حَدِيثِ خَالِدٍ غَيْرَ أَنَّهُ قَالَ ‏\"‏ هَازِمَ الأَحْزَابِ ‏\"‏ ‏.‏ وَلَمْ يَذْكُرْ قَوْلَهُ ‏\"‏ اللَّهُمَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of Ibn Abu Aufa with a slight variation of words."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، عَنْ إِسْمَاعِيلَ، بِهَذَا الإِسْنَادِ وَزَادَ ابْنُ أَبِي عُمَرَ فِي رِوَايَتِهِ ‏\n\"‏ مُجْرِيَ السَّحَابِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Ibn 'Uyaina through another chain of transmitters (who added the words)\" the Disperser of clouds\" in his narration."
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ يَوْمَ أُحُدٍ ‏\n\"‏ اللَّهُمَّ إِنَّكَ إِنْ تَشَأْ لاَ تُعْبَدْ فِي الأَرْضِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Anas that the Messenger of Allah (ﷺ) said on the day of the Battle of Uhud:",
+        "text": "O Allah, if Thou wilt (defeat Muslims), there will be none on the earth to worship Thee."
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَمُحَمَّدُ بْنُ رُمْحٍ، قَالاَ أَخْبَرَنَا اللَّيْثُ، ح وَحَدَّثَنَا قُتَيْبَةُ بْنُ، سَعِيدٍ حَدَّثَنَا لَيْثٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، أَنَّ امْرَأَةً، وُجِدَتْ، فِي بَعْضِ مَغَازِي رَسُولِ اللَّهِ صلى الله عليه وسلم مَقْتُولَةً فَأَنْكَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَتْلَ النِّسَاءِ وَالصِّبْيَانِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It is narrated on the authority of 'Abdullah that a woman was found killed in one of the battles fought by the Messenger of Allah (ﷺ). He disapproved of the killing of women and children."
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، وَأَبُو أُسَامَةَ قَالاَ حَدَّثَنَا عُبَيْدُ، اللَّهِ بْنُ عُمَرَ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ وُجِدَتِ امْرَأَةٌ مَقْتُولَةً فِي بَعْضِ تِلْكَ الْمَغَازِي فَنَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ قَتْلِ النِّسَاءِ وَالصِّبْيَانِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It is narrated by Ibn 'Umar that a woman was found killed in one of these battles; so the Messenger of Allah (ﷺ) forbade the killing of women and children."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَسَعِيدُ بْنُ مَنْصُورٍ، وَعَمْرٌو النَّاقِدُ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، قَالَ يَحْيَى أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنِ الصَّعْبِ، بْنِ جَثَّامَةَ قَالَ سُئِلَ النَّبِيُّ صلى الله عليه وسلم عَنِ الذَّرَارِيِّ مِنَ الْمُشْرِكِينَ يُبَيَّتُونَ فَيُصِيبُونَ مِنْ نِسَائِهِمْ وَذَرَارِيِّهِمْ ‏.‏ فَقَالَ ‏\n\"‏ هُمْ مِنْهُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is reported on the authority of Sa'b b. Jaththama that the Prophet of Allah (ﷺ), when asked about the women and children of the polytheists being killed during the night raid, said:",
+        "text": "They are from them."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ، اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ عَنِ ابْنِ عَبَّاسٍ، عَنِ الصَّعْبِ بْنِ جَثَّامَةَ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّا نُصِيبُ فِي الْبَيَاتِ مِنْ ذَرَارِيِّ الْمُشْرِكِينَ قَالَ ‏\n\"‏ هُمْ مِنْهُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated by Sa'b b. Jaththama that he said (to the Holy Prophet):",
+        "text": "Messenger of Allah, we kill the children of the polytheists during the night raids. He said: They are from them."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَمْرُو، بْنُ دِينَارٍ أَنَّ ابْنَ شِهَابٍ، أَخْبَرَهُ عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ الصَّعْبِ بْنِ جَثَّامَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قِيلَ لَهُ لَوْ أَنَّ خَيْلاً أَغَارَتْ مِنَ اللَّيْلِ فَأَصَابَتْ مِنْ أَبْنَاءِ الْمُشْرِكِينَ قَالَ ‏\n\"‏ هُمْ مِنْ آبَائِهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Sa'b b. Jaththama has narrated that the Prophet (ﷺ) asked:",
+        "text": "What about the children of polytheists killed by the cavalry during the night raid? He said: They are from them."
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَمُحَمَّدُ بْنُ رُمْحٍ، قَالاَ أَخْبَرَنَا اللَّيْثُ، ح وَحَدَّثَنَا قُتَيْبَةُ بْنُ، سَعِيدٍ حَدَّثَنَا لَيْثٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم حَرَّقَ نَخْلَ بَنِي النَّضِيرِ وَقَطَعَ وَهِيَ الْبُوَيْرَةُ ‏.‏ زَادَ قُتَيْبَةُ وَابْنُ رُمْحٍ فِي حَدِيثِهِمَا فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏ مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَى أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ‏}‏",
+      "english": {
+        "narrator": "It is narrated on the authority of 'Abdullah that the Messenger of Allah (ﷺ) ordered the date-palms of Banu Nadir to be burnt and cut. These palms were at Buwaira. Qutaibah and Ibn Rumh in their versions of the tradition have added:",
+        "text": "So Allah, the Glorious and Exalted, revealed the verse:\" Whatever trees you have cut down or left standing on their trunks, it was with the permission of Allah so that He may disgrace the evil-doers\" (lix. 5)."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَهَنَّادُ بْنُ السَّرِيِّ، قَالاَ حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ مُوسَى، بْنِ عُقْبَةَ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَطَعَ نَخْلَ بَنِي النَّضِيرِ وَحَرَّقَ وَلَهَا يَقُولُ حَسَّانُ وَهَانَ عَلَى سَرَاةِ بَنِي لُؤَىٍّ حَرِيقٌ بِالْبُوَيْرَةِ مُسْتَطِيرُ وَفِي ذَلِكَ نَزَلَتْ ‏{‏ مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَى أُصُولِهَا‏}‏ الآيَةَ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Ibn Umar that the Messenger of Allah (ﷺ) caused the date-palms of Banu Nadir to be cut down and burnt. It is in this connection that Hassan (the poet) said:",
+        "text": "It was easy for the nobles of Quraish to burn Buwaira whose sparks were flying in all directions, \nin the same connection was revealed the Qur'anic verse:\" Whatever trees you have cut down or left standing on their trunks.\""
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا سَهْلُ بْنُ عُثْمَانَ، أَخْبَرَنِي عُقْبَةُ بْنُ خَالِدٍ السَّكُونِيُّ، عَنْ عُبَيْدِ اللَّهِ، عَنْ  نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ حَرَّقَ رَسُولُ اللَّهِ صلى الله عليه وسلم نَخْلَ بَنِي النَّضِيرِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Abdullah b. Umar reported that Allah's Apostle (ﷺ) burnt the date-palms of Banu Nadir."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ مَعْمَرٍ، ح وَحَدَّثَنَا مُحَمَّدُ، بْنُ رَافِعٍ - وَاللَّفْظُ لَهُ - حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ غَزَا نَبِيٌّ مِنَ الأَنْبِيَاءِ فَقَالَ لِقَوْمِهِ لاَ يَتْبَعْنِي رَجُلٌ قَدْ مَلَكَ بُضْعَ امْرَأَةٍ وَهُوَ يُرِيدُ أَنْ يَبْنِيَ بِهَا وَلَمَّا يَبْنِ وَلاَ آخَرُ قَدْ بَنَى بُنْيَانًا وَلَمَّا يَرْفَعْ سُقُفَهَا وَلاَ آخَرُ قَدِ اشْتَرَى غَنَمًا أَوْ خَلِفَاتٍ وَهُوَ مُنْتَظِرٌ وِلاَدَهَا ‏.‏ قَالَ فَغَزَا فَأَدْنَى لِلْقَرْيَةِ حِينَ صَلاَةِ الْعَصْرِ أَوْ قَرِيبًا مِنْ ذَلِكَ فَقَالَ لِلشَّمْسِ أَنْتِ مَأْمُورَةٌ وَأَنَا مَأْمُورٌ اللَّهُمَّ احْبِسْهَا عَلَىَّ شَيْئًا ‏.‏ فَحُبِسَتْ عَلَيْهِ حَتَّى فَتَحَ اللَّهُ عَلَيْهِ - قَالَ - فَجَمَعُوا مَا غَنِمُوا فَأَقْبَلَتِ النَّارُ لِتَأْكُلَهُ فَأَبَتْ أَنْ تَطْعَمَهُ فَقَالَ فِيكُمْ غُلُولٌ فَلْيُبَايِعْنِي مِنْ كُلِّ قَبِيلَةٍ رَجُلٌ ‏.‏ فَبَايَعُوهُ فَلَصِقَتْ يَدُ رَجُلٍ بِيَدِهِ فَقَالَ فِيكُمُ الْغُلُولُ فَلْتُبَايِعْنِي قَبِيلَتُكَ ‏.‏ فَبَايَعَتْهُ - قَالَ - فَلَصِقَتْ بِيَدِ رَجُلَيْنِ أَوْ ثَلاَثَةٍ فَقَالَ فِيكُمُ الْغُلُولُ أَنْتُمْ غَلَلْتُمْ - قَالَ - فَأَخْرَجُوا لَهُ مِثْلَ رَأْسِ بَقَرَةٍ مِنْ ذَهَبٍ - قَالَ - فَوَضَعُوهُ فِي الْمَالِ وَهُوَ بِالصَّعِيدِ فَأَقْبَلَتِ النَّارُ فَأَكَلَتْهُ ‏.‏ فَلَمْ تَحِلَّ الْغَنَائِمُ لأَحَدٍ مِنْ قَبْلِنَا ذَلِكَ بِأَنَّ اللَّهَ تَبَارَكَ وَتَعَالَى رَأَى ضَعْفَنَا وَعَجْزَنَا فَطَيَّبَهَا لَنَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated by Abu Huraira that the Messenger of Allah (ﷺ) said:",
+        "text": "One of the Prophets made a holy war. He said to his followers: One who has married a woman and wants to consummate to his marriage but has not yet done so; another who has built a house but has not yet erected its roof; and another who has bought goats and pregnantshe-camels and is waiting for their offspring-will not accommpany me. So he marched on and approached a village at or about the time of the Asr prayers. He said to the sun: Thou art subserviant (to Allah) and so am I. O Allah, stop it for me a little. It was stopped for him until Allah granted him victory. The people gathered the spoils of war (at one place). A fire approached the spoils to devour them, but it did not devour them. He (the Holy Prophet) said: Some of you have been guilty of misappropriation. So one man from each tribe should swear fealty to me. The did so (putting their hands into his). The hand of one man stuck to his hand and the Prophet (ﷺ) said: Your tribe is guilty of misappropriation. Let all the members of your tribe swear fealty to me one by one. They did so, when the hands of two or three persons got stuck with his hand. He said: You have misappropriated. So they took out gold equal in volume to the head of a cow. They-placed it among the spoils on the earth. Then the fire approached the spoils and devoured them. The spoils of war were not made lawful for any people before us, This is because Allah saw our weakness and humility and made them lawful for us."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ سِمَاكٍ، عَنْ مُصْعَبِ بْنِ سَعْدٍ، عَنْ أَبِيهِ، قَالَ أَخَذَ أَبِي مِنَ الْخُمْسِ سَيْفًا فَأَتَى بِهِ النَّبِيَّ صلى الله عليه وسلم فَقَالَ هَبْ لِي هَذَا ‏.‏ فَأَبَى فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏ يَسْأَلُونَكَ عَنِ الأَنْفَالِ قُلِ الأَنْفَالُ لِلَّهِ وَالرَّسُولِ‏}‏",
+      "english": {
+        "narrator": "A hadith has been narrated by Mus'ab b. Sa'd who heard it from his father as saying:",
+        "text": "My father took a sword from Khums and brought it to the Prophet (ﷺ) and said: Grant it to me. He refused. At this Allah revealed (the Qur'anic verse):\" They ask thee concerning the spoils of war. Say: The spoils of war are for Allah and the Apostle\" (viii. 1)."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ، بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ مُصْعَبِ بْنِ سَعْدٍ، عَنْ أَبِيهِ، قَالَ نَزَلَتْ فِيَّ أَرْبَعُ آيَاتٍ أَصَبْتُ سَيْفًا فَأَتَى بِهِ النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ نَفِّلْنِيهِ ‏.‏ فَقَالَ ‏\"‏ ضَعْهُ ‏\"‏ ‏.‏ ثُمَّ قَامَ فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ ضَعْهُ مِنْ حَيْثُ أَخَذْتَهُ ‏\"‏ ‏.‏ ثُمَّ قَامَ فَقَالَ نَفِّلْنِيهِ يَا رَسُولَ اللَّهِ ‏.‏ فَقَالَ ‏\"‏ ضَعْهُ ‏\"‏ ‏.‏ فَقَامَ فَقَالَ يَا رَسُولَ اللَّهِ نَفِّلْنِيهِ أَأُجْعَلُ كَمَنْ لاَ غَنَاءَ لَهُ فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ ضَعْهُ مِنْ حَيْثُ أَخَذْتَهَ ‏\"‏ ‏.‏ قَالَ فَنَزَلَتْ هَذِهِ الآيَةُ ‏{‏ يَسْأَلُونَكَ عَنِ الأَنْفَالِ قُلِ الأَنْفَالُ لِلَّهِ وَالرَّسُولِ‏}‏",
+      "english": {
+        "narrator": "A hadith has been narrated by Mus'ab b. Sa'd who heard it from his father as saying:",
+        "text": "\" Four verses of the Qur'an have been revealed about me. I found a sword (among the spoils of war). It was brought to the Prophet (ﷺ). He (my father) said: Messenger of Allah, bestow it upon me. The Apostle of Allah (ﷺ) said: Place it there. Then he (my father) stood up and the Messenger of Allah (ﷺ) said to him: Place it from where you got it. (At this) he (my father) said again: Messenger of Allah, bestow it upon me Shall I be treated like one who has no share in (the booty)? The Apostle of Allah (may peace be upon him said: Place it from where you got it. At this was revealed the verse:\" They ask thee about the spoils of war.... Say: The spoils of war are for Allah and the Messenger\""
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ بَعَثَ النَّبِيُّ صلى الله عليه وسلم سَرِيَّةً وَأَنَا فِيهِمْ قِبَلَ نَجْدٍ فَغَنِمُوا إِبِلاً كَثِيرَةً فَكَانَتْ سُهْمَانُهُمُ اثْنَى عَشَرَ بَعِيرًا أَوْ أَحَدَ عَشَرَ بَعِيرًا وَنُفِّلُوا بَعِيرًا بَعِيرًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It has been narrated on the authority of Ibn Umar that the Prophet (ﷺ) sent an expedition to Najd and I was among the troops. They got a large number of camels as a booty. Eleven or twelve camels fell to the lot of every fighter and each of them also got one extra camel."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ سَرِيَّةً قِبَلَ نَجْدٍ وَفِيهِمُ ابْنُ عُمَرَ وَأَنَّ سُهْمَانَهُمْ بَلَغَتِ اثْنَىْ عَشَرَ بَعِيرًا وَنُفِّلُوا سِوَى ذَلِكَ بَعِيرًا فَلَمْ يُغَيِّرْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn 'Umar reported that Allah's Messenger (ﷺ) sent an expedition to Najd and Ibn Umar was also among the troops, and their share (of the spoils) came to twelve camels and they were given one camel over and above that. and Allah's Messenger (ﷺ) did not make any change in it."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَعَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ بَعَثَ رَسُولُ اللَّهِ صلى الله عليه وسلم سَرِيَّةً إِلَى نَجْدٍ فَخَرَجْتُ فِيهَا فَأَصَبْنَا إِبِلاً وَغَنَمًا فَبَلَغَتْ سُهْمَانُنَا اثْنَىْ عَشَرَ بَعِيرًا وَنَفَّلَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم بَعِيرًا بَعِيرًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It has been narrated by Ibn 'Umar that the Messenger of Allah (ﷺ) sent an expedition to Najd, and I (also) went with the troops. We got camels and goats as spoils of war, and our share amounted to twelve camels per head, and the Messenger of Allah (ﷺ) gave an extra camel to each of us."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا يَحْيَى، - وَهُوَ الْقَطَّانُ - عَنْ عُبَيْدِ اللَّهِ، بِهَذَا الإِسْنَادِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of 'Ubaidullah with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ أَبُو الرَّبِيعِ، وَأَبُو كَامِلٍ قَالاَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، ح وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، قَالَ كَتَبْتُ إِلَى نَافِعٍ أَسْأَلُهُ عَنِ النَّفَلِ، فَكَتَبَ إِلَىَّ أَنَّ4661 - وَحَدَّثَنَا ابْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي مُوسَى، ح وَحَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي أُسَامَةُ بْنُ زَيْدٍ، كُلُّهُمْ عَنْ نَافِعٍ، بِهَذَا الإِسْنَادِ نَحْوَ حَدِيثِهِمْ ‏.‏",
+      "english": {
+        "narrator": "Ibn Aun said:",
+        "text": "I wrote to Nafi' asking him about Nafl (spoils of war) and be wrote to me that Ibn 'Umar was among that expedition. (The rest of the hadith is the same.)"
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا سُرَيْجُ بْنُ يُونُسَ، وَعَمْرٌو النَّاقِدُ، - وَاللَّفْظُ لِسُرَيْجٍ - قَالاَ حَدَّثَنَا عَبْدُ، اللَّهِ بْنُ رَجَاءٍ عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ نَفَّلَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم نَفَلاً سِوَى نَصِيبِنَا مِنَ الْخُمْسِ فَأَصَابَنِي شَارِفٌ وَالشَّارِفُ الْمُسِنُّ الْكَبِيرُ ‏.",
+      "english": {
+        "narrator": "A hadith has been narrated by Salim who learnt it from his father and said:",
+        "text": "The Messenger of Allah (ﷺ) gave us an extra (camel) besides our share of Khums; (and in this extra share) I got a Sharif (and a Sharif is a big old camel)."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، ح وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، كِلاَهُمَا عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ بَلَغَنِي عَنِ ابْنِ عُمَرَ، قَالَ نَفَّلَ رَسُولُ اللَّهِ صلى الله عليه وسلم سَرِيَّةً بِنَحْوِ حَدِيثِ ابْنِ رَجَاءٍ ‏.‏",
+      "english": {
+        "narrator": "Ibn Shihab reported:",
+        "text": "It reached me through Ibn Umar that Allah's Messenger (ﷺ) gave a share of spoils to the troop. The rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، قَالَ حَدَّثَنِي عُقَيْلُ، بْنُ خَالِدٍ عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنْ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَدْ كَانَ يُنَفِّلُ بَعْضَ مَنْ يَبْعَثُ مِنَ السَّرَايَا لأَنْفُسِهِمْ خَاصَّةً سِوَى قَسْمِ عَامَّةِ الْجَيْشِ وَالْخُمْسُ فِي ذَلِكَ وَاجِبٌ كُلِّهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It has been narrated on the authority of Abdullah b. 'Umar that the Messenger of Allah (ﷺ) used to give (from the spoils of war) to small troops seat on expeditions something more than the due share of each fighter in a large force. And Khums (one-fifth of the total spoils) was to be reserved (for Allah and His Apostle) in all cases."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، أَخْبَرَنَا هُشَيْمٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عُمَرَ بْنِ، كَثِيرِ بْنِ أَفْلَحَ عَنْ أَبِي مُحَمَّدٍ الأَنْصَارِيِّ، وَكَانَ، جَلِيسًا لأَبِي قَتَادَةَ قَالَ قَالَ أَبُو قَتَادَةَ ‏.‏ وَاقْتَصَّ الْحَدِيثَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Muammad al-Ansari, who was the close companion of Abu Qatada. narrated the hadith (which follows)."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عُمَرَ بْنِ كَثِيرٍ، عَنْ أَبِي مُحَمَّدٍ، مَوْلَى أَبِي قَتَادَةَ أَنَّ أَبَا قَتَادَةَ، قَالَ ‏.‏ وَسَاقَ الْحَدِيثَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Muhammad, the freed slave of Abu Qatada reported on the authority of Abu Qatda and narrated the hadith."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، - وَاللَّفْظُ لَهُ - أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، قَالَ سَمِعْتُ مَالِكَ بْنَ أَنَسٍ، يَقُولُ حَدَّثَنِي يَحْيَى بْنُ سَعِيدٍ، عَنْ عُمَرَ بْنِ كَثِيرِ بْنِ أَفْلَحَ، عَنْ أَبِي مُحَمَّدٍ، مَوْلَى أَبِي قَتَادَةَ عَنْ أَبِي قَتَادَةَ، قَالَ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَامَ حُنَيْنٍ فَلَمَّا الْتَقَيْنَا كَانَتْ لِلْمُسْلِمِينَ جَوْلَةٌ ‏.‏ قَالَ فَرَأَيْتُ رَجُلاً مِنَ الْمُشْرِكِينَ قَدْ عَلاَ رَجُلاً مِنَ الْمُسْلِمِينَ فَاسْتَدَرْتُ إِلَيْهِ حَتَّى أَتَيْتُهُ مِنْ وَرَائِهِ فَضَرَبْتُهُ عَلَى حَبْلِ عَاتِقِهِ وَأَقْبَلَ عَلَىَّ فَضَمَّنِي ضَمَّةً وَجَدْتُ مِنْهَا رِيحَ الْمَوْتِ ثُمَّ أَدْرَكَهُ الْمَوْتُ فَأَرْسَلَنِي فَلَحِقْتُ عُمَرَ بْنَ الْخَطَّابِ فَقَالَ مَا لِلنَّاسِ فَقُلْتُ أَمْرُ اللَّهِ ‏.‏ ثُمَّ إِنَّ النَّاسَ رَجَعُوا وَجَلَسَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏ فَقَالَ ‏\"‏ مَنْ قَتَلَ قَتِيلاً لَهُ عَلَيْهِ بَيِّنَةٌ فَلَهُ سَلَبُهُ ‏\"‏ ‏.‏ قَالَ فَقُمْتُ فَقُلْتُ مَنْ يَشْهَدُ لِي ثُمَّ جَلَسْتُ ثُمَّ قَالَ مِثْلَ ذَلِكَ فَقَالَ فَقُمْتُ فَقُلْتُ مَنْ يَشْهَدُ لِي ثُمَّ جَلَسْتُ ثُمَّ قَالَ ذَلِكَ الثَّالِثَةَ فَقُمْتُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا لَكَ يَا أَبَا قَتَادَةَ ‏\"‏ ‏.‏ فَقَصَصْتُ عَلَيْهِ الْقِصَّةَ فَقَالَ رَجُلٌ مِنَ الْقَوْمِ صَدَقَ يَا رَسُولَ اللَّهِ سَلَبُ ذَلِكَ الْقَتِيلِ عِنْدِي فَأَرْضِهِ مِنْ حَقِّهِ ‏.‏ وَقَالَ أَبُو بَكْرٍ الصِّدِّيقُ لاَهَا اللَّهِ إِذًا لاَ يَعْمِدُ إِلَى أَسَدٍ مِنْ أُسُدِ اللَّهِ يُقَاتِلُ عَنِ اللَّهِ وَعَنْ رَسُولِهِ فَيُعْطِيكَ سَلَبَهُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ صَدَقَ فَأَعْطِهِ إِيَّاهُ ‏\"‏ ‏.‏ فَأَعْطَانِي قَالَ فَبِعْتُ الدِّرْعَ فَابْتَعْتُ بِهِ مَخْرَفًا فِي بَنِي سَلِمَةَ فَإِنَّهُ لأَوَّلُ مَالٍ تَأَثَّلْتُهُ فِي الإِسْلاَمِ ‏.‏ وَفِي حَدِيثِ اللَّيْثِ فَقَالَ أَبُو بَكْرٍ كَلاَّ لاَ يُعْطِيهِ أُضَيْبِعَ مِنْ قُرَيْشٍ وَيَدَعُ أَسَدًا مِنْ أُسُدِ اللَّهِ ‏.‏ وَفِي حَدِيثِ اللَّيْثِ لأَوَّلُ مَالٍ تَأَثَّلْتُهُ ‏.‏",
+      "english": {
+        "narrator": "Abu Qatada reported:",
+        "text": "We accompanied the Messenger of Allah (my peace be upon him) on an expedition in the year of the Battle of Hunain. When we encountered the enemy, (some of the Muslims turned back (in fear). I saw that a man from the polytheists overpowered one of the Muslims. I turned round and attacked him from behind giving a blow between his neck and shoulder. He turned towards me and grappled with me in such a way that I began to see death staring me in the face. Then death overtook him and left me alone. I joined 'Umar b. al-Khattab who was saying: What has happened to the people (that they are retreating)? I said: It is the Decree of Allah. Then the people returned. (The battle ended in a victory for the Muslims) and the Messenger of Allah (ﷺ) sat down (to distribute the spoils of war). He said: One who has killed an enemy and can bring evidence to prove it will get his belongings. So I stood up and said: Who will give evidence for me? Then I sat down. Then he (the Holy Prophet) said like this. I stood up (again) and said: Who will bear witness for me? He (the Holy Prophet) made the same observation the third time, and I stood up (once again). Now the Messenger of Allah (ﷺ) said: What has happened to you, O Abu Qatada? Then I related the (whole) story, to him. At this, one of the people said: He has told the truth. Messenger of Allah 1 The belongings of the enemy killed by him are with me. Persuade him to forgo his right (in my favour). (Objecting to this proposal) Abu Bakr said: BY Allah, this will not happen. The Messenger of Allah (ﷺ) will not like to deprive one of the lions from among the lions of Allah who fight in the cause of Allah and His Messenger and give thee his share of the booty. So the Messenger of Allah (may peace he upon him) said: He (Abu Bakr) has told the truth, and so give the belongings to him (Abu Qatada). So he gave them to me. I sold the armour (which was a part of my share of the booty) and bought with the sale proceeds a garden in the street of Banu Salama. This was the first property I acquired after embracing Islam. \nIn a version of the hadith narrated by Laith, the words uttered by Abu Bakr are:\" No, never! He will not give it to a fox from the Quraish leaving aside a lion from the lions of Allah among....\" And the hadith is closed with the words:\" The first property I acquired.\""
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، أَخْبَرَنَا يُوسُفُ بْنُ الْمَاجِشُونِ، عَنْ صَالِحِ بْنِ إِبْرَاهِيمَ، بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ عَنْ أَبِيهِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَنَّهُ قَالَ بَيْنَا أَنَا وَاقِفٌ، فِي الصَّفِّ يَوْمَ بَدْرٍ نَظَرْتُ عَنْ يَمِينِي، وَشِمَالِي، فَإِذَا أَنَا بَيْنَ، غُلاَمَيْنِ مِنَ الأَنْصَارِ حَدِيثَةٍ أَسْنَانُهُمَا تَمَنَّيْتُ لَوْ كُنْتُ بَيْنَ أَضْلَعَ مِنْهُمَا فَغَمَزَنِي أَحَدُهُمَا ‏.‏ فَقَالَ يَا عَمِّ هَلْ تَعْرِفُ أَبَا جَهْلٍ قَالَ قُلْتُ نَعَمْ وَمَا حَاجَتُكَ إِلَيْهِ يَا ابْنَ أَخِي قَالَ أُخْبِرْتُ أَنَّهُ يَسُبُّ رَسُولَ اللَّهِ صلى الله عليه وسلم وَالَّذِي نَفْسِي بِيَدِهِ لَئِنْ رَأَيْتُهُ لاَ يُفَارِقُ سَوَادِي سَوَادَهُ حَتَّى يَمُوتَ الأَعْجَلُ مِنَّا ‏.‏ قَالَ فَتَعَجَّبْتُ لِذَلِكَ فَغَمَزَنِي الآخَرُ فَقَالَ مِثْلَهَا - قَالَ - فَلَمْ أَنْشَبْ أَنْ نَظَرْتُ إِلَى أَبِي جَهْلٍ يَزُولُ فِي النَّاسِ فَقُلْتُ أَلاَ تَرَيَانِ هَذَا صَاحِبُكُمَا الَّذِي تَسْأَلاَنِ عَنْهُ قَالَ فَابْتَدَرَاهُ فَضَرَبَاهُ بِسَيْفَيْهِمَا حَتَّى قَتَلاَهُ ثُمَّ انْصَرَفَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَخْبَرَاهُ ‏.‏ فَقَالَ ‏\"‏ أَيُّكُمَا قَتَلَهُ ‏\"‏ ‏.‏ فَقَالَ كُلُّ وَاحِدٍ مِنْهُمَا أَنَا قَتَلْتُ ‏.‏ فَقَالَ ‏\"‏ هَلْ مَسَحْتُمَا سَيْفَيْكُمَا ‏\"‏ ‏.‏ قَالاَ لاَ ‏.‏ فَنَظَرَ فِي السَّيْفَيْنِ فَقَالَ ‏\"‏ كِلاَكُمَا قَتَلَهُ ‏\"‏ ‏.‏ وَقَضَى بِسَلَبِهِ لِمُعَاذِ بْنِ عَمْرِو بْنِ الْجَمُوحِ وَالرَّجُلاَنِ مُعَاذُ بْنُ عَمْرِو بْنِ الْجَمُوحِ وَمُعَاذُ ابْنُ عَفْرَاءَ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of 'Abd al-Rahman b. Auf who said:",
+        "text": "While I was standing in the battle array on the Day of Badr, I looked towards my right and my left, and found myself between two boys from the Ansar quite young in age. I wished I were between stronger persons. One of them made a sign to me and. said: Uncle, do you recognise Abu Jahl? 1 said: Yes. What do you want to do with him, O my nephew? He said: I have been told that he abuses the Messenger of Allah (ﷺ). By Allah, in Whose Hand is my life, if I see him (I will grapple with him) and will not leave him until one of us who is destined to die earlier is killed. The narrator said: I wondered at this. Then the other made a sign to me and said similar words. Soon after I saw Abu Jahl. He was moving about among men. I said to the two boys: Don't you see? He is the man you were inquiring about. (As soon as they heard this), they dashed towards him, struck him with their swords until he was killed. Then they returned to the Messenger of Allah (ﷺ) and informed him (to this effect). He asked: Which of you has killed him? Each one of them said: I have killed him. He said: Have you wiped your swords? They said: No. He examined their swords and said: Both of you have killed him. He then decided that the belongings of Abu Jahl he handed over to Mu'adh b. Amr b. al-Jamuh. And the two boys were Mu'adh b. Amr b. Jawth and Mu'adh b. Afra."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَحْمَدُ بْنُ عَمْرِو بْنِ سَرْحٍ أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي مُعَاوِيَةُ بْنُ صَالِحٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ جُبَيْرٍ، عَنْ أَبِيهِ، عَنْ عَوْفِ بْنِ مَالِكٍ، قَالَ قَتَلَ رَجُلٌ مِنْ حِمْيَرَ رَجُلاً مِنَ الْعَدُوِّ فَأَرَادَ سَلَبَهُ فَمَنَعَهُ خَالِدُ بْنُ الْوَلِيدِ وَكَانَ وَالِيًا عَلَيْهِمْ فَأَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم عَوْفُ بْنُ مَالِكٍ فَأَخْبَرَهُ فَقَالَ لِخَالِدٍ ‏\"‏ مَا مَنَعَكَ أَنْ تُعْطِيَهُ سَلَبَهُ ‏\"‏ ‏.‏ قَالَ اسْتَكْثَرْتُهُ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ ادْفَعْهُ إِلَيْهِ ‏\"‏ ‏.‏ فَمَرَّ خَالِدٌ بِعَوْفٍ فَجَرَّ بِرِدَائِهِ ثُمَّ قَالَ هَلْ أَنْجَزْتُ لَكَ مَا ذَكَرْتُ لَكَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَسَمِعَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم فَاسْتُغْضِبَ فَقَالَ ‏\"‏ لاَ تُعْطِهِ يَا خَالِدُ لاَ تُعْطِهِ يَا خَالِدُ هَلْ أَنْتُمْ تَارِكُونَ لِي أُمَرَائِي إِنَّمَا مَثَلُكُمْ وَمَثَلُهُمْ كَمَثَلِ رَجُلٍ اسْتُرْعِيَ إِبِلاً أَوْ غَنَمًا فَرَعَاهَا ثُمَّ تَحَيَّنَ سَقْيَهَا فَأَوْرَدَهَا حَوْضًا فَشَرَعَتْ فِيهِ فَشَرِبَتْ صَفْوَهُ وَتَرَكَتْ كَدَرَهُ فَصَفْوُهُ لَكُمْ وَكَدَرُهُ عَلَيْهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Auf b. Malik has narrated that a man from the Himyar tribe killed an enemy and wanted to take the booty. Khalid b. Walid, who was the commander over them, forbade, him. 'Auf b Malik (the narrator) came to the Messenger of Allah (ﷺ) and informed him (to this effect). The latter asked Khalid:",
+        "text": "What prevented you from giving the booty to him? Khalid said: I thought it was too much. He (the Holy Prophet) said: Hand it over to him. Now when Khalid by Auf, the latter pulled him by his cloak and said (by way of chafing him): Hasn't the same thing happened what I reported to you from the Messenger of Allah (may peace he upon him)? When the Messenger of Allah (ﷺ) heard it. he was angry (and said): Khalid, don't give him, Khalid, don't give him. Are you going to desert the commanders appointed by roe? Your similitude and theirs is like a person who took camels and sheep for grazing. He grazed them and when it was time for them to have a drink, he brought them to a pool. So they drank from it, drinking away its clear water and leaving the turbid water below So the clear water (i. e. the best reward) is for you and the turbid water (i e. blame) is for them."
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا صَفْوَانُ بْنُ عَمْرٍو، عَنْ عَبْدِ، الرَّحْمَنِ بْنِ جُبَيْرِ بْنِ نُفَيْرٍ عَنْ أَبِيهِ، عَنْ عَوْفِ بْنِ مَالِكٍ الأَشْجَعِيِّ، قَالَ خَرَجْتُ مَعَ مَنْ خَرَجَ مَعَ زَيْدِ بْنِ حَارِثَةَ فِي غَزْوَةِ مُؤْتَةَ وَرَافَقَنِي مَدَدِيٌّ مِنَ الْيَمَنِ ‏.‏ وَسَاقَ الْحَدِيثَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِنَحْوِهِ غَيْرَ أَنَّهُ قَالَ فِي الْحَدِيثِ قَالَ عَوْفٌ فَقُلْتُ يَا خَالِدُ أَمَا عَلِمْتَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى بِالسَّلَبِ لِلْقَاتِلِ قَالَ بَلَى وَلَكِنِّي اسْتَكْثَرْتُهُ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Auf b. Malik al-Ashja'i who said:",
+        "text": "I joined the expedition that marched under Zaid b. Haritha to Muta, and I received reinformcement from the Yemen. (After this introduction), the narrator narrated the tradition that had gone before except that in his version Auf was reported to have said (to Khalid): Khalid, didn't you know that the Messenger of Allah (way peace be upon him) had decided In favour of giving the booty (sized from an enemy) to one who killed him? He (Khalid) said: Yes. but I thought it was too much."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عُمَرُ بْنُ يُونُسَ الْحَنَفِيُّ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، حَدَّثَنِي إِيَاسُ بْنُ سَلَمَةَ، حَدَّثَنِي أَبِي سَلَمَةُ بْنُ الأَكْوَعِ، قَالَ غَزَوْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم هَوَازِنَ فَبَيْنَا نَحْنُ نَتَضَحَّى مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذْ جَاءَ رَجُلٌ عَلَى جَمَلٍ أَحْمَرَ فَأَنَاخَهُ ثُمَّ انْتَزَعَ طَلَقًا مِنْ حَقَبِهِ فَقَيَّدَ بِهِ الْجَمَلَ ثُمَّ تَقَدَّمَ يَتَغَدَّى مَعَ الْقَوْمِ وَجَعَلَ يَنْظُرُ وَفِينَا ضَعْفَةٌ وَرِقَّةٌ فِي الظَّهْرِ وَبَعْضُنَا مُشَاةٌ إِذْ خَرَجَ يَشْتَدُّ فَأَتَى جَمَلَهُ فَأَطْلَقَ قَيْدَهُ ثُمَّ أَنَاخَهُ وَقَعَدَ عَلَيْهِ فَأَثَارَهُ فَاشْتَدَّ بِهِ الْجَمَلُ فَاتَّبَعَهُ رَجُلٌ عَلَى نَاقَةٍ وَرْقَاءَ ‏.‏ قَالَ سَلَمَةُ وَخَرَجْتُ أَشْتَدُّ فَكُنْتُ عِنْدَ وَرِكِ النَّاقَةِ ‏.‏ ثُمَّ تَقَدَّمْتُ حَتَّى كُنْتُ عِنْدَ وَرِكِ الْجَمَلِ ثُمَّ تَقَدَّمْتُ حَتَّى أَخَذْتُ بِخِطَامِ الْجَمَلِ فَأَنَخْتُهُ فَلَمَّا وَضَعَ رُكْبَتَهُ فِي الأَرْضِ اخْتَرَطْتُ سَيْفِي فَضَرَبْتُ رَأْسَ الرَّجُلِ فَنَدَرَ ثُمَّ جِئْتُ بِالْجَمَلِ أَقُودُهُ عَلَيْهِ رَحْلُهُ وَسِلاَحُهُ فَاسْتَقْبَلَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَالنَّاسُ مَعَهُ فَقَالَ ‏\"‏ مَنْ قَتَلَ الرَّجُلَ ‏\"‏ ‏.‏ قَالُوا ابْنُ الأَكْوَعِ ‏.‏ قَالَ ‏\"‏ لَهُ سَلَبُهُ أَجْمَعُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been reported by Salama b. al-Akwa':",
+        "text": "We fought the Battle of Hawazin along with the Messenger of Allah (ﷺ). (One day) when we were having our breakfast with the Messenger of Allah (may peace he upon him), a man came riding a red camel. He made it kneel down, extracted a strip of leather from its girth and tethered the camel with it. Then he began to take food with the people and look (curiously around). We were in a poor condition as some of us were on foot (being without any riding animals). All of a sudden, he left us hurriedy, came to his camel, untethered it, made it kneel down, mounted it and urged the beast which ran off with him. A man on a brown rhe-camel chased him (taking him for a spy). Salama (the narrator) said: I followed on foot. I ran on until I was near the thigh of the she-camel. I advanced further until I was near the haunches of the camel. I advanced still further until I caught hold of the nosestring of the camel. I made it kneel down. As soon as it placed its knee on the ground, I drew my sword and struck at the head, of the rider who fell down. I brought the camel driving it along with the man's baggage and weapons. The Messenger of Allah (ﷺ) came forward to meet me and the people were with him. He asked: Who has killed the man? The people said: Ibn Akwa'. He said: Everything of the man is for him (Ibn Akwa')."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عُمَرُ بْنُ يُونُسَ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، حَدَّثَنِي إِيَاسُ بْنُ سَلَمَةَ، حَدَّثَنِي أَبِي قَالَ، غَزَوْنَا فَزَارَةَ وَعَلَيْنَا أَبُو بَكْرٍ أَمَّرَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَيْنَا فَلَمَّا كَانَ بَيْنَنَا وَبَيْنَ الْمَاءِ سَاعَةٌ أَمَرَنَا أَبُو بَكْرٍ فَعَرَّسْنَا ثُمَّ شَنَّ الْغَارَةَ فَوَرَدَ الْمَاءَ فَقَتَلَ مَنْ قَتَلَ عَلَيْهِ وَسَبَى وَأَنْظُرُ إِلَى عُنُقٍ مِنَ النَّاسِ فِيهِمُ الذَّرَارِيُّ فَخَشِيتُ أَنْ يَسْبِقُونِي إِلَى الْجَبَلِ فَرَمَيْتُ بِسَهْمٍ بَيْنَهُمْ وَبَيْنَ الْجَبَلِ فَلَمَّا رَأَوُا السَّهْمَ وَقَفُوا فَجِئْتُ بِهِمْ أَسُوقُهُمْ وَفِيهِمُ امْرَأَةٌ مِنْ بَنِي فَزَارَةَ عَلَيْهَا قِشْعٌ مِنْ أَدَمٍ - قَالَ الْقِشْعُ النِّطَعُ - مَعَهَا ابْنَةٌ لَهَا مِنْ أَحْسَنِ الْعَرَبِ فَسُقْتُهُمْ حَتَّى أَتَيْتُ بِهِمْ أَبَا بَكْرٍ فَنَفَّلَنِي أَبُو بَكْرٍ ابْنَتَهَا فَقَدِمْنَا الْمَدِينَةَ وَمَا كَشَفْتُ لَهَا ثَوْبًا فَلَقِيَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فِي السُّوقِ فَقَالَ ‏\"‏ يَا سَلَمَةُ هَبْ لِي الْمَرْأَةَ ‏\"‏ ‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ وَاللَّهِ لَقَدْ أَعْجَبَتْنِي وَمَا كَشَفْتُ لَهَا ثَوْبًا ثُمَّ لَقِيَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الْغَدِ فِي السُّوقِ فَقَالَ لِي ‏\"‏ يَا سَلَمَةُ هَبْ لِي الْمَرْأَةَ لِلَّهِ أَبُوكَ ‏\"‏ ‏.‏ فَقُلْتُ هِيَ لَكَ يَا رَسُولَ اللَّهِ فَوَاللَّهِ مَا كَشَفْتُ لَهَا ثَوْبًا فَبَعَثَ بِهَا رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى أَهْلِ مَكَّةَ فَفَدَى بِهَا نَاسًا مِنَ الْمُسْلِمِينَ كَانُوا أُسِرُوا بِمَكَّةَ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Salama (b. al-Akwa') who said:",
+        "text": "We fought against the Fazara, and Abu Bakr was the commander over us. He had been appointed by the Messenger of Allah (ﷺ). When we were only at an hour's distance from the water of the enemy, Abu Bakr ordered us to attack. We made a halt during the last part of the night to rest and then we attacked from all sides and reached their watering-place where a battle was fought. Some of the enemies were killed and some were taken prisoners. I saw a group of persons that consisted of women and children. I was afraid lest they should reach the mountain before me, so I shot an arrow between them and the mountain. When they saw the arrow, they stopped. So I brought them, driving them along. Among them was a woman from Banu Fazara. She was wearing a leather coat. With her was her daughter who was one of the prettiest girls in Arabia. I drove them along until I brought them to Abu Bakr who bestowed that girl upon me as a prize. So we arrived in Medina. I had not yet disrobed her when the Messenger of Allah (ﷺ) met me in the street and said: Give me that girl, O Salama. I said: Messenger of Allah, she has fascinated me. I had not yet disrobed her. When on the next day the Messenger of Allah (ﷺ) again met me in the street, he said: O Salama, give me that girl, may God bless your father. I said: She is for you, Messenger of Allah! By Allah. I have not yet disrobed her. The Messenger of Allah (ﷺ) sent her to the people of Mecca, and surrendered her as ransom for a number of Muslims who had been kept as prisoners at Mecca."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَمُحَمَّدُ بْنُ رَافِعٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَيُّمَا قَرْيَةٍ أَتَيْتُمُوهَا وَأَقَمْتُمْ فِيهَا فَسَهْمُكُمْ فِيهَا وَأَيُّمَا قَرْيَةٍ عَصَتِ اللَّهَ وَرَسُولَهُ فَإِنَّ خُمُسَهَا لِلَّهِ وَلِرَسُولِهِ ثُمَّ هِيَ لَكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:",
+        "text": "If you come to a township (which has surrendered without a formal war) and stay therein, you have a share (that will be in the form of an award) in (the properties obtained from) it. If a township disobeys Allah and His Messenger (and actually fights against the Muslims) one-fifth of the booty seized therefrom is for Allah and His Apostle and the rest is for you."
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ عَبَّادٍ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ - وَاللَّفْظُ لاِبْنِ أَبِي شَيْبَةَ - قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرُونَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنِ الزُّهْرِيِّ، عَنْ مَالِكِ بْنِ أَوْسٍ، عَنْ عُمَرَ، قَالَ كَانَتْ أَمْوَالُ بَنِي النَّضِيرِ مِمَّا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِمَّا لَمْ يُوجِفْ عَلَيْهِ الْمُسْلِمُونَ بِخَيْلٍ وَلاَ رِكَابٍ فَكَانَتْ لِلنَّبِيِّ صلى الله عليه وسلم خَاصَّةً فَكَانَ يُنْفِقُ عَلَى أَهْلِهِ نَفَقَةَ سَنَةٍ وَمَا بَقِيَ يَجْعَلُهُ فِي الْكُرَاعِ وَالسِّلاَحِ عُدَّةً فِي سَبِيلِ اللَّهِ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of Umar, who said:",
+        "text": "The properties abandoned by Banu Nadir were the ones which Allah bestowed upon His Apostle for which no expedition was undertaken either with cavalry or camelry. These properties were particularly meant for the Prophet (ﷺ). He would meet the annual expenditure of his family from the income thereof, and would spend what remained for purchasing horses and weapons as preparation for Jihad."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Zuhri."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ الضُّبَعِيُّ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ مَالِكٍ، عَنِ الزُّهْرِيِّ، أَنَّ مَالِكَ بْنَ أَوْسٍ، حَدَّثَهُ قَالَ أَرْسَلَ إِلَىَّ عُمَرُ بْنُ الْخَطَّابِ فَجِئْتُهُ حِينَ تَعَالَى النَّهَارُ - قَالَ - فَوَجَدْتُهُ فِي بَيْتِهِ جَالِسًا عَلَى سَرِيرٍ مُفْضِيًا إِلَى رِمَالِهِ مُتَّكِئًا عَلَى وِسَادَةٍ مِنْ أَدَمٍ ‏.‏ فَقَالَ لِي يَا مَالُ إِنَّهُ قَدْ دَفَّ أَهْلُ أَبْيَاتٍ مِنْ قَوْمِكَ وَقَدْ أَمَرْتُ فِيهِمْ بِرَضْخٍ فَخُذْهُ فَاقْسِمْهُ بَيْنَهُمْ - قَالَ - قُلْتُ لَوْ أَمَرْتَ بِهَذَا غَيْرِي قَالَ خُذْهُ يَا مَالُ ‏.‏ قَالَ فَجَاءَ يَرْفَا فَقَالَ هَلْ لَكَ يَا أَمِيرَ الْمُؤْمِنِينَ فِي عُثْمَانَ وَعَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ وَالزُّبَيْرِ وَسَعْدٍ فَقَالَ عُمَرُ نَعَمْ ‏.‏ فَأَذِنَ لَهُمْ فَدَخَلُوا ثُمَّ جَاءَ ‏.‏ فَقَالَ هَلْ لَكَ فِي عَبَّاسٍ وَعَلِيٍّ قَالَ نَعَمْ ‏.‏ فَأَذِنَ لَهُمَا فَقَالَ عَبَّاسٌ يَا أَمِيرَ الْمُؤْمِنِينَ اقْضِ بَيْنِي وَبَيْنَ هَذَا الْكَاذِبِ الآثِمِ الْغَادِرِ الْخَائِنِ ‏.‏ فَقَالَ الْقَوْمُ أَجَلْ يَا أَمِيرَ الْمُؤْمِنِينَ فَاقْضِ بَيْنَهُمْ وَأَرِحْهُمْ ‏.‏ فَقَالَ مَالِكُ بْنُ أَوْسٍ يُخَيَّلُ إِلَىَّ أَنَّهُمْ قَدْ كَانُوا قَدَّمُوهُمْ لِذَلِكَ - فَقَالَ عُمَرُ اتَّئِدَا أَنْشُدُكُمْ بِاللَّهِ الَّذِي بِإِذْنِهِ تَقُومُ السَّمَاءُ وَالأَرْضُ أَتَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ نُورَثُ مَا تَرَكْنَا صَدَقَةٌ ‏\"‏ ‏.‏ قَالُوا نَعَمْ ‏.‏ ثُمَّ أَقْبَلَ عَلَى الْعَبَّاسِ وَعَلِيٍّ فَقَالَ أَنْشُدُكُمَا بِاللَّهِ الَّذِي بِإِذْنِهِ تَقُومُ السَّمَاءُ وَالأَرْضُ أَتَعْلَمَانِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ نُورَثُ مَا تَرَكْنَاهُ صَدَقَةٌ ‏\"‏ ‏.‏ قَالاَ نَعَمْ ‏.‏ فَقَالَ عُمَرُ إِنَّ اللَّهَ جَلَّ وَعَزَّ كَانَ خَصَّ رَسُولَهُ صلى الله عليه وسلم بِخَاصَّةٍ لَمْ يُخَصِّصْ بِهَا أَحَدًا غَيْرَهُ قَالَ ‏{‏ مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ وَلِلرَّسُولِ‏}‏ مَا أَدْرِي هَلْ قَرَأَ الآيَةَ الَّتِي قَبْلَهَا أَمْ لاَ ‏.‏ قَالَ فَقَسَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَكُمْ أَمْوَالَ بَنِي النَّضِيرِ فَوَاللَّهِ مَا اسْتَأْثَرَ عَلَيْكُمْ وَلاَ أَخَذَهَا دُونَكُمْ حَتَّى بَقِيَ هَذَا الْمَالُ فَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْخُذُ مِنْهُ نَفَقَةَ سَنَةٍ ثُمَّ يَجْعَلُ مَا بَقِيَ أُسْوَةَ الْمَالِ ‏.‏ ثُمَّ قَالَ أَنْشُدُكُمْ بِاللَّهِ الَّذِي بِإِذْنِهِ تَقُومُ السَّمَاءُ وَالأَرْضُ أَتَعْلَمُونَ ذَلِكَ قَالُوا نَعَمْ ‏.‏ ثُمَّ نَشَدَ عَبَّاسًا وَعَلِيًّا بِمِثْلِ مَا نَشَدَ بِهِ الْقَوْمَ أَتَعْلَمَانِ ذَلِكَ قَالاَ نَعَمْ ‏.‏ قَالَ فَلَمَّا تُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ أَبُو بَكْرٍ أَنَا وَلِيُّ رَسُولِ اللَّهِ صلى الله عليه وسلم فَجِئْتُمَا تَطْلُبُ مِيرَاثَكَ مِنَ ابْنِ أَخِيكَ وَيَطْلُبُ هَذَا مِيرَاثَ امْرَأَتِهِ مِنْ أَبِيهَا فَقَالَ أَبُو بَكْرٍ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا نُورَثُ مَا تَرَكْنَا صَدَقَةٌ ‏\"‏ ‏.‏ فَرَأَيْتُمَاهُ كَاذِبًا آثِمًا غَادِرًا خَائِنًا وَاللَّهُ يَعْلَمُ إِنَّهُ لَصَادِقٌ بَارٌّ رَاشِدٌ تَابِعٌ لِلْحَقِّ ثُمَّ تُوُفِّيَ أَبُو بَكْرٍ وَأَنَا وَلِيُّ رَسُولِ اللَّهِ صلى الله عليه وسلم وَوَلِيُّ أَبِي بَكْرٍ فَرَأَيْتُمَانِي كَاذِبًا آثِمًا غَادِرًا خَائِنًا وَاللَّهُ يَعْلَمُ إِنِّي لَصَادِقٌ بَارٌّ رَاشِدٌ تَابِعٌ لِلْحَقِّ فَوَلِيتُهَا ثُمَّ جِئْتَنِي أَنْتَ وَهَذَا وَأَنْتُمَا جَمِيعٌ وَأَمْرُكُمَا وَاحِدٌ فَقُلْتُمَا ادْفَعْهَا إِلَيْنَا فَقُلْتُ إِنْ شِئْتُمْ دَفَعْتُهَا إِلَيْكُمَا عَلَى أَنَّ عَلَيْكُمَا عَهْدَ اللَّهِ أَنْ تَعْمَلاَ فِيهَا بِالَّذِي كَانَ يَعْمَلُ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَخَذْتُمَاهَا بِذَلِكَ قَالَ أَكَذَلِكَ قَالاَ نَعَمْ ‏.‏ قَالَ ثُمَّ جِئْتُمَانِي لأَقْضِيَ بَيْنَكُمَا وَلاَ وَاللَّهِ لاَ أَقْضِي بَيْنَكُمَا بِغَيْرِ ذَلِكَ حَتَّى تَقُومَ السَّاعَةُ فَإِنْ عَجَزْتُمَا عَنْهَا فَرُدَّاهَا إِلَىَّ ‏.‏",
+      "english": {
+        "narrator": "It is reported by Zuhri that this tradition was narrated to him by Malik b. Aus who said:",
+        "text": "Umar b. al-Khattab sent for me and I came to him when the day had advanced. I found him in his house sitting on his bare bed-stead, reclining on a leather pillow. He said (to me): Malik, some people of your tribe have hastened to me (with a request for help). I have ordered a little money for them. Take it and distribute it among them. I said: I wish you had ordered somebody else to do this job. He said: Malik, take it (and do what you have been told). At this moment (his man-servant) Yarfa' came in and said: Commander of the Faithful, what do you say about Uthman, Abd al-Rabman b. 'Auf, Zubair and Sa'd (who have come to seek an audience with you)? He said: Yes, and permitted them. so they entered. Then he (Yarfa') came again and said: What do you say about 'Ali and Abbas (who are present at the door)? He said: Yes, and permitted them to enter. Abbas said: Commander of the Faithful, decide (the dispute) between me and this sinful, treacherous, dishonest liar. The people (who were present) also said: Yes. Commander of the Faithful, do decide (the dispute) and have mercy on them. Malik b. Aus said: I could well imagine that they had sent them in advance for this purpose (by 'Ali and Abbas). 'Umar said: Wait and be patient. I adjure you by Allah by Whose order the heavens and the earth are sustained, don't you know that the Messenger of Allah (ﷺ) said:\" We (prophets) do not have any heirs; what we leave behind is (to be given in) charity\"? They said: Yes. Then he turned to Abbas and 'Ali and said: I adjure you both by Allah by Whose order the heavens and earth are sustained, don't you know that the Messenger of Allah (ﷺ) said:\" We do not have any heirs; what we leave behind is (to be given in) charity\"? They (too) said: Yes. (Then) Umar said: Allah, the Glorious and Exalted, had done to His Messenger (ﷺ) a special favour that He has not done to anyone else except him. He quoted the Qur'anic verse:\" What Allah has bestowed upon His Apostle from (the properties) of the people of township is for Allah and His Messenger\". The narrator said: I do not know whether he also recited the previous verse or not. Umar continued: The Messenger of Allah (ﷺ) distrbuted among you the properties abandoned by Banu Nadir. By Allah, he never preferred himself over you and never appropriated anything to your exclusion. (After a fair distribution in this way) this property was left over. \nThe Messenger of Allah (ﷺ) would meet from its income his annual expenditure, and what remained would be deposited in the Bait-ul-Mal. (Continuing further) he said: I adjure you by Allah by Whose order the heavens and the earth are sustained. Do you know this? They said: Yes. Then he adjured Abbas and 'All as he had adjured the other persons and asked: Do you both know this? They said: Yes. He said: When the Messenger of Allah (ﷺ) passed away, Abu Bakr said:\" I am the successor of the Messenger of Allah (ﷺ).\" Both of you came to demand your shares from the property (left behind by the Messenger of Allah). (Referring to Hadrat 'Abbas), he said: You demanded your share from the property of your nephew, and he (referring to 'Ali) demanded a share on behalf of his wife from the property of her father. Abu Bakr (Allah be pleased with him) said: The Messenger of Allah (ﷺ) had said:\" We do not have any heirs; what we leave behind is (to be given in) charity.\" So both of you thought him to be a liar, sinful, treacherous and dishonest. And Allah knows that he was true, virtuous, well-guided and a follower of truth. When Abu Bakr passed away and (I have become) the successor of the Messenger of Allah (ﷺ) and Abu Bakr (Allah be pleased with him), you thought me to be a liar, sinful, treacherous and dishonest. And Allah knows that I am true, virtuous, well-guided and a follower of truth. I became the guardian of this property. Then you as well as he came to me. Both of you have come and your purpose is identical. You said: Entrust the property to us. I said: If you wish that I should entrust it to you, it will be on the condition that both of you will undertake to abide by a pledge made with Allah that you will use it in the same way as the Messenger of Allah (ﷺ) used it. So both of you got it. He said: Wasn't it like this? They said: Yes. He said: Then you have (again) come to me with the request that I should adjudge between you. No, by Allah. I will not give any other judgment except this until the arrival of the Doomsday. If you are unable to hold the property on this condition, return it to me."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، - قَالَ ابْنُ رَافِعٍ حَدَّثَنَا وَقَالَ الآخَرَانِ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، - أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ مَالِكِ بْنِ أَوْسِ، بْنِ الْحَدَثَانِ قَالَ أَرْسَلَ إِلَىَّ عُمَرُ بْنُ الْخَطَّابِ فَقَالَ إِنَّهُ قَدْ حَضَرَ أَهْلُ أَبْيَاتٍ مِنْ قَوْمِكَ ‏.‏ بِنَحْوِ حَدِيثِ مَالِكٍ ‏.‏ غَيْرَ أَنَّ فِيهِ، فَكَانَ يُنْفِقُ عَلَى أَهْلِهِ مِنْهُ سَنَةً وَرُبَّمَا قَالَ مَعْمَرٌ يَحْبِسُ قُوتَ أَهْلِهِ مِنْهُ سَنَةً ثُمَّ يَجْعَلُ مَا بَقِيَ مِنْهُ مَجْعَلَ مَالِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+      "english": {
+        "narrator": "The same hadith has been narrated by a different chain of transmitters with a slight variation in wording:",
+        "text": "'Umar b. al-Khattab sent for me and said: Some families from your tribe have come to me (then follows the foregoing hadith) by Malik with the difference that the Messenger of Allah (ﷺ) would spend on his family for a year. And sometimes Ma'mar said: He would retain sustenance for his family for a year, and what was left of that he spent in the cause of Allah, the Majestic and Exalted."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ إِنَّ أَزْوَاجَ النَّبِيِّ صلى الله عليه وسلم حِينَ تُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَرَدْنَ أَنْ يَبْعَثْنَ عُثْمَانَ بْنَ عَفَّانَ إِلَى أَبِي بَكْرٍ فَيَسْأَلْنَهُ مِيرَاثَهُنَّ مِنَ النَّبِيِّ صلى الله عليه وسلم قَالَتْ عَائِشَةُ لَهُنَّ أَلَيْسَ قَدْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ نُورَثُ مَا تَرَكْنَا فَهُوَ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of 'A'isha who said:",
+        "text": "When the Messenger of Allah (ﷺ) passed away, his wives made up their minds to send 'Uthman b. 'Affan (as their spokesman) to Abu Bakr to demand from him their share from the legacy of the Prophet (ﷺ). (At this), A'isha said to them: Hasn't the Messenger of Allah (ﷺ) said:\" We (Prophets) do not have any heirs; what we leave behind is (to be given in) charity\"?"
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، أَخْبَرَنَا حُجَيْنٌ، حَدَّثَنَا لَيْثٌ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، أَنَّهَا أَخْبَرَتْهُ أَنَّ فَاطِمَةَ بِنْتَ رَسُولِ اللَّهِ صلى الله عليه وسلم أَرْسَلَتْ إِلَى أَبِي بَكْرٍ الصِّدِّيقِ تَسْأَلُهُ مِيرَاثَهَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم مِمَّا أَفَاءَ اللَّهُ عَلَيْهِ بِالْمَدِينَةِ وَفَدَكٍ وَمَا بَقِيَ مِنْ خُمْسِ خَيْبَرَ فَقَالَ أَبُو بَكْرٍ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ نُورَثُ مَا تَرَكْنَا صَدَقَةٌ إِنَّمَا يَأْكُلُ آلُ مُحَمَّدٍ - صلى الله عليه وسلم - فِي هَذَا الْمَالِ ‏\"‏ ‏.‏ وَإِنِّي وَاللَّهِ لاَ أُغَيِّرُ شَيْئًا مِنْ صَدَقَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم عَنْ حَالِهَا الَّتِي كَانَتْ عَلَيْهَا فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَلأَعْمَلَنَّ فِيهَا بِمَا عَمِلَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَبَى أَبُو بَكْرٍ أَنْ يَدْفَعَ إِلَى فَاطِمَةَ شَيْئًا فَوَجَدَتْ فَاطِمَةُ عَلَى أَبِي بَكْرٍ فِي ذَلِكَ - قَالَ - فَهَجَرَتْهُ فَلَمْ تُكَلِّمْهُ حَتَّى تُوُفِّيَتْ وَعَاشَتْ بَعْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم سِتَّةَ أَشْهُرٍ فَلَمَّا تُوُفِّيَتْ دَفَنَهَا زَوْجُهَا عَلِيُّ بْنُ أَبِي طَالِبٍ لَيْلاً وَلَمْ يُؤْذِنْ بِهَا أَبَا بَكْرٍ وَصَلَّى عَلَيْهَا عَلِيٌّ وَكَانَ لِعَلِيٍّ مِنَ النَّاسِ وِجْهَةٌ حَيَاةَ فَاطِمَةَ فَلَمَّا تُوُفِّيَتِ اسْتَنْكَرَ عَلِيٌّ وُجُوهَ النَّاسِ فَالْتَمَسَ مُصَالَحَةَ أَبِي بَكْرٍ وَمُبَايَعَتَهُ وَلَمْ يَكُنْ بَايَعَ تِلْكَ الأَشْهُرَ فَأَرْسَلَ إِلَى أَبِي بَكْرٍ أَنِ ائْتِنَا وَلاَ يَأْتِنَا مَعَكَ أَحَدٌ - كَرَاهِيَةَ مَحْضَرِ عُمَرَ بْنِ الْخَطَّابِ - فَقَالَ عُمَرُ لأَبِي بَكْرٍ وَاللَّهِ لاَ تَدْخُلْ عَلَيْهِمْ وَحْدَكَ ‏.‏ فَقَالَ أَبُو بَكْرٍ وَمَا عَسَاهُمْ أَنْ يَفْعَلُوا بِي إِنِّي وَاللَّهِ لآتِيَنَّهُمْ ‏.‏ فَدَخَلَ عَلَيْهِمْ أَبُو بَكْرٍ ‏.‏ فَتَشَهَّدَ عَلِيُّ بْنُ أَبِي طَالِبٍ ثُمَّ قَالَ إِنَّا قَدْ عَرَفْنَا يَا أَبَا بَكْرٍ فَضِيلَتَكَ وَمَا أَعْطَاكَ اللَّهُ وَلَمْ نَنْفَسْ عَلَيْكَ خَيْرًا سَاقَهُ اللَّهُ إِلَيْكَ وَلَكِنَّكَ اسْتَبْدَدْتَ عَلَيْنَا بِالأَمْرِ وَكُنَّا نَحْنُ نَرَى لَنَا حَقًّا لِقَرَابَتِنَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَلَمْ يَزَلْ يُكَلِّمُ أَبَا بَكْرٍ حَتَّى فَاضَتْ عَيْنَا أَبِي بَكْرٍ فَلَمَّا تَكَلَّمَ أَبُو بَكْرٍ قَالَ وَالَّذِي نَفْسِي بِيَدِهِ لَقَرَابَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم أَحَبُّ إِلَىَّ أَنْ أَصِلَ مِنْ قَرَابَتِي وَأَمَّا الَّذِي شَجَرَ بَيْنِي وَبَيْنَكُمْ مِنْ هَذِهِ الأَمْوَالِ فَإِنِّي لَمْ آلُ فِيهِ عَنِ الْحَقِّ وَلَمْ أَتْرُكْ أَمْرًا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَصْنَعُهُ فِيهَا إِلاَّ صَنَعْتُهُ ‏.‏ فَقَالَ عَلِيٌّ لأَبِي بَكْرٍ مَوْعِدُكَ الْعَشِيَّةُ لِلْبَيْعَةِ ‏.‏ فَلَمَّا صَلَّى أَبُو بَكْرٍ صَلاَةَ الظُّهْرِ رَقِيَ عَلَى الْمِنْبَرِ فَتَشَهَّدَ وَذَكَرَ شَأْنَ عَلِيٍّ وَتَخَلُّفَهُ عَنِ الْبَيْعَةِ وَعُذْرَهُ بِالَّذِي اعْتَذَرَ إِلَيْهِ ثُمَّ اسْتَغْفَرَ وَتَشَهَّدَ عَلِيُّ بْنُ أَبِي طَالِبٍ فَعَظَّمَ حَقَّ أَبِي بَكْرٍ وَأَنَّهُ لَمْ يَحْمِلْهُ عَلَى الَّذِي صَنَعَ نَفَاسَةً عَلَى أَبِي بَكْرٍ وَلاَ إِنْكَارًا لِلَّذِي فَضَّلَهُ اللَّهُ بِهِ وَلَكِنَّا كُنَّا نَرَى لَنَا فِي الأَمْرِ نَصِيبًا فَاسْتُبِدَّ عَلَيْنَا بِهِ فَوَجَدْنَا فِي أَنْفُسِنَا فَسُرَّ بِذَلِكَ الْمُسْلِمُونَ وَقَالُوا أَصَبْتَ ‏.‏ فَكَانَ الْمُسْلِمُونَ إِلَى عَلِيٍّ قَرِيبًا حِينَ رَاجَعَ الأَمْرَ الْمَعْرُوفَ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Urwa b. Zubair who narrated from A'isha that she informed him that Fatima, daughter of the Messenger of Allah (ﷺ), sent someone to Abu Bakr to demand from him her share of the legacy left by the Messenger of Allah (ﷺ) from what Allah had bestowed upon him at Medina and Fadak and what was left from one-filth of the income (annually received) from Khaibar. Abu Bakr said:",
+        "text": "The Messenger of Allah (ﷺ) said:\" We (prophets) do not have any heirs; what we leave behind is (to be given in) charity.\" The household of the Messenger of Allah (ﷺ) will live on the income from these properties, but, by Allah, I will not change the charity of the Messenger of Allah (ﷺ) from the condition in which it was in his own time. I will do the same with it as the Messenger of Allah (may peace be upun him) himself used to do. So Abu Bakr refused to hand over anything from it to Fatima who got angry with Abu Bakr for this reason. She forsook him and did not talk to him until the end of her life. She lived for six months after the death of the Messenger of Allah (ﷺ). When she died, her husband. 'Ali b. Abu Talib, buried her at night. He did not inform Abu Bakr about her death and offered the funeral prayer over her himself. During the lifetime of Fatima, 'All received (special) regard from the people. After she had died, he felt estrangement in the faces of the people towards him. So he sought to make peace with Abu Bakr and offer his allegiance to him. He had not yet owed allegiance to him as Caliph during these months. He sent a person to Abu Bakr requesting him to visit him unaccompanied by anyone (disapproving the presence of Umar). 'Umar said to Abu Bakr: BY Allah, you will not visit them alone. Abu Bakr said: What will they do to me? By Allah, I will visit them. And he did pay them a visit alone. 'All recited Tashahhud (as it is done in the beginning of a religious sermon) ; then said: We recognise your moral excellence and what Allah has bestowed upon you. We do not envy the favour (i. e. the Catiphate) which Allah nas conferred upon you; but you have done it (assumed the position of Caliph) alone (without consulting us), and we thought we had a right (to be consulted) on account of our kinship with the Messenger of Allah (ﷺ). He continued to talk to Abu Bakr (in this vein) until the latter's eyes welled up with tears. Then Abd Bakr spoke and said: By Allah, in Whose Hand is my life, the kinship of the Messenger of Allah (ﷺ) is dearer to me than the kinship of my own people. As regards the dispute that has arisen between you and me about these properties, I have not deviated from the right course and I have not given up doing about them what the Messenger of Allah (ﷺ) used to do. So 'Ali said to Abu Bakr: This aftetnoon is (fixed) for (swearing) allegiance (to you). So when Abu Bakr had finished his Zuhr prayer, he ascended the pulpit and recited Tashahhud, and described the status of 'Ali, his delay in swearing allegiance and the excuse which lie had offered to him (for this delay). (After this) he asked for God's forgiveness. Then 'Ali b. Abu Talib recited the Tashahhud. extolled the merits of Abu Bakr and (said that) his action was nott prompted by any jealousy of Abu Bakr on his part or his refusal to accept the high position which Allah had conferred upon him, (adding: ) But we were of the opinion that we should have a share in the government, but the matter had been decided without taking us into confidence, and this displeased us. (Hence the delay in offering allegiance. The Muslims were pleased with this (explanation) and they said: You have done the right thing. The Muslims were (again) favourably inclined to 'Ali since he adopted the proper course of action."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَ مُحَمَّدُ بْنُ رَافِعٍ وَعَبْدُ بْنُ حُمَيْدٍ قَالَ ابْنُ رَافِعٍ حَدَّثَنَا وَقَالَ الآخَرَانِ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّصلى الله عليه وسلم وَهُمَا حِينَئِذٍ يَطْلُبَانِ أَرْضَهُ مِنْ فَدَكٍ وَسَهْمَهُ مِنْ خَيْبَرَ ‏.‏ فَقَالَ لَهُمَا أَبُو بَكْرٍ إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ‏.‏ وَسَاقَ الْحَدِيثَ بِمِثْلِ مَعْنَى حَدِيثِ عُقَيْلٍ عَنِ الزُّهْرِيِّ غَيْرَ أَنَّهُ قَالَ ثُمَّ قَامَ عَلِيٌّ فَعَظَّمَ مِنْ حَقِّ أَبِي بَكْرٍ وَذَكَرَ فَضِيلَتَهُ وَسَابِقَتَهُ ثُمَّ مَضَى إِلَى أَبِي بَكْرٍ فَبَايَعَهُ فَأَقْبَلَ النَّاسُ إِلَى عَلِيٍّ فَقَالُوا أَصَبْتَ وَأَحْسَنْتَ ‏.‏ فَكَانَ النَّاسُ قَرِيبًا إِلَى عَلِيٍّ حِينَ قَارَبَ الأَمْرَ الْمَعْرُوفَ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated on the authority of 'A'isha that Fatima and 'Abbas approached Abu Bakr, soliciting transfer of the legacy of the Messenger of Allah (ﷺ) to them. At that time, they were demanding his (Holy Prophet's) lands at Fadak and his share from Khaibar. Abu Bakr said to them:",
+        "text": "I have heard from the Messenger of Allah (ﷺ). Then he quoted the hadith having nearly the same meaning as the one which has been narrated by Uqail on the authority of al-Zuhri (and which his gone before) except that in his version he said: Then 'Ali stood up, extolled the merits of Abu Bakr mentioned his superiority, and his earlier acceptance of Islam. Then he walked to Abu Bakr and swore allegiance to him. (At this) people turned towards 'Ali and said: you have done the right thing. And they became favourably inclined to 'Ali after he had adopted the proper course of action."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 32,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَالْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ قَالاَ حَدَّثَنَا يَعْقُوبُ، - وَهُوَ ابْنُ إِبْرَاهِيمَ - حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَخْبَرَتْهُ أَنَّ فَاطِمَةَ بِنْتَ رَسُولِ اللَّهِ صلى الله عليه وسلم سَأَلَتْ أَبَا بَكْرٍ بَعْدَ وَفَاةِ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنْ يَقْسِمَ لَهَا مِيرَاثَهَا مِمَّا تَرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِمَّا أَفَاءَ اللَّهُ عَلَيْهِ ‏.‏ فَقَالَ لَهَا أَبُو بَكْرٍ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ نُورَثُ مَا تَرَكْنَا صَدَقَةٌ ‏\"‏ ‏.‏ قَالَ وَعَاشَتْ بَعْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم سِتَّةَ أَشْهُرٍ وَكَانَتْ فَاطِمَةُ تَسْأَلُ أَبَا بَكْرٍ نَصِيبَهَا مِمَّا تَرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ خَيْبَرَ وَفَدَكٍ وَصَدَقَتِهِ بِالْمَدِينَةِ فَأَبَى أَبُو بَكْرٍ عَلَيْهَا ذَلِكَ وَقَالَ لَسْتُ تَارِكًا شَيْئًا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَعْمَلُ بِهِ إِلاَّ عَمِلْتُ بِهِ إِنِّي أَخْشَى إِنْ تَرَكْتُ شَيْئًا مِنْ أَمْرِهِ أَنْ أَزِيغَ فَأَمَّا صَدَقَتُهُ بِالْمَدِينَةِ فَدَفَعَهَا عُمَرُ إِلَى عَلِيٍّ وَعَبَّاسٍ فَغَلَبَهُ عَلَيْهَا عَلِيٌّ وَأَمَّا خَيْبَرُ وَفَدَكُ فَأَمْسَكَهُمَا عُمَرُ وَقَالَ هُمَا صَدَقَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم كَانَتَا لِحُقُوقِهِ الَّتِي تَعْرُوهُ وَنَوَائِبِهِ وَأَمْرُهُمَا إِلَى مَنْ وَلِيَ الأَمْرَ قَالَ فَهُمَا عَلَى ذَلِكَ إِلَى الْيَوْمِ ‏.‏",
+      "english": {
+        "narrator": "It has been narrated by 'Urwa b Zubair on the authority of 'A'isha, wife of the Prophet (ﷺ), that Fatima, daughter of the Messenger of Allah (ﷺ), requested Abu Bakr, after the death of the Messenger of Allah (may peace he upon him), that he should set apart her share from what the Messenger of Allah (ﷺ) had left from the properties that God had bestowed upon him. Abu Bakr said to her:",
+        "text": "The Messenger of Allah (ﷺ) said:\" We do not have any heirs; what we leave behind is Sadaqa (charity).\" The narrator said: She (Fatima) lived six months after the death of the Messenger of Allah (ﷺ) and she used to demand from Abu Bakr her share from the legacy of the Messenger of Allah (ﷺ) from Khaibar, Fadak and his charitable endowments at Medina. Abu Bakr refused to give her this, and said: I am not going to give up doing anything which the Messenger of Allah (ﷺ) used to do. I am afraid that it I go against his instructions in any matter I shall deviate from the right course. So far as the charitable endowments at Medina were concerned, 'Umar handed them over to 'Ali and Abbas, but 'Ali got the better of him (and kept the property under his exclusive possession). And as far as Khaibar and Fadak were concerned 'Umar kept them with him, and said: These are the endowments of the Messenger of Allah (ﷺ) (to the Umma). Their income was spent on the discharge of the responsibilities that devolved upon him on the emergencies he had to meet. And their management was to be in the hands of one who managed the affairs (of the Islamic State). The narrator said: They have been managed as such up to this day."
+      }
+    }
+  ]
+}

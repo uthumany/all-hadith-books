@@ -1,0 +1,16 @@
+{
+  "id": 403,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَسْوَدُ بْنُ عَامِرٍ، أَنْبَأَنَا إِسْرَائِيلُ، عَنْ مُحَمَّدِ بْنِ عُبَيْدِ اللَّهِ، عَنْ أَبِيهِ، عَنْ عَمِّهِ، قَالَ قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ وَسُئِلَ يَرْكَبُ الرَّجُلُ هَدْيَهُ فَقَالَ لَا بَأْسَ بِهِ قَدْ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَمُرُّ بِالرِّجَالِ يَمْشُونَ فَيَأْمُرُهُمْ يَرْكَبُونَ هَدْيَهُ وَهَدْيَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ وَلَا تَتَّبِعُونَ شَيْئًا أَفْضَلَ مِنْ سُنَّةِ نَبِيِّكُمْ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Muhammad bin `Ubaidullah, from his father, that his paternal uncle said:",
+    "text": "`Ali (رضي الله عنه) was asked: Can a man ride his sacrificial animal? He said: There is nothing wrong with it; the Prophet (ﷺ) used to pass by men who were walking and he would tell them to ride his sacrificial animails, i.e. the Prophet`s sacrificial animals. He said: And there is nothing you could follow that is better than the Sunnah of your Prophet (ﷺ)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

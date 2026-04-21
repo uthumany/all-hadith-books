@@ -1,0 +1,16 @@
+{
+  "id": 70,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا حَامِدُ بْنُ عُمَرَ، قَالَ‏:‏ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي جَمْرَةَ، سَمِعْتُ ابْنَ عَبَّاسٍ إِذَا سُلِّمَ عَلَيْهِ يَقُولُ‏:‏ وَعَلَيْكَ، وَرَحْمَةُ اللهِ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Abu Jamra said, \"I heard Ibn 'Abbas say when he was greeted, 'And\nupon you and the mercy of Allah.'\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

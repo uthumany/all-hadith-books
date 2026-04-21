@@ -1,0 +1,16 @@
+{
+  "id": 29,
+  "chapterId": 25,
+  "bookId": 11,
+  "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو أَحْمَدَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ نُبَيْحٍ الْعَنَزِيِّ، عَنْ جَابِرِ بْنِ عَبْدِ اللهِ، قَالَ‏:‏ أَتَانَا النَّبِيُّ صلى الله عليه وسلم، فِي مَنْزِلِنَا، فَذَبَحْنَا لَهُ شَاةً، فَقَالَ‏:‏ كَأَنَّهُمْ عَلِمُوا أَنَّا نُحِبُّ اللَّحْمَ وَفِي الْحَدِيثِ قِصَّةٌ‏.‏",
+  "english": {
+    "narrator": "Jabir ibn 'Abdi’llah said:",
+    "text": "“The Prophet (Allah bless him and give him peace) came to us in our house, so we slaughtered a sheep for him, and he said: ‘It is as if they knew that we love meat'!\" (This\ntradition is part of a longer story)."
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

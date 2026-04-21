@@ -1,0 +1,510 @@
+{
+  "page": 99,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 100,
+  "prevPage": 98,
+  "items": [
+    {
+      "id": 66,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي،\n أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ عَنِ ابْنِ عَبَّاسٍ، قَالَ أُتِيَ النَّبِيُّ صلى الله عليه وسلم وَنَحْنُ فِي\n بَيْتِ مَيْمُونَةَ بِضَبَّيْنِ مَشْوِيَّيْنِ ‏.‏ بِمِثْلِ حَدِيثِهِمْ وَلَمْ يَذْكُرْ يَزِيدَ بْنَ الأَصَمِّ عَنْ مَيْمُونَةَ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas reported:",
+        "text": "While we were in the house of Maimuna there were brought to Allah's Messenger two roasted lizards. Here no mention is made of al- 'Asamm narrating from Maimuna."
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنَا أَبِي، عَنْ جَدِّي، حَدَّثَنِي خَالِدُ بْنُ،\n يَزِيدَ حَدَّثَنِي سَعِيدُ بْنُ أَبِي هِلاَلٍ، عَنِ ابْنِ الْمُنْكَدِرِ، أَنَّ أَبَا أُمَامَةَ بْنَ سَهْلٍ، أَخْبَرَهُ عَنِ ابْنِ،\n عَبَّاسٍ قَالَ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَهُوَ فِي بَيْتِ مَيْمُونَةَ وَعِنْدَهُ خَالِدُ بْنُ\n الْوَلِيدِ بِلَحْمِ ضَبٍّ ‏.‏ فَذَكَرَ بِمَعْنَى حَدِيثِ الزُّهْرِيِّ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn 'Abbas reported that there had been brought to Allah's Messenger (ﷺ) the flesh of a lizard and Khalid b. Walid was also present there. The rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَأَبُو بَكْرِ بْنُ نَافِعٍ قَالَ ابْنُ نَافِعٍ أَخْبَرَنَا غُنْدَرٌ، حَدَّثَنَا \n شُعْبَةُ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ أَهْدَتْ خَالَتِي أُمُّ\n حُفَيْدٍ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم سَمْنًا وَأَقِطًا وَأَضُبًّا فَأَكَلَ مِنَ السَّمْنِ وَالأَقِطِ\n وَتَرَكَ الضَّبَّ تَقَذُّرًا وَأُكِلَ عَلَى مَائِدَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَلَوْ كَانَ حَرَامًا مَا\n أُكِلَ عَلَى مَائِدَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Sa'id b. Jubair reported that he heard Ibn 'Abbas says:",
+        "text": "The sister of my mother Umm Hufaid presented to Allah's Messenger (ﷺ) clarified butter (ghee), cheese and some lizards. He ate out of the clarified butter and cheese, but left the lizard finding no liking for it. But it was eaten on the table of Allah's Messenger (ﷺ). Had it been forbidden (haram), it could not be eaten on the table of Allah's Messenger (ﷺ)."
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الشَّيْبَانِيِّ، عَنْ يَزِيدَ بْنِ،\n الأَصَمِّ قَالَ دَعَانَا عَرُوسٌ بِالْمَدِينَةِ فَقَرَّبَ إِلَيْنَا ثَلاَثَةَ عَشَرَ ضَبًّا فَآكِلٌ وَتَارِكٌ فَلَقِيتُ\n ابْنَ عَبَّاسٍ مِنَ الْغَدِ فَأَخْبَرْتُهُ فَأَكْثَرَ الْقَوْمُ حَوْلَهُ حَتَّى قَالَ بَعْضُهُمْ قَالَ رَسُولُ اللَّهِ صلى\n الله عليه وسلم ‏\"‏ لاَ آكُلُهُ وَلاَ أَنْهَى عَنْهُ وَلاَ أُحَرِّمُهُ ‏\"‏ ‏.‏ فَقَالَ ابْنُ عَبَّاسٍ بِئْسَ مَا قُلْتُمْ\n مَا بُعِثَ نَبِيُّ اللَّهِ صلى الله عليه وسلم إِلاَّ مُحِلاًّ وَمُحَرِّمًا إِنَّ رَسُولَ اللَّهِ صلى الله عليه\n وسلم بَيْنَمَا هُوَ عِنْدَ مَيْمُونَةَ وَعِنْدَهُ الْفَضْلُ بْنُ عَبَّاسٍ وَخَالِدُ بْنُ الْوَلِيدِ وَامْرَأَةٌ أُخْرَى إِذْ\n قُرِّبَ إِلَيْهِمْ خِوَانٌ عَلَيْهِ لَحْمٌ فَلَمَّا أَرَادَ النَّبِيُّ صلى الله عليه وسلم أَنْ يَأْكُلَ قَالَتْ لَهُ مَيْمُونَةُ\n إِنَّهُ لَحْمُ ضَبٍّ ‏.‏ فَكَفَّ يَدَهُ وَقَالَ ‏\"‏ هَذَا لَحْمٌ لَمْ آكُلْهُ قَطُّ ‏\"‏ ‏.‏ وَقَالَ لَهُمْ ‏\"‏ كُلُوا ‏\"‏ ‏.‏ فَأَكَلَ\n مِنْهُ الْفَضْلُ وَخَالِدُ بْنُ الْوَلِيدِ وَالْمَرْأَةُ ‏.‏ وَقَالَتْ مَيْمُونَةُ لاَ آكُلُ مِنْ شَىْءٍ إِلاَّ شَىْءٌ يَأْكُلُ مِنْهُ\n رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Yazid b. al-Asamm reported:",
+        "text": "A newly wedded person of Medina invited us to a wedding feast, and he served us thirteen lizards. There were those who ate it and those who abandoned it. I met Ibn 'Abbas the next day, and informed him (about this) in the presence of many persons. Some of them said that the Messenger of Allah (ﷺ) had observed: I neither eat it nor forbid (anyone) from eating it, nor declare it to be unlawful. Thereupon Ibn 'Abbas said: Sad it is what you say! Allah's Apostle (ﷺ) has not been sent, but (to declare in clear words) the lawful and the unlawful (things). We were once with Allah's Messenger (may peace be. upon him) as he was with Maimuna, and there were with him al-Fadl b. 'Abbas, Khalid b. Walid and some women (also) when a tray of food containing flesh was presented to him. As Allah's Apostle (ﷺ) was about to eat that, Maimuna said: It is the flesh of the lizard. He withdrew his hand saying: That is the flesh which I never eat; but he said to them (those who were present there): You may eat. Al-Fadl ate out of that, so did Khalid b Walid, and the women. Maimuna (however) said: I do not eat anything but that which Allah's Messenger (ﷺ) eats."
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالاَ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، عَنِ ابْنِ،\n جُرَيْجٍ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه\n وسلم بِضَبٍّ فَأَبَى أَنْ يَأْكُلَ مِنْهُ وَقَالَ ‏\n\"‏ لاَ أَدْرِي لَعَلَّهُ مِنَ الْقُرُونِ الَّتِي مُسِخَتْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Zubair reported that he heard Jabir b. 'Abdullah saying that there was presented to Allah's Messenger (the flesh) of the lizard, but he refused to eat that, saying:",
+        "text": "I do not know; perhaps it (lizard) might (be one of those natives of) the distant past whose (forms) had beer, distorted."
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، حَدَّثَنَا مَعْقِلٌ، عَنْ أَبِي الزُّبَيْرِ،\n قَالَ سَأَلْتُ جَابِرًا عَنِ الضَّبِّ، فَقَالَ لاَ تَطْعَمُوهُ ‏.‏ وَقَذِرَهُ وَقَالَ قَالَ عُمَرُ بْنُ الْخَطَّابِ إِنَّ\n النَّبِيَّ صلى الله عليه وسلم لَمْ يُحَرِّمْهُ ‏.‏ إِنَّ اللَّهَ عَزَّ وَجَلَّ يَنْفَعُ بِهِ غَيْرَ وَاحِدٍ فَإِنَّمَا طَعَامُ\n عَامَّةِ الرِّعَاءِ مِنْهُ وَلَوْ كَانَ عِنْدِي طَعِمْتُهُ ‏.‏",
+      "english": {
+        "narrator": "Abu Zubair reported:",
+        "text": "I asked Jabir about ithe eating) of the lizard, whereupon he said: Don't eat that as he (the Holy Prophet) felt disgust. He (the narrator) said that Umar b. al-Khattab reminded: Allah's Apostle (ﷺ) did not declare it to be unlawful. Allah, the Exalted and Majestic, has (made it a source) of benefit for more than one (persons). It is a common diet of the shepherds. Had it been with me, I would have eaten that."
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ دَاوُدَ، عَنْ أَبِي نَضْرَةَ، عَنْ \n أَبِي سَعِيدٍ، قَالَ قَالَ رَجُلٌ يَا رَسُولَ اللَّهِ إِنَّا بِأَرْضٍ مَضَبَّةٍ فَمَا تَأْمُرُنَا أَوْ فَمَا تُفْتِينَا قَالَ\n ‏\n\"‏ ذُكِرَ لِي أَنَّ أُمَّةً مِنْ بَنِي إِسْرَائِيلَ مُسِخَتْ ‏\"‏ ‏.‏ فَلَمْ يَأْمُرْ وَلَمْ يَنْهَ ‏.‏ قَالَ أَبُو سَعِيدٍ فَلَمَّا\n كَانَ بَعْدَ ذَلِكَ قَالَ عُمَرُ إِنَّ اللَّهَ عَزَّ وَجَلَّ لَيَنْفَعُ بِهِ غَيْرَ وَاحِدٍ وَإِنَّهُ لَطَعَامُ عَامَّةِ هَذِهِ الرِّعَاءِ\n وَلَوْ كَانَ عِنْدِي لَطَعِمْتُهُ إِنَّمَا عَافَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id reported that a person said:",
+        "text": "Messenger of Allah, we live in a land abounding in lizards, so what do you command or what verdict you give (about eating of it)? Thereupon he said: It was mentioned to me that a people from among Bani Isra'il were distorted (so there is a likelihood that those people might have been distorted in the shape of lizards). So he neither commanded (us to eat that) nor forbade (us). Abu Sa'id said: After some time Umar said: Allah, the Exalted and Majestic, has made it (a source of) benefit for more than one (person), for it is the common diet of shepherds. Had it been with me, I would have eaten that. Allah's Messenger (ﷺ) disliked it."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا أَبُو عَقِيلٍ الدَّوْرَقِيُّ، حَدَّثَنَا أَبُو نَضْرَةَ،\n عَنْ أَبِي سَعِيدٍ، أَنَّ أَعْرَابِيًّا، أَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ إِنِّي فِي غَائِطٍ مَضَبَّةٍ\n وَإِنَّهُ عَامَّةُ طَعَامِ أَهْلِي - قَالَ - فَلَمْ يُجِبْهُ فَقُلْنَا عَاوِدْهُ ‏.‏ فَعَاوَدَهُ فَلَمْ يُجِبْهُ ثَلاَثًا ثُمَّ\n نَادَاهُ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الثَّالِثَةِ فَقَالَ ‏\n\"‏ يَا أَعْرَابِيُّ إِنَّ اللَّهَ لَعَنَ أَوْ غَضِبَ\n عَلَى سِبْطٍ مِنْ بَنِي إِسْرَائِيلَ فَمَسَخَهُمْ دَوَابَّ يَدِبُّونَ فِي الأَرْضِ فَلاَ أَدْرِي لَعَلَّ هَذَا مِنْهَا\n فَلَسْتُ آكُلُهَا وَلاَ أَنْهَى عَنْهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id reported that an Arab of the desert came to Allah's Messenger (ﷺ) and said:",
+        "text": "I live in a low land abounding in lizards, and these are the common diet of my family, but he (the Holy Prophet) did not make any reply. We said to him: Repeat it (your problem) and so he repeated it, but he did not make any reply. (It was repeated thrice ) Then Allah's Messenger (ﷺ) called him out at the third time saying: O man of the desert, verily Allah cursed or showed wrath to a tribe of Bani Isra'il and distorted them to beasts which move on the earth. I do not know, perhaps this (lizard) may be one of them. So I do not eat it, nor do I prohibit the eating of it."
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو كَامِلٍ الْجَحْدَرِيُّ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي يَعْفُورٍ، عَنْ عَبْدِ اللَّهِ بْنِ،\n أَبِي أَوْفَى قَالَ غَزَوْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم سَبْعَ غَزَوَاتٍ نَأْكُلُ الْجَرَادَ\n ‏.‏",
+      "english": {
+        "narrator": "Ibn Abu Aufa reported:",
+        "text": "We went on seven expeditions with Allah's Messenger (ﷺ) and ate locusts."
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ، جَمِيعًا\n عَنِ ابْنِ عُيَيْنَةَ، عَنْ أَبِي يَعْفُورٍ، بِهَذَا الإِسْنَادِ ‏.‏ قَالَ أَبُو بَكْرٍ فِي رِوَايَتِهِ سَبْعَ غَزَوَاتٍ وَقَالَ\n إِسْحَاقُ سِتَّ وَقَالَ ابْنُ أَبِي عُمَرَ سِتَّ أَوْ سَبْعَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Abu Ya'fur with the same chain of transmitters. Abu Bakr (one of the narrators) said\" seven expeditions,\" whereas Ishaq said\" six,\" and Ibn Umar said\" six\" or\" seven\"."
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، ح وَحَدَّثَنَا ابْنُ بَشَّارٍ، عَنْ مُحَمَّدِ،\n بْنِ جَعْفَرٍ كِلاَهُمَا عَنْ شُعْبَةَ، عَنْ أَبِي يَعْفُورٍ، بِهَذَا الإِسْنَادِ وَقَالَ سَبْعَ غَزَوَاتٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith is narrated on the authority of Abu Ya'fur with the same chain of transmitters, and he mentioned seven expeditions."
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ هِشَامِ بْنِ زَيْدٍ،\n عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ مَرَرْنَا فَاسْتَنْفَجْنَا أَرْنَبًا بِمَرِّ الظَّهْرَانِ فَسَعَوْا عَلَيْهِ فَلَغَبُوا ‏.‏ قَالَ\n فَسَعَيْتُ حَتَّى أَدْرَكْتُهَا فَأَتَيْتُ بِهَا أَبَا طَلْحَةَ فَذَبَحَهَا فَبَعَثَ بِوَرِكِهَا وَفَخِذَيْهَا إِلَى رَسُولِ\n اللَّهِ صلى الله عليه وسلم فَأَتَيْتُ بِهَا رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَبِلَهُ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported:",
+        "text": "We chased a hare at Marr az-Zahrin (a valley near Mecca). They (my companions) ran, but felt exhausted; I also tried until I caught hold of it. I brought it to Abu Talha. He slaughtered it and sent its haunch and two hind legs to Allah's Messenger (ﷺ) through me; and he accepted them."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، ح وَحَدَّثَنِي يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا \n خَالِدٌ، - يَعْنِي ابْنَ الْحَارِثِ - كِلاَهُمَا عَنْ شُعْبَةَ، بِهَذَا الإِسْنَادِ وَفِي حَدِيثِ يَحْيَى بِوَرِكِهَا\n أَوْ فَخِذَيْهَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of Yahya with a slight change of wording."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا كَهْمَسٌ، عَنِ ابْنِ بُرَيْدَةَ، قَالَ\n رَأَى عَبْدُ اللَّهِ بْنُ الْمُغَفَّلِ رَجُلاً مِنْ أَصْحَابِهِ يَخْذِفُ فَقَالَ لَهُ لاَ تَخْذِفْ فَإِنَّ رَسُولَ اللَّهِ صلى\n الله عليه وسلم كَانَ يَكْرَهُ - أَوْ قَالَ - يَنْهَى عَنِ الْخَذْفِ فَإِنَّهُ لاَ يُصْطَادُ بِهِ الصَّيْدُ وَلاَ\n يُنْكَأُ بِهِ الْعَدُوُّ وَلَكِنَّهُ يَكْسِرُ السِّنَّ وَيَفْقَأُ الْعَيْنَ ‏.‏ ثُمَّ رَآهُ بَعْدَ ذَلِكَ يَخْذِفُ فَقَالَ لَهُ أُخْبِرُكَ\n أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَكْرَهُ أَوْ يَنْهَى عَنِ الْخَذْفِ ثُمَّ أَرَاكَ تَخْذِفُ لاَ أُكَلِّمُكَ\n كَلِمَةً كَذَا وَكَذَا ‏.‏",
+      "english": {
+        "narrator": "Ibn Buraida reported that Abdullah b. al-Mughaffal saw a person from amongst his companions throwing small pebbles, whereupon he said:",
+        "text": "Don't throw pebbles. for Allah's Messenger (ﷺ) did not like it, or he forbade flinging of pebbles since neither the game is taken thereby, nor an enemy defeated. but it may break a tooth or put out an eye. He, afterwards, again saw him flinging pebbles, and said to him: I inform you that the Messenger of Allah (ﷺ) did not approve or he forbade flinging of pebbles, but if I see you again flinging pebbles. I will not speak with you."
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَبُو دَاوُدَ، سُلَيْمَانُ بْنُ مَعْبَدٍ حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، أَخْبَرَنَا كَهْمَسٌ، بِهَذَا\n الإِسْنَادِ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of Kahmas."
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، وَعَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالاَ\n حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ عُقْبَةَ بْنِ صُهْبَانَ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ نَهَى رَسُولُ اللَّهِ\n صلى الله عليه وسلم عَنِ الْخَذْفِ ‏.‏ قَالَ ابْنُ جَعْفَرٍ فِي حَدِيثِهِ وَقَالَ إِنَّهُ لاَ يَنْكَأُ الْعَدُوَّ وَلاَ\n يَقْتُلُ الصَّيْدَ وَلَكِنَّهُ يَكْسِرُ السِّنَّ وَيَفْقَأُ الْعَيْنَ ‏.‏ وَقَالَ ابْنُ مَهْدِيٍّ إِنَّهَا لاَ تَنْكَأُ الْعَدُوَّ ‏.‏ وَلَمْ\n يَذْكُرْ تَفْقَأُ الْعَيْنَ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. Mughaffal reported that Allah's Messenger (ﷺ) prohibited throwing of pebbles. Ibn Ja'far reported (in the narration transmitted by him) that he (the Holy Prophet) said:",
+        "text": "It neither inflicts defeat to the enemy nor kills the game but breaks the tooth and puts the eye out. This hadith has been transmitted on the authority of Ibn Mahdi with a slight variation of wording."
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ أَيُّوبَ، عَنْ سَعِيدِ،\n بْنِ جُبَيْرٍ أَنَّ قَرِيبًا، لِعَبْدِ اللَّهِ بْنِ مُغَفَّلٍ خَذَفَ - قَالَ - فَنَهَاهُ وَقَالَ إِنَّ رَسُولَ اللَّهِ صلى\n الله عليه وسلم نَهَى عَنِ الْخَذْفِ وَقَالَ ‏\n\"‏ إِنَّهَا لاَ تَصِيدُ صَيْدًا وَلاَ تَنْكَأُ عَدُوًّا وَلَكِنَّهَا تَكْسِرُ\n السِّنَّ وَتَفْقَأُ الْعَيْنَ ‏\"‏ ‏.‏ قَالَ فَعَادَ ‏.‏ فَقَالَ أُحَدِّثُكَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى\n عَنْهُ ثُمَّ تَخْذِفُ لاَ أُكَلِّمُكَ أَبَدًا ‏.‏",
+      "english": {
+        "narrator": "Sa'id b. Jubair reported that. a near one of 'Abdullah b. Mughaffal threw pebbles. He prohibited him (to do so). He said that Allah's Messenger (ﷺ) had prohibited the throwing of pebbles by saying:",
+        "text": "It does not catch the game, nor does it inflict defeat on the enemy, but breaks the tooth and puts the eye out. He (the near one of Abdullah b. Mughadal) again repeated it (the act of throwing of pebbles) whereupon he said: I narrate to you that Allah's Messenger (may peace be upon hish) disliked and prohibited throwing of pebbles, but I see you again throwing pebbles; I (would therefore) not speak with you."
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ ابْنُ أَبِي عُمَرَ، حَدَّثَنَا الثَّقَفِيُّ، عَنْ أَيُّوبَ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Ayyub with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ \n أَبِي قِلاَبَةَ، عَنْ أَبِي الأَشْعَثِ، عَنْ شَدَّادِ بْنِ أَوْسٍ، قَالَ ثِنْتَانِ حَفِظْتُهُمَا عَنْ رَسُولِ اللَّهِ صلى\n الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ اللَّهَ كَتَبَ الإِحْسَانَ عَلَى كُلِّ شَىْءٍ فَإِذَا قَتَلْتُمْ فَأَحْسِنُوا الْقِتْلَةَ\n وَإِذَا ذَبَحْتُمْ فَأَحْسِنُوا الذَّبْحَ وَلْيُحِدَّ أَحَدُكُمْ شَفْرَتَهُ فَلْيُرِحْ ذَبِيحَتَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Shaddid b. Aus said:",
+        "text": "Two are the things which I remember Allah's Messenger (ﷺ) having said: Verily Allah has enjoined goodness to everything; so when you kill, kill in a good way and when you slaughter, slaughter in a good way. So every one of you should sharpen his knife, and let the slaughtered animal die comfortably."
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ يَحْيَى بْنُ يَحْيَى، حَدَّثَنَا هُشَيْمٌ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا \n عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ نَافِعٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنَا \n عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا مُحَمَّدُ بْنُ يُوسُفَ، عَنْ سُفْيَانَ، ح وَحَدَّثَنَا إِسْحَاقُ،\n بْنُ إِبْرَاهِيمَ أَخْبَرَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، كُلُّ هَؤُلاَءِ عَنْ خَالِدٍ الْحَذَّاءِ، بِإِسْنَادِ حَدِيثِ ابْنِ عُلَيَّةَ\n وَمَعْنَى حَدِيثِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Khalid al-Hadhdha' through different chains o transmitters."
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ هِشَامَ،\n بْنَ زَيْدِ بْنِ أَنَسِ بْنِ مَالِكٍ قَالَ دَخَلْتُ مَعَ جَدِّي أَنَسِ بْنِ مَالِكٍ دَارَ الْحَكَمِ بْنِ أَيُّوبَ فَإِذَا\n قَوْمٌ قَدْ نَصَبُوا دَجَاجَةً يَرْمُونَهَا قَالَ فَقَالَ أَنَسٌ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم\n أَنْ تُصْبَرَ الْبَهَائِمُ ‏.‏",
+      "english": {
+        "narrator": "Hishim b. Zaid b. Anas b. Milik reported:",
+        "text": "I visited the house of al-Hakam b. Ayyub along with my grandfather Anas b. Milik, (and there) some people had made a hen a target and were shooting arrows at her. Thereupon Asas said that Allah's Messenger (ﷺ) had forbidden tying of the animals (and making them the targets of arrows, etc.)."
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، وَعَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، ح وَحَدَّثَنِي \n يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، كُلُّهُمْ عَنْ \n شُعْبَةَ، بِهَذَا الإِسْنَادِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Shu'ba through other chains of transmitters."
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيٍّ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ،\n عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَتَّخِذُوا شَيْئًا فِيهِ الرُّوحُ غَرَضًا\n ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas reported Allah's Messenger (ﷺ) having said this:",
+        "text": "Do not make anything having life as a target."
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، وَعَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ \n شُعْبَةَ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Shu'ba through a different chain of transmitters."
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، وَأَبُو كَامِلٍ - وَاللَّفْظُ لأَبِي كَامِلٍ - قَالاَ حَدَّثَنَا أَبُو\n عَوَانَةَ عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ مَرَّ ابْنُ عُمَرَ بِنَفَرٍ قَدْ نَصَبُوا دَجَاجَةً يَتَرَامَوْنَهَا\n فَلَمَّا رَأَوُا ابْنَ عُمَرَ تَفَرَّقُوا عَنْهَا ‏.‏ فَقَالَ ابْنُ عُمَرَ مَنْ فَعَلَ هَذَا إِنَّ رَسُولَ اللَّهِ صلى الله\n عليه وسلم لَعَنَ مَنْ فَعَلَ هَذَا ‏.‏",
+      "english": {
+        "narrator": "Sa'id b. Jubair reported that Ibn 'Umar happened to pass by a party of men who had tied a hen and were shooting arrows at it. As soon as they saw Ibn 'Umar, they scattered from it. Thereupon Ibn Umar said:",
+        "text": "Who has done this? Verily Allah's Messenger (ﷺ) has invoked curse upon him who does this."
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا أَبُو بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ\n مَرَّ ابْنُ عُمَرَ بِفِتْيَانٍ مِنْ قُرَيْشٍ قَدْ نَصَبُوا طَيْرًا وَهُمْ يَرْمُونَهُ وَقَدْ جَعَلُوا لِصَاحِبِ الطَّيْرِ\n كُلَّ خَاطِئَةٍ مِنْ نَبْلِهِمْ فَلَمَّا رَأَوُا ابْنَ عُمَرَ تَفَرَّقُوا فَقَالَ ابْنُ عُمَرَ مَنْ فَعَلَ هَذَا لَعَنَ اللَّهُ مَنْ\n فَعَلَ هَذَا إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَعَنَ مَنِ اتَّخَذَ شَيْئًا فِيهِ الرُّوحُ غَرَضًا ‏.‏",
+      "english": {
+        "narrator": "Sa'id b. Jubair reported that Ibn 'Umar happened to pass by some young men of the Quraish who had tied a bird (and th, is made it a target) at which they had been shooting arrows Every arrow that they missed came into the possession of the owner of the bird. So no sooner did they see Ibn 'Umar they went away. Thereupon Ibn 'Umar said:",
+        "text": "Who has done this? Allah has cursed him who does this. Verily Allah's Messenger (ﷺ) invoked curse upon one who made a live thing the target (of one's marksmanship)."
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 34,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ ابْنِ جُرَيْجٍ، ح وَحَدَّثَنَا عَبْدُ،\n بْنُ حُمَيْدٍ أَخْبَرَنَا مُحَمَّدُ بْنُ بَكْرٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، ح وَحَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا \n حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ\n نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يُقْتَلَ شَىْءٌ مِنَ الدَّوَابِّ صَبْرًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Jabir b. 'Abdullah reported that Allah's Messenger (ﷺ) forbade that any beast should be killed after it has been tied."
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا الأَسْوَدُ بْنُ قَيْسٍ، ح وَحَدَّثَنَاهُ يَحْيَى،\n بْنُ يَحْيَى أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، حَدَّثَنِي جُنْدَبُ بْنُ سُفْيَانَ، قَالَ شَهِدْتُ\n الأَضْحَى مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَلَمْ يَعْدُ أَنْ صَلَّى وَفَرَغَ مِنْ صَلاَتِهِ سَلَّمَ فَإِذَا\n هُوَ يَرَى لَحْمَ أَضَاحِيَّ قَدْ ذُبِحَتْ قَبْلَ أَنْ يَفْرُغَ مِنْ صَلاَتِهِ فَقَالَ ‏\n\"‏ مَنْ كَانَ ذَبَحَ أُضْحِيَّتَهُ\n قَبْلَ أَنْ يُصَلِّيَ - أَوْ نُصَلِّيَ - فَلْيَذْبَحْ مَكَانَهَا أُخْرَى وَمَنْ كَانَ لَمْ يَذْبَحْ فَلْيَذْبَحْ بِاسْمِ اللَّهِ\n ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jundab b. Sufyan reported:",
+        "text": "I was with Allah's Messenger (ﷺ) on the day of 'Id al-Adha. While he had not returned after having offered (the Id prayer) and finished it, he saw the flesh of the sacrificial animals which had been slaughtered before he had completed the prayer. Thereupon he (the Holy Prophet) said: One who slaughtered his sacrificial animal before his prayer or our prayer ('Id), he should slaughter another one in its stead, and he who did not slaughter, he should slaughter by reciting the name of Allah."
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو الأَحْوَصِ، سَلاَّمُ بْنُ سُلَيْمٍ عَنِ الأَسْوَدِ،\n بْنِ قَيْسٍ عَنْ جُنْدَبِ بْنِ سُفْيَانَ، قَالَ شَهِدْتُ الأَضْحَى مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم\n فَلَمَّا قَضَى صَلاَتَهُ بِالنَّاسِ نَظَرَ إِلَى غَنَمٍ قَدْ ذُبِحَتْ فَقَالَ ‏\n\"‏ مَنْ ذَبَحَ قَبْلَ الصَّلاَةِ فَلْيَذْبَحْ\n شَاةً مَكَانَهَا وَمَنْ لَمْ يَكُنْ ذَبَحَ فَلْيَذْبَحْ عَلَى اسْمِ اللَّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jundab b. Sufyan reported:",
+        "text": "I was with Allah's Messenger (ﷺ) (on the occasion) of 'Id al-Adha. After he had completed the prayer with people, he found that the goats had been slaughtered, whereupon he said: He who slaughtered sacrificial animal before the prayer should slaughter a goat (again) in its stead and he who has not slaughtered he should slaughter it by reciting the name of Allah."
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ،\n أَبِي عُمَرَ عَنِ ابْنِ عُيَيْنَةَ، كِلاَهُمَا عَنِ الأَسْوَدِ بْنِ قَيْسٍ، بِهَذَا الإِسْنَادِ وَقَالاَ عَلَى اسْمِ اللَّهِ\n ‏.‏ كَحَدِيثِ أَبِي الأَحْوَصِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of al-Aswad b. Qais with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنِ الأَسْوَدِ، سَمِعَ جُنْدَبًا الْبَجَلِيَّ،\n قَالَ شَهِدْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى يَوْمَ أَضْحًى ثُمَّ خَطَبَ فَقَالَ ‏\n\"‏ مَنْ كَانَ\n ذَبَحَ قَبْلَ أَنْ يُصَلِّيَ فَلْيُعِدْ مَكَانَهَا وَمَنْ لَمْ يَكُنْ ذَبَحَ فَلْيَذْبَحْ بِاسْمِ اللَّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jundab al-Bajali reported:",
+        "text": "I saw Allah's Messenger (ﷺ) observing ('Id) prayer on the Day of Sacrifice (10th of Dhu'l-Hijja) and then delivering a sermon and he said: He who sacrificed the (animal) before offering ('Id) prayer, he should offer again in its stead, and he who did not sacrifice the animal should slaughter it by reciting the name of Allah."
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، بِهَذَا\n الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Shu'ba through another chain of transmitters."
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنْ مُطَرِّفٍ، عَنْ عَامِرٍ، عَنِ \n الْبَرَاءِ، قَالَ ضَحَّى خَالِي أَبُو بُرْدَةَ قَبْلَ الصَّلاَةِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏\n تِلْكَ شَاةُ لَحْمٍ ‏\"‏ ‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ عِنْدِي جَذَعَةً مِنَ الْمَعْزِ فَقَالَ ‏\"‏ ضَحِّ بِهَا وَلاَ\n تَصْلُحُ لِغَيْرِكَ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ مَنْ ضَحَّى قَبْلَ الصَّلاَةِ فَإِنَّمَا ذَبَحَ لِنَفْسِهِ وَمَنْ ذَبَحَ بَعْدَ الصَّلاَةِ\n فَقَدْ تَمَّ نُسُكُهُ وَأَصَابَ سُنَّةَ الْمُسْلِمِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Al-Bara' reported:",
+        "text": "My maternal uncle Abu Burda sacrificed his animal before ('Id) prayer. Thereupon Allah's Messenger (ﷺ) said: That is a goat (slaughtered for the sake of) flesh (and not as a sacrifice on the day of Adha). He said: I have a lamb of six months. Thereupon he said: Offer it as a sacrifice, but it will not justify for anyone except you, and then said: He who sacrificed (the animal) before ('Id) prayer, he in fact slaughtered it for his own self, and he who slaughtered after prayer, his ritual of sacrifice became complete and he in fact observed the religious practice of the Muslims."
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ دَاوُدَ، عَنِ الشَّعْبِيِّ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ،\n أَنَّ خَالَهُ أَبَا بُرْدَةَ بْنَ نِيَارٍ، ذَبَحَ قَبْلَ أَنْ يَذْبَحَ النَّبِيُّ، صلى الله عليه وسلم فَقَالَ يَا رَسُولَ\n اللَّهِ إِنَّ هَذَا يَوْمٌ اللَّحْمُ فِيهِ مَكْرُوهٌ وَإِنِّي عَجَّلْتُ نَسِيكَتِي لأُطْعِمَ أَهْلِي وَجِيرَانِي وَأَهْلَ دَارِي\n ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَعِدْ نُسُكًا ‏\"‏ ‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ عِنْدِي\n عَنَاقَ لَبَنٍ هِيَ خَيْرٌ مِنْ شَاتَىْ لَحْمٍ ‏.‏ فَقَالَ ‏\"‏ هِيَ خَيْرُ نَسِيكَتَيْكَ وَلاَ تَجْزِي جَذَعَةٌ عَنْ\n أَحَدٍ بَعْدَكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Al-Bara' b. 'Azib reported that his maternal'uncle Abu Burda b. Niyar sacrificed his animal earlier than the Prophet (ﷺ) had sacrificed. Thereupon he said:",
+        "text": "Apostle of Allah, it is the day of meat and it is not desirable (to have longing for it and not to make use of it immediately), so I hastened in offering my animal as a sacrifice, so that I might feed my family and neighbours and my kith and kin. Thereupon Allah's Messenger (ﷺ) said: Offer again your sacrifice. He said: Messenger of Allah, I have a small milch goat of less than one year, and that is better than two dry goats (from which only) meat (can be acquired). Thereupon he said: That is better than the two animals of sacrifice on your behalf, and the sacrifice of a goat, of less than six months shall not be accepted as a sacrifice on behalf of anyone after your (sacrifice)."
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ دَاوُدَ، عَنِ الشَّعْبِيِّ، عَنِ الْبَرَاءِ،\n بْنِ عَازِبٍ قَالَ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ النَّحْرِ فَقَالَ ‏\n\"‏ لاَ يَذْبَحَنَّ أَحَدٌ\n حَتَّى يُصَلِّيَ ‏\"‏ ‏.‏ قَالَ فَقَالَ خَالِي يَا رَسُولَ اللَّهِ إِنَّ هَذَا يَوْمٌ اللَّحْمُ فِيهِ مَكْرُوهٌ ‏.‏ ثُمَّ ذَكَرَ\n بِمَعْنَى حَدِيثِ هُشَيْمٍ ‏.‏",
+      "english": {
+        "narrator": "Al-Bara' b. 'Azib reported:",
+        "text": "Allah's Messenger (ﷺ) delivered an address on the day (of Nahr) in which he said: None of you should offer sacrifice of animals until he has completed the ('Id) prayer. Thereupon my maternal uncle said: Messenger of Allah, it is the day of meat, so it is not desirable (to keep my family in the state of longing). The rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا \n أَبِي، حَدَّثَنَا زَكَرِيَّاءُ، عَنْ فِرَاسٍ، عَنْ عَامِرٍ، عَنِ الْبَرَاءِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه\n وسلم ‏\"‏ مَنْ صَلَّى صَلاَتَنَا وَوَجَّهَ قِبْلَتَنَا وَنَسَكَ نُسُكَنَا فَلاَ يَذْبَحْ حَتَّى يُصَلِّيَ ‏\"‏ ‏.‏ فَقَالَ خَالِي\n يَا رَسُولَ اللَّهِ قَدْ نَسَكْتُ عَنِ ابْنٍ لِي ‏.‏ فَقَالَ ‏\"‏ ذَاكَ شَىْءٌ عَجَّلْتَهُ لأَهْلِكَ ‏\"‏ ‏.‏ فَقَالَ إِنَّ عِنْدِي\n شَاةً خَيْرٌ مِنْ شَاتَيْنِ قَالَ ‏\"‏ ضَحِّ بِهَا فَإِنَّهَا خَيْرُ نَسِيكَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Al-Bara' reported Allah's Messenger (ﷺ) having said:",
+        "text": "He who observes prayer like our prayer and turns his face towards our Qibla (in prayer) and who offers sacrifices (of animals) as we do, he must not slaughter the (animal as a sacrifice) until he has completed the prayer. Thereupon my maternal uncle said: Messenger of Allah, I have sacrificed the animal on behalf of my son. The Messenger of Allah (ﷺ) said: This is the thing in which you have made haste for your family. He said: I have a goat with me better than two goats. Thereupon he said: Sacrifice it for that is the best."
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ،\n بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ، عَنْ زُبَيْدٍ الإِيَامِيِّ، عَنِ الشَّعْبِيِّ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ قَالَ رَسُولُ\n اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ أَوَّلَ مَا نَبْدَأُ بِهِ فِي يَوْمِنَا هَذَا نُصَلِّي ثُمَّ نَرْجِعُ فَنَنْحَرُ فَمَنْ\n فَعَلَ ذَلِكَ فَقَدْ أَصَابَ سُنَّتَنَا وَمَنْ ذَبَحَ فَإِنَّمَا هُوَ لَحْمٌ قَدَّمَهُ لأَهْلِهِ لَيْسَ مِنَ النُّسُكِ فِي شَىْءٍ\n ‏\"‏ ‏.‏ وَكَانَ أَبُو بُرْدَةَ بْنُ نِيَارٍ قَدْ ذَبَحَ فَقَالَ عِنْدِي جَذَعَةٌ خَيْرٌ مِنْ مُسِنَّةٍ فَقَالَ ‏\"‏ اذْبَحْهَا\n وَلَنْ تَجْزِيَ عَنْ أَحَدٍ بَعْدَكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Al-Bara' b. 'Azib reported Allah's Messenger (ﷺ) having said:",
+        "text": "The first (act) with which we started our day (the day of 'Id-ul Adha) was that we offered prayer. We then returned and sacrificed the animals and he who did that in fact adhered to our Sunnah (practice). And he who slaughtered the (animal on that day before the 'Id prayer), for him (the slaughtering of animal was directed to the acquiring of) meat for his family, and there is nothing of the sort of sacrifice in it. It was Abu Burda b. Niyar who had slaughtered (the animal before the 'Id prayer). He said: I have a small lamb, of less than one year, but better than that of more than a year. Thereupon Allah's Messenger (ﷺ) qaid: Sacrifice it, but it will not suffice (as a sacrifice) for anyone after you."
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ زُبَيْدٍ، سَمِعَ الشَّعْبِيَّ، عَنِ \n الْبَرَاءِ بْنِ عَازِبٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "A hadith like this has been narrated on the authority of al-Bara' b. 'Azib through another chain of transmitters."
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَهَنَّادُ بْنُ السَّرِيِّ، قَالاَ حَدَّثَنَا أَبُو الأَحْوَصِ، ح وَحَدَّثَنَا \n عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، جَمِيعًا عَنْ جَرِيرٍ، كِلاَهُمَا عَنْ مَنْصُورٍ، عَنِ الشَّعْبِيِّ،\n عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي يَوْمِ النَّحْرِ بَعْدَ الصَّلاَةِ\n ‏.‏ ثُمَّ ذَكَرَ نَحْوَ حَدِيثِهِمْ ‏.‏",
+      "english": {
+        "narrator": "al-Bara' b. 'Azib reported:",
+        "text": "Allah's Messenger (ﷺ) addressed us on the day of Nahr after the ('Id) prayer. The rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَحْمَدُ بْنُ سَعِيدِ بْنِ صَخْرٍ الدَّارِمِيُّ، حَدَّثَنَا أَبُو النُّعْمَانِ، عَارِمُ بْنُ الْفَضْلِ\n حَدَّثَنَا عَبْدُ الْوَاحِدِ، - يَعْنِي ابْنَ زِيَادٍ - حَدَّثَنَا عَاصِمٌ الأَحْوَلُ، عَنِ الشَّعْبِيِّ، حَدَّثَنِي الْبَرَاءُ،\n بْنُ عَازِبٍ قَالَ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي يَوْمِ نَحْرٍ فَقَالَ ‏\"‏ لاَ يُضَحِّيَنَّ\n أَحَدٌ حَتَّى يُصَلِّيَ ‏\"‏ ‏.‏ قَالَ رَجُلٌ عِنْدِي عَنَاقُ لَبَنٍ هِيَ خَيْرٌ مِنْ شَاتَىْ لَحْمٍ قَالَ ‏\"‏ فَضَحِّ\n بِهَا وَلاَ تَجْزِي جَذَعَةٌ عَنْ أَحَدٍ بَعْدَكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Al-Bara' b. 'Azib reported:",
+        "text": "Allah's Messenger (ﷺ) addressed us on the day of Nahr and said: None should sacrifice the animal unless he has completed the ('Id) prayer. A person said: I have a milch goat of less than one year, better than two fat goats. Thereupon he said: Sacrifice it, and no goat of less than a year of age will be accepted as sacrifice after you."
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدٌ، - يَعْنِي ابْنَ جَعْفَرٍ - حَدَّثَنَا شُعْبَةُ، عَنْ سَلَمَةَ،\n عَنْ أَبِي جُحَيْفَةَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ ذَبَحَ أَبُو بُرْدَةَ قَبْلَ الصَّلاَةِ فَقَالَ النَّبِيُّ صلى\n الله عليه وسلم ‏\"‏ أَبْدِلْهَا ‏\"‏ ‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ لَيْسَ عِنْدِي إِلاَّ جَذَعَةٌ - قَالَ شُعْبَةُ\n وَأَظُنُّهُ قَالَ - وَهِيَ خَيْرٌ مِنْ مُسِنَّةٍ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اجْعَلْهَا مَكَانَهَا\n وَلَنْ تَجْزِيَ عَنْ أَحَدٍ بَعْدَكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Al-Bara' b. 'Azib reported that Abu Burda slaughtered the animal as a sacrifice before the ('Id) prayer. Thereupon Allah's Apostle (ﷺ) said:",
+        "text": "Offer a substitute for it (since it does not absolve you of the responsibility of sacrifice). Thereupon he said: Allah's Messenger. I have nothing with me but a goat of less than six months. Shu'ba (one of the narrators) said: I think he (al-Bara' b. 'Azib also) said: And it is better than a goat of one year. Thereupon Allah's Messenger (ﷺ) said: Make it a substitute for that (and sacrifice it), but it will not suffice for anyone (as a sacrifice) after you."
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ ابْنُ الْمُثَنَّى، حَدَّثَنِي وَهْبُ بْنُ جَرِيرٍ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا \n أَبُو عَامِرٍ الْعَقَدِيُّ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ ‏.‏ وَلَمْ يَذْكُرِ الشَّكَّ فِي قَوْلِهِ هِيَ خَيْرٌ مِنْ مُسِنَّةٍ\n ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters, but did not mention tht doubt (expressed in his statement) That is (the goat of less than a year) is better than a goat of more than one year."
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي يَحْيَى بْنُ أَيُّوبَ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، جَمِيعًا عَنِ ابْنِ عُلَيَّةَ،\n - وَاللَّفْظُ لِعَمْرٍو - قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، قَالَ\n قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ النَّحْرِ ‏\n\"‏ مَنْ كَانَ ذَبَحَ قَبْلَ الصَّلاَةِ فَلْيُعِدْ ‏\"‏ ‏.‏\n فَقَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ هَذَا يَوْمٌ يُشْتَهَى فِيهِ اللَّحْمُ ‏.‏ وَذَكَرَ هَنَةً مِنْ جِيرَانِهِ كَأَنَّ\n رَسُولَ اللَّهِ صلى الله عليه وسلم صَدَّقَهُ قَالَ وَعِنْدِي جَذَعَةٌ هِيَ أَحَبُّ إِلَىَّ مِنْ شَاتَىْ لَحْمٍ\n أَفَأَذْبَحُهَا قَالَ فَرَخَّصَ لَهُ فَقَالَ لاَ أَدْرِي أَبَلَغَتْ رُخْصَتُهُ مَنْ سِوَاهُ أَمْ لاَ قَالَ وَانْكَفَأَ رَسُولُ\n اللَّهِ صلى الله عليه وسلم إِلَى كَبْشَيْنِ فَذَبَحَهُمَا فَقَامَ النَّاسُ إِلَى غُنَيْمَةٍ فَتَوَزَّعُوهَا ‏.‏ أَوْ\n قَالَ فَتَجَزَّعُوهَا ‏.‏",
+      "english": {
+        "narrator": "Anas (b. Malik) reported Allah's Messenger (ﷺ) having said on the day of Nahr (Sacrifice):",
+        "text": "He who slaughtered (the animal as a sacrifice) before the ('Id) prayer. should repeat it (i. e. offer another animal). Thereupon a person stood up and said: Messenger of Allah, that is the day when meat is much desired, and he also made a mention of the need of his neighbour, and perhaps Allah's Messenger (ﷺ) attested it. He (the person who had sacrificed the animal before the 'Id prayer) said: I have a goat of less than one year of age with me and I like it more than two fleshy goats; should I offer it as a sacrifice? He permitted him to do so. He (the narrator) said: I do not know whether this permission was granted to anyone else besides him or not. Allah's Messenger (ﷺ) then turned towards two rams. and he slaughtered them, and the people' came to the goats and got them distributed amongst themselves (for offering them as sacrifice)."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، حَدَّثَنَا أَيُّوبُ، وَهِشَامٌ، عَنْ مُحَمَّدٍ،\n عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى ثُمَّ خَطَبَ فَأَمَرَ مَنْ كَانَ ذَبَحَ\n قَبْلَ الصَّلاَةِ أَنْ يُعِيدَ ذِبْحًا ثُمَّ ذَكَرَ بِمِثْلِ حَدِيثِ ابْنِ عُلَيَّةَ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported that Allah's Messenger (ﷺ) offered the 'Id prayer and then delivered the sermon giving the command:",
+        "text": "He who slaughtered the animal before prayer should slaughter (another animal as a sacrifice). The rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زِيَادُ بْنُ يَحْيَى الْحَسَّانِيُّ، حَدَّثَنَا حَاتِمٌ، - يَعْنِي ابْنَ وَرْدَانَ - حَدَّثَنَا أَيُّوبُ،\n عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ\n أَضْحًى - قَالَ - فَوَجَدَ رِيحَ لَحْمٍ فَنَهَاهُمْ أَنْ يَذْبَحُوا قَالَ ‏\n\"‏ مَنْ كَانَ ضَحَّى فَلْيُعِدْ ‏\"‏ ‏.‏\n ثُمَّ ذَكَرَ بِمِثْلِ حَدِيثِهِمَا ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik reported:",
+        "text": "Allah's Messenger (ﷺ) addressed us on the day of 'Id al-Adha. He smelt the odour of flesh and he prohibited thern from slaughtering (the animals before the 'Id prayer), saying: He who slaughtered the animals (before the 'Id prayer) should do that again (as it is not valid as a sacrifice)."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ\n اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَذْبَحُوا إِلاَّ مُسِنَّةً إِلاَّ أَنْ يَعْسُرَ عَلَيْكُمْ فَتَذْبَحُوا جَذَعَةً مِنَ\n الضَّأْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Sacrifice only a grown-up animal, unless it is difficult for you, in which case sacrifice a ram (of even less than a year, but more than six months' age)."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو\n الزُّبَيْرِ أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ صَلَّى بِنَا النَّبِيُّ صلى الله عليه وسلم يَوْمَ النَّحْرِ\n بِالْمَدِينَةِ فَتَقَدَّمَ رِجَالٌ فَنَحَرُوا وَظَنُّوا أَنَّ النَّبِيَّ صلى الله عليه وسلم قَدْ نَحَرَ فَأَمَرَ النَّبِيُّ\n صلى الله عليه وسلم مَنْ كَانَ نَحَرَ قَبْلَهُ أَنْ يُعِيدَ بِنَحْرٍ آخَرَ وَلاَ يَنْحَرُوا حَتَّى يَنْحَرَ النَّبِيُّ\n صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Jabir b. 'Abdullah reported:",
+        "text": "Allah's Messenger (ﷺ) led us in the 'Id prayer in Medina on the Day of Sacrifice. Some persons slaughtered their animals ahead of him under the impression that Allah's Apostle (ﷺ) had-already offered sacrifice. Thereupon Allah's Apostle (ﷺ) said: Those who had slaughtered their animals ahead of him should slaughter the other ones in their stead. And they should not sacrifice the animal before Allah's Messenger (ﷺ) had sacrificed (his animal)"
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنْ \n يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم\n أَعْطَاهُ غَنَمًا يَقْسِمُهَا عَلَى أَصْحَابِهِ ضَحَايَا فَبَقِيَ عَتُودٌ فَذَكَرَهُ لِرَسُولِ اللَّهِ صلى الله عليه\n وسلم فَقَالَ ‏\n\"‏ ضَحِّ بِهِ أَنْتَ ‏\"‏ ‏.‏ قَالَ قُتَيْبَةُ عَلَى صَحَابَتِهِ ‏.‏",
+      "english": {
+        "narrator": "Uqba b. 'Amir reported that Allah's Messenger (ﷺ) gave the gifts of goats to be distributed amongst his Companions. They sacrificed them, but a lamb of one year of age was left. (Someone) made a mention of that to the Messenger of Allah (ﷺ), whereupon he said:",
+        "text": "You sacrifice it."
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ هِشَامٍ الدَّسْتَوَائِيِّ، عَنْ \n يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ بَعْجَةَ الْجُهَنِيِّ، عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ، قَالَ قَسَمَ رَسُولُ اللَّهِ\n صلى الله عليه وسلم فِينَا ضَحَايَا فَأَصَابَنِي جَذَعٌ فَقُلْتُ يَا رَسُولَ اللَّهِ إِنَّهُ أَصَابَنِي جَذَعٌ\n ‏.‏ فَقَالَ ‏\n\"‏ ضَحِّ بِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Amir al-Juhani reported:",
+        "text": "Allah's Messenger (ﷺ) distributed sacrificial animals (amongst us for sacrificing them on 'Id al-Adha). So we sacrificed them. There fell to my lot a lamb of less than one year I said: Allah's Messenger, there has fallen to my lot a lamb (Jadha'a), whereupon he said: Sacrifice that."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 35,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، حَدَّثَنَا يَحْيَى، - يَعْنِي ابْنَ حَسَّانَ -\n أَخْبَرَنَا مُعَاوِيَةُ، - وَهُوَ ابْنُ سَلاَّمٍ - حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، أَخْبَرَنِي بَعْجَةُ بْنُ عَبْدِ،\n اللَّهِ أَنَّ عُقْبَةَ بْنَ عَامِرٍ الْجُهَنِيَّ، أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَسَمَ ضَحَايَا\n بَيْنَ أَصْحَابِهِ ‏.‏ بِمِثْلِ مَعْنَاهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted on the authority of 'Uqba b. 'Amir al-Juhan with a slight change of wording."
+      }
+    }
+  ]
+}

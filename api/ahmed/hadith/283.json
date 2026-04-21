@@ -1,0 +1,16 @@
+{
+  "id": 283,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَسْوَدُ بْنُ عَامِرٍ، أَنْبَأَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ هَانِئِ بْنِ هَانِئٍ، قَالَ قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ الْحَسَنُ أَشْبَهُ بِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا بَيْنَ الصَّدْرِ إِلَى الرَّأْسِ وَالْحُسَيْنُ أَشْبَهُ مَا أَسْفَلَ مِنْ ذَلِكَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Hani’ bin Hani’ said:",
+    "text": "`Ali (رضي الله عنه) said: al-Hasan most resembles the Messenger of Allah (ﷺ) between the navel and the head, and al-Husain most resembles him in what is lower than that."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

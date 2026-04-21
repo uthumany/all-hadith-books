@@ -1,0 +1,16 @@
+{
+  "id": 542,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن المقدام بن معد يكرب رضي الله عنه، عن النبي صلى الله عليه وسلم  قال‏:‏ ‏\n\"‏ ما أكل أحد طعاماً قط خيراً من أن يأكل من عمل يده، وإن نبى الله دواد صلى الله عليه وسلم  كان يأكل من عمل يده‏\"‏‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"No food is better to man than that which he earns through his manual work. Dawud (ﷺ), the Prophet of Allah, ate only out of his earnings from his manual work.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

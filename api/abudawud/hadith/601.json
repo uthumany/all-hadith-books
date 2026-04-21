@@ -1,0 +1,16 @@
+{
+  "id": 601,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا ابْنُ عَجْلاَنَ، عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ أَبِيهِ، بِهَذَا الْحَدِيثِ قَالَ لاَ يُجَاوِزُ بَصَرُهُ إِشَارَتَهُ ‏.‏ وَحَدِيثُ حَجَّاجٍ أَتَمُّ ‏.‏",
+  "english": {
+    "narrator": "‘Abd Allah b. al-Zubair narrated the above mentioned tradition on the authority of his father saying:",
+    "text": "He kept his look fixed on the finger he was pointing."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 297,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ: { دَخَلَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-بَيْتِي, فَصَلَّى اَلضُّحَى ثَمَانِيَ رَكَعَاتٍ }  رَوَاهُ اِبْنُ حِبَّانَ فِي \n\"صَحِيحِهِ\" .‏  1‏ .‏‏1 ‏- ضعيف.‏ رواه ابن حبان (2531)‏ وفي سنده انقطاع.‏",
+  "english": {
+    "narrator": "Narrated 'Aishah (RA):",
+    "text": "Allah's Messenger (ﷺ) entered my house and prayed eight Rak'at of Duha prayer.\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

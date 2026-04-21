@@ -1,0 +1,16 @@
+{
+  "id": 126,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا خَلَّادُ بْنُ أَسْلَمَ الْبَغْدَادِيُّ، حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، أَخْبَرَنَا عَوْفٌ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ هِنْدٍ الْجَمَلِيِّ قَالَ: قَالَ عَلِيٌّ: كُنْتُ إِذَا سَأَلْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَعْطَانِي وَإِذَا سَكَتُّ ابْتَدَأَنِي. قَالَ أَبُو عِيسَى: هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ",
+  "english": {
+    "narrator": "Narrated Ali:",
+    "text": "\"When I would ask the Messenger of Allah SAW he would give me, and when I would be silent, he would initiate (speech or giving) with me.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

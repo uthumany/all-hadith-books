@@ -1,0 +1,16 @@
+{
+  "id": 459,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس ، رضي الله عنه، أن النبي، صلى الله عليه وسلم، قال‏:‏”اللهم لا عيش إلا عيش الآخرة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said: \"O Allah, there is no true life but the life of the Hereafter\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

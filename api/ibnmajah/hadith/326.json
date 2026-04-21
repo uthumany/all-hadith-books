@@ -1,0 +1,16 @@
+{
+  "id": 326,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا نُوحُ بْنُ قَيْسٍ، عَنْ أَخِيهِ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ بْنِ جُنْدُبٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ مَنْ تَرَكَ الْجُمُعَةَ مُتَعَمِّدًا، فَلْيَتَصَدَّقْ بِدِينَارٍ، فَإِنْ لَمْ يَجِدْ، فَبِنِصْفِ دِينَارٍ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated from Samurah bin Jundab that the Prophet (ﷺ) said:",
+    "text": "“Whoever abandons Friday deliberately, let him give a Dinar in\ncharity, and if he cannot afford that, then (let him give) half a\nDinar.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

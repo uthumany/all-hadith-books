@@ -1,0 +1,16 @@
+{
+  "id": 550,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا ابْنُ رَافِعٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، أَخْبَرَنَا الضَّحَّاكُ، عَنْ قَطَنٍ الْخُزَاعِيِّ، عَنْ يُحَنِّسَ، مَوْلَى مُصْعَبٍ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ صَبَرَ عَلَى لأْوَائِهَا وَشِدَّتِهَا كُنْتُ لَهُ شَهِيدًا أَوْ شَفِيعًا يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ يَعْنِي الْمَدِينَةَ ‏.‏",
+  "english": {
+    "narrator": "Abdullah b. 'Umar (Allah be pleased with them) said:",
+    "text": "I heard Allah's Messenger (ﷺ) as saying: He who patiently endured the hardships and rigours of (this city, i. e. Medina), I would be his witness and intercessor on the Day of Resurrection."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

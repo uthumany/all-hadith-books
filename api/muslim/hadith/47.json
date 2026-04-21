@@ -1,0 +1,16 @@
+{
+  "id": 47,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي حَجَّاجٌ، قَالَ حَدَّثَنِي أَحْمَدُ، - وَهُوَ ابْنُ يُونُسَ - حَدَّثَنَا زَائِدَةُ، عَنْ مَنْصُورٍ، وَالْمُغِيرَةِ، عَنْ إِبْرَاهِيمَ، أَنَّ الْحَارِثَ، اتُّهِمَ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Hajjāj narrated to me, he said Ahmad- and he is Ibn Yūnus- narrated to me, Zā’idah narrated to us, on authority of Mansūr and al-Mughīrah, on authority of Ibrāhīm that al-Hārith was imputed."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

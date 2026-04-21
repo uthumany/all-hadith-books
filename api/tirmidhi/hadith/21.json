@@ -1,0 +1,16 @@
+{
+  "id": 21,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا سُلَيْمَانُ التَّيْمِيُّ، عَنْ أَبِي الْعَلاَءِ، عَنْ سَمُرَةَ بْنِ جُنْدَبٍ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم نَتَدَاوَلُ مِنْ قَصْعَةٍ مِنْ غُدْوَةٍ حَتَّى اللَّيْلِ يَقُومُ عَشَرَةٌ وَيَقْعُدُ عَشَرَةٌ ‏.‏ قُلْنَا فَمَا كَانَتْ تُمَدُّ قَالَ مِنْ أَىِّ شَيْءٍ تَعْجَبُ مَا كَانَتْ تُمَدُّ إِلاَّ مِنْ هَا هُنَا وَأَشَارَ بِيَدِهِ إِلَى السَّمَاءِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَأَبُو الْعَلاَءِ اسْمُهُ يَزِيدُ بْنُ عَبْدِ اللَّهِ بْنِ الشِّخِّيرِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Al-'Ala:",
+    "text": "from Samurah bin Jundab that he said: \"We were with the Prophet (ﷺ) and we would take turns (eating) from a bowl from the morning till the evening. Ten would stand and ten would sit.\" We said: \"So what was filling it up?' He said: \"What are you amazed at? It wasn't filled up from anywhere but here, and he pointed with his hand towards the sky.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

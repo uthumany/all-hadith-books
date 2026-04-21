@@ -1,0 +1,16 @@
+{
+  "id": 369,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا هُشَيْمٌ، وَأَبُو إِبْرَاهِيمَ الْمُعَقِّبُ عَنْ هُشَيْمٍ، أَنْبَأَنَا حُصَيْنٌ، عَنِ الشَّعْبِيِّ، قَالَ أُتِيَ عَلِيٌّ بِمَوْلَاةٍ لِسَعِيدِ بْنِ قَيْسٍ مُحْصَنَةٍ قَدْ فَجَرَتْ قَالَ فَضَرَبَهَا مِائَةً ثُمَّ رَجَمَهَا ثُمَّ قَالَ جَلَدْتُهَا بِكِتَابِ اللَّهِ وَرَجَمْتُهَا بِسُنَّةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ash-Sha`bi said:",
+    "text": "A freed slave woman of Sa’eed bin Qais, who was married and had committed an immoral action, was brought to `Ali, he gave her one hundred lashes then he stoned her. Then he said: I flogged her in accordance with the Book of Allah and I stoned her in accordance with the Sunnah of the Messenger of Allah (ﷺ)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

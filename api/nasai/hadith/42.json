@@ -1,0 +1,16 @@
+{
+  "id": 42,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ إِسْرَائِيلَ، عَنْ أَبِي حَصِينٍ، عَنْ عَامِرٍ، عَنِ ابْنِ عُمَرَ، قَالَ الْخَمْرُ مِنْ خَمْسَةٍ مِنَ التَّمْرِ وَالْحِنْطَةِ وَالشَّعِيرِ وَالْعَسَلِ وَالْعِنَبِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Ibn 'Umar said:",
+    "text": "\"Khamr is made from five things: From dates, wheat, barley, honey and grapes.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

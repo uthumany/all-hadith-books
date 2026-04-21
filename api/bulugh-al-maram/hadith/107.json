@@ -1,0 +1,16 @@
+{
+  "id": 107,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ قَالَ: سُبْحَانَ اَللَّهِ وَبِحَمْدِهِ مِائَةَ مَرَّةٍ حُطَّتْ خَطَايَاهُ, وَإِنْ كَانَتْ مِثْلَ زَبَدِ اَلْبَحْرِ }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6405)‏، وهو قطعة من حديث عند مسلم (2691)‏، وعندهما تقييد ذلك بقوله ‏-صلى الله عليه وسلم‏-:\" في يوم\".‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Whoever says a hundred times, ‘How perfect Allah is and I praise Him,’ his sins will be forgiven though they may be as much as the foam of the sea.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

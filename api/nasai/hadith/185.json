@@ -1,0 +1,16 @@
+{
+  "id": 185,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ خَالِدٍ، عَنْ مَعْنٍ، قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، قَالَ إِذَا طُبِخَ الطِّلاَءُ عَلَى الثُّلُثِ فَلاَ بَأْسَ بِهِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Sa'eed bin Al-Musayyab said:",
+    "text": "\"When At-Tila' (thickened grape juice) has been cooked and reduced to one-third, then there is nothing wrong with it.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

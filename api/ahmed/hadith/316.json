@@ -1,0 +1,16 @@
+{
+  "id": 316,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ بَحْرٍ، حَدَّثَنَا بَقِيَّةُ بْنُ الْوَلِيدِ الْحِمْصِيُّ، حَدَّثَنِي الْوَضِينُ بْنُ عَطَاءٍ، عَنْ مَحْفُوظِ بْنِ عَلْقَمَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَائِذٍ الْأَزْدِيِّ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِنَّ السَّهَ وِكَاءُ الْعَيْنِ فَمَنْ نَامَ فَلْيَتَوَضَّأْ‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Ali bin Abi Talib that the Prophet (ﷺ) said:",
+    "text": "`The anus, for the eye , is like the string that ties up a waterskin; whoever goes to sleep, let him do wudoo’.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

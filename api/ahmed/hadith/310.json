@@ -1,0 +1,16 @@
+{
+  "id": 310,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَسْوَدُ بْنُ عَامِرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ الْحَكَمُ أَخْبَرَنِي عَنْ أَبِي مُحَمَّدٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ بَعَثَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى الْمَدِينَةِ فَأَمَرَهُ أَنْ يُسَوِّيَ الْقُبُورَ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "It was narrated that ‘Ali (رضي الله عنه) said that The Prophet (ﷺ) sent him to Madinah and told him to level the graves."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

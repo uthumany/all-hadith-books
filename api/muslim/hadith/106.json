@@ -1,0 +1,16 @@
+{
+  "id": 106,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ، زُهَيْرٌ\n حَدَّثَنَا عَبْدُ الرَّحْمَنِ، - وَهُوَ ابْنُ مَهْدِيٍّ - عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي،\n هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَقُومُ السَّاعَةُ حَتَّى يُبْعَثَ دَجَّالُونَ كَذَّابُونَ\n قَرِيبٌ مِنْ ثَلاَثِينَ كُلُّهُمْ يَزْعُمُ أَنَّهُ رَسُولُ اللَّهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+    "text": "The Last Hour would not come until there would arise about thirty impostors, liars, and each one of them would claim that he is a messenger of Allah."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

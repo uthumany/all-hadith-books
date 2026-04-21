@@ -1,0 +1,16 @@
+{
+  "id": 191,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "عَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا تُحَرِّمُ اَلْمَصَّةُ وَالْمَصَّتَانِ.‏ }  أَخْرَجَهُ مُسْلِمٌ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (1450)‏، ووقع في \"أ\": \"ولا المصتان\".‏ بزيادة: \"لا\".‏",
+  "english": {
+    "narrator": "Narrated 'Aishah (RA):",
+    "text": "Allah's Messenger (ﷺ) said: \"One or two sucks do not make (marriage) unlawful.\"\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

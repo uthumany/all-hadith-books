@@ -1,0 +1,16 @@
+{
+  "id": 380,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنِي وَرْقَاءُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْزِلُنَا - إِنْ شَاءَ اللَّهُ إِذَا فَتَحَ اللَّهُ - الْخَيْفُ حَيْثُ تَقَاسَمُوا عَلَى الْكُفْرِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira (Allah be pleased with him) reported Allah's Apostle (ﷺ) as saying:",
+    "text": "God willing, when Allah has granted us victory, our halt tomorrow will be at Khaif, where they (the unbelievers of Mecca) had taken an oath on unbelief."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

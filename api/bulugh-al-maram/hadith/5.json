@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا يُقِيمُ اَلرَّجُلُ اَلرَّجُلَ مِنْ مَجْلِسِهِ, ثُمَّ يَجْلِسُ فِيهِ, وَلَكِنْ تَفَسَّحُوا, وَتَوَسَّعُوا }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6270)‏، ومسلم (2177)‏ (28)‏ واللفظ لمسلم.‏",
+  "english": {
+    "narrator": "Ibn Umar (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“A man should not ask another man to get up from his place in order to take his seat. But you should make room for each other and spread out.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 100,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مِنْ شَرِّ النَّاسِ ذُو الْوَجْهَيْنِ الَّذِي يَأْتِي هَؤُلاَءِ بِوَجْهٍ وَهَؤُلاَءِ بِوَجْهٍ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah reported the Prophet (May peace be upon him) as saying:",
+    "text": "The worst of the people is a man who is double-faced; he presents one face to some and another to others."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

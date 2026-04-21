@@ -1,0 +1,16 @@
+{
+  "id": 71,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الأَزْهَرِ، حَدَّثَنَا أَبُو النَّضْرِ، حَدَّثَنَا أَبُو جَعْفَرٍ، عَنْ يُونُسَ، عَنِ الْحَسَنِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنِّي رَسُولُ اللَّهِ وَيُقِيمُوا الصَّلاَةَ وَيُؤْتُوا الزَّكَاةَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Hurairah said:",
+    "text": "\"The Messenger of Allah (ﷺ) said: 'I have been commanded to fight the people until they testify to La ilaha ill-allah (none has the right to be worshipped but Allah) and that I am the Messenger of Allah, and establish regular prayers and pay Zakat.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

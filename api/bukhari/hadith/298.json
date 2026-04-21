@@ -1,0 +1,16 @@
+{
+  "id": 298,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ لَمَّا نَزَلَتْ هَذِهِ الآيَةُ ‏{‏الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ‏}‏ شَقَّ ذَلِكَ عَلَى أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَقَالُوا أَيُّنَا لَمْ يَلْبِسْ إِيمَانَهُ بِظُلْمٍ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّهُ لَيْسَ بِذَاكَ، أَلاَ تَسْمَعُ إِلَى قَوْلِ لُقْمَانَ لاِبْنِهِ ‏{‏إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ‏}‏‏\"‏",
+  "english": {
+    "narrator": "Narrated `Abdullah:",
+    "text": "When there was revealed: 'It is those who believe and confuse not their beliefs with wrong.' (6.82) It \nwas very hard for the companions of Allah's Messenger (ﷺ), so they said, \"Which of us has not confused his \nbelief with wrong?\" Allah's Messenger (ﷺ) said, \"The Verse does not mean this. Don't you hear Luqman's \nstatement to his son: 'Verily! Joining others in worship, with Allah is a great wrong indeed.' (31.13)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 236,
+  "chapterId": 78,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، قَالَ حَدَّثَنِي قَتَادَةُ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ بِالْمَدِينَةِ فَزَعٌ فَرَكِبَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَرَسًا لأَبِي طَلْحَةَ فَقَالَ ‏\n\"‏ مَا رَأَيْنَا مِنْ شَىْءٍ، وَإِنْ وَجَدْنَاهُ لَبَحْرًا ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "There was a state of fear in Medina. Allah's Messenger (ﷺ) rode a horse belonging to Abu Talha (in order to \nsee the matter). The Prophet (ﷺ) said, \"We could not see anything, and we found that horse like a sea (fast \nin speed)."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

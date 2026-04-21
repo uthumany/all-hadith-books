@@ -1,0 +1,16 @@
+{
+  "id": 431,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، عَنِ ابْنِ حَكِيمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، أَنَّ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ فِي الْحَرَامِ يُكَفِّرُ‏.‏ وَقَالَ ابْنُ عَبَّاسٍ ‏{‏لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ إِسْوَةٌ حَسَنَةٌ‏}‏‏.‏",
+  "english": {
+    "narrator": "Narrated Ibn `Abbas:",
+    "text": "If someone says to his wife, \"You are unlawful to me.\" he must make an expiation (for his oath). Ibn \n`Abbas added: There is for you in Allah's Messenger (ﷺ), an excellent example to follow."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

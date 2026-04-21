@@ -1,0 +1,16 @@
+{
+  "id": 602,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا عُثْمَانُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ - حَدَّثَنَا عِصَامُ بْنُ قُدَامَةَ، - مِنْ بَنِي بُجَيْلَةَ - عَنْ مَالِكِ بْنِ نُمَيْرٍ الْخُزَاعِيِّ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم وَاضِعًا ذِرَاعَهُ الْيُمْنَى عَلَى فَخِذِهِ الْيُمْنَى رَافِعًا أُصْبُعَهُ السَّبَّابَةَ قَدْ حَنَاهَا شَيْئًا ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuMalik Numayr al-Khuza'i:",
+    "text": "I saw the Prophet (peace be upon him placing his right hand on his right thigh and raising his forefinger curving it a little."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

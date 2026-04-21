@@ -1,0 +1,16 @@
+{
+  "id": 23,
+  "chapterId": 55,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ، قَالَ‏:‏ أَخْبَرَنَا هُشَيْمٌ، عَنْ إِسْمَاعِيلَ بْنِ سَالِمٍ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ قَالَ‏:‏ كَانُوا يُحِبُّونَ إِذَا حَدَّثَ الرَّجُلُ أَنْ لاَ يُقْبِلَ عَلَى الرَّجُلِ الْوَاحِدِ، وَلَكِنْ لِيَعُمَّهُمْ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Habib ibn Abi Thabit said, \"When a man spoke, they used to like\nthat he not turn to one particular man, but rather he should address everyone.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

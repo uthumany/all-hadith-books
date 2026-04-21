@@ -1,0 +1,16 @@
+{
+  "id": 217,
+  "chapterId": 78,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، حَدَّثَنَا هِشَامٌ، أَنَّ ابْنَ جُرَيْجٍ، أَخْبَرَهُمْ قَالَ أَخْبَرَنِي عَبْدُ الْحَمِيدِ بْنُ جُبَيْرِ بْنِ شَيْبَةَ، قَالَ جَلَسْتُ إِلَى سَعِيدِ بْنِ الْمُسَيَّبِ فَحَدَّثَنِي أَنَّ جَدَّهُ حَزْنًا قَدِمَ عَلَى النَّبِيِّ صلى الله عليه وسلم‏.‏ فَقَالَ ‏\"‏ مَا اسْمُكَ ‏\"‏‏.‏ قَالَ اسْمِي حَزْنٌ‏.‏ قَالَ ‏\"‏ بَلْ أَنْتَ سَهْلٌ ‏\"‏‏.‏ قَالَ مَا أَنَا بِمُغَيِّرٍ اسْمًا سَمَّانِيهِ أَبِي‏.‏ قَالَ ابْنُ الْمُسَيَّبِ فَمَا زَالَتْ فِينَا الْحُزُونَةُ بَعْدُ‏.‏",
+  "english": {
+    "narrator": "Narrated Sa`id bin Al-Musaiyab:",
+    "text": "That when his grandfather, Hazn visited the Prophet (ﷺ) the Prophet (ﷺ) said (to him), \"What is your name?\" \nHe said, \"My name is Hazn.\" The Prophet (ﷺ) said, \" But you are Sahl.\" He said, \"I will not change my \nname with which my father named me.\" Ibn Al-Musaiyab added: So we have had roughness (in \ncharacter) ever since."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

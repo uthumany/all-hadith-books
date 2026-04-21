@@ -1,0 +1,16 @@
+{
+  "id": 448,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ عُقْبَةَ بْنِ عَامِرٍ قَالَ: قُلْتُ يَا رَسُولَ اللَّهِ فُضِّلَتْ سُورَةُ الْحَجِّ بِأَنَّ فِيهَا سَجْدَتَيْنِ؟ قَالَ: نَعَمْ وَمَنْ لَمْ يَسْجُدْهُمَا فَلَا يَقْرَأْهُمَا \". رَوَاهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ لَيْسَ إِسْنَادُهُ بِالْقَوِيِّ. وَفِي الْمَصَابِيحِ: «فَلَا يَقْرَأها» كَمَا فِي شرح السّنة",
+  "english": {
+    "narrator": "",
+    "text": "‘Uqba b. ‘Amir told that he said, “Messenger of God, sura al-Hajj has been given superior excellence through having two prostrations in it.” He replied, “Yes, and he who does not make the two prostrations should not recite the two verses.” \n\nAbu Dawud and Tirmidhi transmitted it, and  said this is a tradition whose isnad is not strong. Al-Masabih has “should not recite it”, as occurs in Sharh as-sunna."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

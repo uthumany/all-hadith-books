@@ -1,0 +1,16 @@
+{
+  "id": 291,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ سَلَمَةَ\n - عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم آخَى بَيْنَ أَبِي عُبَيْدَةَ بْنِ الْجَرَّاحِ\n وَبَيْنَ أَبِي طَلْحَةَ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Anas reported that Allah's Messenger (ﷺ) established fraternity between Abu Ubaida b. Jarrah and Abu Talha."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

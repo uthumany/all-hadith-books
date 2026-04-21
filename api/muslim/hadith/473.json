@@ -1,0 +1,16 @@
+{
+  "id": 473,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا أَبُو كَامِلٍ الْجَحْدَرِيُّ، حَدَّثَنَا بِشْرٌ، - يَعْنِي ابْنَ مُفَضَّلٍ - حَدَّثَنَا سُهَيْلُ بْنُ، أَبِي صَالِحٍ عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَحِلُّ لاِمْرَأَةٍ أَنْ تُسَافِرَ ثَلاَثًا إِلاَّ وَمَعَهَا ذُو مَحْرَمٍ مِنْهَا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:",
+    "text": "It is not lawful for a woman to undertake three (days, ) journey except when there is a Mahram with her."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

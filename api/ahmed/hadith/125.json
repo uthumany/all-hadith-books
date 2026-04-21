@@ -1,0 +1,16 @@
+{
+  "id": 125,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو النَّضْرِ، هَاشِمٌ وَأَبُو دَاوُدَ قَالَا حَدَّثَنَا وَرْقَاءُ، عَنْ عَبْدِ الْأَعْلَى الثَّعْلَبِيِّ، عَنْ أَبِي جَمِيلَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ احْتَجَمَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَمَرَنِي أَنْ أُعْطِيَ الْحَجَّامَ أَجْرَهُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) was treated with cupping and he ordered me to pay the cupper his fee."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

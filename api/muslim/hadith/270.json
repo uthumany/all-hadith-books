@@ -1,0 +1,16 @@
+{
+  "id": 270,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالَ ابْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،\n حَدَّثَنَا شُعْبَةُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، قَالَ سَمِعْتُ أَبَا سَلَمَةَ، يُحَدِّثُ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ\n صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ أَسْلَمُ وَغِفَارُ وَمُزَيْنَةُ وَمَنْ كَانَ مِنْ جُهَيْنَةَ أَوْ جُهَيْنَةُ خَيْرٌ\n مِنْ بَنِي تَمِيمٍ وَبَنِي عَامِرٍ وَالْحَلِيفَيْنِ أَسَدٍ وَغَطَفَانَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+    "text": "The tribes of Ashja', Ghifar and Muzaina and from the tribe of Juhaina they are better than Banu Tamim, Banu Amir and the allies of Asad and Ghatfan."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

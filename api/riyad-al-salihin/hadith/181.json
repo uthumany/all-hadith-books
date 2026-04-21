@@ -1,0 +1,16 @@
+{
+  "id": 181,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "فالأول‏:‏ عن أبي رقية تميم بن أوس الداري رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ الدين النصيحة‏\"‏ قلنا‏:‏ لمن‏؟‏ قال‏:‏ لله ولكتابه ولرسوله ولأئمة المسلمين وعامتهم ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Tamim bin Aus Ad-Dari (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"Ad-Deen is sincerity\". We said: \"For whom?\" He replied, \"For Allah, His Book, His Messenger and for the leaders of the Muslims and their masses\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

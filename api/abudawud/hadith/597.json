@@ -1,0 +1,16 @@
+{
+  "id": 597,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ الْكِنْدِيُّ، حَدَّثَنَا يُونُسُ، - يَعْنِي ابْنَ بُكَيْرٍ - عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الأَسْوَدِ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ، قَالَ مِنَ السُّنَّةِ أَنْ يُخْفَى التَّشَهُّدُ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Mas'ud:",
+    "text": "It pertains to the sunnah to utter the tashahhud quietly."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

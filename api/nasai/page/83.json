@@ -1,0 +1,510 @@
+{
+  "page": 83,
+  "perPage": 50,
+  "totalPages": 116,
+  "totalCount": 5768,
+  "nextPage": 84,
+  "prevPage": 82,
+  "items": [
+    {
+      "id": 126,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدَةُ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنِ الزُّهْرِيِّ، عَنْ طَلْحَةَ بْنِ عَبْدِ اللَّهِ بْنِ عَوْفٍ، عَنْ سَعِيدِ بْنِ زَيْدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ قَاتَلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Sa'eed bin Zaid that:",
+        "text": "The Prophet  said: \"Whoever is killed defending his wealth, he is a martyr.\""
+      }
+    },
+    {
+      "id": 127,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا الْمُؤَمَّلُ، عَنْ سُفْيَانَ، عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Sulaiman bin Buraidah that his father said:",
+        "text": "\"The Messenger of Allah  said: 'Whoever is killed defending his wealth, he is a martyr.'\""
+      }
+    },
+    {
+      "id": 128,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَلْقَمَةَ، عَنْ أَبِي جَعْفَرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ قُتِلَ دُونَ مَظْلَمَتِهِ فَهُوَ شَهِيدٌ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ حَدِيثُ الْمُؤَمَّلِ خَطَأٌ وَالصَّوَابُ حَدِيثُ عَبْدِ الرَّحْمَنِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Ja'far said:",
+        "text": "\"The Messenger of Allah  said: 'Whoever is killed defending his wealth and is killed unjustly, he is a martyr.'\""
+      }
+    },
+    {
+      "id": 129,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ أَبِيهِ، عَنْ أَبِي عُبَيْدَةَ بْنِ مُحَمَّدٍ، عَنْ طَلْحَةَ بْنِ عَبْدِ اللَّهِ بْنِ عَوْفٍ، عَنْ سَعِيدِ بْنِ زَيْدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ قَاتَلَ دُونَ مَالِهِ فَقُتِلَ فَهُوَ شَهِيدٌ وَمَنْ قَاتَلَ دُونَ دَمِهِ فَهُوَ شَهِيدٌ وَمَنْ قَاتَلَ دُونَ أَهْلِهِ فَهُوَ شَهِيدٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Sa'eed bin Zaid that:",
+        "text": "The Prophet  said: \"Whoever fights to protect his wealth and is killed, he is a martyr. Whoever fights to protect himself, he is a martyr. Whoever fights to protect his family is a martyr.\""
+      }
+    },
+    {
+      "id": 130,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، وَمُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، قَالاَ حَدَّثَنَا سُلَيْمَانُ، - يَعْنِي ابْنَ دَاوُدَ - الْهَاشِمِيُّ قَالَ حَدَّثَنَا إِبْرَاهِيمُ، عَنْ أَبِيهِ، عَنْ أَبِي عُبَيْدَةَ بْنِ مُحَمَّدِ بْنِ عَمَّارِ بْنِ يَاسِرٍ، عَنْ طَلْحَةَ بْنِ عَبْدِ اللَّهِ بْنِ عَوْفٍ، عَنْ سَعِيدِ بْنِ زَيْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ وَمَنْ قُتِلَ دُونَ أَهْلِهِ فَهُوَ شَهِيدٌ وَمَنْ قُتِلَ دُونَ دِينِهِ فَهُوَ شَهِيدٌ وَمَنْ قُتِلَ دُونَ دَمِهِ فَهُوَ شَهِيدٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Sa'eed bin Zaid said:",
+        "text": "\"The Messenger of Allah  said: 'Whoever is killed protecting his wealth, he is a martyr. Whoever is killed protecting his family, he is a martyr. Whoever is killed protecting his religion, he is a martyr. Whoever is killed protecting himself, he is a martyr.'\""
+      }
+    },
+    {
+      "id": 131,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الْقَاسِمُ بْنُ زَكَرِيَّا بْنِ دِينَارٍ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ عَمْرٍو الأَشْعَثِيُّ، قَالَ حَدَّثَنَا عَبْثَرٌ، عَنْ مُطَرِّفٍ، عَنْ سَوَادَةَ بْنِ أَبِي الْجَعْدِ، عَنْ أَبِي جَعْفَرٍ، قَالَ كُنْتُ جَالِسًا عِنْدَ سُوَيْدِ بْنِ مُقَرِّنٍ فَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ قُتِلَ دُونَ مَظْلَمَتِهِ فَهُوَ شَهِيدٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Ja'far said:",
+        "text": "\"I was sitting with Suwaid bin Muqarrin, and he said: The Messenger of Allah  said: \"Whoever is killed defending himself against injustice, he is a martyr.\""
+      }
+    },
+    {
+      "id": 132,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا الْفَضْلُ بْنُ مُوسَى، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ الزُّبَيْرِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ شَهَرَ سَيْفَهُ ثُمَّ وَضَعَهُ فَدَمُهُ هَدَرٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Az-Zubair that:",
+        "text": "The Messenger of Allah  said: \"Whoever unsheathes his sword and starts to strike the people with it, it is permissible to shed his blood.\""
+      }
+    },
+    {
+      "id": 133,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، بِهَذَا الإِسْنَادِ مِثْلَهُ وَلَمْ يَرْفَعْهُ ‏.‏",
+      "english": {
+        "narrator": "'Abdur-Razzaq narrated:",
+        "text": "'Abdur-Razzaq narrated a similar report with the same chain, but he did not attribute it to the Prophet "
+      }
+    },
+    {
+      "id": 134,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ الزُّبَيْرِ، قَالَ مَنْ رَفَعَ السِّلاَحَ ثُمَّ وَضَعَهُ فَدَمُهُ هَدَرٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Az-Zubair said:",
+        "text": "\"Whoever wields a weapon and starts to strike (the people) with it, it is permissible to shed his blood.\""
+      }
+    },
+    {
+      "id": 135,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي مَالِكٌ، وَعَبْدُ اللَّهِ بْنُ عُمَرَ، وَأُسَامَةُ بْنُ زَيْدٍ، وَيُونُسُ بْنُ يَزِيدَ، أَنَّ نَافِعًا، أَخْبَرَهُمْ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ حَمَلَ عَلَيْنَا السِّلاَحَ فَلَيْسَ مِنَّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Umar that :",
+        "text": "The Prophet  said: \"Whoever bears weapons against us, he is not one of us.\""
+      }
+    },
+    {
+      "id": 136,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا الثَّوْرِيُّ، عَنْ أَبِيهِ، عَنِ ابْنِ أَبِي نُعْمٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ بَعَثَ عَلِيٌّ إِلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ بِالْيَمَنِ بِذُهَيْبَةٍ فِي تُرْبَتِهَا فَقَسَمَهَا بَيْنَ الأَقْرَعِ بْنِ حَابِسٍ الْحَنْظَلِيِّ ثُمَّ أَحَدِ بَنِي مُجَاشِعٍ وَبَيْنَ عُيَيْنَةَ بْنِ بَدْرٍ الْفَزَارِيِّ وَبَيْنَ عَلْقَمَةَ بْنِ عُلاَثَةَ الْعَامِرِيِّ ثُمَّ أَحَدِ بَنِي كِلاَبٍ وَبَيْنَ زَيْدِ الْخَيْلِ الطَّائِيِّ ثُمَّ أَحَدَ بَنِي نَبْهَانَ - قَالَ - فَغَضِبَتْ قُرَيْشٌ وَالأَنْصَارُ وَقَالُوا يُعْطِي صَنَادِيدَ أَهْلِ نَجْدٍ وَيَدَعُنَا فَقَالَ ‏\"‏ إِنَّمَا أَتَأَلَّفُهُمْ ‏\"‏ ‏.‏ فَأَقْبَلَ رَجُلٌ غَائِرَ الْعَيْنَيْنِ نَاتِئَ الْوَجْنَتَيْنِ كَثَّ اللِّحْيَةِ مَحْلُوقَ الرَّأْسِ فَقَالَ يَا مُحَمَّدُ اتَّقِ اللَّهَ قَالَ ‏\"‏ مَنْ يُطِعِ اللَّهَ إِذَا عَصَيْتُهُ أَيَأْمَنُنِي عَلَى أَهْلِ الأَرْضِ وَلاَ تَأْمَنُونِي ‏\"‏ ‏.‏ فَسَأَلَ رَجُلٌ مِنَ الْقَوْمِ قَتْلَهُ فَمَنَعَهُ فَلَمَّا وَلَّى قَالَ ‏\"‏ إِنَّ مِنْ ضِئْضِئِ هَذَا قَوْمًا يَخْرُجُونَ يَقْرَءُونَ الْقُرْآنَ لاَ يُجَاوِزُ حَنَاجِرَهُمْ يَمْرُقُونَ مِنَ الدِّينِ مُرُوقَ السَّهْمِ مِنَ الرَّمِيَّةِ يَقْتُلُونَ أَهْلَ الإِسْلاَمِ وَيَدَعُونَ أَهْلَ الأَوْثَانِ لَئِنْ أَنَا أَدْرَكْتُهُمْ لأَقْتُلَنَّهُمْ قَتْلَ عَادٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Sa'eed Al-Khudri said:",
+        "text": "\"When 'Ali was in Yemen, he sent some gold that was still enclosed in rock to the Prophet ) said: 'Among the offspring of this man there will be people who will recite the Qur'an but it will not go beyond their throats, and they will go out of Islam as an arrow goes through the target. They will kill the Muslims and leave the idol-worshippers alone. If I live to see them, I will kill them as the killing of 'Ad.'\""
+      }
+    },
+    {
+      "id": 137,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ خَيْثَمَةَ، عَنْ سُوَيْدِ بْنِ غَفَلَةَ، عَنْ عَلِيٍّ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ يَخْرُجُ قَوْمٌ فِي آخِرِ الزَّمَانِ أَحْدَاثُ الأَسْنَانِ سُفَهَاءُ الأَحْلاَمِ يَقُولُونَ مِنْ خَيْرِ قَوْلِ الْبَرِيَّةِ لاَ يُجَاوِزُ إِيمَانُهُمْ حَنَاجِرَهُمْ يَمْرُقُونَ مِنَ الدِّينِ كَمَا يَمْرُقُ السَّهْمُ مِنَ الرَّمِيَّةِ فَإِذَا لَقِيتُمُوهُمْ فَاقْتُلُوهُمْ فَإِنَّ قَتْلَهُمْ أَجْرٌ لِمَنْ قَتَلَهُمْ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Ali said:",
+        "text": "\"I heard the Messenger of Allah  say: 'At the end of time there will appear young people with foolish minds. Their faith will not pass through their throats, and they will go out of Islam as an arrow goes through the target. If you meet them, then kill them, for killing them will bring reward to the one who killed them on the Day of Resurrection.'\""
+      }
+    },
+    {
+      "id": 138,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ الْبَصْرِيُّ الْحَرَّانِيُّ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ الطَّيَالِسِيُّ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنِ الأَزْرَقِ بْنِ قَيْسٍ، عَنْ شَرِيكِ بْنِ شِهَابٍ، قَالَ كُنْتُ أَتَمَنَّى أَنْ أَلْقَى، رَجُلاً مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَسْأَلُهُ عَنِ الْخَوَارِجِ فَلَقِيتُ أَبَا بَرْزَةَ فِي يَوْمِ عِيدٍ فِي نَفَرٍ مِنْ أَصْحَابِهِ فَقُلْتُ لَهُ هَلْ سَمِعْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَذْكُرُ الْخَوَارِجَ فَقَالَ نَعَمْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم بِأُذُنِي وَرَأَيْتُهُ بِعَيْنِي أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِمَالٍ فَقَسَمَهُ فَأَعْطَى مَنْ عَنْ يَمِينِهِ وَمَنْ عَنْ شِمَالِهِ وَلَمْ يُعْطِ مَنْ وَرَاءَهُ شَيْئًا فَقَامَ رَجُلٌ مِنْ وَرَائِهِ فَقَالَ يَا مُحَمَّدُ مَا عَدَلْتَ فِي الْقِسْمَةِ ‏.‏ رَجُلٌ أَسْوَدُ مَطْمُومُ الشَّعْرِ عَلَيْهِ ثَوْبَانِ أَبْيَضَانِ فَغَضِبَ رَسُولُ اللَّهِ صلى الله عليه وسلم غَضَبًا شَدِيدًا وَقَالَ ‏\"‏ وَاللَّهِ لاَ تَجِدُونَ بَعْدِي رَجُلاً هُوَ أَعْدَلُ مِنِّي ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ يَخْرُجُ فِي آخِرِ الزَّمَانِ قَوْمٌ كَأَنَّ هَذَا مِنْهُمْ يَقْرَءُونَ الْقُرْآنَ لاَ يُجَاوِزُ تَرَاقِيَهُمْ يَمْرُقُونَ مِنَ الإِسْلاَمِ كَمَا يَمْرُقُ السَّهْمُ مِنَ الرَّمِيَّةِ سِيمَاهُمُ التَّحْلِيقُ لاَ يَزَالُونَ يَخْرُجُونَ حَتَّى يَخْرُجَ آخِرُهُمْ مَعَ الْمَسِيحِ الدَّجَّالِ فَإِذَا لَقِيتُمُوهُمْ فَاقْتُلُوهُمْ هُمْ شَرُّ الْخَلْقِ وَالْخَلِيقَةِ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ رَحِمَهُ اللَّهُ شَرِيكُ بْنُ شِهَابٍ لَيْسَ بِذَلِكَ الْمَشْهُورِ ‏.‏",
+      "english": {
+        "narrator": "it was narrated that Sharik bin Shihab said:",
+        "text": "\"I used to wish that I could meet a man among the Companions of the Prophet  became very angry and said: \"By Allah! You will not find a man after me who is more just than me.\" Then he said: \"A people will come at the end of time; as if he is one of them, reciting the Qur'an without it passing beyond their throats. They will go through Islam just as the arrow goes through the target. Their distinction will be shaving. They will not cease to appear until the last of them comes with Al-Masih Ad-Dajjal. So when you meet them, then kill them, they are the worst of created beings.\""
+      }
+    },
+    {
+      "id": 139,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنْ أَبِي إِسْحَاقَ، عَنْ عُمَرَ بْنِ سَعْدٍ، قَالَ حَدَّثَنَا سَعْدُ بْنُ أَبِي وَقَّاصٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ قِتَالُ الْمُسْلِمِ كُفْرٌ وَسِبَابُهُ فُسُوقٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Sa'd bin Abi Waqas told us that:",
+        "text": "The Messenger of Allah  said: \"Fighting a Muslim is Kufr and defaming him is evildoing.\""
+      }
+    },
+    {
+      "id": 140,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ أَبَا الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، قَالَ سِبَابُ الْمُسْلِمِ فُسُوقٌ وَقِتَالُهُ كُفْرٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah said:",
+        "text": "\"Defaming a Muslim is evildoing and fighting him is Kufr.\" (Sahih Mawquf)"
+      }
+    },
+    {
+      "id": 141,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَحْيَى بْنُ حَكِيمٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ شُعْبَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، قَالَ سِبَابُ الْمُسْلِمِ فِسْقٌ وَقِتَالُهُ كُفْرٌ ‏.‏ فَقَالَ لَهُ أَبَانُ يَا أَبَا إِسْحَاقَ أَمَا سَمِعْتَهُ إِلاَّ مِنْ أَبِي الأَحْوَصِ قَالَ بَلْ سَمِعْتُهُ مِنَ الأَسْوَدِ وَهُبَيْرَةَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Shu'bah, from Abu Ishaq who said:",
+        "text": "\"I heard Abu Al-Ahwas (narrate) that 'Abdullah said: 'Defaming a Muslim is evildoing and fighting him is Kufr.'\" So Aban said to him: \"O Abu Ishaq! You heard it only from Abu Al-Ahwas?\" He said: \"Rather, I heard it from Al-Aswad and Hubairah.\""
+      }
+    },
+    {
+      "id": 142,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي الزَّعْرَاءِ، عَنْ عَمِّهِ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، قَالَ سِبَابُ الْمُسْلِمِ فُسُوقٌ وَقِتَالُهُ كُفْرٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah said:",
+        "text": "\"Defaming a Muslim is evildoing and fighting him is Kufr.\" (Sahih Mawquf)"
+      }
+    },
+    {
+      "id": 143,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ عَبْدَ الْمَلِكِ بْنَ عُمَيْرٍ، يُحَدِّثُهُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ سِبَابُ الْمُسْلِمِ فُسُوقٌ وَقِتَالُهُ كُفْرٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdur-Rahman bin 'Abdullah, from his father, that:",
+        "text": "The Messenger of Allah  said: \"Defaming a Muslim is evildoing and fighting him is Kufr.\""
+      }
+    },
+    {
+      "id": 144,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ قُلْتُ لِحَمَّادٍ سَمِعْتُ مَنْصُورًا، وَسُلَيْمَانَ، وَزُبَيْدًا، يُحَدِّثُونَ عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ سِبَابُ الْمُسْلِمِ فُسُوقٌ وَقِتَالُهُ كُفْرٌ ‏\"‏ ‏.‏ مَنْ تَتَّهِمُ أَتَتَّهِمُ مَنْصُورًا أَتَتَّهِمُ زُبَيْدًا أَتَتَّهِمُ سُلَيْمَانَ قَالَ لاَ وَلَكِنِّي أَتَّهِمُ أَبَا وَائِلٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Shu'bah who said:",
+        "text": "\"I said to Hammad: 'I heard Mansur, and Sulaiman, and Zubaid narrating from Abu Wa'il, from 'Abdullah, that the Messenger of Allah  said: \"Defaming a Muslim is evildoing and fighting him is Kufr.\" - Who are you worried about? Are you worried about Mansur? Are you worried about Zubaid? Are you worried about Sulaiman?' He said: 'No, but I am worried about Abu Wa'il.'\""
+      }
+    },
+    {
+      "id": 145,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ زُبَيْدٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ سِبَابُ الْمُسْلِمِ فُسُوقٌ وَقِتَالُهُ كُفْرٌ ‏\"‏ ‏.‏ قُلْتُ لأَبِي وَائِلٍ سَمِعْتَهُ مِنْ عَبْدِ اللَّهِ قَالَ نَعَمْ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Sufyan bin Zubaid, from Abu Wa'il, from 'Abdullah:",
+        "text": "\"The Messenger of Allah  said: 'Defaming a Muslim is evildoing and fighting him is Kufr.'\" I said to Abu Wa'il: \"Did you hear it from 'Abdullah?\" He said: \"Yes.\""
+      }
+    },
+    {
+      "id": 146,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا مُعَاوِيَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ سِبَابُ الْمُسْلِمِ فُسُوقٌ وَقِتَالُهُ كُفْرٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah said:",
+        "text": "\"The Messenger of Allah  said: 'Defaming a Muslim is evildoing and fighting him is Kufr.'\""
+      }
+    },
+    {
+      "id": 147,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، قَالَ قَالَ عَبْدُ اللَّهِ سِبَابُ الْمُسْلِمِ فُسُوقٌ وَقِتَالُهُ كُفْرٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Wa'il said:",
+        "text": "\"'Abdullah said: 'Defaming a Muslim is evildoing and fighting him is Kufr.'\""
+      }
+    },
+    {
+      "id": 148,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، عَنْ أَبِي مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قِتَالُ الْمُؤْمِنِ كُفْرٌ وَسِبَابُهُ فُسُوقٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah said:",
+        "text": "\"Fighting a believer is Kufr and defaming him is evildoing.\""
+      }
+    },
+    {
+      "id": 149,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا بِشْرُ بْنُ هِلاَلٍ الصَّوَّافُ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ غَيْلاَنَ بْنِ جَرِيرٍ، عَنْ زِيَادِ بْنِ رَبَاحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ خَرَجَ مِنَ الطَّاعَةِ وَفَارَقَ الْجَمَاعَةَ فَمَاتَ مَاتَ مِيتَةً جَاهِلِيَّةً وَمَنْ خَرَجَ عَلَى أُمَّتِي يَضْرِبُ بَرَّهَا وَفَاجِرَهَا لاَ يَتَحَاشَى مِنْ مُؤْمِنِهَا وَلاَ يَفِي لِذِي عَهْدِهَا فَلَيْسَ مِنِّي وَمَنْ قَاتَلَ تَحْتَ رَايَةٍ عُمِّيَّةٍ يَدْعُو إِلَى عَصَبِيَّةٍ أَوْ يَغْضَبُ لِعَصَبِيَّةٍ فَقُتِلَ فَقِتْلَةٌ جَاهِلِيَّةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah  said: 'Whoever parts from obedience, and splits away from the Jama'ah and dies, then he has died a death of Jahiliyyah. Whoever rebels against my Ummah, killing good and evil people alike, and does not try to avoid killing the believers, and does not pay attention to those who are under a covenant, then he is not of me. Whoever fights for a cause that is not clear, advocating tribalism, getting angry for the sake of tribalism, and he is killed, then he has died a death of Jahiliyyah.'\""
+      }
+    },
+    {
+      "id": 150,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا عِمْرَانُ الْقَطَّانُ، عَنْ قَتَادَةَ، عَنْ أَبِي مِجْلَزٍ، عَنْ جُنْدُبِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ قَاتَلَ تَحْتَ رَايَةٍ عُمِّيَّةٍ يُقَاتِلُ عَصَبِيَّةً وَيَغْضَبُ لِعَصَبِيَّةٍ فَقِتْلَتُهُ جَاهِلِيَّةٌ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ عِمْرَانُ الْقَطَّانُ لَيْسَ بِالْقَوِيِّ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Jundab bin 'Abdullah said:",
+        "text": "\"The Messenger of Allah  said: 'Whoever fights for a cause that is not clear, advocating tribalism, getting angry for the sake of tribalism, then he has died a death of Jahiliyyah.'\""
+      }
+    },
+    {
+      "id": 151,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، عَنْ شُعْبَةَ، قَالَ أَخْبَرَنِي مَنْصُورٌ، قَالَ سَمِعْتُ رِبْعِيًّا، يُحَدِّثُ عَنْ أَبِي بَكْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا أَشَارَ الْمُسْلِمُ عَلَى أَخِيهِ الْمُسْلِمِ بِالسِّلاَحِ فَهُمَا عَلَى جُرُفِ جَهَنَّمَ فَإِذَا قَتَلَهُ خَرَّا جَمِيعًا فِيهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Bakrah said:",
+        "text": "\"The Messenger of Allah  said: 'If a Muslim points a weapon at his fellow Muslim, then they are on the brink of Hell, and if he kills him, then they will both fall into it.'\""
+      }
+    },
+    {
+      "id": 152,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا يَعْلَى، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ رِبْعِيٍّ، عَنْ أَبِي بَكْرَةَ، قَالَ إِذَا حَمَلَ الرَّجُلاَنِ الْمُسْلِمَانِ السِّلاَحَ أَحَدُهُمَا عَلَى الآخَرِ فَهُمَا عَلَى جُرُفِ جَهَنَّمَ فَإِذَا قَتَلَ أَحَدُهُمَا الآخَرَ فَهُمَا فِي النَّارِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Bakrah said:",
+        "text": "\"If two Muslim men bear weapons against each other, then they are both on the brink of Hell. And if one of them kills the other, they will both be in Hell.\""
+      }
+    },
+    {
+      "id": 153,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، عَنْ يَزِيدَ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنِ الْحَسَنِ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا تَوَاجَهَ الْمُسْلِمَانِ بِسَيْفَيْهِمَا فَقَتَلَ أَحَدُهُمَا صَاحِبَهُ فَهُمَا فِي النَّارِ ‏\"‏ ‏.‏ قِيلَ يَا رَسُولَ اللَّهِ هَذَا الْقَاتِلُ فَمَا بَالُ الْمَقْتُولِ قَالَ ‏\"‏ أَرَادَ قَتْلَ صَاحِبِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Musa that:",
+        "text": "The Prophet  said: \"If two Muslims confront each other with swords, and one kills the other, they will both be in Hell.\" It was said: \"O Messenger of Allah, (we understand about) the killer, but what about the one who is killed?\" He said: \"He wanted to kill his companion.\""
+      }
+    },
+    {
+      "id": 154,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ هَارُونَ - قَالَ أَنْبَأَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا تَوَاجَهَ الْمُسْلِمَانِ بِسَيْفَيْهِمَا فَقَتَلَ أَحَدُهُمَا صَاحِبَهُ فَهُمَا فِي النَّارِ مِثْلَهُ سَوَاءً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Musa Al-Ash'ari that:",
+        "text": "The Prophet  said: \"If two Muslims confront each other with swords and one of them kills the other, they will both be in Hell.\""
+      }
+    },
+    {
+      "id": 155,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ مُحَمَّدِ بْنِ عَلِيٍّ الْمِصِّيصِيُّ، قَالَ حَدَّثَنَا خَلَفٌ، عَنْ زَائِدَةَ، عَنْ هِشَامٍ، عَنِ الْحَسَنِ، عَنْ أَبِي بَكْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا تَوَاجَهَ الْمُسْلِمَانِ بِسَيْفَيْهِمَا كُلُّ وَاحِدٍ مِنْهُمَا يُرِيدُ قَتْلَ صَاحِبِهِ فَهُمَا فِي النَّارِ ‏\"‏ ‏.‏ قِيلَ لَهُ يَا رَسُولَ اللَّهِ هَذَا الْقَاتِلُ فَمَا بَالُ الْمَقْتُولِ قَالَ ‏\"‏ إِنَّهُ كَانَ حَرِيصًا عَلَى قَتْلِ صَاحِبِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Bakrah that :",
+        "text": "The Prophet  said: \"If two Muslims confront each other with swords, each of them wanting to kill the other, they will both be in Hell.\" It was said to him: \"O Messenger of Allah, (we understand about) the killer, but what about the one who is killed?\" He said: \"He was determined to kill his companion.\""
+      }
+    },
+    {
+      "id": 156,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا الْخَلِيلُ بْنُ عُمَرَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنِي قَتَادَةُ، عَنِ الْحَسَنِ، عَنْ أَبِي بَكْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا الْتَقَى الْمُسْلِمَانِ بِسَيْفَيْهِمَا فَقَتَلَ أَحَدُهُمَا صَاحِبَهُ فَالْقَاتِلُ وَالْمَقْتُولُ فِي النَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Bakrah said:",
+        "text": "\"The Messenger  said: 'If two Muslims meet (and fight) with their swords and one of them kills the other, the killer and the slain will both be in Hell.'\""
+      }
+    },
+    {
+      "id": 157,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ فَضَالَةَ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، عَنِ الْحَسَنِ، عَنِ الأَحْنَفِ بْنِ قَيْسٍ، عَنْ أَبِي بَكْرَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ إِذَا تَوَاجَهَ الْمُسْلِمَانِ بِسَيْفَيْهِمَا فَقَتَلَ أَحَدُهُمَا صَاحِبَهُ فَالْقَاتِلُ وَالْمَقْتُولُ فِي النَّارِ ‏\"‏ ‏.‏ قَالُوا يَا رَسُولَ اللَّهِ هَذَا الْقَاتِلُ فَمَا بَالُ الْمَقْتُولِ قَالَ ‏\"‏ إِنَّهُ أَرَادَ قَتْلَ صَاحِبِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Bakrah said:",
+        "text": "\"I heard the Messenger of Allah  say: 'If two Muslims confront each other with their swords and one of them kills the other, both the killer and the slain will be in Hell.'\" They said: \"O Messenger of Allah, (we understand about) the killer, but what about the one who is killed?\" He said: \"He wanted to kill his companion.\""
+      }
+    },
+    {
+      "id": 158,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدَةَ، عَنْ حَمَّادٍ، عَنْ أَيُّوبَ، وَيُونُسَ، وَالْعَلاَءِ بْنِ زِيَادٍ، عَنِ الْحَسَنِ، عَنِ الأَحْنَفِ بْنِ قَيْسٍ، عَنْ أَبِي بَكْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا الْتَقَى الْمُسْلِمَانِ بِسَيْفَيْهِمَا فَقَتَلَ أَحَدُهُمَا صَاحِبَهُ فَالْقَاتِلُ وَالْمَقْتُولُ فِي النَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Bakrah said:",
+        "text": "\"The Messenger of Allah  said: 'If two Muslims fight with swords, and one of them kills the other, then the killer and the slain will both be in Hell.'\""
+      }
+    },
+    {
+      "id": 159,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُجَاهِدُ بْنُ مُوسَى، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ عُلَيَّةَ - عَنْ يُونُسَ، عَنِ الْحَسَنِ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا تَوَاجَهَ الْمُسْلِمَانِ بِسَيْفَيْهِمَا فَقَتَلَ أَحَدُهُمَا صَاحِبَهُ فَالْقَاتِلُ وَالْمَقْتُولُ فِي النَّارِ ‏\"‏ ‏.‏ قَالَ رَجُلٌ يَا رَسُولَ اللَّهِ هَذَا الْقَاتِلُ فَمَا بَالُ الْمَقْتُولِ قَالَ ‏\"‏ إِنَّهُ أَرَادَ قَتْلَ صَاحِبِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Musa Al-Ash'ari that :",
+        "text": "The Messenger of Allah  said: \"If two Muslims confront each other with swords and one of them kills the other, then the killer and the slain will both be in Hell.\" A man said: \"O Messenger of Allah, (we understand about) the killer, but what about the one who is killed?\" He said: \"He wanted to kill his companion.\""
+      }
+    },
+    {
+      "id": 160,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ الْحَكَمِ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ وَاقِدِ بْنِ مُحَمَّدِ بْنِ زَيْدٍ، أَنَّهُ سَمِعَ أَبَاهُ، يُحَدِّثُ عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَرْجِعُوا بَعْدِي كُفَّارًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that :",
+        "text": "The Prophet  said: \"Do not revert to disbelievers after I am gone, striking the necks of one another (killing one another).\""
+      }
+    },
+    {
+      "id": 161,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، قَالَ حَدَّثَنَا شَرِيكٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَرْجِعُوا بَعْدِي كُفَّارًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ لاَ يُؤْخَذُ الرَّجُلُ بِجِنَايَةِ أَبِيهِ وَلاَ جِنَايَةِ أَخِيهِ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ هَذَا خَطَأٌ وَالصَّوَابُ مُرْسَلٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "\"The Messenger of Allah  said: 'Do not revert to disbelievers after I am gone, striking the necks of one another (killing one another). No man is to be punished for the sins of his father, or for the sins of his brother.'\""
+      }
+    },
+    {
+      "id": 162,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، قَالَ حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنِ الأَعْمَشِ، عَنْ مُسْلِمٍ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَرْجِعُوا بَعْدِي كُفَّارًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ وَلاَ يُؤْخَذُ الرَّجُلُ بِجَرِيرَةِ أَبِيهِ وَلاَ بِجَرِيرَةِ أَخِيهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah said:",
+        "text": "\"The Messenger of Allah  said: 'Do not revert to disbelievers after I am gone, striking the necks of one another (killing one another). No man is to be punished for the sins of his father, or the sins of his brother.'\""
+      }
+    },
+    {
+      "id": 163,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ مُسْلِمٍ، عَنْ مَسْرُوقٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ أُلْفِيَنَّكُمْ تَرْجِعُونَ بَعْدِي كُفَّارًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ لاَ يُؤْخَذُ الرَّجُلُ بِجَرِيرَةِ أَبِيهِ وَلاَ بِجَرِيرَةِ أَخِيهِ ‏\"‏ ‏.‏ هَذَا الصَّوَابُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Masruq said:",
+        "text": "\"The Messenger of Allah  said: 'I do not want to see you after I am gone reverting to disbelievers, striking the necks of one another (killing one another). No man is punished for the crime of his father, or the crime of his brother.'\" This is correct."
+      }
+    },
+    {
+      "id": 164,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا يَعْلَى، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَرْجِعُوا بَعْدِي كُفَّارًا ‏\"‏ ‏.‏ مُرْسَلٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Masruq that:",
+        "text": "The Messenger of Allah  said: \"Do not revert to disbelievers after I am gone.\" It is Mursal."
+      }
+    },
+    {
+      "id": 165,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ زُرَارَةَ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي بَكْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَرْجِعُوا بَعْدِي ضُلاَّلاً يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Bakrah that:",
+        "text": "The Prophet  said: \"Do not revert to misguidance after I am gone, striking the necks of one another (killing one another).\""
+      }
+    },
+    {
+      "id": 166,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدٌ، وَعَبْدُ الرَّحْمَنِ، قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ عَلِيِّ بْنِ مُدْرِكٍ، قَالَ سَمِعْتُ أَبَا زُرْعَةَ بْنَ عَمْرِو بْنِ جَرِيرٍ، عَنْ جَرِيرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم فِي حَجَّةِ الْوَدَاعِ اسْتَنْصَتَ النَّاسَ قَالَ ‏\n\"‏ لاَ تَرْجِعُوا بَعْدِي كُفَّارًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jarir that :",
+        "text": "During the Farewell Pilgrimage, the Messenger of Allah  asked the people to be quiet and listen, and said: \"Do not revert to disbelievers after I am gone, striking the necks of one another (killing one another).\""
+      }
+    },
+    {
+      "id": 167,
+      "chapterId": 37,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَبُو عُبَيْدَةَ بْنُ أَبِي السَّفَرِ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ قَيْسٍ، قَالَ بَلَغَنِي أَنَّ جَرِيرَ بْنَ عَبْدِ اللَّهِ، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اسْتَنْصِتِ النَّاسَ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ لاَ أُلْفِيَنَّكُمْ بَعْدَ مَا أَرَى تَرْجِعُونَ بَعْدِي كُفَّارًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Jarir bin 'Abdullah said:",
+        "text": "\"The Messenger of Allah  said to me: 'Ask the people to be quiet and listen.' Then he said: 'I do not want to see you after I am gone reverting to disbelievers, striking the necks of one another (killing one another).'\""
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 38,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ الْحَمَّالُ، قَالَ حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، عَنْ يُونُسَ بْنِ يَزِيدَ، عَنِ الزُّهْرِيِّ، عَنْ يَزِيدَ بْنِ هُرْمُزَ، أَنَّ نَجْدَةَ الْحَرُورِيَّ، حِينَ خَرَجَ فِي فِتْنَةِ ابْنِ الزُّبَيْرِ أَرْسَلَ إِلَى ابْنِ عَبَّاسٍ يَسْأَلُهُ عَنْ سَهْمِ ذِي الْقُرْبَى لِمَنْ تُرَاهُ قَالَ هُوَ لَنَا لِقُرْبَى رَسُولِ اللَّهِ صلى الله عليه وسلم قَسَمَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم لَهُمْ وَقَدْ كَانَ عُمَرُ عَرَضَ عَلَيْنَا شَيْئًا رَأَيْنَاهُ دُونَ حَقِّنَا فَأَبَيْنَا أَنْ نَقْبَلَهُ وَكَانَ الَّذِي عَرَضَ عَلَيْهِمْ أَنْ يُعِينَ نَاكِحَهُمْ وَيَقْضِيَ عَنْ غَارِمِهِمْ وَيُعْطِيَ فَقِيرَهُمْ وَأَبَى أَنْ يَزِيدَهُمْ عَلَى ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Yazid bin Hurmuz that:",
+        "text": "when Najdah Al-Haruriyyah rebelled during the Fitnah of Ibn Zubayr, he sent word to Ibn 'Abbas asking him about the share of the relatives (of the Messenger of Allah) -to whom did he think it should be given? He replied: \"It is for us, because of our blood ties to the Messenger of Allah allocated it to them, but 'Umar offered us something we thought was less than what was our due, and we refused to accept it. What he offered to them who wanted to get married, and to help the debtors pay off their debts, and he gave to their indigent. But he refused to give them more than that.\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 38,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ هَارُونَ - قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنِ الزُّهْرِيِّ، وَمُحَمَّدِ بْنِ عَلِيٍّ، عَنْ يَزِيدَ بْنِ هُرْمُزَ، قَالَ كَتَبَ نَجْدَةُ إِلَى ابْنِ عَبَّاسٍ يَسْأَلُهُ عَنْ سَهْمِ، ذِي الْقُرْبَى لِمَنْ هُوَ قَالَ يَزِيدُ بْنُ هُرْمُزَ وَأَنَا كَتَبْتُ كِتَابَ ابْنِ عَبَّاسٍ إِلَى نَجْدَةَ كَتَبْتُ إِلَيْهِ كَتَبْتَ تَسْأَلُنِي عَنْ سَهْمِ ذِي الْقُرْبَى لِمَنْ هُوَ وَهُوَ لَنَا أَهْلَ الْبَيْتِ وَقَدْ كَانَ عُمَرُ دَعَانَا إِلَى أَنْ يُنْكِحَ مِنْهُ أَيِّمَنَا وَيُحْذِيَ مِنْهُ عَائِلَنَا وَيَقْضِيَ مِنْهُ عَنْ غَارِمِنَا فَأَبَيْنَا إِلاَّ أَنْ يُسَلِّمَهُ لَنَا وَأَبَى ذَلِكَ فَتَرَكْنَاهُ عَلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Yazid bin Hurmuz said:",
+        "text": "\"Najdah wrote to Ibn 'Abbas and asked him about the share of the relatives (of the Messenger of Allah), to whom should it be given?\" Yazid bin Hurmuz said:\"I wrote down the letter of Ibn 'Abbas to Najdah in which he said; You have written asking me about the share of the relatives (of the Messenger of Allah), to whom should it be given? It is for us, the members of the household (Ahl Al-Bait). 'Umar used to offer to help the single among us (to get married), and to give some to our poor and to pay off the debts of our debtors. We insisted that he should given it to us, but he refused, and we left it at that.\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 38,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ يَحْيَى، قَالَ حَدَّثَنَا مَحْبُوبٌ، - يَعْنِي ابْنَ مُوسَى - قَالَ أَنْبَأَنَا أَبُو إِسْحَاقَ، - وَهُوَ الْفَزَارِيُّ - عَنِ الأَوْزَاعِيِّ، قَالَ كَتَبَ عُمَرُ بْنُ عَبْدِ الْعَزِيزِ إِلَى عُمَرَ بْنِ الْوَلِيدِ كِتَابًا فِيهِ وَقَسْمُ أَبِيكَ لَكَ الْخُمُسُ كُلُّهُ وَإِنَّمَا سَهْمُ أَبِيكَ كَسَهْمِ رَجُلٍ مِنَ الْمُسْلِمِينَ وَفِيهِ حَقُّ اللَّهِ وَحَقُّ الرَّسُولِ وَذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ فَمَا أَكْثَرَ خُصَمَاءَ أَبِيكَ يَوْمَ الْقِيَامَةِ فَكَيْفَ يَنْجُو مَنْ كَثُرَتْ خُصَمَاؤُهُ وَإِظْهَارُكَ الْمَعَازِفَ وَالْمِزْمَارَ بِدْعَةٌ فِي الإِسْلاَمِ وَلَقَدْ هَمَمْتُ أَنْ أَبْعَثَ إِلَيْكَ مَنْ يَجُزُّ جُمَّتَكَ جُمَّةَ السُّوءِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Al-Awza'i said:",
+        "text": "\"Umar bin 'Abdul-'Aziz wrote a letter to 'Umar bin Al-Walid in which he said: 'The share that your father gave to you was the entire Khumus, but the share that your father is entitled to is the same as that of any man among the Muslims, on which is due the rights of Allah and His Messenger, and of relatives, orphans, the poor and wayfarers. How many will dispute with your father on the Day of Resurrection! How can he be saved who has so many disputants? And your openly allowing musical instruments and wind instruments is an innovation in Islam. I was thinking of sending someone to you who would cut off your evil long hair.\"'"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 38,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْحَكَمِ، قَالَ حَدَّثَنَا شُعَيْبُ بْنُ يَحْيَى، قَالَ حَدَّثَنَا نَافِعُ بْنُ يَزِيدَ، عَنْ يُونُسَ بْنِ يَزِيدَ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ جُبَيْرَ بْنَ مُطْعِمٍ، حَدَّثَهُ أَنَّهُ، جَاءَ هُوَ وَعُثْمَانُ بْنُ عَفَّانَ رَسُولَ اللَّهِ صلى الله عليه وسلم يُكَلِّمَانِهِ فِيمَا قَسَمَ مِنْ خُمُسِ حُنَيْنٍ بَيْنَ بَنِي هَاشِمٍ وَبَنِي الْمُطَّلِبِ بْنِ عَبْدِ مَنَافٍ فَقَالاَ يَا رَسُولَ اللَّهِ قَسَمْتَ لإِخْوَانِنَا بَنِي الْمُطَّلِبِ بْنِ عَبْدِ مَنَافٍ وَلَمْ تُعْطِنَا شَيْئًا وَقَرَابَتُنَا مِثْلُ قَرَابَتِهِمْ ‏.‏ فَقَالَ لَهُمَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّمَا أَرَى هَاشِمًا وَالْمُطَّلِبَ شَيْئًا وَاحِدًا ‏\"‏ ‏.‏ قَالَ جُبَيْرُ بْنُ مُطْعِمٍ وَلَمْ يَقْسِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم لِبَنِي عَبْدِ شَمْسٍ وَلاَ لِبَنِي نَوْفَلٍ مِنْ ذَلِكَ الْخُمُسِ شَيْئًا كَمَا قَسَمَ لِبَنِي هَاشِمٍ وَبَنِي الْمُطَّلِبِ ‏.‏",
+      "english": {
+        "narrator": "Sa'eed bin Al-Musayyab narrated that Jubair bin Mut'im told him:",
+        "text": "\"He and 'Uthman bin 'Affan came to the Messenger of Allah to speak to him about what he had distributed of the Khumus of Hunain to Banu Hashim and Banu Al-Muttalib bin 'Abd Manaf. They said: 'O Messenger of Allah, you distributed it to our brothers; Banu Al-Muttalib bin 'Abd Manaf, and you did not give us anything, and our relationship to you in the same as theirs. 'The Messenger of Allah said to them: 'I see that Hashim and Al-Muttalib are the same.\" Jubair bin Mut'im said: \"The Messenger of Allah did not allocate anything to Banu 'Abd Shams or Banu Nawfal from that Khumus, as he allocated to Banu Hashim and Banu Al-Muttalib.\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 38,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ جُبَيْرِ بْنِ مُطْعِمٍ، قَالَ لَمَّا قَسَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم سَهْمَ ذِي الْقُرْبَى بَيْنَ بَنِي هَاشِمٍ وَبَنِي الْمُطَّلِبِ أَتَيْتُهُ أَنَا وَعُثْمَانُ بْنُ عَفَّانَ فَقُلْنَا يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو هَاشِمٍ لاَ نُنْكِرُ فَضْلَهُمْ لِمَكَانِكَ الَّذِي جَعَلَكَ اللَّهُ بِهِ مِنْهُمْ أَرَأَيْتَ بَنِي الْمُطَّلِبِ أَعْطَيْتَهُمْ وَمَنَعْتَنَا فَإِنَّمَا نَحْنُ وَهُمْ مِنْكَ بِمَنْزِلَةٍ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّهُمْ لَمْ يُفَارِقُونِي فِي جَاهِلِيَّةٍ وَلاَ إِسْلاَمٍ إِنَّمَا بَنُو هَاشِمٍ وَبَنُو الْمُطَّلِبِ شَىْءٌ وَاحِدٌ ‏\"‏ ‏.‏ وَشَبَّكَ بَيْنَ أَصَابِعِهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Jubair bin Mut'im said:",
+        "text": "\"When the Messenger of Allah distributed the share for his relatives to Banu Hashim and BanuA-Muttalib, I came to himwith 'Uthman bin 'Affan and we said: 'O Messenger of Allah, no one denies the virtue of Banu Hashim because of the relationship between you and them. But how come you have given (a share) to Banu Al-Muttalib and not to us? They and we share the same degree of relationship to you. 'The Messenger of Allah said: \"They did not abandon me during the Jahiliyyah or in Islam. Banu Hashim and Banu Al-Muttalib are the same thing, and he interlaced his fingers.\""
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 38,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ يَحْيَى بْنِ الْحَارِثِ، قَالَ حَدَّثَنَا مَحْبُوبٌ، - يَعْنِي ابْنَ مُوسَى - قَالَ أَنْبَأَنَا أَبُو إِسْحَاقَ، - وَهُوَ الْفَزَارِيُّ - عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَيَّاشٍ، عَنْ سُلَيْمَانَ بْنِ مُوسَى، عَنْ مَكْحُولٍ، عَنْ أَبِي سَلاَّمٍ، عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ أَخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ حُنَيْنٍ وَبَرَةً مِنْ جَنْبِ بَعِيرٍ فَقَالَ ‏\n\"‏ يَا أَيُّهَا النَّاسُ إِنَّهُ لاَ يَحِلُّ لِي مِمَّا أَفَاءَ اللَّهُ عَلَيْكُمْ قَدْرَ هَذِهِ إِلاَّ الْخُمُسُ وَالْخُمُسُ مَرْدُودٌ عَلَيْكُمْ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ اسْمُ أَبِي سَلاَّمٍ مَمْطُورٌ وَهُوَ حَبَشِيٌّ وَاسْمُ أَبِي أُمَامَةَ صُدَىُّ بْنُ عَجْلاَنَ وَاللَّهُ تَعَالَى أَعْلَمُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Ubadah bin Al-Samit said:",
+        "text": "\"On the day of Hunain the Messenger of Allah took a hair from the side of a camel and said: 'O you people, it is not permissible for me to take even the equivalent of this from the Fay' that Allah has bestowed upon you, except the Khumus, and the Khumus will come back to you.\" (Sahih)\nAbu 'Abdur-Rahman (An-Nasa'i) said: Abu Sallam's name is Mamtur and he is Ethiopian, and Abu Umamah's name is Sudai bin 'Ajlan."
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 38,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ، قَالَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَتَى بَعِيرًا فَأَخَذَ مِنْ سَنَامِهِ وَبَرَةً بَيْنَ إِصْبَعَيْهِ ثُمَّ قَالَ ‏\n\"‏ إِنَّهُ لَيْسَ لِي مِنَ الْفَىْءِ شَىْءٌ وَلاَ هَذِهِ إِلاَّ الْخُمُسُ وَالْخُمُسُ مَرْدُودٌ فِيكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Amr bin Shu'aib, from his father, from his grandfather, that:",
+        "text": "the Messenger of Allah went to a camel, and took a hair from its hump between his fingers and said: \"I am not entitled to take anything from the Fay, not even this, except the Khumus, and the Khumus will come back to you.\""
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 38,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، - يَعْنِي ابْنَ دِينَارٍ - عَنِ الزُّهْرِيِّ، عَنْ مَالِكِ بْنِ أَوْسِ بْنِ الْحَدَثَانِ، عَنْ عُمَرَ، قَالَ كَانَتْ أَمْوَالُ بَنِي النَّضِيرِ مِمَّا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِمَّا لَمْ يُوجِفِ الْمُسْلِمُونَ عَلَيْهِ بِخَيْلٍ وَلاَ رِكَابٍ فَكَانَ يُنْفِقُ عَلَى نَفْسِهِ مِنْهَا قُوتَ سَنَةٍ وَمَا بَقِيَ جَعَلَهُ فِي الْكُرَاعِ وَالسِّلاَحِ عُدَّةً فِي سَبِيلِ اللَّهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Umar said:",
+        "text": "\"The wealth of Banu An-Nadir was among the Fay' that Allah bestowed upon His Messenger, in cases where the Muslims did not go out on and expedition with horses and camels. From it he kept for himself food for one year, and what was left he spent on cavalry and weapons equipment for the cause of Allah.\""
+      }
+    }
+  ]
+}

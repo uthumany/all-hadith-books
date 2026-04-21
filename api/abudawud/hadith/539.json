@@ -1,0 +1,16 @@
+{
+  "id": 539,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ أَبِي مَالِكٍ الأَشْجَعِيِّ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ غِرَارَ فِي صَلاَةٍ وَلاَ تَسْلِيمٍ ‏\"‏ ‏.‏ قَالَ أَحْمَدُ يَعْنِي فِيمَا أُرَى أَنْ لاَ تُسَلِّمَ وَلاَ يُسَلَّمَ عَلَيْكَ وَيُغَرِّرُ الرَّجُلُ بِصَلاَتِهِ فَيَنْصَرِفُ وَهُوَ فِيهَا شَاكٌّ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah reported the Prophet (ﷺ) as saying:",
+    "text": "There is no loss in prayer nor in salutation. Ahmad(b. Hanbal) said: This means, I think, that you do not salute nor you are saluted by others. The loss of a man in his prayer is that a man remains doubtful about it when he finishes it."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

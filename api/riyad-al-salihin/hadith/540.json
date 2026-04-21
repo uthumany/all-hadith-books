@@ -1,0 +1,16 @@
+{
+  "id": 540,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه عن النبي صلى الله عليه وسلم  قال‏:‏ ‏\n\"‏كان داود عليه السلام لا يأكل إلا من عمل يده‏\"‏‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"(Prophet) Dawud (ﷺ) ate only out of that which he earned through his manual work.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

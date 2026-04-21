@@ -1,0 +1,16 @@
+{
+  "id": 499,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ أَيُّوبَ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنِ الْأَعْمَشِ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ أَنَّهُ قَالَ إِذَا حُدِّثْتُمْ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِحَدِيثٍ فَظُنُّوا بِهِ الَّذِي هُوَ أَهْدَى وَالَّذِي هُوَ أَتْقَى وَالَّذِي هُوَ أَهْيَا‏.‏",
+  "english": {
+    "narrator": "It was narrated from `Ali (رضي الله عنه) that he said:",
+    "text": "If you are told a hadeeth from the Messenger of Allah (ﷺ), then think of him in the most guided manner, the most pious manner and the best manner."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

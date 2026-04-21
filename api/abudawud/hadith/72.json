@@ -1,0 +1,16 @@
+{
+  "id": 72,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، وَأَحْمَدُ بْنُ عَبْدَةَ، - الْمَعْنَى - قَالاَ حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا عَامِرٌ الأَحْوَلُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، - قَالَ ابْنُ عَبْدَةَ - عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يُجْلَسُ بَيْنَ رَجُلَيْنِ إِلاَّ بِإِذْنِهِمَا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+    "text": "The Messenger of Allah (ﷺ) said: One should not sit between two men except with their permission."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

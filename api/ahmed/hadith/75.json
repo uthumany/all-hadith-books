@@ -1,0 +1,16 @@
+{
+  "id": 75,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنِي عَمْرُو بْنُ مُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَلَمَةَ، قَالَ أَتَيْتُ عَلَى عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ أَنَا وَرَجُلَانِ فَقَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْضِي حَاجَتَهُ ثُمَّ يَخْرُجُ فَيَقْرَأُ الْقُرْآنَ وَيَأْكُلُ مَعَنَا اللَّحْمَ وَلَا يَحْجِزُهُ وَرُبَّمَا قَالَ يَحْجُبُهُ مِنْ الْقُرْآنِ شَيْءٌ لَيْسَ الْجَنَابَةَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that `Abdullah bin Salimah said:",
+    "text": "Two men and I came to ‘Ali (رضي الله عنه), who said: The Messenger of Allah (ﷺ)  was relieving himself, then he came out and recited Qur`an and ate meat with us. Nothing prevented or stopped him from reciting Qur`an except janabah."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

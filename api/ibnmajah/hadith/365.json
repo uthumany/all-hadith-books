@@ -1,0 +1,16 @@
+{
+  "id": 365,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو الْحُسَيْنِ الْعُكْلِيُّ، أَخْبَرَنِي عُمَرُ بْنُ أَبِي خَثْعَمٍ الْيَمَامِيُّ، أَنْبَأَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ مَنْ صَلَّى بَعْدَ الْمَغْرِبِ سِتَّ رَكَعَاتٍ لَمْ يَتَكَلَّمْ بَيْنَهُنَّ بِسُوءٍ عُدِلْنَ لَهُ بِعِبَادَةِ ثِنْتَىْ عَشْرَةَ سَنَةً ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated from Abu Hurairah that the Prophet (ﷺ) said:",
+    "text": "“Whoever\nprays six Rak’ah after the Maghrib and does not say anything\nbad in\nbetween them, will have a reward equal to the worship of twelve\nyears.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

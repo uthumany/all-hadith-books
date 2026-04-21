@@ -1,0 +1,16 @@
+{
+  "id": 419,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَنَقَلَ اَلتِّرْمِذِيُّ عَنِ اَلْبُخَارِيِّ تَصْحِيحَهُ  1‏ .‏‏1 ‏- العلل الكبير (1/288)‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "at-Tirmidhi transmitted its Tashih (grading of\nauthenticity) from al-Bukhari."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

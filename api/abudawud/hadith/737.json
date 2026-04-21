@@ -1,0 +1,16 @@
+{
+  "id": 737,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي حُجْرَتِهِ وَالنَّاسُ يَأْتَمُّونَ بِهِ مِنْ وَرَاءِ الْحُجْرَةِ ‏.‏",
+  "english": {
+    "narrator": "'Aishah said:",
+    "text": "The Messenger of Allah (ﷺ) offered the prayer in his apartment and people were following him behind apartment."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

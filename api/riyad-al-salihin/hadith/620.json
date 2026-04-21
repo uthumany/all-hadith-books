@@ -1,0 +1,16 @@
+{
+  "id": 620,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه قال‏:‏ كان رسول الله صلى الله عليه وسلم أحسن الناس خلقاً ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported:",
+    "text": "The Messenger of Allah (ﷺ) was the best of all the people in behaviour.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

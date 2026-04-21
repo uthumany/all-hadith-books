@@ -1,0 +1,16 @@
+{
+  "id": 347,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عمر رضي الله عنهما، عن أبي بكر رضي الله عنه موقوفًا عليه أنه قال ‏:‏ ارقبوا محمدًا صلى الله عليه وسلم في أهل بيته، ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar (May Allah be pleased with them) reported:",
+    "text": "Abu Bakr (May Allah be pleased with him) said: \"Show reverence to Messenger of Allah (ﷺ) by honouring the members of his family.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 36,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا شَبَابَةُ، قَالَ قَالَ شُعْبَةُ وَقَدْ لَقِيتُ شَهْرًا فَلَمْ أَعْتَدَّ بِهِ ‏.‏",
+  "english": {
+    "narrator": "Hajjāj bin ush-Shā’ir narrated to me, Shabābah narrated to us, he said, Shu’bah said:",
+    "text": "‘I had met Shahr then abandoned transmitting from him’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 346,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَاهُ عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ كَانَ النَّبِيُّ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Jabir b. Abdullah reported a hadith like this from Allah's Apostle (ﷺ)."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

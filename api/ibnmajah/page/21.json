@@ -1,0 +1,510 @@
+{
+  "page": 21,
+  "perPage": 50,
+  "totalPages": 87,
+  "totalCount": 4345,
+  "nextPage": 22,
+  "prevPage": 20,
+  "items": [
+    {
+      "id": 465,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، قَالَ سَمِعْتُ عَبَّادَ بْنَ تَمِيمٍ، يُحَدِّثُ أَبِي عَنْ عَمِّهِ، أَنَّهُ شَهِدَ النَّبِيَّ ـ صلى الله عليه وسلم ـ خَرَجَ إِلَى الْمُصَلَّى لِيَسْتَسْقِيَ فَاسْتَقْبَلَ الْقِبْلَةَ وَقَلَبَ رِدَاءَهُ وَصَلَّى رَكْعَتَيْنِ ‏.‏\n \n حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ بِمِثْلِهِ ‏.‏ قَالَ سُفْيَانُ عَنِ الْمَسْعُودِيِّ قَالَ سَأَلْتُ أَبَا بَكْرِ بْنَ مُحَمَّدِ بْنِ عَمْرٍو أَجَعَلَ أَعْلاَهُ أَسْفَلَهُ أَوِ الْيَمِينَ عَلَى الشِّمَالِ قَالَ لاَ بَلِ الْيَمِينَ عَلَى الشِّمَالِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Abdullah bin Abu Bakr said:",
+        "text": "“I heard ‘Abbad bin\nTamim narrating to my father that his paternal uncle had seen the\nProphet (ﷺ) going out to the prayer place to pray for rain. He\nfaced the Qiblah and turned his cloak around, and prayed two Rak’ah.”\n\n(One of the narrators) Muhammad bin Sabbah said: “Sufyan told us something similar, narrating from Yahya bin Sa`eed, from Abu Bakr bin Muhammad bin `Amr bin Hazm. from `Abbad bin Tamim, from his paternal uncle, from the Prophet (ﷺ).”\n\nSufyan narrated that Al-Mas`udi said: “I asked Abu Bakr bin Muhammad bin `Amr: 'Did he turn it upside down or right to left?' He said: 'No, it was right to left.'”"
+      }
+    },
+    {
+      "id": 466,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الأَزْهَرِ، وَالْحَسَنُ بْنُ أَبِي الرَّبِيعِ، قَالاَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ النُّعْمَانَ، يُحَدِّثُ عَنِ الزُّهْرِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ خَرَجَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَوْمًا يَسْتَسْقِي فَصَلَّى بِنَا رَكْعَتَيْنِ بِلاَ أَذَانٍ وَلاَ إِقَامَةٍ ثُمَّ خَطَبَنَا وَدَعَا اللَّهَ وَحَوَّلَ وَجْهَهُ نَحْوَ الْقِبْلَةِ رَافِعًا يَدَيْهِ ثُمَّ قَلَبَ رِدَاءَهُ فَجَعَلَ الأَيْمَنَ عَلَى الأَيْسَرِ وَالأَيْسَرَ عَلَى الأَيْمَنِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Abu Hurairah said:",
+        "text": "“The Messenger of Allah (ﷺ)\nwent\nout one day to pray for rain. He led us in praying two Rak’ah\nwithout any Adhan or Iqamah, then he addressed us and supplicated to\nAllah. He turned to face the Qiblah, raising his hands, then he\nturned\nhis cloak around, putting its right on the left and its left\non the\nright.”"
+      }
+    },
+    {
+      "id": 467,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ شُرَحْبِيلَ بْنِ السِّمْطِ، أَنَّهُ قَالَ لِكَعْبٍ يَا كَعْبُ بْنَ مُرَّةَ حَدِّثْنَا عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ وَاحْذَرْ ‏.‏ قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ يَا رَسُولَ اللَّهِ اسْتَسْقِ اللَّهَ فَرَفَعَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَدَيْهِ فَقَالَ ‏\"‏ اللَّهُمَّ اسْقِنَا غَيْثًا مَرِيئًا مَرِيعًا طَبَقًا عَاجِلاً غَيْرَ رَائِثٍ نَافِعًا غَيْرَ ضَارٍّ ‏\"‏ ‏.‏ قَالَ فَمَا جَمَّعُوا حَتَّى أُجِيبُوا ‏.‏ قَالَ فَأَتَوْهُ فَشَكَوْا إِلَيْهِ الْمَطَرَ فَقَالُوا يَا رَسُولَ اللَّهِ تَهَدَّمَتِ الْبُيُوتُ ‏.‏ فَقَالَ ‏\"‏ اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا ‏\"‏ ‏.‏ قَالَ فَجَعَلَ السَّحَابُ يَنْقَطِعُ يَمِينًا وَشِمَالاً ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Shurahbil bin Simt that he said to Ka’b:",
+        "text": "“O Ka’b\nbin Murrah, narrate to us a Hadith from the Messenger of Allah (ﷺ),\nbut be careful.” He said: “A man came to the Prophet (ﷺ) and\nsaid:\n‘O Messenger of Allah, ask Allah for rain!’ So the\nMessenger of Allah\n(ﷺ) raised his hands and said: ‘O Allah! Send\nwholesome, productive\nrain upon all of us, sooner rather than later,\nbeneficial and not\nharmful.’ No sooner had they finished performing\nFriday (prayer) but\nthey were revived. Then they came to him and\ncomplained to him about\nthe rain, saying: ‘O Allah, around us and\nnot upon us.’ Then the\nclouds began to disperse right and left.”"
+      }
+    },
+    {
+      "id": 468,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي الْقَاسِمِ أَبُو الأَحْوَصِ، حَدَّثَنَا الْحَسَنُ بْنُ الرَّبِيعِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، حَدَّثَنَا حُصَيْنٌ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ جَاءَ أَعْرَابِيٌّ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ يَا رَسُولَ اللَّهِ لَقَدْ جِئْتُكَ مِنْ عِنْدِ قَوْمٍ مَا يَتَزَوَّدُ لَهُمْ رَاعٍ وَلاَ يَخْطِرُ لَهُمْ فَحْلٌ ‏.‏ فَصَعِدَ الْمِنْبَرَ فَحَمِدَ اللَّهَ ثُمَّ قَالَ ‏\n\"‏ اللَّهُمَّ اسْقِنَا غَيْثًا مُغِيثًا مَرِيئًا طَبَقًا مَرِيعًا غَدَقًا عَاجِلاً غَيْرَ رَائِثٍ ‏\"‏ ‏.‏ ثُمَّ نَزَلَ فَمَا يَأْتِيهِ أَحَدٌ مِنْ وَجْهٍ مِنَ الْوُجُوهِ إِلاَّ قَالُوا قَدْ أُحْيِينَا ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Ibn ‘Abbas said:",
+        "text": "“A Bedouin came to the Prophet\n(ﷺ) and said: ‘O Messenger of Allah, I have come to you from\npeople\nwho have no place to graze their flocks and even their male\ncamels\nhave become weak. He mounted the pulpit and praised Allah,\nthen he\nsaid: ‘O Allah, send upon us all abundant, wholesome rain,\nproductive\nand plentiful, sooner rather than later.’ Then the rain\ncame down, and\nno one came to him from any direction but they said:\n‘We have been\nrevived.’”"
+      }
+    },
+    {
+      "id": 469,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا مُعْتَمِرٌ، عَنْ أَبِيهِ، عَنْ بَرَكَةَ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ اسْتَسْقَى حَتَّى رَأَيْتُ - أَوْ رُؤِيَ - بَيَاضُ إِبْطَيْهِ ‏.‏\n\n قَالَ مُعْتَمِرٌ أُرَاهُ فِي الاِسْتِسْقَاءِ ‏.‏",
+      "english": {
+        "narrator": "Mu’tamir\nnarrated from his father, from Barakah, from Bashir bin\nNahik, from\nAbu Hurairah:",
+        "text": "“The Prophet (ﷺ) supplicated for rain\n(raising his\nhands) until I saw or one could see the whiteness of his\narmpits.”"
+      }
+    },
+    {
+      "id": 470,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الأَزْهَرِ، حَدَّثَنَا أَبُو النَّضْرِ، حَدَّثَنَا أَبُو عَقِيلٍ، عَنْ عُمَرَ بْنِ حَمْزَةَ، حَدَّثَنَا سَالِمٌ، عَنْ أَبِيهِ، قَالَ رُبَّمَا ذَكَرْتُ قَوْلَ الشَّاعِرِ وَأَنَا أَنْظُرُ، إِلَى وَجْهِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ عَلَى الْمِنْبَرِ فَمَا نَزَلَ حَتَّى جَيَّشَ كُلُّ مِيزَابٍ بِالْمَدِينَةِ فَأَذْكُرُ قَوْلَ الشَّاعِرِ وَأَبْيَضَ يُسْتَسْقَى الْغَمَامُ بِوَجْهِهِ ثِمَالُ الْيَتَامَى عِصْمَةٌ لِلأَرَامِلِ وَهُوَ قَوْلُ أَبِي طَالِبٍ ‏.‏",
+      "english": {
+        "narrator": "Salim\nnarrated that his father said:",
+        "text": "“Sometimes I remember the words of\nthe poet when I was looking at the face of the Messenger of Allah\n(ﷺ) on the pulpit. He did not come down until all the waterspouts\nin Al-Madinah were filled with rain. And I remember what the poet\nsaid: \n\n‘He has a white complexion and rain is sought by virtue of his countenance,\n\nHe cares for the orphans, and protects the widows,\n\nThese are the words of Abu Talib.”"
+      }
+    },
+    {
+      "id": 471,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَيُّوبَ، عَنْ عَطَاءٍ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ أَشْهَدُ عَلَى رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَّهُ صَلَّى قَبْلَ الْخُطْبَةِ ثُمَّ خَطَبَ فَرَأَى أَنَّهُ لَمْ يُسْمِعِ النِّسَاءَ فَأَتَاهُنَّ فَذَكَّرَهُنَّ وَوَعَظَهُنَّ وَأَمَرَهُنَّ بِالصَّدَقَةِ وَبِلاَلٌ قَائِلٌ بِيَدَيْهِ هَكَذَا فَجَعَلَتِ الْمَرْأَةُ تُلْقِي الْخُرْصَ وَالْخَاتَمَ وَالشَّىْءَ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Ata’ said:",
+        "text": "“I heard Ibn ‘Abbas say: ‘I bear\nwitness that the Messenger of Allah (ﷺ) prayed before the sermon,\nthen he delivered the sermon. And he thought that the women had not\nheard, so he went over to them and reminded them (of Allah) and\npreached to them and enjoined them to give in charity, and Bilal was\nspreading his hands like this, and the women started giving their\nearrings, rings and things.’”"
+      }
+    },
+    {
+      "id": 472,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ الْحَسَنِ بْنِ مُسْلِمٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ صَلَّى يَوْمَ الْعِيدِ بِغَيْرِ أَذَانٍ وَلاَ إِقَامَةٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Ibn ‘Abbas that the Prophet (ﷺ) prayed on the\nday\nof ‘Eid with no Adhan and no Iqamah."
+      }
+    },
+    {
+      "id": 473,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ إِسْمَاعِيلَ بْنِ رَجَاءٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ، وَعَنْ قَيْسِ بْنِ مُسْلِمٍ، عَنْ طَارِقِ بْنِ شِهَابٍ، عَنْ أَبِي سَعِيدٍ، قَالَ أَخْرَجَ مَرْوَانُ الْمِنْبَرَ يَوْمَ الْعِيدِ فَبَدَأَ بِالْخُطْبَةِ قَبْلَ الصَّلاَةِ فَقَامَ رَجُلٌ فَقَالَ يَا مَرْوَانُ خَالَفْتَ السُّنَّةَ أَخْرَجْتَ الْمِنْبَرَ يَوْمَ عِيدٍ وَلَمْ يَكُنْ يُخْرَجُ بِهِ وَبَدَأْتَ بِالْخُطْبَةِ قَبْلَ الصَّلاَةِ وَلَمْ يَكُنْ يُبْدَأُ بِهَا ‏.‏ فَقَالَ أَبُو سَعِيدٍ أَمَّا هَذَا فَقَدْ قَضَى مَا عَلَيْهِ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ مَنْ رَأَى مُنْكَرًا فَاسْتَطَاعَ أَنْ يُغَيِّرَهُ بِيَدِهِ فَلْيُغَيِّرْهُ بِيَدِهِ. فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ. فَإِنْ لَمْ يَسْتَطِعْ بِلِسَانِهِ، فَبِقَلْبِهِ. وَذَلِكَ أَضْعَفُ الإِيمَانِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Abu Sa’eed said:",
+        "text": "“Marwan brought the pulpit out\none\n‘Eid day and started to deliver the sermon before the prayer. A\nman\nstood up and said: ‘O Commander of the Believers, you have gone\nagainst the Sunnah. You have brought the pulpit out on the day of\n‘Eid\nand it was not brought out before, and you started with the\nsermon\nbefore the prayer, when this was not done before.’ Abu\nSa’eed said:\n‘As for this man, he has done his duty. I heard the\nMessenger of Allah\n(ﷺ) say: “Whoever among you sees an evil\naction, and he is able to\nchange it with his hand, then change it\nwith his hand (by taking\naction); if he cannot, (do so) with his\ntongue then with his tongue\n(by speaking out); and if he cannot then\nwith his heart (by hating it\nand feeling that it is wrong), and that\nis the weakest of faith.”"
+      }
+    },
+    {
+      "id": 474,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا حَوْثَرَةُ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ ثُمَّ أَبُو بَكْرٍ ثُمَّ عُمَرُ يُصَلُّونَ الْعِيدَ قَبْلَ الْخُطْبَةِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Ibn ‘Umar said:",
+        "text": "“The Prophet (ﷺ), then Abu\nBakr,\nthen ‘Umar, used to pray the ‘Eid prayer before delivering the\nsermon.”"
+      }
+    },
+    {
+      "id": 475,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَعْدِ بْنِ عَمَّارِ بْنِ سَعْدٍ، مُؤَذِّنِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ حَدَّثَنِي أَبِي عَنْ أَبِيهِ عَنْ جَدِّهِ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يُكَبِّرُ فِي الْعِيدَيْنِ فِي الأُولَى سَبْعًا قَبْلَ الْقِرَاءَةِ وَفِي الآخِرَةِ خَمْسًا قَبْلَ الْقِرَاءَةِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdur-Rahman bin Sa’d bin ‘Ammar bin Sa’d, the Mu’adhdhin\nof the\nMessenger of Allah (ﷺ), narrated from his father, from his\nfather,\nfrom his grandfather, that the Messenger of Allah (ﷺ) used\nto say\nthe Takbir in the ‘Eid prayer, seven times in the first\n(Rak’ah)\nbefore reciting Qur’an, and five times in the second\nbefore reciting\nQur’an."
+      }
+    },
+    {
+      "id": 476,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ يَعْلَى، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَبَّرَ فِي صَلاَةِ الْعِيدِ سَبْعًا وَخَمْسًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from ‘Amr bin Shu’aib, from his father, from his\ngrandfather, that the Prophet (ﷺ) said the Takbir seven times and\nfive times in the ‘Eid prayer."
+      }
+    },
+    {
+      "id": 477,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو مَسْعُودٍ، مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عَقِيلٍ حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدِ بْنِ عَثْمَةَ، حَدَّثَنَا كَثِيرُ بْنُ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ عَوْفٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَبَّرَ فِي الْعِيدَيْنِ سَبْعًا فِي الأُولَى وَخَمْسًا فِي الآخِرَةِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Kathir\nbin ‘Abdullah bin ‘Amr bin ‘Awf narrated, from his father,\nfrom\nhis grandfather, that the Messenger of Allah (ﷺ) said the\nTakbir in\nthe ‘Eid prayers, seven times in the first Rak’ah and five\ntimes\nin the second."
+      }
+    },
+    {
+      "id": 478,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي ابْنُ لَهِيعَةَ، عَنْ خَالِدِ بْنِ يَزِيدَ، وَعُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَبَّرَ فِي الْفِطْرِ وَالأَضْحَى سَبْعًا وَخَمْسًا سِوَى تَكْبِيرَتَىِ الرُّكُوعِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from ‘Aishah that the Messenger of Allah (ﷺ) said\nthe\nTakbir seven and five times in (the prayer for ‘Eid) Fitr and\nAdha,\napart from the Takbir for Ruku’ (bowing)."
+      }
+    },
+    {
+      "id": 479,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ، عَنْ أَبِيهِ، عَنْ حَبِيبِ بْنِ سَالِمٍ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يَقْرَأُ فِي الْعِيدَيْنِ بِـ ‏{سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى}‏ وَ ‏{هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ}‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Nu’man bin Bashir that the Messenger of Allah\n(ﷺ)\nused to recite “Glorify the Name of your Lord, the Most High,”\n and “Has there come to you the narration of the\noverwhelming?”  in the ‘Eid prayer."
+      }
+    },
+    {
+      "id": 480,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ، عَنْ ضَمْرَةَ بْنِ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، قَالَ خَرَجَ عُمَرُ يَوْمَ عِيدٍ فَأَرْسَلَ إِلَى أَبِي وَاقِدٍ اللَّيْثِيِّ بِأَىِّ شَىْءٍ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ يَقْرَأُ فِي مِثْلِ هَذَا الْيَوْمِ؟ قَالَ بِـ ‏{ق}‏ وَاقْتَرَبَتْ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Ubaidullah bin ‘Abdullah said:",
+        "text": "“Umar went out\non\nthe day of ‘Eid and sent word to Abu Waqid Al-Laithi asking what\nthe Prophet (ﷺ) used to recite on this day. He said: ‘Qaf [Qaf\n(50)]\nand ‘Iqtarabat’.” "
+      }
+    },
+    {
+      "id": 481,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، حَدَّثَنَا مُوسَى بْنُ عُبَيْدَةَ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ يَقْرَأُ فِي الْعِيدَيْنِ بِـ ‏{سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى }‏ وَ ‏{هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ }‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Ibn ‘Abbas that the Prophet (ﷺ) used to recite\nin\nthe ‘Eid prayer “Glorify the Name of your Lord, the Most High.”\n and “Has there come to you the narration of the\noverwhelming?” "
+      }
+    },
+    {
+      "id": 482,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا وَكِيعٌ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، قَالَ رَأَيْتُ أَبَا كَاهِلٍ وَكَانَتْ لَهُ صُحْبَةٌ فَحَدَّثَنِي أَخِي، عَنْهُ قَالَ رَأَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ يَخْطُبُ عَلَى نَاقَةٍ وَحَبَشِيٌّ آخِذٌ بِخِطَامِهَا ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Isma’il bin Abu Khalid said:",
+        "text": "“I saw Abu Kahil,\nand\nhe was a Companions, and my brother narrated to me that he said:\n‘I\nsaw the Prophet (ﷺ) delivering the sermon atop his she-camel, and\nan Ethiopian was holding onto its reins.’”"
+      }
+    },
+    {
+      "id": 483,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ، عَنْ قَيْسِ بْنِ عَائِذٍ، - هُوَ أَبُو كَاهِلٍ - قَالَ رَأَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ يَخْطُبُ عَلَى نَاقَةٍ حَسْنَاءَ وَحَبَشِيٌّ آخِذٌ بِخِطَامِهَا ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Qais bin ‘Aidh, who was Abu Kahil, said:",
+        "text": "“I saw\nthe\nProphet (ﷺ) delivering the sermon atop a beautiful she-camel,\nand\nan Ethiopian was holding onto its reins.”"
+      }
+    },
+    {
+      "id": 484,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ سَلَمَةَ بْنِ نُبَيْطٍ، عَنْ أَبِيهِ، أَنَّهُ حَجَّ فَقَالَ رَأَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ يَخْطُبُ عَلَى بَعِيرِهِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Salamah bin Nubait that his father performed\nHajj and\nsaid:",
+        "text": "“I saw the Prophet (ﷺ) delivering the sermon atop his\ncamel.”"
+      }
+    },
+    {
+      "id": 485,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَعْدِ بْنِ عَمَّارِ بْنِ سَعْدٍ الْمُؤَذِّنِ، حَدَّثَنِي أَبِي، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ يُكَبِّرُ بَيْنَ أَضْعَافِ الْخُطْبَةِ يُكْثِرُ التَّكْبِيرَ فِي خُطْبَةِ الْعِيدَيْنِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from ‘Abdur-Rahman bin Sa’d bin ‘Ammar bin Sa’d, the\nMu’adhdhin, that his father narrated, from his father, that his\ngrandfather said:",
+        "text": "“The Prophet (ﷺ) used to say the Takbir between\nthe two sermons and he used to say the Takbir a great deal in the\nsermon of ‘Eid.”"
+      }
+    },
+    {
+      "id": 486,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا دَاوُدُ بْنُ قَيْسٍ، عَنْ عِيَاضِ بْنِ عَبْدِ اللَّهِ، أَخْبَرَنِي أَبُو سَعِيدٍ الْخُدْرِيُّ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَخْرُجُ يَوْمَ الْعِيدِ فَيُصَلِّي بِالنَّاسِ رَكْعَتَيْنِ ثُمَّ يُسَلِّمُ فَيَقِفُ عَلَى رِجْلَيْهِ فَيَسْتَقْبِلُ النَّاسَ وَهُمْ جُلُوسٌ فَيَقُولُ ‏\n\"‏ تَصَدَّقُوا تَصَدَّقُوا ‏\"‏ ‏.‏ فَأَكْثَرُ مَنْ يَتَصَدَّقُ النِّسَاءُ بِالْقُرْطِ وَالْخَاتَمِ وَالشَّىْءِ فَإِنْ كَانَتْ حَاجَةٌ يُرِيدُ أَنْ يَبْعَثَ بَعْثًا ذَكَرَهُ لَهُمْ وَإِلاَّ انْصَرَفَ ‏.‏",
+      "english": {
+        "narrator": "Abu\nSa’eed Al-Khudri said:",
+        "text": "“The Messenger of Allah (ﷺ) used to go\nout on the day of ‘Eid and lead the people in praying two Rak’ah,\nthen\nhe would say the Salam and stand on his two feet facing the\npeople\nwhile they were sitting down. He would say: ‘Give in\ncharity. Give in\ncharity.’ Those who gave most in charity were the\nwomen, (they would\ngive) earrings and rings and things. If he wanted\nto send out an\nexpedition he would mention it, otherwise he would\nleave.”"
+      }
+    },
+    {
+      "id": 487,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ حَكِيمٍ، حَدَّثَنَا أَبُو بَحْرٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُسْلِمٍ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ خَرَجَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَوْمَ فِطْرٍ أَوْ أَضْحًى فَخَطَبَ قَائِمًا ثُمَّ قَعَدَ قَعْدَةً ثُمَّ قَامَ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Jabir said:",
+        "text": "“The Messenger of Allah (ﷺ) went\nout on\nthe Day of Al-Fitr or Al-Adha, and delivered a sermon standing\nup.\nThen he sat down briefly, then stood up again.”"
+      }
+    },
+    {
+      "id": 488,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هَدِيَّةُ بْنُ عَبْدِ الْوَهَّابِ، وَعَمْرُو بْنُ رَافِعٍ الْبَجَلِيُّ، قَالاَ حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ عَبْدِ اللَّهِ بْنِ السَّائِبِ، قَالَ حَضَرْتُ الْعِيدَ مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَصَلَّى بِنَا الْعِيدَ ثُمَّ قَالَ ‏\n\"‏ قَدْ قَضَيْنَا الصَّلاَةَ. فَمَنْ أَحَبَّ أَنْ يَجْلِسَ لِلْخُطْبَةِ فَلْيَجْلِسْ. وَمَنْ أَحَبَّ أَنْ يَذْهَبَ فَلْيَذْهَبْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Abdullah bin Sa’ib said:",
+        "text": "“I attended the ‘Eid\nprayer with the Messenger of Allah (ﷺ). He led us in offering the\n‘Eid prayer, then he said: ‘I have finished the prayer. Whoever\nwants\nto sit (and listen to) the sermon, then let him sit, and\nwhoever wants\nto leave, then let him leave.’”"
+      }
+    },
+    {
+      "id": 489,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنِي عَدِيُّ بْنُ ثَابِتٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ خَرَجَ فَصَلَّى بِهِمُ الْعِيدَ لَمْ يُصَلِّ قَبْلَهَا وَلاَ بَعْدَهَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Ibn ‘Abbas that the Messenger of Allah (ﷺ)\nwent out\nand led them in the ‘Eid prayer, and he did not pray before\nit or\nafter it."
+      }
+    },
+    {
+      "id": 490,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الطَّائِفِيُّ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ لَمْ يُصَلِّ قَبْلَهَا وَلاَ بَعْدَهَا فِي عِيدٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from ‘Amr bin Shu’aib, from his father, from his\ngrandfather, that the Prophet (ﷺ) did not pray before or after the\n‘Eid prayer."
+      }
+    },
+    {
+      "id": 491,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا الْهَيْثَمُ بْنُ جَمِيلٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَمْرٍو الرَّقِّيِّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَقِيلٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ لاَ يُصَلِّي قَبْلَ الْعِيدِ شَيْئًا فَإِذَا رَجَعَ إِلَى مَنْزِلِهِ صَلَّى رَكْعَتَيْنِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Abu Sa’eed Al-Khudri said:",
+        "text": "“The Messenger of\nAllah\n(ﷺ) did not pray before the ‘Eid prayer, but when he went back\nto\nhis house he would pray two Rak’ah.”"
+      }
+    },
+    {
+      "id": 492,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَعْدِ بْنِ عَمَّارِ بْنِ سَعْدٍ، حَدَّثَنِي أَبِي، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ يَخْرُجُ إِلَى الْعِيدِ مَاشِيًا وَيَرْجِعُ مَاشِيًا ‏.‏",
+      "english": {
+        "narrator": "‘Abdur-Rahman bin Sa’d bin ‘Ammar bin Sa’d said:",
+        "text": "“My father\ntold me,\nfrom his father, from his grandfather, that the Prophet\n(ﷺ) used to\ngo out to the ‘Eid prayers walking, and he would come\nback walking.”"
+      }
+    },
+    {
+      "id": 493,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ الْعُمَرِيُّ، عَنْ أَبِيهِ، وَعُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَخْرُجُ إِلَى الْعِيدِ مَاشِيًا وَيَرْجِعُ مَاشِيًا ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Ibn ‘Umar said:",
+        "text": "“The Messenger of Allah (ﷺ)\nused\nto go out to the ‘Eid prayers walking, and come back walking.”"
+      }
+    },
+    {
+      "id": 494,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ حَكِيمٍ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا زُهَيْرٌ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، قَالَ إِنَّ مِنَ السُّنَّةِ أَنْ يَمْشِيَ إِلَى الْعِيدِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Ali said:",
+        "text": "“It is part of the Sunnah to walk to\n‘Eid (prayers).”"
+      }
+    },
+    {
+      "id": 495,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْخَطَّابِ، حَدَّثَنَا مِنْدَلٌ، عَنْ مُحَمَّدِ بْنِ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يَأْتِي الْعِيدَ مَاشِيًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Muhammad bin ‘Ubaidullah bin Abu Rafi’, from his\nfather, from his grandfather, that the Messenger of Allah (ﷺ) used\nto come to ‘Eid prayers walking."
+      }
+    },
+    {
+      "id": 496,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَعْدِ بْنِ عَمَّارِ بْنِ سَعْدٍ، أَخْبَرَنِي أَبِي، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ إِذَا خَرَجَ إِلَى الْعِيدَيْنِ سَلَكَ عَلَى دَارَىْ سَعِيدِ بْنِ أَبِي الْعَاصِ ثُمَّ عَلَى أَصْحَابِ الْفَسَاطِيطِ ثُمَّ انْصَرَفَ فِي الطَّرِيقِ الأُخْرَى طَرِيقِ بَنِي زُرَيْقٍ ثُمَّ يَخْرُجُ عَلَى دَارِ عَمَّارِ بْنِ يَاسِرٍ وَدَارِ أَبِي هُرَيْرَةَ إِلَى الْبَلاَطِ ‏.‏",
+      "english": {
+        "narrator": "‘Abdur-Rahman bin Sa’d bin ‘Ammar bin Sa’d said:",
+        "text": "“My father\ntold me,\nfrom his father, from his grandfather, that when the Prophet\n(ﷺ)\nwent out on the two ‘Eid, he would pass by the house of\nSa’eed bin\nAbul-‘As, then by the people of the tent, then he\nwould leave by a\ndifferent route, via Banu Zuraiq, then he would go\nout by the house of\n‘Ammar bin Yasir and the house of Abu Hurairah\nto Balat.”"
+      }
+    },
+    {
+      "id": 497,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ حَكِيمٍ، حَدَّثَنَا أَبُو قُتَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ كَانَ يَخْرُجُ إِلَى الْعِيدِ فِي طَرِيقٍ وَيَرْجِعُ فِي أُخْرَى وَيَزْعُمُ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يَفْعَلُ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Ibn ‘Umar that he used to go out to the ‘Eid\nprayers via one route, and return via another, and he said that the\nMessenger of Allah (ﷺ) used to do that."
+      }
+    },
+    {
+      "id": 498,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الأَزْهَرِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْخَطَّابِ، حَدَّثَنَا مِنْدَلٌ، عَنْ مُحَمَّدِ بْنِ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ يَأْتِي الْعِيدَ مَاشِيًا وَيَرْجِعُ مَاشِيًا فِي غَيْرِ الطَّرِيقِ الَّذِي ابْتَدَأَ فِيهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Muhammad bin ‘Ubaidullah bin Abu Rafi’, from his\nfather, from his grandfather, that the Messenger of Allah (ﷺ) used\nto come to ‘Eid prayers walking, and that he would go back via a\ndifferent route than the one he began with."
+      }
+    },
+    {
+      "id": 499,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حُمَيْدٍ، حَدَّثَنَا أَبُو تُمَيْلَةَ، عَنْ فُلَيْحِ بْنِ سُلَيْمَانَ، عَنْ سَعِيدِ بْنِ الْحَارِثِ الزُّرَقِيِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ إِذَا خَرَجَ إِلَى الْعِيدِ رَجَعَ فِي غَيْرِ الطَّرِيقِ الَّذِي أَخَذَ فِيهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Abu Hurairah that when the Prophet (ﷺ) went\nout to\n‘Eid (prayers), he would return via another route than the\nfirst\none he took."
+      }
+    },
+    {
+      "id": 500,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا شَرِيكٌ، عَنْ مُغِيرَةَ، عَنْ عَامِرٍ، قَالَ شَهِدَ عِيَاضٌ الأَشْعَرِيُّ عِيدًا بِالأَنْبَارِ فَقَالَ مَالِي لاَ أَرَاكُمْ تُقَلِّسُونَ كَمَا كَانَ يُقَلَّسُ عِنْدَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Amir said:",
+        "text": "“Iyad Al-Ash’ari was in Anbar at the\ntime of ‘Eid, and he said: ‘Why is it that I do not see you\nengaged in\nTaqlis* as was done in the presence of the Messenger of\nAllah (ﷺ)?’”\n\n*Taqlis means to indulge in celebrations on a festive occasion."
+      }
+    },
+    {
+      "id": 501,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا أَبُو نُعَيْمٍ، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَامِرٍ، عَنْ قَيْسِ بْنِ سَعْدٍ، قَالَ مَا كَانَ شَىْءٌ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ إِلاَّ وَقَدْ رَأَيْتُهُ إِلاَّ شَىْءٌ وَاحِدٌ فَإِنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يُقَلَّسُ لَهُ يَوْمَ الْفِطْرِ ‏.‏ \n\n قَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ الْقَطَّانُ حَدَّثَنَا ابْنُ دِيزِيلَ، حَدَّثَنَا آدَمُ، حَدَّثَنَا شَيْبَانُ، عَنْ جَابِرٍ، عَنْ عَامِرٍ، ح وَحَدَّثَنَا إِبْرَاهِيمُ بْنُ نَصْرٍ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ جَابِرٍ، عَنْ عَامِرٍ، ح وَحَدَّثَنَا إِبْرَاهِيمُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَامِرٍ، نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from ‘Amir that Qais bin Sa’d said:",
+        "text": "“There is nothing\nthat happened during the time of the Messenger of Allah (ﷺ) except\nthat I have seen it, except for one thing, which is that Taqlis* was\nperformed for the Messenger of Allah (ﷺ) on the Day of Fitr.\n\n(Three other chains of narration) with similar wording.\n\n*Taqlis means to indulge in celebrations on a festive occasion."
+      }
+    },
+    {
+      "id": 502,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، ح وَحَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، قَالاَ حَدَّثَنَا الأَوْزَاعِيُّ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يَغْدُو إِلَى الْمُصَلَّى فِي يَوْمِ الْعِيدِ وَالْعَنَزَةُ تُحْمَلُ بَيْنَ يَدَيْهِ فَإِذَا بَلَغَ الْمُصَلَّى نُصِبَتْ بَيْنَ يَدَيْهِ فَيُصَلِّي إِلَيْهَا وَذَلِكَ أَنَّ الْمُصَلَّى كَانَ فَضَاءً لَيْسَ فِيهِ شَىْءٌ يُسْتَتَرُ بِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Ibn ‘Umar that the Messenger of Allah (ﷺ) used\nto\nset out for the praying place in the morning of the day of ‘Eid,\nand a small spear would be carried before him. When he reached the\npraying place, it would be set up in front of him, then he would pray\nfacing it, and that was because the praying place was an open space\nin\nwhich there was nothing that could serve as a Sutrah*.\n\n*Sutrah (screen), meaning a barrier of some type."
+      }
+    },
+    {
+      "id": 503,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ إِذَا صَلَّى يَوْمَ عِيدٍ أَوْ غَيْرَهُ نُصِبَتِ الْحَرْبَةُ بَيْنَ يَدَيْهِ فَيُصَلِّي إِلَيْهَا وَالنَّاسُ مِنْ خَلْفِهِ ‏.‏ قَالَ نَافِعٌ فَمِنْ ثَمَّ اتَّخَذَهَا الأُمَرَاءُ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Ibn ‘Umar said:",
+        "text": "“When the Prophet (ﷺ) prayed\non\nthe day of ‘Eid or on another occasion, a small spear was set up in\nfront of him, and he prayed facing it, and the people were behind\nhim.”\n\nNafi` said: It is from here that the leaders have taken this practice."
+      }
+    },
+    {
+      "id": 504,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ صَلَّى الْعِيدَ بِالْمُصَلَّى مُسْتَتِرًا بِحَرْبَةٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Anas bin Malik that the Messenger of Allah (ﷺ)\nprayed\n‘Eid at the prayer place, using a small spear as a Sutrah."
+      }
+    },
+    {
+      "id": 505,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامِ بْنِ حَسَّانٍ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ أَمَرَنَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ نُخْرِجَهُنَّ فِي يَوْمِ الْفِطْرِ وَالنَّحْرِ ‏.‏ قَالَ قَالَتْ أُمُّ عَطِيَّةَ فَقُلْنَا أَرَأَيْتَ إِحْدَاهُنَّ لاَ يَكُونُ لَهَا جِلْبَابٌ قَالَ ‏\n\"‏ فَلْتُلْبِسْهَا أُخْتُهَا مِنْ جِلْبَابِهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Umm ‘Atiyyah said:",
+        "text": "“The Messenger of Allah (ﷺ)\ncommanded us to bring them (the women) out on the day of Fitr and the\nday of Nahr.” Umm ‘Atiyyah said: “We said: ‘What if one of\nthem does\nnot have an outer covering?’ He said: ‘Let her sister\nshare her own\nouter covering with her.’”"
+      }
+    },
+    {
+      "id": 506,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ، عَنْ أَيُّوبَ، عَنِ ابْنِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ أَخْرِجُوا الْعَوَاتِقَ وَذَوَاتِ الْخُدُورِ لِيَشْهَدْنَ الْعِيدَ وَدَعْوَةَ الْمُسْلِمِينَ ‏.‏ وَلِيَجْتَنِبَنَّ الْحُيَّضُ مُصَلَّى النَّاسِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Umm ‘Atiyyah said:",
+        "text": "“The Messenger of Allah (ﷺ)\nsaid: ‘Bring out the women who have attained puberty and those who\nare in seclusion so that they may attend the ‘Eid prayer and (join\nin) the supplication of the Muslims. But let the women who are\nmenstruating avoid the prayer place.”"
+      }
+    },
+    {
+      "id": 507,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، حَدَّثَنَا حَجَّاجُ بْنُ أَرْطَاةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَابِسٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ يُخْرِجُ بَنَاتِهِ وَنِسَاءَهُ فِي الْعِيدَيْنِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Ibn ‘Abbas that the Prophet (ﷺ) used to bring\nhis\ndaughters and his wives out on the two ‘Eid."
+      }
+    },
+    {
+      "id": 508,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا أَبُو أَحْمَدَ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ عُثْمَانَ بْنِ الْمُغِيرَةِ، عَنْ إِيَاسِ بْنِ أَبِي رَمْلَةَ الشَّامِيِّ، قَالَ سَمِعْتُ رَجُلاً، سَأَلَ زَيْدَ بْنَ أَرْقَمَ هَلْ شَهِدْتَ مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ عِيدَيْنِ فِي يَوْمٍ قَالَ نَعَمْ ‏.‏ قَالَ فَكَيْفَ كَانَ يَصْنَعُ قَالَ صَلَّى الْعِيدَ ثُمَّ رَخَّصَ فِي الْجُمُعَةِ ثُمَّ قَالَ ‏\n\"‏ مَنْ شَاءَ أَنْ يُصَلِّيَ فَلْيُصَلِّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Iyas bin Abi Ramlah Ash-Shami said:",
+        "text": "“I heard a\nman\nasking Zaid bin Arqam: ‘Were you present with the Messenger of\nAllah (ﷺ) when there were two ‘Eid on one day?’ He said: ‘Yes.’\nHe\nsaid: ‘What did he do?’ He said: ‘He prayed the ‘Eid\nprayer, then he\ngranted a concession not to pray the Friday, then he\nsaid: “Whoever\nwants to pray (Friday), let him do so.”’”"
+      }
+    },
+    {
+      "id": 509,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ، حَدَّثَنَا بَقِيَّةُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنِي مُغِيرَةُ الضَّبِّيُّ، عَنْ عَبْدِ الْعَزِيزِ بْنِ رُفَيْعٍ، عَنْ أَبِي صَالِحٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ ‏\n\"‏ اجْتَمَعَ عِيدَانِ فِي يَوْمِكُمْ هَذَا فَمَنْ شَاءَ أَجْزَأَهُ مِنَ الْجُمُعَةِ وَإِنَّا مُجَمِّعُونَ إِنْ شَاءَ اللَّهُ ‏\"‏ ‏.‏ \n\n حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا يَزِيدُ بْنُ عَبْدِ رَبِّهِ، حَدَّثَنَا بَقِيَّةُ، حَدَّثَنَا شُعْبَةُ، عَنْ مُغِيرَةَ الضَّبِّيِّ، عَنْ عَبْدِ الْعَزِيزِ بْنِ رُفَيْعٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Ibn ‘Abbas that the Messenger of Allah (ﷺ)\nsaid:",
+        "text": "“Two ‘Eid have come together on this day of yours. So whoever\nwants, that (the ‘Eid prayer) will suffice him, and he will not\nhave\nto pray Friday, but we will pray Friday if Allah wills.”\n\nAnother chain with similar wording."
+      }
+    },
+    {
+      "id": 510,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا جُبَارَةُ بْنُ الْمُغَلِّسِ، حَدَّثَنَا مِنْدَلُ بْنُ عَلِيٍّ، عَنْ عَبْدِ الْعَزِيزِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ اجْتَمَعَ عِيدَانِ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَصَلَّى بِالنَّاسِ ثُمَّ قَالَ ‏\n\"‏ مَنْ شَاءَ أَنْ يَأْتِيَ الْجُمُعَةَ فَلْيَأْتِهَا وَمَنْ شَاءَ أَنْ يَتَخَلَّفَ فَلْيَتَخَلَّفْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Ibn ‘Umar said:",
+        "text": "“Two ‘Eid came together at the\ntime of the Messenger of Allah (ﷺ), so he led the people in prayer,\nthen he said: ‘Whoever wishes to come to Friday (prayer), let him\ncome, and whoever wishes to stay behind, let him stay behind.’”"
+      }
+    },
+    {
+      "id": 511,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا الْعَبَّاسُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا عِيسَى بْنُ عَبْدِ الأَعْلَى بْنِ أَبِي فَرْوَةَ، قَالَ سَمِعْتُ أَبَا يَحْيَى، عُبَيْدَ اللَّهِ التَّيْمِيَّ يُحَدِّثُ عَنْ أَبِي هُرَيْرَةَ، قَالَ أَصَابَ النَّاسَ مَطَرٌ فِي يَوْمِ عِيدٍ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَصَلَّى بِهِمْ فِي الْمَسْجِدِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Abu Hurairah said:",
+        "text": "“Rain fell on the day of ‘Eid\nat\nthe time of the Messenger of Allah (ﷺ), so he led them in prayer\nin\nthe mosque."
+      }
+    },
+    {
+      "id": 512,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ الْقُدُّوسِ بْنُ مُحَمَّدٍ، حَدَّثَنَا نَائِلُ بْنُ نَجِيحٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ زِيَادٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ نَهَى أَنْ يُلْبَسَ السِّلاَحُ فِي بِلاَدِ الإِسْلاَمِ فِي الْعِيدَيْنِ إِلاَّ أَنْ يَكُونُوا بِحَضْرَةِ الْعَدُوِّ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Ibn ‘Abbas that the Prophet (ﷺ) forbade\nwearing\nweapons in the Muslim lands on the two ‘Eid, except if the\nenemy\nwas present."
+      }
+    },
+    {
+      "id": 513,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا جُبَارَةُ بْنُ الْمُغَلِّسِ، حَدَّثَنَا حَجَّاجُ بْنُ تَمِيمٍ، عَنْ مَيْمُونِ بْنِ مِهْرَانَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَغْتَسِلُ يَوْمَ الْفِطْرِ وَيَوْمَ الأَضْحَى ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Ibn ‘Abbas said:",
+        "text": "“The Messenger of Allah (ﷺ)\nused\nto have a bath on the day of Fitr and the day of Adha.”"
+      }
+    },
+    {
+      "id": 514,
+      "chapterId": 5,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا يُوسُفُ بْنُ خَالِدٍ، حَدَّثَنَا أَبُو جَعْفَرٍ الْخَطْمِيُّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عُقْبَةَ بْنِ الْفَاكِهِ بْنِ سَعْدٍ، عَنْ جَدِّهِ الْفَاكِهِ بْنِ سَعْدٍ، - وَكَانَتْ لَهُ صُحْبَةٌ - أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يَغْتَسِلُ يَوْمَ الْفِطْرِ وَيَوْمَ النَّحْرِ وَيَوْمَ عَرَفَةَ وَكَانَ الْفَاكِهُ يَأْمُرُ أَهْلَهُ بِالْغُسْلِ فِي هَذِهِ الأَيَّامِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from ‘Abdur-Rahman bin ‘Uqbah bin Fakih bin Sa’d,\nfrom\nhis grandfather Fakih bin Sa’d, who was a Companion of the\nProphet\n(ﷺ) that the Messenger of Allah (ﷺ) used to take a bath on\nthe\nDay of Fitr, the Day of Nahr, and the day of ‘Arafah, and Fakih\nused to tell his family to have a bath on these days."
+      }
+    }
+  ]
+}

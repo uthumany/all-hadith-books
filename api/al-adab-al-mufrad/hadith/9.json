@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "chapterId": 56,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ، قَالَ‏:‏ أَخْبَرَنَا عَبْدُ اللهِ، قَالَ‏:‏ أَخْبَرَنَا جَرِيرُ بْنُ حَازِمٍ، عَنْ يَعْلَى بْنِ حَكِيمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ قَالَ‏:‏ إِنَّ الْحَيَاءَ وَالإِيمَانَ قُرِنَا جَمِيعًا، فَإِذَا رُفِعَ أَحَدُهُمَا رُفِعَ الآخَرُ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Ibn 'Umar said, \"Modesty and belief are together. If one of them\nis removed, the other is removed.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

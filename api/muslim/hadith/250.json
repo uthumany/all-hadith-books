@@ -1,0 +1,16 @@
+{
+  "id": 250,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ،\n بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ، سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسِ بْنِ مَالِكٍ، عَنْ أَبِي أُسَيْدٍ، قَالَ قَالَ\n رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَيْرُ دُورِ الأَنْصَارِ بَنُو النَّجَّارِ ثُمَّ بَنُو عَبْدِ الأَشْهَلِ ثُمَّ\n بَنُو الْحَارِثِ بْنِ الْخَزْرَجِ ثُمَّ بَنُو سَاعِدَةَ وَفِي كُلِّ دُورِ الأَنْصَارِ خَيْرٌ ‏\"‏ ‏.‏ فَقَالَ سَعْدٌ مَا\n أُرَى رَسُولَ اللَّهِ صلى الله عليه وسلم إِلاَّ قَدْ فَضَّلَ عَلَيْنَا ‏.‏ فَقِيلَ قَدْ فَضَّلَكُمْ عَلَى كَثِيرٍ ‏.‏",
+  "english": {
+    "narrator": "Abu Usaid reported Allah's Messenger (ﷺ) as saying:",
+    "text": "The worthiest clans of the Ansar are Banu Najjar, thereafter Banu al-Ashhal; thereafter Banu Harith b. Banu Khazraj; thereafter Banu Sa'idah and there is goodness in all clans of the Ansar. Sa'd said: I see that he (the Holy Prophet) has placed others above us. It was said to (him): He has placed you above many others."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

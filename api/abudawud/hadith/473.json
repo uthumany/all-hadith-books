@@ -1,0 +1,16 @@
+{
+  "id": 473,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عِيسَى بْنُ حَمَّادٍ، أَخْبَرَنَا اللَّيْثُ، عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ نَزَعَ رَجُلٌ لَمْ يَعْمَلْ خَيْرًا قَطُّ غُصْنَ شَوْكٍ عَنِ الطَّرِيقِ إِمَّا كَانَ فِي شَجَرَةٍ فَقَطَعَهُ وَأَلْقَاهُ وَإِمَّا كَانَ مَوْضُوعًا فَأَمَاطَهُ فَشَكَرَ اللَّهُ لَهُ بِهَا فَأَدْخَلَهُ الْجَنَّةَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "The Prophet (ﷺ) said: A man never did a good deed but removed a thorny branch from the road; it was either in the tree and someone cut it and threw it on the road, or it was lying in it, he removed it. Allah accepted this good deed of his and brought him into Paradise."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

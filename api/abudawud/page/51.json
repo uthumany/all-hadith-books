@@ -1,0 +1,510 @@
+{
+  "page": 51,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 52,
+  "prevPage": 50,
+  "items": [
+    {
+      "id": 24,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنِي أَبُو هَانِئٍ، عَنْ عَمْرِو بْنِ مَالِكٍ، عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏:‏ ‏\n\"‏ كُلُّ الْمَيِّتِ يُخْتَمُ عَلَى عَمَلِهِ، إِلاَّ الْمُرَابِطَ فَإِنَّهُ يَنْمُو لَهُ عَمَلُهُ إِلَى يَوْمِ الْقِيَامَةِ وَيُؤَمَّنُ مِنْ فَتَّانِ الْقَبْرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Fadalah ibn Ubayd:",
+        "text": "The Prophet (ﷺ) said: Everyone who dies will have fully complete his action, except one who is on the frontier (in Allah's path), for his deeds will be made to go on increasing till the Day of Resurrection, and he will be safe from the trial in the grave."
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو تَوْبَةَ، حَدَّثَنَا مُعَاوِيَةُ، - يَعْنِي ابْنَ سَلاَّمٍ - عَنْ زَيْدٍ، - يَعْنِي ابْنَ سَلاَّمٍ - أَنَّهُ سَمِعَ أَبَا سَلاَّمٍ، قَالَ حَدَّثَنِي السَّلُولِيُّ أَبُو كَبْشَةَ، أَنَّهُ حَدَّثَهُ سَهْلُ ابْنُ الْحَنْظَلِيَّةِ، أَنَّهُمْ سَارُوا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمَ حُنَيْنٍ فَأَطْنَبُوا السَّيْرَ حَتَّى كَانَتْ عَشِيَّةً، فَحَضَرْتُ الصَّلاَةَ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَجَاءَ رَجُلٌ فَارِسٌ فَقَالَ ‏:‏ يَا رَسُولَ اللَّهِ إِنِّي انْطَلَقْتُ بَيْنَ أَيْدِيكُمْ حَتَّى طَلَعْتُ جَبَلَ كَذَا وَكَذَا فَإِذَا أَنَا بِهَوَازِنَ عَلَى بَكْرَةِ آبَائِهِمْ بِظُعُنِهِمْ وَنَعَمِهِمْ وَشَائِهِمُ اجْتَمَعُوا إِلَى حُنَيْنٍ ‏.‏ فَتَبَسَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَالَ ‏:‏ ‏\"‏ تِلْكَ غَنِيمَةُ الْمُسْلِمِينَ غَدًا إِنْ شَاءَ اللَّهُ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏:‏ ‏\"‏ مَنْ يَحْرُسُنَا اللَّيْلَةَ ‏\"‏ ‏.‏ قَالَ أَنَسُ بْنُ أَبِي مَرْثَدٍ الْغَنَوِيُّ ‏:‏ أَنَا يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏:‏ ‏\"‏ فَارْكَبْ ‏\"‏ ‏.‏ فَرَكِبَ فَرَسًا لَهُ فَجَاءَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\"‏ اسْتَقْبِلْ هَذَا الشِّعْبَ حَتَّى تَكُونَ فِي أَعْلاَهُ وَلاَ نُغَرَّنَّ مِنْ قِبَلِكَ اللَّيْلَةَ ‏\"‏ ‏.‏ فَلَمَّا أَصْبَحْنَا خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى مُصَلاَّهُ فَرَكَعَ رَكْعَتَيْنِ ثُمَّ قَالَ ‏:‏ ‏\"‏ هَلْ أَحْسَسْتُمْ فَارِسَكُمْ ‏\"‏ ‏.‏ قَالُوا ‏:‏ يَا رَسُولَ اللَّهِ مَا أَحْسَسْنَاهُ ‏.‏ فَثُوِّبَ بِالصَّلاَةِ فَجَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي وَهُوَ يَلْتَفِتُ إِلَى الشِّعْبِ حَتَّى إِذَا قَضَى صَلاَتَهُ وَسَلَّمَ قَالَ ‏:‏ ‏\"‏ أَبْشِرُوا فَقَدْ جَاءَكُمْ فَارِسُكُمْ ‏\"‏ ‏.‏ فَجَعَلْنَا نَنْظُرُ إِلَى خِلاَلِ الشَّجَرِ فِي الشِّعْبِ فَإِذَا هُوَ قَدْ جَاءَ حَتَّى وَقَفَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَسَلَّمَ فَقَالَ ‏:‏ إِنِّي انْطَلَقْتُ حَتَّى كُنْتُ فِي أَعْلَى هَذَا الشِّعْبِ حَيْثُ أَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فَلَمَّا أَصْبَحْتُ اطَّلَعْتُ الشِّعْبَيْنِ كِلَيْهِمَا فَنَظَرْتُ فَلَمْ أَرَ أَحَدًا ‏.‏ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\"‏ هَلْ نَزَلْتَ اللَّيْلَةَ ‏\"‏ ‏.‏ قَالَ ‏:‏ لاَ إِلاَّ مُصَلِّيًا أَوْ قَاضِيًا حَاجَةً ‏.‏ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\"‏ قَدْ أَوْجَبْتَ فَلاَ عَلَيْكَ أَنْ لاَ تَعْمَلَ بَعْدَهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl ibn al-Hanzaliyyah:",
+        "text": "On the day of Hunayn we travelled with the Messenger of Allah (ﷺ) and we journeyed for a long time until the evening came. I attended the prayer along with the Messenger of Allah (ﷺ).  \n\n\n\n\n\nA horseman came and said: Messenger of Allah, I went before you and climbed a certain mountain where saw Hawazin all together with their women, cattle, and sheep, having gathered at Hunayn.  \n\n\n\n\n\nThe Messenger of Allah (ﷺ) smiled and said: That will be the booty of the Muslims tomorrow if Allah wills. He then asked: Who will be on guard tonight?  \n\n\n\n\n\nAnas ibn AbuMarthad al-Ghanawi said: I shall , Messenger of Allah.  He said: Then mount your horse. He then mounted his horse, and came to the Messenger of Allah (ﷺ).  \n\n\n\n\n\nThe Messenger of Allah said to him: Go forward to this ravine till you get to the top of it. We should not be exposed to danger from your side. In the morning the Apostle of of Allah (ﷺ) came out to his place of prayer, and offered two rak'ahs.  He then said: Have you seen any sign of your horseman?  \n\n\n\n\n\nThey said: We have not, Messenger of Allah. The announcement of the time for prayer was then made, and while the Messenger of Allah (ﷺ) was saying the prayer, he began to glance towards the ravine. When he finished his prayer and uttered salutation, he said: Cheer up, for your horseman has come. We therefore began to look between the trees in the ravine, and sure enough he had come.  \n\n\n\n\n\nHe stood beside the Messenger of Allah (ﷺ), saluted him and said: I continued till I reached the top of this ravine where the Messenger of Allah (ﷺ) commanded me, and in the morning I looked down into both ravines but saw no one.  \n\n\n\n\n\nThe Messenger of Allah (ﷺ) asked him: Did you dismount during the night?  \n\n\n\n\n\nHe replied: No, except to pray or to relieve myself. The Messenger of Allah (ﷺ) said: You have ensured your entry to (Paradise). No blame will be attached to you supposing you do not work after it."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ الْمَرْوَزِيُّ، أَخْبَرَنَا ابْنُ الْمُبَارَكِ، أَخْبَرَنَا وُهَيْبٌ، - قَالَ عَبْدَةُ ‏:‏ يَعْنِي ابْنَ الْوَرْدِ - أَخْبَرَنِي عُمَرُ بْنُ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏:‏ ‏\n\"‏ مَنْ مَاتَ وَلَمْ يَغْزُ وَلَمْ يُحَدِّثْ نَفْسَهُ بِالْغَزْوِ مَاتَ عَلَى شُعْبَةٍ مِنْ نِفَاقٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurairah reported the Prophet (ﷺ) as saying “He who dies without having fought or having felt fighting (against the infidels) to be his duty will die guilty of a kind of hypocrisy.”"
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، وَقَرَأْتُهُ، عَلَى يَزِيدَ بْنِ عَبْدِ رَبِّهِ الْجُرْجُسِيِّ قَالاَ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنْ يَحْيَى بْنِ الْحَارِثِ، عَنِ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ أَبِي أُمَامَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏:‏ ‏\"‏ مَنْ لَمْ يَغْزُ أَوْ يُجَهِّزْ غَازِيًا أَوْ يَخْلُفْ غَازِيًا فِي أَهْلِهِ بِخَيْرٍ أَصَابَهُ اللَّهُ بِقَارِعَةٍ ‏\"‏ ‏.‏ قَالَ يَزِيدُ بْنُ عَبْدِ رَبِّهِ فِي حَدِيثِهِ ‏:‏ ‏\"‏ قَبْلَ يَوْمِ الْقِيَامَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuUmamah:",
+        "text": "The Prophet (ﷺ) said: He who does not join the warlike expedition (jihad), or equip, or looks well after a warrior's family when he is away, will be smitten by Allah with a sudden calamity. Yazid ibn Abdu Rabbihi said in his tradition: 'before the Day of Resurrection\"."
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏:‏ ‏\n\"‏ جَاهِدُوا الْمُشْرِكِينَ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ وَأَلْسِنَتِكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "The Prophet (ﷺ) said: Use your property, your persons any your tongues in striving against the polytheists."
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ الْمَرْوَزِيُّ، حَدَّثَنِي عَلِيُّ بْنُ الْحُسَيْنِ، عَنْ أَبِيهِ، عَنْ يَزِيدَ النَّحْوِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ ‏{‏ إِلاَّ تَنْفِرُوا يُعَذِّبْكُمْ عَذَابًا أَلِيمًا ‏}‏ وَ ‏{‏ مَا كَانَ لأَهْلِ الْمَدِينَةِ ‏}‏ إِلَى قَوْلِهِ ‏{‏ يَعْمَلُونَ ‏}‏ نَسَخَتْهَا الآيَةُ الَّتِي تَلِيهَا ‏{‏ وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَافَّةً ‏}‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas said “The Qur’anic verse “Unless you go forth, He will punish you with a grievous penalty, and the verse “It is not fitting for the people of Medina”... up to “that Allaah might required their deed with the best (possible reward)  have been repealed by the verse. Nor should the believers all go forth together.”"
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، عَنْ عَبْدِ الْمُؤْمِنِ بْنِ خَالِدٍ الْحَنَفِيِّ، حَدَّثَنِي نَجْدَةُ بْنُ نُفَيْعٍ، قَالَ ‏:‏ سَأَلْتُ ابْنَ عَبَّاسٍ عَنْ هَذِهِ الآيَةِ، ‏{‏ إِلاَّ تَنْفِرُوا يُعَذِّبْكُمْ عَذَابًا أَلِيمًا ‏}‏ قَالَ ‏:‏ فَأُمْسِكَ عَنْهُمُ الْمَطَرُ وَكَانَ عَذَابَهُمْ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Najdah bin Nufai’ said “I asked Ibn ‘Abbas about the verse. “Unless you go forth, He will punish you with a grievous penalty.” He replied “The rain stopped from them. This was their punishment.”"
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الزِّنَادِ، عَنْ أَبِيهِ، عَنْ خَارِجَةَ بْنِ زَيْدٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، قَالَ ‏:‏ كُنْتُ إِلَى جَنْبِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَغَشِيَتْهُ السَّكِينَةُ فَوَقَعَتْ فَخِذُ رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَى فَخِذِي، فَمَا وَجَدْتُ ثِقَلَ شَىْءٍ أَثْقَلَ مِنْ فَخِذِ رَسُولِ اللَّهِ صلى الله عليه وسلم ثُمَّ سُرِّيَ عَنْهُ فَقَالَ ‏:‏ ‏\"‏ اكْتُبْ ‏\"‏ ‏.‏ فَكَتَبْتُ فِي كَتِفٍ ‏:‏ لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ ‏.‏ إِلَى آخِرِ الآيَةِ، فَقَامَ ابْنُ أُمِّ مَكْتُومٍ - وَكَانَ رَجُلاً أَعْمَى - لَمَّا سَمِعَ فَضِيلَةَ الْمُجَاهِدِينَ فَقَالَ ‏:‏ يَا رَسُولَ اللَّهِ فَكَيْفَ بِمَنْ لاَ يَسْتَطِيعُ الْجِهَادَ مِنَ الْمُؤْمِنِينَ فَلَمَّا قَضَى كَلاَمَهُ غَشِيَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم السَّكِينَةُ فَوَقَعَتْ فَخِذُهُ عَلَى فَخِذِي وَوَجَدْتُ مِنْ ثِقَلِهَا فِي الْمَرَّةِ الثَّانِيَةِ كَمَا وَجَدْتُ فِي الْمَرَّةِ الأُولَى ثُمَّ سُرِّيَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏:‏ ‏\"‏ اقْرَأْ يَا زَيْدُ ‏\"‏ ‏.‏ فَقَرَأْتُ ‏{‏ لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ ‏}‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏{‏ غَيْرُ أُولِي الضَّرَرِ ‏}‏ الآيَةَ كُلَّهَا ‏.‏ قَالَ زَيْدٌ ‏:‏ فَأَنْزَلَهَا اللَّهُ وَحْدَهَا فَأَلْحَقْتُهَا، وَالَّذِي نَفْسِي بِيَدِهِ لَكَأَنِّي أَنْظُرُ إِلَى مُلْحَقِهَا عِنْدَ صَدْعٍ فِي كَتِفٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Zaid bin Thabit said “I was beside the Apostle of Allaah(ﷺ) when the divinely-inspired calmness overtook him and the thigh of the Apostle of Allaah(ﷺ) fell on my thigh. I did not find any weightier than the thigh of the Apostle of Allaah(ﷺ). He then regained his composure and said “Write down. I wrote on a shoulder. Not equal are thise believers who sit (at home), other than those who have a (disabling) hurt, and those who strive in the way of Allaah. When Ibn Umm Makhtum who was blind heard the excellence of the warriors. He stood up and said “Apostle of Allaah(ﷺ) how is it for those believers who are unable to fight (in the path of Allaah)? When he finished his question his divinely-inspired calmness overtook him, and his thigh fell on my thigh and I found its weight the second time as I found the first time.” When the Apostle of Allaah(ﷺ) regained his composure, he said “Apostle of Allaah(ﷺ) said “Other than those who have a (disabling hurt). Zaid said “Allaah, the exalted, revealed it alone and I appended it.” By Him in Whose hands is my life, I am seeing, as it were the place where I put it (i.e., the verse) at the crack in the shoulder.”"
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ حُمَيْدٍ، عَنْ مُوسَى بْنِ أَنَسِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏:‏ ‏\"‏ لَقَدْ تَرَكْتُمْ بِالْمَدِينَةِ أَقْوَامًا مَا سِرْتُمْ مَسِيرًا وَلاَ أَنْفَقْتُمْ مِنْ نَفَقَةٍ وَلاَ قَطَعْتُمْ مِنْ وَادٍ إِلاَّ وَهُمْ مَعَكُمْ فِيهِ ‏\"‏ ‏.‏ قَالُوا ‏:‏ يَا رَسُولَ اللَّهِ وَكَيْفَ يَكُونُونَ مَعَنَا وَهُمْ بِالْمَدِينَةِ فَقَالَ ‏:‏ ‏\"‏ حَبَسَهُمُ الْعُذْرُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Anas bin Malik reported on the authority of his father, The Apostle of Allaah(ﷺ) said “ You left behind some people in Madeenah who did not fail to be with you wherever you went and whatever you spent (of your goods) and whatever valley you crossed. They asked Apostle of Allaah(ﷺ) how can they be with us when they are still in Madeenah? He replied “They were declined by a valid excuse.”"
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ أَبِي الْحَجَّاجِ أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا الْحُسَيْنُ، حَدَّثَنِي يَحْيَى، حَدَّثَنِي أَبُو سَلَمَةَ، حَدَّثَنِي بُسْرُ بْنُ سَعِيدٍ، حَدَّثَنِي زَيْدُ بْنُ خَالِدٍ الْجُهَنِيُّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏:‏ ‏\n\"‏ مَنْ جَهَّزَ غَاَزِيًا فِي سَبِيلِ اللَّهِ فَقَدْ غَزَا، وَمَنْ خَلَفَهُ فِي أَهْلِهِ بِخَيْرٍ فَقَدْ غَزَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Zaid bin Khalid al Juhani reported that Apostle of Allaah(ﷺ) as saying “He who equips a fighter in Allaah’s path has taken part in the fighting. And he looks after a fighter’s family when he is away has taken part in the fighting.”"
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ يَزِيدَ بْنِ أَبِي سَعِيدٍ، مَوْلَى الْمَهْرِيِّ عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، ‏:‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ إِلَى بَنِي لِحْيَانَ وَقَالَ ‏:‏ ‏\"‏ لِيَخْرُجْ مِنْ كُلِّ رَجُلَيْنِ رَجُلٌ ‏\"‏ ‏.‏ ثُمَّ قَالَ لِلْقَاعِدِينَ ‏:‏ ‏\"‏ أَيُّكُمْ خَلَفَ الْخَارِجَ فِي أَهْلِهِ وَمَالِهِ بِخَيْرٍ كَانَ لَهُ مِثْلُ نِصْفِ أَجْرِ الْخَارِجِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa’id Al Khudri said “The Apostle of Allaah(ﷺ) sent an expedition towards Banu Lihyan and said “One of the two persons should go forth. He then said to those who sat (at home), If any one of you looks after the family and property of a warrior, he will receive half the reward of the one who goes forth (in jihad).”"
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْجَرَّاحِ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، عَنْ مُوسَى بْنِ عُلَىِّ بْنِ رَبَاحٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ الْعَزِيزِ بْنِ مَرْوَانَ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏:‏ ‏\n\"‏ شَرُّ مَا فِي رَجُلٍ شُحٌّ هَالِعٌ وَجُبْنٌ خَالِعٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "I heard the Messenger of Allah (ﷺ) say: What is evil in a man are alarming niggardliness and unrestrained cowardice."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، وَابْنِ، لَهِيعَةَ عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَسْلَمَ أَبِي عِمْرَانَ، قَالَ ‏:‏ غَزَوْنَا مِنَ الْمَدِينَةِ نُرِيدُ الْقُسْطَنْطِينِيَّةَ، وَعَلَى الْجَمَاعَةِ عَبْدُ الرَّحْمَنِ بْنُ خَالِدِ بْنِ الْوَلِيدِ وَالرُّومُ مُلْصِقُو ظُهُورِهِمْ بِحَائِطِ الْمَدِينَةِ، فَحَمَلَ رَجُلٌ عَلَى الْعَدُوِّ فَقَالَ النَّاسُ ‏:‏ مَهْ، مَهْ، لاَ إِلَهَ إِلاَّ اللَّهُ، يُلْقِي بِيَدَيْهِ إِلَى التَّهْلُكَةِ ‏.‏ فَقَالَ أَبُو أَيُّوبَ ‏:‏ إِنَّمَا نَزَلَتْ هَذِهِ الآيَةُ فِينَا مَعْشَرَ الأَنْصَارِ لَمَّا نَصَرَ اللَّهُ نَبِيَّهُ وَأَظْهَرَ الإِسْلاَمَ، قُلْنَا ‏:‏ هَلُمَّ نُقِيمُ فِي أَمْوَالِنَا وَنُصْلِحُهَا، فَأَنْزَلَ اللَّهُ تَعَالَى ‏{‏ وَأَنْفِقُوا فِي سَبِيلِ اللَّهِ وَلاَ تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ ‏}‏ فَالإِلْقَاءُ بِالأَيْدِي إِلَى التَّهْلُكَةِ أَنْ نُقِيمَ فِي أَمْوَالِنَا وَنُصْلِحَهَا وَنَدَعَ الْجِهَادَ ‏.‏ قَالَ أَبُو عِمْرَانَ ‏:‏ فَلَمْ يَزَلْ أَبُو أَيُّوبَ يُجَاهِدُ فِي سَبِيلِ اللَّهِ حَتَّى دُفِنَ بِالْقُسْطَنْطِينِيَّةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuAyyub:",
+        "text": "AbuImran said: We went out on an expedition from Medina with the intention of (attacking) Constantinople. AbdurRahman ibn Khalid ibn al-Walid was the leader of the company. The Romans were just keeping their backs to the walls of the city. A man (suddenly) attacked the enemy.  \n\n\n\n\n\nThereupon the people said: Stop! Stop! There is no god but Allah. He is putting himself into danger.  \n\n\n\n\n\nAbuAyyub said: This verse was revealed about us, the group of the Ansar (the Helpers). When Allah helped His Prophet (ﷺ) and gave Islam dominance, we said (i.e. thought): Come on! Let us stay in our property and improve it.  \n\n\n\n\n\nThereupon Allah, the Exalted, revealed, \"And spend of your substance in the cause of Allah, and make not your hands contribute to (your destruction)\". To put oneself into danger means that we stay in our property and commit ourselves to its improvement, and abandon fighting (i.e. jihad).  \n\n\n\n\n\nAbuImran said: AbuAyyub continued to strive in the cause of Allah until he (died and) was buried in Constantinople."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ يَزِيدَ بْنِ جَابِرٍ، حَدَّثَنِي أَبُو سَلاَّمٍ، عَنْ خَالِدِ بْنِ زَيْدٍ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏:‏ ‏\"‏ إِنَّ اللَّهَ عَزَّ وَجَلَّ يُدْخِلُ بِالسَّهْمِ الْوَاحِدِ ثَلاَثَةَ نَفَرٍ الْجَنَّةَ ‏:‏ صَانِعَهُ يَحْتَسِبُ فِي صَنْعَتِهِ الْخَيْرَ، وَالرَّامِيَ بِهِ، وَمُنْبِلَهُ، وَارْمُوا وَارْكَبُوا، وَأَنْ تَرْمُوا أَحَبُّ إِلَىَّ مِنْ أَنْ تَرْكَبُوا، لَيْسَ مِنَ اللَّهْوِ إِلاَّ ثَلاَثٌ ‏:‏ تَأْدِيبُ الرَّجُلِ فَرَسَهُ وَمُلاَعَبَتُهُ أَهْلَهُ وَرَمْيُهُ بِقَوْسِهِ وَنَبْلِهِ، وَمَنْ تَرَكَ الرَّمْىَ بَعْدَ مَا عَلِمَهُ رَغْبَةً عَنْهُ فَإِنَّهَا نِعْمَةٌ تَرَكَهَا ‏\"‏ ‏.‏ أَوْ قَالَ ‏:‏ ‏\"‏ كَفَرَهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Uqbah ibn Amir:",
+        "text": "I heard the Messenger of Allah (ﷺ) say: Allah, Most High, will cause three persons to enter Paradise for one arrow: the maker when he has a good motive in making it, the one who shoots it, and the one who hands it; so shoot and ride, but your shooting is dearer to me than your riding. Everything with which a man amuses himself is vain except three (things): a man's training of his horse, his playing with his wife, and his shooting with his bow and arrow. If anyone abandons archery after becoming an adept through distaste for it, it is a blessing he has abandoned; or he said: for which he has been ungrateful."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، عَنْ أَبِي عَلِيٍّ، ‏:‏ ثُمَامَةَ بْنِ شُفَىٍّ الْهَمْدَانِيِّ أَنَّهُ سَمِعَ عُقْبَةَ بْنَ عَامِرٍ الْجُهَنِيَّ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم وَهُوَ عَلَى الْمِنْبَرِ يَقُولُ ‏:‏ ‏\"‏ ‏{‏ وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ ‏}‏ أَلاَ إِنَّ الْقُوَّةَ الرَّمْىُ، أَلاَ إِنَّ الْقُوَّةَ الرَّمْىُ، أَلاَ إِنَّ الْقُوَّةَ الرَّمْىُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "‘Uqabah bin Amir Al Juhani said “I heard the Apostle of Allaah(ﷺ) recite when he was on the pulpit “Against them make ready your strength to the utmost of your power. Beware, strength is shooting, beware strength is shooting, beware strength is shooting.”"
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ الْحَضْرَمِيُّ، حَدَّثَنَا بَقِيَّةُ، حَدَّثَنِي بَحِيرٌ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ أَبِي بَحْرِيَّةَ، عَنْ مُعَاذِ بْنِ جَبَلٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏:‏ ‏\n\"‏ الْغَزْوُ غَزْوَانِ فَأَمَّا مَنِ ابْتَغَى وَجْهَ اللَّهِ، وَأَطَاعَ الإِمَامَ، وَأَنْفَقَ الْكَرِيمَةَ، وَيَاسَرَ الشَّرِيكَ، وَاجْتَنَبَ الْفَسَادَ، فَإِنَّ نَوْمَهُ وَنَبْهَهُ أَجْرٌ كُلُّهُ وَأَمَّا مَنْ غَزَا فَخْرًا وَرِيَاءً وَسُمْعَةً، وَعَصَى الإِمَامَ، وَأَفْسَدَ فِي الأَرْضِ، فَإِنَّهُ لَمْ يَرْجِعْ بِالْكَفَافِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Mu'adh ibn Jabal:",
+        "text": "The Prophet (ﷺ) said: Fighting is of two kinds: The one who seeks Allah's favour, obeys the leader, gives the property he values, treats his associates gently and avoids doing mischief, will have the reward for all the time whether he is asleep or awake; but the one who fights in a boasting spirit, for the sake of display and to gain a reputation, who disobeys the leader and does mischief in the earth will not return credit or without blame."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو تَوْبَةَ، ‏:‏ الرَّبِيعُ بْنُ نَافِعٍ عَنِ ابْنِ الْمُبَارَكِ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنِ الْقَاسِمِ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنِ ابْنِ مِكْرَزٍ، - رَجُلٍ مِنْ أَهْلِ الشَّامِ - عَنْ أَبِي هُرَيْرَةَ، ‏:‏ أَنَّ رَجُلاً، قَالَ ‏:‏ يَا رَسُولَ اللَّهِ، رَجُلٌ يُرِيدُ الْجِهَادَ فِي سَبِيلِ اللَّهِ وَهُوَ يَبْتَغِي عَرَضًا مِنْ عَرَضِ الدُّنْيَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\"‏ لاَ أَجْرَ لَهُ ‏\"‏ ‏.‏ فَأَعْظَمَ ذَلِكَ النَّاسُ، وَقَالُوا لِلرَّجُلِ ‏:‏ عُدْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَلَعَلَّكَ لَمْ تُفَهِّمْهُ ‏.‏ فَقَالَ ‏:‏ يَا رَسُولَ اللَّهِ، رَجُلٌ يُرِيدُ الْجِهَادَ فِي سَبِيلِ اللَّهِ وَهُوَ يَبْتَغِي عَرَضًا مِنْ عَرَضِ الدُّنْيَا ‏.‏ فَقَالَ ‏:‏ ‏\"‏ لاَ أَجْرَ لَهُ ‏\"‏ ‏.‏ فَقَالُوا لِلرَّجُلِ ‏:‏ عُدْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَقَالَ لَهُ الثَّالِثَةَ، فَقَالَ لَهُ ‏:‏ ‏\"‏ لاَ أَجْرَ لَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "A man said: Messenger of Allah, a man wishes to take part in jihad in Allah's path desiring some worldly advantage? The Prophet (ﷺ) said: He will have not reward. The people thought it terrible, and they said to the man: Go back to the Messenger of Allah (ﷺ), for you might not have made him understand well. He, therefore, (went and again) asked: Messenger of Allah, a man wishes to take part in jihad in Allah's path desiring some worldly advantage? He replied: There is no reward for him. They again said to the man: Return to the Messenger of Allah. He, therefore, said to him third time. He replied: There is no reward for him."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ أَبِي وَائِلٍ، عَنْ أَبِي مُوسَى، ‏:‏ أَنَّ أَعْرَابِيًّا، جَاءَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏:‏ إِنَّ الرَّجُلَ يُقَاتِلُ لِلذِّكْرِ، وَيُقَاتِلُ لِيُحْمَدَ، وَيُقَاتِلُ لِيَغْنَمَ، وَيُقَاتِلُ لِيُرَى مَكَانُهُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\n\"‏ مَنْ قَاتَلَ حَتَّى تَكُونَ كَلِمَةُ اللَّهِ هِيَ أَعْلَى فَهُوَ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Musa said “A beduoin came to the Apostle of Allaah(ﷺ) and said “One man fights for reputation, one fights for being praised, one fights for booty and one for his place to be seen. (Which of them is in Allaah’s path?)”. The Apostle of Allaah(ﷺ) replied “The one who fights that Allaah’s word may have pre-eminence is in Allaah’s path.”"
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُسْلِمٍ، حَدَّثَنَا أَبُو دَاوُدَ، عَنْ شُعْبَةَ، عَنْ عَمْرٍو، قَالَ ‏:‏ سَمِعْتُ مِنْ أَبِي وَائِلٍ، حَدِيثًا أَعْجَبَنِي ‏.‏ فَذَكَرَ مَعْنَاهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "‘Amr said “I heard from Abu Wa’il a tradition which surprised me, he then narrated the tradition to the same effect (as mentioned before)."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ حَاتِمٍ الأَنْصَارِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي الْوَضَّاحِ، عَنِ الْعَلاَءِ بْنِ عَبْدِ اللَّهِ بْنِ رَافِعٍ، عَنْ حَنَانِ بْنِ خَارِجَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ عَبْدُ اللَّهِ بْنُ عَمْرٍو ‏:‏ يَا رَسُولَ اللَّهِ أَخْبِرْنِي عَنِ الْجِهَادِ، وَالْغَزْوِفَقَالَ ‏:‏ ‏\n\"‏ يَا عَبْدَ اللَّهِ بْنَ عَمْرٍو، إِنْ قَاتَلْتَ صَابِرًا مُحْتَسِبًا بَعَثَكَ اللَّهُ صَابِرًا مُحْتَسِبًا، وَإِنْ قَاتَلْتَ مُرَائِيًا مُكَاثِرًا بَعَثَكَ اللَّهُ مُرَائِيًا مُكَاثِرًا، يَا عَبْدَ اللَّهِ بْنَ عَمْرٍو، عَلَى أَىِّ حَالٍ قَاتَلْتَ أَوْ قُتِلْتَ بَعَثَكَ اللَّهُ عَلَى تِيكَ الْحَالِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "Messenger of Allah, tell me about jihad and fighting. He replied: Abdullah ibn Amr, if you fight with endurance seeking from Allah your reward, Allah will resurrect you showing endurance and seeking your reward from Him, but, if you fight for vain show seeking to acquire much, Allah will resurrect you making a vain show and seeking to acquire much. In whatever you fight or are killed, Abdullah ibn Amr, in that state Allah will resurrect you."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\"‏ لَمَّا أُصِيبَ إِخْوَانُكُمْ بِأُحُدٍ جَعَلَ اللَّهُ أَرْوَاحَهُمْ فِي جَوْفِ طَيْرٍ خُضْرٍ تَرِدُ أَنْهَارَ الْجَنَّةِ، تَأْكُلُ مِنْ ثِمَارِهَا، وَتَأْوِي إِلَى قَنَادِيلَ مِنْ ذَهَبٍ مُعَلَّقَةٍ فِي ظِلِّ الْعَرْشِ، فَلَمَّا وَجَدُوا طِيبَ مَأْكَلِهِمْ وَمَشْرَبِهِمْ وَمَقِيلِهِمْ قَالُوا ‏:‏ مَنْ يُبَلِّغُ إِخْوَانَنَا عَنَّا أَنَّا أَحْيَاءٌ فِي الْجَنَّةِ نُرْزَقُ لِئَلاَّ يَزْهَدُوا فِي الْجِهَادِ وَلاَ يَنْكُلُوا عِنْدَ الْحَرْبِ فَقَالَ اللَّهُ سُبْحَانَهُ ‏:‏ أَنَا أُبَلِّغُهُمْ عَنْكُمْ ‏.‏ قَالَ ‏:‏ فَأَنْزَلَ اللَّهُ ‏{‏ وَلاَ تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ‏}‏ ‏\"‏ ‏.‏ إِلَى آخِرِ الآيَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Prophet (ﷺ) said: When your brethren were smitten at the battle of Uhud, Allah put their spirits in the crops of green birds which go down to the rivers of Paradise, eat its fruit and nestle in lamps of gold in the shade of the Throne. Then when they experienced the sweetness of their food, drink and rest, they asked: Who will tell our brethren about us that we are alive in Paradise provided with provision, in order that they might not be disinterested in jihad and recoil in war? Allah Most High said: I shall tell them about you; so Allah sent down; \"And do not consider those who have been killed in Allah's path.\" till the end of the verse."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا عَوْفٌ، حَدَّثَتْنَا حَسْنَاءُ بِنْتُ مُعَاوِيَةَ الصَّرِيمِيَّةُ، قَالَتْ حَدَّثَنَا عَمِّي، قَالَ قُلْتُ لِلنَّبِيِّ صلى الله عليه وسلم ‏:‏ مَنْ فِي الْجَنَّةِ قَالَ ‏:‏ ‏\n\"‏ النَّبِيُّ فِي الْجَنَّةِ، وَالشَّهِيدُ فِي الْجَنَّةِ، وَالْمَوْلُودُ فِي الْجَنَّةِ، وَالْوَئِيدُ فِي الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Hasana' daughter of Mu'awiyah:",
+        "text": "She reported on the authority of her paternal uncle: I asked the Prophet (ﷺ): Who are in Paradise? He replied: Prophets are in Paradise, martyrs are in Paradise, infants are in Paradise and children buried alive are in Paradise."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا يَحْيَى بْنُ حَسَّانَ، حَدَّثَنَا الْوَلِيدُ بْنُ رَبَاحٍ الذِّمَارِيُّ، حَدَّثَنِي عَمِّي، ‏:‏ نِمْرَانُ بْنُ عُتْبَةَ الذِّمَارِيُّ قَالَ ‏:‏ دَخَلْنَا عَلَى أُمِّ الدَّرْدَاءِ وَنَحْنُ أَيْتَامٌ فَقَالَتْ ‏:‏ أَبْشِرُوا فَإِنِّي سَمِعْتُ أَبَا الدَّرْدَاءِ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\n\"‏ يُشَفَّعُ الشَّهِيدُ فِي سَبْعِينَ مِنْ أَهْلِ بَيْتِهِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ ‏:‏ صَوَابُهُ رَبَاحُ بْنُ الْوَلِيدِ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbudDarda':",
+        "text": "The Prophet (ﷺ) said: The intercession of a martyr will be accepted for seventy members of his family.\n\n\nAbu Dawud said: The correct name if the narrator is Rabah b. al-Walid (and not al-walid b. Rabah as occurred in the chain of narrators in the text of the tradition)"
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو الرَّازِيُّ، حَدَّثَنَا سَلَمَةُ، - يَعْنِي ابْنَ الْفَضْلِ - عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، حَدَّثَنِي يَزِيدُ بْنُ رُومَانَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ ‏:‏ لَمَّا مَاتَ النَّجَاشِيُّ كُنَّا نَتَحَدَّثُ أَنَّهُ لاَ يَزَالُ يُرَى عَلَى قَبْرِهِ نُورٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "When Negus died, we were told that a light would be seen perpetually at his grave."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، قَالَ سَمِعْتُ عَمْرَو بْنَ مَيْمُونٍ، عَنْ عَبْدِ اللَّهِ بْنِ رُبَيِّعَةَ، عَنْ عُبَيْدِ بْنِ خَالِدٍ السُّلَمِيِّ، قَالَ ‏:‏ آخَى رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ رَجُلَيْنِ فَقُتِلَ أَحَدُهُمَا وَمَاتَ الآخَرُ بَعْدَهُ بِجُمُعَةٍ أَوْ نَحْوِهَا، فَصَلَّيْنَا عَلَيْهِ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\"‏ مَا قُلْتُمْ ‏\"‏ ‏.‏ فَقُلْنَا ‏:‏ دَعَوْنَا لَهُ، وَقُلْنَا ‏:‏ اللَّهُمَّ اغْفِرْ لَهُ وَأَلْحِقْهُ بِصَاحِبِهِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\"‏ فَأَيْنَ صَلاَتُهُ بَعْدَ صَلاَتِهِ وَصَوْمُهُ بَعْدَ صَوْمِهِ ‏\"‏ ‏.‏ شَكَّ شُعْبَةُ فِي صَوْمِهِ ‏:‏ ‏\"‏ وَعَمَلُهُ بَعْدَ عَمَلِهِ إِنَّ بَيْنَهُمَا كَمَا بَيْنَ السَّمَاءِ وَالأَرْضِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ubaydullah ibn Khalid as-Sulami:",
+        "text": "The Messenger of Allah (ﷺ) made a brotherhood between two men, one of whom was killed (in Allah's path), and a week or thereabouts later the other died, and we prayed at his funeral). The Messenger of Allah (ﷺ) asked: What did you say? We replied: We prayed for him and said: O Allah, forgive him, and join him to his companion. The Messenger of Allah (ﷺ) said: What about his prayers since the time the other died, and his fasting since the time the other died--the narrator Shu'bah doubted the words, \"his fasting--and his deeds since the time the other died. The distance between them is just like the distance between heaven and earth."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، أَخْبَرَنَا ح، وَحَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، - الْمَعْنَى وَأَنَا لِحَدِيثِهِ، أَتْقَنُ - عَنْ أَبِي سَلَمَةَ، ‏:‏ سُلَيْمَانَ بْنِ سُلَيْمٍ عَنْ يَحْيَى بْنِ جَابِرٍ الطَّائِيِّ، عَنِ ابْنِ أَخِي أَبِي أَيُّوبَ الأَنْصَارِيِّ، عَنْ أَبِي أَيُّوبَ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏:‏ ‏\n\"‏ سَتُفْتَحُ عَلَيْكُمُ الأَمْصَارُ، وَسَتَكُونُ جُنُودٌ مُجَنَّدَةٌ تُقْطَعُ عَلَيْكُمْ فِيهَا بُعُوثٌ فَيَكْرَهُ الرَّجُلُ مِنْكُمُ الْبَعْثَ فِيهَا فَيَتَخَلَّصُ مِنْ قَوْمِهِ ثُمَّ يَتَصَفَّحُ الْقَبَائِلَ يَعْرِضُ نَفْسَهُ عَلَيْهِمْ يَقُولُ ‏:‏ مَنْ أَكْفِيهِ بَعْثَ كَذَا، مَنْ أَكْفِيهِ بَعْثَ كَذَا أَلاَ وَذَلِكَ الأَجِيرُ إِلَى آخِرِ قَطْرَةٍ مِنْ دَمِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuAyyub al-Ansari:",
+        "text": "AbuAyyub heard the Messenger of Allah (ﷺ) say: Capitals will be conquered at your hands, and you will have to raise companies in large armies. A man will be unwilling to join a company, so he will escape from his people and go round the tribes offering himself to them, saying: Whose place may I take in such and such expedition? Whose place may I take in such and such expedition? Beware: That man is a hireling to the last drop of his blood."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْحَسَنِ الْمِصِّيصِيُّ، حَدَّثَنَا حَجَّاجٌ، - يَعْنِي ابْنَ مُحَمَّدٍ - ح وَحَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبٍ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنِ اللَّيْثِ بْنِ سَعْدٍ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، عَنِ ابْنِ شُفَىٍّ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏:‏ ‏\n\"‏ لِلْغَازِي أَجْرُهُ، وَلِلْجَاعِلِ أَجْرُهُ وَأَجْرُ الْغَازِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "The Prophet (ﷺ) said: The warrior gets his reward, and the one who equips him gets his own reward and that of the warrior."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي عَاصِمُ بْنُ حَكِيمٍ، عَنْ يَحْيَى بْنِ أَبِي عَمْرٍو السَّيْبَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ الدَّيْلَمِيِّ، أَنَّ يَعْلَى بْنَ مُنْيَةَ، قَالَ ‏:‏ آذَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْغَزْوِ وَأَنَا شَيْخٌ كَبِيرٌ لَيْسَ لِي خَادِمٌ، فَالْتَمَسْتُ أَجِيرًا يَكْفِينِي وَأُجْرِي لَهُ سَهْمَهُ، فَوَجَدْتُ رَجُلاً، فَلَمَّا دَنَا الرَّحِيلُ أَتَانِي فَقَالَ ‏:‏ مَا أَدْرِي مَا السُّهْمَانُ وَمَا يَبْلُغُ سَهْمِي فَسَمِّ لِي شَيْئًا كَانَ السَّهْمُ أَوْ لَمْ يَكُنْ ‏.‏ فَسَمَّيْتُ لَهُ ثَلاَثَةَ دَنَانِيرَ، فَلَمَّا حَضَرَتْ غَنِيمَتُهُ أَرَدْتُ أَنْ أُجْرِيَ لَهُ سَهْمَهُ، فَذَكَرْتُ الدَّنَانِيرَ، فَجِئْتُ النَّبِيَّ صلى الله عليه وسلم فَذَكَرْتُ لَهُ أَمْرَهُ، فَقَالَ ‏:‏ ‏\n\"‏ مَا أَجِدُ لَهُ فِي غَزْوَتِهِ هَذِهِ فِي الدُّنْيَا وَالآخِرَةِ إِلاَّ دَنَانِيرَهُ الَّتِي سَمَّى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ya'la ibn Munyah:",
+        "text": "The Messenger of Allah (ﷺ) announced an expedition, and I was a very old man and I had no servant. I, therefore, sought a hireling who would serve instead of me, and I would give him his portion. So I found a man. When the time of departure arrived, he came to me and said: I do not know what would be the portions, and how much would be my portion. So offer something (as wages) to me, whether there would be any portion or not. I offered three dinars (as his wages) for him. When some booty arrived, I wanted to offer him his portion. But I remembered the dinars, so I went to the Prophet (ﷺ) and mentioned the matter to him. He said: All I can find for him regarding this expedition of his in this world and the next is three dinars which were offered him."
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، حَدَّثَنَا عَطَاءُ بْنُ السَّائِبِ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ ‏:‏ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏:‏ جِئْتُ أُبَايِعُكَ عَلَى الْهِجْرَةِ وَتَرَكْتُ أَبَوَىَّ يَبْكِيَانِ ‏.‏ فَقَالَ ‏:‏ ‏\n\"‏ ارْجِعْ عَلَيْهِمَا فَأَضْحِكْهُمَا كَمَا أَبْكَيْتَهُمَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "A man came to the Messenger of Allah (ﷺ) and said: I came to you to take the oath of allegiance to you on emigration, and I left my parents weeping. He (the Prophet) said: Return to them and make them laugh  as you made them weep."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ أَبِي الْعَبَّاسِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ ‏:‏ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏:‏ يَا رَسُولَ اللَّهِ أُجَاهِدُ قَالَ ‏:‏ ‏\"‏ أَلَكَ أَبَوَانِ ‏\"‏ ‏.‏ قَالَ ‏:‏ نَعَمْ ‏.‏ قَالَ ‏:‏ ‏\"‏ فَفِيهِمَا فَجَاهِدْ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ ‏:‏ أَبُو الْعَبَّاسِ هَذَا الشَّاعِرُ اسْمُهُ السَّائِبُ بْنُ فَرُّوخَ ‏.‏",
+      "english": {
+        "narrator": "‘Abd Allah bin ‘Amr said “A man came to the Prophet(ﷺ) and said “Apostle of Allaah(ﷺ), May I take part in jihad?” He asked “Do you have parents?” He replied “Yes”. So, strive for them.”\n\n\nAbu Dawud said:",
+        "text": "The name of the narrator Abu al-'Abbas, a poet, is al-Sa'ib b. Farrukh."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، أَنَّ دَرَّاجًا أَبَا السَّمْحِ، حَدَّثَهُ عَنْ أَبِي الْهَيْثَمِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، ‏:‏ أَنَّ رَجُلاً، هَاجَرَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم مِنَ الْيَمَنِ، فَقَالَ ‏:‏ ‏\"‏ هَلْ لَكَ أَحَدٌ بِالْيَمَنِ ‏\"‏ ‏.‏ قَالَ ‏:‏ أَبَوَاىَ ‏.‏ قَالَ ‏:‏ ‏\"‏ أَذِنَا لَكَ ‏\"‏ ‏.‏ قَالَ ‏:‏ لاَ ‏.‏ قَالَ ‏:‏ ‏\"‏ ارْجِعْ إِلَيْهِمَا فَاسْتَأْذِنْهُمَا، فَإِنْ أَذِنَا لَكَ فَجَاهِدْ، وَإِلاَّ فَبِرَّهُمَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuSa'id al-Khudri:",
+        "text": "A man emigrated to the Messenger of Allah (ﷺ) from the Yemen. He asked (him): Have you anyone (of your relatives) in the Yemen? He replied: My parents. He asked: Did they permit you? He replied: No. He said: Go back to them and ask for their permission. If they permit you, then fight (in the path of Allah), otherwise be devoted to them."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ مُطَهِّرٍ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ ‏:‏ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَغْزُو بِأُمِّ سُلَيْمٍ وَنِسْوَةٍ مِنَ الأَنْصَارِ لِيَسْقِينَ الْمَاءَ وَيُدَاوِينَ الْجَرْحَى ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "When the Messenger of Allah (ﷺ) went on an expedition, he took Umm Sulaym, and he had some women of the Ansar who supplied water and tended the wounded."
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا جَعْفَرُ بْنُ بُرْقَانَ، عَنْ يَزِيدَ بْنِ أَبِي نُشْبَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\n\"‏ ثَلاَثَةٌ مِنْ أَصْلِ الإِيمَانِ ‏:‏ الْكَفُّ عَمَّنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَلاَ تُكَفِّرْهُ بِذَنْبٍ وَلاَ تُخْرِجْهُ مِنَ الإِسْلاَمِ بِعَمَلٍ، وَالْجِهَادُ مَاضٍ مُنْذُ بَعَثَنِيَ اللَّهُ إِلَى أَنْ يُقَاتِلَ آخِرُ أُمَّتِي الدَّجَّالَ لاَ يُبْطِلُهُ جَوْرُ جَائِرٍ وَلاَ عَدْلُ عَادِلٍ، وَالإِيمَانُ بِالأَقْدَارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "The Prophet (ﷺ) said: Three things are the roots of faith: to refrain from (killing) a person who utters, \"There is no god but Allah\" and not to declare him unbeliever whatever sin he commits, and not to excommunicate him from Islam for his any action; and jihad will be performed continuously since the day Allah sent me as a prophet until the day the last member of my community will fight with the Dajjal (Antichrist). The tyranny of any tyrant and the justice of any just (ruler) will not invalidate it. One must have faith in Divine decree."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنِي مُعَاوِيَةُ بْنُ صَالِحٍ، عَنِ الْعَلاَءِ بْنِ الْحَارِثِ، عَنْ مَكْحُولٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\n\"‏ الْجِهَادُ وَاجِبٌ عَلَيْكُمْ مَعَ كُلِّ أَمِيرٍ بَرًّا كَانَ أَوْ فَاجِرًا، وَالصَّلاَةُ وَاجِبَةٌ عَلَيْكُمْ خَلْفَ كُلِّ مُسْلِمٍ بَرًّا كَانَ أَوْ فَاجِرًا وَإِنْ عَمِلَ الْكَبَائِرَ، وَالصَّلاَةُ وَاجِبَةٌ عَلَى كُلِّ مُسْلِمٍ بَرًّا كَانَ أَوْ فَاجِرًا وَإِنْ عَمِلَ الْكَبَائِرَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: Striving in the path of Allah (jihad) is incumbent on you along with every ruler, whether he is pious or impious; the prayer is obligatory on you behind every believer, pious or impious, even if he commits grave sins; the (funeral) prayer is incumbent upon every Muslim, pious and impious, even if he commits major sins."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا عَبِيدَةُ بْنُ حُمَيْدٍ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ نُبَيْحٍ الْعَنَزِيِّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، حَدَّثَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ أَرَادَ أَنْ يَغْزُوَ فَقَالَ ‏:‏ ‏\n\"‏ يَا مَعْشَرَ الْمُهَاجِرِينَ وَالأَنْصَارِ، إِنَّ مِنْ إِخْوَانِكُمْ قَوْمًا لَيْسَ لَهُمْ مَالٌ وَلاَ عَشِيرَةٌ فَلْيَضُمَّ أَحَدُكُمْ إِلَيْهِ الرَّجُلَيْنِ أَوِ الثَّلاَثَةَ فَمَا لأَحَدِنَا مِنْ ظَهْرٍ يَحْمِلُهُ إِلاَّ عُقْبَةٌ كَعُقْبَةِ ‏\"‏ ‏.‏ يَعْنِي أَحَدِهِمْ ‏.‏ فَضَمَمْتُ إِلَىَّ اثْنَيْنِ أَوْ ثَلاَثَةً، قَالَ ‏:‏ مَا لِي إِلاَّ عُقْبَةٌ كَعُقْبَةِ أَحَدِهِمْ مِنْ جَمَلِي ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Abdullah:",
+        "text": "Once the Messenger of Allah (ﷺ) intended to go on an expedition. He said: O group of the emigrants (Muhajirun) and the helpers (Ansar), among your brethren there are people who have neither property nor family. So one of you should take with him two or three persons; with me. I also rode on my camel by turns like one of them."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا أَسَدُ بْنُ مُوسَى، حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ، حَدَّثَنِي ضَمْرَةُ، أَنَّ ابْنَ زُغْبٍ الإِيَادِيَّ، حَدَّثَهُ قَالَ ‏:‏ نَزَلَ عَلَىَّ عَبْدُ اللَّهِ بْنُ حَوَالَةَ الأَزْدِيُّ فَقَالَ لِي ‏:‏ بَعَثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم لِنَغْنَمَ عَلَى أَقْدَامِنَا فَرَجَعْنَا فَلَمْ نَغْنَمْ شَيْئًا وَعَرَفَ الْجُهْدَ فِي وُجُوهِنَا فَقَامَ فِينَا فَقَالَ ‏:‏ ‏\"‏ اللَّهُمَّ لاَ تَكِلْهُمْ إِلَىَّ فَأَضْعُفَ عَنْهُمْ، وَلاَ تَكِلْهُمْ إِلَى أَنْفُسِهِمْ فَيَعْجِزُوا عَنْهَا، وَلاَ تَكِلْهُمْ إِلَى النَّاسِ فَيَسْتَأْثِرُوا عَلَيْهِمْ ‏\"‏ ‏.‏ ثُمَّ وَضَعَ يَدَهُ عَلَى رَأْسِي - أَوْ قَالَ ‏:‏ عَلَى هَامَتِي - ثُمَّ قَالَ ‏:‏ ‏\"‏ يَا ابْنَ حَوَالَةَ إِذَا رَأَيْتَ الْخِلاَفَةَ قَدْ نَزَلَتْ أَرْضَ الْمُقَدَّسَةِ فَقَدْ دَنَتِ الزَّلاَزِلُ وَالْبَلاَبِلُ وَالأُمُورُ الْعِظَامُ، وَالسَّاعَةُ يَوْمَئِذٍ أَقْرَبُ مِنَ النَّاسِ مِنْ يَدِي هَذِهِ مِنْ رَأْسِكَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ ‏:‏ عَبْدُ اللَّهِ بْنُ حَوَالَةَ حِمْصِيٌّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Hawalah al-Azdi:",
+        "text": "The Messenger of Allah (ﷺ) sent us on foot to get spoil, but we returned without getting any. When he saw the signs of distress on our faces, he stood up on our faces and said: O Allah, do not put them under my care, for I would be too weak to care for them; do not put them in care of themselves, for they would be incapable of that, and do not put them in the care of men, for they would choose the best things for themselves. He then placed his hand on my head and said: Ibn Hawalah, when you see the caliphate has settled in the holy land, earthquakes, sorrows and serious matters will have drawn near and on that day the Last Hour will be nearer to mankind than this hand of mine is to your head.\n\n\nAbu Dawud said: 'Abd Allah b. Hawalah belongs to Hims."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا عَطَاءُ بْنُ السَّائِبِ، عَنْ مُرَّةَ الْهَمْدَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\"‏ عَجِبَ رَبُّنَا مِنْ رَجُلٍ غَزَا فِي سَبِيلِ اللَّهِ فَانْهَزَمَ ‏\"‏ ‏.‏ يَعْنِي أَصْحَابَهُ ‏:‏ ‏\"‏ فَعَلِمَ مَا عَلَيْهِ فَرَجَعَ حَتَّى أُهْرِيقَ دَمُهُ، فَيَقُولُ اللَّهُ تَعَالَى لِمَلاَئِكَتِهِ ‏:‏ انْظُرُوا إِلَى عَبْدِي رَجَعَ رَغْبَةً فِيمَا عِنْدِي وَشَفَقَةً مِمَّا عِنْدِي حَتَّى أُهَرِيقَ دَمُهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Mas'ud:",
+        "text": "The Prophet (ﷺ) said: Our Lord Most High is pleased with a man who fights in the path of Allah, the Exalted; then his companions fled away (i.e. retreated). But he knew that it was a sin (to flee away from the battlefield), so he returned, and his blood was shed. Thereupon Allah, the Exalted, says to His angels: Look at My servant; he returned seeking what I have for him (i.e. the reward), and fearing (the punishment) I have, until his blood was shed."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا مُحَمَّدُ بْنُ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ عَمْرَو بْنَ أُقَيْشٍ، كَانَ لَهُ رِبًا فِي الْجَاهِلِيَّةِ فَكَرِهَ أَنْ يُسْلِمَ حَتَّى يَأْخُذَهُ فَجَاءَ يَوْمَ أُحُدٍ ‏.‏ فَقَالَ ‏:‏ أَيْنَ بَنُو عَمِّي قَالُوا ‏:‏ بِأُحُدٍ ‏.‏ قَالَ ‏:‏ أَيْنَ فُلاَنٌ قَالُوا ‏:‏ بِأُحُدٍ ‏.‏ قَالَ ‏:‏ أَيْنَ فُلاَنٌ قَالُوا ‏:‏ بِأُحُدٍ ‏.‏ فَلَبِسَ لأْمَتَهُ وَرَكِبَ فَرَسَهُ ثُمَّ تَوَجَّهَ قِبَلَهُمْ، فَلَمَّا رَآهُ الْمُسْلِمُونَ قَالُوا ‏:‏ إِلَيْكَ عَنَّا يَا عَمْرُو ‏.‏ قَالَ ‏:‏ إِنِّي قَدْ آمَنْتُ ‏.‏ فَقَاتَلَ حَتَّى جُرِحَ، فَحُمِلَ إِلَى أَهْلِهِ جَرِيحًا، فَجَاءَهُ سَعْدُ بْنُ مُعَاذٍ فَقَالَ لأُخْتِهِ ‏:‏ سَلِيهِ حَمِيَّةً لِقَوْمِكَ أَوْ غَضَبًا لَهُمْ أَمْ غَضَبًا لِلَّهِ فَقَالَ ‏:‏ بَلْ غَضَبًا لِلَّهِ وَلِرَسُولِهِ فَمَاتَ ‏.‏ فَدَخَلَ الْجَنَّةَ وَمَا صَلَّى لِلَّهِ صَلاَةً ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "Amr ibn Uqaysh had given usurious loans in pre-Islamic period; so he disliked to embrace Islam until he took them. He came on the day of Uhud and asked: Where are my cousins? They (the people) replied: At Uhud. He asked: Where is so-and-so? They said: At Uhud. He asked: Where is so-and-so? They said: At Uhud. He then put on his coat of mail and rode his horse; he then proceeded towards them. When the Muslims saw him, they said: Keep away, Amir. He said: I have become a believer. He fought until he was wounded. He was then taken to his family wounded. Sa'd ibn Mu'adh came to his sister: Ask him (whether he fought) out of partisanship, out of anger for them, or out of anger for Allah.  He said: Out of anger of Allah and His Apostle. He then died and entered Paradise. He did not offer any prayer for Allah."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عَبْدُ الرَّحْمَنِ، وَعَبْدُ اللَّهِ بْنُ كَعْبِ بْنِ مَالِكٍ، قَالَ أَبُو دَاوُدَ قَالَ أَحْمَدُ ‏:‏ كَذَا قَالَ هُوَ - يَعْنِي ابْنَ وَهْبٍ - وَعَنْبَسَةُ - يَعْنِي ابْنَ خَالِدٍ - جَمِيعًا عَنْ يُونُسَ قَالَ أَحْمَدُ ‏:‏ وَالصَّوَابُ عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ أَنَّ سَلَمَةَ بْنَ الأَكْوَعِ قَالَ ‏:‏ لَمَّا كَانَ يَوْمُ خَيْبَرَ قَاتَلَ أَخِي قِتَالاً شَدِيدًا، فَارْتَدَّ عَلَيْهِ سَيْفُهُ فَقَتَلَهُ فَقَالَ أَصْحَابُ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي ذَلِكَ - وَشَكُّوا فِيهِ - ‏:‏ رَجُلٌ مَاتَ بِسِلاَحِهِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\"‏ مَاتَ جَاهِدًا مُجَاهِدًا ‏\"‏ ‏.‏ قَالَ ابْنُ شِهَابٍ ‏:‏ ثُمَّ سَأَلْتُ ابْنًا لِسَلَمَةَ بْنِ الأَكْوَعِ فَحَدَّثَنِي عَنْ أَبِيهِ بِمِثْلِ ذَلِكَ، غَيْرَ أَنَّهُ قَالَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\"‏ كَذَبُوا مَاتَ جَاهِدًا مُجَاهِدًا فَلَهُ أَجْرُهُ مَرَّتَيْنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Salamah bin Al Akwa’ said “On the day of the battle of the Khaibar, my brother fought desperately. But his sword fell back on him and killed him. The Companions of the Apostle of Allaah(ﷺ) talked about him and doubted it (his martyrdom) saying “A man who died with his own weapon”. The Apostle of Allaah(ﷺ) said “he died as a warrior striving in the path of Allaah. Ibn Shihab said “I asked the son of Salamah bin Al Akwa’.” He narrated to me on the authority of his father similar to that except that he said “The Apostle of Allaah(ﷺ) said “They told a lie, he died as a warrior striving in the path of Allaah. There is a double reward for him.””"
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ خَالِدٍ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ، عَنْ مُعَاوِيَةَ بْنِ أَبِي سَلاَّمٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ أَبِي سَلاَّمٍ، عَنْ رَجُلٍ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏:‏ أَغَرْنَا عَلَى حَىٍّ مِنْ جُهَيْنَةَ فَطَلَبَ رَجُلٌ مِنَ الْمُسْلِمِينَ رَجُلاً مِنْهُمْ فَضَرَبَهُ فَأَخْطَأَهُ وَأَصَابَ نَفْسَهُ بِالسَّيْفِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\"‏ أَخُوكُمْ يَا مَعْشَرَ الْمُسْلِمِينَ ‏\"‏ ‏.‏ فَابْتَدَرَهُ النَّاسُ فَوَجَدُوهُ قَدْ مَاتَ، فَلَفَّهُ رَسُولُ اللَّهِ صلى الله عليه وسلم بِثِيَابِهِ وَدِمَائِهِ وَصَلَّى عَلَيْهِ وَدَفَنَهُ، فَقَالُوا ‏:‏ يَا رَسُولَ اللَّهِ أَشَهِيدٌ هُوَ قَالَ ‏:‏ ‏\"‏ نَعَمْ، وَأَنَا لَهُ شَهِيدٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuSalam:",
+        "text": "AbuSalam reported on the authority of a man from the companion of the Prophet (ﷺ). He said: We attacked a tribe of Juhaynah. A man from the Muslims pursued a man of them, and struck him but missed him. He struck himself with the sword. The Messenger of Allah (ﷺ) said: Your brother, O group of Muslims. The people hastened towards him, but found him dead. The Messenger of Allah (ﷺ) wrapped him with his clothes and his blood, and offered (funeral) prayer for him and buried him. They said: Messenger of Allah, is he a martyr? He said: Yes, and I am witness to him."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، حَدَّثَنَا مُوسَى بْنُ يَعْقُوبَ الزَّمْعِيُّ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\n\"‏ ثِنْتَانِ لاَ تُرَدَّانِ، أَوْ قَلَّمَا تُرَدَّانِ ‏:‏ الدُّعَاءُ عِنْدَ النِّدَاءِ، وَعِنْدَ الْبَأْسِ حِينَ يُلْحِمُ بَعْضُهُمْ بَعْضًا ‏\"‏ ‏.‏ قَالَ مُوسَى ‏:‏ وَحَدَّثَنِي رِزْقُ بْنُ سَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِي حَازِمٍ عَنْ سَهْلِ بْنِ سَعْدٍ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏:‏ وَوَقْتَ الْمَطَرِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl ibn Sa'd:",
+        "text": "The Prophet (ﷺ) said: Two (prayers) are not rejected, or seldom rejected: Prayer at the time of the call to prayer, and (the prayer) at the time of fighting, when the people grapple with each other. Musa said: Rizq ibn Sa'id ibn AbdurRahman reported from AbuHazim on the authority of Sahl ibn Sa'd from the Prophet (ﷺ) as saying: And while it is raining."
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ خَالِدٍ أَبُو مَرْوَانَ، وَابْنُ الْمُصَفَّى، قَالاَ حَدَّثَنَا بَقِيَّةُ، عَنِ ابْنِ ثَوْبَانَ، عَنْ أَبِيهِ، يَرُدُّ إِلَى مَكْحُولٍ إِلَى مَالِكِ بْنِ يُخَامِرَ أَنَّ مُعَاذَ بْنَ جَبَلٍ، حَدَّثَهُمْ أَنَّهُ، سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏:‏ ‏\"‏ مَنْ قَاتَلَ فِي سَبِيلِ اللَّهِ فُوَاقَ نَاقَةٍ فَقَدْ وَجَبَتْ لَهُ الْجَنَّةُ، وَمَنْ سَأَلَ اللَّهَ الْقَتْلَ مِنْ نَفْسِهِ صَادِقًا ثُمَّ مَاتَ أَوْ قُتِلَ فَإِنَّ لَهُ أَجْرَ شَهِيدٍ ‏\"‏ ‏.‏ زَادَ ابْنُ الْمُصَفَّى مِنْ هُنَا ‏:‏ ‏\"‏ وَمَنْ جُرِحَ جُرْحًا فِي سَبِيلِ اللَّهِ أَوْ نُكِبَ نَكْبَةً فَإِنَّهَا تَجِيءُ يَوْمَ الْقِيَامَةِ كَأَغْزَرِ مَا كَانَتْ، لَوْنُهَا لَوْنُ الزَّعْفَرَانِ، وَرِيحُهَا رِيحُ الْمِسْكِ، وَمَنْ خَرَجَ بِهِ خُرَاجٌ فِي سَبِيلِ اللَّهِ فَإِنَّ عَلَيْهِ طَابَعَ الشُّهَدَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Mu'adh ibn Jabal:",
+        "text": "The Messenger of Allah (ﷺ) said: If anyone fights in Allah's path as long as the time between two milkings of a she-camel, Paradise will be assured for him. If anyone sincerely asks Allah for being killed and then dies or is killed, there will be a reward of a martyr for him. Ibn al-Musaffa added from here: If anyone is wounded in Allah's path, or suffers a misfortune, it will come on the Day of resurrection as copious as possible, its colour saffron, and its odour musk; and if anyone suffers from ulcers while in Allah's path, he will have on him the stamp of the martyrs."
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو تَوْبَةَ، عَنِ الْهَيْثَمِ بْنِ حُمَيْدٍ، ح وَحَدَّثَنَا خُشَيْشُ بْنُ أَصْرَمَ، حَدَّثَنَا أَبُو عَاصِمٍ، جَمِيعًا عَنْ ثَوْرِ بْنِ يَزِيدَ، عَنْ نَصْرٍ الْكِنَانِيِّ، عَنْ رَجُلٍوَقَالَ أَبُو تَوْبَةَ ‏:‏ عَنْ ثَوْرِ بْنِ يَزِيدَ، عَنْ شَيْخٍ، مِنْ بَنِي سُلَيْمٍ عَنْ عُتْبَةَ بْنِ عَبْدٍ السُّلَمِيِّ، - وَهَذَا لَفْظُهُ - أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏:‏ ‏\n\"‏ لاَ تَقُصُّوا نَوَاصِيَ الْخَيْلِ وَلاَ مَعَارِفَهَا وَلاَ أَذْنَابَهَا، فَإِنَّ أَذْنَابَهَا مَذَابُّهَا، وَمَعَارِفَهَا دِفَاؤُهَا، وَنَوَاصِيهَا مَعْقُودٌ فِيهَا الْخَيْرُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Utbah ibn AbdusSulami:",
+        "text": "Utbah heard the Messenger of Allah (ﷺ) say: Do not cut the forelocks, manes, or tails of horse, for their tails are their means of driving flies, their manes provide them with warmth, and blessing is tide to their forelocks."
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا هِشَامُ بْنُ سَعِيدٍ الطَّالْقَانِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ الْمُهَاجِرِ الأَنْصَارِيُّ، حَدَّثَنِي عَقِيلُ بْنُ شَبِيبٍ، عَنْ أَبِي وَهْبٍ الْجُشَمِيِّ، - وَكَانَتْ لَهُ صُحْبَةٌ - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\n\"‏ عَلَيْكُمْ بِكُلِّ كُمَيْتٍ أَغَرَّ مُحَجَّلٍ، أَوْ أَشْقَرَ أَغَرَّ مُحَجَّلٍ، أَوْ أَدْهَمَ أَغَرَّ مُحَجَّلٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuWahb al-Jushami,:",
+        "text": "The Messenger of Allah (ﷺ) said: Keep to every dark bay horse with a white blaze and white on the legs, or sorrel with a white blaze and white on the legs , or black with a white blaze and white on the legs."
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَوْفٍ الطَّائِيُّ، حَدَّثَنَا أَبُو الْمُغِيرَةِ، حَدَّثَنَا مُحَمَّدُ بْنُ مُهَاجِرٍ، حَدَّثَنَا عَقِيلُ بْنُ شَبِيبٍ، عَنْ أَبِي وَهْبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\n\"‏ عَلَيْكُمْ بِكُلِّ أَشْقَرَ أَغَرَّ مُحَجَّلٍ، أَوْ كُمَيْتٍ أَغَرَّ ‏\"‏ ‏.‏ فَذَكَرَ نَحْوَهُ ‏.‏ قَالَ مُحَمَّدٌ - يَعْنِي ابْنَ مُهَاجِرٍ - سَأَلْتُهُ ‏:‏ لِمَ فَضَّلَ الأَشْقَرَ قَالَ ‏:‏ لأَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ سَرِيَّةً فَكَانَ أَوَّلَ مَنْ جَاءَ بِالْفَتْحِ صَاحِبُ أَشْقَرَ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuWahb:",
+        "text": "The Prophet (ﷺ) said: Keep to every sorrel horse with a white blaze and white on the legs, or dark bay with a white blaze. He then  mentioned something similar. Muhammad ibn al-Muhajir said: I asked him: Why was a sorrel horse preferred? He replied: Because the Prophet (ﷺ) had sent a contingent, and the man who first brought the news of victory was the rider of a sorrel horse."
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ مَعِينٍ، حَدَّثَنَا حُسَيْنُ بْنُ مُحَمَّدٍ، عَنْ شَيْبَانَ، عَنْ عِيسَى بْنِ عَلِيٍّ، عَنْ أَبِيهِ، عَنْ جَدِّهِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏\n\"‏ يُمْنُ الْخَيْلِ فِي شُقْرِهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Prophet (ﷺ) said: The most favoured horses are the sorrel."
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ مَرْوَانَ الرَّقِّيُّ، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، عَنْ أَبِي حَيَّانَ التَّيْمِيِّ، حَدَّثَنَا أَبُو زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، ‏:‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُسَمِّي الأُنْثَى مِنَ الْخَيْلِ فَرَسًا ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Messenger of Allah (ﷺ) used to name a mare a horse."
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ سَلْمٍ، - هُوَ ابْنُ عَبْدِ الرَّحْمَنِ - عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم يَكْرَهُ الشِّكَالَ مِنَ الْخَيْلِ ‏.‏ وَالشِّكَالُ ‏:‏ يَكُونُ الْفَرَسُ فِي رِجْلِهِ الْيُمْنَى بَيَاضٌ وَفِي يَدِهِ الْيُسْرَى بَيَاضٌ، أَوْ فِي يَدِهِ الْيُمْنَى وَفِي رِجْلِهِ الْيُسْرَى ‏.‏ قَالَ أَبُو دَاوُدَ ‏:‏ أَىْ مُخَالِفٌ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Hurairah said “The Prophet (ﷺ) disapproved the shikal horses. Shikal are the horses that are white on their right hind leg and white on their left foreleg or white on their right foreleg and left hind leg.\n\n\n\nAbu Dawud said “This means alternate legs”."
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا مِسْكِينٌ، - يَعْنِي ابْنَ بُكَيْرٍ - حَدَّثَنَا مُحَمَّدُ بْنُ مُهَاجِرٍ، عَنْ رَبِيعَةَ بْنِ يَزِيدَ، عَنْ أَبِي كَبْشَةَ السَّلُولِيِّ، عَنْ سَهْلِ ابْنِ الْحَنْظَلِيَّةِ، قَالَ ‏:‏ مَرَّ رَسُولُ اللَّهِ صلى الله عليه وسلم بِبَعِيرٍ قَدْ لَحِقَ ظَهْرُهُ بِبَطْنِهِ، فَقَالَ ‏:‏ ‏\n\"‏ اتَّقُوا اللَّهَ فِي هَذِهِ الْبَهَائِمِ الْمُعْجَمَةِ فَارْكَبُوهَا وَكُلُوهَا صَالِحَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl ibn al-Hanzaliyyah:",
+        "text": "The Messenger of Allah (ﷺ) came upon an emaciated camel and said: Fear Allah regarding these dumb animals. Ride them when they are in good condition and feed them when they are in good condition."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 15,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا مَهْدِيٌّ، حَدَّثَنَا ابْنُ أَبِي يَعْقُوبَ، عَنِ الْحَسَنِ بْنِ سَعْدٍ، مَوْلَى الْحَسَنِ بْنِ عَلِيٍّ عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ، قَالَ ‏:‏ أَرْدَفَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم خَلْفَهُ ذَاتَ يَوْمٍ فَأَسَرَّ إِلَىَّ حَدِيثًا لاَ أُحَدِّثُ بِهِ أَحَدًا مِنَ النَّاسِ، وَكَانَ أَحَبُّ مَا اسْتَتَرَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم لِحَاجَتِهِ هَدَفًا أَوْ حَائِشَ نَخْلٍ ‏.‏ قَالَ ‏:‏ فَدَخَلَ حَائِطًا لِرَجُلٍ مِنَ الأَنْصَارِ فَإِذَا جَمَلٌ فَلَمَّا رَأَى النَّبِيَّ صلى الله عليه وسلم حَنَّ وَذَرَفَتْ عَيْنَاهُ، فَأَتَاهُ النَّبِيُّ صلى الله عليه وسلم فَمَسَحَ ذِفْرَاهُ فَسَكَتَ، فَقَالَ ‏:‏ ‏\"‏ مَنْ رَبُّ هَذَا الْجَمَلِ، لِمَنْ هَذَا الْجَمَلُ ‏\"‏ ‏.‏ فَجَاءَ فَتًى مِنَ الأَنْصَارِ فَقَالَ ‏:‏ لِي يَا رَسُولَ اللَّهِ ‏.‏ فَقَالَ ‏:‏ ‏\"‏ أَفَلاَ تَتَّقِي اللَّهَ فِي هَذِهِ الْبَهِيمَةِ الَّتِي مَلَّكَكَ اللَّهُ إِيَّاهَا، فَإِنَّهُ شَكَى إِلَىَّ أَنَّكَ تُجِيعُهُ وَتُدْئِبُهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "‘Abd Allaah bin Jafar said “The Apostle of Allaah(ﷺ) seated me behind him(on his ride) one day, and told me secretly a thing asking me not to tell it to anyone. The place for easing dearer to the Apostle of Allaah(ﷺ) was a mound or host of palm trees by which he could conceal himself. He entered the garden of a man from the Ansar(Helpers). All of a sudden when a Camel saw the Prophet (ﷺ) it wept tenderly producing yearning sound and it eyes flowed. The Prophet (ﷺ) came to it and wiped the temple of its head. So it kept silence. He then said “Who is the master of this Camel? Whose Camel is this? A young man from the Ansar came and said “This is mine, Apostle of Allaah(ﷺ).” He said “Don’t you fear Allaah about this beast which Allaah has given in your possession. It has complained to me that you keep it hungry and load it heavily which fatigues it.”"
+      }
+    }
+  ]
+}

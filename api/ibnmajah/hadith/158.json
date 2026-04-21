@@ -1,0 +1,16 @@
+{
+  "id": 158,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ اهْتَزَّ عَرْشُ اللَّهِ عَزَّ وَجَلَّ لِمَوْتِ سَعْدِ بْنِ مُعَاذٍ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Jabir said:",
+    "text": "\"The Messenger of Allah said: 'The Throne of The Most Merciful trembled upon the death of Sa'd bin Mu'adh.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

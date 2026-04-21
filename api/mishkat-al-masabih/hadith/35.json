@@ -1,0 +1,16 @@
+{
+  "id": 35,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ احْتَجَمَ لِسَبْعَ عَشْرَةَ وَتِسْعَ عَشْرَةَ وَإِحْدَى وَعِشْرِينَ كَانَ شِفَاءً لَهُ مِنْ كُلِّ دَاء» . رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "",
+    "text": "Abu Huraira reported God’s messenger as saying, “If anyone has himself cupped on the 17th, 19th, and 21st, it will be a remedy for every disease.” \n\nAbu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

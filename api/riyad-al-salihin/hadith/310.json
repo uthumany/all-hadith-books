@@ -1,0 +1,16 @@
+{
+  "id": 310,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة رضي الله عنها قالت‏:‏ قلت‏:‏ يارسول الله إن لي جارين، فإلى أيهما أُهْدِي‏؟‏ قال‏:‏ ‏\n\"‏ إلى أقربهما منك بابًا‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
+    "text": "I said, \"O Messenger of Allah (ﷺ), I have two neighbours, to which of them should I send a present?\" He (ﷺ) replied, \"To the one whose door is nearer to you\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

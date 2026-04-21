@@ -1,0 +1,16 @@
+{
+  "id": 665,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم  “اسمعوا وأطيعوا، وإن استعمل عليكم عبد حبشي، كأن رأسه زبيبة” ‏(‏‏(‏رواه البخارى‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported:",
+    "text": "The Messenger of Allah (ﷺ) said, \"Hear and obey even if an Abyssinian slave whose head is like a raisin is placed in authority over you.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

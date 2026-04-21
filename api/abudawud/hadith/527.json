@@ -1,0 +1,16 @@
+{
+  "id": 527,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الرَّبِيعُ بْنُ نَافِعٍ، حَدَّثَنَا مُعَاوِيَةُ، - يَعْنِي ابْنَ سَلاَّمٍ - عَنْ زَيْدٍ، أَنَّهُ سَمِعَ أَبَا سَلاَّمٍ، قَالَ حَدَّثَنِي السَّلُولِيُّ، - هُوَ أَبُو كَبْشَةَ - عَنْ سَهْلِ ابْنِ الْحَنْظَلِيَّةِ، قَالَ ثُوِّبَ بِالصَّلاَةِ - يَعْنِي صَلاَةَ الصُّبْحِ - فَجَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي وَهُوَ يَلْتَفِتُ إِلَى الشِّعْبِ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَانَ أَرْسَلَ فَارِسًا إِلَى الشِّعْبِ مِنَ اللَّيْلِ يَحْرُسُ ‏.‏",
+  "english": {
+    "narrator": "Narrated Sahl ibn al-Hanzaliyyah:",
+    "text": "The iqamah for the morning prayer was pronounced and the Messenger of Allah (ﷺ) began to offer prayer while he was looking at the mountain-pass. \n\n\n\n\n\n(AbuDawud elaborated that the Prophet had sent a horseman to the mountain-pass at night in order to keep watch.)"
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

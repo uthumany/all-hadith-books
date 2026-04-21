@@ -1,0 +1,16 @@
+{
+  "id": 137,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا ابْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سُفْيَانُ، عَنْ حَبِيبٍ، عَنْ عَطَاءٍ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ سُرِقَ لَهَا شَىْءٌ فَجَعَلَتْ تَدْعُو عَلَيْهِ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تُسَبِّخِي عَنْهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Aisha, Ummul Mu'minin:",
+    "text": "Something of her was stolen, and she began to curse him (i.e. the thief). The Messenger of Allah (ﷺ) said to her: Do not lessen his sin."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

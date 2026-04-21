@@ -1,0 +1,16 @@
+{
+  "id": 147,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ سَالِمٍ، عَنْ أُمِّ الدَّرْدَاءِ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَلاَ أُخْبِرُكُمْ بِأَفْضَلَ مِنْ دَرَجَةِ الصِّيَامِ وَالصَّلاَةِ وَالصَّدَقَةِ ‏\"‏ ‏.‏ قَالُوا بَلَى ‏.‏ قَالَ ‏\"‏ إِصْلاَحُ ذَاتِ الْبَيْنِ وَفَسَادُ ذَاتِ الْبَيْنِ الْحَالِقَةُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbudDarda':",
+    "text": "The Prophet (ﷺ) said: Shall I not inform you of something more excellent in degree than fasting, prayer and almsgiving (sadaqah)? The people replied: Yes, Prophet of Allah! He said: It is putting things right between people, spoiling them is the shaver (destructive)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

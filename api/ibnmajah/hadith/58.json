@@ -1,0 +1,16 @@
+{
+  "id": 58,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا سَهْلُ بْنُ أَبِي سَهْلٍ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ سَمِعَ النَّبِيُّ ـ صلى الله عليه وسلم ـ رَجُلاً يَعِظُ أَخَاهُ فِي الْحَيَاءِ فَقَالَ ‏\n\"‏ إِنَّ الْحَيَاءَ شُعْبَةٌ مِنَ الإِيمَانِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Salim that his father said:",
+    "text": "\"The Messenger of Allah (ﷺ) said heard a man urging his brother to be modest. He said: 'Indeed modesty is a branch of faith.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

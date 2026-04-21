@@ -1,0 +1,16 @@
+{
+  "id": 506,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة رضي الله عنها قالت‏:‏ كان فراش رسول الله صلى الله عليه وسلم من أدم حشوه ليف‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
+    "text": "The mattress of Messenger of Allah (ﷺ) was a piece of tanned skin stuffed with palm fibres.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

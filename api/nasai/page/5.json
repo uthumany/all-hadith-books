@@ -1,0 +1,510 @@
+{
+  "page": 5,
+  "perPage": 50,
+  "totalPages": 116,
+  "totalCount": 5768,
+  "nextPage": 6,
+  "prevPage": 4,
+  "items": [
+    {
+      "id": 201,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدَةُ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَاءُ الرَّجُلِ غَلِيظٌ أَبْيَضُ وَمَاءُ الْمَرْأَةِ رَقِيقٌ أَصْفَرُ فَأَيُّهُمَا سَبَقَ كَانَ الشَّبَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "\"The Messenger of Allah (ﷺ) said: 'The man's water is thick and white, and the woman's water is thin and yellow. Whichever of them comes first, the child will resemble (that parent).'\""
+      }
+    },
+    {
+      "id": 202,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عِمْرَانُ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ الْعَدَوِيُّ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنِي هِشَامُ بْنُ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ، مِنْ بَنِي أَسَدِ قُرَيْشٍ أَنَّهَا أَتَتِ النَّبِيَّ صلى الله عليه وسلم فَذَكَرَتْ أَنَّهَا تُسْتَحَاضُ فَزَعَمَتْ أَنَّهُ قَالَ لَهَا ‏\n\"‏ إِنَّمَا ذَلِكِ عِرْقٌ فَإِذَا أَقْبَلَتِ الْحَيْضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْسِلِي عَنْكِ الدَّمَ ثُمَّ صَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Fatimah bint Qais from Banu Asad Quraish that she came to the Prophet (ﷺ) and mentioned that she suffered from Istihadah (non-menstrual vaginal bleeding). She said that he said to her:",
+        "text": "\"That is (bleeding from) a vein, so when the time of menstruation comes, stop praying, and when it goes, then wash the blood from yourself then pray.\""
+      }
+    },
+    {
+      "id": 203,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هِشَامُ بْنُ عَمَّارٍ، قَالَ حَدَّثَنَا سَهْلُ بْنُ هَاشِمٍ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا أَقْبَلَتِ الْحَيْضَةُ فَاتْرُكِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْتَسِلِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that the Prophet (ﷺ) said:",
+        "text": "\"When the time of menstruation comes, stop praying, and when it goes, perform Ghusl.\""
+      }
+    },
+    {
+      "id": 204,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عِمْرَانُ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنَا الزُّهْرِيُّ، عَنْ عُرْوَةَ، وَعَمْرَةَ، عَنْ عَائِشَةَ، قَالَتِ اسْتُحِيضَتْ أُمُّ حَبِيبَةَ بِنْتُ جَحْشٍ سَبْعَ سِنِينَ فَاشْتَكَتْ ذَلِكَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ هَذِهِ لَيْسَتْ بِالْحَيْضَةِ وَلَكِنْ هَذَا عِرْقٌ فَاغْتَسِلِي ثُمَّ صَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"Umm Habibah bint Jahsh suffered Istihadah (non-menstrual vaginal bleeding) for seven years. She complained about that to the Messenger of Allah (ﷺ) and the Messenger of Allah (ﷺ) said: 'That is not menstruation; rather that is (bleeding from) a vein, so perform Ghusl then pray.'\""
+      }
+    },
+    {
+      "id": 205,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ بْنِ دَاوُدَ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا الْهَيْثَمُ بْنُ حُمَيْدٍ، قَالَ أَخْبَرَنِي النُّعْمَانُ، وَالأَوْزَاعِيُّ، وَأَبُو مُعَيْدٍ - وَهُوَ حَفْصُ بْنُ غَيْلاَنَ - عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، وَعَمْرَةُ بِنْتُ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ، قَالَتِ اسْتُحِيضَتْ أُمُّ حَبِيبَةَ بِنْتُ جَحْشٍ امْرَأَةُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ وَهِيَ أُخْتُ زَيْنَبَ بِنْتِ جَحْشٍ فَاسْتَفْتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ هَذِهِ لَيْسَتْ بِالْحَيْضَةِ وَلَكِنْ هَذَا عِرْقٌ فَإِذَا أَدْبَرَتِ الْحَيْضَةُ فَاغْتَسِلِي وَصَلِّي وَإِذَا أَقْبَلَتْ فَاتْرُكِي لَهَا الصَّلاَةَ ‏\"‏ ‏.‏ قَالَتْ عَائِشَةُ فَكَانَتْ تَغْتَسِلُ لِكُلِّ صَلاَةٍ وَتُصَلِّي وَكَانَتْ تَغْتَسِلُ أَحْيَانًا فِي مِرْكَنٍ فِي حُجْرَةِ أُخْتِهَا زَيْنَبَ وَهِيَ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم حَتَّى أَنَّ حُمْرَةَ الدَّمِ لَتَعْلُو الْمَاءَ وَتَخْرُجُ فَتُصَلِّي مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَمَا يَمْنَعُهَا ذَلِكَ مِنَ الصَّلاَةِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"Umm Habibah bint Jahsh- the wife of 'Abdur-Rahman bin 'Awf and the sister of Zainab bint Jahsh - suffered Istihadah (non-mentrual vaginal bleeding).\" She said: \"She consulted the Messenger of Allah (ﷺ) and the Messenger of Allah (ﷺ) said to her: 'That is not menstruation, rather that is a vein. When you period goes, perform Ghusl and pray, and when it comes, stop praying (for that period).'\" 'Aishah said: \"She used to perform Ghusl for every prayer and pray. Sometimes she would perform Ghusl in a washtub in the room of her sister Zainab when she was with the Messenger of Allah (ﷺ) and the water would turn red with blood, then she would go out and pray with the Messenger of Allah (ﷺ). That did not stop her from praying.\""
+      }
+    },
+    {
+      "id": 206,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، وَعَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ، - خَتَنَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَتَحْتَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ - اسْتُحِيضَتْ سَبْعَ سِنِينَ اسْتَفْتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فِي ذَلِكَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ هَذِهِ لَيْسَتْ بِالْحَيْضَةِ وَلَكِنْ هَذَا عِرْقٌ فَاغْتَسِلِي وَصَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah (may Allah be pleased with her) that Umm Habibah, an in-law of the Messenger of Allah (ﷺ), who was married to 'Abdur-Rahman bin 'Awf, suffered Istihadah (non-menstrual vaginal bleeding) for seven years. She consulted the Prophet (ﷺ) about that and the Messenger of Allah (ﷺ) said:",
+        "text": "'That is not menstruation, rather that is a vein, so perform Ghusl and pray.'\""
+      }
+    },
+    {
+      "id": 207,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتِ اسْتَفْتَتْ أُمُّ حَبِيبَةَ بِنْتُ جَحْشٍ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي أُسْتَحَاضُ ‏.‏ فَقَالَ ‏\n\"‏ إِنَّمَا ذَلِكِ عِرْقٌ فَاغْتَسِلِي وَصَلِّي ‏\"‏ ‏.‏ فَكَانَتْ تَغْتَسِلُ لِكُلِّ صَلاَةٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"Umm Habibah bint Jahsh consulted the Messenger of Allah (ﷺ) and said: 'O Messenger of Allah, I suffer from Istihadah (non-menstrual vaginal bleeding).' He said: 'That is a vein, so perform Ghusl and pray.' And she used to perform Ghusl for every prayer.\""
+      }
+    },
+    {
+      "id": 208,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنْ عِرَاكِ بْنِ مَالِكٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ، سَأَلَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الدَّمِ - قَالَتْ عَائِشَةُ رضى الله عنها رَأَيْتُ مِرْكَنَهَا مَلآنَ دَمًا - فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ امْكُثِي قَدْرَ مَا كَانَتْ تَحْبِسُكِ حَيْضَتُكِ ثُمَّ اغْتَسِلِي ‏\"‏ ‏.‏   \n أَخْبَرَنَا قُتَيْبَةُ، مَرَّةً أُخْرَى وَلَمْ يَذْكُرْ جَعْفَرًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that Umm Habibah asked the Messenger of Allah (ﷺ) about bleeding. 'Aishah said:",
+        "text": "\"I saw her wash tub filled with blood. The Messenger of Allah (ﷺ) said to her: 'Stop (praying) for as long as your period prevents you, then perform Ghusl.'\"\n(Another chain)"
+      }
+    },
+    {
+      "id": 209,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أُمِّ سَلَمَةَ، تَعْنِي أَنَّ امْرَأَةً، كَانَتْ تُهَرَاقُ الدَّمَ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَاسْتَفْتَتْ لَهَا أُمُّ سَلَمَةَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ لِتَنْظُرْ عَدَدَ اللَّيَالِي وَالأَيَّامِ الَّتِي كَانَتْ تَحِيضُ مِنَ الشَّهْرِ قَبْلَ أَنْ يُصِيبَهَا الَّذِي أَصَابَهَا فَلْتَتْرُكِ الصَّلاَةَ قَدْرَ ذَلِكَ مِنَ الشَّهْرِ فَإِذَا خَلَّفَتْ ذَلِكَ فَلْتَغْتَسِلْ ثُمَّ لْتَسْتَثْفِرْ ثُمَّ لْتُصَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Umm Salamah that a woman suffered constant bleeding at the time of the Messenger of Allah (ﷺ), so Umm Salamah consulted the Prophet (ﷺ) for her. He said:",
+        "text": "\"Let her count the number of nights and says that she used to menstruate each month before this happened to her, and let her stop praying for that amount of time each month. Then when that is over let her perform Ghusl, then let her use a pad, and pray.\""
+      }
+    },
+    {
+      "id": 210,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ بْنِ دَاوُدَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا إِسْحَاقُ بْنُ بَكْرٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ بِنْتَ جَحْشٍ الَّتِي، كَانَتْ تَحْتَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ وَأَنَّهَا اسْتُحِيضَتْ لاَ تَطْهُرْ فَذُكِرَ شَأْنُهَا لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ إِنَّهَا لَيْسَتْ بِالْحَيْضَةِ وَلَكِنَّهَا رَكْضَةٌ مِنَ الرَّحِمِ فَلْتَنْظُرْ قَدْرَ قُرْئِهَا الَّتِي كَانَتْ تَحِيضُ لَهَا فَلْتَتْرُكِ الصَّلاَةَ ثُمَّ تَنْظُرْ مَا بَعْدَ ذَلِكَ فَلْتَغْتَسِلْ عِنْدَ كُلِّ صَلاَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that Umm Habibah bint Jahsh who was married to 'Abdur-Rahman bin 'Awf suffered from Istihadah (non-mentrual vaginal bleeding) and did not become pure. Her situation was mentioned to the Messenger of Allah (ﷺ) and he said:",
+        "text": "'That is not menstruation, rather it is a kick  in the womb, so let her work out the length of the menses that she used to have, and stop praying (for that period of tie), then after that period of time), then after that let her perform Ghusl for every prayer.'\"\n\n A kick in the womb: in other narrations means \"A kick from Shaitan,\", meaning that the Shaitan uses it to confuse her about her religious commitment."
+      }
+    },
+    {
+      "id": 211,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ بِنْتَ جَحْشٍ، كَانَتْ تُسْتَحَاضُ سَبْعَ سِنِينَ فَسَأَلَتِ النَّبِيَّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ لَيْسَتْ بِالْحَيْضَةِ إِنَّمَا هُوَ عِرْقٌ ‏\"‏ ‏.‏ فَأَمَرَهَا أَنْ تَتْرُكَ الصَّلاَةَ قَدْرَ أَقْرَائِهَا وَحَيْضَتِهَا وَتَغْتَسِلَ وَتُصَلِّيَ فَكَانَتْ تَغْتَسِلُ عِنْدَ كُلِّ صَلاَةٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that Umm Habibah bint Jahsh used to suffer from Istihadah (non-menstrual vaginal bleeding) for seven years. She asked the Prophet (ﷺ) and he said:",
+        "text": "\"That is not menstruation, rather it is a vein. Tell her not to pray for the amount of time that her period used to last, then let her perform Ghusl and pray.' She used to perform Ghusl for every prayer."
+      }
+    },
+    {
+      "id": 212,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عِيسَى بْنُ حَمَّادٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ، عَنِ الْمُنْذِرِ بْنِ الْمُغِيرَةِ، عَنْ عُرْوَةَ، أَنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ، حَدَّثَتْ أَنَّهَا، أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَشَكَتْ إِلَيْهِ الدَّمَ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّمَا ذَلِكِ عِرْقٌ فَانْظُرِي إِذَا أَتَاكِ قُرْؤُكِ فَلاَ تُصَلِّي فَإِذَا مَرَّ قُرْؤُكِ فَتَطَهَّرِي ثُمَّ صَلِّي مَا بَيْنَ الْقُرْءِ إِلَى الْقُرْءِ ‏\"‏ هَذَا الدَّلِيلُ عَلَى أَنَّ الأَقْرَاءَ حِيَضٌ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ وَقَدْ رَوَى هَذَا الْحَدِيثَ هِشَامُ بْنُ عُرْوَةَ عَنْ عُرْوَةَ وَلَمْ يَذْكُرْ فِيهِ مَا ذَكَرَ الْمُنْذِرُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Urwah that Fatimah bint Abi Hubaish narrated that she came to the Messenger of Allah (ﷺ) and complained to him about bleeding. The Messenger of Allah (ﷺ) said to her:",
+        "text": "\"That is a vein, so when your period comes, do not pray, and when your period is over, purify yourself and pray in between one period and the next.\"\nThis is evidence that Al-Aqra' is menstruation. Abu 'Abdur-Rahman said: Hisham bin 'Urwah reported this Hadith from 'Urwah, and he did not mention what Al-Mundhir mentioned in it."
+      }
+    },
+    {
+      "id": 213,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَخْبَرَنَا عَبْدَةُ، وَوَكِيعٌ، وَأَبُو مُعَاوِيَةَ قَالُوا حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ جَاءَتْ فَاطِمَةُ بِنْتُ أَبِي حُبَيْشٍ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ إِنِّي امْرَأَةٌ أُسْتَحَاضُ فَلاَ أَطْهُرُ أَفَأَدَعُ الصَّلاَةَ قَالَ ‏\n\"‏ لاَ إِنَّمَا ذَلِكِ عِرْقٌ وَلَيْسَ بِالْحَيْضَةِ فَإِذَا أَقْبَلَتِ الْحَيْضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْسِلِي عَنْكِ الدَّمَ وَصَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "Fatimah bint Abi Hubaish came to the Messenger of Allah (ﷺ) and said: \"I am a woman who suffers from Istihadah (non-menstrual vaginal bleeding) and I never become pure. Should I stop praying?\" He said: \"No, that is a vein, it is not menstruation. When you period comes, stop praying, and when it goes, wash the blood from yourself and pray.\""
+      }
+    },
+    {
+      "id": 214,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ امْرَأَةً، مُسْتَحَاضَةً عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم قِيلَ لَهَا إِنَّهُ عِرْقٌ عَانِدٌ فَأُمِرَتْ أَنْ تُؤَخِّرَ الظُّهْرَ وَتُعَجِّلَ الْعَصْرَ وَتَغْتَسِلَ لَهُمَا غُسْلاً وَاحِدًا وَتُؤَخِّرَ الْمَغْرِبَ وَتُعَجِّلَ الْعِشَاءَ وَتَغْتَسِلَ لَهُمَا غُسْلاً وَاحِدًا وَتَغْتَسِلَ لِصَلاَةِ الصُّبْحِ غُسْلاً وَاحِدًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was narrated from 'Aishah that a woman who suffered from Istihadah during the time of the Messenger of Allah (ﷺ) was told that it was a stubborn vein (i.e., one that would not stop bleeding). She was told to delay Zuhr and bring 'Asr forward, and to perform one Ghusl for both, and to delay Maghrib and bring 'Isha' forward, and to perform one Ghusl for both, and to perform one Ghusl for Subh."
+      }
+    },
+    {
+      "id": 215,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، فِي حَدِيثِ أَسْمَاءَ بِنْتِ عُمَيْسٍ حِينَ نُفِسَتْ بِذِي الْحُلَيْفَةِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لأَبِي بَكْرٍ ‏\n\"‏ مُرْهَا أَنْ تَغْتَسِلَ وَتُهِلَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir bin 'Abdullah, in the Hadith of Asma' bint 'Umair, when she gave birth in Dhul-Hulaifah, that the Messenger of Allah (ﷺ) said to Abu Bakr:",
+        "text": "\"Tell her to perform Ghusl and enter Ihram.\""
+      }
+    },
+    {
+      "id": 216,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ مُحَمَّدٍ، - وَهُوَ ابْنُ عَمْرِو بْنِ عَلْقَمَةَ بْنِ وَقَّاصٍ - عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ فَاطِمَةَ بِنْتِ أَبِي حُبَيْشٍ، أَنَّهَا كَانَتْ تُسْتَحَاضُ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا كَانَ دَمُ الْحَيْضِ - فَإِنَّهُ دَمٌ أَسْوَدُ يُعْرَفُ - فَأَمْسِكِي عَنِ الصَّلاَةِ فَإِذَا كَانَ الآخَرُ فَتَوَضَّئِي فَإِنَّمَا هُوَ عِرْقٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Fatimah bint Abi Hubaish that she suffered from Istihadah and the Messenger of Allah (ﷺ) said to her:",
+        "text": "\"If it is menstrual blood then it is blood that is black and recognizable, so stop praying, and if it is other than that then perform Wudu', for it is just a vein.\""
+      }
+    },
+    {
+      "id": 217,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "قَالَ أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، هَذَا مِنْ كِتَابِهِ أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، مِنْ حِفْظِهِ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ، كَانَتْ تُسْتَحَاضُ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ دَمَ الْحَيْضِ دَمٌ أَسْوَدُ يُعْرَفُ فَإِذَا كَانَ ذَلِكِ فَأَمْسِكِي عَنِ الصَّلاَةِ وَإِذَا كَانَ الآخَرُ فَتَوَضَّئِي وَصَلِّي ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ قَدْ رَوَى هَذَا الْحَدِيثَ غَيْرُ وَاحِدٍ لَمْ يَذْكُرْ أَحَدٌ مِنْهُمْ مَا ذَكَرَهُ ابْنُ أَبِي عَدِيٍّ وَاللَّهُ تَعَالَى أَعْلَمُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that Fatimah bint Abi Hubaish suffered from Istihadah (non-menstrual vaginal bleeding). The Messenger of Allah (ﷺ) said to her:",
+        "text": "\"Menstrual blood is blood that is black and recognizable, so if it is like that, then stop praying, and if it is otherwise, then perform Wudu' and pray.\"\nAbu 'Abdur-Rahman said: Others reported this Hadith, and none of them mentioned what Ibn Abi 'Adi mentioned. And Allah Most High, knows best."
+      }
+    },
+    {
+      "id": 218,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، قَالَ حَدَّثَنَا حَمَّادٌ، - وَهُوَ ابْنُ زَيْدٍ - عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتِ اسْتُحِيضَتْ فَاطِمَةُ بِنْتُ أَبِي حُبَيْشٍ فَسَأَلَتِ النَّبِيَّ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي أُسْتَحَاضُ فَلاَ أَطْهُرُ أَفَأَدَعُ الصَّلاَةَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّمَا ذَلِكِ عِرْقٌ وَلَيْسَتْ بِالْحَيْضَةِ فَإِذَا أَقْبَلَتِ الْحَيْضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْسِلِي عَنْكِ أَثَرَ الدَّمِ وَتَوَضَّئِي فَإِنَّمَا ذَلِكِ عِرْقٌ وَلَيْسَتْ بِالْحَيْضَةِ ‏\"‏ ‏.‏ قِيلَ لَهُ فَالْغُسْلُ قَالَ ‏\"‏ ذَلِكَ لاَ يَشُكُّ فِيهِ أَحَدٌ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ لاَ أَعْلَمُ أَحَدًا ذَكَرَ فِي هَذَا الْحَدِيثِ ‏\"‏ وَتَوَضَّئِي ‏\"‏ ‏.‏ غَيْرَ حَمَّادِ بْنِ زَيْدٍ وَقَدْ رَوَى غَيْرُ وَاحِدٍ عَنْ هِشَامٍ وَلَمْ يَذْكُرْ فِيهِ ‏\"‏ وَتَوَضَّئِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"Fatimah bint Abi Hubaish suffered from Istihadah and she asked the Prophet (ﷺ): 'O Messenger of Allah, I suffer from Istihadah and I do not become pure; should I stop praying?' The Messenger of Allah (ﷺ) said: 'That is a vein and is not menstruation. When your period comes, stop praying, and when it goes wash the traces of blood from yourself and perform Wudu'. That is a vein and is not menstruation.'\" It was said to him: \"What about Ghusl?' He (ﷺ) said: \"no one doubts that.\"\nAbu 'Abdur-Rahman said: \"I do not know anyone who mentioned 'and perform Wudu' in this Hadith except Hammad bin Zaid, for some others have reported it from Hisham, and they did not mention 'and perform Wudu' in it.\""
+      }
+    },
+    {
+      "id": 219,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ قَالَتْ فَاطِمَةُ بِنْتُ أَبِي حُبَيْشٍ يَا رَسُولَ اللَّهِ لاَ أَطْهُرُ أَفَأَدَعُ الصَّلاَةَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّمَا ذَلِكِ عِرْقٌ وَلَيْسَتْ بِالْحَيْضَةِ فَإِذَا أَقْبَلَتِ الْحَيْضَةُ فَدَعِي الصَّلاَةَ فَإِذَا ذَهَبَ قَدْرُهَا فَاغْسِلِي عَنْكِ الدَّمَ وَصَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"Fatimah bint Abi Hubaish said to the Messenger of Allah (ﷺ): 'O Messenger of Allah (ﷺ), I do not become pure. Should I stop praying? The Messenger of Allah (ﷺ) said: 'That is a vein and is not menstruation. When your period comes, stop praying, and when the same amount of time as your regular period has passed, then wash the blood from yourself and pray.'\""
+      }
+    },
+    {
+      "id": 220,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَبُو الأَشْعَثِ، قَالَ حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، قَالَ سَمِعْتُ هِشَامَ بْنَ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ بِنْتَ أَبِي حُبَيْشٍ، قَالَتْ يَا رَسُولَ اللَّهِ إِنِّي لاَ أَطْهُرُ أَفَأَتْرُكُ الصَّلاَةَ قَالَ ‏\"‏ لاَ إِنَّمَا هُوَ عِرْقٌ ‏\"‏ ‏.‏ قَالَ خَالِدٌ فِيمَا قَرَأْتُ عَلَيْهِ ‏\"‏ وَلَيْسَتْ بِالْحَيْضَةِ فَإِذَا أَقْبَلَتِ الْحَيْضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْسِلِي عَنْكِ الدَّمَ وَصَلِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that the daughter of Abu Hubaish said:",
+        "text": "\"O Messenger of Allah, I do not become pure, so should I stop praying?\" He said: \"No, that is a vein.\" Khalid said, in what I read from him,  \"And it is not menstruation, so when your period comes, stop praying, and when it goes, wash the blood from yourself and pray.\"\n Meaning, before Hisham, from whom he narrates it."
+      }
+    },
+    {
+      "id": 221,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُلَيْمَانُ بْنُ دَاوُدَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنْ بُكَيْرٍ، أَنَّ أَبَا السَّائِبِ، أَخْبَرَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَغْتَسِلْ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ وَهُوَ جُنُبٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah said:",
+        "text": "\"The Messenger of Allah (ﷺ) said: 'None of you should perform Ghusl in standing water when he is Junub.'\""
+      }
+    },
+    {
+      "id": 222,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ الْمُقْرِئُ، عَنْ سُفْيَانَ، عَنْ أَبِي الزِّنَادِ، عَنْ مُوسَى بْنِ أَبِي عُثْمَانَ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَبُولَنَّ أَحَدُكُمْ فِي الْمَاءِ الرَّاكِدِ ثُمَّ يَغْتَسِلُ مِنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+        "text": "\"None of you should urinate into still water and then perform Ghusl from it.\""
+      }
+    },
+    {
+      "id": 223,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ هِشَامٍ، قَالَ حَدَّثَنَا مَخْلَدٌ، عَنْ سُفْيَانَ، عَنْ أَبِي الْعَلاَءِ، عَنْ عُبَادَةَ بْنِ نُسَىٍّ، عَنْ غُضَيْفِ بْنِ الْحَارِثِ، أَنَّهُ سَأَلَ عَائِشَةَ - رضى الله عنها - أَىُّ اللَّيْلِ كَانَ يَغْتَسِلُ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَتْ رُبَّمَا اغْتَسَلَ أَوَّلَ اللَّيْلِ وَرُبَّمَا اغْتَسَلَ آخِرَهُ ‏.‏ قُلْتُ الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ فِي الأَمْرِ سَعَةً ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ghudaif bin Al-Harith that he asked 'Aishah in which part of the night would the Messenger of Allah (ﷺ) perform Ghusl? She said:",
+        "text": "\"Sometimes he performed Ghusl at the beginning of the night and sometimes he performed Ghusl at the end.\" I said: \"Praise be to Allah Who has made the matter flexible.\""
+      }
+    },
+    {
+      "id": 224,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ بُرْدٍ، عَنْ عُبَادَةَ بْنِ نُسَىٍّ، عَنْ غُضَيْفِ بْنِ الْحَارِثِ، قَالَ دَخَلْتُ عَلَى عَائِشَةَ رضى الله عنها فَسَأَلْتُهَا قُلْتُ أَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَغْتَسِلُ مِنْ أَوَّلِ اللَّيْلِ أَوْ مِنْ آخِرِهِ قَالَتْ كُلَّ ذَلِكَ رُبَّمَا اغْتَسَلَ مِنْ أَوَّلِهِ وَرُبَّمَا اغْتَسَلَ مِنْ آخِرِهِ ‏.‏ قُلْتُ الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ فِي الأَمْرِ سَعَةً ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ghudaif bin Al-Harith said:",
+        "text": "\"I entered upon 'Aishah and asked her: 'Did the Messenger of Allah (ﷺ) perform Ghusl at the beginning of the night or at the end?' She said: 'Both. Sometimes he performed Ghusl at the beginning and sometimes at the end.' I said: 'Praise be to Allah who has made the matter flexible.'\""
+      }
+    },
+    {
+      "id": 225,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُجَاهِدُ بْنُ مُوسَى، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ حَدَّثَنِي يَحْيَى بْنُ الْوَلِيدِ، قَالَ حَدَّثَنِي مُحِلُّ بْنُ خَلِيفَةَ، قَالَ حَدَّثَنِي أَبُو السَّمْحِ، قَالَ كُنْتُ أَخْدُمُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَكَانَ إِذَا أَرَادَ أَنْ يَغْتَسِلَ قَالَ ‏\n\"‏ وَلِّنِي قَفَاكَ ‏\"‏ ‏.‏ فَأُوَلِّيهِ قَفَاىَ فَأَسْتُرُهُ بِهِ ‏.‏",
+      "english": {
+        "narrator": "Abu As-Samh said:",
+        "text": "\"I used to serve the Messenger of Allah (ﷺ) and when he wanted to perform Ghusl he said: 'Turn your back.' So I turned my back to him and concealed him.\""
+      }
+    },
+    {
+      "id": 226,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، عَنْ عَبْدِ الرَّحْمَنِ، عَنْ مَالِكٍ، عَنْ سَالِمٍ، عَنْ أَبِي مُرَّةَ، مَوْلَى عَقِيلِ بْنِ أَبِي طَالِبٍ عَنْ أُمِّ هَانِئٍ، رضى الله عنها أَنَّهَا ذَهَبَتْ إِلَى النَّبِيِّ صلى الله عليه وسلم يَوْمَ الْفَتْحِ فَوَجَدَتْهُ يَغْتَسِلُ وَفَاطِمَةُ تَسْتُرُهُ بِثَوْبٍ فَسَلَّمَتْ فَقَالَ ‏\n\"‏ مَنْ هَذَا ‏\"‏ ‏.‏ قُلْتُ أُمُّ هَانِئٍ ‏.‏ فَلَمَّا فَرَغَ مِنْ غُسْلِهِ قَامَ فَصَلَّى ثَمَانِيَ رَكَعَاتٍ فِي ثَوْبٍ مُلْتَحِفًا بِهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Umm Hani' that she went to the Prophet (ﷺ) on the day of the Conquest (of Makkah) and found him performing Ghusl while Fatimah was concealing him with a garment. She gave him Salams and he said:",
+        "text": "\"Who is this?\" She said: \"Umm Hani'.\" When he had finished his Ghusl he stood up and prayed eight Rak'ahs wrapped in a garment."
+      }
+    },
+    {
+      "id": 227,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ مُوسَى الْجُهَنِيِّ، قَالَ أُتِيَ مُجَاهِدٌ بِقَدَحٍ حَزَرْتُهُ ثَمَانِيَةَ أَرْطَالٍ فَقَالَ حَدَّثَتْنِي عَائِشَةُ رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَغْتَسِلُ بِمِثْلِ هَذَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Musa Al-Juhani said:",
+        "text": "\"A vessel was brought to Mujahid, which I estimated to be eight Ratls, and he said: 'Aishah told me that the Messenger of Allah (ﷺ) used to perform Ghusl using such a vessel.'\""
+      }
+    },
+    {
+      "id": 228,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي بَكْرِ بْنِ حَفْصٍ، سَمِعْتُ أَبَا سَلَمَةَ، يَقُولُ دَخَلْتُ عَلَى عَائِشَةَ - رضى الله عنها - وَأَخُوهَا مِنَ الرَّضَاعَةِ فَسَأَلَهَا عَنْ غُسْلِ النَّبِيِّ صلى الله عليه وسلم فَدَعَتْ بِإِنَاءٍ فِيهِ مَاءٌ قَدْرَ صَاعٍ وَسَتَرَتْ سِتْرًا فَاغْتَسَلَتْ فَأَفْرَغَتْ عَلَى رَأْسِهَا ثَلاَثًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Bakr bin Hafs:",
+        "text": "\"I heard Abu Salamah say: 'I entered upon 'Aishah and her foster-brother was with her. He asked her about the Ghusl of the Prophet (ﷺ). She called for a vessel in which was a Sa' of water, then she concealed herself and performed Ghusl and poured water over her head three times.'\""
+      }
+    },
+    {
+      "id": 229,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَغْتَسِلُ فِي الْقَدَحِ وَهُوَ الْفَرَقُ وَكُنْتُ أَغْتَسِلُ أَنَا وَهُوَ فِي إِنَاءٍ وَاحِدٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Messenger of Allah (ﷺ) used to perform Ghusl from a vessel which was the size of a Faraq  and he and I used to perform Ghusl using a single vessel.\"\n Sixteen Ratls."
+      }
+    },
+    {
+      "id": 230,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ جَبْرٍ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَوَضَّأُ بِمَكُّوكٍ وَيَغْتَسِلُ بِخَمْسَةِ مَكَاكِيَّ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah bin Jabr said:",
+        "text": "\"I heard Anas bin Malik say: 'The Messenger of Allah (ﷺ) used to perform Wudu' with a Makkuk and Ghusl with five Makkuks.'\""
+      }
+    },
+    {
+      "id": 231,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي جَعْفَرٍ، قَالَ تَمَارَيْنَا فِي الْغُسْلِ عِنْدَ جَابِرِ بْنِ عَبْدِ اللَّهِ فَقَالَ جَابِرٌ يَكْفِي مِنَ الْغُسْلِ مِنَ الْجَنَابَةِ صَاعٌ مِنْ مَاءٍ ‏.‏ قُلْنَا مَا يَكْفِي صَاعٌ وَلاَ صَاعَانِ ‏.‏ قَالَ جَابِرٌ قَدْ كَانَ يَكْفِي مَنْ كَانَ خَيْرًا مِنْكُمْ وَأَكْثَرَ شَعْرًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Ja'far said:",
+        "text": "\"We argued about Ghusl in the presence of jabir in 'Abdullah, and Jabir said: 'One Sa' of water is sufficient for ghusl from Janabah.' We said: 'One Sa' is not enough and neither is two.' Jabir said: 'It was sufficient for one who was better than you and had more hair.'\""
+      }
+    },
+    {
+      "id": 232,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، ح وَأَنْبَأَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا مَعْمَرٌ، وَابْنُ، جُرَيْجٍ عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ وَهُوَ قَدْرُ الْفَرَقِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I used to perform Ghusl with the Messenger of Allah (ﷺ) from one vessel, which was the size of a Faraq.\""
+      }
+    },
+    {
+      "id": 233,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ هِشَامِ بْنِ عُرْوَةَ، ح وَأَنْبَأَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَغْتَسِلُ وَأَنَا مِنْ إِنَاءٍ وَاحِدٍ نَغْتَرِفُ مِنْهُ جَمِيعًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was narrated from 'Aishah that the Messenger of Allah (ﷺ) used to perform Ghusl; he and I from a single vessel, both of us scooping water from it."
+      }
+    },
+    {
+      "id": 234,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ الْقَاسِمِ، قَالَ سَمِعْتُ الْقَاسِمَ، يُحَدِّثُ عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ، صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ مِنَ الْجَنَابَةِ ‏.‏",
+      "english": {
+        "narrator": "'Abdur-Rahman bin Al-Qasim said:",
+        "text": "\"I heard Al-Qasim narrating that 'Aishah said: 'I used to perform Ghusl, the Messenger of Allah (ﷺ) and I from a single vessel, from Janabah.'\""
+      }
+    },
+    {
+      "id": 235,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبِيدَةُ بْنُ حُمَيْدٍ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ لَقَدْ رَأَيْتُنِي أُنَازِعُ رَسُولَ اللَّهِ صلى الله عليه وسلم الإِنَاءَ أَغْتَسِلُ أَنَا وَهُوَ مِنْهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I remember competing over the vessel with the Messenger of Allah (ﷺ), when he and I were using it to perform Ghusl.\""
+      }
+    },
+    {
+      "id": 236,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي مَنْصُورٌ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Messenger of Allah (ﷺ) and I used to perform Ghusl together using one vessel.\""
+      }
+    },
+    {
+      "id": 237,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَحْيَى بْنُ مُوسَى، عَنْ سُفْيَانَ، عَنْ عَمْرٍو، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أَخْبَرَتْنِي خَالَتِي، مَيْمُونَةُ أَنَّهَا كَانَتْ تَغْتَسِلُ وَرَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "\"My maternal aunt Maimunah told me that she and the Messenger of Allah (ﷺ) used to perform Ghusl from one vessel.\""
+      }
+    },
+    {
+      "id": 238,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ سَعِيدِ بْنِ يَزِيدَ، قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ هُرْمُزَ الأَعْرَجَ، يَقُولُ حَدَّثَنِي نَاعِمٌ، مَوْلَى أُمِّ سَلَمَةَ رضى الله عنها أَنَّ أُمَّ سَلَمَةَ سُئِلَتْ أَتَغْتَسِلُ الْمَرْأَةُ مَعَ الرَّجُلِ قَالَتْ نَعَمْ إِذَا كَانَتْ كَيِّسَةً رَأَيْتُنِي وَرَسُولَ اللَّهِ صلى الله عليه وسلم نَغْتَسِلُ مِنْ مِرْكَنٍ وَاحِدٍ نُفِيضُ عَلَى أَيْدِينَا حَتَّى نُنْقِيَهُمَا ثُمَّ نُفِيضَ عَلَيْهَا الْمَاءَ ‏.‏ قَالَ الأَعْرَجُ لاَ تَذْكُرُ فَرْجًا وَلاَ تَبَالَهُ ‏.‏",
+      "english": {
+        "narrator": "'Abdur-Rahman bin Hurmuz Al-A'raj said:",
+        "text": "\"Na'im the freed slave of Umm Salamah narrated to me that Umm Salamah was asked: 'Can a woman perform Ghusl with a man?' She said: 'Yes, if she is well-mannered. I remember the Messenger of Allah (ﷺ) and I performing Ghusl from a single wash tub. We would pour water on our hands until they were clean then pour water over them.'\" Al-A'raj said: \"Not mentioning the private area not paying attention to it.\"\n Kaiysah:\" Well-mannered when using the water with the man\" (An-Nihayah) And the comments by Al-A'raj after the narration refer to its meaning."
+      }
+    },
+    {
+      "id": 239,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ دَاوُدَ الأَوْدِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ لَقِيتُ رَجُلاً صَحِبَ النَّبِيَّ صلى الله عليه وسلم كَمَا صَحِبَهُ أَبُو هُرَيْرَةَ - رضى الله عنه - أَرْبَعَ سِنِينَ قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَمْتَشِطَ أَحَدُنَا كُلَّ يَوْمٍ أَوْ يَبُولَ فِي مُغْتَسَلِهِ أَوْ يَغْتَسِلَ الرَّجُلُ بِفَضْلِ الْمَرْأَةِ وَالْمَرْأَةُ بِفَضْلِ الرَّجُلِ وَلْيَغْتَرِفَا جَمِيعًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Humaid bin 'Abdur-Rahman said:",
+        "text": "\"I met a man who accompanied the Prophet (ﷺ) as Abu Hurairah (may Allah be pleased with him), accompanied him for four years. He said: 'The Messenger of Allah (ﷺ) forbade any one of us to comb his hair each day, or to urinate in the place where he performs Ghusl, or for a man to perform Ghusl using the leftover water of a women, or a woman to perform Ghusl using the leftover water of a man - they should scoop it out together.'\"\n It is said this is to prevent him from making his physical appearance his main aim."
+      }
+    },
+    {
+      "id": 240,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، عَنْ مُحَمَّدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَاصِمٍ، ح وَأَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ عَاصِمٍ، عَنْ مُعَاذَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ يُبَادِرُنِي وَأُبَادِرُهُ حَتَّى يَقُولَ ‏\n\"‏ دَعِي لِي ‏\"‏ ‏.‏ وَأَقُولُ أَنَا دَعْ لِي ‏.‏ قَالَ سُوَيْدٌ يُبَادِرُنِي وَأُبَادِرُهُ فَأَقُولُ دَعْ لِي دَعْ لِي ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I used to perform Ghusl - the Messenger of Allah (ﷺ) and I - from one vessel. He would compete with me and I would with him until he would say: 'Leave me some' and I would say: 'Leave me some.'\""
+      }
+    },
+    {
+      "id": 241,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ نَافِعٍ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنْ أُمِّ هَانِئٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اغْتَسَلَ هُوَ وَمَيْمُونَةُ مِنْ إِنَاءٍ وَاحِدٍ فِي قَصْعَةٍ فِيهَا أَثَرُ الْعَجِينِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was narrated from Umm Hani' that the Messenger of Allah (ﷺ) performed Ghusl, he and Maimunah from a single vessel, a bowl in which there were traces of dough."
+      }
+    },
+    {
+      "id": 242,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُلَيْمَانُ بْنُ مَنْصُورٍ، عَنْ سُفْيَانَ، عَنْ أَيُّوبَ بْنِ مُوسَى، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ عَبْدِ اللَّهِ بْنِ رَافِعٍ، عَنْ أُمِّ سَلَمَةَ، - رضى الله عنها - زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ إِنِّي امْرَأَةٌ أَشُدُّ ضَفْرَ رَأْسِي أَفَأَنْقُضُهَا عِنْدَ غَسْلِهَا مِنَ الْجَنَابَةِ قَالَ ‏\n\"‏ إِنَّمَا يَكْفِيكِ أَنْ تَحْثِي عَلَى رَأْسِكِ ثَلاَثَ حَثَيَاتٍ مِنْ مَاءٍ ثُمَّ تُفِيضِينَ عَلَى جَسَدِكِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Umm Salamah, the wife of the Prophet (ﷺ), said:",
+        "text": "\"I said: 'O Messenger of Allah, I am a woman with tightly braided hair; should I undo it when performing Ghusl from Janabah?' He said: 'No it is sufficient for you to pour three handfuls of water over your body.'\""
+      }
+    },
+    {
+      "id": 243,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا أَشْهَبُ، عَنْ مَالِكٍ، أَنَّ ابْنَ شِهَابٍ، وَهِشَامَ بْنَ عُرْوَةَ، حَدَّثَاهُ عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَامَ حَجَّةِ الْوَدَاعِ فَأَهْلَلْتُ بِالْعُمْرَةِ فَقَدِمْتُ مَكَّةَ وَأَنَا حَائِضٌ فَلَمْ أَطُفْ بِالْبَيْتِ وَلاَ بَيْنَ الصَّفَا وَالْمَرْوَةِ فَشَكَوْتُ ذَلِكَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ انْقُضِي رَأْسَكِ وَامْتَشِطِي وَأَهِلِّي بِالْحَجِّ وَدَعِي الْعُمْرَةَ ‏\"‏ ‏.‏ فَفَعَلْتُ فَلَمَّا قَضَيْنَا الْحَجَّ أَرْسَلَنِي مَعَ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ إِلَى التَّنْعِيمِ فَاعْتَمَرْتُ فَقَالَ ‏\"‏ هَذِهِ مَكَانَ عُمْرَتِكِ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ هَذَا حَدِيثٌ غَرِيبٌ مِنْ حَدِيثِ مَالِكٍ عَنْ هِشَامِ بْنِ عُرْوَةَ لَمْ يَرْوِهِ أَحَدٌ إِلاَّ أَشْهَبُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"We went out with the Messenger of Allah (ﷺ) in the year of the Farewell Pilgrimage. I (said the Talbiyah) for 'Umrah and I arrived in Makkah while I was menstruating, so I did not perform Tawaf around the House nor between As-Safa and Al-Marwah. I complained about that to the Messenger of Allah (ﷺ), and he said: 'Undo your braids and comb your hair, and enter (begin the Talbiyah) for Hajj, and leave the 'Umrah.' So I did that, and then when we had completed Hajj, he sent me with 'Abdur-Rahman bin Abi Bakr to At-Tan'im, and I performed 'Umrah. He said: 'This is in place of your 'Umrah.'\"\nAbu 'Abdur-Rahman said: This Hadith is Gharib as a narration of Malik from Hisham, from 'Urwah. No one except Asshab reported it."
+      }
+    },
+    {
+      "id": 244,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا حُسَيْنٌ، عَنْ زَائِدَةَ، قَالَ حَدَّثَنَا عَطَاءُ بْنُ السَّائِبِ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَتْنِي عَائِشَةُ، رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ وُضِعَ لَهُ الإِنَاءُ فَيَصُبُّ عَلَى يَدَيْهِ قَبْلَ أَنْ يُدْخِلَهُمَا الإِنَاءَ حَتَّى إِذَا غَسَلَ يَدَيْهِ أَدْخَلَ يَدَهُ الْيُمْنَى فِي الإِنَاءِ ثُمَّ صَبَّ بِالْيُمْنَى وَغَسَلَ فَرْجَهُ بِالْيُسْرَى حَتَّى إِذَا فَرَغَ صَبَّ بِالْيُمْنَى عَلَى الْيُسْرَى فَغَسَلَهُمَا ثُمَّ تَمَضْمَضَ وَاسْتَنْشَقَ ثَلاَثًا ثُمَّ يَصُبُّ عَلَى رَأْسِهِ مِلْءَ كَفَّيْهِ ثَلاَثَ مَرَّاتٍ ثُمَّ يُفِيضُ عَلَى جَسَدِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Aishah narrated that when the Messenger of Allah (ﷺ) performed Ghusl from Janabah, the vessel (of water) would be placed before him, and he would pour water over his hands before putting then into the vessel. When he had washed his hands, he would put his right hand in the vessel then pour water with his right hand and wash his private parts with his left hand. When he had finished, he would pour water with his right hand over his left hand and wash them both. Then he would rinse his mouth and nose three times, then he would pour water filling both of his hands over his head three times, then he would pour water over his body."
+      }
+    },
+    {
+      "id": 245,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ أَبِي سَلَمَةَ، قَالَ سَأَلْتُ عَائِشَةَ - رضى الله عنها - عَنْ غُسْلِ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنَ الْجَنَابَةِ فَقَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُفْرِغُ عَلَى يَدَيْهِ ثَلاَثًا ثُمَّ يَغْسِلُ فَرْجَهُ ثُمَّ يَغْسِلُ يَدَيْهِ ثُمَّ يُمَضْمِضُ وَيَسْتَنْشِقُ ثُمَّ يُفْرِغُ عَلَى رَأْسِهِ ثَلاَثًا ثُمَّ يُفِيضُ عَلَى سَائِرِ جَسَدِهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Salamah said:",
+        "text": "\"I asked 'Aishah about how the Messenger of Allah (ﷺ) performed Ghusl from Janabah. She said: 'The Messenger of Allah (ﷺ) used to pour water onto his hands three times, then he would wash his private part, then he would wash his hands, then rinse his mouth and nose, then pour water onto his head three times, then pour water over the rest of his body.'\""
+      }
+    },
+    {
+      "id": 246,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، أَنْبَأَنَا النَّضْرُ، قَالَ أَنْبَأَنَا شُعْبَةُ، قَالَ أَنْبَأَنَا عَطَاءُ بْنُ السَّائِبِ، قَالَ سَمِعْتُ أَبَا سَلَمَةَ، أَنَّهُ دَخَلَ عَلَى عَائِشَةَ - رضى الله عنها - فَسَأَلَهَا عَنْ غُسْلِ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنَ الْجَنَابَةِ فَقَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يُؤْتَى بِالإِنَاءِ فَيَصُبُّ عَلَى يَدَيْهِ ثَلاَثًا فَيَغْسِلُهُمَا ثُمَّ يَصُبُّ بِيَمِينِهِ عَلَى شِمَالِهِ فَيَغْسِلُ مَا عَلَى فَخِذَيْهِ ثُمَّ يَغْسِلُ يَدَيْهِ وَيَتَمَضْمَضُ وَيَسْتَنْشِقُ وَيَصُبُّ عَلَى رَأْسِهِ ثَلاَثًا ثُمَّ يُفِيضُ عَلَى سَائِرِ جَسَدِهِ ‏.‏",
+      "english": {
+        "narrator": "Abu Salamah (narrated) that he entered upon 'Aishah and asked her about the Ghusl of the Messenger of Allah (ﷺ) from Janabah. She said:",
+        "text": "\"A vessel would be brought to the prophet (ﷺ) then he would pour water on his hand three times and wash them, then he would pour water with his right hand onto his left and wash off whatever was on his thighs. Then he would wash his hands, rinse his mouth and nose, pour water on his head three times, then pour water over the rest of his body.\""
+      }
+    },
+    {
+      "id": 247,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عُمَرُ بْنُ عُبَيْدٍ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ وَصَفَتْ عَائِشَةُ غُسْلَ النَّبِيِّ صلى الله عليه وسلم مِنَ الْجَنَابَةِ قَالَتْ كَانَ يَغْسِلُ يَدَيْهِ ثَلاَثًا ثُمَّ يُفِيضُ بِيَدِهِ الْيُمْنَى عَلَى الْيُسْرَى فَيَغْسِلُ فَرْجَهُ وَمَا أَصَابَهُ - قَالَ عُمَرُ وَلاَ أَعْلَمُهُ إِلاَّ قَالَ يُفِيضُ بِيَدِهِ الْيُمْنَى عَلَى الْيُسْرَى ثَلاَثَ مَرَّاتٍ - ثُمَّ يَتَمَضْمَضُ ثَلاَثًا وَيَسْتَنْشِقُ ثَلاَثًا وَيَغْسِلُ وَجْهَهُ ثَلاَثًا ثُمَّ يُفِيضُ عَلَى رَأْسِهِ ثَلاَثًا ثُمَّ يَصُبُّ عَلَيْهِ الْمَاءَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Salamah bin 'Abdur-Rahman said:",
+        "text": "\"Aishah described how the Prophet (ﷺ) performed Ghusl for Janabah. She said: 'He used to wash his hands three times, then pour water with his right hand onto his left and wash his private part and whatever was on it.' - (One of the narrators) 'Umar said: \"I think he said: 'He would pour water with his right hand onto his left hand three times.'\" - \"Then he would rinse his mouth three times and his nose three times, and wash his face and hands three times, then he would pour water over his head three times, then pour water over himself.'\""
+      }
+    },
+    {
+      "id": 248,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ بَدَأَ فَغَسَلَ يَدَيْهِ ثُمَّ تَوَضَّأَ كَمَا يَتَوَضَّأُ لِلصَّلاَةِ ثُمَّ يُدْخِلُ أَصَابِعَهُ الْمَاءَ فَيُخَلِّلُ بِهَا أُصُولَ شَعْرِهِ ثُمَّ يَصُبُّ عَلَى رَأْسِهِ ثَلاَثَ غُرَفٍ ثُمَّ يُفِيضُ الْمَاءَ عَلَى جَسَدِهِ كُلِّهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was narrated from 'Aishah that when the Prophet (ﷺ) performed Ghusl from Janabah he would start by washing his hands, then he would perform Wudu' as for prayer, then he would dip his fingers in the water, then run them through his hair, then he would pour water over his head three times, then he would pour water over his entire body."
+      }
+    },
+    {
+      "id": 249,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ أَنْبَأَنَا يَحْيَى، قَالَ أَنْبَأَنَا هِشَامُ بْنُ عُرْوَةَ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَتْنِي عَائِشَةُ، - رضى الله عنها - عَنْ غُسْلِ النَّبِيِّ، صلى الله عليه وسلم مِنَ الْجَنَابَةِ أَنَّهُ كَانَ يَغْسِلُ يَدَيْهِ وَيَتَوَضَّأُ وَيُخَلِّلُ رَأْسَهُ حَتَّى يَصِلَ إِلَى شَعْرِهِ ثُمَّ يُفْرِغُ عَلَى سَائِرِ جَسَدِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'Aishah narrated concerning the Ghusl of the Prophet (ﷺ) from Janabah, that he used to wash his hands and perform Wudu', then he would run (his fingers) through his (hair on his) head so that it reaches all of his hair, then he would pour water over his entire body."
+      }
+    },
+    {
+      "id": 250,
+      "chapterId": 1,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُشَرِّبُ رَأْسَهُ ثُمَّ يَحْثِي عَلَيْهِ ثَلاَثًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was narrated from 'Aishah that the Messenger of Allah (ﷺ) used to soak his head, then he would pour water over it three times."
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 229,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يَقُولُ لاَ تُرْمَى الْجِمَارُ فِي الأَيَّامِ الثَّلاَثَةِ حَتَّى تَزُولَ الشَّمْسُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nused to say, \"The jamras should not be stoned during the three days\nuntil after the sun has passed the meridian.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 65,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَمْرِو بْنِ الشَّرِيدِ عَنْ أَبِيهِ قَالَ: كَانَ فِي وَفْدِ ثَقِيفٍ رَجُلٌ مَجْذُومٌ فَأَرْسَلَ إِلَيْهِ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّا قد بايعناك فَارْجِع» . رَوَاهُ مُسلم",
+  "english": {
+    "narrator": "‘Amr b. ash-Sharid told on his father’s authority that there was a man with tubercular leprosy in the deputation of Thaqif and the Prophet sent to him a message:",
+    "text": "\"We have taken your oath of allegiance, so go home.\" \n\nMuslim transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

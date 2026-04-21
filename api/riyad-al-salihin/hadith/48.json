@@ -1,0 +1,16 @@
+{
+  "id": 48,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه ، أن رجلاً قال للنبي صلى الله عليه وسلم‏:‏ أوصني، قال‏:‏ ‏\"‏لا تغضب‏\"‏ فردد مراراً، قال‏:‏ ‏\"‏ لاتغضب‏\"‏ رواه البخاري‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "A man asked the Prophet (ﷺ) for an advice and he (ﷺ) said, \"Do not get angry\". The man repeated that several times and he replied, \"Do not get angry\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

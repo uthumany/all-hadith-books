@@ -1,0 +1,16 @@
+{
+  "id": 169,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عن عائشة، رضي الله عنها، قالت‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏من أحدث في أمرنا هذا ما ليس منه فهو رد‏\"‏ ‏(‏‏(‏ متفق عليه‏)‏‏)‏‏.‏ \nوفي رواية لمسلم ‏:‏ ‏\"‏من عمل عملاً ليس عليه أمرنا فهو رد‏\"‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"If anyone introduces in our matter something which does not belong to it, will be rejected\"..The narration in Muslim says: \"If anybody introduces a practice which is not authenticated by me, it is to be rejected\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

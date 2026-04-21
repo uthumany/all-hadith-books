@@ -1,0 +1,16 @@
+{
+  "id": 155,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ مثله عند إبن قدامة. غير أنه يقول في حق زيد (وَأَعْلَمُهُمْ بِالْفَرَائِضِ).",
+  "english": {
+    "narrator": "Another chain with similar wording (as no. 154) but he said that:",
+    "text": "Zaid was: \"The most knowledgeable of them concerning the rules of inheritance.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

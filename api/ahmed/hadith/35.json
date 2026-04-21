@@ -1,0 +1,16 @@
+{
+  "id": 35,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلَاءِ حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ يَحْيَى بْنِ أَيُّوبَ، عَنْ عُبَيْدِ اللَّهِ بْنِ زَحْرٍ، عَنْ عَلِيِّ بْنِ يَزِيدَ، عَنِ الْقَاسِمِ، عَنْ أَبِي أُمَامَةَ، قَالَ قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ كُنْتُ آتِي النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَسْتَأْذِنُ فَإِنْ كَانَ فِي صَلَاةٍ سَبَّحَ وَإِنْ كَانَ فِي غَيْرِ صَلَاةٍ أَذِنَ لِي‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Umamah said:",
+    "text": "`Ali (رضي الله عنه) said: I used to come to the Prophet (ﷺ) and ask permission to enter. If he was praying, he would say Subhan Allah, and if he was not praying, he would give me permission to enter."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

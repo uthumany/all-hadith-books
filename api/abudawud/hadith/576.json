@@ -1,0 +1,16 @@
+{
+  "id": 576,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَلْحَلَةَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو الْعَامِرِيِّ، قَالَ كُنْتُ فِي مَجْلِسٍ بِهَذَا الْحَدِيثِ قَالَ فِيهِ فَإِذَا قَعَدَ فِي الرَّكْعَتَيْنِ قَعَدَ عَلَى بَطْنِ قَدَمِهِ الْيُسْرَى وَنَصَبَ الْيُمْنَى فَإِذَا كَانَتِ الرَّابِعَةُ أَفْضَى بِوَرِكِهِ الْيُسْرَى إِلَى الأَرْضِ وَأَخْرَجَ قَدَمَيْهِ مِنْ نَاحِيَةٍ وَاحِدَةٍ ‏.‏",
+  "english": {
+    "narrator": "Muhammad b. ‘Amr al-Amir said:",
+    "text": "I was sitting in the company( of the Companions). He then narrated this tradition saying: When he(the Prophet) sat up after two rak’ahs, he sat on the sole of his left foot and raised his left foot. When he sat up after four rak’ahs, he placed his left hip on the ground and put out his both feet on one side."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

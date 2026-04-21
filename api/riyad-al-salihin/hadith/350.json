@@ -1,0 +1,16 @@
+{
+  "id": 350,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عبد الله بن مسعود رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏ليلني منكم أولو الأحلام والنهى، ثم الذين يلونهم‏\"‏ ثلاثًا ‏\"‏وإياكم وهيشات الأسوق‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin Mas'ud (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Let those be nearest to me in Salat (prayer) who are mature and possess (religious) knowledge, then those who are nearest to them in these respects\". He repeated this three times and then added, \"Beware of indulging in the loose talks of the markets (when you are in the mosque)\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

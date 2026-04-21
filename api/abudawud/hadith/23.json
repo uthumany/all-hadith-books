@@ -1,0 +1,16 @@
+{
+  "id": 23,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم مَرَّ عَلَى رَجُلٍ مِنَ الأَنْصَارِ وَهُوَ يَعِظُ أَخَاهُ فِي الْحَيَاءِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ دَعْهُ فَإِنَّ الْحَيَاءَ مِنَ الإِيمَانِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "`Abd Allah b. ‘Umar said:",
+    "text": "The Prophet (ﷺ) passed by a man of the Ansar when he was giving his brother a warning against modesty. The Apostle of Allah (ﷺ) said : Leave him alone, for modesty is a part of faith."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

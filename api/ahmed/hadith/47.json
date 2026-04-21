@@ -1,0 +1,16 @@
+{
+  "id": 47,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا جَرِيرُ بْنُ عَبْدِ الْحَمِيدِ، عَنْ مَنْصُورٍ، عَنْ هِلَالٍ، عَنْ وَهْبِ بْنِ الْأَجْدَعِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يُصَلَّى بَعْدَ الْعَصْرِ إِلَّا أَنْ تَكُونَ الشَّمْسُ بَيْضَاءَ مُرْتَفِعَةً‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ)  said: “No prayer should be offered after `Asr unless the sun is bright and still high.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

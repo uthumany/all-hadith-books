@@ -1,0 +1,16 @@
+{
+  "id": 408,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا حَجَّاجٌ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَفَوْتُ لَكُمْ عَنْ صَدَقَةِ الْخَيْلِ وَالرَّقِيقِ وَفِي الرِّقَةِ رُبُعُ عُشْرِهَا‏.‏",
+  "english": {
+    "narrator": "It was narrated that `Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) said: “I have relieved you of zakah on horses and slaves. And on silver (the zakah) is one quarter of one tenth."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

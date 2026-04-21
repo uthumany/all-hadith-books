@@ -1,0 +1,16 @@
+{
+  "id": 242,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي الزُّبَيْرِ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، قَضَى فِي الضَّبُعِ بِكَبْشٍ وَفِي الْغَزَالِ بِعَنْزٍ وَفِي الأَرْنَبِ بِعَنَاقٍ وَفِي الْيَرْبُوعِ بِجَفْرَةٍ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Abu'z-Zubayr that Umar ibn\nal-Khattab gave the judgement of a ram for a hyena, a female goat for\na gazelle, a she-goat less than one year old for a rabbit, and a four\nmonth old kid for a jerboa."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

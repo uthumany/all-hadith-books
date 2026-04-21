@@ -1,0 +1,16 @@
+{
+  "id": 429,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْحَسَنُ بْنُ عُقْبَةَ أَبُو كِبْرَانَ الْمُرَادِيُّ، سَمِعْتُ عَبْدَ خَيْرٍ، يَقُولُ قَالَ عَلِيٌّ أَلَا أُرِيكُمْ وُضُوءَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ تَوَضَّأَ ثَلَاثًا ثَلَاثًا‏.‏",
+  "english": {
+    "narrator": "Al-Hasan bin `Uqbah Abu Kibran al-Muradi told us:",
+    "text": "I heard `Abd Khair say: `Ali said: Shall I not show you the wudoo’ of the Messenger of Allah (ﷺ) Then he did wudoo’ washing each part three times."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

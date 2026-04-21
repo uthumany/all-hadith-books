@@ -1,0 +1,16 @@
+{
+  "id": 566,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، قَالَ سَمِعْتُ بُدَيْلَ بْنَ مَيْسَرَةَ، وَأَيُّوبَ، يُحَدِّثَانِ عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي لَيْلاً طَوِيلاً قَائِمًا وَلَيْلاً طَوِيلاً قَاعِدًا فَإِذَا صَلَّى قَائِمًا رَكَعَ قَائِمًا وَإِذَا صَلَّى قَاعِدًا رَكَعَ قَاعِدًا ‏.‏",
+  "english": {
+    "narrator": "‘A’ishah said:",
+    "text": "The Messenger of Allah (ﷺ) used to pray standing at night for a long time, and used to pray sitting at night for a long time. When he prayed standing, he bowed standing, and when he prayed sitting, he bowed sitting."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

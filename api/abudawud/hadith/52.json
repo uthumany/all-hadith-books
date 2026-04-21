@@ -1,0 +1,16 @@
+{
+  "id": 52,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، عَنِ ابْنِ فُضَيْلٍ، عَنِ الأَعْمَشِ، بِهَذَا قَالَ كَأَنَّهُ يُحِبُّ الْجَمَاعَةَ ‏.‏",
+  "english": {
+    "narrator": "Al-A`mash said:",
+    "text": "It seems he liked collective gathering."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

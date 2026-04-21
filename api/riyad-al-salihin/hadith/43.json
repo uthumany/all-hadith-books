@@ -1,0 +1,16 @@
+{
+  "id": 43,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏‏\"‏إذا أراد الله بعبده خيراً عجل له العقوبة في  الدنيا، وإذا أراد الله بعبده الشر أمسك عنه بذنبه حتى يوافي به يوم القيامة‏\"‏‏.‏ \nوقال النبي صلى الله عليه وسلم ‏:‏ ‏\"‏إن عظم الجزاء مع عظم البلاء، وإن الله تعالى إذا أحب قوماً ابتلاهم، فمن رضي فله الرضى، ومن سخط فله السخط‏\"‏ ‏(‏‏(‏رواه الترمذي وقال ‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported that:",
+    "text": "The Messenger of Allah (ﷺ) said, \"When Allah intends good for His slave, He punishes him in this world, but when He intends an evil for His slave, He does not hasten to take him to task but calls him to account on the Day of Resurrection.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

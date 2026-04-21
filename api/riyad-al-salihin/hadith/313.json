@@ -1,0 +1,16 @@
+{
+  "id": 313,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، قَالَ: قَالَ رَسُولُ الله صلى الله عليه وسلم ‏\n\"‏لاَ يَجْزِي وَلَدٌ وَالِدًا إِلاَّ أَنْ يَجِدَهُ مَمْلُوكًا فَيَشْتَرِيَهُ فَيُعْتِقَهُ‏\" ‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"No son can repay (the kindness shown by his father) unless he finds him a slave and buys him and emancipates him\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

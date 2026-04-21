@@ -1,0 +1,16 @@
+{
+  "id": 354,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، وَالثَّوْرِيُّ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، قَالَ لَيْسَ الْوَتْرُ بِحَتْمٍ كَهَيْئَةِ الْمَكْتُوبَةِ وَلَكِنَّهُ سُنَّةٌ سَنَّهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "Witr is not a must like  the obligatory prayers, but it is a Sunnah established by the Messenger of Allah (ﷺ)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

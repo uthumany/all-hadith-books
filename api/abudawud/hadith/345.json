@@ -1,0 +1,16 @@
+{
+  "id": 345,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا سِمَاكُ بْنُ حَرْبٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، عَنْ أَبِيهِ، قَالَ مَنْ نَصَرَ قَوْمَهُ عَلَى غَيْرِ الْحَقِّ فَهُوَ كَالْبَعِيرِ الَّذِي رُدِّيَ فَهُوَ يُنْزَعُ بِذَنَبِهِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Mas'ud:",
+    "text": "If anyone helps  his people in an unrighteous cause, he is like  a camel which falls into a well and is pulled out by its tail."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

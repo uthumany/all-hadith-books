@@ -1,0 +1,16 @@
+{
+  "id": 138,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ : { لَا طَلَاقَ إِلَّا بَعْدَ نِكَاحٍ , وَلَا عِتْقَ إِلَّا بَعْدَ مِلْكٍ }  رَوَاهُ أَبُو يَعْلَى , وَصَحَّحَهُ اَلْحَاكِمُ , وَهُوَ مَعْلُولٌ  1‏ .‏‏1 ‏- صحيح .‏ رواه الحاكم ( 2 / 204 )‏ ولم أجده في المطبوع من مسند أبي يعلى .‏ والله أعلم .‏ والحديث صحيح بشواهده التي بعده.‏",
+  "english": {
+    "narrator": "Narrated Jabir (RA):",
+    "text": "Allah's Messenger (ﷺ) said: \"There is no divorce except after marriage, and no freeing (of a slave) till one has possession (of one).\"\n\n[Reported by Abu Ya'la and al-Hakim graded it Sahih (authentic), but it is Ma'lul (containing a hidden defective)."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

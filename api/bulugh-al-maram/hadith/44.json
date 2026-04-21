@@ -1,0 +1,16 @@
+{
+  "id": 44,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَلِابْنِ مَاجَهْ: مِنْ حَدِيثِ أَنَسٍ نَحْوُهُ.‏  1‏ .‏‏1 ‏- برقم (4210)‏ وفي سنده\" متروك\".‏",
+  "english": {
+    "narrator": "",
+    "text": "Ibn Majah related a similar hadith on the authority of Anas."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

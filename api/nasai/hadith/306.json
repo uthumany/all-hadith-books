@@ -1,0 +1,16 @@
+{
+  "id": 306,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا الْفَضْلُ بْنُ دُكَيْنٍ، عَنْ شَرِيكٍ، عَنْ عَمَّارٍ الدُّهْنِيِّ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ دَخَلَ النَّبِيُّ صلى الله عليه وسلم يَوْمَ الْفَتْحِ وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Jabir said:",
+    "text": "\"The Prophet  entered (Makkah) on the Day of the Conquest wearing a black turban.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

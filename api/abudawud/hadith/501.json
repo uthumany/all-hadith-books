@@ -1,0 +1,16 @@
+{
+  "id": 501,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، حَدَّثَنَا أَبُو قُتَيْبَةَ، سَلْمُ بْنُ قُتَيْبَةَ عَنْ دَاوُدَ بْنِ أَبِي صَالِحٍ الْمُزَنِيِّ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى أَنْ يَمْشِيَ - يَعْنِي الرَّجُلَ - بَيْنَ الْمَرْأَتَيْنِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Umar:",
+    "text": "The Prophet (ﷺ) prohibited that one, i.e. man, should walk between two women."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

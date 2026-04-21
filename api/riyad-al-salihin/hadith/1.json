@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أمير المؤمنين أبي حفص عمر بن الخطاب بن نفيل بن عبد العزى بن رياح بن قرط بن رزاح بن عدى بن لؤى ابن غالب القرشى العدوى‏.‏ رضي الله عنه، قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\n\"‏ إنما الأعمال بالنيات، وإنما لكل امرىء ما نوى فمن كانت هجرته إلى الله ورسوله فهجرته إلى الله ورسوله، ومن كانت هجرته لدنيا يصيبها، أو امرأة ينكحها فهجرته إلى ما هاجر إليه‏\"‏ ‏(‏‏(‏متفق على صحته‏.‏ رواه إماما المحدثين‏: أبو عبدالله محمد بن إسماعيل بن إبراهيم بن المغيرة بن بَرْدِزْبَهْ الجعفي البخاري، أبو الحسين مسلم بن الحجاج بن مسلم القشيرى النيسابورى رضي الله عنهما في صحيحهما اللذين هما أصح الكتب المصنفة‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Umar bin Al-Khattab (May Allah be pleased with him), reported:",
+    "text": "The Messenger of Allah (ﷺ) said, \"The deeds are considered by the intentions, and a person will get the reward according to his intention. So whoever emigrated for Allah and His Messenger, his emigration will be for Allah and His Messenger; and whoever emigrated for worldly benefits or for a woman to marry, his emigration would be for what he emigrated for\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

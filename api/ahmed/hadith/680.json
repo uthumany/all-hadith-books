@@ -1,0 +1,16 @@
+{
+  "id": 680,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ، حَدَّثَنَا سُفْيَانُ، عَنْ سَالِمِ بْنِ أَبِي حَفْصَةَ، قَالَ بَلَغَنِي عَنْ عَبْدِ اللَّهِ بْنِ مُلَيْلٍ، فَغَدَوْتُ إِلَيْهِ فَوَجَدْتُهُمْ فِي جَنَازَةٍ فَحَدَّثَنِي رَجُلٌ، عَنْ عَبْدِ اللَّهِ بْنِ مُلَيْلٍ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ أُعْطِيَ كُلُّ نَبِيٍّ سَبْعَةَ نُجَبَاءَ وَأُعْطِيَ نَبِيُّكُمْ أَرْبَعَةَ عَشَرَ نَجِيبًا مِنْهُمْ أَبُو بَكْرٍ وَعُمَرُ وَعَبْدُ اللَّهِ بْنُ مَسْعُودٍ وَعَمَّارُ بْنُ يَاسِرٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Salim bin Abi Hafsah said:",
+    "text": "A man narrated to me from `Abdullah bin Mulail that he said: I heard `Ali (رضي الله عنه) say: Each Prophet (ﷺ) was given seven nobles, but your Prophet (ﷺ) was given fourteen nobles, including Abu Bakr, ʻUmar, ‘Abdullah bin Mas`ood and ‘Ammar bin Yasir. (رضي الله عنهم)"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

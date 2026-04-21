@@ -1,0 +1,16 @@
+{
+  "id": 419,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا الْهَيْثَمُ بْنُ خَارِجَةَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ أَصَابَهُ قَىْءٌ أَوْ رُعَافٌ أَوْ قَلَسٌ أَوْ مَذْىٌ، فَلْيَنْصَرِفْ، فَلْيَتَوَضَّأْ. ثُمَّ لْيَبْنِ عَلَى صَلاَتِهِ، وَهُوَ فِي ذَلِكَ لاَ يَتَكَلَّمُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that ‘Aishah said:",
+    "text": "“The Messenger of Allah (ﷺ)\nsaid:\n‘Whoever vomits, has a nosebleed, belches, or emits prostatic\nfluid, should stop praying; perform ablution, then resume his prayer,\nand while he is in that state he should not speak.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

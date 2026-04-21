@@ -1,0 +1,16 @@
+{
+  "id": 499,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن سعيد بن أبي وقاص، رضي الله عنه، قال‏:‏ إني لأول العرب رمي بسهم في سبيل الله، ولقد كنا نغزو مع رسول الله صلى الله عليه وسلم ما لنا طعام إلا ورق الحلبة، هذا السمر، حتى إن كان أحدنا ليضع كما تضع الشاة ما له خلط‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \n\n‏\n\"‏ الحلبة‏\"‏ بضم الحاء المهملة وإسكان الباء الموحدة‏:‏ وهي والسمر، نوعان معروفان من شجر البادية‏.‏",
+  "english": {
+    "narrator": "Sa'd bin Abu Waqqas (May Allah be pleased with him) reported:",
+    "text": "By Allah, I am the first Arab who shot an arrow in the Cause of Allah. We fought along with Messenger of Allah (ﷺ) when our food was only the leaves of Hublah and Samur trees (wild trees) until one of us would defecate like the droppings of sheep.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

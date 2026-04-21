@@ -1,0 +1,16 @@
+{
+  "id": 625,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي أَبُو خَيْثَمَةَ، حَدَّثَنَا جَرِيرٌ، وَمُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ مُطَرِّفٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، قَالَ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يُصَلِّي صَلَاةً إِلَّا صَلَّى بَعْدَهَا رَكْعَتَيْنِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali said:",
+    "text": "The Prophet (ﷺ) did not offer any (obligatory) prayer but he prayed two rak`ahs after it."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

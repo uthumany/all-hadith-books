@@ -1,0 +1,16 @@
+{
+  "id": 258,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ، عَنْ بَقِيَّةَ، حَدَّثَنِي الزُّبَيْدِيُّ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّهُ حَدَّثَنِي أَنَّهُ، رَأَى عَلَى أُمِّ كُلْثُومٍ بِنْتِ رَسُولِ اللَّهِ صلى الله عليه وسلم بُرْدَ سِيَرَاءَ وَالسِّيَرَاءُ الْمُضَلَّعُ بِالْقَزِّ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Anas bin Malik that:",
+    "text": "He saw Umm Kalthum, the daughter of the Messenger of Allah , wearing a Burdah of Sira' silk, and Sira' is a fabric with stripes of silk."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

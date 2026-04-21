@@ -1,0 +1,16 @@
+{
+  "id": 81,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنْ حَمَّادِ بْنِ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ مَا أَظُنُّ رَجُلاً يَنْتَقِصُ أَبَا بَكْرٍ وَعُمَرَ يُحِبُّ النَّبِيَّ صلى الله عليه وسلم ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Muhammad bin Sirin:",
+    "text": "\"I don't think that a man who degrades Abu Bakr and 'Umar loves the Prophet (ﷺ).\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 552,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، و حَدَّثَنَا عَبْد اللَّهِ، قَالَ و حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا أَبِي، عَنْ أَبِي جَنَابٍ، عَنْ أَبِي جَمِيلَةَ الطُّهَوِيِّ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ احْتَجَمَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ قَالَ لِلْحَجَّامِ حِينَ فَرَغَ كَمْ خَرَاجُكَ قَالَ صَاعَانِ فَوَضَعَ عَنْهُ صَاعًا وَأَمَرَنِي فَأَعْطَيْتُهُ صَاعًا‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Jameelah at-Tuhawi said:",
+    "text": "I heard `Ali (رضي الله عنه) say: The Messenger of Allah (ﷺ) was treated with cupping, then he said to the cupper when he was finished: How much do you pay to your masters? He said: Two sa`s. He ordered that one sa’ be waived, and he told me to give him one sa’."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

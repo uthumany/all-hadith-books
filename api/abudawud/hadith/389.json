@@ -1,0 +1,16 @@
+{
+  "id": 389,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو الرَّازِيُّ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ مُجَاهِدٍ، عَنْ مُوَرِّقٍ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ لاَءَمَكُمْ مِنْ مَمْلُوكِيكُمْ فَأَطْعِمُوهُ مِمَّا تَأْكُلُونَ وَاكْسُوهُ مِمَّا تَكْتَسُونَ وَمَنْ لَمْ يُلاَئِمْكُمْ مِنْهُمْ فَبِيعُوهُ وَلاَ تُعَذِّبُوا خَلْقَ اللَّهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuDharr:",
+    "text": "The Prophet (ﷺ) said: Feed those of your slaves who please you from what you eat and clothe them with what you clothe yourselves, but sell those who do not please you and do not punish Allah's creatures."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

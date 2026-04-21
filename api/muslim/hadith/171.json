@@ -1,0 +1,16 @@
+{
+  "id": 171,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ \n ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم مَتَى تَقُومُ السَّاعَةُ وَعِنْدَهُ\n غُلاَمٌ مِنَ الأَنْصَارِ يُقَالُ لَهُ مُحَمَّدٌ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنْ يَعِشْ هَذَا\n الْغُلاَمُ فَعَسَى أَنْ لاَ يُدْرِكَهُ الْهَرَمُ حَتَّى تَقُومَ السَّاعَةُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Anas reported that a person asked Allah's Messenger (ﷺ) as to when the Last Hour would come. He had in his presence a young boy of the Ansar who was called Muhammad. Allah's Messenger (ﷺ) said:",
+    "text": "If this young boy lives, he may not grow very old till (he would see) the Last Hour coming to you."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

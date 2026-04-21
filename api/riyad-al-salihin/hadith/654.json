@@ -1,0 +1,16 @@
+{
+  "id": 654,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة رضي الله عنها قالت‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول في بيتى هذا‏:‏ “اللهم من ولى من أمر أمتى شيئاً فشق عليهم، فاشقق عليه ومن ولى  من أمر أمتى شيئاً، فرفق بهم، فارفق به” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
+    "text": "I heard the the Messenger of Allah (ﷺ) supplicating in my house: \"O Allah! Treat harshly those who rule over my Ummah with harshness, and treat gently those who rule over my Ummah with gentleness.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

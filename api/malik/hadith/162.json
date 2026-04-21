@@ -1,0 +1,16 @@
+{
+  "id": 162,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik that he had heard the people of\nknowledge say, \"Someone who dedicates a sacrificial animal for\ncompensation or as part of the hajj should not eat from it.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

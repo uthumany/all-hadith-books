@@ -1,0 +1,16 @@
+{
+  "id": 80,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ بَهْزِ بْنِ حَكِيمٍ, عَنْ أَبِيهِ, عَنْ جَدِّهِ: قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ وَيْلٌ لِلَّذِي يُحَدِّثُ, فَيَكْذِبُ ; لِيَضْحَكَ بِهِ اَلْقَوْمُ, وَيْلٌ لَهُ, ثُمَّ وَيْلٌ لَهُ }  أَخْرَجَهُ اَلثَّلَاثَةُ, وَإِسْنَادُهُ قَوِيٌّ.‏  1‏ .‏‏1 ‏- حسن.‏ رواه أبو داود (4990)‏ والنسائي في\" التفسير\" (146 و 675)‏.‏ والترمذي (2315)‏، وقال الترمذي:\" هذا حديث حسن.‏",
+  "english": {
+    "narrator": "Bahz bin Hakim narrated on the authority of his father, on the authority of his grandfather (RAA) that the Messenger of Allah (ﷺ) said:",
+    "text": "“Woe to him who lies in his talk to make the people laugh, Woe to him! Woe to him!” Related by the three Imams with a strong chain of narrators."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

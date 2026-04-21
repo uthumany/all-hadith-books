@@ -1,0 +1,16 @@
+{
+  "id": 79,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو أُسَامَةَ، أَنْبَأَنَا زَائِدَةُ، حَدَّثَنَا عَطَاءُ بْنُ السَّائِبِ، عَنْ أَبِيهِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ جَهَّزَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَاطِمَةَ فِي خَمِيلٍ وَقِرْبَةٍ وَوِسَادَةِ أَدَمٍ حَشْوُهَا لِيفُ الْإِذْخِرِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ)  gave Fatimah a trousseau of a velvet garment, a waterskin and a leather pillow stuffed with idhkhir fibres."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

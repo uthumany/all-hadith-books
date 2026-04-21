@@ -1,0 +1,16 @@
+{
+  "id": 767,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ اللَّهِ، - يَعْنِي ابْنَ عُمَرَ - عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَخَذَ يَوْمَ الْعِيدِ فِي طَرِيقٍ ثُمَّ رَجَعَ فِي طَرِيقٍ آخَرَ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Umar:",
+    "text": "The Messenger of Allah (ﷺ) went out by one road on the day of the 'Id (festival) and returned by another."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

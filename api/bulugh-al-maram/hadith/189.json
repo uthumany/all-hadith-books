@@ -1,0 +1,16 @@
+{
+  "id": 189,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ مَسْعُودٍ, عِنْدَ النَّسَائِيِّ  1‏ .‏‏1 ‏- صحيح.‏ رواه النسائي (681)‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "And from Ibn Mas'ud by an-Nasa'i."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

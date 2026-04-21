@@ -1,0 +1,16 @@
+{
+  "id": 18,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "عَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ أََحَبَّ أَنْ يُبْسَطَ عَلَيْهِ فِي رِزْقِهِ, وَأَنْ يُنْسَأَ لَهُ فِي أَثَرِهِ, فَلْيَصِلْ رَحِمَهُ }  أَخْرَجَهُ اَلْبُخَارِيُّ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (5985)‏ وعنده:\" من سره أن يبسط له\" بدلا\" من أحب أن يبسط عليه\".‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“He who wishes to have his earnings grow (and be blessed) and his term of life prolonged, he should keep ties with his kin” Related by Al-Bukhari."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

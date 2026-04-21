@@ -1,0 +1,16 @@
+{
+  "id": 512,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ زُبَيْدٍ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، عَنْ عَلِيٍّ، عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ اللَّهِ عَزَّ وَجَلَّ‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Ali (رضي الله عنه) that the Prophet (ﷺ) said:",
+    "text": "`There is no obedience to any created being if it involves disobedience to Allah, may He be glorified and exalted.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

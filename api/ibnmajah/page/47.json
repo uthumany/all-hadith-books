@@ -1,0 +1,510 @@
+{
+  "page": 47,
+  "perPage": 50,
+  "totalPages": 87,
+  "totalCount": 4345,
+  "nextPage": 48,
+  "prevPage": 46,
+  "items": [
+    {
+      "id": 33,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الصَّبَّاحِ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي هُرَيْرَةَ، وَزَيْدِ بْنِ خَالِدٍ، وَشِبْلٍ، قَالُوا كُنَّا عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَسَأَلَهُ رَجُلٌ عَنِ الأَمَةِ تَزْنِي قَبْلَ أَنْ تُحْصَنَ ‏.‏ فَقَالَ ‏\"‏ اجْلِدْهَا فَإِنْ زَنَتْ فَاجْلِدْهَا فَإِنْ زَنَتْ فَاجْلِدْهَا ‏\"‏ ‏.‏ ثُمَّ قَالَ فِي الثَّالِثَةِ أَوْ فِي الرَّابِعَةِ ‏\"‏ فَبِعْهَا وَلَوْ بِحَبْلٍ مِنْ شَعَرٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah, Zaid bin Khalid and Shibl said:",
+        "text": "“We were with the Prophet (ﷺ) and a man asked him about a slave woman who commits fornication (again), whip her, even if that is for a rope of hair.' ”"
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، قَالَ أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عَمَّارِ بْنِ أَبِي فَرْوَةَ، أَنَّ مُحَمَّدَ بْنَ مُسْلِمٍ، حَدَّثَهُ أَنَّ عُرْوَةَ حَدَّثَهُ أَنَّ عَمْرَةَ بِنْتَ عَبْدِ الرَّحْمَنِ حَدَّثَتْهُ أَنَّ عَائِشَةَ حَدَّثَتْهَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا زَنَتِ الأَمَةُ فَاجْلِدُوهَا فَإِنْ زَنَتْ فَاجْلِدُوهَا فَإِنْ زَنَتْ فَاجْلِدُوهَا فَإِنْ زَنَتْ فَاجْلِدُوهَا ثُمَّ بِيعُوهَا وَلَوْ بِضَفِيرٍ ‏\"‏ ‏.‏ وَالضَّفِيرُ الْحَبْلُ ‏.‏",
+      "english": {
+        "narrator": "'Aishah narrated that the Messenger of Allah(ﷺ) said:",
+        "text": "“If a slave woman commits fornication then whip her, and if she commits fornication then whip her, and if she commits fornication then whip her, then sell her even if that is for a rope.”"
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، قَالَتْ لَمَّا نَزَلَ عُذْرِي قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى الْمِنْبَرِ فَذَكَرَ ذَلِكَ وَتَلاَ الْقُرْآنَ فَلَمَّا نَزَلَ أَمَرَ بِرَجُلَيْنِ وَامْرَأَةٍ فَضُرِبُوا حَدَّهُمْ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "“When my innocence was revealed, the Messenger of Allah (ﷺ) stood on the pulpit and mentioned that, and he recited Quran. When he came down, he ordered that the legal punishment (of slandering) be carried out on two men and a woman.”"
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، حَدَّثَنِي ابْنُ أَبِي حَبِيبَةَ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا قَالَ الرَّجُلُ لِلرَّجُلِ يَا مُخَنَّثُ فَاجْلِدُوهُ عِشْرِينَ وَإِذَا قَالَ الرَّجُلُ لِلرَّجُلِ يَا لُوطِيُّ فَاجْلِدُوهُ عِشْرِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Abbas that the Prophet (ﷺ) said:",
+        "text": "“If one man says another: 'O effeminate one!' give him twenty lashes. And if one man says to another: 'O homosexual!' give him twenty twenty lashes.”"
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى، حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي حُصَيْنٍ، عَنْ عُمَيْرِ بْنِ سَعِيدٍ، ح وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الزُّهْرِيُّ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، حَدَّثَنَا مُطَرِّفٌ، سَمِعْتُهُ عَنْ عُمَيْرِ بْنِ سَعِيدٍ، قَالَ قَالَ عَلِيُّ بْنُ أَبِي طَالِبٍ مَا كُنْتُ أَدِي مَنْ أَقَمْتُ عَلَيْهِ الْحَدَّ إِلاَّ شَارِبَ الْخَمْرِ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمْ يَسُنَّ فِيهِ شَيْئًا إِنَّمَا هُوَ شَىْءٌ جَعَلْنَاهُ نَحْنُ ‏.‏",
+      "english": {
+        "narrator": "Ali bin Abi Talib said:",
+        "text": "“I would not pay the blood money (Diyah) for those on whom I carried out the legal punishment, except for the wine-drinker. The Messenger of Allah did not institute anything in that case, rather it is something that we would do.”"
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا سَعِيدٌ، ح وَحَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامٍ الدَّسْتَوَائِيِّ، جَمِيعًا عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَضْرِبُ فِي الْخَمْرِ بِالنِّعَالِ وَالْجَرِيدِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas bin Malik said:",
+        "text": "“The Messenger of Allah (ﷺ) used to beat (offenders) for drinking wine with sandals and date-palm stalks.”"
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ الدَّانَاجِ، سَمِعْتُ حُضَيْنَ بْنَ الْمُنْذِرِ الرَّقَاشِيَّ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ فَيْرُوزَ الدَّانَاجُ، قَالَ حَدَّثَنِي حُضَيْنُ بْنُ الْمُنْذِرِ، قَالَ لَمَّا جِيءَ بِالْوَلِيدِ بْنِ عُقْبَةَ إِلَى عُثْمَانَ قَدْ شَهِدُوا عَلَيْهِ قَالَ لِعَلِيٍّ دُونَكَ ابْنَ عَمِّكَ فَأَقِمْ عَلَيْهِ الْحَدَّ ‏.‏ فَجَلَدَهُ عَلِيٌّ وَقَالَ جَلَدَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَرْبَعِينَ وَجَلَدَ أَبُو بَكْرٍ أَرْبَعِينَ وَجَلَدَ عُمَرُ ثَمَانِينَ وَكُلٌّ سُنَّةٌ ‏.‏",
+      "english": {
+        "narrator": "Hudain bin Mundhir said:",
+        "text": "“When Walid bin `Uqbah was brought to `Uthman, they had testified against him. He said to 'Ali: 'You are close to your uncle's son, so carry out the legal punishment on him.'  So 'Ali whipped him. He said: 'The Messenger of Allah (ﷺ) gave forty lashes, and Abu Bakr gave forty lashes, and 'Umar gave eighty all are Sunnah.'”"
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنِ الْحَارِثِ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِذَا سَكِرَ فَاجْلِدُوهُ فَإِنْ عَادَ فَاجْلِدُوهُ فَإِنْ عَادَ فَاجْلِدُوهُ ‏\"‏ ‏.‏ ثُمَّ قَالَ فِي الرَّابِعَةِ ‏\"‏ فَإِنْ عَادَ فَاضْرِبُوا عُنُقَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+        "text": "“If he gets drunk, then whip him. If he does it again, then whip him. If he does it again, then whip him.' And he said concerning the fourth time: 'If he does it again, then strike his neck (i.e., execute him).' ”"
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا شُعَيْبُ بْنُ إِسْحَاقَ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ عَاصِمِ بْنِ بَهْدَلَةَ، عَنْ ذَكْوَانَ أَبِي صَالِحٍ، عَنْ مُعَاوِيَةَ بْنِ أَبِي سُفْيَانَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا شَرِبُوا الْخَمْرَ فَاجْلِدُوهُمْ ثُمَّ إِذَا شَرِبُوا فَاجْلِدُوهُمْ ثُمَّ إِذَا شَرِبُوا فَاجْلِدُوهُمْ ثُمَّ إِذَا شَرِبُوا فَاقْتُلُوهُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Mu`awiyah bin Abu Sufyan that the Messenger of Allah (ﷺ) said:",
+        "text": "“If they drink (again), then whip them. If they drink (again), then whip them. If they drink (again), then whip them. If they drink (again), then kill them.”"
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ يَعْقُوبَ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ، عَنْ سَعِيدِ بْنِ سَعْدِ بْنِ عُبَادَةَ، قَالَ كَانَ بَيْنَ أَبْيَاتِنَا رَجُلٌ مُخْدَجٌ ضَعِيفٌ فَلَمْ يُرَعْ إِلاَّ وَهُوَ عَلَى أَمَةٍ مِنْ إِمَاءِ الدَّارِ يَخْبُثُ بِهَا فَرَفَعَ شَأْنَهُ سَعْدُ بْنُ عُبَادَةَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ اجْلِدُوهُ ضَرْبَ مِائَةِ سَوْطٍ ‏\"‏ ‏.‏ قَالُوا يَا نَبِيَّ اللَّهِ هُوَ أَضْعَفُ مِنْ ذَلِكَ لَوْ ضَرَبْنَاهُ مِائَةَ سَوْطٍ مَاتَ ‏.‏ قَالَ ‏\"‏ فَخُذُوا لَهُ عِثْكَالاً فِيهِ مِائَةُ شِمْرَاخٍ فَاضْرِبُوهُ ضَرْبَةً وَاحِدَةً ‏\"‏ ‏.‏ \n حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا الْمُحَارِبِيُّ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ يَعْقُوبَ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ، عَنْ سَعْدِ بْنِ عُبَادَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Sa'eed bin Sa'd bin `Ubadah said:",
+        "text": "“There was a man living among our dwellings who had a physical defect, and to our astonishment he was seen with one of the slave women of the dwellings, committing illegal sex with her. Sa'd bin 'Ubadah referred his case to the Messenger of Allah (ﷺ), who said: 'Give him one hundred lashes.' They said: 'O Prophet (ﷺ) of Allah (ﷺ), he is too weak to bear that. If we give him one hundred lashes he will die.' He said: “Then take a branch with a hundred twigs and hit him once.”\n\nAnother chain reports a similar hadith."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ حُمَيْدِ بْنِ كَاسِبٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ وَحَدَّثَنَا الْمُغِيرَةُ بْنُ عَبْدِ الرَّحْمَنِ، عَنِ ابْنِ عَجْلاَنَ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ وَحَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، عَنْ أَبِي مَعْشَرٍ، عَنْ مُحَمَّدِ بْنِ كَعْبٍ، وَمُوسَى بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ حَمَلَ عَلَيْنَا السِّلاَحَ فَلَيْسَ مِنَّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever bears weapons against us is not one of us.”"
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ الْبَرَّادِ بْنِ يُوسُفَ بْنِ بُرَيْدِ بْنِ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ حَمَلَ عَلَيْنَا السِّلاَحَ فَلَيْسَ مِنَّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn `Umar that the Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever bears weapons against us is not one of us.'”"
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، وَأَبُو كُرَيْبٍ وَيُوسُفُ بْنُ مُوسَى وَعَبْدُ اللَّهِ بْنُ الْبَرَّادِ قَالُوا حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ شَهَرَ عَلَيْنَا السِّلاَحَ فَلَيْسَ مِنَّا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Musa Al-Ash'ari that the Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever brandishes weapons against us is not one of us.'”"
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ أُنَاسًا، مِنْ عُرَيْنَةَ قَدِمُوا عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَاجْتَوَوُا الْمَدِينَةَ فَقَالَ ‏\n\"‏ لَوْ خَرَجْتُمْ إِلَى ذَوْدٍ لَنَا فَشَرِبْتُمْ مِنْ أَلْبَانِهَا وَأَبْوَالِهَا ‏\"‏ ‏.‏ فَفَعَلُوا فَارْتَدُّوا عَنِ الإِسْلاَمِ وَقَتَلُوا رَاعِيَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَاسْتَاقُوا ذَوْدَهُ فَبَعَثَ رَسُولُ اللَّهِ فِي طَلَبِهِمْ فَجِيءَ بِهِمْ فَقَطَعَ أَيْدِيَهُمْ وَأَرْجُلَهُمْ وَسَمَرَ أَعْيُنَهُمْ وَتَرَكَهُمْ بِالْحَرَّةِ حَتَّى مَاتُوا ‏.‏",
+      "english": {
+        "narrator": "Anas bin Malik narrated that :",
+        "text": "some people from (the tribe of) `Urainah came to us (to Al-Madinah) during the time of the Messenger of Allah (ﷺ), but they did not want to stay in Al-Madinah because the climate did not suit them. He said: “Go out to the camels which belong to us, and drink their milk and urine.” So they did that (and recovered), then they apostatized from Islam and killed the herdsman of the Messenger of Allah (ﷺ) and stole his camels. The Messenger of Allah (ﷺ) sent people after them, and they were brought back. Then he cut off their hands and feet, branded their eyes and left them in Harrah until they died."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ أَبِي الْوَزِيرِ، حَدَّثَنَا الدَّرَاوَرْدِيُّ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ قَوْمًا، أَغَارُوا عَلَى لِقَاحِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَطَعَ النَّبِيُّ صلى الله عليه وسلم أَيْدِيَهُمْ وَأَرْجُلَهُمْ وَسَمَلَ أَعْيُنَهُمْ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that :",
+        "text": "some people raided the she-camels of the Messenger of Allah (ﷺ) , so the Prophet(ﷺ) cut off their hands and feet (on opposite sides) and lanced (gouged out) their eyes."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ طَلْحَةَ بْنِ عَبْدِ اللَّهِ بْنِ عَوْفٍ، عَنْ سَعِيدِ بْنِ زَيْدِ بْنِ عَمْرِو بْنِ نُفَيْلٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Sa'eed bin Zaid bin 'Amr bin Nufail that the Prophet (ﷺ) said:",
+        "text": "“Whoever is killed defending his property, he is a martyr.”"
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا الْخَلِيلُ بْنُ عَمْرٍو، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، حَدَّثَنَا يَزِيدُ بْنُ سِنَانٍ الْجَزَرِيُّ، عَنْ مَيْمُونِ بْنِ مِهْرَانَ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أُتِيَ عِنْدَ مَالِهِ فُقُوتِلَ فَقَاتَلَ فَقُتِلَ فَهُوَ شَهِيدٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn `Umar that the Messenger of Allah (ﷺ) said:",
+        "text": "“If a man's property is targeted, and he is fought and fights back and is killed, he is a martyr.”"
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُطَّلِبِ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَسَنِ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أُرِيدَ مَالُهُ ظُلْمًا فَقُتِلَ فَهُوَ شَهِيدٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "“The Messenger of Allah (ﷺ) said: 'If a man's property is wrongfully targeted, and he is killed, he is a martyr.”"
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لَعَنَ اللَّهُ السَّارِقَ يَسْرِقُ الْبَيْضَةَ فَتُقْطَعُ يَدُهُ وَيَسْرِقُ الْحَبْلَ فَتُقْطَعُ يَدُهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (S.A.W.) said:",
+        "text": "“May Allah curse the thief! He steals an egg and his hand is cut off, and he steals a rope and his hand is cut off”"
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بَنُ مُسْهِرٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَطَعَ النَّبِيُّ صلى الله عليه وسلم فِي مِجَنٍّ قِيمَتُهُ ثَلاَثَةُ دَرَاهِمَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Umar said:",
+        "text": "“The Prophet (S.A.W.) cut off (the hand of a thief) for a shield worth three Dirham.”"
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو مَرْوَانَ الْعُثْمَانِيُّ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ عَمْرَةَ، أَخْبَرَتْهُ عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تُقْطَعُ الْيَدُ إِلاَّ فِي رُبُعِ دِينَارٍ فَصَاعِدًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Aishah that the Messenger of Allah (S.A.W.) said:",
+        "text": "“Do not cut off (the thief's hand) except for something worth one quarter of a Dinar or more"
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو هِشَامٍ الْمَخْزُومِيُّ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا أَبُو وَاقِدٍ، عَنْ عَامِرِ بْنِ سَعْدٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ تُقْطَعُ يَدُ السَّارِقِ فِي ثَمَنِ الْمِجَنِّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Amir bin Sa'd, from this father, that the Prophet (ﷺ) said:",
+        "text": "“The hand of the thief is to be cut off for the price of a shield."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو بِشْرٍ بَكْرُ بْنُ خَلَفٍ وَمُحَمَّدُ بْنُ بَشَّارٍ وَأَبُو سَلَمَةَ الْجُوبَارِيُّ يَحْيَى بْنُ خَلَفٍ قَالُوا حَدَّثَنَا عُمَرُ بْنُ عَلِيِّ بْنِ عَطَاءِ بْنِ مُقَدَّمٍ، عَنْ حَجَّاجٍ، عَنْ مَكْحُولٍ، عَنِ ابْنِ مُحَيْرِيزٍ، قَالَ سَأَلْتُ فَضَالَةَ بْنَ عُبَيْدٍ عَنْ تَعْلِيقِ الْيَدِ، فِي الْعُنُقِ فَقَالَ السُّنَّةُ قَطَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَ رَجُلٍ ثُمَّ عَلَّقَهَا فِي عُنُقِهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Muhairiz said:",
+        "text": "“I asked Fadalah bin Ubaid about hanging the hand (of the thief) from this neck, and he said: 'It is sunnah. The messenger of Allah (ﷺ) cut off a man's hand then hung it from his neck'''"
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، أَنْبَأَنَا ابْنُ لَهِيعَةَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ ثَعْلَبَةَ الأَنْصَارِيِّ، عَنْ أَبِيهِ، أَنَّ عَمْرَو بْنَ سَمُرَةَ بْنِ حَبِيبِ بْنِ عَبْدِ شَمْسٍ، جَاءَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي سَرَقْتُ جَمَلاً لِبَنِي فُلاَنٍ فَطَهِّرْنِي ‏.‏ فَأَرْسَلَ إِلَيْهِمُ النَّبِيُّ صلى الله عليه وسلم فَقَالُوا إِنَّا افْتَقَدْنَا جَمَلاً لَنَا فَأَمَرَ بِهِ النَّبِيُّ صلى الله عليه وسلم فَقُطِعَتْ يَدُهُ ‏.‏ قَالَ ثَعْلَبَةُ أَنَا أَنْظُرُ إِلَيْهِ حِينَ وَقَعَتْ يَدُهُ وَهُوَ يَقُولُ الْحَمْدُ لِلَّهِ الَّذِي طَهَّرَنِي مِنْكِ أَرَدْتِ أَنْ تُدْخِلِي جَسَدِي النَّارَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abdur-Rahman bin Tha’labah Al-Ansari, from his father, that Amr bin Samurah bin Habib bin Abd Shams came to the Messenger of Allah (ﷺ) and said:",
+        "text": "“O Messenger of Allah (ﷺ)! I stole a camel belonging to Banu so-and-so; purify me!” The Prophet (ﷺ) sent word to them and they said: “(Yes), we have lost a camel of ours.” So the Prophet (ﷺ) ordered that his hand be cut off. Tha'labah said: “I was looking at him when his hand fell and he said (to it) 'Praise is to Allah (STW) Who has purified me of you; you wanted to cause my whole body to enter Hell.'''"
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ أَبِي عَوَانَةَ، عَنْ عُمَرَ بْنِ أَبِي سَلَمَةَ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا سَرَقَ الْعَبْدُ فَبِيعُوهُ وَلَوْ بِنَشٍّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+        "text": "“If a slave steals, then sell him, even for half Price.' ”"
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا جُبَارَةُ بْنُ الْمُغَلِّسِ، حَدَّثَنَا حَجَّاجُ بْنُ تَمِيمٍ، عَنْ مَيْمُونِ بْنِ مِهْرَانَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ عَبْدًا، مِنْ رَقِيقِ الْخُمُسِ سَرَقَ مِنَ الْخُمُسِ فَرُفِعَ ذَلِكَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَلَمْ يَقْطَعْهُ وَقَالَ ‏\n\"‏ مَالُ اللَّهِ عَزَّ وَجَلَّ سَرَقَ بَعْضُهُ بَعْضًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Abbas that :",
+        "text": "one of the slaves of Khumus stole something from the Khumus, and the matter was referred to the Prophet (ﷺ) but he did not cut off his hand, and he said ' The Property of Allah, (STW)  part of it stealing another part.' ”"
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يُقْطَعُ الْخَائِنُ وَلاَ الْمُنْتَهِبُ وَلاَ الْمُخْتَلِسُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir bin Abdullah that the Messenger of Allah (ﷺ) said:",
+        "text": "“The hand of the one who betrays a trust, the robber and the pilferer is not to be cut off”."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا مُحَمَّدُ بْنُ عَاصِمِ بْنِ جَعْفَرٍ الْمِصْرِيُّ، حَدَّثَنَا الْمُفَضَّلُ بْنُ فَضَالَةَ، عَنْ يُونُسَ بْنِ يَزِيدَ، عَنِ ابْنِ شِهَابٍ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لَيْسَ عَلَى الْمُخْتَلِسِ قَطْعٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibrahim bin Abdur-Rahman bin Awf that his father said:",
+        "text": "“I heard the Messenger of Allah (ﷺ) say: 'The hand of the pilferer is not to be cut off”."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ عَمِّهِ، وَاسِعِ بْنِ حَبَّانَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ قَطْعَ فِي ثَمَرٍ وَلاَ كَثَرٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Rafi bin Khadij that the Messenger of Allah (ﷺ) said:",
+        "text": "“The hand is not to be cut off for (stealing) produce or the spadix of palm trees.”"
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سَعْدُ بْنُ سَعِيدٍ الْمَقْبُرِيُّ، عَنْ أَخِيهِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ قَطْعَ فِي ثَمَرٍ وَلاَ كَثَرٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+        "text": "“The hand is not to be cut off for (stealing) produce or the spadix of palm trees.”"
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنِ الزُّهْرِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ صَفْوَانَ، عَنْ أَبِيهِ، أَنَّهُ نَامَ فِي الْمَسْجِدِ وَتَوَسَّدَ رِدَاءَهُ فَأُخِذَ مِنْ تَحْتِ رَأْسِهِ فَجَاءَ بِسَارِقِهِ إِلَى النَّبِيِّ صلى الله عليه وسلم فَأَمَرَ بِهِ النَّبِيُّ صلى الله عليه وسلم أَنْ يُقْطَعَ فَقَالَ صَفْوَانُ يَا رَسُولَ اللَّهِ لَمْ أُرِدْ هَذَا رِدَائِي عَلَيْهِ صَدَقَةٌ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ فَهَلاَّ قَبْلَ أَنْ تَأْتِيَنِي بِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abdullah bin Safwan that :",
+        "text": "his father slept in the mosque, using his upper wrap as a pillow, and it was taken from beneath his head. He brought the thief to the Prophet (ﷺ) and the Prophet (ﷺ) ordered that his hand be cut off. Safwan said: “O Messenger of Allah , (ﷺ) I did not want this! I give my upper wrap to him in charity.” The Messenger of Allah (ﷺ) said: “Why did you not give it to him before you brought him to me?”"
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْوَلِيدِ بْنِ كَثِيرٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَجُلاً، مِنْ مُزَيْنَةَ سَأَلَ النَّبِيَّ صلى الله عليه وسلم عَنِ الثِّمَارِ فَقَالَ ‏\"‏ مَا أُخِذَ فِي أَكْمَامِهِ فَاحْتُمِلَ فَثَمَنُهُ وَمِثْلُهُ مَعَهُ وَمَا كَانَ فِي الْجِرَانِ فَفِيهِ الْقَطْعُ إِذَا بَلَغَ ذَلِكَ ثَمَنَ الْمِجَنِّ وَإِنْ أَكَلَ وَلَمْ يَأْخُذْ فَلَيْسَ عَلَيْهِ ‏\"‏ ‏.‏ قَالَ الشَّاةُ الْحَرِيسَةُ مِنْهُنَّ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ ثَمَنُهَا وَمِثْلُهُ مَعَهُ وَالنَّكَالُ وَمَا كَانَ فِي الْمُرَاحِ فَفِيهِ الْقَطْعُ إِذَا كَانَ مَا يَأْخُذُ مِنْ ذَلِكَ ثَمَنَ الْمِجَنِّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "XOIt was narrated from Amr bin Shu'aib, from his father, from his grandfather, that a man from Muzainah asked the Prophet (ﷺ) about fruits. :",
+        "text": "He said: “What is taken from the tree and carried away, its value and the like of it along with it (meaning double its price must be paid). What (is taken) from the place where dates are dried, (the penalty) is cutting off the hand if the amount taken is equal to the price of a shield. But if (the person) eats it and does not take it away, there is no penalty.” He said: “What about the sheep taken from the pasture, O Messenger of Allah (ﷺ)?” He said: “(The thief) must pay double its price and be punished, and if it was in the pen then his hand should be cut off, if what was taken was worth the price of a shield.”"
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سَعِيدُ بْنُ يَحْيَى، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ إِسْحَاقَ بْنِ أَبِي طَلْحَةَ، سَمِعْتُ أَبَا الْمُنْذِرِ، - مَوْلَى أَبِي ذَرٍّ - يَذْكُرُ أَنَّ أَبَا أُمَيَّةَ، حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُتِيَ بِلِصٍّ فَاعْتَرَفَ اعْتِرَافًا وَلَمْ يُوجَدْ مَعَهُ الْمَتَاعُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا إِخَالُكَ سَرَقْتَ ‏\"‏ ‏.‏ قَالَ بَلَى ‏.‏ ثُمَّ قَالَ ‏\"‏ مَا إِخَالُكَ سَرَقْتَ ‏\"‏ ‏.‏ قَالَ بَلَى ‏.‏ فَأَمَرَ بِهِ فَقُطِعَ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ قُلْ أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ ‏\"‏ ‏.‏ قَالَ أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ ‏.‏ قَالَ ‏\"‏ اللَّهُمَّ تُبْ عَلَيْهِ ‏\"‏ ‏.‏ مَرَّتَيْنِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ishaq bin Abu Talhah:",
+        "text": "“I heard Abu Mundhir, the freed slave of Abu Dharr, say that Abu Umayyah narrated to him, that a thief was brought to the Messenger of Allah (ﷺ) and he admitted his crime, although the stolen goods were not found with him. The Messenger of Allah (ﷺ) said: 'I do not think you stole them.’ He said: 'Yes I did.' Then he said (again): ‘I do not think that you stole them.’ and he said: 'Yes I did.' Then he ordered that his hand be cut off. The Prophet (ﷺ) ' Say: I seek Allah's forgiveness and I repent to Him.' So he (the thief) said: 'I seek Allah's forgiveness and I repent to him.' He (the Prophet (ﷺ) said twice: 'O Allah! Accept his repentance.”"
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مَيْمُونٍ الرَّقِّيُّ، وَأَيُّوبُ بْنُ مُحَمَّدٍ الْوَزَّانُ، وَعَبْدُ اللَّهِ بْنُ سَعِيدٍ، قَالُوا حَدَّثَنَا مُعَمَّرُ بْنُ سُلَيْمَانَ، أَنْبَأَنَا الْحَجَّاجُ بْنُ أَرْطَاةَ، عَنْ عَبْدِ الْجَبَّارِ بْنِ وَائِلٍ، عَنْ أَبِيهِ، قَالَ اسْتُكْرِهَتِ امْرَأَةٌ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَدَرَأَ عَنْهَا الْحَدَّ وَأَقَامَهُ عَلَى الَّذِي أَصَابَهَا ‏.‏ وَلَمْ يَذْكُرْ أَنَّهُ جَعَلَ لَهَا مَهْرًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdul Jabbar bin Wa'il that his father said:",
+        "text": "“A Woman was coerced (i.e., raped) during the time of Messenger of Allah (ﷺ) He waived the legal punishment for her and carried it out on the one who had attacked her, but he (the narrator) did not say that he rules that she should be given a bridal-money.”"
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، ح وَحَدَّثَنَا الْحَسَنُ بْنُ عَرَفَةَ، حَدَّثَنَا أَبُو حَفْصٍ الأَبَّارُ، جَمِيعًا عَنْ إِسْمَاعِيلَ بْنِ مُسْلِمٍ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تُقَامُ الْحُدُودُ فِي الْمَسَاجِدِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Abbas that the Messenger of Allah (ﷺ) said:",
+        "text": "“Do not carry out the legal punishment in the mosque.”"
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ لَهِيعَةَ، عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ، أَنَّهُ سَمِعَ عَمْرَو بْنَ شُعَيْبٍ، يُحَدِّثُ عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ جَلْدِ الْحَدِّ فِي الْمَسَاجِدِ ‏.‏",
+      "english": {
+        "narrator": "'Amr bin Shu'aib narrated from his father, from his grandfather, that:",
+        "text": "the Messenger of Allah (ﷺ) forbade lashing for the legal punishment in the mosques."
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ جَابِرِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي بُرْدَةَ بْنِ نِيَارٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ ‏\n\"‏ لاَ يُجْلَدُ أَحَدٌ فَوْقَ عَشْرِ جَلَدَاتٍ إِلاَّ فِي حَدٍّ مِنْ حُدُودِ اللَّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Burdah bin Niyar that the Messenger of Allah (ﷺ) used to say:",
+        "text": "“No one should be given more than ten lashes, except in the case of one of the legal punishments of Allah (SWT).”"
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا عَبَّادُ بْنُ كَثِيرٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تُعَزِّرُوا فَوْقَ عَشَرَةِ أَسْوَاطٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+        "text": "“Do not punish with more than ten whips.”"
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، وَابْنُ أَبِي عَدِيٍّ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الأَشْعَثِ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَصَابَ مِنْكُمْ حَدًّا فَعُجِّلَتْ لَهُ عُقُوبَتُهُ فَهُوَ كَفَّارَتُهُ وَإِلاَّ فَأَمْرُهُ إِلَى اللَّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ubadah bin Samit that the Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever among you undergoes a Hadd, his punishment has been brought forward, and it is an expiation for him otherwise his case rests with Allah.”"
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ الْحَمَّالُ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، حَدَّثَنَا يُونُسُ بْنُ أَبِي إِسْحَاقَ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي جُحَيْفَةَ، عَنْ عَلِيٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَصَابَ فِي الدُّنْيَا ذَنْبًا فَعُوقِبَ بِهِ فَاللَّهُ أَعْدَلُ مِنْ أَنْ يُثَنِّيَ عُقُوبَتَهُ عَلَى عَبْدِهِ وَمَنْ أَذْنَبَ ذَنْبًا فِي الدُّنْيَا فَسَتَرَهُ اللَّهُ عَلَيْهِ فَاللَّهُ أَكْرَمُ مِنْ أَنْ يَعُودَ فِي شَىْءٍ قَدْ عَفَا عَنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ali that the Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever commits a sin in this world and is punished for it, Allah (STW) is too just to repeat the punishment for his slave (in the hereafter). And whoever commits a sin in this world and Allah conceals him, Allah is too generous to go back to something that He has pardoned.”"
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، وَمُحَمَّدُ بْنُ عُبَيْدٍ الْمَدِينِيُّ أَبُو عُبَيْدٍ، قَالاَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ الدَّرَاوَرْدِيُّ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ سَعْدَ بْنَ عُبَادَةَ الأَنْصَارِيَّ، قَالَ يَا رَسُولَ اللَّهِ الرَّجُلُ يَجِدُ مَعَ امْرَأَتِهِ رَجُلاً أَيَقْتُلُهُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ ‏\"‏ ‏.‏ قَالَ سَعْدٌ بَلَى وَالَّذِي أَكْرَمَكَ بِالْحَقِّ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اسْمَعُوا مَا يَقُولُ سَيِّدُكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that Sa'd bin Ubadah Al-Ansari said:",
+        "text": "“O Messenger of Allah (ﷺ) if a man finds another man with his wife, should he kill him?” The Messenger of Allah (ﷺ) said: “No.” Sa'd said: “Yes he should, by the one who honored you with the Truth!” The Messenger of Allah (ﷺ) said: “Listen to what your leader says!”"
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنِ الْفَضْلِ بْنِ دَلْهَمٍ، عَنِ الْحَسَنِ، عَنْ قَبِيصَةَ بْنِ حُرَيْثٍ، عَنْ سَلَمَةَ بْنِ الْمُحَبِّقِ، قَالَ قِيلَ لأَبِي ثَابِتٍ سَعْدِ بْنِ عُبَادَةَ حِينَ نَزَلَتْ آيَةُ الْحُدُودِ وَكَانَ رَجُلاً غَيُورًا أَرَأَيْتَ لَوْ أَنَّكَ وَجَدْتَ مَعَ أُمِّ ثَابِتٍ رَجُلاً أَىَّ شَىْءٍ كُنْتَ تَصْنَعُ قَالَ كُنْتُ ضَارِبَهُمَا بِالسَّيْفِ أَنْتَظِرُ حَتَّى أَجِيءَ بِأَرْبَعَةٍ إِلَى مَا ذَاكَ قَدْ قَضَى حَاجَتَهُ وَذَهَبَ ‏.‏ أَوْ أَقُولُ رَأَيْتُ كَذَا وَكَذَا فَتَضْرِبُونِي الْحَدَّ وَلاَ تَقْبَلُوا لِي شَهَادَةً أَبَدًا ‏.‏ قَالَ فَذُكِرَ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\"‏ كَفَى بِالسَّيْفِ شَاهِدًا ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ لاَ إِنِّي أَخَافُ أَنْ يَتَتَايَعَ فِي ذَلِكَ السَّكْرَانُ وَالْغَيْرَانُ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ يَعْنِي ابْنَ مَاجَهْ سَمِعْتُ أَبَا زُرْعَةَ يَقُولُ هَذَا حَدِيثُ عَلِيِّ بْنِ مُحَمَّدٍ الطَّنَافِسِيِّ وَفَاتَنِي مِنْهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Salamah bin Muhabbiq said:",
+        "text": "“When the Verse of legal punishments was revealed, it was said to Abu Thabit Sa'd bin Ubadah, who was a jealous man: ‘If you found another man with your wife, what would you do?’ He said: “I would strike them both wife the sword; do you think I should wait until I bring four (witness) and he has satisfied himself and gone away? Or should I say I saw such and such, and you will carry out the legal punishment punishment on me (for slander) and never accept my testimony thereafter?' Mention of that was made to the prophet (ﷺ) and he said: “The sword is sufficient as a witness.' Then he said: 'No (on second thought) I am afraid that the drunkard and the jealous would pursue that.” (Da'if)\n\nAbu Abdullah - meaning Ibn Majah - said: “I heard Abu Zurah saying: “This is a Hadith of Ali bin Muhammad At-Tanafisi, I did not hear it from him.”"
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى، حَدَّثَنَا هُشَيْمٌ، ح وَحَدَّثَنَا سَهْلُ بْنُ أَبِي سَهْلٍ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، جَمِيعًا عَنْ أَشْعَثَ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ مَرَّ بِي خَالِي - سَمَّاهُ هُشَيْمٌ فِي حَدِيثِهِ الْحَارِثَ بْنَ عَمْرٍو - وَقَدْ عَقَدَ لَهُ النَّبِيُّ صلى الله عليه وسلم لِوَاءً فَقُلْتُ لَهُ أَيْنَ تُرِيدُ فَقَالَ بَعَثَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى رَجُلٍ تَزَوَّجَ امْرَأَةَ أَبِيهِ مِنْ بَعْدِهِ فَأَمَرَنِي أَنْ أَضْرِبَ عُنُقَهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Bara bin Azib said:",
+        "text": "“My maternal uncle passed by me - (one of the narrators) Hushaim named him in his narration as Harith bin Amr - and the Prophet (ﷺ) had given him a banner to carry. I said to him: 'Where are you going?’ He said: 'The Messenger of Allah (ﷺ) has sent me to a man who married his father's wife after he died, and has commanded me to strike his neck (i.e. execute him).”"
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ ابْنُ أَخِي الْحُسَيْنِ الْجُعْفِيِّ، حَدَّثَنَا يُوسُفُ بْنُ مَنَازِلَ التَّيْمِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنْ خَالِدِ بْنِ أَبِي كَرِيمَةَ، عَنْ مُعَاوِيَةَ بْنِ قُرَّةَ، عَنْ أَبِيهِ، قَالَ بَعَثَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى رَجُلٍ تَزَوَّجَ امْرَأَةَ أَبِيهِ أَنْ أَضْرِبَ عُنُقَهُ وَأُصَفِّيَ مَالَهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Mu'awiyah bin Qurrah that his father said:",
+        "text": "“The Messenger of Allah (ﷺ) sent me to a man who had married his father's wife after he died, to strike his neck (execute him) and confiscate his wealth.”"
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بِشْرٍ، بَكْرُ بْنُ خَلَفٍ حَدَّثَنَا ابْنُ أَبِي الضَّيْفِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُثْمَانَ بْنِ خُثَيْمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنِ انْتَسَبَ إِلَى غَيْرِ أَبِيهِ أَوْ تَوَلَّى غَيْرَ مَوَالِيهِ فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلاَئِكَةِ وَالنَّاسِ أَجْمَعِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Abbas that the Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever claims to belong to someone other than his father, or (a freed slave) who claims that his Wala is for other than his real master, the curse of Allah (SWT), the angels and all the people will be upon him.”"
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، قَالَ سَمِعْتُ سَعْدًا، وَأَبَا، بَكْرَةَ وَكُلُّ وَاحِدٍ مِنْهُمَا يَقُولُ سَمِعَتْ أُذُنَاىَ، وَوَعَى، قَلْبِي مُحَمَّدًا صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنِ ادَّعَى إِلَى غَيْرِ أَبِيهِ وَهُوَ يَعْلَمُ أَنَّهُ غَيْرُ أَبِيهِ فَالْجَنَّةُ عَلَيْهِ حَرَامٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Uthman Nahdi said:",
+        "text": "“I heard Sa'd and Abu Bakrah both say that they heard directly from Muhammad (ﷺ) saying it and memorized: 'Whoever claims to belong to someone other than his father knowing the he is not his father, Paradise will be forbidden to him.”"
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ، عَنْ عَبْدِ الْكَرِيمِ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنِ ادَّعَى إِلَى غَيْرِ أَبِيهِ لَمْ يَرَحْ رَائِحَةَ الْجَنَّةِ وَإِنَّ رِيحَهَا لَيُوجَدُ مِنْ مَسِيرَةِ خَمْسِمِائَةِ عَامٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abdullah bin Amr that the Messenger of Allah (ﷺ) said:",
+        "text": "“Whoever claims to belong to someone other than his father will not smell the fragrance of Paradise, even though its fragrance may be detected from a distance of five hundred years.”"
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، ح وَحَدَّثَنَا هَارُونُ بْنُ حَيَّانَ، أَنْبَأَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُغِيرَةِ، قَالاَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ عَقِيلِ بْنِ طَلْحَةَ السُّلَمِيِّ، عَنْ مُسْلِمِ بْنِ هَيْصَمٍ، عَنِ الأَشْعَثِ بْنِ قَيْسٍ، قَالَ أَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فِي وَفْدِ كِنْدَةَ وَلاَ يَرَوْنِي أَفْضَلَهُمْ فَقُلْتُ يَا رَسُولَ اللَّهِ أَلَسْتُمْ مِنَّا ‏.‏ فَقَالَ ‏\n\"‏ نَحْنُ بَنُو النَّضْرِ بْنِ كِنَانَةَ لاَ نَقْفُو أُمَّنَا وَلاَ نَنْتَفِي مِنْ أَبِينَا ‏\"‏ ‏.‏ قَالَ فَكَانَ الأَشْعَثُ بْنُ قَيْسٍ يَقُولُ لاَ أُوتَى بِرَجُلٍ نَفَى رَجُلاً مِنْ قُرَيْشٍ مِنَ النَّضْرِ بْنِ كِنَانَةَ إِلاَّ جَلَدْتُهُ الْحَدَّ ‏.‏",
+      "english": {
+        "narrator": "Muslim bin Haisam narrated from Ash'ath bin Qais who said:",
+        "text": "“I came to the Messenger of Allah (ﷺ) with a delegation from Kindah, and they thought that I was the best of them. I said: 'O Messenger of Allah (ﷺ) are you not from among us?' He said: 'We are the tribe of Banu Nadr bin Kinanah, and we do not attribute ourselves to our mother and we do not deny our forefathers.'”He said: “Ash'ath bin Qais used to say: 'If any man is brought to me who suggests that a man from Quraish does not belong to Nadr bin Kinanah, I would carry out the legal punishment (for slander) on him.'”"
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ أَبِي الرَّبِيعِ الْجُرْجَانِيُّ، أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنِي يَحْيَى بْنُ الْعَلاَءِ، أَنَّهُ سَمِعَ بِشْرَ بْنَ نُمَيْرٍ، أَنَّهُ سَمِعَ مَكْحُولاً، يَقُولُ إِنَّهُ سَمِعَ يَزِيدَ بْنَ عَبْدِ اللَّهِ، أَنَّهُ سَمِعَ صَفْوَانَ بْنَ أُمَيَّةَ، قَالَ كُنَّا عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَجَاءَ عَمْرُو بْنُ قُرَّةَ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ اللَّهَ قَدْ كَتَبَ عَلَىَّ الشِّقْوَةَ فَمَا أُرَانِي أُرْزَقُ إِلاَّ مِنْ دُفِّي بِكَفِّي فَأْذَنْ لِي فِي الْغِنَاءِ فِي غَيْرِ فَاحِشَةٍ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ آذَنُ لَكَ وَلاَ كَرَامَةَ وَلاَ نُعْمَةَ عَيْنٍ كَذَبْتَ أَىْ عَدُوَّ اللَّهِ لَقَدْ رَزَقَكَ اللَّهُ طَيِّبًا حَلاَلاً فَاخْتَرْتَ مَا حَرَّمَ اللَّهُ عَلَيْكَ مِنْ رِزْقِهِ مَكَانَ مَا أَحَلَّ اللَّهُ عَزَّ وَجَلَّ لَكَ مِنْ حَلاَلِهِ ‏.‏ وَلَوْ كُنْتُ تَقَدَّمْتُ إِلَيْكَ لَفَعَلْتُ بِكَ وَفَعَلْتُ قُمْ عَنِّي وَتُبْ إِلَى اللَّهِ أَمَا إِنَّكَ إِنْ فَعَلْتَ بَعْدَ التَّقْدِمَةِ إِلَيْكَ ضَرَبْتُكَ ضَرْبًا وَجِيعًا وَحَلَقْتُ رَأْسَكَ مُثْلَةً وَنَفَيْتُكَ مِنْ أَهْلِكَ وَأَحْلَلْتُ سَلَبَكَ نُهْبَةً لِفِتْيَانِ أَهْلِ الْمَدِينَةِ ‏\"‏ ‏.‏ فَقَامَ عَمْرٌو وَبِهِ مِنَ الشَّرِّ وَالْخِزْىِ مَا لاَ يَعْلَمُهُ إِلاَّ اللَّهُ فَلَمَّا وَلَّى قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ هَؤُلاَءِ الْعُصَاةُ مَنْ مَاتَ مِنْهُمْ بِغَيْرِ تَوْبَةٍ حَشَرَهُ اللَّهُ عَزَّ وَجَلَّ يَوْمَ الْقِيَامَةِ كَمَا كَانَ فِي الدُّنْيَا مُخَنَّثًا عُرْيَانًا لاَ يَسْتَتِرُ مِنَ النَّاسِ بِهُدْبَةٍ كُلَّمَا قَامَ صُرِعَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Safwan bin Umayyah said:",
+        "text": "“We were with the Messenger of Allah (ﷺ) and Amr bin Murrah came and said: 'O Messenger of Allah (ﷺ), Allah (SWT) has decreed that I be doomed, and He has not guided me to earn a living except by beating my tambourine with my hand; give me permission to sing without doing anything immoral.' The Messenger of Allah (ﷺ) said: 'I will not give you permission, or honor you nor give you, what you want. You are lying, O enemy of Allah. Allah (SWT) has granted you a good, lawful provision, but you have chosen the provision that Allah (SWT) has forbidden to you instead of that which He has permitted. If I had warned you before, I would have done such and such to you. Get away from me and repent to Allah (SWT). If you do that again, after this warning, I will give you a painful beating and shave your head, to make an example of you, and I will banish you from among your people, and tell the young men of Al-Madinah to come and take your goods,'Amr stood up, suffering grief and humiliation that is known only to Allah (SWT).\nWhen he went away, the Prophet (ﷺ) said: 'Those sinners, whoever among them dies without having repented, Allah (SWT) will gather him on the Day of Resurrection just as he was in this world, effeminate and naked, with not even a piece of cloth to conceal him from the people. Every time he gets up, he will fall to the ground.'”"
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 20,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ زَيْنَبَ بِنْتِ أُمِّ سَلَمَةَ، عَنْ أُمِّ سَلَمَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ عَلَيْهَا فَسَمِعَ مُخَنَّثًا وَهُو يَقُولُ لِعَبْدِ اللَّهِ بْنِ أَبِي أُمَيَّةَ إِنْ يَفْتَحِ اللَّهُ الطَّائِفَ غَدًا دَلَلْتُكَ عَلَى امْرَأَةٍ تُقْبِلُ بِأَرْبَعٍ وَتُدْبِرُ بِثَمَانٍ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ أَخْرِجُوهُمْ مِنْ بُيُوتِكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Umm Salamah that :",
+        "text": "the Prophet (ﷺ) entered upon her, and heard an effeminate man saying to Abdullah bin Abu Umayyah: “If Allah enable us to conquer Ta'if tomorrow, I will show you a woman who comes in on four (roll of fat) and goes out on eight” The Prophet (ﷺ) said: “Throw them out of your houses.”"
+      }
+    }
+  ]
+}

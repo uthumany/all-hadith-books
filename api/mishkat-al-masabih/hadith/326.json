@@ -1,0 +1,16 @@
+{
+  "id": 326,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ شِبْلٍ قَالَ: نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَن نَقْرَةِ الْغُرَابِ وَافْتِرَاشِ السَّبُعِ وَأَنْ يُوَطِّنَ الرَّجُلُ الْمَكَانَ فِي الْمَسْجِدِ كَمَا يُوَطِّنُ الْبَعِيرُ. رَوَاهُ أَبُو دَاوُد وَالنَّسَائِيّ والدارمي",
+  "english": {
+    "narrator": "",
+    "text": "‘Abd ar-Rahman b. Shibl said that God’s Messenger forbade a crow’s peck,* extending the forearms like a wild animal, and imitating a camel by a man making one spot his regular place in the mosque. \n\n* An exaggerated way of speaking of a very short prostration.\n\nAbu Dawud, Nasa’i and Darimi transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

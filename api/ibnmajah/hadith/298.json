@@ -1,0 +1,16 @@
+{
+  "id": 298,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا يَعْلَى بْنُ الْحَارِثِ، قَالَ سَمِعْتُ إِيَاسَ بْنَ سَلَمَةَ بْنِ الأَكْوَعِ، عَنْ أَبِيهِ، قَالَ كُنَّا نُصَلِّي مَعَ النَّبِيِّ ـ صلى الله عليه وسلم ـ الْجُمُعَةَ ثُمَّ نَرْجِعُ، فَلاَ نَرَى لِلْحِيطَانِ فَيْئًا نَسْتَظِلُّ بِهِ ‏.‏",
+  "english": {
+    "narrator": "Iyas bin\nSalamah bin Akwa’ narrated that his father said:",
+    "text": "“We used to\nperform Friday (prayer) with the Prophet (ﷺ), then we would return,\nand we would not see any shadow from the walls in which we could seek\nshade.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

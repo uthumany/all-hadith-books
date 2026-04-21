@@ -1,0 +1,16 @@
+{
+  "id": 576,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكَّارٍ، حَدَّثَنَا حِبَّانُ بْنُ عَلِيٍّ، عَنْ ضِرَارِ بْنِ مُرَّةَ، عَنْ حُصَيْنٍ الْمُزَنِيِّ، قَالَ قَالَ عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ عَلَى الْمِنْبَرِ أَيُّهَا النَّاسُ إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ لَا يَقْطَعُ الصَّلَاةَ إِلَّا الْحَدَثُ لَا أَسْتَحْيِيكُمْ مِمَّا لَا يَسْتَحْيِي مِنْهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ وَالْحَدَثُ أَنْ يَفْسُوَ أَوْ يَضْرِطَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Husain Al-Muzani said:",
+    "text": "‘Ali bin Abi Talib (رضي الله عنه) said on the minbar: O people, I heard the Messenger of Allah (ﷺ) say: “Nothing interrupts prayer except breaking wudoo’. `I will not be embarrassed about that which the Messenger of Allah (ﷺ) was not embarrassed about. He said: `Breaking wudoo’ means breaking wind silently or loudly.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

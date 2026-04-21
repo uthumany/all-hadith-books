@@ -1,0 +1,16 @@
+{
+  "id": 628,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة رضي الله عنها، قالت‏:‏ سمعت رسول الله صلى الله عليه وسلم  يقول‏:‏ “ إن المؤمن ليدرك بحسن خلقه درجة الصائم القائم” ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
+    "text": "I heard Messenger of Allah (ﷺ) saying: \"A believer will attain by his good behaviour the rank of one who prays during the night and observes fasting during the day.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

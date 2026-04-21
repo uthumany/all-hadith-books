@@ -1,0 +1,510 @@
+{
+  "page": 67,
+  "perPage": 50,
+  "totalPages": 87,
+  "totalCount": 4345,
+  "nextPage": 68,
+  "prevPage": 66,
+  "items": [
+    {
+      "id": 16,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا مُوسَى بْنُ الْفَضْلِ، عَنْ شُعْبَةَ، عَنْ هِشَامِ بْنِ زَيْدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَسِمُ غَنَمًا فِي آذَانِهَا وَرَأَيْتُهُ مُتَّزِرًا بِكِسَاءٍ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Anas bin Malik said:",
+        "text": "“I saw the Messenger of\nAllah\n(ﷺ) marking sheep on their ears, and I saw him wearing a cloak\naround his wrist.”"
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ رَجَاءٍ الْمَكِّيُّ، عَنِ ابْنِ خُثَيْمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ خَيْرُ ثِيَابِكُمُ الْبَيَاضُ فَالْبَسُوهَا وَكَفِّنُوا فِيهَا مَوْتَاكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Ibn ‘Abbas that the Messenger of Allah (ﷺ)\nsaid:",
+        "text": "“The best of your garments are the white ones, so wear them and\nshroud your dead in them.”"
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ مَيْمُونِ بْنِ أَبِي شَبِيبٍ، عَنْ سَمُرَةَ بْنِ جُنْدَبٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ الْبَسُوا ثِيَابَ الْبَيَاضِ فَإِنَّهَا أَطْهَرُ وَأَطْيَبُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Samurah bin Jundab that the Messenger of Allah\n(ﷺ)\nsaid:",
+        "text": "“Wear white garments, for they are purer and better.”"
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حَسَّانَ الأَزْرَقُ، حَدَّثَنَا عَبْدُ الْمَجِيدِ بْنُ أَبِي رَوَّادٍ، حَدَّثَنَا مَرْوَانُ بْنُ سَالِمٍ، عَنْ صَفْوَانَ بْنِ عَمْرٍو، عَنْ شُرَيْحِ بْنِ عُبَيْدٍ الْحَضْرَمِيِّ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِنَّ أَحْسَنَ مَا زُرْتُمُ اللَّهَ بِهِ فِي قُبُورِكُمْ وَمَسَاجِدِكُمُ الْبَيَاضُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Abu Darda’ that the Messenger of Allah (ﷺ)\nsaid:",
+        "text": "“The best of that in which you visit Allah in your graves and\nyour\nmosque is white (garments).”*"
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، ح وَحَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، جَمِيعًا عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ إِنَّ الَّذِي يَجُرُّ ثَوْبَهُ مِنَ الْخُيَلاَءِ لاَ يَنْظُرُ اللَّهُ إِلَيْهِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Ibn ‘Umar that the Messenger of Allah (ﷺ)\nsaid:",
+        "text": "“Whoever lets his garment drag out of pride, Allah will not look\nat\nhim on the Day of Resurrection.”"
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ عَطِيَّةَ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ جَرَّ إِزَارَهُ مِنَ الْخُيَلاَءِ لَمْ يَنْظُرِ اللَّهُ إِلَيْهِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ \n قَالَ فَلَقِيتُ ابْنَ عُمَرَ بِالْبَلاَطِ فَذَكَرْتُ لَهُ حَدِيثَ أَبِي سَعِيدٍ عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ وَأَشَارَ إِلَى أُذُنَيْهِ سَمِعَتْهُ أُذُنَاىَ وَوَعَاهُ قَلْبِي ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from ‘Atiyyah, that Abu Sa’eed said:",
+        "text": "“The Messenger\nof\nAllah (ﷺ) said: ‘Whoever lets his lower wrap drag out of pride,\nAllah will not look at him on the Day of Resurrection.” He ( ‘Atiyyah) said \"I met Ibn 'Umar in Al-Balaat so I mentioned Abu Sa'eed's hadith from the Prophet (ﷺ). So he said and pointed to his ears 'My two ears heard it, and my heart preserved it.' \""
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ مَرَّ بِأَبِي هُرَيْرَةَ فَتًى مِنْ قُرَيْشٍ يَجُرُّ سَبَلَهُ فَقَالَ يَا ابْنَ أَخِي إِنِّي سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ مَنْ جَرَّ ثَوْبَهُ مِنَ الْخُيَلاَءِ لَمْ يَنْظُرِ اللَّهُ له يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that a young man of Quriash passed by Abu Hurairah\nwith his\ncloak dragging. He said:",
+        "text": "“O my nephew! I heard the Messenger\nof\nAllah (ﷺ) saying ‘Whoever let his garment drag out of pride,\nAllah will not look at him on the Day of Resurrection.’”"
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ مُسْلِمِ بْنِ نُذَيْرٍ، عَنْ حُذَيْفَةَ، قَالَ أَخَذَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِأَسْفَلِ عَضَلَةِ سَاقِي أَوْ سَاقِهِ فَقَالَ ‏\n\"‏ هَذَا مَوْضِعُ الإِزَارِ فَإِنْ أَبَيْتَ ‏.‏ فَأَسْفَلَ فَإِنْ أَبَيْتَ فَأَسْفَلَ فَإِنْ أَبَيْتَ فَلاَ حَقَّ لِلإِزَارِ فِي الْكَعْبَيْنِ ‏\"‏ ‏.‏ \n حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، حَدَّثَنِي أَبُو إِسْحَاقَ، عَنْ مُسْلِمِ بْنِ نُذَيْرٍ، عَنْ حُذَيْفَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Hudhaifah said:",
+        "text": "“The Messenger of Allah (ﷺ)\ntook\nhold of the lower part of my calf or his calf and said: ‘This is\nwhere the lower wrap should come to. If you insist, then lower, and\nif\nyou insist, then lower, but the lower wrap has no right to (come\nto)\nthe ankle.’”"
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، قَالَ قُلْتُ لأَبِي سَعِيدٍ هَلْ سَمِعْتَ مِنْ، رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ شَيْئًا فِي الإِزَارِ قَالَ نَعَمْ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\"‏ إِزْرَةُ الْمُؤْمِنِ إِلَى أَنْصَافِ سَاقَيْهِ لاَ جُنَاحَ عَلَيْهِ مَا بَيْنَهُ وَبَيْنَ الْكَعْبَيْنِ وَمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ فِي النَّارِ ‏\"‏ ‏.‏ يَقُولُ ثَلاَثًا ‏\"‏ لاَ يَنْظُرُ اللَّهُ إِلَى مَنْ جَرَّ إِزَارَهُ بَطَرًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from ‘Ala bin ‘Abdur-Rahman that his father said:",
+        "text": "“I\nsaid to Abu Sa’eed: ‘Did you hear anything from the Messenger of\nAllah\n(ﷺ) concerning the lower wrap?’ He said: ‘Yes. I heard\nthe Messenger\nof Allah (ﷺ) say: ‘The lower wrap of the believer\nshould come to\nmid-calf, but there is no sin on him if it comes\nbetween that point\nand the ankle. But whatever is lower than the\nankle is in the Fire.’\nAnd he said three times: ‘Allah will not\nlook at the one who lets his\nlower wrap drag out of vanity.’”"
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا شَرِيكٌ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ حُصَيْنِ بْنِ قَبِيصَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ يَا سُفْيَانَ بْنَ سَهْلٍ لاَ تُسْبِلْ فَإِنَّ اللَّهَ لاَ يُحِبُّ الْمُسْبِلِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Mughirah bin Shu’bah that the Messenger of Allah\n(ﷺ) said:",
+        "text": "“O Sufyan bin Sahl, do not let your garment hang, for\nAllah does not like those who let their garments hang below the\nankles.’”"
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، حَدَّثَنَا أَبُو تُمَيْلَةَ، عَنْ عَبْدِ الْمُؤْمِنِ بْنِ خَالِدٍ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أُمِّهِ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ لَمْ يَكُنْ ثَوْبٌ أَحَبَّ إِلَى رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ مِنَ الْقَمِيصِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Umm Salamah said:",
+        "text": "There was no garment more\nbeloved to\nthe Messenger of Allah (ﷺ) than the shirt.”"
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا الْحُسَيْنُ بْنُ عَلِيٍّ، عَنِ ابْنِ أَبِي رَوَّادٍ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ الإِسْبَالُ فِي الإِزَارِ وَالْقَمِيصِ وَالْعِمَامَةِ مَنْ جَرَّ شَيْئًا خُيَلاَءَ لَمْ يَنْظُرِ اللَّهُ إِلَيْهِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ قَالَ أَبُو بَكْرٍ مَا أَغْرَبَهُ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Salim, from his father, that the Prophet (ﷺ)\nsaid:",
+        "text": "“Hanging down may apply to the waist wrap, shirt or turban.\nWhoever\nlets any of these drag out of pride, Allah will not look at\nhim on\nthe Day of Resurrection.”"
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ الأَوْدِيُّ، حَدَّثَنَا أَبُو غَسَّانَ، قَالَ حَدَّثَنَا حَسَنُ بْنُ صَالِحٍ، ح وَحَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا أَبِي، عَنِ الْحَسَنِ بْنِ صَالِحٍ، عَنْ مُسْلِمٍ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَلْبَسُ قَمِيصًا قَصِيرَ الْيَدَيْنِ وَالطُّولِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Ibn ‘Abbas said:",
+        "text": "“The Messenger of Allah (ﷺ)\nused\nto wear a shirt that was short in the sleeves and length.”"
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا ابْنُ دُكَيْنٍ، عَنْ زُهَيْرٍ، عَنْ عُرْوَةَ بْنِ عَبْدِ اللَّهِ بْنِ قُشَيْرٍ، حَدَّثَنِي مُعَاوِيَةُ بْنُ قُرَّةَ، عَنْ أَبِيهِ، قَالَ أَتَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ فَبَايَعْتُهُ وَإِنَّ زِرَّ قَمِيصِهِ لَمُطْلَقٌ ‏.‏ قَالَ عُرْوَةُ فَمَا رَأَيْتُ مُعَاوِيَةَ وَلاَ ابْنَهُ فِي شِتَاءٍ وَلاَ صَيْفٍ إِلاَّ مُطْلَقَةً أَزْرَارُهُمَا ‏.‏",
+      "english": {
+        "narrator": "Mu’awiyah bin Qurrah narrated that his father said:",
+        "text": "“I came to\nthe\nMessenger of Allah (ﷺ) and gave him my pledge, and the buttons\nof\nhis shirt were undone.”"
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى، وَعَبْدُ الرَّحْمَنِ، قَالُوا حَدَّثَنَا سُفْيَانُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ سُوَيْدِ بْنِ قَيْسٍ، قَالَ أَتَانَا النَّبِيُّ ـ صلى الله عليه وسلم ـ فَسَاوَمَنَا سَرَاوِيلَ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Suwaid bin Qais said:",
+        "text": "“The Prophet (ﷺ) came to\nus\nand haggled with us over the price of trousers.”"
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ سُئِلَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ كَمْ تَجُرُّ الْمَرْأَةُ مِنْ ذَيْلِهَا قَالَ ‏\"‏ شِبْرًا ‏\"‏ ‏.‏ قُلْتُ إِذًا يَنْكَشِفَ عَنْهَا ‏.‏ قَالَ ذِرَاعٌ لاَ تَزِيدُ عَلَيْهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Umm Salamah said:",
+        "text": "“The Messenger of Allah (ﷺ)\nwas\nasked about how long a woman’s hem should hang down. He said: ‘A\nhand span.’ I said: ‘But then (her legs and feet) will be\nuncovered.’\nHe said: ‘Then a forearm’s length, but no more than\nthat.’”"
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ زَيْدٍ الْعَمِّيِّ، عَنْ أَبِي الصِّدِّيقِ النَّاجِيِّ، عَنِ ابْنِ عُمَرَ، أَنَّ أَزْوَاجَ النَّبِيِّ، ـ صلى الله عليه وسلم ـ رُخِّصَ لَهُنَّ فِي الذَّيْلِ ذِرَاعًا فَكُنَّ يَأْتِيَنَّا فَنَذْرَعُ لَهُنَّ بِالْقَصَبِ ذِرَاعًا ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Ibn ‘Umar:",
+        "text": "“The wives of the Prophet (ﷺ) were\nallowed to let their hems hang down, so they used to come to us and\nwe\nwould measure one forearms length for them with a reed.”"
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ أَبِي الْمُهَزِّمِ، عَنْ أَبِي هُرَيْرَةَ، ‏.‏ أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ لِفَاطِمَةَ أَوْ لأُمِّ سَلَمَةَ ‏\n\"‏ ذَيْلُكِ ذِرَاعٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Abu Hurairah that the Prophet (ﷺ) said to\nFatimah, or\nto Umm Salamah:",
+        "text": "“Let your hem down one forearm’s length.”"
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا حَبِيبٌ الْمُعَلِّمُ، عَنْ أَبِي الْمُهَزِّمِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ فِي ذُيُولِ النِّسَاءِ ‏\"‏ شِبْرًا ‏\"‏ ‏.‏ فَقَالَتْ عَائِشَةُ إِذًا تَخْرُجَ سُوقُهُنَّ ‏.‏ قَالَ ‏\"‏ فَذِرَاعٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from ‘Aishah that the Prophet (ﷺ) said, concerning\nhow\nlong a woman’s hem should hang down:",
+        "text": "“A hand span.” ‘Aishah\nsaid:\n“This may show her calves.” He said: “Then a forearm’s\nlength.”"
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ مُسَاوِرٍ الْوَرَّاقِ، عَنْ جَعْفَرِ بْنِ عَمْرِو بْنِ حُرَيْثٍ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ يَخْطُبُ عَلَى الْمِنْبَرِ وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Ja’far bin ‘Amr bin Huraith that his father\nsaid:",
+        "text": "“I saw the Prophet (ﷺ) delivering a sermon on the pulpit,\nwearing\na black turban.”"
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ دَخَلَ مَكَّةَ وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Jabir that the Prophet (ﷺ) entered Makkah\nwearing a\nblack turban."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ، أَنْبَأَنَا مُوسَى بْنُ عُبَيْدَةَ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ دَخَلَ يَوْمَ فَتْحِ مَكَّةَ وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Ibn ‘Umar that the Prophet (ﷺ) entered\n(Makkah), on\nthe Day of the Conquest of Makkah, wearing a black\nturban."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ مُسَاوِرٍ، حَدَّثَنِي جَعْفَرُ بْنُ عَمْرِو بْنِ حُرَيْثٍ، عَنْ أَبِيهِ، قَالَ كَأَنِّي أَنْظُرُ إِلَى رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ قَدْ أَرْخَى طَرَفَيْهَا بَيْنَ كَتِفَيْهِ ‏.‏",
+      "english": {
+        "narrator": "Ja’far\nbin ‘Amr bin Huraith narrated that his father said:",
+        "text": "“It is as\nif\nI can see the Messenger of Allah (ﷺ), wearing a black turban,\nwith\nthe ends hanging down his shoulders.”"
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا لَمْ يَلْبَسْهُ فِي الآخِرَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Anas bin Malik that the Messenger of Allah (ﷺ)\nsaid:",
+        "text": "“Whoever wears silk in this world will not wear it in the\nHereafter.”"
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الشَّيْبَانِيِّ، عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ، عَنْ مُعَاوِيَةَ بْنِ سُوَيْدٍ، عَنِ الْبَرَاءِ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِ الدِّيبَاجِ وَالْحَرِيرِ وَالإِسْتَبْرَقِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Bara’ bin ‘Azib said:",
+        "text": "“The Messenger of Allah\n(ﷺ) forbade brocade, silk, and embroidered brocade.”"
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ شُعْبَةَ، عَنِ الْحَكَمِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ حُذَيْفَةَ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنْ لُبْسِ الْحَرِيرِ وَالذَّهَبِ وَقَالَ ‏\n\"‏ هُوَ لَهُمْ فِي الدُّنْيَا وَلَنَا فِي الآخِرَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Hudhaifah said:",
+        "text": "“The Messenger of Allah (ﷺ)\nforbade\nwearing silk and gold. He said: ‘They are for them in this\nworld\nand for us in the Hereafter.’”"
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، أَخْبَرَهُ أَنَّ عُمَرَ بْنَ الْخَطَّابِ رَأَى حُلَّةً سِيَرَاءَ مِنْ حَرِيرٍ فَقَالَ يَا رَسُولَ اللَّهِ لَوِ ابْتَعْتَ هَذِهِ الْحُلَّةَ لِلْوَفْدِ وَلِيَوْمِ الْجُمُعَةِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِنَّمَا يَلْبَسُ هَذَا مَنْ لاَ خَلاَقَ لَهُ فِي الآخِرَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from ‘Abdullah bin ‘Umar that ‘Umar bin Khattab saw a\nsilken two piece suit (being offered for sale). He said:",
+        "text": "“O\nMessenger\nof Allah, why don’t you buy this two piece suit (to wear\nfor meeting)\nthe delegations, and on Fridays?” The Messenger of\nAllah (ﷺ) said:\n“This is only worn by one who has no share in the\nHereafter.”"
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، ‏.‏ أَنَّ أَنَسَ بْنَ مَالِكٍ، نَبَّأَهُمْ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ رَخَّصَ لِلزُّبَيْرِ بْنِ الْعَوَّامِ وَلِعَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ فِي قَمِيصَيْنِ مِنْ حَرِيرٍ مِنْ وَجَعٍ كَانَ بِهِمَا حِكَّةٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was\nnarrated from Anas bin Malik that the Messenger of Allah (ﷺ)\ngranted a concession to Zubair bin ‘Awwam and ‘Abdur-Rahman bin\n‘Auf,\nallowing them to wear silk shirts, because of a rash they\nwere\nsuffering from."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ عَاصِمٍ، عَنْ أَبِي عُثْمَانَ، عَنْ عُمَرَ، أَنَّهُ كَانَ يَنْهَى عَنِ الْحَرِيرِ، وَالدِّيبَاجِ، إِلاَّ مَا كَانَ هَكَذَا ثُمَّ أَشَارَ بِإِصْبَعِهِ ثُمَّ الثَّانِيَةِ ثُمَّ الثَّالِثَةِ ثُمَّ الرَّابِعَةِ فَقَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَنْهَانَا عَنْهُ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from ‘Umar that he used to forbid silk and brocade,\nexcept\nfor what was like this:",
+        "text": "Then he gestured with his finger, then\na\nsecond, and a third, and a fourth (i.e., the width of four fingers),\nand he said: “The Messenger of Allah (ﷺ) used to forbid it.”"
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ مُغِيرَةَ بْنِ زِيَادٍ، عَنْ أَبِي عُمَرَ، مَوْلَى أَسْمَاءَ قَالَ رَأَيْتُ ابْنَ عُمَرَ اشْتَرَى عِمَامَةً لَهَا عَلَمٌ فَدَعَا بِالْجَلَمَيْنِ فَقَصَّهُ فَدَخَلْتُ عَلَى أَسْمَاءَ فَذَكَرْتُ ذَلِكَ لَهَا فَقَالَتْ بُؤْسًا لِعَبْدِ اللَّهِ يَا جَارِيَةُ هَاتِي جُبَّةَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ‏.‏ فَجَاءَتْ بِجُبَّةٍ مَكْفُوفَةِ الْكُمَّيْنِ وَالْجَيْبِ وَالْفَرْجَيْنِ بِالدِّيبَاجِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Abu ‘Umar, the freed slave of Asma’, said:",
+        "text": "“I\nsaw\nIbn ‘Umar buying a turban that had some markings, then he called\nfor a pair of scissors and cut that off. I entered upon Asma’ and\nmentioned that to her, and she said: ‘May ‘Abdullah perish, O\ngirl!\nGive me the garment of the Messenger of Allah (ﷺ).’ A\ngarment was\nbrought that was hemmed with brocade on the sleeves,\nnecklines and\nopenings (at the front and back).”"
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عَبْدِ الْعَزِيزِ بْنِ أَبِي الصَّعْبَةِ، عَنْ أَبِي الأَفْلَحِ الْهَمْدَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ زُرَيْرٍ الْغَافِقِيِّ، سَمِعْتُهُ يَقُولُ سَمِعْتُ عَلِيَّ بْنَ أَبِي طَالِبٍ، يَقُولُ أَخَذَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ حَرِيرًا بِشِمَالِهِ وَذَهَبًا بِيَمِينِهِ ثُمَّ رَفَعَ بِهِمَا يَدَيْهِ فَقَالَ ‏\n\"‏ إِنَّ هَذَيْنِ حَرَامٌ عَلَى ذُكُورِ أُمَّتِي حِلٌّ لإِنَاثِهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "‘Ali\nbin Abu Talib said:",
+        "text": "“The Messenger of Allah (ﷺ) took hold of\nsome\nsilk in his left hand and some gold in his right, then he raised\nhis\nhands and said: ‘These two are forbidden for the males of my\nnation, and permitted to the females.’”"
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، عَنْ أَبِي فَاخِتَةَ، حَدَّثَنِي هُبَيْرَةُ بْنُ يَرِيمَ، عَنْ عَلِيٍّ، أَنَّهُ أُهْدِيَ لِرَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ حُلَّةٌ مَكْفُوفَةٌ بِحَرِيرٍ إِمَّا سَدَاؤُهَا وَإِمَّا لُحْمَتُهَا فَأَرْسَلَ بِهَا إِلَىَّ فَأَتَيْتُهُ فَقُلْتُ يَا رَسُولَ اللَّهِ مَا أَصْنَعُ بِهَا أَلْبَسُهَا قَالَ ‏\n\"‏ لاَ وَلَكِنِ اجْعَلْهَا خُمُرًا بَيْنَ الْفَوَاطِمِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from ‘Ali that a two-piece suit hemmed with silk,\neither\non the wrap or the weft,* was given to the Messenger of Allah\n(ﷺ),\nand he sent them to me (‘Ali). I came to him and said:",
+        "text": "“O\nMessenger of Allah, what should I do with these? Shall I wear them?”\nHe said: “No, rather make them into head-cloths and give them to\nthe\nFatimahs.”**"
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، عَنِ الإِفْرِيقِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ رَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ خَرَجَ عَلَيْنَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ وَفِي إِحْدَى يَدَيْهِ ثَوْبٌ مِنْ حَرِيرٍ وَفِي الأُخْرَى ذَهَبٌ فَقَالَ ‏\n\"‏ إِنَّ هَذَيْنِ مُحَرَّمٌ عَلَى ذُكُورِ أُمَّتِي حِلٌّ لإِنَاثِهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Abdullah bin ‘Umar said:",
+        "text": "“The Messenger of\nAllah\n(ﷺ) came out to us, and in one of his hands was a garment of\nsilk\nand in the other was some gold. He said: ‘These are forbidden to\nthe males of my nation and permitted to the females.’”"
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسٍ، قَالَ رَأَيْتُ عَلَى زَيْنَبَ بِنْتِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَمِيصَ حَرِيرٍ سِيَرَاءَ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Anas said:",
+        "text": "“I saw Zainab the daughter of the\nMessenger of Allah (ﷺ) wearing a shirt of Siyara’ silk.*"
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، عَنْ شَرِيكِ بْنِ عَبْدِ اللَّهِ الْقَاضِي، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ مَا رَأَيْتُ أَجْمَلَ مِنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ مُتَرَجِّلاً فِي حُلَّةٍ حَمْرَاءَ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Bara’ said:",
+        "text": "“I never saw anyone more handsome\nthen\nthe Messenger of Allah (ﷺ), with his hair combed, wearing a red\ntwo-piece suit.”"
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو عَامِرٍ عَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ بَرَّادِ بْنِ يُوسُفَ بْنِ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى الأَشْعَرِيِّ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنَا حُسَيْنُ بْنُ وَاقِدٍ، قَاضِي مَرْوَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، أَنَّ أَبَاهُ، حَدَّثَهُ قَالَ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَخْطُبُ فَأَقْبَلَ حَسَنٌ وَحُسَيْنٌ عَلَيْهِمَا قَمِيصَانِ أَحْمَرَانِ يَعْثُرَانِ وَيَقُومَانِ فَنَزَلَ النَّبِيُّ ـ صلى الله عليه وسلم ـ فَأَخَذَهُمَا فَوَضَعَهُمَا فِي حِجْرِهِ فَقَالَ ‏\"‏ صَدَقَ اللَّهُ وَرَسُولُهُ ‏{إِنَّمَا أَمْوَالُكُمْ وَأَوْلاَدُكُمْ فِتْنَةٌ}‏ رَأَيْتُ هَذَيْنِ فَلَمْ أَصْبِرْ ‏\"‏ ‏.‏ ثُمَّ أَخَذَ فِي خُطْبَتِهِ ‏.‏",
+      "english": {
+        "narrator": "‘Abdullah bin Buraidah narrated that his father told him:",
+        "text": "I saw the\nMessenger of Allah (ﷺ) delivering a sermon, and Hasan and Husain\ncame forward, wearing red shirts, stumbling and getting up again. The\nProphet (ﷺ) stepped down, picked them up and put them in his lap.\nThen he said: “Allah and His Messenger have spoken the truth. ‘Your\nwealth and your children are only a trial.’  I saw these two\nand I could not be patient. Then he resumed his sermon.”"
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، عَنِ الْحَسَنِ بْنِ سُهَيْلٍ، عَنِ ابْنِ عُمَرَ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِ الْمُفَدَّمِ ‏.‏ قَالَ يَزِيدُ قُلْتُ لِلْحَسَنِ مَا الْمُفَدَّمُ قَالَ الْمُشْبَعُ بِالْعُصْفُرِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Ibn ‘Umar said:",
+        "text": "“The Messenger of Allah (ﷺ)\nforbade Al-Mufaddam.”"
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، عَنْ عَبْدِ اللَّهِ بْنِ حُنَيْنٍ، قَالَ سَمِعْتُ عَلِيًّا، يَقُولُ نَهَانِي رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ - وَلاَ أَقُولُ نَهَاكُمْ - عَنْ لُبْسِ الْمُعَصْفَرِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Abdullah bin Hunain said:",
+        "text": "“I heard ‘Ali say:\n‘The Messenger of Allah (ﷺ) forbade me – and I do not say that\nhe\nforbade you – from wearing clothes dyed with safflower.’”"
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنِ هِشَامِ بْنِ الْغَازِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ أَقْبَلْنَا مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ مِنْ ثَنِيَّةِ أَذَاخِرَ فَالْتَفَتَ إِلَىَّ وَعَلَىَّ رَيْطَةٌ مُضَرَّجَةٌ بِالْعُصْفُرِ فَقَالَ ‏\"‏ مَا هَذِهِ ‏\"‏ ‏.‏ فَعَرَفْتُ مَا كَرِهَ فَأَتَيْتُ أَهْلِي وَهُمْ يَسْجُرُونَ تَنُّورَهُمْ فَقَذَفْتُهَا فِيهِ ثُمَّ أَتَيْتُهُ مِنَ الْغَدِ فَقَالَ ‏\"‏ يَا عَبْدَ اللَّهِ مَا فَعَلَتِ الرَّيْطَةُ ‏\"‏ ‏.‏ فَأَخْبَرْتُهُ فَقَالَ ‏\"‏ أَلاَ كَسَوْتَهَا بَعْضَ أَهْلِكَ فَإِنَّهُ لاَ بَأْسَ بِذَلِكَ لِلنِّسَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from ‘Amr bin Shu’aib, from his father, that his\ngrandfather said:",
+        "text": "“We came with the Messenger of Allah (ﷺ) was\nThaniyyat Adhakhir. He turned to me, and I was wearing a thin cloak\ndyed with safflower, and said: ‘What is this?’ And I realized\nthat he\ndisliked it. I came to my family when they were heating their\noven and\nthrew it (in the oven). Then I came to him the following day\nand he\nsaid: ‘O ‘Abdullah, what happened to the thin cloak?’ I\ntold him (what\nI had done) and he said: ‘Why did you not give it to\nsome of your\nfamily to wear, for there is nothing wrong with it for\nwomen.’”"
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ مُحَمَّدِ بْنِ شُرَحْبِيلَ، عَنْ قَيْسِ بْنِ سَعْدٍ، قَالَ أَتَانَا النَّبِيُّ ـ صلى الله عليه وسلم ـ فَوَضَعْنَا لَهُ مَاءً يَتَبَرَّدُ بِهِ فَاغْتَسَلَ ثُمَّ أَتَيْتُهُ بِمِلْحَفَةٍ صَفْرَاءَ فَرَأَيْتُ أَثَرَ الْوَرْسِ عَلَى عُكَنِهِ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Qais bin Sa’d said:",
+        "text": "“The Prophet (ﷺ) came to\nus\nand we gave him some water with which to cool down. He bathed, then\nI\nbrought him a yellow blanket, and I saw the traces of Wars (the\nyellow dye) on the folds of his stomach.”"
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ كُلُوا وَاشْرَبُوا وَتَصَدَّقُوا وَالْبَسُوا مَا لَمْ يُخَالِطْهُ إِسْرَافٌ أَوْ مَخِيلَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from ‘Amr bin Shu’aib, from his father, that his\ngrandfather said:",
+        "text": "“The Messenger of Allah (ﷺ) said: ‘Eat and\ndrink,\ngive charity and wear clothes, as long as that does not\ninvolve any\nextravagance or vanity.’”"
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبَادَةَ، وَمُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ الْوَاسِطِيَّانِ، قَالاَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا شَرِيكٌ، عَنْ عُثْمَانَ بْنِ أَبِي زُرْعَةَ، عَنْ مُهَاجِرٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ لَبِسَ ثَوْبَ شُهْرَةٍ أَلْبَسَهُ اللَّهُ يَوْمَ الْقِيَامَةِ ثَوْبَ مَذَلَّةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Ibn ‘Umar said:",
+        "text": "“The Messenger of Allah (ﷺ)\nsaid:\n‘Whoever wears a garment of pride and vanity, Allah will clothe\nhim, on the Day of Resurrection, in a garment of humiliation.’”"
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عُثْمَانَ بْنِ الْمُغِيرَةِ، عَنِ الْمُهَاجِرِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ لَبِسَ ثَوْبَ شُهْرَةٍ فِي الدُّنْيَا أَلْبَسَهُ اللَّهُ ثَوْبَ مَذَلَّةٍ يَوْمَ الْقِيَامَةِ ثُمَّ أَلْهَبَ فِيهِ نَارًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Abdullah bin ‘Umar said:",
+        "text": "“The Messenger of\nAllah\n(ﷺ) said: ‘Whoever wears a garment of pride and vanity in this\nworld, Allah will clothe him in a garment of humiliation on the Day\nof\nResurrection, then set it ablaze.’”"
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا الْعَبَّاسُ بْنُ يَزِيدَ الْبَحْرَانِيُّ، حَدَّثَنَا وَكِيعُ بْنُ مُحْرِزٍ النَّاجِيُّ، حَدَّثَنَا عُثْمَانُ بْنُ جَهْمٍ، عَنْ زِرِّ بْنِ حُبَيْشٍ، عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ مَنْ لَبِسَ ثَوْبَ شُهْرَةٍ أَعْرَضَ اللَّهُ عَنْهُ حَتَّى يَضَعَهُ مَتَى وَضَعَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Abu Dharr that the Prophet (ﷺ) said:",
+        "text": "“Whoever\nwears\na garment of pride and vanity, Allah will turn away from him\nuntil he\ntakes it off.”"
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ وَعْلَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ أَيُّمَا إِهَابٍ دُبِغَ فَقَدْ طَهُرَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Ibn ‘Abbas said:",
+        "text": "“I heard the Messenger of Allah\n(ﷺ) say: ‘Any skin that has been tanned has been purified.’”"
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مَيْمُونَةَ، أَنَّ شَاةً، لِمَوْلاَةِ مَيْمُونَةَ مَرَّ بِهَا - يَعْنِي النَّبِيَّ ـ صلى الله عليه وسلم ـ - قَدْ أُعْطِيَتْهَا مِنَ الصَّدَقَةِ مَيْتَةً فَقَالَ ‏\"‏ هَلاَّ أَخَذُوا إِهَابَهَا فَدَبَغُوهُ فَانْتَفَعُوا بِهِ ‏\"‏ ‏.‏ فَقَالُوا يَا رَسُولَ اللَّهِ إِنَّهَا مَيْتَةٌ ‏.‏ قَالَ ‏\"‏ إِنَّمَا حَرُمَ أَكْلُهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated from Maimunah that he (meaning the Prophet (ﷺ))\npassed by\na dead sheep belonging to the freed slave woman of Maimunah,\nthat had\nbeen given to her in charity. He said:",
+        "text": "“Why don’t they take\nits\nskin and ten it, and make us of it?” They said: “O Messenger of\nAllah, it is dead meat.”* He said: “It is only unlawful to eat\nit.”"
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، عَنْ لَيْثٍ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ سَلْمَانَ، قَالَ كَانَ لِبَعْضِ أُمَّهَاتِ الْمُؤْمِنِينَ شَاةٌ فَمَاتَتْ فَمَرَّ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَلَيْهَا فَقَالَ ‏\n\"‏ مَا ضَرَّ أَهْلَ هَذِهِ لَوِ انْتَفَعُوا بِإِهَابِهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that Salman said:",
+        "text": "“One of the Mothers of the\nBelievers had\na sheep that died. The Messenger of Allah (ﷺ) passed\nby it and\nsaid: ‘It would not have harmed its owners if they had made\nuse of\nits hide.’”"
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنْ يَزِيدَ بْنِ قُسَيْطٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أُمِّهِ، عَنْ عَائِشَةَ، قَالَتْ أَمَرَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يُسْتَمْتَعَ بِجُلُودِ الْمَيْتَةِ إِذَا دُبِغَتْ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Aishah said:",
+        "text": "“The Messenger of Allah (ﷺ)\ncommanded that use should be made of the skins of dead animals, if\nthey were tanned.”"
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الشَّيْبَانِيِّ، ح وَحَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، كُلُّهُمْ عَنِ الْحَكَمِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَبْدِ اللَّهِ بْنِ عُكَيْمٍ، قَالَ أَتَانَا كِتَابُ النَّبِيِّ ـ صلى الله عليه وسلم ـ ‏\n\"‏ أَنْ لاَ تَنْتَفِعُوا مِنَ الْمَيْتَةِ بِإِهَابٍ وَلاَ عَصَبٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Abdullah bin ‘Ukaym said:",
+        "text": "“There came to us a\nletter from the Prophet (ﷺ) (saying): ‘No not make use of the\nuntanned skin and sinew of dead animals.’”"
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 32,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، عَنْ عَبْدِ اللَّهِ بْنِ الْعَبَّاسِ، قَالَ كَانَ لِنَعْلِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قِبَالاَنِ مَثْنِيٌّ شِرَاكُهُمَا ‏.‏",
+      "english": {
+        "narrator": "It was\nnarrated that ‘Abdullah bin ‘Abbas said:",
+        "text": "“The sandals of the\nProphet (ﷺ) had two thongs doubled around their straps.”"
+      }
+    }
+  ]
+}

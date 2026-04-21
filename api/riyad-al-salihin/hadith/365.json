@@ -1,0 +1,16 @@
+{
+  "id": 365,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عباس رضي الله عنهما قال‏:‏ قال النبي صلى الله عليه وسلم لجبريل‏:‏ ما يمنعك أن تزورنا أكثر مما تزورنا‏؟‏‏\"‏ فنزلت ‏:‏‏{‏وما نتنزل إلا بأمر ربك له ما بين أيدينا وما خلفنا وما بين ذلك‏}‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas (May Allah be pleased with them) reported:",
+    "text": "The Prophet (ﷺ) said to Jibril (Gabriel), \"What prevents you from visiting us more frequently?\" Thereupon was revealed the Ayah: \"(The angels say:) 'And we (angels) descend not except by the Command of your Rubb. To Him belongs what is before us and what is behind us, and what is between those two\". (19:64)."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

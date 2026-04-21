@@ -1,0 +1,16 @@
+{
+  "id": 101,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، وَالْحُسَيْنُ بْنُ الْحَسَنِ الْمَرْوَزِيُّ، قَالاَ حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ قِيلَ يَا رَسُولَ اللَّهِ أَىُّ النَّاسِ أَحَبُّ إِلَيْكَ قَالَ ‏\"‏ عَائِشَةُ ‏\"‏ ‏.‏ قِيلَ مِنَ الرِّجَالِ قَالَ ‏\"‏ أَبُوهَا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Anas said:",
+    "text": "\"It was said: 'O Messenger of Allah, which of the people is most beloved to you?' He said: \"Aishah.' It was asked, 'And among men?' He said: 'Her father.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

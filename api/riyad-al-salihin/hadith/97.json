@@ -1,0 +1,16 @@
+{
+  "id": 97,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثالث‏:‏ عن ابن عباس رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏ نعمتان مغبون فيهما كثير من الناس‏:‏ الصحة، والفراغ‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn Abbas (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"There are two blessings in which many people incur loss. (They are) health and free time (for doing good)\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

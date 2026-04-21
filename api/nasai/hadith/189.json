@@ -1,0 +1,16 @@
+{
+  "id": 189,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ عَبْدِ الْمَلِكِ بْنِ طُفَيْلٍ الْجَزَرِيِّ، قَالَ كَتَبَ إِلَيْنَا عُمَرُ بْنُ عَبْدِ الْعَزِيزِ أَنْ لاَ، تَشْرَبُوا مِنَ الطِّلاَءِ حَتَّى يَذْهَبَ ثُلُثَاهُ وَيَبْقَى ثُلُثُهُ وَكُلُّ مُسْكِرٍ حَرَامٌ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that 'Abdul-Malik bin Tufail Al-Jazari said:",
+    "text": "\"Umar bin 'Abdul-'Aziz wrote to us (saying): 'Do not drink At-Tila' (thickened grape juice) until two-third of it are gone and one-third remains, and every intoxicant is unlawful.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

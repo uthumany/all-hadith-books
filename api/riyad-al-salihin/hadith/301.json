@@ -1,0 +1,16 @@
+{
+  "id": 301,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عمرو بن شعيب، عن أبيه، عن جده رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏ مروا أولادكم بالصلاة وهم أبناء سبع سنين، واضربوهم عليها، وهم أبناء عشر، وفرقوا بينهم في المضاجع‏\"‏ ‏(‏‏(‏حديث حسن رواه أبو داود بإسناد حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Amr bin Shu'aib reported on his father's authority that his grandfather (May Allah be pleased with him) said:",
+    "text": "Messenger of Allah (ﷺ) said, \"Command your children to perform Salat (prayer) when they are seven years old, and beat them for (not offering) it when they are ten, and do not let (boys and girls) sleep together\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

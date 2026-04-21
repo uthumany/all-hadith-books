@@ -1,0 +1,16 @@
+{
+  "id": 90,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ بِشْرٍ الْعَبْدِيُّ، قَالَ سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ الْقَطَّانَ، ذُكِرَ عِنْدَهُ مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ اللَّيْثِيُّ فَضَعَّفَهُ جِدًّا ‏.‏ فَقِيلَ لِيَحْيَى أَضْعَفُ مِنْ يَعْقُوبَ بْنِ عَطَاءٍ قَالَ نَعَمْ ‏.‏ ثُمَّ قَالَ مَا كُنْتُ أُرَى أَنَّ أَحَدًا يَرْوِي عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ ‏.‏",
+  "english": {
+    "narrator": "Abd ur-Rahman bin Bishr al-Abdī narrated to me, he said, I heard Muhammad bin Abd Allah bin Ubayd bin Umayr al-Laythī was mentioned near Yahyā bin Sa’īd al-Qattān, so he weakened him severely. Then it was said to Yahyā:",
+    "text": "‘More weak than Ya’qūb bin Atā ’?’ He said: ‘Yes’. Then he said: ‘I did not see anyone transmitting on authority of Muhammad bin Abd Allah bin Ubayd bin Umayr’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 511,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "-وعن عبد الله بن عمرو بن العاص رضي الله عنهما ، أن رسول الله صلى الله عليه وسلم قال ‏:‏ ‏\n\"‏ قد أفلح من أسلم ، وكان رزقه كفافا ، وقنعه الله بما آتاه ‏\"‏ ‏(‏‏(‏رواه مسلم ‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Successful is the one who enters the fold of Islam and is provided with sustenance which is sufficient for his day's needs, and Allah makes him content with what He has bestowed upon him.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

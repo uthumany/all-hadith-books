@@ -1,0 +1,16 @@
+{
+  "id": 78,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا الْأَعْمَشُ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنْ زِرِّ بْنِ حُبَيْشٍ، قَالَ قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ وَاللَّهِ إِنَّهُ مِمَّا عَهِدَ إِلَيَّ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ لَا يُبْغِضُنِي إِلَّا مُنَافِقٌ وَلَا يُحِبُّنِي إِلَّا مُؤْمِنٌ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Zirr bin Hubaish said:",
+    "text": "`Ali (رضي الله عنه) said: By Allah, one of the things that the Messenger of Allah (ﷺ) promised me was that no one would hate me except a hypocrite and no one would love me except a believer."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

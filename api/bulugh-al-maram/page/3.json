@@ -1,0 +1,510 @@
+{
+  "page": 3,
+  "perPage": 50,
+  "totalPages": 36,
+  "totalCount": 1767,
+  "nextPage": 4,
+  "prevPage": 2,
+  "items": [
+    {
+      "id": 101,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَأَصْلُهُ فِي اَلصَّحِيحَيْنِ مِنْ حَدِيثِ عَبْدِ اَللَّهِ بْنِ زَيْد ٍ  1‏ .‏‏1 ‏- صحيح.‏ ولفظه: شكي إلى النبي صلى الله عليه وسلم: الرجل يخيل إليه أن يجد الشيء في الصلاة؟ قال: \"لا ينصرف حتى سمع صوتا، أو يجد ريحا\".‏ البخاري (137)‏، ومسلم (361)‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It is originally from the Sahihain of Bukhari and Muslim as the Hadith narrated by ‘Abdullah bin Zaid."
+      }
+    },
+    {
+      "id": 102,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَلِمُسْلِمٍ: عَنْ أَبِي هُرَيْرَةَ نَحْوُهُ.‏",
+      "english": {
+        "narrator": "",
+        "text": "And Muslim reported by Abu Huraira likewise."
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَلِلْحَاكِمِ.‏ عَنْ أَبِي سَعِيدٍ مَرْفُوعًا: { إِذَا جَاءَ أَحَدَكُمُ الشَّيْطَانُ, فَقَالَ: إِنَّكَ أَحْدَثْتَ, فَلْيَقُلْ: كَذَبْتَ }",
+      "english": {
+        "narrator": "And Abu Sa’id narrated in Marfu’ Hadith:",
+        "text": "“If Satan comes to one of you and says: ‘You have nullified your ablution (by releasing air)’, let him say: ‘You have lied.” ."
+      }
+    },
+    {
+      "id": 104,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَأَخْرَجَهُ اِبْنُ حِبَّانَ بِلَفْظِ: { فَلْيَقُلْ فِي نَفْسِهِ }   1‏ .‏‏1 ‏- ضعيف.‏ رواه الحاكم (134)‏، وابن حبان (2666)‏، وتمامه عندهما: \"حتى يسمع صوتا بأذنه، أو يجد ريحا بأنفه\".‏",
+      "english": {
+        "narrator": "Ibn Hibban also reported the above Hadith with the version:",
+        "text": "“Let him say in his heart...”"
+      }
+    },
+    {
+      "id": 105,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "عَنْ أَنَسِ بْنِ مَالِكٍ ‏- رضى الله عنه ‏- قَالَ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-إِذَا دَخَلَ اَلْخَلَاءَ وَضَعَ خَاتَمَهُ }  أَخْرَجَهُ اَلْأَرْبَعَةُ, وَهُوَ مَعْلُول ٌ  1‏ .‏‏1 ‏- منكر .‏ رواه أبو داود (19)‏، والترمذي (1746)‏، والنسائي (1/178)‏، وابن ماجه (303)‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik (rad):",
+        "text": "Allah’s Messenger (ﷺ) used to remove his ring when entering the lavatory. ."
+      }
+    },
+    {
+      "id": 106,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْهُ قَالَ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-إِذَا دَخَلَ اَلْخَلَاءَ قَالَ: \n\"اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ اَلْخُبُثِ وَالْخَبَائِثِ\" }  أَخْرَجَهُ اَلسَّبْعَة ُ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (142)‏، ومسلم (375)‏، وأبو داود (4)‏، والترمذي (5)‏، والنسائي (10)‏، وابن ماجه (296)‏، أحمد (3/99 و 101 و 282)‏.‏",
+      "english": {
+        "narrator": "Narrated Anas (rad):",
+        "text": "The  Prophet (ﷺ) on entering the lavatory used to say: \n\n“O Allah, I seek refuge with You from devils – males and females (or all offensive and wicked things, evil deeds and evil spirits, etc.)” "
+      }
+    },
+    {
+      "id": 107,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْهُ قَالَ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَدْخُلُ اَلْخَلَاءَ, فَأَحْمِلُ أَنَا وَغُلَامٌ نَحْوِي إِدَاوَةً مِنْ مَاءٍ وَعَنَزَةً, فَيَسْتَنْجِي بِالْمَاءِ }  مُتَّفَقٌ عَلَيْه ِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (150)‏، ومسلم (271)‏، (70)‏ واللفظ لمسلم.‏ والعنزة: رميح بين العصا والرمح، فيه زج.‏",
+      "english": {
+        "narrator": "Narrated Anas (rad):",
+        "text": "Whenever Allah’s Messenger (ﷺ) went to the privy, a servant and I used to carry a skin water container and a spear, and he would cleanse himself with the water. ."
+      }
+    },
+    {
+      "id": 108,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ اَلْمُغِيرَةِ بْنِ شُعْبَةَ ‏- رضى الله عنه ‏- قَالَ: { قَالَ لِي اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-\n\"خُذِ اَلْإِدَاوَةَ\".‏ فَانْطَلَقَ حَتَّى تَوَارَى عَنِّي, فَقَضَى حَاجَتَهُ }  مُتَّفَقٌ عَلَيْه ِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (363)‏، ومسلم (274)‏ (77)‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Mughira bin Shu’ba (rad):",
+        "text": "Allah’s Messenger (ﷺ) told me, “Take the skin water”, he then went forward till he disappeared from me and relieved himself "
+      }
+    },
+    {
+      "id": 109,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اِتَّقُوا اَللَّاعِنِينَ: اَلَّذِي يَتَخَلَّى فِي طَرِيقِ اَلنَّاسِ, أَوْ فِي ظِلِّهِمْ }  رَوَاهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (269)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira (rad):",
+        "text": "Allah’s Messenger (ﷺ) said: “Safeguard yourselves from the two matters which cause accursing that befalls the one who relieves himself on people’s path-ways and under the shades.” ."
+      }
+    },
+    {
+      "id": 110,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "زَادَ أَبُو دَاوُدَ, عَنْ مُعَاذٍ: { وَالْمَوَارِدَ }   1‏ .‏‏1 ‏- ضعيف.‏ أي بلفظ: \"والموارد\" وباقيه صحيح.‏ رواه أبو داود (26)‏ ولفظه: \"اتقوا الملاعن الثلاث: البراز في الموارد، وقارعة الطريق، والظل\".‏",
+      "english": {
+        "narrator": "Narrated Mu’adh (rad):",
+        "text": "He said: “Guard against the three things which cause curse (i.e.) defecating at the watering places, on the roadbeds and in the shades.” "
+      }
+    },
+    {
+      "id": 111,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَلِأَحْمَدَ; عَنِ ابْنِ عَبَّاسٍ: { أَوْ نَقْعِ مَاءٍ }  وَفِيهِمَا ضَعْف ٌ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أحمد (2715)‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ahmad reported from Ibn Abbas (rad) that defecation is prohibited also at the place where water collects. ."
+      }
+    },
+    {
+      "id": 112,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَأَخْرَجَ اَلطَّبَرَانِيُّ اَلنَّهْيَ عَن ْ  1‏ تَحْتِ اَلْأَشْجَارِ اَلْمُثْمِرَةِ, وَضَفَّةِ اَلنَّهْرِ الْجَارِي.‏ مِنْ حَدِيثِ اِبْنِ عُمَرَ بِسَنَدٍ ضَعِيف ٍ  2‏ .‏‏1 ‏- أي: التخلي.‏‏2 ‏- منكر.‏ رواه الطبراني بتمامه في \"الأوسط\" كما في مجمع البحرين (349)‏، وفي \"الكبير\" الشطر الأخير منه كما في \"مجمع الزوائد\" (104)‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "At-Tabarani also narrated on the authority of Ibn ‘Umar (with a weak chain of narrators), the prohibition of relieving oneself under fruit trees and beside the bank of a flowing river."
+      }
+    },
+    {
+      "id": 113,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا تَغَوَّطَ اَلرَّجُلَانِ فَلْيَتَوَارَ كُلُّ وَاحِدٍ مِنْهُمَا عَنْ صَاحِبِهِ, وَلَا يَتَحَدَّثَا.‏ فَإِنَّ اَللَّهَ يَمْقُتُ عَلَى ذَلِكَ }  رَوَاهُ .‏  1‏ وَصَحَّحَهُ اِبْنُ اَلسَّكَنِ, وَابْنُ اَلْقَطَّانِ, وَهُوَ مَعْلُول ٌ  2‏ .‏‏1 ‏- كذا بالأصل دون ذكر من أخرجه، ولم أجده من حديث جابر، وهو عند أحمد وأبي داود من حديث أبي سعيد.‏‏2 ‏- ضعيف.‏ وانظر الأصل.‏",
+      "english": {
+        "narrator": "Narrated Jabir (rad):",
+        "text": "Allah’s Messenger (ﷺ) said: “When two people go together to relieve themselves they should disappear from each other and do not talk, for Allah detests that”. ."
+      }
+    },
+    {
+      "id": 114,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي قَتَادَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا يُمْسِكَنَّ أَحَدُكُمْ ذَكَرَهُ بِيَمِينِهِ, وَهُوَ يَبُولُ, وَلَا يَتَمَسَّحْ مِنْ اَلْخَلَاءِ بِيَمِينِهِ, وَلَا يَتَنَفَّسْ فِي اَلْإِنَاءِ }  مُتَّفَقٌ عَلَيْهِ, وَاللَّفْظُ لِمُسْلِم ٍ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (153)‏، ومسلم (267)‏ (63)‏ .‏",
+      "english": {
+        "narrator": "Narrated Abu Qatada (rad):",
+        "text": "Allah’s Messenger (ﷺ) said: “Nobody should touch his pennies with his right hand when urinating, and should not clean himself (from defecation or urine) using his right hand and should not breathe in the utensil (he is drinking from).” ."
+      }
+    },
+    {
+      "id": 115,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ سَلْمَانَ ‏- رضى الله عنه ‏- قَالَ: { لَقَدْ نَهَانَا رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-\n\"أَنْ نَسْتَقْبِلَ اَلْقِبْلَةَ بِغَائِطٍ أَوْ بَوْلٍ, أَوْ أَنْ نَسْتَنْجِيَ بِالْيَمِينِ, أَوْ أَنْ نَسْتَنْجِيَ بِأَقَلَّ مِنْ ثَلَاثَةِ أَحْجَارٍ, أَوْ أَنْ نَسْتَنْجِيَ بِرَجِيعٍ أَوْ عَظْمٍ\" }  رَوَاهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (262)‏ قيل لسلمان: قد علمكم نبيكم صلى الله عليه وسلم كل شيء حتى الخراءة.‏ قال: أجل.‏ لقد نهانا.‏.‏.‏ الحديث.‏",
+      "english": {
+        "narrator": "Narrated Salman (rad):",
+        "text": "Allah’s Messenger (ﷺ) forbade us to face the Qiblah when defecating or urinating, or to clean ourselves using the right hand, or to clean ourselves with less than three stones, or to clean ourselves with dung or a bone ."
+      }
+    },
+    {
+      "id": 116,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَلِلسَّبْعَةِ مِنْ حَدِيثِ أَبِي أَيُّوبَ ‏- رضى الله عنه ‏- { لَا تَسْتَقْبِلُوا اَلْقِبْلَةَ بِغَائِطٍ وَلَا بَوْلٍ, وَلَكِنْ شَرِّقُوا أَوْ غَرِّبُوا }   1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (144 و 394)‏، ومسلم (264)‏، وأبو داود (9)‏، والنسائي (12‏-23)‏، الترمذي (8)‏، وابن ماجه (318)‏، وأحمد (5 /414 و 416 و 417 و 421)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Ayub (rad):",
+        "text": "Allah’s Messenger (ﷺ) “Neither face nor turn your back to the Qiblah while defecating or urinating, but turn towards the east or the west”. "
+      }
+    },
+    {
+      "id": 117,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا; أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ: { مَنْ أَتَى اَلْغَائِطَ فَلْيَسْتَتِرْ }  رَوَاهُ أَبُو دَاوُد َ  1‏ .‏‏1 ‏- ضعيف.‏ ووهم الحافظ في نسبته لعائشة رضي الله عنها، وإنما الحديث لأبي هريرة عند أبي داود (35)‏.‏",
+      "english": {
+        "narrator": "Narrated ‘Aisha (rad):",
+        "text": "The Prophet (ﷺ) said: “If anyone goes to relive himself, he should conceal himself”. ."
+      }
+    },
+    {
+      "id": 118,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْهَا; { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-كَانَ إِذَا خَرَجَ مِنْ اَلْغَائِطِ قَالَ: \n\"غُفْرَانَكَ\" }  أَخْرَجَهُ اَلْخَمْسَةُ.‏ وَصَحَّحَهُ أَبُو حَاتِمٍ, وَالْحَاكِم ُ  1‏ .‏‏1 ‏- حسن.‏ رواه أبو داود (30)‏، والترمذي (7)‏، وابن ماجه (300)‏، والنسائي في \"عمل اليوم والليلة\" (79)‏، وأحمد (655)‏، وابن حبان (1444)‏، والحاكم (185)‏، من حديث عائشة رضي الله عنها .‏",
+      "english": {
+        "narrator": "Narrated ‘Aisha (rad):",
+        "text": "When the Prophet (ﷺ) came out of the privy, he used to say, “Ghufranaka (O Allah! Grant me Your forgiveness)”. ."
+      }
+    },
+    {
+      "id": 119,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنِ ابْنِ مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: { أَتَى اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-اَلْغَائِطَ, فَأَمَرَنِي أَنْ آتِيَهُ بِثَلَاثَةِ أَحْجَارٍ, فَوَجَدْتُ حَجَرَيْنِ, وَلَمْ أَجِدْ ثَالِثًا.‏ فَأَتَيْتُهُ بِرَوْثَةٍ.‏ فَأَخَذَهُمَا وَأَلْقَى اَلرَّوْثَةَ, وَقَالَ: \n\"هَذَا رِكْسٌ\" }  أَخْرَجَهُ اَلْبُخَارِيّ ُ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (156)‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Mas’ud (rad):",
+        "text": "The Prophet (ﷺ) went out to answer the call of nature and asked me to bring three stones. I found two stones and searched for the third but could not find it. So I took a dried piece of dung and brought it to him. He took the two stones and threw away the dung and said, “This is a filthy thing”. "
+      }
+    },
+    {
+      "id": 120,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "زَادَ أَحْمَدُ, وَاَلدَّارَقُطْنِيُّ: { ائْتِنِي بِغَيْرِهَا }   1‏ .‏‏1 ‏- رواه أحمد (1 /450)‏، والدارقطني (1 /55)‏ واللفظ للدارقطني، وأما لفظ أحمد، فهو: \"ائتني بحجر\".‏ وهي زيادة صحيحة.‏",
+      "english": {
+        "narrator": "And in the version of Ahmad and Ad-Daraqutni it is added:",
+        "text": "“Bring me more (something other than dung)”]."
+      }
+    },
+    {
+      "id": 121,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-نَهَى \"أَنْ يُسْتَنْجَى بِعَظْمٍ, أَوْ رَوْثٍ\" وَقَالَ: \"إِنَّهُمَا لَا يُطَهِّرَانِ\" }  رَوَاهُ اَلدَّارَقُطْنِيُّ وَصَحَّحَه ُ  1‏ .‏‏1 ‏- صحيح.‏ رواه الدارقطني (1 /56/9)‏ وقال: إسناد صحيح.‏ وفي \"الأصل\" رد على تعليل ابن عدي للحديث.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira (rad):",
+        "text": "Allah’s Messenger (ﷺ) forbade us to use a bone or dung for cleaning and said, “These two things do not purify”. ."
+      }
+    },
+    {
+      "id": 122,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اِسْتَنْزِهُوا مِنْ اَلْبَوْلِ, فَإِنَّ عَامَّةَ عَذَابِ اَلْقَبْرِ مِنْهُ }  رَوَاهُ اَلدَّارَقُطْنِيّ ُ  1‏ .‏‏1 ‏- صحيح.‏ رواه الدارقطني (128 /7)‏، وله ما يشهد له .‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira (rad):",
+        "text": "Allah’s Messenger (ﷺ) said: “Beware of (smearing yourselves with) urine, because it is the main cause of punishment in the grave”. "
+      }
+    },
+    {
+      "id": 123,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَلِلْحَاكِمِ: { أَكْثَرُ عَذَابِ اَلْقَبْرِ مِنْ اَلْبَوْلِ }  وَهُوَ صَحِيحُ اَلْإِسْنَاد ِ  1‏ .‏‏1 ‏- صحيح.‏ رواه الحاكم (183)‏ وقال: \"صحيح على شرط الشيخين، ولا أعرف له علة، ولم يخرجاه\".‏ وقال الذهبي: \"وله شاهد\".‏",
+      "english": {
+        "narrator": "and Al-Hakim reported that:",
+        "text": "“Urination is the main cause of punishment in the grave”. ."
+      }
+    },
+    {
+      "id": 124,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ سُرَاقَةَ بْنِ مَالِكٍ ‏- رضى الله عنه ‏- قَالَ: { عَلَّمْنَا رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-فِي اَلْخَلَاءِ: \n\" أَنَّ نَقْعُدَ عَلَى اَلْيُسْرَى, وَنَنْصِبَ اَلْيُمْنَى\" }  رَوَاهُ اَلْبَيْهَقِيُّ بِسَنَدٍ ضَعِيف ٍ  1‏ .‏‏1 ‏- ضعيف.‏ رواه البيهقي (1/96)‏.‏",
+      "english": {
+        "narrator": "Narrated Suraqa bin Malik (rad):",
+        "text": "Allah’s Messenger (ﷺ) educated us about lavatory (manners) that we should sit on our left foot and keep erect our right foot. ."
+      }
+    },
+    {
+      "id": 125,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عِيسَى بْنِ يَزْدَادَ, عَنْ أَبِيهِ قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا بَالَ أَحَدُكُمْ فَلْيَنْثُرْ ذَكَرَهُ ثَلَاثَ مَرَّاتٍ }  رَوَاهُ اِبْنُ مَاجَه بِسَنَدٍ ضَعِيف ٍ  1‏ .‏‏1 ‏- ضعيف.‏ رواه ابن ماجه (326)‏ .‏",
+      "english": {
+        "narrator": "Narrated ‘Iesa bin Yazdad from his father (ra):",
+        "text": "Allah’s Messenger (ﷺ) said: “When one of you passes urine, he should empty his penis three times”. ."
+      }
+    },
+    {
+      "id": 126,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنِ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا; { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-سَأَلَ أَهْلَ قُبَاءٍ, فَقَالُوا: إِنَّا نُتْبِعُ اَلْحِجَارَةَ اَلْمَاءَ }  رَوَاهُ اَلْبَزَّارُ بِسَنَدٍ ضَعِيف ٍ  1‏ .‏‏1 ‏- ضعيف.‏ لجمعه بين الحجارة والماء، ورواه البزار (227/كشف الأستار)‏ .‏",
+      "english": {
+        "narrator": "Narrated Ibn ‘Abbas (ﷺ):",
+        "text": "The Prophet  (ﷺ) asked the residents of Quba that what had earned them the Praise of Allah and they replied, “We use water after (cleaning ourselves with) stones.” "
+      }
+    },
+    {
+      "id": 127,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَأَصْلُهُ فِي أَبِي دَاوُدَ, وَاَلتِّرْمِذِيّ وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ مِنْ حَدِيثِ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- بِدُونِ ذِكْرِ اَلْحِجَارَة ِ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (44)‏، والترمذي (3100)‏ عن أبي هريرة، عن النبي صلى الله عليه وسلم قال: نزلت هذه الآية في أهل قباء: فيه رجال يحبون أن يتطهروا قال: كانوا يستنجون بالماء، فنزلت فيهم هذه الآية.‏ قلت: وهو وإن كان ضعيف السند إلا أن له شواهد يصح بها، وقد ذكرتها في \"الأصل\".‏",
+      "english": {
+        "narrator": "",
+        "text": "and its Asl (original source) is in Abu Da’ud and At-Tirmidhi and Ibn Khuzaima graded it Sahih (sound) through Abu Huraira (rad) without mentioning the “stones”.]"
+      }
+    },
+    {
+      "id": 128,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "عَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْمَاءُ مِنْ اَلْمَاءِ }  رَوَاهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (343)‏، عن أبي سعيد الخدري قال: خرجت مع رسول الله صلى الله عليه وسلم يوم الاثنين إلى قباء، حتى إذا كنا في بني سالم، وقف رسول الله صلى الله عليه وسلم على باب عتبان.‏ فصرخ به، فخرج يجر إزاره، فقال رسول الله صلى الله عليه وسلم: \"أعجلنا الرجل\" فقال عتبان: يا رسول الله.‏ أرأيت الرجل يعجل عن امرأته ولم يمن ماذا عليه ؟ قال رسول الله صلى الله عليه وسلم: \"إنما…\" الحديث .‏",
+      "english": {
+        "narrator": "Narrated Abu Sa’id Al-Khudri (rad):",
+        "text": "Allah’s Mesenger (ﷺ) said: “The water (of the ghusl) is due to the water (of sexual emission)”. "
+      }
+    },
+    {
+      "id": 129,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَأَصْلُهُ فِي اَلْبُخَارِيّ ِ  1‏ .‏‏1 ‏- البخاري.‏ ( 180 )‏، ولفظه: \"إذا أعجلت ‏-أو قحطت‏- فعليك الوضوء\" وهو رواية لمسلم.‏",
+      "english": {
+        "narrator": "",
+        "text": "and its Asl (origin) is in Al-Bukhari."
+      }
+    },
+    {
+      "id": 130,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا جَلَسَ بَيْنَ شُعَبِهَا اَلْأَرْبَعِ, ثُمَّ جَهَدَهَا, فَقَدْ وَجَبَ اَلْغُسْلُ }  مُتَّفَقٌ عَلَيْه ِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (291)‏، ومسلم (348)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira (rad):",
+        "text": "Allah’s Messenger (ﷺ) said that, “If one of you sits between her legs (of a woman) and penetrates her, Ghusl (bath) is obligatory.” ."
+      }
+    },
+    {
+      "id": 131,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "زَادَ مُسْلِمٌ: \n\"وَإِنْ لَمْ يُنْزِلْ \"  1‏ .‏‏1 ‏- وهي صحيحة أيضا.‏",
+      "english": {
+        "narrator": "And Muslim added:",
+        "text": "“Even if he does not ejaculate”."
+      }
+    },
+    {
+      "id": 132,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "] وَعَنْ أُمِّ سَلَمَةَ; أَنَّ أُمَّ سُلَيْمٍ ‏-وَهِيَ اِمْرَأَةُ أَبِي طَلْحَةَ‏- قَالَتْ: { يَا رَسُولَ اَللَّهِ! إِنَّ اَللَّهَ لَا يَسْتَحِي مِنْ اَلْحَقِّ, فَهَلْ عَلَى اَلْمَرْأَةِ اَلْغُسْلُ إِذَا اِحْتَلَمَتْ? قَالَ: \n\"نَعَمْ.‏ إِذَا رَأَتِ الْمَاءَ\" }  اَلْحَدِيثَ.‏ مُتَّفَقٌ عَلَيْه ِ  1‏ [ .‏‏1 ‏- صحيح.‏ رواه البخاري (282)‏، ومسلم (313)‏، وزاد مسلم: \"فقالت أم سلمة: يا رسول الله! وتحتلم المرأة؟ فقال: تربت يداك! فبم يشبهها ولدها\".‏ وزاد في رواية أخرى: \"قالت: قلت: فضحت النساء\".‏ ملاحظة: هذا الحديث لا يوجد في الأصل وأشار ناسخ \"أ\" إلى أنه من نسخة، مع العلم بأن الحديث ذكر في متن \"أ\"، وليس بالهامش.‏",
+      "english": {
+        "narrator": "Narrated Umm Salam (rad):",
+        "text": "Umm Sulaim, the wife Abu Talha said, “O Allah’s Messenger! Allah is not ashamed of the truth. Is a Ghusl (bath) compulsory for a woman when she has a sexual dream?” He (ﷺ) replied, “Yes! When she sees signs of liquid” ."
+      }
+    },
+    {
+      "id": 133,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَنَسِ]بْنِ مَالِكٍ] ‏- رضى الله عنه ‏- قَالَ: { قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-‏-فِي اَلْمَرْأَةِ تَرَى فِي مَنَامِهَا مَا يَرَى اَلرَّجُلُ‏- قَالَ: \"تَغْتَسِلُ\" }  مُتَّفَقٌ عَلَيْه ِ  1‏ .‏‏1 ‏- عزوه للمتفق عليه وهم الحافظ ‏-رحمه الله‏- إذا الحديث لم يروه البخاري.‏",
+      "english": {
+        "narrator": "Narrated Anas (rad):",
+        "text": "Allah’s Messenger (ﷺ) said about the precept of a woman having ejaculation during sleep like a man, “She should take a Ghusl (bath)”. "
+      }
+    },
+    {
+      "id": 134,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "زَادَ مُسْلِمٌ: فَقَالَتْ أُمُّ سُلَيْم ٍ  1‏ { وَهَلْ يَكُونُ هَذَا? قَالَ: \"نَعَمْ فَمِنْ أَيْنَ يَكُونُ اَلشَّبَهُ? }   2‏ .‏‏1 ‏- تحرف في \"الأصلين\" إلى \"أم سلمة\" وما أثبته من صحيح مسلم.‏‏2 ‏- صحيح.‏ رواه مسلم ( 311 )‏ وهو بتمامه: عن أنس بن مالك؛ أن أم سليم سألت نبي الله صلى الله عليه وسلم: عن المرأة ترى في منامها ما يرى الرجل؟ فقال رسول الله صلى الله عليه وسلم: \"إذا رأت ذلك المرأة فلتغتسل\" فقالت أم سليم: واستحييت من ذلك.‏ قالت: وهل يكون هذا؟ فقال نبي الله صلى الله عليه وسلم: \"نعم.‏ فمن أين يكون الشبه.‏ إن ماء الرجل غليظ أبيض.‏ وماء المرأة رقيق أصفر.‏ فمن أيهما علا أو سبق يكون منه الشبه\".‏",
+      "english": {
+        "narrator": "Added Muslim:",
+        "text": "Umm Salama said, “Does this happen (to a woman)?” He (ﷺ) said: “Yes, otherwise where does the resemblance (of a child to its mother) come from?”"
+      }
+    },
+    {
+      "id": 135,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { كَانَ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-يَغْتَسِلُ مِنْ أَرْبَعٍ: مِنْ اَلْجَنَابَةِ, وَيَوْمَ اَلْجُمُعَةِ, وَمِنْ اَلْحِجَامَةِ, وَمِنْ غُسْلِ اَلْمَيِّتِ }  رَوَاهُ أَبُو دَاوُدَ, وَصَحَّحَهُ اِبْنُ خُزَيْمَة َ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أبو داود (348)‏، وابن خزيمة (256)‏، والحديث عند أبي داود من فعله، وعند ابن خزيمة من قوله!! .‏",
+      "english": {
+        "narrator": "Narrated ‘Aisha (rad):",
+        "text": "Allah’s Messenger (ﷺ) used to take a bath from four things; after sexual intercourse, on Fridays, after extracting blood from his body and after washing a dead body. "
+      }
+    },
+    {
+      "id": 136,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- { ‏-فِي قِصَّةِ ثُمَامَةَ بْنِ أُثَالٍ, عِنْدَمَا أَسْلَم‏- وَأَمَرَهُ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-أَنْ يَغْتَسِلَ }  رَوَاهُ عَبْدُ اَلرَّزَّاق ِ  1‏ .‏‏1 ‏- صحيح.‏ وهو في \"مصنف عبد الرازق\" (6/9‏-10/9834)‏ وفيه: \"فأمره أن يغتسل فاغتسل\".‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira (rad) regarding the story of Thumama bin Uthal when he embraced Islam:",
+        "text": "The Prophet (ﷺ) ordered him to take a bath. "
+      }
+    },
+    {
+      "id": 137,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَأَصْلُهُ مُتَّفَقٌ عَلَيْه ِ  1‏ .‏‏1 ‏- البخاري (4372)‏، ومسلم (1764)‏ من حديث أبي هريرة أيضا، وفيه: \"فانطلق ‏-أي: ثمامة‏- إلى نخل قريب من المسجد، فاغتسل\".‏",
+      "english": {
+        "narrator": "",
+        "text": "and its origin is in Al-Bukhari and Muslim."
+      }
+    },
+    {
+      "id": 138,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ ‏- رضى الله عنه ‏- أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { غُسْلُ اَلْجُمُعَةِ وَاجِبٌ عَلَى كُلِّ مُحْتَلِمٍ }  أَخْرَجَهُ اَلسَّبْعَة ُ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (879)‏، ومسلم (846)‏، وأبو داود (341)‏، والنسائي (3/92)‏، وابن ماجه (1089)‏، وأحمد (3 /60)‏.‏ \"تنبيه\": وهم الحافظ رحمه الله في عزوه الحديث للترمذي.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa’id Al-Khudri (rad):",
+        "text": "Allah’s Messenger (ﷺ) said: “Taking a bath on Friday is a must for every adult”. ."
+      }
+    },
+    {
+      "id": 139,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ سَمُرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ تَوَضَّأَ يَوْمَ اَلْجُمُعَةِ فَبِهَا وَنِعْمَتْ, وَمَنْ اِغْتَسَلَ فَالْغُسْلُ أَفْضَلُ }  رَوَاهُ اَلْخَمْسَةُ, وَحَسَّنَهُ اَلتِّرْمِذِيّ ُ  1‏ .‏‏1 ‏- حسن.‏ رواه أبو داود (354)‏، والترمذي (497)‏، والنسائي (3/94)‏، وأحمد (51 و 15 و 22)‏، وقال الترمذي: \"حديث حسن\".‏ قلت: وعزو الحافظ الحديث للخمسة وهم منه رحمه الله إذ الحديث ليس عند ابن ماجه، عن سمرة، وإنما عنده عن أنس.‏ انظر \"الجمعة وفضلها\" لأبي بكر المروزي (31 بتحقيقي)‏ والحافظ نفسه عزاه في \"الفتح\" لأصحاب السنن الثلاثة.‏",
+      "english": {
+        "narrator": "Narrated Sumara (rad):",
+        "text": "Allah’s Messenger (ﷺ) said: “Whoever performs ablution on Friday has done a good thing and he who takes bath, taking bath is better  (for him).” "
+      }
+    },
+    {
+      "id": 140,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَلِيٍّ ‏- رضى الله عنه ‏- قَالَ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يُقْرِئُنَا اَلْقُرْآنَ مَا لَمْ يَكُنْ جُنُبًا }  رَوَاهُ اَلْخَمْسَةُ, وَهَذَا لَفْظُ اَلتِّرْمِذِيِّ وَحَسَّنَةُ, وَصَحَّحَهُ اِبْنُ حِبَّان َ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أبو داود (229)‏، والنسائي (144)‏، والترمذي (146)‏، ابن ماجه (594)‏، وأحمد (1/83)‏، وابن حبان (799)‏.‏ ولبعضهم ألفاظ أخر.‏",
+      "english": {
+        "narrator": "Narrated ‘Ali (rad):",
+        "text": "The Prophet (ﷺ) used to teach us the Qur’an except when he was in a state of sexual impurity. ."
+      }
+    },
+    {
+      "id": 141,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا أَتَى أَحَدُكُمْ أَهْلَهُ, ثُمَّ أَرَادَ أَنْ يَعُودَ فَلْيَتَوَضَّأْ بَيْنَهُمَا وُضُوءًا }  رَوَاهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (308)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa’id Al-Khudri (rad):",
+        "text": "Allah’s Messenger (ﷺ) said: “If one of you has sexual intercourse with his wife and wishes to repeat he should perform ablution between them” ."
+      }
+    },
+    {
+      "id": 142,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "زَادَ اَلْحَاكِمُ: { فَإِنَّهُ أَنْشَطُ لِلْعَوْدِ }   1‏ .‏‏1 ‏- مستدرك الحاكم (152)‏ وهي زيادة صحيحة أيضا.‏",
+      "english": {
+        "narrator": "A-Hakim added:",
+        "text": "“Ablution makes one active for repeating (the sexual act).”"
+      }
+    },
+    {
+      "id": 143,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَلِلْأَرْبَعَةِ عَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَنَامُ وَهُوَ جُنُبٌ, مِنْ غَيْرِ أَنْ يَمَسَّ مَاءً }  وَهُوَ مَعْلُول ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (228)‏ والنسائي في \"الكبرى\"، والترمذي (118 و 119)‏، وابن ماجه (583)‏.‏ وأما عن تعليل من أعله فتفصيل ذلك في \"الأصل\" إذ ليست كل علة تقدح في صحة الحديث.‏ وانظر أيضا \"ناسخ الحديث ومنسوخه\" لابن شاهين (129)‏ بتحقيقي.‏",
+      "english": {
+        "narrator": "Narrated ‘Aisha (rad):",
+        "text": "Allah’s Messenger (ﷺ) used to sleep in the state of sexual impurity without touching water. ."
+      }
+    },
+    {
+      "id": 144,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-إِذَا اِغْتَسَلَ مِنْ اَلْجَنَابَةِ يَبْدَأُ فَيَغْسِلُ يَدَيْهِ, ثُمَّ يُفْرِغُ بِيَمِينِهِ عَلَى شِمَالِهِ, فَيَغْسِلُ فَرْجَهُ, ثُمَّ يَتَوَضَّأُ, ثُمَّ يَأْخُذُ اَلْمَاءَ, فَيُدْخِلُ أَصَابِعَهُ فِي أُصُولِ اَلشَّعْرِ, ثُمَّ حَفَنَ عَلَى رَأْسِهِ ثَلَاثَ حَفَنَاتٍ, ثُمَّ أَفَاضَ عَلَى سَائِرِ جَسَدِهِ, ثُمَّ غَسَلَ رِجْلَيْهِ }  مُتَّفَقٌ عَلَيْهِ, وَاللَّفْظُ لِمُسْلِم ٍ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (248)‏، ومسلم (316)‏، وبما أن المؤلف ساق لفظ مسلم فعنده بعد قول: \"أصول الشعر\" إضافة وهي قولها: \"حتى إذا رأى أن قد استبرأ\".‏",
+      "english": {
+        "narrator": "Narrated ‘Aisha (rad):",
+        "text": "Whenever Allah’s Messenger (ﷺ) took Ghusl (bath) after sexual intercourse, he would begin by washing his hands, then pour water with his right hand on his left hand and wash his sexual organ. He would then perform ablution, then take some water and run his fingers through the roots of the hair. Then he would pour three handfuls on his head, then pour water over the rest of his body and subsequently wash his feet. "
+      }
+    },
+    {
+      "id": 145,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَلَهُمَا فِي حَدِيثِ مَيْمُونَةَ: { ثُمَّ أَفْرَغَ عَلَى فَرْجِهِ, فَغَسَلَهُ بِشِمَالِهِ, ثُمَّ ضَرَبَ بِهَا اَلْأَرْضَ }",
+      "english": {
+        "narrator": "Narrated Maimuma (rad):",
+        "text": "Allah’s Messenger (ﷺ) poured water over his private parts and washed them with his left hand. He then struck his hand against the earth."
+      }
+    },
+    {
+      "id": 146,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةٍ: { فَمَسَحَهَا بِالتُّرَابِ }",
+      "english": {
+        "narrator": "Narrated Maimuna (Radhi Allahu Anhu):",
+        "text": "\"And he wiped it with earth\"."
+      }
+    },
+    {
+      "id": 147,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَفِي آخِرِهِ: { ثُمَّ أَتَيْتُهُ بِالْمِنْدِيلِ }  فَرَدَّهُ, وَفِيهِ: { وَجَعَلَ يَنْفُضُ الْمَاءَ بِيَدِهِ }   1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري، (249)‏، وانظر أطرافه، ومسلم (317)‏.‏",
+      "english": {
+        "narrator": "Narrated Maimuna (Radhi Allahu Anhu):",
+        "text": "And in the last of this version: “I handed him a piece of cloth, but he did not take it... He started shaking the water off his hand.”"
+      }
+    },
+    {
+      "id": 148,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ أُمِّ سَلَمَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { قُلْتُ: يَا رَسُولَ اَللَّهِ إِنِّي اِمْرَأَةٌ أَشُدُّ شَعْرَ رَأْسِي, أَفَأَنْقُضُهُ لِغُسْلِ اَلْجَنَابَةِ? وَفِي رِوَايَةٍ: وَالْحَيْضَةِ? فَقَالَ: \n\"لَا, إِنَّمَا يَكْفِيكِ أَنْ تَحْثِي عَلَى رَأْسِكِ ثَلَاثَ حَثَيَاتٍ\" }  رَوَاهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (330)‏، وزاد: \"ثم تفيضين عليك الماء فتطهرين\".‏",
+      "english": {
+        "narrator": "Narrated Umm Salamah (RAA):",
+        "text": "I said, \"O Messenger of Allah, I am a woman who keeps her hair closely plaited. Do I have to undo them for Ghusl after sexual intercourse?\" In another narration, \"and after the end of menses?\" He replied (ﷺ), \"No, is it enough for you to throw three handfuls of water over your head.\"\nRelated by Muslim."
+      }
+    },
+    {
+      "id": 149,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنِّي لَا أُحِلُّ اَلْمَسْجِدَ لِحَائِضٍ وَلَا جُنُبٌ }  رَوَاهُ أَبُو دَاوُدَ, وَصَحَّحَهُ اِبْنُ خُزَيْمَة َ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أبو داود (232)‏، وابن خزيمة (1327)‏.‏",
+      "english": {
+        "narrator": "Narrated `A'ishah (RAA):",
+        "text": "Allah's messenger (ﷺ) said: \"It is not permitted for a menstruating woman or one who is junub (sexually impure) to stay in the mosque.\"\nRelated by Abu Dawud and Ibn Khuzaimah graded it as Sahih"
+      }
+    },
+    {
+      "id": 150,
+      "chapterId": 1,
+      "bookId": 12,
+      "arabic": "وَعَنْهَا قَالَتْ: { كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-مِنْ إِنَاءٍ وَاحِدٍ, تَخْتَلِفُ أَيْدِينَا فِيهِ مِنَ اَلْجَنَابَةِ }  مُتَّفَقٌ عَلَيْه ِ  1‏ .‏ \nزَادَ اِبْنُ حِبَّانَ: وَتَلْتَقِ ي  2‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (261)‏، ومسلم (321)‏ (45)‏، وليس عند البخاري لفظه: \"من الجنابة \".‏\n‏2 ‏- ابن حبان برقم (1111)‏ وسندها صحيح، إلا أن الحافظ في \"الفتح\" (1/373)‏ مال إلى أنها مدرجة.‏",
+      "english": {
+        "narrator": "Narrated `A'ishah (RAA):",
+        "text": "I and Allah's Messenger (Peace be upon him) took a Ghusl (bath) due to sexual impurity from the same vessel and our hands alternated into it.\n\n\nIbn Hibban added \"and (our hands) met.\""
+      }
+    }
+  ]
+}

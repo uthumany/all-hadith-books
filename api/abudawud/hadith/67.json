@@ -1,0 +1,16 @@
+{
+  "id": 67,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُثْمَانُ، وَأَبُو بَكْرٍ ابْنَا أَبِي شَيْبَةَ قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ أُسَامَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رَحِمَهَا اللَّهُ قَالَتْ كَانَ كَلاَمُ رَسُولِ اللَّهِ صلى الله عليه وسلم كَلاَمًا فَصْلاً يَفْهَمُهُ كُلُّ مَنْ سَمِعَهُ ‏.‏",
+  "english": {
+    "narrator": "Narrated Aisha, Ummul Mu'minin:",
+    "text": "The Messenger of Allah (ﷺ) spoke in a distinct manner so that anyone who listened to him could understand it."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

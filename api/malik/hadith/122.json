@@ -1,0 +1,16 @@
+{
+  "id": 122,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ أَبِي الزُّبَيْرِ الْمَكِّيِّ، أَنَّهُ قَالَ رَأَيْتُ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ يَطُوفُ بَعْدَ صَلاَةِ الْعَصْرِ ثُمَّ يَدْخُلُ حُجْرَتَهُ فَلاَ أَدْرِي مَا يَصْنَعُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik that Abu'z Zubayr al-Makki said,\n\"I saw Abdullah ibn Abbas doing tawaf after asr. Then he went into his\nroom and I do not know what he did.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

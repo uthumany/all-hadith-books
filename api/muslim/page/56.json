@@ -1,0 +1,510 @@
+{
+  "page": 56,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 57,
+  "prevPage": 55,
+  "items": [
+    {
+      "id": 77,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ، شِهَابٍ عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَمْسٌ مِنَ الدَّوَابِّ كُلُّهَا فَوَاسِقُ تُقْتَلُ فِي الْحَرَمِ الْغُرَابُ وَالْحِدَأَةُ وَالْكَلْبُ الْعَقُورُ وَالْعَقْرَبُ وَالْفَارَةُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "IA'isha (Allah be pleased with her) reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Five are the beasts 1618 harmful and vicious and these must be killed even within the precincts of the Ka'ba: crow, kite, voracio@s dog, kcorpion and rat."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَابْنُ أَبِي عُمَرَ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، قَالَ زُهَيْرٌ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، - رضى الله عنه - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ خَمْسٌ لاَ جُنَاحَ عَلَى مَنْ قَتَلَهُنَّ فِي الْحَرَمِ وَالإِحْرَامِ الْفَارَةُ وَالْعَقْرَبُ وَالْغُرَابُ وَالْحِدَأَةُ وَالْكَلْبُ الْعَقُورُ ‏\"‏ ‏.‏ وَقَالَ ابْنُ أَبِي عُمَرَ فِي رِوَايَتِهِ ‏\"‏ فِي الْحُرُمِ وَالإِحْرَامِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Salim reported on the authority of his father (Allah be pleased with them) that the Messenger of Allah (ﷺ) said:",
+        "text": "Five are the (beasts) which if one kills them in the precincts of the Ka'ba or in the state of lhram entail no sin: rat, scorpion, crow, kite and voracious dog. In another version the words are:\" as a Muhrim and in the state of lhram\"."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، - رضى الله عنهما - قَالَ قَالَتْ حَفْصَةُ زَوْجُ النَّبِيِّ صلى الله عليه وسلم قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَمْسٌ مِنَ الدَّوَابِّ كُلُّهَا فَاسِقٌ لاَ حَرَجَ عَلَى مَنْ قَتَلَهُنَّ الْعَقْرَبُ وَالْغُرَابُ وَالْحِدَأَةُ وَالْفَارَةُ وَالْكَلْبُ الْعَقُورُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Hafsa, the wife of Allah's Apostle (ﷺ), reported Allah's Messenger (ﷺ) having said this:",
+        "text": "There are five beasts, all of them are vicious and harmful and there is no sin for one who kills them (and these are): scorpion, crow, kite, rat and voracious dog."
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا زَيْدُ بْنُ جُبَيْرٍ، أَنَّ رَجُلاً، سَأَلَ ابْنَ عُمَرَ مَا يَقْتُلُ الْمُحْرِمُ مِنَ الدَّوَابِّ فَقَالَ أَخْبَرَتْنِي إِحْدَى نِسْوَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ أَمَرَ - أَوْ أُمِرَ - أَنْ تُقْتَلَ الْفَارَةُ وَالْعَقْرَبُ وَالْحِدَأَةُ وَالْكَلْبُ الْعَقُورُ وَالْغُرَابُ ‏.‏",
+      "english": {
+        "narrator": "Zaid b. Jubair reported:",
+        "text": "A person asked Ibn Umar which beast a Muhrim could kill. Thereupon he said: One of the wives of Allah's Apostle (ﷺ) told me: He (the Holy Prophet) commanded to kill rat, scorpion, kite, voracious dog and crow."
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ زَيْدِ بْنِ جُبَيْرٍ، قَالَ سَأَلَ رَجُلٌ ابْنَ عُمَرَ مَا يَقْتُلُ الرَّجُلُ مِنَ الدَّوَابِّ وَهُوَ مُحْرِمٌ قَالَ حَدَّثَتْنِي إِحْدَى نِسْوَةِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يَأْمُرُ بِقَتْلِ الْكَلْبِ الْعَقُورِ وَالْفَارَةِ وَالْعَقْرَبِ وَالْحُدَيَّا وَالْغُرَابِ وَالْحَيَّةِ ‏.‏ قَالَ وَفِي الصَّلاَةِ أَيْضًا ‏.‏",
+      "english": {
+        "narrator": "Zaid b. Jubair reported:",
+        "text": "A person asked Ibn 'Umar which beast a Muhrim could kill, whereupon he said: One of the wives of Allahs Apostle (ﷺ) told me: He (the Holy Prophet) commanded to kill voracious dog, rat, scorpion, kite, crow, and snake (and this is allowed) likewise in prayer."
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، - رضى الله عنهما - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ خَمْسٌ مِنَ الدَّوَابِّ لَيْسَ عَلَى الْمُحْرِمِ فِي قَتْلِهِنَّ جُنَاحٌ الْغُرَابُ وَالْحِدَأَةُ وَالْعَقْرَبُ وَالْفَارَةُ وَالْكَلْبُ الْعَقُورُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) as saying:",
+        "text": "Five are the beasts for killing which there is no sin for the Muhrim: crows, kites, scorpions, rats and wild dogs."
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، حَدَّثَنَا ابْنُ جُرَيْجٍ، قَالَ قُلْتُ لِنَافِعٍ مَاذَا سَمِعْتَ ابْنَ عُمَرَ، يُحِلُّ لِلْحَرَامِ قَتْلَهُ مِنَ الدَّوَابِّ فَقَالَ لِي نَافِعٌ قَالَ عَبْدُ اللَّهِ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ خَمْسٌ مِنَ الدَّوَابِّ لاَ جُنَاحَ عَلَى مَنْ قَتَلَهُنَّ فِي قَتْلِهِنَّ الْغُرَابُ وَالْحِدَأَةُ وَالْعَقْرَبُ وَالْفَارَةُ وَالْكَلْبُ الْعَقُورُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Juraij reported:",
+        "text": "I said to Nafi: What is that which you heard Ibn, Umar declaring permissible for a Muhrim to kill some of the beasts? Nafi, said to me that 'Abdullah had reported: I heard Allah's Messenger (ﷺ) as saying: Five are the beasts in killing which or their being killed, there is no sin: crow, kite, scorpion, rat and voracious dog."
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ قُتَيْبَةُ، وَابْنُ، رُمْحٍ عَنِ اللَّيْثِ بْنِ سَعْدٍ، ح وَحَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا جَرِيرٌ، - يَعْنِي ابْنَ حَازِمٍ - جَمِيعًا عَنْ نَافِعٍ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ، بْنُ مُسْهِرٍ ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي جَمِيعًا، عَنْ عُبَيْدِ اللَّهِ، ح وَحَدَّثَنِي أَبُو كَامِلٍ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا أَيُّوبُ، ح وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا يَحْيَى بْنُ سَعِيدٍ، كُلُّ هَؤُلاَءِ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، - رضى الله عنهما - عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِ حَدِيثِ مَالِكٍ وَابْنِ جُرَيْجٍ وَلَمْ يَقُلْ أَحَدٌ مِنْهُمْ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ - رضى الله عنهما - سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم ‏.‏ إِلاَّ ابْنُ جُرَيْجٍ وَحْدَهُ وَقَدْ تَابَعَ ابْنَ جُرَيْجٍ عَلَى ذَلِكَ ابْنُ إِسْحَاقَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The above hadith was reported with other chains from Nafi' on the authority of Ibn 'Umar, but there was difference in the wording in how the attributed the chain."
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ فَضْلُ بْنُ سَهْلٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ نَافِعٍ، وَعُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عُمَرَ، - رضى الله عنهما - قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ خَمْسٌ لاَ جُنَاحَ فِي قَتْلِ مَا قُتِلَ مِنْهُنَّ فِي الْحَرَمِ ‏\"‏ ‏.‏ فَذَكَرَ بِمِثْلِهِ‏.",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Ibn 'Umar through be upon him) as saying:",
+        "text": "Five (are the beasts) in killing which or their being killed in the precinct of the Ka'ba there is no sin.\" The rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَيَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ قَالَ يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرُونَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، أَنَّهُ سَمِعَ عَبْدَ، اللَّهِ بْنَ عُمَرَ - رضى الله عنهما - يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَمْسٌ مَنْ قَتَلَهُنَّ وَهُوَ حَرَامٌ فَلاَ جُنَاحَ عَلَيْهِ فِيهِنَّ الْعَقْرَبُ وَالْفَارَةُ وَالْكَلْبُ الْعَقُورُ وَالْغُرَابُ وَالْحُدَيَّا ‏\"‏ ‏.‏ وَاللَّفْظُ لِيَحْيَى بْنِ يَحْيَى ‏.‏",
+      "english": {
+        "narrator": "'Abdullah b. Umar (Allah be pleased with them) reported Allah's Messen- ger (ﷺ) as saying:",
+        "text": "Five (are the animals) which, it one kills them In the state of Ihram, entail no sin for one (who does it): scorpion, rat, voracious dog, crow and kite."
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ زَيْدٍ - عَنْ أَيُّوبَ، ح وَحَدَّثَنِي أَبُو الرَّبِيعِ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا أَيُّوبُ، قَالَ سَمِعْتُ مُجَاهِدًا، يُحَدِّثُ عَنْ عَبْدِ الرَّحْمَنِ، بْنِ أَبِي لَيْلَى عَنْ كَعْبِ بْنِ عُجْرَةَ، - رضى الله عنه - قَالَ أَتَى عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم زَمَنَ الْحُدَيْبِيَةِ وَأَنَا أُوقِدُ تَحْتَ - قَالَ الْقْوَارِيرِيُّ قِدْرٍ لِي ‏.‏ وَقَالَ أَبُو الرَّبِيعِ بُرْمَةٍ لِي - وَالْقَمْلُ يَتَنَاثَرُ عَلَى وَجْهِي فَقَالَ ‏\"‏ أَيُؤْذِيكَ هَوَامُّ رَأْسِكَ ‏\"‏ ‏.‏ قَالَ قُلْتُ نَعَمْ ‏.‏ قَالَ ‏\"‏ فَاحْلِقْ وَصُمْ ثَلاَثَةَ أَيَّامٍ أَوْ أَطْعِمْ سِتَّةَ مَسَاكِينَ أَوِ انْسُكْ نَسِيكَةً ‏\"‏ ‏.‏ قَالَ أَيُّوبُ فَلاَ أَدْرِي بِأَىِّ ذَلِكَ بَدَأَ ‏.‏",
+      "english": {
+        "narrator": "Ka'b b. 'Ujra (Allah be pleased with him) reported:",
+        "text": "The Messenger of Allah (ﷺ) came to me on the occasion of Hudaibiya and I was kindling fire under my cooking pot and lice were creeping on my face. Thereupon he (the Holy Prophet) said: Do the vermins harm your head? I said: Yes. He said: Get your head shaved and (in lieu of it) observe fasts for three days or feed six needy persons, or offer sacrifice (of an animal). Ayyub said: I do not know with what (type of expiation) did he commence (the statement)."
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، وَزُهَيْرُ بْنُ حَرْبٍ، وَيَعْقُوبُ بْنُ إِبْرَاهِيمَ، جَمِيعًا عَنِ ابْنِ عُلَيَّةَ، عَنْ أَيُّوبَ، فِي هَذَا الإِسْنَادِ ‏.‏ بِمِثْلِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith is narrated on the authority of Ayyub."
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ كَعْبِ بْنِ عُجْرَةَ، - رضى الله عنه - قَالَ فِيَّ أُنْزِلَتْ هَذِهِ الآيَةُ ‏{‏ فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ‏}‏ قَالَ فَأَتَيْتُهُ فَقَالَ ‏\"‏ ادْنُهْ ‏\"‏ ‏.‏ فَدَنَوْتُ فَقَالَ ‏\"‏ ادْنُهْ ‏\"‏ ‏.‏ فَدَنَوْتُ ‏.‏ فَقَالَ صلى الله عليه وسلم ‏\"‏ أَيُؤْذِيكَ هَوَامُّكَ ‏\"‏ ‏.‏ قَالَ ابْنُ عَوْنٍ وَأَظُنُّهُ قَالَ نَعَمْ ‏.‏ قَالَ فَأَمَرَنِي بِفِدْيَةٍ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ مَا تَيَسَّرَ ‏.‏",
+      "english": {
+        "narrator": "Kalb b. Ujra (Allah be pleased with him) reported:",
+        "text": "It was I for whom this verse was revealed (to the Holy Prophet):\" Whoever among you is sick or has an ail- ment of the head, he (may effect) a compensation by lasting or alms or a sacrifice\" He said: I came to him (the Holy Prophet) and he said: Come Dear. So I went near. He (again) said: Come near. So I went near. Thereupon the Messenger of Allah (ﷺ) said: Do the vermins trouble you? Ibn Aun (one of the narrators) said: I think he (Ka'b b. Ujra) replied in the affirmative. He (the Holy Prophet) then commanded to do compensation by fasting or by giving sadaqa (feeding six needy persons) or by sacrifice (of a animal) that is available."
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سَيْفٌ، قَالَ سَمِعْتُ مُجَاهِدًا، يَقُولُ حَدَّثَنِي عَبْدُ، الرَّحْمَنِ بْنُ أَبِي لَيْلَى حَدَّثَنِي كَعْبُ بْنُ عُجْرَةَ، - رضى الله عنه - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم وَقَفَ عَلَيْهِ وَرَأْسُهُ يَتَهَافَتُ قَمْلاً فَقَالَ ‏\"‏ أَيُؤْذِيكَ هَوَامُّكَ ‏\"‏ ‏.‏ قُلْتُ نَعَمْ ‏.‏ قَالَ ‏\"‏ فَاحْلِقْ رَأْسَكَ ‏\"‏ ‏.‏ قَالَ فَفِيَّ نَزَلَتْ هَذِهِ الآيَةُ ‏{‏ فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ‏}‏ فَقَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ صُمْ ثَلاَثَةَ أَيَّامٍ أَوْ تَصَدَّقْ بِفَرَقٍ بَيْنَ سِتَّةِ مَسَاكِينَ أَوِ انْسُكْ مَا تَيَسَّرَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ka'b b. 'Ujra (Allah be pleased with him) reported that the Messenger of Allah (may peace be, upon him) stood near him and lice were falling from his head. Thereupon he (the Holy Prophet) said:",
+        "text": "Do these vermins trouble you? I said: Yes. Thereupon he said: Then shave your head; and it was in connection with me that this verse was revealed:\" Whoever among you is sick or has an ailment of the head, he (may effect) a compensation by fasting or alms or a sacrifice\". He (the Holy Prophet, therefore) said to me: Observe fast for three days or give a quantity of alms enough to feed six needy persons or offer sacrifice (of an animal) that is available."
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، وَأَيُّوبَ، وَحُمَيْدٍ، وَعَبْدِ، الْكَرِيمِ عَنْ مُجَاهِدٍ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ كَعْبِ بْنِ عُجْرَةَ، - رضى الله عنه - أَنَّ النَّبِيَّ صلى الله عليه وسلم مَرَّ بِهِ وَهُوَ بِالْحُدَيْبِيَةِ قَبْلَ أَنْ يَدْخُلَ مَكَّةَ وَهُوَ مُحْرِمٌ وَهُوَ يُوقِدُ تَحْتَ قِدْرٍ وَالْقَمْلُ يَتَهَافَتُ عَلَى وَجْهِهِ فَقَالَ ‏\"‏ أَيُؤْذِيكَ هَوَامُّكَ هَذِهِ ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏\"‏ فَاحْلِقْ رَأْسَكَ وَأَطْعِمْ فَرَقًا بَيْنَ سِتَّةِ مَسَاكِينَ - وَالْفَرَقُ ثَلاَثَةُ آصُعٍ - أَوْ صُمْ ثَلاَثَةَ أَيَّامٍ أَوِ انْسُكْ نَسِيكَةً ‏\"‏ ‏.‏ قَالَ ابْنُ أَبِي نَجِيحٍ ‏\"‏ أَوِ اذْبَحْ شَاةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ka`b b. 'Ujra (Allah be pleased with him) reported that the Messenger of Allah (ﷺ) happened to pass by him at Hudaibiya before entering Mecca in a state of Ihram and he (Ka'b) was kindling fire under the cooking pot and vermin were creeping on his (Ka`b's) face. Thereupon (the Holy Prophet) said:",
+        "text": "Do these vermin trouble you? He (Ka'b) said: Yes. The Messenger of Allah (way peace be upon him) said: Shave your head and give some quantity of food enough to feed six needy persons (faraq is equal to three sa's), or observe fast for three days or offer sacrifice of a sacrificial animal. Ibn Najih (one of the narrators) said:\" Or sacrifice a goat.\""
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنْ خَالِدٍ، عَنْ أَبِي قِلاَبَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ كَعْبِ بْنِ عُجْرَةَ، رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَرَّ بِهِ زَمَنَ الْحُدَيْبِيَةِ فَقَالَ لَهُ ‏\"‏ آذَاكَ هَوَامُّ رَأْسِكَ ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ احْلِقْ رَأْسَكَ ثُمَّ اذْبَحْ شَاةً نُسُكًا أَوْ صُمْ ثَلاَثَةَ أَيَّامٍ أَوْ أَطْعِمْ ثَلاَثَةَ آصُعٍ مِنْ تَمْرٍ عَلَى سِتَّةِ مَسَاكِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ka'b b. Ujra (Allah be pleased with him) reported that the Messenger of Allah (ﷺ) happened to pass by him during the period of Hudaibiya. Thereupon he (the Holy Prophet) said to him (Ka'b b. Ujra):",
+        "text": "Do these vermins trouble your head? He said: Yes. Thereupon he (the Holy Prophet) said: Shave your head. Then sacrifice a goat or observe fasts for three days or give three sits of dates to feed six needy persons."
+      }
+    },
+    {
+      "id": 93,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالَ ابْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الأَصْبَهَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ مَعْقِلٍ، قَالَ قَعَدْتُ إِلَى كَعْبٍ - رضى الله عنه - وَهُوَ فِي الْمَسْجِدِ فَسَأَلْتُهُ عَنْ هَذِهِ الآيَةِ ‏{‏ فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ‏}‏ فَقَالَ كَعْبٌ رضى الله عنه نَزَلَتْ فِيَّ كَانَ بِي أَذًى مِنْ رَأْسِي فَحُمِلْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَالْقَمْلُ يَتَنَاثَرُ عَلَى وَجْهِي فَقَالَ ‏\"‏ مَا كُنْتُ أُرَى أَنَّ الْجَهْدَ بَلَغَ مِنْكَ مَا أَرَى أَتَجِدُ شَاةً ‏\"‏ ‏.‏ فَقُلْتُ لاَ فَنَزَلَتْ هَذِهِ الآيَةُ ‏{‏ فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ‏}‏ قَالَ صَوْمُ ثَلاَثَةِ أَيَّامٍ أَوْ إِطْعَامُ سِتَّةِ مَسَاكِينَ نِصْفَ صَاعٍ طَعَامًا لِكُلِّ مِسْكِينٍ - قَالَ - فَنَزَلَتْ فِيَّ خَاصَّةً وَهْىَ لَكُمْ عَامَّةً ‏.‏",
+      "english": {
+        "narrator": "Abdullah b. Ma'qil said:",
+        "text": "I sat with Ka'b (Allah be pleased with him) and he was in the mosque. I asked him about this verse:\" Compensation in (the form of) fasting, or Sadaqa or sacrifice.\" Ka'b (Allah be pleased with him) said: It was reveal- ed In my case. There was some trouble in my head. I was taken to the Messenger of Allah (ﷺ) and lice were creeping upon my face. Thereupon he said: I did not think that your trouble had become so unbearable as I see. Would you be able to afford (the sacrificing) of a goat? I (Ka'b) said: Then this verse was revealed:\" Com- pensation (in the form of) fasting or alms or a sacrifice.\" He (the Holy Prophet) said: (It Implies) fasting for three days, or feeding six needy perscins, half sa' of food for every needy person. This verse was revealed particularly for me and (now) Its applica- tion is general for all of you."
+      }
+    },
+    {
+      "id": 94,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ زَكَرِيَّاءَ بْنِ أَبِي زَائِدَةَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الأَصْبَهَانِيِّ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مَعْقِلٍ، حَدَّثَنِي كَعْبُ بْنُ عُجْرَةَ، - رضى الله عنه - أَنَّهُ خَرَجَ مَعَ النَّبِيِّ صلى الله عليه وسلم مُحْرِمًا فَقَمِلَ رَأْسُهُ وَلِحْيَتُهُ فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَأَرْسَلَ إِلَيْهِ فَدَعَا الْحَلاَّقَ فَحَلَقَ رَأْسَهُ ثُمَّ قَالَ لَهُ ‏\"‏ هَلْ عِنْدَكَ نُسُكٌ ‏\"‏ ‏.‏ قَالَ مَا أَقْدِرُ عَلَيْهِ ‏.‏ فَأَمَرَهُ أَنْ يَصُومَ ثَلاَثَةَ أَيَّامٍ أَوْ يُطْعِمَ سِتَّةَ مَسَاكِينَ لِكُلِّ مِسْكِينَيْنِ صَاعٌ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ فِيهِ خَاصَّةً ‏{‏ فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ‏}‏ ثُمَّ كَانَتْ لِلْمُسْلِمِينَ عَامَّةً ‏.‏",
+      "english": {
+        "narrator": "Ka'b b. Ujra (Allah be pleased with him) reported that he went out with the Messenger of Allah (ﷺ) in the state of Ihram, and his (Ka'b's) head and beard were infested with lice. This was conveyed to the Messenger of Allah (ﷺ). He sent for him (Ka'b) and called a barber (who) shaved his head. He (the Holy Prophet) said. Is there any sacrificial animal with you? He (Kalb) said:",
+        "text": "I cannot afford it. He then commanded him to observe fasts for three days or feed six needy persons, one sa' for every two needy persons. And Allah the Exalted and Majestic revealed this (verse) particular with regard to him:\" So whosoever among you is sick and has an ailment of the head..\" ; then (its application) became general for the Muslims."
+      }
+    },
+    {
+      "id": 95,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، وَعَطَاءٍ، عَنِ ابْنِ، عَبَّاسٍ - رضى الله عنهما - أَنَّ النَّبِيَّ صلى الله عليه وسلم احْتَجَمَ وَهُوَ مُحْرِمٌ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn 'Abbas (Allah be pleased with them) reported that the Messenger of Allah (ﷺ) got himself cupped in the state of lhrim."
+      }
+    },
+    {
+      "id": 96,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا الْمُعَلَّى بْنُ مَنْصُورٍ، حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ عَلْقَمَةَ بْنِ أَبِي عَلْقَمَةَ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنِ ابْنِ بُحَيْنَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم احْتَجَمَ بِطَرِيقِ مَكَّةَ وَهُوَ مُحْرِمٌ وَسَطَ رَأْسِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn Buhaina reported that the Messenger of Allah (ﷺ) got himself cupped in the middle of his head on his way to Mecca."
+      }
+    },
+    {
+      "id": 97,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، جَمِيعًا عَنِ ابْنِ، عُيَيْنَةَ - قَالَ أَبُو بَكْرٍ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، - حَدَّثَنَا أَيُّوبُ بْنُ مُوسَى، عَنْ نُبَيْهِ بْنِ وَهْبٍ، قَالَ خَرَجْنَا مَعَ أَبَانِ بْنِ عُثْمَانَ حَتَّى إِذَا كُنَّا بِمَلَلٍ اشْتَكَى عُمَرُ بْنُ عُبَيْدِ اللَّهِ عَيْنَيْهِ فَلَمَّا كُنَّا بِالرَّوْحَاءِ اشْتَدَّ وَجَعُهُ فَأَرْسَلَ إِلَى أَبَانَ بْنِ عُثْمَانَ يَسْأَلُهُ فَأَرْسَلَ إِلَيْهِ أَنِ اضْمِدْهُمَا بِالصَّبِرِ فَإِنَّ عُثْمَانَ - رضى الله عنه - حَدَّثَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الرَّجُلِ إِذَا اشْتَكَى عَيْنَيْهِ وَهُوَ مُحْرِمٌ ضَمَّدَهُمَا بِالصَّبِرِ ‏.‏",
+      "english": {
+        "narrator": "Nubaih b. Wabb reported:",
+        "text": "We went with Aban b. Uthman (in a state of lhram). When we were at Malal the eyes of Umar b. Ubaidullah became sore and, when we reached Rauba' the pain grew intense. He (Nubaib b. Wahb) sent (one) to Aban b. Uthman to ask him (what to do). He sent him (the message) to apply aloes to them, for 'Uthman (Allah be pleased with him) reported that the Messenger of Allah (ﷺ) applied aloes to the person whose eyes were sore and he was in the state of Ihram."
+      }
+    },
+    {
+      "id": 98,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنِي أَبِي، حَدَّثَنَا أَيُّوبُ بْنُ مُوسَى، حَدَّثَنِي نُبَيْهُ بْنُ وَهْبٍ، أَنَّ عُمَرَ بْنَ عُبَيْدِ اللَّهِ بْنِ مَعْمَرٍ، رَمِدَتْ عَيْنُهُ فَأَرَادَ أَنْ يَكْحُلَهَا، فَنَهَاهُ أَبَانُ بْنُ عُثْمَانَ وَأَمَرَهُ أَنْ يُضَمِّدَهَا بِالصَّبِرِ وَحَدَّثَ عَنْ عُثْمَانَ بْنِ عَفَّانَ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ فَعَلَ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Nubaih b Wahb reported that the eyes of Umar b. Ubaidnllah b. Ma'mar were swollen, and he decided to use antimony. Aban b. 'Uthman forbade him to do so and commanded him to apply aloes on them, and reported on the authority of 'Uthman b. Affan that the Messenger of Allah (ﷺ) had done that."
+      }
+    },
+    {
+      "id": 99,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، قَالُوا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ زَيْدِ بْنِ أَسْلَمَ، ح وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، - وَهَذَا حَدِيثُهُ - عَنْ مَالِكِ بْنِ أَنَسٍ، فِيمَا قُرِئَ عَلَيْهِ عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ حُنَيْنٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، وَالْمِسْوَرِ بْنِ مَخْرَمَةَ، أَنَّهُمَا اخْتَلَفَا بِالأَبْوَاءِ فَقَالَ عَبْدُ اللَّهِ بْنُ عَبَّاسٍ يَغْسِلُ الْمُحْرِمُ رَأْسَهُ ‏.‏ وَقَالَ الْمِسْوَرُ لاَ يَغْسِلُ الْمُحْرِمُ رَأْسَهُ ‏.‏ فَأَرْسَلَنِي ابْنُ عَبَّاسٍ إِلَى أَبِي أَيُّوبَ الأَنْصَارِيِّ أَسْأَلُهُ عَنْ ذَلِكَ فَوَجَدْتُهُ يَغْتَسِلُ بَيْنَ الْقَرْنَيْنِ وَهُوَ يَسْتَتِرُ بِثَوْبٍ - قَالَ - فَسَلَّمْتُ عَلَيْهِ فَقَالَ مَنْ هَذَا فَقُلْتُ أَنَا عَبْدُ اللَّهِ بْنُ حُنَيْنٍ أَرْسَلَنِي إِلَيْكَ عَبْدُ اللَّهِ بْنُ عَبَّاسٍ أَسْأَلُكَ كَيْفَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَغْسِلُ رَأْسَهُ وَهُوَ مُحْرِمٌ فَوَضَعَ أَبُو أَيُّوبَ - رضى الله عنه - يَدَهُ عَلَى الثَّوْبِ فَطَأْطَأَهُ حَتَّى بَدَا لِي رَأْسُهُ ثُمَّ قَالَ لإِنْسَانٍ يَصُبُّ اصْبُبْ ‏.‏ فَصَبَّ عَلَى رَأْسِهِ ثُمَّ حَرَّكَ رَأْسَهُ بِيَدَيْهِ فَأَقْبَلَ بِهِمَا وَأَدْبَرَ ثُمَّ قَالَ هَكَذَا رَأَيْتُهُ صلى الله عليه وسلم يَفْعَلُ ‏.‏",
+      "english": {
+        "narrator": "Ibrahim b. 'Abdullah narrated on the authorrity of his father that there cropped up a difference of opinion between Abdullah b. 'Abbas and al-Miswar b. Makhrama at a place (called) Abwa'. Abdullah b. 'Abbas contended that a Muhrim (is permitted) to wash his head, whereas Miswar contended that a Muhrim is not (permit- fed) to wash his head. So Ibn Abbas sent me (the father of Ibrabim) to Abu Ayyub al- Ansirl to ask him about it. (So I went to him) and found him taking bath behind two poles covered by a cloth. I gave him salutation, whereupon be asked:",
+        "text": "Who is this? I said: I am 'Abdullah b. Hunain. 'Abdullah b. 'Abbas has sent me to you to find out how the Messenger of Allah (ﷺ) washed his head in the state of Ihram. Abu Ayyub (Allah be pleased with him) placed his hand on the cloth and lowered it (a little) till his head became visible to me; and he said to the man who was pouring water upon him to pour water. He poured water on his head. He then moved his head with the help of his hands and moved them (the hands) forward and backward and then said: This is how I saw him (the Messenger of Allah) doing."
+      }
+    },
+    {
+      "id": 100,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ خَشْرَمٍ، قَالاَ أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي زَيْدُ بْنُ أَسْلَمَ، بِهَذَا الإِسْنَادِ وَقَالَ فَأَمَرَّ أَبُو أَيُّوبَ بِيَدَيْهِ عَلَى رَأْسِهِ جَمِيعًا عَلَى جَمِيعِ رَأْسِهِ فَأَقْبَلَ بِهِمَا وَأَدْبَرَ فَقَالَ الْمِسْوَرُ لاِبْنِ عَبَّاسٍ لاَ أُمَارِيكَ أَبَدًا ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Zaid b. Aslam with the same chain of transmitters that Abu Ayyub rubbed his whole head with his hands and then moved them forward and backward. Miswar said to Ibn 'Abbas:",
+        "text": "I would never dispute with you (in future)."
+      }
+    },
+    {
+      "id": 101,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، عَنْ سَعِيدِ بْنِ، جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ، - رضى الله عنهما - عَنِ النَّبِيِّ صلى الله عليه وسلم خَرَّ رَجُلٌ مِنْ بَعِيرِهِ فَوُقِصَ فَمَاتَ فَقَالَ ‏\n\"‏ اغْسِلُوهُ بِمَاءٍ وَسِدْرٍ وَكَفِّنُوهُ فِي ثَوْبَيْهِ وَلاَ تُخَمِّرُوا رَأْسَهُ فَإِنَّ اللَّهَ يَبْعَثُهُ يَوْمَ الْقِيَامَةِ مُلَبِّيًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Abbas (Allah be pleased with them) reported that a person fell down from his camel (in a state of Ihram) and his neck was broken and he died. Thereupon Allah's Apostle. (ﷺ) said:",
+        "text": "Bathe him with water mixed with the leaves of the lote tree and shroud him in his two (pieces of) cloth (Ihbram), and do not cover his head for Allah will raise him on the Day of Resurrection Pronouncing Talbiya."
+      }
+    },
+    {
+      "id": 102,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرِو بْنِ دِينَارٍ، وَأَيُّوبَ، عَنْ سَعِيدِ، بْنِ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ، - رضى الله عنهما - قَالَ بَيْنَمَا رَجُلٌ وَاقِفٌ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِعَرَفَةَ إِذْ وَقَعَ مِنْ رَاحِلَتِهِ - قَالَ أَيُّوبُ فَأَوْقَصَتْهُ أَوْ قَالَ - فَأَقْعَصَتْهُ وَقَالَ عَمْرٌو فَوَقَصَتْهُ - فَذُكِرَ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ اغْسِلُوهُ بِمَاءٍ وَسِدْرٍ وَكَفِّنُوهُ فِي ثَوْبَيْنِ وَلاَ تُحَنِّطُوهُ وَلاَ تُخَمِّرُوا رَأْسَهُ - قَالَ أَيُّوبُ فَإِنَّ اللَّهَ يَبْعَثُهُ يَوْمَ الْقِيَامَةِ مُلَبِّيًا وَقَالَ عَمْرٌو - فَإِنَّ اللَّهَ يَبْعَثُهُ يَوْمَ الْقِيَامَةِ يُلَبِّي ‏\"‏ ‏.‏\n وَحَدَّثَنِيهِ عَمْرٌو النَّاقِدُ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَيُّوبَ، قَالَ نُبِّئْتُ عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، - رضى الله عنهما - أَنَّ رَجُلاً، كَانَ وَاقِفًا مَعَ النَّبِيِّ صلى الله عليه وسلم وَهُوَ مُحْرِمٌ ‏.‏ فَذَكَرَ نَحْوَ مَا ذَكَرَ حَمَّادٌ عَنْ أَيُّوبَ ‏.‏",
+      "english": {
+        "narrator": "Ibn Abbas (Allah be pleased with them) reported:",
+        "text": "While a person was standing in 'Arafat with the Messenger of Allah (ﷺ) he fell down from his camel and broke his neck. This was mentioned to the Messenger of Allah (ﷺ), whereupon he said: Bathe him with water mixed with the leaves of the lote tree and shroud him in two (pieces of) cloth and neither perfume him nor cover his head; (Ayyub said) for Allah would raise him on the Day of Resurrection in the state of pronouncing Talbiya. ('Amr. however, said): Verily Allah would raise him on the Day of Resurrection pronouncing Talbiya. Sa'id b. Jubair narrated this hadith on the authority of Ibn 'Abbas (Allah be pleased with them) that a person was standing with the Messenger of Allah (ﷺ) as he was in the state of Ihram. The rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى، - يَعْنِي ابْنَ يُونُسَ - عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، - رضى الله عنهما - قَالَ أَقْبَلَ رَجُلٌ حَرَامًا مَعَ النَّبِيِّ صلى الله عليه وسلم فَخَرَّ مِنْ بَعِيرِهِ فَوُقِصَ وَقْصًا فَمَاتَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اغْسِلُوهُ بِمَاءٍ وَسِدْرٍ وَأَلْبِسُوهُ ثَوْبَيْهِ وَلاَ تُخَمِّرُوا رَأْسَهُ فَإِنَّهُ يَأْتِي يَوْمَ الْقِيَامَةِ يُلَبِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Abbas (Allah be pleased with them) reported that a person proceeded along with the Messenger of Allah (may peace he upon him) in the state of Ihram and fell down from his camel and his neck was broken, and he died. The Messenger of Allah (ﷺ) said:",
+        "text": "Bathe him with water mixed with lote (leaves) and shroud him in two (pieces of) cloth and do'not cover his head for he would come on the Day of Resurrection pronouncing Talbiya."
+      }
+    },
+    {
+      "id": 104,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا مُحَمَّدُ بْنُ بَكْرٍ الْبُرْسَانِيُّ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ، أَنَّ سَعِيدَ بْنَ جُبَيْرٍ، أَخْبَرَهُ عَنِ ابْنِ عَبَّاسٍ، - رضى الله عنهما - قَالَ أَقْبَلَ رَجُلٌ حَرَامٌ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ غَيْرَ أَنَّهُ قَالَ ‏\n\"‏ فَإِنَّهُ يُبْعَثُ يَوْمَ الْقِيَامَةِ مُلَبِّيًا ‏\"‏ ‏.‏ وَزَادَ لَمْ يُسَمِّ سَعِيدُ بْنُ جُبَيْرٍ حَيْثُ خَرَّ ‏.‏",
+      "english": {
+        "narrator": "Sa'id b. Jubair reported on the authority of Ibn Abbas (Allah be pleased with him) that a person proceeded with the Messenger of Allah (ﷺ) in the state of Ihram. The rest of the hadith th is the same except that he (the Holy Prophet) (is reported to have) said:",
+        "text": "He would be raised on the Day of Resurrection pronouncing Talbiya. Sa'id b. Jubair did not name the place where he fell down."
+      }
+    },
+    {
+      "id": 105,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ سَعِيدِ بْنِ، جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ، - رضى الله عنهما - أَنَّ رَجُلاً، أَوْقَصَتْهُ رَاحِلَتُهُ وَهُوَ مُحْرِمٌ فَمَاتَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اغْسِلُوهُ بِمَاءٍ وَسِدْرٍ وَكَفِّنُوهُ فِي ثَوْبَيْهِ وَلاَ تُخَمِّرُوا رَأْسَهُ وَلاَ وَجْهَهُ فَإِنَّهُ يُبْعَثُ يَوْمَ الْقِيَامَةِ مُلَبِّيًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Abbas (Allah be pleased with them) reported that there was a person in the state of Ihram whose camel broke his neck and he died. Thereupon the Mes- senger of Allah (ﷺ) said:",
+        "text": "Bathe him with water mixed (with the leaves of) lote tree and shroud him In his two (pieces of) cloth and cover neither his head nor his face, for he would be raised on the Day of Resurrection pronouncing Talbiya."
+      }
+    },
+    {
+      "id": 106,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا أَبُو بِشْرٍ، حَدَّثَنَا سَعِيدُ بْنُ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما ح .\n وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، - وَاللَّفْظُ لَهُ - أَخْبَرَنَا هُشَيْمٌ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ، بْنِ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما أَنَّ رَجُلاً، كَانَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مُحْرِمًا فَوَقَصَتْهُ نَاقَتُهُ فَمَاتَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اغْسِلُوهُ بِمَاءٍ وَسِدْرٍ وَكَفِّنُوهُ فِي ثَوْبَيْهِ وَلاَ تُمِسُّوهُ بِطِيبٍ وَلاَ تُخَمِّرُوا رَأْسَهُ فَإِنَّهُ يُبْعَثُ يَوْمَ الْقِيَامَةِ مُلَبِّدًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas (Allah be pleased with them) reported that when a person who was in the state of Ihram was in the company of the Messenger of Allah (ﷺ), his camel broke his neckand he died. Upon this the Messenger of Allah (ﷺ) said:",
+        "text": "Bathe him with water (mixed with the leaves) of the lute tree and shroud him in his two (pieces of) cloth and, neither perfume him nor cover his head, for he would be raised on the Day of Resurrection pronouncing Talbiya."
+      }
+    },
+    {
+      "id": 107,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو كَامِلٍ، فُضَيْلُ بْنُ حُسَيْنٍ الْجَحْدَرِيُّ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، - رضى الله عنهما - أَنَّ رَجُلاً، وَقَصَهُ بَعِيرُهُ وَهُوَ مُحْرِمٌ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَمَرَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يُغْسَلَ بِمَاءٍ وَسِدْرٍ وَلاَ يُمَسَّ طِيبًا وَلاَ يُخَمَّرَ رَأْسُهُ فَإِنَّهُ يُبْعَثُ يَوْمَ الْقِيَامَةِ مُلَبِّدًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Sa'id b. Jubair reported on the authority of Ibn 'Abbas (Allah be pleased with them) that a camel broke the neck of its owner while he was in the state of lhram and he was at that time in the company of the Messenger of Allah (ﷺ). Allah's Messenger (ﷺ) commanded that he should be bathed with water mixed with (leaves of the) lote (tree) and no perfume should be applied to him and his head should not be covered, for he would be raised on the Day of Resurrection pronouncing Talblya."
+      }
+    },
+    {
+      "id": 108,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَأَبُو بَكْرِ بْنُ نَافِعٍ قَالَ ابْنُ نَافِعٍ أَخْبَرَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ أَبَا بِشْرٍ، يُحَدِّثُ عَنْ سَعِيدِ بْنِ جُبَيْرٍ، أَنَّهُ سَمِعَ ابْنَ عَبَّاسٍ، - رضى الله عنهما - يُحَدِّثُ أَنَّ رَجُلاً أَتَى النَّبِيَّ صلى الله عليه وسلم وَهُوَ مُحْرِمٌ فَوَقَعَ مِنْ نَاقَتِهِ فَأَقْعَصَتْهُ فَأَمَرَ النَّبِيُّ صلى الله عليه وسلم أَنْ يُغْسَلَ بِمَاءٍ وَسِدْرٍ وَأَنْ يُكَفَّنَ فِي ثَوْبَيْنِ وَلاَ يُمَسَّ طِيبًا خَارِجٌ رَأْسُهُ ‏.‏ قَالَ شُعْبَةُ ثُمَّ حَدَّثَنِي بِهِ بَعْدَ ذَلِكَ خَارِجٌ رَأْسُهُ وَوَجْهُهُ فَإِنَّهُ يُبْعَثُ يَوْمَ الْقِيَامَةِ مُلَبِّدًا ‏.‏",
+      "english": {
+        "narrator": "Sa'id b. Jubair heard Ibn 'Abbas (Allah be pleased with them) as saying:",
+        "text": "A person came to Allah's Apostle (ﷺ) while he was in the state of lhram. He fell down from his camel and broke his neck. Thereupon Allah's Apostle (ﷺ) commanded to bathe him with water (mixed with the leaves of) the lote (tree), and shroud him in two (pieces of) cloth and not to apply perfume (to him), keeping his head out (of the shroud). Shu'ba said: He then narrated to me after this (the words)\" keeping his head out,\" his face out, for he would be raised on the Day of Resurrection pronouncing Talbiya."
+      }
+    },
+    {
+      "id": 109,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا الأَسْوَدُ بْنُ عَامِرٍ، عَنْ زُهَيْرٍ، عَنْ أَبِي الزُّبَيْرِ، قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، يَقُولُ قَالَ ابْنُ عَبَّاسٍ - رضى الله عنهما - وَقَصَتْ رَجُلاً رَاحِلَتُهُ وَهُوَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَمَرَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَغْسِلُوهُ بِمَاءٍ وَسِدْرٍ وَأَنْ يَكْشِفُوا وَجْهَهُ - حَسِبْتُهُ قَالَ - وَرَأْسَهُ فَإِنَّهُ يُبْعَثُ يَوْمَ الْقِيَامَةِ وَهُوَ يُهِلُّ ‏.‏",
+      "english": {
+        "narrator": "Sa`id b. Jubair reported on the authority of Ibn `Abbas (Allah be pleased with them) that the camel of a person broke his neck as he was in the company of Allah's Messenger (ﷺ). The Messenger of Allah (ﷺ) commanded them (Companions) to wash him with water mixed (with the leaves of) the lote (tree) and to keep his face exposed; (he, the narrator) said:",
+        "text": "And his head (too), for he would be raised on the Day of Resurrection pronouncing Talbiya."
+      }
+    },
+    {
+      "id": 110,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، حَدَّثَنَا إِسْرَائِيلُ، عَنْ مَنْصُورٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، - رضى الله عنهما - قَالَ كَانَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم رَجُلٌ فَوَقَصَتْهُ نَاقَتُهُ فَمَاتَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ اغْسِلُوهُ وَلاَ تُقَرِّبُوهُ طِيبًا وَلاَ تُغَطُّوا وَجْهَهُ فَإِنَّهُ يُبْعَثُ يُلَبِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas (Allah be pleased with him) reported that there was a person in the company of Allah's Messenger (may peace' be upon him) whose camel broke his neck and he died. thereupon Allah's Apostle (ﷺ) said:",
+        "text": "Wash him, but do not apply perfume and do not cover his face, for he would be raised (on the Day of Resurrection) pronouncing Talbiya."
+      }
+    },
+    {
+      "id": 111,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ الْهَمْدَانِيُّ حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ دَخَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى ضُبَاعَةَ بِنْتِ الزُّبَيْرِ فَقَالَ لَهَا ‏\"‏ أَرَدْتِ الْحَجَّ ‏\"‏ ‏.‏ قَالَتْ وَاللَّهِ مَا أَجِدُنِي إِلاَّ وَجِعَةً ‏.‏ فَقَالَ لَهَا ‏\"‏ حُجِّي وَاشْتَرِطِي وَقُولِي اللَّهُمَّ مَحِلِّي حَيْثُ حَبَسْتَنِي ‏\"‏ ‏.‏ وَكَانَتْ تَحْتَ الْمِقْدَادِ ‏.‏",
+      "english": {
+        "narrator": "`A'isha (Allah be pleased with her) reported that Allah's Messenger (ﷺ) went (into the house of) Duba`a bint Zubair and said to her:",
+        "text": "Did you intend to perform Hajj? She said: By Allah, (I intend to do so) but I often remain ill, whereupon he (the Holy Prophet) said to her: Perform Hajj but with condition, and say: O Allah, I shall be free from Ihram where you detain me. And she (Duba`a) was the wife of Miqdad."
+      }
+    },
+    {
+      "id": 112,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ دَخَلَ النَّبِيُّ صلى الله عليه وسلم عَلَى ضُبَاعَةَ بِنْتِ الزُّبَيْرِ بْنِ عَبْدِ الْمُطَّلِبِ فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي أُرِيدُ الْحَجَّ وَأَنَا شَاكِيَةٌ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ حُجِّي وَاشْتَرِطِي أَنَّ مَحِلِّي حَيْثُ حَبَسْتَنِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "A'isha (Allah be pleased with her) reported that Allah's Apostle (ﷺ) went (to the house of) Duba'a bint al-Zubair b. Abd al-Muttalib. She said:",
+        "text": "Messenger of Allah, I intend to perform Hajj, but I am ill. Thereupon Allah's Apostle (ﷺ) said: Enter Into the state of Ihram on condition that you would abandon it when Allah would detain you."
+      }
+    },
+    {
+      "id": 113,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - رضى الله عنها - مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been reported on the authority of A'isha through another chain of transmitters."
+      }
+    },
+    {
+      "id": 114,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ عَبْدِ الْمَجِيدِ، وَأَبُو عَاصِمٍ وَمُحَمَّدُ بْنُ بَكْرٍ عَنِ ابْنِ جُرَيْجٍ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، - وَاللَّفْظُ لَهُ - أَخْبَرَنَا مُحَمَّدُ بْنُ، بَكْرٍ أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ طَاوُسًا، وَعِكْرِمَةَ، مَوْلَى ابْنِ عَبَّاسٍ عَنِ ابْنِ عَبَّاسٍ، أَنَّ ضُبَاعَةَ بِنْتَ الزُّبَيْرِ بْنِ عَبْدِ الْمُطَّلِبِ، - رضى الله عنها - أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَتْ إِنِّي امْرَأَةٌ ثَقِيلَةٌ وَإِنِّي أُرِيدُ الْحَجَّ فَمَا تَأْمُرُنِي قَالَ ‏\n\"‏ أَهِلِّي بِالْحَجِّ وَاشْتَرِطِي أَنَّ مَحِلِّي حَيْثُ تَحْبِسُنِي ‏\"‏ ‏.‏ قَالَ فَأَدْرَكَتْ ‏.‏",
+      "english": {
+        "narrator": "Ibn Abbas reported that Duba'a bint al-Zubair b. 'Abd al-Muttalib (Allah be pleased with her) came to Allah's Messenger (ﷺ) and said:",
+        "text": "I am an ailing woman but I intend to perform Hajj; what you command me (to do)? He (the Holy Prophet) said: Enter into the state of Ihram (uttering these words) of condition: I would be free from it when Thou wouldst detain me. 'He (the narrator) said: But she was able to complete (the Hajj without breaking down)."
+      }
+    },
+    {
+      "id": 115,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا أَبُو دَاوُدَ الطَّيَالِسِيُّ، حَدَّثَنَا حَبِيبُ بْنُ يَزِيدَ، عَنْ عَمْرِو بْنِ هَرِمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، وَعِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما أَنَّ ضُبَاعَةَ، أَرَادَتِ الْحَجَّ فَأَمَرَهَا النَّبِيُّ صلى الله عليه وسلم أَنْ تَشْتَرِطَ فَفَعَلَتْ ذَلِكَ عَنْ أَمْرِ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn `Abbas (Allah be pleased with him) reported that Duba`a intended to perform Hajj, and the Messenger of Allah (ﷺ) commanded her (to enter into the state of Ihram) with condition. She did it in compliance with the command of Allah's Apostle (ﷺ)."
+      }
+    },
+    {
+      "id": 116,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَأَبُو أَيُّوبَ الْغَيْلاَنِيُّ وَأَحْمَدُ بْنُ خِرَاشٍ قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا أَبُو عَامِرٍ، - وَهُوَ عَبْدُ الْمَلِكِ بْنُ عَمْرٍو - حَدَّثَنَا رَبَاحٌ، - وَهُوَ ابْنُ أَبِي مَعْرُوفٍ - عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، - رضى الله عنهما - أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لِضُبَاعَةَ رضى الله عنها ‏\n\"‏ حُجِّي وَاشْتَرِطِي أَنَّ مَحِلِّي حَيْثُ تَحْبِسُنِي ‏\"‏ ‏.‏ وَفِي رِوَايَةِ إِسْحَاقَ أَمَرَ ضُبَاعَةَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Ibn 'Abbas with a slight variation of words."
+      }
+    },
+    {
+      "id": 117,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، وَزُهَيْرُ بْنُ حَرْبٍ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، كُلُّهُمْ عَنْ عَبْدَةَ، - قَالَ زُهَيْرٌ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، - عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ نُفِسَتْ أَسْمَاءُ بِنْتُ عُمَيْسٍ بِمُحَمَّدِ بْنِ أَبِي بَكْرٍ بِالشَّجَرَةِ فَأَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَبَا بَكْرٍ يَأْمُرُهَا أَنْ تَغْتَسِلَ وَتُهِلَّ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "`A'isha (Allah be pleased with her) reported that Asma' bint `Umais gave birth to Muhammad b Abu Bakr near Dhu'l-Hulaifa. The Messenger of Allah (ﷺ) commanded Abu Bakr to convey to her that she should take a bath and then enter into the state of Ihram."
+      }
+    },
+    {
+      "id": 118,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو غَسَّانَ، مُحَمَّدُ بْنُ عَمْرٍو حَدَّثَنَا جَرِيرُ بْنُ عَبْدِ الْحَمِيدِ، عَنْ يَحْيَى بْنِ، سَعِيدٍ عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، - رضى الله عنهما - فِي حَدِيثِ أَسْمَاءَ بِنْتِ عُمَيْسٍ حِينَ نُفِسَتْ بِذِي الْحُلَيْفَةِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَ أَبَا بَكْرٍ - رضى الله عنه - فَأَمَرَهَا أَنْ تَغْتَسِلَ وَتُهِلَّ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Jabir b. `Abdullah (Allah be pleased with them) reported that when Asma' bint `Umais gave birth (to a child) in Dhu'l-Hulaifa. Allah's Messenger (ﷺ) commanded Abu Bakr (to convey to her) that she should take a bath and enter into the state of Ihram."
+      }
+    },
+    {
+      "id": 119,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - أَنَّهَا قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَامَ حَجَّةِ الْوَدَاعِ فَأَهْلَلْنَا بِعُمْرَةٍ ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ كَانَ مَعَهُ هَدْىٌ فَلْيُهِلَّ بِالْحَجِّ مَعَ الْعُمْرَةِ ثُمَّ لاَ يَحِلُّ حَتَّى يَحِلَّ مِنْهُمَا جَمِيعًا ‏\"‏ ‏.‏ قَالَتْ فَقَدِمْتُ مَكَّةَ وَأَنَا حَائِضٌ لَمْ أَطُفْ بِالْبَيْتِ وَلاَ بَيْنَ الصَّفَا وَالْمَرْوَةِ فَشَكَوْتُ ذَلِكَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ انْقُضِي رَأْسَكِ وَامْتَشِطِي وَأَهِلِّي بِالْحَجِّ وَدَعِي الْعُمْرَةَ ‏\"‏ ‏.‏ قَالَتْ فَفَعَلْتُ فَلَمَّا قَضَيْنَا الْحَجَّ أَرْسَلَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم مَعَ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ إِلَى التَّنْعِيمِ فَاعْتَمَرْتُ فَقَالَ ‏\"‏ هَذِهِ مَكَانَ عُمْرَتِكِ ‏\"‏ ‏.‏ فَطَافَ الَّذِينَ أَهَلُّوا بِالْعُمْرَةِ بِالْبَيْتِ وَبِالصَّفَا وَالْمَرْوَةِ ثُمَّ حَلُّوا ثُمَّ طَافُوا طَوَافًا آخَرَ بَعْدَ أَنْ رَجَعُوا مِنْ مِنًى لِحَجِّهِمْ وَأَمَّا الَّذِينَ كَانُوا جَمَعُوا الْحَجَّ وَالْعُمْرَةَ فَإِنَّمَا طَافُوا طَوَافًا وَاحِدًا ‏.‏",
+      "english": {
+        "narrator": "'A'isha (Allah be pleased with her) said:",
+        "text": "We went with the Messenger of Allah (ﷺ) during the year of the Farewell Pilgrimage. We entered into the state of Ihram for Umra. Then the Messenger of Allah (ﷺ) said: Who has the sacrificial animal with him, he should put on Ihram for Hajj along with Umra. and should not put it off till he has completed them (both Hajj and Umra). She said: When I came to Mecca. I was having menses, I neither circumambulated the House, nor ran between as-safa' and al-Marwa. I complained about it to the Messenger of Allah (ﷺ) and he said: Undo your hair, comb it, and pronounce Talbiya for Hajj, and give up Umra (for the time being), which I did. When we had performed the Hajj, the Messenger of Allah (way peace he upon him) sent me with Abd al-Rabman b. Abu Bakr to Tan'im saying: This is the place for your Umra. Those who had put on Ihram for Umra circumambulated the House, and ran between al-safa' and al-Marwa. They then put off Ihram and then made the last circuit after they had returned from Mina after performing their Hajj, but those who had combined the Hajj and the Umra made only one circuit (as they had combined Hajj and 'Umra)."
+      }
+    },
+    {
+      "id": 120,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، حَدَّثَنِي عُقَيْلُ بْنُ، خَالِدٍ عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَامَ حَجَّةِ الْوَدَاعِ فَمِنَّا مَنْ أَهَلَّ بِعُمْرَةٍ وَمِنَّا مَنْ أَهَلَّ بِحَجٍّ حَتَّى قَدِمْنَا مَكَّةَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَحْرَمَ بِعُمْرَةٍ وَلَمْ يُهْدِ فَلْيَحْلِلْ وَمَنْ أَحْرَمَ بِعُمْرَةٍ وَأَهْدَى فَلاَ يَحِلُّ حَتَّى يَنْحَرَ هَدْيَهُ وَمَنْ أَهَلَّ بِحَجٍّ فَلْيُتِمَّ حَجَّهُ ‏\"‏ ‏.‏ قَالَتْ عَائِشَةُ - رضى الله عنها - فَحِضْتُ فَلَمْ أَزَلْ حَائِضًا حَتَّى كَانَ يَوْمُ عَرَفَةَ وَلَمْ أُهْلِلْ إِلاَّ بِعُمْرَةٍ فَأَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ أَنْقُضَ رَأْسِي وَأَمْتَشِطَ وَأُهِلَّ بِحَجٍّ وَأَتْرُكَ الْعُمْرَةَ - قَالَتْ - فَفَعَلْتُ ذَلِكَ حَتَّى إِذَا قَضَيْتُ حَجَّتِي بَعَثَ مَعِي رَسُولُ اللَّهِ صلى الله عليه وسلم عَبْدَ الرَّحْمَنِ بْنَ أَبِي بَكْرٍ وَأَمَرَنِي أَنْ أَعْتَمِرَ مِنَ التَّنْعِيمِ مَكَانَ عُمْرَتِي الَّتِي أَدْرَكَنِي الْحَجُّ وَلَمْ أَحْلِلْ مِنْهَا ‏.‏",
+      "english": {
+        "narrator": "'A'isha, the wife of the Messenger of Allah (ﷺ), said:",
+        "text": "We went out with the Messenger of Allah (ﷺ) during the year of the Farewell Pilgrimage. There were some amongst us who had put on IHram for Umra and there were some who had put on Ihram for Hajj. (We proceeded on till) we came to Mecca. The Messenger of Allah (ﷺ) said: He who put on Ihram for 'Umra but did not bring the sacrificial animal with him should put it off. and he who put on Ihram for Umra and he who had brought the sacrificial animal with him should not put it off until he had slaughtered the animal; and he who put on lhram for Hajj should complete it. A'isha (Allah be pleased with her) said: I was in the monthlyperiod, and I remained In this state till the day of 'Arafa, and I had entered into the state of Ihram for 'Umra. The Messenger of Allah (ﷺ) thus commanded me to undo my hair and comb them (again) and enter into the state of Ihram for Hajj, and abandon (the rites of 'Umra). She ('A'isha) said: I did so, and when I had completed my Pilgrimage, the Messenger of Allah (ﷺ) sent with me 'Abd al-Rabman b. Abu Bakr and commanded me to (resume the rites of) 'Umra at Tan'im. the place where (I abandoned) 'Umra and put on Ihram for Hajj (before completing Umra)."
+      }
+    },
+    {
+      "id": 121,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ خَرَجْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم عَامَ حَجَّةِ الْوَدَاعِ فَأَهْلَلْتُ بِعُمْرَةٍ وَلَمْ أَكُنْ سُقْتُ الْهَدْىَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ مَنْ كَانَ مَعَهُ هَدْىٌ فَلْيُهْلِلْ بِالْحَجِّ مَعَ عُمْرَتِهِ ثُمَّ لاَ يَحِلَّ حَتَّى يَحِلَّ مِنْهُمَا جَمِيعًا ‏\"‏ ‏.‏ قَالَتْ فَحِضْتُ فَلَمَّا دَخَلَتْ لَيْلَةُ عَرَفَةَ قُلْتُ يَا رَسُولَ اللَّهِ إِنِّي كُنْتُ أَهْلَلْتُ بِعُمْرَةٍ فَكَيْفَ أَصْنَعُ بِحَجَّتِي قَالَ ‏\"‏ انْقُضِي رَأْسَكِ وَامْتَشِطِي وَأَمْسِكِي عَنِ الْعُمْرَةِ وَأَهِلِّي بِالْحَجِّ ‏\"‏ ‏.‏ قَالَتْ فَلَمَّا قَضَيْتُ حَجَّتِي أَمَرَ عَبْدَ الرَّحْمَنِ بْنَ أَبِي بَكْرٍ فَأَرْدَفَنِي فَأَعْمَرَنِي مِنَ التَّنْعِيمِ مَكَانَ عُمْرَتِي الَّتِي أَمْسَكْتُ عَنْهَا ‏.‏",
+      "english": {
+        "narrator": "A'isha (Allah be pleased with her) reported:",
+        "text": "We went with the Messenger of Allah (ﷺ) during the year of the Farewell Pilgrimage. I put on Ihram for Umra and did not bring the sacrificial animal. The Apostle of Allah (ﷺ) said: He who has the sacrihcial animal with him should enter into the state of Ihram for Hajj along with 'Umra, and. he should not put the Ihram off till he has completed both of them. She (Hadrat A'isha) said: The monthly period began. When it was the night of Arafa, I said to the Messenger of Allah (ﷺ): I entered into the state of Ihram for 'Umra. but now how should I perform the Hajj? Thereupon he said: Undo your hair and comb them, and desist from performing Umra, and put on Ihram for Hajj She (A'isha, said: When I had completed my Hajj he commanded 'Abd al-Rahman b. Abu Bakr to carry me behind him (on boneback) in order to enable me to resume the rituals of Umra from Tan'im, the place where I abandoned its rituals."
+      }
+    },
+    {
+      "id": 122,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ مَنْ أَرَادَ مِنْكُمْ أَنْ يُهِلَّ بِحَجٍّ وَعُمْرَةٍ فَلْيَفْعَلْ وَمَنْ أَرَادَ أَنْ يُهِلَّ بِحَجٍّ فَلْيُهِلَّ وَمَنْ أَرَادَ أَنْ يُهِلَّ بِعُمْرَةٍ فَلْيُهِلَّ ‏\"‏ ‏.‏ قَالَتْ عَائِشَةُ رضى الله عنها فَأَهَلَّ رَسُولُ اللَّهِ صلى الله عليه وسلم بِحَجٍّ وَأَهَلَّ بِهِ نَاسٌ مَعَهُ وَأَهَلَّ نَاسٌ بِالْعُمْرَةِ وَالْحَجِّ وَأَهَلَّ نَاسٌ بِعُمْرَةٍ وَكُنْتُ فِيمَنْ أَهَلَّ بِالْعُمْرَةِ ‏.‏",
+      "english": {
+        "narrator": "`A'isha (Allah be pleased with her) reported:",
+        "text": "'We went with the Messenger of Allah (ﷺ) (to Mecca). He said: He who intended among you to put on Ihram for Hajj and `Umra should do so. And he who intended to put on Ihram for Hajj may do so. And he who intended to put on Ihram for `Umra only may do so. `A'isha (Allah be pleased with her) said: The Messenger of Allah (ﷺ) put on Ihram for Hajj and some people did that along with him. And some people put on Ihram for `Umra and Hajj (both), and some persons put on Ihram for `Umra only, and I was among those who put on Ihram for `Umra (only)."
+      }
+    },
+    {
+      "id": 123,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي حَجَّةِ الْوَدَاعِ مُوَافِينَ لِهِلاَلِ ذِي الْحِجَّةِ - قَالَتْ - فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ أَرَادَ مِنْكُمْ أَنْ يُهِلَّ بِعُمْرَةٍ فَلْيُهِلَّ فَلَوْلاَ أَنِّي أَهْدَيْتُ لأَهْلَلْتُ بِعُمْرَةٍ ‏\"‏ ‏.‏ قَالَتْ فَكَانَ مِنَ الْقَوْمِ مَنْ أَهَلَّ بِعُمْرَةٍ وَمِنْهُمْ مَنْ أَهَلَّ بِالْحَجِّ - قَالَتْ - فَكُنْتُ أَنَا مِمَّنْ أَهَلَّ بِعُمْرَةٍ فَخَرَجْنَا حَتَّى قَدِمْنَا مَكَّةَ فَأَدْرَكَنِي يَوْمُ عَرَفَةَ وَأَنَا حَائِضٌ لَمْ أَحِلَّ مِنْ عُمْرَتِي فَشَكَوْتُ ذَلِكَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\"‏ دَعِي عُمْرَتَكِ وَانْقُضِي رَأْسَكِ وَامْتَشِطِي وَأَهِلِّي بِالْحَجِّ ‏\"‏ ‏.‏ قَالَتْ فَفَعَلْتُ فَلَمَّا كَانَتْ لَيْلَةُ الْحَصْبَةِ - وَقَدْ قَضَى اللَّهُ حَجَّنَا - أَرْسَلَ مَعِي عَبْدَ الرَّحْمَنِ بْنَ أَبِي بَكْرٍ فَأَرْدَفَنِي وَخَرَجَ بِي إِلَى التَّنْعِيمِ فَأَهْلَلْتُ بِعُمْرَةٍ فَقَضَى اللَّهُ حَجَّنَا وَعُمْرَتَنَا وَلَمْ يَكُنْ فِي ذَلِكَ هَدْىٌ وَلاَ صَدَقَةٌ وَلاَ صَوْمٌ ‏.‏",
+      "english": {
+        "narrator": "`A'isha (Allah be pleased with her) reported:",
+        "text": "We went with the Messenger of Allah (ﷺ) (in his) Farewell Pilgrimage near the time of the appearance of the new moon of Dhul-Hijja. The Messenger of Allah (ﷺ) said: He who amongst you intends to put on Ihram for `Umra may do so; had I not brought sacrificial animals along with me, I would have put on Ihram for `Umra. She (further said). There were some persons who put on Ihram for `Umra, and some persons who put on Ihram for Hajj, and I was one of those who put on Ihram for `Umra. We went on till we reached Mecca, and on the day of `Arafa I found myself in a state of menses, but I did not put off the Ihram for `Umra. I told about (this state of mine) to the Messenger of Allah (ﷺ), whereupon he said: Abandon your `Umra, and undo the hair of your head and comb (them), and put on Ihram for Hajj. She (`A'isha) said: I did accordingly. When it was the night at Hasba and Allah enabled us to complete our Hajj, he (the Holy Prophet) sent with me `Abd al-Rahman b. Abu Bakr, and he mounted me behind him on his camel and took me to Tan`im and I put on Ihram for `Umra, and thus Allah enabled us to complete our Hajj and `Umra and (we were required to observe) neither sacrifice nor alms nor fasting."
+      }
+    },
+    {
+      "id": 124,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ خَرَجْنَا مُوَافِينَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم لِهِلاَلِ ذِي الْحِجَّةِ لاَ نَرَى إِلاَّ الْحَجَّ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَحَبَّ مِنْكُمْ أَنْ يُهِلَّ بِعُمْرَةٍ فَلْيُهِلَّ بِعُمْرَةٍ ‏\"‏ ‏.‏ وَسَاقَ الْحَدِيثَ بِمِثْلِ حَدِيثِ عَبْدَةَ ‏.‏",
+      "english": {
+        "narrator": "`A'isha (Allah be pleased with her) said:",
+        "text": "We set out with the Messenger of Allah (ﷺ) just at the appearance of the new moon of Dhul- Hijja. We had no other intention but that of performing the Hajj, whereupon the Messenger of Allah (ﷺ) said: He who among you intends to put on Ihram for `Umra should do so for `Umra. The rest of the hadith is the same."
+      }
+    },
+    {
+      "id": 125,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مُوَافِينَ لِهِلاَلِ ذِي الْحِجَّةِ مِنَّا مَنْ أَهَلَّ بِعُمْرَةٍ وَمِنَّا مَنْ أَهَلَّ بِحَجَّةٍ وَعُمْرَةٍ وَمِنَّا مَنْ أَهَلَّ بِحَجَّةٍ فَكُنْتُ فِيمَنْ أَهَلَّ بِعُمْرَةٍ ‏.‏ وَسَاقَ الْحَدِيثَ بِنَحْوِ حَدِيثِهِمَا وَقَالَ فِيهِ قَالَ عُرْوَةُ فِي ذَلِكَ إِنَّهُ قَضَى اللَّهُ حَجَّهَا وَعُمْرَتَهَا ‏.‏ قَالَ هِشَامٌ وَلَمْ يَكُنْ فِي ذَلِكَ هَدْىٌ وَلاَ صِيَامٌ وَلاَ صَدَقَةٌ ‏.‏",
+      "english": {
+        "narrator": "A'isha (Allah be pleased with her) reported:",
+        "text": "We went with the Messenger of Allah (ﷺ) at the appearance of the new moon of Dhu'l-Hijja. There were amongst us those who had put on Ihram for Umra, and those also who had put on Ihram both for Hajj and Umra, and still those who had put on Ihram for Hajj (alone). I was one of those who had put on Ihram for. Umra (only). 'Urwa (one of the narrators) said: Allah enabled her (A'isha) to complete both Hajj and Umra (according to the way as mentioned above). Hisham (one of the narrators) said: She had neither the sacrificial animal nor (was she required to) fast, nor (was she obliged to give) alms."
+      }
+    },
+    {
+      "id": 126,
+      "chapterId": 15,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ أَبِي الأَسْوَدِ، مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - أَنَّهَا قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَامَ حَجَّةِ الْوَدَاعِ فَمِنَّا مَنْ أَهَلَّ بِعُمْرَةٍ وَمِنَّا مَنْ أَهَلَّ بِحَجٍّ وَعُمْرَةٍ وَمِنَّا مَنْ أَهَلَّ بِالْحَجِّ وَأَهَلَّ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْحَجِّ فَأَمَّا مَنْ أَهَلَّ بِعُمْرَةٍ فَحَلَّ وَأَمَّا مَنْ أَهَلَّ بِحَجٍّ أَوْ جَمَعَ الْحَجَّ وَالْعُمْرَةَ فَلَمْ يَحِلُّوا حَتَّى كَانَ يَوْمُ النَّحْرِ ‏.‏",
+      "english": {
+        "narrator": "A'isha (Allah be pleased with her) said:",
+        "text": "We proceeded with the Messenger of Allah (ﷺ) during the year of the Farewell Pilgrimage. There were those amongst us who had put on Ihram for Umra, and those who had put on Ihram both for Hajj and\" Umra, and those amongst us who had put on Ihram for Hajj (only), while the Messenger of Allah (ﷺ) had put on Ihram for Hajj (only). He who put on Ihram for Umra put it off (after performing Umra), and he who had put on Ihram for Hajj or for both Hajj and 'Umra did not put it off before the day of sacrifice (10th of Dhu'l-Hijja)."
+      }
+    }
+  ]
+}

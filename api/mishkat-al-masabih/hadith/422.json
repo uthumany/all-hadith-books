@@ -1,0 +1,16 @@
+{
+  "id": 422,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَن أم سَلمَة قَالَتْ: رَأَى النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ غُلَامًا لَنَا يُقَالُ لَهُ: أَفْلَحُ إِذَا سَجَدَ نَفَخَ فَقَالَ: «يَا أَفْلَحُ تَرِّبْ وَجْهَكَ» . رَوَاهُ التِّرْمِذِيّ",
+  "english": {
+    "narrator": "Umm Salama said:",
+    "text": "The Prophet saw a servant of ours called Aflah blowing when he prostrated himself, and said, “Throw dust on your face, Aflah.” \n\nTirmidhi transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 71,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثالث‏:‏ عن ابن مسعود رضي الله عنه أن النبي صلى الله عليه وسلم كان يقول‏:‏ ‏\n\"‏اللهم إني أسألك الهدى والتقى والعفاف والغنى‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin Mas'ud (May Allah be pleased with him) reported that the Prophet (ﷺ) used to say:",
+    "text": "\"Allahumma inni as'alukal-huda wat- tuqa wal-'afafa wal-ghina (O Allah! I ask You for guidance, piety, chastity and self- sufficiency)\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

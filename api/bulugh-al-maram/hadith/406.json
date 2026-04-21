@@ -1,0 +1,16 @@
+{
+  "id": 406,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "عَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ الْفِطْرُ يَوْمَ يُفْطِرُ اَلنَّاسُ, وَالْأَضْحَى يَوْمَ يُضَحِّي اَلنَّاسُ }  رَوَاهُ اَلتِّرْمِذِيُّ  1‏ .‏‏1 ‏- صحيح.‏ رواه الترمذي (802)‏ من حديث محمد بن المنكدر، عن عائشة رضي الله عنها.‏ وأقول: هو حديث صحيح، إلا أنه ضعيف من هذا الوجه، وبيان ذلك \"بالأصل\".‏",
+  "english": {
+    "narrator": "Narrated 'Aishah (RA):",
+    "text": "Allah's Messenger (ﷺ) said: \"('Eid) al-Fitr is the day on which the people break the fast, and ('Eid) al-Adha is the day the people offer sacrifices.\"\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

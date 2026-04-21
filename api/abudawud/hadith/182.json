@@ -1,0 +1,16 @@
+{
+  "id": 182,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرٌ، - يَعْنِي ابْنَ الْمُفَضَّلِ - قَالَ حَدَّثَنِي بَشِيرُ بْنُ مَيْمُونٍ، عَنْ عَمِّهِ، أُسَامَةَ بْنِ أَخْدَرِيٍّ أَنَّ رَجُلاً، يُقَالُ لَهُ أَصْرَمُ كَانَ فِي النَّفَرِ الَّذِينَ أَتَوْا رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا اسْمُكَ ‏\"‏ ‏.‏ قَالَ أَنَا أَصْرَمُ ‏.‏ قَالَ ‏\"‏ بَلْ أَنْتَ زُرْعَةُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Usamah ibn Akhdari:",
+    "text": "A man called Asram was among those who came to the Messenger of Allah (ﷺ). The Messenger of Allah (ﷺ) said: What is your name? He replied: Asram. He said: No, you are Zur'ah."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

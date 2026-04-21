@@ -1,0 +1,16 @@
+{
+  "id": 275,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا أَبُو هِشَامٍ الرِّفَاعِيُّ، قَالَ حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ مَا غِرْتُ عَلَى أَحَدٍ مِنْ أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم مَا غِرْتُ عَلَى خَدِيجَةَ وَمَا بِي أَنْ أَكُونَ أَدْرَكْتُهَا وَمَا ذَاكَ إِلاَّ لِكَثْرَةِ ذِكْرِ رَسُولِ اللَّهِ صلى الله عليه وسلم لَهَا وَإِنْ كَانَ لَيَذْبَحُ الشَّاةَ فَيَتَتَبَّعُ بِهَا صَدَائِقَ خَدِيجَةَ فَيُهْدِيهَا لَهُنَّ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated 'Aishah:",
+    "text": "\"I was not jealous of any wife of the Prophet (ﷺ) as I was jealous of Khadijah, and it was not because I did not see her. It was only because the Messenger of Allah (ﷺ) mentioned her so much, and because whenever he would slaughter a sheep, he would look for Khadijah's friends to gift them some of it.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 791,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَوْسِ بْنِ أَوْسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" مَنْ غَسَّلَ يَوْمَ الْجُمُعَةِ وَاغْتَسَلَ وَبَكَّرَ وَابْتَكَرَ وَمَشَى وَلَمْ يَرْكَبْ وَدَنَا مِنَ الْإِمَامِ وَاسْتَمَعَ وَلَمْ يَلْغُ كَانَ لَهُ بِكُلِّ خُطْوَةٍ عَمَلُ سَنَةٍ: أَجْرُ صِيَامِهَا وَقِيَامِهَا \". رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ وَالنَّسَائِيُّ وَابْنُ مَاجَهْ",
+  "english": {
+    "narrator": "",
+    "text": "Aus b. Aus reported God's Messenger as saying, “If anyone washes and bathes on Friday, goes out early* walking, not riding, goes near to the imam and listens without interrupting, he will have the reward of a year’s fasting and praying for every step he takes.\" \n\n*The text has bakkara wa 'btakara. Both words mean the same thing and are presumably both used to emphasise the idea of going out early.\n\nTirmidhi, Abu Dawud, Nasa’i and Ibn Majah transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

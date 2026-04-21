@@ -1,0 +1,16 @@
+{
+  "id": 97,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا ابْنُ سَلاَمٍ، أَخْبَرَنَا هُشَيْمٌ، عَنْ حُصَيْنٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، حِينَ نَامُوا عَنِ الصَّلاَةِ، قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ إِنَّ اللَّهَ قَبَضَ أَرْوَاحَكُمْ حِينَ شَاءَ، وَرَدَّهَا حِينَ شَاءَ ‏\"‏‏.‏ فَقَضَوْا حَوَائِجَهُمْ وَتَوَضَّئُوا إِلَى أَنْ طَلَعَتِ الشَّمْسُ وَابْيَضَّتْ فَقَامَ فَصَلَّى‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Qatada:",
+    "text": "When the people slept till so late that they did not offer the (morning) prayer, the Prophet (ﷺ) said, \"Allah \ncaptured your souls (made you sleep) when He willed, and returned them (to your bodies) when He \nwilled.\" So the people got up and went to answer the call of nature, performed ablution, till the sun \nhad risen and it had become white, then the Prophet (ﷺ) got up and offered the prayer."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

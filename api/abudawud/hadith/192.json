@@ -1,0 +1,16 @@
+{
+  "id": 192,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، قَالَ أَخْبَرَنَا ح، وَحَدَّثَنَا مُسَدَّدٌ، وَمُحَمَّدُ بْنُ مَحْبُوبٍ، قَالُوا حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي عُثْمَانَ، - وَسَمَّاهُ ابْنُ مَحْبُوبٍ الْجَعْدَ - عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لَهُ ‏\n\"‏ يَا بُنَىَّ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ سَمِعْتُ يَحْيَى بْنَ مَعِينٍ يُثْنِي عَلَى مُحَمَّدِ بْنِ مَحْبُوبٍ وَيَقُولُ كَثِيرُ الْحَدِيثِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "The Prophet (ﷺ) said to him: My sonny.\n\n\n\nAbu Dawud said: I heard Yahya b. Ma'in praising the transmitter Muhammad b. Mahbub, and he said: He transmitted a large number of traditions."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

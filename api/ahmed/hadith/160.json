@@ -1,0 +1,16 @@
+{
+  "id": 160,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا حَسَنُ بْنُ مُوسَى، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ زَاذَانَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ مَنْ تَرَكَ مَوْضِعَ شَعَرَةٍ مِنْ جَنَابَةٍ لَمْ يُصِبْهَا مَاءٌ فَعَلَ اللَّهُ تَعَالَى بِهِ كَذَا وَكَذَا مِنْ النَّارِ قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ فَمِنْ ثَمَّ عَادَيْتُ شَعْرِي‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "I heard the Prophet (ﷺ)  say: `Whoever leaves a space the size of a hair when doing ghusl for janabah and does not make water reach it, Allah will punish him with such and such in the Fire.” ‘Ali (رضي الله عنه) said: From that time I disliked my hair."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

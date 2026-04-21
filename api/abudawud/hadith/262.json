@@ -1,0 +1,16 @@
+{
+  "id": 262,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ عَجْلاَنَ، قَالَ حَدَّثَنِي سَعِيدُ بْنُ أَبِي سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ شَمِّتْ أَخَاكَ ثَلاَثًا فَمَا زَادَ فَهُوَ زُكَامٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "Respond three times to your brother when he sneezes, and if he sneezes more often, he has a cold in his head."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

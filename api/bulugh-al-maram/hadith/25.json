@@ -1,0 +1,16 @@
+{
+  "id": 25,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي أَيُّوبَ ‏- رضى الله عنه ‏- أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { لَا يَحِلُّ لِمُسْلِمٍ أَنْ يَهْجُرَ أَخَاهُ فَوْقَ ثَلَاثِ لَيَالٍ يَلْتَقِيَانِ, فَيُعْرِضُ هَذَا, وَيُعْرِضُ هَذَا, وَخَيْرُهُمَا اَلَّذِي يَبْدَأُ بِالسَّلَامِ }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6077)‏، ومسلم (2560)‏ وفي روايه لهما:\" فيصد هذا، ويصد هذا\".‏",
+  "english": {
+    "narrator": "Abu Aiyub (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“It is not permissible for a Muslim to shun his brother for more than three nights. When they meet, this one turns away (from that one) and that one turns away (from this one) and the best of them is the one who greets his brother first.” Agreed upon"
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

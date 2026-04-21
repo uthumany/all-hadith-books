@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "chapterId": 56,
+  "bookId": 11,
+  "arabic": "حدثنا محمد بن علي، قال سمعت أبي يقول‏:‏ قال عبد الله ابن المبارك‏:‏ إذا ابتليت بالقضاء فعليك بالأثر‏.‏",
+  "english": {
+    "narrator": "Abdu llah ibn al-Mubarak said:",
+    "text": "“If you are afflicted with the responsibility of judgeship, you must follow the !”"
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

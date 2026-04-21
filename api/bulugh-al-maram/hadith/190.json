@@ -1,0 +1,16 @@
+{
+  "id": 190,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "وَعَنْ عُثْمَانَ.‏ عِنْدَ أَبِي دَاوُدَ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أبو داود (2275)‏ وفي سنده رباح الكوفي وهو مجهول، وفي حديثه قصة طويلة.‏",
+  "english": {
+    "narrator": "",
+    "text": "And from 'Uthman by Abu Dawud."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

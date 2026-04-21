@@ -1,0 +1,16 @@
+{
+  "id": 42,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْجَرَّاحِ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ أَبْلَى بَلاَءً فَذَكَرَهُ فَقَدْ شَكَرَهُ وَإِنْ كَتَمَهُ فَقَدْ كَفَرَهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Jabir ibn Abdullah:",
+    "text": "The Prophet (ﷺ) said: If someone is donated something, and he mentions it, he thanks for it, and if he conceals it, he is ungrateful for it."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

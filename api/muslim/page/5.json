@@ -1,0 +1,510 @@
+{
+  "page": 5,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 6,
+  "prevPage": 4,
+  "items": [
+    {
+      "id": 201,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ بِشْرُ بْنُ خَالِدٍ، حَدَّثَنَا مُحَمَّدٌ، - يَعْنِي ابْنَ جَعْفَرٍ - عَنْ شُعْبَةَ، قَالَ سَمِعْتُ سُلَيْمَانَ، بِهَذَا الإِسْنَادِ وَقَالَ ‏\n\"‏ ثَلاَثَةٌ لاَ يُكَلِّمُهُمُ اللَّهُ وَلاَ يَنْظُرُ إِلَيْهِمْ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Bishr b. Khalid has narrated this hadith on the authority of Sulaiman with the same chain of transmitters with this addition:",
+        "text": "Allah shall neither speak nor look at nor absolve then, and there is a tormenting punishment for them."
+      }
+    },
+    {
+      "id": 202,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، وَأَبُو مُعَاوِيَةَ عَنِ الأَعْمَشِ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ ثَلاَثَةٌ لاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلاَ يُزَكِّيهِمْ - قَالَ أَبُو مُعَاوِيَةَ وَلاَ يَنْظُرُ إِلَيْهِمْ - وَلَهُمْ عَذَابٌ أَلِيمٌ شَيْخٌ زَانٍ وَمَلِكٌ كَذَّابٌ وَعَائِلٌ مُسْتَكْبِرٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:",
+        "text": "Three (are the persons) with whom Allah would neither speak, nor would He absolve them on the Day of Resurrection. Abu Mu'awiya added: He would not look at them and there is grievous torment for them: the aged adulterer, the liar king and the proud destitute."
+      }
+    },
+    {
+      "id": 203,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، - وَهَذَا حَدِيثُ أَبِي بَكْرٍ - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ ثَلاَثٌ لاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلاَ يَنْظُرُ إِلَيْهِمْ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ رَجُلٌ عَلَى فَضْلِ مَاءٍ بِالْفَلاَةِ يَمْنَعُهُ مِنِ ابْنِ السَّبِيلِ وَرَجُلٌ بَايَعَ رَجُلاً بِسِلْعَةٍ بَعْدَ الْعَصْرِ فَحَلَفَ لَهُ بِاللَّهِ لأَخَذَهَا بِكَذَا وَكَذَا فَصَدَّقَهُ وَهُوَ عَلَى غَيْرِ ذَلِكَ وَرَجُلٌ بَايَعَ إِمَامًا لاَ يُبَايِعُهُ إِلاَّ لِدُنْيَا فَإِنْ أَعْطَاهُ مِنْهَا وَفَى وَإِنْ لَمْ يُعْطِهِ مِنْهَا لَمْ يَفِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira narrated on the authority of Abu Bakr that the Messenger of Allah (ﷺ) said:",
+        "text": "Three are the persons with whom Allah would neither speak on the Day of Resurrection, nor would He look towards them, nor would purify them (from sins), and there would be a tormenting chastisement for them: a person who in the waterless desert has more water (than his need) and he refuses to give it to the traveller and a person who sold a commodity to another person in the afternoon and took an oath of Allah that he had bought it at such and such price and he (the buyer) accepted it to be true though it was not a fact, and a person who pledged allegiance to the Imam but for the sake of the world (material gains). And if the Imam bestowed on him (something) out of that (worldly riches) he stood by his allegiance and if he did not give him, he did not fulfil the allegiance."
+      }
+    },
+    {
+      "id": 204,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، ح وَحَدَّثَنَا سَعِيدُ بْنُ عَمْرٍو الأَشْعَثِيُّ، أَخْبَرَنَا عَبْثَرٌ، كِلاَهُمَا عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ مِثْلَهُ غَيْرَ أَنَّ فِي حَدِيثِ جَرِيرٍ ‏\n\"‏ وَرَجُلٌ سَاوَمَ رَجُلاً بِسِلْعَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "The same hadith has been transmitted by another chain of transmitters with the exception of these words:",
+        "text": "He offered for sale a commodity to another person."
+      }
+    },
+    {
+      "id": 205,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، - قَالَ أُرَاهُ مَرْفُوعًا - قَالَ ‏\n\"‏ ثَلاَثَةٌ لاَ يُكَلِّمُهُمُ اللَّهُ وَلاَ يَنْظُرُ إِلَيْهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ رَجُلٌ حَلَفَ عَلَى يَمِينٍ بَعْدَ صَلاَةِ الْعَصْرِ عَلَى مَالِ مُسْلِمٍ فَاقْتَطَعَهُ ‏\"‏ ‏.‏ وَبَاقِي حَدِيثِهِ نَحْوُ حَدِيثِ الأَعْمَشِ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Abu Huraira that he (the Messenger of Allah) observed:",
+        "text": "Three are the persons with whom Allah would neither speak (on the Day of Resurrection) nor would He look at them, and there would be a painful chastisement for them, a person who took an oath on the goods of a Muslim in the afternoon and then broke it. The rest of the hadith is the same as narrated by A'mash."
+      }
+    },
+    {
+      "id": 206,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو سَعِيدٍ الأَشَجُّ قَالاَ حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنَ قَتَلَ نَفْسَهُ بِحَدِيدَةٍ فَحَدِيدَتُهُ فِي يَدِهِ يَتَوَجَّأُ بِهَا فِي بَطْنِهِ فِي نَارِ جَهَنَّمَ خَالِدًا مُخَلَّدًا فِيهَا أَبَدًا وَمَنْ شَرِبَ سَمًّا فَقَتَلَ نَفْسَهُ فَهُوَ يَتَحَسَّاهُ فِي نَارِ جَهَنَّمَ خَالِدًا مُخَلَّدًا فِيهَا أَبَدًا وَمَنْ تَرَدَّى مِنْ جَبَلٍ فَقَتَلَ نَفْسَهُ فَهُوَ يَتَرَدَّى فِي نَارِ جَهَنَّمَ خَالِدًا مُخَلَّدًا فِيهَا أَبَدًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:",
+        "text": "He who killed himself with steel (weapon) would be the eternal denizen of the Fire of Hell and he would have that weapon in his hand and would be thrusting that in his stomach for ever and ever, he who drank poison and killed himself would sip that in the Fire of Hell where he is doomed for ever and ever; and he who killed himself by falling from (the top of) a mountain would constantly fall in the Fire of Hell and would live there for ever and ever."
+      }
+    },
+    {
+      "id": 207,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، ح وَحَدَّثَنَا سَعِيدُ بْنُ عَمْرٍو الأَشْعَثِيُّ، حَدَّثَنَا عَبْثَرٌ، ح وَحَدَّثَنِي يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ، حَدَّثَنَا خَالِدٌ، - يَعْنِي ابْنَ الْحَارِثِ - حَدَّثَنَا شُعْبَةُ، كُلُّهُمْ بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏ وَفِي رِوَايَةِ شُعْبَةَ عَنْ سُلَيْمَانَ قَالَ سَمِعْتُ ذَكْوَانَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated by another chain of transmitters."
+      }
+    },
+    {
+      "id": 208,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا مُعَاوِيَةُ بْنُ سَلاَّمِ بْنِ أَبِي سَلاَّمٍ الدِّمَشْقِيُّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، أَنَّ أَبَا قِلاَبَةَ، أَخْبَرَهُ أَنَّ ثَابِتَ بْنَ الضَّحَّاكِ أَخْبَرَهُ أَنَّهُ، بَايَعَ رَسُولَ اللَّهِ صلى الله عليه وسلم تَحْتَ الشَّجَرَةِ وَأَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ حَلَفَ عَلَى يَمِينٍ بِمِلَّةٍ غَيْرِ الإِسْلاَمِ كَاذِبًا فَهُوَ كَمَا قَالَ وَمَنْ قَتَلَ نَفْسَهُ بِشَىْءٍ عُذِّبَ بِهِ يَوْمَ الْقِيَامَةِ وَلَيْسَ عَلَى رَجُلٍ نَذْرٌ فِي شَىْءٍ لاَ يَمْلِكُهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Thabit b. Dahhak reported that he pledged allegiance to the Messenger of Allah (ﷺ) under the Tree, and verily the Messenger of Allah (ﷺ) observed:",
+        "text": "He who took an oath of a religion other than Islam, in the state of being a liar, would became so, as he professed. He who killed himself with a thing would be tormented on the Day of Resurrection with that very thing. One is not obliged to offer votive offering of a thing which is not in his possession."
+      }
+    },
+    {
+      "id": 209,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَبُو غَسَّانَ الْمِسْمَعِيُّ، حَدَّثَنَا مُعَاذٌ، - وَهُوَ ابْنُ هِشَامٍ - قَالَ حَدَّثَنِي أَبِي، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي أَبُو قِلاَبَةَ، عَنْ ثَابِتِ بْنِ الضَّحَّاكِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَيْسَ عَلَى رَجُلٍ نَذْرٌ فِيمَا لاَ يَمْلِكُ وَلَعْنُ الْمُؤْمِنِ كَقَتْلِهِ وَمَنْ قَتَلَ نَفْسَهُ بِشَىْءٍ فِي الدُّنْيَا عُذِّبَ بِهِ يَوْمَ الْقِيَامَةِ وَمَنِ ادَّعَى دَعْوَى كَاذِبَةً لِيَتَكَثَّرَ بِهَا لَمْ يَزِدْهُ اللَّهُ إِلاَّ قِلَّةً وَمَنْ حَلَفَ عَلَى يَمِينِ صَبْرٍ فَاجِرَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Thabit b. al-Dahhak that the Messenger of Allah (ﷺ) observes:",
+        "text": "None is obliged to give votive offering (of a thing) which is not in his possession and the cursing of a believer is tantamount to killing him, and he who killed himself with a thing in this world would be tormented with that (very thing) on the Day of Resurrection, and he who made a false claim to increase (his wealth), Allah would make no addition but that of paucity, and he who perjured would earn the wrath of God"
+      }
+    },
+    {
+      "id": 210,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، وَعَبْدُ الْوَارِثِ بْنُ عَبْدِ الصَّمَدِ، كُلُّهُمْ عَنْ عَبْدِ الصَّمَدِ بْنِ عَبْدِ الْوَارِثِ، عَنْ شُعْبَةَ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ ثَابِتِ بْنِ الضَّحَّاكِ الأَنْصَارِيِّ، ح",
+      "english": {
+        "narrator": "It is narrated on the authority of Thabit b. Dahhak that the Messenger of Allah (ﷺ) observed:",
+        "text": "He who took deliberately a false oath on a religion other than Islam would become that which he had professed. And he who killed himself with anything Allah would torment him with that in the Fire of Hell."
+      }
+    },
+    {
+      "id": 211,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، عَنْ عَبْدِ الرَّزَّاقِ، عَنِ الثَّوْرِيِّ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ ثَابِتِ بْنِ الضَّحَّاكِ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ مَنْ حَلَفَ بِمِلَّةٍ سِوَى الإِسْلاَمِ كَاذِبًا مُتَعَمِّدًا فَهُوَ كَمَا قَالَ وَمَنْ قَتَلَ نَفْسَهُ بِشَىْءٍ عَذَّبَهُ اللَّهُ بِهِ فِي نَارِ جَهَنَّمَ ‏\"‏ ‏.‏ هَذَا حَدِيثُ سُفْيَانَ ‏.‏ وَأَمَّا شُعْبَةُ فَحَدِيثُهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ مَنْ حَلَفَ بِمِلَّةٍ سِوَى الإِسْلاَمِ كَاذِبًا فَهُوَ كَمَا قَالَ وَمَنْ ذَبَحَ نَفْسَهُ بِشَىْءٍ ذُبِحَ بِهِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "In the hadith narrated by Shu'ba the words are:",
+        "text": "Verily the Messenger of Allah (ﷺ) said: He who took an oath on a religion other than Islam as a liar would become so as he said, and he who slaughtered himself with a thing would be slaughtered with that on the Day of Resurrection."
+      }
+    },
+    {
+      "id": 212,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، جَمِيعًا عَنْ عَبْدِ الرَّزَّاقِ، - قَالَ ابْنُ رَافِعٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، - أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنِ ابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ شَهِدْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم حُنَيْنًا فَقَالَ لِرَجُلٍ مِمَّنْ يُدْعَى بِالإِسْلاَمِ ‏\"‏ هَذَا مِنْ أَهْلِ النَّارِ ‏\"‏ فَلَمَّا حَضَرْنَا الْقِتَالَ قَاتَلَ الرَّجُلُ قِتَالاً شَدِيدًا فَأَصَابَتْهُ جِرَاحَةٌ فَقِيلَ يَا رَسُولَ اللَّهِ الرَّجُلُ الَّذِي قُلْتَ لَهُ آنِفًا ‏\"‏ إِنَّهُ مِنْ أَهْلِ النَّارِ ‏\"‏ فَإِنَّهُ قَاتَلَ الْيَوْمَ قِتَالاً شَدِيدًا وَقَدْ مَاتَ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِلَى النَّارِ ‏\"‏ فَكَادَ بَعْضُ الْمُسْلِمِينَ أَنْ يَرْتَابَ فَبَيْنَمَا هُمْ عَلَى ذَلِكَ إِذْ قِيلَ إِنَّهُ لَمْ يَمُتْ وَلَكِنَّ بِهِ جِرَاحًا شَدِيدًا فَلَمَّا كَانَ مِنَ اللَّيْلِ لَمْ يَصْبِرْ عَلَى الْجِرَاحِ فَقَتَلَ نَفْسَهُ فَأُخْبِرَ النَّبِيُّ صلى الله عليه وسلم بِذَلِكَ فَقَالَ ‏\"‏ اللَّهُ أَكْبَرُ أَشْهَدُ أَنِّي عَبْدُ اللَّهِ وَرَسُولُهُ ‏\"‏ ‏.‏ ثُمَّ أَمَرَ بِلاَلاً فَنَادَى فِي النَّاسِ ‏\"‏ إِنَّهُ لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ نَفْسٌ مُسْلِمَةٌ وَإِنَّ اللَّهَ يُؤَيِّدُ هَذَا الدِّينَ بِالرَّجُلِ الْفَاجِرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira:",
+        "text": "We participated in the Battle of Hunain along with the Messenger of Allah (ﷺ). He (the Holy Prophet) said about a man who claimed to be a Muslim that he was one of the denizens of the Fire (of Hell). When we were in the thick of the battle that man fought desperately and was wounded. It was said: Messenger of Allah, the person whom you at first called as the denizen of Fire fought desperately and died. Upon this the Messenger of Allah (ﷺ) remarked: He was doomed to the Fire (of Hell). Some men were on the verge of doubt (about his fate) when it was said that he was not dead but fatally wounded. When it was night he could not stand the (pain of his) wound and killed himself. The Apostle (ﷺ) was informed of that. He (the Holy Prophet) observed: Allah is Great, I bear testimony to the fact that I am the servant of Allah and His messenger. He then commanded Bilal to announce to the people that none but a Muslim would enter Paradise. Verily Allah helps this faith even by a sinful person."
+      }
+    },
+    {
+      "id": 213,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ، - وَهُوَ ابْنُ عَبْدِ الرَّحْمَنِ الْقَارِيُّ - حَىٌّ مِنَ الْعَرَبِ - عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم الْتَقَى هُوَ وَالْمُشْرِكُونَ فَاقْتَتَلُوا ‏.‏ فَلَمَّا مَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى عَسْكَرِهِ وَمَالَ الآخَرُونَ إِلَى عَسْكَرِهِمْ وَفِي أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم رَجُلٌ لاَ يَدَعُ لَهُمْ شَاذَّةً إِلاَّ اتَّبَعَهَا يَضْرِبُهَا بِسَيْفِهِ فَقَالُوا مَا أَجْزَأَ مِنَّا الْيَوْمَ أَحَدٌ كَمَا أَجْزَأَ فُلاَنٌ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَمَا إِنَّهُ مِنْ أَهْلِ النَّارِ ‏\"‏ ‏.‏ فَقَالَ رَجُلٌ مِنَ الْقَوْمِ أَنَا صَاحِبُهُ أَبَدًا ‏.‏ قَالَ فَخَرَجَ مَعَهُ كُلَّمَا وَقَفَ وَقَفَ مَعَهُ وَإِذَا أَسْرَعَ أَسْرَعَ مَعَهُ - قَالَ - فَجُرِحَ الرَّجُلُ جُرْحًا شَدِيدًا فَاسْتَعْجَلَ الْمَوْتَ فَوَضَعَ نَصْلَ سَيْفِهِ بِالأَرْضِ وَذُبَابَهُ بَيْنَ ثَدْيَيْهِ ثُمَّ تَحَامَلَ عَلَى سَيْفِهِ فَقَتَلَ نَفْسَهُ فَخَرَجَ الرَّجُلُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ أَشْهَدُ أَنَّكَ رَسُولُ اللَّهِ ‏.‏ قَالَ ‏\"‏ وَمَا ذَاكَ ‏\"‏ ‏.‏ قَالَ الرَّجُلُ الَّذِي ذَكَرْتَ آنِفًا أَنَّهُ مِنْ أَهْلِ النَّارِ فَأَعْظَمَ النَّاسُ ذَلِكَ فَقُلْتُ أَنَا لَكُمْ بِهِ فَخَرَجْتُ فِي طَلَبِهِ حَتَّى جُرِحَ جُرْحًا شَدِيدًا فَاسْتَعْجَلَ الْمَوْتَ فَوَضَعَ نَصْلَ سَيْفِهِ بِالأَرْضِ وَذُبَابَهُ بَيْنَ ثَدْيَيْهِ ثُمَّ تَحَامَلَ عَلَيْهِ فَقَتَلَ نَفْسَهُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم عِنْدَ ذَلِكَ ‏\"‏ إِنَّ الرَّجُلَ لَيَعْمَلُ عَمَلَ أَهْلِ الْجَنَّةِ فِيمَا يَبْدُو لِلنَّاسِ وَهُوَ مِنْ أَهْلِ النَّارِ وَإِنَّ الرَّجُلَ لَيَعْمَلُ عَمَلَ أَهْلِ النَّارِ فِيمَا يَبْدُو لِلنَّاسِ وَهُوَ مِنْ أَهْلِ الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is reported on the authority of Sahl b. Sa'd al-Sa'idi that there was an encounter between the Messenger of Allah (ﷺ) and the polytheists, and they fought (against one another). At the conclusion of the battle the Messenger of Allah (ﷺ) bent his steps towards his army and they (the enemies) bent their steps towards their army. And there was a person (his name was Quzman and he was one of the hypocrites) among the Companions of the Messenger of Allah (ﷺ) who did not spare a detached (fighter of the enemy) but pursued and killed him with the sword. They (the Companions of the Holy Prophet) said:",
+        "text": "None served us better today than this man Upon this the Messenger of Allah (ﷺ) remarked: Verily he is one of the denizens of Fire. One of the people (Muslims) said: I will constantly shadow him. Then this man went out along with him. He halted whenever he halted, and ran along with him whenever he ran. He (the narrator) said: The man was seriously injured. He (could not stand the pain) and hastened his own death. He placed the blade of the sword on the ground with the tip between his chest and then pressed himself against the sword and killed himself. Then the man (following him) went to the Messenger of Allah (ﷺ) and said: I bear testimony that verily thou art the Messenger of Allah, He (the Holy Prophet) said: What is the matter? He replied: The person about whom you just mentioned that he was one among the denizens of Fire and the people were surprised (at this) and I said to them that I would bring (the news about him) and consequently I went out in search of him till I (found him ) to be very seriously injured. He hastened his death. He placed the blade of the sword upon the ground and its tip between his chest and then pressed himself against that and killed himself. Thereupon the Messenger of Allah (ﷺ) remarked: A person performs the deeds which to the people appear to be the deeds befitting the dweller of Paradise, but he is in fact one of the denizens of Hell. And verily a person does an act which in the eyes of public is one which is done by the denizens of Hell, but the person is one among the dwellers of Paradise."
+      }
+    },
+    {
+      "id": 214,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا الزُّبَيْرِيُّ، - وَهُوَ مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ - حَدَّثَنَا شَيْبَانُ، قَالَ سَمِعْتُ الْحَسَنَ، يَقُولُ ‏\n\"‏ إِنَّ رَجُلاً مِمَّنْ كَانَ قَبْلَكُمْ خَرَجَتْ بِهِ قَرْحَةٌ فَلَمَّا آذَتْهُ انْتَزَعَ سَهْمًا مِنْ كِنَانَتِهِ فَنَكَأَهَا فَلَمْ يَرْقَإِ الدَّمُ حَتَّى مَاتَ ‏.‏ قَالَ رَبُّكُمْ قَدْ حَرَّمْتُ عَلَيْهِ الْجَنَّةَ ‏\"‏ ‏.‏ ثُمَّ مَدَّ يَدَهُ إِلَى الْمَسْجِدِ فَقَالَ إِي وَاللَّهِ لَقَدْ حَدَّثَنِي بِهَذَا الْحَدِيثِ جُنْدَبٌ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي هَذَا الْمَسْجِدِ ‏.‏",
+      "english": {
+        "narrator": "It is reported on the authority of Hasan:",
+        "text": "A person belonging to the people of the past suffered from a boil, when it pained him, he drew out an arrow from the quiver and pierced it. And the bleeding did not stop till he died. Your Lord said: I forbade his entrance into Paradise. Then he (Hasan) stretched his hand towards the mosque and said: By God, Jundab transmitted this hadith to me from the Messenger of Allah (ﷺ) in this very mosque."
+      }
+    },
+    {
+      "id": 215,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ الْحَسَنَ، يَقُولُ حَدَّثَنَا جُنْدَبُ بْنُ عَبْدِ اللَّهِ الْبَجَلِيُّ، فِي هَذَا الْمَسْجِدِ فَمَا نَسِينَا وَمَا نَخْشَى أَنْ يَكُونَ جُنْدَبٌ كَذَبَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَرَجَ بِرَجُلٍ فِيمَنْ كَانَ قَبْلَكُمْ خُرَاجٌ ‏\"‏ ‏.‏ فَذَكَرَ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "It is reported on the authority of Hasan:",
+        "text": "Jundab b. 'Abdullah al-Bajali narrated this hadith in this mosque which we can neither forget and at the same time we have no apprehension that Jundab could attribute a lie to the Messenger of Allah (ﷺ). He (the Holy Prophet) observed: A person belonging to the people of the past suffered from a boil, and then the rest of the hadith was narrated."
+      }
+    },
+    {
+      "id": 216,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا هَاشِمُ بْنُ الْقَاسِمِ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، قَالَ حَدَّثَنِي سِمَاكٌ الْحَنَفِيُّ أَبُو زُمَيْلٍ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبَّاسٍ، قَالَ حَدَّثَنِي عُمَرُ بْنُ الْخَطَّابِ، قَالَ لَمَّا كَانَ يَوْمُ خَيْبَرَ أَقْبَلَ نَفَرٌ مِنْ صَحَابَةِ النَّبِيِّ صلى الله عليه وسلم فَقَالُوا فُلاَنٌ شَهِيدٌ فُلاَنٌ شَهِيدٌ حَتَّى مَرُّوا عَلَى رَجُلٍ فَقَالُوا فُلاَنٌ شَهِيدٌ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ كَلاَّ إِنِّي رَأَيْتُهُ فِي النَّارِ فِي بُرْدَةٍ غَلَّهَا أَوْ عَبَاءَةٍ ‏\"‏ ‏.‏ ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَا ابْنَ الْخَطَّابِ اذْهَبْ فَنَادِ فِي النَّاسِ إِنَّهُ لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ الْمُؤْمِنُونَ ‏\"‏ ‏.‏ قَالَ فَخَرَجْتُ فَنَادَيْتُ ‏\"‏ أَلاَ إِنَّهُ لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ الْمُؤْمِنُونَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of 'Umar b. Khattab that when it was the day of Khaibar a party of Companions of the Apostle (ﷺ) came there and said:",
+        "text": "So and so is a martyr, till they happened to pass by a man and said: So and so is a martyr. Upon this the Messenger of Allah remarked: Nay, not so verily I have seen him in the Fire for the garment or cloak that he had stolen from the booty, Then the Messenger of Allah (ﷺ) said: Umar son of Khattab, go and announce to the people that none but the believers shall enter Paradise. He ('Umar b. Khattab) narrated: I went out and proclaimed: Verily none but the believers would enter Paradise."
+      }
+    },
+    {
+      "id": 217,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، قَالَ أَخْبَرَنِي ابْنُ وَهْبٍ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنْ ثَوْرِ بْنِ زَيْدٍ الدُّؤَلِيِّ، عَنْ سَالِمٍ أَبِي الْغَيْثِ، مَوْلَى ابْنِ مُطِيعٍ عَنْ أَبِي هُرَيْرَةَ، ح \n وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، - وَهَذَا حَدِيثُهُ - حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنْ ثَوْرٍ، عَنْ أَبِي الْغَيْثِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ خَرَجْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم إِلَى خَيْبَرَ فَفَتَحَ اللَّهُ عَلَيْنَا فَلَمْ نَغْنَمْ ذَهَبًا وَلاَ وَرِقًا غَنِمْنَا الْمَتَاعَ وَالطَّعَامَ وَالثِّيَابَ ثُمَّ انْطَلَقْنَا إِلَى الْوَادِي وَمَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَبْدٌ لَهُ وَهَبَهُ لَهُ رَجُلٌ مِنْ جُذَامٍ يُدْعَى رِفَاعَةَ بْنَ زَيْدٍ مِنْ بَنِي الضُّبَيْبِ فَلَمَّا نَزَلْنَا الْوَادِيَ قَامَ عَبْدُ رَسُولِ اللَّهِ صلى الله عليه وسلم يَحُلُّ رَحْلَهُ فَرُمِيَ بِسَهْمٍ فَكَانَ فِيهِ حَتْفُهُ فَقُلْنَا هَنِيئًا لَهُ الشَّهَادَةُ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ كَلاَّ وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ إِنَّ الشَّمْلَةَ لَتَلْتَهِبُ عَلَيْهِ نَارًا أَخَذَهَا مِنَ الْغَنَائِمِ يَوْمَ خَيْبَرَ لَمْ تُصِبْهَا الْمَقَاسِمُ ‏\"‏ ‏.‏ قَالَ فَفَزِعَ النَّاسُ ‏.‏ فَجَاءَ رَجُلٌ بِشِرَاكٍ أَوْ شِرَاكَيْنِ ‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ أَصَبْتُ يَوْمَ خَيْبَرَ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ شِرَاكٌ مِنْ نَارٍ أَوْ شِرَاكَانِ مِنْ نَارٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira:",
+        "text": "We went to Khaibar along with the Apostle (ﷺ) and Allah granted us victory. We plundered neither gold nor silver but laid our hands on goods, corn and clothes, and then bent our stops to a valley; along with the Messenger of Allah (ﷺ) there was a slave who was presented to him by one Rifa'a b. Zaid of the family of Judham, a tribe of Dubayb. When we got down into the valley the slave of the Messenger of Allah stood up and began to unpack the saddle-bag and was suddenly struck by a (stray) arrow which proved fatal. We said: There is a greeting for him, Messenger of Allah, as he is a martyr. Upon this the Messenger of Allah (ﷺ) remarked: Nay, not so. By Him in Whose hand is the life of Muhammad, the small garment which he stole from the booty on the day of Khaibar but which did not (legitimately) fall to his lot is burning like the Fire (of Hell) on him. The people were greatly perturbed (on hearing this). A person came there with a lace or two laces and said: Messenger of Allah, I found (them) on the day of Khaibar. He (the Holy Prophet) remarked: This is a lace of fire or two laces of fire."
+      }
+    },
+    {
+      "id": 218,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، جَمِيعًا عَنْ سُلَيْمَانَ، - قَالَ أَبُو بَكْرٍ حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، - حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ حَجَّاجٍ الصَّوَّافِ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ الطُّفَيْلَ بْنَ عَمْرٍو الدَّوْسِيَّ، أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ هَلْ لَكَ فِي حِصْنٍ حَصِينٍ وَمَنَعَةٍ - قَالَ حِصْنٌ كَانَ لِدَوْسٍ فِي الْجَاهِلِيَّةِ - فَأَبَى ذَلِكَ النَّبِيُّ صلى الله عليه وسلم لِلَّذِي ذَخَرَ اللَّهُ لِلأَنْصَارِ فَلَمَّا هَاجَرَ النَّبِيُّ صلى الله عليه وسلم إِلَى الْمَدِينَةِ هَاجَرَ إِلَيْهِ الطُّفَيْلُ بْنُ عَمْرٍو وَهَاجَرَ مَعَهُ رَجُلٌ مِنْ قَوْمِهِ فَاجْتَوَوُا الْمَدِينَةَ فَمَرِضَ فَجَزِعَ فَأَخَذَ مَشَاقِصَ لَهُ فَقَطَعَ بِهَا بَرَاجِمَهُ فَشَخَبَتْ يَدَاهُ حَتَّى مَاتَ فَرَآهُ الطُّفَيْلُ بْنُ عَمْرٍو فِي مَنَامِهِ فَرَآهُ وَهَيْئَتُهُ حَسَنَةٌ وَرَآهُ مُغَطِّيًا يَدَيْهِ فَقَالَ لَهُ مَا صَنَعَ بِكَ رَبُّكَ فَقَالَ غَفَرَ لِي بِهِجْرَتِي إِلَى نَبِيِّهِ صلى الله عليه وسلم فَقَالَ مَا لِي أَرَاكَ مُغَطِّيًا يَدَيْكَ قَالَ قِيلَ لِي لَنْ نُصْلِحَ مِنْكَ مَا أَفْسَدْتَ ‏.‏ فَقَصَّهَا الطُّفَيْلُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اللَّهُمَّ وَلِيَدَيْهِ فَاغْفِرْ ‏\"‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Jabir that Tufail son of Amr al-Dausi came to the Apostle (ﷺ) and said:",
+        "text": "Do you need strong, fortified protection? The tribe of Daus had a fort in the pre-Islamic days. The Apostle (ﷺ) declined this offer, since it (the privilege of protecting the Holy Prophet) had already been reserved for the Ansar. When the Apostle (ﷺ) migrated to Medina, Tufail son of Amr also migrated to that place, and there also migrated along with him a man of his tribe. But the climate of Medina did not suit him, and he fell sick. He felt very uneasy. So he took hold of an iron head of an arrow and cut his finger-joints. The blood streamed forth from his hands, till he died. Tufail son of Amr saw him in a dream. His state was good and he saw him with his hands wrapped. He (Tufail) said to him: What treatment did your Allah accord to you? He replied. Allah granted me pardon for my migration to the Apostle (ﷺ): He (Tufail) again said: What is this that I see you wrapping up your hands? He replied: I was told (by Allah): We would not set right anything of yours which you damaged yourself. Tufail narrated this (dream) to the Messenger of Allah (ﷺ). Upon this he prayed: O Allah I grant pardon even to his hands."
+      }
+    },
+    {
+      "id": 219,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ الضَّبِّيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، وَأَبُو عَلْقَمَةَ الْفَرْوِيُّ قَالاَ حَدَّثَنَا صَفْوَانُ بْنُ سُلَيْمٍ، عَنْ عَبْدِ اللَّهِ بْنِ سَلْمَانَ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ اللَّهَ يَبْعَثُ رِيحًا مِنَ الْيَمَنِ أَلْيَنَ مِنَ الْحَرِيرِ فَلاَ تَدَعُ أَحَدًا فِي قَلْبِهِ - قَالَ أَبُو عَلْقَمَةَ مِثْقَالُ حَبَّةٍ وَقَالَ عَبْدُ الْعَزِيزِ مِثْقَالُ ذَرَّةٍ - مِنْ إِيمَانٍ إِلاَّ قَبَضَتْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:",
+        "text": "Verily Allah would make a wind to blow from the side of the Yemen more delicate than silk and would spare none but cause him to die who, in the words of Abu 'Alqama, has faith equal to the weight of a grain; while Abdul-'Aziz said: having faith equal to the weight of a dust particle."
+      }
+    },
+    {
+      "id": 220,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ جَمِيعًا عَنْ إِسْمَاعِيلَ بْنِ جَعْفَرٍ، - قَالَ ابْنُ أَيُّوبَ حَدَّثَنَا إِسْمَاعِيلُ، - قَالَ أَخْبَرَنِي الْعَلاَءُ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ بَادِرُوا بِالأَعْمَالِ فِتَنًا كَقِطَعِ اللَّيْلِ الْمُظْلِمِ يُصْبِحُ الرَّجُلُ مُؤْمِنًا وَيُمْسِي كَافِرًا أَوْ يُمْسِي مُؤْمِنًا وَيُصْبِحُ كَافِرًا يَبِيعُ دِينَهُ بِعَرَضٍ مِنَ الدُّنْيَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:",
+        "text": "Be prompt in doing good deeds (before you are overtaken) by turbulence which would be like a part of the dark night. During (that stormy period) a man would be a Muslim in the morning and an unbeliever in the evening or he would be a believer in the evening and an unbeliever in the morning, and would sell his faith for worldly goods."
+      }
+    },
+    {
+      "id": 221,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا الْحَسَنُ بْنُ مُوسَى، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّهُ قَالَ لَمَّا نَزَلَتْ هَذِهِ الآيَةُ ‏{‏ يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ‏}‏ إِلَى آخِرِ الآيَةِ جَلَسَ ثَابِتُ بْنُ قَيْسٍ فِي بَيْتِهِ وَقَالَ أَنَا مِنْ أَهْلِ النَّارِ ‏.‏ وَاحْتَبَسَ عَنِ النَّبِيِّ صلى الله عليه وسلم فَسَأَلَ النَّبِيُّ صلى الله عليه وسلم سَعْدَ بْنَ مُعَاذٍ فَقَالَ ‏\"‏ يَا أَبَا عَمْرٍو مَا شَأْنُ ثَابِتٍ أَشْتَكَى ‏\"‏ ‏.‏ قَالَ سَعْدٌ إِنَّهُ لَجَارِي وَمَا عَلِمْتُ لَهُ بِشَكْوَى ‏.‏ قَالَ فَأَتَاهُ سَعْدٌ فَذَكَرَ لَهُ قَوْلَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ثَابِتٌ أُنْزِلَتْ هَذِهِ الآيَةُ وَلَقَدْ عَلِمْتُمْ أَنِّي مِنْ أَرْفَعِكُمْ صَوْتًا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَنَا مِنْ أَهْلِ النَّارِ ‏.‏ فَذَكَرَ ذَلِكَ سَعْدٌ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ بَلْ هُوَ مِنْ أَهْلِ الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Anas b. Malik that when this verse:",
+        "text": "\" O ye who believe I raise not your voices above the voice of the Prophet, nor shout loud unto him in discourse, as ye shout loud unto one another, lest your deeds should become null and void, while you perceive not\" (xlix. 2-5), was revealed. Thabit b. Qais confined himself in his house and said: I am one of the denizens of Fire, and he deliberately avoided coming to the Apostle (ﷺ). The Apostle (ﷺ) asked Sa'd b, Mu'adh about him and said, Abu Amr, how is Thabit? Has he fallen sick? Sa'd said: He is my neighbour, but I do not know of his illness. Sa'd came to him (Thabit), and conveyed to him the message of the Messenger of Allah (ﷺ). Upon this Thabit said: This verse was revealed, and you are well aware of the fact that, amongst all of you, mine is the voice louder than that of the Messenger of Allah, and so I am one amongst the denizens of Fire, Sa'd Informed the Prophet about it. Upon this the Messenger of Allah observed: (Nay, not so) but he (Thabit) is one of the dwellers of Paradise."
+      }
+    },
+    {
+      "id": 222,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قَطَنُ بْنُ نُسَيْرٍ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ ثَابِتُ بْنُ قَيْسِ بْنِ شَمَّاسٍ خَطِيبَ الأَنْصَارِ فَلَمَّا نَزَلَتْ هَذِهِ الآيَةُ ‏.‏ بِنَحْوِ حَدِيثِ حَمَّادٍ ‏.‏ وَلَيْسَ فِي حَدِيثِهِ ذِكْرُ سَعْدِ بْنِ مُعَاذٍ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Anas b. Malik by another chain of transmitters in which these words are found:",
+        "text": "Thabit b. Qais was the orator of the Ansar, when this verse was revealed: the rest of the hadith is the same with the exception that there is no mention of Sa'd b. Mu'adh in it."
+      }
+    },
+    {
+      "id": 223,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ أَحْمَدُ بْنُ سَعِيدِ بْنِ صَخْرٍ الدَّارِمِيُّ، حَدَّثَنَا حَبَّانُ، حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ لَمَّا نَزَلَتْ ‏{‏ لاَ تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ‏}‏ وَلَمْ يَذْكُرْ سَعْدَ بْنَ مُعَاذٍ فِي الْحَدِيثِ ‏.‏",
+      "english": {
+        "narrator": "This hadith is also transmitted by Ahmad b. Sa'id, Habban, Sulaiman b. Mughira on the authority of Anas who said:",
+        "text": "When the verse was revealed:\" Do not raise your voice louder than the voice of the Apostle,\" no mention was made of Sa'd b, Mu'adh in it."
+      }
+    },
+    {
+      "id": 224,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا هُرَيْمُ بْنُ عَبْدِ الأَعْلَى الأَسَدِيُّ، حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، قَالَ سَمِعْتُ أَبِي يَذْكُرُ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ لَمَّا نَزَلَتْ هَذِهِ الآيَةُ ‏.‏ وَاقْتَصَّ الْحَدِيثَ ‏.‏ وَلَمْ يَذْكُرْ سَعْدَ بْنَ مُعَاذٍ وَزَادَ فَكُنَّا نَرَاهُ يَمْشِي بَيْنَ أَظْهُرِنَا رَجُلٌ مِنْ أَهْلِ الْجَنَّةِ ‏.‏",
+      "english": {
+        "narrator": "This hadith is narrated on the authority of Anas by another chain of transmitters in which there is no mention of Sa'd b. Mu'adh, but the following words are there:",
+        "text": "We observed a man, one of the dwellers of Paradise, walking about amongst us."
+      }
+    },
+    {
+      "id": 225,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ أُنَاسٌ لِرَسُولِ اللَّهِ صلى الله عليه وسلم يَا رَسُولَ اللَّهِ أَنُؤَاخَذُ بِمَا عَمِلْنَا فِي الْجَاهِلِيَّةِ قَالَ ‏\n\"‏ أَمَّا مَنْ أَحْسَنَ مِنْكُمْ فِي الإِسْلاَمِ فَلاَ يُؤَاخَذُ بِهَا وَمَنْ أَسَاءَ أُخِذَ بِعَمَلِهِ فِي الْجَاهِلِيَّةِ وَالإِسْلاَمِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abdullah b. Mas'ud that some people said to the Messenger of Allah (ﷺ):",
+        "text": "Messenger of Allah, would we be held responsible for our deeds committed in the state of ignorance (before embracing Islam)? Upon his he (the Holy Prophet) remarked: He who amongst you performed good deeds in Islam, He would not be held responsible for them (misdeeds which he committed in ignorance) and he who committed evil (even after embracing Islam) would be held responsible or his misdeeds that he committed in the state of ignorance as well as in that of Islam."
+      }
+    },
+    {
+      "id": 226,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي وَوَكِيعٌ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قُلْنَا يَا رَسُولَ اللَّهِ أَنُؤَاخَذُ بِمَا عَمِلْنَا فِي الْجَاهِلِيَّةِ قَالَ ‏\n\"‏ مَنْ أَحْسَنَ فِي الإِسْلاَمِ لَمْ يُؤَاخَذْ بِمَا عَمِلَ فِي الْجَاهِلِيَّةِ ‏.‏ وَمَنْ أَسَاءَ فِي الإِسْلاَمِ أُخِذَ بِالأَوَّلِ وَالآخِرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abdullah b. Mas'ud:",
+        "text": "We once said: Messenger of Allah, would we be held responsible for our deeds committed in the state of ignorance? He (the Holy Prophet) observed: He who did good deeds in Islam would not be held responsible for what he did in the state of ignorance, but he who committed evil (after having come within the fold of Islam) would be held responsible for his previous and later deeds."
+      }
+    },
+    {
+      "id": 227,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مِنْجَابُ بْنُ الْحَارِثِ التَّمِيمِيُّ، أَخْبَرَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been transmitted by Minjab b. al-Harith Tamimi with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 228,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى الْعَنَزِيُّ، وَأَبُو مَعْنٍ الرَّقَاشِيُّ وَإِسْحَاقُ بْنُ مَنْصُورٍ كُلُّهُمْ عَنْ أَبِي عَاصِمٍ، - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - حَدَّثَنَا الضَّحَّاكُ، - يَعْنِي أَبَا عَاصِمٍ - قَالَ أَخْبَرَنَا حَيْوَةُ بْنُ شُرَيْحٍ، قَالَ حَدَّثَنِي يَزِيدُ بْنُ أَبِي حَبِيبٍ، عَنِ ابْنِ شَمَاسَةَ الْمَهْرِيِّ، قَالَ حَضَرْنَا عَمْرَو بْنَ الْعَاصِ وَهُوَ فِي سِيَاقَةِ الْمَوْتِ ‏.‏ فَبَكَى طَوِيلاً وَحَوَّلَ وَجْهَهُ إِلَى الْجِدَارِ فَجَعَلَ ابْنُهُ يَقُولُ يَا أَبَتَاهُ أَمَا بَشَّرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِكَذَا أَمَا بَشَّرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِكَذَا قَالَ فَأَقْبَلَ بِوَجْهِهِ ‏.‏ فَقَالَ إِنَّ أَفْضَلَ مَا نُعِدُّ شَهَادَةُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ إِنِّي قَدْ كُنْتُ عَلَى أَطْبَاقٍ ثَلاَثٍ لَقَدْ رَأَيْتُنِي وَمَا أَحَدٌ أَشَدَّ بُغْضًا لِرَسُولِ اللَّهِ صلى الله عليه وسلم مِنِّي وَلاَ أَحَبَّ إِلَىَّ أَنْ أَكُونَ قَدِ اسْتَمْكَنْتُ مِنْهُ فَقَتَلْتُهُ فَلَوْ مُتُّ عَلَى تِلْكَ الْحَالِ لَكُنْتُ مِنْ أَهْلِ النَّارِ فَلَمَّا جَعَلَ اللَّهُ الإِسْلاَمَ فِي قَلْبِي أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَقُلْتُ ابْسُطْ يَمِينَكَ فَلأُبَايِعْكَ ‏.‏ فَبَسَطَ يَمِينَهُ - قَالَ - فَقَبَضْتُ يَدِي ‏.‏ قَالَ ‏\"‏ مَا لَكَ يَا عَمْرُو ‏\"‏ ‏.‏ قَالَ قُلْتُ أَرَدْتُ أَنْ أَشْتَرِطَ ‏.‏ قَالَ ‏\"‏ تَشْتَرِطُ بِمَاذَا ‏\"‏ ‏.‏ قُلْتُ أَنْ يُغْفَرَ لِي ‏.‏ قَالَ ‏\"‏ أَمَا عَلِمْتَ أَنَّ الإِسْلاَمَ يَهْدِمُ مَا كَانَ قَبْلَهُ وَأَنَّ الْهِجْرَةَ تَهْدِمُ مَا كَانَ قَبْلَهَا وَأَنَّ الْحَجَّ يَهْدِمُ مَا كَانَ قَبْلَهُ ‏\"‏ ‏.‏ وَمَا كَانَ أَحَدٌ أَحَبَّ إِلَىَّ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَلاَ أَجَلَّ فِي عَيْنِي مِنْهُ وَمَا كُنْتُ أُطِيقُ أَنْ أَمْلأَ عَيْنَىَّ مِنْهُ إِجْلاَلاً لَهُ وَلَوْ سُئِلْتُ أَنْ أَصِفَهُ مَا أَطَقْتُ لأَنِّي لَمْ أَكُنْ أَمْلأُ عَيْنَىَّ مِنْهُ وَلَوْ مُتُّ عَلَى تِلْكَ الْحَالِ لَرَجَوْتُ أَنْ أَكُونَ مِنْ أَهْلِ الْجَنَّةِ ثُمَّ وَلِينَا أَشْيَاءَ مَا أَدْرِي مَا حَالِي فِيهَا فَإِذَا أَنَا مُتُّ فَلاَ تَصْحَبْنِي نَائِحَةٌ وَلاَ نَارٌ فَإِذَا دَفَنْتُمُونِي فَشُنُّوا عَلَىَّ التُّرَابَ شَنًّا ثُمَّ أَقِيمُوا حَوْلَ قَبْرِي قَدْرَ مَا تُنْحَرُ جَزُورٌ وَيُقْسَمُ لَحْمُهَا حَتَّى أَسْتَأْنِسَ بِكُمْ وَأَنْظُرَ مَاذَا أُرَاجِعُ بِهِ رُسُلَ رَبِّي ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Ibn Shamasa Mahri that he said:",
+        "text": "We went to Amr b. al-As and he was about to die. He wept for a long time and turned his face towards the wall. His son said: Did the Messenger of Allah (may peace be upon him not give you tidings of this? Did the Messenger of Allah (ﷺ) not give you tidings of this? He (the narrator) said: He turned his face (towards the audience) and said: The best thing which we can count upon is the testimony that there is no god but Allah and that Muhammad is the Messenger of Allah. Verily I have passed through three phases. (The first one) in which I found myself averse to none else more than I was averse to the Messenger of Allah (ﷺ) and there was no other desire stronger in me than the one that I should overpower him and kill him. Had I died in this state, I would have been definitely one of the denizens of Fire. When Allah instilled the love of Islam in my heart, I came to the Apostle (ﷺ) and said: Stretch out your right hand so that may pledge my allegiance to you. He stretched out his right hand, I withdrew my hand, He (the Holy Prophet) said: What has happened to you, O 'Amr? replied: I intend to lay down some condition. He asked: What condition do you intend to put forward? I said: should be granted pardon. He (the Holy Prophet) observed: Are you not aware of the fact that Islam wipes out all the previous (misdeeds)? Verily migration wipes out all the previous (misdeeds), and verily the pilgrimage wipes out all the (previous) misdeeds. And then no one as or dear to me than the Messenger of Allah and none was more sublime in my eyes than he, Never could I, pluck courage to catch a full glimpse of his face due to its splendour. So if I am asked to describe his features, I cannot do that for I have not eyed him fully. Had I died in this state had every reason to hope that I would have bee among the dwellers of Paradise. Then we were responsible for certain things (in the light of which) I am unable to know what is in store for me. When I die, let neither female mourner nor fire accompany me. When you bury me, fill my grave well with earth, then stand around it for the time within which a camel is slaughtered and its meat is distributed so that I may enjoy your intimacy and (in your company) ascertain what answer I can give to the messengers (angels) of Allah."
+      }
+    },
+    {
+      "id": 229,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمِ بْنِ مَيْمُونٍ، وَإِبْرَاهِيمُ بْنُ دِينَارٍ، - وَاللَّفْظُ لإِبْرَاهِيمَ - قَالاَ حَدَّثَنَا حَجَّاجٌ، - وَهُوَ ابْنُ مُحَمَّدٍ - عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي يَعْلَى بْنُ مُسْلِمٍ، أَنَّهُ سَمِعَ سَعِيدَ بْنَ جُبَيْرٍ، يُحَدِّثُ عَنِ ابْنِ عَبَّاسٍ، أَنَّ نَاسًا، مِنْ أَهْلِ الشِّرْكِ قَتَلُوا فَأَكْثَرُوا وَزَنَوْا فَأَكْثَرُوا ثُمَّ أَتَوْا مُحَمَّدًا صلى الله عليه وسلم فَقَالُوا إِنَّ الَّذِي تَقُولُ وَتَدْعُو لَحَسَنٌ وَلَوْ تُخْبِرُنَا أَنَّ لِمَا عَمِلْنَا كَفَّارَةً فَنَزَلَ ‏{‏ وَالَّذِينَ لاَ يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلاَ يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلاَّ بِالْحَقِّ وَلاَ يَزْنُونَ وَمَنْ يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا‏}‏ وَنَزَلَ ‏{‏ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لاَ تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ‏{‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Ibn 'Abbas that some persons amongst the polytheist had committed a large number of murders and had excessively indulged in fornication. Then they came to Muhammad (ﷺ) and said:",
+        "text": "Whatever you assert and whatever you call to is indeed good. But if you inform us that there is atonement of our past deeds (then we would embrace Islam). Then it was revealed: \nAnd those who call not unto another god along with Allah and slay not any soul which Allah has forbidden except in the cause of justice, nor commit fornication; and he who does this shall meet the requital of sin. Multiplied for him shall be the torment on the Day of Resurrection, and he shall therein abide disgraced, except him who repents a believes and does good deeds. Then these! for the Allah shall change their vices into virtues. Verily Allah is Ever Forgiving, Merciful (xxv. 68-70). \nSay thou: O my bondsmen woo have committed extravagance against themselves despair not of the Mercy of Allah I Verily Allah will forgive the sins altogether. He is indeed the Forgiving, the Merciful (xxxix. 53)."
+      }
+    },
+    {
+      "id": 230,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ حَكِيمَ بْنَ حِزَامٍ، أَخْبَرَهُ أَنَّهُ، قَالَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَرَأَيْتَ أُمُورًا كُنْتُ أَتَحَنَّثُ بِهَا فِي الْجَاهِلِيَّةِ هَلْ لِي فِيهَا مِنْ شَىْءٍ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَسْلَمْتَ عَلَى مَا أَسْلَفْتَ مِنْ خَيْرٍ ‏\"‏ ‏.‏ وَالتَّحَنُّثُ التَّعَبُّدُ ‏.‏",
+      "english": {
+        "narrator": "Hakim b. Hizam reported to 'Urwa b. Zubair that he said to the Messenger of Allah:",
+        "text": "Do you think that there is any thing for me (of he reward with the Lord) for the deed of religious purification that I did in the state of ignorance? Upon this he (the Messenger of Allah) said to him: You accepted Islam with all the previous virtues that you practised."
+      }
+    },
+    {
+      "id": 231,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا حَسَنٌ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ، - قَالَ الْحُلْوَانِيُّ حَدَّثَنَا وَقَالَ عَبْدٌ، حَدَّثَنِي - يَعْقُوبُ، - وَهُوَ ابْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ - حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ حَكِيمَ بْنَ حِزَامٍ، أَخْبَرَهُ أَنَّهُ، قَالَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَىْ رَسُولَ اللَّهِ أَرَأَيْتَ أُمُورًا كُنْتُ أَتَحَنَّثُ بِهَا فِي الْجَاهِلِيَّةِ مِنْ صَدَقَةٍ أَوْ عَتَاقَةٍ أَوْ صِلَةِ رَحِمٍ أَفِيهَا أَجْرٌ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَسْلَمْتَ عَلَى مَا أَسْلَفْتَ مِنْ خَيْرٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Hakim b. Hizam reported to 'Urwa b. Zubair that he said to the Messenger of Allah (ﷺ):",
+        "text": "Messenger of Allah, do you think if there is any reward (of the Lord with me on the Day of Resurrection) for the deeds of religious purification that I performed in the state of ignorance, such as charity, freeing a slave, cementing of blood-relations? Upon this he (the Messenger of Allah) said to him: You have accepted Islam with all the previous virtues that you had practised."
+      }
+    },
+    {
+      "id": 232,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالاَ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ حَكِيمِ بْنِ حِزَامٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَشْيَاءَ كُنْتُ أَفْعَلُهَا فِي الْجَاهِلِيَّةِ - قَالَ هِشَامٌ يَعْنِي أَتَبَرَّرُ بِهَا - فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَسْلَمْتَ عَلَى مَا أَسْلَفْتَ لَكَ مِنَ الْخَيْرِ ‏\"‏ ‏.‏ قُلْتُ فَوَاللَّهِ لاَ أَدَعُ شَيْئًا صَنَعْتُهُ فِي الْجَاهِلِيَّةِ إِلاَّ فَعَلْتُ فِي الإِسْلاَمِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "It is narrate on the authority of Hakim b. Hizam:",
+        "text": "I said: Messenger of Allah, I did so some of the deeds in the state of ignorance. (One of the transmitters Hisham b. Urwa explained them as acts of piety. Upon this the Messenger, of Allah remarked: You have embraced Islam with all the previous acts of virtue. I said: By God, I would leave nothing undone in Islam the like of which I did in the state of ignorance."
+      }
+    },
+    {
+      "id": 233,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، أَنَّ حَكِيمَ بْنَ حِزَامٍ، أَعْتَقَ فِي الْجَاهِلِيَّةِ مِائَةَ رَقَبَةٍ وَحَمَلَ عَلَى مِائَةِ بَعِيرٍ ثُمَّ أَعْتَقَ فِي الإِسْلاَمِ مِائَةَ رَقَبَةٍ وَحَمَلَ عَلَى مِائَةِ بَعِيرٍ ثُمَّ أَتَى النَّبِيَّ صلى الله عليه وسلم فَذَكَرَ نَحْوَ حَدِيثِهِمْ ‏.‏",
+      "english": {
+        "narrator": "Hisham b. Urwa narrated it on the authority of his father:",
+        "text": "Hakim b. Hizam freed one hundred slave and donated one hundred camels (for the sake of Allah) during the state of ignorance. Then he freed one hundred slaves and donated one hundred camel (for the sake of Allah) after) he had embraced Islam. He subsequently came to the Apostle (ﷺ). The rest of the hadith is the same as narrated above."
+      }
+    },
+    {
+      "id": 234,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، وَأَبُو مُعَاوِيَةَ وَوَكِيعٌ عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ لَمَّا نَزَلَتْ ‏{‏ الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ‏}‏ شَقَّ ذَلِكَ عَلَى أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَقَالُوا أَيُّنَا لاَ يَظْلِمُ نَفْسَهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لَيْسَ هُوَ كَمَا تَظُنُّونَ إِنَّمَا هُوَ كَمَا قَالَ لُقْمَانُ لاِبْنِهِ ‏{‏ يَا بُنَىَّ لاَ تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ‏{‏",
+      "english": {
+        "narrator": "It is narrated on the authority of 'Abdullah (b. Mas'ud) that when this verse was revealed:",
+        "text": "\" It is those who believe and confound not their belief with wrongdoing\" (vi. 82), the Companions of the Messenger of Allah wore greatly perturbed. They said: Who amongst us (is so fortunate) that he does not wrong himself? Upon this the Messenger of Allah (ﷺ) remarked: It does not mean that which you presume It implies that which Luqman said to his son: O my son, do not associate anything with Allah, for indeed it is the gravest wrongdoing (xxxi. 13)."
+      }
+    },
+    {
+      "id": 235,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ خَشْرَمٍ، قَالاَ أَخْبَرَنَا عِيسَى، - وَهُوَ ابْنُ يُونُسَ ح وَحَدَّثَنَا مِنْجَابُ بْنُ الْحَارِثِ التَّمِيمِيُّ، أَخْبَرَنَا ابْنُ مُسْهِرٍ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، أَخْبَرَنَا ابْنُ إِدْرِيسَ، كُلُّهُمْ عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ قَالَ أَبُو كُرَيْبٍ قَالَ ابْنُ إِدْرِيسَ حَدَّثَنِيهِ أَوَّلاً أَبِي، عَنْ أَبَانِ بْنِ تَغْلِبَ، عَنِ الأَعْمَشِ، ثُمَّ سَمِعْتُهُ مِنْهُ، ‏.‏",
+      "english": {
+        "narrator": "This hadith is narrated by another chain of transmitters, (namely) lshaq b. Ibrahim. Ibn Idris says:",
+        "text": "My father transmitted it from Aban b. Taghlib who heard it from A'mash; then I heard it also from him (A'mash)."
+      }
+    },
+    {
+      "id": 236,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ مِنْهَالٍ الضَّرِيرُ، وَأُمَيَّةُ بْنُ بِسْطَامَ الْعَيْشِيُّ، - وَاللَّفْظُ لأُمَيَّةَ - قَالاَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا رَوْحٌ، - وَهُوَ ابْنُ الْقَاسِمِ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ لَمَّا نَزَلَتْ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ‏{‏ لِلَّهِ مَا فِي السَّمَوَاتِ وَمَا فِي الأَرْضِ وَإِنْ تُبْدُوا مَا فِي أَنْفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُمْ بِهِ اللَّهُ فَيَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ وَاللَّهُ عَلَى كُلِّ شَىْءٍ قَدِيرٌ‏}‏ قَالَ فَاشْتَدَّ ذَلِكَ عَلَى أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَتَوْا رَسُولَ اللَّهِ صلى الله عليه وسلم ثُمَّ بَرَكُوا عَلَى الرُّكَبِ فَقَالُوا أَىْ رَسُولَ اللَّهِ كُلِّفْنَا مِنَ الأَعْمَالِ مَا نُطِيقُ الصَّلاَةُ وَالصِّيَامُ وَالْجِهَادُ وَالصَّدَقَةُ وَقَدْ أُنْزِلَتْ عَلَيْكَ هَذِهِ الآيَةُ وَلاَ نُطِيقُهَا ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَتُرِيدُونَ أَنْ تَقُولُوا كَمَا قَالَ أَهْلُ الْكِتَابَيْنِ مِنْ قَبْلِكُمْ سَمِعْنَا وَعَصَيْنَا بَلْ قُولُوا سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ‏\"‏ ‏.‏ قَالُوا سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ‏.‏ فَلَمَّا اقْتَرَأَهَا الْقَوْمُ ذَلَّتْ بِهَا أَلْسِنَتُهُمْ فَأَنْزَلَ اللَّهُ فِي إِثْرِهَا ‏{‏ آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ كُلٌّ آمَنَ بِاللَّهِ وَمَلاَئِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لاَ نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ وَقَالُوا سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ‏}‏ فَلَمَّا فَعَلُوا ذَلِكَ نَسَخَهَا اللَّهُ تَعَالَى فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏ لاَ يُكَلِّفُ اللَّهُ نَفْسًا إِلاَّ وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ رَبَّنَا لاَ تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا‏}‏ قَالَ نَعَمْ ‏{‏ رَبَّنَا وَلاَ تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا‏}‏ قَالَ نَعَمْ ‏{‏ رَبَّنَا وَلاَ تُحَمِّلْنَا مَا لاَ طَاقَةَ لَنَا بِهِ‏}‏ قَالَ نَعَمْ ‏{‏ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلاَنَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ‏}‏ قَالَ نَعَمْ ‏.‏",
+      "english": {
+        "narrator": "It is reported on the authority of Abu Huraira that when it was revealed to the Messenger of Allah (ﷺ):",
+        "text": "To Allah belongs whatever is in the heavens and whatever is in the earth and whether you disclose that which is in your mind or conceal it, Allah will call you to account according to it. Then He forgives whom He pleases and chastises whom He Pleases; and Allah is over everything Potent\" (ii. 284). the Companions of the Messenger of Allah (ﷺ) felt it hard and severe and they came to the Messenger of Allah (ﷺ) and sat down on their knees and said: Messenger of Allah, we were assigned some duties which were within our power to perform, such as prayer, fasting, struggling (in the cause of Allah), charity. Then this (the above-mentioned) verse was revealed unto you and it is beyond our power to live up to it. The Messenger of Allah (ﷺ) said: Do you intend to say what the people of two books (Jews and Christians) said before you:\" We hear and disobey\"? You should rather say:\" We hear and we obey, (we seek) Thy forgiveness, our Lord! and unto Thee is the return.\" And they said:\" We hear and we obey, (we seek) Thy forgiveness, Our Lord! and unto Thee is the return.\" When the people recited it and it smoothly flowed on their tongues, then Allah revealed immediately afterwards:\" The Apostle believes in that which is sent down unto him from his Lord, and so do the believers. Each one believes in Allah and His Angels and His Books and His Apostles, saying: We differentiate not between any of His Apostles and they say: We hearken and we obey: (we seek) Thy forgiveness, our Lord! and unto Thee is the return\" (ii. 285). When they did that, Allah abrogated this (verse) and the Great, Majestic Allah revealed:\" Allah burdens not a soul beyond its capacity. It gets every good that it earns and it suffers every ill that it earns. Our Lord, punish us not if we forget or make a mistake.\" (The Prophet said: ) Yes, our Lord! do not lay on us a burden as Thou didst lay on those before us. (The Prophet said: ) Yes, our Lord, impose not on us (burdens) which we have not the strength to bear (The Prophet said: ) Yes, and pardon us and grant us protection! and have mercy on us. Thou art our Patron, so grant us victory over the disbelieving people\" (ii. 286). He (the Lord) said: Yes."
+      }
+    },
+    {
+      "id": 237,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ - وَاللَّفْظُ لأَبِي بَكْرٍ قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا - وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ آدَمَ بْنِ سُلَيْمَانَ، مَوْلَى خَالِدٍ قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، يُحَدِّثُ عَنِ ابْنِ عَبَّاسٍ، قَالَ لَمَّا نَزَلَتْ هَذِهِ الآيَةُ ‏{‏ وَإِنْ تُبْدُوا مَا فِي أَنْفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُمْ بِهِ اللَّهُ‏}‏ قَالَ دَخَلَ قُلُوبَهُمْ مِنْهَا شَىْءٌ لَمْ يَدْخُلْ قُلُوبَهُمْ مِنْ شَىْءٍ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ قُولُوا سَمِعْنَا وَأَطَعْنَا وَسَلَّمْنَا ‏\"‏ ‏.‏ قَالَ فَأَلْقَى اللَّهُ الإِيمَانَ فِي قُلُوبِهِمْ فَأَنْزَلَ اللَّهُ تَعَالَى ‏{‏ لاَ يُكَلِّفُ اللَّهُ نَفْسًا إِلاَّ وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ رَبَّنَا لاَ تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا‏}‏ قَالَ قَدْ فَعَلْتُ ‏{‏ رَبَّنَا وَلاَ تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا‏}‏ - قَالَ قَدْ فَعَلْتُ ‏{‏ وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلاَنَا‏}‏ قَالَ قَدْ فَعَلْتُ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Ibn 'Abbas:",
+        "text": "When this verse:\" Whether you disclose that which is in your mind or conceal it, Allah will call you to account according to it\" (ii 284), there entered in their minds something (of that fear) such as had never entered their hearts (before). The Apostle (ﷺ) observed: Say: We have heard and obeyed and submitted ourselves. He (the reporter) said: Allah instilled faith in their hearts and He revealed this verse:\" Allah burdens not a soul beyond its capacity. It gets every good that it earns and it suffers every ill that it earns. Our Lord, call us not to account if we forget or make a mistake. He the (Lord) said: I indeed did it. Our Lord! do not lay on us a burden as Thou didst lay on those before us. He (our Lord) said: I indeed did it. And pardon us, have mercy on us. Thou art our Protector\" (ii. 286). He said: I indeed did it."
+      }
+    },
+    {
+      "id": 238,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ، - وَاللَّفْظُ لِسَعِيدٍ - قَالُوا حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ بْنِ أَوْفَى، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ اللَّهَ تَجَاوَزَ لأُمَّتِي مَا حَدَّثَتْ بِهِ أَنْفُسَهَا مَا لَمْ يَتَكَلَّمُوا أَوْ يَعْمَلُوا بِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:",
+        "text": "Verily Allah forgave my people the evil promptings which arise within their hearts as long as they did not speak about them or did not act upon them."
+      }
+    },
+    {
+      "id": 239,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا عَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَعَبْدَةُ بْنُ سُلَيْمَانَ، ح وَحَدَّثَنَا ابْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالاَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، كُلُّهُمْ عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ اللَّهَ عَزَّ وَجَلَّ تَجَاوَزَ لأُمَّتِي عَمَّا حَدَّثَتْ بِهِ أَنْفُسَهَا مَا لَمْ تَعْمَلْ أَوْ تَكَلَّمْ بِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:",
+        "text": "Verily the Great and Mighty Allah forgave my people the evil promptings arising in their minds, but they neither talked about them nor acted upon them."
+      }
+    },
+    {
+      "id": 240,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا مِسْعَرٌ، وَهِشَامٌ، ح وَحَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا الْحُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، عَنْ شَيْبَانَ، جَمِيعًا عَنْ قَتَادَةَ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The same hadith has been narrated by Zuhair b. Harb, Waki, Ishaq b. Mansur, Husain b. 'Ali."
+      }
+    },
+    {
+      "id": 241,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، - وَاللَّفْظُ لأَبِي بَكْرٍ قَالَ إِسْحَاقُ أَخْبَرَنَا سُفْيَانُ، وَقَالَ الآخَرَانِ، حَدَّثَنَا - ابْنُ عُيَيْنَةَ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ قَالَ اللَّهُ عَزَّ وَجَلَّ إِذَا هَمَّ عَبْدِي بِسَيِّئَةٍ فَلاَ تَكْتُبُوهَا عَلَيْهِ فَإِنْ عَمِلَهَا فَاكْتُبُوهَا سَيِّئَةً وَإِذَا هَمَّ بِحَسَنَةٍ فَلَمْ يَعْمَلْهَا فَاكْتُبُوهَا حَسَنَةً فَإِنْ عَمِلَهَا فَاكْتُبُوهَا عَشْرًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:",
+        "text": "The Great and the Glorious Lord said (to angels): Whenever My servant intends to commit an evil, do not record it against him, but if he actually commits it, then write it as one evil. And when he intends to do good but does not do it, then take it down is one act of goodness, but if he does it, then write down ten good deeds (in his record)."
+      }
+    },
+    {
+      "id": 242,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ جَعْفَرٍ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ قَالَ اللَّهُ عَزَّ وَجَلَّ إِذَا هَمَّ عَبْدِي بِحَسَنَةٍ وَلَمْ يَعْمَلْهَا كَتَبْتُهَا لَهُ حَسَنَةً فَإِنْ عَمِلَهَا كَتَبْتُهَا عَشْرَ حَسَنَاتٍ إِلَى سَبْعِمِائَةِ ضِعْفٍ وَإِذَا هَمَّ بِسَيِّئَةٍ وَلَمْ يَعْمَلْهَا لَمْ أَكْتُبْهَا عَلَيْهِ فَإِنْ عَمِلَهَا كَتَبْتُهَا سَيِّئَةً وَاحِدَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:",
+        "text": "Allah, the Great and Glorious, said: Whenever my bondsman intends to do good, but does not do it, I write one good act for him, but if he puts it into practice I wrote from ten to seven hundred good deeds in favour of him. When he intends to commit an evil, but does not actually do it, do not record it. But if he does it, I write only one evil."
+      }
+    },
+    {
+      "id": 243,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ مُحَمَّدٍ، رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ قَالَ اللَّهُ عَزَّ وَجَلَّ إِذَا تَحَدَّثَ عَبْدِي بِأَنْ يَعْمَلَ حَسَنَةً فَأَنَا أَكْتُبُهَا لَهُ حَسَنَةً مَا لَمْ يَعْمَلْ فَإِذَا عَمِلَهَا فَأَنَا أَكْتُبُهَا بِعَشْرِ أَمْثَالِهَا وَإِذَا تَحَدَّثَ بِأَنْ يَعْمَلَ سَيِّئَةً فَأَنَا أَغْفِرُهَا لَهُ مَا لَمْ يَعْمَلْهَا فَإِذَا عَمِلَهَا فَأَنَا أَكْتُبُهَا لَهُ بِمِثْلِهَا ‏\"‏ ‏.‏ \n وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ قَالَتِ الْمَلاَئِكَةُ رَبِّ ذَاكَ عَبْدُكَ يُرِيدُ أَنْ يَعْمَلَ سَيِّئَةً - وَهُوَ أَبْصَرُ بِهِ - فَقَالَ ارْقُبُوهُ فَإِنْ عَمِلَهَا فَاكْتُبُوهَا لَهُ بِمِثْلِهَا ‏.‏ وَإِنْ تَرَكَهَا فَاكْتُبُوهَا لَهُ حَسَنَةً - إِنَّمَا تَرَكَهَا مِنْ جَرَّاىَ ‏\"‏ ‏.‏ \n وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِذَا أَحْسَنَ أَحَدُكُمْ إِسْلاَمَهُ فَكُلُّ حَسَنَةٍ يَعْمَلُهَا تُكْتَبُ بِعَشْرِ أَمْثَالِهَا إِلَى سَبْعِمِائَةِ ضِعْفٍ وَكُلُّ سَيِّئَةٍ يَعْمَلُهَا تُكْتَبُ بِمِثْلِهَا حَتَّى يَلْقَى اللَّهَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira reported that Muhammad, the Messenger of Allah (ﷺ), said:",
+        "text": "When it occurs to my bondsman that he should do a good deed but he actually does not do it, record one good to him, but if he puts it into practice, I make an entry of ten good acts in his favour. When it occurs to him to do evil, but he does not commit it, I forgive that. But if he commits it, I record one evil against his name. The Messenger of Allah (ﷺ) observed. The angels said: That bondsman of Yours intends to commit evil. though His Lord is more Vigilant than he. Upon this He (the Lord) said: Watch him; if he commits (evil), write it against his name but if he refrains from doing it, write one good deed or him, for he desisted from doing it for My sake. The Messenger of Allah said: He who amongst you is good of faith, all his good acts are multiplied from ten to seven hundred times (and are recorded in his name) and all the evils that he commits are recorded as such (i, e. without increase) till he meets Allah."
+      }
+    },
+    {
+      "id": 244,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنْ هِشَامٍ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ هَمَّ بِحَسَنَةٍ فَلَمْ يَعْمَلْهَا كُتِبَتْ لَهُ حَسَنَةً وَمَنْ هَمَّ بِحَسَنَةٍ فَعَمِلَهَا كُتِبَتْ لَهُ عَشْرًا إِلَى سَبْعِمِائَةِ ضِعْفٍ وَمَنْ هَمَّ بِسَيِّئَةٍ فَلَمْ يَعْمَلْهَا لَمْ تُكْتَبْ وَإِنْ عَمِلَهَا كُتِبَتْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:",
+        "text": "He who intended to do good, but did not do it, one good was recorded for him, and he who intended to do good and also did it, ten to seven hundred good deeds were recorded for him. And he who intended evil, but did not commit it, no entry was made against his name, but if he committed that, it was recorded."
+      }
+    },
+    {
+      "id": 245,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنِ الْجَعْدِ أَبِي عُثْمَانَ، حَدَّثَنَا أَبُو رَجَاءٍ الْعُطَارِدِيُّ، عَنِ ابْنِ عَبَّاسٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فِيمَا يَرْوِي عَنْ رَبِّهِ تَبَارَكَ وَتَعَالَى قَالَ ‏\n\"‏ إِنَّ اللَّهَ كَتَبَ الْحَسَنَاتِ وَالسَّيِّئَاتِ ثُمَّ بَيَّنَ ذَلِكَ فَمَنْ هَمَّ بِحَسَنَةٍ فَلَمْ يَعْمَلْهَا كَتَبَهَا اللَّهُ عِنْدَهُ حَسَنَةً كَامِلَةً وَإِنْ هَمَّ بِهَا فَعَمِلَهَا كَتَبَهَا اللَّهُ عَزَّ وَجَلَّ عِنْدَهُ عَشْرَ حَسَنَاتٍ إِلَى سَبْعِمِائَةِ ضِعْفٍ إِلَى أَضْعَافٍ كَثِيرَةٍ وَإِنْ هَمَّ بِسَيِّئَةٍ فَلَمْ يَعْمَلْهَا كَتَبَهَا اللَّهُ عِنْدَهُ حَسَنَةً كَامِلَةً وَإِنْ هَمَّ بِهَا فَعَمِلَهَا كَتَبَهَا اللَّهُ سَيِّئَةً وَاحِدَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Ibn Abbas that the Messenger of Allah (ﷺ) transmitted it from the Blessed and Great Lord:",
+        "text": "Verily Allah recorded the good and the evil and then made it clear that he who intended good but did not do it, Allah recorded one complete good in his favour, but if he intended it and also did it, the Glorious and Great Allah recorded ten to seven hundred virtues and even more to his credit. But it he intended evil, but did not commit it, Allah wrote down full one good in his favour. If he intended that and also committed it, Allah made an entry of one evil against him."
+      }
+    },
+    {
+      "id": 246,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، عَنِ الْجَعْدِ أَبِي عُثْمَانَ، فِي هَذَا الإِسْنَادِ بِمَعْنَى حَدِيثِ عَبْدِ الْوَارِثِ ‏.‏ وَزَادَ ‏\n\"‏ وَمَحَاهَا اللَّهُ وَلاَ يَهْلِكُ عَلَى اللَّهِ إِلاَّ هَالِكٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated with another chain of transmitters with the addition of these words:",
+        "text": "Allah would even wipe out (the evil committed by a man) and Allah does not put to destruction anyone except he who is doomed to destruction."
+      }
+    },
+    {
+      "id": 247,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ جَاءَ نَاسٌ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم فَسَأَلُوهُ إِنَّا نَجِدُ فِي أَنْفُسِنَا مَا يَتَعَاظَمُ أَحَدُنَا أَنْ يَتَكَلَّمَ بِهِ ‏.‏ قَالَ ‏\"‏ وَقَدْ وَجَدْتُمُوهُ ‏\"‏ ‏.‏ قَالُوا نَعَمْ ‏.‏ قَالَ ‏\"‏ ذَاكَ صَرِيحُ الإِيمَانِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that some people from amongst the Companions of the Apostle (ﷺ) came to him and said:",
+        "text": "Verily we perceive in our minds that which every one of us considers it too grave to express. He (the Holy Prophet) said: Do you really perceive it? They said: Yes. Upon this he remarked: That is the faith manifest."
+      }
+    },
+    {
+      "id": 248,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ عَمْرِو بْنِ جَبَلَةَ بْنِ أَبِي رَوَّادٍ، وَأَبُو بَكْرِ بْنُ إِسْحَاقَ قَالاَ حَدَّثَنَا أَبُو الْجَوَّابِ، عَنْ عَمَّارِ بْنِ رُزَيْقٍ، كِلاَهُمَا عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا الْحَدِيثِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The same hadith has been transmitted by Muhammad b. 'Amr, Abu Baker b. Ishaq, Abu'l-Jawwab, A'mash and Abu Huraira."
+      }
+    },
+    {
+      "id": 249,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يُوسُفُ بْنُ يَعْقُوبَ الصَّفَّارُ، حَدَّثَنِي عَلِيُّ بْنُ عَثَّامٍ، عَنْ سُعَيْرِ بْنِ الْخِمْسِ، عَنْ مُغِيرَةَ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ سُئِلَ النَّبِيُّ صلى الله عليه وسلم عَنِ الْوَسْوَسَةِ قَالَ ‏\n\"‏ تِلْكَ مَحْضُ الإِيمَانِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of 'Abdullah b. Mas'ud that the Apostle (ﷺ) was asked about evil prompting, to which he replied:",
+        "text": "It is pure faith."
+      }
+    },
+    {
+      "id": 250,
+      "chapterId": 1,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ، وَمُحَمَّدُ بْنُ عَبَّادٍ، - وَاللَّفْظُ لِهَارُونَ - قَالاَ حَدَّثَنَا سُفْيَانُ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَزَالُ النَّاسُ يَتَسَاءَلُونَ حَتَّى يُقَالَ هَذَا خَلَقَ اللَّهُ الْخَلْقَ فَمَنْ خَلَقَ اللَّهَ فَمَنْ وَجَدَ مِنْ ذَلِكَ شَيْئًا فَلْيَقُلْ آمَنْتُ بِاللَّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:",
+        "text": "Men will continue to question one another till this is propounded: Allah created all things but who created Allah? He who found himself confronted with such a situation should say: I affirm my faith in Allah."
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 271,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَعَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ ‏- رضى الله عنه ‏- قَالَ : { لَيْسَ اَلْوِتْرُ بِحَتْمٍ كَهَيْئَةِ اَلْمَكْتُوبَةِ , وَلَكِنْ سُنَّةٌ سَنَّهَا رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-}  رَوَاهُ النَّسَائِيُّ وَاَلتِّرْمِذِيُّ وَحَسَّنَهُ وَالْحَاكِمُ وَصَحَّحَهُ .‏  1‏‏1 ‏- رواه النسائي ( 3 / 229 )‏ ، والترمذي ( 453 و 454 )‏ ، والحاكم ( 1 / 300 )‏ .‏ وقال الترمذي : حديث حسن .‏",
+  "english": {
+    "narrator": "Narrated 'Ali bin Abu Talib (RA):",
+    "text": "The Witr prayer is not obligatory as the prescribed prayer is , but it is a Sunnah which was established by the practice of Allah's Messenger (ﷺ).\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

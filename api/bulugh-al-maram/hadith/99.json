@@ -1,0 +1,16 @@
+{
+  "id": 99,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْمُؤْمِنُ مِرْآةُ اَلْمُؤْمِنِ }  أَخْرَجَهُ أَبُو دَاوُدَ بِإِسْنَادٍ حَسَنٍ .‏  1‏ .‏‏1 ‏- .‏ حسن.‏ رواه أبو داود (4918)‏ وزاد:\" والمؤمن أخو المؤمن: يكف عليه ضيعته، ويحوطه من ورائه\".‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Every believer is the mirror of his brother.” Related by Abu Dawud with a good chain of narrators."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

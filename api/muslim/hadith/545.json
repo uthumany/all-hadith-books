@@ -1,0 +1,16 @@
+{
+  "id": 545,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الشَّيْبَانِيِّ، عَنْ يُسَيْرِ، بْنِ عَمْرٍو عَنْ سَهْلِ بْنِ حُنَيْفٍ، قَالَ أَهْوَى رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدِهِ إِلَى الْمَدِينَةِ فَقَالَ ‏\n\"‏ إِنَّهَا حَرَمٌ آمِنٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Sahl b. Hunif reported that Allah's Messenger (ﷺ) pointed with his hands towards Medina and said:",
+    "text": "That is a sacred territory and a place of safety."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

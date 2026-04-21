@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "chapterId": 56,
+  "bookId": 11,
+  "arabic": "سَمِعْتُ عَلِيَّ بْنَ حُجْرٍ، يَقُولُ‏:‏ قَالَ خَلَفُ بْنُ خَلِيفَةَ‏:‏ رَأَيْتُ عَمْرَو بْنَ حُرَيْثٍ صَاحِبَ النَّبِيِّ صلى الله عليه وسلم، وَأَنَا غُلامٌ صَغِيرٌ‏",
+  "english": {
+    "narrator": "Khalaf ibn Khalifa said:",
+    "text": "“I saw Amr ibn Huraith, the Companion of the Prophet (Allah bless him and give him peace), when I was a little boy.”"
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

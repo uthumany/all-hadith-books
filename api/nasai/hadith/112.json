@@ -1,0 +1,16 @@
+{
+  "id": 112,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا سُلَيْمَانُ الأَحْوَلُ، عَنْ مُجَاهِدٍ، عَنْ أَبِي عِيَاضٍ، عَنْ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَخَّصَ فِي الْجَرِّ غَيْرَ مُزَفَّتٍ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from 'Abdullah that:",
+    "text": "The Prophet  granted a concession allowing earthenware jars that are not coated with pitch."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

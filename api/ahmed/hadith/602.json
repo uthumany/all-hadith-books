@@ -1,0 +1,16 @@
+{
+  "id": 602,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي عُبَيْدٍ، مَوْلَى عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ قَالَ ثُمَّ شَهِدْتُهُ مَعَ عَلِيٍّ فَصَلَّى قَبْلَ أَنْ يَخْطُبَ بِلَا أَذَانٍ وَلَا إِقَامَةٍ ثُمَّ خَطَبَ فَقَالَ يَا أَيُّهَا النَّاسُ إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَدْ نَهَى أَنْ تَأْكُلُوا نُسُكَكُمْ بَعْدَ ثَلَاثِ لَيَالٍ فَلَا تَأْكُلُوهَا بَعْدُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu `Ubaid, the freed slave of ‘Abdur-Rahman bin ‘Awf, said:",
+    "text": "Then I was present with ‘Ali. He prayed before delivering the khutbah, with no adhan or iqamah, then he delivered the khutbah. He said: O people, the Messenger of Allah (ﷺ) forbade eating from your sacrificial animals after three days, so do not eat from them after today."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

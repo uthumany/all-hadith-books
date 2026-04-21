@@ -1,0 +1,16 @@
+{
+  "id": 144,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن مسعود رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏هلك المتنطعون‏\"‏ قالها ثلاثاً ‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏",
+  "english": {
+    "narrator": "Ibn Mas'ud (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"Ruined are those who insist on hardship in matters of the Faith.\" He repeated this three times."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

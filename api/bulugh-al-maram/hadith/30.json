@@ -1,0 +1,16 @@
+{
+  "id": 30,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ دَلَّ عَلَى خَيْرٍ, فَلَهُ مِثْلُ أَجْرِ فَاعِلِهِ }  أَخْرَجَهُ مُسْلِمٌ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (1893)‏ عن أبي مسعود قال: جاء رجل إلى النبي ‏-صلى الله عليه وسلم‏- فقال: إني أبدع بي فاحملني، فقال:\" ما عندي\".‏ فقال رجل: يا رسول الله! أنا أدله على من يحمله.‏ فقال رسول الله ‏-صلى الله عليه وسلم‏-.‏.‏.‏.‏.‏ الحديث.‏",
+  "english": {
+    "narrator": "Ibn Mas'ud (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“He who guides (others) to an act of goodness, will have a reward similar to that of its doer.” Related by Muslim."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

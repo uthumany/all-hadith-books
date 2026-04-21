@@ -1,0 +1,16 @@
+{
+  "id": 197,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الرابع عشر‏:‏ عن أبي بكر الصديق، رضي الله عنه ، قال‏:‏ يا أيها الناس إنكم لتقرءون هذه الآية‏:‏ ‏{‏يا أيها الذين آمنوا عليكم أنفسكم لا يضركم من ضل إذا اهتديتم‏}‏ ‏(‏‏(‏المائدة ‏:‏ 105‏)‏‏)‏ وإني سمعت رسول الله، صلى الله عليه وسلم، يقول‏:‏ “إن الناس إذا رأو الظالم فلم يأخذوا على يديه أوشك أن يعمهم الله بعقاب منه‏\"‏ ‏(‏‏(‏رواه أبو داود، والترمذي، والنسائي بأسانيد صحيحة‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Bakr As-Siddiq (May Allah bepleased with him) reported:",
+    "text": "\"O you people! You recite this Verse: 'O you who believe! Take care of your ownselves. If you follow the (right) guidance ."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

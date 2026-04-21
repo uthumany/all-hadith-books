@@ -1,0 +1,16 @@
+{
+  "id": 102,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَتَاهُ السَّائِلُ ـ وَرُبَّمَا قَالَ جَاءَهُ السَّائِلُ ـ أَوْ صَاحِبُ الْحَاجَةِ قَالَ ‏\n\"‏ اشْفَعُوا فَلْتُؤْجَرُوا، وَيَقْضِي اللَّهُ عَلَى لِسَانِ رَسُولِهِ مَا شَاءَ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Musa:",
+    "text": "Whenever a beggar or a person in need of something came to the Prophet (ﷺ) , he used to say (to his \ncompanions), \"Intercede (for him) and you will be rewarded for that, and Allah will fulfill what He \nwill through His Apostle's tongue.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 755,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، فِي هَذَا الْحَدِيثِ قَالَ فَجَعَلَتِ الْمَرْأَةُ تُعْطِي الْقُرْطَ وَالْخَاتَمَ وَجَعَلَ بِلاَلٌ يَجْعَلُهُ فِي كِسَائِهِ قَالَ فَقَسَمَهُ عَلَى فُقَرَاءِ الْمُسْلِمِينَ ‏.‏",
+  "english": {
+    "narrator": "The above mentioned tradition has also bee transmitted by Ibn 'Abbas through a different chain of narrators. This version adds:",
+    "text": "The women began to give their ear-rings and rings in alms. Bilal began to collect them in his garment. He (the Prophet) then distributed them among the poor Muslims."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

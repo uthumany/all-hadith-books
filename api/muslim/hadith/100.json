@@ -1,0 +1,16 @@
+{
+  "id": 100,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ،\n بِهَذَا الإِسْنَادِ ‏.‏ وَقَالَ فِي حَدِيثِهِ ‏\n\"‏ هَذَا يَهُودِيٌّ وَرَائِي ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Ubaidullah has reported this hadith with this chain of transmitters (and the Words are):",
+    "text": "\" There is a Jew behind me.\""
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

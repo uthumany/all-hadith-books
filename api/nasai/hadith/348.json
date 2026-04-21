@@ -1,0 +1,16 @@
+{
+  "id": 348,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ عَاصِمٍ، عَنِ الشَّعْبِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سَقَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم مِنْ زَمْزَمَ فَشَرِبَهُ وَهُوَ قَائِمٌ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Ibn Abbas said:",
+    "text": "\"I gave the Messenger of Allah some Zamzam to drink and he drank it while standing."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

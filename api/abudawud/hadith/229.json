@@ -1,0 +1,16 @@
+{
+  "id": 229,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا صَفْوَانُ بْنُ صَالِحٍ، حَدَّثَنَا الْوَلِيدُ، حَدَّثَنَا عُثْمَانُ بْنُ أَبِي الْعَاتِكَةِ، قَالَ إِنَّمَا قَالَ أَدْخُلُ كُلِّي ‏.‏ مِنْ صِغَرِ الْقُبَّةِ ‏.‏",
+  "english": {
+    "narrator": "‘Uthman b. Abu 'Atikah said :",
+    "text": "The only reason why he asked whether the whole of him should come in was because of the smallness of the tent"
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

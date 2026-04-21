@@ -1,0 +1,16 @@
+{
+  "id": 601,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عياض بن حمار رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “إن الله أوحى إلي أن تواضعوا حتى لا يفخر أحد على أحد، ولا يبغي أحد على أحد” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Iyad bin Himar (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Allah has revealed to me that you should humble yourselves to one another. One should neither hold himself above another nor transgress against another.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 32,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ هَمَّامٍ، قَالَ جَاءَ رَجُلٌ فَأَثْنَى عَلَى عُثْمَانَ فِي وَجْهِهِ فَأَخَذَ الْمِقْدَادُ بْنُ الأَسْوَدِ تُرَابًا فَحَثَا فِي وَجْهِهِ وَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا لَقِيتُمُ الْمَدَّاحِينَ فَاحْثُوا فِي وُجُوهِهِمُ التُّرَابَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Hammam said :",
+    "text": "A man came and praised ‘Uthman in his face, al-Miqdad b. Al-Aswad took dust and threw it on his face, saying : The Apostle of Allah (ﷺ) said : When you see those who are given to praising people, throw dust in their faces."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

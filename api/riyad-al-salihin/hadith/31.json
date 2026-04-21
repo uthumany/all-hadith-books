@@ -1,0 +1,16 @@
+{
+  "id": 31,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه قال‏:‏ مر النبي صلى الله عليه وسلم بامرأة تبكي عند قبر فقال ‏:‏ ‏\"‏اتقي الله واصبري‏\"‏ فقالت ‏:‏ إليك عني ، فإنك لم تصب بمصيبتي ‍‍‍‏(‏ ولم تعرفه، فقيل لها ‏:‏ إنه النبي صلى الله عليه وسلم ، فأتت باب النبي صلى الله عليه وسلم، فلم تجد عنده بوابين، فقالت‏:‏ لم أعرفك، فقال‏:‏ ‏\"‏إنما الصبر عند الصدمة الأولى‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) passed by a woman who was crying over a grave and said, \"Fear Allah and be patient.\" She said, \"Away from me! My calamity has not befallen you and you are not aware of it.\" The woman was later told that it was the Prophet (ﷺ) (who had advised her). She came to his door where she found no doorkeeper. She said, \"(I am sorry) I did not know you.\" Messenger of Allah (ﷺ) said, \"Patience is (becoming) only at the first (stroke) of grief\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

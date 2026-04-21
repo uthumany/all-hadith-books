@@ -1,0 +1,16 @@
+{
+  "id": 371,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا أَبُو النَّضْرِ، حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ أُسَامَةَ بْنِ الْهَادِ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ أَبَرَّ الْبِرِّ صِلَةُ الْمَرْءِ أَهْلَ وُدِّ أَبِيهِ بَعْدَ أَنْ يُوَلِّيَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Ibn ‘Umar reported the Messenger of Allah (May peace be upon him) as saying:",
+    "text": "One of the finest acts of kindness is for a man to treat his father’s friends in a kindly way after he has departed."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

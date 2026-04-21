@@ -1,0 +1,16 @@
+{
+  "id": 522,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ أَبِي سُفْيَانَ السَّعْدِيِّ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ ‏\n\"‏ فِي كُلِّ رَكْعَتَيْنِ تَسْلِيمَةٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated from Abu Sa’eed that the Prophet (ﷺ) said:",
+    "text": "“After\neach\ntwo Rak’ah there should be the Taslim.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

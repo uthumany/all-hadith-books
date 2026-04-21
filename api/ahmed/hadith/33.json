@@ -1,0 +1,16 @@
+{
+  "id": 33,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ أَبِيهِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا أُعْطِيكُمْ وَأَدَعُ أَهْلَ الصُّفَّةِ تَلَوَّى بُطُونُهُمْ مِنْ الْجُوعِ وَقَالَ مَرَّةً لَا أُخْدِمُكُمَا وَأَدَعُ أَهْلَ الصُّفَّةِ تَطْوَى‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Prophet (ﷺ) said: “I will not give to you and leave Ahlus-Suffah suffering from hunger.` On one occasion he said: `I shall not give you a servant and leave Ahlus-Suffah suffering from hunger.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

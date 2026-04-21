@@ -1,0 +1,16 @@
+{
+  "id": 19,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ الْمُنْكَدِرِ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتِ اسْتَأْذَنَ رَجُلٌ عَلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\"‏ بِئْسَ ابْنُ الْعَشِيرَةِ ‏\"‏ ‏.‏ أَوْ ‏\"‏ بِئْسَ رَجُلُ الْعَشِيرَةِ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ ائْذَنُوا لَهُ ‏\"‏ ‏.‏ فَلَمَّا دَخَلَ أَلاَنَ لَهُ الْقَوْلَ فَقَالَتْ عَائِشَةُ يَا رَسُولَ اللَّهِ أَلَنْتَ لَهُ الْقَوْلَ وَقَدْ قُلْتَ لَهُ مَا قُلْتَ ‏.‏ قَالَ ‏\"‏ إِنَّ شَرَّ النَّاسِ عِنْدَ اللَّهِ مَنْزِلَةً يَوْمَ الْقِيَامَةِ مَنْ وَدَعَهُ - أَوْ تَرَكَهُ - النَّاسُ لاِتِّقَاءِ فُحْشِهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "`A’isha said :",
+    "text": "A man asked permission to see the Prophet (ﷺ), and he said: He is a bad son of the tribe, or: He is a bad member of the tribe. He then said : Give him permission. Then when he entered, he spoke to him leniently. `A’isha asked : Apostle of Allah! You spoke to him leniently while you said about him what you said! He replied: The one who will have the worst position in Allah’s estimation on the Day of Resurrection will be the one whom people left alone for fear of his ribaldry."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

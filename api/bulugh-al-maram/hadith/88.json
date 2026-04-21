@@ -1,0 +1,16 @@
+{
+  "id": 88,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنِ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْحَيَاءُ مِنْ اَلْإِيمَانِ }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (24)‏، ومسلم (36)‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Haya (modesty, bashfulness etc.) is a part of Faith.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 444,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ شُعْبَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ حَارِثَةَ بْنِ مُضَرِّبٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ مَا كَانَ فِينَا فَارِسٌ يَوْمَ بَدْرٍ غَيْرُ الْمِقْدَادِ وَلَقَدْ رَأَيْتُنَا وَمَا فِينَا إِلَّا نَائِمٌ إِلَّا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَحْتَ شَجَرَةٍ يُصَلِّي وَيَبْكِي حَتَّى أَصْبَحَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "There were no horsemen among us on the day of Badr apart from al-Miqdad. I could not see any of us who was not asleep, apart from the Messenger of Allah      (ﷺ) who remained praying beneath a tree and weeping until morning."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

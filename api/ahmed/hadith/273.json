@@ -1,0 +1,16 @@
+{
+  "id": 273,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَسْوَدُ بْنُ عَامِرٍ، أَنْبَأَنَا شَرِيكٌ، عَنْ أَبِي الْحَسْنَاءِ، عَنِ الْحَكَمِ، عَنْ حَنَشٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ أَمَرَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ أُضَحِّيَ عَنْهُ فَأَنَا أُضَحِّي عَنْهُ أَبَدًا‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ)  told me to offer a sacrifice on his behalf, and I will continue to offer a sacrifice on his behalf forever."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

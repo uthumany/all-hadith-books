@@ -1,0 +1,16 @@
+{
+  "id": 652,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ قَبِيصَةَ بْنِ هُلْبٍ، - رَجُلٍ مِنْ طَيِّئٍ - عَنْ أَبِيهِ، أَنَّهُ صَلَّى مَعَ النَّبِيِّ صلى الله عليه وسلم وَكَانَ يَنْصَرِفُ عَنْ شِقَّيْهِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Hulb (Yazid) at-Ta'i:",
+    "text": "Hulb prayed along with the Prophet (ﷺ). He used to turn to both his sides (sometimes to the left and sometimes to the right)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

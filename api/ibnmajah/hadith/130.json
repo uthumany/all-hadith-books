@@ -1,0 +1,16 @@
+{
+  "id": 130,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، ح وَحَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، وَإِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، قَالَ سَمِعْتُ سَعْدَ بْنَ أَبِي وَقَّاصٍ، يَقُولُ لَقَدْ جَمَعَ لِي رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَوْمَ أُحُدٍ أَبَوَيْهِ فَقَالَ ‏\n\"‏ ارْمِ سَعْدُ فِدَاكَ أَبِي وَأُمِّي ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Sa'eed bin Musayyab said:",
+    "text": "\"I heard Sa'd bin Abu Waqqas say: 'The Messenger of Allah mentioned his parents together for me on the Day of Uhud. He said: 'Shoot, Sa'd! May my father and mother be sacrificed for you!'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 616,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرُ بْنُ عَبْدِ الْحَمِيدِ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ عِيسَى بْنِ حِطَّانَ، عَنْ مُسْلِمِ بْنِ سَلاَّمٍ، عَنْ عَلِيِّ بْنِ طَلْقٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا فَسَا أَحَدُكُمْ فِي الصَّلاَةِ فَلْيَنْصَرِفْ فَلْيَتَوَضَّأْ وَلْيُعِدْ صَلاَتَهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "‘Ali b. Talq reported the Messenger of Allah (ﷺ) as saying:",
+    "text": "When any of you breaks wind during prayer, he must withdraw, perform ablution, and repeat the prayer."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

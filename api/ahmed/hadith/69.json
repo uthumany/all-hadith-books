@@ -1,0 +1,16 @@
+{
+  "id": 69,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنِي عَلِيُّ بْنُ مُدْرِكٍ، عَنْ أَبِي زُرْعَةَ، عَنِ ابْنِ نُجَيٍّ، عَنْ أَبِيهِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا تَدْخُلُ الْمَلَائِكَةُ بَيْتًا فِيهِ جُنُبٌ وَلَا صُورَةٌ وَلَا كَلْبٌ‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Ali (رضي الله عنه) from the Prophet (ﷺ):",
+    "text": "“The angels do not enter a house in which there is a junub person or an image or a dog.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

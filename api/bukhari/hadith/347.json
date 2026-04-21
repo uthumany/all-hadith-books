@@ -1,0 +1,16 @@
+{
+  "id": 347,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا يَحْيَى، حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ مُسْلِمٍ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ خَمْسٌ قَدْ مَضَيْنَ اللِّزَامُ وَالرُّومُ وَالْبَطْشَةُ وَالْقَمَرُ وَالدُّخَانُ‏.‏",
+  "english": {
+    "narrator": "Narrated `Abdullah:",
+    "text": "Five things have passed: Al-Lizam, the defeat of the Romans, the mighty grasp, the splitting of the \nmoon, and the smoke."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

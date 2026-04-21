@@ -1,0 +1,16 @@
+{
+  "id": 669,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا فِطْرٌ، عَنْ كَثِيرِ بْنِ نَافِعٍ النَّوَّاءِ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مُلَيْلٍ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّهُ لَمْ يَكُنْ قَبْلِي نَبِيٌّ إِلَّا قَدْ أُعْطِيَ سَبْعَةَ رُفَقَاءَ نُجَبَاءَ وُزَرَاءَ وَإِنِّي أُعْطِيتُ أَرْبَعَةَ عَشَرَ حَمْزَةُ وَجَعْفَرٌ وَعَلِيٌّ وَحَسَنٌ وَحُسَيْنٌ وَأَبُو بَكْرٍ وَعُمَرُ وَالْمِقْدَادُ وَعَبْدُ اللَّهِ بْنُ مَسْعُودٍ وَأَبُو ذَرٍّ وَحُذَيْفَةُ وَسَلْمَانُ وَعَمَّارٌ وَبِلَالٌ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Katheer bin Nafi’ an-Nawwa` said:",
+    "text": "I heard ‘Abdullah bin Mulail say: I heard Ali (رضي الله عنه) say: The Messenger of Allah (ﷺ) said: `There is no Prophet who came before me but  he was given seven chiefs, advisors and nobles, but I have been given fourteen. Hamzah, Ja`far, `Ali, Hasan, Husain, Abu Bakr, ʻUmar, al-Miqdad, Hudhaifah, Salman, `Ammar and Bilal”. (رضي الله عنهم)"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

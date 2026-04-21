@@ -1,0 +1,16 @@
+{
+  "id": 125,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ حَمَّادٍ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلاً، كَانَ يَسُبُّ أَبَا بَكْرٍ وَسَاقَ نَحْوَهُ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ رَوَاهُ صَفْوَانُ بْنُ عِيسَى عَنِ ابْنِ عَجْلاَنَ، كَمَا قَالَ سُفْيَانُ ‏.‏",
+  "english": {
+    "narrator": "The tradition mentioned above has also been transmitted by Abu Hurairah through a different chain of narrators. This version has:",
+    "text": "A man was reviling Abu Bakr. He then mentioned the rest of the tradition in a similar manner.\n\n\nAbu Dawud said: Similarly, it has been transmitted by Safwan b. ‘Isa, from Ibn ‘Affan, as Sufyan said."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

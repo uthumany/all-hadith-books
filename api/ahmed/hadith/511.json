@@ -1,0 +1,16 @@
+{
+  "id": 511,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا شُعْبَةُ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ مَسْعُودِ بْنِ الْحَكَمِ، عَنْ عَلِيٍّ، قَالَ قَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِلْجَنَازَةِ فَقُمْنَا ثُمَّ جَلَسَ فَجَلَسْنَا‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) stood up for funerals, so we stood up; then he sat down, so we sat down."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

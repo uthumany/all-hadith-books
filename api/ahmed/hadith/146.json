@@ -1,0 +1,16 @@
+{
+  "id": 146,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو أَحْمَدَ، حَدَّثَنَا شَرِيكٌ، عَنْ عِمْرَانَ بْنِ ظَبْيَانَ، عَنْ أَبِي تِحْيَى، قَالَ لَمَّا ضَرَبَ ابْنُ مُلْجِمٍ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ الضَّرْبَةَ قَالَ عَلِيٌّ افْعَلُوا بِهِ كَمَا أَرَادَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يَفْعَلَ بِرَجُلٍ أَرَادَ قَتْلَهُ فَقَالَ اقْتُلُوهُ ثُمَّ حَرِّقُوهُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Tihya said:",
+    "text": "When Ibn Muljim struck `Ali (رضي الله عنه), ‘Ali said: Do with him what the Messenger of Allah (ﷺ)  wanted to be done with a man who wanted to kill him. He said: `Kill him, then burn him.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

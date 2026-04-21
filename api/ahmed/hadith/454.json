@@ -1,0 +1,16 @@
+{
+  "id": 454,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ ذِي، حُدَّانَ حَدَّثَنِي مَنْ، سَمِعَ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ سَمَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْحَرْبَ خَدْعَةً‏.‏",
+  "english": {
+    "narrator": "It was narrated from Sa’eed bin Dhi Huddan:",
+    "text": "Someone who heard ‘Ali (رضي الله عنه) told me that he said: The Messenger of Allah (ﷺ) called war deceit."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

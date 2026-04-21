@@ -1,0 +1,16 @@
+{
+  "id": 366,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَفِي رِوَايَةٍ لَهُ: { مَنْ يَهْدِه ِ  1‏ اَللَّهُ فَلَا مُضِلَّ لَهُ, وَمَنْ يُضْلِلْ فَلَا هَادِيَ لَهُ }   2‏ .‏‏1 ‏- في الأصلين: \"يهدي\" وهو خطأ لا شك، وصوابه \"يهد\" بحذف الياء، وما أثبته من \"الصحيح\".‏‏2 ‏- صحيح، والحديث برواياته رواه مسلم (867)‏.‏",
+  "english": {
+    "narrator": "And in another narration from Muslim:",
+    "text": "\"Whoever Allah guides, no one can lead astray; and whoever Allah leads astray, no one can guide him.\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ لِلَّهِ تِسْعَةً وَتِسْعِينَ اسْمًا مِائَةً إِلاَّ وَاحِدًا، مَنْ أَحْصَاهَا دَخَلَ الْجَنَّةَ ‏\"‏‏.‏ ‏{‏أَحْصَيْنَاهُ‏}‏ حَفِظْنَاهُ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "Allah's Messenger (ﷺ) said, \"Allah has ninety-nine Names, one-hundred less one; and he who memorized \nthem all by heart will enter Paradise.\" To count something means to know it by heart."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

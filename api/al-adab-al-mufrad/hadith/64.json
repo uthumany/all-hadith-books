@@ -1,0 +1,16 @@
+{
+  "id": 64,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا مُحَمَّدٌ، قَالَ‏:‏ أَخْبَرَنَا عَبْدُ اللهِ، قَالَ‏:‏ أَخْبَرَنَا حَيْوَةُ بْنُ شُرَيْحٍ قَالَ‏:‏ حَدَّثَنِي زِيَادُ بْنُ عُبَيْدٍ، بَطْنٌ مِنْ حِمْيَرٍ، قَالَ‏:‏ دَخَلْنَا عَلَى رُوَيْفِعٍ، وَكَانَ أَمِيرًا عَلَى أَنْطَابُلُسَ، فَجَاءَ رَجُلٌ فَسَلَّمَ عَلَيْهِ، وَنَحْنُ عِنْدَهُ، فَقَالَ‏:‏ السَّلاَمُ عَلَيْكَ أَيُّهَا الأَمِيرُ، فَقَالَ لَهُ رُوَيْفِعٌ‏:‏ لَوْ سَلَّمْتَ عَلَيْنَا لَرَدَدْنَا عَلَيْكَ السَّلاَمَ، وَلَكِنْ إِنَّمَا سَلَّمْتَ عَلَى مَسْلَمَةَ بْنِ مَخْلَدٍ، وَكَانَ مَسْلَمَةُ عَلَى مِصْرَ، اذْهَبْ إِلَيْهِ فَلْيَرُدَّ عَلَيْكَ السَّلاَمَ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Ziyad ibn 'Ubayd (ar-Ru'ayni) said, \"We went to Ruwayfa', the\nAmir of Antabulis. A man came and greeted him, saying, 'Peace be upon the\nAmir.' From 'Abda, he said, 'Peace be upon the Amir.' Ruwayfa' said to\nhim, 'If you had greeted us, we would have returned the greeting. But you\ngreeted Maslama ibn Mukhallad (Maslama was in charge of Egypt). Go to him\nand he will return your greeting.'\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

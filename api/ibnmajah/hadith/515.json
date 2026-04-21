@@ -1,0 +1,16 @@
+{
+  "id": 515,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ الضَّحَّاكِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا صَفْوَانُ بْنُ عَمْرٍو، عَنْ يَزِيدَ بْنِ خُمَيْرٍ، عَنْ عَبْدِ اللَّهِ بْنِ بُسْرٍ، أَنَّهُ خَرَجَ مَعَ النَّاسِ يَوْمَ فِطْرٍ أَوْ أَضْحًى فَأَنْكَرَ إِبْطَاءَ الإِمَامِ وَقَالَ إِنْ كُنَّا لَقَدْ فَرَغْنَا سَاعَتَنَا هَذِهِ وَذَلِكَ حِينَ التَّسْبِيحِ ‏.‏",
+  "english": {
+    "narrator": "Yazid\nbin Khumair narrated that ‘Abdullah bin Busr went out with the\npeople on the Day of Fitr or Adha, and he objected to the Imam’s\ndelay. He said:",
+    "text": "“We would have finished by this time.” And that\nwas\nthe time of Tasbih."
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

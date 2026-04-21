@@ -1,0 +1,16 @@
+{
+  "id": 89,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ مِمَّا أَدْرَكَ اَلنَّاسُ مِنْ كَلَامِ اَلنُّبُوَّةِ اَلْأُولَى: إِذَا لَمْ تَسْتَحِ, فَاصْنَعْ مَا شِئْتَ }  أَخْرَجَهُ اَلْبُخَارِيُّ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6120)‏ وأما قول صاحب\" السبل\" بأن لفظ\" الأولى\" ليس في البخاري، فهو من أوهامه.‏",
+  "english": {
+    "narrator": "Ibn Mas’ud (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“One of the things people have learned from the words of the earliest prophecies is, “If you don’t feel any shame, do whatever you like.” Related by Al-Bukhari."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

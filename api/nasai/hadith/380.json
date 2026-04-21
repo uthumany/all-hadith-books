@@ -1,0 +1,16 @@
+{
+  "id": 380,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، وَعَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ سَلاَّمٍ، قَالاَ حَدَّثَنَا إِسْحَاقُ الأَزْرَقُ، عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ عَبْدِ الْعَزِيزِ بْنِ رُفَيْعٍ، قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ فَقُلْتُ أَخْبِرْنِي بِشَىْءٍ، عَقَلْتَهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَيْنَ صَلَّى الظُّهْرَ يَوْمَ التَّرْوِيَةِ قَالَ بِمِنًى ‏.‏ فَقُلْتُ أَيْنَ صَلَّى الْعَصْرَ يَوْمَ النَّفْرِ قَالَ بِالأَبْطَحِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abdul-Aziz bin Rafi said:",
+    "text": "\"I asked anas bin Malik: 'Tell me of something that you learned from the Messenger of Allah; where did he pray Zuhr on the day of At-Tarwiyah?' He said: 'In Mina.' I said: 'Where did he pray Asr on the day of An-Nafr?' He said: 'In Al-Abtah.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 199,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عن أبي هريرة ، رضي الله عنه ، أن رسول الله صلى الله عليه وسلم قال‏:‏ “آية المنافق ثلاث‏:‏ إذا حدث كذب، وإذا وعد أخلف، وإذا أؤتمن خان‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah bepleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"There are three signs of a hypocrite: When he speaks, he lies; when he makes a promise, he breaks it; and when he is trusted, he betrays his trust.\".Another narration adds the words: 'Even if he observes fasts, performs Salat and asserts that he is a Muslim\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

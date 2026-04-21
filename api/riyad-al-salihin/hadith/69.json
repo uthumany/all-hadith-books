@@ -1,0 +1,16 @@
+{
+  "id": 69,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وأما الأحاديث فالأول‏:‏ عن أبي هريرة رضي الله عنه قال‏:‏ قيل ‏:‏ يا رسول الله من أكرم الناس‏؟‏ قال‏:‏ ‏\"‏أتقاهم‏\"‏‏.‏ فقالوا‏:‏ ليس عن هذا نسألك، قال‏:‏ ‏\"‏ فيوسف نبي الله بن نبي الله بن نبي الله بن خليل الله‏\"‏ قالوا‏:‏ ليس عن هذا نسألك، قال‏:‏ ‏\"‏فعن معادن العرب تسألوني‏؟‏ خيارهم في الجاهلية خيارهم في الإسلام إذا فقهواً ‏:‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "It was asked, \"O Messenger of Allah! Who is the most honourable amongst mankind?\" He (ﷺ) said, \"The most honourable of them is one who is the most pious of them.\" They said, \"We are not asking about this\". He said, \"Then, the most honourable of men was Yusuf (Joseph), the Prophet of Allah, the son of Allah's Prophet, who was the son of the Prophet of Allah, who was the son of the Khalil of Allah (i.e., Ibrahim (ﷺ))' They said, \"We are not asking you about this.\" He enquired, \"Are you then asking me about the classes of the Arabs? The best of them in the Pre- Islamic Period of Ignorance are the best of them in Islam, provided they comprehend the religious knowledge\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

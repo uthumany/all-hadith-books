@@ -1,0 +1,16 @@
+{
+  "id": 250,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ : { حَفِظْتُ مِنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-عَشْرَ رَكَعَاتٍ : رَكْعَتَيْنِ قَبْلَ اَلظُّهْرِ , وَرَكْعَتَيْنِ بَعْدَهَا , وَرَكْعَتَيْنِ بَعْدَ اَلْمَغْرِبِ فِي بَيْتِهِ , وَرَكْعَتَيْنِ بَعْدَ اَلْعِشَاءِ فِي بَيْتِهِ , وَرَكْعَتَيْنِ قَبْلَ اَلصُّبْحِ }  مُتَّفَقٌ عَلَيْهِ .‏  1‏‏1 ‏- صحيح .‏ رواه البخاري ( 1180 )‏ ، ومسلم ( 729 )‏ ، واللفظ للبخاري .‏",
+  "english": {
+    "narrator": "Narrated Ibn 'Umar (RA):",
+    "text": "I memorized from the Prophet (ﷺ) ten (voluntary) Rak'at - two Rak'at before the Zuhr prayer and two after it; two Rak'at after Maghrib prayer in his house, and two Rak'at after 'Isha' prayer in his house, and two Rak'at before the Fajr prayer.\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

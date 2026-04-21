@@ -1,0 +1,510 @@
+{
+  "page": 23,
+  "perPage": 50,
+  "totalPages": 116,
+  "totalCount": 5768,
+  "nextPage": 24,
+  "prevPage": 22,
+  "items": [
+    {
+      "id": 71,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْحَكَمِ، عَنْ شُعَيْبٍ، عَنِ اللَّيْثِ، قَالَ أَنْبَأَنَا ابْنُ الْهَادِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ، عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ عَبَّاسِ بْنِ عَبْدِ الْمُطَّلِبِ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِذَا سَجَدَ الْعَبْدُ سَجَدَ مَعَهُ سَبْعَةُ آرَابٍ وَجْهُهُ وَكَفَّاهُ وَرُكْبَتَاهُ وَقَدَمَاهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abbas bin 'Abdul-Muttalib that:",
+        "text": "He heard the Messenger of Allah (ﷺ) say: \"When a person prostrates, seven parts of his body prostrate with him: his forehead, his two hands, his two knees and his two feet.\""
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدَةُ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ عَائِشَةَ، قَالَتْ فَقَدْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ فَانْتَهَيْتُ إِلَيْهِ وَهُوَ سَاجِدٌ وَقَدَمَاهُ مَنْصُوبَتَانِ وَهُوَ يَقُولُ ‏\n\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ وَبِكَ مِنْكَ لاَ أُحْصِي ثَنَاءً عَلَيْكَ أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I noticed the Messenger of Allah (ﷺ) was missing one night, and I found him when he was prostrating with his feet held upright, and he was saying: 'Allahumma, inni a'udhu biridaka min sakhatik, wa bimu'afatika min 'uqubatik, wa bika minka la uhsi thana'an 'alaika anta kama athnaita 'ala nafsik (O Allah, I seek refuge with Your pleasure from Your wrath, in Your forgiveness from Your punishment and in You from You. I cannot praise You enough, You are as You have praised Yourself.)\""
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ عَطَاءٍ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَهْوَى إِلَى الأَرْضِ سَاجِدًا جَافَى عَضُدَيْهِ عَنْ إِبْطَيْهِ وَفَتَخَ أَصَابِعَ رِجْلَيْهِ ‏.‏ مُخْتَصَرٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Humaid As-Sa'idi said:",
+        "text": "\"When the Prophet (ﷺ) fell to the ground during prostration, he held his arms away from his sides and bent his toes.\""
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي أَحْمَدُ بْنُ نَاصِحٍ، قَالَ حَدَّثَنَا ابْنُ إِدْرِيسَ، قَالَ سَمِعْتُ عَاصِمَ بْنَ كُلَيْبٍ، يَذْكُرُ عَنْ أَبِيهِ، عَنْ وَائِلِ بْنِ حُجْرٍ، قَالَ قَدِمْتُ الْمَدِينَةَ فَقُلْتُ لأَنْظُرَنَّ إِلَى صَلاَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَكَبَّرَ وَرَفَعَ يَدَيْهِ حَتَّى رَأَيْتُ إِبْهَامَيْهِ قَرِيبًا مِنْ أُذُنَيْهِ فَلَمَّا أَرَادَ أَنْ يَرْكَعَ كَبَّرَ وَرَفَعَ يَدَيْهِ ثُمَّ رَفَعَ رَأْسَهُ فَقَالَ ‏\n\"‏ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ ‏\"‏ ‏.‏ ثُمَّ كَبَّرَ وَسَجَدَ فَكَانَتْ يَدَاهُ مِنْ أُذُنَيْهِ عَلَى الْمَوْضِعِ الَّذِي اسْتَقْبَلَ بِهِمَا الصَّلاَةَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Wa'il bin Hujr said:",
+        "text": "\"I came to Al-Madinah and said: 'I am going to watch the Messenger of Allah (ﷺ) pray. He said the takbir and raised his hands until I saw his thumbs near his ears. When he wanted to bow, he said the takbir and raised his hands. Then he raised his head and said: 'Sami Allahu liman hamidah (Allah hears the one who praises Him).' Then he said the takbir and prostrated, and his hands were in the same position in relation to his ears as when he started the prayer.\""
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ هَارُونَ - قَالَ حَدَّثَنَا أَبُو الْعَلاَءِ، - وَاسْمُهُ أَيُّوبُ بْنُ أَبِي مِسْكِينٍ - عَنْ قَتَادَةَ، عَنْ أَنَسٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَفْتَرِشْ أَحَدُكُمْ ذِرَاعَيْهِ فِي السُّجُودِ افْتِرَاشَ الْكَلْبِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Anas that:",
+        "text": "The Messenger of Allah (ﷺ) said: \"Do not rest your forearms on the ground like a dog when prostrating.\""
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ الْمَرْوَزِيُّ، قَالَ أَنْبَأَنَا شَرِيكٌ، عَنْ أَبِي إِسْحَاقَ، قَالَ وَصَفَ لَنَا الْبَرَاءُ السُّجُودَ فَوَضَعَ يَدَيْهِ بِالأَرْضِ وَرَفَعَ عَجِيزَتَهُ وَقَالَ هَكَذَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَفْعَلُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Ishaq said:",
+        "text": "\"Al-Bara' described the prostration to us. He places his hands on the ground and raised his posterior and said: 'This is what I saw the Messenger of Allah (ﷺ) doing.\""
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدَةُ بْنُ عَبْدِ الرَّحِيمِ الْمَرْوَزِيُّ، قَالَ أَنْبَأَنَا ابْنُ شُمَيْلٍ، - هُوَ النَّضْرُ - قَالَ أَنْبَأَنَا يُونُسُ بْنُ أَبِي إِسْحَاقَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا صَلَّى جَخَّى ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Al-Bara' that:",
+        "text": "When the Messenger of Allah (ﷺ) prayed he would Jakhkha."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا بَكْرٌ، عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنِ الأَعْرَجِ، عَنْ عَبْدِ اللَّهِ بْنِ مَالِكِ ابْنِ بُحَيْنَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا صَلَّى فَرَّجَ بَيْنَ يَدَيْهِ حَتَّى يَبْدُوَ بَيَاضُ إِبْطَيْهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abdullah bin Malik bin Buhainah that:",
+        "text": "When the Messenger of Allah (ﷺ) prayed he held his arms out so much that the whiteness of his armpits appeared."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، قَالَ حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ، عَنْ عِمْرَانَ، عَنْ أَبِي مِجْلَزٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ لَوْ كُنْتُ بَيْنَ يَدَىْ رَسُولِ اللَّهِ صلى الله عليه وسلم لأَبْصَرْتُ إِبْطَيْهِ ‏.‏ قَالَ أَبُو مِجْلَزٍ كَأَنَّهُ قَالَ ذَلِكَ لأَنَّهُ فِي صَلاَةٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"If I were in front of the Messenger of Allah (ﷺ) I would be able to see the whiteness of his armpits.\" (One of the narrators) Abu Mijlaz said: \"It is as if he said that because he was praying.\""
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنَا دَاوُدُ بْنُ قَيْسٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ أَقْرَمَ، عَنْ أَبِيهِ، قَالَ صَلَّيْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَكُنْتُ أَرَى عُفْرَةَ إِبْطَيْهِ إِذَا سَجَدَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Ubaidullah bin Abdullah bin Aqram that his father said:",
+        "text": "\"I prayed with the Messenger of Allah (ﷺ) and I used to see the whiteness of his armpits when he prostrated.\""
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ، - وَهُوَ ابْنُ عَبْدِ اللَّهِ بْنِ الأَصَمِّ - عَنْ عَمِّهِ، يَزِيدَ - وَهُوَ ابْنُ الأَصَمِّ - عَنْ مَيْمُونَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا سَجَدَ جَافَى يَدَيْهِ حَتَّى لَوْ أَنَّ بَهْمَةً أَرَادَتْ أَنْ تَمُرَّ تَحْتَ يَدَيْهِ مَرَّتْ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Maimunah that:",
+        "text": "When the Prophet (ﷺ) prostrated he would hold his arms out from his sides so that if a lamb wanted to pass beneath his arms it would be able to do so."
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدَةُ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، ح وَأَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، عَنْ خَالِدٍ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، قَالَ سَمِعْتُ أَنَسًا، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ اعْتَدِلُوا فِي السُّجُودِ وَلاَ يَبْسُطْ أَحَدُكُمْ ذِرَاعَيْهِ انْبِسَاطَ الْكَلْبِ ‏\"‏ ‏.‏ اللَّفْظُ لإِسْحَاقَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Qatadah said:",
+        "text": "\"I heard Anas (narrate) that the Messenger of Allah (ﷺ) said: 'Be moderate in prostration and do not rest your forearms along the ground like a dog.'\""
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ الْمَرْوَزِيُّ، قَالَ أَنْبَأَنَا عِيسَى، - وَهُوَ ابْنُ يُونُسَ - عَنِ الأَعْمَشِ، عَنْ عُمَارَةَ، عَنْ أَبِي مَعْمَرٍ، عَنْ أَبِي مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تُجْزِئُ صَلاَةٌ لاَ يُقِيمُ الرَّجُلُ فِيهَا صُلْبَهُ فِي الرُّكُوعِ وَالسُّجُودِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Mas'ud said:",
+        "text": "\"The Messenger of Allah (ﷺ) said: 'No prayer is valid in which a man does not maintain his back (at ease) when bowing and prostrating.'\""
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْحَكَمِ، عَنْ شُعَيْبٍ، عَنِ اللَّيْثِ، قَالَ حَدَّثَنَا خَالِدٌ، عَنِ ابْنِ أَبِي هِلاَلٍ، عَنْ جَعْفَرِ بْنِ عَبْدِ اللَّهِ، أَنَّ تَمِيمَ بْنَ مَحْمُودٍ، أَخْبَرَهُ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ شِبْلٍ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ ثَلاَثٍ عَنْ نَقْرَةِ الْغُرَابِ وَافْتِرَاشِ السَّبُعِ وَأَنْ يُوَطِّنَ الرَّجُلُ الْمُقَامَ لِلصَّلاَةِ كَمَا يُوَطِّنُ الْبَعِيرُ ‏.‏",
+      "english": {
+        "narrator": "'Abdur-Rahman bin Shibl said:",
+        "text": "The Messenger of Allah (ﷺ) forbade three things: \"Pecking like a crow, resting one's forearms on the ground like a predator, and allocating the same place for prayer like a camel gets used to a certain place.\""
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ الْبَصْرِيُّ، عَنْ يَزِيدَ، - وَهُوَ ابْنُ زُرَيْعٍ - قَالَ حَدَّثَنَا شُعْبَةُ، وَرَوْحٌ، - يَعْنِي ابْنَ الْقَاسِمِ - عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أُمِرْتُ أَنْ أَسْجُدَ عَلَى سَبْعَةٍ وَلاَ أَكُفَّ شَعْرًا وَلاَ ثَوْبًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas that :",
+        "text": "The Messenger of Allah (ﷺ) said: \"I have been commanded to prostrate on seven and not to tuck up my hair or garment.\""
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ سَوَّادِ بْنِ الأَسْوَدِ بْنِ عَمْرٍو السَّرْحِيُّ، - مِنْ وَلَدِ عَبْدِ اللَّهِ بْنِ سَعْدِ بْنِ أَبِي سَرْحٍ - قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَنْبَأَنَا عَمْرُو بْنُ الْحَارِثِ، أَنَّ بُكَيْرًا، حَدَّثَهُ أَنَّ كُرَيْبًا مَوْلَى ابْنِ عَبَّاسٍ حَدَّثَهُ عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّهُ رَأَى عَبْدَ اللَّهِ بْنَ الْحَارِثِ يُصَلِّي وَرَأْسُهُ مَعْقُوصٌ مِنْ وَرَائِهِ فَقَامَ فَجَعَلَ يَحُلُّهُ فَلَمَّا انْصَرَفَ أَقْبَلَ إِلَى ابْنِ عَبَّاسٍ فَقَالَ مَا لَكَ وَرَأْسِي قَالَ إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِنَّمَا مَثَلُ هَذَا مَثَلُ الَّذِي يُصَلِّي وَهُوَ مَكْتُوفٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Abbas that:",
+        "text": "He saw 'Abdullah bin Al-Harith praying with his hair bound behind him. He stopped and started to undo it. When he finished he turned to Ibn 'Abbas and said: \"What were you doing to my head?\" He said: \"I heard the Messenger of Allah (ﷺ) say: 'The likeness of this is that of one who prays with his hands tie behind his neck.'\""
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ الْمَكِّيُّ، عَنْ سُفْيَانَ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أُمِرَ النَّبِيُّ صلى الله عليه وسلم أَنْ يَسْجُدَ عَلَى سَبْعَةِ أَعْظُمٍ وَنُهِيَ أَنْ يَكُفَّ الشَّعْرَ وَالثِّيَابَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "\"The Prophet (ﷺ) was commanded to prostrate on seven bones and was forbidden to tuck up his hair and garment.\""
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ خَالِدِ بْنِ عَبْدِ الرَّحْمَنِ، - هُوَ السَّلَمِيُّ - قَالَ حَدَّثَنِي غَالِبٌ الْقَطَّانُ، عَنْ بَكْرِ بْنِ عَبْدِ اللَّهِ الْمُزَنِيِّ، عَنْ أَنَسٍ، قَالَ كُنَّا إِذَا صَلَّيْنَا خَلْفَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِالظَّهَائِرِ سَجَدْنَا عَلَى ثِيَابِنَا اتِّقَاءَ الْحَرِّ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "\"When he prayed Zuhr behind the Messenger of Allah (ﷺ) we would prostrate on our garments because of the heat.\""
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدَةُ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَتِمُّوا الرُّكُوعَ وَالسُّجُودَ فَوَاللَّهِ إِنِّي لأَرَاكُمْ مِنْ خَلْفِ ظَهْرِي فِي رُكُوعِكُمْ وَسُجُودِكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Anas that:",
+        "text": "The Messenger of Allah (ﷺ) said: \"Bow and prostrate properly, for by Allah (SWT) I can see you from behind my back when you bow and prostrate.\""
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَبُو دَاوُدَ، سُلَيْمَانُ بْنُ سَيْفٍ قَالَ حَدَّثَنَا أَبُو عَلِيٍّ الْحَنَفِيُّ، وَعُثْمَانُ بْنُ عُمَرَ، قَالَ أَبُو عَلِيٍّ حَدَّثَنَا وَقَالَ، عُثْمَانُ أَنْبَأَنَا دَاوُدُ بْنُ قَيْسٍ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ حُنَيْنٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، - رضى الله عنه - قَالَ نَهَانِي حِبِّي صلى الله عليه وسلم عَنْ ثَلاَثٍ - لاَ أَقُولُ نَهَى النَّاسَ - نَهَانِي عَنْ تَخَتُّمِ الذَّهَبِ وَعَنْ لُبْسِ الْقَسِّيِّ وَعَنِ الْمُعَصْفَرِ الْمُفَدَّمَةِ وَلاَ أَقْرَأُ سَاجِدًا وَلاَ رَاكِعًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Ali bin Abi Talib said:",
+        "text": "\"My beloved (ﷺ) forbade me from doing three things, but I do not say that he forbade the people. He forbade me from wearing gold rings, wearing Qassi, wearing clothes dyed with safflower Mufaddamah, and from reciting the Quran when prostrating or bowing."
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، ح وَالْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي إِبْرَاهِيمُ بْنُ عَبْدِ اللَّهِ، أَنَّ أَبَاهُ، حَدَّثَهُ أَنَّهُ، سَمِعَ عَلِيًّا، قَالَ نَهَانِي رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ أَقْرَأَ رَاكِعًا أَوْ سَاجِدًا ‏.‏",
+      "english": {
+        "narrator": "'Ali said:",
+        "text": "\"The Messenger of Allah (ﷺ) forbade me from reciting the Quran when bowing or prostrating.\""
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ الْمَرْوَزِيُّ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، - هُوَ ابْنُ جَعْفَرٍ - قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ سُحَيْمٍ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ مَعْبَدِ بْنِ عَبَّاسٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، قَالَ كَشَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم السِّتْرَ وَرَأْسُهُ مَعْصُوبٌ فِي مَرَضِهِ الَّذِي مَاتَ فِيهِ فَقَالَ ‏\n\"‏ اللَّهُمَّ قَدْ بَلَّغْتُ - ثَلاَثَ مَرَّاتٍ - إِنَّهُ لَمْ يَبْقَ مِنْ مُبَشِّرَاتِ النُّبُوَّةِ إِلاَّ الرُّؤْيَا الصَّالِحَةُ يَرَاهَا الْعَبْدُ أَوْ تُرَى لَهُ أَلاَ وَإِنِّي قَدْ نُهِيتُ عَنِ الْقِرَاءَةِ فِي الرُّكُوعِ وَالسُّجُودِ فَإِذَا رَكَعْتُمْ فَعَظِّمُوا رَبَّكُمْ وَإِذَا سَجَدْتُمْ فَاجْتَهِدُوا فِي الدُّعَاءِ فَإِنَّهُ قَمِنٌ أَنْ يُسْتَجَابَ لَكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah bin 'Abbas said:",
+        "text": "\"The Messenger of Allah (ﷺ) drew aside the curtain when he had a cloth wrapped around his head during his final illness, and said: 'O Allah, I have conveyed (the Message)' three times. 'There is nothing left of the features of Prophethood except a good dream that a person sees or is seen by others for him. But I have been forbidden to recite the Qur'an when bowing and prostrating, so when you bow, then glorify your Lord and when you prostrate, then strive hard in supplication, for it is more deserving of a response.'\""
+      }
+    },
+    {
+      "id": 93,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي الأَحْوَصِ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ أَبِي رِشْدِينَ، - وَهُوَ كُرَيْبٌ - عَنِ ابْنِ عَبَّاسٍ، قَالَ بِتُّ عِنْدَ خَالَتِي مَيْمُونَةَ بِنْتِ الْحَارِثِ وَبَاتَ رَسُولُ اللَّهِ صلى الله عليه وسلم عِنْدَهَا فَرَأَيْتُهُ قَامَ لِحَاجَتِهِ فَأَتَى الْقِرْبَةَ فَحَلَّ شِنَاقَهَا ثُمَّ تَوَضَّأَ وُضُوءًا بَيْنَ الْوُضُوءَيْنِ ثُمَّ أَتَى فِرَاشَهُ فَنَامَ ثُمَّ قَامَ قَوْمَةً أُخْرَى فَأَتَى الْقِرْبَةَ فَحَلَّ شِنَاقَهَا ثُمَّ تَوَضَّأَ وُضُوءًا هُوَ الْوُضُوءُ ثُمَّ قَامَ يُصَلِّي وَكَانَ يَقُولُ فِي سُجُودِهِ ‏\n\"‏ اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا وَاجْعَلْ فِي سَمْعِي نُورًا وَاجْعَلْ فِي بَصَرِي نُورًا وَاجْعَلْ مِنْ تَحْتِي نُورًا وَاجْعَلْ مِنْ فَوْقِي نُورًا وَعَنْ يَمِينِي نُورًا وَعَنْ يَسَارِي نُورًا وَاجْعَلْ أَمَامِي نُورًا وَاجْعَلْ خَلْفِي نُورًا وَأَعْظِمْ لِي نُورًا ‏\"‏ ‏.‏ ثُمَّ نَامَ حَتَّى نَفَخَ فَأَتَاهُ بِلاَلٌ فَأَيْقَظَهُ لِلصَّلاَةِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "\"I stayed overnight with my maternal aunt Maimunah bin Al-Harith, and the Messenger of Allah (ﷺ) stayed overnight with her. I saw him get up to relieve himself and he went to the waterskin and undid its string, then he performed wudu and that was moderate (in the amount of water used). Then he went to his bed and slept. Then he got up again and went to the waterskin and undid its string, and performed wudu again, like the first time. Then he stood and prayed, and when he prostrated he said: 'Allahummaj'al fi qalbi nuran waj'al fi sami' nuran waj'al fi basri nuran, waj'al min tahti nuran waj'al min fawqi nuran, wa 'an yamii nuran wa 'an yasari nuran waj'al amami nuran, waj'al khalfi nuran wa a'zimli nura (O Allah, place light in my heart, and place light in my hearing, and place light in my seeing, and place light beneath me, and place light above me, and light on my right, and light on my left, and place light behind me, and make the light greater for me.') Then he slept until he started to snore, then Bilal came and woke him up for the prayer.\""
+      }
+    },
+    {
+      "id": 94,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُفْيَانَ، عَنْ مَنْصُورٍ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ فِي رُكُوعِهِ وَسُجُودِهِ ‏\n\"‏ سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْ لِي ‏\"‏ ‏.‏ يَتَأَوَّلُ الْقُرْآنَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Messenger of Allah (ﷺ) used to say when bowing and prostrating: 'Subhanakallahumma, Rabbana wa bihamdik. Allahumma-ghfirli (Glory be to You O Allah, Our Lord, and praise. O Allah, forgive me,\" following the command of the Quran."
+      }
+    },
+    {
+      "id": 95,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ مَنْصُورٍ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ فِي رُكُوعِهِ وَسُجُودِهِ ‏\n\"‏ سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْ لِي ‏\"‏ ‏.‏ يَتَأَوَّلُ الْقُرْآنَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Messenger of Allah (ﷺ) used to say when bowing and prostrating: 'Subhanaka Allahumma, Rabbana wa bihamdik. Allahumma-ghfirli (Glory be to You O Allah, Our Lord, and praise. O Allah, forgive me,\" following the command of the Quran."
+      }
+    },
+    {
+      "id": 96,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ هِلاَلِ بْنِ يِسَافٍ، قَالَ قَالَتْ عَائِشَةُ رضى الله عنها فَقَدْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم مِنْ مَضْجَعِهِ فَجَعَلْتُ أَلْتَمِسُهُ وَظَنَنْتُ أَنَّهُ أَتَى بَعْضَ جَوَارِيهِ فَوَقَعَتْ يَدِي عَلَيْهِ وَهُوَ سَاجِدٌ وَهُوَ يَقُولُ ‏\n\"‏ اللَّهُمَّ اغْفِرْ لِي مَا أَسْرَرْتُ وَمَا أَعْلَنْتُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Aishah said:",
+        "text": "\"I noticed that the Messenger of Allah (ﷺ) was missing from bed, so I started to look for him, and I thought that he had gone to one of his concubines. Then my hand fell on him when he was prostrating and saying: \"Allahummaghfirli ma asrartu wa ma a'lant (O Allah, forgive me for what (sin) I have concealed and what I have done openly).'\""
+      }
+    },
+    {
+      "id": 97,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ هِلاَلِ بْنِ يِسَافٍ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ فَقَدْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَظَنَنْتُ أَنَّهُ أَتَى بَعْضَ جَوَارِيهِ فَطَلَبْتُهُ فَإِذَا هُوَ سَاجِدٌ يَقُولُ ‏\n\"‏ رَبِّ اغْفِرْ لِي مَا أَسْرَرْتُ وَمَا أَعْلَنْتُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Aishah said:",
+        "text": "\"I noticed that the Messenger of Allah (ﷺ) was missing and I thought he had gone to visit one of his concubines, so I looked for him and found him prostrating and saying: 'Rabbighfirli ma asrartu wa ma a'lant (O Allah, forgive me for what (sin) I have concealed and what I have done openly).'\""
+      }
+    },
+    {
+      "id": 98,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، - هُوَ ابْنُ مَهْدِيٍّ - قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي سَلَمَةَ، قَالَ حَدَّثَنِي عَمِّي الْمَاجِشُونُ بْنُ أَبِي سَلَمَةَ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ، عَنْ عَلِيٍّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا سَجَدَ يَقُولُ ‏\n\"‏ اللَّهُمَّ لَكَ سَجَدْتُ وَلَكَ أَسْلَمْتُ وَبِكَ آمَنْتُ سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَصَوَّرَهُ فَأَحْسَنَ صُورَتَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Ali that:",
+        "text": "When the Messenger of Allah (ﷺ) prostrated he would say: \"Allahumma laka sajadtu wa laka aslamtu wa bika amantu sajada wajhi lilladhi khalaqahu wa sawwarahu fa ahsana suratahu wa shaqqa sam'ahu wa basarahu, tabarak Allahu ahsanul-khaliqin ( O Allah, to You I have prostrated and to You I have submitted, and in You I have believed. My face has prostrated to the One Who created it and shaped it and shaped it well, and brought forth its hearing and sight. Blessed be Allah the best of Creators.)\""
+      }
+    },
+    {
+      "id": 99,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَحْيَى بْنُ عُثْمَانَ، قَالَ أَنْبَأَنَا أَبُو حَيْوَةَ، قَالَ حَدَّثَنَا شُعَيْبُ بْنُ أَبِي حَمْزَةَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم كَانَ يَقُولُ فِي سُجُودِهِ ‏\n\"‏ اللَّهُمَّ لَكَ سَجَدْتُ وَبِكَ آمَنْتُ وَلَكَ أَسْلَمْتُ وَأَنْتَ رَبِّي سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَصَوَّرَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir bin 'Abdullah that:",
+        "text": "The Prophet (ﷺ) used to say when prostrating: \"Allahumma laka sajadtu wa laka aslamtu wa anta Rabbi, sajada wajhi lilladhi khalaqahu wa sawwarahu wa shaqqa sam'ahu wa basarahu, tabarak Allahu ahsanul-khaliqin ( O Allah, to You I have prostrated and in You I have believed and to You I have submitted, and You are my Lord. My face has prostrated to the One Who created it and formed it, and brought forth its hearing and sight. Blessed be Allah the best of Creators.)\""
+      }
+    },
+    {
+      "id": 100,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَحْيَى بْنُ عُثْمَانَ، قَالَ أَنْبَأَنَا ابْنُ حِمْيَرٍ، قَالَ حَدَّثَنَا شُعَيْبُ بْنُ أَبِي حَمْزَةَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، وَذَكَرَ، آخَرَ قَبْلَهُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ هُرْمُزَ الأَعْرَجِ، عَنْ مُحَمَّدِ بْنِ مَسْلَمَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا قَامَ مِنَ اللَّيْلِ يُصَلِّي تَطَوُّعًا قَالَ إِذَا سَجَدَ ‏\n\"‏ اللَّهُمَّ لَكَ سَجَدْتُ وَبِكَ آمَنْتُ وَلَكَ أَسْلَمْتُ اللَّهُمَّ أَنْتَ رَبِّي سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَصَوَّرَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Muhammad bin Maslamah that:",
+        "text": "When the Messenger of Allah (ﷺ) got up to offer voluntary prayers at night, he would say when he prostrated: \"Allahumma laka sajadtu wa bika amantu wa laka aslamtu, Allahumma anta Rabbi, sajada wajhi lilladhi khalaqahu wa sawwarahu wa shaqqa sam'ahu wa basarahu, tabarak Allahu ahsanul-khaliqin ( O Allah, to You I have prostrated and in You I have believed and to You I have submitted. O Allah, You are my Lord. My face has prostrated to the One Who created it and formed it, and brought forth its hearing and sight. Blessed be Allah the best of Creators.)\""
+      }
+    },
+    {
+      "id": 101,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سَوَّارُ بْنُ عَبْدِ اللَّهِ بْنِ سَوَّارٍ الْقَاضِي، وَمُحَمَّدُ بْنُ بَشَّارٍ، عَنْ عَبْدِ الْوَهَّابِ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ أَبِي الْعَالِيَةِ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقُولُ فِي سُجُودِ الْقُرْآنِ بِاللَّيْلِ ‏\n\"‏ سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ بِحَوْلِهِ وَقُوَّتِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Aishah that:",
+        "text": "The Prophet (ﷺ) used to say, when he did a prostration that was required when reciting Quran at night: \"Sajada wajhi lilladhi khalaqahu wa sawwarahu wa shaqqa sam'ahu wa basarahu bihawlihi wa quwwatih (My face has prostrated to the One Who created it and formed it, and brought forth its hearing and sight by His power and strength.)\""
+      }
+    },
+    {
+      "id": 102,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ عَائِشَةَ، قَالَتْ فَقَدْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ فَوَجَدْتُهُ وَهُوَ سَاجِدٌ وَصُدُورُ قَدَمَيْهِ نَحْوَ الْقِبْلَةِ فَسَمِعْتُهُ يَقُولُ ‏\n\"‏ أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ وَأَعُوذُ بِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ وَأَعُوذُ بِكَ مِنْكَ لاَ أُحْصِي ثَنَاءً عَلَيْكَ أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I noticed the Messenger of Allah (ﷺ) was missing one night and I found him prostrating with the tops of his feet facing toward the Qiblah. I heard him saying: 'A'udhu biridaka min sakhatika, wa a'udhu bimu 'afatika min 'uqubatika wa a'udhu bika minka la uhsi thana'an 'alaika anta kama athnaita 'ala nafsik (I seek refuge in Your pleasure from Your wrath; I seek refuge in Your forgiveness from Your punishment; I seek refuge in You from You. I cannot praise You enough, You are as You have praised Yourself.)\""
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ الْحَسَنِ الْمِصِّيصِيُّ الْمِقْسَمِيُّ، قَالَ حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، قَالَ أَخْبَرَنِي ابْنُ أَبِي مُلَيْكَةَ، عَنْ عَائِشَةَ، قَالَتْ فَقَدْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ فَظَنَنْتُ أَنَّهُ ذَهَبَ إِلَى بَعْضِ نِسَائِهِ فَتَحَسَّسْتُهُ فَإِذَا هُوَ رَاكِعٌ أَوْ سَاجِدٌ يَقُولُ ‏\n\"‏ سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ لاَ إِلَهَ إِلاَّ أَنْتَ ‏\"‏ ‏.‏ فَقُلْتُ بِأَبِي أَنْتَ وَأُمِّي إِنِّي لَفِي شَأْنٍ وَإِنَّكَ لَفِي آخَرَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I noticed that the Messenger of Allah (ﷺ) was missing one night, and I thought he had gone to one of his other wives. I tried to feel for him, and I found him bowing or prostrating and saying: 'SubhanakAllahumma wa bihamdika la ilaha ila ant (Glory and praise be to You, O Allah, there is none worthy of worship but You.)'\" She said: \"May my father and mother be ransomed for you. I thought you were doing one thing and you were doing something else altogether.\""
+      }
+    },
+    {
+      "id": 104,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا الْحَسَنُ بْنُ سَوَّارٍ، قَالَ حَدَّثَنَا لَيْثُ بْنُ سَعْدٍ، عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ، عَنْ عَمْرِو بْنِ قَيْسٍ الْكِنْدِيِّ، أَنَّهُ سَمِعَ عَاصِمَ بْنَ حُمَيْدٍ، يَقُولُ سَمِعْتُ عَوْفَ بْنَ مَالِكٍ، يَقُولُ قُمْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم فَبَدَأَ فَاسْتَاكَ وَتَوَضَّأَ ثُمَّ قَامَ فَصَلَّى فَبَدَأَ فَاسْتَفْتَحَ مِنَ الْبَقَرَةِ لاَ يَمُرُّ بِآيَةِ رَحْمَةٍ إِلاَّ وَقَفَ وَسَأَلَ وَلاَ يَمُرُّ بِآيَةِ عَذَابٍ إِلاَّ وَقَفَ يَتَعَوَّذُ ثُمَّ رَكَعَ فَمَكَثَ رَاكِعًا بِقَدْرِ قِيَامِهِ يَقُولُ فِي رُكُوعِهِ ‏\"‏ سُبْحَانَ ذِي الْجَبَرُوتِ وَالْمَلَكُوتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ ‏\"‏ ‏.‏ ثُمَّ سَجَدَ بِقَدْرِ رُكُوعِهِ يَقُولُ فِي سُجُودِهِ ‏\"‏ سُبْحَانَ ذِي الْجَبَرُوتِ وَالْمَلَكُوتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ ‏\"‏ ‏.‏ ثُمَّ قَرَأَ آلَ عِمْرَانَ ثُمَّ سُورَةً ثُمَّ سُورَةً فَعَلَ مِثْلَ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "'Awf bin Malik said:",
+        "text": "\"I prayed Qiyam with the Prophet (ﷺ). He started by using the Siwak and performing wudu, then he stood and prayed. He started reciting Al-Baqarah and he did not come to any verse that spoke of mercy but he paused and asked for mercy, and he did not come to any verse that spoke of punishment but he paused (and sought refuge with Allah from that). Then he bowed and he stayed bowing for as long as he had stood,a nd he said while bowing: 'Subhanaka Dhil-jabaraut wal-malakut wal-kibriya' wal-'azamah (Glory be to the One Who has all power, sovereignty, magnificence and might.)' Then he prostrated for as long as he had bowed, saying while prostrating: 'Subhana Dhil-jabarut wal-malakut wal-kibriya' wal-'azamah (Glory be to the One Who has all power, sovereignty, magnificence and might.)' Then he recited Al Imran, then another surah and another, doing that each time.\""
+      }
+    },
+    {
+      "id": 105,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنِ الْمُسْتَوْرِدِ بْنِ الأَحْنَفِ، عَنْ صِلَةَ بْنِ زُفَرَ، عَنْ حُذَيْفَةَ، قَالَ صَلَّيْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ فَاسْتَفْتَحَ بِسُورَةِ الْبَقَرَةِ فَقَرَأَ بِمِائَةِ آيَةٍ لَمْ يَرْكَعْ فَمَضَى قُلْتُ يَخْتِمُهَا فِي الرَّكْعَتَيْنِ فَمَضَى قُلْتُ يَخْتِمُهَا ثُمَّ يَرْكَعُ فَمَضَى حَتَّى قَرَأَ سُورَةَ النِّسَاءِ ثُمَّ قَرَأَ سُورَةَ آلِ عِمْرَانَ ثُمَّ رَكَعَ نَحْوًا مِنْ قِيَامِهِ يَقُولُ فِي رُكُوعِهِ ‏\"‏ سُبْحَانَ رَبِّيَ الْعَظِيمِ سُبْحَانَ رَبِّيَ الْعَظِيمِ سُبْحَانَ رَبِّيَ الْعَظِيمِ ‏\"‏ ‏.‏ ثُمَّ رَفَعَ رَأْسَهُ فَقَالَ ‏\"‏ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ رَبَّنَا لَكَ الْحَمْدُ ‏\"‏ ‏.‏ وَأَطَالَ الْقِيَامَ ثُمَّ سَجَدَ فَأَطَالَ السُّجُودَ يَقُولُ فِي سُجُودِهِ ‏\"‏ سُبْحَانَ رَبِّيَ الأَعْلَى سُبْحَانَ رَبِّيَ الأَعْلَى سُبْحَانَ رَبِّيَ الأَعْلَى ‏\"‏ ‏.‏ لاَ يَمُرُّ بِآيَةِ تَخْوِيفٍ أَوْ تَعْظِيمٍ لِلَّهِ عَزَّ وَجَلَّ إِلاَّ ذَكَرَهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Hudhaifah said:",
+        "text": "\"I prayed with the Messenger of Allah (ﷺ) one night. He started reciting Surat Al-Baqarah and he recited one hundred verses, then did not bow, rather he continued. I thought: 'He will complete it in two rak'ahs, but he continued.' I thought: 'He will complete it and then bow,' but he continued until he recited Surat An-Nisa', then Al Imran. Then he bowed for almost as long as he had stood, saying while bowing: 'Subhan Rabbial-azim, Subhan Rabbial-azim, Subhan Rabbial-azim ( Glory be to my Lord Almighty, Glory be to my Lord Almighty, Glory be to my Lord Almighty).' Then he raised his head and said: 'Sami Allahu liman hamidah (Allah hears the one who praises Him). Then he prostrated and made his prostration lengthy, saying: \"Subhan Rabbial-A'la, Subhan Rabbial-A'la, Subhan Rabbial-A'la (Glory be to my Lord Most High, Glory be to my Lord Most High, Glory be to my Lord Most High). And he did not come to any verse that spoke of fear or glorifying Allah, the Mighty and Sublime, but he said something appropriate.\""
+      }
+    },
+    {
+      "id": 106,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا بُنْدَارٌ، مُحَمَّدُ بْنُ بَشَّارٍ قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الْقَطَّانُ، وَابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، قَالاَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ مُطَرِّفٍ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ فِي رُكُوعِهِ وَسُجُودِهِ ‏\n\"‏ سُبُّوحٌ قُدُّوسٌ رَبُّ الْمَلاَئِكَةِ وَالرُّوحِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Messenger of Allah (ﷺ) said when bowing and prostrating: 'Subbuhun Quddusun Rabbul-mala'ikati war'ruh (Perfect, Most Holy, Lord of the Angels and the Spirit).\""
+      }
+    },
+    {
+      "id": 107,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِبْرَاهِيمَ بْنِ عُمَرَ بْنِ كَيْسَانَ، قَالَ حَدَّثَنِي أَبِي، عَنْ وَهْبِ بْنِ مَانُوسٍ، قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ مَا رَأَيْتُ أَحَدًا أَشْبَهَ صَلاَةً بِصَلاَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ هَذَا الْفَتَى - يَعْنِي عُمَرَ بْنَ عَبْدِ الْعَزِيزِ - فَحَزَرْنَا فِي رُكُوعِهِ عَشْرَ تَسْبِيحَاتٍ وَفِي سُجُودِهِ عَشْرَ تَسْبِيحَاتٍ ‏.‏",
+      "english": {
+        "narrator": "Anas bin Malik said:",
+        "text": "\"I have never seen anyone whose prayer more closely resembles the prayer of the Messenger of Allah (ﷺ) than this young man- meaning 'Umar bin Abdul-aziz. And we estimated that when bowing he said the Tasbih ten times and when prostrating he said the Tasbih ten times.\""
+      }
+    },
+    {
+      "id": 108,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ الْمُقْرِئُ أَبُو يَحْيَى، بِمَكَّةَ - وَهُوَ بَصْرِيٌّ - قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا هَمَّامٌ، قَالَ حَدَّثَنَا إِسْحَاقُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، أَنَّ عَلِيَّ بْنَ يَحْيَى بْنِ خَلاَّدِ بْنِ مَالِكِ بْنِ رَافِعِ بْنِ مَالِكٍ، حَدَّثَهُ عَنْ أَبِيهِ، عَنْ عَمِّهِ، رِفَاعَةَ بْنِ رَافِعٍ قَالَ بَيْنَمَا رَسُولُ اللَّهِ صلى الله عليه وسلم جَالِسٌ وَنَحْنُ حَوْلَهُ إِذْ دَخَلَ رَجُلٌ فَأَتَى الْقِبْلَةَ فَصَلَّى فَلَمَّا قَضَى صَلاَتَهُ جَاءَ فَسَلَّمَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَعَلَى الْقَوْمِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ وَعَلَيْكَ اذْهَبْ فَصَلِّ فَإِنَّكَ لَمْ تُصَلِّ ‏\"‏ ‏.‏ فَذَهَبَ فَصَلَّى فَجَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَرْمُقُ صَلاَتَهُ وَلاَ يَدْرِي مَا يَعِيبُ مِنْهَا فَلَمَّا قَضَى صَلاَتَهُ جَاءَ فَسَلَّمَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَعَلَى الْقَوْمِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ وَعَلَيْكَ اذْهَبْ فَصَلِّ فَإِنَّكَ لَمْ تُصَلِّ ‏\"‏ ‏.‏ فَأَعَادَهَا مَرَّتَيْنِ أَوْ ثَلاَثًا فَقَالَ الرَّجُلُ يَا رَسُولَ اللَّهِ مَا عِبْتَ مِنْ صَلاَتِي فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّهَا لَمْ تَتِمَّ صَلاَةُ أَحَدِكُمْ حَتَّى يُسْبِغَ الْوُضُوءَ كَمَا أَمَرَهُ اللَّهُ عَزَّ وَجَلَّ فَيَغْسِلَ وَجْهَهُ وَيَدَيْهِ إِلَى الْمِرْفَقَيْنِ وَيَمْسَحَ بِرَأْسِهِ وَرِجْلَيْهِ إِلَى الْكَعْبَيْنِ ثُمَّ يُكَبِّرَ اللَّهَ عَزَّ وَجَلَّ وَيَحْمَدَهُ وَيُمَجِّدَهُ ‏\"‏ ‏.‏ قَالَ هَمَّامٌ وَسَمِعْتُهُ يَقُولُ ‏\"‏ وَيَحْمَدَ اللَّهَ وَيُمَجِّدَهُ وَيُكَبِّرَهُ ‏\"‏ ‏.‏ قَالَ فَكِلاَهُمَا قَدْ سَمِعْتُهُ يَقُولُ قَالَ ‏\"‏ وَيَقْرَأَ مَا تَيَسَّرَ مِنَ الْقُرْآنِ مِمَّا عَلَّمَهُ اللَّهُ وَأَذِنَ لَهُ فِيهِ ثُمَّ يُكَبِّرَ وَيَرْكَعَ حَتَّى تَطْمَئِنَّ مَفَاصِلُهُ وَتَسْتَرْخِيَ ثُمَّ يَقُولَ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ ثُمَّ يَسْتَوِيَ قَائِمًا حَتَّى يُقِيمَ صُلْبَهُ ثُمَّ يُكَبِّرَ وَيَسْجُدَ حَتَّى يُمَكِّنَ وَجْهَهُ ‏\"‏ ‏.‏ وَقَدْ سَمِعْتُهُ يَقُولُ ‏\"‏ جَبْهَتَهُ حَتَّى تَطْمَئِنَّ مَفَاصِلُهُ وَتَسْتَرْخِيَ وَيُكَبِّرَ فَيَرْفَعَ حَتَّى يَسْتَوِيَ قَاعِدًا عَلَى مَقْعَدَتِهِ وَيُقِيمَ صُلْبَهُ ثُمَّ يُكَبِّرَ فَيَسْجُدَ حَتَّى يُمَكِّنَ وَجْهَهُ وَيَسْتَرْخِيَ فَإِذَا لَمْ يَفْعَلْ هَكَذَا لَمْ تَتِمَّ صَلاَتُهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Rifa'ah bin Rafi' said:",
+        "text": "\"While the Messenger of Allah (ﷺ) was sitting with us around him, a man came in, turned towards the Qiblah and prayed. When he had finished his prayer, he came and greeted the Messenger of Allah (ﷺ) and the people with Salam. The Messenger of Allah (ﷺ) said to him: 'And also to you. Go and pray, for you have not prayed.' So he went and prayed, and the Messenger of Allah (ﷺ) started watching him, and he (the man) did not know what was wrong with it. When he had finished the prayer, he came and greeted the Messenger of Allah (ﷺ) and the people with salam. The Messenger of Allah (ﷺ) said to him: 'And also to you. Go and pray, for you have not prayed.' He repeated it two or three times, then the man said: 'O Messenger of Allah, what is wrong with my prayer?' The Messenger of Allah (ﷺ) said: 'The prayer of any of you is not complete unless he performs wudu properly as enjoined by Allah, the Mighty and Sublime. So he should wash his face, his arms up to the elbows, and wipe his head, and (wash) his feet up to the ankles. Then he should magnify Allah (SWT) and praise Him and glorify Him.'\" - (One of the narrators) Hammam said: \"I heard him say: 'He should praise Allah and glorify Him and magnify Him.\" He said: \"I heard both of them.\" -\"He (the Prophet (ﷺ)) said: 'He should recite whatever is easy for him of the Quran that Allah has taught him and permitted him in it (the prayer). Then he should say the Takbir and bow until his joints settle and he is relaxed. Then he should say: 'Sami Allahu liman hamidah (Allah hears the one who praises Him)' and stand up straight until his backbone is straight (and at ease). Then he should say Takbir and prostrate until he has placed his face firmly on the ground.\" \"I heard him say: his forehead, until his joints settle and he is relaxed. Then he should say the Takbir and sit up until his backbone is straight (and at ease). Then he should prostrate until he has placed his face firmly on the ground and he is relaxed. If he does not do that then he has not completed his prayer.\""
+      }
+    },
+    {
+      "id": 109,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ عَمْرٍو، - يَعْنِي ابْنَ الْحَارِثِ - عَنْ عُمَارَةَ بْنِ غَزِيَّةَ، عَنْ سُمَىٍّ، أَنَّهُ سَمِعَ أَبَا صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنْ رَبِّهِ عَزَّ وَجَلَّ وَهُوَ سَاجِدٌ فَأَكْثِرُوا الدُّعَاءَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "The Messenger of Allah (ﷺ) said: \"The closest that a person can be to his Lord, the Mighty and Sublime, is when he is prostrating, so increase in supplication then.\""
+      }
+    },
+    {
+      "id": 110,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هِشَامُ بْنُ عَمَّارٍ، عَنْ هِقْلِ بْنِ زِيَادٍ الدِّمَشْقِيِّ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنِي رَبِيعَةُ بْنُ كَعْبٍ الأَسْلَمِيُّ، قَالَ كُنْتُ آتِي رَسُولَ اللَّهِ صلى الله عليه وسلم بِوَضُوئِهِ وَبِحَاجَتِهِ فَقَالَ ‏\"‏ سَلْنِي ‏\"‏ ‏.‏ قُلْتُ مُرَافَقَتَكَ فِي الْجَنَّةِ ‏.‏ قَالَ ‏\"‏ أَوَغَيْرَ ذَلِكَ ‏\"‏ ‏.‏ قُلْتُ هُوَ ذَاكَ قَالَ ‏\"‏ فَأَعِنِّي عَلَى نَفْسِكَ بِكَثْرَةِ السُّجُودِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Rabi'ah bin Ka'b Al-Aslami said:",
+        "text": "\"I used to bring to the Messenger of Allah (ﷺ) water for wudu and serve him. He said: 'Ask of me.' I said: 'I want to be with you in Paradise.' He said: 'Is there anything else?' I said: 'That is all.' He said: 'Help me to fulfill your wish by prostrating a great deal.'\""
+      }
+    },
+    {
+      "id": 111,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَبُو عَمَّارٍ الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ أَنْبَأَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي الْوَلِيدُ بْنُ هِشَامٍ الْمُعَيْطِيُّ، قَالَ حَدَّثَنِي مَعْدَانُ بْنُ طَلْحَةَ الْيَعْمَرِيُّ، قَالَ لَقِيتُ ثَوْبَانَ مَوْلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقُلْتُ دُلَّنِي عَلَى عَمَلٍ يَنْفَعُنِي أَوْ يُدْخِلُنِي الْجَنَّةَ فَسَكَتَ عَنِّي مَلِيًّا ثُمَّ الْتَفَتَ إِلَىَّ فَقَالَ عَلَيْكَ بِالسُّجُودِ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ مَا مِنْ عَبْدٍ يَسْجُدُ لِلَّهِ سَجْدَةً إِلاَّ رَفَعَهُ اللَّهُ عَزَّ وَجَلَّ بِهَا دَرَجَةً وَحَطَّ عَنْهُ بِهَا خَطِيئَةً ‏\"‏ ‏.‏ قَالَ مَعْدَانُ ثُمَّ لَقِيتُ أَبَا الدَّرْدَاءِ فَسَأَلْتُهُ عَمَّا سَأَلْتُ عَنْهُ ثَوْبَانَ فَقَالَ لِي عَلَيْكَ بِالسُّجُودِ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ مَا مِنْ عَبْدِ يَسْجُدُ لِلَّهِ سَجْدَةً إِلاَّ رَفَعَهُ اللَّهُ بِهَا دَرَجَةً وَحَطَّ عَنْهُ بِهَا خَطِيئَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ma'dan bin Talha Al-Ya'muri said:",
+        "text": "\"I met Thawban, the freed slave of the Messenger of Allah (ﷺ) and said: \"Tell me of an action that will benefit me or gain me admittance to Paradise.' He remained silent for a while, then he turned to me and said: 'You should prostrate, because I heard the Messenger of Allah (ﷺ) say: \"There is no one who prostrated once to Allah, the Mighty and Sublime, except that Allah will raise him one degree in status thereby, and erase one sin thereby.\" Ma'dan said: \"Then I met Abu Ad-Darda' and asked him the same question I had asked Thawban.\" He said to me: \"You should prostrate, for I heard the Messenger of Allah (ﷺ) say: \"There is no one who prostrates once to Allah (SWT), but Allah (SWT) will raise him one degree thereby and erase one sin thereby.\""
+      }
+    },
+    {
+      "id": 112,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ، لُوَيْنٌ بِالْمَصِّيصَةِ عَنْ حَمَّادِ بْنِ زَيْدٍ، عَنْ مَعْمَرٍ، وَالنُّعْمَانِ بْنِ رَاشِدٍ، عَنِ الزُّهْرِيِّ، عَنْ عَطَاءِ بْنِ يَزِيدَ، قَالَ كُنْتُ جَالِسًا إِلَى أَبِي هُرَيْرَةَ وَأَبِي سَعِيدٍ فَحَدَّثَ أَحَدُهُمَا، حَدِيثَ الشَّفَاعَةِ وَالآخَرُ مُنْصِتٌ قَالَ فَتَأْتِي الْمَلاَئِكَةُ فَتَشْفَعُ وَتَشْفَعُ الرُّسُلُ وَذَكَرَ الصِّرَاطَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ فَأَكُونُ أَوَّلَ مَنْ يُجِيزُ فَإِذَا فَرَغَ اللَّهُ عَزَّ وَجَلَّ مِنَ الْقَضَاءِ بَيْنَ خَلْقِهِ وَأَخْرَجَ مِنَ النَّارِ مَنْ يُرِيدُ أَنْ يُخْرِجَ أَمَرَ اللَّهُ الْمَلاَئِكَةَ وَالرُّسُلَ أَنْ تَشْفَعَ فَيُعْرَفُونَ بِعَلاَمَاتِهِمْ إِنَّ النَّارَ تَأْكُلُ كُلَّ شَىْءٍ مِنِ ابْنِ آدَمَ إِلاَّ مَوْضِعَ السُّجُودِ فَيُصَبُّ عَلَيْهِمْ مِنْ مَاءِ الْجَنَّةِ فَيَنْبُتُونَ كَمَا تَنْبُتُ الْحِبَّةُ فِي حَمِيلِ السَّيْلِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Ata bin Yazid said:",
+        "text": "\"I was sitting with Abu Hurairah and Abu Sa'eed. One of them narrated the hadith about intercession and the other was listening. He said: 'Then the angels will come and intercede, and the messengers will intercede.' And he mentioned the Sirat, and said: \"The Messenger of Allah (ﷺ) said: 'I will be the first one to cross it, and when Allah has finished passing judgment among His creation, and has brought forth from the Fire those whom He wants to bring forth, Allah will command the angels and the messengers to intercede, and they will be recognized by their signs, for the Fire will consume all of the son of Adam apart from the place of prostration. Then the water of life will be poured on them, and they will grow like seeds on the banks of a rainwater stream.\""
+      }
+    },
+    {
+      "id": 113,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ سَلاَّمٍ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قَالَ أَنْبَأَنَا جَرِيرُ بْنُ حَازِمٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي يَعْقُوبَ الْبَصْرِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ شَدَّادٍ، عَنْ أَبِيهِ، قَالَ خَرَجَ عَلَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي إِحْدَى صَلاَتَىِ الْعِشَاءِ وَهُوَ حَامِلٌ حَسَنًا أَوْ حُسَيْنًا فَتَقَدَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَوَضَعَهُ ثُمَّ كَبَّرَ لِلصَّلاَةِ فَصَلَّى فَسَجَدَ بَيْنَ ظَهْرَانَىْ صَلاَتِهِ سَجْدَةً أَطَالَهَا ‏.‏ قَالَ أَبِي فَرَفَعْتُ رَأْسِي وَإِذَا الصَّبِيُّ عَلَى ظَهْرِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ سَاجِدٌ فَرَجَعْتُ إِلَى سُجُودِي فَلَمَّا قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم الصَّلاَةَ قَالَ النَّاسُ يَا رَسُولَ اللَّهِ إِنَّكَ سَجَدْتَ بَيْنَ ظَهْرَانَىْ صَلاَتِكَ سَجْدَةً أَطَلْتَهَا حَتَّى ظَنَنَّا أَنَّهُ قَدْ حَدَثَ أَمْرٌ أَوْ أَنَّهُ يُوحَى إِلَيْكَ ‏.‏ قَالَ ‏\n\"‏ كُلُّ ذَلِكَ لَمْ يَكُنْ وَلَكِنَّ ابْنِي ارْتَحَلَنِي فَكَرِهْتُ أَنْ أُعَجِّلَهُ حَتَّى يَقْضِيَ حَاجَتَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin Shaddad, this his father said:",
+        "text": "\"The Messenger of Allah (ﷺ) came out to us for one of the nighttime prayers, and he was carrying Hasan or Husain. The Messenger of Allah (ﷺ) came forward and put him down, then he said the Takbir and started to pray. He prostrated during his prayer, and made the prostration lengthy.\" My father said: \"I raised my head and saw the child on the back of the Messenger of Allah (ﷺ) while he was prostrating so I went back to my prostration. When the Messenger of Allah (ﷺ) finished praying, the people said: \"O Messenger of Allah (ﷺ), you prostrated during the prayer for so long that we thought that something had happened or that you were receiving a revelation.' He said: 'No such thing happened. But my son was riding on my back and I did not like to disturb him until he had enough.'\""
+      }
+    },
+    {
+      "id": 114,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا الْفَضْلُ بْنُ دُكَيْنٍ، وَيَحْيَى بْنُ آدَمَ، قَالاَ حَدَّثَنَا زُهَيْرٌ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الأَسْوَدِ، عَنْ أَبِيهِ، وَعَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُكَبِّرُ فِي كُلِّ خَفْضٍ وَرَفْعٍ وَقِيَامٍ وَقُعُودٍ وَيُسَلِّمُ عَنْ يَمِينِهِ وَعَنْ شِمَالِهِ ‏\n\"‏ السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ ‏\"‏ ‏.‏ حَتَّى يُرَى بَيَاضُ خَدِّهِ ‏.‏ قَالَ وَرَأَيْتُ أَبَا بَكْرٍ وَعُمَرَ - رضى الله عنهما - يَفْعَلاَنِ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdur-Rahman bin Al-Aswad from his father-and Alqamah-that:",
+        "text": "Abdullah said: \"I saw the Messenger of Allah (ﷺ) say the Takbir every time he went down and got up, or stood or sat; he said the Salam on his right and his left: 'As-salamu alaykum wa rahmatulah (peace be upon you and the mercy of Allah ),' until the whiteness of his cheek could be seen.\" He said: \"And I saw Abu Bakr and 'Umar, may Allah (SWT) be pleased with them both, doing the same.\""
+      }
+    },
+    {
+      "id": 115,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ نَصْرِ بْنِ عَاصِمٍ، عَنْ مَالِكِ بْنِ الْحُوَيْرِثِ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا دَخَلَ فِي الصَّلاَةِ رَفَعَ يَدَيْهِ وَإِذَا رَكَعَ فَعَلَ مِثْلَ ذَلِكَ وَإِذَا رَفَعَ رَأْسَهُ مِنَ الرُّكُوعِ فَعَلَ مِثْلَ ذَلِكَ وَإِذَا رَفَعَ رَأْسَهُ مِنَ السُّجُودِ فَعَلَ مِثْلَ ذَلِكَ كُلَّهُ يَعْنِي رَفْعَ يَدَيْهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Malik bin Al-Huwairith that:",
+        "text": "When the Prophet of Allah (ﷺ) started to pray, he raised his hands, and when he bowed, he did likewise, and when he raised his head from bowing he did likewise, and when he raised his head from prostration, he did likewise, meaning he raised his hands."
+      }
+    },
+    {
+      "id": 116,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنْ سُفْيَانَ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا افْتَتَحَ الصَّلاَةَ كَبَّرَ وَرَفَعَ يَدَيْهِ وَإِذَا رَكَعَ وَبَعْدَ الرُّكُوعِ وَلاَ يَرْفَعُ بَيْنَ السَّجْدَتَيْنِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Salim that his father said:",
+        "text": "\"When the Prophet (ﷺ) started to pray he said the takbir and raised his hands, and when he bowed, and after bowing, but he did not raise them between the two prostrations.\""
+      }
+    },
+    {
+      "id": 117,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ أَبِي حَمْزَةَ، سَمِعَهُ يُحَدِّثُ، عَنْ رَجُلٍ، مِنْ عَبْسٍ عَنْ حُذَيْفَةَ، أَنَّهُ انْتَهَى إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَامَ إِلَى جَنْبِهِ فَقَالَ ‏\"‏ اللَّهُ أَكْبَرُ ذُو الْمَلَكُوتِ وَالْجَبَرُوتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ ‏\"‏ ‏.‏ ثُمَّ قَرَأَ بِالْبَقَرَةِ ثُمَّ رَكَعَ فَكَانَ رُكُوعُهُ نَحْوًا مِنْ قِيَامِهِ فَقَالَ فِي رُكُوعِهِ ‏\"‏ سُبْحَانَ رَبِّيَ الْعَظِيمِ سُبْحَانَ رَبِّيَ الْعَظِيمِ ‏\"‏ ‏.‏ وَقَالَ حِينَ رَفَعَ رَأْسَهُ ‏\"‏ لِرَبِّيَ الْحَمْدُ لِرَبِّيَ الْحَمْدُ ‏\"‏ ‏.‏ وَكَانَ يَقُولُ فِي سُجُودِهِ ‏\"‏ سُبْحَانَ رَبِّيَ الأَعْلَى سُبْحَانَ رَبِّيَ الأَعْلَى ‏\"‏ ‏.‏ وَكَانَ يَقُولُ بَيْنَ السَّجْدَتَيْنِ ‏\"‏ رَبِّ اغْفِرْ لِي رَبِّ اغْفِرْ لِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "A man from (the tribe of) 'Abs narrated from Hudhaifah that:",
+        "text": "He came to the Prophet (ﷺ) and stood by his side, and he said: \"Allahu Akbar Dhul-malakut wal-jabarut wal-kibriya' wal 'azamah (Allah is Most Great, the One Who has all sovereignty, power, magnificence, and might.)\" Then he recited Al-Baqarah, then he bowed, and his bowing lasted almost as long as his standing, and he said when bowing: 'Subahana Rabbial-'azim, Subhana Rabbial-'azim (Glory be to my Lord Almighty, Glory be to my Lord Almighty).\" When he raised his head he said: \"Li Rabbial-hamd, Li Rabbial-hamd (To my Lord be praise, to my Lord be praise).\" And when he prostrated he said: \"Subahana Rabbial-A'la, Subahna Rabbial-A'la (Glory be to my Lord Most High, glory be to my Lord Most High).\" And between the two prostrations he would say: \"Rabbighfirli, Rabbighfirli (Lord forgive me, Lord forgive me).\""
+      }
+    },
+    {
+      "id": 118,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُوسَى بْنُ عَبْدِ اللَّهِ بْنِ مُوسَى الْبَصْرِيُّ، قَالَ حَدَّثَنَا النَّضْرُ بْنُ كَثِيرٍ أَبُو سَهْلٍ الأَزْدِيُّ، قَالَ صَلَّى إِلَى جَنْبِي عَبْدُ اللَّهِ بْنُ طَاوُسٍ بِمِنًى فِي مَسْجِدِ الْخَيْفِ فَكَانَ إِذَا سَجَدَ السَّجْدَةَ الأُولَى فَرَفَعَ رَأْسَهُ مِنْهَا رَفَعَ يَدَيْهِ تِلْقَاءَ وَجْهِهِ فَأَنْكَرْتُ أَنَا ذَلِكَ فَقُلْتُ لِوُهَيْبِ بْنِ خَالِدٍ إِنَّ هَذَا يَصْنَعُ شَيْئًا لَمْ أَرَ أَحَدًا يَصْنَعُهُ ‏.‏ فَقَالَ لَهُ وُهَيْبٌ تَصْنَعُ شَيْئًا لَمْ نَرَ أَحَدًا يَصْنَعُهُ ‏.‏ فَقَالَ عَبْدُ اللَّهِ بْنُ طَاوُسٍ رَأَيْتُ أَبِي يَصْنَعُهُ وَقَالَ أَبِي رَأَيْتُ ابْنَ عَبَّاسٍ يَصْنَعُهُ وَقَالَ عَبْدُ اللَّهِ بْنُ عَبَّاسٍ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَصْنَعُهُ ‏.‏",
+      "english": {
+        "narrator": "An-Nadr bin Kathir Abu Sahl Al-Aszidi said:",
+        "text": "\"Abdullah bin Tawus prayed beside me at Mina, in Masjid Al-Khaif, and when he made the first prostration he raised his head and raised his hands up to his face. I found that strange and I said to Wuhaib bin Khalid: \"This man does something that I have never seen anyone do.\" Wuhaib said to him: 'You do something that I have never seen anyone do.' Abdullah bin Tawus said: 'I saw my father do it, and my father said: \"I saw Ibn 'Abbas do it and 'Abullah bin Abbas said: 'I saw the Messenger of Allah (ﷺ) doing it.'\""
+      }
+    },
+    {
+      "id": 119,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، دُحَيْمٌ قَالَ حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ الأَصَمِّ، قَالَ حَدَّثَنِي يَزِيدُ بْنُ الأَصَمِّ، عَنْ مَيْمُونَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا سَجَدَ خَوَّى بِيَدَيْهِ حَتَّى يُرَى وَضَحُ إِبْطَيْهِ مِنْ وَرَائِهِ وَإِذَا قَعَدَ اطْمَأَنَّ عَلَى فَخِذِهِ الْيُسْرَى ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Maimunah said:",
+        "text": "\"When the Messenger of Allah (ﷺ) prostrated, he would hold his arms out to his sides, so that the whiteness of his armpits could be seen from behind. And when he sat he rested on his left thigh.\""
+      }
+    },
+    {
+      "id": 120,
+      "chapterId": 12,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ أَبُو قُدَامَةَ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، قَالَ حَدَّثَنِي الْحَكَمُ، عَنِ ابْنِ أَبِي لَيْلَى، عَنِ الْبَرَاءِ، قَالَ كَانَ صَلاَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم رُكُوعُهُ وَسُجُودُهُ وَقِيَامُهُ بَعْدَ مَا يَرْفَعُ رَأْسَهُ مِنَ الرُّكُوعِ وَبَيْنَ السَّجْدَتَيْنِ قَرِيبًا مِنَ السَّوَاءِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Al-Bara' said:",
+        "text": "\"In the prayer of the Messenger of Allah (ﷺ), his bowing, his prostration, standing after he raised his head from bowing and (sitting) between the two prostrations, were almost the same.\""
+      }
+    }
+  ]
+}

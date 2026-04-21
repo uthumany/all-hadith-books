@@ -1,0 +1,16 @@
+{
+  "id": 617,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ زِيَادِ بْنِ عِلاَقَةَ، سَمِعَ الْمُغِيرَةَ، يَقُولُ قَامَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ حَتَّى تَوَرَّمَتْ قَدَمَاهُ ‏.‏ فَقِيلَ يَا رَسُولَ اللَّهِ قَدْ غَفَرَ اللَّهُ لَكَ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ ‏.‏ قَالَ ‏\n\"‏ أَفَلاَ أَكُونُ عَبْدًا شَكُورًا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated from Ziyad bin ‘Ilaqah that he heard Mughirah say:",
+    "text": "“The\nMessenger of Allah (ﷺ) stood (in prayer) until his feet became\nswollen. It was said: ‘O Messenger of Allah, Allah has forgiven you\nyour past and future sins.’ He said: ‘Should I not be a thankful\nslave?’”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

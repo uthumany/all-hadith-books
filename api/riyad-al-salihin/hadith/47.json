@@ -1,0 +1,16 @@
+{
+  "id": 47,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن معاذ بن أنس رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ من كظم غيظاً ، وهو قادر على أن ينفذه، دعاه الله سبحانه وتعالى على رؤوس الخلائق يوم القيامة حتى يخيره من الحور العين ما شاء‏\"‏ ‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Mu'adh bin Anas (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"The one who suppresses anger and has the power to give effect to it, will be called out by Allah, the Exalted, to the forefront of the creatures on the Day of Resurrection and he will be asked to choose any of the virgins (Hur) of his liking\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

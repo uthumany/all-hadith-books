@@ -1,0 +1,16 @@
+{
+  "id": 543,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن مسعود رضي الله عنه عن النبي صلى الله عليه وسلم  قال‏:‏ ‏\n\"‏لا حسد إلا فى اثنتين‏:‏ رجل آتاه الله مالاً، فسلطه على هلكته فى الحق، ورجل آتاه الله حكمة، فهو يقضي بها ويعلمها‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn Mas'ud (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"Envy is permitted only in two cases: A man whom Allah gives wealth, and he disposes of it rightfully, and a man to whom Allah gives knowledge which he applies and teaches it.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

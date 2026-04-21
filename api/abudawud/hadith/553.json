@@ -1,0 +1,16 @@
+{
+  "id": 553,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، حَدَّثَنَا الْوَلِيدُ، عَنْ عِيسَى بْنِ أَيُّوبَ، قَالَ قَوْلُهُ ‏\n\"‏ التَّصْفِيحُ لِلنِّسَاءِ ‏\"‏ ‏.‏ تَضْرِبُ بِأُصْبُعَيْنِ مِنْ يَمِينِهَا عَلَى كَفِّهَا الْيُسْرَى ‏.‏",
+  "english": {
+    "narrator": "‘Isa b. Ayyub said:",
+    "text": "Clapping by women means that one should strike her left hand with the two fingers of her right hand."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

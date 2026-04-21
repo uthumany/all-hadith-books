@@ -1,0 +1,16 @@
+{
+  "id": 734,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ ضَمْرَةَ بْنِ سَعِيدٍ الْمَازِنِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ الضَّحَّاكَ بْنَ قَيْسٍ، سَأَلَ النُّعْمَانَ بْنَ بَشِيرٍ مَاذَا كَانَ يَقْرَأُ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ الْجُمُعَةِ عَلَى إِثْرِ سُورَةِ الْجُمُعَةِ فَقَالَ كَانَ يَقْرَأُ ‏{‏ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ ‏}‏ ‏.‏",
+  "english": {
+    "narrator": "Al-Dahhak b. Qais asked al-Nu'man b. Bashir:",
+    "text": "What did the Messenger of Allah (ﷺ) recited on Friday after reciting the Surah al-Jumu'ah (62). He replied: He used to recite, \"Had the story of overwhelming event reached you ?\" (88)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

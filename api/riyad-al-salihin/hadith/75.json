@@ -1,0 +1,16 @@
+{
+  "id": 75,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثاني‏:‏ عن ابن عباس رضي الله عنهما أيضاً أن رسول الله صلى الله عليه وسلم كان يقول‏:‏ ‏\n\"‏اللهم لك أسلمت وبك آمنت، وعليك توكلت، وإليك أنبت ، وبك خاصمت‏.‏ اللهم أعوذ بعزتك، لا إله إلا أنت أن تضلني، أنت الحي الذي لا تموت، والجن والإنس يموتون‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ ‏(‏‏(‏وهذا لفظ مسلم، واختصره البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas (May Allah be pleased with them) reported that the Messenger of Allah (ﷺ) used to supplicate:",
+    "text": "\"O Allah! To You I have submitted, and in You do I believe, and in You I put my trust, to You do I turn, and for You I argued. O Allah, I seek refuge with You through Your Power; there is none worthy of worship except You Alone; that You safeguard me against going astray. You are the Ever Living, the One Who sustains and protects all that exists; the One Who never dies, whereas human beings and jinn will all die\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي عبد الرحمن عبد الله بن عمر بن الخطاب رضي الله عنهما عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ إن الله عز وجل يقبل توبة العبد ما لم يغرغر‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin 'Umar bin Al-Khattab (May Allah be pleased with them) reported that:",
+    "text": "The Prophet (ﷺ) said, \"Allah accepts a slave's repentance as long as the latter is not on his death bed (that is, before the soul of the dying person reaches the throat)\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

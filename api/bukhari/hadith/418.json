@@ -1,0 +1,16 @@
+{
+  "id": 418,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الْوَهَّابِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، أَخْبَرَنِي ثَوْرٌ، عَنْ أَبِي الْغَيْثِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\n\"‏ لَنَالَهُ رِجَالٌ مِنْ هَؤُلاَءِ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "The Prophet (ﷺ) said. Then some men from these people would attain it.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 304,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَوْنِ بْنِ عَبْدِ اللَّهِ عَنِ ابْنِ مَسْعُودٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" إِذَا رَكَعَ أَحَدُكُمْ فَقَالَ فِي رُكُوعِهِ: سُبْحَانَ رَبِّيَ الْعَظِيمِ ثَلَاثَ مَرَّاتٍ فَقَدْ تَمَّ رُكُوعُهُ وَذَلِكَ أَدْنَاهُ وَإِذَا سَجَدَ فَقَالَ فِي سُجُودِهِ سُبْحَانَ رَبِّيَ الْأَعْلَى ثَلَاثَ مَرَّاتٍ فَقَدْ تَمَّ سُجُودُهُ وَذَلِكَ أَدْنَاهُ \". رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُد ابْن مَاجَهْ. وَقَالَ التِّرْمِذِيُّ: لَيْسَ إِسْنَادُهُ بِمُتَّصِلٍ لِأَنَّ عونا لم يلق ابْن مَسْعُود",
+  "english": {
+    "narrator": "‘Aun b. ‘Abdallah reported on the authority of Ibn Mas'ud that God’s Messenger said:",
+    "text": "When one of you bows and says three times while doing so, “Glory be to my mighty Lord”, his bowing is complete; and that is the least which effects this. When he prostrates himself and says three times while doing so, “Glory be to my most high Lord”, his prostration is complete; and that is the least which effects this. \n\nTirmidhi, Abu Dawud and Ibn Majah transmitted it, but Tirmidhi said that its isnad is not connected, because ‘Aun did not meet Ibn Mas'ud."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

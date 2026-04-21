@@ -1,0 +1,16 @@
+{
+  "id": 91,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ عِيَاضِ بْنِ حِمَارٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ اَللَّهَ أَوْحَى إِلَيَّ أَنْ تَوَاضَعُوا, حَتَّى لَا يَبْغِيَ أَحَدٌ عَلَى أَحَدٍ, وَلَا يَفْخَرَ أَحَدٌ عَلَى أَحَدٍ }  أَخْرَجَهُ مُسْلِمٌ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (2865)‏ (64)‏.‏",
+  "english": {
+    "narrator": "’Iyad bin Himar (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Allah, the Most High has revealed to me that you (people) should be humble, so that no one transgresses another, or boasts to the other.” Related by Muslim."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

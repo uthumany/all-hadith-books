@@ -1,0 +1,16 @@
+{
+  "id": 399,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِيهِ حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "A hadith like this has been transmitted on the authority of Ibn Shihab."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

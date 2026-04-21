@@ -1,0 +1,16 @@
+{
+  "id": 612,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُثْمَانَ أَبُو الْجَمَاهِرِ، حَدَّثَنَا سَعِيدُ بْنُ بَشِيرٍ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، قَالَ أَمَرَنَا النَّبِيُّ صلى الله عليه وسلم أَنْ نَرُدَّ عَلَى الإِمَامِ وَأَنْ نَتَحَابَّ وَأَنْ يُسَلِّمَ بَعْضُنَا عَلَى بَعْضٍ ‏.‏",
+  "english": {
+    "narrator": "Narrated Samurah ibn Jundub:",
+    "text": "The Prophet (ﷺ) commanded us to respond to the salutation of the imam. and to love each other, and to salute each other."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

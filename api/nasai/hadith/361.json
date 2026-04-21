@@ -1,0 +1,16 @@
+{
+  "id": 361,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا صَدَقَةُ بْنُ يَسَارٍ، عَنِ الزُّهْرِيِّ، قَالَ سَأَلُوا ابْنَ عُمَرَ هَلْ رَأَيْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم رَمَلَ بَيْنَ الصَّفَا وَالْمَرْوَةِ فَقَالَ كَانَ فِي جَمَاعَةٍ مِنَ النَّاسِ فَرَمَلُوا فَلاَ أُرَاهُمْ رَمَلُوا إِلاَّ بِرَمَلِهِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Az-Zubair said:",
+    "text": "\"They asked Ibn Umar: 'Did you see the Messenger of Allah walk rapidly between As-Safa and Al-Marwah?' He said: 'He was among a group of people and they walked rapidly, and I think they went at the same pace as him.'\" (Daif)"
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 241,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا الْقَاسِمُ بْنُ زَكَرِيَّا، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنِ الْحَسَنِ، - وَهُوَ ابْنُ صَالِحٍ - عَنْ عَاصِمٍ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ كَانَ خَاتَمُ النَّبِيِّ صلى الله عليه وسلم مِنْ فِضَّةٍ وَفَصُّهُ مِنْهُ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Anas said:",
+    "text": "\"The ring of the Prophet  was of silver, and its stone (Fass) was made of silver too.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

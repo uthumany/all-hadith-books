@@ -1,0 +1,16 @@
+{
+  "id": 579,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا شُعْبَةُ، عَنْ يَزِيدَ الرِّشْكِ، عَنْ مُعَاذَةَ الْعَدَوِيَّةِ، قَالَتْ سَأَلْتُ عَائِشَةَ أَكَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ يُصَلِّي الضُّحَى قَالَتْ نَعَمْ أَرْبَعًا وَيَزِيدُ مَا شَاءَ اللَّهُ ‏.‏",
+  "english": {
+    "narrator": "Mu’adhah\nAl-‘Adawiyyah said:",
+    "text": "“I asked ‘Aishah: ‘Did the Prophet (ﷺ)\npray Duha?’ She said: ‘Yes; four (Rak’ah) and he would add\nwhatever\nAllah willed.’”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

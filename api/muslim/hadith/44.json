@@ -1,0 +1,16 @@
+{
+  "id": 44,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا أَبُو عَامِرٍ عَبْدُ اللَّهِ بْنُ بَرَّادٍ الأَشْعَرِيُّ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ مُفَضَّلٍ، عَنْ مُغِيرَةَ، قَالَ سَمِعْتُ الشَّعْبِيَّ، يَقُولُ حَدَّثَنِي الْحَارِثُ الأَعْوَرُ، وَهُوَ يَشْهَدُ أَنَّهُ أَحَدُ الْكَاذِبِينَ ‏.‏",
+  "english": {
+    "narrator": "Abū Āmir Abd Allah bin Barrād al-Ash’arī narrated to us, Abū Usāmah narrated to us, on authority of Mufaḍḍal, on authority of Mughīrah, he said I heard ash-Sha’bī saying:",
+    "text": "‘al-Hārith al-A’war narrated to me,’ and he  was testifying that he was one of the liars’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

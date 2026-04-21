@@ -1,0 +1,16 @@
+{
+  "id": 181,
+  "chapterId": 45,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ رَوْحِ بْنِ الْقَاسِمِ، ح وَحَدَّثَنِي \n أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ، حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، عَنْ سُلَيْمَانَ بْنِ بِلاَلٍ، جَمِيعًا عَنْ سُهَيْلٍ،\n بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This hadith has been narrated on the authority of Suhail with the same chain of transmitters."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

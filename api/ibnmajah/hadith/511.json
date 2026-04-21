@@ -1,0 +1,16 @@
+{
+  "id": 511,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا الْعَبَّاسُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا عِيسَى بْنُ عَبْدِ الأَعْلَى بْنِ أَبِي فَرْوَةَ، قَالَ سَمِعْتُ أَبَا يَحْيَى، عُبَيْدَ اللَّهِ التَّيْمِيَّ يُحَدِّثُ عَنْ أَبِي هُرَيْرَةَ، قَالَ أَصَابَ النَّاسَ مَطَرٌ فِي يَوْمِ عِيدٍ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَصَلَّى بِهِمْ فِي الْمَسْجِدِ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Abu Hurairah said:",
+    "text": "“Rain fell on the day of ‘Eid\nat\nthe time of the Messenger of Allah (ﷺ), so he led them in prayer\nin\nthe mosque."
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

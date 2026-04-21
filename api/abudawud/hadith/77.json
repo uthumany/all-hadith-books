@@ -1,0 +1,16 @@
+{
+  "id": 77,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عَوْفٍ، قَالَ حَدَّثَنِي أَبُو الْمِنْهَالِ، عَنْ أَبِي بَرْزَةَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنِ النَّوْمِ قَبْلَهَا وَالْحَدِيثِ بَعْدَهَا ‏.‏",
+  "english": {
+    "narrator": "Abu Barzah said:",
+    "text": "the Messenger of Allah (ﷺ) forbade sleeping before the night prayer and talking after it."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

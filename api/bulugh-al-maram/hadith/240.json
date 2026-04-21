@@ -1,0 +1,16 @@
+{
+  "id": 240,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَعَنْ زَيْدِ بْنِ ثَابِتٍ ‏- رضى الله عنه ‏- قَالَ : { قَرَأْتُ عَلَى اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-اَلنَّجْمَ , فَلَمْ يَسْجُدْ فِيهَا }  مُتَّفَقٌ عَلَيْهِ .‏  1‏‏1 ‏- صحيح .‏ رواه البخاري ( 2 / 554 / فتح )‏ ؛ ومسلم ( 577 )‏ .‏",
+  "english": {
+    "narrator": "Narrated Zaid bin Thabit (RA):",
+    "text": "I recited to the Prophet (ﷺ) \"an-Najm\" (Surah 53) but he did not prostrate in it.\n\n[Agreed upon)."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

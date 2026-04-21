@@ -1,0 +1,16 @@
+{
+  "id": 46,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا أَحْمَدُ، - يَعْنِي ابْنَ يُونُسَ - حَدَّثَنَا زَائِدَةُ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، أَنَّ الْحَارِثَ، قَالَ تَعَلَّمْتُ الْقُرْآنَ فِي ثَلاَثِ سِنِينَ وَالْوَحْىَ فِي سَنَتَيْنِ - أَوْ قَالَ الْوَحْىَ فِي ثَلاَثِ سِنِينَ وَالْقُرْآنَ فِي سَنَتَيْنِ ‏.‏",
+  "english": {
+    "narrator": "Hajjāj bin ash-Shā’ir narrated to me, Ahmad- meaning Ibn Yūnus- narrated to us, Zā’idah narrated to us, on authority of al-A’mash, on authority of Ibrāhīm that al-Hārith said:",
+    "text": "‘I studied the Qur’ān for three years and the revelation for two years’; or he said: ‘…the revelation in three years and the Qur’ān in two years ’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 526,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، - يَعْنِي ابْنَ أَبِي الزِّنَادِ - قَالَ سَمِعْتُ هِشَامًا، يُحَدِّثُ عَنْ أَبِيهِ، عَنْ عَائِشَةَ، بِهَذَا الْخَبَرِ قَالَ وَأَخَذَ كُرْدِيًّا كَانَ لأَبِي جَهْمٍ فَقِيلَ يَا رَسُولَ اللَّهِ الْخَمِيصَةُ كَانَتْ خَيْرًا مِنَ الْكُرْدِيِّ ‏.‏",
+  "english": {
+    "narrator": "The above-mentioned tradition has also been narrated by ‘A’ishah through a different chain of transmitters. This version adds:",
+    "text": "He (the prophet) took a kind of sheet of cloth known as kurdi which belongs to Abu Jahm. The people told him; Messenger of Allah, the (former) sheet of cloth was better than this kind of kurdi sheet."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

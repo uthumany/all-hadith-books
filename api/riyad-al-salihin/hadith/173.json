@@ -1,0 +1,16 @@
+{
+  "id": 173,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي مسعود عقبة بن عمرو الأنصاري البدي رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏من دل على خير فله مثل أجر فاعله‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Mas'ud 'Uqbah bin 'Amr Al-Ansari Al-Badri (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Whoever guides someone to virtue will be rewarded equivalent to him who practices that good action\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 430,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عباس، رضي الله عنهما، قال‏:‏ سمعت رسول الله، صلى الله عليه وسلم، يقول‏:‏ ‏\n\"‏ما من رجل مسلم يموت فيقوم على جنازته أربعون رجلاً لا يشركون بالله شيئاً إلا شفعهم الله فيه‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas (May Allah be pleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Any Muslim dies and forty men who do not associate anything with Allah (in worship), perform his funeral prayer, Allah makes them intercede for him\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

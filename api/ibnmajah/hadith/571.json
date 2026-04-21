@@ -1,0 +1,16 @@
+{
+  "id": 571,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا يَعْقُوبُ بْنُ الْوَلِيدِ الْمَدِينِيُّ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ صَلَّى بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ عِشْرِينَ رَكْعَةً بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that ‘Aishah said:",
+    "text": "“The Messenger of Allah (ﷺ)\nsaid:\n‘Whoever prays twenty Rak’ah between Maghrib and ‘Isha’,\nAllah\nwill build for him a house in Paradise.’”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

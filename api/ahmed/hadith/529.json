@@ -1,0 +1,16 @@
+{
+  "id": 529,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا يَحْيَى بْنُ عَبَّادٍ، حَدَّثَنَا شُعْبَةُ، أَخْبَرَنِي أَبُو إِسْحَاقَ، عَنْ هُبَيْرَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ خَاتَمِ الذَّهَبِ وَعَنْ لُبْسِ الْقَسِّيِّ وَعَنْ الْمِيثَرَةِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) forbade gold rings, wearing garments made from a blend of linen and silk, and red saddle pads."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

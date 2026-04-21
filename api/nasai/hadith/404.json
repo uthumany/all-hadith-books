@@ -1,0 +1,16 @@
+{
+  "id": 404,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ أَفَاضَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَعَلَيْهِ السَّكِينَةُ وَأَمَرَهُمْ بِالسَّكِينَةِ وَأَوْضَعَ فِي وَادِي مُحَسِّرٍ وَأَمَرَهُمْ أَنْ يَرْمُوا الْجَمْرَةَ بِمِثْلِ حَصَى الْخَذْفِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Jabir said:",
+    "text": "\"The Messenger of Allah departed (From Arafat) in a tranquil manner, and he enjoined them to be tranquil. He hurried in the valley of Muhassir and told them to stone the Jamrat with (pebbles like date stones or fingertips. (Daif)"
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

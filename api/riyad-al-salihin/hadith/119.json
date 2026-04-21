@@ -1,0 +1,16 @@
+{
+  "id": 119,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثالث عنه قال‏:‏ قال النبي صلى الله عليه وسلم ‏:‏ ‏\n\"‏ عرضت علي أعمال أمتي حسنها وسيئها، فوجدت في محاسن أعمالها الأذى يماط عن الطريق، ووجدت في مساوىء أعمالها النخاعة تكون في المسجد لا تدفن‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Dharr (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"The deeds of my people, good and bad, were presented before me, and I found the removal of harmful objects from the road among their good deeds, and phlegm which might be in a mosque left unburied among their evil deeds\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

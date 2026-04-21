@@ -1,0 +1,16 @@
+{
+  "id": 48,
+  "chapterId": 43,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ عَوْنٍ، عَنْ مُجَاهِدٍ قَالَ‏:‏ كَانَ ابْنُ عُمَرَ لاَ يَسْتَأْذِنُ عَلَى بُيُوتِ السُّوقِ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Mujahid said, \"Ibn 'Umar did not ask permission to enter shops\nin the market.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

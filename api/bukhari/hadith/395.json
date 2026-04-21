@@ -1,0 +1,16 @@
+{
+  "id": 395,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا يَحْيَى، حَدَّثَنَا وَكِيعٌ، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ، عَنْ عَبْدِ اللَّهِ، قَالَ قَرَأْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم فَهَلْ مِنْ مُذَّكِرٍ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏{‏فَهَلْ مِنْ مُدَّكِرٍ‏}‏",
+  "english": {
+    "narrator": "Narrated `Abdullah:",
+    "text": "I recited before the Prophet (ﷺ) 'Fahal-min-Mudhdhakir'. The Prophet (ﷺ) said, \"It is Fahal-min Muddakir.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

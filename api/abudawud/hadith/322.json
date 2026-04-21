@@ -1,0 +1,16 @@
+{
+  "id": 322,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنِ الشَّعْبِيِّ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ مَا خَرَجَ النَّبِيُّ صلى الله عليه وسلم مِنْ بَيْتِي قَطُّ إِلاَّ رَفَعَ طَرْفَهُ إِلَى السَّمَاءِ فَقَالَ ‏\n\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ أَوْ أَزِلَّ أَوْ أُزَلَّ أَوْ أَظْلِمَ أَوْ أُظْلَمَ أَوْ أَجْهَلَ أَوْ يُجْهَلَ عَلَىَّ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Umm Salamah, Ummul Mu'minin:",
+    "text": "The Messenger of Allah (ﷺ) never went out of my house without raising his eye to the sky and saying: \"O Allah! I seek refuge in Thee lest I stray or be led astray, or slip or made to slip, or cause injustice, or suffer injustice, or do wrong, or have wrong done to me.\""
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

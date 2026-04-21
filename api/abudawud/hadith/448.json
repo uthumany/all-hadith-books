@@ -1,0 +1,16 @@
+{
+  "id": 448,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ أَجْلَحَ، عَنِ الشَّعْبِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم تَلَقَّى جَعْفَرَ بْنَ أَبِي طَالِبٍ فَالْتَزَمَهُ وَقَبَّلَ مَا بَيْنَ عَيْنَيْهِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Ash-Sha'bi:",
+    "text": "The Prophet (ﷺ) received Ja'far ibn AbuTalib, embraced him and kissed him between both of his eyes (forehead)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

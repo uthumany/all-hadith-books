@@ -1,0 +1,16 @@
+{
+  "id": 645,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن مسعود رضي الله عنه قال‏:‏ كأنى أنظر إلى رسول الله صلى الله عليه وسلم يحكى نبياً من الأنبياء، صلوات الله وسلامه عليهم، ضربه قومه فأدموه وهو يمسح الدم عن وجهه، ويقول‏:‏ “اللهم اغفر لقومى فإنهم لا يعملون” ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn Mas'ud (May Allah be pleased with him) reported:",
+    "text": "I can see the Messenger of Allah (ﷺ) look like one of the Prophets of Allah whose people beat and made him bleed while he was wiping the blood from his face and supplicating: \"O Allah, forgive my people because they know not.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

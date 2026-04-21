@@ -1,0 +1,16 @@
+{
+  "id": 674,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي عَمْرُو بْنُ مُحَمَّدٍ النَّاقِدُ، حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ الرَّقِّيُّ، حَدَّثَنَا حَفْصٌ أَبُو عُمَرَ، عَنْ كَثِيرِ بْنِ زَاذَانَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ قَرَأَ الْقُرْآنَ فَاسْتَظْهَرَهُ شُفِّعَ فِي عَشَرَةٍ مِنْ أَهْلِ بَيْتِهِ قَدْ وَجَبَتْ لَهُمْ النَّارُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) said: `Whoever reads Qur`an and learns it by heart, he will be granted intercession for ten of his family for whom Hell was due.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

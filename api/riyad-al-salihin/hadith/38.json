@@ -1,0 +1,16 @@
+{
+  "id": 38,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن مسعود رضي الله عنه قال‏:‏ دخلت على النبي صلى الله عليه وسلم وهو يوعك فقلت‏:‏ يارسول الله إنك توعك وعكاً شديداً قال‏:‏ ‏\"‏أجل  إني أوعك كما يوعك رجلان منكم‏\"‏ قلت‏:‏ ذلك أن لك أجرين ‏؟‏ قال‏:‏ ‏\"‏أجل ذلك كذلك ما من مسلم يصيبه أذى؛  شوكة فما فوقها إلا كفر الله بها سيئاته ، وحطت عنه ذنوبه كما تحط الشجرة ورقها‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Ibn Mas'ud (May Allah be pleased with him) reported:",
+    "text": "I visited the Prophet (ﷺ) when he was suffering fever. I said, \"You seem to be suffering greatly, O Messenger of Allah.\" The Prophet (ﷺ) replied, \"Yes, I suffer as much as two persons.\" I said, \"Is that because you have a double reward?\" He replied that that was so and then said, \"No Muslim is afflicted by a harm, be it the pricking of a thorn or something more (painful than that), but Allah thereby causes his sins to fall away just as a tree sheds its leaves\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

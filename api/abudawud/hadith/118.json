@@ -1,0 +1,16 @@
+{
+  "id": 118,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ زَيْدِ بْنِ وَهْبٍ، قَالَ أُتِيَ ابْنُ مَسْعُودٍ فَقِيلَ هَذَا فُلاَنٌ تَقْطُرُ لِحْيَتُهُ خَمْرًا فَقَالَ عَبْدُ اللَّهِ إِنَّا قَدْ نُهِينَا عَنِ التَّجَسُّسِ وَلَكِنْ إِنْ يَظْهَرْ لَنَا شَىْءٌ نَأْخُذْ بِهِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Mas'ud:",
+    "text": "Zayd ibn Wahb said: A man was brought to Ibn Mas'ud. He was told: This is so and so, and wine was dropping from his beard. Abdullah thereupon said: We have been prohibited to seek out (faults). If anything becomes manifest to us, we shall seize it."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

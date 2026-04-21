@@ -1,0 +1,16 @@
+{
+  "id": 133,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا حُجَيْنُ بْنُ الْمُثَنَّى، حَدَّثَنَا إِسْرَائِيلُ، عَنْ عَبْدِ الْأَعْلَى، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُوَاصِلُ إِلَى السَّحَرِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) used to continue his fast until before dawn"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

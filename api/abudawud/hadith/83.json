@@ -1,0 +1,16 @@
+{
+  "id": 83,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ الْبَزَّازُ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ زَكَرِيَّا، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَا مِنْ قَوْمٍ يَقُومُونَ مِنْ مَجْلِسٍ لاَ يَذْكُرُونَ اللَّهَ فِيهِ إِلاَّ قَامُوا عَنْ مِثْلِ جِيفَةِ حِمَارٍ وَكَانَ لَهُمْ حَسْرَةً ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "The Prophet (ﷺ) said: People who get up from an assembly in which they did not remember Allah will be just as if they had got up from an ass's corpse, and it will be a cause of grief to them."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

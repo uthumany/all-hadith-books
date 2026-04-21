@@ -1,0 +1,16 @@
+{
+  "id": 582,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ حَاتِمٍ، قَالُوا حَدَّثَنَا يَحْيَى، الْقَطَّانُ عَنْ يَحْيَى بْنِ سَعِيدٍ، بِهَذَا الإِسْنَادِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This hadith has been narrated by Yabya b. Sa'id with the same chain of transmitters."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

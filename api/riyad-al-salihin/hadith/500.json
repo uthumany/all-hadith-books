@@ -1,0 +1,16 @@
+{
+  "id": 500,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة، رضي الله عنه، قال‏:‏ قال رسول الله، صلى الله عليه وسلم ‏:‏ ‏\"‏ اللهم اجعل رزق آل محمد قوتاً‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \n\nقال أهل اللغة والغريب‏:‏ معنى ‏\"‏ قوتاً‏\"‏ أي‏:‏ ما يسد الرمق‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) used to supplicate: \"O Allah, make the provisions of family of Muhammad (ﷺ) bare subsistence.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

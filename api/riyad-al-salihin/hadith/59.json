@@ -1,0 +1,16 @@
+{
+  "id": 59,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "السادس‏:‏ عن أبي خالد حكيم بن حزام‏.‏ رضي الله عنه ، قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏ البيعان بالخيار مالم يتفرقا، فإن صدقاً وبينا بورك لهما في  بيعهما، وإن كتما وكذبا محقت بركة بيعهما‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Hakim bin Hizam (May Allah be pleased with him) reported that:",
+    "text": "Messenger of Allah (ﷺ) said: \"Both parties in a business transaction have a right to annul it so long as they have not separated; and if they tell the truth and make everything clear to each other (i.e., the seller and the buyer speak the truth, the seller with regard to what is purchased, and the buyer with regard to the money) they will be blessed in their transaction, but if they conceal anything and lie, the blessing on their transaction will be eliminated.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

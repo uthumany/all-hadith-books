@@ -1,0 +1,16 @@
+{
+  "id": 51,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْمَعِدَةُ حَوْضُ الْبَدَنِ وَالْعُرُوقُ إِلَيْهَا وَارِدَةٌ فَإِذَا صَحَّتِ الْمَعِدَةُ صَدَرَتِ الْعُرُوقُ بِالصِّحَّةِ وَإِذَا فَسَدَتِ الْمَعِدَةُ صَدَرَتِ الْعُرُوقُ بِالسقمِ»",
+  "english": {
+    "narrator": "Abu Huraira reported God’s messenger as saying:",
+    "text": "“The stomach is the tank of the body and the veins go down to it. When the stomach is healthy the veins come back in a healthy condition, but when it is in a bad condition they return diseased.”"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

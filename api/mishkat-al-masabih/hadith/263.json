@@ -1,0 +1,16 @@
+{
+  "id": 263,
+  "chapterId": 19,
+  "bookId": 14,
+  "arabic": "وَعَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ قَالَ: أَخْبَرَنِي عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لأخرِجنَّ اليهودَ والنصَارى من جزيرةِ الْعَرَب حَتَّى لَا أَدَعَ فِيهَا إِلَّا مُسْلِمًا» . رَوَاهُ مُسْلِمٌ وَفِي رِوَايَةٍ: «لَئِنْ عِشْتُ إِنْ شَاءَ اللَّهُ لَأُخْرِجَنَّ الْيَهُودَ وَالنَّصَارَى مِنْ جَزِيرَةِ الْعَرَبِ»",
+  "english": {
+    "narrator": "",
+    "text": "Jabir b. ‘Abdallah said he was told by ‘Umar b. al-Khattab that he had heard God’s Messenger say, “I will certainly expel the Jews and the Christians from Arabia so as to leave only Muslims in it.” \n\nMuslim transmitted it. A version has, “If I live, God willing, I will certainly expel the Jews and the Christians from Arabia.”"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

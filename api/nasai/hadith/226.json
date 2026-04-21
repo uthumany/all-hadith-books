@@ -1,0 +1,16 @@
+{
+  "id": 226,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، وَيَزِيدُ، وَمُعْتَمِرٌ، وَبِشْرُ بْنُ الْمُفَضَّلِ، قَالُوا حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنْ سَعِيدِ بْنِ أَبِي هِنْدٍ، عَنْ أَبِي مُوسَى، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ اللَّهَ عَزَّ وَجَلَّ أَحَلَّ لإِنَاثِ أُمَّتِي الْحَرِيرَ وَالذَّهَبَ وَحَرَّمَهُ عَلَى ذُكُورِهَا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Abu Musa that:",
+    "text": "The Messenger of Allah  said: \"Allah has permitted silk and gold to the females of my Ummah, and has forbidden them to the males.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

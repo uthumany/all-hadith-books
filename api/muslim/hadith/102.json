@@ -1,0 +1,16 @@
+{
+  "id": 102,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي \n سَالِمُ بْنُ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ\n ‏\n\"‏ تُقَاتِلُكُمُ الْيَهُودُ فَتُسَلَّطُونَ عَلَيْهِمْ حَتَّى يَقُولَ الْحَجَرُ يَا مُسْلِمُ هَذَا يَهُودِيٌّ وَرَائِي فَاقْتُلْهُ\n ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abdullah b. 'Umar reported that Allah's Messenger (ﷺ) said:",
+    "text": "The Jews will fight against you and you will gain victory over them until the stone would say: Muslim, here is a Jew behind me; kill him."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

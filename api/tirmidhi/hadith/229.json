@@ -1,0 +1,16 @@
+{
+  "id": 229,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسِ بْنِ مَالِكٍ، عَنْ أُمِّ سُلَيْمٍ، أَنَّهَا قَالَتْ يَا رَسُولَ اللَّهِ أَنَسٌ خَادِمُكَ ادْعُ اللَّهَ لَهُ ‏.‏ قَالَ ‏\n\"‏ اللَّهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ وَبَارِكْ لَهُ فِيمَا أَعْطَيْتَهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "from Umm Sulaim, that she said: \"O Messenger of Allah, Anas bin Malik is your servant, supplicate to Allah for him.\" He said: \"O Allah, increase his wealth and his children, and bless him in what You have given him.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

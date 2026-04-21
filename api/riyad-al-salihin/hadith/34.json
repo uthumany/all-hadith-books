@@ -1,0 +1,16 @@
+{
+  "id": 34,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول ‏:‏ ‏\n\"‏إن لله عزوجل قال‏:‏ إذا ابتليت عبدي بحبيبتيه فصبر عوضته منهما الجنة‏\"‏ \n\n(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) said:",
+    "text": "I heard the Messenger of Allah (ﷺ) saying, \"Allah, the Glorious and Exalted said: 'When I afflict my slave in his two dear things (i.e., his eyes), and he endures patiently, I shall compensate him for them with Jannah.\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

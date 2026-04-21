@@ -1,0 +1,510 @@
+{
+  "page": 37,
+  "perPage": 50,
+  "totalPages": 116,
+  "totalCount": 5768,
+  "nextPage": 38,
+  "prevPage": 36,
+  "items": [
+    {
+      "id": 199,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْدَانَ بْنِ عِيسَى، قَالَ حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، قَالَ حَدَّثَنَا مَعْقِلٌ، عَنْ عَطَاءٍ، قَالَ أُخْبِرْتُ أَنَّ أُمَّ حَبِيبَةَ بِنْتَ أَبِي سُفْيَانَ قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ رَكَعَ ثِنْتَىْ عَشْرَةَ رَكْعَةً فِي يَوْمِهِ وَلَيْلَتِهِ سِوَى الْمَكْتُوبَةِ بَنَى اللَّهُ لَهُ بِهَا بَيْتًا فِي الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Ata said:",
+        "text": "\"I was told that Umm Habibah bin Abi Sufyan said: \"I heard the Messenger of Allah (ﷺ) say: 'Whoever prays twelve rak'ahs during the day and night, apart from the prescribed prayers, Allah (SWT) will build for him a house in Paradise.'\""
+      }
+    },
+    {
+      "id": 200,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ الْحَسَنِ، قَالَ حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ قَالَ ابْنُ جُرَيْجٍ قُلْتُ لِعَطَاءٍ بَلَغَنِي أَنَّكَ تَرْكَعُ قَبْلَ الْجُمُعَةِ اثْنَتَىْ عَشْرَةَ رَكْعَةً مَا بَلَغَكَ فِي ذَلِكَ قَالَ أَخْبَرَتْ أُمُّ حَبِيبَةَ عَنْبَسَةَ بْنَ أَبِي سُفْيَانَ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ رَكَعَ اثْنَتَىْ عَشْرَةَ رَكْعَةً فِي الْيَوْمِ وَاللَّيْلَةِ سِوَى الْمَكْتُوبَةِ بَنَى اللَّهُ عَزَّ وَجَلَّ لَهُ بَيْتًا فِي الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Juraij said:",
+        "text": "\"I said to Ata: 'I heard that you pray twelve rak'ahs before Jumu'ah. What did you hear concerning that?' He said: 'I was told that Umm Habibah bin Abi Sufyan said: \"I heard the Messenger of Allah (ﷺ) say: 'Whoever prays twelve rak'ahs during the day and night, apart from the prescribed prayers, Allah (SWT), the Mighty and Sublime, will build for him a house in Paradise.'\""
+      }
+    },
+    {
+      "id": 201,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي أَيُّوبُ بْنُ مُحَمَّدٍ، قَالَ أَنْبَأَنَا مُعَمَّرُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا زَيْدُ بْنُ حِبَّانَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ صَلَّى فِي يَوْمٍ ثِنْتَىْ عَشْرَةَ رَكْعَةً بَنَى اللَّهُ عَزَّ وَجَلَّ لَهُ بَيْتًا فِي الْجَنَّةِ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ عَطَاءٌ لَمْ يَسْمَعْهُ مِنْ عَنْبَسَةَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Ata from Anbasah bin Abi Sufyan, that Umm Habibah said:",
+        "text": "\"I heard the Messenger of Allah (ﷺ) say: 'Whoever prays twelve rak'ahs a day, Allah (SWT), the Mighty and Sublime, will build for him a house in Paradise.'\""
+      }
+    },
+    {
+      "id": 202,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ سَعِيدٍ الطَّائِفِيُّ، قَالَ حَدَّثَنَا عَطَاءُ بْنُ أَبِي رَبَاحٍ، عَنْ يَعْلَى بْنِ أُمَيَّةَ، قَالَ قَدِمْتُ الطَّائِفَ فَدَخَلْتُ عَلَى عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ وَهُوَ بِالْمَوْتِ فَرَأَيْتُ مِنْهُ جَزَعًا فَقُلْتُ إِنَّكَ عَلَى خَيْرٍ ‏.‏ فَقَالَ أَخْبَرَتْنِي أُخْتِي أُمُّ حَبِيبَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ صَلَّى ثِنْتَىْ عَشْرَةَ رَكْعَةً بِالنَّهَارِ أَوْ بِاللَّيْلِ بَنَى اللَّهُ عَزَّ وَجَلَّ لَهُ بَيْتًا فِي الْجَنَّةِ ‏\"‏ ‏.‏ خَالَفَهُمْ أَبُو يُونُسَ الْقُشَيْرِيُّ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ya'la bin Umayyah said:",
+        "text": "\"I came to At-Ta'if and entered upon Anbasah bin Abi Sufyan when he was dying. I saw that he was afraid so I said: 'You will be fine.' He said: 'My sister Umm Habibah told me that the Messenger of Allah (ﷺ) said: Whoever prays twelve rak'ahs by day or by night, Allah, the Mighty and Sublime, will build for him a house in Paradise.'\""
+      }
+    },
+    {
+      "id": 203,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ نُعَيْمٍ، قَالَ حَدَّثَنَا حَبَّانُ، وَمُحَمَّدُ بْنُ مَكِّيٍّ، قَالاَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ أَبِي يُونُسَ الْقُشَيْرِيِّ، عَنِ ابْنِ أَبِي رَبَاحٍ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، حَدَّثَهُ عَنْ أُمِّ حَبِيبَةَ بِنْتِ أَبِي سُفْيَانَ، قَالَتْ مَنْ صَلَّى ثِنْتَىْ عَشْرَةَ رَكْعَةً فِي يَوْمٍ فَصَلَّى قَبْلَ الظُّهْرِ بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Umm Habibah bint Abi Sufyan said:",
+        "text": "\"Whoever prays twelve rak'ahs in a day and prays before Zuhr, Allah (SWT) will build for him a house in Paradise.\""
+      }
+    },
+    {
+      "id": 204,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ، قَالَ أَنْبَأَنَا أَبُو الأَسْوَدِ، قَالَ حَدَّثَنِي بَكْرُ بْنُ مُضَرَ، عَنِ ابْنِ عَجْلاَنَ، عَنْ أَبِي إِسْحَاقَ الْهَمْدَانِيِّ، عَنْ عَمْرِو بْنِ أَوْسٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ اثْنَتَا عَشْرَةَ رَكْعَةً مَنْ صَلاَّهُنَّ بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ أَرْبَعَ رَكَعَاتٍ قَبْلَ الظُّهْرِ وَرَكْعَتَيْنِ بَعْدَ الظُّهْرِ وَرَكْعَتَيْنِ قَبْلَ الْعَصْرِ وَرَكْعَتَيْنِ بَعْدَ الْمَغْرِبِ وَرَكْعَتَيْنِ قَبْلَ صَلاَةِ الصُّبْحِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Umm Habibah that:",
+        "text": "The Messenger of Allah (ﷺ) said: \"Twelve rak'ahs, whoever prays them Allah will build for him a house in Paradise: four rak'ahs before Zuhr and two rak'ahs after Zuhr, two rak'ahs before Asr, two rak'ahs after Maghrib and two rak'ahs before Subh prayer.\""
+      }
+    },
+    {
+      "id": 205,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَبُو الأَزْهَرِ، أَحْمَدُ بْنُ الأَزْهَرِ النَّيْسَابُورِيُّ قَالَ حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا فُلَيْحٌ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْمُسَيَّبِ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ صَلَّى اثْنَتَىْ عَشْرَةَ رَكْعَةً بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ أَرْبَعًا قَبْلَ الظُّهْرِ وَاثْنَتَيْنِ بَعْدَهَا وَاثْنَتَيْنِ قَبْلَ الْعَصْرِ وَاثْنَتَيْنِ بَعْدَ الْمَغْرِبِ وَاثْنَتَيْنِ قَبْلَ الصُّبْحِ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ فُلَيْحُ بْنُ سُلَيْمَانَ لَيْسَ بِالْقَوِيِّ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Umm Habibah said:",
+        "text": "\"The Messenger of Allah (ﷺ) said: 'Whoever prays twelve rak'ahs, Allah (SWT) will build for him a house in paradise: four before Zuhr and two after, two before Asr, two after Maghrib, and two before Subh.'\""
+      }
+    },
+    {
+      "id": 206,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ أَنْبَأَنَا زُهَيْرٌ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، عَنْ عَنْبَسَةَ، أَخِي أُمِّ حَبِيبَةَ عَنْ أُمِّ حَبِيبَةَ، قَالَتْ مَنْ صَلَّى فِي الْيَوْمِ وَاللَّيْلَةِ ثِنْتَىْ عَشْرَةَ رَكْعَةً سِوَى الْمَكْتُوبَةِ بُنِيَ لَهُ بَيْتٌ فِي الْجَنَّةِ أَرْبَعًا قَبْلَ الظُّهْرِ وَرَكْعَتَيْنِ بَعْدَهَا وَثِنْتَيْنِ قَبْلَ الْعَصْرِ وَثِنْتَيْنِ بَعْدَ الْمَغْرِبِ وَثِنْتَيْنِ قَبْلَ الْفَجْرِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Umm Habibah said:",
+        "text": "\"Whoever prays twelve rak'ahs during the night and day other than the prescribed prayers, a house will be built for him in Paradise: four before Zuhr and two rak'ahs afterward, two before Asr, two after Maghrib and two before Fajr.\""
+      }
+    },
+    {
+      "id": 207,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ صَلَّى فِي الْيَوْمِ وَاللَّيْلَةِ ثِنْتَىْ عَشْرَةَ رَكْعَةً بُنِيَ لَهُ بَيْتٌ فِي الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Umm Habibah that:",
+        "text": "The Prophet (ﷺ) said: \"Whoever prays twelve rak'ahs during the day and night, a house will be built for him in Paradise.\""
+      }
+    },
+    {
+      "id": 208,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا يَعْلَى، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، قَالَتْ مَنْ صَلَّى فِي اللَّيْلِ وَالنَّهَارِ ثِنْتَىْ عَشْرَةَ رَكْعَةً سِوَى الْمَكْتُوبَةِ بُنِيَ لَهُ بَيْتٌ فِي الْجَنَّةِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Umm Habibah said:",
+        "text": "\"Whoever prays twelve rak'ahs during the night and day apart from the prescribed prayers, a house will be built for him in Paradise.\""
+      }
+    },
+    {
+      "id": 209,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ مَكِّيٍّ، وَحِبَّانُ، قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ إِسْمَاعِيلَ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، عَنْ أُمِّ حَبِيبَةَ، قَالَتْ مَنْ صَلَّى فِي يَوْمٍ وَلَيْلَةٍ ثِنْتَىْ عَشْرَةَ رَكْعَةً سِوَى الْمَكْتُوبَةِ بَنَى اللَّهُ عَزَّ وَجَلَّ لَهُ بَيْتًا فِي الْجَنَّةِ ‏.‏ لَمْ يَرْفَعْهُ حُصَيْنٌ وَأَدْخَلَ بَيْنَ عَنْبَسَةَ وَبَيْنَ الْمُسَيَّبِ ذَكْوَانَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Umm Habibah said:",
+        "text": "\"Whoever prays twelve rak'ahs during the night and day apart from the prescribed prayers, Allah (SWT), the Mighty and Sublime, will build for him a house in Paradise.\""
+      }
+    },
+    {
+      "id": 210,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا زَكَرِيَّا بْنُ يَحْيَى، قَالَ حَدَّثَنَا وَهْبٌ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ حُصَيْنٍ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، عَنْ أَبِي صَالِحٍ، ذَكْوَانَ قَالَ حَدَّثَنِي عَنْبَسَةُ بْنُ أَبِي سُفْيَانَ، أَنَّ أُمَّ حَبِيبَةَ، حَدَّثَتْهُ أَنَّهُ، مَنْ صَلَّى فِي يَوْمٍ ثِنْتَىْ عَشْرَةَ رَكْعَةً بُنِيَ لَهُ بَيْتٌ فِي الْجَنَّةِ ‏.‏",
+      "english": {
+        "narrator": "Anbasah bin Abi Sufyan narrated that:",
+        "text": "Umm Habibah told him: \"Whoever prays twelve rak'ahs, a house will be built for him in Paradise.\""
+      }
+    },
+    {
+      "id": 211,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَحْيَى بْنُ حَبِيبٍ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ عَاصِمٍ، عَنْ أَبِي صَالِحٍ، عَنْ أُمِّ حَبِيبَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ صَلَّى فِي يَوْمٍ ثِنْتَىْ عَشْرَةَ رَكْعَةً سِوَى الْفَرِيضَةِ بَنَى اللَّهُ لَهُ أَوْ بُنِيَ لَهُ بَيْتٌ فِي الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Umm Habibah said:",
+        "text": "\"The Messenger of Allah (ﷺ) said: 'Whoever prays twelve rak'ahs in a day apart from the obligatory prayers, Allah (SWT) will build for him, or there will be built for him, a house in Paradise.'\""
+      }
+    },
+    {
+      "id": 212,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ الْمُثَنَّى، عَنْ سُوَيْدِ بْنِ عَمْرٍو، قَالَ حَدَّثَنِي حَمَّادٌ، عَنْ عَاصِمٍ، عَنْ أَبِي صَالِحٍ، عَنْ أُمِّ حَبِيبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ صَلَّى ثِنْتَىْ عَشْرَةَ رَكْعَةً فِي يَوْمٍ وَلَيْلَةٍ بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Umm Habibah that:",
+        "text": "The Messenger of Allah (ﷺ) said: \"Whoever prays twelve rak'ahs a day and night, Allah (SWT) will build for him a house in Paradise.\""
+      }
+    },
+    {
+      "id": 213,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا زَكَرِيَّا بْنُ يَحْيَى، قَالَ حَدَّثَنَا إِسْحَاقُ، قَالَ حَدَّثَنَا النَّضْرُ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ عَاصِمٍ، عَنْ أَبِي صَالِحٍ، عَنْ أُمِّ حَبِيبَةَ، قَالَتْ مَنْ صَلَّى فِي يَوْمٍ اثْنَتَىْ عَشْرَةَ رَكْعَةً بُنِيَ لَهُ بَيْتٌ فِي الْجَنَّةِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Umm Habibah said:",
+        "text": "\"Whoever prays twelve rak'ahs in a day, a house will be built for him in Paradise.\""
+      }
+    },
+    {
+      "id": 214,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا يَحْيَى بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ صَلَّى فِي يَوْمٍ ثِنْتَىْ عَشْرَةَ رَكْعَةً سِوَى الْفَرِيضَةِ بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ هَذَا خَطَأٌ وَمُحَمَّدُ بْنُ سُلَيْمَانَ ضَعِيفٌ هُوَ ابْنُ الأَصْبَهَانِيِّ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ مِنْ أَوْجُهٍ سِوَى هَذَا الْوَجْهِ بِغَيْرِ اللَّفْظِ الَّذِي تَقَدَّمَ ذِكْرُهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "The Prophet (ﷺ) said: \"Whoever prays twelve rak'ahs in a day apart from the obligatory prayers, Allah (SWT) will build for him a house in Paradise.\""
+      }
+    },
+    {
+      "id": 215,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي يَزِيدُ بْنُ مُحَمَّدِ بْنِ عَبْدِ الصَّمَدِ، قَالَ حَدَّثَنَا هِشَامٌ الْعَطَّارُ، قَالَ حَدَّثَنِي إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ بْنِ سَمَاعَةَ، عَنْ مُوسَى بْنِ أَعْيَنَ، عَنْ أَبِي عَمْرٍو الأَوْزَاعِيِّ، عَنْ حَسَّانَ بْنِ عَطِيَّةَ، قَالَ لَمَّا نُزِلَ بِعَنْبَسَةَ جَعَلَ يَتَضَوَّرُ فَقِيلَ لَهُ فَقَالَ أَمَا إِنِّي سَمِعْتُ أُمَّ حَبِيبَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم تُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ مَنْ رَكَعَ أَرْبَعَ رَكَعَاتٍ قَبْلَ الظُّهْرِ وَأَرْبَعًا بَعْدَهَا حَرَّمَ اللَّهُ عَزَّ وَجَلَّ لَحْمَهُ عَلَى النَّارِ ‏\"‏ ‏.‏ فَمَا تَرَكْتُهُنَّ مُنْذُ سَمِعْتُهُنَّ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Hassan bin 'Atiyyah said:",
+        "text": "\"When 'Anbasah was dying, he started to groan in pain. The people spoke to him and he said: 'I heard Umm Habibah, the wife of the Prophet (ﷺ) narrating that the Prophet (ﷺ) said: Whoever prays four rak'ahs before Zuhr and four after, Allah, the Mighty and Sublime, will forbid his flesh for the Fire. And I never stopped praying them from the time I heard that.'\""
+      }
+    },
+    {
+      "id": 216,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هِلاَلُ بْنُ الْعَلاَءِ بْنِ هِلاَلٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ، قَالَ حَدَّثَنِي أَيُّوبُ، - رَجُلٌ مِنْ أَهْلِ الشَّامِ - عَنِ الْقَاسِمِ الدِّمَشْقِيِّ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، قَالَ أَخْبَرَتْنِي أُخْتِي أُمُّ حَبِيبَةَ، زَوْجُ النَّبِيِّ صلى الله عليه وسلم أَنَّ حَبِيبَهَا أَبَا الْقَاسِمِ صلى الله عليه وسلم أَخْبَرَهَا قَالَ ‏\n\"‏ مَا مِنْ عَبْدٍ مُؤْمِنٍ يُصَلِّي أَرْبَعَ رَكَعَاتٍ بَعْدَ الظُّهْرِ فَتَمَسُّ وَجْهَهُ النَّارُ أَبَدًا إِنْ شَاءَ اللَّهُ عَزَّ وَجَلَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Anbasah bin Abi Sufyan said:",
+        "text": "\"My sister Umm Habibah, the wife of the Prophet (ﷺ), told me that her beloved Abu Al-Qasim (ﷺ) told her: 'There is no believing slave who prays four rak'ahs after Zuhr whose face will ever be touched by the Fire, if Allah, the Mighty and Sublime, wills.'\""
+      }
+    },
+    {
+      "id": 217,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ نَاصِحٍ، قَالَ حَدَّثَنَا مَرْوَانُ بْنُ مُحَمَّدٍ، عَنْ سَعِيدِ بْنِ عَبْدِ الْعَزِيزِ، عَنْ سُلَيْمَانَ بْنِ مُوسَى، عَنْ مَكْحُولٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ ‏\n\"‏ مَنْ صَلَّى أَرْبَعَ رَكَعَاتٍ قَبْلَ الظُّهْرِ وَأَرْبَعًا بَعْدَهَا حَرَّمَهُ اللَّهُ عَزَّ وَجَلَّ عَلَى النَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Umm Habibah that:",
+        "text": "The Messenger of Allah (ﷺ) used to say: \"Whoever prays four rak'ahs before Zuhr and four after, Allah, the Mighty and Sublime, will forbid him from the Fire.\""
+      }
+    },
+    {
+      "id": 218,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ خَالِدٍ، عَنْ مَرْوَانَ بْنِ مُحَمَّدٍ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ، عَنْ سُلَيْمَانَ بْنِ مُوسَى، عَنْ مَكْحُولٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، - قَالَ مَرْوَانُ وَكَانَ سَعِيدٌ إِذَا قُرِئَ عَلَيْهِ عَنْ أُمِّ حَبِيبَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم أَقَرَّ بِذَلِكَ وَلَمْ يُنْكِرْهُ وَإِذَا حَدَّثَنَا بِهِ هُوَ لَمْ يَرْفَعْهُ - قَالَتْ مَنْ رَكَعَ أَرْبَعَ رَكَعَاتٍ قَبْلَ الظُّهْرِ وَأَرْبَعًا بَعْدَهَا حَرَّمَهُ اللَّهُ عَلَى النَّارِ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ مَكْحُولٌ لَمْ يَسْمَعْ مِنْ عَنْبَسَةَ شَيْئًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Umm Habibah-and when this was narrated to Sa'eed from Umm Habibah from the Prophet (ﷺ), he would approve it and not deny it but when he narrated it to us, he did not attribute it to the Prophet (ﷺ)- she said:",
+        "text": "\"Whoever prays four rak'ahs before Zuhr and four after it, Allah (SWT) will forbid him from the Fire.\""
+      }
+    },
+    {
+      "id": 219,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا أَبُو عَاصِمٍ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ، قَالَ سَمِعْتُ سُلَيْمَانَ بْنَ مُوسَى، يُحَدِّثُ عَنْ مُحَمَّدِ بْنِ أَبِي سُفْيَانَ، قَالَ لَمَّا نَزَلَ بِهِ الْمَوْتُ أَخَذَهُ أَمْرٌ شَدِيدٌ فَقَالَ حَدَّثَتْنِي أُخْتِي أُمُّ حَبِيبَةَ بِنْتُ أَبِي سُفْيَانَ قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ حَافَظَ عَلَى أَرْبَعِ رَكَعَاتٍ قَبْلَ الظُّهْرِ وَأَرْبَعٍ بَعْدَهَا حَرَّمَهُ اللَّهُ تَعَالَى عَلَى النَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Sulaiman bin Musa narrated that:",
+        "text": "When Muhammad bin Abi Sufyan was dying, he was greatly distressed and said: \"My sister Umm Habibah bint Abi Sufyan said: 'The Messenger of Allah (ﷺ) said: Whoever maintains four rak'ahs before Zuhr and four after, Allah (SWT) will forbid him from the Fire.'\""
+      }
+    },
+    {
+      "id": 220,
+      "chapterId": 20,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا أَبُو قُتَيْبَةَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الشُّعَيْثِيُّ، عَنْ أَبِيهِ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ صَلَّى أَرْبَعًا قَبْلَ الظُّهْرِ وَأَرْبَعًا بَعْدَهَا لَمْ تَمَسَّهُ النَّارُ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ هَذَا خَطَأٌ وَالصَّوَابُ حَدِيثُ مَرْوَانَ مِنْ حَدِيثِ سَعِيدِ بْنِ عَبْدِ الْعَزِيزِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Umm Habibah that:",
+        "text": "The Prophet (ﷺ) said: \"Whoever prays four rak'ahs before Zuhr and four after, the Fire will not touch him.\""
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَتَمَنَّيَنَّ أَحَدٌ مِنْكُمُ الْمَوْتَ إِمَّا مُحْسِنًا فَلَعَلَّهُ أَنْ يَزْدَادَ خَيْرًا وَإِمَّا مُسِيئًا فَلَعَلَّهُ أَنْ يَسْتَعْتِبَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah said:",
+        "text": "\"None of you should wish for death. Either he is a doer of good, so perhaps he may do more good, or he is an evildoer but perhaps he will give up his evil ways.\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ، قَالَ حَدَّثَنَا بَقِيَّةُ، قَالَ حَدَّثَنَا الزُّبَيْدِيُّ، قَالَ حَدَّثَنِي الزُّهْرِيُّ، عَنْ أَبِي عُبَيْدٍ، مَوْلَى عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ إِمَّا مُحْسِنًا فَلَعَلَّهُ أَنْ يَعِيشَ يَزْدَادُ خَيْرًا وَهُوَ خَيْرٌ لَهُ وَإِمَّا مُسِيئًا فَلَعَلَّهُ أَنْ يَسْتَعْتِبَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Ubaid the freed slave of 'Abdur-Rahman bin Awf that he heard Abu Huraidah say:",
+        "text": "'None of you should wish for death. Either he is a doer of good, so if he lives he will do more good or he is a doer of evil but perhaps he will give up his evil ways.\"'"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ - عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ لِضُرٍّ نَزَلَ بِهِ فِي الدُّنْيَا وَلَكِنْ لِيَقُلِ اللَّهُمَّ أَحْيِنِي مَا كَانَتِ الْحَيَاةُ خَيْرًا لِي وَتَوَفَّنِي إِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated form Anas that the Messenger of Allah said:",
+        "text": "\"None of you should wish for death because of some harm that befalls him, rather he should say: 'Allahumma ahini ma kanatil-hayatu khairanli wa tawaffani idha kanatil-wafatu khairanli (O Allah, keep me alive so alive so long as life is good for me, and cause me to die when death is good for me.)\"'"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ عَبْدِ الْعَزِيزِ، ح وَأَنْبَأَنَا عِمْرَانُ بْنُ مُوسَى، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَلاَ لاَ يَتَمَنَّى أَحَدُكُمُ الْمَوْتَ لِضُرٍّ نَزَلَ بِهِ فَإِنْ كَانَ لاَ بُدَّ مُتَمَنِّيًا الْمَوْتَ فَلْيَقُلِ اللَّهُمَّ أَحْيِنِي مَا كَانَتِ الْحَيَاةُ خَيْرًا لِي وَتَوَفَّنِي إِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "\"The Messenger of Allah said: 'None of you should wish for death because of some harm that befalls him. If he must wish for death, let him say: Allahumma ahini ma kanatil-hayatu khairantli wa tawaffani idha kanatil-wafatu khairanli (O Allah, keep me alive so long as life is good for me, and cause me to die when death is good for me)\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصِ بْنِ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنِ الْحَجَّاجِ، - وَهُوَ الْبَصْرِيُّ - عَنْ يُونُسَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَدْعُوا بِالْمَوْتِ وَلاَ تَتَمَنَّوْهُ فَمَنْ كَانَ دَاعِيًا لاَ بُدَّ فَلْيَقُلِ اللَّهُمَّ أَحْيِنِي مَا كَانَتِ الْحَيَاةُ خَيْرًا لِي وَتَوَفَّنِي إِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "\"The Messenger of Allah said: 'Do not pray for death or wish for it. Whoever insists on praying for it let him say: Allahumma ahini ma kanatil-hayatu khairanli wa tawaffani idha kanatil-wafatu khairanli (O Allah, keep me alive so long as life is good for me, and cause me to die when death is good for me.)\"'"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي قَيْسٌ، قَالَ دَخَلْتُ عَلَى خَبَّابٍ وَقَدِ اكْتَوَى فِي بَطْنِهِ سَبْعًا وَقَالَ لَوْلاَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَانَا أَنْ نَدْعُوَ بِالْمَوْتِ دَعَوْتُ بِهِ ‏.‏",
+      "english": {
+        "narrator": "Qais said:",
+        "text": "\"I entered upon Khabbab when he had been cauterized on his stomach seven times. He said: 'Were it not that the Messenger of Allah forbade us to pray for death, I would have prayed for it.\"'"
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ أَنْبَأَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، ح وَأَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ إِبْرَاهِيمَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَكْثِرُوا ذِكْرَ هَاذِمِ اللَّذَّاتِ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ مُحَمَّدُ بْنُ إِبْرَاهِيمَ وَالِدُ أَبِي بَكْرِ بْنِ أَبِي شَيْبَةَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: 'Remember often the destroyer of pleasures.\"' (Hasan)\nAbu 'Abdur-Rahaman (An-Nasai) said: Muhammad bin Ibrahim (one of the narrators) is the father of Abu Bakr Ibn Abi Shaibah."
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ يَحْيَى، عَنِ الأَعْمَشِ، قَالَ حَدَّثَنِي شَقِيقٌ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ إِذَا حَضَرْتُمُ الْمَرِيضَ فَقُولُوا خَيْرًا فَإِنَّ الْمَلاَئِكَةَ يُؤَمِّنُونَ عَلَى مَا تَقُولُونَ ‏\"‏ ‏.‏ فَلَمَّا مَاتَ أَبُو سَلَمَةَ قُلْتُ يَا رَسُولَ اللَّهِ كَيْفَ أَقُولُ قَالَ ‏\"‏ قُولِي اللَّهُمَّ اغْفِرْ لَنَا وَلَهُ وَأَعْقِبْنِي مِنْهُ عُقْبَى حَسَنَةً ‏\"‏ ‏.‏ فَأَعْقَبَنِي اللَّهُ عَزَّ وَجَلَّ مِنْهُ مُحَمَّدًا صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Umm Salamah said:",
+        "text": "\"I heard the Messenger of Allah say: 'When you see the dead, say something good, for the angels say Amin to whatever you say; When Abu Salamah died, I said: 'O Messenger of Allah, what should I say?' He said: 'Say\" Allahummaghfirlanaa wa lahu wa a 'qibni minhu 'uqbai hasanah (O Allah, forgive us and him, and compensate me well for this loss.)\"' Then Allah, the Mighty and Sublime, compensated me with Muhammad.\""
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، قَالَ حَدَّثَنَا عُمَارَةُ بْنُ غَزِيَّةَ، قَالَ حَدَّثَنَا يَحْيَى بْنُ عُمَارَةَ، قَالَ سَمِعْتُ أَبَا سَعِيدٍ، ح وَأَنْبَأَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ، عَنْ عُمَارَةَ بْنِ غَزِيَّةَ، عَنْ يَحْيَى بْنِ عُمَارَةَ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لَقِّنُوا مَوْتَاكُمْ لاَ إِلَهَ إِلاَّ اللَّهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Saeed said:",
+        "text": "\"The Messenger of Allah said: 'Prompt your dying ones to say La ilaha illallah (there is none worthy of worship except Allah).\"'"
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنِي أَحْمَدُ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ حَدَّثَنَا مَنْصُورُ ابْنُ صَفِيَّةَ، عَنْ أُمِّهِ، صَفِيَّةَ بِنْتِ شَيْبَةَ عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لَقِّنُوا هَلْكَاكُمْ قَوْلَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Messenger of Allah said: 'Prompt your dying ones to say La ilaha illahllah (there is none worthy of worship except Allah).\"'"
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنِ الْمُثَنَّى بْنِ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَوْتُ الْمُؤْمِنِ بِعَرَقِ الْجَبِينِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It is narrated from 'Abdullah bin Buraidah, from his father, that the Messenger of Allah said:",
+        "text": "\"The believer dies with sweat on his forehead.\""
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، قَالَ حَدَّثَنَا يُوسُفُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا كَهْمَسٌ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ الْمُؤْمِنُ يَمُوتُ بِعَرَقِ الْجَبِينِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from (Ibn Buraidah) that his father said:",
+        "text": "\"I heard the Messenger of Allah say: 'The believer dies with sweat on his forehead.\"'"
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ حَدَّثَنِي اللَّيْثُ، قَالَ حَدَّثَنِي ابْنُ الْهَادِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ مَاتَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَإِنَّهُ لَبَيْنَ حَاقِنَتِي وَذَاقِنَتِي فَلاَ أَكْرَهُ شِدَّةَ الْمَوْتِ لأَحَدٍ أَبَدًا بَعْدَ مَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Messenger of Allah died while he was between my chest and my chin, and I never disliked the agony of death for anyone after I saw the Messenger of Allah.\""
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسٍ، قَالَ آخِرُ نَظْرَةٍ نَظَرْتُهَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم كَشَفَ السِّتَارَةَ وَالنَّاسُ صُفُوفٌ خَلْفَ أَبِي بَكْرٍ رضى الله عنه فَأَرَادَ أَبُو بَكْرٍ أَنْ يَرْتَدَّ فَأَشَارَ إِلَيْهِمْ أَنِ امْكُثُوا وَأَلْقَى السِّجْفَ وَتُوُفِّيَ مِنْ آخِرِ ذَلِكَ الْيَوْمِ وَذَلِكَ يَوْمُ الاِثْنَيْنِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "\"The last time I saw the Messenger of Allah, he drew back the curtain when the people were in rows behind Abu Bakr, may Allah be pleased with him. Abu Bakr wanted to step back, but he gestured to them to stay as they were, and let the curtain drop. He died at the end of that day, and that was a Monday.\""
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي حُيَىُّ بْنُ عَبْدِ اللَّهِ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْحُبُلِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ مَاتَ رَجُلٌ بِالْمَدِينَةِ مِمَّنْ وُلِدَ بِهَا فَصَلَّى عَلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ قَالَ ‏\"‏ يَا لَيْتَهُ مَاتَ بِغَيْرِ مَوْلِدِهِ ‏\"‏ ‏.‏ قَالُوا وَلِمَ ذَاكَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ إِنَّ الرَّجُلَ إِذَا مَاتَ بِغَيْرِ مَوْلِدِهِ قِيسَ لَهُ مِنْ مَوْلِدِهِ إِلَى مُنْقَطَعِ أَثَرِهِ فِي الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah bin 'Amr said:",
+        "text": "\"A man who had been born in Al-Madinah died there, and the Messenger of Allah prayed for him, then he said: 'Would that he had died somewhere other than the place where he was born.' They said: 'Why is that, O Messenger of Allah?' He said: If a man dies somewhere other than the place where he was born, a space in him equal to the distance between the place where he was born and the place where he died.\""
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ قَسَامَةَ بْنِ زُهَيْرٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا حُضِرَ الْمُؤْمِنُ أَتَتْهُ مَلاَئِكَةُ الرَّحْمَةِ بِحَرِيرَةٍ بَيْضَاءَ فَيَقُولُونَ اخْرُجِي رَاضِيَةً مَرْضِيًّا عَنْكِ إِلَى رَوْحِ اللَّهِ وَرَيْحَانٍ وَرَبٍّ غَيْرِ غَضْبَانَ ‏.‏ فَتَخْرُجُ كَأَطْيَبِ رِيحِ الْمِسْكِ حَتَّى أَنَّهُ لَيُنَاوِلُهُ بَعْضُهُمْ بَعْضًا حَتَّى يَأْتُونَ بِهِ بَابَ السَّمَاءِ فَيَقُولُونَ مَا أَطْيَبَ هَذِهِ الرِّيحَ الَّتِي جَاءَتْكُمْ مِنَ الأَرْضِ ‏.‏ فَيَأْتُونَ بِهِ أَرْوَاحَ الْمُؤْمِنِينَ فَلَهُمْ أَشَدُّ فَرَحًا بِهِ مِنْ أَحَدِكُمْ بِغَائِبِهِ يَقْدَمُ عَلَيْهِ فَيَسْأَلُونَهُ مَاذَا فَعَلَ فُلاَنٌ مَاذَا فَعَلَ فُلاَنٌ فَيَقُولُونَ دَعُوهُ فَإِنَّهُ كَانَ فِي غَمِّ الدُّنْيَا فَإِذَا قَالَ أَمَا أَتَاكُمْ قَالُوا ذُهِبَ بِهِ إِلَى أُمِّهِ الْهَاوِيَةِ وَإِنَّ الْكَافِرَ إِذَا احْتُضِرَ أَتَتْهُ مَلاَئِكَةُ الْعَذَابِ بِمِسْحٍ فَيَقُولُونَ اخْرُجِي سَاخِطَةً مَسْخُوطًا $$عَلَيْكِ إِلَى عَذَابِ اللَّهِ عَزَّ وَجَلَّ ‏.‏ فَتَخْرُجُ كَأَنْتَنِ رِيحِ جِيفَةٍ حَتَّى يَأْتُونَ بِهِ بَابَ الأَرْضِ فَيَقُولُونَ مَا أَنْتَنَ هَذِهِ الرِّيحَ حَتَّى يَأْتُونَ بِهِ أَرْوَاحَ الْكُفَّارِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Prophet said:",
+        "text": "\"When the believer is dying, the angels of mercy come to him with white silk and sya: 'Come out content and with the pleasure of Allah upon you to the mercy of Allah, fragrance and a Lord Who is not angry; So it comes out like the best fragrance of musk. They pass him from one to another until they bring him to the gate of heaven, where they say: '; How good is this fragrance that has come to you from the Earth! Then the souls of the believers come to him and they rejoice more over him than any one of you rejoices when his absent loved one comes to him. They ask him: 'What happened to so-and-so, what happened to so-and-so?' They say: 'Let him be, for he was in the hardship of the world. When he says, 'Did he not come here?' They say: 'He was taken to the pit (of Hell).' Come out discontent, subject of Divine wrath, to the punishment of Allah, the Mighty and Sublime; So it comes out like the foulest stench of a corpse. They bring him to the gates of the Earth, where they say: 'How foul is this stench!' Then they bring him to the souls of the disbelievers.\""
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَنَّادٌ، عَنْ أَبِي زُبَيْدٍ، - وَهُوَ عَبْثَرُ بْنُ الْقَاسِمِ - عَنْ مُطَرِّفٍ، عَنْ عَامِرٍ، عَنْ شُرَيْحِ بْنِ هَانِئٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ أَحَبَّ لِقَاءَ اللَّهِ أَحَبَّ اللَّهُ لِقَاءَهُ وَمَنْ كَرِهَ لِقَاءَ اللَّهِ كَرِهَ اللَّهُ لِقَاءَهُ ‏\"‏ ‏.‏ قَالَ شُرَيْحٌ فَأَتَيْتُ عَائِشَةَ فَقُلْتُ يَا أُمَّ الْمُؤْمِنِينَ سَمِعْتُ أَبَا هُرَيْرَةَ يَذْكُرُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم حَدِيثًا إِنْ كَانَ كَذَلِكَ فَقَدْ هَلَكْنَا ‏.‏ قَالَتْ وَمَا ذَاكَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ أَحَبَّ لِقَاءَ اللَّهِ أَحَبَّ اللَّهُ لِقَاءَهُ وَمَنْ كَرِهَ لِقَاءَ اللَّهِ كَرِهَ اللَّهُ لِقَاءَهُ ‏\"‏ ‏.‏ وَلَكِنْ لَيْسَ مِنَّا أَحَدٌ إِلاَّ وَهُوَ يَكْرَهُ الْمَوْتَ قَالَتْ قَدْ قَالَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم وَلَيْسَ بِالَّذِي تَذْهَبُ إِلَيْهِ وَلَكِنْ إِذَا طَمَحَ الْبَصَرُ وَحَشْرَجَ الصَّدْرُ وَاقْشَعَرَّ الْجِلْدُ فَعِنْدَ ذَلِكَ مَنْ أَحَبَّ لِقَاءَ اللَّهِ أَحَبَّ اللَّهُ لِقَاءَهُ وَمَنْ كَرِهَ لِقَاءَ اللَّهِ كَرِهَ اللَّهُ لِقَاءَهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said;\n\"The Messenger of Allah said:",
+        "text": "Allah loves to meet him, and whoever hates to meet Allah, Allah hates to meet him.\" (One of the narrators) Shuraih said: 'I went to Aishan and said: O mother of the believers! I heard Abu Hurairah narrate from the Messenger of Allah a Hadith which, if that is the case, we are all doomed. She said: 'What is that?' He said: 'The Messenger of Allah said: Whoever loves to meet him, and whoever hates to meet Allah, Allah hates to meet him. But there is no one among us who does not hate death.' She said: 'The Messenger of Allah did say that, but it is not what you think. When the eyes begin to stare, the death rattle sounds in the chest and the flesh shiver, at that point, whoever loves to meet Allah, Allah loves to meet him, and whoever hates to meet Allah, Allah hates to meet him.\"'"
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، حَدَّثَنِي مَالِكٌ، ح وَأَنْبَأَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا الْمُغِيرَةُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ قَالَ اللَّهُ تَعَالَى إِذَا أَحَبَّ عَبْدِي لِقَائِي أَحْبَبْتُ لِقَاءَهُ وَإِذَا كَرِهَ لِقَائِي كَرِهْتُ لِقَاءَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: Allah, the Most High, said: If My slave loves to meet Me, I love to meet him, and if he hates to meet Me, I hate to meet him.\"'"
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، قَالَ سَمِعْتُ أَنَسًا، يُحَدِّثُ عَنْ عُبَادَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ أَحَبَّ لِقَاءَ اللَّهِ أَحَبَّ اللَّهُ لِقَاءَهُ وَمَنْ كَرِهَ لِقَاءَ اللَّهِ كَرِهَ اللَّهُ لِقَاءَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Ubadah that the Prophet said:",
+        "text": "\"Whoever loves to meet Allah, Allah loves to meet him, and whoever hates to meet Allah, Allah hates to meet him.\""
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَبُو الأَشْعَثِ، قَالَ حَدَّثَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ أَبِي يُحَدِّثُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ أَحَبَّ لِقَاءَ اللَّهِ أَحَبَّ اللَّهُ لِقَاءَهُ وَمَنْ كَرِهَ لِقَاءَ اللَّهِ كَرِهَ اللَّهُ لِقَاءَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Ubadah bin As-Samit said:",
+        "text": "\"The Messenger of Allah said: 'whoever loves to meet Allah, Allah loves to meet him, and whoever hates to meet Allah, Allah, hates to meet him.\"'"
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الأَعْلَى، قَالَ حَدَّثَنَا سَعِيدٌ، ح وَأَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، عَنْ خَالِدِ بْنِ الْحَارِثِ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ، عَنْ سَعْدِ بْنِ هِشَامٍ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ مَنْ أَحَبَّ لِقَاءَ اللَّهِ أَحَبَّ اللَّهُ لِقَاءَهُ وَمَنْ كَرِهَ لِقَاءَ اللَّهِ كَرِهَ اللَّهُ لِقَاءَهُ ‏\"‏ ‏.‏ زَادَ عَمْرٌو فِي حَدِيثِهِ فَقِيلَ يَا رَسُولَ اللَّهِ كَرَاهِيَةُ لِقَاءِ اللَّهِ كَرَاهِيَةُ الْمَوْتِ كُلُّنَا نَكْرَهُ الْمَوْتَ ‏.‏ قَالَ ‏\"‏ ذَاكَ عِنْدَ مَوْتِهِ إِذَا بُشِّرَ بِرَحْمَةِ اللَّهِ وَمَغْفِرَتِهِ أَحَبَّ لِقَاءَ اللَّهِ وَأَحَبَّ اللَّهُ لِقَاءَهُ وَإِذَا بُشِّرَ بِعَذَابِ اللَّهِ كَرِهَ لِقَاءَ اللَّهِ وَكَرِهَ اللَّهُ لِقَاءَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that the Messenger of Allah said:",
+        "text": "\"Whoever loves to meet Allah, Allah loves to meet him, and whoever hates to meet Allah, Allah, hates to meet him.\" Amr (one of the narrators) added in his narration: \"t was said: 'O Messenger of Allah mean hating death? Fore all of us hate death.' He said; 'That is when he is dying; if he is given the glad tidings of the mercy and forgiveness of Allah, he loves to meet Allah and Allah loves to meet him. But if he is given the tidings of the punishment of  Allah, he hates to meet Allah and Allah hates to meet him.\"'"
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرٍو، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ أَبَا بَكْرٍ، قَبَّلَ بَيْنَ عَيْنَىِ النَّبِيِّ صلى الله عليه وسلم وَهُوَ مَيِّتٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah:",
+        "text": "that Abu Bakr kissed the Prophet between the eyes when he had died."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي مُوسَى بْنُ أَبِي عَائِشَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، وَعَنْ عَائِشَةَ، أَنَّ أَبَا بَكْرٍ، قَبَّلَ النَّبِيَّ صلى الله عليه وسلم وَهُوَ مَيِّتٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas and Aishah:",
+        "text": "that Abu Bakr kissed the Prophet when he had died."
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سُوَيْدٌ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، قَالَ قَالَ مَعْمَرٌ وَيُونُسُ قَالَ الزُّهْرِيُّ وَأَخْبَرَنِي أَبُو سَلَمَةَ أَنَّ عَائِشَةَ أَخْبَرَتْهُ أَنَّ أَبَا بَكْرٍ أَقْبَلَ عَلَى فَرَسٍ مِنْ مَسْكَنِهِ بِالسُّنُحِ حَتَّى نَزَلَ فَدَخَلَ الْمَسْجِدَ فَلَمْ يُكَلِّمِ النَّاسَ حَتَّى دَخَلَ عَلَى عَائِشَةَ وَرَسُولُ اللَّهِ صلى الله عليه وسلم مُسَجًّى بِبُرْدٍ حِبَرَةٍ فَكَشَفَ عَنْ وَجْهِهِ ثُمَّ أَكَبَّ عَلَيْهِ فَقَبَّلَهُ فَبَكَى ثُمَّ قَالَ بِأَبِي أَنْتَ وَاللَّهِ لاَ يَجْمَعُ اللَّهُ عَلَيْكَ مَوْتَتَيْنِ أَبَدًا أَمَّا الْمَوْتَةُ الَّتِي كَتَبَ اللَّهُ عَلَيْكَ فَقَدْ مُتَّهَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Aishah said that:",
+        "text": "Abu Bakr came riding a horse from his home in As-Sunuh, then he dismounted and entered the Masjid. He did not speak to the people until he met 'Aishah and the Messenger of Allah was covered with a Hibrah Burd. He uncovered his face, bent over him and kissed him, and wept. Then he said: \"May my father be ransomed for you. By Allah! Allah will never cause you to die twice; the death that was decreed for you, you have died.\""
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعْتُ ابْنَ الْمُنْكَدِرِ، يَقُولُ سَمِعْتُ جَابِرًا، يَقُولُ جِيءَ بِأَبِي يَوْمَ أُحُدٍ وَقَدْ مُثِّلَ بِهِ فَوُضِعَ بَيْنَ يَدَىْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَقَدْ سُجِّيَ بِثَوْبٍ فَجَعَلْتُ أُرِيدُ أَنْ أَكْشِفَ عَنْهُ فَنَهَانِي قَوْمِي فَأَمَرَ بِهِ النَّبِيُّ صلى الله عليه وسلم فَرُفِعَ فَلَمَّا رُفِعَ سَمِعَ صَوْتَ بَاكِيَةٍ فَقَالَ ‏\"‏ مَنْ هَذِهِ ‏\"‏ ‏.‏ فَقَالُوا هَذِهِ بِنْتُ عَمْرٍو أَوْ أُخْتُ عَمْرٍو ‏.‏ قَالَ ‏\"‏ فَلاَ تَبْكِي - أَوْ فَلِمَ تَبْكِي - مَا زَالَتِ الْمَلاَئِكَةُ تُظِلُّهُ بِأَجْنِحَتِهَا حَتَّى رُفِعَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir said:",
+        "text": "\"My father was brought on the day of Uhud and he had been mutilated. He was placed in front of the Messenger of Allah covered with a cloth. I wanted to uncover him but my people forbade m3e to do so. The Prophet ordered that he was lifted up, he heard the voice of a woman weeping. He said: 'Who is this?' They said: 'This is the daughter of 'Amr, or the sister of 'Amr.' He said: 'Do not weep, or 'She should not weep, for the angels kept on shading him with their wings until he was lifted up,\"\""
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسِ، قَالَ لَمَّا حُضِرَتْ بِنْتٌ لِرَسُولِ اللَّهِ صلى الله عليه وسلم صَغِيرَةٌ فَأَخَذَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَضَمَّهَا إِلَى صَدْرِهِ ثُمَّ وَضَعَ يَدَهُ عَلَيْهَا فَقَضَتْ وَهِيَ بَيْنَ يَدَىْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَبَكَتْ أُمُّ أَيْمَنَ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَا أُمَّ أَيْمَنَ أَتَبْكِينَ وَرَسُولُ اللَّهِ صلى الله عليه وسلم عِنْدَكِ ‏\"‏ ‏.‏ فَقَالَتْ مَا لِي لاَ أَبْكِي وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَبْكِي فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنِّي لَسْتُ أَبْكِي وَلَكِنَّهَا رَحْمَةٌ ‏\"‏ ‏.‏ ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ الْمُؤْمِنُ بِخَيْرٍ عَلَى كُلِّ حَالٍ تُنْزَعُ نَفْسُهُ مِنْ بَيْنِ جَنْبَيْهِ وَهُوَ يَحْمَدُ اللَّهَ عَزَّ وَجَلَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "\"When a young daughter of the Messenger of Allah was dying, the Messenger of Allah picked her up and held her to his chest, then he put his hand on her, and she died in front of the Messenger of Allah.  Umm Ayman wept and the Messenger of Allah said 'Oh Umm Ayman, do you weep while the Messenger of Allah is with you?' She said: 'Why shouldn't I weep when the Messenger of Allah is weeping.\" So the Messenger of Allah said \"Verily, I am not weeping. Rather it is compassion.' Then the Messenger of Allah said: 'The believer is fine whatever the situation; even when his soul is being pulled from his body and he praises Allah, the Mighty and Sublime\"'"
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ فَاطِمَةَ، بَكَتْ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم حِينَ مَاتَ فَقَالَتْ يَا أَبَتَاهُ مِنْ رَبِّهِ مَا أَدْنَاهُ يَا أَبَتَاهُ إِلَى جِبْرِيلَ نَنْعَاهُ يَا أَبَتَاهُ جَنَّةُ الْفِرْدَوْسِ مَأْوَاهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Anas that Fatimah wept for the Messenger of Allah when he died. She said:",
+        "text": "\"O my father, how close he is now to his Lord! O my father, we announce the news (of his death) to Jibril! O my father, Jannat Al-Firdawas is now his abode!\""
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 21,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ، قَالَ حَدَّثَنَا بَهْزُ بْنُ أَسَدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرٍ، أَنَّ أَبَاهُ، قُتِلَ يَوْمَ أُحُدٍ - قَالَ - فَجَعَلْتُ أَكْشِفُ عَنْ وَجْهِهِ، وَأَبْكِي، وَالنَّاسُ، يَنْهَوْنِي وَرَسُولُ اللَّهِ صلى الله عليه وسلم لاَ يَنْهَانِي وَجَعَلَتْ عَمَّتِي تَبْكِيهِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَبْكِيهِ مَا زَالَتِ الْمَلاَئِكَةُ تُظِلُّهُ بِأَجْنِحَتِهَا حَتَّى رَفَعْتُمُوهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir that his father was killed on the day of Uhud. He saide:",
+        "text": "\"I started to uncover his face, weeping. The people told me not to do that but the Messenger of Allah did not forbid me. My paternal aunt started to weep, and the Messenger of Allah said: 'Do not weep, for angels kept on shading him with their wings until you lifted him up.\"'"
+      }
+    }
+  ]
+}

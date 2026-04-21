@@ -1,0 +1,16 @@
+{
+  "id": 162,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِيهِ أَبُو كَامِلٍ، حَدَّثَنَا حَمَّادٌ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "The previous hadith is narrated through Abu Kamil from Hammad with the same chain."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

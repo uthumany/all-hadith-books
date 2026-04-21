@@ -1,0 +1,16 @@
+{
+  "id": 596,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا مَعْمَرٌ، أَنْبَأَنَا الزُّهْرِيُّ، عَنْ أَبِي عُبَيْدٍ، مَوْلَى عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ قَالَ شَهِدْتُ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْهَى أَنْ يُمْسِكَ أَحَدٌ مِنْ نُسُكِهِ شَيْئًا فَوْقَ ثَلَاثَةِ أَيَّامٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ubaid, the freed slave of ‘Abdur-Rahman bin Awf said:",
+    "text": "I saw ‘Ali (رضي الله عنه) say: I heard the Messenger of Allah (ﷺ) forbid anyone to keep any of the meat of his sacrificial animal for more than three days."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

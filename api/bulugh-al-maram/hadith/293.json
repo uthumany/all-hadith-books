@@ -1,0 +1,16 @@
+{
+  "id": 293,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَلَهُ عَنْهَا: { أَنَّهَا سُئِلَتْ: هَلْ كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يُصَلِّي اَلضُّحَى? قَالَتْ: لَا, إِلَّا أَنْ يَجِيءَ مِنْ مَغِيبِهِ.‏ }   1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (717)‏.‏",
+  "english": {
+    "narrator": "In another narration of Muslim from her:",
+    "text": " was asked, \"Did Allah's Messenger (ﷺ) use to offer the Duha prayer?\" She replied, \"No, unless he came back from a journey.\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

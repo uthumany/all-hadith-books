@@ -1,0 +1,16 @@
+{
+  "id": 37,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي سعيد وأبي هريرة رضي الله عنهما عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ما يصيب المسلم من نصب ولا وصب ولا هم ولا حزن ولا أذى ولا غم، حتى الشوكة يشاكها إلا كفر الله بها من خطاياه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ \n\n'‏و‏ ‏الوصب‏ ‏':‏ المرض .‏",
+  "english": {
+    "narrator": "Abu Sa'id and Abu Hurairah (May Allah be pleased with him) reported that the Prophet (ﷺ) said:",
+    "text": "\"Never a believer is stricken with a discomfort, an illness, an anxiety, a grief or mental worry or even the pricking of a thorn but Allah will expiate his sins on account of his patience\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

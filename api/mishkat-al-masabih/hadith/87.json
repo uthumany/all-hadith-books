@@ -1,0 +1,16 @@
+{
+  "id": 87,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنِ اقْتَبَسَ بَابًا مِنْ عِلْمِ النُّجُومِ لِغَيْرِ مَا ذَكَرَ اللَّهُ فَقَدِ اقْتَبَسَ شُعْبَةً مِنَ السِّحْرِ الْمُنَجِّمُ كَاهِنٌ والكاهنُ ساحرٌ والساحرُ كافرٌ» . رَوَاهُ رزين",
+  "english": {
+    "narrator": "Ibn ‘Abbas reported God’s messenger as saying:",
+    "text": "“If anyone acquires a section of the science of the stars for a purpose other than what God has mentioned he has acquired a branch of magic. The astrologer is a kahin, the kahin is a magician, and the magician is an infidel.” \n\nRazin transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

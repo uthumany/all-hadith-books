@@ -1,0 +1,16 @@
+{
+  "id": 674,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبى ذر رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “ يا أبا ذر إني أراك ضعيفاً، وإنى أحبُّ لك ما أحب لنفسي، لا تأمرن على اثنين ولا تولين مال يتيم” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Dharr (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said to me, \"O Abu Dharr, I see that you are weak and I like for you what I like for myself. Do not rule over (even) two persons, and do not manage an orphan's property.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

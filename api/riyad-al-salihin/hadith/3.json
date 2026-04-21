@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة رضي الله عنها قالت قال النبي صلى الله عليه وسلم‏:‏ ‏\n\"‏ لا هجرة بعد الفتح، ولكن جهاد ونية، وإذا استنفرتم فانفروا‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "A'ishah (May Allah be pleased with her) narrated that the Prophet (ﷺ) said, \"There is no emigration after the conquest (of Makkah) but only Jihad .."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

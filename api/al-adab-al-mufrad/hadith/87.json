@@ -1,0 +1,16 @@
+{
+  "id": 87,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ صَالِحٍ قَالَ‏:‏ حَدَّثَنِي اللَّيْثُ قَالَ‏:‏ حَدَّثَنِي يَزِيدُ بْنُ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عَبْدِ اللهِ بْنِ عَمْرٍو، أَنَّ رَجُلاً سَأَلَ رَسُولَ اللهِ صلى الله عليه وسلم‏:‏ أَيُّ الإِسْلاَمِ خَيْرٌ‏؟‏ قَالَ‏:‏ تُطْعِمُ الطَّعَامَ، وَتَقْرَأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "'Abdullah ibn 'Amr reported that a man asked the Messenger of\nAllah, may Allah bless him and grant him peace, \"Which is the best of Islam?\"\nHe replied, \"Feeding people and giving the greeting to those you know and\nthose you do not know.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

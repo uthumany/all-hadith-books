@@ -1,0 +1,16 @@
+{
+  "id": 56,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، أَنَّ مُحَمَّدَ بْنَ جَعْفَرٍ، حَدَّثَهُمْ عَنْ شُعْبَةَ، عَنْ عَقِيلِ بْنِ طَلْحَةَ، قَالَ سَمِعْتُ أَبَا الْخَصِيبِ، عَنِ ابْنِ عُمَرَ، قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَامَ لَهُ رَجُلٌ مِنْ مَجْلِسِهِ فَذَهَبَ لِيَجْلِسَ فِيهِ فَنَهَاهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ أَبُو دَاوُدَ أَبُو الْخَصِيبِ اسْمُهُ زِيَادُ بْنُ عَبْدِ الرَّحْمَنِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Umar:",
+    "text": "A man came to the Prophet (ﷺ), another man got up from his place for him, and when he went to sit in it, the Prophet (ﷺ) forbade him.\n\n\n\nAbu Dawud said: The name of Abu al-Khusaib is Ziyad b. 'Abd al-Rahman."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

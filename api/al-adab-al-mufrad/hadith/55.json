@@ -1,0 +1,16 @@
+{
+  "id": 55,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَحْبُوبٍ، وَمُعَلَّى، وَعَارِمٌ، قَالُوا‏:‏ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ قَالَ‏:‏ لَيْسَ بَيْنَكَ وَبَيْنَ الْفَاسِقِ حُرْمَةٌ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Al-Hasan said, \"There should be not sense of respect between you\nand a deviant person.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

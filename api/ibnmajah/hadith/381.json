@@ -1,0 +1,16 @@
+{
+  "id": 381,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا سَهْلُ بْنُ يُوسُفَ، حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ سُئِلَ عَنِ الْقُنُوتِ، فِي صَلاَةِ الصُّبْحِ فَقَالَ كُنَّا نَقْنُتُ قَبْلَ الرُّكُوعِ وَبَعْدَهُ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Anas bin Malik said:",
+    "text": "He was asked about Qunut in\nthe\nSubh prayer, and he said: “We used to recite Qunut before Ruku’\nand afterwards.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

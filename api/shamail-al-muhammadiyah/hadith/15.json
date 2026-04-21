@@ -1,0 +1,16 @@
+{
+  "id": 15,
+  "chapterId": 48,
+  "bookId": 11,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، وَغَيْرُ وَاحِدٍ، قَالُوا‏:‏ حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم، كَانَ يَقْبَلُ الْهَدِيَّةَ، وَيُثِيبُ عَلَيْهَا‏.‏",
+  "english": {
+    "narrator": "'A’isha said (may Allah be well pleased with her):",
+    "text": "\"The Prophet (Allah bless him and give him peace) used to accept gifts and provide recompense of greater value.”"
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

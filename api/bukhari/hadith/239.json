@@ -1,0 +1,16 @@
+{
+  "id": 239,
+  "chapterId": 78,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ أَخْبَرَنِي شَرِيكٌ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ بِتُّ فِي بَيْتِ مَيْمُونَةَ وَالنَّبِيُّ صلى الله عليه وسلم عِنْدَهَا، فَلَمَّا كَانَ ثُلُثُ اللَّيْلِ الآخِرُ أَوْ بَعْضُهُ قَعَدَ فَنَظَرَ إِلَى السَّمَاءِ فَقَرَأَ ‏{‏إِنَّ فِي خَلْقِ السَّمَوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ وَالنَّهَارِ لآيَاتٍ لأُولِي الأَلْبَابِ‏}‏‏.‏",
+  "english": {
+    "narrator": "Narrated Ibn `Abbas:",
+    "text": "Once I stayed overnight at the house of Maimuna and the Prophet (ﷺ) was there with her. When it was the \nlast third of the night, or some part of the night, the Prophet (ﷺ) got up looking towards the sky and \nrecited: 'Verily! In the creation of the heavens and the earth, and in the alternation of Night and Day, \nthere are indeed signs for men of u understanding.' (3.190)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

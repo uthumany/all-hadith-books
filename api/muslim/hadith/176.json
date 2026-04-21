@@ -1,0 +1,16 @@
+{
+  "id": 176,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا الْمُغِيرَةُ، - يَعْنِي الْحِزَامِيَّ - عَنْ أَبِي الزِّنَادِ، عَنِ \n الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ كُلُّ ابْنِ آدَمَ يَأْكُلُهُ\n التُّرَابُ إِلاَّ عَجْبَ الذَّنَبِ مِنْهُ خُلِقَ وَفِيهِ يُرَكَّبُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+    "text": "The earth would consume all of the son of Adam except his tailbone. From it he was created, and from it he will be recreated (on the Day of Resurrection)."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

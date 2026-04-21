@@ -1,0 +1,16 @@
+{
+  "id": 776,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "عَنْ أَبِي الْجَعْدِ الضُّمَيْرِيِّ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ تَرَكَ ثَلَاثَ جُمَعٍ تَهَاوُنًا بِهَا طَبَعَ اللَّهُ عَلَى قَلْبِهِ» . رَوَاهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَالنَّسَائِيُّ وَابْنُ مَاجَهْ والدارمي\nوَرَوَاهُ مَالك عَن صَفْوَان بن سليم\nوَرَوَاهُ أَحْمد عَن أبي قَتَادَة",
+  "english": {
+    "narrator": "",
+    "text": "Abul Ja‘d ad-Dumairi reported God’s Messenger as saying, “If anyone fails to observe the prayers on three Fridays through holding it in small esteem,'God will seal up his heart.” \n\nAbu Dawud, Tirmidhi, Nasa’i, Ibn Majah and Darimi transmitted it. Malik transmitted it from Safwan b. Sulaim, and Ahmad from Abu Qatada."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

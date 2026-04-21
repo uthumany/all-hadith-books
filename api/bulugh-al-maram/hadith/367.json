@@ -1,0 +1,16 @@
+{
+  "id": 367,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَلِلنَّسَائِيِّ: { وَكُلَّ ضَلَالَةٍ فِي اَلنَّارِ }   1‏ .‏‏1 ‏- النسائي (3/189)‏ بإسناد صحيح.‏",
+  "english": {
+    "narrator": "an-Nasa'i has:",
+    "text": "\"Every misguidance is (a cause to enter) the Fire.\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

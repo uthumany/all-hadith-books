@@ -1,0 +1,16 @@
+{
+  "id": 502,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن محمد بن سيرين عن أبي هريرة، رضي الله عنه، قال‏:‏ لقد رأيتني وإني لأجر فيما بين منبر رسول الله، صلى الله عليه وسلم، إلى حجرة عائشة رضي الله عنها مغشياً علي، فيجيء الجائي، فيضع رجلة على عنقي، ويرى أني مجنون وما بي من جنون، ما بي إلا الجوع‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Muhammad bin Sirin (May Allah be pleased with him) reported:",
+    "text": "Abu Hurairah (May Allah be pleased with him) said: \"I would fall in swoon between the pulpit of (the mosque of) Messenger of Allah (ﷺ) and the chamber of 'Aishah (May Allah be pleased with her) and every passer-by would put his foot on my neck thinking I was insane. I was not insane but I was awfully hungry.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

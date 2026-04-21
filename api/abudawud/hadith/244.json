@@ -1,0 +1,16 @@
+{
+  "id": 244,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ الْمَرْوَزِيُّ، قَالَ حَدَّثَنِي عَلِيُّ بْنُ حُسَيْنٍ، عَنْ أَبِيهِ، عَنْ يَزِيدَ النَّحْوِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ ‏{‏ وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ ‏}‏ فَنَسَخَ مِنْ ذَلِكَ وَاسْتَثْنَى فَقَالَ ‏{‏ إِلاَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ كَثِيرًا ‏}‏ ‏.‏",
+  "english": {
+    "narrator": "Ibn ‘Abbas said :",
+    "text": "The verse “And the poets it is those straying in evil who follow them. He (Allah) then abrogated it and made an exception saying: Except those who believe and work righteousness, engage much in the remembrance of Allah.\""
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

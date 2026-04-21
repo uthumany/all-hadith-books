@@ -1,0 +1,16 @@
+{
+  "id": 172,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يَقُولُ ‏{‏مَا اسْتَيْسَرَ مِنَ الْهَدْى‏}‏ بَدَنَةٌ أَوْ بَقَرَةٌ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Urnar\nused to say, \"The least thing that is acceptable as a sacrificial\nanimal is a camel or a cow.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

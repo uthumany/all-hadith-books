@@ -1,0 +1,16 @@
+{
+  "id": 661,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ تَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ ثُمَّ أَتَى الْجُمُعَةَ فَاسْتَمَعَ وَأَنْصَتَ غُفِرَ لَهُ مَا بَيْنَ الْجُمُعَةِ إِلَى الْجُمُعَةِ وَزِيَادَةُ ثَلاَثَةِ أَيَّامٍ وَمَنْ مَسَّ الْحَصَى فَقَدْ لَغَا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "If anyone performs ablution, doing it well, then come to the Friday prayer, listens and keeps silence, his sins between that time and the next Friday will be forgiven, with three days extra; but he who touches pebbles has caused an interruption."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

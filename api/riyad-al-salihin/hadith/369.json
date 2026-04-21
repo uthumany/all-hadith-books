@@ -1,0 +1,16 @@
+{
+  "id": 369,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه أن أعرابيًا قال لرسول الله صلى الله عليه وسلم ‏:‏ متى الساعة‏؟‏ قال رسول الله صلى الله عليه وسلم‏:‏ ما أعددت لها‏؟‏‏\"‏ قال‏:‏ حب الله ورسوله قال‏:‏ ‏\"‏أنت مع من أحببت‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ وهذا لفظ مسلم‏.‏ \nوفي رواية لهما‏:‏ ما أعددت لها من كثير صوم، ولا صلاة، ولا صدقة ولكني أحب الله ورسوله‏.‏",
+  "english": {
+    "narrator": "Anas bin Malik (May Allah be pleased with him) reported:",
+    "text": "A bedouin came to Messenger of Allah (ﷺ) and said to him, \"When will be the Hour (i.e., the Day of Resurrection)?\" He (the Prophet (ﷺ)) said, \"What preparation have you made for it?\" He said, \"Only the love of Allah and His Messenger.\" Then Messenger of Allah (ﷺ) said, \"You will be with those whom you love.\".The narration in Muslim is: The man replied: \"I have made no significant preparation with regard to Salat (prayer), Saum (fasting) and Sadaqah (charity) but I love Allah and His Messenger\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

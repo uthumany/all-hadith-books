@@ -1,0 +1,16 @@
+{
+  "id": 419,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنِي حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا حُصَيْنٌ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، وَعَنْ أَبِي سُفْيَانَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ أَقْبَلَتْ عِيرٌ يَوْمَ الْجُمُعَةِ وَنَحْنُ مَعَ النَّبِيِّ صلى الله عليه وسلم فَثَارَ النَّاسُ إِلاَّ اثْنَا عَشَرَ رَجُلاً فَأَنْزَلَ اللَّهُ ‏{‏وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا‏}‏",
+  "english": {
+    "narrator": "Narrated Jabir bin `Abdullah:",
+    "text": "A caravan of merchandise arrived at Medina on a Friday while we were with the Prophet (ﷺ) All the \npeople left (the Prophet (ﷺ) and headed for the caravan) except twelve persons. Then Allah revealed:-- \n'But when they see some bargain or some amusement they disperse headlong to it.' ..(62.11)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

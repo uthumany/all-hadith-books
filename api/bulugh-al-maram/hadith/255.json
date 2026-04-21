@@ -1,0 +1,16 @@
+{
+  "id": 255,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَلِمُسْلِمٍ : { رَكْعَتَا اَلْفَجْرِ خَيْرٌ مِنْ اَلدُّنْيَا وَمَا فِيهَا }   1‏‏1 ‏- صحيح .‏ رواه مسلم ( 725 )‏ ، عن عائشة ‏-رضي الله عنها‏- .‏",
+  "english": {
+    "narrator": "Muslim has:",
+    "text": "\"The two Rak'at at dawn are better than this world and what it contains.\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

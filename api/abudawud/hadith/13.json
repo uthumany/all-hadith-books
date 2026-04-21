@@ -1,0 +1,16 @@
+{
+  "id": 13,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّهَا قَالَتْ مَا خُيِّرَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي أَمْرَيْنِ إِلاَّ اخْتَارَ أَيْسَرَهُمَا مَا لَمْ يَكُنْ إِثْمًا فَإِنْ كَانَ إِثْمًا كَانَ أَبْعَدَ النَّاسِ مِنْهُ وَمَا انْتَقَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِنَفْسِهِ إِلاَّ أَنْ تُنْتَهَكَ حُرْمَةُ اللَّهِ تَعَالَى فَيَنْتَقِمَ لِلَّهِ بِهَا ‏.‏",
+  "english": {
+    "narrator": "`A’ishah said:",
+    "text": "the Messenger of Allah (ﷺ) was never given his choice between two things without taking the easier(or lesser) of them provided it involved no sin, for if it did, no one kept farther away from it than he. And the Messenger of Allah (ﷺ) never took revenge on his own behalf for anything unless something Allah had forbidden has been transgressed, in which event he took revenge for it for Allah’s sake."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

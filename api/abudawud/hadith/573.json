@@ -1,0 +1,16 @@
+{
+  "id": 573,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ وَكِيعٍ، عَنْ سُفْيَانَ، عَنِ الزُّبَيْرِ بْنِ عَدِيٍّ، عَنْ إِبْرَاهِيمَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا جَلَسَ فِي الصَّلاَةِ افْتَرَشَ رِجْلَهُ الْيُسْرَى حَتَّى اسْوَدَّ ظَهْرُ قَدَمِهِ ‏.‏",
+  "english": {
+    "narrator": "It was reported from Ibrahim that he said:",
+    "text": "\"When the Prophet (ﷺ) would sit in the prayer, he would place his left foot horizontally - so much so that the upper-part of his foot became black.\""
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

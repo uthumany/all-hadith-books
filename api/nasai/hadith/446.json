@@ -1,0 +1,16 @@
+{
+  "id": 446,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ أَيُّوبَ بْنِ إِبْرَاهِيمَ الثَّقَفِيُّ الْمَرْوَزِيُّ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ رَمَى رَسُولُ اللَّهِ صلى الله عليه وسلم الْجَمْرَةَ يَوْمَ النَّحْرِ ضُحًى وَرَمَى بَعْدَ يَوْمِ النَّحْرِ إِذَا زَالَتِ الشَّمْسُ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Jabir said:",
+    "text": "\"The Messenger of Allah stoned the Jamrat on the Day of Sacrifice in the forenoon, and after the Day of Sacrifice he stoned (the Jamarat) When the sun had passed its zenith.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

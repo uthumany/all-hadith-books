@@ -1,0 +1,16 @@
+{
+  "id": 352,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ ثَوْرٍ، قَالَ حَدَّثَنِي حَبِيبُ بْنُ عُبَيْدٍ، عَنِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ، - وَقَدْ كَانَ أَدْرَكَهُ - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا أَحَبَّ الرَّجُلُ أَخَاهُ فَلْيُخْبِرْهُ أَنَّهُ يُحِبُّهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Al-Miqdam ibn Ma'dikarib:",
+    "text": "The Prophet (ﷺ) said: When a man loves his brother, he should tell him that he loves him."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

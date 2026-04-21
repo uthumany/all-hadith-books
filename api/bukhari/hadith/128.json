@@ -1,0 +1,16 @@
+{
+  "id": 128,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنْ صَالِحٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ زَيْدِ بْنِ خَالِدٍ، قَالَ مُطِرَ النَّبِيُّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ قَالَ اللَّهُ أَصْبَحَ مِنْ عِبَادِي كَافِرٌ بِي وَمُؤْمِنٌ بِي ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Zaid bin Khalid:",
+    "text": "It rained (because of the Prophet's invocation for rain) and the Prophet (ﷺ) said, \"Allah said, 'Some of My \nslaves have become disbelievers in Me, and some others, believers in Me.'\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

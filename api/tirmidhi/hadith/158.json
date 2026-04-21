@@ -1,0 +1,16 @@
+{
+  "id": 158,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ، أخبرنا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ نِعْمَ الرَّجُلُ أَبُو بَكْرٍ! نِعْمَ الرَّجُلُ عُمَرُ! نِعْمَ الرَّجُلُ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ!\" \nهَذَا حَدِيثٌ حَسَنٌ إِنَّمَا نَعْرِفُهُ مِنْ حَدِيثِ سُهَيْلٍ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Hurairah:",
+    "text": "That the Messenger of Allah SAW said: \"What an excellent man is Abu Bakr. What an excellent man is 'Umar. What an excellent man is Abu 'Ubaidah bin Al-Jarrah.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

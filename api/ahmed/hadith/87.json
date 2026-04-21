@@ -1,0 +1,16 @@
+{
+  "id": 87,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَسْوَدُ بْنُ عَامِرٍ، وَحُسَيْنٌ، قَالَا حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ مِنْ كُلِّ اللَّيْلِ قَدْ أَوْتَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ أَوَّلِهِ وَأَوْسَطِهِ وَآخِرِهِ فَثَبَتَ الْوَتْرُ آخِرَ اللَّيْلِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "At different times of the night the Messenger of Allah (ﷺ) prayed Witr at the beginning, in the middle and at the end. Then he settled on praying Witr at the end of the night."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

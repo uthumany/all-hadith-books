@@ -1,0 +1,16 @@
+{
+  "id": 600,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه عن رسول الله صلى الله عليه وسلم أنه قال‏:‏ “من خير معاش الناس  رجل ممسك عنان فرسه فى سبيل الله، يطير على متنه، كلما سمع هيعه أو فزعة، طار عليه يبتغى القتل، أو الموت مظانه، أو رجل فى غنيمة فى رأس شعفة من هذه الشعف، أو بطن واد من هذه الأودية يقيم الصلاة، ويؤتى الزكاة، ويعبد ربه حتى يأتيه اليقين، ليس من الناس إلا فى خير” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"The best of people is a man who is holding his horse's rein in the way of Allah (in Jihad) and is galloping towards the place wherever he hears a call for war or detects a note of danger; he goes on proceeding, seeking martyrdom or death wherever it is expected. And a man who retires with some sheep in a mountainside or a valley. He performs Salat regularly and pays the Zakat, continues worshipping his Rubb, till death overtakes him. He does not interfere in the affairs of the people except for betterment.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

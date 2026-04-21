@@ -1,0 +1,16 @@
+{
+  "id": 45,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا رُقْيَةَ إِلَّا مِنْ عَيْنٍ أَوْ حُمَةٍ أَوْ دَمٍ» . رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "Anas reported God’s messenger as saying:",
+    "text": "“No invocation is to be used except for the evil eye, or a scorpion sting, or bleeding.”*\n\nAbu Dawud transmitted it.\n\n* The text has dam (blood), but it is said that nose-bleeding in particular is what is meant here. Cf. Mirqat, iv, 5U."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

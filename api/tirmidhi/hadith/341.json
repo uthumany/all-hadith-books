@@ -1,0 +1,16 @@
+{
+  "id": 341,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَسْلَمُ سَالَمَهَا اللَّهُ وَغِفَارُ غَفَرَ اللَّهُ لَهَا وَعُصَيَّةُ عَصَتِ اللَّهَ وَرَسُولَهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Ibn 'Umar:",
+    "text": "that the Messenger of Allah (ﷺ) said: \"Aslam, may Allah make them safe: Ghifar, may Allah forgive them, and 'Usayyah has disobeyed Allah and His Messenger.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 207,
+  "chapterId": 78,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ وَيَقُولُونَ الْكَرْمُ، إِنَّمَا الْكَرْمُ قَلْبُ الْمُؤْمِنِ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "Allah's Messenger (ﷺ) said, \"They say Al-Karm (the generous), and in fact Al-Karm is the heart of a \nbeliever.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

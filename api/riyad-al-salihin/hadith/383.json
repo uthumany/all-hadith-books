@@ -1,0 +1,16 @@
+{
+  "id": 383,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عن أبي كريمة المقداد بن معد يكرب رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏إذا أحب الرجل أخاه، فليخبره أنه يحبه‏\"‏ ‏(‏‏(‏رواه أبو داود، والترمذي وقال ‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Karimah Al-Miqdam bin Ma'dikarib (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"When a man loves his brother (for Allah's sake) let him tell him that he loves him\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

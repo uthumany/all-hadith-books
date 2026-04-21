@@ -1,0 +1,16 @@
+{
+  "id": 409,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الْأَعْمَشُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ أَبِي الْبَخْتَرِيِّ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ إِذَا حُدِّثْتُمْ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَدِيثًا فَظُنُّوا بِهِ الَّذِي هُوَ أَهْدَى وَالَّذِي هُوَ أَهْيَا وَالَّذِي هُوَ أَتْقَى‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "If you are told a hadeeth from the Messenger of Allah (ﷺ), then think of it in the most guided, the best and the most pious manner."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 381,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ نُمَيْرٍ، وَأَبُو أُسَامَةَ قَالاَ حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، ح.\n وَحَدَّثَنَا ابْنُ نُمَيْرٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللَّهِ، حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، أَنَّ الْعَبَّاسَ بْنَ عَبْدِ الْمُطَّلِبِ، اسْتَأْذَنَ رَسُولَ اللَّهِ صلى الله عليه وسلم أَنْ يَبِيتَ بِمَكَّةَ لَيَالِيَ مِنًى مِنْ أَجْلِ سِقَايَتِهِ فَأَذِنَ لَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Ibn Umar (Allah be pleased with them) reported that al-'A'bbas b. Abd al-Muttalib (Allah be pleased with him) sought permission from Allah's Messenger (ﷺ) to spend in Mecca the nights (which be was required to spend) at Mina on account of his office of supplier of water, and he (the Holy Prophet) granted him permission."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

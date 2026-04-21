@@ -1,0 +1,16 @@
+{
+  "id": 280,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏الدنيا متاع، وخير متاعها المرأة الصالحة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"The world is but a (quick passing) enjoyment; and the best enjoyment of the world is a pious and virtuous woman\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

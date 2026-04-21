@@ -1,0 +1,16 @@
+{
+  "id": 23,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عباس رضي الله عنهما أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ لو أن لابن آدم وادياً من ذهب أحب أن يكون له واديان، ولن يملأ فاه إلا التراب، ويتوب الله على من تاب‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas and Anas bin Malik (May Allah be pleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"If a son of Adam were to own a valley full of gold, he would desire to have two. Nothing can fill his mouth except the earth (of the grave). Allah turns with mercy to him who turns to Him in repentance\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

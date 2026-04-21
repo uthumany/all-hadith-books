@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "chapterId": 56,
+  "bookId": 11,
+  "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ أَبِي زِيَادٍ، قَالَ‏:‏ حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، قَالَ‏:‏ حَدَّثَنَا ابْنُ أَخِي ابْنِ شِهَابٍ الزُّهْرِيُّ، عَنْ عَمِّهِ، قَالَ‏:‏ قَالَ أَبُو سَلَمَةَ‏:‏ قَالَ أَبُو قَتَادَةَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ مَنْ رَآنِي، يَعْنِي فِي النَّوْمِ، فَقَدْ رَأَى الْحَقَّ‏.‏‏.‏",
+  "english": {
+    "narrator": "Abu Qatada said:",
+    "text": "“Allah’s Messenger said (Allah bless him and give him peace): ‘If someone sees me (meaning in his sleep), he has seen me truly!'”"
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

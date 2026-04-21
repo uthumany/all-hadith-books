@@ -1,0 +1,16 @@
+{
+  "id": 759,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو سَعِيدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ لَهِيعَةَ، حَدَّثَنَا يَزِيدُ بْنُ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عَبْدِ اللَّهِ بْنِ زُرَيْرٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، رَضِيَ اللَّهُ عَنْهُ قَالَ أُهْدِيَتْ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَغْلَةٌ فَرَكِبَهَا فَقَالَ بَعْضُ أَصْحَابِهِ لَوْ اتَّخَذْنَا مِثْلَ هَذَا قَالَ أَتُرِيدُونَ أَنْ تُنْزُوا الْحَمِيرَ عَلَى الْخَيْلِ إِنَّمَا يَفْعَلُ ذَلِكَ الَّذِينَ لَا يَعْلَمُونَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali bin Abi Talib (رضي الله عنه) said:",
+    "text": "A mule was given to the Prophet (ﷺ) as a gift. Some of his Companions said: Why don`t we get animals like this? He said: `Do you want to mate a donkey with a mare? That is only done by those who do not know.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

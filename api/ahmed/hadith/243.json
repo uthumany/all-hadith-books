@@ -1,0 +1,16 @@
+{
+  "id": 243,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يُونُسُ، حَدَّثَنَا حَمَّادٌ يَعْنِي ابْنَ سَلَمَةَ، عَنْ عَاصِمٍ، عَنْ زِرٍّ، أَنَّ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ قِيلَ لَهُ إِنَّ قَاتِلَ الزُّبَيْرِ عَلَى الْبَابِ فَقَالَ عَلِيٌّ لَيَدْخُلَنَّ قَاتِلُ ابْنِ صَفِيَّةَ النَّارَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ لِكُلِّ نَبِيٍّ حَوَارِيٌّ وَإِنَّ حَوَارِيِّي الزُّبَيْرَ بْنَ الْعَوَّامِ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Zirr that It was said to `Ali (رضي الله عنه):",
+    "text": "The killer of az-Zubair is at the door. ‘Ali said: The killer of the son of Safiyyah will certainly enter the Fire. I heard the Messenger of Allah (ﷺ) say: `Every Prophet (ﷺ) has a disciple and my disciple is az-Zubair bin al-Awwam.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

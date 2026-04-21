@@ -1,0 +1,16 @@
+{
+  "id": 125,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "التاسع‏:‏ عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ الإيمان بضع وسبعون، أو بضع وستون شعبة‏:‏ فأفضلها قول لا إله إلا الله، وأدناها إماطة الأذى عن الطريق، والحياء شعبة من الإيمان‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him):",
+    "text": "The Prophet (ﷺ) said, \"Iman has over seventy branches - or over sixty branches - the uppermost of which is the declaration: 'None has the right to be worshipped but Allah'; and the least of which is the removal of harmful object from the road, and modesty is a branch of Iman.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

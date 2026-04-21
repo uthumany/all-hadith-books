@@ -1,0 +1,510 @@
+{
+  "page": 21,
+  "perPage": 50,
+  "totalPages": 36,
+  "totalCount": 1767,
+  "nextPage": 22,
+  "prevPage": 20,
+  "items": [
+    {
+      "id": 112,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَمْرِو بْنِ شُعَيْبٍ, عَنْ أَبِيهِ, عَنْ جَدِّهِ; أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { لَا يَجُوزُ لِاِمْرَأَةٍ عَطِيَّةٌ إِلَّا بِإِذْنِ زَوْجِهَا }",
+      "english": {
+        "narrator": "Narrated 'Amr bin Shu'aib on his father'ss authority from his grandfather (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"It is not permissible to give a gift without her husband's permission.\""
+      }
+    },
+    {
+      "id": 113,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَفِي لَفْظٍ: { لَا يَجُوزُ لِلْمَرْأَةِ أَمْرٌ فِي مَالِهَا, إِذَا مَلَكَ زَوْجُهَا عِصْمَتَهَا }  رَوَاهُ أَحْمَدُ, وَأَصْحَابُ اَلسُّنَنِ إِلَّا اَلتِّرْمِذِيَّ, وَصَحَّحَهُ اَلْحَاكِمُ  1‏ .‏‏1 ‏- صحيح.‏ رواه أحمد ( 2 / 179 و 184 )‏، وأبو داود ( 3547 )‏، والنسائي ( 5 / 65 ‏- 66 )‏، وابن ماجه ( 2388 )‏، والحاكم ( 2 / 47 )‏.‏ وهو وإن كان حسن الإسناد؛ إلا أنه صحيح لما له من شواهد، وقد ذكرتها في \" الأصل \" كما أشرت إلى الرويات ومخرجيها.‏",
+      "english": {
+        "narrator": "Another wording is:",
+        "text": "\"It is not permissible for a woman to dispose anything of her wealth if her husband is responsible for her.\"\n\n."
+      }
+    },
+    {
+      "id": 114,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ قَبِيصَةَ بْنِ مُخَارِقٍ  ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ اَلْمَسْأَلَةَ لَا تَحِلُّ إِلَّا لِأَحَدِ ثَلَاثَةٍ: رَجُلٍ تَحَمَّلَ حَمَالَةً فَحَلَّتْ لَهُ اَلْمَسْأَلَةُ حَتَّى يُصِيبَهَا ثُمَّ يُمْسِكَ، وَرَجُلٍ أَصَابَتْهُ جَائِحَةٌ اِجْتَاحَتْ مَالَهُ, فَحَلَّتْ لَهُ اَلْمَسْأَلَةُ حَتَّى يُصِيبَ قِوَامًا مِنْ عَيْشٍ، وَرَجُلٍ أَصَابَتْهُ فَاقَةٌ حَتَّى يَقُولَ ثَلَاثَةٌ مِنْ ذَوِي الْحِجَى مِنْ قَوْمِهِ: لَقَدْ أَصَابَتْ فُلَانًا فَاقَةٌ, فَحَلَّتْ لَهُ اَلْمَسْأَلَةُ }  رَوَاهُ مُسْلِمٌ  1‏ .‏‏1 ‏- صحيح.‏ تقدم برقم 645.‏",
+      "english": {
+        "narrator": "Narrated Qabisa bin Mukhariq al-Hilali (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"Begging is not lawful except to one of three (people): a man who has become a guarantor for a payment, for whom begging is lawful till he gets it, after which he must stop begging; a man whose wealth has been destroyed by a calamity which has befallen him, for whom begging is lawful till he gets what will support life; and a man who has been struck by poverty, the genuineness of which is confirmed by three intelligent members of his people, so it is lawful for him to beg.\"\n\n."
+      }
+    },
+    {
+      "id": 115,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "عَنْ عَمْرِو بْنِ عَوْفٍ اَلْمُزَنِيِّ ‏- رضى الله عنه ‏- أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { اَلصُّلْحُ جَائِزٌ بَيْنَ اَلْمُسْلِمِينَ, إِلَّا صُلْحاً حَرَّمَ حَلَالاً وَ  1‏ أَحَلَّ حَرَاماً، وَالْمُسْلِمُونَ عَلَى شُرُوطِهِمْ, إِلَّا شَرْطاً حَرَّمَ حَلَالاً وَ  2‏ أَحَلَّ حَرَاماً }  رَوَاهُ اَلتِّرْمِذِيُّ وَصَحَّحَهُ  3‏ .‏ وَأَنْكَرُوا عَلَيْهِ;  4‏ .‏ لِأَنَّ رَاوِيَهُ كَثِيرَ بْنَ عَبْدِ اَللَّهِ بْنِ عَمْرِوِ بْنِ عَوْفٍ ضَعِيفٌ  5‏ .‏ \nوَكَأَنَّهُ اِعْتَبَرَهُ بِكَثْرَةِ طُرُقِهِ  6‏ .‏ \nوَقَدْ صَحَّحَهُ اِبْنُ حِبَّانَ مِنْ حَدِيثِ أَبِي هُرَيْرَةَ  7‏ .‏‏1 ‏- كذا \" بالأصلين \"، وفي \" السنن \": \" أو \".‏‏2 ‏- كذا \" بالأصلين \"، وفي \" السنن \": \" أو \".‏‏3 ‏- السنن رقم ( 1352 )‏، وقال: \" هذا حديث حسن صحيح \".‏\n‏4 ‏- كقول الذهبي في \" الميزان \" ( 3 / 407 )‏: \" وأما الترمذي فروى من حديثه: الصلح جائز بين المسلمين.‏ وصححه؛ فلهذا لا يعتمد العلماء على تصحيح الترمذي.‏‏5 ‏- بل قال الشافعي وأبو داود: هو ركن من أركان الكذب.‏\n‏6 ‏- لعله يريد \" كثرة شواهده \" إذ يروى عن أبي هريرة، وأنس بن مالك، وابن عمر، وعائشة، وغيرهم، وكلها مذكورة في \" الأصل \".‏\n‏7 ‏- حسن.‏ رواه ابن حبان ( 1199 )‏، ورواه ابن الجارود، والحاكم، ومن قبلهما رواه أبو داود ( 3594 )‏.‏ وقال الحافظ في \" التغليق \" ( 3 / 281 )‏.‏ حديث: المسلمون عند شروطهم روي من حديث أبي هريرة، وعمرو بن عوف، وأنس بن مالك، ورافع بن خديج، وعبد الله بن عمر، وغيرهم، وكلها فيها مقال، لكن حديث أبي هريرة أمثلها \".‏",
+      "english": {
+        "narrator": "Narrated 'Amr bin 'Auf al-Muzani (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"Reconciliation is permissible between Muslims, except one which makes unlawful something which is lawful, or makes lawful something which is unlawful; and Muslims must abide by their conditions (which they have made), except for a condition which makes unlawful something which is lawful, or makes lawful something which is unlawful.\"\n\n. However, the Hadith scholars criticized him (for grading this Hadith as Sahih) because the narration of Kathir bin 'Abdullah bin 'Amr bin 'Auf is weak. It is as though at-Tirmidhi considered it (reliable) due to its many chains of narration. Ibn Hibban declared the aforesaid Hadith to be Sahih (authentic) from the narration of Abu Hurairah (RA)."
+      }
+    },
+    {
+      "id": 116,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-\n\" قَالَ: { لَا يَمْنَعُ جَارٌ جَارَهُ أَنْ يَغْرِزَ خَشَبَةً فِي جِدَارِهِ \".‏ ثُمَّ يَقُولُ أَبُو هُرَيْرَةَ ‏- رضى الله عنه ‏- مَا لِي أَرَاكُمْ عَنْهَا مُعْرِضِينَ? وَاَللَّهِ لَأَرْمِيَنَّ بِهَا بَيْنَ أَكْتَافِكُمْ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري ( 2463 )‏، ومسلم ( 1609 )‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": "The Prophet (ﷺ) said: \"One must not prevent his neighbor  from fixing a wooden peg in his wall.\" Abu Hurairah (RA) then said, \"Why do I see you turning away (averse to this Sunnah)? I swear by Allah that I will always narrate it to you.\"\n\n."
+      }
+    },
+    {
+      "id": 117,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي حُمَيْدٍ اَلسَّاعِدِيِّ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا يَحِلُّ لِامْرِئٍ أَنْ يَأْخُذَ عَصَا أَخِيهِ بِغَيْرِ طِيبِ نَفْسٍ مِنْهُ }  رَوَاهُ اِبْنُ حِبَّانَ, وَالْحَاكِمُ فِي \n\" صَحِيحَيْهِمَا \"  1‏ .‏‏1 ‏- صحيح.‏ رواه ابن حبان ( 1166 )‏، وأما عزوه للحاكم فلعله وهم من الحافظ.‏ والله أعلم.‏ وللحديث شواهد كثيرة مذكورة في \" الأصل \".‏",
+      "english": {
+        "narrator": "Narrated Abu Humaid as-Sa'idi (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"It is not lawful for a person to take his brother's stick except if he is pleased with such.\"\n\n."
+      }
+    },
+    {
+      "id": 118,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَطْلُ اَلْغَنِيِّ ظُلْمٌ, وَإِذَا أُتْبِعُ أَحَدُكُمْ عَلَى مَلِيٍّ فَلْيَتْبَعْ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري ( 2287 )‏، ومسلم ( 1564 )‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"Delay in payment by a rich man is injustice. So, if one of you is referred for payment to a wealthy man he should accept the reference.\"\n\n."
+      }
+    },
+    {
+      "id": 119,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةِ أَحْمَدَ: { فَلْيَحْتَلْ }   1‏ .‏‏1 ‏- المسند ( 2 / 463 )‏.‏",
+      "english": {
+        "narrator": "A narration by Ahmad has:",
+        "text": "\"And if anyone is referred to another, let him accept that.\""
+      }
+    },
+    {
+      "id": 120,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- قَالَ: { تُوُفِّيَ رَجُلٌ مِنَّا, فَغَسَّلْنَاهُ, وَحَنَّطْنَاهُ, وَكَفَّنَّاهُ, ثُمَّ أَتَيْنَا بِهِ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-فَقُلْنَا: تُصَلِّي عَلَيْهِ? فَخَطَا خُطًى, ثُمَّ قَالَ: \" أَعَلَيْهِ دَيْنٌ? \" قُلْنَا: دِينَارَانِ، فَانْصَرَفَ, فَتَحَمَّلَهُمَا أَبُو قَتَادَةَ، فَأَتَيْنَاهُ, فَقَالَ أَبُو قَتَادَةَ: اَلدِّينَارَانِ عَلَيَّ، فَقَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-\" أُحِقَّ اَلْغَرِيمُ وَبَرِئَ مِنْهُمَا اَلْمَيِّتُ? \" قَالَ: نَعَمْ, فَصَلَّى عَلَيْهِ }  رَوَاهُ أَحْمَدُ, وَأَبُو دَاوُدَ, وَالنَّسَائِيُّ, وَصَحَّحَهُ اِبْنُ حِبَّانَ, وَالْحَاكِمُ  1‏ .‏‏1 ‏- صحيح.‏ رواه أحمد ( 3 / 330 )‏، وأبو داود ( 3343 )‏، والنسائي ( 4 / 65 ‏- 66 )‏، وابن حبان ( 3064 )‏، واللفظ لأحمد وسنده حسن، وأما الباقون فلهم لفظ آخر وسندهم على شرط الشيخين، وتفصيل ذلك \" بالأصل \".‏",
+      "english": {
+        "narrator": "Narrated Jabir (RA):",
+        "text": "A man from among us died, so we washed, embalmed and shrouded him. We then brought him to Allah's Messenger (ﷺ) and asked him to pray over him. He went forward some steps and then asked, \"Does he have any debt against him?\" We replied, \"Two Dinars.\" He turned away, but Abu Qatada (RA) took upon himself the bearing of them. We then came to him (again) (ﷺ) and Abu Qatada (RA) said: \"I shall discharge the two Dinars.\" Allah's Messenger (ﷺ) thereupon said, \" a right to the creditor; and the dead man will then be free from them?\" He replied, \"Yes.\" So, he prayed over him.\n\n."
+      }
+    },
+    {
+      "id": 121,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-كَانَ يُؤْتَى بِالرَّجُلِ اَلْمُتَوَفَّى عَلَيْهِ اَلدَّيْنُ, فَيَسْأَلُ: \" هَلْ تَرَكَ لِدَيْنِهِ مِنْ قَضَاءٍ? \" فَإِنْ حُدِّثَ أَنَّهُ تَرَكَ وَفَاءً صَلَّى عَلَيْهِ, وَإِلَّا قَالَ: \" صَلُّوا عَلَى صَاحِبِكُمْ \" فَلَمَّا فَتَحَ اَللَّهُ عَلَيْهِ اَلْفُتُوحَ قَالَ: \" أَنَا أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ, فَمَنْ تُوُفِّيَ, وَعَلَيْهِ دَيْنٌ فَعَلَيَّ قَضَاؤُهُ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري ( 2398 )‏، ومسلم ( 1619 )‏، وزادا: \" ومن ترك مالا فهو لورثته \".‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": "A man who had died in debt would be brought to Allah's Messenger (ﷺ) and he would ask, \"Has he left anything to discharge his debt?\" If he was told that he left enough he would pray over him. Otherwise, he would say, \"Pray over your companion.\" Then, when Allah brought the conquests (of other lands) at his hands he said, \"I am closer to the believers than their own selves. So, whoever dies leaving a debt, the responsibility for repaying it shall be upon me.\"\n\n."
+      }
+    },
+    {
+      "id": 122,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةٍ لِلْبُخَارِيِّ: { فَمَنْ مَاتَ وَلَمْ يَتْرُكْ وَفَاءً }   1‏ .‏‏1 ‏- البخاري برقم ( 6731 )‏.‏",
+      "english": {
+        "narrator": "A narration by al-Bukhari has:",
+        "text": "\"Whoever dies and leavings nothing to discharge his debt...\""
+      }
+    },
+    {
+      "id": 123,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَمْرِو بْنِ شُعَيْبٍ, عَنْ أَبِيهِ, عَنْ جَدِّهِ قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا كَفَالَةَ فِي حَدٍّ }  رَوَاهُ اَلْبَيْهَقِيُّ بِإِسْنَادٍ ضَعِيفٍ  1‏ .‏‏1 ‏- منكر.‏ رواه البيهقي ( 6 / 77 )‏ وقال: \" إسناده ضعيف.‏ تفرد به بقية، عن أبي محمد؛ عمر بن أبي عمر الكلاعي، وهو من مشايخ بقية المجهولين، ورواياته منكرة \".‏",
+      "english": {
+        "narrator": "Narrated 'Amr bin Shu'aib on his father's authority from his grandfather (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"No surety is allowed regarding a prescribed punishment.\"\n\n."
+      }
+    },
+    {
+      "id": 124,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ قَالَ اَللَّهُ: أَنَا ثَالِثُ اَلشَّرِيكَيْنِ مَا لَمْ يَخُنْ أَحَدُهُمَا صَاحِبَهُ, فَإِذَا خَانَ خَرَجْتُ مِنْ بَيْنِهِمَا }  رَوَاهُ أَبُو دَاوُدَ, وَصَحَّحَهُ اَلْحَاكِمُ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أبو داود ( 3383 )‏، والحاكم ( 2 / 52 )‏ وله علتان: جهالة أحد رواته، والاختلاف في وصله وإرساله.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"Allah, the Most High, said, 'I am the third (partner) of two partners as long as one of them does not cheat the his companion. Then, if he cheats (his partner) I depart from them.'\"\n\n."
+      }
+    },
+    {
+      "id": 125,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ اَلسَّائِبِ  اَلْمَخْزُومِيِّ { أَنَّهُ كَانَ شَرِيكَ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَبْلَ اَلْبَعْثَةِ, فَجَاءَ يَوْمَ اَلْفَتْحِ, فَقَالَ: \" مَرْحَباً بِأَخِي وَشَرِيكِي }  رَوَاهُ أَحْمَدُ, وَأَبُو دَاوُدَ, وَابْنُ مَاجَةَ  1‏ .‏‏1 ‏- حسن.‏ رواه أحمد ( 3 / 425 )‏، واللفظ له.‏ وأما عزوه بهذا اللفظ لأبي داود ( 4836 )‏، وابن ماجه ( 2287 )‏ فليس بدقيق، وبيان ذلك في \" الأصل \".‏",
+      "english": {
+        "narrator": "Narrated as-Saib al-Makhzumi (RA):",
+        "text": "That he was the partner of the Prophet (ﷺ) before the Prophethood. Then, he came (to Makkah) on the day of the Conquest (of Makkah), and he (the Prophet) said: \"Welcome to my brother and partner.\"\n\n."
+      }
+    },
+    {
+      "id": 126,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَبْدِ اَللَّهِ بْنِ مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: { اِشْتَرَكْتُ أَنَا وَعَمَّارٌ وَسَعْدٌ فِيمَا نُصِيبُ يَوْمَ بَدْرٍ.‏.‏ }  اَلْحَدِيثَ.‏ رَوَاهُ النَّسَائِيُّ وَغَيْرُهُ  1‏ .‏‏1 ‏- ضعيف.‏ رواه النسائي ( 7 / 319 )‏، وأبو داود ( 3388 )‏، وابن ماجه ( 2288 )‏، من طريق أبي عبيدة، عن أبيه عبد الله بن مسعود، به، وتمامه: \" فلم أجيء أنا وعمار بشيء، وجاء سعيد بأسيرين \".‏ قلت: وسبب الضعف الانقطاع بين أبي عبيدة وأبيه.‏",
+      "english": {
+        "narrator": "Narrated 'Abdullah bin Mas'ud (RA):",
+        "text": "\"Ammar, Sa'd and I agrred to be partners in whatever we would get (from the spoils of war) on the day of Badr.\" The narrator quoted the rest of the Hadith which concludes: \"Then Sa'd brought two captives, but neither Ammar nor I brought anything.\"\n\n."
+      }
+    },
+    {
+      "id": 127,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرِ بْنِ عَبْدِ اَللَّهِ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- { قَالَ: أَرَدْتُ اَلْخُرُوجَ إِلَى خَيْبَرَ, فَأَتَيْتُ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-فَقَالَ: \" إِذَا أَتَيْتَ وَكِيلِي بِخَيْبَرَ, فَخُذْ مِنْهُ خَمْسَةَ عَشَرَ وَسْقًا }  رَوَاهُ أَبُو دَاوُدَ وَصَحَّحَهُ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أبو داود ( 3632 )‏، وفي سند محمد بن إسحاق وهو مدلس وقد عنعنه، ولا أجد مستندا للحافظ في تحسينه للحديث في \" التلخيص \" ( 3 / 51 )‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir bin 'Abdullah (RA):",
+        "text": "I intended to go to Khaibar, so I went to the Prophet (ﷺ) and he said, \"When you meet my agent at Khaibar take fifteen Wasq (of dates) from him.\"\n\n."
+      }
+    },
+    {
+      "id": 128,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ عُرْوَةَ الْبَارِقِيِّ ‏- رضى الله عنه ‏- { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-بَعَثَ مَعَهُ بِدِينَارٍ يَشْتَرِي لَهُ أُضْحِيَّةً.‏.‏ }  اَلْحَدِيثَ.‏ رَوَاهُ اَلْبُخَارِيُّ فِي أَثْنَاءِ حَدِيثٍ, وَقَدْ تَقَدَّمَ  1‏ .‏‏1 ‏- صحيح، وانظر رقم ( 819 )‏.‏",
+      "english": {
+        "narrator": "Narrated 'Urwa al-Bariqi (RA):",
+        "text": "Allah's Messenger (ﷺ) sent him with a Dinar to buy a sacrificial animal for him.\n\n."
+      }
+    },
+    {
+      "id": 129,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: { بَعَثَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-عُمَرَ عَلَى اَلصَّدَقَةِ.‏.‏ }  اَلْحَدِيثَ.‏ مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري ( 1468 )‏، ومسلم ( 983 )‏، واللفظ المذكور لمسلم، وليس في لفظ البخاري ذكر \" عمر \"، وتمام الحديث عندهما: \" فقيل: منع ابن جميل وخالد بن الوليد، والعباس .‏ والزيادات الأولى والثالثة والرابعة والخامسة والرواية للبخاري، والثانية والسادسة لمسلم.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": "\"Allah's Messenger (ﷺ) sent 'Umar to collect the Sadaqah.\" The reported mentioned the rest of the Hadith.\n\n."
+      }
+    },
+    {
+      "id": 130,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-نَحَرَ ثَلَاثًا وَسِتِّينَ, وَأَمَرَ عَلِيًّا أَنْ يَذْبَحَ اَلْبَاقِيَ }  اَلْحَدِيثَ.‏ رَوَاهُ مُسْلِمٌ  1‏ .‏‏1 ‏- صحيح.‏ وقد تقدم برقم ( 742 )‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir (RA):",
+        "text": "\"The Prophet (ﷺ) slaughtered sixty-three (sacrificial) camels and ordered 'Ali to slaughter the remainder .\"\n\nThe reported mentioned the rest of the Hadith.\n\n."
+      }
+    },
+    {
+      "id": 131,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- فِي قِصَّةِ اَلْعَسِيفِ.‏ قَالَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-{ وَاغْدُ يَا أُنَيْسُ عَلَى اِمْرَأَةِ هَذَا, فَإِنْ اِعْتَرَفَتْ فَارْجُمْهَا.‏.‏ }  اَلْحَدِيثَ.‏ مُتَّفَقٌ عَلَيْهِ  1‏ .‏ فِيهِ اَلَّذِي قَبْلَهُ وَمَا أَشْبَهَهُ‏1 ‏- صحيح.‏ رواه البخاري ( 5 / 323 ‏- 324 / فتح )‏، ومسلم ( 3 / 1324 ‏- 1325 )‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA) regarding the story of the hired servant:",
+        "text": "The Prophet (ﷺ) said: 'Unais, go (in the morning) to this man's wife, and if she confesses, stone her to death.\"\n\nThe reported mentioned the rest of the previous Hadith.\n\n."
+      }
+    },
+    {
+      "id": 132,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "عَنْ أَبِي ذَرٍّ ‏- رضى الله عنه ‏- قَالَ: قَالَ لِي رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ قُلِ اَلْحَقَّ, وَلَوْ كَانَ مُرًّا }  صَحَّحَهُ اِبْنُ حِبَّانَ فِي حَدِيثٍ طَوِيلٍ  1‏ .‏‏1 ‏- صحيح.‏ رواه ابن حبان ( 361 و 449 )‏، وله طرق عن أبي ذر، وله شاهد أيضا.‏",
+      "english": {
+        "narrator": "Narrated Abu Dhar (RA):",
+        "text": "Allah's Messenger (ﷺ) said to me, \"Say the truth even though it is bitter (i.e. difficult to admit).\"\n\n."
+      }
+    },
+    {
+      "id": 133,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "عَنْ سَمُرَةَ بْنِ جُنْدُبٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ عَلَى اَلْيَدِ مَا أَخَذَتْ حَتَّى تُؤَدِّيَهُ }  رَوَاهُ أَحْمَدُ, وَالْأَرْبَعَةُ, وَصَحَّحَهُ اَلْحَاكِمُ  1‏ .‏‏1 ‏- ضعيف.‏ رواه أحمد ( 5 / 8 / و12 و13 )‏، وأبو داود ( 3561 )‏، والنسائي في \" الكبرى \" ( 3 / 411 )‏، والترمذي ( 1266 )‏، وابن ماجه ( 2400 )‏، والحاكم ( 2 / 47 )‏ من طريق الحسن، عن سمرة، به.‏ وزادوا إلا النسائي وابن ماجه.‏ \" ثم نسي الحسن فقال: هو أمينك لا ضمان عليه \".‏ وقال الترمذي: \" هذا حديث حسن صحيح \".‏ وقال الحاكم: \" صحيح على شرط البخاري \".‏ قلت: ولكن الحسن مدلس، وقد عنعنه، وليس البحث هنا بحث سماع الحسن من سمرة أم لا كما فعل ذلك صاحب السبل، ولكن البحث بحث التدليس.‏ وقد قال الذهبي في \" السير \" ( 4 / 588 )‏.‏ \" قال قائل: إنما أعرض أهل الصحيح عن كثير مما يقول فيه الحسن: عن فلان.‏ وإن كان مما قد ثبت لقيه فيه لفلان المعين؛ لأن الحسن معروف بالتدليس، ويدلس عن الضعفاء، فيبقى في النفس من ذلك، فإننا وإن ثبتنا سماعه من سمرة، يجوز أن يكون لم يسمع فيه غالب النسخة التي عن سمرة.‏ والله أعلم \".‏",
+      "english": {
+        "narrator": "Narrated Samura bin Jundub (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"The hand (which takes) is responsible for what it has taken till it returns it.\"\n\n."
+      }
+    },
+    {
+      "id": 134,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ أَدِّ اَلْأَمَانَةَ إِلَى مَنْ اِئْتَمَنَكَ, وَلَا تَخُنْ مَنْ خَانَكَ }  رَوَاهُ أَبُو دَاوُدَ, وَاَلتِّرْمِذِيُّ وَحَسَّنَهُ, وَصَحَّحَهُ اَلْحَاكِمُ, وَاسْتَنْكَرَهُ أَبُو حَاتِمٍ اَلرَّازِيُّ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود ( 3535 )‏، والترمذي ( 1264 )‏، بسند حسن، وقال الترمذي: \" حسن غريب \".‏ قلت: وهو صحيح بشواهده ففي الباب، عن أنس، وأبي أمامة، وأبي بن كعب، وغيرهم.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"Give back what has been entrusted (to you) to him who has entrusted you, and do not violate the trust of him who violates your trust.\"\n\n."
+      }
+    },
+    {
+      "id": 135,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ يَعْلَى بْنِ أُمَيَّةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا أَتَتْكَ رُسُلِي فَأَعْطِهِمْ ثَلَاثِينَ دِرْعاً \", قُلْتُ: يَا رَسُولَ اَللَّهِ ! أَعَارِيَةٌ مَضْمُونَةٌ أَوْ عَارِيَةٌ مُؤَدَّاةٌ? قَالَ: بَلْ عَارِيَةٌ مُؤَدَّاةٌ }  رَوَاهُ أَحْمَدُ, وَأَبُو دَاوُدَ, وَالنَّسَائِيُّ, وَصَحَّحَهُ اِبْنُ حِبَّانَ  1‏ .‏‏1 ‏- صحيح.‏ رواه أحمد ( 4 / 222 )‏، وأبو داود ( 3566 )‏، والنسائي في \" الكبرى \" ( 3 / 409 )‏، وابن حبان ( 1173 )‏.‏",
+      "english": {
+        "narrator": "Narrated Ya'la bin Umaiya (RA):",
+        "text": "Allah's Messenger (ﷺ) said to me, \"When my messengers come to you, give them thirty coats of armor.\" I asked, \"O Allah's Messenger, is it a loan with a guarantee (of its return), or a borrowed object that must be returned?\" He replied, \"No, it is a borrowed object that must be returned.\"\n\n."
+      }
+    },
+    {
+      "id": 136,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ صَفْوَانَ بْنِ أُمَيَّةَ; { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-اِسْتَعَارَ مِنْهُ دُرُوعاً يَوْمَ حُنَيْنٍ.‏ فَقَالَ: أَغَصْبٌ يَا مُحَمَّدُ? قَالَ: بَلْ عَارِيَةٌ مَضْمُونَةٌ }  رَوَاهُ أَبُو دَاوُدَ, وَالنَّسَائِيُّ, وَصَحَّحَهُ اَلْحَاكِمُ  1‏ .‏‏1 ‏- صحيح.‏ رواه أحمد ( 3 / 401 )‏، وأبو داود ( 3562 )‏، والنسائي في \" الكبرى \" ( 3 / 410 )‏ وهو صحيح بطرقه وشواهده.‏",
+      "english": {
+        "narrator": "Narrated Safwan bin Umaiya (RA):",
+        "text": "At the battle of Hunain, the Prophet (ﷺ) borrowed coats of mail from him and he asked, \"Are you taking them by force, O Muhammad (ﷺ)?\" He replied, \"No, it is a loan with a guarantee of their reutrn.\"\n\n."
+      }
+    },
+    {
+      "id": 137,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَأَخْرَجَ لَهُ شَاهِدًا ضَعِيفًا عَنْ اِبْنِ عَبَّاسٍ  1‏ .‏‏1 ‏- ضعيف جدا.‏ رواه الحاكم ( 2 / 47 )‏ وفي سنده \" متروك \" كما أن في متنه مخالفة أخرى.‏",
+      "english": {
+        "narrator": "",
+        "text": "He also reported for this Hadith a Shahid (supporting narration) which is weak, from Ibn 'Abbas."
+      }
+    },
+    {
+      "id": 138,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "عَنْ سَعِيدِ بْنِ زَيْدٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏-; أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { مَنْ اِقْتَطَعَ شِبْرًا مِنْ اَلْأَرْضِ ظُلْماً طَوَّقَهُ اَللَّهُ إِيَّاهُ يَوْمَ اَلْقِيَامَةِ مِنْ سَبْعِ أَرَضِينَ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ واه البخاري ( 3198 )‏، ومسلم ( 1610 )‏، واللفظ لمسلم.‏",
+      "english": {
+        "narrator": "Narrated Sa'id bin Zaid (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"If anyone takes a span of land unjustly, on the Day of Resurrection Allah will strangle him with it from seven earths.\"\n\n."
+      }
+    },
+    {
+      "id": 139,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَنَسٍ; { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-كَانَ عِنْدَ بَعْضِ نِسَائِهِ، فَأَرْسَلَتْ إِحْدَى أُمَّهَاتِ اَلْمُؤْمِنِينَ  1‏ مَعَ خَادِمٍ لَهَا بِقَصْعَةٍ فِيهَا طَعَامٌ، فَكَسَرَتِ اَلْقَصْعَةَ، فَضَمَّهَا, وَجَعَلَ فِيهَا اَلطَّعَامَ.‏ وَقَالَ: \n\" كُلُوا \" وَدَفَعَ اَلْقَصْعَةَ اَلصَّحِيحَةَ لِلرَّسُولِ, وَحَبَسَ اَلْمَكْسُورَةَ }  رَوَاهُ اَلْبُخَارِيُّ  2‏ .‏‏1 ‏- صحيح.‏ رواه البخاري ( 2481 )‏.‏‏2 ‏- صحيح.‏ رواه البخاري ( 2481 )‏.‏",
+      "english": {
+        "narrator": "Narrated Anas (RA):",
+        "text": "The Prophet (ﷺ) was with one of his wives when one of the Mothers of the Believers (another of his wives) sent a bowl containing food with a servant of hers. Then, she (in whose house he was) struck it with her hand and the bowl was broken. He collected the pieces of the bowl and began to collect the follow in it and said, \"You eat,\" and gave an unbroken bowl to the messenger (servant) and kept the broken one.\n\n."
+      }
+    },
+    {
+      "id": 140,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَاَلتِّرْمِذِيُّ, وَسَمَّى اَلضَّارِبَةَ عَائِشَةَ, وَزَادَ: فَقَالَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-{ طَعَامٌ بِطَعَامٍ, وَإِنَاءٌ بِإِنَاءٍ }  وَصَحَّحَهُ  1‏ .‏‏1 ‏- صحيح.‏ رواه الترمذي ( 1359 )‏، وقال: \" حديث حسن صحيح \".‏",
+      "english": {
+        "narrator": "at-Tirmidhi named the one who broke it as 'Aishah (RA) and added:",
+        "text": "The Prophet (ﷺ) then said, \"Food for food, and a vessel for a vessel.\"\n\n."
+      }
+    },
+    {
+      "id": 141,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ رَافِعِ بْنِ خَدِيجٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ زَرَعَ فِي أَرْضِ قَوْمٍ بِغَيْرِ إِذْنِهِمْ, فَلَيْسَ لَهُ مِنْ اَلزَّرْعِ شَيْءٌ, وَلَهُ نَفَقَتُهُ }  رَوَاهُ أَحْمَدُ, وَالْأَرْبَعَةُ إِلَّا النَّسَائِيَّ, وَحَسَّنَهُ اَلتِّرْمِذِيُّ  1‏ .‏‏1 ‏- صحيح بطرقه.‏ رواه أحمد ( 3 / 465 و 4 / 141 )‏، وأبو داود ( 3403 )‏، والترمذي ( 1366 )‏.‏ وقال الترمذي: \" حسن غريب \".‏",
+      "english": {
+        "narrator": "Narrated Rafi' bin Khadij (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"Whoever sows in the land of a people without their permission, he has no right to any of the crop. However, he is entitled to what he spent on it.\"\n\n[Reported by Ahmad and al-Arba'a except an-Nasa'i. at-Tirmidhi graded it Hasan (good)."
+      }
+    },
+    {
+      "id": 142,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَيُقَالُ: إِنَّ اَلْبُخَارِيَّ ضَعَّفَهُ  1‏ .‏‏1 ‏- نقل ذلك الخطابي في \" المعالم \" ( 3 / 82 )‏ فقال: \" وضعفه البخاري أيضا.‏ وقال: تفرد بذلك ش/ريك، عن أبي إسحاق \" !.‏ قلت: وكلام البخاري لا يفهم منه تضعيف الحديث، وإنما هو صريح في تضعيف طريق من طرق الحديث، ولا أظن أن هناك أصرح مما نقله عنه الترمذي في ذلك ( 3 / 648 )‏ فقال: \" سألت محمد بن إسماعيل عن هذا الحديث؟ فقال: هو حديث حسن.‏ وقال: لا أعرفه من حديث أبي إسحاق إلا من رواية شريك \".‏ وأيضا ممن قواه بطرقه أبو حاتم.‏",
+      "english": {
+        "narrator": "",
+        "text": "It has been said that al-Bukhari graded it Da'if (weak)."
+      }
+    },
+    {
+      "id": 143,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ عُرْوَةَ بْنِ اَلزُّبَيْرِ قَالَ: قَالَ رَجُلٌ مِنْ اَلصَّحَابَةِ; مِنْ أَصْحَابِ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ رَجُلَيْنِ اِخْتَصَمَا إِلَى رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-فِي أَرْضٍ, غَرَسَ أَحَدُهُمَا فِيهَا نَخْلًا, وَالْأَرْضُ لِلْآخَرِ, فَقَضَى رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-بِالْأَرْضِ لِصَاحِبِهَا, وَأَمَرَ صَاحِبَ اَلنَّخْلِ أَنْ يُخْرِجَ نَخْلَهُ.‏ وَقَالَ: \" لَيْسَ لِعِرْقٍ ظَالِمٍ حَقٌّ }  رَوَاهُ أَبُو دَاوُدَ, وَإِسْنَادُهُ حَسَنٌ  1‏ .‏ وَآخِرُهُ عِنْدَ أَصْحَابِ \" اَلسُّنَنِ \" مِنْ رِوَايَةِ عُرْوَةَ, عَنْ سَعِيدِ بْنِ زَيْدٍ.‏‏1 ‏- حديث صحيح.‏ وهو في \" سنن أبي داود \" ( 3074 )‏ وفيه قوله صلى الله عليه وسلم: \" من أحيا أرضا ميتة فهي له \" وهو صحيح، وسيذكره المصنف برقم ( 916 )‏ وانظر ما بعده.‏",
+      "english": {
+        "narrator": "Narrated 'Urwa bin az-Zubair (RA):",
+        "text": "A man among the Companions of Allah's Messenger (ﷺ) said: \"Two men brought a dispute before Allah's Messenger (ﷺ) concerning a land in which one of them had planted palm trees and the land belonged to the other. So, Allah's Messenger (ﷺ) ruled that the land belongs to its owner, and commanded the owner of the palm trees to uproot his palm trees. He said, \"The labor of an unjust person has no right.\"\n\n[Reported by Abu Dawud and its chain of narrators is Hasan (good). The last (quoted) part of the aforesaid Hadith is found in the books of the collections of as-Sunan, from 'Urwa's narration on the authority of Sa'id bin Zaid."
+      }
+    },
+    {
+      "id": 144,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَاخْتُلِفَ فِي وَصْلِهِ وَإِرْسَالِهِ, وَفِي تَعْيِين صَحَابِيِّهِ  1‏ .‏‏1 ‏- قلت: وهذا على ما فيه كما ذكر الحافظ إلا أنه أحد الشواهد الكثيرة للحديث السابق، وتفصيل القول فيها \" بالأصل \"، وقد قال في \" الفتح \" ( 5 / 19 )‏ بعد أن ساق هذه الشواهد: \" وفي أسانيدها مقال، لكن يتقوى بعضها ببعض \".‏",
+      "english": {
+        "narrator": "",
+        "text": "However, there is disagreement regarding whether it is Mawsul (an unbroken chain) or Mursal (missing link after the Tabi'i) as well as the determination of the name of the Companion who heard it from the Prophet (ﷺ)."
+      }
+    },
+    {
+      "id": 145,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي بَكْرَةَ; ‏- رضى الله عنه ‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ: فِي خُطْبَتِهِ يَوْمَ اَلنَّحْرِ بِمِنًى  1‏ { إِنَّ دِمَاءَكُمْ وَأَمْوَالَكُمْ  عَلَيْكُمْ حَرَامٌ, كَحُرْمَةِ يَوْمِكُمْ هَذَا، فِي بَلَدِكُمْ هَذَا، فِي شَهْرِكُمْ هَذَا }  مُتَّفَقٌ عَلَيْهِ  2‏ .‏‏1 ‏- تحرف في \" أ \" إلى: \" بمعنى \".‏‏2 ‏- صحيح.‏ رواه البخاري ( 67 )‏، ومسلم ( 1679 )‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Bakra (RA):",
+        "text": "In his Khutbah (religious talk - sermon) on the Day of Sacrifice at Mina, the Prophet (ﷺ) said: \"Your blood and your property and your honor are forbidden for you to violate, like the sacredness of this day of yours, in this month of yours, in this city of yours.\"\n\n."
+      }
+    },
+    {
+      "id": 146,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "عَنْ جَابِرِ بْنِ عَبْدِ اَللَّهِ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: { قَضَى رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-\" بِالشُّفْعَةِ فِي كُلِّ مَا لَمْ يُقْسَمْ, فَإِذَا وَقَعَتِ اَلْحُدُودُ وَصُرِّفَتْ اَلطُّرُقُ فَلَا شُفْعَةَ }  مُتَّفَقٌ عَلَيْهِ, وَاللَّفْظُ لِلْبُخَارِيِّ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري ( 2257 )‏.‏ وصرفت: بينت.‏",
+      "english": {
+        "narrator": "Narrated Jabir bin 'Abdullah (RA):",
+        "text": "Allah's Messenger (ﷺ) ruled that the option to buy a partner's share in property is applicable to everything that has not been divided. However, when boundaries are fixed and separate roads are made there is no partner's option.\"\n\n."
+      }
+    },
+    {
+      "id": 147,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةِ مُسْلِمٍ: { اَلشُّفْعَةُ فِي كُلِّ شِرْكٍ: أَرْضٍ, أَوْ رَبْعٍ, أَوْ حَائِطٍ, لَا يَصْلُحُ أَنْ يَبِيعَ حَتَّى يَعْرِضَ عَلَى شَرِيكِهِ }   1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم ( 1608 )‏ ( 135 )‏ وزاد: \" فيأخذ أو يدع.‏ فإن أبى فشريكه أحق به حتى يؤذنه \".‏",
+      "english": {
+        "narrator": "Muslims' narration has:",
+        "text": "\"The option to buy a partner's share in property is applicable to everything which is shared, whether land, a dwelling or a garden and it is not lawful to sell before informing one's partner.\""
+      }
+    },
+    {
+      "id": 148,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةِ اَلطَّحَاوِيِّ: قَضَى اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-بِالشُّفْعَةِ فِي كُلِّ شَيْءٍ, وَرِجَالُهُ ثِقَاتٌ  1‏ .‏‏1 ‏- رواه الطحاوي في \" شرح المعاني \" ( 4 / 126 )‏، وقال الحافظ في \" الفتح \" ( 4 / 436 )‏.‏ وروى البيهقي من حديث ابن عباس مرفوعا: \" الشفعة في كل شيء \".‏ ورجاله ثقات إلا أنه أعل بالإرسال، وأخرج الطحاوي له شاهدا من حديث جابر بإسناد لا بأس برواته \".‏",
+      "english": {
+        "narrator": "at-Tahawi's narration has:",
+        "text": "\"The Prophet (ﷺ) ruled for the right of partner's option regarding everything.\"\n\n."
+      }
+    },
+    {
+      "id": 149,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي رَافِعٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْجَارُ أَحَقُّ بِصَقَبِهِ }  أَخْرَجَهُ اَلْبُخَارِيُّ, وَفِيهِ قِصَّةٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري ( 2258 )‏ من طريق عمرو بن الشريد قال: \" وقفت على سعد بن أبي وقاص فجاء المسور بن مخرمة فوضع يده على إحدى منكبي، إذ جاء أبو رافع مولى النبي ‏-صلى الله عليه وسلم‏- فقال: يا سعد ابتع مني بيتي في دارك.‏ فقال سعد: والله ما أبتاعهما.‏ فقال المسور: والله لتبتاعهما.‏ فقال سعد: والله لا أزيدك على أربعة آلاف منجمة أو مقطعة.‏ فقال أبو رافع: لقد أعطيت بها خمسمائة دينار، ولولا أني سمعت النبي ‏-صلى الله عليه وسلم‏- يقول: الجار أحق بسقبه ما أعطيتكها بأربعة آلاف، وأنا أعطي بها خمسمائة دينار، فأعطاه إياه\" .‏ والسقب: بالسين المهلة وأيضا الصاد المهلة: القرب والملاصقة.‏ ومنجمة أو مقطعة: المراد مؤجلة على أقساط معلومة.‏",
+      "english": {
+        "narrator": "Narrated Abu Rafi' (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"The neighbor has more right (to be given preference) to the property which is near to him.\"\n\n."
+      }
+    },
+    {
+      "id": 150,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ جَارُ اَلدَّارِ أَحَقُّ بِالدَّارِ }  رَوَاهُ النَّسَائِيُّ, وَصَحَّحَهُ اِبْنُ حِبَّانَ, وَلَهُ عِلَّةٌ  1‏ .‏‏1 ‏- ضعيف.‏ رواه النسائي في \" الكبرى \" كما في \" التحفة \" ( 4 / 69 )‏ من طريق قتادة، عن الحسن، عن سمرة، ومن هذا الوجه رواه أبو داود ( 3517 )‏، والترمذي ( 1368 )‏.‏ وقال الترمذي: \" حديث سمرة حديث حسن صحيح، وروى عيسى بن يونس، عن سعيد بن أبي عروبة، عن قتادة، عن أنس، عن النبي ‏-صلى الله عليه وسلم‏-.‏ والصحيح عند أهل العلم حديث الحسن عن سمرة، ولا نعرف حديث قتادة، عن أنس إلا من حديث عيسى بن يونس \".‏ قلت: ومن الوجه الثاني رواه ابن حبان ( 1153 )‏ وإلى هذا الاختلاف يشير قول الحافظ: \" وله علة \".‏ وخلاصة الكلام أن الحديث عند قتادة من وجهين: الأول: عن الحسن، عن سمرة، وهو الصواب عند أهل العلم.‏ والثاني: عن أنس، به.‏ وأيا كان الأمر فهو ضعيف من الوجهين؛ لعدم تصريح قتادة والحسن بالسماع؛ وكلاهما موصوف بالتدليس.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"The neighbor of the house has the most right to buy it.\"\n\n."
+      }
+    },
+    {
+      "id": 151,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْجَارُ أَحَقُّ بِشُفْعَةِ جَارِهِ, يُنْتَظَرُ بِهَا ‏- وَإِنْ كَانَ غَائِبًا ‏- إِذَا كَانَ طَرِيقُهُمَا وَاحِدًا }  رَوَاهُ أَحْمَدُ, وَالْأَرْبَعَةُ, وَرِجَالُهُ ثِقَاتٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه أحمد ( 3 / 303 )‏، وأبو داود ( 3518 )‏، والنسائي في \" الكبرى \" كما في \" التحفة \" ( 2 / 229 )‏، والترمذي ( 1369 )‏، وابن ماجه ( 2494 )‏ وقد أعل الحديث بما لا يقدح.‏",
+      "english": {
+        "narrator": "Narrated Jabir (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"The neighbor is most entitled to the right of option to buy his neighbor's property, and its exercise should be waited for, even if he is absent, if the two properties have one road.\"\n\n."
+      }
+    },
+    {
+      "id": 152,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏-, عَنِ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { اَلشُّفْعَةُ كَحَلِّ اَلْعِقَالِ }  رَوَاهُ اِبْنُ مَاجَهْ وَالْبَزَّارُ, وَزَادَ: \n\" وَلَا شُفْعَةَ لِغَائِبٍ \" وَإِسْنَادُهُ ضَعِيفٌ  1‏ .‏‏1 ‏- ضعيف جدا.‏ رواه ابن ماجه ( 2500 )‏.‏ وقال الحافظ في \" التلخيص \" ( 3 / 56 )‏ \" إسناده ضعيف جدا \".‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar (RA):",
+        "text": "The Prophet (ﷺ) said: \"The option to buy neighboring property is like loosening the knot (which restraints the camel).\"\n\n."
+      }
+    },
+    {
+      "id": 153,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "عَنْ صُهَيْبٍ ‏- رضى الله عنه ‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ: { ثَلَاثٌ فِيهِنَّ اَلْبَرَكَةُ: اَلْبَيْعُ إِلَى أَجَلٍ، وَالْمُقَارَضَةُ، وَخَلْطُ اَلْبُرِّ بِالشَّعِيرِ لِلْبَيْتِ, لَا لِلْبَيْعِ }  رَوَاهُ اِبْنُ مَاجَهْ بِإِسْنَادٍ ضَعِيفٍ  1‏ .‏‏1 ‏- ضعيف.‏ رواه ابن ماجه ( 2289 )‏.‏",
+      "english": {
+        "narrator": "Narrated Suhaib (RA):",
+        "text": "The Prophet (ﷺ) said: \"There are three things which contain blessings: A business transaction in which payment is agreed on a fixed later time, al-Muqaradah (speculative partnership), and mixing wheat and barley for one's household use but not for sale.\"\n\n."
+      }
+    },
+    {
+      "id": 154,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ حَكِيمِ بْنِ حِزَامٍ ‏- رضى الله عنه ‏- { أَنَّهُ كَانَ يَشْتَرِطُ عَلَى اَلرَّجُلِ إِذَا أَعْطَاهُ مَالًا مُقَارَضَةً: أَنْ لَا تَجْعَلَ مَالِي فِي كَبِدٍ رَطْبَةٍ, وَلَا تَحْمِلَهُ فِي بَحْرٍ, وَلَا تَنْزِلَ بِهِ فِي بَطْنِ مَسِيلٍ, فَإِنْ فَعَلْتَ شَيْئًا مِنْ ذَلِكَ فَقَدَ ضَمِنْتَ مَالِي }  رَوَاهُ اَلدَّارَقُطْنِيُّ, وَرِجَالُهُ ثِقَاتٌ  1‏ .‏‏1 ‏- رواه الدار قطني ( 3 / 63 )‏، وقوى الحافظ إسناده في \" التلخيص \" ( 3 / 58 )‏.‏",
+      "english": {
+        "narrator": "Narrated al-Hakim bin Hazim (RA):",
+        "text": "He used to make a condition on the man to whom he gave his property in al-Muqaradah (to trade with, and the profit being shared between them), that: \"You should not trade with my property in living beings, and do not transport it by sea, and do not settle with it at the bottom of a river-bed; and if you do any of the aforesaid acts you should then guarantee my property.\"\n\n."
+      }
+    },
+    {
+      "id": 155,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَقَالَ مَالِكٌ فِي \n\" اَلْمُوَطَّأِ \" عَنْ اَلْعَلَاءِ بْنِ عَبْدِ اَلرَّحْمَنِ بْنِ يَعْقُوبَ, عَنْ أَبِيهِ, عَنْ جَدِّهِ: { أَنَّهُ عَمِلَ فِي مَالٍ لِعُثْمَانَ عَلَى أَنَّ اَلرِّبْحَ بَيْنَهُمَا }  وَهُوَ مَوْقُوفٌ صَحِيحٌ  1‏ .‏‏1 ‏- الموطأ ( 2 / 688 )‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik said in al-Muwatta' from al-'Ala bin 'Abdur-Rahman bin Ya'qub from his father on the authority of his grandfather that he traded with some property belonging to 'Uthman (RA) so that the profit would be divided between them.\n\n."
+      }
+    },
+    {
+      "id": 156,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "عَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏-; { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-عَامَلَ أَهْلَ خَيْبَرَ بِشَطْرِ مَا يَخْرُجُ مِنْهَا مِنْ ثَمَرٍ, أَوْ زَرْعٍ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري ( 2329 )‏، ومسلم ( 1551 )‏ ( 1 )‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar (RA):",
+        "text": "Allah's Messenger (ﷺ) had agreed with the people of Khaibar to give (to the Muslim authority) half what it produced of fruits or crops.\n\n."
+      }
+    },
+    {
+      "id": 157,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةٍ لَهُمَا: فَسَأَلُوا أَنْ يُقِرَّهُمْ بِهَا عَلَى أَنْ يَكْفُوا عَمَلَهَا وَلَهُمْ نِصْفُ اَلثَّمَرِ, فَقَالَ لَهُمْ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ نُقِرُّكُمْ بِهَا عَلَى ذَلِكَ مَا شِئْنَا \", فَقَرُّوا بِهَا, حَتَّى أَجْلَاهُمْ عُمَرُ }   1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري ( 2338 )‏، ومسلم ( 1551 )‏ ( 6 )‏ وزادا: \" إلى تيماء وأريحاء \".‏",
+      "english": {
+        "narrator": "A narration by al-Bukhari and Muslim has:",
+        "text": "They asked him (ﷺ) to allow them to stay on the land, on condition that they should do all the cultivation and have half the dates. Allah's Messenger (ﷺ) replied to them, \"We shall allow you to stay on the land, on that condition, as long as we wish.\" So they remained on the land till 'Umar (RA) expelled them."
+      }
+    },
+    {
+      "id": 158,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَلِمُسْلِمٍ: { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-دَفَعَ إِلَى يَهُودِ خَيْبَرَ نَخْلَ خَيْبَرَ وَأَرْضَهَا عَلَى أَنْ يَعْتَمِلُوهَا مِنْ أَمْوَالِهِمْ, وَلَهُ شَطْرُ ثَمَرِهَا }   1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم ( 1551 )‏ ( 5 )‏ ووقع في \" أ \": \" ولهم \" بدل: \" وله \".‏ وعند مسلم: \" ولرسول الله ‏-صلى الله عليه وسلم‏- شطر ثمرها \".‏ وأيضا البخاري ( 2331 )‏ بنحوه.‏",
+      "english": {
+        "narrator": "Muslim has:",
+        "text": "Allah's Messenger (ﷺ) handed over to the Jews of Khaibar, the palm-trees and the land of Khaibar, on condition that they should employ their own resources in working on it and keep half of its produce."
+      }
+    },
+    {
+      "id": 159,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ حَنْظَلَةَ بْنِ قَيْسٍ قَالَ: { سَأَلْتُ رَافِعَ بْنَ خَدِيجٍ ‏- رضى الله عنه ‏- عَنْ كِرَاءِ اَلْأَرْضِ بِالذَّهَبِ وَالْفِضَّةِ? فَقَالَ: لَا بَأْسَ بِهِ, إِنَّمَا كَانَ اَلنَّاسُ يُؤَاجِرُونَ عَلَى عَهْدِ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-عَلَى الْمَاذِيَانَاتِ, وَأَقْبَالِ اَلْجَدَاوِلِ, وَأَشْيَاءَ مِنْ اَلزَّرْعِ, فَيَهْلِكُ هَذَا وَيَسْلَمُ هَذَا, وَيَسْلَمُ هَذَا وَيَهْلِكُ هَذَا, وَلَمْ يَكُنْ لِلنَّاسِ كِرَاءٌ إِلَّا هَذَا, فَلِذَلِكَ زَجَرَ عَنْهُ, فَأَمَّا شَيْءٌ مَعْلُومٌ مَضْمُونٌ فَلَا بَأْسَ بِهِ }  رَوَاهُ مُسْلِمٌ  1‏ .‏ وَفِيهِ بَيَانٌ لِمَا أُجْمِلَ فِي اَلْمُتَّفَقَ عَلَيْهِ مِنْ إِطْلَاقِ اَلنَّهْيِ عَنْ كِرَاءِ اَلْأَرْضِ.‏‏1 ‏- صحيح.‏ رواه مسلم ( 1547 )‏ ( 116 )‏ ( ج 3 ص 1183 )‏.‏ والماذيانات: مسايل المياه، وقيل: ما ينبت حول السواقي.‏ وأقبال الجداول: أوائل ورؤوس الأنهار الصغيرة.‏",
+      "english": {
+        "narrator": "Narrated Hanzala bin Qais (RA):",
+        "text": "I asked Rafi' bin Khadij (RA) about renting land for gold and silver and he replied, \"There is no harm in that, as the people used to rent land in the time of Allah's Messenger (ﷺ) for what grew by the river-beds, and the edges of the brooks/streams, or for a portion of the crop. However, sometimes this portion of the crop would be destroyed while the other is saved, or vice-versa. Thus, there would be no wages to pay the people (the owners of the land) except for the portion which produced a crop.\" For this reason, he warned against this (practice). However, if it is (rented) for something known and guaranteed, then there is no harm in it.\n\n. This narration contains a clarification of what was mentioned in general terms in the previous narration of al-Bukhari and Muslim, regarding the general prohibition of renting out land."
+      }
+    },
+    {
+      "id": 160,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ ثَابِتِ بْنِ اَلضَّحَّاكِ ‏- رضى الله عنه ‏- { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-نَهَى عَنْ اَلْمُزَارَعَةِ   1‏ بِالْمُؤَاجَرَةِ }  رَوَاهُ مُسْلِمٌ أَيْضًا  2‏ .‏‏1 ‏- سقط من \" أ \" ولكنها ثابتة في \" الأصل \"، و \" صحيح مسلم \".‏‏2 ‏- صحيح.‏ رواه مسلم ( 1549 )‏ ( 119 )‏.‏",
+      "english": {
+        "narrator": "Narrated Thabit bin Dahhak (RA):",
+        "text": "Allah's Messenger (ﷺ) forbade al-Muzara'ah (employing people on land for a share of the produce), and ordered al-Mu'ajara (renting it out for cash).\n\n."
+      }
+    },
+    {
+      "id": 161,
+      "chapterId": 7,
+      "bookId": 12,
+      "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏-; أَنَّهُ قَالَ: { اِحْتَجَمَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-وَأَعْطَى اَلَّذِي حَجَمَهُ أَجْرَهُ }  وَلَوْ كَانَ حَرَاماً لَمْ يُعْطِهِ.‏ رَوَاهُ اَلْبُخَارِيُّ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري ( 2103 )‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas (RA):",
+        "text": "Allah's Messenger (ﷺ) had himself cupped and gave the one who cupped him his pay; and if it were prohibited he would not have given him (his pay).\n\n."
+      }
+    }
+  ]
+}

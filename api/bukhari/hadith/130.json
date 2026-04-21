@@ -1,0 +1,16 @@
+{
+  "id": 130,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ قَالَ اللَّهُ أَنَا عِنْدَ ظَنِّ عَبْدِي بِي ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "Allah's Messenger (ﷺ) said, \"Allah said, 'I am to my slave as he thinks of Me, (i.e. I am able to do for him \nwhat he thinks I can do for him). (See Hadith No. 502)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

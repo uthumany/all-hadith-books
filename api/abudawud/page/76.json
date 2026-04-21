@@ -1,0 +1,510 @@
+{
+  "page": 76,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 77,
+  "prevPage": 75,
+  "items": [
+    {
+      "id": 15,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، وَخَلَفُ بْنُ هِشَامٍ، قَالاَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ مَنْصُورٍ، عَنْ عَامِرٍ، عَنْ أَبِي كَرِيمَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لَيْلَةُ الضَّيْفِ حَقٌّ عَلَى كُلِّ مُسْلِمٍ فَمَنْ أَصْبَحَ بِفِنَائِهِ فَهُوَ عَلَيْهِ دَيْنٌ إِنْ شَاءَ اقْتَضَى وَإِنْ شَاءَ تَرَكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuKarimah:",
+        "text": "The Prophet (ﷺ) said: It is a duty of every Muslim (to provide hospitality) to a guest for a night. If anyone comes in the morning to his house, it is a debt due to him. If he wishes, he may fulfil it, and if he wishes he may leave it."
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنِي أَبُو الْجُودِيِّ، عَنْ سَعِيدِ بْنِ أَبِي الْمُهَاجِرِ، عَنِ الْمِقْدَامِ أَبِي كَرِيمَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَيُّمَا رَجُلٍ أَضَافَ قَوْمًا فَأَصْبَحَ الضَّيْفُ مَحْرُومًا فَإِنَّ نَصْرَهُ حَقٌّ عَلَى كُلِّ مُسْلِمٍ حَتَّى يَأْخُذَ بِقِرَى لَيْلَةٍ مِنْ زَرْعِهِ وَمَالِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Miqdam AbuKarimah:",
+        "text": "The Prophet (ﷺ) said: If any Muslim is a guest of people and is given nothing, it is the duty of every Muslim to help him to the extent of taking for him from their crop and property for the entertainment of one night."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، أَنَّهُ قَالَ قُلْنَا يَا رَسُولَ اللَّهِ إِنَّكَ تَبْعَثُنَا فَنَنْزِلُ بِقَوْمٍ فَمَا يَقْرُونَنَا فَمَا تَرَى فَقَالَ لَنَا رَسُولُ اللَّهِ ‏\n\"‏ إِنْ نَزَلْتُمْ بِقَوْمٍ فَأَمَرُوا لَكُمْ بِمَا يَنْبَغِي لِلضَّيْفِ فَاقْبَلُوا فَإِنْ لَمْ يَفْعَلُوا فَخُذُوا مِنْهُمْ حَقَّ الضَّيْفِ الَّذِي يَنْبَغِي لَهُمْ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذِهِ حُجَّةٌ لِلرَّجُلِ يَأْخُذُ الشَّىْءَ إِذَا كَانَ لَهُ حَقًّا ‏.‏",
+      "english": {
+        "narrator": "‘Uqbah b. ‘Amir said:",
+        "text": "we said: Messenger of Allah! You send us out and we come to people who do not give hospitality, so what is your opinion? The Messenger of Allah(ﷺ) said: If you come to people who order for you what is fitting for a guest, accept it; but if they do not, take from them what is fitting for them to give to a guest.\n\n\nAbu Dawud said: And this is an authority for a man to take a thing if it is due to him."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ الْمَرْوَزِيُّ، حَدَّثَنِي عَلِيُّ بْنُ الْحُسَيْنِ بْنِ وَاقِدٍ، عَنْ أَبِيهِ، عَنْ يَزِيدَ النَّحْوِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ ‏{‏ لاَ تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ إِلاَّ أَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ ‏}‏ فَكَانَ الرَّجُلُ يُحْرَجُ أَنْ يَأْكُلَ عِنْدَ أَحَدٍ مِنَ النَّاسِ بَعْدَ مَا نَزَلَتْ هَذِهِ الآيَةُ فَنَسَخَ ذَلِكَ الآيَةُ الَّتِي فِي النُّورِ قَالَ ‏{‏ لَيْسَ عَلَيْكُمْ جُنَاحٌ ‏}‏ ‏{‏ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ ‏}‏ إِلَى قَوْلِهِ ‏{‏ أَشْتَاتًا ‏}‏ كَانَ الرَّجُلُ الْغَنِيُّ يَدْعُو الرَّجُلَ مِنْ أَهْلِهِ إِلَى الطَّعَامِ قَالَ إِنِّي لأَجَّنَّحُ أَنْ آكُلَ مِنْهُ ‏.‏ وَالتَّجَنُّحُ الْحَرَجُ وَيَقُولُ الْمِسْكِينُ أَحَقُّ بِهِ مِنِّي ‏.‏ فَأُحِلَّ فِي ذَلِكَ أَنْ يَأْكُلُوا مِمَّا ذُكِرَ اسْمُ اللَّهِ عَلَيْهِ وَأُحِلَّ طَعَامُ أَهْلِ الْكِتَابِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah Ibn Abbas:",
+        "text": "When the verse: \"O ye who believe! eat not up your property among yourselves in vanities, but let there be amongst you traffic and trade by mutual good will\" was revealed, a man thought it a sin to eat in the house of another man after the revelation of this verse.  \n\n\n\n\n\nThen this (injunction) was revealed by the verse in Surat an-Nur: \"No blame on you whether you eat in company or separately.\"  \n\n\n\n\n\nWhen a rich man (after revelation) invited a man from his people to eat food in his house, he would say: I consider it a sin to eat from it, and he said: a poor man is more entitled to it than I. The Arabic word tajannah means sin or fault. It was then declared lawful to eat something on which the name of Allah was mentioned, and it was made lawful to eat the flesh of an animal slaughtered by the people of the Book."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ زَيْدِ بْنِ أَبِي الزَّرْقَاءِ، حَدَّثَنَا أَبِي، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، عَنِ الزُّبَيْرِ بْنِ خِرِّيتٍ، قَالَ سَمِعْتُ عِكْرِمَةَ، يَقُولُ كَانَ ابْنُ عَبَّاسٍ يَقُولُ إِنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ طَعَامِ الْمُتَبَارِيَيْنِ أَنْ يُؤْكَلَ ‏.‏ قَالَ أَبُو دَاوُدَ أَكْثَرُ مَنْ رَوَاهُ عَنْ جَرِيرٍ لاَ يَذْكُرُ فِيهِ ابْنَ عَبَّاسٍ وَهَارُونُ النَّحْوِيُّ ذَكَرَ فِيهِ ابْنَ عَبَّاسٍ أَيْضًا وَحَمَّادُ بْنُ زَيْدٍ لَمْ يَذْكُرِ ابْنَ عَبَّاسٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Prophet (ﷺ) forbade that the food of two people who were rivalling on another should be eaten\n\n\n\nAbu Dawud said: Most of those who narrated it from Jarir did not mention the name of Ibn Abbas. Harun al-Nahwi mentioned Ibn 'Abbas in it, and Hammad bin Zaid did not mention Ibn 'Abbas."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، أَخْبَرَنَا حَمَّادٌ، عَنْ سَعِيدِ بْنِ جُمْهَانَ، عَنْ سَفِينَةَ أَبِي عَبْدِ الرَّحْمَنِ، أَنَّ رَجُلاً، أَضَافَ عَلِيَّ بْنَ أَبِي طَالِبٍ فَصَنَعَ لَهُ طَعَامًا فَقَالَتْ فَاطِمَةُ لَوْ دَعَوْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَكَلَ مَعَنَا ‏.‏ فَدَعَوْهُ فَجَاءَ فَوَضَعَ يَدَهُ عَلَى عِضَادَتَىِ الْبَابِ فَرَأَى الْقِرَامَ قَدْ ضُرِبَ بِهِ فِي نَاحِيَةِ الْبَيْتِ فَرَجَعَ فَقَالَتْ فَاطِمَةُ لِعَلِيٍّ الْحَقْهُ فَانْظُرْ مَا رَجَعَهُ ‏.‏ فَتَبِعْتُهُ فَقُلْتُ يَا رَسُولَ اللَّهِ مَا رَدَّكَ فَقَالَ ‏\n\"‏ إِنَّهُ لَيْسَ لِي أَوْ لِنَبِيٍّ أَنْ يَدْخُلَ بَيْتًا مُزَوَّقًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ali ibn AbuTalib:",
+        "text": "Safinah AbuAbdurRahman said that a man prepared food for Ali ibn AbuTalib who was his guest, and Fatimah said: I wish we had invited the Messenger of Allah (ﷺ) and he had eaten with us. They invited him, and when he came he put his hands on the side-ports of the door, but when he saw the figured curtain which had been put at the end of the house, he went away. So Fatimah said to Ali: Follow him and see what turned him back. I (Ali) followed him and asked: What turned you back, Messenger of Allah? He replied: It is not fitting for me or for any Prophet to enter a house which is decorated."
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ عَبْدِ السَّلاَمِ بْنِ حَرْبٍ، عَنْ أَبِي خَالِدٍ الدَّالاَنِيِّ، عَنْ أَبِي الْعَلاَءِ الأَوْدِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ الْحِمْيَرِيِّ، عَنْ رَجُلٍ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا اجْتَمَعَ الدَّاعِيَانِ فَأَجِبْ أَقْرَبَهُمَا بَابًا فَإِنَّ أَقْرَبَهُمَا بَابًا أَقْرَبُهُمَا جِوَارًا وَإِنْ سَبَقَ أَحَدُهُمَا فَأَجِبِ الَّذِي سَبَقَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbdurRahman al-Himyari:",
+        "text": "A companion of the Prophet (ﷺ) reported him as saying: When two people come together to issue an invitation, accept that of the one whose door is nearer in neighbourhood, but if one of them comes before the other accept the invitation of the one who comes first."
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَمُسَدَّدٌ، - الْمَعْنَى - قَالَ أَحْمَدُ حَدَّثَنِي يَحْيَى الْقَطَّانُ، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا وُضِعَ عَشَاءُ أَحَدِكُمْ وَأُقِيمَتِ الصَّلاَةُ فَلاَ يَقُومُ حَتَّى يَفْرُغَ ‏\"‏ ‏.‏ زَادَ مُسَدَّدٌ وَكَانَ عَبْدُ اللَّهِ إِذَا وُضِعَ عَشَاؤُهُ أَوْ حَضَرَ عَشَاؤُهُ لَمْ يَقُمْ حَتَّى يَفْرُغَ وَإِنْ سَمِعَ الإِقَامَةَ وَإِنْ سَمِعَ قِرَاءَةَ الإِمَامِ ‏.‏",
+      "english": {
+        "narrator": "Ibn ‘Umar reported the Prophet(ﷺ) as sayings:",
+        "text": "When the evening meal is brought before one of you and the congregational prayer is also ready, he should not get up until he finishes(eating). Musaddad’s version adds: When the evening meal was put before ‘Abd Allah b. ‘Umar, or it was brought to him, he did not get up until he finished it, even if he heard call to prayer(just before it), and even if he heard the recitation of the Qur’an by the leader-in-prayer."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ بَزِيعٍ، حَدَّثَنَا مُعَلَّى، - يَعْنِي ابْنَ مَنْصُورٍ - عَنْ مُحَمَّدِ بْنِ مَيْمُونٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تُؤَخِّرِ الصَّلاَةَ لِطَعَامٍ وَلاَ لِغَيْرِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Abdullah:",
+        "text": "The Prophet (ﷺ) said: Prayer should not be postponed for taking meals nor for any other thing."
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُسْلِمٍ الطُّوسِيُّ، حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، حَدَّثَنَا الضَّحَّاكُ بْنُ عُثْمَانَ، عَنْ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ، قَالَ كُنْتُ مَعَ أَبِي فِي زَمَانِ ابْنِ الزُّبَيْرِ إِلَى جَنْبِ عَبْدِ اللَّهِ بْنِ عُمَرَ فَقَالَ عَبَّادُ بْنُ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ إِنَّا سَمِعْنَا أَنَّهُ، يُبْدَأُ بِالْعَشَاءِ قَبْلَ الصَّلاَةِ ‏.‏ فَقَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ وَيْحَكَ مَا كَانَ عَشَاؤُهُمْ أَتُرَاهُ كَانَ مِثْلَ عَشَاءِ أَبِيكَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "Abdullah ibn Ubaydullah ibn Umayr said: I was with my father in the time of Ibn az-Zubayr sitting beside Abdullah ibn Umar. Then Abbad ibn Abdullah ibn az-Zubayr said: We have heard that the evening meal is taken just before the night prayer. Thereupon Abdullah ibn Umar said: Woe to you! what was their evening meal? Do you think it was like the meal of your father?"
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا أَيُّوبُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي مُلَيْكَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ مِنَ الْخَلاَءِ فَقُدِّمَ إِلَيْهِ طَعَامٌ فَقَالُوا أَلاَ نَأْتِيكَ بِوَضُوءٍ فَقَالَ ‏\n\"‏ إِنَّمَا أُمِرْتُ بِالْوُضُوءِ إِذَا قُمْتُ إِلَى الصَّلاَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Messenger of Allah (ﷺ) came out from the privy and was presented to him. They (the people) asked: Should we bring you water for ablution? He replied: I have been commanded to perform ablution when I get up for prayer."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا قَيْسٌ، عَنْ أَبِي هَاشِمٍ، عَنْ زَاذَانَ، عَنْ سَلْمَانَ، قَالَ قَرَأْتُ فِي التَّوْرَاةِ أَنَّ بَرَكَةَ الطَّعَامِ الْوُضُوءُ قَبْلَهُ فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ بَرَكَةُ الطَّعَامِ الْوُضُوءُ قَبْلَهُ وَالْوُضُوءُ بَعْدَهُ ‏\"‏ ‏.‏ وَكَانَ سُفْيَانُ يَكْرَهُ الْوُضُوءَ قَبْلَ الطَّعَامِ ‏.‏ قَالَ أَبُو دَاوُدَ وَهُوَ ضَعِيفٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Salman al-Farsi:",
+        "text": "I read in the Torah that the blessing of food consists in ablution before it. So I mentioned it to the Prophet (ﷺ). He said: The blessing of food consists in ablution before it and ablution after it.\n\n\n\nSufyan disapproved of performing ablution before taking food.\n\n\nAbu Dawud said: It is weak."
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي مَرْيَمَ، حَدَّثَنَا عَمِّي، - يَعْنِي سَعِيدَ بْنَ الْحَكَمِ - حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، أَخْبَرَنِي خَالِدُ بْنُ يَزِيدَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ قَالَ أَقْبَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ شِعْبٍ مِنَ الْجَبَلِ وَقَدْ قَضَى حَاجَتَهُ وَبَيْنَ أَيْدِينَا تَمْرٌ عَلَى تُرْسٍ أَوْ حَجَفَةٍ فَدَعَوْنَاهُ فَأَكَلَ مَعَنَا وَمَا مَسَّ مَاءً ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Abdullah:",
+        "text": "The Messenger of Allah (ﷺ) came out from the valley of a mountain where he had eased himself. There were some dried dates on a shield before us. We called him and he ate with us. He did not touch water."
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ مَا عَابَ رَسُولُ اللَّهِ صلى الله عليه وسلم طَعَامًا قَطُّ إِنِ اشْتَهَاهُ أَكَلَهُ وَإِنْ كَرِهَهُ تَرَكَهُ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah said:",
+        "text": "The Messenger of Allah (ﷺ) never expressed disapproval of food; if he desired it, he ate it, and if he disliked it, he left it alone."
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنِي وَحْشِيُّ بْنُ حَرْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ أَصْحَابَ النَّبِيِّ، صلى الله عليه وسلم قَالُوا يَا رَسُولَ اللَّهِ إِنَّا نَأْكُلُ وَلاَ نَشْبَعُ ‏.‏ قَالَ ‏\"‏ فَلَعَلَّكُمْ تَفْتَرِقُونَ ‏\"‏ ‏.‏ قَالُوا نَعَمْ ‏.‏ قَالَ ‏\"‏ فَاجْتَمِعُوا عَلَى طَعَامِكُمْ وَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهِ يُبَارَكْ لَكُمْ فِيهِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ إِذَا كُنْتَ فِي وَلِيمَةٍ فَوُضِعَ الْعَشَاءُ فَلاَ تَأْكُلْ حَتَّى يَأْذَنَ لَكَ صَاحِبُ الدَّارِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Wahshi ibn Harb:",
+        "text": "The Companions of the Prophet (ﷺ) said: Messenger of Allah (ﷺ) we eat but we are not satisfied. He said: Perhaps you eat separately. They replied: Yes. He said: If you gather together at your food and mention Allah's name, you will be blessed in it.\n\n\n\nAbu Dawud said: If you are invited to a wedding feast before you, do not take it until the owner of the house (i.e. the host) allows you (to eat)."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ خَلَفٍ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي أَبُو الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِذَا دَخَلَ الرَّجُلُ بَيْتَهُ فَذَكَرَ اللَّهَ عِنْدَ دُخُولِهِ وَعِنْدَ طَعَامِهِ قَالَ الشَّيْطَانُ لاَ مَبِيتَ لَكُمْ وَلاَ عَشَاءَ وَإِذَا دَخَلَ فَلَمْ يَذْكُرِ اللَّهَ عِنْدَ دُخُولِهِ قَالَ الشَّيْطَانُ أَدْرَكْتُمُ الْمَبِيتَ فَإِذَا لَمْ يَذْكُرِ اللَّهَ عِنْدَ طَعَامِهِ قَالَ أَدْرَكْتُمُ الْمَبِيتَ وَالْعَشَاءَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir bin ‘Abd Allah said that he heard the Prophet(ﷺ) say:",
+        "text": "When a man enters his house and mention Allah’s name on entering and on his food, the devil says: You have no place to spend the night and no evening meal; but when he enters without mentioning Allah’s name on entering, the devil says: You have found a place to spend the night, and when he does not mention Allah’s name at his food, he says: You have found a place to spend the night and an evening meal."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ خَيْثَمَةَ، عَنْ أَبِي حُذَيْفَةَ، عَنْ حُذَيْفَةَ، قَالَ كُنَّا إِذَا حَضَرْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم طَعَامًا لَمْ يَضَعْ أَحَدُنَا يَدَهُ حَتَّى يَبْدَأَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَإِنَّا حَضَرْنَا مَعَهُ طَعَامًا فَجَاءَ أَعْرَابِيٌّ كَأَنَّمَا يُدْفَعُ فَذَهَبَ لِيَضَعَ يَدَهُ فِي الطَّعَامِ فَأَخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدِهِ ثُمَّ جَاءَتْ جَارِيَةٌ كَأَنَّمَا تُدْفَعُ فَذَهَبَتْ لِتَضَعَ يَدَهَا فِي الطَّعَامِ فَأَخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدِهَا وَقَالَ ‏\n\"‏ إِنَّ الشَّيْطَانَ لَيَسْتَحِلُّ الطَّعَامَ الَّذِي لَمْ يُذْكَرِ اسْمُ اللَّهِ عَلَيْهِ وَإِنَّهُ جَاءَ بِهَذَا الأَعْرَابِيِّ يَسْتَحِلُّ بِهِ فَأَخَذْتُ بِيَدِهِ وَجَاءَ بِهَذِهِ الْجَارِيَةِ يَسْتَحِلُّ بِهَا فَأَخَذْتُ بِيَدِهَا فَوَالَّذِي نَفْسِي بِيَدِهِ إِنَّ يَدَهُ لَفِي يَدِي مَعَ أَيْدِيهِمَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "When we were at food with the Messenger of Allah(ﷺ) none of us put in his hand till the Messenger of Allah(ﷺ)put his hand first. Once we were at food with him. A nomad Arab came in as though he were being pushed, and he was about to put his hand in food when the Messenger of Allah (ﷺ) seized him by the hand. Then a girl came in as though she were being pushed, and she was about to put her hand in the food when the Messenger of Allah (ﷺ) seized her by the hand, and he said:",
+        "text": "The devil considers the food when Allah’s name is not mentioned over it, and he brought his nomad Arab that it might be lawful by means of him, so I seized his hand: then he brought this girl that it might be lawful by means of her, so I seized her hand. By Him in Whose hand my soul is, His hand is in my hand along with their hands."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُؤَمَّلُ بْنُ هِشَامٍ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ هِشَامٍ، - يَعْنِي ابْنَ أَبِي عَبْدِ اللَّهِ الدَّسْتَوَائِيَّ - عَنْ بُدَيْلٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُبَيْدٍ، عَنِ امْرَأَةٍ، مِنْهُمْ يُقَالُ لَهَا أُمُّ كُلْثُومٍ عَنْ عَائِشَةَ، - رضى الله عنها - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا أَكَلَ أَحَدُكُمْ فَلْيَذْكُرِ اسْمَ اللَّهِ تَعَالَى فَإِنْ نَسِيَ أَنْ يَذْكُرَ اسْمَ اللَّهِ تَعَالَى فِي أَوَّلِهِ فَلْيَقُلْ بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Messenger of Allah (ﷺ) said: When one of you eats, he should mention Allah's name; if he forgets to mention  Allah's name at the beginning, he should say: \"In the name of Allah at the beginning and at the end of it.\""
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُؤَمَّلُ بْنُ الْفَضْلِ الْحَرَّانِيُّ، حَدَّثَنَا عِيسَى، - يَعْنِي ابْنَ يُونُسَ - حَدَّثَنَا جَابِرُ بْنُ صُبْحٍ، حَدَّثَنَا الْمُثَنَّى بْنُ عَبْدِ الرَّحْمَنِ الْخُزَاعِيُّ، عَنْ عَمِّهِ، أُمَيَّةَ بْنِ مَخْشِيٍّ - وَكَانَ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم - قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم جَالِسًا وَرَجُلٌ يَأْكُلُ فَلَمْ يُسَمِّ حَتَّى لَمْ يَبْقَ مِنْ طَعَامِهِ إِلاَّ لُقْمَةٌ فَلَمَّا رَفَعَهَا إِلَى فِيهِ قَالَ بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ فَضَحِكَ النَّبِيُّ صلى الله عليه وسلم ثُمَّ قَالَ ‏\n\"‏ مَا زَالَ الشَّيْطَانُ يَأْكُلُ مَعَهُ فَلَمَّا ذَكَرَ اسْمَ اللَّهِ عَزَّ وَجَلَّ اسْتَقَاءَ مَا فِي بَطْنِهِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ جَابِرُ بْنُ صُبْحٍ جَدُّ سُلَيْمَانَ بْنِ حَرْبٍ مِنْ قِبَلِ أُمِّهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umayyah ibn Makhshi:",
+        "text": "Umayyah was sitting and a man was eating. He did not mention Allah's name until there remained the last morsel. When he raised it to his mouth, he said: In the name of Allah at the beginning and at the end of it. The Prophet (ﷺ) laughed and said: The devil kept eating along with him, but when he mentioned Allah's name, he vomited what was in his belly.\n\n\nAbu Dawud: Jabir bin Subh is grandfather of Sulaiman bin Harb from his mother's side."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ عَلِيِّ بْنِ الأَقْمَرِ، قَالَ سَمِعْتُ أَبَا جُحَيْفَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ آكُلُ مُتَّكِئًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Juhaifah reported the Prophet (ﷺ) as sayings:",
+        "text": "I do not eat while reclining."
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ شُعَيْبِ بْنِ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنْ أَبِيهِ، قَالَ مَا رُئِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْكُلُ مُتَّكِئًا قَطُّ وَلاَ يَطَأُ عَقِبَهُ رَجُلاَنِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+        "text": "The Messenger of Allah (ﷺ) was never seen reclining while eating, nor walking with two men at his heels."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، أَخْبَرَنَا وَكِيعٌ، عَنْ مُصْعَبِ بْنِ سُلَيْمٍ، قَالَ سَمِعْتُ أَنَسًا، يَقُولُ بَعَثَنِي النَّبِيُّ صلى الله عليه وسلم فَرَجَعْتُ إِلَيْهِ فَوَجَدْتُهُ يَأْكُلُ تَمْرًا وَهُوَ مُقْعٍ ‏.‏",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "The Prophet(ﷺ) sent me(for some work), and when I returned to him found him eating dates and squatting."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا أَكَلَ أَحَدُكُمْ طَعَامًا فَلاَ يَأْكُلْ مِنْ أَعْلَى الصَّحْفَةِ وَلَكِنْ لِيَأْكُلْ مِنْ أَسْفَلِهَا فَإِنَّ الْبَرَكَةَ تَنْزِلُ مِنْ أَعْلاَهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Prophet (ﷺ) said: When one of you eats, he must not eat from the top of the dish, but should eat from the bottom; for the blessing descends from the top of it."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ الْحِمْصِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عِرْقٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُسْرٍ، قَالَ كَانَ لِلنَّبِيِّ صلى الله عليه وسلم قَصْعَةٌ يُقَالُ لَهَا الْغَرَّاءُ يَحْمِلُهَا أَرْبَعَةُ رِجَالٍ فَلَمَّا أَضْحَوْا وَسَجَدُوا الضُّحَى أُتِيَ بِتِلْكَ الْقَصْعَةِ - يَعْنِي وَقَدْ ثُرِدَ فِيهَا - فَالْتَفُّوا عَلَيْهَا فَلَمَّا كَثُرُوا جَثَى رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ أَعْرَابِيٌّ مَا هَذِهِ الْجِلْسَةُ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِنَّ اللَّهَ جَعَلَنِي عَبْدًا كَرِيمًا وَلَمْ يَجْعَلْنِي جَبَّارًا عَنِيدًا ‏\"‏ ‏.‏ ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ كُلُوا مِنْ حَوَالَيْهَا وَدَعُوا ذِرْوَتَهَا يُبَارَكْ فِيهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Busr:",
+        "text": "The Prophet (ﷺ) had a bowl called gharra'. It was carried by four persons. When the sun rose high, and they performed the forenoon prayer, the bowl in which tharid was prepared was brought, and the people gathered round it. When they were numerous, the Messenger of Allah (ﷺ) said: Allah has made me a respectable servant, and He did not make me an obstinate tyrant. The Messenger of Allah (ﷺ) said: Eat from it sides and leave its top, the blessing will be conferred on it"
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا كَثِيرُ بْنُ هِشَامٍ، عَنْ جَعْفَرِ بْنِ بُرْقَانَ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ مَطْعَمَيْنِ عَنِ الْجُلُوسِ عَلَى مَائِدَةٍ يُشْرَبُ عَلَيْهَا الْخَمْرُ وَأَنْ يَأْكُلَ الرَّجُلُ وَهُوَ مُنْبَطِحٌ عَلَى بَطْنِهِ ‏.‏ قَالَ أَبُو دَاوُدَ هَذَا الْحَدِيثُ لَمْ يَسْمَعْهُ جَعْفَرٌ مِنَ الزُّهْرِيِّ وَهُوَ مُنْكَرٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "The Messenger of Allah (ﷺ) forbade two kinds of food: to sit at cloth on which wine is drunk, and to eat by a man while lying on his stomach.\n\n\nAbu Dawud said : Ja'far did not hear this tradition from al-Zuhri. His tradition is rejected."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ زَيْدِ بْنِ أَبِي الزَّرْقَاءِ، حَدَّثَنَا أَبِي، حَدَّثَنَا جَعْفَرٌ، أَنَّهُ بَلَغَهُ عَنِ الزُّهْرِيِّ، بِهَذَا الْحَدِيثِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "The tradition mentioned above has been transmitted by al-Zuhri from a different chain of narrators."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي أَبُو بَكْرِ بْنُ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ جَدِّهِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا أَكَلَ أَحَدُكُمْ فَلْيَأْكُلْ بِيَمِينِهِ وَإِذَا شَرِبَ فَلْيَشْرَبْ بِيَمِينِهِ فَإِنَّ الشَّيْطَانَ يَأْكُلُ بِشِمَالِهِ وَيَشْرَبُ بِشِمَالِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn ‘Umar reported the Prophet(ﷺ) as sayings:",
+        "text": "When any of you eats, he should eat with his right hand, and when he drinks, he should drink with his right hand, for the devil eats with his left hand and drinks with his left hand."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ، لُوَيْنٌ عَنْ سُلَيْمَانَ بْنِ بِلاَلٍ، عَنْ أَبِي وَجْزَةَ، عَنْ عُمَرَ بْنِ أَبِي سَلَمَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ ادْنُ بُنَىَّ فَسَمِّ اللَّهَ وَكُلْ بِيَمِينِكَ وَكُلْ مِمَّا يَلِيكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umar ibn AbuSalamah:",
+        "text": "The Prophet (ﷺ) said: Come near, my son, mention Allah's name, eat with your right hand and eat from what is next to you."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا أَبُو مَعْشَرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ تَقْطَعُوا اللَّحْمَ بِالسِّكِّينِ فَإِنَّهُ مِنْ صَنِيعِ الأَعَاجِمِ وَانْهَسُوهُ فَإِنَّهُ أَهْنَأُ وَأَمْرَأُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَلَيْسَ هُوَ بِالْقَوِيِّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Messenger of Allah (ﷺ) said: Do not eat meat with a knife, for it is a foreign practice, but bite it, for it is more beneficial and wholesome.\n\n\n\nAbu Dawud said: This tradition is not strong."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ إِسْحَاقَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ مُعَاوِيَةَ، عَنْ عُثْمَانَ بْنِ أَبِي سُلَيْمَانَ، عَنْ صَفْوَانَ بْنِ أُمَيَّةَ، قَالَ كُنْتُ آكُلُ مَعَ النَّبِيِّ صلى الله عليه وسلم فَآخُذُ اللَّحْمَ بِيَدِي مِنَ الْعَظْمِ فَقَالَ ‏\n\"‏ أَدْنِ الْعَظْمَ مِنْ فِيكَ فَإِنَّهُ أَهْنَأُ وَأَمْرَأُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ عُثْمَانُ لَمْ يَسْمَعْ مِنْ صَفْوَانَ وَهُوَ مُرْسَلٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Safwan ibn Umayyah:",
+        "text": "I was eating with the Prophet (ﷺ) and snatching the meat from the bone with my hand. He said: bring the bone near your mouth, for it is more beneficial and wholesome.\n\n\nAbu Dawud said: 'Uthman did not hear (traditions) from Safwan. This is a mursal tradition."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا أَبُو دَاوُدَ، عَنْ زُهَيْرٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعْدِ بْنِ عِيَاضٍ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ كَانَ أَحَبَّ الْعُرَاقِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم عُرَاقُ الشَّاةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Mas'ud:",
+        "text": "The bone dearer to the Messenger of Allah (ﷺ) was the bone of sheep."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو دَاوُدَ، بِهَذَا الإِسْنَادِ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُعْجِبُهُ الذِّرَاعُ ‏.‏ قَالَ وَسُمَّ فِي الذِّرَاعِ وَكَانَ يَرَى أَنَّ الْيَهُودَ هُمْ سَمُّوهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Mas'ud:",
+        "text": "The tradition mentioned above (No. 3771) has also been narrated by Ibn Mas'ud  with a different chain of narrators. \n\n\n\n\n\nThis version has: The Prophet (ﷺ) liked the foreleg (of a sheep). Once the foreleg was poisoned, and he thought that the Jews had poisoned it."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ، يَقُولُ إِنَّ خَيَّاطًا دَعَا رَسُولَ اللَّهِ صلى الله عليه وسلم لِطَعَامٍ صَنَعَهُ - قَالَ أَنَسٌ - فَذَهَبْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَى ذَلِكَ الطَّعَامِ فَقَرَّبَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم خُبْزًا مِنْ شَعِيرٍ وَمَرَقًا فِيهِ دُبَّاءٌ وَقَدِيدٌ ‏.‏ قَالَ أَنَسٌ فَرَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَتَتَبَّعُ الدُّبَّاءَ مِنْ حَوَالَىِ الصَّحْفَةِ فَلَمْ أَزَلْ أُحِبُّ الدُّبَّاءَ بَعْدَ يَوْمِئِذٍ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik said:",
+        "text": "A tailor invited the Messenger of Allah (ﷺ) to a meal which he had prepared. Anas said: I went along with the Messenger of Allah(ﷺ) barley bread and soup containing pumpkin and dried sliced meat. Anas said: I saw the Messenger of Allah (ﷺ) going after the pumpkin round the dish, so I have always liked pumpkins since that day."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حَسَّانَ السَّمْتِيُّ، حَدَّثَنَا الْمُبَارَكُ بْنُ سَعِيدٍ، عَنْ عُمَرَ بْنِ سَعِيدٍ، عَنْ رَجُلٍ، مِنْ أَهْلِ الْبَصْرَةِ عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ أَحَبُّ الطَّعَامِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم الثَّرِيدَ مِنَ الْخُبْزِ وَالثَّرِيدَ مِنَ الْحَيْسِ ‏.‏ قَالَ أَبُو دَاوُدَ وَهُوَ ضَعِيفٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The food the Messenger of Allah (ﷺ) liked best was tharid made from bread and tharid made from Hays.\n\n\n\nAbu Dawud said: It is a weak (tradition)."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا سِمَاكُ بْنُ حَرْبٍ، حَدَّثَنِي قَبِيصَةُ بْنُ هُلْبٍ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم وَسَأَلَهُ رَجُلٌ فَقَالَ إِنَّ مِنَ الطَّعَامِ طَعَامًا أَتَحَرَّجُ مِنْهُ ‏.‏ فَقَالَ ‏\n\"‏ لاَ يَتَخَلَّجَنَّ فِي صَدْرِكَ شَىْءٌ ضَارَعْتَ فِيهِ النَّصْرَانِيَّةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Qabisah ibn Halb:",
+        "text": "A man asked the Messenger of Allah (ﷺ): Is there any food from which I should keep myself away? I heard the Messenger of Allah (ﷺ) say: Anything which creates doubt should not occur in your mind by which you resemble Christianity."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عُمَرَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ أَكْلِ الْجَلاَّلَةِ وَأَلْبَانِهَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "The Messenger of Allah (ﷺ) prohibited eating the animal which feeds on filth and drinking its milk."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنِي أَبُو عَامِرٍ، حَدَّثَنَا هِشَامٌ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ لَبَنِ الْجَلاَّلَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Abbas:",
+        "text": "The Prophet (ﷺ) prohibited to drink the milk of the animal which feeds on filth."
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي سُرَيْجٍ، أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ جَهْمٍ، حَدَّثَنَا عَمْرُو بْنُ أَبِي قَيْسٍ، عَنْ أَيُّوبَ السَّخْتِيَانِيِّ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْجَلاَّلَةِ فِي الإِبِلِ أَنْ يُرْكَبَ عَلَيْهَا أَوْ يُشْرَبَ مِنْ أَلْبَانِهَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "The Messenger of Allah (ﷺ) forbade riding the camel which feeds on filth and drinking its milk."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ مُحَمَّدِ بْنِ عَلِيٍّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ نَهَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ خَيْبَرَ عَنْ لُحُومِ الْحُمُرِ وَأَذِنَ لَنَا فِي لُحُومِ الْخَيْلِ ‏.‏",
+      "english": {
+        "narrator": "Jabir  b. ‘Abd Allah said:",
+        "text": "The Messenger of Allah(ﷺ) forbade the flesh of domestic asses on the day of Khaibar, but permitted horse flesh."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ ذَبَحْنَا يَوْمَ خَيْبَرَ الْخَيْلَ وَالْبِغَالَ وَالْحَمِيرَ فَنَهَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْبِغَالِ وَالْحَمِيرِ وَلَمْ يَنْهَنَا عَنِ الْخَيْلِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Abdullah:",
+        "text": "On the day of Khaybar we slaughtered horses, mules, and assess. The Messenger of Allah (ﷺ) forbade us (to eat) mules and asses, but he did not forbid horse-flesh."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ شَبِيبٍ، وَحَيْوَةُ بْنُ شُرَيْحٍ الْحِمْصِيُّ، قَالَ حَيْوَةُ حَدَّثَنَا بَقِيَّةُ، عَنْ ثَوْرِ بْنِ يَزِيدَ، عَنْ صَالِحِ بْنِ يَحْيَى بْنِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنْ خَالِدِ بْنِ الْوَلِيدِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ أَكْلِ لُحُومِ الْخَيْلِ وَالْبِغَالِ وَالْحَمِيرِ - زَادَ حَيْوَةُ - وَكُلِّ ذِي نَابٍ مِنَ السِّبَاعِ ‏.‏ قَالَ أَبُو دَاوُدَ وَهُوَ قَوْلُ مَالِكٍ ‏.‏ قَالَ أَبُو دَاوُدَ لاَ بَأْسَ بِلُحُومِ الْخَيْلِ وَلَيْسَ الْعَمَلُ عَلَيْهِ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا مَنْسُوخٌ قَدْ أَكَلَ لُحُومَ الْخَيْلِ جَمَاعَةٌ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم مِنْهُمُ ابْنُ الزُّبَيْرِ وَفَضَالَةُ بْنُ عُبَيْدٍ وَأَنَسُ بْنُ مَالِكٍ وَأَسْمَاءُ ابْنَةُ أَبِي بَكْرٍ وَسُوَيْدُ بْنُ غَفَلَةَ وَعَلْقَمَةُ وَكَانَتْ قُرَيْشٌ فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم تَذْبَحُهَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Khalid ibn al-Walid:",
+        "text": "The Messenger of Allah (ﷺ) forbade us to eat horse-flesh, the flesh of mules and of asses. The narrator Haywah added: Every beast of prey with a fang.\n\n\nAbu Dawud said: This view is held by Malik.\n\n\nAbu Dawud said: There is no harm in (eating) horse-flesh and this tradition is not practised.\n\n\nAbu Dawud said: This tradition has been abrogated. A body of Companions of the Prophet (ﷺ) had eaten horse-flesh. OF them are: Ibn al-Zubair, Fudalah bin 'Ubaid, Anas bin Malik, Asma' daughter of Abu Bakr, Suwaid bin Ghaflah, 'Alqamah; the Quraish used to slaughter them (horses) during the time of the Messenger of Allah (ﷺ)."
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ هِشَامِ بْنِ زَيْدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كُنْتُ غُلاَمًا حَزَوَّرًا فَصِدْتُ أَرْنَبًا فَشَوَيْتُهَا فَبَعَثَ مَعِي أَبُو طَلْحَةَ بِعَجُزِهَا إِلَى النَّبِيِّ صلى الله عليه وسلم فَأَتَيْتُهُ بِهَا فَقَبِلَهَا ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik said:",
+        "text": "I was an adolescent boy. I hunted a hare and roasted it. Abu Talha sent its hunch through me to the Prophet (ﷺ), so I brought it to him and he accepted it."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ خَلَفٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدٍ، قَالَ سَمِعْتُ أَبِي خَالِدَ بْنَ الْحُوَيْرِثِ، يَقُولُ إِنَّ عَبْدَ اللَّهِ بْنَ عَمْرٍو كَانَ بِالصِّفَاحِ - قَالَ مُحَمَّدٌ مَكَانٌ بِمَكَّةَ - وَإِنَّ رَجُلاً جَاءَ بِأَرْنَبٍ قَدْ صَادَهَا فَقَالَ يَا عَبْدَ اللَّهِ بْنَ عَمْرٍو مَا تَقُولُ قَالَ قَدْ جِيءَ بِهَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَنَا جَالِسٌ فَلَمْ يَأْكُلْهَا وَلَمْ يَنْهَ عَنْ أَكْلِهَا وَزَعَمَ أَنَّهَا تَحِيضُ ‏.‏",
+      "english": {
+        "narrator": "Abu Khalid b. al-Huwairith said :",
+        "text": "‘Abd Allah b. ‘Amar was in al-safah. The narrator Muhammed (b. Khalid) said: it is a place in Mecca. A man brought a hare which he had haunted. He said: ‘Abd Allah b. ‘Amr, what do you say ? He said: It was brought to the Messenger of Allah (ﷺ) when I was sitting (with him). He did not eat it, nor did he prohibit to eat it. He thought that it menstruated."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ خَالَتَهُ، أَهْدَتْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم سَمْنًا وَأَضُبًّا وَأَقِطًا فَأَكَلَ مِنَ السَّمْنِ وَمِنَ الأَقِطِ وَتَرَكَ الأَضُبَّ تَقَذُّرًا وَأُكِلَ عَلَى مَائِدَتِهِ وَلَوْ كَانَ حَرَامًا مَا أُكِلَ عَلَى مَائِدَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas said that his maternal aunt presented to the Messenger of Allah (ﷺ) clarified butter, lizards and cottage cheese. He ate from clarified butter and cheese, but left the lizard abominably. It was eaten on the food cloth of the Messenger of Allah (ﷺ). Had it been unlawful, it would not have been eaten on the food cloth of the Messenger of Allah (ﷺ)."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، عَنْ خَالِدِ بْنِ الْوَلِيدِ، أَنَّهُ دَخَلَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بَيْتَ مَيْمُونَةَ فَأُتِيَ بِضَبٍّ مَحْنُوذٍ فَأَهْوَى إِلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدِهِ فَقَالَ بَعْضُ النِّسْوَةِ اللاَّتِي فِي بَيْتِ مَيْمُونَةَ أَخْبِرُوا النَّبِيَّ صلى الله عليه وسلم بِمَا يُرِيدُ أَنْ يَأْكُلَ مِنْهُ فَقَالُوا هُوَ ضَبٌّ ‏.‏ فَرَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَهُ ‏.‏ قَالَ فَقُلْتُ أَحَرَامٌ هُوَ يَا رَسُولَ اللَّهِ قَالَ ‏\n\"‏ لاَ وَلَكِنَّهُ لَمْ يَكُنْ بِأَرْضِ قَوْمِي فَأَجِدُنِي أَعَافُهُ ‏\"‏ ‏.‏ قَالَ خَالِدٌ فَاجْتَرَرْتُهُ فَأَكَلْتُهُ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَنْظُرُ ‏.‏",
+      "english": {
+        "narrator": "Ibn ‘Abbas said on the authority of Khalid b. al-Walid that he entered the house of Maimunah along with the Messenger of Allah (ﷺ). A roasted lizard was offered to him. The Messenger of Allah (ﷺ) stretched his hand for it. Some of the women is going to eat. They said:",
+        "text": "It is a lizard. The Messenger of Allah (ﷺ) raised his hand. I (Khalid) asked: Is it forbidden, Messenger of Allah? He replied, No, but it is not found in the land of my people, so I find it distasteful. Khalid said: I then pulled it and ate it while The Messenger of Allah (ﷺ) was seeing."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، أَخْبَرَنَا خَالِدٌ، عَنْ حُصَيْنٍ، عَنْ زَيْدِ بْنِ وَهْبٍ، عَنْ ثَابِتِ بْنِ وَدِيعَةَ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي جَيْشٍ فَأَصَبْنَا ضِبَابًا - قَالَ - فَشَوَيْتُ مِنْهَا ضَبًّا فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَوَضَعْتُهُ بَيْنَ يَدَيْهِ - قَالَ - فَأَخَذَ عُودًا فَعَدَّ بِهِ أَصَابِعَهُ ثُمَّ قَالَ ‏\n\"‏ إِنَّ أُمَّةً مِنْ بَنِي إِسْرَائِيلَ مُسِخَتْ دَوَابَّ فِي الأَرْضِ وَإِنِّي لاَ أَدْرِي أَىُّ الدَّوَابِّ هِيَ ‏\"‏ ‏.‏ قَالَ فَلَمْ يَأْكُلْ وَلَمْ يَنْهَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Thabit ibn Wadi'ah:",
+        "text": "We were in an army with the Messenger of Allah (ﷺ). We got some lizards. I roasted one lizard and brought it to the Messenger of Allah (ﷺ) and placed it before him. He took a stick and counted its fingers. He then said: A group from the children of Isra'il was transformed into an animal of the land, and I do not know which animal it was. He did not eat it nor did he forbid (its eating)."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَوْفٍ الطَّائِيُّ، أَنَّ الْحَكَمَ بْنَ نَافِعٍ، حَدَّثَهُمْ حَدَّثَنَا ابْنُ عَيَّاشٍ، عَنْ ضَمْضَمِ بْنِ زُرْعَةَ، عَنْ شُرَيْحِ بْنِ عُبَيْدٍ، عَنْ أَبِي رَاشِدٍ الْحُبْرَانِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ شِبْلٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ أَكْلِ لَحْمِ الضَّبِّ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbdurRahman ibn Shibl:",
+        "text": "The Messenger of Allah (ﷺ) forbade to eat the flesh of lizard."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْفَضْلُ بْنُ سَهْلٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ مَهْدِيٍّ، حَدَّثَنِي بُرَيْهُ بْنُ عُمَرَ بْنِ سَفِينَةَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ أَكَلْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم لَحْمَ حُبَارَى ‏.‏",
+      "english": {
+        "narrator": "Narrated Safinah:",
+        "text": "I ate the flesh of a bustard along with the Prophet (ﷺ)."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا غَالِبُ بْنُ حَجْرَةَ، حَدَّثَنِي مِلْقَامُ بْنُ تَلِبٍّ، عَنْ أَبِيهِ، قَالَ صَحِبْتُ النَّبِيَّ صلى الله عليه وسلم فَلَمْ أَسْمَعْ لِحَشَرَةِ الأَرْضِ تَحْرِيمًا ‏.‏",
+      "english": {
+        "narrator": "Narrated at-Talabb ibn Tha'labah at-Tamimi:",
+        "text": "I accompanied the Messenger of Allah (ﷺ), but I did not hear about the prohibition of (eating) insects and little creatures of land."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 28,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ خَالِدٍ الْكَلْبِيُّ أَبُو ثَوْرٍ، حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ عِيسَى بْنِ نُمَيْلَةَ، عَنْ أَبِيهِ، قَالَ كُنْتُ عِنْدَ ابْنِ عُمَرَ فَسُئِلَ عَنْ أَكْلِ الْقُنْفُذِ، فَتَلاَ ‏{‏ قُلْ لاَ أَجِدُ فِيمَا أُوحِيَ إِلَىَّ مُحَرَّمًا ‏}‏ الآيَةَ قَالَ قَالَ شَيْخٌ عِنْدَهُ سَمِعْتُ أَبَا هُرَيْرَةَ يَقُولُ ذُكِرَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\"‏ خَبِيثَةٌ مِنَ الْخَبَائِثِ ‏\"‏ ‏.‏ فَقَالَ ابْنُ عُمَرَ إِنْ كَانَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم هَذَا فَهُوَ كَمَا قَالَ مَا لَمْ نَدْرِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "Numaylah  said: I was with Ibn Umar. He was asked about eating hedgehog. He recited: \"Say: I find not in the message received by me by inspiration any (meat) forbidden.\" An old man who was with him said: I heard AbuHurayrah say: It was mentioned to the Messenger of Allah (ﷺ). Noxious of the noxious. Ibn Umar said: If the Messenger of Allah (ﷺ) had said it, it is as he said that we did not know."
+      }
+    }
+  ]
+}

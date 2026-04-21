@@ -1,0 +1,16 @@
+{
+  "id": 27,
+  "chapterId": 25,
+  "bookId": 11,
+  "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ وَائِلِ بْنِ دَاوُدَ، عَنِ ابْنِهِ، وَهُوَ بَكْرُ بْنُ وَائِلٍ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ‏:‏ أَوْلَمَ رَسُولُ اللهِ صلى الله عليه وسلم عَلَى صَفِيَّةَ بِتَمْرٍ وَسَوِيقٍ‏.‏",
+  "english": {
+    "narrator": "Anas ibn Malik said:",
+    "text": "\"Allah’s Messenger (Allah bless him and give him peace) gave a wedding banquet for Safiyya consisting of dried dates and parched barley.”"
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

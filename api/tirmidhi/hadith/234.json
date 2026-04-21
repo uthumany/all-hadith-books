@@ -1,0 +1,16 @@
+{
+  "id": 234,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُمَرَ بْنِ عَلِيٍّ الْمُقَدَّمِيُّ، قَالَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ سِمَاكٍ، عَنْ أَبِي الرَّبِيعِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَبَسَطْتُ ثَوْبِي عِنْدَهُ ثُمَّ أَخَذَهُ فَجَمَعَهُ عَلَى قَلْبِي فَمَا نَسِيتُ بَعْدَهُ حَدِيثًا ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Hurairah:",
+    "text": "\"I came to the Prophet (ﷺ) and spread out my garment next to him, then he took it and gathered it at my heart, so I did not forget after that .\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

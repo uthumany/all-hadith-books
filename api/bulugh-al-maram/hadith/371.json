@@ -1,0 +1,16 @@
+{
+  "id": 371,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "حَدِيثَ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- فِي \n\"اَلصَّحِيحَيْنِ\" مَرْفُوعًا: { إِذَا قُلْتَ لِصَاحِبِكَ: أَنْصِتْ يَوْمَ اَلْجُمُعَةِ وَالْإِمَامِ يَخْطُبُ, فَقَدْ لَغَوْتَ }   1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (935)‏، ومسلم (851)‏.‏ ومعنى: \"لغوت\": قال الزين بن المنير: اتفقت أقوال المفسرين على أن اللغو ما لا يحسن من الكلام.‏",
+  "english": {
+    "narrator": "This Hadith interprets the Marfu' Hadith  of Abu Hurairah reported in the Sahihain:",
+    "text": "On Friday, when the Imam is delivering the Khutbah (religious talk), if you say to your companion to keep quiet, then indeed you have committed a sin (error/something senseless)."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

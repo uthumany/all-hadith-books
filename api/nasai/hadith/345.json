@@ -1,0 +1,16 @@
+{
+  "id": 345,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنَا جَعْفَرُ بْنُ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم طَافَ سَبْعًا رَمَلَ ثَلاَثًا وَمَشَى أَرْبَعًا ثُمَّ قَرَأَ ‏{‏ وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى ‏}‏ فَصَلَّى سَجْدَتَيْنِ وَجَعَلَ الْمَقَامَ بَيْنَهُ وَبَيْنَ الْكَعْبَةِ ثُمَّ اسْتَلَمَ الرُّكْنَ ثُمَّ خَرَجَ فَقَالَ ‏\"‏ إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ فَابْدَءُوا بِمَا بَدَأَ اللَّهُ بِهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Jabir that the Messenger of Allah performed Tawaf, walking rapidly (Raml) for three circuits, and walking at a normal pace for four. Then he recited:",
+    "text": "\"And take you the Maqam (place) of Ibrahim as a place of prayer.\" And prayed two Rak`ahs with the Maqam between him and the Ka`bah. Then he touched the Corner, then he went out and said: 'As-Safa and Al-Marwah are two of the symbols of Allah. We will start with that with which Allah started.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 190,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ لَا يُؤْمِنُ عَبْدٌ حَتَّى يُؤْمِنَ بِأَرْبَعٍ حَتَّى يَشْهَدَ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنِّي رَسُولُ اللَّهِ بَعَثَنِي بِالْحَقِّ وَحَتَّى يُؤْمِنَ بِالْبَعْثِ بَعْدَ الْمَوْتِ وَحَتَّى يُؤْمِنَ بِالْقَدَرِ‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Ali (رضي الله عنه) that The Prophet (ﷺ) said:",
+    "text": "`No one (truly) believes until he believes in four things; until he believes that there is no god but Allah and that I am the Messenger of Allah Who sent me with the truth, and until he believes in the resurrection after death, and until he believes in the divine will and decree.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

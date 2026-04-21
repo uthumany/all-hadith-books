@@ -1,0 +1,16 @@
+{
+  "id": 302,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "و عن أبي ثرية سبرة بن معبد الجهني رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ علموا الصبي الصلاة لسبع سنين‏\"‏ واضربوه عليها ابن عشر سنين‏\"‏ حديث حسن رواه أبو داود، والترمذي وقال حديث حسن‏.‏ ولفظ أبي داود‏:‏ ‏\"‏ مروا الصبي بالصلاة إذا بلغ سبع سنين‏\"‏‏.‏",
+  "english": {
+    "narrator": "Sabrah bin Ma'bad Al-Juhani (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Teach a boy Salat (the prayer) when he attains the age of seven years, and punish him (if he does not offer it) at ten\"..The narration in Abu Dawud is: Messenger of Allah (ﷺ) said, \"Order a boy to perform Salat (the prayer) when he is seven years old\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

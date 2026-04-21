@@ -1,0 +1,16 @@
+{
+  "id": 87,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي اَلدَّرْدَاءِ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَا مِنْ شَيْءٍ فِي اَلْمِيزَانِ أَثْقَلُ مِنْ حُسْنِ اَلْخُلُقِ }  أَخْرَجَهُ أَبُو دَاوُدَ, وَاَلتِّرْمِذِيُّ وَصَحَّحَهُ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (4799)‏، وهو طرف من الحديث السابق (1502)‏.‏",
+  "english": {
+    "narrator": "Abu ad-Darda’ (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“The heaviest thing which will be put on the believer’s scale (on the Day of Resurrection) will be good morals.” Related by Abu Dawud and At-Tirmidhi who graded it as Sahih."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

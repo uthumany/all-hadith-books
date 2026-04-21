@@ -1,0 +1,16 @@
+{
+  "id": 512,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "-وعن أبي محمد فضاله بن عبيد الأنصاري رضي الله عنه ، أنه سمع رسول الله صلى الله عليه وسلم يقول ‏:‏ ‏\n\"‏طوبى لمن هدي إلى الإسلام ، وكان عيشه كفافا ،وقنع ‏\"‏ ‏(‏‏(‏رواه الترمذي وقال ‏:‏حديث حسن صحيح ‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Fadalah bin 'Ubaid Al-Ansari (May Allah be pleased with him) reported:",
+    "text": "I heard Messenger of Allah (ﷺ) say: \"Happiness is due to him who is guided to Islam and possesses provision that suffices him for his day and remains content.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

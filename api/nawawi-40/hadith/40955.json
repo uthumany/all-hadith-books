@@ -1,0 +1,16 @@
+{
+  "id": 40955,
+  "chapterId": 1,
+  "bookId": 15,
+  "arabic": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه و سلم \"مِنْ حُسْنِ إسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ\". \nحَدِيثٌ حَسَنٌ، رَوَاهُ التِّرْمِذِيُّ .",
+  "english": {
+    "narrator": "On the authority of Abu Hurayrah (may Allah be pleased with him) who said:",
+    "text": "The Messenger of Allah (peace and blessings of Allah be upon him) said, “Part of the perfection of one’s Islam is his leaving that which does not concern him.”\n\nA hasan (good) hadeeth which was related by at-Tirmidhi and others in this fashion."
+  },
+  "book": {
+    "id": 15,
+    "name": "The Forty Hadith of al-Nawawi",
+    "arabic": "الأربعون النووية",
+    "slug": "nawawi-40"
+  }
+}

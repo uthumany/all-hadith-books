@@ -1,0 +1,16 @@
+{
+  "id": 260,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا تَمِيمُ بْنُ الْمُنْتَصِرِ، حَدَّثَنَا إِسْحَاقُ، - يَعْنِي ابْنَ يُوسُفَ - عَنْ أَبِي بِشْرٍ، وَرْقَاءَ، عَنْ مَنْصُورٍ، عَنْ هِلاَلِ بْنِ يِسَافٍ، عَنْ خَالِدِ بْنِ عَرْفَجَةَ، عَنْ سَالِمِ بْنِ عُبَيْدٍ الأَشْجَعِيِّ، بِهَذَا الْحَدِيثِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+  "english": {
+    "narrator": "Narrated Salim ibn Ubayd al-Ashja'i:",
+    "text": "The tradition mentioned above (No. 5013) has also been mentioned by Salim ibn Ubayd al-Ashja'i to the same effect from the Prophet (ﷺ) through a different chain of narrators."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

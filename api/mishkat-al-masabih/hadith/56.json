@@ -1,0 +1,16 @@
+{
+  "id": 56,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" عَلَيْكُمْ بِالشِّفَاءَيْنِ: الْعَسَلِ وَالْقُرْآنِ \". رَوَاهُمَا ابْنُ مَاجَهْ وَالْبَيْهَقِيُّ فِي شُعَبِ الْإِيمَانِ وَقَالَ: وَالصَّحِيحُ أَنَّ الْأَخِيرَ مَوْقُوفٌ عَلَى ابْنِ مَسْعُودٍ",
+  "english": {
+    "narrator": "'Abdallah b. Mas'ud reported God’s messenger as saying:",
+    "text": "“Make use of the two remedies: honey and the Qur’an.” \n\nIbn Majah and Baihaqi, in Shu'ab al-lman, transmitted the two traditions, Baihaqi saying the correct view is that the second goes no farther back than Ibn Mas'ud."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

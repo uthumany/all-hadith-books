@@ -1,0 +1,16 @@
+{
+  "id": 16,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، عَنْ أَبِي دَاوُدَ، قَالَ حَدَّثَنَا بِسْطَامٌ، قَالَ حَدَّثَنَا مَالِكُ بْنُ دِينَارٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَخْلِطُوا الزَّبِيبَ وَالتَّمْرَ وَلاَ الْبُسْرَ وَالتَّمْرَ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "It was narrated from Jabir, that :",
+    "text": "The Messenger of Allah  said: \"Do not mix raisins and dried dates, nor Al-Busr and dried dates.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

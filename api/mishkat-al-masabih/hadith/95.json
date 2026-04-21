@@ -1,0 +1,16 @@
+{
+  "id": 95,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عَبَّاسٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اتَّخَذَ خَاتَمًا فَلَبِسَهُ قَالَ: «شَغَلَنِي هَذَا عَنْكُمْ مُنْذُ الْيَوْمَ إِلَيْهِ نَظْرَةٌ وإِليكم نظرة» ثمَّ أَلْقَاهُ. رَوَاهُ النَّسَائِيّ",
+  "english": {
+    "narrator": "",
+    "text": "Ibn ‘Abbas told that God’s messenger got a signet-ring, but when he wore it he said, “This has distracted me from you ; since today I have been giving a look at it and giving a look at you.” He then threw it away. \nNasa’i transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 70,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعْتُ أَبَا مُوسَى، يَقُولُ حَدَّثَنَا عَمْرُو بْنُ عُبَيْدٍ، قَبْلَ أَنْ يُحْدِثَ، ‏.‏",
+  "english": {
+    "narrator": "Salamah bin Shabīb narrated to me, al-Humaydī narrated to us, Sufyān narrated to us, he said I heard Abū Mūsā  saying:",
+    "text": "‘Amr bin Ubayd narrated to us before what happened’ ."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

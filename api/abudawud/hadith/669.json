@@ -1,0 +1,16 @@
+{
+  "id": 669,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا سَعِيدٌ، عَنْ صَاحِبٍ، لَهُ عَنْ أَبِي مَلِيحٍ، أَنَّ ذَلِكَ، كَانَ يَوْمَ جُمُعَةٍ ‏.‏",
+  "english": {
+    "narrator": "Abu al-Malih said:",
+    "text": "That took place on a Friday."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

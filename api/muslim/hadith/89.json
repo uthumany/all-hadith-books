@@ -1,0 +1,16 @@
+{
+  "id": 89,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنِي أَحْمَدُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنِي سُلَيْمَانُ بْنُ حَرْبٍ، عَنْ حَمَّادِ بْنِ زَيْدٍ، قَالَ ذُكِرَ فَرْقَدٌ عِنْدَ أَيُّوبَ فَقَالَ إِنَّ فَرْقَدًا لَيْسَ صَاحِبَ حَدِيثٍ ‏.‏",
+  "english": {
+    "narrator": "Ahmad bin Ibrāhīm narrated to me, he said, Sulaymān bin Harb narrated to me, on authority of Hammād bin Zayd, he said, Farqad was mentioned near Ayyūb, so he said:",
+    "text": "‘Indeed Farqad is not a companion of Ḥadīth’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

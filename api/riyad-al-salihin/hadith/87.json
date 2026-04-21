@@ -1,0 +1,16 @@
+{
+  "id": 87,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "فالأول‏:‏ عن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ بادروا بالأعمال فتناً كقطع الليل المظلم يصبح الرجل مؤمنا ويمسي كافراً ويمسي مؤمنا ويصبح كافراً، يبيع دينه بعرض من الدنيا‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Be prompt in doing good deeds (before you are overtaken) by turbulence which would be like a part of the dark night. A man would be a believer in the morning and turn to disbelief in the evening, or he would be a believer in the evening and turn disbeliever in the morning, and would sell his Faith for worldly goods.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

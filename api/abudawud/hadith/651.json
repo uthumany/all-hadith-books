@@ -1,0 +1,16 @@
+{
+  "id": 651,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، وَمُحَمَّدُ بْنُ رَافِعٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ هِنْدَ بِنْتِ الْحَارِثِ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا سَلَّمَ مَكَثَ قَلِيلاً وَكَانُوا يَرَوْنَ أَنَّ ذَلِكَ كَيْمَا يَنْفُذَ النِّسَاءُ قَبْلَ الرِّجَالِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Umm Salamah said; When the Messenger of Allah (ﷺ) gave the salutation, he stayed for a while. By this people thought that women should return earlier than men."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

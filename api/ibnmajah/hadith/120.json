@@ -1,0 +1,16 @@
+{
+  "id": 120,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ الرَّازِيُّ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، أَنْبَأَنَا الْعَلاَءُ بْنُ صَالِحٍ، عَنِ الْمِنْهَالِ، عَنْ عَبَّادِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ عَلِيٌّ أَنَا عَبْدُ اللَّهِ، وَأَخُو، رَسُولِهِ ـ صلى الله عليه وسلم ـ وَأَنَا الصِّدِّيقُ الأَكْبَرُ، لاَ يَقُولُهَا بَعْدِي إِلاَّ كَذَّابٌ صَلَّيْتُ قَبْلَ النَّاسِ لِسَبْعِ سِنِينَ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that 'Abbad bin 'Abdullah said:",
+    "text": "\"'Ali said: 'I am the slave of Allah and the brother of His Messenger. I am the greatest teller of the truth (Siddiq Akbar), and no one will say this after me except a liar. I prayed seven years before the people.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

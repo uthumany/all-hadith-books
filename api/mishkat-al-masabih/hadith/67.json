@@ -1,0 +1,16 @@
+{
+  "id": 67,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَن قَطن بن قَبيصةَ عَنْ أَبِيهِ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الْعِيَافَةُ وَالطَّرْقُ وَالطِّيَرَةُ مِنَ الْجِبْتِ» . رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "Qatan b. Qabisa told on his father’s authority that the Prophet said:",
+    "text": "\"Augury from the flight of birds, the practice of pessomancy,* and taking evil omens pertain to divination.\"**\n\nAbu Dawud transmitted it.\n\n* Tarq. It is used of the practice of divinantion in which women threw stones. It is also used of geomancy by drawing lines.\n** Min al-jibt. Jibt means devil and also divination. An alternative translation would be that these practices come from the devil."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

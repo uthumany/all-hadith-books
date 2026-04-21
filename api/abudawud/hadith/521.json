@@ -1,0 +1,16 @@
+{
+  "id": 521,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنِ الأَشْعَثِ، - يَعْنِي ابْنَ سُلَيْمٍ - عَنْ أَبِيهِ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْتِفَاتِ الرَّجُلِ فِي الصَّلاَةِ فَقَالَ ‏\n\"‏ إِنَّمَا هُوَ اخْتِلاَسٌ يَخْتَلِسُهُ الشَّيْطَانُ مِنْ صَلاَةِ الْعَبْدِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "‘A’ishah said:",
+    "text": "I asked the Messenger of Allah(ﷺ) about looking to the sides during prayer. He said: It is something which the devil snatches from a servant’s prayers."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

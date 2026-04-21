@@ -1,0 +1,16 @@
+{
+  "id": 76,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا هِشَامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَيُصِيبَنَّ أَقْوَامًا سَفْعٌ مِنَ النَّارِ بِذُنُوبٍ أَصَابُوهَا عُقُوبَةً، ثُمَّ يُدْخِلُهُمُ اللَّهُ الْجَنَّةَ بِفَضْلِ رَحْمَتِهِ يُقَالُ لَهُمُ الْجَهَنَّمِيُّونَ ‏\"‏‏.‏ وَقَالَ هَمَّامٌ حَدَّثَنَا قَتَادَةٌ حَدَّثَنَا أَنَسٌ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+  "english": {
+    "narrator": "Narrated Anas:",
+    "text": "The Prophet (ﷺ) said, \"Some people will be scorched by Hell (Fire) as a punishment for sins they \nhave committed, and then Allah will admit them into Paradise by the grant of His Mercy. These \npeople will be called, 'Al-Jahannamiyyin' (the people of Hell)."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

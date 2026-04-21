@@ -1,0 +1,510 @@
+{
+  "page": 21,
+  "perPage": 50,
+  "totalPages": 89,
+  "totalCount": 4428,
+  "nextPage": 22,
+  "prevPage": 20,
+  "items": [
+    {
+      "id": 480,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَمْنَعُوا نِسَاءَكُمُ الْمَسَاجِدَ وَبُيُوتُهُنَّ خَيْرٌ لَهُنَّ» . رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar reported God’s Messenger as saying, “Do not prevent your women from coming to the mosques, but their houses are better for them.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 481,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ مَسْعُودٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «صَلَاةُ الْمَرْأَةِ فِي بَيْتِهَا أَفْضَلُ مِنْ صَلَاتِهَا فِي حُجْرَتِهَا وَصَلَاتُهَا فِي مَخْدَعِهَا أَفْضَلُ مِنْ صَلَاتِهَا فِي بَيْتِهَا» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Ibn Mas'ud reported the Prophet as saying, “It is more excellent for a woman to pray in her house than in her courtyard, and more excellent for her to pray in her private chamber than in her house.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 482,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: إِنِّي سَمِعْتُ حِبِّي أَبَا الْقَاسِمِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَا تُقْبَلُ صَلَاةُ امْرَأَةٍ تَطَيَّبَتْ لِلْمَسْجِدِ حَتَّى تَغْتَسِلَ غُسْلَهَا مِنَ الْجَنَابَةِ» . رَوَاهُ أَبُو دَاوُدَ وروى أَحْمد وَالنَّسَائِيّ نَحوه",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira said that he heard his friend Abul Qasim (. i.e. the Prophet) say, “The prayer of a woman who has perfumed herself to go to the mosque is not accepted till she bathes as she would for sexual defilement.” \n\nAbu Dawud transmitted it, and Ahmad and Nasa’i transmitted something similar."
+      }
+    },
+    {
+      "id": 483,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي مُوسَى قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «كُلُّ عَيْنٍ زَانِيَةٌ وَإِنَّ الْمَرْأَةَ إِذَا اسْتَعْطَرَتْ فَمَرَّتْ بِالْمَجْلِسِ فَهِيَ كَذَا وَكَذَا» . يَعْنِي زَانِيَةً. رَوَاهُ التِّرْمِذِيُّ وَلِأَبِي دَاوُد وَالنَّسَائِيّ نَحوه",
+      "english": {
+        "narrator": "",
+        "text": "Abu' Musa reported God’s Messenger as saying, “Every eye is adulterous, and when a woman perfumes herself and passes a company, she is such and such meaning adulterous. \n\nTirmidhi transmitted it, and Abu Dawud and Nasa’i have something similar."
+      }
+    },
+    {
+      "id": 484,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أُبَيِّ بْنِ كَعْبٍ قَالَ: صَلَّى بِنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمًا الصُّبْحَ فَلَمَّا سَلَّمَ قَالَ: «أَشَاهِدٌ فُلَانٌ؟» قَالُوا: لَا. قَالَ: «أَشَاهِدٌ فُلَانٌ؟» قَالُوا: لَا. قَالَ: «إِنَّ هَاتَيْنِ الصَّلَاتَيْنِ أَثْقَلُ الصَّلَوَاتِ عَلَى الْمُنَافِقِينَ وَلَو تعلمُونَ مَا فيهمَا لأتيتموهما وَلَوْ حَبْوًا عَلَى الرُّكَبِ وَإِنَّ الصَّفَّ الْأَوَّلَ عَلَى مِثْلِ صَفِّ الْمَلَائِكَةِ وَلَوْ عَلِمْتُمْ مَا فضيلته لابتدرتموه وَإِن صَلَاة الرجل من الرَّجُلِ أَزْكَى مِنْ صَلَاتِهِ وَحْدَهُ وَصَلَاتَهُ مَعَ الرَّجُلَيْنِ أَزْكَى مِنْ صَلَاتِهِ مَعَ الرَّجُلِ وَمَا كَثُرَ فَهُوَ أَحَبُّ إِلَى اللَّهِ» . رَوَاهُ أَبُو دَاوُد وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "Ubayy b. Ka‘b said:",
+        "text": "God’s Messenger led us in the dawn prayer one day, and when he gave the salutation he asked, “Is so and so present?” and was told that he was not. He asked, “Is so and so present?” and was told that he was not. He then said, “These two prayers* are the ones which are most burdensome to hypocrites. If you knew the blessings they contain you would come to them, even though you had to crawl on your knees. The first row is like that of the angels, and if you knew the nature of its excellence you would race to join it. A man’s prayer said along with another is purer than his prayer said alone, and his prayer with two men is purer than his prayer with one, but if there are more it is more pleasing to God.” \n\n*i.e. the evening prayer and the dawn prayer.\n\nAbu Dawud and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 485,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي الدَّرْدَاءِ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَا مِنْ ثَلَاثَةٍ فِي قَرْيَةٍ وَلَا بَدْوٍ لَا تُقَامُ فِيهِمُ الصَّلَاةُ إِلَّا قَدِ اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَعَلَيْكَ بِالْجَمَاعَةِ فَإِنَّمَا يَأْكُلُ الذِّئْبُ الْقَاصِيَةَ» . رَوَاهُ أَحْمَدُ وَأَبُو دَاوُد وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abud Darda’ reported God’s Messenger as saying, “If there are three men in a village or in the desert among whom prayer is not arranged, the devil has got the mastery over them. So observe prayer in company, for the wolf eats only the straggling animal.” \n\nAhmad, Abu Dawud and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 486,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم: «من سمع الْمُنَادِي فَلَمْ يَمْنَعْهُ مِنِ اتِّبَاعِهِ عُذْرٌ» قَالُوا وَمَا الْعُذْرُ؟ قَالَ: «خَوْفٌ أَوْ مَرَضٌ لَمْ تُقْبَلْ مِنْهُ الصَّلَاةُ الَّتِي صَلَّى» . رَوَاهُ أَبُو دَاوُدَ وَالدَّارَقُطْنِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas reported God’s Messenger as saying, “If any one hears him who makes the call to prayer and is not prevented from joining the congregation by any excuse,” (he was asked what an excuse consisted of and replied that it was fear or illness), “the prayer he says will not be accepted from him.” \n\nAbu Dawud and Daraqutni transmitted it."
+      }
+    },
+    {
+      "id": 487,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ أَرْقَمَ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم يَقُول: «إِذَا أُقِيمَتِ الصَّلَاةُ وَوَجَدَ أَحَدُكُمُ الْخَلَاءَ فَلْيَبْدَأْ بِالْخَلَاءِ» . رَوَاهُ التِّرْمِذِيُّ وَرَوَى مَالِكٌ وَأَبُو دَاوُدَ وَالنَّسَائِيّ نَحوه",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. Arqam said he heard God’s Messenger say, “When the time for prayer comes and one of you needs to relieve himself, he should do that first.” \n\nTirmidhi transmitted it, and Malik, Abu Dawud and Nasa’i transmitted something similar."
+      }
+    },
+    {
+      "id": 488,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ ثَوْبَانَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" ثَلَاثٌ لَا يَحِلُّ لِأَحَدٍ أَنْ يَفْعَلَهُنَّ: لَا يَؤُمَّنَّ رَجُلٌ قَوْمًا فَيَخُصَّ نَفْسَهُ بِالدُّعَاءِ دُونَهُمْ فَإِنْ فَعَلَ ذَلِكَ فَقَدْ خَانَهُمْ. وَلَا يَنْظُرْ فِي قَعْرِ بَيْتٍ قَبْلَ أَنْ يَسْتَأْذِنَ فَإِنْ فَعَلَ ذَلِكَ فَقَدْ خَانَهُمْ وَلَا يُصَلِّ وَهُوَ حَقِنٌ حَتَّى يَتَخَفَّفَ \". رَوَاهُ أَبُو دَاوُدَ وللترمذي نَحوه",
+      "english": {
+        "narrator": "",
+        "text": "Thauban reported God’s Messenger as saying, “There are three things which are unlawful for anyone to do. A man must not act as imam for others in prayer and make a supplication for himself excluding them, for if he does that he has acted treacherously towards them. No one must look inside a house before asking permission to enter, for if he does so he has acted treacherously towards . And no one should pray while retaining urine, but should first relieve himself.” \n\nAbu Dawud transmitted it, and Tirmidhi has something similar."
+      }
+    },
+    {
+      "id": 489,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تُؤَخِّرُوا الصَّلَاةَ لِطَعَامٍ وَلَا لغيره» . رَوَاهُ فِي شرح السّنة",
+      "english": {
+        "narrator": "",
+        "text": "Jabir reported God’s Messenger as saying, “Do not postpone prayer because of food or any other reason.” \n\n transmitted it in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 490,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: لَقَدْ رَأَيْتُنَا وَمَا يَتَخَلَّفُ عَنِ الصَّلَاةِ إِلَّا مُنَافِقٌ قَدْ عُلِمَ نِفَاقُهُ أَوْ مَرِيضٌ إِنْ كَانَ الْمَرِيضُ لَيَمْشِي بَيْنَ رَجُلَيْنِ حَتَّى يَأْتِيَ الصَّلَاةَ وَقَالَ إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَّمَنَا سُنَنَ الْهُدَى وَإِنَّ مِنْ سُنَنِ الْهُدَى الصَّلَاةُ فِي الْمَسْجِدِ الَّذِي يُؤَذَّنُ فِيهِ\nوَفِي رِوَايَة: \" مَنْ سَرَّهُ أَنْ يَلْقَى اللَّهَ غَدًا مُسْلِمًا فليحافظ على هَؤُلَاءِ الصَّلَوَاتِ الْخَمْسِ حَيْثُ يُنَادَى بِهِنَّ فَإِنَّ اللَّهَ شرع لنبيكم صلى الله عَلَيْهِ وَسلم سُنَنَ الْهُدَى وَإِنَّهُنَّ مِنْ سُنَنِ الْهُدَى وَلَوْ أَنَّكُمْ صَلَّيْتُمْ فِي بُيُوتِكُمْ كَمَا يُصَلِّي هَذَا الْمُتَخَلِّفُ فِي بَيْتِهِ لَتَرَكْتُمْ سُنَّةَ نَبِيِّكُمْ وَلَوْ تَرَكْتُمْ سُنَّةَ نَبِيِّكُمْ لَضَلَلْتُمْ وَمَا مِنْ رَجُلٍ يَتَطَهَّرُ فَيُحْسِنُ الطُّهُورَ ثُمَّ يَعْمِدُ إِلَى مَسْجِدٍ مِنْ هَذِهِ الْمَسَاجِدِ إِلَّا كَتَبَ اللَّهُ لَهُ بِكُلِّ خُطْوَةٍ يَخْطُوهَا حَسَنَةً وَرَفَعَهُ بِهَا دَرَجَةً ويحط عَنْهُ بِهَا سَيِّئَةً وَلَقَدْ رَأَيْتُنَا وَمَا يَتَخَلَّفُ عَنْهَا إِلَّا مُنَافِقٌ مَعْلُومُ النِّفَاقِ وَلَقَدْ كَانَ الرَّجُلُ يُؤْتَى بِهِ يُهَادَى بَيْنَ الرَّجُلَيْنِ حَتَّى يُقَام فِي الصَّفّ. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "‘Abdallah b. Mas'ud said:",
+        "text": "I have seen the time when no one stayed away from prayer except a hypocrite whose hypocrisy was well known, or a sick man, but if a sick man could walk with one on each side of him he would come to prayer. He also said: God’s Messenger taught us the paths of right guidance, among which is prayer in the mosque in which the adhan is called. In a version he said: If anyone would like to meet God tomorrow as a Muslim he should persevere in observing these five times of prayer where the announcement for them is made, for God has laid down for your Prophet the paths of right guidance, among which are the prayers. If you were to pray in your houses as this man who stays away prays in his house, you would abandon the practice of your Prophet, and if you were to abandon the practice of your Prophet you would go astray. No man purifies himself, doing it well, then makes for one of these mosques, without God recording a blessing for him for every step he takes, raising him a degree for it and removing a sin from him for it. I have seen the time when no one stayed away from it except a hypocrite who was well known as such, whereas a man would be brought swaying* between two men till he was set up in the row.” \n\n* Because he was too weak to walk alone.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 491,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَوْلَا مَا فِي الْبُيُوتِ مِنَ النِّسَاءِ وَالذُّرِّيَّةِ أَقَمْتُ صَلَاةَ الْعِشَاءِ وَأَمَرْتُ فِتْيَانِي يُحْرِقُونَ مَا فِي الْبُيُوتِ بِالنَّارِ» . رَوَاهُ أَحْمد",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported the Prophet as saying, “Were it not for the women and children who are in the houses I would make the evening prayer congregational and command my young men to burn what is in the houses with fire.” \n\nAhmad transmitted it."
+      }
+    },
+    {
+      "id": 492,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ قَالَ: أَمَرَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" إِذَا كُنْتُمْ فِي الْمَسْجِدِ فَنُودِيَ بِالصَّلَاةِ فَلَا يَخْرُجْ أَحَدُكُمْ حَتَّى يُصَلِّيَ. رَوَاهُ أَحْمد",
+      "english": {
+        "narrator": "",
+        "text": "He said that God’s Messenger gave them this command, “When you are in the mosque and the call to prayer is made, none of you must go out before he prays.” \n\nAhmad transmitted it."
+      }
+    },
+    {
+      "id": 493,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي الشَّعْثَاءِ قَالَ: خَرَجَ رَجُلٌ مِنَ الْمَسْجِدِ بَعْدَمَا أُذِّنَ فِيهِ فَقَالَ أَبُو هُرَيْرَةَ: أَمَّا هَذَا فَقَدَ عَصَى أَبَا الْقَاسِمِ صَلَّى اللَّهُ عَلَيْهِ وَسلم. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Abush Sha'tha’ said that a man went out of the mosque after the adhan had been called in it, and Abu Huraira said, “This man has disobeyed Abul Qasim.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 494,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عُثْمَانَ بْنِ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ أَدْرَكَهُ الْأَذَانُ فِي الْمَسْجِدِ ثُمَّ خَرَجَ لَمْ يَخْرُجْ لِحَاجَةٍ وَهُوَ لَا يُرِيدُ الرّجْعَة فَهُوَ مُنَافِق» . رَوَاهُ ابْن مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "‘Uthman b. ‘Affan reported God’s Messenger as saying, “If the adhan is called when anyone is in the mosque and he goes out for any other reason than some necessary purpose, not intending to return, he is a hypocrite.” \n\nIbn Majah transmitted it."
+      }
+    },
+    {
+      "id": 495,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ سَمِعَ النِّدَاءَ فَلَمْ يُجِبْهُ فَلَا صَلَاةَ لَهُ إِلَّا مِنْ عُذْرٍ» . رَوَاهُ الدَّارَقُطْنِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn'Abbas reported the Prophet as saying, “If anyone hears the summons and does not respond to it, he is not credited with having prayed unless he has some excuse.” \n\nDaraqutni transmitted it."
+      }
+    },
+    {
+      "id": 496,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَن عبد الله بن أم مَكْتُوم قَالَ: يَا رَسُولَ اللَّهِ إِنَّ الْمَدِينَةَ كَثِيرَةُ الْهَوَامِّ وَالسِّبَاعِ وَأَنَا ضَرِيرُ الْبَصَرِ فَهَلْ تَجِدُ لِي مِنْ رُخْصَةٍ؟ قَالَ: «هَلْ تَسْمَعُ حَيَّ عَلَى الصَّلَاةِ حَيَّ عَلَى الْفَلَاحِ؟» قَالَ: نَعَمْ. قَالَ: «فَحَيَّهَلَا» . وَلَمْ يُرَخِّصْ لَهُ. رَوَاهُ أَبُو دَاوُد وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. Umm Maktum said, “Messenger of God, there are many venomous creatures and wild beasts in Medina, and I am blind, so are you able to grant me any licence?” He asked whether he could hear the call, “Come to prayer. Come to salvation,” and when he replied that he could, he said, “Then you must come,” and he gave him no indulgence. \n\nAbu Dawud and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 497,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَن أم الدَّرْدَاء قَالَتْ: دَخَلَ عَلَيَّ أَبُو الدَّرْدَاءِ وَهُوَ مُغْضَبٌ فَقُلْتُ: مَا أَغْضَبَكَ؟ قَالَ: وَاللَّهِ مَا أَعْرِفُ مِنْ أَمْرِ أُمَّةِ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَيْئًا إِلَّا أَنَّهُمْ يُصَلُّونَ جَمِيعًا. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Umm ad-Darda’ said that on one occasion Abud Darda’ was angry when he came in, and on her asking what had made him angry, he replied, “I swear by God that the only good thing I know about Muhammad’s people is that they pray in congregation.”* \n\n* The suggestion is that they have become so corrupt that this is the only respect in which they obey the Prophet’s commands.\n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 498,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي بَكْرِ بْنِ سُلَيْمَانَ بْنِ أَبِي حَثْمَةَ قَالَ: إِنَّ عُمَرَ بْنَ الْخَطَّابِ فَقَدَ سُلَيْمَانَ بْنَ أَبِي حَثْمَةَ فِي صَلَاةِ الصُّبْحِ وَإِنَّ عُمَرَ غَدَا إِلَى السُّوقِ وَمَسْكَنُ سُلَيْمَانَ بَيْنَ الْمَسْجِدِ وَالسُّوقِ فَمَرَّ عَلَى الشِّفَاءِ أُمِّ سُلَيْمَانَ فَقَالَ لَهَا لَمْ أَرَ سُلَيْمَانَ فِي الصُّبْحِ فَقَالَتْ إِنَّهُ بَاتَ يُصَلِّي فَغَلَبَتْهُ عَيْنَاهُ فَقَالَ عُمَرُ لَأَنْ أَشْهَدَ صَلَاةَ الصُّبْحِ فِي الْجَمَاعَة أَحَبُّ إِلَيَّ مِنْ أَنْ أَقُومَ لَيْلَةً. رَوَاهُ مَالك",
+      "english": {
+        "narrator": "",
+        "text": "Abu Bakr b. Sulaiman b. Abu Hathma said that ‘Umar b. al-Khattab missed Sulaiman b. Abu Hathma at the Morning Prayer. In the morning ‘Umar went to the market, and Sulaiman’s house being between the mosque and the market, he met ash-Shifa’, Sulaiman’s mother, and said to her, “I did not see Sulaiman at the morning prayer.” She replied, “He spent the night in prayer and was overpowered by sleep.” Thereupon ‘Umar said, “I would rather be present with a company at the Morning Prayer than spend a night in prayer.” \n\nMalik transmitted it."
+      }
+    },
+    {
+      "id": 499,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي مُوسَى الْأَشْعَرِيِّ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «اثْنَانِ فَمَا فَوْقهمَا جمَاعَة» . رَوَاهُ ابْن مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "Abu Musa al-Ash‘ari reported God’s Messenger as saying, “Two and over constitute a congregation.” \n\nIbn Majah transmitted it."
+      }
+    },
+    {
+      "id": 500,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ بِلَالِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ أَبِيهِ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَمْنَعُوا النِّسَاءَ حُظُوظَهُنَّ مِنَ الْمَسَاجِدِ إِذَا اسْتَأْذَنَّكُمْ» . فَقَالَ بِلَالٌ: وَاللَّهِ لَنَمْنَعُهُنَّ. فَقَالَ لَهُ عَبْدُ اللَّهِ: أَقُولُ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَتقول أَنْت لنمنعهن\nوَفِي رِوَايَةِ سَالِمٍ عَنْ أَبِيهِ قَالَ: فَأَقْبَلَ عَلَيْهِ عَبْدُ اللَّهِ فَسَبَّهُ سَبًّا مَا سَمِعْتُ سَبَّهُ مِثْلَهُ قَطُّ وَقَالَ: أُخْبِرُكَ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَتَقُولُ: وَاللَّهِ لنمنعهن. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Bilal b. ‘Abdallah b. ‘Umar on his father’s authority reported God’s Messenger as saying, “Do not prevent the women from their shares in the mosques when they ask your permission.” Bilal said, “I swear by God I will certainly prevent them.” ‘Abdallah replied, “I tell you that God’s Messenger said it, yet you say you will certainly prevent them!” In a version by Salim,* his father is reported as saying:",
+        "text": "‘Abdallah confronted him, and reviling him in terms the like of which I have never heard at any other time, he said, “I give you information on the authority of God’s Messenger, yet you say, ‘I swear by God I will certainly prevent them’!” \n\n* He is Salim b. ‘Abdallah b. ‘Umar b. al-Khattab.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 501,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ مُجَاهِدٍ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا يَمْنَعَنَّ رَجُلٌ أَهْلَهُ أَنْ يَأْتُوا الْمَسَاجِدَ» . فَقَالَ ابْنٌ لِعَبْدِ اللَّهِ بْنِ عُمَرَ: فَإِنَّا نَمْنَعُهُنَّ. فَقَالَ عَبْدُ اللَّهِ: أُحَدِّثُكَ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَتَقُولُ هَذَا؟ قَالَ: فَمَا كَلَّمَهُ عَبْدُ اللَّهِ حَتَّى مَاتَ. رَوَاهُ أَحْمد",
+      "english": {
+        "narrator": "",
+        "text": "Mujahid, on the authority of ‘Abdallah b. ‘Umar, reported the Prophet as saying, “No man must prevent his family from coming to the mosques.” A son of ‘Abdallah b. ‘Umar said, “I will certainly prevent them,” whereupon ‘Abdallah said, “I tell you something from God’s Messenger, and you say this!” He said that ‘Abdallah did not speak to him during the remainder of his life. \n\nAhmad transmitted it."
+      }
+    },
+    {
+      "id": 502,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَن النُّعْمَانِ بْنِ بَشِيرٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُسَوِّي صُفُوفَنَا حَتَّى كَأَنَّمَا يُسَوِّي بِهَا الْقِدَاحَ حَتَّى رَأَى أَنَّا قَدْ عَقَلْنَا عَنْهُ ثُمَّ خَرَجَ يَوْمًا فَقَامَ حَتَّى كَادَ أَنْ يُكَبِّرَ فَرَأَى رَجُلًا بَادِيًا صَدْرُهُ مِنَ الصَّفِّ فَقَالَ: «عِبَادَ اللَّهِ لَتُسَوُّنَّ صُفُوفَكُمْ أَوْ لَيُخَالِفَنَّ اللَّهُ بَيْنَ وُجُوهِكُمْ» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "An-Nu‘man b. Bashir said:",
+        "text": "God’s Messenger used to straighten our rows as if he were trying to make them as straight as arrows until he saw that we had learned it from him. One day he came out, stood up, and was just about to say God is most great ’ when he saw a man whose chest projected from the row, so he said, “Servants of God, you must straighten your rows, or God will certainly put your faces in contrary directions.\"*\n\n* The use of “faces” here may mean the people themselves and their inner nature. The tradition may refer to civil strife, which is possibly the meaning of the tradition below from Abu Mas'ud.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 503,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَن أنس قَالَ: أُقِيمَتِ الصَّلَاةُ فَأَقْبَلَ عَلَيْنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِوَجْهِهِ فَقَالَ: «أَقِيمُوا صُفُوفَكُمْ وَتَرَاصُّوا فَإِنِّي أَرَاكُمْ مِنْ وَرَاءِ ظَهْرِي» . رَوَاهُ الْبُخَارِيُّ. وَفِي الْمُتَّفَقِ عَلَيْهِ قَالَ: «أَتِمُّوا الصُّفُوف فَإِنِّي أَرَاكُم من وَرَاء ظَهْري»",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "The iqama* had been uttered and God’s Messenger faced us and said, “Make your rows straight and stand close together, for l can see you behind my back.” \n\n* A repetition of the words of the call to prayer after the worshippers have taken their places with the addition of a statement that the time of prayer has come.\n\nBukhari transmitted it. In the version given by Bukhari and Muslim he said, “Make the rows perfect, for I can see you behind my back.\""
+      }
+    },
+    {
+      "id": 504,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «سَوُّوا صُفُوفَكُمْ فَإِنَّ تَسْوِيَةَ الصُّفُوفِ من إِقَامَة الصَّلَاة» . إِلَّا أَنَّ عِنْدَ مُسْلِمٍ: «مِنْ تَمَامِ الصَّلَاةِ»",
+      "english": {
+        "narrator": "",
+        "text": "He reported God’s Messenger as saying, “Straighten your rows, for the straightening of the rows is part of the iqama for prayer.\" \n\n(Bukhari and Muslim, but Muslim has “part of the perfection of prayer.’’)"
+      }
+    },
+    {
+      "id": 505,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي مَسْعُودٍ الْأَنْصَارِيِّ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَمْسَحُ مَنَاكِبَنَا فِي الصَّلَاةِ وَيَقُولُ: «اسْتَوُوا وَلَا تَخْتَلِفُوا فَتَخْتَلِفَ قُلُوبكُمْ ليليني مِنْكُم أولُوا الْأَحْلَامِ وَالنُّهَى ثُمَّ الَّذِينَ يَلُونَهُمْ ثُمَّ الَّذِينَ يَلُونَهُمْ» . قَالَ أَبُو مَسْعُودٍ: فَأَنْتُمُ الْيَوْمَ أَشَدُّ اخْتِلَافا. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Abu Mas'ud al-Ansari said:",
+        "text": "God’s Messenger used to touch our shoulders at the prayer and say, “Keep straight; do not be irregular and so have your hearts irregular. Let those of you who are sedate and prudent be near me, then those who are next to them, then those who are next to them.\" Abu Mas'ud said, “Nowadays you are much more irregular.\" \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 506,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لِيَلِنِي مِنْكُمْ أُولُو الْأَحْلَامِ وَالنُّهَى ثُمَّ الَّذِينَ يَلُونَهُمْ» ثَلَاثًا وَإِيَّاكُم وهيشات الْأَسْوَاق \". رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. Mas'ud reported God’s Messenger as saying, “Let those of you who are sedate and prudent be near me, then those who are next to them (saying it three times), and beware of haphazardness* such as is found in markets.” \n\n* Or “tumult”.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 507,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ: رَأَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي أَصْحَابِهِ تَأَخُّرًا فَقَالَ لَهُمْ: «تَقَدَّمُوا وَأْتَمُّوا بِي وَلْيَأْتَمَّ بِكُمْ مَنْ بَعْدَكُمْ لَا يَزَالُ قَوْمٌ يَتَأَخَّرُونَ حَتَّى يؤخرهم الله» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa'id al-Khudri told that when God’s Messenger saw a tendency among his companions to go to the back he said to them, “Come forward and follow my lead, and let those who come after you follow your lead. People will continue to keep to the back till God will put them at the back.”* \n\n* This has been explained as referring to their being denied God’s grace, or their lacking rank or knowledge. But cf. the tradition from 'A’isha at the end of Section III.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 508,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرِ بْنِ سَمُرَةَ قَالَ: خَرَجَ عَلَيْنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَرَآنَا حلقا فَقَالَ: «مَالِي أَرَاكُمْ عِزِينَ؟» ثُمَّ خَرَجَ عَلَيْنَا فَقَالَ: «أَلَا تَصُفُّونَ كَمَا تَصُفُّ الْمَلَائِكَةُ عِنْدَ رَبِّهَا؟» فَقُلْنَا: يَا رَسُولَ اللَّهِ وَكَيْفَ تَصُفُّ الْمَلَائِكَةُ عِنْدَ رَبِّهَا؟ قَالَ: «يُتِمُّونَ الصُّفُوفَ الْأُولَى وَيَتَرَاصُّونَ فِي الصَّفّ» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Jabir b. Samura said:",
+        "text": "God’s Messenger came out to us and when he saw us sitting in circles he said, “How is it that I see you in separate companies?” On another occasion he came out to us and said, “Why do you not draw yourselves up in rows as the angels do in the presence of their Lord?” We asked, \"Messenger of God, how do the angels draw themselves up in rows in the presence of their Lord?” He replied, \"They make the first rows complete and keep close together in the row.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 509,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «خَيْرُ صُفُوفِ الرِّجَالِ أَوَّلُهَا وَشَرُّهَا آخِرُهَا وَخَيْرُ صُفُوفِ النِّسَاءِ آخِرُهَا وشرها أَولهَا» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s Messenger as saying, \"The best of the men’s rows is the first and the worst is the last, but the best of the women’s rows is the last and the worst is the first.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 510,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «رُصُّوا صُفُوفَكُمْ وَقَارِبُوا بَيْنَهَا وَحَاذُوا بِالْأَعْنَاقِ فَوَالَّذِي نَفْسِي بِيَدِهِ إِنِّي لَأَرَى الشَّيْطَانَ يَدْخُلُ مِنْ خَلَلِ الصَّفِّ كَأَنَّهَا الْحَذَفُ» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Anas reported God’s Messenger as saying, \"Stand close together in your rows, bring them near one another, and stand neck to neck, for by Him in whose hand my soul is, I see the devil coming in through openings in the row like a number of small black sheep.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 511,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَتِمُّوا الصَّفَّ الْمُقَدَّمَ ثُمَّ الَّذِي يَلِيهِ فَمَا كَانَ مِنْ نَقْصٍ فَلْيَكُنْ فِي الصَّفّ الْمُؤخر» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "He reported God’s Messenger as saying, \"Complete the front row, then the one that comes next, and if there is any incompleteness let it be in the last row.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 512,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ الْبَرَاءِ بْنِ عَازِبٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى الَّذِينَ يَلُونَ الصُّفُوفَ الْأُولَى وَمَا مِنْ خُطْوَةٍ أَحَبُّ إِلَى اللَّهِ من خطْوَة يمشيها يصل العَبْد بهَا صفا» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Al-Bara’ b. ‘Azib told how God’s Messenger used to say, \"God and His angels bless those who are near the first rows, and no step is more pleasing to God than one a worshipper takes to reach a row.\" \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 513,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم: «إِن اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى مَيَامِنِ الصُّفُوفِ» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha reported God’s Messenger as saying, \"God and His angels bless those who are on the right flanks of the rows.\" \nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 514,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ النُّعْمَانِ بْنِ بَشِيرٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُسَوِّي صُفُوفَنَا إِذَا قُمْنَا إِلَى الصَّلَاةِ فَإِذَا اسَتْوَيْنَا كَبَّرَ. رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "An-Nu‘man b. Bashir said:",
+        "text": "God’s Messenger used to straighten our rows when we stood up to pray, and when we were straight he said, “God is most great.\" \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 515,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ عَنْ يَمِينِهِ: «اعْتَدِلُوا سَوُّوا صُفُوفَكُمْ» . وَعَنْ يَسَارِهِ: «اعْتَدِلُوا سَوُّوا صُفُوفَكُمْ» . رَوَاهُ أَبُو دَاوُ",
+      "english": {
+        "narrator": "",
+        "text": "Anas told how God’s Messenger used to say to those on his right, ‘‘Keep straight and straighten your rows,\" and say the same to those on his left. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 516,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «خِيَارُكُمْ أَلْيَنُكُمْ مَنَاكِبَ فِي الصَّلَاة» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas reported God’s Messenger as saying, ‘‘The best of you are those whose shoulders give least annoyance in prayer.\"\n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 517,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ أَنَسٍ قَالَ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُول: «اسْتَووا اسْتَوُوا اسْتَوُوا فَوَالَّذِي نَفْسِي بِيَدِهِ إِنِّي لَأَرَاكُمْ من خَلْفي كَمَا أَرَاكُم من بَين يَدي» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Anas told how the Prophet used to say, ‘‘Keep in alignment, keep in alignment, keep in alignment, for by Him in whose hand my soul is, I can see you behind me just as I see you in front of me.\" \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 518,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي أُمَامَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى الصَّفِّ الْأَوَّلِ» قَالُوا يَا رَسُولَ اللَّهِ وَعَلَى الثَّانِي قَالَ: «إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى الصَّفِّ الْأَوَّلِ» قَالُوا يَا رَسُولَ اللَّهِ وَعَلَى الثَّانِي قَالَ: «إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى الصَّفِّ الْأَوَّلِ» قَالُوا يَا رَسُولَ الله وعَلى الثَّانِي؟ قَالَ: «وعَلى الثَّانِي» قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «سَوُّوا صُفُوفَكُمْ وَحَاذُوا بَيْنَ مَنَاكِبِكُمْ وَلِينُوا فِي أَيْدِي إِخْوَانِكُمْ وَسُدُّوا الْخَلَلَ فَإِنَّ الشَّيْطَانَ يَدْخُلُ بَيْنَكُمْ بِمَنْزِلَةِ الْحَذَفِ» يَعْنِي أَوْلَادَ الضَّأْنِ الصِّغَارِ. رَوَاهُ أَحْمد",
+      "english": {
+        "narrator": "",
+        "text": "Abu Umama reported God’s Messenger as saying, ‘‘God and His angels bless the first row.\" On being asked whether this applied to the second, he said, ‘‘God and His angels bless the first row.\" He was again asked if it applied to the second and said, ‘‘God and His angels bless the first row.\" When asked once again if it applied to the second he said, ‘‘And the second.\" And God’s Messenger said, ‘‘Straighten your rows, stand shoulder to shoulder, be pliant in the hands of your brethren,* and close up the gaps, for the devil enters through openings like the hadhaf i.e., small lambs. \n\n* Here, as in the last tradition of section II, warning is given against jostling one’s neighbours during prayer. At the same time instruction is given that no gaps should be left.\n\nAhmad transmitted it."
+      }
+    },
+    {
+      "id": 519,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَقِيمُوا الصُّفُوفَ وَحَاذُوا بَين المنكاكب وَسُدُّوا الْخَلَلَ وَلِينُوا بِأَيْدِي إِخْوَانِكُمْ وَلَا تَذَرُوا فرجات للشَّيْطَان وَمَنْ وَصَلَ صَفًّا وَصَلَهُ اللَّهُ وَمَنْ قَطَعَهُ قطعه الله» . رَوَاهُ أَبُو دَاوُد وَالنَّسَائِيّ مِنْهُ قَوْلَهُ: «وَمَنْ وَصَلَ صَفًّا» . إِلَى آخِرِهِ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar reported God’s Messenger as saying, ‘‘Set the rows in order, stand shoulder to shoulder, close the gaps, be pliant in the hands of your brethren, and do not leave openings for the devil. If anyone joins up a row God will join him up, but if anyone breaks a row God will cut him off.” \n\nAbu Dawud transmitted it and Nasa’i transmitted from “If anyone joins up ...” to the end."
+      }
+    },
+    {
+      "id": 520,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «تَوَسَّطُوا الْإِمَامَ وَسُدُّوا الْخَلَلَ» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s Messenger as saying, “Have the imam in the centre and close up the gaps.’’ \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 521,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يَزَالُ قَوْمٌ يَتَأَخَّرُونَ عَنِ الصَّفِّ الْأَوَّلِ حَتَّى يُؤَخِّرَهُمُ اللَّهُ فِي النَّارِ» . رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha reported God’s Messenger as saying, “People will continue to withdraw to rows behind the first one till God puts them in a back place in hell.\" \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 522,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ وَابِصَةَ بْنِ مَعْبَدٍ قَالَ: رَأَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَجُلًا يُصَلِّي خَلْفَ الصَّفِّ وَحْدَهُ فَأَمَرَهُ أَنْ يُعِيدَ الصَّلَاةَ. رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ وَقَالَ التِّرْمِذِيُّ هَذَا حَدِيثٌ حَسَنٌ",
+      "english": {
+        "narrator": "",
+        "text": "Wabisa b. Ma'bad said that God’s Messenger saw a man praying alone behind the row and ordered him to repeat the prayer. \n\nAhmad Tirmidhi and Abu Dawud transmitted it, and Tirmidhi said this is a hasan tradition."
+      }
+    },
+    {
+      "id": 523,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ قَالَ: بِتُّ فِي بَيت خَالَتِي مَيْمُونَةَ فَقَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي فَقُمْتُ عَنْ يَسَارِهِ فَأَخَذَ بِيَدِي مِنْ وَرَاءِ ظَهْرِهِ فَعَدَلَنِي كَذَلِكَ مِنْ وَرَاءِ ظَهره إِلَى الشق الْأَيْمن",
+      "english": {
+        "narrator": "'Abdallah b. ‘Abbas said:",
+        "text": "When I was spending a night in the house of my maternal aunt Maimuna God’s Messenger stood up and prayed. I stood at his left side, and he, taking my hand behind his back, directed me thus* behind his back to his right side. \n\n*'Abdallah would use a gesture to indicate how it was done.\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 524,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: قَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِيُصَلِّيَ فَجِئْتُ حَتَّى قُمْتُ عَنْ يَسَارِهِ فَأَخَذَ بِيَدِي فَأَدَارَنِي حَتَّى أَقَامَنِي عَن يَمِينه ثُمَّ جَاءَ جَبَّارُ بْنُ صَخْرٍ فَقَامَ عَنْ يَسَارِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَخَذَ بيدينا جَمِيعًا فدفعنا حَتَّى أَقَمْنَا خَلفه. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Jabir said:",
+        "text": "God’s Messenger stood up to pray and I came and stood at his left side, so he took my hand, turned me round, and set me at his right side. Then Jabbar b. Sakhr came and stood at God’s Messenger's left, so he took us both by the hand, pushed us back, and made us stand behind him. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 525,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: صَلَّيْتُ أَنَا وَيَتِيمٌ فِي بَيْتِنَا خَلْفَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأم سليم خلفنا. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "An orphan and I prayed in our house behind the Prophet, and Umm Sulaim* was behind us. \n\n*She was the mother of Anas.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 526,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَّى بِهِ وَبِأُمِّهِ أَوْ خَالَتِهِ قَالَ: فَأَقَامَنِي عَنْ يَمِينِهِ وَأَقَامَ الْمَرْأَةَ خَلْفَنَا. رَوَاهُ مُسْلِمٌ",
+      "english": {
+        "narrator": "",
+        "text": "He said that the Prophet led him and his mother, or his maternal aunt, in prayer, adding, “He set me at his right and set the woman behind us.\" \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 527,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي بَكْرَةَ أَنَّهُ انْتَهَى إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ رَاكِعٌ فَرَكَعَ قَبْلَ أَنْ يَصِلَ إِلَى الصَّفِّ ثُمَّ مَشَى إِلَى الصَّفِّ. فَذَكَرَ ذَلِكَ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «زَادَكَ اللَّهُ حِرْصًا وَلَا تعد» . رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Bakra said that he came to the Prophet when he was bowing, so he bowed before joining the row, after which he went to it. He mentioned that to the Prophet, and he said, “God increase your eagerness! But don’t do it again.\" \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 528,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "عَن سَمُرَة بن جُنْدُب قَالَ: أَمَرَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا كُنَّا ثَلَاثَةً أَنْ يَتَقَدَّمَنَا أَحَدُنَا. رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "Samura b. Jundub said:",
+        "text": "God’s Messenger commanded that when there were three of us one should stand in front. \n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 529,
+      "chapterId": 4,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَمَّارِ بْنِ يَاسِرٍ: أَنَّهُ أَمَّ النَّاسَ بِالْمَدَائِنِ وَقَامَ عَلَى دُكَّانٍ يُصَلِّي وَالنَّاسُ أَسْفَلَ مِنْهُ فَتَقَدَّمَ حُذَيْفَةُ فَأَخَذَ عَلَى يَدَيْهِ فَاتَّبَعَهُ عَمَّارٌ حَتَّى أَنْزَلَهُ حُذَيْفَةُ فَلَمَّا فَرَغَ عَمَّارٌ مِنْ صَلَاتِهِ قَالَ لَهُ حُذَيْفَةُ: أَلَمْ تَسْمَعْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِذَا أَمَّ الرَّجُلُ الْقَوْمَ فَلَا يَقُمْ فِي مَقَامٍ أَرْفَعَ مِنْ مَقَامِهِمْ أَوْ نَحْوَ ذَلِكَ؟» فَقَالَ عَمَّارٌ: لِذَلِكَ اتَّبَعْتُكَ حِينَ أَخَذْتَ عَلَى يَدي. رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "‘Ammar said he was leading the people in al-Mada’in in prayer, and stood on a bench and prayed while the people were lower than he was. Hudhaifa came forward and took him by the hands, and ‘Ammar followed him till he brought him down. When ‘Ammar finished his prayer Hudhaifa said to him:",
+        "text": "Did you not hear God’s Messenger say, “When a man leads the people in prayer he must not stand in a position higher than theirs,” or words to that effect? ‘Ammar replied, “That is why I followed you when you took me by the hand.” \n\nAbu Dawud transmitted it."
+      }
+    }
+  ]
+}

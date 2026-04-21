@@ -1,0 +1,16 @@
+{
+  "id": 328,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي ذر رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏إنكم ستفتحون أرضًا يذكر فيها القيراط‏\"‏‏.‏ \nوفي رواية‏:‏ ‏\"‏ستفتحون مصر وهي أرض يسمى فيها القيراط، فاستوصوا بأهلها خيرًا، فإن لهم ذمة ورحمًا‏\"‏‏.‏\nوفي رواية‏:‏ ‏\"‏فإذا افتتحتموها، فأحسنوا إلى أهلها، فإن لهم ذمة ورحمًا‏\"‏ أو قال‏:‏ ‏\"‏ذمة وصهرًا‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Dharr (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"You will soon conquer a land where people deal with Qirat.\"And according to another version: Messenger of Allah (ﷺ) said, \"You will soon conquer Egypt where Al-Qirat is frequently mentioned. So when you conquer it, treat its inhabitants well. For there lies upon you the responsibility because of blood ties or relationship (with them)\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 216,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عمر بن الخطاب رضي الله عنه قال‏:‏ لما كان يوم خيبر أقبل نفر من أصحاب النبي صلى الله عليه وسلم فقالوا فلان شهيد، وفلان شهيد، حتى مروا على رجل فقالوا ‏:‏ فلان شهيد‏.‏ فقال النبي صلى الله عليه وسلم ‏:‏ كلا إني رأيته في النار في بردة غلها-أو عباءة-” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Umar bin Al-Khattab (May Allah bepleased with him) reported:",
+    "text": "On the day (of the battle) of Khaibar, some Companions of the Prophet (ﷺ) came and remarked: \"So-and-so is a martyr and so-and-so is a martyr\". When they came to a man about whom they said: \"So-and-so is a martyr,\" the Prophet (ﷺ) declared, \"No. I have seen him in Hell for a mantle (or cloak) which he has stolen\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

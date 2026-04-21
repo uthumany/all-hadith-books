@@ -1,0 +1,16 @@
+{
+  "id": 134,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا قَتَادَةُ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ بْنِ جُنْدُبٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَلاَعَنُوا بِلَعْنَةِ اللَّهِ وَلاَ بِغَضَبِ اللَّهِ وَلاَ بِالنَّارِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Samurah ibn Jundub:",
+    "text": "The Prophet (ﷺ) said: Do not invoke Allah's curse, Allah's anger, or Hell."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

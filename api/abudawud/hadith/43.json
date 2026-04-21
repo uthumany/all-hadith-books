@@ -1,0 +1,16 @@
+{
+  "id": 43,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنْ زَيْدٍ، - يَعْنِي ابْنَ أَسْلَمَ - عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِيَّاكُمْ وَالْجُلُوسَ بِالطُّرُقَاتِ ‏\"‏ ‏.‏ فَقَالُوا يَا رَسُولَ اللَّهِ مَا بُدٌّ لَنَا مِنْ مَجَالِسِنَا نَتَحَدَّثُ فِيهَا ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنْ أَبَيْتُمْ فَأَعْطُوا الطَّرِيقَ حَقَّهُ ‏\"‏ ‏.‏ قَالُوا وَمَا حَقُّ الطَّرِيقِ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ غَضُّ الْبَصَرِ وَكَفُّ الأَذَى وَرَدُّ السَّلاَمِ وَالأَمْرُ بِالْمَعْرُوفِ وَالنَّهْىُ عَنِ الْمُنْكَرِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Sa`id al-Khudri reported the Messenger of Allah (ﷺ) as saying :",
+    "text": "Avoid sitting in the roads. The people said: Apostle of Allah! We must have meeting places in which to converse. The apostle of Allah (ﷺ) said: If you insist on meeting, give the road its due. They asked: What is the due of roads, Apostle of Allah? He replied: Lowering the eyes, removing anything offensive, returning salutation, commanding what is reputable and forbidding what is disreputable."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

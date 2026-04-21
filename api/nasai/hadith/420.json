@@ -1,0 +1,16 @@
+{
+  "id": 420,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَنْبَأَنَا مَنْصُورٌ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، قَالَتْ إِنَّمَا أَذِنَ النَّبِيُّ صلى الله عليه وسلم لِسَوْدَةَ فِي الإِفَاضَةِ قَبْلَ الصُّبْحِ مِنْ جَمْعٍ لأَنَّهَا كَانَتِ امْرَأَةً ثَبِطَةً ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Aishah said:",
+    "text": "\"The Prophet allowed Sawdah to leave Jam (Al-Muzdalifah) before dawn because she was a heavyset woman."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

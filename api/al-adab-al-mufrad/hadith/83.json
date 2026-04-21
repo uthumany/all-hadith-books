@@ -1,0 +1,16 @@
+{
+  "id": 83,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا مُوسَى، قَالَ‏:‏ حَدَّثَنَا مُبَارَكٌ قَالَ‏:‏ سَمِعْتُ الْحَسَنَ يَقُولُ‏:‏ كُنَّ النِّسَاءُ يُسَلِّمْنَ عَلَى الرِّجَالِ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Al-Hasan said, \"Be women who greet men.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 274,
+  "chapterId": 13,
+  "bookId": 14,
+  "arabic": "وَعَن أبي أيوبَ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَنْ فَرَّقَ بَيْنَ وَالِدَةٍ وَوَلَدِهَا فَرَّقَ اللَّهُ بَيْنَهُ وَبَيْنَ أَحِبَّتِهِ يَوْمَ الْقِيَامَةِ» . رَوَاهُ التِّرْمِذِيّ والدارمي",
+  "english": {
+    "narrator": "",
+    "text": "Abu Ayyub told of hearing God’s Messenger say, “If anyone separates a mother from her child, God will separate him from his friends on the day of resurrection.” \n\nTirmidhi and Darimi transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

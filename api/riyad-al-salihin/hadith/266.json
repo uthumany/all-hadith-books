@@ -1,0 +1,16 @@
+{
+  "id": 266,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ شر الطعام طعام الوليمة، يمنعها من يأتيها، ويدعى إليها من يأباها، ومن لم يجب الدعوة فقد عصى الله ورسوله‏\"‏ ((رواه مسلم‏))‏.‏ \nوفي رواية في ‏\"‏ الصحيحين‏\"‏ عن أبي هريرة من قوله‏:‏ ‏\"‏ بئس الطعام طعام الوليمة يدعى إليها الأغنياء ويترك الفقراء‏\"‏‏‏‏(‏(متفق عليه‏)‏‏)‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"The worst food is the food of the marriage banquet from which those are left out who would like to come; and to which those are invited who refuse to come. He who rejects an invitation disobeys Allah and His Messenger\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

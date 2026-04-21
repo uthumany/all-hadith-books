@@ -1,0 +1,16 @@
+{
+  "id": 580,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "عن بريدة رضي الله عنه قال قال رسول الله صلى الله عليه وسلم ‏\"‏كنت نهيتكم عن زيارة القبور فزوروها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏\n\nوفي رواية ‏\"‏فمن أراد أن يزور القبور فليزر؛ فإنها تذكرنا الآخرة ‏\"‏",
+  "english": {
+    "narrator": "Buraidah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"(In the past) I forbade you from visiting graves, but visit them now.\"\n\nIn another narration Messenger of Allah (ﷺ) said, \"Whoever wants to visit a graveyard, let him do so, because it reminds us of the Hereafter.\"\n\n."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

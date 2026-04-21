@@ -1,0 +1,16 @@
+{
+  "id": 677,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: أَوْصَانِي خَلِيلِي بِثَلَاثٍ: صِيَامِ ثَلَاثَةِ أَيَّام من كل شهر وركعتي الضُّحَى وَأَن أوتر قبل أَن أَنَام",
+  "english": {
+    "narrator": "Abu Huraira said, ‘‘My friend* instructed me to observe three practices:",
+    "text": "to fast three days every month, to pray two rak'as in the forenoon, and to observe a witr before going to sleep.” \n\n*i.e. the Prophet.\n\n(Bukhari and Muslim.)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

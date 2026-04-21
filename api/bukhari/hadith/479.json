@@ -1,0 +1,16 @@
+{
+  "id": 479,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ سَمِعْتُ عُرْوَةَ، قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ فَرَجَعَ النَّبِيُّ صلى الله عليه وسلم إِلَى خَدِيجَةَ فَقَالَ ‏\n\"‏ زَمِّلُونِي زَمِّلُونِي ‏\"‏‏.‏ فَذَكَرَ الْحَدِيثَ",
+  "english": {
+    "narrator": "Narrated Aisha:",
+    "text": "The Prophet (ﷺ) returned to Khadija and said, \"Wrap me! Wrap me!\" (Then the sub-narrator narrated the \nrest of the narration.)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

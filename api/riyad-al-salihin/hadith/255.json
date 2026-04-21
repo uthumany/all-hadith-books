@@ -1,0 +1,16 @@
+{
+  "id": 255,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه عن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ إنه ليأتي الرجل السمين العظيم يوم القيامة لا يزن عند الله جناح بعوضة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"On the Day of Resurrection, there will be brought forth a bulky person (person of noteworthy status) whose value to Allah will be less than that of the wing of a mosquito\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

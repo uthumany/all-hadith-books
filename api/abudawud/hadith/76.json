@@ -1,0 +1,16 @@
+{
+  "id": 76,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ بَحْرٍ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، عَنْ أَبِيهِ الشَّرِيدِ بْنِ سُوَيْدٍ، قَالَ مَرَّ بِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَنَا جَالِسٌ هَكَذَا وَقَدْ وَضَعْتُ يَدِيَ الْيُسْرَى خَلْفَ ظَهْرِي وَاتَّكَأْتُ عَلَى أَلْيَةِ يَدِي فَقَالَ ‏\n\"‏ أَتَقْعُدُ قِعْدَةَ الْمَغْضُوبِ عَلَيْهِمْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "'Amr b. al-Sharid quoted his father al-Sharid b. Suwaid as saying:",
+    "text": "The Messenger of Allah (ﷺ)  came upon me when I was sitting thus: having my left hand behind my back and leaning on the fleshy part of it, and said: Are you sitting in the manner of those with whom Allah is angry?"
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

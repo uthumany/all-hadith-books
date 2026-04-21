@@ -1,0 +1,16 @@
+{
+  "id": 231,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، قَالَ حَدَّثَنَا مَيْمُونٌ أَبُو عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ قَالَ قَالَ لِي أَنَسُ بْنُ مَالِكٍ يَا ثَابِتُ خُذْ عَنِّي فَإِنَّكَ لَمْ تَأْخُذْ عَنْ أَحَدٍ أَوْثَقَ مِنِّي إِنِّي أَخَذْتُهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَخَذَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ جِبْرِيلَ وَأَخَذَهُ جِبْرِيلُ عَنِ اللَّهِ تَعَالَى ‏. هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ زَيْدِ بْنِ حُبَابٍ ‏.‏",
+  "english": {
+    "narrator": "Narrated Thabit Al-Bunani:",
+    "text": "\"Anas bin Malik said to me: 'O Thabit, take from me, for indeed you shall not take from one more trustworthy than me. Verily, I took it from the Messenger of Allah (ﷺ), and the Messenger of Allah (ﷺ) took it from Jibra'il, and Jibra'il took it from Allah the Mighty and Sublime.'\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 470,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَحِلُّ لاِمْرَأَةٍ مُسْلِمَةٍ تُسَافِرُ مَسِيرَةَ لَيْلَةٍ إِلاَّ وَمَعَهَا رَجُلٌ ذُو حُرْمَةٍ مِنْهَا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:",
+    "text": "It is not lawful for a Muslim woman to travel a night's journey except when there is a Mahram with her."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

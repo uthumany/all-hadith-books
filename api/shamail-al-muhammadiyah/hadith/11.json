@@ -1,0 +1,16 @@
+{
+  "id": 11,
+  "chapterId": 56,
+  "bookId": 11,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَلِيٍّ ، قَالَ : حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ ، قَالَ : أَنْبَأَنَا ابْنُ عَوْنٍ ، عَنِ ابْنِ سِيرِينَ ، قَالَ : \n\" هَذَا الْحَدِيثُ دِينٌ ، فَانْظُرُوا عَمَّنْ تَأَخُذُونَ دِينَكُمْ \" .",
+  "english": {
+    "narrator": "Ibn Sirin said:",
+    "text": "\"This tradition  is religion, so consider from whom you accept your religion.”"
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

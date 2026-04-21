@@ -1,0 +1,16 @@
+{
+  "id": 309,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَنْبَأَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أَبِي طَلْحَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ تَدْخُلُ الْمَلاَئِكَةُ بَيْتًا فِيهِ كَلْبٌ وَلاَ صُورَةُ تَمَاثِيلَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Talhah said:",
+    "text": "\"I heard the Messenger of Allah  say: 'The angels do not enter a house in which there is a dog or an image of an animate being.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

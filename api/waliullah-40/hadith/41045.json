@@ -1,0 +1,16 @@
+{
+  "id": 41045,
+  "chapterId": 1,
+  "bookId": 17,
+  "arabic": "عَفْوُ الْمُلُوْكِ إِبْقَاءٌ لِلْمُلْكِ",
+  "english": {
+    "narrator": "",
+    "text": "The king’s pardon preserves the kingdom."
+  },
+  "book": {
+    "id": 17,
+    "name": "The Forty Hadith of Shah Waliullah",
+    "arabic": "أربعون الشاه ولي الله",
+    "slug": "waliullah-40"
+  }
+}

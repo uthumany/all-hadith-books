@@ -1,0 +1,16 @@
+{
+  "id": 265,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ عِكْرِمَةَ بْنِ عَمَّارٍ، عَنْ إِيَاسِ بْنِ سَلَمَةَ بْنِ الأَكْوَعِ، عَنْ أَبِيهِ، أَنَّ رَجُلاً، عَطَسَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَقَالَ لَهُ ‏\"‏ يَرْحَمُكَ اللَّهُ ‏\"‏ ‏.‏ ثُمَّ عَطَسَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ الرَّجُلُ مَزْكُومٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Salamah b. al-Akwa said :",
+    "text": "when a man sneezed beside the prophet (May peace be upon him), he said to him : Allah have mercy on you, but when he sneezed again, he said : The man has a cold in the head."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

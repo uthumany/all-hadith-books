@@ -1,0 +1,16 @@
+{
+  "id": 577,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِيهِ عُبَيْدُ اللَّهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، حَدَّثَنِي حَرَمِيُّ بْنُ عُمَارَةَ، حَدَّثَنَا قُرَّةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ نَظَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى أُحُدٍ فَقَالَ ‏\n\"‏ إِنَّ أُحُدًا جَبَلٌ يُحِبُّنَا وَنُحِبُّهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "This hadith is narrated by Anas b. Malik (Allah be pleased with him) with another chain of transmitters (and the words are):",
+    "text": "\" Allah's Messenger (ﷺ) cast a glance at Uhud and said: Uhud is a mountain which loves us and we love it.\""
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

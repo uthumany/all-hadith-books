@@ -1,0 +1,16 @@
+{
+  "id": 397,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى أَعْوَاد الْمِنْبَرِ يَقُولُ: «مَنْ قَرَأَ آيَةَ الْكُرْسِيِّ فِي دبر كل صَلَاة لم يمنعهُ من دُخُولَ الْجَنَّةِ إِلَّا الْمَوْتُ وَمَنْ قَرَأَهَا حِينَ يَأْخُذُ مَضْجَعَهُ آمَنَهُ اللَّهُ عَلَى دَارِهِ وَدَارِ جَارِهِ وَأَهْلِ دُوَيْرَاتٍ حَوْلَهُ» . رَوَاهُ الْبَيْهَقِيُّ فِي شعب الْإِيمَان وَقَالَ إِسْنَاده ضَعِيف",
+  "english": {
+    "narrator": "‘Ali said:",
+    "text": "I heard God’s Messenger say on the timbers of this pulpit, “If anyone recites the Throne verse (Al-Qur’an; 2:255) at the end of every prayer, nothing but death will prevent him from entering paradise; and if he recites it when he goes to bed, God will grant security to his house, his neighbour’s house, and the inhabitants of the little dwellings around him.”\n\nBaihaqi transmitted it in Shu'ab al-iman, but said that its isnad is weak."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

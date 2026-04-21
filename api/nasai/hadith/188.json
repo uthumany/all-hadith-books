@@ -1,0 +1,16 @@
+{
+  "id": 188,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا سَعْدُ بْنُ أَوْسٍ، عَنْ أَنَسِ بْنِ سِيرِينَ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ إِنَّ نُوحًا صلى الله عليه وسلم نَازَعَهُ الشَّيْطَانُ فِي عُودِ الْكَرْمِ فَقَالَ هَذَا لِي وَقَالَ هَذَا لِي فَاصْطَلَحَا عَلَى أَنَّ لِنُوحٍ ثُلُثَهَا وَلِلشَّيْطَانِ ثُلُثَيْهَا ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Anas bin Sirin said:",
+    "text": "\"I heard Anas bin Malik say: 'The Shaitan disputed with Nuh, peace be upon him, concerning the grapevine. One said: \"This is for me,\" and the other said: \"This is for me.\" Then they agreed that Nuh would have one-third and the Shaitan would have two-thirds.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

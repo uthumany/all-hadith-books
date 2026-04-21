@@ -1,0 +1,16 @@
+{
+  "id": 309,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "و عن أبي شريح الخزاعي رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ من كان يؤمن بالله واليوم الآخر، فليكرم ضيفه، ومن كان يؤمن بالله واليوم الآخر، فليقل خيرًا أو ليسكت‏\"‏ ‏(‏‏(‏رواه مسلم بهذا اللفظ، وروى البخاري بعضه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Shuraih Al-Khuza'i (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"He who believes in Allah and the Last Day, let him be kind to his neighbour; and he who believes in Allah and the Last Day, let him show hospitality to his guest; and he who believes in Allah and the Last Day, let him either speak good or remain silent\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

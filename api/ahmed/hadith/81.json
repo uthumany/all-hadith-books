@@ -1,0 +1,16 @@
+{
+  "id": 81,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا فَضْلُ بْنُ دُكَيْنٍ، حَدَّثَنَا يَاسِينُ الْعِجْلِيُّ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ ابْنِ الْحَنَفِيَّةِ، عَنْ أَبِيهِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَهْدِيُّ مِنَّا أَهْلَ الْبَيْتِ يُصْلِحُهُ اللَّهُ فِي لَيْلَةٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) said: “The Mahdi is one of us’ Ahlal-Bait (the prophet’s family) and Allah will prepare him in one night”."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

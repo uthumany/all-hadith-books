@@ -1,0 +1,16 @@
+{
+  "id": 80,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي مَسْلَمَةَ، قَالَ سَمِعْتُ عَبْدَ الْعَزِيزِ، - يَعْنِي ابْنَ أَسِيدٍ الطَّاحِيَّ بَصْرِيٌّ - يَقُولُ سُئِلَ ابْنُ الزُّبَيْرِ عَنْ نَبِيذِ الْجَرِّ، قَالَ نَهَانَا عَنْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Maslamah said:",
+    "text": "\"I heard 'Abdul-'Aziz - that is, bin Asid At-Tahi from Al-Basrah - say: 'Ibn Az-Zubair was asked about soaking (fruits) in earthenware jars and he said: \"The Messenger of Allah  forbade us from that.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

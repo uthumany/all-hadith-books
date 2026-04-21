@@ -1,0 +1,16 @@
+{
+  "id": 510,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَبَّادُ بْنُ رَاشِدٍ، حَدَّثَنَا الْحَسَنُ، حَدَّثَنَا أَحْمَرُ بْنُ جَزْءٍ، صَاحِبُ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا سَجَدَ جَافَى عَضُدَيْهِ عَنْ جَنْبَيْهِ حَتَّى نَأْوِيَ لَهُ ‏.‏",
+  "english": {
+    "narrator": "Narrated Ahmar ibn Jaz':",
+    "text": "When the Messenger of Allah (ﷺ) prostrated himself, he kept his arms far away from his sides so much so that we took pity on him."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

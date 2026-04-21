@@ -1,0 +1,16 @@
+{
+  "id": 676,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبى هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “إنكم ستحرصون على الإمارة، وستكون ندامة يوم القيامة” ‏(‏‏(‏رواه البخارى‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"You will covet for getting a position of authority, but remember that it will be a cause of humiliation and remorse on the Day of Resurrection.\""
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

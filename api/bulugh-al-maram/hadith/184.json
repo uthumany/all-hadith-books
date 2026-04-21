@@ -1,0 +1,16 @@
+{
+  "id": 184,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "وَعَنِ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا, عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { لَا يَخْلُوَنَّ رَجُلٌ بِاِمْرَأَةٍ, إِلَّا مَعَ ذِي مَحْرَمٍ.‏ }  أَخْرَجَهُ اَلْبُخَارِيُّ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (5233)‏، وهو لمسلم أيضا (1341)‏ إلا أنه قال: \"إلا ومعها ذو محرم\".‏",
+  "english": {
+    "narrator": "Narrated Ibn 'Abbas (RA):",
+    "text": "The Prophet (ﷺ) said: \"A man must not be alone with a woman except in the presence of a Mahram.\"\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

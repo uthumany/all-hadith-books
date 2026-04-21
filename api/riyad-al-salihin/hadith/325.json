@@ -1,0 +1,16 @@
+{
+  "id": 325,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أسماء بنت أبي بكر الصديق رضي الله عنهما قالت‏:‏ قدمت على أمي وهي مشركة في عهد رسول الله صلى الله عليه وسلم، فاستفتيت رسول الله صلى الله عليه وسلم قلت‏:‏ قدمت علي أمي وهي راغبة، أفأصل أمي‏؟‏ قال‏:‏ ‏\n\"‏نعم صلي أمك‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Asma' bint Abu Bakr As-Siddiq (May Allah be pleased with her) said:",
+    "text": "My mother came to me while she was still a polytheist, so I asked Messenger of Allah (ﷺ), \"My mother, who is ill-disposed to Islam, has come to visit me. Shall I maintain relations with her?\" He (ﷺ) replied, \"Yes, maintain relations with your mother\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

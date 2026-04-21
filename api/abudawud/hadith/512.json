@@ -1,0 +1,16 @@
+{
+  "id": 512,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ اشْتَكَى أَصْحَابُ النَّبِيِّ صلى الله عليه وسلم إِلَى النَّبِيِّ صلى الله عليه وسلم مَشَقَّةَ السُّجُودِ عَلَيْهِمْ إِذَا انْفَرَجُوا فَقَالَ ‏\n\"‏ اسْتَعِينُوا بِالرُّكَبِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "The Companions of the Prophet (ﷺ) complained to the Prophet (ﷺ) about the hardship when they kept their forearms far away from their sides while prostrating.  He said: Take help with the elbows (by spreading them on the ground and sticking them to the sides)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

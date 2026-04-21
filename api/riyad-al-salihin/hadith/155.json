@@ -1,0 +1,16 @@
+{
+  "id": 155,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة رضي الله عنها قالت‏:‏ كان رسول الله صلى الله عليه وسلم إذا فاتته الصلاة من الليل من وجع أو غيره، صلى من النهار ثنتي عشرة ركعة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
+    "text": "When Messenger of Allah (ﷺ) missed the optional night Salat (Tahajjud) due to pain or any other reason, he would perform twelve Rak'ah during the day time.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

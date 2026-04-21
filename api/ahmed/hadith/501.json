@@ -1,0 +1,16 @@
+{
+  "id": 501,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا مِسْعَرٌ، وَسُفْيَانُ، عَنْ أَبِي حَصِينٍ، عَنْ عُمَيْرِ بْنِ سَعِيدٍ، قَالَ قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ مَا كُنْتُ لِأُقِيمَ عَلَى رَجُلٍ حَدًّا فَيَمُوتَ فَأَجِدُ فِي نَفْسِي مِنْهُ إِلَّا صَاحِبَ الْخَمْرِ فَلَوْ مَاتَ وَدَيْتُهُ وَزَادَ سُفْيَانُ وَذَلِكَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمْ يَسُنَّهُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Umair bin Sa`eed said:",
+    "text": "`Ali (رضي الله عنه) said: If I carried out the Hadd punishment on a man and he died, I would not feel upset, except in the case of one who drank khamr, if (such a man) died, I would pay the diyah (to his family) because the Messenger of Allah     (ﷺ) did not prescribe it (did not specify a particular number of lashes)."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

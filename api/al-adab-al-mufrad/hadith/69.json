@@ -1,0 +1,16 @@
+{
+  "id": 69,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ قَالَ‏:‏ حَدَّثَنِي ابْنُ وَهْبٍ قَالَ‏:‏ أَخْبَرَنِي حَيْوَةُ، عَنْ عُقْبَةَ بْنِ مُسْلِمٍ، عَنْ عَبْدِ اللهِ بْنِ عَمْرٍو قَالَ‏:‏ بَيْنَمَا نَحْنُ جُلُوسٌ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فِي ظِلِّ شَجَرَةٍ بَيْنَ مَكَّةَ وَالْمَدِينَةِ، إِذْ جَاءَ أَعْرَابِيٌّ مِنَ أَجْلَفِ النَّاسِ وَأَشَدِّهِمْ فَقَالَ‏:‏ السَّلامُ عَلَيْكُمْ، فَقَالُوا‏:‏ وَعَلَيْكُمُ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "'Uqba ibn 'Abdullah ibn 'Amr who said, \"While we were sitting\nwith the Prophet, may Allah bless him and grant him peace, in the shade\nof a tree while travelling between Makka and Madina, a bedouin, who was\nan example of the coarsest and fiercest kind of people came up and said,\n'Peace be upon you,' and they said, 'And upon you.'\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 193,
+  "chapterId": 45,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،\n عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَمُوتُ لأَحَدٍ مِنَ الْمُسْلِمِينَ ثَلاَثَةٌ\n مِنَ الْوَلَدِ فَتَمَسَّهُ النَّارُ إِلاَّ تَحِلَّةَ الْقَسَمِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying:",
+    "text": "Anyone amongst the Muslims, three of whose children die, and he resigns himself calmly to the will of God, Fire will not touch him but for the fulfilment of the oath."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

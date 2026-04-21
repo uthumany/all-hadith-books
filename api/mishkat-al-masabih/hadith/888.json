@@ -1,0 +1,16 @@
+{
+  "id": 888,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَتْ: لَقَدْ أَمَرَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالْعَتَاقَةِ فِي كُسُوفِ الشَّمْسِ. رَوَاهُ البُخَارِيّ",
+  "english": {
+    "narrator": "",
+    "text": "Asma’ daughter of Abu Bakr said that during a solar eclipse the Prophet gave command that slaves should be set free. \n\nBukhari transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

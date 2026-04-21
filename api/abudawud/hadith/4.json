@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا قَابُوسُ بْنُ أَبِي ظَبْيَانَ، أَنَّ أَبَاهُ، حَدَّثَهُ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبَّاسٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ الْهَدْىَ الصَّالِحَ وَالسَّمْتَ الصَّالِحَ وَالاِقْتِصَادَ جُزْءٌ مِنْ خَمْسَةٍ وَعِشْرِينَ جُزْءًا مِنَ النُّبُوَّةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Abbas:",
+    "text": "The Prophet (ﷺ) said: Good way, dignified good bearing and moderation are the twenty-fifth part of Prophecy."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

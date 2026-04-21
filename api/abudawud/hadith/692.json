@@ -1,0 +1,16 @@
+{
+  "id": 692,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ أَبِي رَوَّادٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم لَمَّا بَدُنَ قَالَ لَهُ تَمِيمٌ الدَّارِيُّ أَلاَ أَتَّخِذُ لَكَ مِنْبَرًا يَا رَسُولَ اللَّهِ يَجْمَعُ - أَوْ يَحْمِلُ - عِظَامَكَ قَالَ ‏\n\"‏ بَلَى ‏\"‏ ‏.‏ فَاتَّخَذَ لَهُ مِنْبَرًا مِرْقَاتَيْنِ ‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar said:",
+    "text": "When the Prophet (ﷺ) became fat, Tamim al-Dari said to him: Should I make for you pulpit, Messenger of Allah, that will bear the burden of your body ? He said: Yes. So he made a pulpit consisting of two steps."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

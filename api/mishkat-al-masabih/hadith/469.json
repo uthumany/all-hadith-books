@@ -1,0 +1,16 @@
+{
+  "id": 469,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَن أبي ذَر قَالَ وَقَدْ صَعِدَ عَلَى دَرَجَةِ الْكَعْبَةِ: مَنْ عَرَفَنِي فَقَدْ عَرَفَنِي وَمَنْ لَمْ يَعْرِفْنِي فَأَنَا جُنْدُبٌ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَا صَلَاةَ بَعْدَ الصُّبْحِ حَتَّى تَطْلُعَ الشَّمْسُ وَلَا بَعْدَ الْعَصْرِ حَتَّى تَغْرُبَ الشَّمْسُ إِلَّا بِمَكَّةَ إِلَّا بِمَكَّةَ إِلَّا بِمَكَّةَ» . رَوَاهُ أَحْمد ورزين",
+  "english": {
+    "narrator": "Abu Dharr who had gone up on the step of the Ka'ba said:",
+    "text": "He who knows me knows me, and if anyone does not know me, I am Jundub* who heard God's Messenger say, “There is no prayer after the morning prayer till the sun rises, or after the afternoon prayer till the sun sets except in Mecca, except in Mecca, except in Mecca.” \n\n* Abu Dharr’s name was Jundub b- Janada.\n\nAhmad and Razin transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

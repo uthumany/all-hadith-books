@@ -1,0 +1,16 @@
+{
+  "id": 151,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يَقُولُ الْهَدْىُ مَا قُلِّدَ وَأُشْعِرَ وَوُقِفَ بِهِ بِعَرَفَةَ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nused to say, \"A sacrificial animal is what has been garlanded,\nbranded, and stood with on Arafa.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

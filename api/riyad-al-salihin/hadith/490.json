@@ -1,0 +1,16 @@
+{
+  "id": 490,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة، رضي الله عنها ، قالت‏:‏ ما شبع آل محمد، صلى الله عليه وسلم ، من خبز شعير يومين متتابعين حتى قبض‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \nوفي رواية‏:‏ ما شبع آل محمد، صلى الله عليه وسلم ، منذ قدم المدينة من طعام البر ثلاث ليال تباعاً حتى قبض‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
+    "text": "The family of Muhammad (ﷺ) never ate to the fill the bread of barley for two successive days until he died..Another narration is: 'Aishah (May Allah be pleased with her) said: Never did the family of Muhammad (ﷺ) eat to the fill, since their arrival to Al-Madinah, the bread of wheat for three successive nights until his death."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

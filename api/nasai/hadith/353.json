@@ -1,0 +1,16 @@
+{
+  "id": 353,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنَا جَابِرٌ، قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الصَّفَا وَقَالَ ‏\"‏ نَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ ‏\"‏ ‏.‏ ثُمَّ قَرَأَ ‏\"‏ ‏{‏ إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ‏}‏ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Jabir said:",
+    "text": "\"Messenger of Allah went out to As-Safa and said.We will start with that with which Allah started. Then he recited: 'Verifly, as-Safa and Al-Marwah (two Mountains in Makkah) are of the symbols of Allah.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

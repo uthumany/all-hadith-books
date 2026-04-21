@@ -1,0 +1,16 @@
+{
+  "id": 306,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "عَن عَوْف بن مَالك قَالَ: قُمْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَلَمَّا رَكَعَ مَكَثَ قَدْرَ سُورَةِ الْبَقَرَةِ وَيَقُولُ فِي رُكُوعِهِ: «سُبْحَانَ ذِي الْجَبَرُوتِ والملكوت والكبرياء وَالْعَظَمَة» . رَوَاهُ النَّسَائِيّ",
+  "english": {
+    "narrator": "",
+    "text": "‘Auf b. Malik said that he stood up to pray along with God’s Messenger and that when he bowed he paused about as long as it would take to recite Sura al-Baqara (Al-Qur’an; 2) and said while bowing, “Glory be to the Possessor of greatness, the kingdom, grandeur and majesty.” \n\nNasa’i transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "page": 10,
+  "perPage": 50,
+  "totalPages": 89,
+  "totalCount": 4428,
+  "nextPage": 11,
+  "prevPage": 9,
+  "items": [
+    {
+      "id": 188,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "عَن يَحْيَى بْنِ عَبْدِ الرَّحْمَنِ قَالَ: إِنَّ عُمَرَ بن الْخطاب خَرَجَ فِي رَكْبٍ فِيهِمْ عَمْرُو بْنُ الْعَاصِ حَتَّى وَرَدُوا حَوْضًا فَقَالَ عَمْرُو: يَا صَاحِبَ الْحَوْضِ هَلْ تَرِدُ حَوْضَكَ السِّبَاعُ فَقَالَ عُمَرُ بْنُ الْخَطَّابِ يَا صَاحِبَ الْحَوْضِ لَا تُخْبِرْنَا فَإِنَّا نَرِدُ عَلَى السِّبَاعِ وَتَرِدُ عَلَيْنَا. رَوَاهُ مَالك\nوَزَاد رزين قَالَ: زَاد بعض الروَاة فِي قَول عمر: وَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَهَا مَا أَخَذَتْ فِي بُطُونِهَا وَمَا بَقِي فَهُوَ لنا طهُور وشراب»",
+      "english": {
+        "narrator": "",
+        "text": "Yahya b. Abd ar-Rahman said that ‘Umar went out with a party of riders among whom was ‘Amr b al-‘As. When they came to a cistern and ‘Amr asked its owner whether beasts of prey came down to it, ‘Umar said, “Don't tell us, owner of the cistern, for we go down to what beasts of prey leave, and they go down to what we leave.”\n\nMalik transmitted it and Razin made an addition saying that some transmitters add to ‘Umar’s words that he said he had heard God’s messenger say, “They have in their bellies what they have taken, and what remains is pure for us and drinkable.”"
+      }
+    },
+    {
+      "id": 189,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ عَنِ الْحِيَاضِ الَّتِي بَيْنَ مَكَّةَ وَالْمَدِينَةِ تَرِدُهَا السبَاع وَالْكلاب والحمر وَعَن الطُّهْرِ مِنْهَا فَقَالَ: \" لَهَا مَا حَمَلَتْ فِي بُطُونِهَا وَلَنَا مَا غَبَرَ طَهُورٌ. رَوَاهُ ابْنُ مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa'id al-Khudri said that God's messenger was asked about the purity of the cisterns between Mecca and Medina to which beasts of prey, dogs and asses go down, and replied, “They have what they carry in their bellies, and we have what is left as pure water.”  \n\nIbn Majah transmitted it."
+      }
+    },
+    {
+      "id": 190,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قَالَ: لَا تَغْتَسِلُوا بِالْمَاءِ الْمُشَمَّسِ فَإِنَّهُ يُورِثُ البرص. رَوَاهُ الدَّارَقُطْنِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘Umar b. al-Khattab said, “Do not wash in water which has been exposed to the sun, for it produces leprosy.” \n\nDaraqutni transmitted it."
+      }
+    },
+    {
+      "id": 191,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا شَرِبَ الْكَلْبُ فِي إِنَاء أحدكُم فليغسله سبع مَرَّات»\nوَفِى رِوَايَةٍ لِمُسْلِمٍ: «طَهُورُ إِنَاءِ أَحَدِكُمْ إِذَا وَلَغَ فِيهِ الْكَلْبُ أَنْ يَغْسِلَهُ سَبْعَ مَرَّاتٍ أولَاهُنَّ بِالتُّرَابِ»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, “When a dog drinks out of a vessel belonging to any of you, he must wash it seven times,” \n\n(Bukhari and Muslim) In a version by Muslim he said, “When a dog laps the water in a vessel belonging to any of you, he must wash it seven times, using earth the first time.”"
+      }
+    },
+    {
+      "id": 192,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ قَالَ: قَامَ أَعْرَابِيٌّ فَبَالَ فِي الْمَسْجِدِ فَتَنَاوَلَهُ النَّاسُ فَقَالَ لَهُمُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «دَعُوهُ وَهَرِيقُوا عَلَى بَوْلِهِ سَجْلًا مِنْ مَاءٍ أَوْ ذَنُوبًا مِنْ مَاءٍ فَإِنَّمَا بُعِثْتُمْ مُيَسِّرِينَ وَلَمْ تُبْعَثُوا مُعَسِّرِينَ» . رَوَاهُ الْبُخَارِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "He also said that when a desert Arab got up and passed water in the mosque the people took hold of him, but the Prophet said to them,\n“Leave him alone, and pour a bucket* of water over what he has passed, for you have been sent only to make things easy and not to make things difficult.” \n*The text has sajl au dhanub, the transmitter not being sure which word was used. Both mean a bucket.\n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 193,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن أنس قَالَ: بَيْنَمَا نَحْنُ فِي الْمَسْجِدِ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذْ جَاءَ أَعْرَابِيٌّ فَقَامَ يَبُولُ فِي الْمَسْجِدِ فَقَالَ أَصْحَابُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَهْ مَه قَالَ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَزْرِمُوهُ دَعُوهُ» فَتَرَكُوهُ حَتَّى بَالَ ثُمَّ إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَعَاهُ فَقَالَ لَهُ: «إِنَّ هَذِهِ الْمَسَاجِدَ لَا تصلح لشَيْء من هَذَا الْبَوْل وَلَا القذر إِنَّمَا هِيَ لذكر الله عز وَجل وَالصَّلَاةِ وَقِرَاءَةِ الْقُرْآنِ» أَوْ كَمَا قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ فَأمر رَجُلًا مِنَ الْقَوْمِ فَجَاءَ بِدَلْوٍ مِنْ مَاءٍ فسنه عَلَيْهِ",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "While we were in the mosque with God’s messenger a desert Arab came and began to pass water in the mosque. The companions of God's messenger said, “Stop! Stop!” but God’s messenger said,\n“Don’t interrupt him; leave him alone.” They left him alone, and when he had finished God’s messenger called him and said to him, “These mosques are not suitable places for urine and filth, but are only for remembrance of God, prayer and recitation of the Qur’an,” or however God’s messenger expressed it.* Anas said that he then grave orders to one of the people who brought a bucket and poured water over it.\n*Indicating that the transmitter is not sure of the exact words.\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 194,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ الصّديق أَنَّهَا قَالَتْ: سَأَلَتِ امْرَأَةٌ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ يَا رَسُولَ اللَّهِ أَرَأَيْتَ إحدانا إِذا أصَاب ثوبها الدَّم من الْحَيْضَة كَيْفَ تَصَنُّعُ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذا أصَاب ثوب إحداكن الدَّم مِنَ الْحَيْضَةِ فَلْتَقْرُصْهُ ثُمَّ لِتَنْضَحْهُ بِمَاءٍ ثُمَّ لتصلي فِيهِ»",
+      "english": {
+        "narrator": "",
+        "text": "Asma’ daughter of Abu Bakr said that a woman asked God's messenger to tell her what one should do when blood from her menses dropped on her garment. He replied, “When blood from her menses drops on the garment of any of you, she should rub it with her fingers and sprinkle water on it, then she may pray in it.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 195,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ سُلَيْمَانَ بْنِ يَسَارٍ قَالَ: سَأَلْتُ عَائِشَةَ عَنِ الْمَنِيِّ يُصِيبُ الثَّوْبَ فَقَالَتْ كُنْتُ أَغْسِلُهُ مِنْ ثَوْبِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَيَخْرُجُ إِلَى الصَّلَاةِ وَأَثَرُ الْغَسْلِ فِي ثَوْبه بقع المَاء",
+      "english": {
+        "narrator": "",
+        "text": "Sulaiman b. Yasir said that he asked ‘A’isha about the prostatic fluid which gets on to a garment, and she replied, “I used to wash it from the garment at God's messenger, and he would go out to prayer with the mark of the washing on his garment.\" \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 196,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن الْأسود وَهَمَّام عَنْ عَائِشَةَ قَالَتْ: كُنْتُ أَفْرُكُ الْمَنِيَّ مِنْ ثَوْبِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. رَوَاهُ مُسلم\nوَبِرِوَايَةِ عَلْقَمَةَ وَالْأَسْوَدِ عَنْ عَائِشَةَ نَحْوَهُ وَفِيهِ: ثمَّ يُصَلِّي فِيهِ",
+      "english": {
+        "narrator": "",
+        "text": "Al-Aswad and Hammam reported ‘A'isha as saying, “I used to rub the prostatic fluid from the garment of God's messenger.\" \n\nMuslim transmitted it. A version of ‘Alqama and al-Aswad quotes ‘A'isha to the same effect, with the addition that he then prayed in it."
+      }
+    },
+    {
+      "id": 197,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن أم قيس بنت مُحصن: أَنَّهَا أَتَتْ بِابْنٍ لَهَا صَغِيرٍ لَمْ يَأْكُلِ الطَّعَامَ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَجْلَسَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي حِجْرِهِ فَبَالَ عَلَى ثَوْبِهِ فَدَعَا بِمَاء فنضحه وَلم يغسلهُ",
+      "english": {
+        "narrator": "",
+        "text": "Umm Qais daughter of Mihsan told how she brought a young son of hers who was not yet weaned to God’s messenger. He set him on his lap, and the child passed water on his garment; so he called for water and sprinkled it, but did not wash it. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 198,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم يَقُول: «إِذَا دُبِغَ الْإِهَابُ فَقَدْ طَهُرَ» . رَوَاهُ مُسْلِمٌ",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. ‘Abbas said that he heard God’s messenger say, “When a skin is tanned it is pure.\" \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 199,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن ابْن عبَّاس قَالَ: تُصُدِّقَ عَلَى مَوْلَاةٍ لِمَيْمُونَةَ بِشَاةٍ فَمَاتَتْ فَمَرَّ بِهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «هَلَّا أَخَذْتُمْ إِهَابَهَا فَدَبَغْتُمُوهُ فَانْتَفَعْتُمْ بِهِ» فَقَالُوا: إِنَّهَا مَيْتَةٌ فَقَالَ: «إِنَّمَا حُرِّمَ أكلهَا»",
+      "english": {
+        "narrator": "",
+        "text": "He also said that a sheep was given in alms to a female client of Maimuna, but it died. God’s messenger came along and asked, “Why did you not take its skin and tan it and get some good out of it?\" They replied, \"It died a natural death.\" He said, “It is only the eating of it that is prohibited. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 200,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ سَوْدَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَتْ: مَاتَتْ لَنَا شَاةٌ فَدَبَغْنَا مَسْكَهَا ثُمَّ مَا زِلْنَا نَنْبِذُ فِيهِ حَتَّى صَارَ شنا. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Sauda the Prophet’s wife said, \"A sheep of ours died and we tanned its freshly flayed skin, then continued to steep dates in it till it was worn out.\" \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 201,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "عَن لبَابَة بنت الْحَارِث قَالَتْ: كَانَ الْحُسَيْنُ بْنُ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمَا فِي حِجْرِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم فَبَال عَلَيْهِ فَقُلْتُ الْبَسْ ثَوْبًا وَأَعْطِنِي إِزَارَكَ حَتَّى أَغْسِلَهُ قَالَ: «إِنَّمَا يُغْسَلُ مِنْ بَوْلِ الْأُنْثَى وَيُنْضَحُ مِنْ بَوْلِ الذَّكَرِ» . رَوَاهُ أَحْمَدُ وَأَبُو دَاوُدَ وَابْن مَاجَه\nوَفِي رِوَايَةٍ لِأَبِي دَاوُدَ وَالنَّسَائِيِّ عَنْ أَبِي السَّمْحِ قَالَ: يُغْسَلُ مِنْ بَوْلِ الْجَارِيَةِ وَيُرَشُّ من بَوْل الْغُلَام",
+      "english": {
+        "narrator": "Lubaba daughter of al-Harith said:",
+        "text": "When al-Husain b. ‘Ali was sitting in God’s messenger’s lap he passed water and I said, “Put on a garment and give me your lower garment to wash;\" but he replied, “It is only the urine of a female which should be washed; the urine of a male should be sprinkled.\" \n\nAhmad, Abu Dawud and Ibn Majah transmitted it. In a version by Abu Dawud and Nasa’i from Abus Samh he said, \"It should be washed because of a girl’s urine and sprinkled because of a boy’s.\""
+      }
+    },
+    {
+      "id": 202,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا وَطِئَ أَحَدُكُمْ بِنَعْلِهِ الْأَذَى فَإِنَّ التُّرَابَ لَهُ طَهُورٌ» . رَوَاهُ أَبُو دَاوُدَ. وَلِابْنِ مَاجَه مَعْنَاهُ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, \"When any of you treads with his sandal on something unclean, earth should be used to purify it.\" \n\nAbu Dawud transmitted it and Ibn Majah has something similar."
+      }
+    },
+    {
+      "id": 203,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن أم سَلمَة قَالَتْ لَهَا امْرَأَةٌ: إِنِّي امْرَأَةٌ أُطِيلُ ذَيْلِي وَأَمْشِي فِي الْمَكَانِ الْقَذِرِ قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يُطَهِّرُهُ مَا بَعْدَهُ» . رَوَاهُ مَالِكٌ وَأَحْمَدُ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ وَالدَّارِمِيُّ وَقَالا: الْمَرْأَة أم ولد لإِبْرَاهِيم ابْن عبد الرَّحْمَن بن عَوْف",
+      "english": {
+        "narrator": "",
+        "text": "Umm Salama said that a woman told her she had a long skirt and walked in filthy places, so she told her that God’s messenger had said,\n\"What comes after it cleanses it.\"  \n\nMalik, Ahmad, Tirmidhi, Abu Dawud and Darimi transmitted it, the last two mentioning that the woman was an umm walad* belonging to Ibrahim b. ‘Abd ar-Rahman b. ‘Auf.\n*Lit. \"mother of a boy\". Used of a slavewoman who has borne a child to her master, and therefore gains her freedom when he dies."
+      }
+    },
+    {
+      "id": 204,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن الْمِقْدَام بن معدي كرب قَالَ: نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ لُبْسِ جُلُودِ السِّبَاعِ وَالرُّكُوبِ عَلَيْهَا. رَوَاهُ أَبُو دَاوُد وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Al-Miqdam b. Ma'dikarib said that God’s messenger prohibited wearing the skins of beasts of prey and using them on saddles. \n\nAbu Dawud and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 205,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي الْمَلِيحِ بْنِ أُسَامَةَ عَنْ أَبِيهِ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: نَهَى عَنْ جُلُودِ السِّبَاعِ. رَوَاهُ أَحْمَدُ وَأَبُو دَاوُدَ وَالنَّسَائِيّ وَزَاد التِّرْمِذِيّ والدارمي: أَن تفترش",
+      "english": {
+        "narrator": "",
+        "text": "Abul Malih b. Usama quoted his father as saying that the Prophet prohibited the use of the skins of beasts of prey. \n\nAhmad, Abu Dawud and Nasa’i transmitted it; and Tirmidhi and Darimi added that they may be used as rugs."
+      }
+    },
+    {
+      "id": 206,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن أبي الْمليح: أَنه ذكره ثمن جُلُود السبَاع. رَوَاهُ التِّرْمِذِيّ فِي اللبَاس من جَامعه وَسَنَده جيد",
+      "english": {
+        "narrator": "",
+        "text": "Abul Malih expressed his disapproval of payment for the skins of beasts of prey.*\n\n*The source of this tradition is not mentioned, but the editor of the Damascus edition of the\nMishkat says Tirmidhi appended it in a note."
+      }
+    },
+    {
+      "id": 207,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن عبد الله بن عكيم قَالَ: أَتَانَا كِتَابُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَنْ لَا تَنْتَفِعُوا مِنَ الْمَيْتَةِ بِإِهَابٍ وَلَا عَصَبٍ» . رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ وَالنَّسَائِيُّ وَابْنُ مَاجَهْ",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. ‘Ukaim said, “The letter of God’s messenger came to us telling us not to make use of the skin or sinew of an animal which had died a natural death.” \n\nTirmidhi, Abu Dawud, Nasa’i and Ibn Majah transmitted it."
+      }
+    },
+    {
+      "id": 208,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَمَرَ أَنْ يُسْتَمْتَعَ بِجُلُودِ الْمَيْتَةِ إِذَا دُبِغَتْ. رَوَاهُ مَالِكٌ وَأَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "‘A'isha said God’s messenger commanded that the skins of animals which had died a natural death should be made use of after they had been tanned. \n\nMalik and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 209,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن مَيْمُونَة مر على النَّبِي الله صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رِجَالٌ مِنْ قُرَيْشٍ يَجُرُّونَ شَاةً لَهُمْ مِثْلَ الْحِمَارِ فَقَالَ لَهُمْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَوْ أَخَذْتُمْ إِهَابَهَا» قَالُوا إِنَّهَا مَيْتَةٌ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يُطَهِّرُهَا الْمَاءُ والقرظ» . رَوَاهُ أَحْمد وَأَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Maimuna said that some people passed the Prophet dragging a sheep of theirs as big as an ass. God’s messenger asked them why they did not make use of its skin, and when they told him that it had died a natural death he said, “Water and leaves of the mimosa flava* purify it.\" \n*The Arabic word is qaraz. meaning the leaves of the mimosa flave (salam) These were used for tanning.\n\nAhmad and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 210,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن سَلمَة ابْن المحبق: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي غَزْوَة تَبُوك أَتَى على بَيْتٍ فَإِذَا قِرْبَةٌ مُعَلَّقَةٌ فَسَأَلَ الْمَاءَ فَقَالُوا يَا رَسُولَ اللَّهِ إِنَّهَا مَيْتَةٌ: «فَقَالَ دِبَاغُهَا طهورها» . رَوَاهُ أَحْمد وَأَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Salma b. al-Muhabbiq said that on the expedition to Tabuk  God’s messenger came to a household, and seeing a bucket hanging, asked for water. They told him that the animal had died a natural death, but he replied, “Its tanning is its purification.” \n\nAhmad and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 211,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن امْرَأَةٍ مِنْ بَنِي عَبْدِ الْأَشْهَلِ قَالَتْ: قُلْتُ: يَا رَسُولَ اللَّهِ إِنَّ لَنَا طَرِيقًا إِلَى الْمَسْجِد مُنْتِنَة فَكيف نَفْعل إِذا مُطِرْنَا قَالَ: «أَلَيْسَ بعْدهَا طَرِيق هِيَ أطيب مِنْهَا قَالَت قلت بلَى قَالَ فَهَذِهِ بِهَذِهِ» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "A woman of the B. ‘Abd al-Ashhal said:",
+        "text": "I told God’s messenger that our road to the mosque had an unpleasant stench and asked what we should do when it was raining. He asked whether there was not a cleaner part after the offensive part had been passed, and when I replied that there was, he said that it made up for the other. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 212,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: كُنَّا نُصَلِّي مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَلَا نَتَوَضَّأ من الموطئ. رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. Mas‘ud said that they used to pray with God’s messenger without performing ablution because of anything they had trodden on.\n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 213,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: كَانَتِ الْكِلَابُ تُقْبِلُ وَتُدْبِرُ فِي الْمَسْجِدِ فِي زَمَانِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَلَمْ يَكُونُوا يَرُشُّونَ شَيْئا من ذَلِك. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar said that the dogs used to go here and there in the mosque in the time of God’s messenger and that they did not sprinkle any place where they had been. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 214,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنِ الْبَرَاءِ بْنِ عَازِبٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:: «لَا بَأْسَ بِبَوْلِ مَا يُؤْكَلُ لَحْمُهُ»\nوَفِي رِوَايَةِ جَابِرٍ قَالَ: «مَا أُكِلَ لَحْمُهُ فَلَا بَأْس ببوله» . رَوَاهُ أَحْمد وَالدَّارَقُطْنِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Al-Bara’ reported God’s messenger as saying, “There is no harm in the urine of an animal whose flesh may be eaten.” In a version of Jabir’s he said, “If an animal’s flesh may be eaten, there is no harm in its urine.” \n\nAhmad and Daraqutni transmitted it."
+      }
+    },
+    {
+      "id": 215,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "عَن شُرَيْح بن هَانِئ قَالَ: سَأَلْتُ عَلِيَّ بْنَ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ عَنِ الْمَسْحِ عَلَى الْخُفَّيْنِ فَقَالَ: جَعَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلَاثَةٌ أَيَّامٍ وَلَيَالِيَهُنَّ لِلْمُسَافِرِ وَيَوْمًا وَلَيْلَةً لِلْمُقِيمِ. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Shuraih b. Hani' said, “I asked ‘Ali b. Abu Talib about wiping over the shoes and he replied that God’s messenger had appointed three days and nights as the period when a traveller may do it and one day and night as the period for one who is not travelling.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 216,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن عُرْوَة بن الْمُغيرَة بن شُعْبَة عَن أَبِيه قَالَ: أَنَّهُ غَزَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ غَزْوَةَ تَبُوكَ. قَالَ الْمُغِيرَةُ: فَتَبَرَّزَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قِبَلَ الْغَائِط فَحملت مَعَه إدواة قَبْلَ الْفَجْرِ فَلَمَّا رَجَعَ أَخَذْتُ أُهَرِيقُ عَلَى يَدَيْهِ من الإدواة فَغسل كفيه وَوَجْهَهُ وَعَلَيْهِ جُبَّةٌ مِنْ صُوفٍ ذَهَبَ يَحْسِرُ عَن ذِرَاعَيْهِ فَضَاقَ كم الْجُبَّة فَأخْرج يَده مِنْ تَحْتِ الْجُبَّةِ وَأَلْقَى الْجُبَّةَ عَلَى مَنْكِبَيْهِ وَغسل ذِرَاعَيْهِ وَمسح بناصيته وعَلى الْعِمَامَة وعَلى خفيه ثُمَّ رَكِبَ وَرَكِبْتُ فَانْتَهَيْنَا إِلَى الْقَوْمِ وَقَدْ قَامُوا فِي الصَّلَاة يُصَلِّي بِهِمْ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ وَقَدْ رَكَعَ بِهِمْ رَكْعَةً فَلَمَّا أَحَسَّ بِالنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسلم ذهب يتَأَخَّر فَأَوْمأ إِلَيْهِ فصلى بهم فَلَمَّا سلم قَامَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقُمْتُ فَرَكَعْنَا الرَّكْعَة الَّتِي سبقتنا. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Al-Mughira b. Shu'ba, telling that he had gone with God’s messenger on the expedition to Tabuk, said:",
+        "text": "God’s messenger relieved himself beside some low ground before the morning prayer, and I went with him carrying a small water-skin. When he came back I began to pour water from the skin over his hands, and he washed his hands and face. He was wearing a long-sleeved woollen gown, and tried to get his forearms out, but the sleeve of the gown was too narrow, so he brought his hands out from under the gown, and throwing it over his shoulders, he washed his forearms. Then he wiped his forelock and over his turban. I was then about to remove his shoes when he said, “Leave them, for my feet were pure when I put them in”; so he rubbed over them, and he and I mounted our beasts and came to the people. They had begun the prayer with ‘Abd ar-Rahman b. ‘Auf leading them, and he had performed a rak'a with them, but when he was aware of the Prophet’s presence he began to retire. The Prophet, however, signed to him to continue and performed one of the rak'as along with him. Then when he had pronounced the salutation the Prophet got up, and I got up along with him, and we performed the rak‘a which had been finished before we came. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 217,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي بَكْرَةَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَنَّهُ رَخَّصَ لِلْمُسَافِرِ ثَلَاثَةَ أَيَّامٍ وَلَيَالِيَهُنَّ وَلِلْمُقِيمِ يَوْمًا وَلَيْلَةً إِذَا تَطَهَّرَ فَلَبِسَ خُفَّيْهِ أَنْ يَمْسَحَ عَلَيْهِمَا. رَوَاهُ الْأَثْرَمُ فِي سُنَنِهِ وَابْنُ خُزَيْمَةَ وَالدَّارَقُطْنِيّ وَقَالَ الْخَطَّابِيُّ: هُوَ صَحِيحُ الْإِسْنَادِ هَكَذَا فِي الْمُنْتَقى",
+      "english": {
+        "narrator": "",
+        "text": "Abu Bakr said that the Prophet gave permission for the traveller to wipe over his shoes during three days and nights, and for one who was not travelling during a day and a night, if be had been in a state of purity when he put them on. \n\nAl-Athram transmitted it in his Sunan. Ibn Khuzaima and Daraqutni also transmitted it. Al-Khattabi said in\nal-Muntaqa that the isnad is sound."
+      }
+    },
+    {
+      "id": 218,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن صَفْوَان بن عَسَّال قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَأْمُرُنَا إِذَا كُنَّا سَفَرًا أَنْ لَا نَنْزِعَ خِفَافَنَا ثَلَاثَةَ أَيَّامٍ وَلَيَالِيَهُنَّ إِلَّا مِنْ جَنَابَةٍ وَلَكِنْ مِنْ غَائِطٍ وَبَوْلٍ وَنَوْمٍ. رَوَاهُ التِّرْمِذِيّ وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Safwan b. ‘Assal said, “God’s messenger used to command us, when we were travelling, not to take off our shoes for three days and nights except for seminal defilement, and not to do so on account of easing ourselves, passing water, or sleeping.” \n\nTirmidhi and Nasa'i transmitted it."
+      }
+    },
+    {
+      "id": 219,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ قَالَ: وَضَّأْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي غَزْوَةِ تَبُوكَ فَمَسَحَ أَعْلَى الْخُفِّ وَأَسْفَلَهُ. رَوَاهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَابْنُ مَاجَهْ وَقَالَ التِّرْمِذِيُّ هَذَا حَدِيثٌ مَعْلُولٌ وَسَأَلْتُ أَبَا زُرْعَةَ وَمُحَمَّدًا يَعْنَى الْبُخَارِيَّ عَنْ هَذَا الْحَدِيثِ فَقَالَا: لَيْسَ بِصَحِيحٍ. وَكَذَا ضعفه أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Al-Mughira b. Shu'ba said, “I assisted the Prophet to perform ablution on the expedition to Tabuk, and he wiped the top and bottom of the shoe.” \n\nAbu Dawud, Tirmidhi and Ibn Majah transmitted it. Tirmidhi said, “This is a weak tradition. I asked Abu Zur'a and Muhammad, i.e. Bukhari, about this tradition and they said that it is not sound.” Abu Dawud also declared it to be weak."
+      }
+    },
+    {
+      "id": 220,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعنهُ قَالَ: رَأَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يمسح على الْخُفَّيْنِ على ظاهرهما. رَوَاهُ التِّرْمِذِيّ وَأَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "He also said, “I saw the Prophet wiping over the upper part of his shoes.” \n\nTirmidhi and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 221,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن الْمُغيرَة بن شُعْبَة قَالَ: تَوَضَّأَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَمَسَحَ عَلَى الْجَوْرَبَيْنِ وَالنَّعْلَيْنِ. رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ وَابْنُ مَاجَهْ",
+      "english": {
+        "narrator": "",
+        "text": "He also said that the Prophet performed ablution and wiped over his stockings and his sandals. \n\nAhmad, Tirmidhi, Abu Dawud and Ibn Majah transmitted it."
+      }
+    },
+    {
+      "id": 222,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن الْمُغيرَة بن شُعْبَة قَالَ: مَسَحَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى الْخُفَّيْنِ فَقُلْتُ: يَا رَسُولَ اللَّهِ نسيت؟ قَالَ: بل أَنْت نسيت بِهَذَا أَمرنِي رَبِّي عَزَّ وَجَلَّ. رَوَاهُ أَحْمَدُ وَأَبُو دَاوُدَ",
+      "english": {
+        "narrator": "Al-Mughira said:",
+        "text": "God’s messenger wiped over the shoes and I said, “Messenger of God, you have forgotten.” He replied, “No, you have forgotten. My Lord commanded me to do this.” \n\nAhmad and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 223,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن عَليّ رَضِي الله عَنهُ قَالَ: لَوْ كَانَ الدِّينُ بِالرَّأْيِ لَكَانَ أَسْفَلُ الْخُفِّ أَوْلَى بِالْمَسْحِ مِنْ أَعْلَاهُ وَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَمْسَحُ على ظَاهر خفيه رَوَاهُ أَبُو دَاوُد للدارمي مَعْنَاهُ",
+      "english": {
+        "narrator": "",
+        "text": "‘Ali said, “If the religion were based on opinion, it would be more important to wipe the under part of the shoe than the upper, but I have seen God’s messenger wiping over the upper part of his shoes.” \n\nAbu Dawud transmitted it, and Darimi has something similar."
+      }
+    },
+    {
+      "id": 224,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "عَنْ حُذَيْفَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «فُضِّلْنَا عَلَى النَّاسِ بِثَلَاثٍ جُعِلَتْ صُفُوفُنَا كَصُفُوفِ الْمَلَائِكَةِ وَجُعِلَتْ لَنَا الْأَرْضُ كلهَا مَسْجِدا وَجعلت تربَتهَا لنا طَهُورًا إِذَا لَمْ نَجِدِ الْمَاءَ» . رَوَاهُ مُسْلِمٌ",
+      "english": {
+        "narrator": "Hudhaifa reported God’s messenger as saying, “We have been made superior to mankind in three respects:",
+        "text": "our ranks are formed like those of the angels; all the earth has been appointed as a mosque for us; and our earth has been appointed for us as a means of cleansing when we do not find water.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 225,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن عمرَان بن حُصَيْن الْخُزَاعِيِّ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: رأى رجلا مُعْتَزِلا لم يصل فِي الْقَوْم فَقَالَ: «يَا فلَان مَا مَنعك أَن تصلي فِي الْقَوْم فَقَالَ يَا رَسُول الله أَصَابَتْنِي جَنَابَةٌ وَلَا مَاءَ قَالَ عَلَيْكَ بِالصَّعِيدِ فَإِنَّهُ يَكْفِيك»",
+      "english": {
+        "narrator": "‘Imran said:",
+        "text": "While we were on a journey with the Prophet he led the people in the prayer, and when he turned away after the prayer he saw a man apart who had not prayed along with the people. He asked him what had prevented him from praying along with the company, and when the man replied that he was affected by \nseminal defilement and had no water, he said, “Make use of earth, for it is enough for you.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 226,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن عمار قَالَ: جَاءَ رَجُلٌ إِلَى عُمَرَ بْنِ الْخَطَّابِ فَقَالَ: إِنِّي أَجْنَبْتُ فَلَمْ أُصِبِ الْمَاءَ فَقَالَ عمار بن يَاسر لعمر بن الْخطاب أَمَا تَذْكُرُ أَنَّا كُنَّا فِي سَفَرٍ أَنَا وَأَنْتَ فَأَمَّا أَنْتَ فَلَمْ تُصَلِّ وَأَمَّا أَنَا فتمعكت فَصليت فَذكرت للنَّبِي صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسلم إِنَّمَا كَانَ يَكْفِيكَ هَكَذَا فَضَرَبَ النَّبِيُّ صَلَّى الله عَلَيْهِ وَسلم بكفيه الأَرْض وَنفخ فيهمَا ثمَّ مسح بهما وَجْهَهُ وَكَفَّيْهِ. رَوَاهُ الْبُخَارِيُّ وَلِمُسْلِمٍ نَحْوُهُ وَفِيهِ قَالَ: إِنَّمَا يَكْفِيكَ أَنْ تَضْرِبَ بِيَدَيْكَ الْأَرْضَ ثمَّ تنفخ ثمَّ تمسح بهما وَجهك وكفيك",
+      "english": {
+        "narrator": "‘Ammar said that a man came to ‘Umar b. al-Khatt&b, telling that he was affected by seminal defilement and could get no water.\n‘Ammar then said to ‘Umar:",
+        "text": "Do you not remember that you and I were on a journey and you did not pray, but I rolled myself on the ground, then prayed? I mentioned that afterwards to the Prophet, and he said,“It would have been enough for you to do thus”—and the Prophet struck the ground with the palms of his hands, blew into them, then wiped his face and the palms of his hands with them. \n\nBukhari transmitted it, and Muslim has something similar, in which he said, “It is enough for you to strike the ground with your hands, then blow, then wipe your face and the palms of your hands with them.”"
+      }
+    },
+    {
+      "id": 227,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي الْجُهَيْمِ بْنِ الْحَارِثِ بْنِ الصِّمَّةِ قَالَ: مَرَرْتُ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ يَبُولُ فَسَلَّمْتُ عَلَيْهِ فَلَمْ يَرُدَّ عَلَيَّ حَتَّى قَامَ إِلَى جِدَارٍ فَحَتَّهُ بِعَصًى كَانَتْ مَعَهُ ثُمَّ وَضَعَ يَدَيْهِ عَلَى الْجِدَارِ فَمَسَحَ وَجْهَهُ وَذِرَاعَيْهِ ثُمَّ رَدَّ عَلَيَّ. وَلَمْ أَجِدْ هَذِهِ الرِّوَايَةَ فِي الصَّحِيحَيْنِ وَلَا فِي كِتَابِ الْحُمَيْدِيِّ وَلَكِنْ ذَكَرَهُ فِي شَرْحِ السُّنَّةِ وَقَالَ: هَذَا حَدِيث حسن",
+      "english": {
+        "narrator": "",
+        "text": "Abul Juhaim b. al-Harith b. as-Simma said, “I came upon the Prophet when he was passing water and saluted him, but he did not reply till he got up and went to a wall, and after scraping it with a stick which he had, he put his hands on the wall and wiped his face and his forearms; then he replied to my salutation.” \n\nI have not found this version in the two Sahihs, or in al-Humaidi’s book; but Baghawi mentioned it in Sharh as-sunna, saying that this is a hasan tradition."
+      }
+    },
+    {
+      "id": 228,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي ذَرٍّ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ الصَّعِيدَ الطَّيِّبَ وَضُوءُ الْمُسلم وَإِن لم يجد لاماء عشر سِنِين فغذا وجد المَاء فليمسه بشره فَإِنَّ ذَلِكَ خَيْرٌ» . رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ\nوَرَوَى النَّسَائِيُّ نَحْوَهُ إِلَى قَوْلِهِ: عَشْرَ سِنِين",
+      "english": {
+        "narrator": "",
+        "text": "Abu Dharr reported God’s messenger as saying, \"Good earth is a means of ablution for a Muslim, even if he does not find water for ten years; but when he finds water he should make it touch his skin, for that is better.” \n\nAhmad, Tirmidhi and Abu Dawud transmitted it, and Nasa’i has something similar up to \"ten years”."
+      }
+    },
+    {
+      "id": 229,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: خَرَجْنَا فِي سَفَرٍ فَأَصَابَ رجلا منا حجر فَشَجَّهُ فِي رَأسه ثمَّ احْتَلَمَ فَسَأَلَ أَصْحَابه فَقَالَ هَل تَجِدُونَ لي رخصَة فِي التَّيَمُّم فَقَالُوا مَا نجد لَك رخصَة وَأَنت تقدر على الْمَاءِ فَاغْتَسَلَ فَمَاتَ فَلَمَّا قَدِمْنَا عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أخبر بذلك فَقَالَ قَتَلُوهُ قَتلهمْ الله أَلا سَأَلُوا إِذْ لَمْ يَعْلَمُوا فَإِنَّمَا شِفَاءُ الْعِيِّ السُّؤَالُ إِنَّمَا كَانَ يَكْفِيهِ أَن يتَيَمَّم ويعصر أَو يعصب شكّ مُوسَى عَلَى جُرْحِهِ خِرْقَةً ثُمَّ يَمْسَحَ عَلَيْهَا وَيَغْسِلَ سَائِر جسده. رَوَاهُ أَبُو دَاوُد\nوَرَوَاهُ ابْنُ مَاجَهْ عَنْ عَطَاءِ بْنِ أَبِي رَبَاح عَن ابْن عَبَّاس",
+      "english": {
+        "narrator": "Jabir said:",
+        "text": "We went out on a journey, and one of our men was struck by a stone which wounded him in the head. He had a nocturnal emission and asked his companions whether they could find any permission for him to perform ablution with earth, but they replied that they could not when he was able to get water; so the man washed and died. When we came to the Prophet he was told about that and said, \"Then killed him, God kill them! Why did they not ask when they did not know? The only cure for ignorance is to ask. It would have been enough for him to use earth and tie a rag over the sore, then wipe over it and wash the rest of his body.\" \n\nAbu Dawud transmitted it, and Ibn Majah transmitted it from ‘Ata’ b. Abu Rabah from Ibn ‘Abbas."
+      }
+    },
+    {
+      "id": 230,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن أبي سعيد الْخُدْرِيّ قَالَ: خَرَجَ رَجُلَانِ فِي سَفَرٍ فَحَضَرَتِ الصَّلَاةُ وَلَيْسَ مَعَهُمَا مَاءٌ فَتَيَمَّمَا صَعِيدًا طَيِّبًا فَصَلَّيَا ثُمَّ وَجَدَا الْمَاءَ فِي الْوَقْتِ فَأَعَادَ أَحَدُهُمَا الصَّلَاة وَالْوُضُوء وَلَمْ يَعُدِ الْآخَرُ ثُمَّ أَتَيَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فذكرا ذَلِك لَهُ فَقَالَ لِلَّذِي لَمْ يُعِدْ: «أَصَبْتَ السُّنَّةَ وَأَجْزَأَتْكَ صَلَاتُكَ» وَقَالَ لِلَّذِي تَوَضَّأَ وَأَعَادَ: «لَكَ الْأَجْرُ مَرَّتَيْنِ» . رَوَاهُ أَبُو دَاوُدَ وَالدَّارِمِيُّ وَرَوَى النَّسَائِيُّ نَحوه\nوَقَدْ رَوَى هُوَ وَأَبُو دَاوُدَ أَيْضًا عَنْ عَطاء بن يسَار مُرْسلا",
+      "english": {
+        "narrator": "Abu Sa’id al-Khudri said:",
+        "text": "Two men went out on a journey, and when the time for prayer came, having no water with them, they performed ablution with good earth and then prayed. Immediately afterwards they found water, and one of them repeated the prayer with ablution, but the other did not. When they came to God’s messenger sometime afterwards they mentioned that, and he said to the one who did not repeat the prayer, \"You have observed the sunna and your prayer was enough for you.\" To the one who had performed ablution and repeated the prayer he said, \"You will have a twofold reward.” \n\nAbu Dawud and Darimi transmitted it, and Nasa’i transmitted something similar.\nHe and Abu Dawud also transmitted it from ‘Ata’ b. Yasar in mursal form."
+      }
+    },
+    {
+      "id": 231,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "عَن أبي الْجُهَيْم الْأنْصَارِيّ قَالَ: أَقْبَلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ نَحْوِ بِئْرِ جَمَلٍ فَلَقِيَهُ رَجُلٌ فَسَلَّمَ عَلَيْهِ فَلَمْ يَرُدَّ عَلَيْهِ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى أَقْبَلَ عَلَى الْجِدَارِ فَمَسَحَ بِوَجْهِهِ وَيَدَيْهِ ثُمَّ رَدَّ عَلَيْهِ السَّلَام",
+      "english": {
+        "narrator": "",
+        "text": "Abul Juhaim b. al-Harith b. as-Simma said that once when coming from the direction of Bi’r Jamal* the Prophet was met by a man who saluted him, but the Prophet did not respond to his salutation till he went towards the wall and wiped his face and his hands. Then he responded to his salutation. \n*A well in Medina.\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 232,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَن عمار بن يَاسر: أَنَّهُ كَانَ يُحَدِّثُ أَنَّهُمْ تَمَسَّحُوا وَهُمْ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالصَّعِيدِ لِصَلَاةِ الْفَجْرِ فَضَرَبُوا بِأَكُفِّهِمُ الصَّعِيدَ ثُمَّ مَسَحُوا وُجُوههم مَسْحَةً وَاحِدَةً ثُمَّ عَادُوا فَضَرَبُوا بِأَكُفِّهِمُ الصَّعِيدَ مَرَّةً أُخْرَى فَمَسَحُوا بِأَيْدِيهِمْ كُلِّهَا إِلَى الْمَنَاكِبِ وَالْآبَاطِ مِنْ بُطُونِ أَيْدِيهِمْ. رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "",
+        "text": "‘Ammar b. Yasir used to tell that when they were with God’s messenger they wiped themselves with earth for the dawn prayer, striking the palms of their hands on the earth, then wiping their faces once. They struck the palms of their hands again on the earth and wiped their arms completely up to the shoulders, and up to the armpits on the inside of their arms. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 233,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا جَاءَ أَحَدُكُمُ الْجُمُعَةَ فَلْيَغْتَسِلْ»",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar reported God’s messenger as saying, “When any of you goes to the Friday prayer he should bathe.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 234,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «غُسْلُ يَوْمِ الْجُمُعَةِ وَاجِبٌ عَلَى كُلِّ مُحْتَلِمٍ»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa'id reported God’s messenger as saying, “Bathing on Friday is obligatory on everyone who has reached puberty.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 235,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «حَقُّ عَلَى كُلِّ مُسْلِمٍ أَنْ يَغْتَسِلَ فِي كُلِّ سَبْعَةِ أَيَّامٍ يَوْمًا يَغْسِلُ فِيهِ رَأسه وَجَسَده»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, “It is a duty for every Muslim to bathe once a week, washing his head and his body.”\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 236,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "عَن سَمُرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ تَوَضَّأَ يَوْمَ الْجُمُعَةِ فَبِهَا وَنِعْمَتْ وَمَنِ اغْتَسَلَ فَالْغُسْلُ أَفْضَلُ» . رَوَاهُ أَحْمَدُ وَأَبُو دَاوُد وَالتِّرْمِذِيّ وَالنَّسَائِيّ والدارمي",
+      "english": {
+        "narrator": "",
+        "text": "Samura b. Jundub reported God’s messenger as saying, “If anyone performs ablution on Friday, well and good; but if anyone bathes, bathing is more excellent.”\n\nAhmad, Abu Dawud, Tirmidhi, Nasa’i and Darimi transmitted it."
+      }
+    },
+    {
+      "id": 237,
+      "chapterId": 3,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ غَسَّلَ مَيِّتًا فَلْيَغْتَسِلْ» . رَوَاهُ ابْنُ مَاجَهْ\nوَزَادَ أَحْمَدُ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ: «وَمَنْ حمله فَليَتَوَضَّأ»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, “Anyone who has washed a dead body must bathe himself.” \n\nIbn Majah transmitted it; and Ahmad, Tirmidhi and Abu Dawud added, “And he who carries it must perform ablution.”"
+      }
+    }
+  ]
+}

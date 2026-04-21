@@ -1,0 +1,16 @@
+{
+  "id": 442,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس ، رضي الله عنه قال‏:‏” سمعت رسول الله ، صلى الله عليه وسلم يقول‏:‏ “قال الله تعالى‏:‏ يا ابن آدم، إنك ما دعوتني ورجوتني غفرت لك على ما كان منك ولا أبالي، يا أبن آدم، لو بلغت ذنوبك عنان السماء، ثم استغفرتني غفرت لك ، يا ابن آدم، إنك لو أتيتنى بقراب الأرض خطايا، ثم لقيتني لا تشرك به شيئاً، لأتيتك بقرابها مغفرة‏\"‏ ‏(‏‏(‏رواه الترمذي‏.‏ وقال حديث حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Allah, the Exalted, has said: 'O son of adam, I forgive you as long as you pray to Me and hope for My forgiveness, whatever sins you have committed. O son of 'Adam, I do not care if your sins reach the height of the heaven, then you ask for my forgiveness, I would forgive you. O son of 'Adam, if you come to Me with an earth load of sins, and meet Me associating nothing to Me, I would match it with an earthload of forgiveness.\"'."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

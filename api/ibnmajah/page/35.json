@@ -1,0 +1,510 @@
+{
+  "page": 35,
+  "perPage": 50,
+  "totalPages": 87,
+  "totalCount": 4345,
+  "nextPage": 36,
+  "prevPage": 34,
+  "items": [
+    {
+      "id": 123,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَابُورَ الرَّقِّيُّ، حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ سُلَيْمَانَ الأَنْصَارِيُّ، أَخُو فُلَيْحٍ عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ، عَنِ ابْنِ وَثِيمَةَ الْمِصْرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِذَا أَتَاكُمْ مَنْ تَرْضَوْنَ خُلُقَهُ وَدِينَهُ فَزَوِّجُوهُ إِلاَّ تَفْعَلُوا تَكُنْ فِتْنَةٌ فِي الأَرْضِ وَفَسَادٌ عَرِيضٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah:",
+        "text": "that the Messenger of Allah said: \"If there comes to you one with whose character and religious commitment you are pleased, then marry (your daughter or female relative under your care) to him, for if you do not do that there will be Fitnah in the land and widespread corruption.'\""
+      }
+    },
+    {
+      "id": 124,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا الْحَارِثُ بْنُ عِمْرَانَ الْجَعْفَرِيُّ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ تَخَيَّرُوا لِنُطَفِكُمْ وَانْكِحُوا الأَكْفَاءَ وَأَنْكِحُوا إِلَيْهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah:",
+        "text": "that the Messenger of Allah said: \"Choose the best for your sperm, and marry compatible women and propose marriage to them.\"'"
+      }
+    },
+    {
+      "id": 125,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ هَمَّامٍ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ كَانَتْ لَهُ امْرَأَتَانِ يَمِيلُ مَعَ إِحْدَاهُمَا عَلَى الأُخْرَى جَاءَ يَوْمَ الْقِيَامَةِ وَأَحَدُ شِقَّيْهِ سَاقِطٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah:",
+        "text": "that the Messenger of Allah said: \"Whoever has two wives and favors one of them over the other, he will come on the Day of Resurrection with one of his sides leaning.\""
+      }
+    },
+    {
+      "id": 126,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ يَمَانٍ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ إِذَا سَافَرَ أَقْرَعَ بَيْنَ نِسَائِهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah:",
+        "text": "that whenever the Messenger of Allah was to travel, he would cast lots among his wives."
+      }
+    },
+    {
+      "id": 127,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ يَحْيَى، قَالاَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَقْسِمُ بَيْنَ نِسَائِهِ فَيَعْدِلُ ثُمَّ يَقُولُ ‏\n\"‏ اللَّهُمَّ هَذَا فِعْلِي فِيمَا أَمْلِكُ فَلاَ تَلُمْنِي فِيمَا تَمْلِكُ وَلاَ أَمْلِكُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Messenger of Allah used to divide his time equally among his wives, then he would say 'O Allah, this is what I am doing with regard to that which is within my control, so do not hold me accountable for that which is under Your control and is beyond my control.'\""
+      }
+    },
+    {
+      "id": 128,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عُقْبَةُ بْنُ خَالِدٍ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، جَمِيعًا عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ لَمَّا أَنْ كَبِرَتْ، سَوْدَةُ بِنْتُ زَمْعَةَ وَهَبَتْ يَوْمَهَا لِعَائِشَةَ فَكَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَقْسِمُ لِعَائِشَةَ بِيَوْمِ سَوْدَةَ ‏.‏",
+      "english": {
+        "narrator": "'Urwah narrated from 'Aishah:",
+        "text": "that when Saudah bint Zam'ah grew old, she gave her day to 'Aishah, and the Messenger of Allah went to 'Aishah on Saudah's day."
+      }
+    },
+    {
+      "id": 129,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ يَحْيَى، قَالاَ حَدَّثَنَا عَفَّانُ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ سُمَيَّةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ وَجَدَ عَلَى صَفِيَّةَ بِنْتِ حُيَىٍّ فِي شَىْءٍ ‏.‏ فَقَالَتْ صَفِيَّةُ يَا عَائِشَةُ هَلْ لَكِ أَنْ تُرْضِي رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِّي وَلَكِ يَوْمِي قَالَتْ نَعَمْ ‏.‏ فَأَخَذَتْ خِمَارًا لَهَا مَصْبُوغًا بِزَعْفَرَانٍ فَرَشَّتْهُ بِالْمَاءِ لِيَفُوحَ رِيحُهُ ثُمَّ قَعَدَتْ إِلَى جَنْبِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَقَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ ‏\n\"‏ يَا عَائِشَةُ إِلَيْكِ عَنِّي إِنَّهُ لَيْسَ يَوْمَكِ ‏\"‏ ‏.‏ فَقَالَتْ ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ‏.‏ فَأَخْبَرَتْهُ بِالأَمْرِ فَرَضِيَ عَنْهَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah:",
+        "text": "that the Messenger of Allah became angry with Safiyyah bint Huyai for something, and Safiyyah said: \"O 'Aishah, can you make the Messenger of Allah be pleased with me, and I will give you my day?\" She said: \"Yes.\" So she took a headcover of hers that was dyed with saffron and sprinkled it with water so that its fragrance would become stronger, then she sat beside the Messenger of Allah. The Prophet said: \"O 'Aishah, go away, because it is not your day!\" She said: \"That is the Grace of Allah which He bestows on whom He pleases.\" Then she told him about that matter and he was pleased with her."
+      }
+    },
+    {
+      "id": 130,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عَمْرٍو، حَدَّثَنَا عُمَرُ بْنُ عَلِيٍّ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، ‏.‏ أَنَّهَا قَالَتْ نَزَلَتْ هَذِهِ الآيَةُ ‏{وَالصُّلْحُ خَيْرٌ}‏ فِي رَجُلٍ كَانَتْ تَحْتَهُ امْرَأَةٌ قَدْ طَالَتْ صُحْبَتُهَا وَوَلَدَتْ مِنْهُ أَوْلاَدًا فَأَرَادَ أَنْ يَسْتَبْدِلَ بِهَا فَرَاضَتْهُ عَلَى أَنْ تُقِيمَ عِنْدَهُ وَلاَ يَقْسِمَ لَهَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"This Verse 'And making peace is better.' was revealed concerning a man who had been married to a woman for a long time, and she had given birth to his children and he wanted to exchange her (for a new wife). She agreed that he would stay with her (the new wife) and would not give her (the first wife) a share of his time. (i.e.) not spend the nights with her).\""
+      }
+    },
+    {
+      "id": 131,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا مُعَاوِيَةُ بْنُ يَحْيَى، حَدَّثَنَا مُعَاوِيَةُ بْنُ يَزِيدَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ أَبِي رُهْمٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مِنْ أَفْضَلِ الشَّفَاعَةِ أَنْ يُشَفَّعَ بَيْنَ الاِثْنَيْنِ فِي النِّكَاحِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Ruhm said:",
+        "text": "\"The Messenger of Allah said: 'One of the best kinds of intercession is interceding between two people concerning marriage.\"'"
+      }
+    },
+    {
+      "id": 132,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَرِيكٌ، عَنِ الْعَبَّاسِ بْنِ ذَرِيحٍ، عَنِ الْبَهِيِّ، عَنْ عَائِشَةَ، قَالَتْ عَثَرَ أُسَامَةُ بِعَتَبَةِ الْبَابِ فَشُجَّ فِي وَجْهِهِ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\"‏ أَمِيطِي عَنْهُ الأَذَى ‏\"‏ ‏.‏ فَتَقَذَّرْتُهُ فَجَعَلَ يَمَصُّ عَنْهُ الدَّمَ وَيَمُجُّهُ عَنْ وَجْهِهِ ثُمَّ قَالَ ‏\"‏ لَوْ كَانَ أُسَامَةُ جَارِيَةً لَحَلَّيْتُهُ وَكَسَوْتُهُ حَتَّى أُنَفِّقَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"Usamah stumbled at the threshold of the door and cut his face. The Messenger of Allah said: 'Remove the harm (the blood) from him,' but I was repulsed by that. He started to suck the blood and remove it from his face, then he said: 'If Usamah were a girl, I would have adorned him and dressed him until I married him off.\"'"
+      }
+    },
+    {
+      "id": 133,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بِشْرٍ، بَكْرُ بْنُ خَلَفٍ وَمُحَمَّدُ بْنُ يَحْيَى قَالاَ حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ جَعْفَرِ بْنِ يَحْيَى بْنِ ثَوْبَانَ، عَنْ عَمِّهِ، عُمَارَةَ بْنِ ثَوْبَانَ عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ خَيْرُكُمْ خَيْرُكُمْ لأَهْلِهِ وَأَنَا خَيْرُكُمْ لأَهْلِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas that:",
+        "text": "the Prophet said: \"The best of you is the one who is best to his wife, and I am the best of you to my wives.\""
+      }
+    },
+    {
+      "id": 134,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو خَالِدٍ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ خِيَارُكُمْ خِيَارُكُمْ لِنِسَائِهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Amr that:",
+        "text": "the Messenger of Allah said: \"The best of you are those who are best to their womenfolk.\""
+      }
+    },
+    {
+      "id": 135,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ سَابَقَنِي النَّبِيُّ ـ صلى الله عليه وسلم ـ فَسَبَقْتُهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Prophet raced with me and I beat him.\""
+      }
+    },
+    {
+      "id": 136,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَدْرٍ، عَبَّادُ بْنُ الْوَلِيدِ حَدَّثَنَا حَبَّانُ بْنُ هِلاَلٍ، حَدَّثَنَا مُبَارَكُ بْنُ فَضَالَةَ، عَنْ عَلِيِّ بْنِ زَيْدٍ، عَنْ أُمِّ مُحَمَّدٍ، عَنْ عَائِشَةَ، قَالَتْ لَمَّا قَدِمَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ الْمَدِينَةَ وَهُوَ عَرُوسٌ بِصَفِيَّةَ بِنْتِ حُيَىٍّ جِئْنَ نِسَاءُ الأَنْصَارِ فَأَخْبَرْنَ عَنْهَا ‏.‏ قَالَتْ فَتَنَكَّرْتُ وَتَنَقَّبْتُ فَذَهَبْتُ فَنَظَرَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ إِلَى عَيْنِي فَعَرَفَنِي ‏.‏ قَالَتْ فَالْتَفَتَ فَأَسْرَعْتُ الْمَشْىَ فَأَدْرَكَنِي فَاحْتَضَنَنِي فَقَالَ ‏\n\"‏ كَيْفَ رَأَيْتِ ‏\"‏ ‏.‏ قَالَتْ قُلْتُ أَرْسِلْ يَهُودِيَّةٌ وَسْطَ يَهُودِيَّاتٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "When the Messenger of Allah came to Al-Madinah, he had just married Safiyyah bint Huyai, and the women of the Ansar came and told us about that. My expression changed and I covered my face and went away. The Messenger of Allah looked at my eyes and recognized me. I turned away and walked quickly, but he caught up with me and put his arm around me and said: 'What did you see?' I said: 'Let me go, (I saw) a Jewish woman among other Jewish women.' \""
+      }
+    },
+    {
+      "id": 137,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، عَنْ زَكَرِيَّا، عَنْ خَالِدِ بْنِ سَلَمَةَ، عَنِ الْبَهِيِّ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، قَالَ قَالَتْ عَائِشَةُ مَا عَلِمْتُ حَتَّى دَخَلَتْ عَلَىَّ زَيْنَبُ بِغَيْرِ إِذْنٍ وَهِيَ غَضْبَى ‏.‏ ثُمَّ قَالَتْ يَا رَسُولَ اللَّهِ أَحَسْبُكَ إِذَا قَلَبَتْ لَكَ بُنَيَّةُ أَبِي بَكْرٍ ذُرَيْعَتَيْهَا ‏.‏ ثُمَّ أَقْبَلَتْ عَلَىَّ فَأَعْرَضْتُ عَنْهَا حَتَّى قَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ ‏\n\"‏ دُونَكِ فَانْتَصِرِي ‏\"‏ ‏.‏ فَأَقْبَلْتُ عَلَيْهَا حَتَّى رَأَيْتُهَا وَقَدْ يَبِسَ رِيقُهَا فِي فِيهَا مَا تَرُدُّ عَلَىَّ شَيْئًا فَرَأَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ يَتَهَلَّلُ وَجْهُهُ ‏.‏",
+      "english": {
+        "narrator": "Urwah bin Zubair narrated that 'Aishah said:",
+        "text": "\"I did not know until Zainab burst in on me without permission and she was angry. Then she said: 'O Messenger of Allah, is it enough for you that the young daughter of Abu Bakr waves her hands in front of you?' Then she turned to me, but I ignored her until the Prophet said: 'You should say something to defend yourself.' So I turned on her, (and replied to her) until I saw that her mouth had become dry, and she did not say anything back to me. And I saw the Prophet with his face shining.\" (Hasan)."
+      }
+    },
+    {
+      "id": 138,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عَمْرٍو، حَدَّثَنَا عُمَرُ بْنُ حَبِيبٍ الْقَاضِي، قَالَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَلْعَبُ بِالْبَنَاتِ وَأَنَا عِنْدَ، رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَكَانَ يُسَرِّبُ إِلَىَّ صَوَاحِبَاتِي يُلاَعِبْنَنِي ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I used to play with dolls when I was with the Messenger of Allah, and he used to bring my friends to me to play with me.\""
+      }
+    },
+    {
+      "id": 139,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ زَمْعَةَ، قَالَ خَطَبَ النَّبِيُّ ـ صلى الله عليه وسلم ـ ثُمَّ ذَكَرَ النِّسَاءَ فَوَعَظَهُمْ فِيهِنَّ ثُمَّ قَالَ ‏\n\"‏ إِلاَمَ يَجْلِدُ أَحَدُكُمُ امْرَأَتَهُ جَلْدَ الأَمَةِ وَلَعَلَّهُ أَنْ يُضَاجِعَهَا مِنْ آخِرِ يَوْمِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abduleh bin Zam'ah said:",
+        "text": "'The Prophet delivered a sermon then he made mention of women, and exhorted (the men) concerning them. Then he said: 'How long will one of you whip his wife like a slave, then lie with her at the end of the day?'"
+      }
+    },
+    {
+      "id": 140,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ مَا ضَرَبَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ خَادِمًا لَهُ وَلاَ امْرَأَةً وَلاَ ضَرَبَ بِيَدِهِ شَيْئًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Messenger of Allah never beat any of his servants, or wives, and his hand never hit anything.\""
+      }
+    },
+    {
+      "id": 141,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ إِيَاسِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي ذُبَابٍ، قَالَ قَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ ‏\"‏ لاَ تَضْرِبُوا إِمَاءَ اللَّهِ ‏\"‏ ‏.‏ فَجَاءَ عُمَرُ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ يَا رَسُولَ اللَّهِ قَدْ ذَئِرَ النِّسَاءُ عَلَى أَزْوَاجِهِنَّ فَأْمُرْ بِضَرْبِهِنَّ ‏.‏ فَضُرِبْنَ فَطَافَ بِآلِ مُحَمَّدٍ ـ صلى الله عليه وسلم ـ طَائِفُ نِسَاءٍ كَثِيرٍ فَلَمَّا أَصْبَحَ قَالَ ‏\"‏ لَقَدْ طَافَ اللَّيْلَةَ بِآلِ مُحَمَّدٍ سَبْعُونَ امْرَأَةً كُلُّ امْرَأَةٍ تَشْتَكِي زَوْجَهَا فَلاَ تَجِدُونَ أُولَئِكَ خِيَارَكُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Iyas bin 'Abdullah bin Abu Dhubab said:",
+        "text": "\"The Prophet said: 'Do not beat the female slaves of Allah.' Then 'Umar came to the Prophet and said: 'O Messenger of Allah, the woman have become bold towards their husbands? So order the beatin g of them,' and they were beaten. Then many women went around to the family of Muhammad,. The next day he said: 'Last night seventy women came to the family of Muhammad, each woman complaining about her husband. You will not find that those are the best of you.' \""
+      }
+    },
+    {
+      "id": 142,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، وَالْحَسَنُ بْنُ مُدْرِكٍ الطَّحَّانُ، قَالاَ حَدَّثَنَا يَحْيَى بْنُ حَمَّادٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ دَاوُدَ بْنِ عَبْدِ اللَّهِ الأَوْدِيِّ، عَنْ عَبْدِ الرَّحْمَنِ الْمُسْلِيِّ، عَنِ الأَشْعَثِ بْنِ قَيْسٍ، قَالَ ضِفْتُ عُمَرَ لَيْلَةً فَلَمَّا كَانَ فِي جَوْفِ اللَّيْلِ قَامَ إِلَى امْرَأَتِهِ يَضْرِبُهَا فَحَجَزْتُ بَيْنَهُمَا فَلَمَّا أَوَى إِلَى فِرَاشِهِ قَالَ لِي يَا أَشْعَثُ احْفَظْ عَنِّي شَيْئًا سَمِعْتُهُ مِنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ لاَ يُسْأَلُ الرَّجُلُ فِيمَ يَضْرِبُ امْرَأَتَهُ وَلاَ تَنَمْ إِلاَّ عَلَى وِتْرٍ ‏\"‏ ‏.‏ وَنَسِيتُ الثَّالِثَةَ ‏.‏ \n حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدِ بْنِ خِدَاشٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا أَبُو عَوَانَةَ، بِإِسْنَادِهِ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ash'ath bin Qais said:",
+        "text": "\"I was a guest (at the home) of 'Umar one night, and in the middle of the night he went and hit his wife, and I separated them. When he went to bed he said to me: 'O Ash'ath, learn from me something that I heard from the Messenger of Allah\" A man should not be asked why he beats his wife, and do not go to sleep until you have prayed the Witr.\"' And I forgot the third thing.\""
+      }
+    },
+    {
+      "id": 143,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، وَأَبُو أُسَامَةَ عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ أَنَّهُ لَعَنَ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that:",
+        "text": "the Prophet cursed the woman who does hair extensions and the one who has that done, and the woman who does tattoos and the one who has that done."
+      }
+    },
+    {
+      "id": 144,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ فَاطِمَةَ، عَنْ أَسْمَاءَ، قَالَتْ جَاءَتِ امْرَأَةٌ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَتْ إِنَّ ابْنَتِي عُرَيِّسٌ وَقَدْ أَصَابَتْهَا الْحَصْبَةُ فَتَمَرَّقَ شَعْرُهَا ‏.‏ فَأَصِلُ لَهَا فِيهِ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ لَعَنَ اللَّهُ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Asma' said:",
+        "text": "\"A woman came to the Prophet and said:, My daughter is going to get married, and she had the measles and her hair has fallen out. Can I put extensions in her hair?, The Messenger of Allah said: ‘Allah has cursed the one who does hair extensions and the one who has that done.'\""
+      }
+    },
+    {
+      "id": 145,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو عُمَرَ، حَفْصُ بْنُ عَمْرٍو وَعَبْدُ الرَّحْمَنِ بْنُ عُمَرَ قَالاَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ لَعَنَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ الْوَاشِمَاتِ وَالْمُسْتَوْشِمَاتِ وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ الْمُغَيِّرَاتِ لِخَلْقِ اللَّهِ ‏.‏ فَبَلَغَ ذَلِكَ امْرَأَةً مِنْ بَنِي أَسَدٍ يُقَالُ لَهَا أُمُّ يَعْقُوبَ فَجَاءَتْ إِلَيْهِ فَقَالَتْ بَلَغَنِي عَنْكَ أَنَّكَ قُلْتَ كَيْتَ وَكَيْتَ ‏.‏ قَالَ وَمَالِي لاَ أَلْعَنُ مَنْ لَعَنَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ وَهُوَ فِي كِتَابِ اللَّهِ قَالَتْ إِنِّي لأَقْرَأُ مَا بَيْنَ لَوْحَيْهِ فَمَا وَجَدْتُهُ ‏.‏ قَالَ إِنْ كُنْتِ قَرَأْتِهِ فَقَدْ وَجَدْتِهِ أَمَا قَرَأْتِ ‏{وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا}‏ قَالَتْ بَلَى ‏.‏ قَالَ فَإِنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَدْ نَهَى عَنْهُ ‏.‏ قَالَتْ فَإِنِّي لأَظُنُّ أَهْلَكَ يَفْعَلُونَ ‏.‏ قَالَ اذْهَبِي فَانْظُرِي ‏.‏ فَذَهَبَتْ فَنَظَرَتْ فَلَمْ تَرَ مِنْ حَاجَتِهَا شَيْئًا ‏.‏ قَالَتْ مَا رَأَيْتُ شَيْئًا ‏.‏ قَالَ عَبْدُ اللَّهِ لَوْ كَانَتْ كَمَا تَقُولِينَ مَا جَامَعَتْنَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdulleh said:",
+        "text": "\"The Messenger of Allah cursed the woman who does tattoos and the one who has them done, and those who pluck their eyebrows and file their teeth for the purpose of beautification, and those who change the creation of Allah.\" News of that reached a woman of Banu Asad who was called Umm Ya'qub. She came to him and said: \"I have heard that you said such and such.\" He said: 'Why should I not curse those whom the Messenger of Allah cursed ? And it is in the Book of Allah.'' She said: \"I read what is between its two covers 'and I have not found that.\" He said: \"If you read it properly you would have found it. Have you not read the words: 'And whatsoever the Messenger (Muhammad) gives you, take it; and whatsoever he forbids you, abstain (from it).'?\" She said: \"Of course.\" He said: 'The Messenger of Allah forbade that.\" She said: 'I think that your wife does it.' He said: \" Go and look.\" So she went and looked and she did not see what she wanted. She said: \"I have not seen anything!’ 'Abdullah said: \"If she was as you say, I would not have kept her with me. \""
+      }
+    },
+    {
+      "id": 146,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، ح وَحَدَّثَنَا أَبُو بِشْرٍ، بَكْرُ بْنُ خَلَفٍ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، جَمِيعًا عَنْ سُفْيَانَ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ تَزَوَّجَنِي النَّبِيُّ ـ صلى الله عليه وسلم ـ فِي شَوَّالٍ وَبَنَى بِي فِي شَوَّالٍ ‏.‏ فَأَىُّ نِسَائِهِ كَانَ أَحْظَى عِنْدَهُ مِنِّي ‏.‏ وَكَانَتْ عَائِشَةُ تَسْتَحِبُّ أَنْ تُدْخِلَ نِسَاءَهَا فِي شَوَّالٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"The Prophet, married me in Shawwal, and he consummated the marriage with me in Shawwal, and which of his wives was more favored to him than I.\" 'Airhuh used to like marriage to be consummated with her female relatives in Shawwal."
+      }
+    },
+    {
+      "id": 147,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَسْوَدُ بْنُ عَامِرٍ، حَدَّثَنَا زُهَيْرٌ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ الْمَلِكِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، عَنْ أَبِيهِ ـ رضي الله عنه ـ أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ تَزَوَّجَ أُمَّ سَلَمَةَ فِي شَوَّالٍ وَجَمَعَهَا إِلَيْهِ فِي شَوَّالٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdul-Malik bin Harith bin Hisham, from his father, that:",
+        "text": "the Prophet married Umm Salamah in Shawwal, and consummated the marriage with her in Shawwal."
+      }
+    },
+    {
+      "id": 148,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا الْهَيْثَمُ بْنُ جَمِيلٍ، حَدَّثَنَا شَرِيكٌ، عَنْ مَنْصُورٍ، - أَظُنُّهُ - عَنْ طَلْحَةَ، عَنْ خَيْثَمَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَمَرَهَا أَنْ تُدْخِلَ عَلَى رَجُلٍ امْرَأَتَهُ قَبْلَ أَنْ يُعْطِيَهَا شَيْئًا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that:",
+        "text": "the Messenger of Allah told her to take a woman to her husband before he had given her anything (i.e. bridal-money). (Da' if)"
+      }
+    },
+    {
+      "id": 149,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنِي سُلَيْمَانُ بْنُ سُلَيْمٍ الْكَلْبِيُّ، عَنْ يَحْيَى بْنِ جَابِرٍ، عَنْ حَكِيمِ بْنِ مُعَاوِيَةَ، عَنْ عَمِّهِ، مِخْمَرِ بْنِ مُعَاوِيَةَ قَالَ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ لاَ شُؤْمَ وَقَدْ يَكُونُ الْيُمْنُ فِي ثَلاَثَةٍ فِي الْمَرْأَةِ وَالْفَرَسِ وَالدَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Hakim bin Mu'awiyah that his paternal uncle Mikhmar bin Mu'awiyah said:",
+        "text": "\"I heard the Messenger of Allah say: 'Do not believe in omens, and good fortune is only to be found in three things: A woman, a horse and a house.\"'"
+      }
+    },
+    {
+      "id": 150,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ عَاصِمٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نَافِعٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ إِنْ كَانَ فَفِي الْفَرَسِ وَالْمَرْأَةِ وَالْمَسْكَنِ ‏\"‏ ‏.‏ يَعْنِي الشُّؤْمَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Sahl bin Sa'd that:",
+        "text": "the Messenger of Allah said: \"If  it exists, it is in three things: a horse, and woman and a house,\" meaning omens."
+      }
+    },
+    {
+      "id": 151,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ خَلَفٍ أَبُو سَلَمَةَ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ إِسْحَاقَ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ الشُّؤْمُ فِي ثَلاَثَةٍ فِي الْفَرَسِ وَالْمَرْأَةِ وَالدَّارِ ‏\"‏ ‏.‏ \n قَالَ الزُّهْرِيُّ فَحَدَّثَنِي أَبُو عُبَيْدَةَ بْنُ عَبْدِ اللَّهِ بْنِ زَمْعَةَ، أَنَّ جَدَّتَهُ، زَيْنَبَ حَدَّثَتْهُ عَنْ أُمِّ سَلَمَةَ، أَنَّهَا كَانَتْ تَعُدُّ هَؤُلاَءِ الثَّلاَثَةَ وَتَزِيدُ مَعَهُنَّ السَّيْفَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Salim, from his father, that:",
+        "text": "the Messenger of Allah said: \"Omens are only to be found in three things: a horse, a woman and a house.\" (Sahih)(One of the narrators) Az-Zuhri said: \" Abu 'Ubaidah bin 'Abdullah bin Zam'ah said that his mother, Zainab, narrated to him, from Umm Salamah, that she used to list these three, and add to them \"the sword.\""
+      }
+    },
+    {
+      "id": 152,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وَكِيعٌ، عَنْ شَيْبَانَ أَبِي مُعَاوِيَةَ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَهْمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مِنَ الْغَيْرَةِ مَا يُحِبُّ اللَّهُ وَمِنْهَا مَا يَكْرَهُ اللَّهُ فَأَمَّا مَا يُحِبُّ فَالْغَيْرَةُ فِي الرِّيبَةِ وَأَمَّا مَا يَكْرَهُ فَالْغَيْرَةُ فِي غَيْرِ رِيبَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "the Messenger of Allah said: \"There is a kind of protective jealousy that Allah loves and a kind that Allah hates. As for that which Allah loves, it is protective jealousy when there are grounds for suspicion. And as for that which He hates, it is protective jealousy when there are no grounds for suspicion.\""
+      }
+    },
+    {
+      "id": 153,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ مَا غِرْتُ عَلَى امْرَأَةٍ قَطُّ مَا غِرْتُ عَلَى خَدِيجَةَ مِمَّا رَأَيْتُ مِنْ ذِكْرِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ لَهَا وَلَقَدْ أَمَرَهُ رَبُّهُ أَنْ يُبَشِّرَهَا بِبَيْتٍ فِي الْجَنَّةِ مِنْ قَصَبٍ ‏.‏ يَعْنِي مِنْ ذَهَبٍ قَالَهُ ابْنُ مَاجَهْ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I never felt as jealous of any woman as I did of Khadijah, because I saw how the Messenger of Allah remembered her, and his Lord had told him to give her the glad tidings of a house in Paradise made of Qasab.\""
+      }
+    },
+    {
+      "id": 154,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عِيسَى بْنُ حَمَّادٍ الْمِصْرِيُّ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي مُلَيْكَةَ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ وَهُوَ عَلَى الْمِنْبَرِ يَقُولُ ‏\n\"‏ إِنَّ بَنِي هِشَامِ بْنِ الْمُغِيرَةِ اسْتَأْذَنُونِي أَنْ يُنْكِحُوا ابْنَتَهُمْ عَلِيَّ بْنَ أَبِي طَالِبٍ فَلاَ آذَنُ لَهُمْ ثُمَّ لاَ آذَنُ لَهُمْ ثُمَّ لاَ آذَنُ لَهُمْ إِلاَّ أَنْ يُرِيدَ عَلِيُّ بْنُ أَبِي طَالِبٍ أَنْ يُطَلِّقَ ابْنَتِي وَيَنْكِحَ ابْنَتَهُمْ فَإِنَّمَا هِيَ بَضْعَةٌ مِنِّي يَرِيبُنِي مَا رَابَهَا وَيُؤْذِينِي مَا آذَاهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Mishwar bin Makhramah said:",
+        "text": "\"I heard the Messenger of Allah when he was on the pulpit, say: 'Banu Hisham bin Mughirah asked me for permission to marry their daughter to 'Ali bin Abu Talib, but I will not give them permission, and I will not give them permission, and I will not give them permission, unless 'Ali bin Abu Talib wants to divorce my daughter and marry their daughter, for she is a part of me, and what bothers her bothers me, and what upsets her upsets me.\""
+      }
+    },
+    {
+      "id": 155,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا أَبُو الْيَمَانِ، أَنْبَأَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي عَلِيُّ بْنُ الْحُسَيْنِ، أَنَّ الْمِسْوَرَ بْنَ مَخْرَمَةَ، أَخْبَرَهُ أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ خَطَبَ بِنْتَ أَبِي جَهْلٍ وَعِنْدَهُ فَاطِمَةُ بِنْتُ النَّبِيِّ ـ صلى الله عليه وسلم ـ فَلَمَّا سَمِعَتْ بِذَلِكَ، فَاطِمَةُ أَتَتِ النَّبِيَّ ـ صلى الله عليه وسلم ـ فَقَالَتْ إِنَّ قَوْمَكَ يَتَحَدَّثُونَ أَنَّكَ لاَ تَغْضَبُ لِبَنَاتِكَ وَهَذَا عَلِيٌّ نَاكِحًا ابْنَةَ أَبِي جَهْلٍ ‏.‏ قَالَ الْمِسْوَرُ فَقَامَ النَّبِيُّ ـ صلى الله عليه وسلم ـ فَسَمِعْتُهُ حِينَ تَشَهَّدَ ثُمَّ قَالَ ‏\n\"‏ أَمَّا بَعْدُ فَإِنِّي قَدْ أَنْكَحْتُ أَبَا الْعَاصِ بْنَ الرَّبِيعِ فَحَدَّثَنِي فَصَدَقَنِي وَإِنَّ فَاطِمَةَ بِنْتَ مُحَمَّدٍ بَضْعَةٌ مِنِّي وَأَنَا أَكْرَهُ أَنْ تَفْتِنُوهَا وَإِنَّهَا وَاللَّهِ لاَ تَجْتَمِعُ بِنْتُ رَسُولِ اللَّهِ وَبِنْتُ عَدُوِّ اللَّهِ عِنْدَ رَجُلٍ وَاحِدٍ أَبَدًا ‏\"‏ ‏.‏ قَالَ فَنَزَلَ عَلِيٌّ عَنِ الْخِطْبَةِ ‏.‏",
+      "english": {
+        "narrator": "'Ali bin Husain said that Miswar bin Makhramah told him that:",
+        "text": "'Ali bin Abu Talib proposed to the daughter of Abu Jahl, when he was married to Fatimah the daughter of the Prophet. When Fatimah heard of that she went to the Prophet, and said: \"Your people are saying that you do not feel angry for your daughters. This 'Ali is going to marry the daughter of Abu Jahl.\" Miswar said: \"The Prophet stood up, and I heard him when he bore witness (i.e., said the Shahadah), then he said: 'I married my daughter (Zainab) to Abul-As bin Rabi', and he spoke to me and was speaking the truth. Fatimah bint Muhammad is a part of me, and I hate to see her faced with troubles. By Allah, the daughter of the Messenger of Allah and the daughter of the enemy of Allah will never be joined together in marriage to one man.\" He said: So, 'Ali abandoned the marriage proposal."
+      }
+    },
+    {
+      "id": 156,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّهَا كَانَتْ تَقُولُ أَمَا تَسْتَحِي الْمَرْأَةُ أَنْ تَهَبَ نَفْسَهَا لِلنَّبِيِّ ـ صلى الله عليه وسلم ـ حَتَّى أَنْزَلَ اللَّهُ ‏{تُرْجِي مَنْ تَشَاءُ مِنْهُنَّ وَتُؤْوِي إِلَيْكَ مَنْ تَشَاءُ}‏ ‏.‏ قَالَتْ فَقُلْتُ إِنَّ رَبَّكَ لَيُسَارِعُ فِي هَوَاكَ ‏.‏",
+      "english": {
+        "narrator": "It 'was narrated from Hisham bin 'Urwah, from his father that 'Aishah used to say:",
+        "text": "\"Wouldn't a woman feel too shy to offer herself to the Prophet?\" Until Aileh revealed; \"You (O Muhammad) can postpone (the turn of) whom you will of them (your wives), and you may receive whom you will.” She said: \"Then I said: 'Your Lord is quick to make things easy for you.\"'"
+      }
+    },
+    {
+      "id": 157,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بِشْرٍ، بَكْرُ بْنُ خَلَفٍ وَمُحَمَّدُ بْنُ بَشَّارٍ قَالاَ حَدَّثَنَا مَرْحُومُ بْنُ عَبْدِ الْعَزِيزِ، حَدَّثَنَا ثَابِتٌ، قَالَ كُنَّا جُلُوسًا مَعَ أَنَسِ بْنِ مَالِكٍ وَعِنْدَهُ ابْنَةٌ لَهُ فَقَالَ أَنَسٌ جَاءَتِ امْرَأَةٌ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَعَرَضَتْ نَفْسَهَا عَلَيْهِ ‏.‏ فَقَالَتْ يَا رَسُولَ اللَّهِ هَلْ لَكَ فِيَّ حَاجَةٌ فَقَالَتِ ابْنَتُهُ مَا أَقَلَّ حَيَاءَهَا ‏.‏ فَقَالَ هِيَ خَيْرٌ مِنْكِ رَغِبَتْ فِي رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَعَرَضَتْ نَفْسَهَا عَلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "Thabit said:",
+        "text": "“We were sitting with Anas bin Mahk, and a daughter of his was with him. Anas said: 'A woman came to the Prophet and offered herself to him. She said: \" O Messenger of Allah, do you have any need of me?\"' His daughter said: 'How little modesty she had!' He said: 'She was better than you, because she wanted (to marry) the Messenger of Allah, and she offered herself to him. \""
+      }
+    },
+    {
+      "id": 158,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الصَّبَّاحِ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ جَاءَ رَجُلٌ مِنْ بَنِي فَزَارَةَ إِلَى رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ امْرَأَتِي وَلَدَتْ غُلاَمًا أَسْوَدَ ‏.‏ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\"‏ هَلْ لَكَ مِنْ إِبِلٍ ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏\"‏ فَمَا أَلْوَانُهَا ‏\"‏ ‏.‏ قَالَ حُمْرٌ ‏.‏ قَالَ ‏\"‏ هَلْ فِيهَا مِنْ أَوْرَقَ ‏\"‏ ‏.‏ قَالَ إِنَّ فِيهَا لَوُرْقًا ‏.‏ قَالَ ‏\"‏ فَأَنَّى أَتَاهَا ذَلِكَ ‏\"‏ ‏.‏ قَالَ عَسَى عِرْقٌ نَزَعَهَا ‏.‏ قَالَ ‏\"‏ وَهَذَا لَعَلَّ عِرْقًا نَزَعَهُ ‏\"‏ ‏.‏ وَاللَّفْظُ لاِبْنِ الصَّبَّاحِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"A man from Banu Fazdrah came to the Messenger of Allah, and said: 'O Messenger of Allah, my wife has given birth to a black boy! The Messenger of Allah said: 'Do you have camels?' He said: 'Yes.' He said: 'What color are they?' He said: 'Red.' He said: 'Are there any grey ones among them?' He said: 'Yes, there are some grey ones among them.' He said: 'Where does that come from?' He said: 'Perhaps it is hereditary.' He said: 'Likewise, perhaps this is hereditary! \""
+      }
+    },
+    {
+      "id": 159,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا عَبَاءَةُ بْنُ كُلَيْبٍ اللَّيْثِيُّ أَبُو غَسَّانَ، عَنْ جُوَيْرِيَةَ بْنِ أَسْمَاءَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، ‏.‏ أَنَّ رَجُلاً، مِنْ أَهْلِ الْبَادِيَةِ أَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ امْرَأَتِي وَلَدَتْ عَلَى فِرَاشِي غُلاَمًا أَسْوَدَ وَإِنَّا أَهْلُ بَيْتٍ لَمْ يَكُنْ فِينَا أَسْوَدُ قَطُّ ‏.‏ قَالَ ‏\"‏ هَلْ لَكَ مِنَ إِبِلٍ ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏\"‏ فَمَا أَلْوَانُهَا ‏\"‏ ‏.‏ قَالَ حُمْرٌ ‏.‏ قَالَ ‏\"‏ هَلْ فِيهَا أَسْوَدُ ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ قَالَ ‏\"‏ فَهَلْ فِيهَا أَوْرَقُ ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏\"‏ فَأَنَّى كَانَ ذَلِكَ ‏\"‏ ‏.‏ قَالَ عَسَى أَنْ يَكُونَ نَزَعَهُ عِرْقٌ ‏.‏ قَالَ ‏\"‏ فَلَعَلَّ ابْنَكَ هَذَا نَزَعَهُ عِرْقٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that:",
+        "text": "a man frorn the desert people came to the Prophet and said: \"O Messenger of Allah, my wife has given birth on  my bed to a black boy, and there are no black people among my family.\" He said: \"Do you have camels?\" He said: \"Yes.\" He said: \"What color are they?\" He said: \"Red.\" He said: are there any black ones among them?\" He said, \"No.\" He said: \"Are there any grey ones among them?\" He said- \"Yes.\" He said \"How is that?\" He said: \"Perhaps it is hereditary.\" He said: \"Perhaps (the color of) this son of yours is also hereditary.\""
+      }
+    },
+    {
+      "id": 160,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ إِنَّ عَبْدَ بْنَ زَمْعَةَ وَسَعْدًا اخْتَصَمَا إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فِي ابْنِ أَمَةِ زَمْعَةَ ‏.‏ فَقَالَ سَعْدٌ يَا رَسُولَ اللَّهِ أَوْصَانِي أَخِي إِذَا قَدِمْتُ مَكَّةَ أَنْ أَنْظُرَ إِلَى ابْنِ أَمَةِ زَمْعَةَ فَأَقْبِضَهُ ‏.‏ وَقَالَ عَبْدُ بْنُ زَمْعَةَ أَخِي وَابْنُ أَمَةِ أَبِي وُلِدَ عَلَى فِرَاشِ أَبِي ‏.‏ فَرَأَى النَّبِيُّ ـ صلى الله عليه وسلم ـ شَبَهَهُ بِعُتْبَةَ فَقَالَ ‏\n\"‏ هُوَ لَكَ يَا عَبْدُ بْنُ زَمْعَةَ ‏.‏ الْوَلَدُ لِلْفِرَاشِ وَاحْتَجِبِي عَنْهُ يَا سَوْدَةُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "Ibn Zam'ah and\nSa'd (Ibn Abu Waqqas) referred a dispute to the Prophet concerning the son of Zam'ah's slave woman. Sa'd said : \" O Messenger of Allah my brother (Utbah bin Abu Waqqas) left instructions in his will that when I come to Makkah, I should look for the son of the slave woman of Zam'ah and take him into my care.\" 'Abd bin Zam’ah said: \"He is my brother and the son of the slave woman of my father; he was born on my father's bed.\" The Prophet ffi saw that he resembled 'Utbah, and said: \"He belongs to you, O 'Abd bin Zam'ah. The child is for the bed. Observe Hijab before him, O Saudah.\" (sahih)"
+      }
+    },
+    {
+      "id": 161,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي يَزِيدَ، عَنْ أَبِيهِ، عَنْ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَضَى بِالْوَلَدِ لِلْفِرَاشِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Umar that:",
+        "text": "the Messenger of Allah ruled that the child belonged to the bed."
+      }
+    },
+    {
+      "id": 162,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ الْوَلَدُ لِلْفِرَاشِ ‏.‏ وَلِلْعَاهِرِ الْحَجَرُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that:",
+        "text": "the Prophet said: \"The child is for the bed (i.e., belongs to the husband) and the fornicator gets nothing!'"
+      }
+    },
+    {
+      "id": 163,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا شُرَحْبِيلُ بْنُ مُسْلِمٍ، قَالَ سَمِعْتُ أَبَا أُمَامَةَ الْبَاهِلِيَّ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ الْوَلَدُ لِلْفِرَاشِ وَلِلْعَاهِرِ الْحَجَرُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Shurahbil bin Muslim said:",
+        "text": "\"I heard Abu Um Amah Al-Bahili say: 'I heard the Messenger of Allah say: \"The child is for the bed and the fornicator gets nothing.\""
+      }
+    },
+    {
+      "id": 164,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، حَدَّثَنَا حَفْصُ بْنُ جُمَيْعٍ، حَدَّثَنَا سِمَاكٌ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ امْرَأَةً، جَاءَتْ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَأَسْلَمَتْ ‏.‏ فَتَزَوَّجَهَا رَجُلٌ ‏.‏ قَالَ فَجَاءَ زَوْجُهَا الأَوَّلُ فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي قَدْ كُنْتُ أَسْلَمْتُ مَعَهَا وَعَلِمَتْ بِإِسْلاَمِي ‏.‏ قَالَ فَانْتَزَعَهَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ مِنْ زَوْجِهَا الآخَرِ وَرَدَّهَا إِلَى زَوْجِهَا الأَوَّلِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas that:",
+        "text": "a woman came to the Prophet and became Muslim, and a man married her. Then her first husband came and said: \"O Messenger of Allah, I became Muslim with her, and she knew that I was Muslim.\" So the Messenger of Allah took her away from her second husband and returned her to her first husband."
+      }
+    },
+    {
+      "id": 165,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ خَلاَّدٍ، وَيَحْيَى بْنُ حَكِيمٍ، قَالاَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ رَدَّ ابْنَتَهُ عَلَى أَبِي الْعَاصِ بْنِ الرَّبِيعِ بَعْدَ سَنَتَيْنِ بِنِكَاحِهَا الأَوَّلِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas that:",
+        "text": "the Messenger of Allah returned his daughter to Abul-'As bin Rabi' after two years, on the basis of the first marriage contract."
+      }
+    },
+    {
+      "id": 166,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنْ حَجَّاجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ رَدَّ ابْنَتَهُ زَيْنَبَ عَلَى أَبِي الْعَاصِ بْنِ الرَّبِيعِ بِنِكَاحٍ جَدِيدٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Amr bin Shu'aib, from his father, from his grand father, that:",
+        "text": "the Messenger of Allah, returned his daughter Zainab to Abul-As bin Rabi', with a new marriage contract."
+      }
+    },
+    {
+      "id": 167,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ إِسْحَاقَ، حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ الْقُرَشِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، عَنْ جُدَامَةَ بِنْتِ وَهْبٍ الأَسَدِيَّةِ، أَنَّهَا قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\"‏ قَدْ أَرَدْتُ أَنْ أَنْهَى عَنِ الْغِيَالِ فَإِذَا فَارِسُ وَالرُّومُ يُغِيلُونَ فَلاَ يَقْتُلُونَ أَوْلاَدَهُمْ ‏\"‏ ‏.‏ وَسَمِعْتُهُ يَقُولُ وَسُئِلَ عَنِ الْعَزْلِ فَقَالَ ‏\"‏ هُوَ الْوَأْدُ الْخَفِيُّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Judamah bint Wahb Al-Asadiyyah said:",
+        "text": "\"I heard the Messenger of Allah say: 'I wanted to forbid intercourse with a nursing mother, but then (I saw that) the Persians and the Romans do this, and it does not kill their children.'  And I heard him say/when he was asked about coitus interruptus: 'It is the disguised form of b.rryirg children alive.\""
+      }
+    },
+    {
+      "id": 168,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، عَنْ عَمْرِو بْنِ مُهَاجِرٍ، أَنَّهُ سَمِعَ أَبَاهُ الْمُهَاجِرَ بْنَ أَبِي مُسْلِمٍ، يُحَدِّثُ عَنْ أَسْمَاءَ بِنْتِ يَزِيدَ بْنِ السَّكَنِ، وَكَانَتْ، مَوْلاَتَهُ أَنَّهَا سَمِعَتْ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ لاَ تَقْتُلُوا أَوْلاَدَكُمْ سِرًّا فَوَالَّذِي نَفْسِي بِيَدِهِ إِنَّ الْغَيْلَ لَيُدْرِكُ الْفَارِسَ عَلَى ظَهْرِ فَرَسِهِ حَتَّى يَصْرَعَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Muhajir bin Abu Muslim, from Asma' bint Yazid bin Sakary who was his freed slave womary that:",
+        "text": "she heard the Messenger of Allah say: \"Do not kill your children secretly, for by the One in Whose Hand is my soul, intercourse with a breastfeeding woman catches up with people when they are riding their horses (in battle) and wrestles them to the ground.\""
+      }
+    },
+    {
+      "id": 169,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُؤَمَّلٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ أَبِي أُمَامَةَ، قَالَ أَتَتِ النَّبِيَّ ـ صلى الله عليه وسلم ـ امْرَأَةٌ مَعَهَا صَبِيَّانِ لَهَا قَدْ حَمَلَتْ أَحَدَهُمَا وَهِيَ تَقُودُ الآخَرَ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ حَامِلاَتٌ وَالِدَاتٌ رَحِيمَاتٌ لَوْلاَ مَا يَأْتِينَ إِلَى أَزْوَاجِهِنَّ دَخَلَ مُصَلِّيَاتُهُنَّ الْجَنَّةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Umamah said:",
+        "text": "\"A woman came to the Prophet with two of her children, carrying one and leading the other. The Messenger of Allah said: 'They carry children and give birth to them and are compassionate. If they do not annoy their husbands, those among them who perform prayer will enter Paradise.\"'"
+      }
+    },
+    {
+      "id": 170,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ الضَّحَّاكِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ بَحِيرِ بْنِ سَعْدٍ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ كَثِيرِ بْنِ مُرَّةَ، عَنْ مُعَاذِ بْنِ جَبَلٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ لاَ تُؤْذِي امْرَأَةٌ زَوْجَهَا إِلاَّ قَالَتْ زَوْجَتُهُ مِنَ الْحُورِ الْعِينِ لاَ تُؤْذِيهِ قَاتَلَكِ اللَّهُ فَإِنَّمَا هُوَ عِنْدَكِ دَخِيلٌ أَوْشَكَ أَنْ يُفَارِقَكِ إِلَيْنَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Mu'adh bin Jabal that:",
+        "text": "the Messenger of Allah said: \"No woman annoys her husband but his wife among houris (of Paradise) safs: 'Do not annoy him, may Allah destroy you, for he is just a temporary guest with you and soon he will leave you and join us.\"'"
+      }
+    },
+    {
+      "id": 171,
+      "chapterId": 9,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ مُعَلَّى بْنِ مَنْصُورٍ، حَدَّثَنَا إِسْحَاقُ بْنُ مُحَمَّدٍ الْفَرْوِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ لاَ يُحَرِّمُ الْحَرَامُ الْحَلاَلَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar that:",
+        "text": "the Prophet, said: \"What is Haram does not make what is Halal into what is Haram.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 10,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، وَعَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ زُرَارَةَ، وَمَسْرُوقُ بْنُ الْمَرْزُبَانِ، قَالُوا حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ صَالِحِ بْنِ صَالِحِ بْنِ حَىٍّ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، ‏.‏ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ طَلَّقَ حَفْصَةَ ثُمَّ رَاجَعَهَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Umar bin Khattab that:",
+        "text": "the Messenger of Allah divorced Hafsah then took her back."
+      }
+    }
+  ]
+}

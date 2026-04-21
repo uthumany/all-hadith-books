@@ -1,0 +1,16 @@
+{
+  "id": 37,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنِ الزُّهْرِيِّ مُرْسَلًا عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مِنْ احْتَجَمَ يَوْمَ الْأَرْبِعَاءِ أَوْ يَوْمَ السَّبْتِ فَأَصَابَهُ وَضَحٌ فَلَا يَلُومَنَّ إِلَّا نَفْسَهُ» . رَوَاهُ أَحْمَدُ وَأَبُو دَاوُدَ وَقَالَ: وَقَدْ أسْند وَلَا يَصح",
+  "english": {
+    "narrator": "Zuhri reported in mursal form that the Prophet said:",
+    "text": "“If anyone has himself cupped on a Wednesday or a Saturday and is smitten by leprosy, he must blame no one but himself .” \n\nAhmad and Abu Dawud transmitted it. \nIt has been given an isnad, but Abu Dawud said that that is not sound;"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

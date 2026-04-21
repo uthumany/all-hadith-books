@@ -1,0 +1,16 @@
+{
+  "id": 41060,
+  "chapterId": 1,
+  "bookId": 17,
+  "arabic": "خَیْرُ الْأُمُوْرِ أَوْسَطُهَا",
+  "english": {
+    "narrator": "",
+    "text": "The best of affairs is that which is balanced."
+  },
+  "book": {
+    "id": 17,
+    "name": "The Forty Hadith of Shah Waliullah",
+    "arabic": "أربعون الشاه ولي الله",
+    "slug": "waliullah-40"
+  }
+}

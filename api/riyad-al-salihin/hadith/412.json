@@ -1,0 +1,16 @@
+{
+  "id": 412,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عبادة بن الصامت، رضي الله عنه ، قال‏:‏ قال رسول الله، صلى الله عليه وسلم‏:‏ ‏\"‏من شهد أن لا إله إلا الله وحده لا شريك له، وأن محمداً عبده ورسوله، وأن عيسى عبد الله ورسوله، وكلمته ألقاها إلى مريم وروح منه، وأن الجنة حق والنار حق، أدخله الله الجنة على ما كان من العمل‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ وفي رواية لمسلم‏:‏‏\"‏من شهد أن لا إله إلا الله، وأن محمداً رسول الله، حرم عليه النار‏\"‏‏.‏",
+  "english": {
+    "narrator": "'Ubadah bin As-Samit (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"He who bears witness that there is no true god except Allah, alone having no partner with Him, that Muhammad is His slave and His Messenger, that 'Isa (Jesus) is His slave and Messenger and he (Jesus) is His Word which He communicated to Maryam (Mary) and His spirit which He sent to her, that Jannah is true and Hell is true; Allah will make him enter Jannah accepting whatever deeds he accomplished\"..Another narration in Muslim is: the Messenger of Allah (ﷺ) said, \"Whosoever testifies that there is no true god except Allah and that Muhammad is the Messenger of Allah, Allah (SWT) saves him from the Fire (of Hell)\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

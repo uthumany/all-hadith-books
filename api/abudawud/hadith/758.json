@@ -1,0 +1,16 @@
+{
+  "id": 758,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ جُرَيْجٍ، عَنِ الْحَسَنِ بْنِ مُسْلِمٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى الْعِيدَ بِلاَ أَذَانٍ وَلاَ إِقَامَةٍ وَأَبَا بَكْرٍ وَعُمَرَ أَوْ عُثْمَانَ شَكَّ يَحْيَى ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Abbas:",
+    "text": "The Messenger of Allah (ﷺ) offered the 'Id prayer without the adhan and the iqamah. AbuBakr and Umar or Uthman also did so. The narrator Yahya is doubtful about Uthman."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

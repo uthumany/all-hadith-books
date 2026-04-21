@@ -1,0 +1,16 @@
+{
+  "id": 474,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا حَوْثَرَةُ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ ثُمَّ أَبُو بَكْرٍ ثُمَّ عُمَرُ يُصَلُّونَ الْعِيدَ قَبْلَ الْخُطْبَةِ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Ibn ‘Umar said:",
+    "text": "“The Prophet (ﷺ), then Abu\nBakr,\nthen ‘Umar, used to pray the ‘Eid prayer before delivering the\nsermon.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

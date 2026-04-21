@@ -1,0 +1,16 @@
+{
+  "id": 15,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا يَنْظُرُ اَللَّهُ إِلَى مَنْ جَرَّ ثَوْبَهُ خُيَلَاءَ }  مُتَّفَقٌ عَلَيْهِ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (5783)‏، ومسلم (2085)‏ (42)‏.‏",
+  "english": {
+    "narrator": "Ibn Umar (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Allah will not look on the Day of Judgment at him who lets his garment drag on the ground out of pride and arrogance.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

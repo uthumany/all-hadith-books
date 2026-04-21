@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "bookId": 8,
+    "arabic": "مُسْنَدُ أَبِي بَكْرٍ الصِّدِّيقِ رَضِيَ اللَّهُ عَنْهُ",
+    "english": "Musnad Abu Bakr as-Siddiq (ra)",
+    "hadithsCount": 77
+  },
+  {
+    "id": 2,
+    "bookId": 8,
+    "arabic": "مُسْنَدِ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ",
+    "english": "Musnad `Umar b. al-Khattab (ra)",
+    "hadithsCount": 291
+  },
+  {
+    "id": 3,
+    "bookId": 8,
+    "arabic": "حَدِيثُ السَّقِيفَةِ",
+    "english": "The Hadeeth of Saqeefah",
+    "hadithsCount": 8
+  },
+  {
+    "id": 4,
+    "bookId": 8,
+    "arabic": "مُسْنَدُ عُثْمَانَ بْنِ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ",
+    "english": "Musnad Uthman ibn Affan",
+    "hadithsCount": 152
+  },
+  {
+    "id": 5,
+    "bookId": 8,
+    "arabic": "وَمِنْ مُسْنَدِ عَلِيِّ بْنِ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ",
+    "english": "Musnad 'Ali Ibn Abi Talib",
+    "hadithsCount": 778
+  },
+  {
+    "id": 6,
+    "bookId": 8,
+    "arabic": "مُسْنَدُ أَبِي مُحَمَّدٍ طَلْحَةَ بْنِ عُبَيْدِ اللَّهِ رَضِيَ اللَّهُ تَعَالَى عَنْهُ",
+    "english": "Musnad of Abu Muhammad Talhah bin 'Ubaidullah",
+    "hadithsCount": 22
+  },
+  {
+    "id": 7,
+    "bookId": 8,
+    "arabic": "مُسْنَدُ الزُّبَيْرِ بْنِ الْعَوَّامِ رَضِيَ اللَّهُ عَنْهُ",
+    "english": "The Musnad of az-Zubair bin al-'Awwam",
+    "hadithsCount": 31
+  },
+  {
+    "id": 31,
+    "bookId": 8,
+    "arabic": "حَدِيثُ أَبِي رِمْثَةَ عَنْ النَّبِيَّ رَضِيَ اللَّهُ عَنْهُ",
+    "english": "",
+    "hadithsCount": 15
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": 82,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ يُوسُفَ، قَالَ‏:‏ أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي النَّضْرِ، أَنَّ أَبَا مُرَّةَ مَوْلَى أُمِّ هَانِئِ ابْنَةِ أَبِي طَالِبٍ أَخْبَرَهُ، أَنَّهُ سَمِعَ أُمَّ هَانِئٍ تَقُولُ‏:‏ ذَهَبْتُ إِلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ يَغْتَسِلُ، فَسَلَّمْتُ عَلَيْهِ، فَقَالَ‏:‏ مَنْ هَذِهِ‏؟‏ قُلْتُ‏:‏ أُمُّ هَانِئٍ، قَالَ‏:‏ مَرْحَبًا‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Umm Hani', the daughter of Abu Talib, said, \"I went to the Prophet,\nmay Allah bless him and grant him peace, while he was performing a major\nablution. I greeted him and he asked, 'Who is this?' 'Umm Hani',' I replied.\nHe said, 'Welcome.'\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

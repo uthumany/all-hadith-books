@@ -1,0 +1,16 @@
+{
+  "id": 498,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَاصِمٍ، وَعَبْدَةَ، عَنْ زِرِّ بْنِ حُبَيْشٍ، قَالَ سَأَلْتُ أُبَىَّ بْنَ كَعْبٍ عَنِ الْمُعَوِّذَتَيْنِ، فَقَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ قِيلَ لِي فَقُلْتُ فَنَحْنُ نَقُولُ كَمَا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم‏.‏",
+  "english": {
+    "narrator": "Narrated Zirr bin Hubaish:",
+    "text": "I asked Ubai bin Ka`b regarding the two Muwwidhat (Surats of taking refuge with Allah). He said, \"I \nasked the Prophet (ﷺ) about them, He said, 'These two Surats have been recited to me and I have recited \nthem (and are present in the Qur'an).' So, we say as Allah's Messenger (ﷺ) said (i.e., they are part of the \nQur'an.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

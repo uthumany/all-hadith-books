@@ -1,0 +1,16 @@
+{
+  "id": 151,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ نَزَلَتْ هَذِهِ الآيَةُ ‏{‏وَلاَ تَجْهَرْ بِصَلاَتِكَ وَلاَ تُخَافِتْ بِهَا‏}‏ فِي الدُّعَاءِ‏.‏",
+  "english": {
+    "narrator": "Narrated `Aisha:",
+    "text": "The Verse:-- '(O Muhammad!) Neither say your prayer aloud nor say it in a low tone.' (17.110) was \nrevealed in connection with the invocations."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

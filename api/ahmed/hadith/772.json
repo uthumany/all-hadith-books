@@ -1,0 +1,16 @@
+{
+  "id": 772,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَفَّانُ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ سَلَمَةَ بْنِ أَبِي الطُّفَيْلِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَهُ يَا عَلِيُّ إِنَّ لَكَ كَنْزًا مِنْ الْجَنَّةِ وَإِنَّكَ ذُو قَرْنَيْهَا فَلَا تُتْبِعْ النَّظْرَةَ النَّظْرَةَ فَإِنَّمَا لَكَ الْأُولَى وَلَيْسَتْ لَكَ الْآخِرَةُ‏.‏",
+  "english": {
+    "narrator": "It was narrated from `Ali bin Abi Talib (رضي الله عنه) that The Prophet (ﷺ) said to him:",
+    "text": "“O `Ali, you have a treasure in Paradise and you are with two harns of this ummah. Do not follow one glance with another; you may be allowed the first but not the second.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

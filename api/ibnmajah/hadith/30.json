@@ -1,0 +1,16 @@
+{
+  "id": 30,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَسُوَيْدُ بْنُ سَعِيدٍ، وَعَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ زُرَارَةَ، وَإِسْمَاعِيلُ بْنُ مُوسَى، قَالُوا حَدَّثَنَا شَرِيكٌ، عَنْ سِمَاكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ كَذَبَ عَلَىَّ مُتَعَمِّدًا فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from 'Abdur-Rahman bin 'Abdullah bin Mas'ud that his father said:",
+    "text": "\"The Messenger of Allah (ﷺ) said: 'Whoever tells lies about me deliberately, let him take his place in Hell.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

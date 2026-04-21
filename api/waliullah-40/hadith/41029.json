@@ -1,0 +1,16 @@
+{
+  "id": 41029,
+  "chapterId": 1,
+  "bookId": 17,
+  "arabic": "الْمُسْتَشَارُ مُؤتَمَنٌ",
+  "english": {
+    "narrator": "",
+    "text": "Someone whose advice is sought is in a position of trust."
+  },
+  "book": {
+    "id": 17,
+    "name": "The Forty Hadith of Shah Waliullah",
+    "arabic": "أربعون الشاه ولي الله",
+    "slug": "waliullah-40"
+  }
+}

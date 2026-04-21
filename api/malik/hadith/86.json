@@ -1,0 +1,16 @@
+{
+  "id": 86,
+  "chapterId": 31,
+  "bookId": 7,
+  "arabic": "حَدَّثَنَا يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَطْلُ الْغَنِيِّ ظُلْمٌ وَإِذَا أُتْبِعَ أَحَدُكُمْ عَلَى مَلِيءٍ فَلْيَتْبَعْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Abu'z-Zinad from al Araj from\nAbu Hurayra that the Messenger of Allah, may Allah bless him and grant\nhim peace, said, \"Delay in payment by a rich man is injustice, but\nwhen one of you is referred for payment to a wealthy man, let him be\nreferred.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

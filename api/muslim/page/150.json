@@ -1,0 +1,100 @@
+{
+  "page": 150,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": null,
+  "prevPage": 149,
+  "items": [
+    {
+      "id": 83,
+      "chapterId": 0,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي عَمْرُو بْنُ عَلِيٍّ، وَحَسَنٌ الْحُلْوَانِيُّ، كِلاَهُمَا عَنْ عَفَّانَ بْنِ مُسْلِمٍ، قَالَ كُنَّا عِنْدَ إِسْمَاعِيلَ ابْنِ عُلَيَّةَ فَحَدَّثَ رَجُلٌ، عَنْ رَجُلٍ، فَقُلْتُ إِنَّ هَذَا لَيْسَ بِثَبْتٍ ‏.‏ قَالَ فَقَالَ الرَّجُلُ اغْتَبْتَهُ ‏.‏ قَالَ إِسْمَاعِيلُ مَا اغْتَابَهُ ‏.‏ وَلَكِنَّهُ حَكَمَ أَنَّهُ لَيْسَ بِثَبْتٍ ‏.‏",
+      "english": {
+        "narrator": "Amr bin Alī and Hasan al-Hulwānī narrated to me, both of them on authority of Affān bin Muslim, he said:",
+        "text": "‘We were near Ismā’īl bin Ulayyah, and a man narrated on authority of another man, so I said: ‘Indeed this is not reliable (Thabt)’. So the man said: ‘Are you backbiting him?’ Ismā’īl said: ‘He is not backbiting him; rather he is judging him unreliable’."
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 0,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو جَعْفَرٍ الدَّارِمِيُّ، حَدَّثَنَا بِشْرُ بْنُ عُمَرَ، قَالَ سَأَلْتُ مَالِكَ بْنَ أَنَسٍ عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ الَّذِي، يَرْوِي عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، فَقَالَ لَيْسَ بِثِقَةٍ ‏.‏ وَسَأَلْتُهُ عَنْ صَالِحٍ، مَوْلَى التَّوْأَمَةِ فَقَالَ لَيْسَ بِثِقَةٍ ‏.‏ وَسَأَلْتُهُ عَنْ أَبِي الْحُوَيْرِثِ فَقَالَ لَيْسَ بِثِقَةٍ ‏.‏ وَسَأَلْتُهُ عَنْ شُعْبَةَ الَّذِي رَوَى عَنْهُ ابْنُ أَبِي ذِئْبٍ فَقَالَ لَيْسَ بِثِقَةٍ ‏.‏ وَسَأَلْتُهُ عَنْ حَرَامِ بْنِ عُثْمَانَ فَقَالَ لَيْسَ بِثِقَةٍ ‏.‏ وَسَأَلْتُ مَالِكًا عَنْ هَؤُلاَءِ الْخَمْسَةِ فَقَالَ لَيْسُوا بِثِقَةٍ فِي حَدِيثِهِمْ ‏.‏ وَسَأَلْتُهُ عَنْ رَجُلٍ آخَرَ نَسِيتُ اسْمَهُ فَقَالَ هَلْ رَأَيْتَهُ فِي كُتُبِي قُلْتُ لاَ ‏.‏ قَالَ لَوْ كَانَ ثِقَةً لَرَأَيْتَهُ فِي كُتُبِي ‏.‏",
+      "english": {
+        "narrator": "Abū Ja’far ad-Dārimī narrated to us, Bishr bin Umar narrated to us, he said:",
+        "text": "‘I asked Mālik bin Anas about Muhammad bin Abd ar-Rahman who transmits on authority of Sa’īd bin al-Musayyib, so he said: ‘He is not trustworthy ‘. I asked him about Sālih, a freed slave of at-Taw’amah, then he said: ‘He is not trustworthy’. I asked him about Abūl-Huwayrith , and he said: ‘He is not trustworthy’. I asked him about Shu’bah on whose authority Ibn Abī Dhi’b transmitted, and he said: ‘He is not trustworthy’. I asked him about Harām bin Uthmān , and he said ‘He is not trustworthy’. I asked Mālik about these five and he said: ‘They are not trustworthy in terms of their Ḥadīth’. I asked him about another man whose name I forget just now, and he said: ‘Did you see him in my book?’ I said: ‘No’.  he said: ‘If he was trustworthy you would see him in my book’."
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 0,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي الْفَضْلُ بْنُ سَهْلٍ، قَالَ حَدَّثَنِي يَحْيَى بْنُ مَعِينٍ، حَدَّثَنَا حَجَّاجٌ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ شُرَحْبِيلَ بْنِ سَعْدٍ، وَكَانَ، مُتَّهَمًا ‏.‏",
+      "english": {
+        "narrator": "Al-Faḍl bin Sahl narrated to me, he said:",
+        "text": "‘Yahyā bin Ma’īn narrated to me, Hajjāj narrated to us, Ibn Abī Dhi’b narrated to us on authority of Shurahbīl bin Sa’d , and he was imputed ’."
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 0,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ قُهْزَاذَ، قَالَ سَمِعْتُ أَبَا إِسْحَاقَ الطَّالَقَانِيَّ، يَقُولُ سَمِعْتُ ابْنَ الْمُبَارَكِ، يَقُولُ لَوْ خُيِّرْتُ بَيْنَ أَنْ أَدْخُلَ الْجَنَّةَ وَبَيْنَ أَنْ أَلْقَى عَبْدَ اللَّهِ بْنَ مُحَرَّرٍ لاَخْتَرْتُ أَنْ أَلْقَاهُ ثُمَّ أَدْخُلَ الْجَنَّةَ فَلَمَّا رَأَيْتُهُ كَانَتْ بَعْرَةٌ أَحَبَّ إِلَىَّ مِنْهُ ‏.‏",
+      "english": {
+        "narrator": "Muhammad bin Abd Allah bin Quhzādh narrated to me, he said, I heard Abū Ishāq at-Tālqānī saying, I heard Ibn al-Mubārak saying:",
+        "text": "‘If I had to choose between entering Paradise and meeting Abd Allah bin Muharrar, I would have chosen to meet him, then enter Paradise. Then when I saw him, dung was more preferred to me than him’."
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 0,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي الْفَضْلُ بْنُ سَهْلٍ، حَدَّثَنَا وَلِيدُ بْنُ صَالِحٍ، قَالَ قَالَ عُبَيْدُ اللَّهِ بْنُ عَمْرٍو قَالَ زَيْدٌ يَعْنِي ابْنَ أَبِي أُنَيْسَةَ لاَ تَأْخُذُوا عَنْ أَخِي، ‏.‏",
+      "english": {
+        "narrator": "Al-Faḍl bin Sahl narrated to me, Walīd bin Sālih narrated to us, he said, Ubayd Allah bin Amr said, Zayd- meaning Ibn Abī Unaysah – said:",
+        "text": "‘Do not take  from my brother ’."
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 0,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَحْمَدُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، قَالَ حَدَّثَنِي عَبْدُ السَّلاَمِ الْوَابِصِيُّ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ جَعْفَرٍ الرَّقِّيُّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ كَانَ يَحْيَى بْنُ أَبِي أُنَيْسَةَ كَذَّابًا ‏.‏",
+      "english": {
+        "narrator": "Ahmad bin Ibrāhīm ad-Dawraqī narrated to me, he said, Abd us-Salām al-Wābisī narrated to me, he said, Abd Allah bin Ja’far ar-Raqqī narrated to me, on authority of Ubayd Allah bin Amr, he said:",
+        "text": "‘Yahyā bin Abī Unaysah was a liar’."
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 0,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَحْمَدُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنِي سُلَيْمَانُ بْنُ حَرْبٍ، عَنْ حَمَّادِ بْنِ زَيْدٍ، قَالَ ذُكِرَ فَرْقَدٌ عِنْدَ أَيُّوبَ فَقَالَ إِنَّ فَرْقَدًا لَيْسَ صَاحِبَ حَدِيثٍ ‏.‏",
+      "english": {
+        "narrator": "Ahmad bin Ibrāhīm narrated to me, he said, Sulaymān bin Harb narrated to me, on authority of Hammād bin Zayd, he said, Farqad was mentioned near Ayyūb, so he said:",
+        "text": "‘Indeed Farqad is not a companion of Ḥadīth’."
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 0,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ بِشْرٍ الْعَبْدِيُّ، قَالَ سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ الْقَطَّانَ، ذُكِرَ عِنْدَهُ مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ اللَّيْثِيُّ فَضَعَّفَهُ جِدًّا ‏.‏ فَقِيلَ لِيَحْيَى أَضْعَفُ مِنْ يَعْقُوبَ بْنِ عَطَاءٍ قَالَ نَعَمْ ‏.‏ ثُمَّ قَالَ مَا كُنْتُ أُرَى أَنَّ أَحَدًا يَرْوِي عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ ‏.‏",
+      "english": {
+        "narrator": "Abd ur-Rahman bin Bishr al-Abdī narrated to me, he said, I heard Muhammad bin Abd Allah bin Ubayd bin Umayr al-Laythī was mentioned near Yahyā bin Sa’īd al-Qattān, so he weakened him severely. Then it was said to Yahyā:",
+        "text": "‘More weak than Ya’qūb bin Atā ’?’ He said: ‘Yes’. Then he said: ‘I did not see anyone transmitting on authority of Muhammad bin Abd Allah bin Ubayd bin Umayr’."
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 0,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي بِشْرُ بْنُ الْحَكَمِ، قَالَ سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ الْقَطَّانَ، ضَعَّفَ حَكِيمَ بْنَ جُبَيْرٍ وَعَبْدَ الأَعْلَى وَضَعَّفَ يَحْيَى مُوسَى بْنَ دِينَارٍ قَالَ حَدِيثُهُ رِيحٌ ‏.‏ وَضَعَّفَ مُوسَى بْنَ دِهْقَانَ وَعِيسَى بْنَ أَبِي عِيسَى الْمَدَنِيَّ ‏.‏ قَالَ وَسَمِعْتُ الْحَسَنَ بْنَ عِيسَى، يَقُولُ قَالَ لِيَ ابْنُ الْمُبَارَكِ إِذَا قَدِمْتَ عَلَى جَرِيرٍ فَاكْتُبْ عِلْمَهُ كُلَّهُ إِلاَّ حَدِيثَ ثَلاَثَةٍ لاَ تَكْتُبْ حَدِيثَ عُبَيْدَةَ بْنِ مُعَتِّبٍ وَالسَّرِيِّ بْنِ إِسْمَاعِيلَ وَمُحَمَّدِ بْنِ سَالِمٍ ‏.‏",
+      "english": {
+        "narrator": "Bishr bin al-Hakam narrated to me, he said, I heard Yahyā bin Sa’īd al-Qattān weaken Hakīm bin Jubayr and Abd al-A’lā; and he weakened Yahyā Mūsā bin Dīnār  said:",
+        "text": "‘His Ḥadīth are Rīh or ‘wind’  - do not write the Ḥadīth of Ubaydah bin Mu’attib, as-Sarī bin Ismā’īl, or Muhammad bin Sālim’.’"
+      }
+    }
+  ]
+}

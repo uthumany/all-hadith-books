@@ -1,0 +1,16 @@
+{
+  "id": 41040,
+  "chapterId": 1,
+  "bookId": 17,
+  "arabic": "الْبَلَاءُ مُوَکِّلٌ بِالْمَنْطِقِ",
+  "english": {
+    "narrator": "",
+    "text": "Affliction comes from (loose) talk."
+  },
+  "book": {
+    "id": 17,
+    "name": "The Forty Hadith of Shah Waliullah",
+    "arabic": "أربعون الشاه ولي الله",
+    "slug": "waliullah-40"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 220,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو الأَزْدِيُّ، قَالَ حَدَّثَنَا زَائِدَةُ، عَنْ بَيَانٍ، عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ، عَنْ جَرِيرِ بْنِ عَبْدِ اللَّهِ، قَالَ مَا حَجَبَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم مُنْذُ أَسْلَمْتُ وَلاَ رَآنِي إِلاَّ ضَحِكَ . هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Jarir bin 'Abdullah:",
+    "text": "\"The Messenger of Allah (ﷺ) never screened me since I accepted Islam, nor did he look at me except that he laughed.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

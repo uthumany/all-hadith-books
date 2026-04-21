@@ -1,0 +1,16 @@
+{
+  "id": 55,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثانى‏:‏ عن أبي محمد الحسن بن علي بن أبي طالب، رضي الله عنهما ، قال ‏:‏ حفظت من رسول الله، صلى الله عليه وسلم ‏:‏ ‏\n\"‏دع ما يريبك إلى ما لا يريبك؛  فإن الصدق طمأنينة، والكذب ريبةٌ‏\"‏ ‏(‏‏(‏رواه الترمذي وقال حديث حسن صحيح‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Hasan bin 'Ali (May Allah be pleased with them) said:",
+    "text": "I remember (these words) from Messenger of Allah (ﷺ): \"Give up what is doubtful to you for that which is not doubtful; for truth is peace of mind and falsehood is doubt\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

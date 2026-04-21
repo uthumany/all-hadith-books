@@ -1,0 +1,16 @@
+{
+  "id": 432,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي موسى الأشعري، رضي الله عنه، قال‏:‏ قال رسول الله، صلى الله عليه وسلم‏:‏ إذا كان يوم القيامة دفع الله إلى كل مسلم يهودياً أونصرانياً فيقول‏:‏ هذا فكاكك من النار‏\"‏‏.‏ \nوفي رواية عنه عن النبي، صلى الله عليه وسلم قال‏:‏ ‏\"‏يجئ يوم القيامة ناس من المسلمين بذنوب أمثال الجبال يغفرها الله لهم ‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Musa Al-Ash'ari (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"On the Day of Resurrection, Allah will deliver to every Muslim, a Jew or a Christian and say: 'This is your ransom from Hell-fire.\"'Another narration is: Messenger of Allah (ﷺ) said, \"There would come people amongst the Muslims on the Day of Resurrection with sins as heavy as a mountain, and Allah would forgive them\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

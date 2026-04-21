@@ -1,0 +1,16 @@
+{
+  "id": 300,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسٍ، قَالَ كُنَّا نُجَمِّعُ ثُمَّ نَرْجِعُ فَنَقِيلُ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Anas said:",
+    "text": "“We used to perform the Friday\n(prayer),\nthen we would return for a nap (Qailulah).”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

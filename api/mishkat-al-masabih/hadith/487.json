@@ -1,0 +1,16 @@
+{
+  "id": 487,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ أَرْقَمَ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم يَقُول: «إِذَا أُقِيمَتِ الصَّلَاةُ وَوَجَدَ أَحَدُكُمُ الْخَلَاءَ فَلْيَبْدَأْ بِالْخَلَاءِ» . رَوَاهُ التِّرْمِذِيُّ وَرَوَى مَالِكٌ وَأَبُو دَاوُدَ وَالنَّسَائِيّ نَحوه",
+  "english": {
+    "narrator": "",
+    "text": "‘Abdallah b. Arqam said he heard God’s Messenger say, “When the time for prayer comes and one of you needs to relieve himself, he should do that first.” \n\nTirmidhi transmitted it, and Malik, Abu Dawud and Nasa’i transmitted something similar."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

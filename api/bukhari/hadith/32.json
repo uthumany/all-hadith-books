@@ -1,0 +1,16 @@
+{
+  "id": 32,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَا مِنْ أَحَدٍ أَغْيَرُ مِنَ اللَّهِ، مِنْ أَجْلِ ذَلِكَ حَرَّمَ الْفَوَاحِشَ، وَمَا أَحَدٌ أَحَبَّ إِلَيْهِ الْمَدْحُ مِنَ اللَّهِ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated `Abdullah:",
+    "text": "The Prophet (ﷺ) said, \"There is none having a greater sense of Ghira than Allah, and for that reason He \nhas forbidden shameful deeds and sins (illegal sexual intercourse etc.) And there is none who likes to \nbe praised more than Allah does.\" (See Hadith No. 147, Vol. 7)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

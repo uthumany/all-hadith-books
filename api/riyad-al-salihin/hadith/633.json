@@ -1,0 +1,16 @@
+{
+  "id": 633,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنها أن النبى صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ إن الله رفيق يحب الرفق، ويعطى على الرفق ما لا يعطى على العنف ومالا يعطى على ما سواه‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"Allah is Forbearer and He loves forbearance, and rewards for forbearance while He does not reward severity, and does not give for any thing besides it (forbearance).\""
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

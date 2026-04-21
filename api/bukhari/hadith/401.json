@@ -1,0 +1,16 @@
+{
+  "id": 401,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ إِنَّ فِي الْجَنَّةِ شَجَرَةً يَسِيرُ الرَّاكِبُ فِي ظِلِّهَا مِائَةَ عَامٍ لاَ يَقْطَعُهَا، وَاقْرَءُوا إِنْ شِئْتُمْ ‏{‏وَظِلٍّ مَمْدُودٍ‏}‏‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "The Prophet (ﷺ) said, \"In Paradise there is a tree which is so big that a rider can travel in its shade for one \nhundred years without passing it; and if you wish, you can recite: 'In shade long extended.' 56.30."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

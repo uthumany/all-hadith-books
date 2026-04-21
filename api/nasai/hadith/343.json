@@ -1,0 +1,16 @@
+{
+  "id": 343,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، قَالَ يَعْنِي ابْنَ عُمَرَ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَطَافَ بِالْبَيْتِ سَبْعًا وَصَلَّى خَلْفَ الْمَقَامِ رَكْعَتَيْنِ وَطَافَ بَيْنَ الصَّفَا وَالْمَرْوَةِ وَقَالَ ‏{‏ لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ ‏}‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Amr - meaning, bin Umar - said:",
+    "text": "\"The Messenger of Allah came and circumambulated the House seven times, then he prayed two Rakahs behind the Maqam and performed Sai between As-Safa and Al-Marwah, and he said: 'Indeed in the Messenger of Allah you have a good example to follow.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 50,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ اللَّهَ لَمَّا قَضَى الْخَلْقَ كَتَبَ عِنْدَهُ فَوْقَ عَرْشِهِ إِنَّ رَحْمَتِي سَبَقَتْ غَضَبِي ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "The Prophet (ﷺ) said, \"When Allah had finished His creation, He wrote over his Throne: 'My Mercy \npreceded My Anger.'"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

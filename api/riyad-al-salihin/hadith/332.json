@@ -1,0 +1,16 @@
+{
+  "id": 332,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن سلمان بن عامر رضي الله عنه، عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا أفطر أحدكم، فليفطر على تمر، فإنه بركة، فإن لم يجد تمرًا، فالماء، فإنه طهور‏\"‏ وقال‏:‏ ‏\"‏الصدقة على المسكين صدقة، وعلى ذي الرحم ثنتان‏:‏ صدقة وصلة‏\"‏‏.‏ \n‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Salman bin 'Amir (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"When you break fast, you should do it with a date-fruit for there is blessing in it, and if you do not find a date- fruit, break it with water for it is pure.\" Messenger of Allah (ﷺ) added: \"Charity towards a poor person is charity, and towards a relation is both charity and maintaining the ties (of kinship)\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

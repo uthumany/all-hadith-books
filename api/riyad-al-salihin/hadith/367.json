@@ -1,0 +1,16 @@
+{
+  "id": 367,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ الرجل على دين خليله، فلينظر أحدكم من يخالل‏\"‏‏.‏ \n‏(‏‏(‏رواه أبو داود، والترمذي بإسناد صحيح، وقال الترمذي‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "I heard the Prophet (ﷺ) saying, \"Man follows his friend's religion, you should be careful who you take for friends\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

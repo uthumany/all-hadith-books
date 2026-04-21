@@ -1,0 +1,16 @@
+{
+  "id": 25,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي مالك الحارث بن عاصم الأشعري رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏الطهور شطر الإيمان، والحمد لله تملأ الميزان، وسبحان الله والحمد لله تملآن -أو تملأ- ما بين السماوات والأرض، والصلاة نور، والصدقة برهان، والصبر ضياء، والقرآن حجة لك أو عليك‏.‏ كل الناس يغدو، فبائع نفسه فمعتقها، أو موبقها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Malik Al-Harith bin Asim Al-Ash'ari (May Allah be pleased with him) reported that:",
+    "text": "The Messenger of Allah (ﷺ) said: \"Purity is half of faith, and the praise of Allah fills the scale. Glorification and praise fill up what is between the heavens and the earth. Prayer is a light, charity is proof, and patience is illumination. The Quran is a proof for you or against you. All people go out early in the morning and sell themselves, either setting themselves free or ruining themselves.\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

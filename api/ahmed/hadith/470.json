@@ -1,0 +1,16 @@
+{
+  "id": 470,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي أَبُو صَالِحٍ الْحَكَمُ بْنُ مُوسَى، حَدَّثَنَا شِهَابُ بْنُ خِرَاشٍ، حَدَّثَنِي الْحَجَّاجُ بْنُ دِينَارٍ، عَنْ أَبِي مَعْشَرٍ، عَنْ إِبْرَاهِيمَ النَّخَعِيِّ، قَالَ ضَرَبَ عَلْقَمَةُ بْنُ قَيْسٍ هَذَا الْمِنْبَرَ وَقَالَ خَطَبَنَا عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ عَلَى هَذَا الْمِنْبَرِ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَذَكَرَ مَا شَاءَ اللَّهُ أَنْ يَذْكُرَ وَقَالَ إِنَّ خَيْرَ النَّاسِ كَانَ بَعْدَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَبُو بَكْرٍ ثُمَّ عُمَرُ رَضِيَ اللَّهُ عَنْهُمَا ثُمَّ أَحْدَثْنَا بَعْدَهُمَا أَحْدَاثًا يَقْضِي اللَّهُ فِيهَا",
+  "english": {
+    "narrator": "It was narrated that Ibrahim an-Nakha`i said:",
+    "text": "`Alqamah bin Qais struck this minbar and said: ‘Ali (رضي الله عنه) addressed us from this minbar, he praised and glorified Allah, and said what Allah willed that he should say, and he said:The best of this ummah after the Messenger of Allah (ﷺ) is Abu Bakr, then ‘Umar, may Allah be pleased with them both. Then we got involved in events and Allah will decide concerning that."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

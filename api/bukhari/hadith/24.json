@@ -1,0 +1,16 @@
+{
+  "id": 24,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا سَعْدُ بْنُ حَفْصٍ، حَدَّثَنَا شَيْبَانُ، عَنْ مَنْصُورٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ خَرَشَةَ بْنِ الْحُرِّ، عَنْ أَبِي ذَرٍّ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَخَذَ مَضْجَعَهُ مِنَ اللَّيْلِ قَالَ ‏\n\"‏ بِاسْمِكَ نَمُوتُ وَنَحْيَا، فَإِذَا اسْتَيْقَظَ قَالَ الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Dharr:",
+    "text": "When the Prophet (ﷺ) went to bed at night, he used to say: \"Bismika namutu wa nahya.\" And when he got \nup in the morning, he used to say, \"Al hamdu li l-lahi al-ladhi ahyana ba'da ma amatana, wa ilaihi-nnushur.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 436,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَوْضَعَ فِي وَادِي مُحَسِّرٍ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Jabir that:",
+    "text": "the Prophet hurried in the valley of Muhassir."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

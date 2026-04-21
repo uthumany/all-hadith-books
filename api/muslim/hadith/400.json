@@ -1,0 +1,16 @@
+{
+  "id": 400,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَاهُ سَعِيدُ بْنُ مَنْصُورٍ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح.\n وَحَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَخَلَفُ بْنُ هِشَامٍ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، قَالُوا أَخْبَرَنَا حَمَّادُ، بْنُ زَيْدٍ عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَأَنِّي أَنْظُرُ إِلَىَّ أَفْتِلُ قَلاَئِدَ هَدْىِ رَسُولِ اللَّهِ صلى الله عليه وسلم بِنَحْوِهِ ‏.‏",
+  "english": {
+    "narrator": "`A'isha narrated (in another hadith narrated through another chain of transmitters) these words:",
+    "text": "\"As if I am seeing myself weaving the garlands for the sacrificial animals of Allah's Messenger (ﷺ).\""
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 414,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا يُونُسُ بْنُ بُكَيْرٍ، حَدَّثَنَا ابْنُ إِسْحَاقَ، حَدَّثَنِي الزُّهْرِيُّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ إِنَّ الشَّيْطَانَ يَأْتِي أَحَدَكُمْ فِي صَلاَتِهِ، فَيَدْخُلُ بَيْنَهُ وَبَيْنَ نَفْسِهِ حَتَّى لاَ يَدْرِي زَادَ أَوْ نَقَصَ. فَإِذَا كَانَ ذَلِكَ، فَلْيَسْجُدْ سَجْدَتَيْنِ قَبْلَ أَنْ يُسَلِّمَ. ثُمَّ يُسَلِّمْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated from Abu Hurairah that the Prophet (ﷺ) said:",
+    "text": "“The\nSatan\ncomes to any one of you while he is praying and comes between\nhim and\nhis soul, until he does not know whether he as added something\nor\nomitted something. If that happens, then he should prostrate twice\nbefore the Salam, then he should say the Salam.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

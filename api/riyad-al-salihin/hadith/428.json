@@ -1,0 +1,16 @@
+{
+  "id": 428,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس، رضي الله عنه ،عن رسول الله، صلى الله عليه وسلم، قال‏:‏ ‏\"‏إن الكافر إذا عمل حسنة، أطعم بها طعمة من الدنيا، أما المؤمن، فإن الله تعالى يدخر له حسناته في الآخرة، ويعقبه رزقاً في الدنيا على طاعته‏\"‏‏.‏ \nوفي رواية‏:‏ ‏\"‏إن الله لا يظلم مؤمنا حسنة يعطى بها في الدنيا، ويجزى بها في الآخرة، وأما الكافر، فيطعم بحسنات ما عمل لله تعالى، في الدنيا حتى إذا أفضى إلى الآخرة، لم يكن له حسنة يجزى بها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"When an infidel accomplishes any good deed, he is rewarded for it in this world; and in the case of a Muslim, Allah stores up his good acts for him in the Hereafter and provides him with subsistence in this life due to his obedience.\"Another narration is: Messenger of Allah (ﷺ) said, \"Allah does not wrong a believer a good deed because he is given blessings for it in this world and will be rewarded for it in the Hereafter. But the infidel is given in the world the reward for good deeds, he has performed for the sake of Allah and when he comes to the Hereafter, there is no good deed for which he can be rewarded\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

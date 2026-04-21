@@ -1,0 +1,16 @@
+{
+  "id": 267,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ هَارُونَ - أَخْبَرَنَا أَبُو مَالِكٍ،\n الأَشْجَعِيُّ عَنْ مُوسَى بْنِ طَلْحَةَ، عَنْ أَبِي أَيُّوبَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم\n ‏\n\"‏ الأَنْصَارُ وَمُزَيْنَةُ وَجُهَيْنَةُ وَغِفَارُ وَأَشْجَعُ وَمَنْ كَانَ مِنْ بَنِي عَبْدِ اللَّهِ مَوَالِيَّ دُونَ النَّاسِ\n وَاللَّهُ وَرَسُولُهُ مَوْلاَهُمْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Ayyub reported Allah's Messenger (ﷺ) as saying:",
+    "text": "The tribes of Ansar, Muzaina and Juhaina and Ghifar and Ashja' and those from Banu 'Abdullah, they are my friends amongst the people and Allah and His Messenger are their protectors."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

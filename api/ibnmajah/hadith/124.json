@@ -1,0 +1,16 @@
+{
+  "id": 124,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، وَهَدِيَّةُ بْنُ عَبْدِ الْوَهَّابِ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، قَالَ قَالَتْ لِي عَائِشَةُ يَا عُرْوَةُ كَانَ أَبَوَاكَ مِنَ الَّذِينَ اسْتَجَابُوا لِلَّهِ وَالرَّسُولِ مِنْ بَعْدِ مَا أَصَابَهُمُ الْقَرْحُ أَبُو بَكْرٍ وَالزُّبَيْرُ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Hisham bin 'Urwah that his father said:",
+    "text": "''Aishah said to me: 'O 'Urwah, your two fathers were of those who answered (the Call of) Allah and the Messenger (Muhammed) after being wounded,\" (they were) Abu Bakr and Zubair.''"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

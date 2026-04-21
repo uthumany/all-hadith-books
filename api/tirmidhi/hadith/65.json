@@ -1,0 +1,16 @@
+{
+  "id": 65,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا عُمَرُ بْنُ إِسْمَاعِيلَ بْنِ مُجَالِدِ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ مَسْلَمَةَ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ ذَاتَ يَوْمٍ وَدَخَلَ الْمَسْجِدَ وَأَبُو بَكْرٍ وَعُمَرُ أَحَدُهُمَا عَنْ يَمِينِهِ وَالآخَرُ عَنْ شِمَالِهِ وَهُوَ آخِذٌ بِأَيْدِيهِمَا وَقَالَ ‏\n\"‏ هَكَذَا نُبْعَثُ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏. قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ ‏.‏   \n‏ وَسَعِيدُ بْنُ مَسْلَمَةَ لَيْسَ عِنْدَهُمْ بِالْقَوِيِّ ‏.‏ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ أَيْضًا مِنْ غَيْرِ هَذَا الْوَجْهِ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ ‏.‏",
+  "english": {
+    "narrator": "Narrated Ibn 'Umar:",
+    "text": "that the Messenger of Allah (ﷺ) departed one day and entered the Masjid, along with Abu Bakr and 'Umar. One was on his right and the other was on his left, and he was holding their hands, and he said: \"This is how we will be resurrected on the Day of Judgement.'\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 404,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه قال‏:‏ كنا مع رسول الله، صلى الله عليه وسلم إذا سمع وجبة فقال‏:‏ ‏\"‏هل تدرون ما هذا‏؟‏‏\"‏ قلنا‏:‏ الله ورسوله أعلم‏.‏ قال‏:‏ هذا حجر رمى به في النار منذ سبعين خريفاً فهو يهوي في النار الآن حتى انتهي إلى قعره، فسمعتم وجبتها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "We were in the company of Messenger of Allah (ﷺ) when we heard a bang. Thereupon Messenger of Allah (ﷺ) said. \"Do you know what this (sound) is?\" We said, \"Allah and His Messenger know better.\" He (ﷺ) said, \"That is a stone which was thrown into Hell seventy years before and it has just reached its bottom\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

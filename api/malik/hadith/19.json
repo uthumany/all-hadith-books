@@ -1,0 +1,16 @@
+{
+  "id": 19,
+  "chapterId": 56,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، أَنَّهُ قَالَ قِيلَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَيَكُونُ الْمُؤْمِنُ جَبَانًا فَقَالَ ‏\"‏ نَعَمْ ‏\"‏ ‏.‏ فَقِيلَ لَهُ أَيَكُونُ الْمُؤْمِنُ بَخِيلاً فَقَالَ ‏\"‏ نَعَمْ ‏\"‏ ‏.‏ فَقِيلَ لَهُ أَيَكُونُ الْمُؤْمِنُ كَذَّابًا فَقَالَ ‏\"‏ لاَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Malik related to me that Safwan ibn Sulaym said, \"The Messenger\nof Allah, may Allah bless him and grant him peace, was asked, 'Can the\nmumin be a coward?' He said, 'Yes.' He was asked, 'Can the mumin be a\nmiser?' He said, 'Yes.' He was asked, 'Can the mumin be a liar?' He\nsaid, 'No.' \""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

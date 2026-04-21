@@ -1,0 +1,16 @@
+{
+  "id": 81,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ زُرَارَةَ، حَدَّثَنَا شَرِيكٌ، عَنْ مَنْصُورٍ، عَنْ رِبْعِيٍّ، عَنْ عَلِيٍّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ لاَ يُؤْمِنُ عَبْدٌ حَتَّى يُؤْمِنَ بِأَرْبَعٍ بِاللَّهِ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَنِّي رَسُولُ اللَّهِ وَبِالْبَعْثِ بَعْدَ الْمَوْتِ وَالْقَدَرِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that 'Ali said:",
+    "text": "\"The Messenger of Allah (ﷺ) said: 'No slave truly believes until he believes in four things: in Allah alone with no partner; that I am the Messenger of Allah; in the resurrection after death; and in the Divine Decree (Qadar).'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

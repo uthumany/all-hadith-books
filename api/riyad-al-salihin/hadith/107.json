@@ -1,0 +1,16 @@
+{
+  "id": 107,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثالث عشر‏:‏ عن أبي عبد الله- ويقال‏:‏ أبو عبد الرحمن- ثوبان مولى رسول الله صلى الله عليه وسلم قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\n\"‏ عليك بكثرة السجود، فإنك لن تسجد لله سجدة إلا رفعك الله بها درجة، وحط عنك بها خطيئة‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Thauban (May Allah be pleased with him) said:",
+    "text": "I heard Messenger of Allah (ﷺ) saying, \"Perform Salah more often. For every prostration that you perform before Allah will raise your position one degree and will remit one of your sins\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

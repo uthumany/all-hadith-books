@@ -1,0 +1,16 @@
+{
+  "id": 41042,
+  "chapterId": 1,
+  "bookId": 17,
+  "arabic": "الْغِنَى غِنَى النَّفْسِ",
+  "english": {
+    "narrator": "",
+    "text": "Richness lies in the richness of the soul."
+  },
+  "book": {
+    "id": 17,
+    "name": "The Forty Hadith of Shah Waliullah",
+    "arabic": "أربعون الشاه ولي الله",
+    "slug": "waliullah-40"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 320,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ، حَدَّثَنَا حَمَّادٌ،\n - وَهُوَ ابْنُ سَلَمَةَ - عَنْ سَعِيدٍ الْجُرَيْرِيِّ، بِهَذَا الإِسْنَادِ عَنْ عُمَرَ بْنِ الْخَطَّابِ، قَالَ إِنِّي سَمِعْتُ \n رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِنَّ خَيْرَ التَّابِعِينَ رَجُلٌ يُقَالُ لَهُ أُوَيْسٌ وَلَهُ وَالِدَةٌ\n وَكَانَ بِهِ بَيَاضٌ فَمُرُوهُ فَلْيَسْتَغْفِرْ لَكُمْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "'Umar b. Khattab reported:",
+    "text": "I heard Allah's Messenger (ﷺ) as saying: Worthy amongst the successors would be a person who would be called Uwais. He would have his mother (living with him) and he would have (a small) sign of leprosy. Ask him to beg pardon for you (from Allah)."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

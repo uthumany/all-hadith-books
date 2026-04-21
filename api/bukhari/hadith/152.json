@@ -1,0 +1,16 @@
+{
+  "id": 152,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا إِسْحَاقُ، حَدَّثَنَا أَبُو عَاصِمٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنَا ابْنُ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لَيْسَ مِنَّا مَنْ لَمْ يَتَغَنَّ بِالْقُرْآنِ ‏\"‏‏.‏ وَزَادَ غَيْرُهُ ‏\"‏ يَجْهَرُ بِهِ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Salama:",
+    "text": "Abu Huraira said, \"Allah's Messenger (ﷺ) said, 'Whoever does not recite Qur'an in a nice voice is not from \nus,' and others said extra,\" (that means) to recite it aloud.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

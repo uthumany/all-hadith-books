@@ -1,0 +1,16 @@
+{
+  "id": 16,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي موسى عبد الله بن قيس الأشعرى رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ إن الله تعالى يبسط يده بالليل ليتوب مسيء النهار، ويبسط يده بالنهار ليتوب مسيء الليل حتى تطلع الشمس من مغربها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Musa Al-Ash'ari (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said: \"Allah, the Exalted, will continue to stretch out His Hand in the night so that the sinners of the day may repent, and continue to stretch His Hand in the daytime so that the sinners of the night may repent, until the sun rises from the west\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

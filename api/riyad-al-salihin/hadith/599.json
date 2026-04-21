@@ -1,0 +1,16 @@
+{
+  "id": 599,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ما بعث الله نبياً إلا رعى الغنم” فقال أصحابه‏:‏ أنت‏؟‏ قال‏:‏ كنت أرعاها على قراريط لأهل مكة”‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Every Prophet has tended sheep\". He was asked: \"And did you?\" He replied, \"Yes, I tended them for a few carats for the Makkans.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

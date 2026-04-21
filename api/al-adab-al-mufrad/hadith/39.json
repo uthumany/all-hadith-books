@@ -1,0 +1,16 @@
+{
+  "id": 39,
+  "chapterId": 43,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا أَيُّوبُ بْنُ سُلَيْمَانَ قَالَ‏:‏ حَدَّثَنِي أَبُو بَكْرِ بْنُ أَبِي أُوَيْسٍ، عَنْ سُلَيْمَانَ، عَنْ كَثِيرِ بْنِ زَيْدٍ، عَنِ الْوَلِيدِ بْنِ رَبَاحٍ، أَنَّ أَبَا هُرَيْرَةَ قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ إِذَا دَخَلَ الْبَصَرُ فَلا إِذْنَ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Abu Hurayra said, \"The Messenger of Allah, may Allah bless him\nand grant him peace, said, \"When the eye enters, permission to enter should\nnot be given.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 401,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَمِثْلُهُ لِأَبِي دَاوُدَ, عَنْ أَبِي بَكْرَةَ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (1248)‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Abu Dawud has reported similarly from Abu Bakrah (RA)."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

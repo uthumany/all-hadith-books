@@ -1,0 +1,16 @@
+{
+  "id": 763,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو سَعِيدٍ، حَدَّثَنَا إِسْرَائِيلُ، حَدَّثَنَا أَبُو إِسْحَاقَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَلَا أُعَلِّمُكَ كَلِمَاتٍ إِذَا قُلْتَهُنَّ غُفِرَ لَكَ عَلَى أَنَّهُ مَغْفُورٌ لَكَ لَا إِلَهَ إِلَّا اللَّهُ الْعَلِيُّ الْعَظِيمُ لَا إِلَهَ إِلَّا هُوَ الْحَلِيمُ الْكَرِيمُ سُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ الْعَظِيمِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (رضي الله عنه) said: `Shall I not teach you some words which, if you say them you will be forgiven, even though you are already forgiven: There is no god but Allah, Most High, the Almighty; there is no god but Him, the most Forbearing the Most Generous; glory be to Allah, Lord of the Mighty Throne; praise be to Allah, Lord of the Worlds.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

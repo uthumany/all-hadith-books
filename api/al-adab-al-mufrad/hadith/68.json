@@ -1,0 +1,16 @@
+{
+  "id": 68,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ هَانِئِ بْنِ هَانِئٍ، عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ‏:‏ اسْتَأْذَنَ عَمَّارٌ عَلَى النَّبِيِّ صلى الله عليه وسلم، فَعَرَفَ صَوْتَهُ، فَقَالَ‏:‏ مَرْحَبًا بِالطَّيِّبِ الْمُطَيَّبِ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "'Ali said, \"'Ammar asked for permission to enter to visit the\nProphet, may Allah bless him and grant him peace, and the Prophet recognised\nhis voice and said, 'Welcome with the best and purest greeting!'\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

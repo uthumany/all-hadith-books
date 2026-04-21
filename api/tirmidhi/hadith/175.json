@@ -1,0 +1,16 @@
+{
+  "id": 175,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ لَمْ يَكُنْ أَحَدٌ مِنْهُمْ أَشْبَهَ بِرَسُولِ اللَّهِ مِنَ الْحَسَنِ بْنِ عَلِيٍّ ‏.‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "\"None of them used to resemble the Messenger of Allah (ﷺ) more than Al-Hasan bin 'Ali.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

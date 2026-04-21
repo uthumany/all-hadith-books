@@ -1,0 +1,16 @@
+{
+  "id": 583,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عباس رضي الله عنهما، قال مر رسول الله صلى الله عليه وسلم بقبور بالمدينة فأقبل عليهم بوجهه فقال‏:‏ “السلام عليكم يا أهل القبور، يغفر الله لنا ولكم أنتم سلفنا ونحن بالأثر” ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas (May Allah be pleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) passed by the graves at Al-Madinah. He turned his face towards them and said, \"May you be granted safety, O inmates of the graves. May Allah forgive us and you. You have preceded us, and we are to follow.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

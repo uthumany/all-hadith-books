@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ عَلِيٍّ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ يُجْزِئُ عَنْ اَلْجَمَاعَةِ إِذَا مَرُّوا أَنْ يُسَلِّمَ أَحَدُهُمْ, وَيُجْزِئُ عَنْ اَلْجَمَاعَةِ أَنْ يَرُدَّ أَحَدُهُمْ }  رَوَاهُ أَحْمَدُ, وَالْبَيْهَقِيُّ  1‏ .‏‏1 ‏- حسن بشواهده رواه أبو داود (5210)‏، والبيهقي (9 / 49)‏.‏",
+  "english": {
+    "narrator": "Ali (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“When a group of people passes by, it is sufficient if one of them gives a salutation, and it is sufficient for those who are sitting that one of them replies.” Related by Ahmad and Al-Baihaqi."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

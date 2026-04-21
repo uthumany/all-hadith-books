@@ -1,0 +1,16 @@
+{
+  "id": 263,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ : { كَانَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-يُخَفِّفُ اَلرَّكْعَتَيْنِ اَللَّتَيْنِ قَبْلَ صَلَاةِ اَلصُّبْحِ , حَتَّى إِنِّي أَقُولُ : أَقَرَأَ بِأُمِّ اَلْكِتَابِ? }  مُتَّفَقٌ عَلَيْهِ .‏  1‏‏1 ‏- صحيح .‏ رواه البخاري ( 1171 )‏ ، ومسلم ( 724 )‏ ، واللفظ الذي ساقه الحافظ أقرب ما يكون إلى لفظ البخاري .‏",
+  "english": {
+    "narrator": "Narrated 'Aishah (RA):",
+    "text": "The Prophet (ﷺ) used to make the two (voluntary) Rak'at before the Fajr prayer so short that I would wonder whether he recited al-Fatiha (or not).\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

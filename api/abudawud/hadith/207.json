@@ -1,0 +1,16 @@
+{
+  "id": 207,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رضى الله عنها عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَقُولَنَّ أَحَدُكُمْ جَاشَتْ نَفْسِي وَلَكِنْ لِيَقُلْ لَقِسَتْ نَفْسِي ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "‘A’ishah reported the Prophet (May peace be upon him) as saying:",
+    "text": "None of you should say Ja’shat nafsi (My heart is being agitated), but one should say Laqisat nafsi (My heart is being annoyed)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

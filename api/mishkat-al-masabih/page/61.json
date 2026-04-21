@@ -1,0 +1,510 @@
+{
+  "page": 61,
+  "perPage": 50,
+  "totalPages": 89,
+  "totalCount": 4428,
+  "nextPage": 62,
+  "prevPage": 60,
+  "items": [
+    {
+      "id": 47,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تُنْكَحُ الْأَيِّمُ حَتَّى تُسْتَأْمَرَ وَلَا تُنْكَحُ الْبِكْرُ حَتَّى تُسْتَأْذَنَ» . قَالُوا: يَا رَسُول الله وَكَيف إِذْنهَا؟ قَالَ: «أَن تسكت»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s Messenger as saying, “A woman without a husband* must not be married till she is consulted, and a virgin must not be married till her permission is asked.” When asked how her permission was indicated he replied that it was by her saying nothing. \n* Ayyim. This means a woman who has no husband. It may mean a woman who has not been married, whether a virgin or not, or a woman previously married who has no husband. See n. 2.\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الْأَيِّمُ أَحَقُّ بِنَفْسِهَا مِنْ وَلِيِّهَا وَالْبِكْرُ تَسْتَأْذِنُ فِي نَفْسِهَا وَإِذْنُهَا صِمَاتُهَا» . وَفِي رِوَايَةٍ: قَالَ: «الثَّيِّبُ أَحَقُّ بِنَفْسِهَا مِنْ وَلِيِّهَا وَالْبِكْرُ تُسْتَأْمَرُ وَإِذْنُهَا سُكُوتُهَا» . وَفِي رِوَايَةٍ: قَالَ: «الثَّيِّبُ أَحَقُّ بِنَفْسِهَا مِنْ وَلِيِّهَا وَالْبِكْرُ يَسْتَأْذِنُهَا أَبُوهَا فِي نَفْسِهَا وَإِذْنُهَا صِمَاتُهَا» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas reported the Prophet as saying, “A woman without a husband has more right to her person than her guardian, and a virgin’s permission must be asked about herself, her permission being her silence.” In a version he said, “A woman who has been previously married* has more right to her person than her guardian, and a virgin must be consulted, her permission consisting in her saying nothing.” In another version he said, “A woman who has been previously married has more right to her person than her guardian” and a virgin’s father must ask her permission about herself, her permission being her silence.” \n* Thayyib. This means a woman previously married who has no husband. In view of the context it is argued that ayyim is used above in this sense.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَن خنساء بنت خذام: أَنْ أَبَاهَا زَوَّجَهَا وَهِيَ ثَيِّبٌ فَكَرِهَتْ ذَلِكَ فَأَتَتْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَرَدَّ نِكَاحَهَا. رَوَاهُ الْبُخَارِيُّ وَفِي رِوَايَةِ ابْنِ مَاجَه: نِكَاح أَبِيهَا",
+      "english": {
+        "narrator": "",
+        "text": "Khansa’ daughter of Khidham told that when her father married her when she had previously been married and she disapproved of that, she went to God's Messenger and he revoked her marriage. \nA version by Ibn Majah has “the marriage  her father.”\n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَزَوَّجَهَا وَهِيَ بِنْتُ سَبْعِ سِنِينَ وَزُفَّتْ إِلَيْهِ وَهِيَ بِنْتُ تِسْعِ سِنِينَ وَلُعَبُهَا مَعَهَا وَمَاتَ عَنْهَا وَهِيَ بِنْتُ ثَمَانِيَ عَشْرَةَ. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha said that the Prophet married her when she was seven, she was brought to live with him when she was nine bringing her toys with her, and he died when she was eighteen. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَن أَبِي مُوسَى عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا نِكَاحَ إِلَّا بِوَلِيٍّ» . رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ وَابْنُ مَاجَهْ وَالدَّارِمِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Musa reported the Prophet as saying, “There is no marriage without a guardian.” \n\nAhmad, Tirmidhi, Abu Dawud, Ibn Majah and Darimi transmitted it."
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أَيُّمَا امْرَأَةٍ نَكَحَتْ بِغَيْرِ إِذْنِ وَلَيِّهَا فَنِكَاحُهَا بَاطِلٌ فَنِكَاحُهَا بَاطِلٌ فَنِكَاحُهَا بَاطِلٌ فَإِنْ دَخَلَ بِهَا فَلَهَا الْمَهْرُ بِمَا اسْتَحَلَّ مِنْ فَرْجِهَا فَإِنِ اشْتَجَرُوا فَالسُّلْطَانُ وَلِيُّ من لَا ولي لَهُ» . رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ وَابْنُ مَاجَهْ والدارمي",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha reported God’s Messenger as saying, “If any woman marries without the consent of her guardian her marriage is void, her marriage is void, her marriage is void. If there is cohabitation she gets her dower for the intercourse her husband has had. If there is a dispute*, the sultan is the guardian of one who has none.” \n* i.e., among guardians, Mirqat iii. 418 says that if their dispute would keep a woman from being married, they are treated as non-existent.\n\nAhmad, Tirmidhi, Abu Dawud, Ibn Majah and Darimi transmitted it."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الْبَغَايَا اللَّاتِي يُنْكِحْنَ أَنْفُسَهُنَّ بِغَيْرِ بَيِّنَةٍ» . وَالْأَصَحُّ أَنَّهُ مَوْقُوفٌ عَلَى ابْنِ عَبَّاس. رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas reported the Prophet as saying, ‘Adulteresses are those women who marry themselves without evidence.” The soundest view is that it does not go back farther than Ibn ‘Abbas. \n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْيَتِيمَةُ تُسْتَأْمَرُ فِي نَفْسِهَا فَإِنْ صَمَتَتْ فَهُوَ إِذْنُهَا وَإِنْ أَبَتْ فَلَا جَوَازَ عَلَيْهَا» . رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ وَالنَّسَائِيّ\nوَرَوَاهُ الدَّارمِيّ عَن أبي مُوسَى",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s Messenger as saying, “An orphan girl should be consulted about herself; if she says nothing that indicates her permission, but if she refuses, the authority of the guardian cannot be exercised against her will.”\n\nTirmidhi, Abu Dawud and Nasa’i transmitted it, and Darimi transmitted it on the authority of Abu Musa."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٌ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أَيُّمَا عَبْدٍ تَزَوَّجَ بِغَيْرِ إِذْنِ سَيِّدِهِ فَهُوَ عَاهِرٌ» . رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ والدرامي",
+      "english": {
+        "narrator": "",
+        "text": "Jabir reported the Prophet as saying, “Any slave who marries without his master's permission is a fornicator.” \n\nTirmidhi, Abu Dawud and Darimi transmitted it."
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ عَبَّاسٍ قَالَ: إِنَّ جَارِيَةً بِكْرًا أَتَتْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذكرت أَن أَبَاهَا زَوجهَا وَهِي كَارِهًا فَخَيَّرَهَا النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas told that a virgin came to God’s Messenger and mentioned that her father had married her against her will, so the Prophet allowed her to exercise her choice. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عَلَيْهِ وَسلم: «لَا تزوج الْمَرْأَة الْمَرْأَةَ وَلَا تُزَوِّجُ الْمَرْأَةُ نَفْسَهَا فَإِنَّ الزَّانِيَةَ هِيَ الَّتِي تُزَوِّجُ نَفْسَهَا» . رَوَاهُ ابْنُ مَاجَهْ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God's Messenger as saying, “A woman may not give a woman in marriage, nor may she give herself in marriage, for the immoral woman is the one who gives herself in marriage.” \n\nIbn Majah transmitted it."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ وَابْنِ عَبَّاسٍ قَالَا: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «من وُلِدَ لَهُ وَلَدٌ فَلْيُحْسِنِ اسْمَهُ وَأَدَبَهُ فَإِذَا بَلَغَ فَلْيُزَوِّجْهُ فَإِنْ بَلَغَ وَلَمْ يُزَوِّجْهُ فَأَصَابَ إِثْمًا فَإِنَّمَا إثمه على أَبِيه»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa'id and Ibn ‘Abbas reported God’s Messenger as saying, “He who has a son born to him should give him a good name and a good education and marry him when he reaches puberty. If he does not marry him when he reaches puberty and He commits sin, its guilt rests only upon his father.\"\n\nBaihaqi transmitted in Shu'ab al-iman."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عُمَرَ بْنِ الْخَطَّابِ وَأَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: \n\" فِي التَّوْرَاةِ مَكْتُوبٌ: مَنْ بَلَغَتِ ابْنَتُهُ اثْنَتَيْ عَشْرَةَ سَنَةً وَلَمْ يُزَوِّجْهَا فَأَصَابَتْ إِثْمًا فَإِثْمُ ذَلِكَ عَلَيْهِ «. رَوَاهُمَا الْبَيْهَقِيُّ فِي» شُعَبِ الْإِيمَانِ \"",
+      "english": {
+        "narrator": "",
+        "text": "‘Umar b. al-Khattab and Anas b. Malik reported God’s Messenger as saying that it is written in the Torah, “If anyone does not give his daughter in marriage when she reaches twelve and she commits sin, the guilt of that rests on him.\" \n\nBaihaqi transmitted in Shu'ab al-iman."
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَن الرّبيع بنت معوذ بن عَفْرَاءَ قَالَتْ: جَاءَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَدَخَلَ حِينَ بُنِيَ عَلَيَّ فَجَلَسَ عَلَى فِرَاشِي كمجلسك مني فَجعلت جويرات لَنَا يَضْرِبْنَ بِالدُّفِّ وَيَنْدُبْنَ مَنْ قُتِلَ مِنْ آبَائِي يَوْمَ بَدْرٍ إِذْ قَالَتْ إِحْدَاهُنَّ: وَفِينَا نَبِيٌّ يَعْلَمُ مَا فِي غَدٍ فَقَالَ: «دَعِي هَذِهِ وَقُولِي بِالَّذِي كُنْتِ تَقُولِينَ» . رَوَاهُ الْبُخَارِيُّ",
+      "english": {
+        "narrator": "Ar-Rubayyi‘ daughter of Mu'awwidh b. ‘Afra’ said:",
+        "text": "The Prophet came and entered when I had been conducted to my husband, and sat on my bedding as you are sitting beside me. Some little girls of ours began to play the tambourine and eulogise those of my ancestors who were killed at the battle of Badr, and then one of them said: “And among us is a prophet who knows what will happen tomorrow.\" Thereupon he said, “Stop this and say what you were saying.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَن عَائِشَة رَضِي الله عَنهُ قَالَتْ: زُفَّتِ امْرَأَةٌ إِلَى رَجُلٍ مِنَ الْأَنْصَارِ فَقَالَ نَبِيُّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَا كَانَ مَعَكُمْ لَهْوٌ؟ فَإِنَّ الْأَنْصَارَ يُعْجِبُهُمُ اللَّهْو» . رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha told that when a bride was conducted to one of the Ansar, God’s Prophet said, “Have you no amusement? The Ansar are delighted by amusement.\" \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْهَا قَالَتْ: تَزَوَّجَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي شَوَّالٍ وَبَنَى بِي فِي شَوَّالٍ فَأَيُّ نِسَاءِ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ أَحْظَى عِنْدَهُ مِنِّي؟ . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "She said:",
+        "text": "“God’s Messenger married me in Shawwal and cohabited with me in Shawwal, so which of the wives of God’s Messenger was more beloved by him than I?\" \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عُقْبَةَ بْنِ عَامِرٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَحَقُّ الشُّرُوطِ أَنْ تُوفُوا بِهِ مَا اسْتَحْلَلْتُمْ بِهِ الْفروج»",
+      "english": {
+        "narrator": "",
+        "text": "‘Uqba b. ‘Amir reported God’s Messenger as saying, “The most worthy conditions you fulfil are those by which you make sexual intercourse lawful.\" \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يَخْطُبُ الرَّجُلُ عَلَى خِطْبَةِ أَخِيهِ حَتَّى يَنْكِحَ أَو يتْرك»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s Messenger as saying, “A man must 'not ask a woman in marriage when his brother has done so already, until he marries or gives her up.\" \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَسْأَلِ الْمَرْأَةُ طَلَاقَ أُخْتِهَا لِتَسْتَفْرِغَ صَحْفَتَهَا وَلِتَنْكِحَ فَإِنَّ لَهَا مَا قُدِّرَ لَهَا»",
+      "english": {
+        "narrator": "",
+        "text": "He reported God’s Messenger as saying, “A woman must not ask to have her sister* divorced in order to deprive her of what belongs to her, but she must marry, because she will have what has been decreed for her.\"\n\n(Bukhari and Muslim.)\n\n* The word ‘sister’ is here used in a general sense. The tradition has been explained as referring to one of a man’s wives trying to get him to divorce another, but it probably refers to a woman whom the man has asked in marriage wanting him to divorce his wife before she marries him."
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ الشِّغَارِ وَالشِّغَارُ: أَنْ يُزَوِّجَ الرَّجُلُ ابْنَتَهُ عَلَى أَنْ يُزَوِّجَهُ الْآخَرُ ابْنَتَهُ وَلَيْسَ بَيْنَهُمَا صَدَاقٌ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar said God’s Messenger prohibited shighar, which means that a man gives his daughter in marriage on condition that the other gives his daughter to him in marriage without any dower being paid by either. In a version by Muslim he said, “There is no shighar in Islam.\"\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ مُتْعَةِ النِّسَاءِ يَوْمَ خَيْبَرَ وَعَنْ أكل لُحُوم الْحمر الإنسية",
+      "english": {
+        "narrator": "",
+        "text": "‘Ali said that at the battle for Khaibar God’s Messenger forbade the temporary marriage (mut’a) of women, and eating the flesh of domestic asses. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ سَلَمَةَ بْنِ الْأَكْوَعِ قَالَ: رَخَّصَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَامَ أَوْطَاسٍ فِي الْمُتْعَةِ ثَلَاثًا ثُمَّ نَهَى عَنْهَا. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Salama b. al-Akwa said that in the year of Autas* God's Messenger permitted a temporary marriage for three nights, but afterwards he prohibited it. \n*This was after the battle of Hunain in 8 A.H.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: عَلَّمَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ التَّشَهُّدَ فِي الصَّلَاةِ وَالتَّشَهُّدَ فِي الْحَاجَةِ قَالَ: التَّشَهُّدُ فِي الصَّلَاةِ: «التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ» . وَالتَّشَهُّدُ فِي الْحَاجَةِ: «إِنَّ الْحَمْدَ لِلَّهِ نَسْتَعِينُهُ وَنَسْتَغْفِرُهُ وَنَعُوذُ بِاللَّهِ مِنْ شُرُورِ أَنْفُسنَا من يهد اللَّهُ فَلَا مُضِلَّ لَهُ وَمَنْ يُضْلِلْ فَلَا هَادِيَ لَهُ وَأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ» . وَيَقْرَأُ ثَلَاثَ آيَاتٍ (يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسلمُونَ)\n(يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً وَاتَّقُوا اللَّهَ الَّذِي تساءلون وَالْأَرْحَامَ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا)\n(يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيما)\nرَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ وَالنَّسَائِيُّ وَابْنُ مَاجَهْ وَالدَّارِمِيُّ وَفِي جَامِعِ التِّرْمِذِيِّ فَسَّرَ الْآيَاتِ الثَّلَاثَ سُفْيَانُ الثَّوْرِيُّ وَزَادَ ابْنُ مَاجَهْ بَعْدَ قَوْلِهِ: «إِنَّ الْحَمْدَ لِلَّهِ نَحْمَدُهُ» وَبَعْدَ قَوْلِهِ: «من شرور أَنْفُسنَا وَمن سيئات أَعمالنَا» وَالدَّارِمِيُّ بَعْدَ قَوْلِهِ «عَظِيمًا» ثُمَّ يَتَكَلَّمُ بِحَاجَتِهِ وَرَوَى فِي شَرْحِ السُّنَّةِ عَنِ ابْنِ مَسْعُودٍ فِي خطْبَة الْحَاجة من النِّكَاح وَغَيره",
+      "english": {
+        "narrator": "‘Abdallah b. Mas'ud said:",
+        "text": "God’s Messenger taught us the tashahhud in the prayer and in case of some need, saying that the tashahhud in the prayer is, “The adorations of the tongue, acts of worship and all good things belong to God. Peace, and God’s mercy and blessings be upon you, O Prophet. Peace be upon us and upon God’s upright servants. I testify that there is no god but God, and I testify that Muhammad is His servant and Messenger.” The tashahhud in case of some need is, “Praise be to God from whom we ask help and pardon. We seek refuge in God from the evils within ourselves. He whom God guides if has no one who can lead him astray, and he whom He leads astray has no one to guide him. I testify that there is no god but God, and   that Muhammad is His servant and Messenger.\" And one should recite three verses: “You who believe, fear God as He should be feared, and die only as Muslims;” (Al-Qur’an 3:102). “You who believe . . . fear God by whom you ask your mutual rights, and reverence the wombs. God has been watching over you;” (Al-Qur’an 4:1 which has ‘O Mankind.’). “You who believe, if you fear God and say what is true He will make your deeds sound and forgive you your sins. He who obeys God and His Messenger has attained a mighty success” (Al-Qur’an 33:70).\nAhmad, Tirmidhi, Abu Dawud, Nasa’i, Ibn Majah and Darimi transmitted it. In Tirmidhi’s Jami' Sufyan ath-Thauri gave a commentary on the three verses. Ibn Majah added “whom we praise” after “praise be to God”, and “from our evil actions” after “from the evils within ourselves.” After “mighty success” Darimi added that one should then express what he needs. In Sharh as-sunna it is transmitted on the authority of Ibn Mas’ud concerning the form of words for some need, whether marriage or something else."
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «كُلُّ خُطْبَةٍ لَيْسَ فِيهَا تَشَهُّدٌ فَهِيَ كَالْيَدِ الْجَذْمَاءِ» . رَوَاهُ التِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God's Messenger as saying, \"Every sermon which does not contain a tashahhud is like a hand cut off.” \n\nTirmidhi transmitted it, saying this is a hasan gharib tradition."
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «كُلُّ أَمْرٍ ذِي بَالٍ لَا يُبْدَأُ فِيهِ بِالْحَمْدِ لِلَّهِ فَهُوَ أَقْطَعُ» . رَوَاهُ ابْنُ مَاجَهْ",
+      "english": {
+        "narrator": "",
+        "text": "He reported God's Messenger as saying, \"Every important matter which is not begun by an expression of praise to God is maimed.” \n\nIbn Majah transmitted it."
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَعْلِنُوا هَذَا النِّكَاحَ وَاجْعَلُوهُ فِي الْمَسَاجِدِ وَاضْرِبُوا عَلَيْهِ بِالدُّفُوفِ» . رَوَاهُ التِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ غَرِيبٌ",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha reported God's Messenger as saying, “Make this marriage publicly known, solemnise it in the mosques, and play tambourines in honour of it.” \n\nTirmidhi transmitted it, saying this is a gharib tradition."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ مُحَمَّدِ بْنِ حَاطِبٍ الْجُمَحِيِّ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: \n\" فَصَلَ مَا بَيْنَ الْحَلَالِ وَالْحَرَامِ: الصَّوْتُ وَالدُّفُّ فِي النِّكَاحِ \". رَوَاهُ أَحْمد وَالتِّرْمِذِيّ وَالنَّسَائِيّ وَابْن مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "Muhammad b. Hatib al-Jumahi reported the Prophet as saying, “The distinction between what is lawful and what is unlawful is the song and the tambourine at a wedding.” \n\nAhmad, Tirmidhi, Nasa’i and Ibn Majah transmitted it."
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ قَالَتْ: كَانَتْ عِنْدِي جَارِيَةً مِنَ الْأَنْصَارِ زَوَّجْتُهَا فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يَا عَائِشَةُ أَلَا تُغَنِّينَ؟ فَإِنَّ هَذَا الْحَيَّ مِنَ الْأَنْصَارِ يُحِبُّونَ الْغِنَاءَ» . رَوَاهُ ابْن حبَان فِي صَحِيحه",
+      "english": {
+        "narrator": "‘A’isha said:",
+        "text": "I had a girl of the Ansar whom I gave in marriage, and God's Messenger said, \"Why do you not sing, ‘A’isha, for this clan of the Ansar like singing?” \n\nIbn Hibban transmitted it in his Sahih."
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَن ابْن عَبَّاس قَالَ: أنكحت عَائِشَة ذَات قَرَابَةٍ لَهَا مِنَ الْأَنْصَارِ فَجَاءَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «أَهَدَيْتُمُ الْفَتَاةَ؟» قَالُوا: نعم قَالَ: «أرسلتم مَعهَا من تغني؟» قَالَتْ: لَا فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" إِنَّ الْأَنْصَارَ قَوْمٌ فِيهِمْ غَزَلٌ فَلَوْ بَعَثْتُمْ مَعَهَا مَنْ يَقُولُ:\nأَتَيْنَاكُمْ أَتَيْنَاكُمْ فحيانا وحياكم \". رَوَاهُ ابْن مَاجَه",
+      "english": {
+        "narrator": "Ibn ‘Abbas said:",
+        "text": "‘A’isha gave a woman relative of hers among the Ansar in marriage and God’s Messenger came and said, “Have you escorted the girl to her husband?” On being told that they had, he asked whether they had sent someone along with her to sing, and when she replied that they had not, he said, “The Ansar are a people who give a place to love songs. I wish you had sent with her someone to say, ‘We have come to you, we have come to you; so may God preserve us and preserve you’.”\n\nIbn Majah transmitted it."
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ سَمُرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أَيُّمَا امْرَأَةٍ زَوَّجَهَا وَلِيَّانِ فَهِيَ لِلْأَوَّلِ مِنْهُمَا وَمَنْ بَاعَ بَيْعًا مِنْ رَجُلَيْنِ فَهُوَ لِلْأَوَّلِ مِنْهُمَا» . رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُد وَالنَّسَائِيّ والدارمي",
+      "english": {
+        "narrator": "",
+        "text": "Samura reported God’s Messenger as saying, “If two guardians have given any woman in marriage she marries the man for whom the first arranged, and if anyone sells anything to two men it goes to the first of them.” \n\nTirmidhi, Abu Dawud, Nasa’i and Darimi transmitted it."
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنِ ابْنِ مَسْعُودٍ قَالَ: كُنَّا نَغْزُو مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَعَنَا نِسَاءٌ فَقُلْنَا: أَلَا نَخْتَصِي؟ فَنَهَانَا عَنْ ذَلِكَ ثُمَّ رَخَّصَ لَنَا أَنْ نَسْتَمْتِعَ فَكَانَ أَحَدُنَا يَنْكِحُ الْمَرْأَةَ بِالثَّوْبِ إِلَى أَجَلٍ ثُمَّ قَرَأَ عَبْدُ اللَّهِ: (يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحَرِّمُوا طَيِّبَاتِ مَا أَحَلَّ اللَّهُ لَكُمْ)",
+      "english": {
+        "narrator": "Ibn Mas'ud said :",
+        "text": "When we were on an expedition along with God’s Messenger and had no women with us we asked whether we should not have ourselves castrated, but he forbade us to do that. Then he granted us licence to contract temporary marriages, and one would marry a woman giving a garment as dower up to a fixed date. Then ‘Abdallah recited, “You who believe, do not make unlawful the good things which God has made lawful for you” (Al-Qur’an 5:87).\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: إِنَّمَا كَانَتِ الْمُتْعَةُ فِي أول الْإِسْلَام كَانَ الرجل يقدم الْبَلدة لَيْسَ لَهُ بِهَا مَعْرِفَةٌ فَيَتَزَوَّجُ الْمَرْأَةَ بِقَدْرِ مَا يرى أَنَّهُ يُقِيمُ فَتَحْفَظُ لَهُ مَتَاعَهُ وَتُصْلِحُ لَهُ شَيَّهُ حَتَّى إِذَا نَزَلَتِ الْآيَةُ (إِلَّا عَلَى أَزوَاجهم أَو مَا ملكت أَيْمَانهم)\nقَالَ ابْنُ عَبَّاسٍ: فَكُلُّ فَرْجٍ سِوَاهُمَا فَهُوَ حرَام. رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "Ibn ‘Abbas said:",
+        "text": "The temporary marriage applied only in the early days of Islam. A man would come to a settlement where he had no acquaintance and marry a woman for the period it was thought he would stay there, and she would look after his belongings and cook for him. But Ibn ‘Abbas said that when the verse came down, “Except their wives or the captives their right hands possess,” (Al-Qur’an 23:6) intercourse with anyone else became unlawful. \n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَامِرِ بْنِ سَعْدٍ قَالَ: دَخَلْتُ عَلَى قَرَظَةَ بْنِ كَعْبٍ وَأَبِي مَسْعُودٍ الْأَنْصَارِيِّ فِي عُرْسٍ وَإِذَا جِوَارٍ يُغَنِّينَ فَقُلْتُ: أَيْ صَاحِبَيْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَهْلَ بَدْرٍ يُفْعَلُ هَذَا عِنْدَكُمْ؟ فَقَالَا: اجْلِسْ إِنْ شِئْتَ فَاسْمَعْ مَعَنَا وَإِنْ شِئْتَ فَاذْهَبْ فَإِنَّهُ قَدْ رَخَّصَ لَنَا فِي اللَّهْوِ عِنْدَ الْعُرْسِ. رَوَاهُ النَّسَائِيّ",
+      "english": {
+        "narrator": "A‘mir b. Sa'd said :",
+        "text": "Going in and finding Qaraza b. Ka‘b and Abu Mas'ud al-Ansari at a wedding where girls were singing I said, “Is this being done in the presence of you two who are companions of God’s Messenger and were present at Badr ?” They replied, “Sit down if you wish and listen along with us, or go away if you wish, for we have been given licence for amusement at a wedding.” \n\nNasa’i transmitted it."
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يُجْمَعُ بَيْنَ الْمَرْأَة وعمتها وَلَا بَين الْمَرْأَة وخالتها»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God's Messenger as saying, “A man may not marry a woman and her paternal aunt, or a woman and her maternal aunt.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يَحْرُمُ مِنَ الرَّضَاعَةِ مَا يحرم من الْولادَة» . رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha reported God’s Messenger as saying, “What is unlawful by reason of consanguinity is unlawful by reason of fosterage.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْهَا قَالَتْ: جَاءَ عَمِّي مِنَ الرَّضَاعَةِ فَاسْتَأْذَنَ عَلَيَّ فَأَبَيْتُ أَنْ آذَنَ لَهُ حَتَّى أَسْأَلَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَجَاءَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَسَأَلْتُهُ فَقَالَ: «أَنَّهُ عَمُّكِ فَأْذَنِي لَهُ» قَالَت: فَقلت: يَا رَسُولَ اللَّهِ إِنَّمَا أَرْضَعَتْنِي الْمَرْأَةُ وَلَمْ يرضعني الرَّجُلُ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّه عمك فليلج عَلَيْك» وَذَلِكَ بَعْدَمَا ضرب علينا الْحجاب",
+      "english": {
+        "narrator": "She said:",
+        "text": "My paternal uncle through fosterage came and asked permission to enter, but I refused to allow him till I asked God’s Messenger. When he came I asked him and he said, “He is your paternal uncle, so give him permission.” I replied, “Messenger of God, it was only the woman who suckled me and not the man” whereupon he said, “He is your paternal uncle, so let him come in where you are.” That was after seclusion was instituted for us. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: يَا رَسُولَ اللَّهِ هَلْ لَكَ فِي بِنْتِ عَمِّكَ حَمْزَةَ؟ فَإِنَّهَا أَجْمَلُ فَتَاةٍ فِي قُرَيْشٍ فَقَالَ لَهُ: «أَمَا عَلِمْتَ أَنَّ حَمْزَةَ أَخِي مَنِ الرَّضَاعَةِ؟ وَأَنَّ اللَّهَ حَرَّمَ مِنَ الرَّضَاعَةِ مَا حرم من النّسَب؟» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "‘Ali said, “Messenger of God, would you like the daughter of your paternal uncle Hamza, for she is the most beautiful girl in Quraish?” He replied, “Do you not know that Hamza is my foster-brother, and that God has prohibited by reason of fosterage what He has prohibited by reason of genealogy?” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أُمِّ الْفَضْلِ قَالَتْ: أَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا تُحَرِّمُ الرضعة أَو الرضعتان»\nوَفِي رِوَايَةِ عَائِشَةَ قَالَ: «لَا تُحَرِّمُ الْمَصَّةُ والمصتان»\nوَفِي أُخْرَى لِأُمِّ الْفَضْلِ قَالَ: «لَا تُحَرِّمُ الإملاجة والإملاجتان» . هَذِه رِوَايَات لمُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Umm al-Fadl stated that God’s Prophet said, “Being suckled once or twice does not make marriage unlawful.” In ‘A’isha’s version he said, “One or two sucks do not make marriage unlawful.” In another by Umm al-Fadl he said, “One suckling or two does not make marriage unlawful.” \n\nThese are versions by Muslim."
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ قَالَتْ: كَانَ فِيمَا أُنْزِلَ مِنَ الْقُرْآنِ: «عَشْرُ رَضَعَاتٍ مَعْلُومَاتٍ يُحَرِّمْنَ» . ثُمَّ نُسِخْنَ بِخَمْسٍ مَعْلُومَاتٍ فَتُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهِيَ فِيمَا يُقْرَأُ مِنَ الْقُرْآنِ. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha said that in what was sent down in the Qur’an ten known sucklings made marriage unlawful, but they were abrogated by five known ones, and when God’s Messenger died these words were among what was recited in the Qur’an. \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْهَا: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَخَلَ عَلَيْهَا وَعِنْدَهَا رَجُلٌ فَكَأَنَّهُ كَرِهَ ذَلِكَ فَقَالَت: إِنَّه أخي فَقَالَ: «انظرن من إخوانكن؟ فَإِنَّمَا الرضَاعَة من المجاعة»",
+      "english": {
+        "narrator": "",
+        "text": "She said that the Prophet visited her when a man was with her and he seemed to disapprove of that. She told him that he was her brother and he replied, “Consider* who your brothers are, for fosterage is that consequent on hunger” (Fosterage applies only to infants and not to children who are able to take solid food).\n* The verb is in the plural, indicating that this is a general instruction and not simply a reply to A’isha.\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عُقْبَةَ بْنِ الْحَارِثِ: أَنَّهُ تَزَوَّجَ ابْنَةً لِأَبِي إِهَابِ بْنِ عَزِيزٍ فَأَتَتِ امْرَأَةٌ فَقَالَتْ: قَدْ أَرْضَعْتُ عُقْبَةَ وَالَّتِي تَزَوَّجَ بِهَا فَقَالَ لَهَا عُقْبَةُ: مَا أَعْلَمُ أَنَّكِ قَدْ أَرْضَعْتِنِي وَلَا أَخْبَرْتِنِي فَأَرْسَلَ إِلَى آلِ أَبِي إِهَابٍ فَسَأَلَهُمْ فَقَالُوا: مَا عَلِمْنَا أَرْضَعْتَ صَاحِبَتُنَا فَرَكِبَ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالْمَدِينَةِ فَسَأَلَهُ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «كَيْفَ وَقَدْ قِيلَ؟» فَفَارَقَهَا عُقْبَةُ وَنَكَحَتْ زوجا غَيره. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘Uqba b. al-Harith said he married a daughter of Ihab b. 'Aziz and a woman came and said she had suckled 'Uqba and the woman whom he had married, to which he replied, “I am not aware that you suckled me, and you did not inform me.” So he sent to the family of Abu Ihab and asked them, and when they told him that they did not know whether she had suckled their daughter he rode to the Prophet in Medina and asked him. God’s Messenger said, “How can you hesitate when you have been told?” ‘Uqba therefore separated from her and she married another husband. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيُّ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمَ حُنَيْنٍ بَعَثَ جَيْشًا إِلَى أَوْطَاسٍ فَلَقُوا عَدُوًّا فَقَاتَلُوهُمْ فَظَهَرُوا عَلَيْهِمْ وَأَصَابُوا لَهُمْ سَبَايَا فَكَأَنَّ نَاسًا مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَحَرَّجُوا مِنْ غِشْيَانِهِنَّ مِنْ أَجْلِ أَزْوَاجِهِنَّ مِنَ الْمُشْرِكِينَ فَأَنْزَلَ اللَّهُ تَعَالَى فِي ذَلِكَ (وَالْمُحْصَنَاتُ مِنَ النِّسَاء إِلَّا مَا ملكت أَيْمَانكُم)\nأَيْ فَهُنَّ لَهُمْ حَلَالٌ إِذَا انْقَضَتْ عِدَّتُهُنَّ. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Abu Sa'id al-Khudri said:",
+        "text": "At the battle of Hunain God’s Messenger sent an army to Autas, and they met an enemy and fought with them. . Having prevailed over them and taken captives the Prophet’s companions seemed to hold back from having intercourse with them because of their husbands among the polytheists. Then God most high sent down regarding that, “And women already married, except those whom your right hands possess” (Al-Qur’an 4:24). That means that they were lawful for them when their ‘idda* period came to an end. \n* The period which a widow or divorced woman must observe before remarriage. See Ch. 26.\n\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى أَنْ تُنْكَحَ الْمَرْأَةُ عَلَى عَمَّتِهَا أَوِ الْعَمَّةُ عَلَى بِنْتِ أَخِيهَا وَالْمَرْأَةُ عَلَى خَالَتِهَا أَوِ الْخَالَةُ عَلَى بِنْتِ أُخْتِهَا لَا تُنْكَحُ الصُّغْرَى عَلَى الْكُبْرَى وَلَا الْكُبْرَى عَلَى الصُّغْرَى. رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ والدارمي وَالنَّسَائِيّ وَرِوَايَته إِلَى قَوْله: بنت أُخْتهَا",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira said that God’s Messenger forbade that a woman should be married to one who had married her paternal aunt, or a paternal aunt to one who had married her brother’s daughter, or a woman to one who had married her maternal aunt, or a maternal aunt to one who had married her sister's daughter. A younger sister must not be married to one who has married an elder sister, nor an elder sister to one who has married a younger sister. \n\nTirmidhi, Abu Dawud, Darimi and Nasa’i transmitted it, Nasa’i’s version ending with “her sister’s daughter.”"
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ الْبَرَاءِ بْنِ عَازِبٍ قَالَ: مَرَّ بِي خَالِي أَبُو بردة بن دِينَار وَمَعَهُ لِوَاءٌ فَقُلْتُ: أَيْنَ تَذْهَبُ؟ قَالَ: بَعَثَنِي النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى رَجُلٍ تَزَوَّجَ امْرَأَةَ أَبِيهِ آتِيهِ بِرَأْسِهِ. رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُد",
+      "english": {
+        "narrator": "Al-Bara’ b. ‘Azib said:",
+        "text": "My maternal uncle Abu Burda b. Niyar passed me carrying a standard, and I asked him where he was going. He replied, “The Prophet has sent me to bring him the head of a man who has married his father’s wife.” \nA version by Abu Dawud, Nasa’i, Ibn Majah and Darimi has, “He has ordered me to cut off his head and take his property.” This version has “my paternal uncle” instead of “my maternal uncle.”\n\nTirmidhi and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أُمِّ سَلَمَةَ قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يُحَرِّمُ مِنَ الرِّضَاعِ إِلَّا مَا فَتَقَ الْأَمْعَاءَ فِي الثَّدْيِ وَكَانَ قبل الْفِطَام» . رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Umm Salama reported God’s Messenger as saying, “The only suckling which makes marriage unlawful is that which is taken from, the breast and enters the bowels, and is taken before the time of weaning.” \n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ حَجَّاجِ بْنِ حَجَّاجٍ الْأَسْلَمِيِّ عَنْ أَبِيهِ أَنَّهُ قَالَ: يَا رَسُولَ اللَّهِ مَا يُذْهِبُ عَنِّي مَذَمَّةَ الرِّضَاعِ؟ فَقَالَ: \n\" غُرَّةٌ: عَبْدٌ أَوْ أَمَةٌ \". رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ وَالنَّسَائِيُّ وَالدَّارِمِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "Hajjaj b. Hajjaj al-Aslami quoted his father as saying, “Messenger of God, what will remove from me the obligation due for fostering a child.”* He replied, “A slave or a slave-girl of good quality.” \n*It is said that Arabs liked to give a woman who had fostered a child something over and above the hire. This tradition deals with the amount to be considered full compensation for services rendered. \n\nTirmidhi, Abu Dawud, Nasa’i and Darimi transmitted it."
+      }
+    },
+    {
+      "id": 93,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي الطُّفَيْلِ الْغَنَوِيِّ قَالَ: كُنْتُ جَالِسًا مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذْ أَقْبَلَتِ امْرَأَةٌ فَبَسَطَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رِدَاءَهُ حَتَّى قَعَدَتْ عَلَيْهِ فَلَمَّا ذَهَبَتْ قِيلَ هَذِهِ أَرْضَعَتِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "Abut Tufail al-Ghanawi said:",
+        "text": "When I was sitting with the Prophet a woman came forward and the Prophet spread out his cloak and she sat on it. Then when she went away someone said that this woman had suckled the Prophet. \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 94,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُ أَنَّ غيلَان بن سَلمَة الثَّقَفِيَّ أَسْلَمَ وَلَهُ عَشْرُ نِسْوَةٍ فِي الْجَاهِلِيَّةِ فَأَسْلَمْنَ مَعَهُ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَمْسِكْ أَرْبَعًا وَفَارِقْ سَائِرَهُنَّ» . رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيّ وَابْن مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar told that Ghailan b. Salama ath-Thaqafi accepted Islam and that he had had ten wives in the pre-Islamic period who accepted Islam along with him; so the Prophet told him to keep four and separate from the rest of them. \n\nAhmad, Tirmidhi and Ibn Majah transmitted it."
+      }
+    },
+    {
+      "id": 95,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ نَوْفَلِ بْنِ مُعَاوِيَةَ قَالَ: أَسْلَمْتُ وَتَحْتِي خَمْسُ نِسْوَةٍ فَسَأَلْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «فَارِقْ وَاحِدَةً وَأَمْسِكْ أَرْبَعًا» فَعَمَدْتُ إِلَى أَقْدَمِهِنَّ صُحْبَةً عِنْدِي: عَاقِرٍ مُنْذُ سِتِّينَ سنة ففارقتها. رَوَاهُ فِي شرح السّنة",
+      "english": {
+        "narrator": "Naufal b. Mu’awiya said:",
+        "text": "When I accepted Islam I had five wives, so I consulted the Prophet and he said, “Separate from one and keep four.” I therefore decided on the one who had been longest with me and had been barren for sixty years,* and separated from her. \n* This statement may seem strange when one considers that Naufal is said to have died in the Caliphate of Yazid b. Mu'awiya (60-64 A.H.). Some say he lived 60 years in the pre-Islamic period and 60 years in Islam. Others says he died aged 100. He is said to have accepted Islam at the Conquest of Mecca. The tradition cannot mean that he had been married to this woman for 60 years; it probably indicates that she was both barren and much older than he. She was possibly his first wife. Cf. Ibn Abu Hatim, al-Jarh wat-ta’dil, IV, i, 487 i.; Isti'ab, p. 293 ; Ibn Hajar, Tahdhib, x, 492; Isaba, iii, 1191.\n\nIt is transmitted in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 96,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ الضَّحَّاكِ بْنِ فَيْرُوزٍ الدَّيْلَمِيِّ عَنْ أَبِيهِ قَالَ: قَلْتُ: يَا رَسُولَ اللَّهِ إِنِّي أَسْلَمْتُ وتحتي أختَان قَالَ: «اختر أيتها شِئْتَ» . رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ وَابْنُ مَاجَهْ",
+      "english": {
+        "narrator": "",
+        "text": "Ad-Dahhak b. Fairuz ad-Dailamli told on his father’s authority that he had said, \"Messenger of God, I have accepted Islam and I am married to two sisters.\" He replied, “Choose whichever of them you wish.” \n\nTirmidhi, Abu Dawud and Ibn Majah transmitted it."
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 307,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَشُجَاعُ بْنُ مَخْلَدٍ، - وَاللَّفْظُ لأَبِي بَكْرٍ - قَالاَ حَدَّثَنَا \n حُسَيْنٌ، - وَهُوَ ابْنُ عَلِيٍّ الْجُعْفِيُّ - عَنْ زَائِدَةَ، عَنِ السُّدِّيِّ، عَنْ عَبْدِ اللَّهِ الْبَهِيِّ، عَنْ عَائِشَةَ،\n قَالَتْ سَأَلَ رَجُلٌ النَّبِيَّ صلى الله عليه وسلم أَىُّ النَّاسِ خَيْرٌ قَالَ ‏\n\"‏ الْقَرْنُ الَّذِي أَنَا فِيهِ\n ثُمَّ الثَّانِي ثُمَّ الثَّالِثُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "'A'isha reported that a person asked Allah's Apostle (ﷺ) as to who amongst the people were the best. He said:",
+    "text": "Of the generation to which I belong, then of the second generation (generation adjacent to my generation), then of the third generation (generation adjacent to the second generation)."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "chapterId": 58,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَعْطُوا السَّائِلَ وَإِنْ جَاءَ عَلَى فَرَسٍ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Malik related to me from Zayd ibn Aslam that the Messenger of\nAllah, may Allah bless him and grant him peace, said, \"Give to a\nbeggar even if he comes on a horse.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

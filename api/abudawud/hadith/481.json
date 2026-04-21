@@ -1,0 +1,16 @@
+{
+  "id": 481,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ أَبِي لُبَابَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ قَتْلِ الْجِنَّانِ الَّتِي تَكُونُ فِي الْبُيُوتِ إِلاَّ أَنْ يَكُونَ ذَا الطُّفْيَتَيْنِ وَالأَبْتَرَ فَإِنَّهُمَا يَخْطِفَانِ الْبَصَرَ وَيَطْرَحَانِ مَا فِي بُطُونِ النِّسَاءِ ‏.‏",
+  "english": {
+    "narrator": "Abu Lubabah said:",
+    "text": "The Messenger of Allah(ﷺ) prohibited killing the jinnan(small snakes) that are in the house, except the one which have two streaks and the one with small tail, for they obliterate the eyesight and cause miscarriage."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

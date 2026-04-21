@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "bookId": 14,
+    "arabic": "كتاب الإيمان",
+    "english": "Faith",
+    "hadithsCount": 188
+  },
+  {
+    "id": 2,
+    "bookId": 14,
+    "arabic": "كتاب العلم",
+    "english": "Knowledge",
+    "hadithsCount": 75
+  },
+  {
+    "id": 3,
+    "bookId": 14,
+    "arabic": "كتاب الطهارة",
+    "english": "Purification",
+    "hadithsCount": 258
+  },
+  {
+    "id": 4,
+    "bookId": 14,
+    "arabic": "كتاب الصلاة",
+    "english": "Prayer",
+    "hadithsCount": 921
+  },
+  {
+    "id": 5,
+    "bookId": 14,
+    "arabic": "كتاب الجنائز",
+    "english": "Funerals",
+    "hadithsCount": 243
+  },
+  {
+    "id": 6,
+    "bookId": 14,
+    "arabic": "كتاب الزكاة",
+    "english": "Zakat",
+    "hadithsCount": 180
+  },
+  {
+    "id": 7,
+    "bookId": 14,
+    "arabic": "كتاب الصوم",
+    "english": "Fasting",
+    "hadithsCount": 148
+  },
+  {
+    "id": 8,
+    "bookId": 14,
+    "arabic": "كتاب فضائل القرآن",
+    "english": "The Excellent Qualities of the Qur'an",
+    "hadithsCount": 112
+  },
+  {
+    "id": 9,
+    "bookId": 14,
+    "arabic": "كتاب الدعوات",
+    "english": "Supplications",
+    "hadithsCount": 272
+  },
+  {
+    "id": 10,
+    "bookId": 14,
+    "arabic": "كتاب المناسك",
+    "english": "The Rites of Pilgrimage",
+    "hadithsCount": 246
+  },
+  {
+    "id": 11,
+    "bookId": 14,
+    "arabic": "كتاب البيوع",
+    "english": "Business Transactions",
+    "hadithsCount": 274
+  },
+  {
+    "id": 12,
+    "bookId": 14,
+    "arabic": "كتاب الفرائض والوصايا",
+    "english": "Inheritance and Wills",
+    "hadithsCount": 37
+  },
+  {
+    "id": 13,
+    "bookId": 14,
+    "arabic": "كتاب النكاح",
+    "english": "Marriage",
+    "hadithsCount": 293
+  },
+  {
+    "id": 14,
+    "bookId": 14,
+    "arabic": "كتاب العتق",
+    "english": "Emancipation",
+    "hadithsCount": 24
+  },
+  {
+    "id": 15,
+    "bookId": 14,
+    "arabic": "كتاب الإيمان والنذور",
+    "english": "Oaths and Vows",
+    "hadithsCount": 39
+  },
+  {
+    "id": 16,
+    "bookId": 14,
+    "arabic": "كتاب القصاص",
+    "english": "Retaliation",
+    "hadithsCount": 100
+  },
+  {
+    "id": 17,
+    "bookId": 14,
+    "arabic": "كتاب الحدود",
+    "english": "Prescribed Punishments",
+    "hadithsCount": 94
+  },
+  {
+    "id": 18,
+    "bookId": 14,
+    "arabic": "كتاب الإمارة والقضاء",
+    "english": "The Offices of Commander and Qadi",
+    "hadithsCount": 121
+  },
+  {
+    "id": 19,
+    "bookId": 14,
+    "arabic": "كتاب الجهاد",
+    "english": "Jihad",
+    "hadithsCount": 273
+  },
+  {
+    "id": 20,
+    "bookId": 14,
+    "arabic": "كتاب الصيد والذبائح",
+    "english": "Game and Animals Which May Be Slaughtered",
+    "hadithsCount": 93
+  },
+  {
+    "id": 21,
+    "bookId": 14,
+    "arabic": "كتاب الأطعمة",
+    "english": "Foods",
+    "hadithsCount": 135
+  },
+  {
+    "id": 22,
+    "bookId": 14,
+    "arabic": "كتاب اللباس",
+    "english": "Clothing",
+    "hadithsCount": 193
+  },
+  {
+    "id": 23,
+    "bookId": 14,
+    "arabic": "كتاب الطب والرقى",
+    "english": "Medicine and Spells",
+    "hadithsCount": 88
+  },
+  {
+    "id": 24,
+    "bookId": 14,
+    "arabic": "كتاب الرؤيا",
+    "english": "Visions",
+    "hadithsCount": 20
+  },
+  {
+    "id": 25,
+    "bookId": 14,
+    "arabic": "مقدمة المؤلف",
+    "english": "Author's Introduction",
+    "hadithsCount": 1
+  }
+]

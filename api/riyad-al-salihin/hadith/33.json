@@ -1,0 +1,16 @@
+{
+  "id": 33,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة رضي الله عنها أنها سألت رسول الله صلى الله عليه وسلم عن الطاعون، فأخبرها أنه كان عذاباً يبعثه الله تعالى على من يشاء، فجعله الله تعالى رحمة للمؤمنين، فليس من عبد يقع في الطاعون فيمكث في  بلده صابراً محتسباً يعلم أنه لا يصيبه إلا ما كتب الله له إلا كان له مثل أجر الشهيد‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
+    "text": "I asked the Messenger of Allah (ﷺ) about pestilence and he said, \"It is a punishment which Allah sends upon whomsoever He wills, but Allah has made it as a mercy to the believers. Anyone who remains in a town which is plagued with pestilence maintaining patience expecting the reward from Allah, and knowing that nothing will befall him other than what Allah has foreordained for him, he would receive a reward of Shaheed\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

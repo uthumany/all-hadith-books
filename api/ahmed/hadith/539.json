@@ -1,0 +1,16 @@
+{
+  "id": 539,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا ابْنُ أَبِي لَيْلَى، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَلِمَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُقْرِئُنَا الْقُرْآنَ مَا لَمْ يَكُنْ جُنُبًا‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) used to teach us the Qur`an so long as he was not junub."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

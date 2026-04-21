@@ -1,0 +1,16 @@
+{
+  "id": 486,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ عَجْلاَنَ، بِهَذَا الْحَدِيثِ مُخْتَصَرًا قَالَ ‏\n\"‏ فَلْيُؤْذِنْهُ ثَلاَثًا فَإِنْ بَدَا لَهُ بَعْدُ فَلْيَقْتُلْهُ فَإِنَّهُ شَيْطَانٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "The tradition mentioned above has also been transmitted by Ibn 'Ajilan through a different chain of narrators briefly. This version has:",
+    "text": "He should give it a warning three times. If it appears to him after that, he should kill it, for it is a devil."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

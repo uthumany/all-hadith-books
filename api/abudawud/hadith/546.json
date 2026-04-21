@@ -1,0 +1,16 @@
+{
+  "id": 546,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ سُمَىٍّ، مَوْلَى أَبِي بَكْرٍ عَنْ أَبِي صَالِحٍ السَّمَّانِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا قَالَ الإِمَامُ ‏{‏ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلاَ الضَّالِّينَ ‏}‏ فَقُولُوا ‏\"‏ آمِينَ ‏\"‏ ‏.‏ فَإِنَّهُ مَنْ وَافَقَ قَوْلُهُ قَوْلَ الْمَلاَئِكَةِ غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Abu Hurairah reported the prophet (ﷺ) as saying; when the imam recites “ not of those with whom thou art angry, nor of those who go astray” (surah al-fatihah,verse 7) say Amin, for  if one’s words (utterance of amin) synchronise with those of the angles, he will be forgiven his past sins."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

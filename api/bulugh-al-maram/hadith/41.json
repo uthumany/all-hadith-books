@@ -1,0 +1,16 @@
+{
+  "id": 41,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ كُلُّ بَنِي آدَمَ خَطَّاءٌ, وَخَيْرُ اَلْخَطَّائِينَ اَلتَّوَّابُونَ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ, وَابْنُ مَاجَهْ, وَسَنَدُهُ قَوِيٌّ.‏  1‏ .‏‏1 ‏- حسن.‏ رواه الترمذي (2499)‏، وابن ماجه (2451)‏.‏",
+  "english": {
+    "narrator": "Anas (RAA) narrated that Allah's Messenger (ﷺ) said:",
+    "text": "“All the sons of Adam are sinners, but the best of sinners are those who repent often.” Related by At·Tirmidhi and Ibn Majah with a strong chain of narrators."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

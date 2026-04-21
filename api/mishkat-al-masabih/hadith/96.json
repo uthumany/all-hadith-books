@@ -1,0 +1,16 @@
+{
+  "id": 96,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَن مَالك قَالَ: أَنا أكره ن يُلْبَسَ الْغِلْمَانُ شَيْئًا مِنَ الذَّهَبِ لِأَنَّهُ بَلَغَنِي أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نهى عَن التختمِ بالذهبِ فَأَنا أكره لِلرِّجَالِ الْكَبِيرِ مِنْهُمْ وَالصَّغِيرِ. رَوَاهُ فِي الْمُوَطَّأِ",
+  "english": {
+    "narrator": "Malik said :",
+    "text": "I dislike youths being dressed with any gold, for I have heard that God's messenger forbade wearing a gold signet-ring ; and I disapprove of it for men, both old and young. \nHe transmitted it in al-Muwatta."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

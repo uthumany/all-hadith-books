@@ -1,0 +1,16 @@
+{
+  "id": 46,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا يَحْيَى بْنُ دُرُسْتَ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ كُلُّ مُسْكِرٍ خَمْرٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Ibn 'Umar said:",
+    "text": "\"The Messenger of Allah  said: 'Every intoxicant is Khamr.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

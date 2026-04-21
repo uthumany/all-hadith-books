@@ -1,0 +1,16 @@
+{
+  "id": 423,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنِي أَبُو إِسْحَاقَ، عَنْ هَانِئِ بْنِ هَانِئٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ أَنَّ عَمَّارًا، اسْتَأْذَنَ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ الطَّيِّبُ الْمُطَيَّبُ‏.‏",
+  "english": {
+    "narrator": "It was narrated from `Ali (رضي الله عنه) that ‘Ammar asked permission to enter upon the Prophet (ﷺ) and he said:",
+    "text": "`The good one, the purified one.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

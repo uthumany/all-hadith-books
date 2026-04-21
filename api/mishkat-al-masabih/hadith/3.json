@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "chapterId": 24,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم قَالَ: «من رَآنِي فِي الْمَنَامِ فَقَدْ رَآنِي فَإِنَّ الشَّيْطَانَ لَا يَتَمَثَّلُ فِي صُورَتِي»",
+  "english": {
+    "narrator": "Abu Huraira reported God’s messenger as saying:",
+    "text": "\"He who sees me in a dream has seen me, for the devil does not appear in my form.” \n\n(Bukhari and Muslim.)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

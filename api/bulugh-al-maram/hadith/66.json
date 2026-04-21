@@ -1,0 +1,16 @@
+{
+  "id": 66,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي اَلدَّرْدَاءِ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ اَللَّهَ يُبْغِضُ اَلْفَاحِشَ اَلْبَذِيءَ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ, وَصَحَّحَهُ.‏  1‏ .‏‏1 ‏- .‏ صحيح.‏ رواه الترمذي (2002)‏، وله شواهد، وأوله:\" ما شيء أثقل في ميزان المؤمن من خلق حسن، فإن الله.‏.‏.‏.‏.‏.‏\" الحديث.‏ وسيأتي برقم (1623)‏.‏ وقال:\" هذا حديث حسن صحيح\".‏",
+  "english": {
+    "narrator": "Abu ad-Darda (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Allah hates the profligate and the obscene.” Related by At-Tirmidhi who graded it to be Sahih."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

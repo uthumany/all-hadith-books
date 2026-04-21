@@ -1,0 +1,16 @@
+{
+  "id": 41050,
+  "chapterId": 1,
+  "bookId": 17,
+  "arabic": "لَا شَکَرَ اللهَ مَنْ لَّا یَشْکُرُ النَّاسَ",
+  "english": {
+    "narrator": "",
+    "text": "He does not thank Allah who does not thank people."
+  },
+  "book": {
+    "id": 17,
+    "name": "The Forty Hadith of Shah Waliullah",
+    "arabic": "أربعون الشاه ولي الله",
+    "slug": "waliullah-40"
+  }
+}

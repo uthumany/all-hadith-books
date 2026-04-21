@@ -1,0 +1,16 @@
+{
+  "id": 70,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ كَفَّ غَضَبَهُ, كَفَّ اَللَّهُ عَنْهُ عَذَابَهُ }  أَخْرَجَهُ اَلطَّبَرَانِيُّ فِي\n\" اَلْأَوْسَطِ\".‏  1‏ .‏‏1 ‏- صحيح بشواهده، وحديث أنس عند أبي يعلى، والدولابي أيضا.‏",
+  "english": {
+    "narrator": "Anas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“If one restrained his anger, Allah will keep His punishment from him (on the Day of Resurrection).” Related by At-Tabarani in al-Awsat."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

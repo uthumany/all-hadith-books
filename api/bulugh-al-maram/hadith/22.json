@@ -1,0 +1,16 @@
+{
+  "id": 22,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { وَاَلَّذِي نَفْسِي بِيَدِهِ لَا يُؤْمِنُ عَبْدٌ حَتَّى يُحِبَّ لِجَارِهِ ‏- أَوْ لِأَخِيهِ‏- مَا يُحِبُّ لِنَفْسِهِ }  مُتَّفَقٌ عَلَيْهِ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (13)‏، ومسلم (45)‏ (72)‏ واللفظ لمسلم.‏",
+  "english": {
+    "narrator": "Anas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“By Him in Whose Hand my soul is, a slave of Allah does not truly believe till he wishes for his neighbor what he wishes for himself.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

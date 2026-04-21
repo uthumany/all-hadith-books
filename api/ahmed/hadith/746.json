@@ -1,0 +1,16 @@
+{
+  "id": 746,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ سُوَيْدِ بْنِ غَفَلَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَكُونُ فِي آخِرِ الزَّمَانِ قَوْمٌ يَقْرَءُونَ الْقُرْآنَ لَا يُجَاوِزُ تَرَاقِيَهُمْ يَمْرُقُونَ مِنْ الْإِسْلَامِ كَمَا يَمْرُقُ السَّهْمُ مِنْ الرَّمِيَّةِ قِتَالُهُمْ حَقٌّ عَلَى كُلِّ مُسْلِمٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) said: `At the end of time, there will be people who recite Qur`an but it will go no further than their collarbones; they will pass out of Islam as the arrow passes out of the prey. Fighting them is a duty upon every Muslim.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

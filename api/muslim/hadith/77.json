@@ -1,0 +1,16 @@
+{
+  "id": 77,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا الْحَسَنُ الْحُلْوَانِيُّ، قَالَ سَمِعْتُ عَفَّانَ، قَالَ سَمِعْتُ أَبَا عَوَانَةَ، قَالَ مَا بَلَغَنِي عَنِ الْحَسَنِ، حَدِيثٌ إِلاَّ أَتَيْتُ بِهِ أَبَانَ بْنَ أَبِي عَيَّاشٍ فَقَرَأَهُ عَلَىَّ ‏.‏",
+  "english": {
+    "narrator": "Al-Hasan al-Hulwānī narrated to us, he said, I heard Affān say, I heard Abū Awānah say:",
+    "text": "‘A Ḥadīth did not reach me on authority of al-Hasan except I presented it to Abān bin Abī Ayyāsh , then he read it to me ’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

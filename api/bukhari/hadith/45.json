@@ -1,0 +1,16 @@
+{
+  "id": 45,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، قَالَ النَّبِيُّ صلى الله عليه وسلم لِرَجُلٍ ‏\n\"‏ أَمَعَكَ مِنَ الْقُرْآنِ شَىْءٌ ‏\"‏‏.‏ قَالَ نَعَمْ سُورَةُ كَذَا وَسُورَةُ كَذَا‏.‏ لِسُوَرٍ سَمَّاهَا‏.‏",
+  "english": {
+    "narrator": "Narrated Sahl bin Sa`d:",
+    "text": "The Prophet (ﷺ) said to a man, \"Have you got anything of the Qur'an?\" The man said, \"Yes, such-andsuch \nSura, and such-and-such Sura,\" naming the Suras."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

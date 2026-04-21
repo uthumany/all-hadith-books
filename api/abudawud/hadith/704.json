@@ -1,0 +1,16 @@
+{
+  "id": 704,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا النُّفَيْلِيُّ عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا زُهَيْرٌ، عَنْ سِمَاكٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَخْطُبُ قَائِمًا ثُمَّ يَجْلِسُ ثُمَّ يَقُومُ فَيَخْطُبُ قَائِمًا فَمَنْ حَدَّثَكَ أَنَّهُ كَانَ يَخْطُبُ جَالِسًا فَقَدْ كَذَبَ فَقَالَ فَقَدْ وَاللَّهِ صَلَّيْتُ مَعَهُ أَكْثَرَ مِنْ أَلْفَىْ صَلاَةٍ ‏.‏",
+  "english": {
+    "narrator": "Jabir b. Samurah said:",
+    "text": "The Messenger of Allah (ﷺ) used to deliver the sermon standing, then he would sit down, then stand and preach standing. If anyone tells you he preached sitting, he is lying. I swear by Allah that I offered along with more than two thousand prayers."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

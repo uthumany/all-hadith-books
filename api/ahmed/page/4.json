@@ -1,0 +1,510 @@
+{
+  "page": 4,
+  "perPage": 50,
+  "totalPages": 28,
+  "totalCount": 1374,
+  "nextPage": 5,
+  "prevPage": 3,
+  "items": [
+    {
+      "id": 74,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا هُشَيْمٌ، أَنْبَأَنَا حُمَيْدٌ، عَنْ أَنَسٍ، قَالَ قَالَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ وَافَقْتُ رَبِّي فِي ثَلَاثٍ قُلْتُ يَا رَسُولَ اللَّهِ لَوْ اتَّخَذْنَا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى فَنَزَلَتْ ‏{‏وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى‏}‏ وَقُلْتُ يَا رَسُولَ اللَّهِ إِنَّ نِسَاءَكَ يَدْخُلُ عَلَيْهِنَّ الْبَرُّ وَالْفَاجِرُ فَلَوْ أَمَرْتَهُنَّ أَنْ يَحْتَجِبْنَ فَنَزَلَتْ آيَةُ الْحِجَابِ وَاجْتَمَعَ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نِسَاؤُهُ فِي الْغَيْرَةِ فَقُلْتُ لَهُنَّ ‏{‏عَسَى رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ‏}‏ قَالَ فَنَزَلَتْ كَذَلِكَ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "Umar said: I agreed with my Lord on three matters, I said: O Messenger of Allah (ﷺ) , why don't we take the Maqam of Ibraheem as a place of prayer? Then the verse was revealed: ` And take you(people) the Maqam (place) of Ibraheem (Abraham) , and it was revealed like that."
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الْأَعْلَى بْنُ عَبْدِ الْأَعْلَى، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ قَالَ سَمِعْتُ هِشَامَ بْنَ حَكِيمِ بْنِ حِزَامٍ، يَقْرَأُ سُورَةَ الْفُرْقَانِ فَقَرَأَ فِيهَا حُرُوفًا لَمْ يَكُنْ نَبِيُّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَقْرَأَنِيهَا قَالَ فَأَرَدْتُ أَنْ أُسَاوِرَهُ وَهُوَ فِي الصَّلَاةِ فَلَمَّا فَرَغَ قُلْتُ مَنْ أَقْرَأَكَ هَذِهِ الْقِرَاءَةَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قُلْتُ كَذَبْتَ وَاللَّهِ مَا هَكَذَا أَقْرَأَكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَخَذْتُ بِيَدِهِ أَقُودُهُ فَانْطَلَقْتُ بِهِ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقُلْتُ يَا رَسُولَ اللَّهِ إِنَّكَ أَقْرَأْتَنِي سُورَةَ الْفُرْقَانِ وَإِنِّي سَمِعْتُ هَذَا يَقْرَأُ فِيهَا حُرُوفًا لَمْ تَكُنْ أَقْرَأْتَنِيهَا فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اقْرَأْ يَا هِشَامُ فَقَرَأَ كَمَا كَانَ قَرَأَ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ هَكَذَا أُنْزِلَتْ ثُمَّ قَالَ اقْرَأْ يَا عُمَرُ فَقَرَأْتُ فَقَالَ هَكَذَا أُنْزِلَتْ ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ الْقُرْآنَ نَزَلَ عَلَى سَبْعَةِ أَحْرُفٍ‏.‏",
+      "english": {
+        "narrator": "It was narrated from al Miswar bin Makhramah that 'Umar bin al Khattab said:",
+        "text": "I heard Hisham bin Hakeem bin Hizam reciting Sooratal-Furqan and he recited some words differently from how the Prophet of Allah had taught it to me. I wanted to argue with him, but I was praying. When I finished, I said: Who taught you this recitation? He said: The Messenger of Allah ﷺ. I said: You are lying; by Allah, this is not how the Messenger of Allah ﷺ taught it to you. I took him by the hand and brought him to the Messenger of Allah ﷺ, and said: O Messenger of Allah (ﷺ) , you taught me how to recite Soorat al Furqaan, and I heard this man reciting some words in a way that was not the way you taught them to me. The Messenger of Allah ﷺ said: `Recite it, O. Hisham.” He recited it as he recited it before. The Messenger of Allah ﷺ said: `Thus it was revealed.” Then he said: `Recite it, O Umar.” So I recited it and he said: “Thus it was revealed.” Then the Messenger of Allah ﷺ said: “The Qur'an has been revealed in seven different ways.`"
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ الْهَيْثَمِ، حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، عَنْ عُمَرَ، قَالَ لَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَلْتَوِي مَا يَجِدُ مَا يَمْلَأُ بِهِ بَطْنَهُ مِنْ الدَّقَلِ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ʼUmar said:",
+        "text": "I saw the Messenger of Allah ﷺ feeling the pain of hunger and not being able to find enough to fill his stomach of inferior quality dates."
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ قَالَ عُمَرُ وَافَقْتُ رَبِّي عَزَّ وَجَلَّ فِي ثَلَاثٍ أَوْ وَافَقَنِي رَبِّي فِي ثَلَاثٍ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ لَوْ اتَّخَذْتَ الْمَقَامَ مُصَلًّى قَالَ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى‏}‏ وَقُلْتُ لَوْ حَجَبْتَ عَنْ أُمَّهَاتِ الْمُؤْمِنِينَ فَإِنَّهُ يَدْخُلُ عَلَيْكَ الْبَرُّ وَالْفَاجِرُ فَأُنْزِلَتْ آيَةُ الْحِجَابِ قَالَ وَبَلَغَنِي عَنْ أُمَّهَاتِ الْمُؤْمِنِينَ شَيْءٌ فَاسْتَقْرَيْتُهُنَّ أَقُولُ لَهُنَّ لَتَكُفُّنَّ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَوْ لَيُبْدِلَنَّهُ اللَّهُ بِكُنَّ أَزْوَاجًا خَيْرًا مِنْكُنَّ مُسْلِمَاتٍ حَتَّى أَتَيْتُ عَلَى إِحْدَى أُمَّهَاتِ الْمُؤْمِنِينَ فَقَالَتْ يَا عُمَرُ أَمَا فِي رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا يَعِظُ نِسَاءَهُ حَتَّى تَعِظَهُنَّ فَكَفَفْتُ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏عَسَى رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ مُسْلِمَاتٍ مُؤْمِنَاتٍ قَانِتَاتٍ‏}‏ الْآيَةَ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said, 'Umar said:",
+        "text": "I agreed with my Lord, may He be glorified and exalted, in three matters - or my Lord agreed with me in three matters, I said: O Messenger of Allah, why don't you take the Maqarn of Ibraheem as a place of prayer? Then Allah revealed the verse: `And take you (people) the Maqam (place) of Ibraheem (Abraham) [or the stone on which \nIbraheem (Abraham) stood while he was building the Ka'bah) as a place of prayer` (al Baqarah 2:125). And I said: Why don't you tell the Mothers of the Believers to observe hijab, for both righteous people and evildoers enter upon you? Then the verse of hijab was revealed. And I heard something about the Mothers of the Believers, so I talked to them and told them: You should stop bothering the Messenger of Allah ﷺ , or Allah will replace you with wives who are better than you and are Muslims. Then I came to one of the Mothers of the Believers and she said: O 'Umar, is it the case that the Messenger of Allah ﷺ cannot admonish his wives so that you come and admonish them? So I stopped, then Allah, may He be glorified and exalted, revealed the verse: “It may be if he divorced you (all) that his Lord will give him instead of you, wives better than you Muslims (who submit to Allah), believers, obedient (to Allah)...` [at­-Tahreerm 66:5)"
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الْأَوْزَاعِيُّ، أَنَّ يَحْيَى بْنَ أَبِي كَثِيرٍ، حَدَّثَهُ عَنْ عِكْرِمَةَ، مَوْلَى ابْنِ عَبَّاسٍ قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ بِالْعَقِيقِ يَقُولُ أَتَانِي اللَّيْلَةَ آتٍ مِنْ رَبِّي فَقَالَ صَلِّ فِي هَذَا الْوَادِي الْمُبَارَكِ وَقُلْ عُمْرَةٌ فِي حَجَّةٍ قَالَ الْوَلِيدُ يَعْنِي ذَا الْحُلَيْفَةِ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas said:",
+        "text": "I heard 'Umar bin al Khattab رضي الله عنه say: l heard the Messenger of Allah ﷺ say, when he was in al­'Aqeeq: `Last night someone came to me from my Lord and said: Pray in this blessed valley and say, 'I intend to do 'umrah with Hajj.` Al-Waleed said: i.e., in Dhul­-Hulaifah."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، سَمِعَ مَالِكَ بْنَ أَوْسِ بْنِ الْحَدَثَانِ، سَمِعَ عُمَرَ بْنَ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ يَقُولُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقَالَ سُفْيَانُ مَرَّةً سَمِعَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ الذَّهَبُ بِالْوَرِقِ رِبًا إِلَّا هَاءَ وَهَاءَ وَالْبُرُّ بِالْبُرِّ رِبًا إِلَّا هَاءَ وَهَاءَ وَالشَّعِيرُ بِالشَّعِيرِ رِبًا إِلَّا هَاءَ وَهَاءَ وَالتَّمْرُ بِالتَّمْرِ رِبًا إِلَّا هَاءَ وَهَاءَ‏.‏",
+      "english": {
+        "narrator": "Malik bin 'Aws bin al-Hadathan heard 'Umar bin al Khattab رضي الله عنه say:",
+        "text": "The Messenger of Allah ﷺ said ­- and on one occasion Sufyan said:  heard the Messenger of Allah ﷺ say ­ “Gold for silver is riba unless it is exchanged on the spot [lit. ‘this for that'), wheat for wheat is riba unless it is exchanged on the spot, barley for barley is riba unless it is exchanged on the spot, dates for dates is riba unless it is exchanged on the spot.”"
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، سَمِعَ أَبَا عُبَيْدٍ، قَالَ شَهِدْتُ الْعِيدَ مَعَ عُمَرَ فَبَدَأَ بِالصَّلَاةِ قَبْلَ الْخُطْبَةِ وَقَالَ إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ صِيَامِ هَذَيْنِ الْيَوْمَيْنِ أَمَّا يَوْمُ الْفِطْرِ فَفِطْرُكُمْ مِنْ صَوْمِكُمْ وَأَمَّا يَوْمُ الْأَضْحَى فَكُلُوا مِنْ لَحْمِ نُسُكِكُمْ‏.‏",
+      "english": {
+        "narrator": "Abu ‘Ubaid said:",
+        "text": "I was present at Eid with ‘Umar, and he started with the prayer before the khutbah. He said: The Messenger of Allah ﷺ forbade fasting on \n\nthese two days. The day of al-Fitr is the day when you break your fast, and on the day of al-Adha, \n\neat the meat of your sacrifices."
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنْ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا تُطْرُونِي كَمَا أَطْرَتْ النَّصَارَى عِيسَى ابْنَ مَرْيَمَ عَلَيْهِ السَّلَام فَإِنَّمَا أَنَا عَبْدٌ فَقُولُوا عَبْدُهُ وَرَسُولُهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Umar said:",
+        "text": "The Messenger of Allah ﷺ said: “Do not praise me as the Christians praised  'Eesa ibn Maryam عليه السلام. I am no more than a slave, so say: His slave and His Messenger.”"
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، أَنَّهُ سَأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَيَنَامُ أَحَدُنَا وَهُوَ جُنُبٌ قَالَ يَتَوَضَّأُ وَيَنَامُ إِنْ شَاءَ وَقَالَ سُفْيَانُ مَرَّةً لِيَتَوَضَّأْ وَلْيَنَمْ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Umar, from ʼUmar رضي الله عنه  that he asked the Prophet ﷺ:",
+        "text": "Can one of us sleep when he is junub? He said: “He may do wudoo’ and sleep if he wishes.” On one occasion \n\nSufyan said: `Let him do wudoo’ and sleep.`"
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، أَنَّ عُمَرَ، حَمَلَ عَلَى فَرَسٍ فِي سَبِيلِ اللَّهِ فَرَآهَا أَوْ بَعْضَ نِتَاجِهَا يُبَاعُ فَأَرَادَ شِرَاءَهُ فَسَأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْهُ فَقَالَ اتْرُكْهَا تُوَافِكَ أَوْ تَلْقَهَا جَمِيعًا وَقَالَ مَرَّتَيْنِ فَنَهَاهُ وَقَالَ لَا تَشْتَرِهِ وَلَا تَعُدْ فِي صَدَقَتِكَ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Zaid bin Aslarn, from his father that ‘Umar gave a horse (to a man for jihad) for the sake of Allah, then he saw it or one of its foals being offered for sale, and he wanted to buy it. He asked the \n\nProphet ﷺ about it and he said:",
+        "text": "`Leave it, and it (its reward) will come to you or you will have them all (i.e., the reward of all of them).` On one occasion he said: He told him not to (buy it) and he said: \n\n“Do not buy it and do not take back your charity.`"
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ، يُحَدِّثُ عَنْ عُمَرَ، رَضِيَ اللَّهُ عَنْهُ يَبْلُغُ بِهِ النَّبِيَّ وَقَالَ سُفْيَانُ مَرَّةً عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ تَابِعُوا بَيْنَ الْحَجِّ وَالْعُمْرَةِ فَإِنَّ مُتَابَعَةً بَيْنَهُمَا يَنْفِيَانِ الْفَقْرَ وَالذُّنُوبَ كَمَا يَنْفِي الْكِيرُ خَبَثَ الْحَدِيدِ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Umar رضي الله عنه , conveyed from the Prophet ﷺ ­on one occasion, Sufyan said:",
+        "text": "from the Prophet ﷺ- that he said: `Follow Hajj with ‘Umrah and 'Umrah with Hajj, for doing that will eliminate poverty and sin as the bellows eliminate dross.`"
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ يَحْيَى، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ عَلْقَمَةَ بْنِ وَقَّاصٍ، قَالَ سَمِعْتُ عُمَرَ، رَضِيَ اللَّهُ عَنْهُ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنَّمَا الْأَعْمَالُ بِالنِّيَّةِ وَلِكُلِّ امْرِئٍ مَا نَوَى فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ عَزَّ وَجَلَّ فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَوْ امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ‏.‏",
+      "english": {
+        "narrator": "Umar said:",
+        "text": "I heard the Messenger of Allah ﷺ say: `Deeds are but by intentions and each\n\nman will have but that which he intended. If a man's migration was for the sake of Allah, then his \n\nmigration was for that for which he migrated, but if his migration was to achieve some worldly aim \n\nor to take some woman in marriage, his migration was for that for which he migrated.`"
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدَةَ بْنِ أَبِي لُبَابَةَ، عَنْ أَبِي وَائِلٍ، قَالَ قَالَ الصُّبَيُّ بْنُ مَعْبَدٍ كُنْتُ رَجُلًا نَصْرَانِيًّا فَأَسْلَمْتُ فَأَهْلَلْتُ بِالْحَجِّ وَالْعُمْرَةِ فَسَمِعَنِي زَيْدُ بْنُ صُوحَانَ وَسَلْمَانُ بْنُ رَبِيعَةَ وَأَنَا أُهِلُّ بِهِمَا فَقَالَا لَهَذَا أَضَلُّ مِنْ بَعِيرِ أَهْلِهِ فَكَأَنَّمَا حُمِلَ عَلَيَّ بِكَلِمَتِهِمَا جَبَلٌ فَقَدِمْتُ عَلَى عُمَرَ رَضِيَ اللَّهُ عَنْهُ فَأَخْبَرْتُهُ فَأَقْبَلَ عَلَيْهِمَا فَلَامَهُمَا وَأَقْبَلَ عَلَيَّ فَقَالَ هُدِيتَ لِسُنَّةِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ هُدِيتَ لِسُنَّةِ نَبِيِّكَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ عَبْدَةُ قَالَ أَبُو وَائِلٍ كَثِيرًا مَا ذَهَبْتُ أَنَا وَمَسْرُوقٌ إِلَى الصُّبَيِّ نَسْأَلُهُ عَنْهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Wa'il said:",
+        "text": "as­-Subayy bin Ma'bad said: I was a Christian man and I became Muslim, and I entered ihram for both Hajj and 'Umrah (together). Zaid bin Soohan and Salman bin Rabee'ah heard me ­­­when I was entering ihram for both and said. He is more astray than his people's camel. Their words wounded me greatly, so I went to ‘Umar and told him. He turned to them and criticised them, then he turned to me and said: You have been guided to the Sunnah of your Prophet ﷺ, you have been guided to the Sunnah of your Prophet ﷺ."
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، ذُكِرَ لِعُمَرَ أَنَّ سَمُرَةَ، وَقَالَ، مَرَّةً بَلَغَ عُمَرَ رَضِيَ اللَّهُ عَنْهُ أَنَّ سَمُرَةَ بَاعَ خَمْرًا قَالَ قَاتَلَ اللَّهُ سَمُرَةَ إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَعَنَ اللَّهُ الْيَهُودَ حُرِّمَتْ عَلَيْهِمْ الشُّحُومُ فَجَمَلُوهَا فَبَاعُوهَا‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas:",
+        "text": "‘Umar was told ­and on one occasion he said: Umar heard that Samurah was selling alcohol and he said: May Allah destroy Samurah. The Messenger of Allah ﷺ said: `May Allah curse the Jews, \nHe forbade animal fat to them, so they rendered it and sold it.`"
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، وَمَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ مَالِكِ بْنِ أَوْسِ بْنِ الْحَدَثَانِ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَتْ أَمْوَالُ بَنِي النَّضِيرِ مِمَّا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِمَّا لَمْ يُوجِفْ الْمُسْلِمُونَ عَلَيْهِ بِخَيْلٍ وَلَا رِكَابٍ فَكَانَتْ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَالِصَةً وَكَانَ يُنْفِقُ عَلَى أَهْلِهِ مِنْهَا نَفَقَةَ سَنَةٍ وَقَالَ مَرَّةً قُوتَ سَنَةٍ وَمَا بَقِيَ جَعَلَهُ فِي الْكُرَاعِ وَالسِّلَاحِ عُدَّةً فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ‏.‏",
+      "english": {
+        "narrator": "!t was narrated that 'Umar bin al-Khattab رضي الله عنه said:",
+        "text": "The wealth of Banu an-­Nadeer was among the fai' that Allah bestowed upon His Messenger ﷺ, for which the Muslims made no expedition with either cavalry or camelry (cf. al-Hashr 59:6). It was only for the Messenger of Allah ﷺ and he used to spend from it on his family's annual expenses-and on one occasion he said: his annual \nfood supply ­-and what was left he spent on horses and weapons in preparation for jihad for the sake of Allah, may He be glorified and exalted,"
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنِ الزُّهْرِيِّ، عَنْ مَالِكِ بْنِ أَوْسٍ، قَالَ سَمِعْتُ عُمَرَ، رَضِيَ اللَّهُ عَنْهُ يَقُولُ لِعَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ وَطَلْحَةَ وَالزُّبَيْرِ وَسَعْدٍ نَشَدْتُكُمْ بِاللَّهِ الَّذِي تَقُومُ السَّمَاءُ وَالْأَرْضُ بِهِ أَعَلِمْتُمْ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِنَّا لَا نُورَثُ مَا تَرَكْنَا صَدَقَةٌ قَالُوا اللَّهُمَّ نَعَمْ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Malik bin Aws said:",
+        "text": "I heard 'Umar say to ‘Abdur­-Rahman bin ‘Awf,\n\nTalhah, az-­Zubair and Sa'd: We adjure you by Allah, by whom heaven and earth are sustained, \n\ndid you know that the Messenger of Allah (ﷺ) said: “Our (Prophets’) property is not to be inherited \n\nand whatever we leave behind is charity.` They said: By Allah, yes,"
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا سَفْيَانُ، عَنْ ابْنِ أَبِي يَزِيدٍ، عَنْ أَبِيهِ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الْوَلَدُ لِلْفِرَاشِ‏.‏",
+      "english": {
+        "narrator": "It was narrated from ‘Umar bin al Khattab رضي الله عنه  that the Messenger of Allah ﷺ said:",
+        "text": "`The child belongs to the (husband or master of the) woman.`"
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا ابْنُ إِدْرِيسَ، أَنْبَأَنَا ابْنُ جُرَيْجٍ، عَنِ ابْنِ أَبِي عَمَّارٍ، عَنْ عَبْدِ اللَّهِ بْنِ بَابَيْهِ، عَنْ يَعْلَى بْنِ أُمَيَّةَ، قَالَ سَأَلْتُ عُمَرَ بْنَ الْخَطَّابِ قُلْتُ ‏{‏لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَقْصُرُوا مِنْ الصَّلَاةِ إِنْ خِفْتُمْ أَنْ يَفْتِنَكُمْ الَّذِينَ كَفَرُوا‏}‏ وَقَدْ أَمَّنَ اللَّهُ النَّاسَ فَقَالَ لِي عُمَرُ عَجِبْتُ مِمَّا عَجِبْتَ مِنْهُ فَسَأَلْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ فَقَالَ صَدَقَةٌ تَصَدَّقَ اللَّهُ بِهَا عَلَيْكُمْ فَاقْبَلُوا صَدَقَتَهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ya'la bin Umayyah said:",
+        "text": "I said to 'Umar bin al Khattab رضي الله عنه , `And when you (Muslims) travel in\n\nthe land, there is no sin on you if you shorten As­Salah (the prayer) if you fear that the disbelievers may put you in \n\ntrial (attack you)` (al Nisa' 4:101]. But now the people are safe. He said: I wondered the same thing as you are \n\nwondering, and I asked the Messenger of Allah ﷺ about that. He said: “It is a charity that Allah has bestowed upon \n\nyou, so accept His charity.`"
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الْأَعْمَشُ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، قَالَ جَاءَ رَجُلٌ إِلَى عُمَرَ رَضِيَ اللَّهُ عَنْهُ وَهُوَ بِعَرَفَةَ قَالَ أَبُو مُعَاوِيَةَ وَحَدَّثَنَا الْأَعْمَشُ عَنْ خَيْثَمَةَ عَنْ قَيْسِ بْنِ مَرْوَانَ أَنَّهُ أَتَى عُمَرَ رَضِيَ اللَّهُ عَنْهُ فَقَالَ جِئْتُ يَا أَمِيرَ الْمُؤْمِنِينَ مِنْ الْكُوفَةِ وَتَرَكْتُ بِهَا رَجُلًا يُمْلِي الْمَصَاحِفَ عَنْ ظَهْرِ قَلْبِهِ فَغَضِبَ وَانْتَفَخَ حَتَّى كَادَ يَمْلَأُ مَا بَيْنَ شُعْبَتَيْ الرَّحْلِ فَقَالَ وَمَنْ هُوَ وَيْحَكَ قَالَ عَبْدُ اللَّهِ بْنُ مَسْعُودٍ فَمَا زَالَ يُطْفَأُ وَيُسَرَّى عَنْهُ الْغَضَبُ حَتَّى عَادَ إِلَى حَالِهِ الَّتِي كَانَ عَلَيْهَا ثُمَّ قَالَ وَيْحَكَ وَاللَّهِ مَا أَعْلَمُهُ بَقِيَ مِنْ النَّاسِ أَحَدٌ هُوَ أَحَقُّ بِذَلِكَ مِنْهُ وَسَأُحَدِّثُكَ عَنْ ذَلِكَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَزَالُ يَسْمُرُ عِنْدَ أَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهُ اللَّيْلَةَ كَذَاكَ فِي الْأَمْرِ مِنْ أَمْرِ الْمُسْلِمِينَ وَإِنَّهُ سَمَرَ عِنْدَهُ ذَاتَ لَيْلَةٍ وَأَنَا مَعَهُ فَخَرَجَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَخَرَجْنَا مَعَهُ فَإِذَا رَجُلٌ قَائِمٌ يُصَلِّي فِي الْمَسْجِدِ فَقَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْتَمِعُ قِرَاءَتَهُ فَلَمَّا كِدْنَا أَنْ نَعْرِفَهُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ سَرَّهُ أَنْ يَقْرَأَ الْقُرْآنَ رَطْبًا كَمَا أُنْزِلَ فَلْيَقْرَأْهُ عَلَى قِرَاءَةِ ابْنِ أُمِّ عَبْدٍ قَالَ ثُمَّ جَلَسَ الرَّجُلُ يَدْعُو فَجَعَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ لَهُ سَلْ تُعْطَهْ سَلْ تُعْطَهْ قَالَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ قُلْتُ وَاللَّهِ لَأَغْدُوَنَّ إِلَيْهِ فَلَأُبَشِّرَنَّهُ قَالَ فَغَدَوْتُ إِلَيْهِ لِأُبَشِّرَهُ فَوَجَدْتُ أَبَا بَكْرٍ قَدْ سَبَقَنِي إِلَيْهِ فَبَشَّرَهُ وَلَا وَاللَّهِ مَا سَبَقْتُهُ إِلَى خَيْرٍ قَطُّ إِلَّا وَسَبَقَنِي إِلَيْهِ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Qais bin Marwan that he came to\n\n'Umar and said:",
+        "text": "I have come from Koofah, O Ameer al-­Mu'mineen, and I left behind in it a man who dictates the Mushaf From memory. ‘Umar got exceedingly angry and said: Who is he, woe to you? He said: 'Abdullah bin Mas'ood. ‘Umar began to calm down, and went back to normal, then he said: Woe to you, I do not know of anyone who is more qualified to do that than him, and I will tell you about that. The Messenger of Allah ﷺ used to stay up at night talking with Abu Bakr  رضي الله عنه discussing some affairs of the Muslims. He stayed up talking with him one night, and I was with him. The Messenger of Allah ﷺ went out, and we went out with him, and we saw a man standing and praying in the mosque. The Messenger of Allah ﷺ listened to his recitation, and as soon as we recognised him the Messenger of Allah ﷺ said: `Whoever would like to recite the Qur'an fresh as it was revealed, let him recite it according to the recitation of Ibn Umm 'Abd.` Then the same man sat and offered supplication (du'a') and the Messenger of Allah ﷺ started saying to him: `Ask, you will be given;ask, you will be given.” ‘Umar said: By Allah, I shall go to him tomorrow and tell hirm the glad tidings. I went to him the next morning to tell him the glad tidings, and I found that Abu Bakr had beaten me to it and given him the glad tidings. By Allah, I never competed with him to do good but he beat me to it."
+      }
+    },
+    {
+      "id": 93,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، قَالَ حَدَّثَنَا الْأَعْمَشُ، عَنْ إِبْرَاهِيمَ، عَنْ عَابِسِ بْنِ رَبِيعَةَ، قَالَ رَأَيْتُ عُمَرَ رَضِيَ اللَّهُ عَنْهُ يُقَبِّلُ الْحَجَرَ وَيَقُولُ إِنِّي لَأُقَبِّلُكَ وَأَعْلَمُ أَنَّكَ حَجَرٌ وَلَوْلَا أَنِّي رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُقَبِّلُكَ لَمْ أُقَبِّلْكَ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abis bin Rabee'ah said:",
+        "text": "I saw 'Umar kissing the Black Stone and saying; I am kissing you and I know that you are just a stone; if I had not seen the Messenger of Allah ﷺ kissing you, I would not have kissed you."
+      }
+    },
+    {
+      "id": 94,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا جَرِيرٌ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ خَطَبَ عُمَرُ النَّاسَ بِالْجَابِيَةِ فَقَالَ إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَامَ فِي مِثْلِ مَقَامِي هَذَا فَقَالَ أَحْسِنُوا إِلَى أَصْحَابِي ثُمَّ الَّذِينَ يَلُونَهُمْ ثُمَّ الَّذِينَ يَلُونَهُمْ ثُمَّ يَجِيءُ قَوْمٌ يَحْلِفُ أَحَدُهُمْ عَلَى الْيَمِينِ قَبْلَ أَنْ يُسْتَحْلَفَ عَلَيْهَا وَيَشْهَدُ عَلَى الشَّهَادَةِ قَبْلَ أَنْ يُسْتَشْهَدَ فَمَنْ أَحَبَّ مِنْكُمْ أَنْ يَنَالَ بُحْبُوحَةَ الْجَنَّةِ فَلْيَلْزَمْ الْجَمَاعَةَ فَإِنَّ الشَّيْطَانَ مَعَ الْوَاحِدِ وَهُوَ مِنْ الِاثْنَيْنِ أَبْعَدُ وَلَا يَخْلُوَنَّ رَجُلٌ بِامْرَأَةٍ فَإِنَّ ثَالِثَهُمَا الشَّيْطَانُ وَمَنْ كَانَ مِنْكُمْ تَسُرُّهُ حَسَنَتُهُ وَتَسُوءُهُ سَيِّئَتُهُ فَهُوَ مُؤْمِنٌ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Jabir bin Samurah said:",
+        "text": "Umar addressed the people in al­-Jabiyah, and said: The Messenger of Allah ﷺ stood as I am standing and said: `Treat my Companions kindly, then those who come after them, then those who come after them. Then there will come people who will swear oaths before being asked to swear and will give testimony before being asked to \ngive testimony. Whoever among you would like to attain the best place in Paradise, let him adhere to the jama'ah (the main body of Muslims), for the Shaitan is with one and he is further away from two. No man should be alone with a woman because the Shaitan will be the third one present. Whoever feels pleased when he does a good deed and feels bad when he does an evil deed is a believer.”"
+      }
+    },
+    {
+      "id": 95,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الْأَعْمَشُ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عُمَرَ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْمُرُ عِنْدَ أَبِي بَكْرٍ اللَّيْلَةَ كَذَلِكَ فِي الْأَمْرِ مِنْ أَمْرِ الْمُسْلِمِينَ وَأَنَا مَعَهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ʼUmar said:",
+        "text": "The Messenger of Allah ﷺ used to stay up at night talking with Abu Bakr  رضي الله عنه, discussing some affairs of the Muslims, and I was with him."
+      }
+    },
+    {
+      "id": 96,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ مَعْدَانَ بْنِ أَبِي طَلْحَةَ، قَالَ قَالَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ مَا سَأَلْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ شَيْءٍ أَكْثَرَ مِمَّا سَأَلْتُهُ عَنْ الْكَلَالَةِ حَتَّى طَعَنَ بِإِصْبَعِهِ فِي صَدْرِي وَقَالَ تَكْفِيكَ آيَةُ الصَّيْفِ الَّتِي فِي آخِرِ سُورَةِ النِّسَاءِ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ma'dan bin Abi Talhah said:",
+        "text": "'Umar said: I never asked the Messenger of Allah ﷺ about anything more than I asked him about kalalah, until he poked me in the chest with his finger and said: `Is not ayatus-saif (the verse of summer, i.e., it was revealed in summer), which appears at the end of Sooratan-Nisa', sufficient for you?”"
+      }
+    },
+    {
+      "id": 97,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَحْيَى، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا قَتَادَةُ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، رَضِيَ اللَّهُ عَنْهُمَا عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الْمَيِّتُ يُعَذَّبُ فِي قَبْرِهِ بِالنِّيَاحَةِ عَلَيْهِ‏.‏",
+      "english": {
+        "narrator": "lt was narrated from ‘Umar that the Prophet ﷺ said:",
+        "text": "“The deceased is tormented in his grave because of the wailing over him.`"
+      }
+    },
+    {
+      "id": 98,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَحْيَى، عَنْ عَبْدِ الْمَلِكِ، حَدَّثَنَا عَبْدُ اللَّهِ، مَوْلَى أَسْمَاءَ قَالَ أَرْسَلَتْنِي أَسْمَاءُ إِلَى ابْنِ عُمَرَ أَنَّهُ بَلَغَهَا أَنَّكَ تُحَرِّمُ أَشْيَاءَ ثَلَاثَةً الْعَلَمَ فِي الثَّوْبِ وَمِيثَرَةَ الْأُرْجُوَانِ وَصَوْمَ رَجَبٍ كُلِّهِ فَقَالَ أَمَّا مَا ذَكَرْتَ مِنْ صَوْمِ رَجَبٍ فَكَيْفَ بِمَنْ يَصُومُ الْأَبَدَ وَأَمَّا مَا ذَكَرْتَ مِنْ الْعَلَمِ فِي الثَّوْبِ فَإِنِّي سَمِعْتُ عُمَرَ رَضِيَ اللَّهُ عَنْهُ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا لَمْ يَلْبَسْهُ فِي الْآخِرَةِ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Abdullah, the freed slave of Asma’ bint Abi Bakr, said:",
+        "text": "Asma’ sent me to 'Abdullah bin 'Umar, and she said: I have heard that you regard three things as haram: borders on garments, saddle cloths made of bright red cloth, and fasting the whole of Rajab. 'Abdullah said to me: As for what you have mentioned about Rajab, what about one who fasts continually? As for what you said about borders on garments, I heard 'Umar bin al-Khattab say: I heard the Messenger of Allah ﷺ say: “Whoever wears silk in this world will not wear it in the Hereafter.`"
+      }
+    },
+    {
+      "id": 99,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، وَأَنَا سَأَلْتُهُ، حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ، حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسٍ، قَالَ كُنَّا مَعَ عُمَرَ بَيْنَ مَكَّةَ وَالْمَدِينَةِ فَتَرَاءَيْنَا الْهِلَالَ وَكُنْتُ حَدِيدَ الْبَصَرِ فَرَأَيْتُهُ فَجَعَلْتُ أَقُولُ لِعُمَرَ أَمَا تَرَاهُ قَالَ سَأَرَاهُ وَأَنَا مُسْتَلْقٍ عَلَى فِرَاشِي ثُمَّ أَخَذَ يُحَدِّثُنَا عَنْ أَهْلِ بَدْرٍ قَالَ إِنْ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَيُرِينَا مَصَارِعَهُمْ بِالْأَمْسِ يَقُولُ هَذَا مَصْرَعُ فُلَانٍ غَدًا إِنْ شَاءَ اللَّهُ تَعَالَى وَهَذَا مَصْرَعُ فُلَانٍ غَدًا إِنْ شَاءَ اللَّهُ تَعَالَى قَالَ فَجَعَلُوا يُصْرَعُونَ عَلَيْهَا قَالَ قُلْتُ وَالَّذِي بَعَثَكَ بِالْحَقِّ مَا أَخْطَئُوا تِيكَ كَانُوا يُصْرَعُونَ عَلَيْهَا ثُمَّ أَمَرَ بِهِمْ فَطُرِحُوا فِي بِئْرٍ فَانْطَلَقَ إِلَيْهِمْ فَقَالَ يَا فُلَانُ يَا فُلَانُ هَلْ وَجَدْتُمْ مَا وَعَدَكُمْ اللَّهُ حَقًّا فَإِنِّي وَجَدْتُ مَا وَعَدَنِي اللَّهُ حَقًّا قَالَ عُمَرُ يَا رَسُولَ اللَّهِ أَتُكَلِّمُ قَوْمًا قَدْ جَيَّفُوا قَالَ مَا أَنْتُمْ بِأَسْمَعَ لِمَا أَقُولُ مِنْهُمْ وَلَكِنْ لَا يَسْتَطِيعُونَ أَنْ يُجِيبُوا‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "We were with 'Umar between Makkah and Madinah, and we looked for the new crescent moon. I was sharp sighted and I saw it, and I started saying to ‘Umar, Don't you see it? He said: I will see it when I am lying in my bed. Then he started telling us about the people of Badr. He said: the Messenger of Allah ﷺ was showing us the places where they would fall (in battle), saying: “This is where So and so will fall in battle tomorrow, if Allah wills; this is where So and so will fall in battle tomorrow, if Allah wills.” And they started to fall in those places, I said: By the One who sent you with the truth, they did not miss those places; they fell in those places. Then he ordered that they be thrown into a well, and he went to them and said: `O So and so, O So and so, did you find what Allah promised you to be true? For I found what Allah promised me to be true.` 'Umar said: O Messenger of Allah (ﷺ) , are you speaking to people who are now dead? He said: `You do not hear what I am saying any better than they do, but they cannot answer.`"
+      }
+    },
+    {
+      "id": 100,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَحْيَى، حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، حَدَّثَنَا عَمْرُو بْنُ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ فَلَمَّا رَجَعَ عَمْرٌو جَاءَ بَنُو مَعْمَرِ بْنِ حَبِيبٍ يُخَاصِمُونَهُ فِي وَلَاءِ أُخْتِهِمْ إِلَى عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ فَقَالَ أَقْضِي بَيْنَكُمْ بِمَا سَمِعْتُ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ مَا أَحْرَزَ الْوَلَدُ أَوْ الْوَالِدُ فَهُوَ لِعَصَبَتِهِ مَنْ كَانَ فَقَضَى لَنَا بِهِ‏.‏",
+      "english": {
+        "narrator": "Amr bin Shu'aib narrated, from his father, that his grandfather said:",
+        "text": "When 'Amr came back, Banu Ma'mar came to him and they referred their dispute with him concerning the wala' of their sister to 'Umar. 'Umar ­رضي الله عنه said, I will judge between you according to what I heard from the Messenger of Allah ﷺ . I heard him say: “What the son or father acquires goes to his agnates, no matter who they are.” So he ruled in our favour,"
+      }
+    },
+    {
+      "id": 101,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "قَالَ قَرَأْتُ عَلَى يَحْيَى بْنِ سَعِيدٍ عَنْ عُثْمَانَ بْنِ غِيَاثٍ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، عَنْ يَحْيَى بْنِ يَعْمَرَ، وَحُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ الْحِمْيَرِيِّ، قَالَا لَقِينَا عَبْدَ اللَّهِ بْنَ عُمَرَ فَذَكَرْنَا الْقَدَرَ وَمَا يَقُولُونَ فِيهِ فَقَالَ إِذَا رَجَعْتُمْ إِلَيْهِمْ فَقُولُوا إِنَّ ابْنَ عُمَرَ مِنْكُمْ بَرِيءٌ وَأَنْتُمْ مِنْهُ بُرَآءُ ثَلَاثَ مِرَارٍ ثُمَّ قَالَ أَخْبَرَنِي عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ أَنَّهُمْ بَيْنَا هُمْ جُلُوسٌ أَوْ قُعُودٌ عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ جَاءَهُ رَجُلٌ يَمْشِي حَسَنُ الْوَجْهِ حَسَنُ الشَّعْرِ عَلَيْهِ ثِيَابُ بَيَاضٍ فَنَظَرَ الْقَوْمُ بَعْضُهُمْ إِلَى بَعْضٍ مَا نَعْرِفُ هَذَا وَمَا هَذَا بِصَاحِبِ سَفَرٍ ثُمَّ قَالَ يَا رَسُولَ اللَّهِ آتِيكَ قَالَ نَعَمْ فَجَاءَ فَوَضَعَ رُكْبَتَيْهِ عِنْدَ رُكْبَتَيْهِ وَيَدَيْهِ عَلَى فَخِذَيْهِ فَقَالَ مَا الْإِسْلَامُ قَالَ شَهَادَةُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَتُقِيمُ الصَّلَاةَ وَتُؤْتِي الزَّكَاةَ وَتَصُومُ رَمَضَانَ وَتَحُجُّ الْبَيْتَ قَالَ فَمَا الْإِيمَانُ قَالَ أَنْ تُؤْمِنَ بِاللَّهِ وَمَلَائِكَتِهِ وَالْجَنَّةِ وَالنَّارِ وَالْبَعْثِ بَعْدَ الْمَوْتِ وَالْقَدَرِ كُلِّهِ قَالَ فَمَا الْإِحْسَانُ قَالَ أَنْ تَعْمَلَ لِلَّهِ كَأَنَّكَ تَرَاهُ فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ قَالَ فَمَتَى السَّاعَةُ قَالَ مَا الْمَسْئُولُ عَنْهَا بِأَعْلَمَ مِنْ السَّائِلِ قَالَ فَمَا أَشْرَاطُهَا قَالَ إِذَا الْعُرَاةُ الْحُفَاةُ الْعَالَةُ رِعَاءُ الشَّاءِ تَطَاوَلُوا فِي الْبُنْيَانِ وَوَلَدَتْ الْإِمَاءُ رَبَّاتِهِنَّ قَالَ ثُمَّ قَالَ عَلَيَّ الرَّجُلَ فَطَلَبُوهُ فَلَمْ يَرَوْا شَيْئًا فَمَكَثَ يَوْمَيْنِ أَوْ ثَلَاثَةً ثُمَّ قَالَ يَا ابْنَ الْخَطَّابِ أَتَدْرِي مَنْ السَّائِلُ عَنْ كَذَا وَكَذَا قَالَ اللَّهُ وَرَسُولُهُ أَعْلَمُ قَالَ ذَاكَ جِبْرِيلُ جَاءَكُمْ يُعَلِّمُكُمْ دِينَكُمْ قَالَ وَسَأَلَهُ رَجُلٌ مِنْ جُهَيْنَةَ أَوْ مُزَيْنَةَ فَقَالَ يَا رَسُولَ اللَّهِ فِيمَا نَعْمَلُ أَفِي شَيْءٍ قَدْ خَلَا أَوْ مَضَى أَوْ فِي شَيْءٍ يُسْتَأْنَفُ الْآنَ قَالَ فِي شَيْءٍ قَدْ خَلَا أَوْ مَضَى فَقَالَ رَجُلٌ أَوْ بَعْضُ الْقَوْمِ يَا رَسُولَ اللَّهِ فِيمَا نَعْمَلُ قَالَ أَهْلُ الْجَنَّةِ يُيَسَّرُونَ لِعَمَلِ أَهْلِ الْجَنَّةِ وَأَهْلُ النَّارِ يُيَسَّرُونَ لِعَمَلِ أَهْلِ النَّارِ قَالَ يَحْيَى قَالَ هُوَ هَكَذَا يَعْنِي كَمَا قَرَأْتَ عَلَيَّ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Yahya bin Ya'mar and Humaid bin ‘Abdur­-Rahman al­-Himyari said:",
+        "text": "We met 'Abdullah bin 'Umar and discussed the divine decree (al qadar) and what others said concerning it. He said: When you go back to them, say; Ibn ‘Umar has nothing to do with you and you have nothing to do with him - three times. Then he said: ‘Umar bin al Khattab  رضي الله عنه ­­ told me that whilst they were sitting with the Prophet ﷺ ­, a man came to him walking, with a handsome face and hair, wearing white clothes. The people looked at one another (as if to say): We do not know this man and he does not look like a traveller. Then he said: O Messenger of Allah (ﷺ) , shall I come to you? He said: `Yes.` So he came and put his knees against his knees and his hands on his thighs and said: What is Islam? He said: `To testify that there is no god but Allah and that Muhammad is the Messenger of Allah (ﷺ) , to establish regular prayer, to give zakah, to fast Ramadan and to go on pilgrimage to the House.` He said: What is faith (eeman)? He said: “To believe in Allah, His angels, Paradise and Hell, resurrection \nafter death and the divine decree, all of it.” He said: What is ihsan? He said: `To strive for the sake of Allah as if you see Him, and even though you do not see Him, He sees you.` He said: When will the Hour come? He said: `The one who is asked about it does not know more than the one who is asking.” He \nsaid: What are its portents? He said: `When the destitute, barefoot, naked shepherds compete in constructing lofty buildings, and the slave women give birth to their masters.” Then he said: `Call the man to me.” They looked for him but they saw no trace of him. Two or three days passed, then he said: “O Ibn al­ Khattab, do you know who that was who asked about such and such?” He said: Allah and His Messenger know best. He said: `That was Jibreel who came to teach you your religion.` A man from Juhainah or Muzainah asked him: O Messenger of Allah (ﷺ) , what are we striving for? Is it something that is already decided or is it something that is evolving right now? He said:`For some-­thing that is already decided.` The man or one of the people said: O Messenger of Allah (ﷺ) , then why should we strive? He said: “The people of Paradise will be enabled to do the deeds of the people of Paradise and the people of Hell will be enabled to do the deeds of the people of Hell.` Yahya said: And that is how it is."
+      }
+    },
+    {
+      "id": 102,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنِي سَلَمَةُ بْنُ كُهَيْلٍ، قَالَ سَمِعْتُ أَبَا الْحَكَمِ، قَالَ سَأَلْتُ ابْنَ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُ عَنْ نَبِيذِ الْجَرِّ، وَالدُّبَّاءِ، فَقَالَ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ نَبِيذِ الْجَرِّ وَالدُّبَّاءِ وَقَالَ مَنْ سَرَّهُ أَنْ يُحَرِّمَ مَا حَرَّمَ اللَّهُ تَعَالَى وَرَسُولُهُ فَلْيُحَرِّمْ النَّبِيذَ قَالَ وَسَأَلْتُ ابْنَ الزُّبَيْرِ فَقَالَ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الدُّبَّاءِ وَالْجَرِّ قَالَ وَسَأَلْتُ ابْنَ عُمَرَ رَضِيَ اللَّهُ عَنْهُ فَحَدَّثَ عَنْ عُمَرَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ الدُّبَّاءِ وَالْمُزَفَّتِ قَالَ وَحَدَّثَنِي أَخِي عَنْ أَبِي سَعِيدٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ الْجَرِّ وَالدُّبَّاءِ وَالْمُزَفَّتِ وَالْبُسْرِ وَالتَّمْرِ‏.‏",
+      "english": {
+        "narrator": "Abul­-Hakam said:",
+        "text": "I asked Ibn 'Abbas about nabeedh made in earthenware jars. He said: The Messenger of Allah ﷺ forbade nabeedh made in earthenware jars or gourds, and he said: Whoever would like to regard as haram that which Allah, may He be exalted, and His Messenger forbade, let him regard nabeedh as haram, He said. and I asked Ibn az-­Zubair and he said: The Messenger of Allah ﷺ forbade gourds and earthenware jars. He said: I asked Ibn 'Umar and he narrated from 'Umar that the Prophet ﷺ forbade gourds and varnished jars. My brother narrated to me from Abu Sa'eed that the Messenger of Allah ﷺ forbade earthenware jars, gourds, varnished jars, unripe dates, and dried dates,"
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، أَنَا سَأَلْتُهُ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ مَعْدَانَ بْنِ أَبِي طَلْحَةَ، أَنَّ عُمَرَ، رَضِيَ اللَّهُ عَنْهُ خَطَبَ يَوْمَ جُمُعَةٍ فَذَكَرَ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَذَكَرَ أَبَا بَكْرٍ رَضِيَ اللَّهُ عَنْهُ وَقَالَ إِنِّي قَدْ رَأَيْتُ كَأَنَّ دِيكًا قَدْ نَقَرَنِي نَقْرَتَيْنِ وَلَا أُرَاهُ إِلَّا لِحُضُورِ أَجَلِي وَإِنَّ أَقْوَامًا يَأْمُرُونِي أَنْ أَسْتَخْلِفَ وَإِنَّ اللَّهَ لَمْ يَكُنْ لِيُضِيعَ دِينَهُ وَلَا خِلَافَتَهُ وَالَّذِي بَعَثَ بِهِ نَبِيَّهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَإِنْ عَجِلَ بِي أَمْرٌ فَالْخِلَافَةُ شُورَى بَيْنَ هَؤُلَاءِ السِّتَّةِ الَّذِينَ تُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ عَنْهُمْ رَاضٍ وَإِنِّي قَدْ عَلِمْتُ أَنَّ قَوْمًا سَيَطْعُنُونَ فِي هَذَا الْأَمْرِ أَنَا ضَرَبْتُهُمْ بِيَدِي هَذِهِ عَلَى الْإِسْلَامِ فَإِنْ فَعَلُوا فَأُولَئِكَ أَعْدَاءُ اللَّهِ الْكَفَرَةُ الضُّلَّالُ وَإِنِّي لَا أَدَعُ بَعْدِي شَيْئًا أَهَمَّ إِلَيَّ مِنْ الْكَلَالَةِ وَمَا أَغْلَظَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي شَيْءٍ مُنْذُ صَاحَبْتُهُ مَا أَغْلَظَ لِي فِي الْكَلَالَةِ وَمَا رَاجَعْتُهُ فِي شَيْءٍ مَا رَاجَعْتُهُ فِي الْكَلَالَةِ حَتَّى طَعَنَ بِإِصْبَعِهِ فِي صَدْرِي وَقَالَ يَا عُمَرُ أَلَا تَكْفِيكَ آيَةُ الصَّيْفِ الَّتِي فِي آخِرِ سُورَةِ النِّسَاءِ فَإِنْ أَعِشْ أَقْضِي فِيهَا قَضِيَّةً يَقْضِي بِهَا مَنْ يَقْرَأُ الْقُرْآنَ وَمَنْ لَا يَقْرَأُ الْقُرْآنَ ثُمَّ قَالَ اللَّهُمَّ إِنِّي أُشْهِدُكَ عَلَى أُمَرَاءِ الْأَمْصَارِ فَإِنَّمَا بَعَثْتُهُمْ لِيُعَلِّمُوا النَّاسَ دِينَهُمْ وَسُنَّةَ نَبِيِّهِمْ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَيَقْسِمُوا فِيهِمْ فَيْئَهُمْ وَيَعْدِلُوا عَلَيْهِمْ وَيَرْفَعُوا إِلَيَّ مَا أَشْكَلَ عَلَيْهِمْ مِنْ أَمْرِهِمْ أَيُّهَا النَّاسُ إِنَّكُمْ تَأْكُلُونَ مِنْ شَجَرَتَيْنِ لَا أُرَاهُمَا إِلَّا خَبِيثَتَيْنِ لَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا وَجَدَ رِيحَهُمَا مِنْ الرَّجُلِ فِي الْمَسْجِدِ أَمَرَ بِهِ فَأُخِذَ بِيَدِهِ فَأُخْرِجَ إِلَى الْبَقِيعِ وَمَنْ أَكَلَهُمَا فَلْيُمِتْهُمَا طَبْخًا‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ma'dan bin Abi Talhah that 'Umar bin al Khattab رضي الله عنه delivered a khutbah one Friday, and he mentioned the Prophet of Allah ﷺ and Abu Bakr رضي الله عنه, He said:",
+        "text": "I dreamt that a rooster pecked me twice, and I can only interpret it as meaning that my death is near, and there are \npeople who are telling me I should appoint someone to be my successor, but Allah will not cause His religion and the caliphate, with which He sent His Prophet ﷺ, to be lost. If death comes to me soon, then the caliphate is to be decided by these six men with whom the Messenger of Allah ﷺ was pleased when he died. Whichever of them you swear allegiance to, then listen to him and obey. I know that some people will object to this matter. I have fought them with my own hands in the defence of Islam. If they do that, then they are the enemies of Allah and misguided kafirs. I am not leaving behind anything more important to me than kalalah. The Messenger of Allah ﷺ never emphasised any issue to me since I accompanied him more than the issue of kalalah, and I did not ask him about anything more than I asked him about kalalah, until he poked me in the chest with his finger and said: “O 'Umar, is not ayatus­-saif (the verse of summer, i.e. it was revealed in summer), which appears at the end of Soorat an-Nisa', sufficient for you?` If I live I will issue a decree that will be so clear that those who read the Qur'an and those who do not read it will be able to make decisions concerning it. Then he said. O Allah, I call upon You to bear witness over the governors of the regions, for I only sent them to teach the people their religion and the Sunnah of their Prophet and to the divide the fai' among them and to be just to them and to refer to me concerning any difficult matter, O people, you eat two plants which I find to be nothing but repugnant. I remember the Messenger of Allah ﷺ, if he noticed their smell coming from a man in the mosque, he would issue orders \nthat he taken by the hand and led out to al­-Baqee', Whoever must eat them, let him cook them to death.`"
+      }
+    },
+    {
+      "id": 104,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ مُجَالِدٍ، عَنْ عَامِرٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ يَقُولُ لِطَلْحَةَ بْنِ عُبَيْدِ اللَّهِ مَا لِي أَرَاكَ قَدْ شَعِثْتَ وَاغْبَرَرْتَ مُنْذُ تُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَعَلَّكَ سَاءَكَ يَا طَلْحَةُ إِمَارَةُ ابْنِ عَمِّكَ قَالَ مَعَاذَ اللَّهِ إِنِّي لَأَجْدَرُكُمْ أَنْ لَا أَفْعَلَ ذَلِكَ إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنِّي لَأَعْلَمُ كَلِمَةً لَا يَقُولُهَا أَحَدٌ عِنْدَ حَضْرَةِ الْمَوْتِ إِلَّا وَجَدَ رُوحَهُ لَهَا رَوْحًا حِينَ تَخْرُجُ مِنْ جَسَدِهِ وَكَانَتْ لَهُ نُورًا يَوْمَ الْقِيَامَةِ فَلَمْ أَسْأَلْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْهَا وَلَمْ يُخْبِرْنِي بِهَا فَذَلِكَ الَّذِي دَخَلَنِي قَالَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ فَأَنَا أَعْلَمُهَا قَالَ فَلِلَّهِ الْحَمْدُ فَمَا هِيَ قَالَ هِيَ الْكَلِمَةُ الَّتِي قَالَهَا لِعَمِّهِ لَا إِلَهَ إِلَّا اللَّهُ قَالَ طَلْحَةُ صَدَقْتَ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Jabir bin ‘Abdullah said:",
+        "text": "I heard 'Umar bin al-Khattab say to Talhah bin‘Ubaidullah: Why do I see you looking unkempt and dusty since the Messenger of Allah ﷺ died? Perhaps you were upset about your cousin becoming caliph? He said: Allah forbid! I am the most unlikely among you to feel like that, I heard the Messenger of Allah (ﷺ) say: `I know a word which, if a man says it when dying his soul will find rest and provision when it comes out from his body and it will be light for him on the Day of Resurrection.” I did not ask the Messenger of Allah ﷺ about it and he did not tell me it. This is what has been upsetting me. 'Umar said: I know what it is. He said: To Allah be praise! What is it? He said: It is the word that he said to his uncle: La ilaha illallah. Talhah said: You are right."
+      }
+    },
+    {
+      "id": 105,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ، أَنْبَأَنَا أَبُو عُمَيْسٍ، عَنْ قَيْسِ بْنِ مُسْلِمٍ، عَنْ طَارِقِ بْنِ شِهَابٍ، قَالَ جَاءَ رَجُلٌ مِنْ الْيَهُودِ إِلَى عُمَرَ رَضِيَ اللَّهُ عَنْهُ فَقَالَ يَا أَمِيرَ الْمُؤْمِنِينَ إِنَّكُمْ تَقْرَءُونَ آيَةً فِي كِتَابِكُمْ لَوْ عَلَيْنَا مَعْشَرَ الْيَهُودِ نَزَلَتْ لَاتَّخَذْنَا ذَلِكَ الْيَوْمَ عِيدًا قَالَ وَأَيُّ آيَةٍ هِيَ قَالَ قَوْلُهُ عَزَّ وَجَلَّ ‏{‏الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي‏}‏ قَالَ فَقَالَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ وَاللَّهِ إِنَّنِي لَأَعْلَمُ الْيَوْمَ الَّذِي نَزَلَتْ فِيهِ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَالسَّاعَةَ الَّتِي نَزَلَتْ فِيهَا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَشِيَّةَ عَرَفَةَ فِي يَوْمِ الْجُمُعَةِ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Tariq bin Shihab said:",
+        "text": "A Jewish man came to 'Umar and said: O Ameer al-Mu'mineen, you read a verse in your Book which, if it had been revealed to us Jews, we would have taken that day as a festival. He said: Which verse is it? He said: The verse: `This day, I have perfected your religion for you, completed My Favour upon you” (al Ma'idah 5:3]. 'Umar said: By Allah, I know the day on which this was revealed to the Messenger of Allah ﷺ and the hour at which it was revealed to the Messenger of Allah ﷺ,  on the afternoon of 'Arafah on a Friday."
+      }
+    },
+    {
+      "id": 106,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ عَيَّاشِ بْنِ أَبِي رَبِيعَةَ، رَضِيَ اللَّهُ عَنْهُمْ عَنْ حَكِيمِ بْنِ حَكِيمِ بْنِ عَبَّادِ بْنِ حُنَيْفٍ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ، أَنَّ رَجُلًا، رَمَى رَجُلًا بِسَهْمٍ فَقَتَلَهُ وَلَيْسَ لَهُ وَارِثٌ إِلَّا خَالٌ فَكَتَبَ فِي ذَلِكَ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ إِلَى عُمَرَ رَضِيَ اللَّهُ عَنْهُ فَكَتَبَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ اللَّهُ وَرَسُولُهُ مَوْلَى مَنْ لَا مَوْلَى لَهُ وَالْخَالُ وَارِثُ مَنْ لَا وَارِثَ لَهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Umamah bin Sahl bin Hunaif that a man shot an arrow at another man and killed him, and he had no heir except a maternal uncle. Abu 'Ubaidah bin al-Jarrah wrote to ‘Umar concerning that and he wrote back saying that the Prophet ﷺ said:",
+        "text": "`Allah and His Messenger are the guardians of the one who has no guardian, and the maternal uncle is the heir of the one who has no heir.”"
+      }
+    },
+    {
+      "id": 107,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي يَعْفُورٍ الْعَبْدِيِّ، قَالَ سَمِعْتُ شَيْخًا، بِمَكَّةَ فِي إِمَارَةِ الْحَجَّاجِ يُحَدِّثُ عَنْ عُمَرَ بْنِ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَهُ يَا عُمَرُ إِنَّكَ رَجُلٌ قَوِيٌّ لَا تُزَاحِمْ عَلَى الْحَجَرِ فَتُؤْذِيَ الضَّعِيفَ إِنْ وَجَدْتَ خَلْوَةً فَاسْتَلِمْهُ وَإِلَّا فَاسْتَقْبِلْهُ فَهَلِّلْ وَكَبِّرْ‏.‏",
+      "english": {
+        "narrator": "It was narrated from ʼUmar bin al Khattab رضي الله عنه that the Prophet ﷺ said:",
+        "text": "“O ‘Umar, you are a strong man. Do not crowd others to touch the Black Stone, lest you harm the weak. If you find a gap, then touch it, otherwise turn to face it and say Lailaha illallah, and Allahu akbar.`"
+      }
+    },
+    {
+      "id": 108,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا كَهْمَسٌ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ يَحْيَى بْنِ يَعْمَرَ، عَنِ ابْنِ عُمَرَ، أَنَّ جِبْرِيلَ، عَلَيْهِ السَّلَام قَالَ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا الْإِيمَانُ قَالَ أَنْ تُؤْمِنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الْآخِرِ وَبِالْقَدَرِ خَيْرِهِ وَشَرِّهِ فَقَالَ لَهُ جِبْرِيلُ عَلَيْهِ السَّلَام صَدَقْتَ قَالَ فَتَعَجَّبْنَا مِنْهُ يَسْأَلُهُ وَيُصَدِّقُهُ قَالَ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَاكَ جِبْرِيلُ أَتَاكُمْ يُعَلِّمُكُمْ مَعَالِمَ دِينِكُمْ‏.‏",
+      "english": {
+        "narrator": "It was narrated from ’Umar that Jibreel عليه السلام said to the Prophet ﷺ:",
+        "text": "What is faith (eeman)? He said:“To believe in Allah, His Angels, His Books, His Messengers, the Last Day and the divine decree, both good and bad,” Jibreel said to him: You have spoken the truth. He said: We were amazed that he asked him and then confirmed his answers as being correct. The Prophet ﷺ said: “That was Jībreel, who came to teach you your religion.`"
+      }
+    },
+    {
+      "id": 109,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عُرْوَةَ عَنْ عَاصِمِ بْنِ عُمَرَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا أَقْبَلَ اللَّيْلُ وَقَالَ مَرَّةً جَاءَ اللَّيْلُ مِنْ هَهُنَا وَذَهَبَ النَّهَارُ مِنْ هَهُنَا فَقَدْ أَفْطَرَ الصَّائِمُ يَعْنِي الْمَشْرِقَ وَالْمَغْرِبَ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Asim bin 'Umar that his father said:",
+        "text": "The Messenger of Allah ﷺ said: “When the night comes from here and the day departs from here, it is time for the fasting person to break his fast,” meaning the east and the west,"
+      }
+    },
+    {
+      "id": 110,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَزِيدُ، أَنْبَأَنَا إِسْرَائِيلُ بْنُ يُونُسَ، عَنْ عَبْدِ الْأَعْلَى الثَّعْلَبِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، قَالَ كُنْتُ مَعَ عُمَرَ رَضِيَ اللَّهُ عَنْهُ فَأَتَاهُ رَجُلٌ فَقَالَ إِنِّي رَأَيْتُ الْهِلَالَ هِلَالَ شَوَّالٍ فَقَالَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ يَا أَيُّهَا النَّاسُ أَفْطِرُوا ثُمَّ قَامَ إِلَى عُسٍّ فِيهِ مَاءٌ فَتَوَضَّأَ وَمَسَحَ عَلَى خُفَّيْهِ فَقَالَ الرَّجُلُ وَاللَّهِ يَا أَمِيرَ الْمُؤْمِنِينَ مَا أَتَيْتُكَ إِلَّا لِأَسْأَلَكَ عَنْ هَذَا أَفَرَأَيْتَ غَيْرَكَ فَعَلَهُ فَقَالَ نَعَمْ خَيْرًا مِنِّي وَخَيْرَ الْأُمَّةِ رَأَيْتُ أَبَا الْقَاسِمِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَعَلَ مِثْلَ الَّذِي فَعَلْتُ وَعَلَيْهِ جُبَّةٌ شَامِيَّةٌ ضَيِّقَةُ الْكُمَّيْنِ فَأَدْخَلَ يَدَهُ مِنْ تَحْتِ الْجُبَّةِ ثُمَّ صَلَّى عُمَرُ الْمَغْرِبَ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Abdur-Rahman bin Abi Laila said:",
+        "text": "I was with ‘Umar and a man came to him and said:I have seen the new moon, the new moon of Shawwal. 'Umar said: O people, break the fast. Then he went to a vessel in which there was water and did wudoo’, and he wiped over his khuffain. A man said: By Allah, O. Ameer al-Mu'mineen, I only came to you to ask about this. Did you see any one else do this? He said: Yes, one who was better than me and the best of the ummah. I saw Abul­-Qasim ﷺ do the same as I have done, when he was wearing a Syrian jubbah with tight sleeves, he put his hand under the jubbah. Then 'Umar prayed Maghrib."
+      }
+    },
+    {
+      "id": 111,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ سُلَيْمَانَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ قَالَ إِنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمْ يُحَرِّمْ الضَّبَّ وَلَكِنْ قَذِرَهُ و قَالَ غَيْرُ مُحَمَّدٍ عَنْ سُلَيْمَانَ الْيَشْكُرِيِّ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir bin 'Abdullah that 'Umar bin al-Khattab رضي الله عنه said:",
+        "text": "The Prophet of Allah ﷺ did not prohibit lizard (meat), but he found it off-­putting."
+      }
+    },
+    {
+      "id": 112,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، عَنْ سَالِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ عُمَرَ، رَضِيَ اللَّهُ عَنْهُمَا عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ اسْتَأْذَنَهُ فِي الْعُمْرَةِ فَأَذِنَ لَهُ فَقَالَ يَا أَخِي لَا تَنْسَنَا مِنْ دُعَائِكَ وَقَالَ بَعْدُ فِي الْمَدِينَةِ يَا أَخِي أَشْرِكْنَا فِي دُعَائِكَ فَقَالَ عُمَرُ مَا أُحِبُّ أَنَّ لِي بِهَا مَا طَلَعَتْ عَلَيْهِ الشَّمْسُ لِقَوْلِهِ يَا أَخِي‏.‏",
+      "english": {
+        "narrator": "It was narrated from ‘Umar that he asked the Prophet ﷺ for permission to do 'Umrah and he gave\nhim permission and said:",
+        "text": "`O my brother, do not forget us in your supplication.` And he said later in Madinah: `O my brother, include us in your supplication.` ʼUmar said: I would not like to have instead of that everything on which the sun rises, because of him saying: `O my brother.”"
+      }
+    },
+    {
+      "id": 113,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، وَحَجَّاجٌ، قَالَ سَمِعْتُ شُعْبَةَ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، رَضِيَ اللَّهُ عَنْهُمَا أَنَّهُ قَالَ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَرَأَيْتَ مَا نَعْمَلُ فِيهِ أَقَدْ فُرِغَ مِنْهُ أَوْ فِي شَيْءٍ مُبْتَدَإٍ أَوْ أَمْرٍ مُبْتَدَعٍ قَالَ فِيمَا قَدْ فُرِغَ مِنْهُ فَقَالَ عُمَرُ أَلَا نَتَّكِلُ فَقَالَ اعْمَلْ يَا ابْنَ الْخَطَّابِ فَكُلٌّ مُيَسَّرٌ أَمَّا مَنْ كَانَ مِنْ أَهْلِ السَّعَادَةِ فَيَعْمَلُ لِلسَّعَادَةِ وَأَمَّا أَهْلُ الشَّقَاءِ فَيَعْمَلُ لِلشَّقَاءِ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Umar that he said to the Prophet ﷺ:",
+        "text": "What do you think about what we are striving for is it something already decided or something that is evolving now or something new? He said: “It is something already decided,` `Umar said: Then why don't we rely on what is already decided? He said: `Strive, O son of al-Khattab, for everyone will be helped; whoever is one of the people of bliss will strive for that bliss and whoever is one of the people of doom will strive for that doom.”"
+      }
+    },
+    {
+      "id": 114,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا هُشَيْمٌ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ عَبَّاسٍ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ خَطَبَ النَّاسَ فَسَمِعَهُ يَقُولُ أَلَا وَإِنَّ أُنَاسًا يَقُولُونَ مَا بَالُ الرَّجْمِ فِي كِتَابِ اللَّهِ الْجَلْدُ وَقَدْ رَجَمَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَرَجَمْنَا بَعْدَهُ وَلَوْلَا أَنْ يَقُولَ قَائِلُونَ أَوْ يَتَكَلَّمَ مُتَكَلِّمُونَ أَنَّ عُمَرَ رَضِيَ اللَّهُ عَنْهُ زَادَ فِي كِتَابِ اللَّهِ مَا لَيْسَ مِنْهُ لَأَثْبَتُّهَا كَمَا نُزِّلَتْ‏.‏",
+      "english": {
+        "narrator": "‘Abdur-­Rahman bin ‘Awf narrated that 'Umar bin al Khattab رضي الله عنه addressed the people and he heard him say:",
+        "text": "Some people say: what is this stoning? ín the Book of Allah it mentions flogging.But the Messenger of Allah ﷺ stoned  after him. Were it not that some people would say that 'Umar added something to the Book of Allah that is not part of it, I would have written it the way it was revealed."
+      }
+    },
+    {
+      "id": 115,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ يَزِيدَ بْنَ خُمَيْرٍ، يُحَدِّثُ عَنْ حَبِيبِ بْنِ عُبَيْدٍ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنِ ابْنِ السِّمْطِ، أَنَّهُ أَتَى أَرْضًا يُقَالُ لَهَا دَوْمِينُ مِنْ حِمْصَ عَلَى رَأْسِ ثَمَانِيَةَ عَشَرَ مِيلًا فَصَلَّى رَكْعَتَيْنِ فَقُلْتُ لَهُ أَتُصَلِّي رَكْعَتَيْنِ فَقَالَ رَأَيْتُ عُمَرَ بْنَ الْخَطَّابِ بِذِي الْحُلَيْفَةِ يُصَلِّي رَكْعَتَيْنِ فَسَأَلْتُهُ فَقَالَ إِنَّمَا أَفْعَلُ كَمَا رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَوْ قَالَ فَعَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn as-Simt that he came to some land called Doomeen, eighteen miles from Homs, and prayed two rak'ahs. I  said to him. Are you praying two rak'ahs? He said:",
+        "text": "I saw 'Umar bin al-Khattab in Dhul­-Hulaifah praying two rak'ahs and I asked him (about that). He said: I am only doing what I saw the Messenger of Allah ﷺ  do."
+      }
+    },
+    {
+      "id": 116,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "قَالَ أَبُو عَبْد الرَّحْمَنِ حَدَّثَنَا أَحْمَد بْن حَنْبَلٍ، قَرَأْتُ عَلَى عَبْدِ الرَّحْمَنِ بْنِ مَهْدِيٍّ ‏:‏ مَالِكٌ عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عُمَرَ، رَضِيَ اللَّهُ عَنْهُ قَالَ دَخَلَ رَجُلٌ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَسْجِدَ يَوْمَ الْجُمُعَةِ وَعُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ يَخْطُبُ النَّاسَ فَقَالَ عُمَرُ أَيَّةُ سَاعَةٍ هَذِهِ فَقَالَ يَا أَمِيرَ الْمُؤْمِنِينَ انْقَلَبْتُ مِنْ السُّوقِ فَسَمِعْتُ النِّدَاءَ فَمَا زِدْتُ عَلَى أَنْ تَوَضَّأْتُ فَقَالَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ وَالْوُضُوءَ أَيْضًا وَقَدْ عَلِمْتَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَأْمُرُ بِالْغُسْلِ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn ‘Umar said:",
+        "text": "One of the Companions of the Messenger of Allah ﷺ  entered the mosque on a Friday, when 'Umar bin al Khattab  رضي الله عنه ­ was addressing the people. 'Umar said: What time is this? He said: 'O Ameer al-Mu'mineen, I have just come from the marketplace. I heard the call and I did not do anything more than wudoo', 'Umar رضي الله عنه said: Wudoo’ too! You know that the Messenger of Allah ﷺ used to enjoin ghusl!"
+      }
+    },
+    {
+      "id": 117,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ مَيْمُونٍ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَ الْمُشْرِكُونَ لَا يُفِيضُونَ مِنْ جَمْعٍ حَتَّى تُشْرِقَ الشَّمْسُ عَلَى ثَبِيرٍ فَخَالَفَهُمْ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَفَاضَ قَبْلَ أَنْ تَطْلُعَ الشَّمْسُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Umar bin al-­Khattab said:",
+        "text": "The mushrikeen used not to move on from Jam' (Muzdalifah) until the sun rose over (the mountain of) Thabeer, The Prophet ﷺ differed from them and moved on before the sun rose."
+      }
+    },
+    {
+      "id": 118,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا ابْنُ جُرَيْجٍ، حَدَّثَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ أَخْبَرَنِي عُمَرُ بْنُ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ لَأُخْرِجَنَّ الْيَهُودَ وَالنَّصَارَى مِنْ جَزِيرَةِ الْعَرَبِ حَتَّى لَا أَدَعَ إِلَّا مُسْلِمًا‏.‏",
+      "english": {
+        "narrator": "Jabir bin ‘Abdullah said:",
+        "text": "Umar bin al-Khattab told me that he heard the Messenger of Allah ﷺ say: “I shall certainly expel the Jews and Christians from the Arabian Peninsula so that I will not leave anyone but Muslims.`"
+      }
+    },
+    {
+      "id": 119,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ بَيْنَا هُوَ قَائِمٌ يَخْطُبُ يَوْمَ الْجُمُعَةِ فَدَخَلَ رَجُلٌ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَنَادَاهُ عُمَرُ رَضِيَ اللَّهُ عَنْهُ أَيَّةُ سَاعَةٍ هَذِهِ فَقَالَ إِنِّي شُغِلْتُ الْيَوْمَ فَلَمْ أَنْقَلِبْ إِلَى أَهْلِي حَتَّى سَمِعْتُ النِّدَاءَ فَلَمْ أَزِدْ عَلَى أَنْ تَوَضَّأْتُ فَقَالَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ الْوُضُوءَ أَيْضًا وَقَدْ عَلِمْتُمْ وَفِي مَوْضِعٍ آخَرَ وَقَدْ عَلِمْتَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَأْمُرُ بِالْغُسْلِ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Salim from his father that whilst ‘Umar bin al Khattab was addressing the people on a Friday, one of the companions of the Messenger of Allah ﷺ  came in, 'Umar called out to \nhim:",
+        "text": "What time is this? He said: I was busy today and I did not go back to my family when I heard the call to prayer, so I did no more than doing wudoo’. ʼUmar said: Just wudooʼ, when you know that the Messenger of Allah (ﷺ) used to enjoin ghus!?"
+      }
+    },
+    {
+      "id": 120,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا هَاشِمُ بْنُ الْقَاسِمِ، حَدَّثَنَا عِكْرِمَةُ يَعْنِي ابْنَ عَمَّارٍ، حَدَّثَنِي سِمَاكٌ الْحَنَفِيُّ أَبُو زُمَيْلٍ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبَّاسٍ، حَدَّثَنِي عُمَرُ بْنُ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ قَالَ لَمَّا كَانَ يَوْمُ خَيْبَرَ أَقْبَلَ نَفَرٌ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالُوا فُلَانٌ شَهِيدٌ فُلَانٌ شَهِيدٌ حَتَّى مَرُّوا عَلَى رَجُلٍ فَقَالُوا فُلَانٌ شَهِيدٌ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلَّا إِنِّي رَأَيْتُهُ فِي النَّارِ فِي بُرْدَةٍ غَلَّهَا أَوْ عَبَاءَةٍ ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَا ابْنَ الْخَطَّابِ اذْهَبْ فَنَادِ فِي النَّاسِ أَنَّهُ لَا يَدْخُلُ الْجَنَّةَ إِلَّا الْمُؤْمِنُونَ قَالَ فَخَرَجْتُ فَنَادَيْتُ أَلَا إِنَّهُ لَا يَدْخُلُ الْجَنَّةَ إِلَّا الْمُؤْمِنُونَ‏.‏",
+      "english": {
+        "narrator": "Abdullah bin ‘Abbas said:",
+        "text": "Umar bin al-Khattab told me: On the day of Khaibar, a group of the companions of the Prophet ﷺ  came and said: So and so has been martyred. So and so has been martyred, until they came to a man and said, So and so has been martyred, but the Messenger of Allah (ﷺ)  said: “No, I saw him in the Fire because of a cloak or 'aba'ah that he stole from the war booty.” Then the Messenger of Allah ﷺ  said: “O son of al-Khattab, go and call out to the people that no one will enter Paradise except the believers.” So I went out and called to them, saying: `No one will enter Paradise except the believers.”"
+      }
+    },
+    {
+      "id": 121,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنَا دَاوُدُ يَعْنِي ابْنَ أَبِي الْفُرَاتِ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، عَنْ أَبِي الْأَسْوَدِ الدِّيْلِيِّ، قَالَ أَتَيْتُ الْمَدِينَةَ وَقَدْ وَقَعَ بِهَا مَرَضٌ فَهُمْ يَمُوتُونَ مَوْتًا ذَرِيعًا فَجَلَسْتُ إِلَى عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ فَمَرَّتْ بِهِ جَنَازَةٌ فَأُثْنِيَ عَلَى صَاحِبِهَا خَيْرٌ فَقَالَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ وَجَبَتْ ثُمَّ مُرَّ بِأُخْرَى فَأُثْنِيَ عَلَى صَاحِبِهَا خَيْرٌ فَقَالَ وَجَبَتْ ثُمَّ مُرَّ بِالثَّالِثَةِ فَأُثْنِيَ عَلَى صَاحِبِهَا شَرٌّ فَقَالَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ وَجَبَتْ فَقُلْتُ وَمَا وَجَبَتْ يَا أَمِيرَ الْمُؤْمِنِينَ قَالَ قُلْتُ كَمَا قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَيُّمَا مُسْلِمٍ شَهِدَ لَهُ أَرْبَعَةٌ بِخَيْرٍ أَدْخَلَهُ اللَّهُ الْجَنَّةَ قَالَ قُلْنَا أَوْ ثَلَاثَةٌ قَالَ أَوْ ثَلَاثَةٌ فَقُلْنَا أَوْ اثْنَانِ قَالَ أَوْ اثْنَانِ ثُمَّ لَمْ نَسْأَلْهُ عَنْ الْوَاحِدِ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abul-Aswad ad-­Deeli said:",
+        "text": "When I came to Madinah, sickness was occurring in the city and they were dying quickly. I sat with 'Umar bin al Khattab (رضي الله عنه) and a funeral passed by, Good things were said about (the deceased) and ‘Umar (رضي الله عنه) said: It is due. Then another (funeral) passed by; good things were said about (the deceased) and he said: It is due. Then a third funeral passed by: bad things were said about the deceased and ‘Umar said: It is due. I said: What is due, O Ameer al Mu'mineen? He said: I said what the Messenger of Allah (ﷺ) said: `Any Muslim in whose favour four people testify, Allah will admit him to Paradise.` We said: Or three? He said: “Or three.` We said: Or two? He said: `Or two.” Then we did not ask him about one,"
+      }
+    },
+    {
+      "id": 122,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا أَبُو عَبْدِ الرَّحْمَنِ، حَدَّثَنَا حَيْوَةُ، أَخْبَرَنِي بَكْرُ بْنُ عَمْرٍو، أَنَّهُ سَمِعَ عَبْدَ اللَّهِ بْنَ هُبَيْرَةَ، يَقُولُ إِنَّهُ سَمِعَ أَبَا تَمِيمٍ الْجَيْشَانِيَّ، يَقُولُ سَمِعَ عُمَرَ بْنَ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ يَقُولُ إِنَّهُ سَمِعَ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ لَوْ أَنَّكُمْ تَتَوَكَّلُونَ عَلَى اللَّهِ حَقَّ تَوَكُّلِهِ لَرَزَقَكُمْ كَمَا يَرْزُقُ الطَّيْرَ تَغْدُو خِمَاصًا وَتَرُوحُ بِطَانًا‏.‏",
+      "english": {
+        "narrator": "Abu Tameem al­-Jaishani said:",
+        "text": "Umar bin al Khattab heard the Messenger of Allah (ﷺ) say: `If you were to put your trust in Allah as you should, you would be given provision like the birds: they go out hungry in the morning and come back with full bellies in the evening.”"
+      }
+    },
+    {
+      "id": 123,
+      "chapterId": 2,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا أَبُو عَبْدِ الرَّحْمَنِ، حَدَّثَنِي سَعِيدُ بْنُ أَبِي أَيُّوبَ، حَدَّثَنِي عَطَاءُ بْنُ دِينَارٍ، عَنْ حَكِيمِ بْنِ شَرِيكٍ الْهُذَلِيِّ، عَنْ يَحْيَى بْنِ مَيْمُونٍ الْحَضْرَمِيِّ، عَنْ رَبِيعَةَ الْجُرَشِيِّ، عَنْ أَبِي هُرَيْرَةَ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا تُجَالِسُوا أَهْلَ الْقَدَرِ وَلَا تُفَاتِحُوهُمْ وَقَالَ أَبُو عَبْدِ الرَّحْمَنِ مَرَّةً سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah from 'Umar bin al-Khattab that the Messenger of Allah (ﷺ)  said:",
+        "text": "“Do not sit with the people who deny al-­qadar, or initiate any discussion with them.` 'AbdurRahman said on one occasion: I heard the Messenger of Allah (ﷺ) say....."
+      }
+    }
+  ]
+}

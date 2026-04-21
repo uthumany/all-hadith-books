@@ -1,0 +1,16 @@
+{
+  "id": 49,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ آيَةُ اَلْمُنَافِقِ ثَلَاثٌ: إِذَا حَدَّثَ كَذَبَ, وَإِذَا وَعَدَ أَخْلَفَ, وَإِذَا ائْتُمِنَ خَانَ }  مُتَّفَقٌ عَلَيْهِ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (33)‏، ومسلم (59)‏ (107)‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“There are three signs of a hypocrite: when he speaks, he tells lies; when he makes a promise, he breaks it; and when he is entrusted, he betrays his trust.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

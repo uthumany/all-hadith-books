@@ -1,0 +1,16 @@
+{
+  "id": 98,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الرابع‏:‏ عن عائشة رضي الله عنها أن النبي صلى الله عليه وسلم كان يقوم من الليل حتى تنفطر قدماه، فقلت له‏:‏ لم تصنع هذا يا رسول الله، وقد غفر الله لك ما تقدم من ذنبك وما تأخر‏؟‏‏!‏ قال‏:‏ ‏\n\"‏ أفلا أحب أن أكون عبداً شكوراً‏؟‏‏\"‏ ‏(‏‏(‏متفق عليه‏.‏ هذا لفظ البخاري، ونحوه في الصحيحين من رواية المغيرة بن شعبة‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) said:",
+    "text": "The Prophet (ﷺ) would stand (in prayer) so long that the skin of his feet would crack. I asked him, \"Why do you do this while your past and future sins have been forgiven?\" He said, \"Should I not be a grateful slave of Allah?\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

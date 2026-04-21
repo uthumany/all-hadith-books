@@ -1,0 +1,16 @@
+{
+  "id": 530,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَإِبْرَاهِيمُ بْنُ مُحَمَّدٍ السَّامِيُّ، قَالاَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ يُونُسَ، يُحَدِّثُ عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اللَّهُمَّ اجْعَلْ بِالْمَدِينَةِ ضِعْفَىْ مَا بِمَكَّةَ مِنَ الْبَرَكَةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Anas b. Malik (Allah he pleased with him) reported that Allah's Messenger (ﷺ) said:",
+    "text": "O Allah, increase in Medina twice the blessings (Thou showered) on Mecca."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

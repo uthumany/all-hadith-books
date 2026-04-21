@@ -1,0 +1,16 @@
+{
+  "id": 39,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا الرَّبِيعُ بْنُ مُسْلِمٍ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَشْكُرُ اللَّهَ مَنْ لاَ يَشْكُرُ النَّاسَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Hurayrah:",
+    "text": "The Prophet (ﷺ) said: He who does not thank the people is not thankful to Allah."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 417,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا أَبُو عَاصِمٍ، وَعَفَّانُ، وَسُلَيْمَانُ، عَنْ شُعْبَةَ، عَنْ مُشَاشٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ الْفَضْلِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَمَرَ ضَعَفَةَ بَنِي هَاشِمٍ أَنْ يَنْفِرُوا مِنْ جَمْعٍ بِلَيْلٍ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Ibn Abbas, from Al-Fadl, that:",
+    "text": "the Prophet commanded the weak ones among Banu Hashim to move on from Jam' (Al-Muzadalifah) at night."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

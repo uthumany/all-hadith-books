@@ -1,0 +1,16 @@
+{
+  "id": 192,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "التاسع‏:‏ عن أبي سعيد الحسن البصري أن عائذ بن عمرو رضي الله عنه دخل على عبيد الله بن زياد فقال‏:‏ أي بني، إني سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏إن شر الرعاء الحطمة” فإياك أن تكون منهم‏.‏ فقال له ‏:‏ اجلس فإنما أنت من نخالة أصحاب محمد صلى الله عليه وسلم ، فقال‏:‏ وهل كانت لهم نخالة، إنما كانت النخالة بعدهم وفي غيرهم ‏!‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Sa'id Al-Hasan Basri reported:",
+    "text": "'Aidh bin 'Amr (the Companion) (May Allah be pleased with him) visited 'Ubaidullah bin Ziyad (the ruler) and said to him: \"Son, I heard Messenger of Allah (ﷺ) saying, 'The worst shepherds (rulers) are those who deal harshly in respect of supervision. Beware, Don't be one of them!\"' Ibn Ziyad said to him, \"Sit down, you are but husk from among the Companions of the Prophet (ﷺ).\" 'Aidh bin 'Amr (May Allah be pleased with him) retorted: \"Was there any husk among them? Surely, husk came after them and among others than them\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

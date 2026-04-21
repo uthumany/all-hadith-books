@@ -1,0 +1,16 @@
+{
+  "id": 466,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ مُطَرِّفٍ الرُّؤَاسِيُّ، حَدَّثَنَا عِيسَى، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، عَنْ دُكَيْنِ بْنِ سَعِيدٍ الْمُزَنِيِّ، قَالَ أَتَيْنَا النَّبِيَّ صلى الله عليه وسلم فَسَأَلْنَاهُ الطَّعَامَ فَقَالَ ‏\n\"‏ يَا عُمَرُ اذْهَبْ فَأَعْطِهِمْ ‏\"‏ ‏.‏ فَارْتَقَى بِنَا إِلَى عِلِّيَّةٍ فَأَخَذَ الْمِفْتَاحَ مِنْ حُجْزَتِهِ فَفَتَحَ ‏.‏",
+  "english": {
+    "narrator": "Narrated Dukayn ibn Sa'id al-Muzani:",
+    "text": "We came to the Prophet (ﷺ) and asked him for some corn. He said: Go, Umar, and give them. He ascended with us a room upstairs, took a key from his apartment and opened it."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 23,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا حَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنِ الأَعْمَشِ، عَنْ أَبِي إِسْحَاقَ، قَالَ لَمَّا أَحْدَثُوا تِلْكَ الأَشْيَاءَ بَعْدَ عَلِيٍّ - رضى الله عنه - قَالَ رَجُلٌ مِنْ أَصْحَابِ عَلِيٍّ قَاتَلَهُمُ اللَّهُ أَىَّ عِلْمٍ أَفْسَدُوا ‏.‏",
+  "english": {
+    "narrator": "Hasan bin Alī al-Hulwānī narrated to us, Yahyā bin Ādam narrated to us, Ibn Idrīs narrated to us, on authority of al-A’mash, on authority of Abī Ishāq who said:",
+    "text": "‘When they narrated these things after Alī, may Allah be pleased with him, a man from the companions of Alī said: ‘May Allah curse them. Did they corrupt every  knowledge!?’"
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

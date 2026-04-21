@@ -1,0 +1,16 @@
+{
+  "id": 346,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْحَسَنُ بْنُ عُقْبَةَ أَبُو كِبْرَانَ، عَنْ عَبْدِ خَيْرٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ هَذَا وُضُوءُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ ثَلَاثًا ثَلَاثًا‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Abd Khair, that ‘Ali (رضي الله عنه) said:",
+    "text": "This is the wudoo’ of the Messenger of Allah (ﷺ). Then he did wudoo’ washing each part three times."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

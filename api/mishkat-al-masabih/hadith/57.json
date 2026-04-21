@@ -1,0 +1,16 @@
+{
+  "id": 57,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَن أبي كَبْشَة الْأَنْمَارِيِّ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ احْتَجَمَ عَلَى هَامَتِهِ مِنَ الشَّاةِ الْمَسْمُومَةِ قَالَ مَعْمَرٌ: فَاحْتَجَمْتُ أَنَا مِنْ غَيْرِ سُمٍّ كَذَلِكَ فِي يَافُوخِي فَذَهَبَ حُسْنُ الْحِفْظِ عَنِّي حَتَّى كُنْتُ أُلَقَّنُ فَاتِحَةَ الْكِتَابِ فِي الصَّلَاةِ. رَوَاهُ رزين",
+  "english": {
+    "narrator": "Abu Kabsha al-Anmari told that God’s messenger had himself cupped on the top of his head because of the poisoned sheep.* Ma'mar said:",
+    "text": "I had myself cupped like that in the middle of my head for a reason other than poison and suffered some loss of memory till I was recommended to use Fatihat al-Kitab in the prayer. \n\nRazin transmitted it.\n\n* An attempt was made to poison the Prophet after the conquest of Khaibar in 7 A.H., but when he had taken a mouthful of the poisoned meat he spat it out realizing that it was poisoned."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

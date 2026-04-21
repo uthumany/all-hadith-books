@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "chapterId": 56,
+  "bookId": 11,
+  "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، قَالَ‏:‏ حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ، قَالَ‏:‏ حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسٍ‏:‏ أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم، قَالَ‏:‏ مَنْ رَآنِي فِي الْمَنَامِ فَقَدْ رَآنِي، فَإِنَّ الشَّيْطَانَ لا يَتَخَيَّلُ بِي وَقَالَ‏:‏ وَرُؤْيَا الْمُؤْمِنِ جُزْءٌ مِنْ سِتَّةٍ وَأَرْبَعِينَ جُزْءًا مِنَ النُّبُوَّةِ‏.‏",
+  "english": {
+    "narrator": "Anas said:",
+    "text": "\"The Prophet said (Allah bless him and give him peace): 'If someone sees me in his sleep, he has indeed seen me, for Satan cannot impersonate me!' He also said: 'The vision of the believer is one of forty-six parts of Prophethood.'\""
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

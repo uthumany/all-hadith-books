@@ -1,0 +1,16 @@
+{
+  "id": 40,
+  "chapterId": 43,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، قَالَ‏:‏ أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ مُسْلِمِ بْنِ نَذِيرٍ قَالَ‏:‏ اسْتَأْذَنَ رَجُلٌ عَلَى حُذَيْفَةَ فَاطَّلَعَ وَقَالَ‏:‏ أَدْخُلُ‏؟‏ قَالَ حُذَيْفَةُ‏:‏ أَمَّا عَيْنُكَ فَقَدْ دَخَلَتْ، وَأَمَّا اسْتُكَ فَلَمْ تَدْخُلْ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Muslim ibn Nadhir said, \"A man asked permission to enter from\nHudhayfa. He looked in and said, 'May I come in?' Hudhayfa replied, 'As\nfor you eye, it has already entered. As for your bottom, it has not entered.'\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

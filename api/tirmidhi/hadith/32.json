@@ -1,0 +1,16 @@
+{
+  "id": 32,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ، حَدَّثَنَا زُهَيْرٌ، عَنْ أَبِي إِسْحَاقَ، قَالَ سَأَلَ رَجُلٌ الْبَرَاءَ أَكَانَ وَجْهُ رَسُولِ اللَّهِ صلى الله عليه وسلم مِثْلَ السَّيْفِ قَالَ لاَ مِثْلَ الْقَمَرِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Ishaq:",
+    "text": "\"A man asked Al-Bara: 'Was the face of the Messenger of Allah (ﷺ) like a sword?' He said: 'No, like the moon.'\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

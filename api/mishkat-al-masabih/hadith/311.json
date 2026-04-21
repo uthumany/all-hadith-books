@@ -1,0 +1,16 @@
+{
+  "id": 311,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "عَنِ ابْنِ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أُمِرْتُ أَنْ أَسْجُدَ عَلَى سَبْعَةِ أَعْظُمٍ عَلَى الْجَبْهَةِ وَالْيَدَيْنِ وَالرُّكْبَتَيْنِ وَأَطْرَافِ الْقَدَمَيْنِ وَلَا نَكْفِتَ الثِّيَاب وَلَا الشّعْر»",
+  "english": {
+    "narrator": "Ibn ‘Abbas reported God’s Messenger as saying, “I have been commanded to prostrate myself on seven bones:",
+    "text": "the forehead, the hands, 1 the knees, and the extremities of the feet, 2 and not to fold back the clothing or the hair.”\n\n1. i.e. the palms.\n2. i.e. the toes.\n\n(Bukhari and Muslim.)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

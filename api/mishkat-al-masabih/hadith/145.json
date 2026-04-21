@@ -1,0 +1,16 @@
+{
+  "id": 145,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَنْتِفُوا الشَّيْبَ فَإِنَّهُ نُورُ الْمُسْلِمِ مَنْ شَابَ شَيْبَةً فِي الْإِسْلَامِ كَتَبَ اللَّهُ لَهُ بِهَا حَسَنَةً وَكَفَّرَ عَنْهُ بِهَا خَطِيئَةً وَرَفَعَهُ بِهَا دَرَجَةً» . رَوَاهُ أَبُو دَاوُدَ",
+  "english": {
+    "narrator": "",
+    "text": "‘Amr b. Shu'aib, on his father’s authority, told that his grandfather reported God’s messenger as saying. “Do not pluck out grey hairs, for they are the Muslim’s light. If anyone grows a grey hair in Islam God will record on his behalf a good deed for it, will blot out a sin for it, and raise him a degree for it.” \nAbu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

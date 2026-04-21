@@ -1,0 +1,16 @@
+{
+  "id": 129,
+  "chapterId": 97,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ قَالَ اللَّهُ إِذَا أَحَبَّ عَبْدِي لِقَائِي أَحْبَبْتُ لِقَاءَهُ، وَإِذَا كَرِهَ لِقَائِي كَرِهْتُ لِقَاءَهُ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Huraira:",
+    "text": "Allah's Messenger (ﷺ) said, \"Allah said, 'If My slaves loves the meeting with Me, I too love the meeting with \nhim; and if he dislikes the meeting with Me, I too dislike the meeting with him.' \" (See Hadith No. \n514, Vol. 8)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19,
+  "chapterId": 55,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا شِهَابُ بْنُ مَعْمَرٍ، قَالَ‏:‏ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ قَالَ‏:‏ رَأَى رَسُولُ اللهِ صلى الله عليه وسلم رَجُلاً يَتْبَعُ حَمَامَةً، قَالَ‏:‏ شَيْطَانٌ يَتْبَعُ شَيْطَانَةً‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Abu Hurayra said, \"The Messenger of Allah, may Allah bless him\nand grant him peace, saw a man following a dove and said, 'A shaytan following\na shaytan.'\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

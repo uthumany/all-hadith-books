@@ -1,0 +1,16 @@
+{
+  "id": 159,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ ثَوْرِ بْنِ زَيْدٍ الدِّيلِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، مِثْلَ ذَلِكَ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Thawr ibn Zayd ad-Dili from\nAbdullah ibn Abbas the same as that."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 629,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ مُحَمَّدِ بْنِ عَبَّادٍ، عَنْ عَبْدِ اللَّهِ بْنِ سُفْيَانَ، عَنْ عَبْدِ اللَّهِ بْنِ السَّائِبِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ صَلَّى يَوْمَ الْفَتْحِ فَجَعَلَ نَعْلَيْهِ عَنْ يَسَارِهِ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that ‘Abdullah bin Sa’ib said:",
+    "text": "“I saw the Messenger\nof\nAllah (ﷺ) praying on the Day of the Conquest, and he put his\nshoes\non his left.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

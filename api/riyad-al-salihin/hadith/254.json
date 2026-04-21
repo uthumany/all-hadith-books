@@ -1,0 +1,16 @@
+{
+  "id": 254,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي سعيد الخدري رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ احتجت الجنة والنار فقالت النار‏:‏ في الجبارون والمتكبرون، وقالت الجنة‏:‏ في ضعفاء الناس ومساكينهم، فقضى الله بينهما‏:‏ إنك الجنة رحمتي أرحم بك من أشاء، وإنك النار أعذب بك من أشاء، ولكليكما علي ملؤها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Sa'id Al-Khudri (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said: There was a dispute between the Hell and Jannah. The Hell said: \"The haughty and proud are my inmates.\" Jannah said: \"The modest and the humble are my residents\". Thereupon, Allah the Exalted and Glorious (addressing Jannah) said: \"You are My Mercy, through you I shall show mercy to those whom I wish\". (And addressing the Hell), He said: \"You are (the means) of My punishment by which I shall punish such of My slaves as I wish and each one of you would have its fill\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

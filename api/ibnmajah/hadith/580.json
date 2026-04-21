@@ -1,0 +1,16 @@
+{
+  "id": 580,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنِ النَّهَّاسِ بْنِ قَهْمٍ، عَنْ شَدَّادٍ أَبِي عَمَّارٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ حَافَظَ عَلَى شُفْعَةِ الضُّحَى غُفِرَتْ لَهُ ذُنُوبُهُ وَإِنْ كَانَتْ مِثْلَ زَبَدِ الْبَحْرِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Abu Hurairah said:",
+    "text": "“The Messenger of Allah (ﷺ)\nsaid: ‘Whoever regularly prays two Rak’ah of Duha, his sins will\nbe\nforgiven even if they are like the foam of the sea.’”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

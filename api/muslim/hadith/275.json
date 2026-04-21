@@ -1,0 +1,16 @@
+{
+  "id": 275,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي بِشْرٍ، عَنْ عَبْدِ،\n الرَّحْمَنِ بْنِ أَبِي بَكْرَةَ عَنْ أَبِيهِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَسْلَمُ وَغِفَارُ\n وَمُزَيْنَةُ وَجُهَيْنَةُ خَيْرٌ مِنْ بَنِي تَمِيمٍ وَمِنْ بَنِي عَامِرٍ وَالْحَلِيفَيْنِ بَنِي أَسَدٍ وَغَطَفَانَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Abu Bakra reported from the Messenger of Allah (ﷺ) that Aslam, Ghifar, Muzaina and Juhaina are better than Banu Tamim, Banu Amir and their allies Banu Asad and Ghatfan."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

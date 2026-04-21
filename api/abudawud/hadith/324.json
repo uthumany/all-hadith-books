@@ -1,0 +1,16 @@
+{
+  "id": 324,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا ابْنُ عَوْفٍ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي أَبِي، - قَالَ ابْنُ عَوْفٍ وَرَأَيْتُ فِي أَصْلِ إِسْمَاعِيلَ - قَالَ حَدَّثَنِي ضَمْضَمٌ، عَنْ شُرَيْحٍ، عَنْ أَبِي مَالِكٍ الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا وَلَجَ الرَّجُلُ فِي بَيْتِهِ فَلْيَقُلِ اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَوْلِجِ وَخَيْرَ الْمَخْرَجِ بِسْمِ اللَّهِ وَلَجْنَا وَبِسْمِ اللَّهِ خَرَجْنَا وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا ثُمَّ لْيُسَلِّمْ عَلَى أَهْلِهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuMalik Al-Ash'ari:",
+    "text": "The Prophet (ﷺ) said: When a man goes into his house, he should say: \"O Allah! I ask Thee for good both when entering and when going out; in the name of Allah we have entered, and in the name of Allah we have gone out, and in Allah our Lord do we trust.\" He should then greet his family."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

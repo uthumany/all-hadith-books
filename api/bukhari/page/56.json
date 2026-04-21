@@ -1,0 +1,510 @@
+{
+  "page": 56,
+  "perPage": 50,
+  "totalPages": 146,
+  "totalCount": 7277,
+  "nextPage": 57,
+  "prevPage": 55,
+  "items": [
+    {
+      "id": 82,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ ـ رضى الله عنه اسْتَقْبَلَهُمُ النَّبِيُّ صلى الله عليه وسلم عَلَى فَرَسٍ عُرْىٍ، مَا عَلَيْهِ سَرْجٌ، فِي عُنُقِهِ سَيْفٌ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "The Prophet (ﷺ) met them (i.e. the people) while he was riding an unsaddled horse with his sword slung \nover his shoulder."
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ حَمَّادٍ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه أَنَّ أَهْلَ، الْمَدِينَةِ فَزِعُوا مَرَّةً، فَرَكِبَ النَّبِيُّ صلى الله عليه وسلم فَرَسًا لأَبِي طَلْحَةَ كَانَ يَقْطِفُ ـ أَوْ كَانَ فِيهِ قِطَافٌ ـ فَلَمَّا رَجَعَ قَالَ ‏\n\"‏ وَجَدْنَا فَرَسَكُمْ هَذَا بَحْرًا ‏\"‏‏.‏ فَكَانَ بَعْدَ ذَلِكَ لاَ يُجَارَى‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "Once the people of Medina were frightened, so the Prophet (ﷺ) rode a horse belonging to Abu Talha and it \nran slowly, or was of narrow paces. When he returned, he said, \"I found your (i.e. Abu Talha's) horse \nvery fast. After that the horse could not be surpassed in running..'"
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ أَجْرَى النَّبِيُّ صلى الله عليه وسلم مَا ضُمِّرَ مِنَ الْخَيْلِ مِنَ الْحَفْيَاءِ إِلَى ثَنِيَّةِ الْوَدَاعِ، وَأَجْرَى مَا لَمْ يُضَمَّرْ مِنَ الثَّنِيَّةِ إِلَى مَسْجِدِ بَنِي زُرَيْقٍ‏.‏ قَالَ ابْنُ عُمَرَ وَكُنْتُ فِيمَنْ أَجْرَى‏.‏ قَالَ عَبْدُ اللَّهِ حَدَّثَنَا سُفْيَانُ قَالَ حَدَّثَنِي عُبَيْدُ اللَّهِ‏.‏ قَالَ سُفْيَانُ بَيْنَ الْحَفْيَاءِ إِلَى ثَنِيَّةِ الْوَدَاعِ خَمْسَةُ أَمْيَالٍ أَوْ سِتَّةٌ، وَبَيْنَ ثَنِيَّةِ إِلَى مَسْجِدِ بَنِي زُرَيْقٍ مِيلٌ‏.‏",
+      "english": {
+        "narrator": "Narrated (`Abdullah) bin `Umar:",
+        "text": "The Prophet (ﷺ) arranged for a horse race amongst the horses that had been made lean to take place \nbetween Al-Hafya'' and Thaniyat Al-Wada` (i.e. names of two places) and the horses which had not \nbeen mad.? lean from Ath-Thaniyat to the mosque of Bani Zuraiq. I was also amongst those who took \npart in that horse race. Sufyan, a sub-narrator, said, \"The distance between Al-Hafya and Thaniya Al- \nWada` is five or six miles; and between Thaniya and the mosque of Bani Zuraiq is one mile.\""
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه أَنَّ النَّبِيَّ صلى الله عليه وسلم سَابَقَ بَيْنَ الْخَيْلِ الَّتِي لَمْ تُضَمَّرْ، وَكَانَ أَمَدُهَا مِنَ الثَّنِيَّةِ إِلَى مَسْجِدِ بَنِي زُرَيْقٍ‏.‏ وَأَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ كَانَ سَابَقَ بِهَا‏.‏   \nقَالَ أَبُو عَبْد اللَّهِ أَمَدًا غَايَةً  فَطَالَ عَلَيْهِمْ الْأَمَدُ",
+      "english": {
+        "narrator": "Narrated `Abdullah:",
+        "text": "The Prophet (ﷺ) arranged for a horse race of the horses which had not been made lean; the area of the race \nwas from Ath-Thaniya to the mosque of Bani Zuraiq. (The sub-narrator said, \"`Abdullah bin `Umar \nwas amongst those who participated in that horse race.\")."
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا مُعَاوِيَةُ، حَدَّثَنَا أَبُو إِسْحَاقَ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ سَابَقَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ الْخَيْلِ الَّتِي قَدْ أُضْمِرَتْ فَأَرْسَلَهَا مِنَ الْحَفْيَاءِ، وَكَانَ أَمَدُهَا ثَنِيَّةَ الْوَدَاعِ‏.‏ فَقُلْتُ لِمُوسَى فَكَمْ كَانَ بَيْنَ ذَلِكَ قَالَ سِتَّةُ أَمْيَالٍ أَوْ سَبْعَةٌ‏.‏ وَسَابَقَ بَيْنَ الْخَيْلِ الَّتِي لَمْ تُضَمَّرْ، فَأَرْسَلَهَا مِنْ ثَنِيَّةِ الْوَدَاعِ، وَكَانَ أَمَدُهَا مَسْجِدَ بَنِي زُرَيْقٍ، قُلْتُ فَكَمْ بَيْنَ ذَلِكَ قَالَ مِيلٌ أَوْ نَحْوُهُ‏.‏ وَكَانَ ابْنُ عُمَرَ مِمَّنْ سَابَقَ فِيهَا‏.‏",
+      "english": {
+        "narrator": "Narrated Abu 'Is-haq from Musa bin `Uqba from Mafia from Ibn `Umar who said:",
+        "text": "\"Allah's Messenger (ﷺ) arranged a horse race amongst the horses that had been made lean, letting them start \nfrom Al-Hafya' and their limit (distance of running) was up to Thaniyat-al-Wada`. I asked Musa, \n'What was the distance between the two places?' Musa replied, 'Six or seven miles. He arranged a race \nof the horses which had not been made lean sending them from Thaniyat-al-Wada`, and their limit \nwas up to the mosque of Bani Zuraiq.' I asked, 'What was the distance between those two places?' He \nreplied 'One mile or so.' Ibn `Umar was amongst those who participated in that horse race.\""
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا مُعَاوِيَةُ، حَدَّثَنَا أَبُو إِسْحَاقَ، عَنْ حُمَيْدٍ، قَالَ سَمِعْتُ أَنَسًا ـ رضى الله عنه ـ يَقُولُ كَانَتْ نَاقَةُ النَّبِيِّ صلى الله عليه وسلم يُقَالُ لَهَا الْعَضْبَاءُ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "The she camel of the Prophet (ﷺ) was called Al-Adba."
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا زُهَيْرٌ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ كَانَ لِلنَّبِيِّ صلى الله عليه وسلم نَاقَةٌ تُسَمَّى الْعَضْبَاءَ لاَ تُسْبَقُ ـ قَالَ حُمَيْدٌ أَوْ لاَ تَكَادُ تُسْبَقُ ـ فَجَاءَ أَعْرَابِيٌّ عَلَى قَعُودٍ فَسَبَقَهَا، فَشَقَّ ذَلِكَ عَلَى الْمُسْلِمِينَ، حَتَّى عَرَفَهُ فَقَالَ ‏\n\"‏ حَقٌّ عَلَى اللَّهِ أَنْ لاَ يَرْتَفِعَ شَىْءٌ مِنَ الدُّنْيَا إِلاَّ وَضَعَهُ ‏\"‏‏.‏ طَوَّلَهُ مُوسَى عَنْ حَمَّادٍ عَنْ ثَابِتٍ عَنْ أَنَسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "The Prophet (ﷺ) had a she camel called Al Adba which could not be excelled in a race. (Humaid, a subnarrator \nsaid, \"Or could hardly be excelled.\") Once a bedouin came riding a camel below six years of \nage which surpasses it (i.e. Al-`Adba') in the race. The Muslims felt it so much that the Prophet (ﷺ) \nnoticed their distress. He then said, \"It is Allah's Law that He brings down whatever rises high in the \nworld.\""
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي أَبُو إِسْحَاقَ، قَالَ سَمِعْتُ عَمْرَو بْنَ الْحَارِثِ، قَالَ مَا تَرَكَ النَّبِيُّ صلى الله عليه وسلم إِلاَّ بَغْلَتَهُ الْبَيْضَاءَ وَسِلاَحَهُ وَأَرْضًا تَرَكَهَا صَدَقَةً‏.‏",
+      "english": {
+        "narrator": "Narrated `Amr bin Al-Harith:",
+        "text": "The Prophet (ﷺ) did not leave anything behind him after his death except a white mule, his arms and a \npiece of land which he left to be given in charity."
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي أَبُو إِسْحَاقَ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ قَالَ لَهُ رَجُلٌ يَا أَبَا عُمَارَةَ وَلَّيْتُمْ يَوْمَ حُنَيْنٍ قَالَ لاَ، وَاللَّهِ مَا وَلَّى النَّبِيُّ صلى الله عليه وسلم وَلَكِنْ وَلَّى سَرَعَانُ النَّاسِ، فَلَقِيَهُمْ هَوَازِنُ بِالنَّبْلِ وَالنَّبِيُّ صلى الله عليه وسلم عَلَى بَغْلَتِهِ الْبَيْضَاءِ، وَأَبُو سُفْيَانَ بْنُ الْحَارِثِ آخِذٌ بِلِجَامِهَا، وَالنَّبِيُّ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ أَنَا النَّبِيُّ لاَ كَذِبْ أَنَا ابْنُ عَبْدِ الْمُطَّلِبْ‏\"‏",
+      "english": {
+        "narrator": "Narrated Al-Bara:",
+        "text": "that a man asked him. \"O Abu '`Umara! Did you flee on the day (of the battle) of Hunain?\" He replied, \n\"No, by Allah, the Prophet (ﷺ) did not flee but the hasty people fled and the people of the Tribe of \nHawazin attacked them with arrows, while the Prophet (ﷺ) was riding his white mule and Abu Sufyan bin \nAl-Harith was holding its reins, and the Prophet (ﷺ) was saying, 'I am the Prophet (ﷺ) in truth, I am the son of \n`Abdul Muttalib.' \""
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ مُعَاوِيَةَ بْنِ إِسْحَاقَ، عَنْ عَائِشَةَ بِنْتِ طَلْحَةَ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ ـ رضى الله عنها ـ قَالَتِ اسْتَأْذَنْتُ النَّبِيَّ صلى الله عليه وسلم فِي الْجِهَادِ‏.‏ فَقَالَ ‏\n\"‏ جِهَادُكُنَّ الْحَجُّ ‏\"‏‏.‏ وَقَالَ عَبْدُ اللَّهِ بْنُ الْوَلِيدِ حَدَّثَنَا سُفْيَانُ عَنْ مُعَاوِيَةَ بِهَذَا‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "the mother of the faithful believers, I requested the Prophet (ﷺ) permit me to participate in Jihad, but he \nsaid, \"Your Jihad is the performance of Hajj.\""
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ مُعَاوِيَةَ، بِهَذَا‏.‏ وَعَنْ حَبِيبِ بْنِ أَبِي عَمْرَةَ، عَنْ عَائِشَةَ بِنْتِ طَلْحَةَ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ، عَنِ النَّبِيِّ صلى الله عليه وسلم سَأَلَهُ نِسَاؤُهُ عَنِ الْجِهَادِ فَقَالَ ‏\n\"‏ نِعْمَ الْجِهَادُ الْحَجُّ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "the mother of the faithful believers: The Prophet (ﷺ) was asked by his wives about the Jihad and he \nreplied, \"The best Jihad (for you) is (the performance of) Hajj.\""
+      }
+    },
+    {
+      "id": 93,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، حَدَّثَنَا أَبُو إِسْحَاقَ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ الأَنْصَارِيِّ، قَالَ سَمِعْتُ أَنَسًا ـ رضى الله عنه ـ يَقُولُ دَخَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى ابْنَةِ مِلْحَانَ فَاتَّكَأَ عِنْدَهَا، ثُمَّ ضَحِكَ فَقَالَتْ لِمَ تَضْحَكُ يَا رَسُولَ اللَّهِ فَقَالَ ‏\"‏ نَاسٌ مِنْ أُمَّتِي يَرْكَبُونَ الْبَحْرَ الأَخْضَرَ فِي سَبِيلِ اللَّهِ، مَثَلُهُمْ مَثَلُ الْمُلُوكِ عَلَى الأَسِرَّةِ ‏\"‏‏.‏ فَقَالَتْ يَا رَسُولَ اللَّهِ، ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ قَالَ ‏\"‏ اللَّهُمَّ اجْعَلْهَا مِنْهُمْ ‏\"‏‏.‏ ثُمَّ عَادَ فَضَحِكَ، فَقَالَتْ لَهُ مِثْلَ أَوْ مِمَّ ذَلِكَ فَقَالَ لَهَا مِثْلَ ذَلِكَ، فَقَالَتِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ قَالَ ‏\"‏ أَنْتِ مِنَ الأَوَّلِينَ، وَلَسْتِ مِنَ الآخِرِينَ ‏\"‏‏.‏ قَالَ قَالَ أَنَسٌ فَتَزَوَّجَتْ عُبَادَةَ بْنَ الصَّامِتِ، فَرَكِبَتِ الْبَحْرَ مَعَ بِنْتِ قَرَظَةَ، فَلَمَّا قَفَلَتْ رَكِبَتْ دَابَّتَهَا فَوَقَصَتْ بِهَا، فَسَقَطَتْ عَنْهَا فَمَاتَتْ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "Allah's Messenger (ﷺ) went to the daughter of Milhan and reclined there (and slept) and then (woke up) \nsmiling. She asked, \"O Allah's Messenger (ﷺ)! What makes you smile?\" He replied, (I dreamt that) some \npeople amongst my followers were sailing on the green sea in Allah's Cause, resembling kings on \nthrones.\" She said, \"O Allah's Messenger (ﷺ)! Invoke Allah to make me one of them.\" He said, \"O Allah! Let \nher be one of them.\" Then he (slept again and woke up and) smiled. She asked him the same question \nand he gave the same reply. She said, \"Invoke Allah to make me one of them.\" He replied, ''You will \nbe amongst the first group of them; you will not be amongst the last.\" Later on she married 'Ubada bin \nAs-Samit and then she sailed on the sea with bint Qaraza, Mu'awiya's wife (for Jihad). On her return, \nshe mounted her riding animal, which threw her down breaking her neck, and she died on falling \ndown."
+      }
+    },
+    {
+      "id": 94,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ النُّمَيْرِيُّ، حَدَّثَنَا يُونُسُ، قَالَ سَمِعْتُ الزُّهْرِيَّ، قَالَ سَمِعْتُ عُرْوَةَ بْنَ الزُّبَيْرِ، وَسَعِيدَ بْنَ الْمُسَيَّبِ، وَعَلْقَمَةَ بْنَ وَقَّاصٍ، وَعُبَيْدَ اللَّهِ بْنَ عَبْدِ اللَّهِ، عَنْ حَدِيثِ، عَائِشَةَ، كُلٌّ حَدَّثَنِي طَائِفَةً، مِنَ الْحَدِيثِ قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَرَادَ أَنْ يَخْرُجَ أَقْرَعَ بَيْنَ نِسَائِهِ، فَأَيَّتُهُنَّ يَخْرُجُ سَهْمُهَا خَرَجَ بِهَا النَّبِيُّ صلى الله عليه وسلم، فَأَقْرَعَ بَيْنَنَا فِي غَزْوَةٍ غَزَاهَا، فَخَرَجَ فِيهَا سَهْمِي، فَخَرَجْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم بَعْدَ مَا أُنْزِلَ الْحِجَابُ‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "Whenever the Prophet (ﷺ) intended to proceed on a journey, he used to draw lots amongst his wives and \nwould take the one upon whom the lot fell. Once, before setting out for Jihad, he drew lots amongst us \nand the lot came to me; so I went with the Prophet; and that happened after the revelation of the Verse \nHijab (i.e. veiling)."
+      }
+    },
+    {
+      "id": 95,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ لَمَّا كَانَ يَوْمُ أُحُدٍ انْهَزَمَ النَّاسُ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ وَلَقَدْ رَأَيْتُ عَائِشَةَ بِنْتَ أَبِي بَكْرٍ وَأُمَّ سُلَيْمٍ وَإِنَّهُمَا لَمُشَمِّرَتَانِ أَرَى خَدَمَ سُوقِهِمَا، تَنْقُزَانِ الْقِرَبَ ـ وَقَالَ غَيْرُهُ تَنْقُلاَنِ الْقِرَبَ ـ عَلَى مُتُونِهِمَا، ثُمَّ تُفْرِغَانِهِ فِي أَفْوَاهِ الْقَوْمِ، ثُمَّ تَرْجِعَانِ فَتَمْلآنِهَا، ثُمَّ تَجِيئَانِ فَتُفْرِغَانِهَا فِي أَفْوَاهِ الْقَوْمِ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "On the day (of the battle) of Uhad when (some) people retreated and left the Prophet, I saw `Aisha \nbint Abu Bakr and Um Sulaim, with their robes tucked up so that the bangles around their ankles were \nvisible hurrying with their water skins (in another narration it is said, \"carrying the water skins on \ntheir backs\"). Then they would pour the water in the mouths of the people, and return to fill the water \nskins again and came back again to pour water in the mouths of the people."
+      }
+    },
+    {
+      "id": 96,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ ثَعْلَبَةُ بْنُ أَبِي مَالِكٍ إِنَّ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ قَسَمَ مُرُوطًا بَيْنَ نِسَاءٍ مِنْ نِسَاءِ الْمَدِينَةِ، فَبَقِيَ مِرْطٌ جَيِّدٌ فَقَالَ لَهُ بَعْضُ مَنْ عِنْدَهُ يَا أَمِيرَ الْمُؤْمِنِينَ أَعْطِ هَذَا ابْنَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم الَّتِي عِنْدَكَ‏.‏ يُرِيدُونَ أُمَّ كُلْثُومٍ بِنْتَ عَلِيٍّ‏.‏ فَقَالَ عُمَرُ أُمُّ سَلِيطٍ أَحَقُّ‏.‏ وَأُمُّ سَلِيطٍ مِنْ نِسَاءِ الأَنْصَارِ، مِمَّنْ بَايَعَ رَسُولَ اللَّهِ صلى الله عليه وسلم‏.‏ قَالَ عُمَرُ فَإِنَّهَا كَانَتْ تَزْفِرُ لَنَا الْقِرَبَ يَوْمَ أُحُدٍ‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ تَزْفِرُ تَخِيطُ‏.‏",
+      "english": {
+        "narrator": "Narrated Tha`laba bin Abi Malik:",
+        "text": "`Umar bin Al-Khattab distributed some garments amongst the women of Medina. One good garment \nremained, and one of those present with him said, \"O chief of the believers! Give this garment to your \nwife, the (grand) daughter of Allah's Messenger (ﷺ).\" They meant Um Kulthum, the daughter of `Ali. `Umar \nsaid, Um Salit has more right (to have it).\" Um Salit was amongst those Ansari women who had given \nthe pledge of allegiance to Allah's Messenger (ﷺ).' `Umar said, \"She (i.e. Um Salit) used to carry the water \nskins for us on the day of Uhud.\""
+      }
+    },
+    {
+      "id": 97,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا خَالِدُ بْنُ ذَكْوَانَ، عَنِ الرُّبَيِّعِ بِنْتِ مُعَوِّذٍ، قَالَتْ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم نَسْقِي، وَنُدَاوِي الْجَرْحَى، وَنَرُدُّ الْقَتْلَى إِلَى الْمَدِينَةِ‏.‏",
+      "english": {
+        "narrator": "Narrated Ar-Rubayyi 'bint Mu'auwidh:",
+        "text": "We were in the company of the Prophet (ﷺ) providing the wounded with water and treating them and \nbringing the killed to Medina (from the battle field) ."
+      }
+    },
+    {
+      "id": 98,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عَنْ خَالِدِ بْنِ ذَكْوَانَ، عَنِ الرُّبَيِّعِ بِنْتِ مُعَوِّذٍ، قَالَتْ كُنَّا نَغْزُو مَعَ النَّبِيِّ صلى الله عليه وسلم فَنَسْقِي الْقَوْمَ وَنَخْدُمُهُمْ، وَنَرُدُّ الْجَرْحَى وَالْقَتْلَى إِلَى الْمَدِينَةِ‏.‏",
+      "english": {
+        "narrator": "Narrated Ar-Rabi'bint Mu'auwidh:",
+        "text": "We used to take part in holy battles with the Prophet (ﷺ) by providing the people with water and serving \nthem and bringing the killed and the wounded back to Medina."
+      }
+    },
+    {
+      "id": 99,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ رُمِيَ أَبُو عَامِرٍ فِي رُكْبَتِهِ، فَانْتَهَيْتُ إِلَيْهِ قَالَ انْزِعْ هَذَا السَّهْمَ‏.‏ فَنَزَعْتُهُ، فَنَزَا مِنْهُ الْمَاءُ، فَدَخَلْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم فَأَخْبَرْتُهُ، فَقَالَ ‏\n\"‏ اللَّهُمَّ اغْفِرْ لِعُبَيْدٍ أَبِي عَامِرٍ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Musa:",
+        "text": "Abu 'Amir was hit with an arrow in his knee, so I went to him and he asked me to remove the arrow. \nWhen I removed it, the water started dribbling from it. Then I went to the Prophet (ﷺ) and told him about \nit. He said, \"O Allah! Forgive `Ubaid Abu 'Amir.\""
+      }
+    },
+    {
+      "id": 100,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ خَلِيلٍ، أَخْبَرَنَا عَلِيُّ بْنُ مُسْهِرٍ، أَخْبَرَنَا يَحْيَى بْنُ سَعِيدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ رَبِيعَةَ، قَالَ سَمِعْتُ عَائِشَةَ ـ رضى الله عنها ـ تَقُولُ كَانَ النَّبِيُّ صلى الله عليه وسلم سَهِرَ فَلَمَّا قَدِمَ الْمَدِينَةَ قَالَ ‏\"‏ لَيْتَ رَجُلاً مِنْ أَصْحَابِي صَالِحًا يَحْرُسُنِي اللَّيْلَةَ ‏\"‏‏.‏ إِذْ سَمِعْنَا صَوْتَ سِلاَحٍ فَقَالَ ‏\"‏ مَنْ هَذَا ‏\"‏‏.‏ فَقَالَ أَنَا سَعْدُ بْنُ أَبِي وَقَّاصٍ، جِئْتُ لأَحْرُسَكَ‏.‏ وَنَامَ النَّبِيُّ صلى الله عليه وسلم‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "The Prophet (ﷺ) was vigilant one night and when he reached Medina, he said, \"Would that a pious man \nfrom my companions guard me tonight!\" Suddenly we heard the clatter of arms. He said, \"Who is \nthat? \" He (The new comer) replied, \" I am Sa`d bin Abi Waqqas and have come to guard you.\" So, \nthe Prophet (ﷺ) slept (that night)."
+      }
+    },
+    {
+      "id": 101,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يُوسُفَ، أَخْبَرَنَا أَبُو بَكْرٍ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ تَعِسَ عَبْدُ الدِّينَارِ وَالدِّرْهَمِ وَالْقَطِيفَةِ وَالْخَمِيصَةِ، إِنْ أُعْطِيَ رَضِيَ، وَإِنْ لَمْ يُعْطَ لَمْ يَرْضَ ‏\"‏‏.‏ لَمْ يَرْفَعْهُ إِسْرَائِيلُ عَنْ أَبِي حَصِينٍ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "The Prophet (ﷺ) said, \"Let the slave of Dinar and Dirham of Quantify and \n     Khamisa (i.e. money and luxurious clothes) perish for he is pleased if\n     these things are given to him, and if not, he is displeased!\""
+      }
+    },
+    {
+      "id": 102,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "وَزَادَنَا عَمْرٌو قَالَ أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ أَبِيهِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ تَعِسَ عَبْدُ الدِّينَارِ وَعَبْدُ الدِّرْهَمِ وَعَبْدُ الْخَمِيصَةِ، إِنْ أُعْطِيَ رَضِيَ، وَإِنْ لَمْ يُعْطَ سَخِطَ، تَعِسَ وَانْتَكَسَ، وَإِذَا شِيكَ فَلاَ انْتَقَشَ، طُوبَى لِعَبْدٍ آخِذٍ بِعِنَانِ فَرَسِهِ فِي سَبِيلِ اللَّهِ، أَشْعَثَ رَأْسُهُ مُغْبَرَّةٍ قَدَمَاهُ، إِنْ كَانَ فِي الْحِرَاسَةِ كَانَ فِي الْحِرَاسَةِ، وَإِنْ كَانَ فِي السَّاقَةِ كَانَ فِي السَّاقَةِ، إِنِ اسْتَأْذَنَ لَمْ يُؤْذَنْ لَهُ، وَإِنْ شَفَعَ لَمْ يُشَفَّعْ ‏\"‏‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ لَمْ يَرْفَعْهُ إِسْرَائِيلُ وَمُحَمَّدُ بْنُ جُحَادَةَ عَنْ أَبِي حَصِينٍ وَقَالَ تَعْسًا‏.‏ كَأَنَّهُ يَقُولُ فَأَتْعَسَهُمُ اللَّهُ‏.‏ طُوبَى فُعْلَى مِنْ كُلِّ شَىْءٍ طَيِّبٍ، وَهْىَ يَاءٌ حُوِّلَتْ إِلَى الْوَاوِ وَهْىَ مِنْ يَطِيبُ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "The Prophet (ﷺ) said, \" Let the slave of Dinar and \n     Dirham, of Quantify and Khamisa perish as he is pleased if these \n     things are given to him, and if not, he is displeased. Let such a \n     person perish and relapse, and if he is pierced with a thorn, let him \n     not find anyone to take it out for him. Paradise is for him who holds \n     the reins of his horse to strive in Allah's Cause, with his hair \n     unkempt and feet covered with dust: if he is appointed in the \n     vanguard, he is perfectly satisfied with his post of guarding, and if \n     he is appointed in the rearward, he accepts his post with \n     satisfaction; (he is so simple and unambiguous that) if he asks for \n     permission he is not permitted, and if he intercedes, his intercession\n     is not accepted.\""
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَرْعَرَةَ، حَدَّثَنَا شُعْبَةُ، عَنْ يُونُسَ بْنِ عُبَيْدٍ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ صَحِبْتُ جَرِيرَ بْنَ عَبْدِ اللَّهِ، فَكَانَ يَخْدُمُنِي‏.‏ وَهْوَ أَكْبَرُ مِنْ أَنَسٍ قَالَ جَرِيرٌ إِنِّي رَأَيْتُ الأَنْصَارَ يَصْنَعُونَ شَيْئًا لاَ أَجِدُ أَحَدًا مِنْهُمْ إِلاَّ أَكْرَمْتُهُ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "I was in the company of Jabir bin `Abdullah on a journey and he used to serve me though he was older \nthan I. Jarir said, \"I saw the Ansar doing a thing (i.e. showing great reverence to the Prophet (ﷺ) ) for \nwhich I have vowed that whenever I meet any of them, I will serve him.\""
+      }
+    },
+    {
+      "id": 104,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ عَمْرِو بْنِ أَبِي عَمْرٍو، مَوْلَى الْمُطَّلِبِ بْنِ حَنْطَبٍ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ يَقُولُ خَرَجْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَى خَيْبَرَ أَخْدُمُهُ، فَلَمَّا قَدِمَ النَّبِيُّ صلى الله عليه وسلم رَاجِعًا، وَبَدَا لَهُ أُحُدٌ قَالَ ‏\"‏ هَذَا جَبَلٌ يُحِبُّنَا وَنُحِبُّهُ ‏\"‏‏.‏ ثُمَّ أَشَارَ بِيَدِهِ إِلَى الْمَدِينَةِ قَالَ اللَّهُمَّ إِنِّي أُحَرِّمُ مَا بَيْنَ لاَبَتَيْهَا كَتَحْرِيمِ إِبْرَاهِيمَ مَكَّةَ ‏\"‏ اللَّهُمَّ بَارِكْ لَنَا فِي صَاعِنَا وَمُدِّنَا ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "I went along with the Prophet (ﷺ) to Khaibar so as to serve him. (Later on) when the Prophet (ﷺ) returned he, \non seeing the Uhud mountain, said, \"This is a mountain that loves us and is loved by us.\" Then he \npointed to Medina with his hand saying, \"O Allah! I make the area which is in between Medina's two \nmountains a sanctuary, as Abraham made Mecca a sanctuary. O Allah! Bless us in our Sa` and Mudd \n(i.e. units of measuring).\""
+      }
+    },
+    {
+      "id": 105,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ أَبُو الرَّبِيعِ، عَنْ إِسْمَاعِيلَ بْنِ زَكَرِيَّاءَ، حَدَّثَنَا عَاصِمٌ، عَنْ مُوَرِّقٍ الْعِجْلِيِّ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم أَكْثَرُنَا ظِلاًّ الَّذِي يَسْتَظِلُّ بِكِسَائِهِ، وَأَمَّا الَّذِينَ صَامُوا فَلَمْ يَعْمَلُوا شَيْئًا، وَأَمَّا الَّذِينَ أَفْطَرُوا فَبَعَثُوا الرِّكَابَ وَامْتَهَنُوا وَعَالَجُوا فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ ذَهَبَ الْمُفْطِرُونَ الْيَوْمَ بِالأَجْرِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "We were with the Prophet (on a journey) and the only shade one could have was the shade made by \none's own garment. Those who fasted did not do any work and those who did not fast served the \ncamels and brought the water on them and treated the sick and (wounded). So, the Prophet (ﷺ) said, \n\"Today, those who were not fasting took (all) the reward.\""
+      }
+    },
+    {
+      "id": 106,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنِي إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ كُلُّ سُلاَمَى عَلَيْهِ صَدَقَةٌ كُلَّ يَوْمٍ، يُعِينُ الرَّجُلَ فِي دَابَّتِهِ يُحَامِلُهُ عَلَيْهَا أَوْ يَرْفَعُ عَلَيْهَا مَتَاعَهُ صَدَقَةٌ، وَالْكَلِمَةُ الطَّيِّبَةُ، وَكُلُّ خَطْوَةٍ يَمْشِيهَا إِلَى الصَّلاَةِ صَدَقَةٌ، وَدَلُّ الطَّرِيقِ صَدَقَةٌ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "The Prophet (ﷺ) said, \"Charity is obligatory everyday on every joint of a human being. If one helps a \nperson in matters concerning his riding animal by helping him to ride it or by lifting his luggage on to \nit, all this will be regarded charity. A good word, and every step one takes to offer the compulsory \nCongregational prayer, is regarded as charity; and guiding somebody on the road is regarded as \ncharity.\""
+      }
+    },
+    {
+      "id": 107,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُنِيرٍ، سَمِعَ أَبَا النَّضْرِ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ رِبَاطُ يَوْمٍ فِي سَبِيلِ اللَّهِ خَيْرٌ مِنَ الدُّنْيَا وَمَا عَلَيْهَا، وَمَوْضِعُ سَوْطِ أَحَدِكُمْ مِنَ الْجَنَّةِ خَيْرٌ مِنَ الدُّنْيَا وَمَا عَلَيْهَا، وَالرَّوْحَةُ يَرُوحُهَا الْعَبْدُ فِي سَبِيلِ اللَّهِ أَوِ الْغَدْوَةُ خَيْرٌ مِنَ الدُّنْيَا وَمَا عَلَيْهَا ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl bin Sa`d As-Sa'di:",
+        "text": "Allah's Messenger (ﷺ) said, \"To guard Muslims from infidels in Allah's Cause for one day is better than the \nworld and whatever is on its surface, and a place in Paradise as small as that occupied by the whip of \none of you is better than the world and whatever is on its surface; and a morning's or an evening's \njourney which a slave (person) travels in Allah's Cause is better than the world and whatever is on its \nsurface.\""
+      }
+    },
+    {
+      "id": 108,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا يَعْقُوبُ، عَنْ عَمْرٍو، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لأَبِي طَلْحَةَ ‏\"‏ الْتَمِسْ غُلاَمًا مِنْ غِلْمَانِكُمْ يَخْدُمُنِي حَتَّى أَخْرُجَ إِلَى خَيْبَرَ ‏\"‏‏.‏ فَخَرَجَ بِي أَبُو طَلْحَةَ مُرْدِفِي، وَأَنَا غُلاَمٌ رَاهَقْتُ الْحُلُمَ، فَكُنْتُ أَخْدُمُ رَسُولَ اللَّهِ صلى الله عليه وسلم إِذَا نَزَلَ، فَكُنْتُ أَسْمَعُهُ كَثِيرًا يَقُولُ ‏\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَالْعَجْزِ وَالْكَسَلِ وَالْبُخْلِ وَالْجُبْنِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ ‏\"‏‏.‏ ثُمَّ قَدِمْنَا خَيْبَرَ، فَلَمَّا فَتَحَ اللَّهُ عَلَيْهِ الْحِصْنَ ذُكِرَ لَهُ جَمَالُ صَفِيَّةَ بِنْتِ حُيَىِّ بْنِ أَخْطَبَ، وَقَدْ قُتِلَ زَوْجُهَا وَكَانَتْ عَرُوسًا، فَاصْطَفَاهَا رَسُولُ اللَّهِ صلى الله عليه وسلم لِنَفْسِهِ، فَخَرَجَ بِهَا حَتَّى بَلَغْنَا سَدَّ الصَّهْبَاءِ حَلَّتْ، فَبَنَى بِهَا، ثُمَّ صَنَعَ حَيْسًا فِي نِطَعٍ صَغِيرٍ، ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ آذِنْ مَنْ حَوْلَكَ ‏\"‏‏.‏ فَكَانَتْ تِلْكَ وَلِيمَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَى صَفِيَّةَ‏.‏ ثُمَّ خَرَجْنَا إِلَى الْمَدِينَةِ قَالَ فَرَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُحَوِّي لَهَا وَرَاءَهُ بِعَبَاءَةٍ، ثُمَّ يَجْلِسُ عِنْدَ بَعِيرِهِ فَيَضَعُ رُكْبَتَهُ، فَتَضَعُ صَفِيَّةُ رِجْلَهَا عَلَى رُكْبَتِهِ حَتَّى تَرْكَبَ، فَسِرْنَا حَتَّى إِذَا أَشْرَفْنَا عَلَى الْمَدِينَةِ نَظَرَ إِلَى أُحُدٍ فَقَالَ ‏\"‏ هَذَا جَبَلٌ يُحِبُّنَا وَنُحِبُّهُ ‏\"‏‏.‏ ثُمَّ نَظَرَ إِلَى الْمَدِينَةِ فَقَالَ ‏\"‏ اللَّهُمَّ إِنِّي أُحَرِّمُ مَا بَيْنَ لاَبَتَيْهَا بِمِثْلِ مَا حَرَّمَ إِبْرَاهِيمُ مَكَّةَ، اللَّهُمَّ بَارِكْ لَهُمْ فِي مُدِّهِمْ وَصَاعِهِمْ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "The Prophet (ﷺ) said to Abu Talha, \"Choose one of your boy servants to serve me in my expedition to \nKhaibar.\" So, Abu Talha took me letting me ride behind him while I was a boy nearing the age of \npuberty. I used to serve Allah's Messenger (ﷺ) when he stopped to rest. I heard him saying repeatedly, \"O \nAllah! I seek refuge with You from distress and sorrow, from helplessness and laziness, from \nmiserliness and cowardice, from being heavily in debt and from being overcome by men.\" Then we \nreached Khaibar; and when Allah enabled him to conquer the Fort (of Khaibar), the beauty of Safiya \nbint Huyai bin Akhtab was described to him. Her husband had been killed while she was a bride. So \nAllah's Messenger (ﷺ) selected her for himself and took her along with him till we reached a place called \nSa`d-AsSahba,' where her menses were over and he took her for his wife. Haris (a kind of dish) was \nserved on a small leather sheet. Then Allah's Messenger (ﷺ) told me to call those who were around me. So, \nthat was the marriage banquet of Allah's Messenger (ﷺ) and Safiya. Then we left for Medina. I saw Allah's \nApostle folding a cloak round the hump of the camel so as to make a wide space for Safiya (to sit on \nbehind him) He sat beside his camel letting his knees for Safiya to put her feet on so as to mount the \ncamel. Then, we proceeded till we approached Medina; he looked at Uhud (mountain) and said, \"This \nis a mountain which loves us and is loved by us.\" Then he looked at Medina and said, \"O Allah! I \nmake the area between its (i.e. Medina's) two mountains a sanctuary as Abraham made Mecca a \nsanctuary. O Allah! Bless them (i.e. the people of Medina) in their Mudd and Sa (i.e. measures)."
+      }
+    },
+    {
+      "id": 109,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ يَحْيَى، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ حَدَّثَتْنِي أُمُّ حَرَامٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ يَوْمًا فِي بَيْتِهَا، فَاسْتَيْقَظَ وَهْوَ يَضْحَكُ، قَالَتْ يَا رَسُولَ اللَّهِ، مَا يُضْحِكُكَ قَالَ ‏\"‏ عَجِبْتُ مِنْ قَوْمٍ مِنْ أُمَّتِي يَرْكَبُونَ الْبَحْرَ، كَالْمُلُوكِ عَلَى الأَسِرَّةِ ‏\"‏‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ، ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ فَقَالَ ‏\"‏ أَنْتِ مَعَهُمْ ‏\"‏‏.‏ ثُمَّ نَامَ، فَاسْتَيْقَظَ وَهْوَ يَضْحَكُ فَقَالَ مِثْلَ ذَلِكَ مَرَّتَيْنِ أَوْ ثَلاَثًا‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ، ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ فَيَقُولُ ‏\"‏ أَنْتِ مِنَ الأَوَّلِينَ ‏\"‏ فَتَزَوَّجَ بِهَا عُبَادَةُ بْنُ الصَّامِتِ، فَخَرَجَ بِهَا إِلَى الْغَزْوِ، فَلَمَّا رَجَعَتْ قُرِّبَتْ دَابَّةٌ لِتَرْكَبَهَا، فَوَقَعَتْ فَانْدَقَّتْ عُنُقُهَا‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "Um Haram told me that the Prophet (ﷺ) one day took a midday nap in her house. Then he woke up \nsmiling. Um Haram asked, \"O Allah's Messenger (ﷺ)! What makes you smile?\" He replied \"I was astonished \nto see (in my dream) some people amongst my followers on a sea-voyage looking like kings on the \nthrones.\" She said, \"O Allah's Messenger (ﷺ)! Invoke Allah to make me one of them.\" He replied, \"You are \namongst them.\" He slept again and then woke up smiling and said the same as before twice or thrice. \nAnd she said, \"O Allah's Messenger (ﷺ)! Invoke Allah to make me one of them.\" And he said, \"You are \namongst the first batch.\" 'Ubada bin As-Samit married her (i.e. Um Haram) and then he took her for \nJihad. When she returned, an animal was presented to her to ride, but she fell down and her neck was \nbroken."
+      }
+    },
+    {
+      "id": 110,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا مُحَمَّدُ بْنُ طَلْحَةَ، عَنْ طَلْحَةَ، عَنْ مُصْعَبِ بْنِ سَعْدٍ، قَالَ رَأَى سَعْدٌ ـ رضى الله عنه ـ أَنَّ لَهُ فَضْلاً عَلَى مَنْ دُونَهُ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ هَلْ تُنْصَرُونَ وَتُرْزَقُونَ إِلاَّ بِضُعَفَائِكُمْ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Mus`ab bin Sa`d:",
+        "text": "Once Sa`d (bin Abi Waqqas) thought that he was superior to those who were below him in rank. On \nthat the Prophet (ﷺ) said, \"You gain no victory or livelihood except through (the blessings and invocations \nof) the poor amongst you.\""
+      }
+    },
+    {
+      "id": 111,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، سَمِعَ جَابِرًا، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنهم ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ يَأْتِي زَمَانٌ يَغْزُو فِئَامٌ مِنَ النَّاسِ، فَيُقَالُ فِيكُمْ مَنْ صَحِبَ النَّبِيَّ صلى الله عليه وسلم فَيُقَالُ نَعَمْ‏.‏ فَيُفْتَحُ عَلَيْهِ، ثُمَّ يَأْتِي زَمَانٌ فَيُقَالُ فِيكُمْ مَنْ صَحِبَ أَصْحَابَ النَّبِيِّ صلى الله عليه وسلم فَيُقَالُ نَعَمْ‏.‏ فَيُفْتَحُ، ثُمَّ يَأْتِي زَمَانٌ فَيُقَالُ فِيكُمْ مَنْ صَحِبَ صَاحِبَ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم فَيُقَالُ نَعَمْ‏.‏ فَيُفْتَحُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa`id Al-Khudri:",
+        "text": "The Prophet (ﷺ) said, \"A time will come when groups of people will go for Jihad and it will be asked, 'Is \nthere anyone amongst you who has enjoyed the company of the Prophet?' The answer will be, 'Yes.' \nThen they will be given victory (by Allah) (because of him). Then a time will come when it will be \nasked. 'Is there anyone amongst you who has enjoyed the company of the companions of the Prophet?' \nIt will be said, 'Yes,' and they will be given victory (by Allah). Then a time will come when it will be \nsaid. 'Is there anyone amongst you who has enjoyed the company of the companions of the \ncompanions of the Prophet?' It will be said, 'Yes,' and they will be given victory (by Allah)."
+      }
+    },
+    {
+      "id": 112,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ ـ رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم الْتَقَى هُوَ وَالْمُشْرِكُونَ فَاقْتَتَلُوا، فَلَمَّا مَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى عَسْكَرِهِ، وَمَالَ الآخَرُونَ إِلَى عَسْكَرِهِمْ، وَفِي أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم رَجُلٌ لاَ يَدَعُ لَهُمْ شَاذَّةً وَلاَ فَاذَّةً إِلاَّ اتَّبَعَهَا يَضْرِبُهَا بِسَيْفِهِ، فَقَالَ مَا أَجْزَأَ مِنَّا الْيَوْمَ أَحَدٌ كَمَا أَجْزَأَ فُلاَنٌ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَمَا إِنَّهُ مِنْ أَهْلِ النَّارِ ‏\"‏‏.‏ فَقَالَ رَجُلٌ مِنَ الْقَوْمِ أَنَا صَاحِبُهُ‏.‏ قَالَ فَخَرَجَ مَعَهُ كُلَّمَا وَقَفَ وَقَفَ مَعَهُ، وَإِذَا أَسْرَعَ أَسْرَعَ مَعَهُ قَالَ فَجُرِحَ الرَّجُلُ جُرْحًا شَدِيدًا، فَاسْتَعْجَلَ الْمَوْتَ، فَوَضَعَ نَصْلَ سَيْفِهِ بِالأَرْضِ وَذُبَابَهُ بَيْنَ ثَدْيَيْهِ، ثُمَّ تَحَامَلَ عَلَى سَيْفِهِ، فَقَتَلَ نَفْسَهُ، فَخَرَجَ الرَّجُلُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ أَشْهَدُ أَنَّكَ رَسُولُ اللَّهِ‏.‏ قَالَ ‏\"‏ وَمَا ذَاكَ ‏\"‏‏.‏ قَالَ الرَّجُلُ الَّذِي ذَكَرْتَ آنِفًا أَنَّهُ مِنْ أَهْلِ النَّارِ، فَأَعْظَمَ النَّاسُ ذَلِكَ‏.‏ فَقُلْتُ أَنَا لَكُمْ بِهِ‏.‏ فَخَرَجْتُ فِي طَلَبِهِ، ثُمَّ جُرِحَ جُرْحًا شَدِيدًا، فَاسْتَعْجَلَ الْمَوْتَ، فَوَضَعَ نَصْلَ سَيْفِهِ فِي الأَرْضِ وَذُبَابَهُ بَيْنَ ثَدْيَيْهِ، ثُمَّ تَحَامَلَ عَلَيْهِ، فَقَتَلَ نَفْسَهُ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم عِنْدَ ذَلِكَ ‏\"‏ إِنَّ الرَّجُلَ لَيَعْمَلُ عَمَلَ أَهْلِ الْجَنَّةِ فِيمَا يَبْدُو لِلنَّاسِ، وَهْوَ مِنْ أَهْلِ النَّارِ، وَإِنَّ الرَّجُلَ لَيَعْمَلُ عَمَلَ أَهْلِ النَّارِ فِيمَا يَبْدُو لِلنَّاسِ، وَهْوَ مِنْ أَهْلِ الْجَنَّةِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl bin Sa`d As-Sa`idi:",
+        "text": "Allah's Messenger (ﷺ) and the pagans faced each other and started fighting. When Allah's Messenger (ﷺ) returned to \nhis camp and when the pagans returned to their camp, somebody talked about a man amongst the \ncompanions of Allah's Messenger (ﷺ) who would follow and kill with his sword any pagan going alone. He \nsaid, \"Nobody did his job (i.e. fighting) so properly today as that man.\" Allah's Messenger (ﷺ) said, \"Indeed, \nhe is amongst the people of the (Hell) Fire.\" A man amongst the people said, \"I shall accompany him \n(to watch what he does)\" Thus he accompanied him, and wherever he stood, he would stand with him, \nand wherever he ran, he would run with him. \nThen the (brave) man got wounded seriously and he decided to bring about his death quickly. He \nplanted the blade of the sword in the ground directing its sharp end towards his chest between his two \nbreasts. Then he leaned on the sword and killed himself. The other man came to Allah's Messenger (ﷺ) and \nsaid, \"I testify that you are Allah's Messenger (ﷺ).\" The Prophet (ﷺ) asked, \"What has happened?\" He replied, \n\"(It is about) the man whom you had described as one of the people of the (Hell) Fire. The people \nwere greatly surprised at what you said, and I said, 'I will find out his reality for you.' So, I came out \nseeking him. He got severely wounded, and hastened to die by slanting the blade of his sword in the \nground directing its sharp end towards his chest between his two breasts. Then he eased on his sword \nand killed himself.\" when Allah's Messenger (ﷺ) said, \"A man may seem to the people as if he were \npractising the deeds of the people of Paradise while in fact he is from the people of the Hell) Fire, \nanother may seem to the people as if he were practicing the deeds of the people of Hell (Fire), while in \nfact he is from the people of Paradise.\""
+      }
+    },
+    {
+      "id": 113,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنْ يَزِيدَ بْنِ أَبِي عُبَيْدٍ، قَالَ سَمِعْتُ سَلَمَةَ بْنَ الأَكْوَعِ ـ رضى الله عنه ـ قَالَ مَرَّ النَّبِيُّ صلى الله عليه وسلم عَلَى نَفَرٍ مِنْ أَسْلَمَ يَنْتَضِلُونَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ ارْمُوا بَنِي إِسْمَاعِيلَ، فَإِنَّ أَبَاكُمْ كَانَ رَامِيًا ارْمُوا وَأَنَا مَعَ بَنِي فُلاَنٍ ‏\"‏‏.‏ قَالَ فَأَمْسَكَ أَحَدُ الْفَرِيقَيْنِ بِأَيْدِيهِمْ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا لَكُمْ لاَ تَرْمُونَ ‏\"‏‏.‏ قَالُوا كَيْفَ نَرْمِي وَأَنْتَ مَعَهُمْ‏.‏ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ ارْمُوا فَأَنَا مَعَكُمْ كُلِّكُمْ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Salama bin Al-Akwa`:",
+        "text": "The Prophet (ﷺ) passed by some people of the tribe of Bani Aslam who were practicing archery. The \nProphet said, \"O Bani Isma`il ! Practice archery as your father Isma`il was a great archer. Keep on \nthrowing arrows and I am with Bani so-and-so.\" So one of the parties ceased throwing. Allah's \nApostle said, \"Why do you not throw?\" They replied, \"How should we throw while you are with them \n(i.e. on their side)?\" On that the Prophet (ﷺ) said, \"Throw, and I am with all of you.\""
+      }
+    },
+    {
+      "id": 114,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْغَسِيلِ، عَنْ حَمْزَةَ بْنِ أَبِي أُسَيْدٍ، عَنْ أَبِيهِ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم يَوْمَ بَدْرٍ حِينَ صَفَفْنَا لِقُرَيْشٍ وَصَفُّوا لَنَا ‏\n\"‏ إِذَا أَكْثَبُوكُمْ فَعَلَيْكُمْ بِالنَّبْلِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Usaid:",
+        "text": "On the day (of the battle) of Badr when we stood in rows against (the army of) Quraish and they stood \nin rows against us, the Prophet (ﷺ) said, \"When they do come near you, throw arrows at them.\""
+      }
+    },
+    {
+      "id": 115,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا هِشَامٌ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنِ ابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ بَيْنَا الْحَبَشَةُ يَلْعَبُونَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم بِحِرَابِهِمْ دَخَلَ عُمَرُ، فَأَهْوَى إِلَى الْحَصَى فَحَصَبَهُمْ بِهَا‏.‏ فَقَالَ ‏\n\"‏ دَعْهُمْ يَا عُمَرُ ‏\"‏‏.‏ وَزَادَ عَلِيٌّ حَدَّثَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ فِي الْمَسْجِدِ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "While some Ethiopians were playing in the presence of the Prophet, `Umar came in, picked up a stone \nand hit them with it. On that the Prophet (ﷺ) said, \"O `Umar! Allow them (to play).\" Ma`mar (the subnarrator) \nadded that they were playing in the Mosque."
+      }
+    },
+    {
+      "id": 116,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا الأَوْزَاعِيُّ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ كَانَ أَبُو طَلْحَةَ يَتَتَرَّسُ مَعَ النَّبِيِّ صلى الله عليه وسلم بِتُرْسٍ وَاحِدٍ، وَكَانَ أَبُو طَلْحَةَ حَسَنَ الرَّمْىِ، فَكَانَ إِذَا رَمَى تَشَرَّفَ النَّبِيُّ صلى الله عليه وسلم فَيَنْظُرُ إِلَى مَوْضِعِ نَبْلِهِ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "Abu Talha and the Prophet (ﷺ) used to shield themselves with one shield. Abu Talha was a good archer, \nand when he threw (his arrows) the Prophet (ﷺ) would look at the target of his arrows."
+      }
+    },
+    {
+      "id": 117,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلٍ، قَالَ لَمَّا كُسِرَتْ بَيْضَةُ النَّبِيِّ صلى الله عليه وسلم عَلَى رَأْسِهِ وَأُدْمِيَ وَجْهُهُ، وَكُسِرَتْ رَبَاعِيَتُهُ، وَكَانَ عَلِيٌّ يَخْتَلِفُ بِالْمَاءِ فِي الْمِجَنِّ، وَكَانَتْ فَاطِمَةُ تَغْسِلُهُ، فَلَمَّا رَأَتِ الدَّمَ يَزِيدُ عَلَى الْمَاءِ كَثْرَةً عَمَدَتْ إِلَى حَصِيرٍ، فَأَحْرَقَتْهَا وَأَلْصَقَتْهَا عَلَى جُرْحِهِ، فَرَقَأَ الدَّمُ‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl:",
+        "text": "When the helmet of the Prophet (ﷺ) was smashed on his head and blood covered his face and one of his \nfront teeth got broken, `Ali brought the water in his shield and Fatima the Prophet's daughter) washed \nhim. But when she saw that the bleeding increased more by the water, she took a mat, burnt it, and \nplaced the ashes on the wound of the Prophet (ﷺ) and so the blood stopped oozing out."
+      }
+    },
+    {
+      "id": 118,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنِ الزُّهْرِيِّ، عَنْ مَالِكِ بْنِ أَوْسِ بْنِ الْحَدَثَانِ، عَنْ عُمَرَ ـ رضى الله عنه ـ قَالَ كَانَتْ أَمْوَالُ بَنِي النَّضِيرِ مِمَّا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ صلى الله عليه وسلم مِمَّا لَمْ يُوجِفِ الْمُسْلِمُونَ عَلَيْهِ بِخَيْلٍ وَلاَ رِكَابٍ، فَكَانَتْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم خَاصَّةً، وَكَانَ يُنْفِقُ عَلَى أَهْلِهِ نَفَقَةَ سَنَتِهِ، ثُمَّ يَجْعَلُ مَا بَقِيَ فِي السِّلاَحِ وَالْكُرَاعِ، عُدَّةً فِي سَبِيلِ اللَّهِ‏.‏",
+      "english": {
+        "narrator": "Narrated `Umar:",
+        "text": "The properties of Bani An-Nadir which Allah had transferred to His Apostle as Fai Booty were not \ngained by the Muslims with their horses and camels. The properties therefore, belonged especially to \nAllah's Messenger (ﷺ) who used to give his family their yearly expenditure and spend what remained thereof \non arms and horses to be used in Allah's Cause."
+      }
+    },
+    {
+      "id": 119,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي سَعْدُ بْنُ إِبْرَاهِيمَ، عَنْ عَبْدِ اللَّهِ بْنِ شَدَّادٍ، عَنْ عَلِيٍّ، حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ شَدَّادٍ، قَالَ سَمِعْتُ عَلِيًّا ـ رضى الله عنه ـ يَقُولُ مَا رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يُفَدِّي رَجُلاً بَعْدَ سَعْدٍ، سَمِعْتُهُ يَقُولُ ‏\n\"‏ ارْمِ فِدَاكَ أَبِي وَأُمِّي ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Ali:",
+        "text": "I never saw the Prophet (ﷺ) saying, \"Let my parents sacrifice their lives for you,\" to any man after Sa`d. I \nheard him saying (to him), \"Throw (the arrows)! Let my parents sacrifice their lives for you.\""
+      }
+    },
+    {
+      "id": 120,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي ابْنُ وَهْبٍ، قَالَ عَمْرٌو حَدَّثَنِي أَبُو الأَسْوَدِ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ دَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم وَعِنْدِي جَارِيَتَانِ تُغَنِّيَانِ بِغِنَاءِ بُعَاثَ، فَاضْطَجَعَ عَلَى الْفِرَاشِ وَحَوَّلَ وَجْهَهُ، فَدَخَلَ أَبُو بَكْرٍ فَانْتَهَرَنِي وَقَالَ مِزْمَارَةُ الشَّيْطَانِ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏ فَأَقْبَلَ عَلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ دَعْهُمَا ‏\"‏‏.‏ فَلَمَّا غَفَلَ غَمَزْتُهُمَا فَخَرَجَتَا‏.‏   قَالَتْ وَكَانَ يَوْمُ عِيدٍ يَلْعَبُ السُّودَانُ بِالدَّرَقِ وَالْحِرَابِ، فَإِمَّا سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم وَإِمَّا قَالَ ‏\"‏ تَشْتَهِينَ تَنْظُرِينَ ‏\"‏‏.‏ فَقَالَتْ نَعَمْ‏.‏ فَأَقَامَنِي وَرَاءَهُ خَدِّي عَلَى خَدِّهِ وَيَقُولُ ‏\"‏ دُونَكُمْ بَنِي أَرْفِدَةَ ‏\"‏‏.‏ حَتَّى إِذَا مَلِلْتُ قَالَ ‏\"‏ حَسْبُكِ ‏\"‏‏.‏ قُلْتُ نَعَمْ‏.‏ قَالَ ‏\"‏ فَاذْهَبِي ‏\"‏‏.‏ قَالَ أَحْمَدُ عَنِ ابْنِ وَهْبٍ، فَلَمَّا غَفَلَ‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "Allah's Messenger (ﷺ) came to my house while two girls were singing beside me the songs of Bu'ath (a story \nabout the war between the two tribes of the Ansar, i.e. Khazraj and Aus, before Islam.) The Prophet (ﷺ) \nreclined on the bed and turned his face to the other side. Abu Bakr came and scolded me and said \nprotestingly, \"Instrument of Satan in the presence of Allah's Messenger (ﷺ)?\" Allah's Messenger (ﷺ) turned his face \ntowards him and said, \"Leave them.\" When Abu Bakr became inattentive, I waved the two girls to go \naway and they left. It was the day of `Id when negroes used to play with leather shields and spears. \nEither I requested Allah's Messenger (ﷺ) or he himself asked me whether I would like to see the display. I \nreplied in the affirmative. Then he let me stand behind him and my cheek was touching his cheek and \nhe was saying, \"Carry on, O Bani Arfida (i.e. negroes)!\" When I got tired, he asked me if that was \nenough. I replied in the affirmative and he told me to leave."
+      }
+    },
+    {
+      "id": 121,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم أَحْسَنَ النَّاسِ وَأَشْجَعَ النَّاسِ، وَلَقَدْ فَزِعَ أَهْلُ الْمَدِينَةِ لَيْلَةً فَخَرَجُوا نَحْوَ الصَّوْتِ فَاسْتَقْبَلَهُمُ النَّبِيُّ صلى الله عليه وسلم وَقَدِ اسْتَبْرَأَ الْخَبَرَ، وَهْوَ عَلَى فَرَسٍ لأَبِي طَلْحَةَ عُرْىٍ وَفِي عُنُقِهِ السَّيْفُ وَهْوَ يَقُولُ ‏\"‏ لَمْ تُرَاعُوا لَمْ تُرَاعُوا ‏\"‏‏.‏ ثُمَّ قَالَ ‏\"‏ وَجَدْنَاهُ بَحْرًا ‏\"‏‏.‏ أَوْ قَالَ ‏\"‏ إِنَّهُ لَبَحْرٌ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "The 'Prophet was the best and the bravest amongst the people. Once the people of Medina got terrified \nat night, so they went in the direction of the noise (that terrified them). The Prophet (ﷺ) met them (on his \nway back) after he had found out the truth. He was riding an unsaddled horse belonging to Abu Talha \nand a sword was hanging by his neck, and he was saying, \"Don't be afraid! Don't be afraid!\" He \nfurther said, \"I found it (i.e. the horse) very fast,\" or said, \"This horse is very fast.\" (Qastala-ni)"
+      }
+    },
+    {
+      "id": 122,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا الأَوْزَاعِيُّ، قَالَ سَمِعْتُ سُلَيْمَانَ بْنَ حَبِيبٍ، قَالَ سَمِعْتُ أَبَا أُمَامَةَ، يَقُولُ لَقَدْ فَتَحَ الْفُتُوحَ قَوْمٌ مَا كَانَتْ حِلْيَةُ سُيُوفِهِمِ الذَّهَبَ وَلاَ الْفِضَّةَ، إِنَّمَا كَانَتْ حِلْيَتُهُمُ الْعَلاَبِيَّ وَالآنُكَ وَالْحَدِيدَ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Umama:",
+        "text": "Some people conquered many countries and their swords were decorated neither with gold nor silver, \nbut they were decorated with leather, lead and iron."
+      }
+    },
+    {
+      "id": 123,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي سِنَانُ بْنُ أَبِي سِنَانٍ الدُّؤَلِيُّ، وَأَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ أَخْبَرَ أَنَّهُ، غَزَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم قِبَلَ نَجْدٍ، فَلَمَّا قَفَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَفَلَ مَعَهُ، فَأَدْرَكَتْهُمُ الْقَائِلَةُ فِي وَادٍ كَثِيرِ الْعِضَاهِ، فَنَزَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَتَفَرَّقَ النَّاسُ يَسْتَظِلُّونَ بِالشَّجَرِ، فَنَزَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم تَحْتَ سَمُرَةٍ وَعَلَّقَ بِهَا سَيْفَهُ وَنِمْنَا نَوْمَةً، فَإِذَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَدْعُونَا وَإِذَا عِنْدَهُ أَعْرَابِيٌّ فَقَالَ ‏\"‏ إِنَّ هَذَا اخْتَرَطَ عَلَىَّ سَيْفِي وَأَنَا نَائِمٌ، فَاسْتَيْقَظْتُ وَهْوَ فِي يَدِهِ صَلْتًا ‏\"‏‏.‏ فَقَالَ مَنْ يَمْنَعُكَ مِنِّي فَقُلْتُ ‏\"‏ اللَّهُ ‏\"‏‏.‏ ثَلاَثًا وَلَمْ يُعَاقِبْهُ وَجَلَسَ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir bin `Abdullah:",
+        "text": "That he proceeded in the company of Allah's Messenger (ﷺ) towards Najd to participate in a Ghazwa. (Holybattle) \nWhen Allah's Messenger (ﷺ) returned, he too returned with him. Midday came upon them while they \nwere in a valley having many thorny trees. Allah's Messenger (ﷺ) and the people dismounted and dispersed \nto rest in the shade of the trees. Allah's Messenger (ﷺ) rested under a tree and hung his sword on it. We all \ntook a nap and suddenly we heard Allah's Messenger (ﷺ) calling us. (We woke up) to see a bedouin with \nhim. The Prophet (ﷺ) said, \"This bedouin took out my sword while I was sleeping and when I woke up, I \nfound the unsheathed sword in his hand and he challenged me saying, 'Who will save you from me?' I \nsaid thrice, 'Allah.' The Prophet (ﷺ) did not punish him but sat down."
+      }
+    },
+    {
+      "id": 124,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ أَبِيهِ، عَنْ سَهْلٍ ـ رضى الله عنه ـ أَنَّهُ سُئِلَ عَنْ جُرْحِ النَّبِيِّ، صلى الله عليه وسلم يَوْمَ أُحُدٍ‏.‏ فَقَالَ جُرِحَ وَجْهُ النَّبِيِّ صلى الله عليه وسلم وَكُسِرَتْ رَبَاعِيَتُهُ وَهُشِمَتِ الْبَيْضَةُ عَلَى رَأْسِهِ، فَكَانَتْ فَاطِمَةُ ـ عَلَيْهَا السَّلاَمُ ـ تَغْسِلُ الدَّمَ وَعَلِيٌّ يُمْسِكُ، فَلَمَّا رَأَتْ أَنَّ الدَّمَ لاَ يَزِيدُ إِلاَّ كَثْرَةً أَخَذَتْ حَصِيرًا فَأَحْرَقَتْهُ حَتَّى صَارَ رَمَادًا ثُمَّ أَلْزَقَتْهُ، فَاسْتَمْسَكَ الدَّمُ‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl:",
+        "text": "That he was asked about the wound of the Prophet (ﷺ) on the day (of the battle) of Uhud. He said, \"The \nface of the Prophet (ﷺ) as wounded and one of his front teeth as broken and the helmet over his head was \nsmashed. Fatima washed of the blood while `Ali held water. When she saw that bleeding was \nincreasing continuously, she burnt a mat (of date-palm leaves) till it turned into ashes which she put \nover the wound and thus the bleeding ceased.\""
+      }
+    },
+    {
+      "id": 125,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَبَّاسٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ الْحَارِثِ، قَالَ مَا تَرَكَ النَّبِيُّ صلى الله عليه وسلم إِلاَّ سِلاَحَهُ وَبَغْلَةً بَيْضَاءَ وَأَرْضًا جَعَلَهَا صَدَقَةً‏.‏",
+      "english": {
+        "narrator": "Narrated `Amr bin Al-Harith:",
+        "text": "The Prophet (ﷺ) did not leave behind him after his death, anything except his arms, his white mule, and a \npiece of land at Khaibar which he left to be given in charity ."
+      }
+    },
+    {
+      "id": 126,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، حَدَّثَنَا سِنَانُ بْنُ أَبِي سِنَانٍ، وَأَبُو سَلَمَةَ أَنَّ جَابِرًا، أَخْبَرَهُ‏.‏ حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، أَخْبَرَنَا ابْنُ شِهَابٍ، عَنْ سِنَانِ بْنِ أَبِي سِنَانٍ الدُّؤَلِيِّ، أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ أَخْبَرَهُ أَنَّهُ، غَزَا مَعَ النَّبِيِّ صلى الله عليه وسلم فَأَدْرَكَتْهُمُ الْقَائِلَةُ فِي وَادٍ كَثِيرِ الْعِضَاهِ، فَتَفَرَّقَ النَّاسُ فِي الْعِضَاهِ يَسْتَظِلُّونَ بِالشَّجَرِ، فَنَزَلَ النَّبِيُّ صلى الله عليه وسلم تَحْتَ شَجَرَةٍ فَعَلَّقَ بِهَا سَيْفَهُ ثُمَّ نَامَ، فَاسْتَيْقَظَ وَعِنْدَهُ رَجُلٌ وَهْوَ لاَ يَشْعُرُ بِهِ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِنَّ هَذَا اخْتَرَطَ سَيْفِي ‏\"‏‏.‏ فَقَالَ مَنْ يَمْنَعُكَ قُلْتُ ‏\"‏ اللَّهُ ‏\"‏‏.‏ فَشَامَ السَّيْفَ، فَهَا هُوَ ذَا جَالِسٌ، ثُمَّ لَمْ يُعَاقِبْهُ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir:",
+        "text": "as above (Hadith No. 158).\nNarrated Jabir bin `Abdullah:\n\nThat he participated in a Ghazwa (Holy-Battle) in the company of Allah's Messenger (ﷺ). Midday came upon \nthem while they were in a valley having many thorny trees. The people dispersed to rest in the shade \nof the trees. The Prophet (ﷺ) rested under a tree, hung his sword on it, and then slept. Then he woke up to \nfind near to him, a man whose presence he had not noticed before. The Prophet (ﷺ) said, \"This (man) took \nmy sword (out of its scabbard) and said, 'Who will save you from me.' I replied, 'Allah.' So, he put the \nsword back into its scabbard, and you see him sitting here.\" Anyhow, the Prophet (ﷺ) did not punish him. \n(See Hadith No. 158)"
+      }
+    },
+    {
+      "id": 127,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي النَّضْرِ، مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ عَنْ نَافِعٍ، مَوْلَى أَبِي قَتَادَةَ الأَنْصَارِيِّ عَنْ أَبِي قَتَادَةَ ـ رضى الله عنه ـ أَنَّهُ كَانَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم حَتَّى إِذَا كَانَ بِبَعْضِ طَرِيقِ مَكَّةَ تَخَلَّفَ مَعَ أَصْحَابٍ لَهُ مُحْرِمِينَ وَهْوَ غَيْرُ مُحْرِمٍ، فَرَأَى حِمَارًا وَحْشِيًّا فَاسْتَوَى عَلَى فَرَسِهِ، فَسَأَلَ أَصْحَابَهُ أَنْ يُنَاوِلُوهُ سَوْطَهُ فَأَبَوْا، فَسَأَلَهُمْ رُمْحَهُ فَأَبَوْا، فَأَخَذَهُ ثُمَّ شَدَّ عَلَى الْحِمَارِ فَقَتَلَهُ، فَأَكَلَ مِنْهُ بَعْضُ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم، وَأَبَى بَعْضٌ، فَلَمَّا أَدْرَكُوا رَسُولَ اللَّهِ صلى الله عليه وسلم سَأَلُوهُ عَنْ ذَلِكَ قَالَ ‏\"‏ إِنَّمَا هِيَ طُعْمَةٌ أَطْعَمَكُمُوهَا اللَّهُ ‏\"‏‏.‏ وَعَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ عَطَاءِ بْنِ يَسَارٍ عَنْ أَبِي قَتَادَةَ فِي الْحِمَارِ الْوَحْشِيِّ مِثْلُ حَدِيثِ أَبِي النَّضْرِ قَالَ ‏\"‏ هَلْ مَعَكُمْ مِنْ لَحْمِهِ شَىْءٌ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Qatada:",
+        "text": "That he was in the company of Allah's Messenger (ﷺ) and when they had covered a portion of the road to \nMecca, he and some of the companions lagged behind. The latter were in a state of Ihram, while he \nwas not. He saw an onager and rode his horse and requested his companions to give him his lash but \nthey refused. Then he asked them to give him his spear but they refused, so he took it himself, \nattacked the onager, and killed it. Some of the companions of the Prophet (ﷺ) ate of it while some others \nrefused to eat. When they caught up with Allah's Messenger (ﷺ) they asked him about that, and he said, \n\"That was a meal Allah fed you with.\" (It is also said that Allah's Messenger (ﷺ) asked, \"Have you got \nsomething of its meat?\")"
+      }
+    },
+    {
+      "id": 128,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا خَالِدٌ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم وَهْوَ فِي قُبَّةٍ ‏\"‏ اللَّهُمَّ إِنِّي أَنْشُدُكَ عَهْدَكَ وَوَعْدَكَ، اللَّهُمَّ إِنْ شِئْتَ لَمْ تُعْبَدْ بَعْدَ الْيَوْمِ ‏\"‏‏.‏ فَأَخَذَ أَبُو بَكْرٍ بِيَدِهِ فَقَالَ حَسْبُكَ يَا رَسُولَ اللَّهِ، فَقَدْ أَلْحَحْتَ عَلَى رَبِّكَ، وَهْوَ فِي الدِّرْعِ، فَخَرَجَ وَهْوَ يَقُولُ ‏{‏سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ * بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أَدْهَى وَأَمَرُّ ‏}‏‏.‏ وَقَالَ وُهَيْبٌ حَدَّثَنَا خَالِدٌ يَوْمَ بَدْرٍ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas:",
+        "text": "The Prophet (ﷺ) , while in a tent (on the day of the battle of Badr) said, \"O Allah! I ask you the fulfillment \nof Your Covenant and Promise. O Allah! If You wish (to destroy the believers) You will never be \nworshipped after today.\" Abu Bakr caught him by the hand and said, \"This is sufficient, O Allah's \nApostle! You have asked Allah pressingly.\" The Prophet (ﷺ) was clad in his armor at that time. He went \nout, saying to me: \"There multitude will be put to flight and they will show their backs. Nay, but the \nHour is their appointed time (for their full recompense) and that Hour will be more grievous and more \nbitter (than their worldly failure).\" (54.45-46) Khalid said that was on the day of the battle of Badr."
+      }
+    },
+    {
+      "id": 129,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ تُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَدِرْعُهُ مَرْهُونَةٌ عِنْدَ يَهُودِيٍّ بِثَلاَثِينَ صَاعًا مِنْ شَعِيرٍ‏.‏ وَقَالَ يَعْلَى حَدَّثَنَا الأَعْمَشُ دِرْعٌ مِنْ حَدِيدٍ‏.‏ وَقَالَ مُعَلًّى حَدَّثَنَا عَبْدُ الْوَاحِدِ حَدَّثَنَا الأَعْمَشُ وَقَالَ رَهَنَهُ دِرْعًا مِنْ حَدِيدٍ‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "Allah's Messenger (ﷺ) died while his (iron) armor was mortgaged to a Jew for thirty Sas of barley."
+      }
+    },
+    {
+      "id": 130,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ مَثَلُ الْبَخِيلِ وَالْمُتَصَدِّقِ مَثَلُ رَجُلَيْنِ عَلَيْهِمَا جُبَّتَانِ مِنْ حَدِيدٍ، قَدِ اضْطَرَّتْ أَيْدِيَهُمَا إِلَى تَرَاقِيهِمَا، فَكُلَّمَا هَمَّ الْمُتَصَدِّقُ بِصَدَقَتِهِ اتَّسَعَتْ عَلَيْهِ حَتَّى تُعَفِّيَ أَثَرَهُ، وَكُلَّمَا هَمَّ الْبَخِيلُ بِالصَّدَقَةِ انْقَبَضَتْ كُلُّ حَلْقَةٍ إِلَى صَاحِبَتِهَا وَتَقَلَّصَتْ عَلَيْهِ وَانْضَمَّتْ يَدَاهُ إِلَى تَرَاقِيهِ ‏\"‏‏.‏ فَسَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\"‏ فَيَجْتَهِدُ أَنْ يُوَسِّعَهَا فَلاَ تَتَّسِعُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "The Prophet (ﷺ) said, \"The example of a miser and the one who gives in charity, is like the example of \ntwo men wearing iron cloaks so tightly that their arms are raised forcibly towards their collar-bones. \nSo, whenever a charitable person wants to give in charity, his cloak spreads over his body so much so \nthat it wipes out his traces, but whenever the miser wants to give in charity, the rings (of the iron \ncloak) come closer to each other and press over his body, and his hands gets connected to his collarbones. \nAbu Huraira heard the Prophet (ﷺ) saying. \"The miser then tries to widen it but in vain.\""
+      }
+    },
+    {
+      "id": 131,
+      "chapterId": 56,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي الضُّحَى، مُسْلِمٍ ـ هُوَ ابْنُ صُبَيْحٍ ـ عَنْ مَسْرُوقٍ، قَالَ حَدَّثَنِي الْمُغِيرَةُ بْنُ شُعْبَةَ، قَالَ انْطَلَقَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِحَاجَتِهِ ثُمَّ أَقْبَلَ، فَلَقِيتُهُ بِمَاءٍ، وَعَلَيْهِ جُبَّةٌ شَأْمِيَّةٌ، فَمَضْمَضَ وَاسْتَنْشَقَ وَغَسَلَ وَجْهَهُ، فَذَهَبَ يُخْرِجُ يَدَيْهِ مِنْ كُمَّيْهِ فَكَانَا ضَيِّقَيْنِ، فَأَخْرَجَهُمَا مِنْ تَحْتُ، فَغَسَلَهُمَا وَمَسَحَ بِرَأْسِهِ وَعَلَى خُفَّيْهِ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Mughira bin Shu`ba:",
+        "text": "Allah's Messenger (ﷺ) went out to answer the call of nature and on his return I brought some water to him. \nHe performed the ablution while he was wearing a Sha'mi cloak. He rinsed his mouth and washed his \nnose by putting water in it and then blowing it out, and washed his face. Then he tried to take out his \nhands through his sleeves but they were tight, so he took them out from underneath, washed them and \npassed wet hands over his head and over his leather socks."
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 410,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا رَوْحٌ، حَدَّثَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَطَاءٌ، عَنْ عُبَيْدِ بْنِ عُمَيْرٍ، أَنَّ أَبَا مُوسَى، اسْتَأْذَنَ عَلَى عُمَرَ بِهَذِهِ الْقِصَّةِ ‏.‏ قَالَ فِيهِ فَانْطَلَقَ بِأَبِي سَعِيدٍ فَشَهِدَ لَهُ فَقَالَ أَخَفِيَ عَلَىَّ هَذَا مِنْ أَمْرِ رَسُولِ اللَّهِ صلى الله عليه وسلم أَلْهَانِي السَّفْقُ بِالأَسْوَاقِ وَلَكِنْ سَلِّمْ مَا شِئْتَ وَلاَ تَسْتَأْذِنْ ‏.‏",
+  "english": {
+    "narrator": "’Ubaid b. ‘Umair said :",
+    "text": "Abu Musa asked ‘Umar for permission to enter the house. This version has: he went with Abu sa’ld who testified to it. He said Did this practice of the Messenger of Allah (May peace be upon him) remain hidden from me? My engagement in the transaction in the market made me oblivious of it. Now give me salutation as you wish; and do not ask permission."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

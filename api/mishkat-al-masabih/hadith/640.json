@@ -1,0 +1,16 @@
+{
+  "id": 640,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ جَابِرٍ قَالَ: سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِنَّ فِي اللَّيْلِ لَسَاعَةً لَا يُوَافِقُهَا رَجُلٌ مُسْلِمٌ يَسْأَلُ اللَّهَ فِيهَا خَيْرًا مِنْ أَمْرِ الدُّنْيَا وَالْآخِرَةِ إِلَّا أَعْطَاهُ إِيَّاه وَذَلِكَ كل لَيْلَة» رَوَاهُ مُسلم",
+  "english": {
+    "narrator": "",
+    "text": "Jabir said he heard the Prophet say, “There is an hour during the night at which no Muslim man will ask God for good in this world and the next without His giving it to him; and that applies to every night.\" \n\nMuslim transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18,
+  "chapterId": 55,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا عَبْدُ اللهِ قَالَ‏:‏ أَخْبَرَنِي عَبْدُ الْعَزِيزِ بْنُ أَبِي سَلَمَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُسَرِّبُ إِلَيَّ صَوَاحِبِي يَلْعَبْنَ بِاللَّعِبِ، الْبَنَاتِ الصِّغَارِ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "'A'isha reported that the Prophet, may Allah bless him and grant\nhim peace, used to call her companions to her who were playing with dolls.\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

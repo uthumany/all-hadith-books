@@ -1,0 +1,16 @@
+{
+  "id": 237,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ بِشْرٍ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ نَقْشُ خَاتَمِ رَسُولِ اللَّهِ صلى الله عليه وسلم مُحَمَّدٌ رَسُولُ اللَّهِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Ibn 'Umar said:",
+    "text": "\"The inscription on the ring of the Messenger of Allah  was: Muhammad Rasul Allah (Muhammad the Messenger of Allah).'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

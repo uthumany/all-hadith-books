@@ -1,0 +1,510 @@
+{
+  "page": 64,
+  "perPage": 50,
+  "totalPages": 89,
+  "totalCount": 4428,
+  "nextPage": 65,
+  "prevPage": 63,
+  "items": [
+    {
+      "id": 197,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا طَلَاقَ قَبْلَ نِكَاحٍ وَلَا عَتَاقَ إِلَّا بَعْدَ مِلْكٍ وَلَا وِصَالَ فِي صِيَامٍ وَلَا يُتْمَ بَعْدَ احْتِلَامٍ وَلَا رَضَاعَ بَعْدَ فِطَامٍ وَلَا صَمْتَ يَوْمٍ إِلَى اللَّيْلِ» . رَوَاهُ فِي شَرْحِ السُّنَّةِ",
+      "english": {
+        "narrator": "",
+        "text": "‘Ali reported the Prophet as saying, “There is no divorce before marriage, no manumission till one has possession, no continuous fasting, no orphan hood after the age of puberty, no suckling after weaning, and no silence all day up to the night”.*\n* Observing a complete day's silence as a religious practice is rejected.\n\nIt is transmitted in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 198,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا نَذْرَ لِابْنِ آدَمَ فِيمَا لَا يَمْلِكُ وَلَا عِتْقَ فِيمَا لَا يَمْلِكُ وَلَا طَلَاقَ فِيمَا لَا يَمْلِكُ» . رَوَاهُ التِّرْمِذِيُّ وَزَادَ أَبُو دَاوُدَ: «وَلَا بَيْعَ إِلَّا فِيمَا يملك»",
+      "english": {
+        "narrator": "",
+        "text": "‘Amr b. Shu'aib, on his father’s authority, said his grandfather reported God’s Messenger as saying, “No descendant of Adam may make a vow about what he does not possess, or set free what he does not possess, or divorce what he does not possess.” \n\nTirmidhi transmitted it, and Abu Dawud added, “or sell what he does not possess.”"
+      }
+    },
+    {
+      "id": 199,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ رُكَانَةَ بْنِ عَبْدِ يَزِيدَ أَنَّهُ طَلَّقَ امْرَأَتَهُ سُهَيْمَةَ الْبَتَّةَ فَأَخْبَرَ بِذَلِكَ النَّبِيَّ صَلَّى الله عَلَيْهِ وَسلم وَقَالَ: وَالله مَا أردتُ إِلَّا وَاحِدَةً فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «وَاللَّهِ مَا أَرَدْتَ إِلَّا وَاحِدَةً؟» فَقَالَ ركانةُ: واللَّهِ مَا أردتُ إِلَّا وَاحِدَة فَرَدَّهَا إِلَيْهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَطَلَّقَهَا الثَّانِيَةَ فِي زَمَانِ عُمَرَ وَالثَّالِثَةَ فِي زَمَانِ عُثْمَانَ. رَوَاهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَابْنُ مَاجَهْ وَالدَّارِمِيُّ إِلَّا أَنَّهُمْ لَمْ يَذْكُرُوا الثانيةَ وَالثَّالِثَة",
+      "english": {
+        "narrator": "",
+        "text": "Rukana b. 'Abd Yazid said he divorced his wife Suhaima absolutely and when the Prophet was informed of that he said, “I swear by God that I meant it to be only a single utterance of divorce.” God’s Messenger asked him if that was so, and when he assured him that it was, he restored her to him. Then he divorced her the second time in the time of ‘Umar and the third time in the time of ‘Uthman. \n\nAbu Dawud, Tirmidhi, Ibn Majah and Darimi transmitted it, but only Abu Dawud mentioned the second and third time (See Abu Dawud’s Sunan, Talaq, 14)."
+      }
+    },
+    {
+      "id": 200,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: \n\" ثَلَاثٌ جَدُّهُنَّ جَدٌّ وَهَزْلُهُنَّ جَدُّ: النِّكَاحُ وَالطَّلَاقُ وَالرِّجْعَةُ \". رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ وَقَالَ التِّرْمِذِيُّ: هَذَا حَدِيثٌ حَسَنٌ غَرِيب",
+      "english": {
+        "narrator": "Abu Huraira reported God’s Messenger as saying, “There are three things which, whether undertaken seriously or in jest, are treated as serious:",
+        "text": "marriage, divorce and taking back a wife after a divorce which is not final.” \n\nTirmidhi and Abu Dawud transmitted it, Tirmidhi saying this is a hasan gharib tradition."
+      }
+    },
+    {
+      "id": 201,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ قَالَتْ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَا طَلَاقَ وَلَا عَتَاقَ فِي إِغْلَاقٍ» . رَوَاهُ أَبُو دَاوُدَ وَابْنُ مَاجَه قيل: معنى الإغلاق: الْإِكْرَاه",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha told of hearing God’s Messenger say, “There is no divorce or emancipation in case of ighlaq.\" It is said that the meaning of ighlaq is “constraint”.\n\nAbu Dawud and Ibn Majah transmitted it."
+      }
+    },
+    {
+      "id": 202,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «كُلُّ طَلَاقٍ جَائِزٌ إِلَّا طَلَاقَ الْمَعْتُوهِ وَالْمَغْلُوبِ عَلَى عَقْلِهِ» . رَوَاهُ التِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ غَرِيبٌ وَعَطَاءُ بْنُ عجلانَ الرَّاوي ضعيفٌ ذاهبُ الحَدِيث",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s Messenger as saying, “Every divorce is allowable except that by an idiot or one whose mind is deranged.” \n\nTirmidhi transmitted it, saying this is a gharib tradition, and ‘Ata’ b. ‘Ajlan, the transmitter, is a weak authority whose traditions are rejected."
+      }
+    },
+    {
+      "id": 203,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" رُفِعَ الْقَلَمُ عَنْ ثَلَاثَةٍ: عَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ وَعَنِ الصَّبِيِّ حَتَّى يَبْلُغَ وَعَنِ الْمَعْتُوهِ حَتَّى يعقل \". رَوَاهُ التِّرْمِذِيّ وَأَبُو دَاوُد\nوَرَوَاهُ الدَّارِمِيُّ عَنْ عَائِشَةَ وَابْنُ مَاجَهْ عَنْهُمَا",
+      "english": {
+        "narrator": "Ali reported God’s Messenger as saying, “There are three whose actions are not recorded:",
+        "text": "a sleeper till he awakes, a boy till he reaches puberty, and an idiot till he is restored to reason.” \n\nTirmidhi and Abu Dawud transmitted it. Darimi transmitted it on the authority of 'A’isha, and Ibn Majah on the authority of both (i.e. ‘Ali and ‘A’isha’)"
+      }
+    },
+    {
+      "id": 204,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «طَلَاقُ الْأَمَةِ تَطْلِيقَتَانِ وَعِدَّتُهَا حَيْضَتَانِ» . رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُدَ وَابْنُ مَاجَهْ وَالدَّارِمِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha reported God’s Messenger as saying, “The divorce of a slave-woman consists in saying it twice, and her 'idda period is two courses.” \n\nTirmidhi, Abu Dawud, Ibn Majah and Darimi transmitted it."
+      }
+    },
+    {
+      "id": 205,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الْمُنْتَزِعَاتُ وَالْمُخْتَلِعَاتُ هُنَّ الْمُنَافِقَاتُ» . رَوَاهُ النَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported the Prophet as saying, “Women who withdraw themselves from their husbands and women who persuade their husbands to divorce them for a compensation are hypocrites.”*\n*This type of separation should be by mutual consent. \n\nNasa’i transmitted it."
+      }
+    },
+    {
+      "id": 206,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ نَافِعٍ عَنْ مَوْلَاةٍ لِصَفِيَّةَ بِنْتِ أَبِي عُبَيْدٍ أَنَّهَا اخْتَلَعَتْ مِنْ زَوْجِهَا بِكُلِّ شَيْءٍ لَهَا فَلَمْ يُنْكِرْ ذَلِكَ عَبْدُ اللَّهِ بْنُ عمر. رَوَاهُ مَالك",
+      "english": {
+        "narrator": "",
+        "text": "Nafi’ quoted a client to Safiya daughter of Abu ‘Ubaid to the effect that she got a divorce from her husband in return for everything she possessed and that ‘Abdallah b. ‘Umar made no objection to that. \n\nMalik transmitted it."
+      }
+    },
+    {
+      "id": 207,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "حَدِيث رِجَاله ثِقَات وَعَن مَحْمُود بن لبيد قل: أَخْبَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ رَجُلٍ طَلَّقَ امْرَأَتَهُ ثَلَاثَ تَطْلِيقَاتٍ جَمِيعًا فَقَامَ غَضْبَانَ ثُمَّ قَالَ: «أَيُلْعَبُ بِكِتَابِ اللَّهِ عَزَّ وَجَلَّ وَأَنَا بَيْنَ أَظْهُرِكُمْ؟» حَتَّى قَامَ رَجُلٌ فَقَالَ: يَا رَسُولَ اللَّهِ أَلَا أَقْتُلُهُ؟ . رَوَاهُ النَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Mahmud b. Labid told that when God’s Messenger was informed about a man who had divorced his wife declaring it three times without any interval between them, he arose in anger and said, “Is sport being made of the Book of God who is great and glorious while I am among you?\" As a result a man got up and said, “Messenger of God, shall I kill him?\" \n\nNasa’i transmitted it."
+      }
+    },
+    {
+      "id": 208,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَن مَالك بلغه رَجُلًا قَالَ لِعَبْدِ اللَّهِ بْنِ عَبَّاسٍ: إِنِّي طَلَّقْتُ امْرَأَتِي مِائَةَ تَطْلِيقَةٍ فَمَاذَا تَرَى عَلَيَّ؟ فَقَالَ ابْن عَبَّاس: طلقت مِنْك ثَلَاث وَسَبْعٌ وَتِسْعُونَ اتَّخَذْتَ بِهَا آيَاتِ اللَّهِ هُزُوًا. رَوَاهُ فِي الْمُوَطَّأ",
+      "english": {
+        "narrator": "",
+        "text": "Malik told of hearing that a man said to ‘Abdallah b. ‘Abbas, “I have divorced my wife, uttering the divorce a hundred times, so what do you think I have made myself liable for?” Ibn ‘Abbas replied, “She was divorced from you by three utterances, and by ninety-seven you have made a mockery of God’s verses.” \n\nHe transmitted it in al- Muwatta’."
+      }
+    },
+    {
+      "id": 209,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ مُعَاذِ بْنِ جَبَلٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يَا مُعَاذُ مَا خَلَقَ اللَّهُ شَيْئًا عَلَى وَجْهِ الْأَرْضِ أَحَبَّ إِلَيْهِ مِنَ الْعَتَاقِ وَلَا خَلَقَ اللَّهُ شَيْئًا عَلَى وَجْهِ الْأَرْضِ أَبْغَضَ إِلَيْهِ مِنَ الطَّلاقِ» . رَوَاهُ الدَّارَقُطْنِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Mu'adh b. Jabal told that God’s Messenger said to him, “Mu'adh, God has created nothing on the face of the earth dearer to Him than emancipation, and God has created nothing on the face of the earth more hateful to Him than divorce.” \n\nDaraqutni transmitted it."
+      }
+    },
+    {
+      "id": 210,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ عَائِشَةَ قَالَتْ: جَاءَتِ امْرَأَةُ رِفَاعَةَ الْقُرَظِيِّ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ: إِنِّي كُنْتُ عِنْدَ رِفَاعَةَ فَطَلَّقَنِي فَبَتَّ طَلَاقِي فَتَزَوَّجْتُ بَعْدَهُ عَبْدَ الرَّحْمَنِ بْنَ الزُّبَيْرِ وَمَا مَعَهُ إِلَّا مِثْلُ هُدْبَةِ الثَّوْبِ فَقَالَ: «أَتُرِيدِينَ أَنْ تَرْجِعِي إِلَى رِفَاعَةَ؟» قَالَتْ: نَعَمْ قَالَ: «لَا حَتَّى تَذُوقِي عُسَيْلَتَهُ وَيَذُوقَ عُسَيْلَتَكِ»",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha told that the wife of Rifa'a al-Qurazi came to God's Messenger and said, “I was married to Rifa’a but he divorced me, making my divorce irrevocable. Afterwards I married ‘Abd ar-Rahman b. az- Zubair, but all he possesses is like the fringe of a garment.” He asked her whether she wanted to return to Rifa'a, but when she replied that she did, he said, “You may not until ‘Abd ar-Rahman and you have experienced the sweetness of intercourse with one another.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 211,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: لَعَنَ رسولُ الله المحلّلَ والمُحلَّلَ لَهُ. رَوَاهُ الدَّارمِيّ\nوَرَوَاهُ ابْنُ مَاجَهْ عَنْ عَلِيٍّ وَابْنِ عَبَّاسٍ وَعقبَة بن عَامر",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. Mas'ud said that God’s Messenger cursed the man who made a woman lawful for her first husband and the one for whom she was made lawful.*\n* This refers to an arrangement to marry a divorced woman and to divorce her after having intercourse so that the one who had divorced her might remarry her.\n\n Darimi transmitted it, and Ibn Majah transmitted it on the authority of 'Ali Ibn ‘Abbas and ‘Uqba b. ‘Amir."
+      }
+    },
+    {
+      "id": 212,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ سُلَيْمَانَ بْنِ يَسَارٍ قَالَ: أَدْرَكْتُ بِضْعَةَ عَشَرَ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كُلُّهُمْ يَقُولُ: يُوقَفُ الْمُؤْلِي. رَوَاهُ فِي شرح السّنة",
+      "english": {
+        "narrator": "",
+        "text": "Sulaiman b. Yasar said he met over ten of the companions of God’s Messenger all of whom said that the one who swears to stay away from his wife must be made to return to her or divorce her at the end of the period. \n\nIt is transmitted in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 213,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَن أبي سلمةَ: أَنَّ سَلْمَانَ بْنَ صَخْرٍ وَيُقَالُ لَهُ: سَلَمَةُ بْنُ صَخْرٍ الْبَيَاضِيُّ جَعَلَ امْرَأَتَهُ عَلَيْهِ كَظَهْرِ أُمِّهِ حَتَّى يَمْضِيَ رَمَضَانُ فَلَمَّا مَضَى نِصْفٌ مِنْ رَمَضَانَ وَقَعَ عَلَيْهَا لَيْلًا فَأَتَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَكَرَ لَهُ فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَعْتِقْ رَقَبَةً» قَالَ: لَا أَجِدُهَا قَالَ: «فَصُمْ شَهْرَيْنِ مُتَتَابِعَيْنِ» قَالَ: لَا أَسْتَطِيعُ قَالَ: «أَطْعِمْ سِتِّينَ مِسْكِينًا» قَالَ: لَا أَجِدُ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِفَرْوَةَ بْنِ عَمْرٍو: «أَعْطِهِ ذَلِكَ الْعَرَقَ» وَهُوَ مِكْتَلٌ يَأْخُذُ خَمْسَةَ عَشَرَ صَاعًا أَوْ سِتَّةَ عَشَرَ صَاعا «ليُطعِمَ سِتِّينَ مِسْكينا» . رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Salama told that Sulaiman b. Sakhr, also called Salama b. Sakhr al-Bayadi, made his wife like his mother’s back* to him till the end of Ramadan, but when only half the month had gone he had inter-course with her during the night and went to God’s Messenger and mentioned that to him. He told him to set free a slave, but he replied that he could not get one; so he told him to fast two consecutive months, but he replied that he was unable to do that; he then told him to feed sixty poor people, but he replied that he did not possess the means, God’s Messenger then said to Farwa b. ‘Amr, “Give him that ‘araq (i.e., a date-basket holding fifteen or sixteen sa’s) (Cf. page 426) in order that he may feed sixty poor people.” \n\nTirmidhi transmitted it.\n\n*I have retained the Arabic idiom in the translation. The phrase is said to have been used as a kind of divorce in pre-Islamic times, meaning that intercourse with the woman is being considered as intercourse with one’s mother."
+      }
+    },
+    {
+      "id": 214,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وروى أَبُو دَاوُد وابنُ مَاجَه والدارمي عَن سُلَيْمَانَ بْنِ يَسَارٍ عَنْ سَلَمَةَ بْنِ صَخْرٍ نحوَه قَالَ: كنتُ امْرأ أُصِيبُ مِنَ النِّسَاءِ مَا لَا يُصِيبُ غَيْرِي وَفِي روايتهِما أَعنِي أَبُو دَاوُدَ وَالدَّارِمِيَّ: «فَأَطْعِمْ وَسْقًا مِنْ تَمْرٍ بَيْنَ سِتِّينَ مِسْكينا»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Dawud, Ibn Majah and Darimi transmitted something similar on the authority of Sulaiman b. Yasar quoting Salama b. Sakhr who said, “I was a man who was more given than others to sexual intercourse.”\n\nAbu Dawud, Ibn Majah and Darimi transmitted.\n\nThe version of Abu Dawud and Darimi has, “Feed sixty poor people with a camel-load of dates."
+      }
+    },
+    {
+      "id": 215,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ سُلَيْمَانَ بْنِ يَسَارٍ عَنْ سَلَمَةَ بْنِ صَخْرٍ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْمُظَاهِرِ يُوَاقِعُ قَبْلَ أَنْ يُكَفِّرَ قَالَ: «كَفَّارَة وَاحِدَة» . رَوَاهُ التِّرْمِذِيّ وَابْن مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "Sulaiman b. Yasar on the authority of Salama b. Sakhr, reported the Prophet as saying about one who vows to make his wife like his mother’s back and has intercourse with her before making atonement, “There is one atonement.”*\n* Atonement for breaking the vow should be made before doing so, but if the vow is broken then the same atonement is enough.\nTirmidhi and Ibn Majah transmitted it."
+      }
+    },
+    {
+      "id": 216,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ عِكْرِمَةَ عَنِ ابْنِ عَبَّاسٍ: أَنَّ رَجُلًا ظَاهَرَ مِنِ امْرَأَتِهِ فَغَشِيَهَا قَبْلَ أَنْ يَكَفِّرَ فَأَتَى النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَكَرَ ذَلِكَ لَهُ فَقَالَ: «مَا حَمَلَكَ عَلَى ذَلِكَ؟» قَالَ: يَا رَسُولَ اللَّهِ رَأَيْتُ بَيَاضَ حِجْلَيْهَا فِي الْقَمَرِ فَلَمْ أَمْلِكْ نَفْسِي أَنْ وَقَعَتُ عَلَيْهَا فَضَحِكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَمَرَهُ أَنْ لَا يَقْرَبَهَا حَتَّى يُكَفِّرَ. رَوَاهُ ابْنُ مَاجَهْ. وَرَوَى التِّرْمِذِيُّ نَحْوَهُ وَقَالَ: هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ\nوَرَوَى أَبُو دَاوُدَ وَالنَّسَائِيُّ نَحْوَهُ مُسْنَدًا وَمُرْسَلًا وَقَالَ النَّسَائِيُّ: المُرسل أوْلى بالصَّوابِ من المسْندِ",
+      "english": {
+        "narrator": "",
+        "text": "‘Ikrima told on the authority of Ibn ‘Abbas that a man who had vowed to make his wife like his mother’s back had intercourse with her before making atonement, so he went to the Prophet and mentioned that to him. He asked him what had induced him to do that and he replied, “Messenger of God, I saw the whiteness of her silver anklets in the moonlight and could not restrain myself from having intercourse with her.” God's Messenger laughed and ordered him not to go near her till he had made atonement. \n\nIbn Majah transmitted it, and Tirmidhi transmitted something similar, saying this is a hasan sahih gharib tradition. Abu Dawud and Nasa’i transmitted something similar both with a full isnad and in mursal form, Nasa’i saying that the mursal version is nearer the truth than the one with a full isnad."
+      }
+    },
+    {
+      "id": 217,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَن مُعَاوِيَة بنِ الحكمِ قَالَ: أَتَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقُلْتُ: يَا رَسُولَ اللَّهِ إِنَّ جَارِيَةً كَانَتْ لِي تَرْعَى غَنَمًا لِي فَجِئْتُهَا وَقَدْ فَقَدَتْ شَاةً مِنَ الْغَنَمِ فَسَأَلْتُهَا عَنْهَا فَقَالَتْ: أَكَلَهَا الذِّئْبُ فَأَسِفْتُ عَلَيْهَا وَكُنْتُ مَنْ بَنِي آدَمَ فَلَطَمْتُ وَجْهَهَا وَعَلَيَّ رَقَبَةٌ أَفَأُعْتِقُهَا؟ فَقَالَ لَهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَيْنَ اللَّهُ؟» فَقَالَتْ: فِي السَّمَاءِ فَقَالَ: «مَنْ أَنَا؟» فَقَالَتْ: أَنْتَ رَسُولَ اللَّهِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَعْتِقْهَا» . رَوَاهُ مَالِكٌ\nوَفِي رِوَايَةِ مُسْلِمٍ قَالَ: كَانَتْ لِي جَارِيَةٌ تَرْعَى غَنَمًا لِي قِبَلَ أُحُدٍ وَالْجَوَّانِيَّةِ فَاطَّلَعْتُ ذَاتَ يَوْمٍ فَإِذَا الذِّئْبُ قَدْ ذَهَبَ بِشَاةٍ مِنْ غَنَمِنَا وَأَنَا رَجُلٌ مِنْ بَنِي آدَمَ آسَفُ كَمَا يَأْسَفُونَ لَكِنْ صَكَكْتُهَا صَكَّةً فَأَتَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَعَظَّمَ ذَلِكَ عَلَيَّ قُلْتُ: يَا رَسُولَ اللَّهِ أفَلا أُعتِقُها؟ قَالَ: «ائتِني بهَا؟» فأتيتُه بِهَا فَقَالَ لَهَا: «أَيْنَ اللَّهُ؟» قَالَتْ: فِي السَّمَاءِ قَالَ: «مَنْ أَنَا؟» قَالَتْ: أَنْتَ رَسُولُ الله قَالَ: «أعتِقْها فإنَّها مؤْمنةٌ»",
+      "english": {
+        "narrator": "",
+        "text": "Mu'awiya b. al-Hakam told that he went to God’s Messenger and said, “Messenger of God, I have a slave girl who was herding sheep of mine. I went to her, having missed a sheep from the flock, and asked her about it, and she told me it had been eaten by a wolf. I was annoyed with her, and being human, I struck her on the face. As it is my duty to set free a slave, should I set her free?” God’s Messenger asked her where God was and she replied that he was in heaven. He asked her who he was and she replied that he was God's Messenger. He then told him to set her free. \n\nMalik transmitted it.\n\nIn Muslim’s version he said, “I had a slave girl who was herding sheep of mine in the direction of Uhud and al-Jawwaniya. One day I looked and saw that a wolf had gone off with one of our sheep. Now I am a man who becomes annoyed just as others do, but I gave her a blow and then went to God’s Messenger. He treated my offence as serious, and so I asked him whether I should set her free. He told me to bring her and when I did so he asked her where God was and she replied that He was in heaven. He asked her who he was and she replied that he was God’s Messenger. He then told me to set her free, for she was a believer.”*\n*This chapter has only one section."
+      }
+    },
+    {
+      "id": 218,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ رَضِيَ اللَّهُ عَنهُ قَالَ: إِن عُوَيْمِر الْعَجْلَانِيَّ قَالَ: يَا رَسُولَ اللَّهِ أَرَأَيْتَ رَجُلًا وجدَ معَ امرأتِهِ رجُلاً أيقْتُلُه فيَقْتُلُونه؟ أمْ كَيفَ أفعل؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «قدْ أُنْزِلُ فِيكَ وَفِي صَاحِبَتِكَ فَاذْهَبْ فَأْتِ بِهَا» قَالَ سَهْلٌ: فَتَلَاعَنَا فِي الْمَسْجِدِ وَأَنَا مَعَ النَّاسِ عِنْدَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَلَمَّا فَرَغَا قَالَ عُوَيْمِرٌ: كَذَبْتُ عَلَيْهَا يَا رسولَ اللَّهِ إِن أَمْسكْتُها فطلقتها ثَلَاثًا ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" انْظُرُوا فَإِنْ جَاءَتْ بِهِ أَسْحَمَ أَدْعَجَ الْعَيْنَيْنِ عَظِيمَ الْأَلْيَتَيْنِ خَدَلَّجَ السَّاقَيْنِ فَلَا أَحسب عُوَيْمِر إِلَّا قَدْ صَدَقَ عَلَيْهَا وَإِنْ جَاءَتْ بِهِ أُحَيْمِرَ كَأَنَّهُ وَحَرَةٌ فَلَا أَحْسِبُ عُوَيْمِرًا إِلَّا قَدْ كَذَبَ عَلَيْهَا فَجَاءَتْ بِهِ عَلَى النَّعْتِ الَّذِي نَعْتُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ تَصْدِيقِ عُوَيْمِرٍ فَكَانَ بَعْدُ يُنْسَبُ إِلَى أمه",
+      "english": {
+        "narrator": "Sahl b. Sa'd as-Sa‘idi told that ‘Uwaimir al-'Ajlani asked God’s Messenger:",
+        "text": "“Tell me about a man who finds a man along with his wife. Should he kill him and then be killed by you1, or how should he act?’’ He replied, “A revelation has been sent down about you and your wife2, so go away and bring her.” Sahl said that they cursed one another in the mosque and that he was along with the people who were with God’s Messenger. Then when they finished ‘Uwaimir said, “I shall have lied against her, Messenger of God, if I keep her,” and pronounced her divorce three times. God’s Messenger then said to the people, “Look, and if she bears a child which is black, and has very black eyes, large buttocks and fat legs, I cannot but imagine that ‘Uwaimir has spoken the truth about her; but if she bears a reddish child like the lizard with red spots (wahara), I cannot but imagine that ‘Uwaimir has lied against her.” She gave birth to a child like that described by God’s Messenger in declaring that ‘Uwaimir had spoken the truth, and afterwards its lineage was traced to its mother. \n\n(Bukhari and Muslim.)\n\n1. Some texts read as translated above; others use the third person, with reference to the family of the man and their revenge for killing him.\n2. Al-Qur'an 24:6."
+      }
+    },
+    {
+      "id": 219,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَاعن بَين رجل وَامْرَأَته فانتقى مِنْ وَلَدِهَا فَفَرَّقَ بَيْنَهُمَا وَأَلْحَقَ الْوَلَدَ بِالْمَرْأَةِ. مُتَّفَقٌ عَلَيْهِ. وَفِي حَدِيثِهِ لَهُمَا أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَعَظَهُ وَذَكَّرَهُ وَأَخْبَرَهُ أَنَّ عَذَابَ الدُّنْيَا أَهْوَنُ مِنْ عَذَابِ الْآخِرَةِ ثُمَّ دَعَاهَا فَوَعَظَهَا وَذَكَّرَهَا وَأَخْبَرَهَا أَنَّ عَذَاب الدُّنْيَا أَهْون من عَذَاب الْآخِرَة",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Umar said that the Prophet made a man and his wife invoke curses when the man disowned her child, and separated them and attributed the child to the woman. In his tradition transmitted by both of them it says that God's Messenger exhorted and admonished the man and informed him that punishment in this world is easier than that in the next. He then summoned the woman and exhorted and admonished her and told her that punishment in this world is easier than that in the next.\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 220,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لِلْمُتَلَاعِنَيْنِ: «حِسَابُكُمَا عَلَى اللَّهِ أَحَدُكُمَا كَاذِبٌ لَا سَبِيلَ لَكَ عَلَيْهَا» قَالَ: يَا رَسُولَ اللَّهِ مَالِي قَالَ: «لَا مَالَ لَكَ إِنْ كُنْتَ صَدَقْتَ عَلَيْهَا فَهُوَ بِمَا اسْتَحْلَلْتَ مِنْ فَرْجِهَا وَإِنْ كُنْتَ كَذَبْتَ عَلَيْهَا فَذَاكَ أَبْعَدُ وَأبْعد لَك مِنْهَا»",
+      "english": {
+        "narrator": "",
+        "text": "He reported the Prophet as saying to two who were invoking curses regarding one another, “Your reckoning is in God’s hands, for one of you is lying.” He then told the man that he could not remarry her, whereupon he said, “Messenger of God, what about my property?”* He replied, “There is no property for you. If you have spoken the truth, it is the price of your having had the right to intercourse with her; and if you have lied against her, it is more remote still from you than she is.” \n* Referring to the dower be had paid.\n\n(Bukhari and Muslim.)."
+      }
+    },
+    {
+      "id": 221,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ: أَنَّ هِلَالَ بْنَ أُمَيَّةَ قَذَفَ امْرَأَتَهُ عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِشَرِيكِ بْنِ سَحْمَاءَ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الْبَيِّنَةَ أَوْ حَدًّا فِي ظَهْرِكَ» فَقَالَ: يَا رَسُولَ اللَّهِ إِذَا رَأَى أَحَدُنَا عَلَى امْرَأَتِهِ رَجُلًا يَنْطَلِقُ يَلْتَمِسُ الْبَيِّنَةَ؟ فَجَعَلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «الْبَيِّنَةَ وَإِلَّا حَدٌّ فِي ظَهْرِكَ» فَقَالَ هِلَالٌ: وَالَّذِي بَعَثَكَ بِالْحَقِّ إِنِّي لَصَادِقٌ فَلْيُنْزِلَنَّ اللَّهُ مَا يُبَرِّئُ ظَهْرِي مِنَ الْحَدِّ فَنَزَلَ جِبْرِيلُ وَأنزل عَلَيْهِ: (وَالَّذين يرْمونَ أَزوَاجهم)\nفَقَرَأَ حَتَّى بَلَغَ (إِنْ كَانَ مِنَ الصَّادِقِينَ)\nفَجَاءَ هِلَالٌ فَشَهِدَ وَالنَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِنَّ اللَّهَ يَعْلَمُ أَنَّ أَحَدَكُمَا كَاذِبٌ فَهَلْ مِنْكُمَا تَائِبٌ؟» ثُمَّ قَامَتْ فَشَهِدَتْ فَلَمَّا كَانَتْ عِنْدَ الْخَامِسَةِ وَقَفُوهَا وَقَالُوا: إِنَّهَا مُوجِبَةٌ فَقَالَ ابْنُ عَبَّاسٍ: فَتَلَكَّأَتْ وَنَكَصَتْ حَتَّى ظَنَنَّا أَنَّهَا تَرْجِعُ ثُمَّ قَالَتْ: لَا أَفْضَحُ قَوْمِي سَائِرَ الْيَوْمِ فَمَضَتْ وَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَبْصِرُوهَا فَإِنْ جَاءَتْ بِهِ أَكْحَلَ الْعَيْنَيْنِ سَابِغَ الْأَلْيَتَيْنِ خَدَلَّجَ السَّاقِينَ فَهُوَ لِشَرِيكِ بْنِ سَحْمَاءَ» فَجَاءَتْ بِهِ كَذَلِكَ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَوْلَا مَا مَضَى مِنْ كِتَابِ اللَّهِ لَكَانَ لِي وَلَهَا شَأْن» . رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "Ibn ‘Abbas said:",
+        "text": "Hilal b. Umayya accused his wife in the Prophet’s presence of having committed adultery with Sharik b. Sahma'. When the Prophet told him that he must produce evidence or receive punishment on his back, he said, “Messenger of God, when one of us sees a man having intercourse with his wife, must he go and seek evidence?” But the Prophet merely replied that he must produce evidence or receive punishment on his back. Hilal then said, “By Him who sent you with the truth, I am speaking truly. May God send down something which will free my back from punishment!” Then Gabriel descended and brought down to him, “And those who make charges against their spouses,” reciting till he reached, “if he is one of those who speak the truth” (Al-Qur’an 24:6-9).Then Hilal came and gave testimony and the Prophet was saying, “God knows that one of you is lying. Will one of you repent?” Then the woman got up and testified, but when she was about to do it a fifth time they stopped her and told her that it would be the deciding one. Ibn ‘Abbas told that she then hesitated and drew back, so that they thought she would renounce what she had said; but thereafter she said, “I shall not disgrace my people forever,” and went on with her declaration. The Prophet told them to look and see whether she gave birth to a child with eyes looking as if they had antimony in them, wide buttocks and fat legs, for if she did, Sharik b. Sahma' would be its father. Then when she gave birth to a child of that description the Prophet said, “If it were not for what has already been stated in God’s Book, I would have dealt severely with her.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 222,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ سَعْدُ بْنُ عُبَادَةَ: لَوْ وَجَدْتُ مَعَ أَهْلِي رَجُلًا لَمْ أَمَسَّهُ حَتَّى آتِيَ بِأَرْبَعَةِ شُهَدَاءَ؟ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «نَعَمْ» قَالَ: كَلَّا وَالَّذِي بَعَثَكَ بِالْحَقِّ إِنْ كُنْتُ لَأُعَاجِلُهُ بِالسَّيْفِ قَبْلَ ذَلِكَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «اسْمَعُوا إِلَى مَا يَقُولُ سَيِّدُكُمْ إِنَّهُ لَغَيُورٌ وَأَنَا أَغْيَرُ مِنْهُ وَالله أغير مني» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira told that Sa'd b. ‘Ubada asked, “If I were to find a man with my wife, should I not touch him before bringing four witnesses?” Then when God’s Messenger replied that that was so, he said, “By no means. I swear by Him who has sent you with the truth that I would take my sword to him before that.” God’s Messenger said, “Listen to what your chief says. He is jealous of his honour, but I am more jealous than he is and God is more jealous than I am.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 223,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ الْمُغِيرَةَ قَالَ: قَالَ سَعْدُ بْنُ عُبَادَةَ: لَوْ رَأَيْتُ رَجُلًا مَعَ امْرَأَتِي لَضَرَبْتُهُ بِالسَّيْفِ غَيْرَ مُصْفِحٍ فَبَلَغَ ذَلِكَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «أَتَعْجَبُونَ مِنْ غَيْرَةِ سَعْدٍ؟ وَاللَّهِ لَأَنَا أَغْيَرُ مِنْهُ وَاللَّهُ أَغْيَرُ مِنِّي وَمِنْ أَجْلِ غَيْرَةِ اللَّهِ حَرَّمَ اللَّهُ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا أَحَدَ أَحَبُّ إِلَيْهِ الْعُذْرُ مِنَ اللَّهِ مِنْ أَجْلِ ذَلِكَ بَعَثَ الْمُنْذِرِينَ وَالْمُبَشِّرِينَ وَلَا أَحَدَ أَحَبُّ إِلَيْهِ الْمِدْحَةُ مِنَ اللَّهِ وَمِنْ أَجْلِ ذَلِكَ وَعَدَ اللَّهُ الْجَنَّةَ»",
+      "english": {
+        "narrator": "",
+        "text": "Al-Mughira told that Sa'd b 'Ubada said, “If I saw a man with my wife I would strike him with the sword, and not with the flat of it.” When God’s Messenger heard of that he said, “Are you surprised at Sa'd’s jealousy? I swear by God that I am more jealous than he is and that God is more jealous than I am. Because of God’s jealousy He has prohibited abominations both open and secret. No one is fonder of receiving an excuse than God, on which account He has sent warners and announcers of good news; and no one is fonder of praise than God, on which account God has promised paradise.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 224,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عَلَيْهِ وَسلم: «إِن اللَّهَ تَعَالَى يَغَارُ وَإِنَّ الْمُؤْمِنَ يَغَارُ وَغَيْرَةُ اللَّهِ أَنْ لَا يَأْتِيَ الْمُؤْمِنُ مَا حَرَّمَ الله»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s Messenger as saying, “God most high is jealous of His honour, and the believer is jealous. God’s jealousy is to the effect that a believer should not commit what God has prohibited.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 225,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ أَنَّ أَعْرَابِيًّا أَتَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: إنَّ امْرَأَتي ولدَتْ غُلَاما أسودَ وَإِنِّي نكرته فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «هَلْ لَكَ مِنْ إِبِلٍ؟» قَالَ: نَعَمْ قَالَ: «فَمَا أَلْوَانُهَا؟» قَالَ: حُمْرٌ قَالَ: «هَلْ فِيهَا مِنْ أَوْرَقَ؟» قَالَ: إِنَّ فِيهَا لَوُرْقًا قَالَ: «فَأَنَّى تُرَى ذَلِكَ جَاءَهَا؟» قَالَ: عِرْقٌ نَزَعَهَا. قَالَ: «فَلَعَلَّ هَذَا عِرْقٌ نَزَعَهُ» وَلَمْ يُرَخِّصْ لَهُ فِي الِانْتِفَاءِ مِنْهُ",
+      "english": {
+        "narrator": "",
+        "text": "He told of a desert Arab who came to God’s Messenger and said, “My wife has given birth to a black son and I have disowned him.” God’s Messenger asked him whether he had any camels, and when he replied that he had, he asked what their colour was and was told that they were red. He asked if there was a dusky one among them, and was told that there were some. He asked how he thought that had come about, and was told that it was a strain to which they had reverted. Then saying that this was perhaps a strain to which the child had reverted, he did not permit him to disown him. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 226,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ قَالَتْ: كَانَ عُتْبَةُ بْنُ أَبِي وَقَّاصٍ عَهِدَ إِلَى أَخِيهِ سَعْدِ بْنِ أَبِي وَقَّاصٍ: أَنَّ ابْنَ وَلِيدَةِ زَمْعَةَ مِنِّي فَاقْبِضْهُ إِلَيْكَ فَلَمَّا كَانَ عَامُ الْفَتْحِ أَخَذَهُ سَعْدٌ فَقَالَ: إِنَّهُ ابْنُ أَخِي وَقَالَ عَبْدُ بْنُ زَمْعَةَ: أَخِي فَتَسَاوَقَا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ سَعْدٌ: يَا رَسُولَ اللَّهِ إِنَّ أَخِي كَانَ عَهِدَ إِلَيَّ فِيهِ وَقَالَ عَبْدُ بْنُ زَمْعَةَ: أَخِي وَابْن وليدة أبي وُلِدَ على فرَاشه فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «هُوَ لَكَ يَا عَبْدُ بْنَ زَمْعَةَ الْوَلَدُ لِلْفِرَاشِ وَلِلْعَاهِرِ الْحَجَرُ» ثُمَّ قَالَ لِسَوْدَةَ بِنْتِ زَمْعَةَ: «احْتَجِبِي مِنْهُ» لِمَا رَأَى مِنْ شَبَهِهِ بِعُتْبَةَ فَمَا رَآهَا حَتَّى لَقِيَ اللَّهَ وَفِي رِوَايَةٍ: قَالَ: «هُوَ أَخُوكَ يَا عَبْدُ بْنَ زَمَعَةَ مِنْ أَجْلِ أَنَّهُ وُلِدَ عَلَى فِرَاشِ أَبِيهِ»",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha said that ‘Utba b. Abu Waqqas enjoined his brother Sa'd b. Abu Waqqas that the son of Zam'a's slave girl was his, and told him to look after him. In the year of the Conquest Sa'd took him, saying he was his brother’s son, but ‘Abd b. Zam'a claimed him as his brother. They made a simultaneous plea to God’s Messenger, Sa‘d saying, “Messenger of God, my brother has enjoined me regarding him,” and ‘Abd b. Zam'a saying, \"He is my brother and the son of my father's slave girl, being born on his bed.” God’s Messenger then said, \"He belongs to you, ‘Abd b. Zam'a, for the child is attributed to the one on whose bed it is born, and the fornicator is deprived of any right.”1 He then told Sauda daughter of Zam'a to veil herself from him because of the resemblance to ‘Utba which he saw in him, and he did not see her till he went into God’s presence.2 In a version he said, “He is your brother, ‘Abd b. Zam'a because he was born on his father’s bed.”3 \n1. Al-hajar. This might alternatively mean that the fornicator is to be stoned.\n2. i.e., until he died.\n3. This explanatory addition does not occur in Masabih as-sunna.\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 227,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْهَا قَالَتْ: دَخَلَ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَاتَ يَوْمٍ وَهُوَ مَسْرُورٌ فَقَالَ: \n\" أَيْ عَائِشَةُ أَلَمْ تَرَيْ أَنَّ مُجَزِّزًا الْمُدْلِجِيَّ دَخَلَ فَلَمَّا رَأَى أُسَامَةَ وَزَيْدًا وَعَلَيْهِمَا قطيفةٌ قد غطيَّا رؤوسَهُما وَبَدَتْ أَقْدَامُهُمَا فَقَالَ: إِنَّ هَذِهِ الْأَقْدَامَ بَعْضُهَا من بعضٍ \"",
+      "english": {
+        "narrator": "She said:",
+        "text": "One day God's Messenger visited me looking pleased and asked if I was not surprised to hear that Mujazziz al-Mudlijl1 had entered, and seeing Usama and Zaid2 with a rug over them covering their heads and letting their feet appear, said, “These feet are related.” \n\n(Bukhari and Muslim.)\n\n1. Members of the tribe of Mudlij were said to have a reputation for being able to trace relationship from physical features.\n2. Usama was Zaid's son."
+      }
+    },
+    {
+      "id": 228,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ وَأَبِي بَكْرَةَ قَالَا: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنِ ادَّعَى إِلَى غَيْرِ أَبِيهِ وَهُوَ يَعْلَمُ أَنَّهُ غَيْرُ أَبِيهِ فَالْجَنَّةُ عَلَيْهِ حرَام»",
+      "english": {
+        "narrator": "",
+        "text": "Sa‘d b. Abu Waqqas and Abu Bakra reported God’s Messenger as saying, \"If anyone knowingly claims as father one who is not his father, paradise is forbidden to him.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 229,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا تَرْغَبُوا عَنْ آبَائِكُمْ فَمَنْ رَغِبَ عَنْ أَبِيهِ فقد كفر»",
+      "english": {
+        "narrator": "",
+        "text": "‘Abu Huraira reported God’s Messenger as saying, \"Do not turn against your fathers, for he who turns against his father has become an infidel.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 230,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي هُرَيْرَةَ أَنَّهُ سَمِعَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ لَمَّا نَزَلَتْ آيَةُ الْمُلَاعَنَةِ: «أَيُّمَا امْرَأَةٍ أَدْخَلَتْ عَلَى قَوْمٍ مَنْ لَيْسَ مِنْهُمْ فَلَيْسَتْ مِنَ اللَّهِ فِي شَيْءٍ وَلَنْ يُدْخِلَهَا اللَّهُ جَنَّتَهُ وَأَيُّمَا رَجُلٍ جَحَدَ وَلَدَهُ وَهُوَ يَنْظُرُ إِلَيْهِ احْتَجَبَ اللَّهُ مِنْهُ وفضَحَهُ على رؤوسِ الْخَلَائِقِ فِي الْأَوَّلِينَ وَالْآخِرِينَ» . رَوَاهُ أَبُو دَاوُدَ وَالنَّسَائِيّ والدارمي",
+      "english": {
+        "narrator": "Abu Huraira told that he heard the Prophet say when the verse about invoking curses1 came down:",
+        "text": "\"Any woman who brings into a family one who does not belong to it can expect no mercy from God (or is no observer of God’s religion) and God will not bring her into His paradise; and God will veil Himself from any man who disowns his child when he looks at him, and shame him in the presence of all creatures, first and last.” \n\nAbu Dawud, Nasa'i and Darimi transmitted it.\n\n1. Al-Qur’an 24:6"
+      }
+    },
+    {
+      "id": 231,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: جَاءَ رَجُلٌ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: إِن لِي امْرَأَةً لَا تَرُدُّ يَدَ لَامِسٍ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «طَلِّقْهَا» قَالَ: إِنِّي أُحِبُّها قَالَ: «فأمسِكْهَا إِذا» . رَوَاهُ أَبُو دَاوُدَ وَالنَّسَائِيُّ وَقَالَ النَّسَائِيُّ: رَفَعَهُ أَحَدُ الرُّوَاةِ إِلَى ابْنِ عَبَّاسٍ وَأَحَدُهُمْ لَمْ يرفعهُ قَالَ: وَهَذَا الحَدِيث لَيْسَ بِثَابِت",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas told of a man coming to the Prophet and saying, “I have a wife who rejects no one who wishes intercourse with her,” but when he told him to divorce her he replied that he loved her, so he told him that in that case he should keep her. \n\nAbu Dawud and Nasa’i transmitted it, Nasa’i saying that one of the transmitters traced it to Ibn ‘Abbas and that one did not, adding that this tradition is not well established."
+      }
+    },
+    {
+      "id": 232,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قضى أَن كل مستحلق استحلق بَعْدَ أَبِيهِ الَّذِي يُدْعَى لَهُ ادَّعَاهُ وَرَثَتُهُ فَقَضَى أَنَّ كُلَّ مَنْ كَانَ مِنْ أَمَةٍ يملكهَا يَوْم أَصَابَهَا فقد لحق بِمن استحلقه وَلَيْسَ لَهُ مِمَّا قُسِمَ قَبْلَهُ مِنَ الْمِيرَاثِ شَيْءٌ وَمَا أَدْرَكَ مِنْ مِيرَاثٍ لَمْ يُقْسَمْ فَلَهُ نَصِيبُهُ وَلَا يَلْحَقُ إِذَا كَانَ أَبُوهُ الَّذِي يُدْعَى لَهُ أَنْكَرَهُ فَإِنْ كَانَ مِنْ أمَةٍ لم يَملِكْها أَو من حُرَّةٍ عَاهَرَ بِهَا فَإِنَّهُ لَا يَلْحَقُ بِهِ وَلَا يَرِثُ وَإِنْ كَانَ الَّذِي يُدْعَى لَهُ هُوَ الَّذِي ادَّعَاهُ فَهُوَ وَلَدُ زِنْيَةٍ مِنْ حُرَّةٍ كَانَ أَوْ أَمَةٍ. رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "‘Amr b. Shu'aib, on his father’s authority, told of his grandfather saying:",
+        "text": "The Prophet decided regarding one who is treated as a member of a family after the death of his father to whom he is attributed when the heirs say he is one of them, that if he is the child of a slave woman whom the father owned when he had intercourse with her he is included among those who seek his inclusion, but gets none of the inheritance which was previously divided;* he however gets his portion of the inheritance which has not already been divided, but if the father to whom he is attributed had disowned him he is not joined to the heirs. If he is the child of a slave woman whom the father did not possess or of a freewoman with whom he had illicit intercourse, he is not joined to the heirs and does not inherit even if the one to whom he is attributed is the one who claims paternity, for he is a child of fornication whether his mother was free or a slave. \n\nAbu Dawud transmitted it.\n\n*Mirqat 3:506 explains this as a reference to what had happened in the pre-Islamic period."
+      }
+    },
+    {
+      "id": 233,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَن جابرِ بنِ عتيكٍ أَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ الْغَيْرَةِ مَا يُحِبُّ اللَّهُ وَمِنْهَا مَا يُبْغِضُ اللَّهُ فَأَمَّا الَّتِي يُحِبُّهَا اللَّهُ فَالْغَيْرَةُ فِي الرِّيبَةِ وَأَمَّا الَّتِي يُبْغِضُهَا اللَّهُ فَالْغَيْرَةُ فِي غَيْرِ رِيبَةٍ وَإِنَّ مِنَ الْخُيَلَاءِ مَا يُبْغِضُ اللَّهُ وَمِنْهَا مَا يُحِبُّ اللَّهُ فَأَمَّا الْخُيَلَاءُ الَّتِي يُحِبُّ اللَّهُ فَاخْتِيَالُ الرَّجُلِ عِنْدَ الْقِتَالِ وَاخْتِيَالُهُ عِنْدَ الصَّدَقَةِ وَأَمَّا الَّتِي يُبْغِضُ اللَّهُ فَاخْتِيَالُهُ فِي الْفَخْرِ» وَفِي رِوَايَةٍ: «فِي الْبَغْيِ» . رَوَاهُ أَحْمَدُ وَأَبُو دَاوُدَ وَالنَّسَائِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "Jabir b. ‘Atik reported God’s prophet as saying, ‘‘There is jealousy which God loves and jealousy which God hates. That which He loves is jealousy regarding a matter of doubt, and that which He hates is jealousy regarding something which is not doubtful. There is pride which God hates and pride which God loves. That which He loves is a man’s pride when fighting and when giving sadaqa, and that which God hates is pride shown by boasting.” A version has “by oppression.” \n\nAhmad, Abu Dawud and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 234,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَ: قَامَ رَجُلٌ فَقَالَ: يَا رَسُولَ اللَّهِ إِنَّ فَلَانًا ابْنِي عَاهَرْتُ بِأُمِّهِ فِي الْجَاهِلِيَّةِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا دِعْوَةَ فِي الْإِسْلَامِ ذَهَبَ أَمْرُ الْجَاهِلِيَّةِ الْوَلَدُ لِلْفِرَاشِ وَلِلْعَاهِرِ الْحَجَرُ» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "‘Amr b. Shu'aib, on his father’s authority, said that his grandfather told of a man who got up and said, “Messenger of God, so and so is my son; I had illicit intercourse with his mother in the pre-Islamic period.” God’s Messenger replied, “There is no unlawful claiming of paternity in Islam. What was done in pre-Islamic times has been annulled. The child is attributed to the one on whose bed it is born, and the fornicator is deprived of any right.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 235,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: \n\" أَرْبَعٌ مِنَ النِّسَاءِ لَا مُلَاعَنَةَ بَيْنَهُنَّ: النَّصْرَانِيَّةُ تَحْتَ الْمُسْلِمِ وَالْيَهُودِيَّةُ تَحْتَ الْمُسْلِمِ وَالْحُرَّةُ تَحْتَ الْمَمْلُوكِ وَالْمَمْلُوكَةُ تَحْتَ الْحُرِّ \". رَوَاهُ ابْنُ مَاجَه",
+      "english": {
+        "narrator": "He reported the Prophet as saying, “There are four types of women with whom there can be no cursing:",
+        "text": "* a Christian woman married to a Muslim, a Jewess married to a Muslim, a freewoman married to a slave, and a slave woman married to a freeman.” \n*That is the mutual invoking of curses with which this chapter deals.\n\nIbn Majah transmitted it."
+      }
+    },
+    {
+      "id": 236,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَ رَجُلًا حِينَ أَمَرَ الْمُتَلَاعِنَيْنِ أَنْ يَتَلَاعَنَا أَنْ يَضَعَ يَدَهُ عِنْدَ الْخَامِسَةِ عَلَى فِيهِ وَقَالَ: «إِنَّهَا مُوجِبَةٌ» . رَوَاهُ النَّسَائِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas said that when the Prophet ordered a man and wife to invoke curses regarding one another, he ordered a man to put his hand on his mouth when he came to the fifth utterance, saying that it would be the deciding one.\n\n Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 237,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَرَجَ مِنْ عِنْدِهَا لَيْلًا قَالَتْ: فَغِرْتُ عَلَيْهِ فَجَاءَ فَرَأَى مَا أَصْنَعُ فَقَالَ: «مَا لَكِ يَا عَائِشَةُ أَغِرْتِ؟» فَقُلْتُ: وَمَا لِي؟ لَا يَغَارُ مِثْلِي عَلَى مِثْلِكَ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَقَدْ جَاءَكِ شَيْطَانُكِ» قَالَتْ: يَا رَسُولَ اللَّهِ أَمْعِي شَيْطَانٌ؟ قَالَ: «نَعَمْ» قُلْتُ: وَمَعَكَ يَا رَسُولَ الله؟ قَالَ: «نعم وَلَكِن أعانني علَيهِ حَتَّى أسلَمَ» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "‘A'isha said that once when God’s Messenger went out from her during the night she was jealous regarding him. Then when he came and saw what she was doing he said, “What is the matter with you, ‘A'isha? Are you jealous?” She replied, “Why should one like me not be jealous regarding one like you?” He said, “Your devil has come to you.” She asked, “Messenger of God, have I a devil?” He told her that she had, and when she asked him whether he had one he replied, “Yes, but God has helped me against him so that I may be safe.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 238,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَنْ أَبِي سَلَمَةَ عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ: أَنَّ أَبَا عَمْرِو بْنَ حَفْصٍ طَلَّقَهَا الْبَتَّةَ وَهُوَ غَائِبٌ فَأَرْسَلَ إِلَيْهَا وَكِيْلُهُ الشَّعِيرَ فَسَخِطَتْهُ فَقَالَ: وَاللَّهِ مَا لَكِ عَلَيْنَا مِنْ شَيْءٍ فَجَاءَتْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَكَرْتُ ذَلِكَ لَهُ فَقَالَ: «لَيْسَ لَكِ نَفَقَةٌ» فَأَمَرَهَا أَنْ تَعْتَدَّ فِي بَيْتِ أُمِّ شَرِيكٍ ثُمَّ قَالَ: «تِلْكِ امْرَأَةٌ يَغْشَاهَا أَصْحَابِي اعْتَدِّي عِنْدَ ابْنِ أُمِّ مَكْتُومٍ فَإِنَّهُ رَجُلٌ أَعْمَى تَضَعِينَ ثِيَابَكِ فَإِذَا حَلَلْتِ فَآذِنِينِي» . قَالَتْ: فَلَمَّا حَلَلْتُ ذَكَرْتُ لَهُ أَنَّ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ وَأَبَا جَهْمٍ خَطَبَانِي فَقَالَ: «أَمَّا أَبُو الْجَهْمِ فَلَا يَضَعُ عَصَاهُ عَنْ عَاتِقِهِ وَأَمَّا مُعَاوِيَةُ فَصُعْلُوكٌ لَا مَالَ لَهُ انْكِحِي أُسَامَةَ بْنَ زَيْدٍ» فَكَرِهْتُهُ ثُمَّ قَالَ: «انْكِحِي أُسَامَةَ» فَنَكَحْتُهُ فَجَعَلَ اللَّهُ فِيهِ خَيْرًا وَاغْتَبَطْتُ وَفِي رِوَايَةٍ عَنْهَا: «فَأَمَّا أَبُو جَهْمٍ فَرَجُلٌ ضَرَّابٌ لِلنِّسَاءِ» . رَوَاهُ مُسْلِمٌ وَفِي رِوَايَةٍ: أَنَّ زَوْجَهَا طَلَّقَهَا ثَلَاثًا فَأَتَتِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «لَا نَفَقَةَ لَكِ إِلَّا أَنْ تَكُونِي حَامِلا»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Salama was told by Fatima daughter of Qais that Abu ‘Amr b. Hafs divorced her absolutely when he was away from home, and his agent sent her some barley. She was displeased with it, and when he said, “I swear by God that you have no claim on us,” she went to God’s Messenger and mentioned that to him. Saying that she was due no maintenance, he ordered her to spend the period before she could remarry in the house of Umm Sharik, but said afterwards, “That is a woman whom my companions visit; spend the period in the house of Ibn Umm Maktum, for he is blind and you can undress. Then when you are in a position to be remarried, tell me.\" She said that when she was in a position to remarry she mentioned to him that Mu'awiya b. Abu Sufyan and Abu Jahm had asked her in marriage, and he replied, “As for Abu Jahm, he does not put down his stick from his shoulder, and as for Mu'awiya, he is a poor man who has no property; marry Usama b. Zaid.\" She objected to him, but he said, “Marry Usama,\" so she married him, God prospered him, and she was envied. A version on her authority has, “As for Abu Jahm, he is a man who is given to beating women.\" In a version it says that her husband divorced her three times and that when she went to the Prophet he said, “You are due no maintenance unless you are pregnant.\"\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 239,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَن عائشةَ قَالَتْ: إِنَّ فَاطِمَةَ كَانَتْ فِي مَكَانٍ وَحِشٍ فَخِيفَ عَلَى نَاحِيَتِهَا فَلِذَلِكَ رَخَّصَ لَهَا النَّبِيُّ صلى الله عَلَيْهِ وَسلم تَعْنِي النُّقْلَةِ وَفِي رِوَايَةٍ: قَالَتْ: مَا لِفَاطِمَةَ؟ أَلَا تَتَّقِي اللَّهَ؟ تَعْنِي فِي قَوْلِهَا: لَا سُكْنَى وَلَا نَفَقَة. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "'A'isha said that Fatima was in a lonely place and fear was entertained regarding the district where she was, so the Prophet gave her permission, i.e., to remove. In a version she asked what was the matter with Fatima and whether she did not fear God, i.e., with reference to her saying that she had no place to live and no maintenance. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 240,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَن سعيدِ بنِ المسيِّبِ قَالَ: إِنَّمَا نُقِلَتْ فَاطِمَةُ لِطُولِ لِسَانِهَا عَلَى أحمائِها. رَوَاهُ فِي شرح السّنة",
+      "english": {
+        "narrator": "",
+        "text": "Sa'id b. al-Musayyib said that Fatima was removed simply because she had so much to say against her husband’s relatives. \n\nIt is transmitted in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 241,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَن جابرٍ قَالَ: طُلِّقَتْ خَالَتِي ثَلَاثًا فَأَرَادَتْ أَنْ تَجُدَّ نَخْلَهَا فَزَجَرَهَا رَجُلٌ أَنْ تَخْرُجَ فَأَتَتِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «بَلَى فَجُدِّي نَخْلَكِ فَإِنَّهُ عَسَى أَنْ تَصَّدَّقِي أَوْ تَفْعَلِي مَعْرُوفا» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "Jabir said:",
+        "text": "My maternal aunt was divorced by three utterances of the divorce and wanted to cut down fruit from her palm-trees, but a man forbade her to go out, so she went to the Prophet and he said, “Certainly, cut down fruit from your palm-trees, for perhaps you may give sadaqa or do an act of kindness.” \n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 242,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ: أَنَّ سُبَيْعَةَ الْأَسْلَمِيَّةَ نُفِسَتْ بَعْدَ وَفَاةِ زَوْجِهَا بِلَيَالٍ فَجَاءَتِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَاسْتَأْذَنَتْهُ أَنْ تَنْكِحَ فأذِنَ لَهَا فنكحت. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Al-Miswar b. Makhrama said that some nights after her husband’s death Subai’a al-Aslamiya gave birth to a child. Then she went to the Prophet and asked permission to marry. He gave her permission and she married. \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 243,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَن أُمِّ سلمةَ قَالَتْ: جَاءَتِ امْرَأَةٌ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ: يَا رَسُولَ اللَّهِ إِنَّ ابْنَتِي تُوُفِّيَ عَنْهَا زَوْجُهَا وَقَدِ اشْتَكَتْ عَيْنُهَا أَفَنَكْحُلُهَا؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا» مَرَّتَيْنِ أَوْ ثَلَاثًا كُلُّ ذَلِكَ يَقُولُ: «لَا» قَالَ: «إِنَّمَا هِيَ أَرْبَعَةُ أَشْهُرٍ وعشرٌ وَقد كَانَت إِحْدَاهُنَّ فِي الجاهليَّةِ تَرْمِي بِالْبَعْرَةِ عَلَى رَأْسِ الْحَوْلِ»",
+      "english": {
+        "narrator": "Umm Salama told that a woman came to the Prophet and said:",
+        "text": "\"Messenger of God, my daughter’s husband has died and her eye is troubling her, so may we apply collyrium to it?” He said “No” twice or thrice, saying only “No” all the time. Then he said, “It is only four months and ten days, whereas in the pre-Islamic period none of you threw away the piece of dung till a year had passed.”* \n* The reference is to a pre-Islamic custom by which a widow threw a piece of dung when her idda period came to an end. Cf. Lane, Lexicon and Taj al-'arus; Mirqat, 3:513 f.\n  \n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 244,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَنْ أُمِّ حَبِيبَةَ وَزَيْنَبَ بِنْتِ جحش عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا يَحِلُّ لِامْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ أَنْ تُحِدَّ عَلَى مَيِّتٍ فَوْقَ ثَلَاثِ لَيَالٍ إِلَّا عَلَى زَوْجٍ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا»",
+      "english": {
+        "narrator": "",
+        "text": "Umm Habiba and Zainab daughter of Jahsh reported God’s Messenger as saying, “It is not lawful for a woman who believes in God and the last day to observe mourning for one who has died more than three nights, except for the four months and ten days in the case of a husband.” \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 245,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "وَعَن أُمِّ عطيَّةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا تُحِدُّ امْرَأَةٌ عَلَى مَيِّتٍ فَوْقَ ثَلَاثٍ إِلَّا عَلَى زَوْجٍ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا وَلَا تَلْبَسُ ثَوْبًا مَصْبُوغًا إِلَّا ثَوْبَ عَصْبٍ وَلَا تكتحِلُ وَلَا تَمَسُّ طِيبًا إِلَّا إِذَا طَهُرَتْ نُبْذَةً مِنْ قُسْطٍ أَوْ أَظْفَارٍ» . مُتَّفَقٌ عَلَيْهِ. وَزَادَ أَبُو دَاوُدَ: «وَلَا تختضب»",
+      "english": {
+        "narrator": "",
+        "text": "Umm 'Atiya reported God’? Messenger as saying, “A woman must not observe mourning for one who has died more than three nights, except for the four months and ten days in the case of a husband, and she must not wear a dyed garment except one of the type made of dyed yarn,1 or apply collyrium, or touch perfume except for a little costus or azfar2 when she has been purified after her courses.” \n    1. ‘Asb. This word is applied to a type of Yemen garment which was made of cloth which\nwas dyed before being woven.\n    2. A certain odoriferous substance resembling finger-nails, used in incense.\n\n(Bukhari and Muslim.) Abu Dawud added, “or apply henna.”"
+      }
+    },
+    {
+      "id": 246,
+      "chapterId": 13,
+      "bookId": 14,
+      "arabic": "عَن زَيْنَب بنت كَعْب: أَنَّ الْفُرَيْعَةَ بِنْتَ مَالِكِ بْنِ سِنَانٍ وَهِيَ أُخْتُ أَبِي سَعِيدٍ الْخُدْرِيِّ أَخْبَرَتْهَا أَنَّهَا جَاءَتْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَسْأَلُهُ أَنْ تَرْجِعَ إِلَى أَهْلِهَا فِي بَنِي خُدْرَةَ فَإِنَّ زَوْجَهَا خَرَجَ فِي طَلَبِ أَعْبُدٍ لَهُ أَبَقُوا فَقَتَلُوهُ قَالَتْ: فَسَأَلْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ أَرْجِعَ إِلَى أَهْلِي فَإِنَّ زَوْجِي لَمْ يَتْرُكْنِي فِي مَنْزِلٍ يَمْلِكُهُ وَلَا نَفَقَةٍ فَقَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «نَعَمْ» . فَانْصَرَفْتُ حَتَّى إِذَا كُنْتُ فِي الْحُجْرَةِ أَوْ فِي الْمَسْجِدِ دَعَانِي فَقَالَ: «امْكُثِي فِي بَيْتِكِ حَتَّى يَبْلُغَ الْكِتَابُ أَجَلَهُ» . قَالَتْ: فَأَعْتَدَدْتُ فِيهِ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا. رَوَاهُ مَالِكٌ وَالتِّرْمِذِيُّ وَأَبُو دَاوُدَ وَالنَّسَائِيُّ وَابْنُ مَاجَهْ وَالدَّارِمِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "Zainab daughter of Ka‘b said that al-Furai‘a daughter of Malik b. Sinan and sister of Abu Sa'id al-Khudri informed her that she went to God’s Messenger and asked to be allowed to return to her people among the B. Khudra, for her husband had gone out in search of some slaves of his who had run away and they had killed him. She said she asked God's Messenger to be allowed to return to her people, for her husband had not left her in a house which belonged to him, nor had he left any maintenance and that when he agreed she went away, but when she was in the courtyard (or in the mosque) he called her and said, “Stay in your house till the prescribed period is ended.” She said that she observed the period in it for four months and ten days. \n\nMalik, Tirmidhi, Abu Dawud, Nasa’i,. Ibn Majah and Darimi transmitted it."
+      }
+    }
+  ]
+}

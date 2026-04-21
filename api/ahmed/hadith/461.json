@@ -1,0 +1,16 @@
+{
+  "id": 461,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُطَّلِبُ بْنُ زِيَادٍ، عَنِ السُّدِّيِّ، عَنْ عَبْدِ خَيْرٍ، عَنْ عَلِيٍّ، فِي قَوْلِهِ ‏{‏إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ‏}‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمُنْذِرُ وَالْهَادِ رَجُلٌ مِنْ بَنِي هَاشِمٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Ali concerning the verse “You are only a warner, and to every people there is a guide` :",
+    "text": "The Messenger of Allah (ﷺ) said: “The warner and the guide is a man from Banu Hashim.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

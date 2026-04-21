@@ -1,0 +1,16 @@
+{
+  "id": 441,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، وَعَبْدُ الرَّزَّاقِ، أَنْبَأَنَا سُفْيَانُ، عَنْ عَاصِمٍ يَعْنِي ابْنَ كُلَيْبٍ، عَنْ أَبِي بُرْدَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ نَهَانِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ أَجْعَلَ الْخَاتَمَ فِي هَذِهِ أَوْ فِي هَذِهِ قَالَ عَبْدُ الرَّزَّاقِ لِأُصْبُعَيْهِ السَّبَّابَةِ وَالْوُسْطَى‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) forbade me to wear a ring on this or this, `Abdur-Razzaq said: meaning his forefinger and middle finger."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

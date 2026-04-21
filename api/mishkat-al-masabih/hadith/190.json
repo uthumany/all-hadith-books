@@ -1,0 +1,16 @@
+{
+  "id": 190,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عَبَّاسٍ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: \n\" إِنَّ اللَّهَ تَعَالَى حَرَّمَ الْخَمْرَ وَالْمَيْسِرَ وَالْكُوبَةَ وَقَالَ: كُلُّ مُسْكِرٍ حَرَامٌ \". قِيلَ: الْكُوبَةُ الطَّبْلُ. رَوَاهُ الْبَيْهَقِيُّ فِي شعب الْإِيمَان",
+  "english": {
+    "narrator": "",
+    "text": "Ibn ‘Abbas reported God’s messenger as saying, \"God most high has made wine, maisir and the kuba unlawfuland he said, \"Every intoxicant is unlawful.” The kuba is said to be the drum. \nBaihaqi transmitted it in Shu’ab al-iman."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

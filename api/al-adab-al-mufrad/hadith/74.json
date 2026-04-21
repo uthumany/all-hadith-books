@@ -1,0 +1,16 @@
+{
+  "id": 74,
+  "chapterId": 42,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا مَطَرٌ، قَالَ‏:‏ حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، قَالَ‏:‏ حَدَّثَنَا بِسْطَامٌ قَالَ‏:‏ سَمِعْتُ مُعَاوِيَةَ بْنَ قُرَّةَ قَالَ‏:‏ قَالَ لِي أَبِي‏:‏ يَا بُنَيَّ، إِذَا مَرَّ بِكَ الرَّجُلُ فَقَالَ‏:‏ السَّلاَمُ عَلَيْكُمْ، فَلاَ تَقُلْ‏:‏ وَعَلَيْكَ، كَأَنَّكَ تَخُصُّهُ بِذَلِكَ وَحْدَهُ، فَإِنَّهُ لَيْسَ وَحْدَهُ، وَلَكِنْ قُلِ‏:‏ السَّلامُ عَلَيْكُمْ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Mu'awiya ibn Qurra said that his father said to him, \"My son,\nwhen a man passes by you and says, 'Peace be upon you (plural).' Do not\nsay, 'And on you (singular)' as if you were singling out that greeting\nout for him alone. Rather say, 'Peace be upon you (plural).'\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

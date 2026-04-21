@@ -1,0 +1,16 @@
+{
+  "id": 274,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَبُو يُوسُفَ الصَّيْدَلاَنِيُّ، مُحَمَّدُ بْنُ أَحْمَدَ الرَّقِّيُّ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَقَامَ بِمَكَّةَ عَامَ الْفَتْحِ خَمْسَ عَشْرَةَ لَيْلَةً يَقْصُرُ الصَّلاَةَ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "It was\nnarrated from Ibn ‘Abbas that the Messenger of Allah (ﷺ)\nstayed\nin Makkah for fifteen nights during the year of the Conquest,\n(during\nwhich time) he shortened his prayer."
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

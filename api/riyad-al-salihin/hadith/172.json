@@ -1,0 +1,16 @@
+{
+  "id": 172,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن مسعود رضي الله عنه أن النبي  صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ليس من نفس تقتل ظلماً إلا كان على ابن آدم الأول كفل من دمها لأنه كان أول من سن القتل‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Ibn Mas'ud (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"The first son of Adam* takes a share of the guilt of every one who murders another wrongfully because he was the initiator of committing murder\"..* The son of Adam in the Hadith is said to be Qabil. Allah tells us about his story in Surat Al-Ma'idah (The Table spread with Food). Verses 27-31."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

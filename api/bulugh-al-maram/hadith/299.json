@@ -1,0 +1,16 @@
+{
+  "id": 299,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَلَهُمَا عَنْ أَبِي هُرَيْرَةَ: { بِخَمْسٍ وَعِشْرِينَ جُزْءًا }   1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (648)‏، ومسلم (649)‏.‏",
+  "english": {
+    "narrator": "Both al-Bukhari and Muslim have also reported through Abu Hurairah (RA):",
+    "text": "\"Twenty-five degrees (more).\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

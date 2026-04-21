@@ -1,0 +1,16 @@
+{
+  "id": 417,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُبَيْدٍ، عَنْ زُهَيْرِ بْنِ سَالِمٍ الْعَنْسِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ جُبَيْرِ بْنِ نُفَيْرٍ، عَنْ ثَوْبَانَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ فِي كُلِّ سَهْوٍ سَجْدَتَانِ بَعْدَ مَا يُسَلِّمُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Thawban said:",
+    "text": "“I heard the Messenger of Allah\n(ﷺ)\nsay: ‘For every mistake there are two prostrations, after saying\nthe Salam.’”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

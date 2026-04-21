@@ -1,0 +1,16 @@
+{
+  "id": 410,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة، رضي الله عنه، قال‏:‏ قال رسول الله، صلى الله عليه وسلم ‏\n\"‏من خاف أدلج ، ومن أدلج، بلغ المنزل، ألا إن سلعة الله غالية، إلا إن سلعة الله الجنة‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "I heard Messenger of Allah (ﷺ) saying, \"He who is afraid of the pillage of the enemy, sets out in the early part of the night; and he who sets out early, reaches his destination. Be on your guard that the commodity of Allah is precious. Verily the commodity of Allah is Jannah\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

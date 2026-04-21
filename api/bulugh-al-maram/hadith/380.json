@@ -1,0 +1,16 @@
+{
+  "id": 380,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَفِي رِوَايَةٍ لِمُسْلِمٍ: { وَهِيَ سَاعَةٌ خَفِيفَةٌ }   1‏ .‏‏1 ‏- مسلم (852)‏ (15)‏.‏",
+  "english": {
+    "narrator": "A narration of Muslim has:",
+    "text": "\"This time is brief.\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

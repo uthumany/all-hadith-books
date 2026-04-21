@@ -1,0 +1,16 @@
+{
+  "id": 319,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا عُمَرُ بْنُ حَبِيبٍ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، وَسَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ مَنْ أَدْرَكَ مِنَ الْجُمُعَةِ رَكْعَةً فَلْيُصَلِّ إِلَيْهَا أُخْرَى ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated from Abu Hurairah that the Prophet (ﷺ) said:",
+    "text": "“Whoever\ncatches one Rak’ah of Friday, let him add another Rak’ah to\nit.”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

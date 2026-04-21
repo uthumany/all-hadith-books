@@ -1,0 +1,16 @@
+{
+  "id": 311,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، بِهَذَا الإِسْنَادِ\n وَلَمْ يَذْكُرْ قَبْلَ مَوْتِهِ بِشَهْرٍ ‏.‏",
+  "english": {
+    "narrator": "This hadith has been narrated on the authority of Ibn Juraij with the same chain of transmitters, but there is no mention of the words:",
+    "text": "\" one month before his death\"."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

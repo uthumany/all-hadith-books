@@ -1,0 +1,16 @@
+{
+  "id": 251,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَفِي رِوَايَةٍ لَهُمَا : { وَرَكْعَتَيْنِ بَعْدَ اَلْجُمْعَةِ فِي بَيْتِهِ }  .‏  1‏‏1 ‏- صحيح .‏ رواه البخاري ( 937 )‏ ، ومسلم ( 729 )‏ وساقها الحافظ بالمعنى .‏",
+  "english": {
+    "narrator": "Another narration of both (al-Bukhari and Muslim) has:",
+    "text": "'two Rak'at after Jumu'ah prayer in his house.'"
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

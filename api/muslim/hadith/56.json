@@ -1,0 +1,16 @@
+{
+  "id": 56,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي إِبْرَاهِيمُ بْنُ خَالِدٍ الْيَشْكُرِيُّ، قَالَ سَمِعْتُ أَبَا الْوَلِيدِ، يَقُولُ سَمِعْتُ سَلاَّمَ بْنَ أَبِي مُطِيعٍ، يَقُولُ سَمِعْتُ جَابِرًا الْجُعْفِيَّ، يَقُولُ عِنْدِي خَمْسُونَ أَلْفَ حَدِيثٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+  "english": {
+    "narrator": "Ibrāhīm bin Khālid al-Yashkurī narrated to me, he said, I heard Abūl-Walīd saying, I heard Sallām bin Abī Mutī’ saying, I heard Jābir al-Ju’fī saying:",
+    "text": "‘I have fifty thousand Ḥadīth on authority of the Prophet, peace and blessings upon him’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

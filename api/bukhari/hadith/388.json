@@ -1,0 +1,16 @@
+{
+  "id": 388,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ سَأَلَ أَهْلُ مَكَّةَ أَنْ يُرِيَهُمْ آيَةً فَأَرَاهُمُ انْشِقَاقَ الْقَمَرِ‏.‏",
+  "english": {
+    "narrator": "Narrated Anas:",
+    "text": "The people of Mecca asked the Prophet (ﷺ) to show them a sign (miracle). So he showed them (the \nmiracle) of the cleaving of the moon."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

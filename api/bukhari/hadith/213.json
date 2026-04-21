@@ -1,0 +1,16 @@
+{
+  "id": 213,
+  "chapterId": 78,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعْتُ ابْنَ الْمُنْكَدِرِ، قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما وُلِدَ لِرَجُلٍ مِنَّا غُلاَمٌ فَسَمَّاهُ الْقَاسِمَ فَقَالُوا لاَ نَكْنِيكَ بِأَبِي الْقَاسِمِ، وَلاَ نُنْعِمُكَ عَيْنًا‏.‏ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَذَكَرَ ذَلِكَ لَهُ فَقَالَ ‏\n\"‏ أَسْمِ ابْنَكَ عَبْدَ الرَّحْمَنِ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Jabir bin `Abdullah:",
+    "text": "A man among us begot a boy whom he named Al-Qasim. The people said (to him), \"We will not call \nyou Abul-l-Qasim, nor will we please you by calling you so.\" The man came to the Prophet (ﷺ) and \nmentioned that to him. The Prophet (ﷺ) said to him, \"Name your son `Abdur-Rahman.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

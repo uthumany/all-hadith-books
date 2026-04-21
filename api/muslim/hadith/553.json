@@ -1,0 +1,16 @@
+{
+  "id": 553,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا يُوسُفُ بْنُ عِيسَى، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، أَخْبَرَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ صَالِحِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ يَصْبِرُ أَحَدٌ عَلَى لأْوَاءِ الْمَدِينَةِ ‏\"‏ ‏.‏ بِمِثْلِهِ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:",
+    "text": "None who shows endurance on the hardships of Medina,... (the rest of the hadith is the same)."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

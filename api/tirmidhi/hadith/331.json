@@ -1,0 +1,16 @@
+{
+  "id": 331,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا بِشْرُ بْنُ مُعَاذٍ الْعَقَدِيُّ، - بَصْرِيٌّ - قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ بْنِ جُنْدَبٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ سَامٌ أَبُو الْعَرَبِ وَيَافِثُ أَبُو الرُّومِ وَحَامٌ أَبُو الْحَبَشِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏ وَيُقَالُ يَافِثُ وَيَافِتُ وَيَفتُ ‏.‏",
+  "english": {
+    "narrator": "Narrated Samurah bin Jundab:",
+    "text": "that the Messenger of Allah (ﷺ) said: \"Sam was the father of Arabs, Yafith was the father of Romans, and Ham was the father of Ethiopians.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

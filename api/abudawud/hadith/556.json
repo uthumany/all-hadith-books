@@ -1,0 +1,16 @@
+{
+  "id": 556,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي الأَحْوَصِ، - شَيْخٍ مِنْ أَهْلِ الْمَدِينَةِ - أَنَّهُ سَمِعَ أَبَا ذَرٍّ، يَرْوِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا قَامَ أَحَدُكُمْ إِلَى الصَّلاَةِ فَإِنَّ الرَّحْمَةَ تُوَاجِهُهُ فَلاَ يَمْسَحِ الْحَصَى ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuDharr:",
+    "text": "The Prophet (ﷺ) said: When one of you gets up to pray, he must not remove pebbles, for mercy is facing him."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

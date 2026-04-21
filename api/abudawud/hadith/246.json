@@ -1,0 +1,16 @@
+{
+  "id": 246,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ رُؤْيَا الْمُؤْمِنِ جُزْءٌ مِنْ سِتَّةٍ وَأَرْبَعِينَ جُزْءًا مِنَ النُّبُوَّةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "‘Ubadah b. al-Samit reported the Prophet (May peace be upon him) as saying :",
+    "text": "A believer’s vision is the forty-sixth part of Prophecy."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

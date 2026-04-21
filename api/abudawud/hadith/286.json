@@ -1,0 +1,16 @@
+{
+  "id": 286,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ الصَّمَدِ، قَالَ حَدَّثَنِي أَبِي، حَدَّثَنَا حُسَيْنٌ، عَنِ ابْنِ بُرَيْدَةَ، عَنِ ابْنِ عُمَرَ، أَنَّهُ حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ إِذَا أَخَذَ مَضْجَعَهُ ‏\n\"‏ الْحَمْدُ لِلَّهِ الَّذِي كَفَانِي وَآوَانِي وَأَطْعَمَنِي وَسَقَانِي وَالَّذِي مَنَّ عَلَىَّ فَأَفْضَلَ وَالَّذِي أَعْطَانِي فَأَجْزَلَ الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ اللَّهُمَّ رَبَّ كُلِّ شَىْءٍ وَمَلِيكَهُ وَإِلَهَ كُلِّ شَىْءٍ أَعُوذُ بِكَ مِنَ النَّارِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Umar:",
+    "text": "When the Messenger of Allah (ﷺ) went to his bed, he would say: Praise be to Allah Who has given me sufficiency, has guarded me, given me food and drink, been most gracious to me, and given to me most lavishly. Praise be to Allah in every circumstance. O Allah! Lord and King of everything, God of everything, I seek refuge in Thee from Hell."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

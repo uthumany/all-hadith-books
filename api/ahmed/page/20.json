@@ -1,0 +1,510 @@
+{
+  "page": 20,
+  "perPage": 50,
+  "totalPages": 28,
+  "totalCount": 1374,
+  "nextPage": 21,
+  "prevPage": 19,
+  "items": [
+    {
+      "id": 423,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنِي أَبُو إِسْحَاقَ، عَنْ هَانِئِ بْنِ هَانِئٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ أَنَّ عَمَّارًا، اسْتَأْذَنَ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ الطَّيِّبُ الْمُطَيَّبُ‏.‏",
+      "english": {
+        "narrator": "It was narrated from `Ali (رضي الله عنه) that ‘Ammar asked permission to enter upon the Prophet (ﷺ) and he said:",
+        "text": "`The good one, the purified one.”"
+      }
+    },
+    {
+      "id": 424,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَحْيَى يَعْنِي ابْنَ سَعِيدٍ، عَنْ شُعْبَةَ، ح وَحَدَّثَنَا حَجَّاجٌ، أَنْبَأَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، قَالَ يَحْيَى قَالَ حَدَّثَنِي مَنْصُورٌ، عَنْ رِبْعِيٍّ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا تَكْذِبُوا عَلَيَّ فَإِنَّهُ مَنْ يَكْذِبْ عَلَيَّ يَلِجْ النَّارَ قَالَ حَجَّاجٌ قُلْتُ لِشُعْبَةَ هَلْ أَدْرَكَ عَلِيًّا قَالَ نَعَمْ حَدَّثَنِي عَنْ عَلِيٍّ وَلَمْ يَقُلْ سَمِعَ.\nحَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ مَنْصُورٍ عَنْ رِبْعِيِّ بْنِ حِرَاشٍ أَنَّهُ سَمِعَ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ يَخْطُبُ يَقُولُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَكَرَ مِثْلَهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Rib`i said:",
+        "text": "I heard `Ali (رضي الله عنه) say: The Messenger of Allah (ﷺ) said: “Do not tell lies about me, because whoever tells a lie about me will enter Hell.” Hajjaj said: I said to Shu`bah: Did he meet `Ali? He said. Yes; he narrated it to me from ‘Ali. And he did not say he heard it.\n\n\nIt was narrated from Rib’i bin Hirash that he heard `Ali (رضي الله عنه) deliver a khutbah; he said: The Messenger of Allah (ﷺ) said... and he narrated a similar report."
+      }
+    },
+    {
+      "id": 425,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَحْيَى، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي حَسَنُ بْنُ مُسْلِمٍ، وَعَبْدُ الْكَرِيمِ، أَنَّ مُجَاهِدًا، أَخْبَرَهُمَا أَنَّ عَبْدَ الرَّحْمَنِ بْنَ أَبِي لَيْلَى أَخْبَرَهُ أَنَّ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ أَخْبَرَهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَهُ أَنْ يَقُومَ عَلَى بُدْنِهِ وَأَمَرَهُ أَنْ يَقْسِمَ بُدْنَهُ كُلَّهَا لُحُومَهَا وَجُلُودَهَا وَجِلَالَهَا وَلَا يُعْطِيَ فِي جِزَارَتِهَا مِنْهَا شَيْئًا.\nحَدَّثَنَا عَبْدُ الرَّزَّاقِ أَنْبَأَنَا مَعْمَرٌ عَنْ عَبْدِ الْكَرِيمِ فَذَكَرَ الْحَدِيثَ وَقَالَ نَحْنُ نُعْطِيهِ مِنْ عِنْدِنَا الْأَجْرَ‏.‏",
+      "english": {
+        "narrator": "`Abdur-Rahman bin Abi Laila narrated that ‘Ali (رضي الله عنه) told him that the Prophet (ﷺ) told him to be in charge of the sacrificial  animals, and he instructed him to distribute all of his sacrifice; its meat, its skin and its blankets, and not to give the butcher any of it.\n\n\nIt was narrated from `Abdul-Kareem - and he narrated the same hadeeth. And he said:",
+        "text": "We will pay his wages ourselves"
+      }
+    },
+    {
+      "id": 426,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَحْيَى، عَنِ ابْنِ عَجْلَانَ، حَدَّثَنِي إِبْرَاهِيمُ بْنُ عَبْدِ اللَّهِ بْنِ حُنَيْنٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ نَهَانِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ خَاتَمِ الذَّهَبِ وَأَنْ أَقْرَأَ وَأَنَا رَاكِعٌ وَعَنْ الْقَسِّيِّ وَالْمُعَصْفَرِ‏.‏",
+      "english": {
+        "narrator": "It was narrated that `Ali (رضي الله عنه) said:",
+        "text": "The Messenger of Allah (ﷺ) forbade me to wear gold rings, to recite Qur`an whilst bowing, and (to wear) a blend of linen and silk or clothes dyed with safflower."
+      }
+    },
+    {
+      "id": 427,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنِي شُعْبَةُ، عَنْ عَبْدِ الْمَلِكِ بْنِ مَيْسَرَةَ، عَنِ النَّزَّالِ بْنِ سَبْرَةَ، أَنَّ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ لَمَّا صَلَّى الظُّهْرَ دَعَا بِكُوزٍ مِنْ مَاءٍ فِي الرَّحَبَةِ فَشَرِبَ وَهُوَ قَائِمٌ ثُمَّ قَالَ إِنَّ رِجَالًا يَكْرَهُونَ هَذَا وَإِنِّي رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَعَلَ كَالَّذِي رَأَيْتُمُونِي فَعَلْتُ ثُمَّ تَمَسَّحَ بِفَضْلِهِ وَقَالَ هَذَا وُضُوءُ مَنْ لَمْ يُحْدِثْ‏.‏",
+      "english": {
+        "narrator": "It was narrated from an-Nazzal bin Sabrah that When ‘Ali (رضي الله عنه) prayed Zuhr, he called for a vessel of water in ar-Rahbah and drank whilst standing. Then he said:",
+        "text": "Some men dislike this, but I saw the Messenger of Allah (ﷺ) do what you have seen me do. Then he wiped himself with what was left over and said: This is the wudoo’ of one who has not broken his wudoo’."
+      }
+    },
+    {
+      "id": 428,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنْ مُحَمَّدِ ابْنِ الْحَنَفِيَّةِ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِفْتَاحُ الصَّلَاةِ الطُّهُورُ وَتَحْرِيمُهَا التَّكْبِيرُ وَتَحْلِيلُهَا التَّسْلِيمُ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Muhammad Ibn al-Hanafiyyah that his father said:",
+        "text": "The Messenger of Allah (ﷺ) said: “The key to prayer is purification; entering it is takbeer and exiting it is tasleem.”"
+      }
+    },
+    {
+      "id": 429,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْحَسَنُ بْنُ عُقْبَةَ أَبُو كِبْرَانَ الْمُرَادِيُّ، سَمِعْتُ عَبْدَ خَيْرٍ، يَقُولُ قَالَ عَلِيٌّ أَلَا أُرِيكُمْ وُضُوءَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ تَوَضَّأَ ثَلَاثًا ثَلَاثًا‏.‏",
+      "english": {
+        "narrator": "Al-Hasan bin `Uqbah Abu Kibran al-Muradi told us:",
+        "text": "I heard `Abd Khair say: `Ali said: Shall I not show you the wudoo’ of the Messenger of Allah (ﷺ) Then he did wudoo’ washing each part three times."
+      }
+    },
+    {
+      "id": 430,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا مُسْهِرُ بْنُ عَبْدِ الْمَلِكِ بْنِ سَلْعٍ، حَدَّثَنَا أَبِي عَبْدُ الْمَلِكِ بْنُ سَلْعٍ، قَالَ كَانَ عَبْدُ خَيْرٍ يَؤُمُّنَا فِي الْفَجْرِ فَقَالَ صَلَّيْنَا يَوْمًا الْفَجْرَ خَلْفَ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ فَلَمَّا سَلَّمَ قَامَ وَقُمْنَا مَعَهُ فَجَاءَ يَمْشِي حَتَّى انْتَهَى إِلَى الرَّحَبَةِ فَجَلَسَ وَأَسْنَدَ ظَهْرَهُ إِلَى الْحَائِطِ ثُمَّ رَفَعَ رَأْسَهُ فَقَالَ يَا قَنْبَرُ ائْتِنِي بِالرَّكْوَةِ وَالطَّسْتِ ثُمَّ قَالَ لَهُ صُبَّ فَصَبَّ عَلَيْهِ فَغَسَلَ كَفَّهُ ثَلَاثًا وَأَدْخَلَ كَفَّهُ الْيُمْنَى فَمَضْمَضَ وَاسْتَنْشَقَ ثَلَاثًا ثُمَّ أَدْخَلَ كَفَّيْهِ فَغَسَلَ وَجْهَهُ ثَلَاثًا ثُمَّ أَدْخَلَ كَفَّهُ الْيُمْنَى فَغَسَلَ ذِرَاعَهُ الْأَيْمَنَ ثَلَاثًا ثُمَّ غَسَلَ ذِرَاعَهُ الْأَيْسَرَ ثَلَاثًا فَقَالَ هَذَا وُضُوءُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ‏.‏",
+      "english": {
+        "narrator": "`Abdul-Malik bin Sal` said:",
+        "text": "‘Abd Khair used to lead us in Fajr prayer, and he said: One day we Prayed Fajr behind `Ali (رضي الله عنه) and when he said the salam he got up and we got up with him. Then he walked until he reached ar-Rahbah where he sat down and leaned his back against the wall. Then he raised his head and said: O Qanbar, bring me the scoop and the big vessel. Then he said to him: Pour (the water). So he poured water for him. He washed his hands three times, then he put his right hand in the vessel and rinsed his mouth and nose three times. Then he put his hand in the vessel and washed his face three times, Then he put his right hand in the vessel and washed his right arm three times, then he washed his left arm three times, And he said: This is the wudoo’ of the Messenger of Allah (ﷺ)."
+      }
+    },
+    {
+      "id": 431,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، قَالَ قَالَ عَلِيٌّ كُنْتُ رَجُلًا مَذَّاءً وَكُنْتُ أَسْتَحِي أَنْ أَسْأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِمَكَانِ ابْنَتِهِ فَأَمَرْتُ الْمِقْدَادَ فَسَأَلَهُ فَقَالَ يَغْسِلُ ذَكَرَهُ وَأُنْثَيَيْهِ وَيَتَوَضَّأُ‏.‏",
+      "english": {
+        "narrator": "‘Ali said:",
+        "text": "I was a man who emitted a great deal of madhi and I felt too shy to ask the Prophet (ﷺ)  because of his daughter, so I told al-Miqdad to ask him and he said: `Let him wash his private part and testicles and do wudoo’."
+      }
+    },
+    {
+      "id": 432,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْأَعْمَشُ، عَنْ مُنْذِرٍ أَبِي يَعْلَى، عَنْ ابْنِ الْحَنَفِيَّةِ، أَنَّ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ أَمَرَ الْمِقْدَادَ فَسَأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الْمَذْيِ فَقَالَ يَتَوَضَّأُ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn al-Hanafiyyah that `Ali (رضي الله عنه) told al-Miqdad to ask the Prophet (ﷺ) about madhi and he said:",
+        "text": "`Let him do wudoo`.`"
+      }
+    },
+    {
+      "id": 433,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، عَنْ شُعْبَةَ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَلِمَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْضِي الْحَاجَةَ فَيَأْكُلُ مَعَنَا اللَّحْمَ وَيَقْرَأُ الْقُرْآنَ وَلَمْ يَكُنْ يَحْجِزُهُ أَوْ يَحْجُبُهُ إِلَّا الْجَنَابَةُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "The Messenger of Allah (ﷺ) would relieve himself, then eat meat with us and recite Qur`an, and nothing stopped him or prevented him (from reciting Qur`an) except janabah."
+      }
+    },
+    {
+      "id": 434,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، وَعَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي عَلَى كُلِّ أَثَرِ صَلَاةٍ مَكْتُوبَةٍ رَكْعَتَيْنِ إِلَّا الْفَجْرَ وَالْعَصْرَ وَقَالَ عَبْدُ الرَّحْمَنِ فِي دُبُرِ كُلِّ صَلَاةٍ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "The Messenger of Allah (ﷺ) used to pray two rak`ahs following every prescribed prayer except Fajr and ‘Asr. ‘Abdur-Rahman said: after every prayer."
+      }
+    },
+    {
+      "id": 435,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، وَأَبُو خَيْثَمَةَ قَالَا حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْأَعْمَشُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَبْدِ خَيْرٍ، عَنْ عَلِيٍّ، قَالَ كُنْتُ أَرَى أَنَّ بَاطِنَ، الْقَدَمَيْنِ أَحَقُّ بِالْمَسْحِ مِنْ ظَاهِرِهِمَا حَتَّى رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَمْسَحُ ظَاهِرَهُمَا‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "I used to think that the bottoms of the feet were more deserving of being wiped than the tops, until I saw the Messenger of Allah (ﷺ) wiping their tops."
+      }
+    },
+    {
+      "id": 436,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي السَّوْدَاءِ، عَنْ ابْنِ عَبْدِ خَيْرٍ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ تَوَضَّأَ فَغَسَلَ ظُهُورَ قَدَمَيْهِ وَقَالَ لَوْلَا أَنِّي رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَغْسِلُ ظُهُورَ قَدَمَيْهِ لَظَنَنْتُ أَنَّ بُطُونَهُمَا أَحَقُّ بِالْغَسْلِ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn ‘Abd Khair that his father said:",
+        "text": "I saw ‘Ali (رضي الله عنه) doing wudoo’. He washed the tops of his feet and said: Were it not that I saw the Messenger of Allah (ﷺ) washing the tops of his feet I would have thought that the bottoms of the feet were more deserving of being washed."
+      }
+    },
+    {
+      "id": 437,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا إِسْحَاقُ، حَدَّثَنَا سُفْيَانُ، مَرَّةً أُخْرَى قَالَ رَأَيْتُ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ تَوَضَّأَ فَمَسَحَ ظُهُورَهُمَا‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "On another occasion, Sufyan told us. I saw `Ali (رضي الله عنه) doing wudoo’, and he wiped the top of them ."
+      }
+    },
+    {
+      "id": 438,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْحَسَنُ بْنُ عُقْبَةَ أَبُو كِبْرَانَ، عَنْ عَبْدِ خَيْرٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ يَعْنِي هَذَا وُضُوءُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ تَوَضَّأَ ثَلَاثًا‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "This is the wudoo’ of the Messenger of Allah (ﷺ), then he did wudoo’ washing each part three times."
+      }
+    },
+    {
+      "id": 439,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ عَبْدِ اللَّهِ بْنِ شَدَّادٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ مَا سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُفَدِّي أَحَدًا بِأَبَوَيْهِ إِلَّا سَعْدَ بْنَ مَالِكٍ فَإِنِّي سَمِعْتُهُ يَقُولُ لَهُ يَوْمَ أُحُدٍ ارْمِ سَعْدُ فِدَاكَ أَبِي وَأُمِّي‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "I never heard the Messenger of Allah (ﷺ) say `May my father and mother be sacrificed for you.` to anyone except Sa`d bin Malik, I heard him say to him on the day of Uhud. “Shoot, Sa`d, may my father and mother be sacrificed for you!`"
+      }
+    },
+    {
+      "id": 440,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْأَعْمَشُ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ بَعَثَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَرِيَّةً وَأَمَّرَ عَلَيْهِمْ رَجُلًا مِنْ الْأَنْصَارِ وَأَمَرَهُمْ أَنْ يَسْمَعُوا لَهُ وَيُطِيعُوا قَالَ فَأَغْضَبُوهُ فِي شَيْءٍ فَقَالَ اجْمَعُوا لِي حَطَبًا فَجَمَعُوا حَطَبًا ثُمَّ قَالَ أَوْقِدُوا نَارًا فَأَوْقَدُوا لَهُ نَارًا فَقَالَ أَلَمْ يَأْمُرْكُمْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ تَسْمَعُوا لِي وَتُطِيعُوا قَالُوا بَلَى قَالَ فَادْخُلُوهَا قَالَ فَنَظَرَ بَعْضُهُمْ إِلَى بَعْضٍ فَقَالُوا إِنَّمَا فَرَرْنَا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ أَجْلِ النَّارِ فَكَانُوا كَذَلِكَ إِذْ سَكَنَ غَضَبُهُ وَطَفِئَتْ النَّارُ قَالَ فَلَمَّا قَدِمُوا عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَكَرُوا ذَلِكَ لَهُ فَقَالَ لَوْ دَخَلُوهَا مَا خَرَجُوا مِنْهَا إِنَّمَا الطَّاعَةُ فِي الْمَعْرُوفِ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "The Prophet (ﷺ) sent out an expedition and appointed over them a man of the Ansar, and commanded them to listen to him and obey. They made him angry about something, so he said: Gather firewood for me. So they gathered firewood, then he said: Light a fire. So they lit a fire, then he said: Didn`t the Messenger of Allah (ﷺ) command you to listen to me and obey? They said: Yes indeed. He said: Then enter it (the fire). They looked at one another and said: We only fled to the Messenger of Allah (ﷺ) because of the Fire. They continued talking until his anger dissipated and the fire went out. When they came to the Prophet (ﷺ) they told him about that and he said: “If they had entered it they would never have come out of it, obedience is only in that which is right and proper.`"
+      }
+    },
+    {
+      "id": 441,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، وَعَبْدُ الرَّزَّاقِ، أَنْبَأَنَا سُفْيَانُ، عَنْ عَاصِمٍ يَعْنِي ابْنَ كُلَيْبٍ، عَنْ أَبِي بُرْدَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ نَهَانِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ أَجْعَلَ الْخَاتَمَ فِي هَذِهِ أَوْ فِي هَذِهِ قَالَ عَبْدُ الرَّزَّاقِ لِأُصْبُعَيْهِ السَّبَّابَةِ وَالْوُسْطَى‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "The Messenger of Allah (ﷺ) forbade me to wear a ring on this or this, `Abdur-Razzaq said: meaning his forefinger and middle finger."
+      }
+    },
+    {
+      "id": 442,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ أَبِي هَاشِمٍ الْقَاسِمِ بْنِ كَثِيرٍ، عَنْ قَيْسٍ الْخَارِفِيِّ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ سَبَقَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَصَلَّى أَبُو بَكْرٍ وَثَلَّثَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ ثُمَّ خَبَطَتْنَا أَوْ أَصَابَتْنَا فِتْنَةٌ فَمَا شَاءَ اللَّهُ جَلَّ جَلَالُهُ قَالَ أَبُو عَبْد الرَّحْمَنِ قَالَ أَبِي قَوْلُهُ ثُمَّ خَبَطَتْنَا فِتْنَةٌ أَرَادَ أَنْ يَتَوَاضَعَ بِذَلِكَ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Qais al-Kharifi said:",
+        "text": "I heard ‘Ali (رضي الله عنه) say: The Messenger of Allah (ﷺ) came first, followed by Abu Bakr, and the third one was ‘Umar (رضي الله عنهما). Then turmoil (fitnah) struck us, and that is what Allah, may He be glorified and exalted, willed. Abu ‘Abdur-Rahman said; My father said regarding the words, then turmoil (fitnah) struck us. He  was showing modesty thereby."
+      }
+    },
+    {
+      "id": 443,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، وَشُعْبَةَ، وَحَمَّادِ بْنِ سَلَمَةَ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ حُجَيَّةَ بْنِ عَدِيٍّ، أَنَّ رَجُلًا، سَأَلَ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ عَنْ الْبَقَرَةِ فَقَالَ عَنْ سَبْعَةٍ قَالَ الْقَرَنُ قَالَ لَا يَضُرُّكَ قَالَ فَالْعَرْجَاءُ قَالَ إِذَا بَلَغَتْ الْمَنْسَكَ قَالَ وَأَمَرَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ نَسْتَشْرِفَ الْعَيْنَ وَالْأُذُنَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ سَلَمَةَ بْنِ كُهَيْلٍ قَالَ سَمِعْتُ حُجَيَّةَ بْنَ عَدِيٍّ قَالَ سَمِعْتُ عَلِيَّ بْنَ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ وَسَأَلَهُ رَجُلٌ فَذَكَرَ الْحَدِيثَ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Hujayyah bin ‘Adiyy that A man asked `Ali (رضي الله عنه) about  a cow. He said:",
+        "text": ". He said: The Messenger of Allah (ﷺ)  commanded us to check the eyes and ears.\n\n\nIt was narrated that Salamah bin Kuhail said: l heard Hujayyah bin `Adiyy say: I heard `Ali bin Abi Talib (رضي الله عنه) when a man asked him... and he narrated the same hadeeth."
+      }
+    },
+    {
+      "id": 444,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ شُعْبَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ حَارِثَةَ بْنِ مُضَرِّبٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ مَا كَانَ فِينَا فَارِسٌ يَوْمَ بَدْرٍ غَيْرُ الْمِقْدَادِ وَلَقَدْ رَأَيْتُنَا وَمَا فِينَا إِلَّا نَائِمٌ إِلَّا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَحْتَ شَجَرَةٍ يُصَلِّي وَيَبْكِي حَتَّى أَصْبَحَ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "There were no horsemen among us on the day of Badr apart from al-Miqdad. I could not see any of us who was not asleep, apart from the Messenger of Allah      (ﷺ) who remained praying beneath a tree and weeping until morning."
+      }
+    },
+    {
+      "id": 445,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ أَبِي حَصِينٍ، عَنْ عُمَيْرِ بْنِ سَعِيدٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ مَا مِنْ رَجُلٍ أَقَمْتُ عَلَيْهِ حَدًّا فَمَاتَ فَأَجِدُ فِي نَفْسِي إِلَّا الْخَمْرَ فَإِنَّهُ لَوْ مَاتَ لَوَدَيْتُهُ لِأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمْ يَسُنَّهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "If I carried out the hadd punishment on a man and he died, I would not feel upset, except in the case of khamr; if (such a man) died, I would pay the diyah (to his family) because the Messenger of Allah (ﷺ) did not prescribe it (did not specify a particular number of lashes)."
+      }
+    },
+    {
+      "id": 446,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي حَيَّةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَتَوَضَّأُ ثَلَاثًا‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was narrated from `Ali (رضي الله عنه) that The Messenger of Allah (ﷺ) used to do wudoo’ washing each part three times."
+      }
+    },
+    {
+      "id": 447,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ زَائِدَةَ بْنِ قُدَامَةَ، عَنْ أَبِي حَصِينٍ الْأَسَدِيِّ، وَابْنُ أَبِي بُكَيْرٍ، حَدَّثَنَا زَائِدَةُ، أَنْبَأَنَا أَبُو حَصِينٍ الْأَسَدِيُّ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كُنْتُ رَجُلًا مَذَّاءً وَكَانَتْ تَحْتِي ابْنَةُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَمَرْتُ رَجُلًا فَسَأَلَهُ فَقَالَ تَوَضَّأْ وَاغْسِلْهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "I was a man who emitted a great deal of madhi and the daughter of the Messenger of Allah (ﷺ) was married to me, so I told a man to ask him  and he said: `Do wudoo’ and wash it off.”"
+      }
+    },
+    {
+      "id": 448,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ الْوَرَكَانِيُّ، أَنْبَأَنَا شَرِيكٌ، عَنْ خَالِدِ بْنِ عَلْقَمَةَ، عَنْ عَبْدِ خَيْرٍ، قَالَ صَلَّيْنَا الْغَدَاةَ فَأَتَيْنَاهُ فَجَلَسْنَا إِلَيْهِ فَدَعَا بِوَضُوءٍ فَأُتِيَ بِرَكْوَةٍ فِيهَا مَاءٌ وَطَسْتٍ قَالَ فَأَفْرَغَ الرَّكْوَةَ عَلَى يَدِهِ الْيُمْنَى فَغَسَلَ يَدَيْهِ ثَلَاثًا وَتَمَضْمَضَ ثَلَاثًا وَاسْتَنْثَرَ ثَلَاثًا بِكَفٍّ كَفٍّ ثُمَّ غَسَلَ وَجْهَهُ ثَلَاثًا وَذِرَاعَيْهِ ثَلَاثًا ثَلَاثًا ثُمَّ وَضَعَ يَدَهُ فِي الرَّكْوَةِ فَمَسَحَ بِهَا رَأْسَهُ بِكَفَّيْهِ جَمِيعًا مَرَّةً وَاحِدَةً ثُمَّ غَسَلَ رِجْلَيْهِ ثَقَابًا ثَلَاثًا ثُمَّ قَالَ هَذَا وُضُوءُ نَبِيِّكُمْ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَاعْلَمُوهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Abd Khair said:",
+        "text": "We prayed fajr then we went to him  and sat with him. He called for (water) for wudoo’ and a small vessel of water and a large vessel were brought. He emptied the small vessel into his right hand and washed his hands three times, rinsed his mouth three times and rinsed his nose three times, using one handful of water each time. Then he washed his face three times and his forearms three times each. Then he put his hand in the small vessel and wiped his head with both hands together once. Then he washed his feet three times each. Then he said: This is the wudoo` of your Prophet (ﷺ), so learn it"
+      }
+    },
+    {
+      "id": 449,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا زَائِدَةُ، عَنْ الرُّكَيْنِ بْنِ الرَّبِيعِ، عَنْ حُصَيْنِ بْنِ قَبِيصَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كُنْتُ رَجُلًا مَذَّاءً فَسَأَلْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ إِذَا رَأَيْتَ الْمَذْيَ فَتَوَضَّأْ وَاغْسِلْ ذَكَرَكَ وَإِذَا رَأَيْتَ فَضْخَ الْمَاءِ فَاغْتَسِلْ فَذَكَرْتُهُ لِسُفْيَانَ فَقَالَ قَدْ سَمِعْتُهُ مِنْ رُكَيْنٍ.\nحَدَّثَنَا مُعَاوِيَةُ وَابْنُ أَبِي بُكَيْرٍ قَالَا حَدَّثَنَا زَائِدَةُ حَدَّثَنَا الرُّكَيْنُ بْنُ الرَّبِيعِ بْنِ عَمِيلَةَ الْفَزَارِيُّ فَذَكَرَ مِثْلَهُ وَقَالَا فَضْخَ الْمَاءِ وَحَدَّثَنَا ابْنُ أَبِي بُكَيْرٍ حَدَّثَنَا زَائِدَةُ وَقَالَ فَضْخَ أَيْضًا‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "I was a man who emitted a great deal of madhi, so I asked the Prophet (ﷺ) and he said: “If you see madhi then do wudoo’ and wash your private part, and if you see water gushing then do ghusl.` I  mentioned that to Sufyan and he said: I heard that from Rukain.\n\n\nMu`awiyah and ibn Abi Bukair told us: Za`idah told us: ar-Rukain bin ar-Rabee bin ‘Ameelah al-Fazari told us... And he mentioned a similar report, and they said: water gushing. And Ibn Abu Bukair told us: Za`idah told us, and he also said, gushing."
+      }
+    },
+    {
+      "id": 450,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي وَهْبُ بْنُ بَقِيَّةَ، أَنْبَأَنَا خَالِدٌ، عَنْ عَطَاءٍ يَعْنِي ابْنَ السَّائِبِ، عَنْ عَبْدِ خَيْرٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ أَلَا أُخْبِرُكُمْ بِخَيْرِ، هَذِهِ الْأُمَّةِ بَعْدَ نَبِيِّهَا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَبُو بَكْرٍ ثُمَّ خَيْرُهَا بَعْدَ أَبِي بَكْرٍ عُمَرُ رَضِيَ اللَّهُ عَنْهُ ثُمَّ يَجْعَلُ اللَّهُ الْخَيْرَ حَيْثُ أَحَبَّ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "Shall I not tell you of the best of this ummah after its Prophet (ﷺ)?  Abu Bakr, then the best of it after Abu Bakr is ‘Umar (رضي الله عنهما), then Allah puts goodness wherever He wills."
+      }
+    },
+    {
+      "id": 451,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي أَبُو بَحْرٍ عَبْدُ الْوَاحِدِ الْبَصْرِيُّ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ خَالِدِ بْنِ عَلْقَمَةَ، عَنْ عَبْدِ خَيْرٍ، قَالَ قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ لَمَّا فَرَغَ مِنْ أَهْلِ الْبَصْرَةِ إِنَّ خَيْرَ هَذِهِ الْأُمَّةِ بَعْدَ نَبِيِّهَا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَبُو بَكْرٍ وَبَعْدَ أَبِي بَكْرٍ عُمَرُ وَأَحْدَثْنَا أَحْدَاثًا يَصْنَعُ اللَّهُ فِيهَا مَا شَاءَ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Abd Khair said:",
+        "text": "‘Ali (رضي الله عنه) said, when he finished with the people of Basrah: The best of this ummah after its Prophet is Abu Bakr, and after Abu Bakr it is ‘Umar                    (رضي الله عنهما), then we got involved in matters which Allah will judge as He wills."
+      }
+    },
+    {
+      "id": 452,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي وَهْبُ بْنُ بَقِيَّةَ الْوَاسِطِيُّ، أَنْبَأَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنْ حُصَيْنٍ، عَنِ الْمُسَيَّبِ بْنِ عَبْدِ خَيْرٍ، عَنْ أَبِيهِ، قَالَ قَامَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ فَقَالَ خَيْرُ هَذِهِ الْأُمَّةِ بَعْدَ نَبِيِّهَا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَبُو بَكْرٍ وَعُمَرُ وَإِنَّا قَدْ أَحْدَثْنَا بَعْدُ أَحْدَاثًا يَقْضِي اللَّهُ فِيهَا مَا شَاءَ‏.‏",
+      "english": {
+        "narrator": "It was narrated from al-Musayyab bin `Abd Khair, that his father said:",
+        "text": "`Ali (رضي الله عنه) stood up and said: The best of this ummah; after its Prophet      (ﷺ) is Abu Bakr, and ‘Umar, then we got involved in matters which Allah will judge as He wills."
+      }
+    },
+    {
+      "id": 453,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ هَانِئِ بْنِ هَانِئٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ جَاءَ عَمَّارٌ يَسْتَأْذِنُ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ ائْذَنُوا لَهُ مَرْحَبًا بِالطَّيِّبِ الْمُطَيَّبِ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "`Ammar came and asked permission to enter upon the Prophet (ﷺ) and he said: `Let him in; welcome to the good one, the purified one.”"
+      }
+    },
+    {
+      "id": 454,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ ذِي، حُدَّانَ حَدَّثَنِي مَنْ، سَمِعَ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ سَمَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْحَرْبَ خَدْعَةً‏.‏",
+      "english": {
+        "narrator": "It was narrated from Sa’eed bin Dhi Huddan:",
+        "text": "Someone who heard ‘Ali (رضي الله عنه) told me that he said: The Messenger of Allah (ﷺ) called war deceit."
+      }
+    },
+    {
+      "id": 455,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ هِشَامٍ، أَخْبَرَنِي أَبِي أَنَّ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ قَالَ لِلْمِقْدَادِ سَلْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الرَّجُلِ يَدْنُو مِنْ الْمَرْأَةِ فَيُمْذِي فَإِنِّي أَسْتَحْيِي مِنْهُ لِأَنَّ ابْنَتَهُ عِنْدِي فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَغْسِلُ ذَكَرَهُ وَأُنْثَيَيْهِ وَيَتَوَضَّأُ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Hisham:",
+        "text": "My father told me that `Ali (رضي الله عنه) said to al-Miqdad: Ask the Messenger of Allah (ﷺ) about a man who gets close to a woman and emits madhi, for I am too shy to ask him because his daughter is married to me. The Messenger of Allah (ﷺ) said: “Let him wash his private part and testicles, and do wudoo`."
+      }
+    },
+    {
+      "id": 456,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنِ الْأَعْمَشِ، عَنِ أَبِي الضُّحَى، عَنْ شُتَيْرِ بْنِ شَكَلٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ شَغَلُونَا يَوْمَ الْأَحْزَابِ عَنْ صَلَاةِ الْعَصْرِ حَتَّى سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ شَغَلُونَا عَنْ صَلَاةِ الْوُسْطَى صَلَاةِ الْعَصْرِ مَلَأَ اللَّهُ قُبُورَهُمْ وَبُيُوتَهُمْ أَوْ أَجْوَافَهُمْ نَارًا‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "They distracted us on the day of al-Ahzab from `Asr prayer, until I heard the Messenger of Allah (ﷺ) say: `They distracted us from the middle prayer, ‘Asr prayer. May Allah fill their graves and houses or stomachs with fire.”"
+      }
+    },
+    {
+      "id": 457,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنِ الْأَعْمَشِ، عَنْ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ أَبِيهِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ مَا عِنْدَنَا شَيْءٌ إِلَّا كِتَابَ اللَّهِ تَعَالَى وَهَذِهِ الصَّحِيفَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَدِينَةُ حَرَامٌ مَا بَيْنَ عَائِرٍ إِلَى ثَوْرٍ مَنْ أَحْدَثَ فِيهَا حَدَثًا أَوْ آوَى مُحْدِثًا فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلَائِكَةِ وَالنَّاسِ أَجْمَعِينَ لَا يُقْبَلُ مِنْهُ عَدْلٌ وَلَا صَرْفٌ وَقَالَ ذِمَّةُ الْمُسْلِمِينَ وَاحِدَةٌ فَمَنْ أَخْفَرَ مُسْلِمًا فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلَائِكَةِ وَالنَّاسِ أَجْمَعِينَ لَا يُقْبَلُ مِنْهُ صَرْفٌ وَلَا عَدْلٌ وَمَنْ تَوَلَّى قَوْمًا بِغَيْرِ إِذْنِ مَوَالِيهِ فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلَائِكَةِ وَالنَّاسِ أَجْمَعِينَ لَا يَقْبَلُ اللَّهُ مِنْهُ صَرْفًا وَلَا عَدْلًا‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "We have nothing except the Book of Allah, may He be exalted, and this document from the Prophet (ﷺ). Madinah is a sanctuary from `A`ir to Thawr; whoever commits an offence in it or gives refuge to an offender, may the curse of Allah, the angels and all the people be upon him and no obligatory or nafl act of worship will be accepted from him.` And he said: `Protection given by any Muslim is binding upon all of them. Whoever transgresses protection given by a Muslim, upon him be the curse of Allah, the angels and all the people, and Allah will not accept from him any nafl or obligatory act of worship. Whoever takes people as mawla without the permission of the ones who set him free, upon him be the curse of Allah, the angels and all the people, and Allah will not accept from him any nafl or obligatory act of worship.”"
+      }
+    },
+    {
+      "id": 458,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنِ الْأَعْمَشِ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ مَا لِي أَرَاكَ تَنَوَّقُ فِي قُرَيْشٍ وَتَدَعُنَا أَنْ تَزَوَّجَ إِلَيْنَا قَالَ وَعِنْدَكَ شَيْءٌ قَالَ قُلْتُ ابْنَةُ حَمْزَةَ قَالَ إِنَّهَا ابْنَةُ أَخِي مِنْ الرَّضَاعَةِ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "I said: O Messenger of Allah, why do I see you marrying from Quraish and you do not marry from among us? He said: “Do you have someone?` I said: The daughter of Hamzah. He said: `She is the daughter of my brother through breastfeeding.”"
+      }
+    },
+    {
+      "id": 459,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ أَبِي الْبَخْتَرِيِّ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، قَالَ قَالَ عَلِيٌّ إِذَا حَدَّثْتُكُمْ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَدِيثًا فَظُنُّوا بِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَهْيَاهُ وَأَهْدَاهُ وَأَتْقَاهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu `Abdur-Rahman as-Sulami said:",
+        "text": "`Ali said: If I tell you a hadeeth from the Messenger of Allah (ﷺ), then think of the Messenger of Allah (ﷺ) in the best, the most guided and the most pious manner."
+      }
+    },
+    {
+      "id": 460,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، وَشُعْبَةَ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ عَبْدِ خَيْرٍ، عَنْ عَلِيٍّ، أَنَّهُ قَالَ أَلَا أُنَبِّئُكُمْ بِخَيْرِ هَذِهِ الْأُمَّةِ بَعْدَ نَبِيِّهَا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَبُو بَكْرٍ ثُمَّ عُمَرُ‏.‏",
+      "english": {
+        "narrator": "It was narrated from `Ali (رضي الله عنه) that he said:",
+        "text": "Shall I not tell you of the best of this ummah after its Prophet (ﷺ)?  Abu Bakr, then ʻUmar (رضي الله عنهما)."
+      }
+    },
+    {
+      "id": 461,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُطَّلِبُ بْنُ زِيَادٍ، عَنِ السُّدِّيِّ، عَنْ عَبْدِ خَيْرٍ، عَنْ عَلِيٍّ، فِي قَوْلِهِ ‏{‏إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ‏}‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمُنْذِرُ وَالْهَادِ رَجُلٌ مِنْ بَنِي هَاشِمٍ‏.‏",
+      "english": {
+        "narrator": "It was narrated from ‘Ali concerning the verse “You are only a warner, and to every people there is a guide` :",
+        "text": "The Messenger of Allah (ﷺ) said: “The warner and the guide is a man from Banu Hashim.`"
+      }
+    },
+    {
+      "id": 462,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنْ حَارِثَةَ بْنِ مُضَرِّبٍ، عَنْ عَلِيٍّ، قَالَ لَمَّا حَضَرَ الْبَأْسُ يَوْمَ بَدْرٍ اتَّقَيْنَا بِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَكَانَ مِنْ أَشَدِّ النَّاسِ مَا كَانَ أَوْ لَمْ يَكُنْ أَحَدٌ أَقْرَبَ إِلَى الْمُشْرِكِينَ مِنْهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "When the fighting grew intense on the day of Badr, we sought shelter by drawing close to the Messenger of Allah (ﷺ), who was one of the strongest of the people, and no one was closer to the mushrikeen than him."
+      }
+    },
+    {
+      "id": 463,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "قَالَ قَرَأْتُ عَلَى عَبْدِ الرَّحْمَنِ عَنْ مَالِكٍ، عَنْ نَافِعٍ، وَحَدَّثَنَا إِسْحَاقُ يَعْنِي ابْنَ عِيسَى، أَخْبَرَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ حُنَيْنٍ، قَالَ إِسْحَاقُ عَنْ أَبِيهِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ لُبْسِ الْقَسِّيِّ وَالْمُعَصْفَرِ وَعَنْ تَخَتُّمِ الذَّهَبِ وَعَنْ قِرَاءَةِ الْقُرْآنِ فِي الرُّكُوعِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was narrated from `Ali bin Abi Talib (رضي الله عنه) that The Messenger of Allah (ﷺ) forbade garments made from a blend of linen and silk, or garments dyed with safflower, wearing gold rings and reciting Qur`an whilst bowing."
+      }
+    },
+    {
+      "id": 464,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي أَبِي وَأَبُو خَيْثَمَةَ قَالَا حَدَّثَنَا إِسْمَاعِيلُ، أَنْبَأَنَا أَيُّوبُ، عَنْ نَافِعٍ، عَنْ إِبْرَاهِيمَ بْنِ فُلَانِ بْنِ حُنَيْنٍ، عَنْ جَدِّهِ عَبْدِ اللَّهِ بْنِ حُنَيْنٍ، قَالَ قَالَ عَلِيٌّ نَهَانِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ لُبْسِ الْمُعَصْفَرِ وَعَنْ الْقَسِّيِّ وَعَنْ خَاتَمِ الذَّهَبِ وَعَنْ الْقِرَاءَةِ فِي الرُّكُوعِ قَالَ أَيُّوبُ أَوْ قَالَ أَنْ أَقْرَأَ وَأَنَا رَاكِعٌ قَالَ أَبُو خَيْثَمَةَ فِي حَدِيثِهِ حُدِّثْتُ أَنَّ إِسْمَاعِيلَ رَجَعَ عَنْ جَدِّهِ حُنَيْنٍ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibraheem bin Fulan bin Hunain, that his grandfather Hunain said:",
+        "text": "‘Ali said: The Messenger of Allah (ﷺ) forbade me to wear garments dyed with safflower, or garments made from a blend of linen and silk, or gold rings, and reciting Qur`an whilst bowing."
+      }
+    },
+    {
+      "id": 465,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ سَعِيدٍ، عَنْ رَجُلٍ، عَنْ الْحَكَمِ بْنِ عُتَيْبَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَلِيٍّ، أَنَّهُ قَالَ أَمَرَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ أَبِيعَ غُلَامَيْنِ أَخَوَيْنِ فَبِعْتُهُمَا فَفَرَّقْتُ بَيْنَهُمَا فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ أَدْرِكْهُمَا فَارْتَجِعْهُمَا وَلَا تَبِعْهُمَا إِلَّا جَمِيعًا وَلَا تُفَرِّقْ بَيْنَهُمَا‏.‏",
+      "english": {
+        "narrator": "It was narrated from ‘Ali (رضي الله عنه) that he said:",
+        "text": "The Messenger of Allah (ﷺ) told me to sell two slaves who were brothers, so I sold them and separated them, I mentioned that to the Prophet (ﷺ) and he said: `Go and take them back, and only sell them together; do not separate them.”"
+      }
+    },
+    {
+      "id": 466,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا خَلَفُ بْنُ هِشَامٍ الْبَزَّارُ، حَدَّثَنَا أَبُو الْأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي حَيَّةَ، قَالَ رَأَيْتُ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ يَتَوَضَّأُ فَغَسَلَ كَفَّيْهِ حَتَّى أَنْقَاهُمَا ثُمَّ مَضْمَضَ ثَلَاثًا ثُمَّ اسْتَنْشَقَ ثَلَاثًا وَغَسَلَ وَجْهَهُ ثَلَاثًا وَذِرَاعَيْهِ ثَلَاثًا وَمَسَحَ بِرَأْسِهِ وَغَسَلَ قَدَمَيْهِ إِلَى الْكَعْبَيْنِ وَأَخَذَ فَضْلَ طَهُورِهِ فَشَرِبَ وَهُوَ قَائِمٌ ثُمَّ قَالَ أَحْبَبْتُ أَنْ أُرِيَكُمْ كَيْفَ كَانَ طُهُورُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.\nحَدَّثَنَا عَبْد اللَّهِ حَدَّثَنَا خَلَفُ بْنُ هِشَامٍ الْبَزَّارُ حَدَّثَنَا أَبُو الْأَحْوَصِ عَنْ أَبِي إِسْحَاقَ قَالَ وَذَكَرَ عَبْدُ خَيْرٍ عَنْ عَلِيٍّ مِثْلَ حَدِيثِ أَبِي حَيَّةَ إِلَّا أَنَّ عَبْدَ خَيْرٍ قَالَ كَانَ إِذَا فَرَغَ مِنْ طُهُورِهِ أَخَذَ بِكَفَّيْهِ مِنْ فَضْلِ طَهُورِهِ فَشَرِبَ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hayyah said:",
+        "text": "I saw ‘Ali (رضي الله عنه) doing wudoo`. He washed his hands until they were clean, then he rinsed his mouth three times, then he rinsed his nose three times; he washed his face three times and his forearms three times; he wiped his head and washed his feet up to the ankles. And he took the leftover water and drank it whilst standing. Then he said: I wanted to show you how the Messenger of Allah   (ﷺ) did wudoo`\n\n\n‘Abd Khair narrated a hadeeth like that of Abu Hayyah from `Ali, except that ’Abd Khair said: When he finished his wudoo’, he took some of the leftover water in his hand and drank it."
+      }
+    },
+    {
+      "id": 467,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْدُ الْوَهَّابِ، قَالَ سُئِلَ سَعِيدٌ عَنْ الْأَعْضَبِ، هَلْ يُضَحَّى بِهِ فَأَخْبَرَنَا عَنْ قَتَادَةَ، عَنْ جُرَيِّ بْنِ كُلَيْبٍ، رَجُلٍ مِنْ قَوْمِهِ أَنَّهُ سَمِعَ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يُضَحَّى بِأَعْضَبِ الْقَرْنِ وَالْأُذُنِ قَالَ قَتَادَةُ فَذَكَرْتُ ذَلِكَ لِسَعِيدِ بْنِ الْمُسَيَّبِ فَقَالَ الْعَضَبُ النِّصْفُ فَأَكْثَرُ مِنْ ذَلِكَ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jurayy bin Kulaib, that he heard `Ali (رضي الله عنه) say:",
+        "text": "The Messenger of Allah (ﷺ) forbade sacrificing an animal that has lost most of its horn or ear. Qatadah said: I mentioned that to Sa’eed bin al-Musayyab and he said.  one that has lost half or more (of its horn or ear)."
+      }
+    },
+    {
+      "id": 468,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنْ هُبَيْرَةَ، عَنْ عَلِيٍّ، قَالَ نَهَانِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ التَّخَتُّمِ بِالذَّهَبِ وَعَنْ لُبْسِ الْقَسِّيِّ وَالْمَيَاثِرِ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "The Messenger of Allah (ﷺ) forbade me to wear gold rings, to wear garments made from a blend of linen and silk, and to use red saddlecloths."
+      }
+    },
+    {
+      "id": 469,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، عَنْ إِسْرَائِيلَ، وَعَبْدُ الرَّزَّاقِ، أَنْبَأَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي حَيَّةَ الْوَادِعِيِّ، قَالَ عَبْدُ الرَّزَّاقِ عَنْ أَبِي حَيَّةَ، قَالَ رَأَيْتُ عَلِيًّا بَالَ فِي الرَّحَبَةِ وَدَعَا بِمَاءٍ فَتَوَضَّأَ فَغَسَلَ كَفَّيْهِ ثَلَاثًا وَمَضْمَضَ وَاسْتَنْشَقَ ثَلَاثًا وَغَسَلَ وَجْهَهُ ثَلَاثًا وَغَسَلَ ذِرَاعَيْهِ ثَلَاثًا ثَلَاثًا وَمَسَحَ بِرَأْسِهِ وَغَسَلَ قَدَمَيْهِ ثَلَاثًا ثَلَاثًا ثُمَّ قَامَ فَشَرِبَ مِنْ فَضْلِ وَضُوئِهِ ثُمَّ قَالَ إِنِّي رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَعَلَ كَالَّذِي رَأَيْتُمُونِي فَعَلْتُ فَأَرَدْتُ أَنْ أُرِيَكُمُوهُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hayyah said:",
+        "text": "I saw ‘Ali urinate in ar-Rahbah. (Then) he called for water and did wudoo’. He washed his hands three times, rinsed his mouth and nose three times, washed his face three times, washed his forearms three times each, wiped his head and washed his feet three times each. Then he stood up and drank from the leftover water, then he said: I saw the Messenger of Allah (ﷺ) do what you have seen me do, and I wanted to show it to you."
+      }
+    },
+    {
+      "id": 470,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي أَبُو صَالِحٍ الْحَكَمُ بْنُ مُوسَى، حَدَّثَنَا شِهَابُ بْنُ خِرَاشٍ، حَدَّثَنِي الْحَجَّاجُ بْنُ دِينَارٍ، عَنْ أَبِي مَعْشَرٍ، عَنْ إِبْرَاهِيمَ النَّخَعِيِّ، قَالَ ضَرَبَ عَلْقَمَةُ بْنُ قَيْسٍ هَذَا الْمِنْبَرَ وَقَالَ خَطَبَنَا عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ عَلَى هَذَا الْمِنْبَرِ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَذَكَرَ مَا شَاءَ اللَّهُ أَنْ يَذْكُرَ وَقَالَ إِنَّ خَيْرَ النَّاسِ كَانَ بَعْدَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَبُو بَكْرٍ ثُمَّ عُمَرُ رَضِيَ اللَّهُ عَنْهُمَا ثُمَّ أَحْدَثْنَا بَعْدَهُمَا أَحْدَاثًا يَقْضِي اللَّهُ فِيهَا",
+      "english": {
+        "narrator": "It was narrated that Ibrahim an-Nakha`i said:",
+        "text": "`Alqamah bin Qais struck this minbar and said: ‘Ali (رضي الله عنه) addressed us from this minbar, he praised and glorified Allah, and said what Allah willed that he should say, and he said:The best of this ummah after the Messenger of Allah (ﷺ) is Abu Bakr, then ‘Umar, may Allah be pleased with them both. Then we got involved in events and Allah will decide concerning that."
+      }
+    },
+    {
+      "id": 471,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنَا أَبُو صَالِحٍ الْحَكَمُ بْنُ مُوسَى، حَدَّثَنَا شِهَابُ بْنُ خِرَاشٍ، أَخْبَرَنِي يُونُسُ بْنُ خَبَّابٍ، عَنِ الْمُسَيَّبِ بْنِ عَبْدِ خَيْرٍ، عَنْ عَبْدِ خَيْرٍ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ إِنَّ خَيْرَ هَذِهِ الْأُمَّةِ بَعْدَ نَبِيِّهَا أَبُو بَكْرٍ ثُمَّ عُمَرُ رَضِيَ اللَّهُ عَنْهُمَا‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Abd Khair said:",
+        "text": "I heard ‘Ali (رضي الله عنه) say: The best of this ummah after its Prophet is Abu Bakr, then ‘Umar, may Allah be pleased with them both."
+      }
+    },
+    {
+      "id": 472,
+      "chapterId": 5,
+      "bookId": 8,
+      "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا مُجَمِّعُ بْنُ يَحْيَى، عَنْ عَبْدِ اللَّهِ بْنِ عِمْرَانَ الْأَنْصَارِيِّ، عَنْ عَلِيٍّ، وَالْمَسْعُودِيُّ، عَنْ عُثْمَانَ بْنِ عَبْدِ اللَّهِ بْنِ هُرْمُزَ، عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَيْسَ بِالْقَصِيرِ وَلَا بِالطَّوِيلِ ضَخْمَ الرَّأْسِ وَاللِّحْيَةِ شَثْنَ الْكَفَّيْنِ وَالْقَدَمَيْنِ ضَخْمَ الْكَرَادِيسِ مُشْرَبًا وَجْهُهُ حُمْرَةً طَوِيلَ الْمَسْرُبَةِ إِذَا مَشَى تَكَفَّأَ تَكَفُّؤًا كَأَنَّمَا يَتَقَلَّعُ مِنْ صَخْرٍ لَمْ أَرَ قَبْلَهُ وَلَا بَعْدَهُ مِثْلَهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ و قَالَ أَبُو النَّضْرِ الْمَسْرُبَةُ وَقَالَ كَأَنَّمَا يَنْحَطُّ مِنْ صَبَبٍ و قَالَ أَبُو قَطَنٍ الْمَسْرُبَةُ و قَالَ يَزِيدُ الْمَسْرُبَةُ‏.‏",
+      "english": {
+        "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+        "text": "The Messenger of Allah (ﷺ) was neither short not tall; he had a large head and beard, large hands and feet, large joints, a reddish face, and a long line of hair from his chest to his navel. When he walked he walked energetically, as if lifting his feet from a rock. I have never seen anyone like him before or since, may the blessings and peace of Allah be upon him."
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 291,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَسْوَدُ بْنُ عَامِرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، سَمِعْتُ عَبْدَ اللَّهِ بْنَ أَبِي الْهُذَيْلِ الْعَنَزَيَّ، يُحَدِّثُ عَنْ رَجُلٍ، مِنْ بَنِي أَسَدٍ قَالَ خَرَجَ عَلَيْنَا عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ فَذَكَرَ نَحْوَ حَدِيثِ سُوَيْدِ بْنِ سَعِيدٍ كُنْتُ عِنْدَ عُمَرَ رَضِيَ اللَّهُ عَنْهُ وَهُوَ مُسَجًّى فِي ثَوْبِهِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that a man from  Banu Asad said:",
+    "text": "`Ali (رضي الله عنه) came out to us... and he mentioned a Hadeeth similar to that of Suwaid bin Sa’eed: I was with ‘Umar (رضي الله عنه) when he was covered with his garment."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

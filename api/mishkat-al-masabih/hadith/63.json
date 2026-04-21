@@ -1,0 +1,16 @@
+{
+  "id": 63,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا عَدْوَى وَلَا هَامَةَ وَلَا نَوْءَ وَلَا صفر» . رَوَاهُ مُسلم",
+  "english": {
+    "narrator": "He reported God’s messenger as saying:",
+    "text": "“There is no infection, no hama, no star promising rain, and no serpent in a hungry belly.\" \n\nMuslim transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

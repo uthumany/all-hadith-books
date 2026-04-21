@@ -1,0 +1,16 @@
+{
+  "id": 188,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "وَمِنْ حَدِيثِ عَائِشَةَ فِي قِصَّةٍ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6817)‏، ومسلم (1457)‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "The aforesaid Hadith is also a part of 'Aishah's Hadith in the course of a story."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

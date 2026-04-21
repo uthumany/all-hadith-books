@@ -1,0 +1,16 @@
+{
+  "id": 119,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ إِبْرَاهِيمَ بْنِ نَشِيطٍ، عَنْ كَعْبِ بْنِ عَلْقَمَةَ، عَنْ أَبِي الْهَيْثَمِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ رَأَى عَوْرَةً فَسَتَرَهَا كَانَ كَمَنْ أَحْيَا مَوْءُودَةً ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Uqbah ibn Amir:",
+    "text": "The Prophet (ﷺ) said: He who sees something which should be kept hidden and conceals it will be like one who has brought to life a girl buried alive."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

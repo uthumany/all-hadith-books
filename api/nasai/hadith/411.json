@@ -1,0 +1,16 @@
+{
+  "id": 411,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، عَنِ ابْنِ أَبِي ذِئْبٍ، قَالَ حَدَّثَنِي الزُّهْرِيُّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم جَمَعَ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ بِجَمْعٍ بِإِقَامَةٍ وَاحِدَةٍ لَمْ يُسَبِّحْ بَيْنَهُمَا وَلاَ عَلَى إِثْرِ كُلِّ وَاحِدَةٍ مِنْهُمَا ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Salim, from his father, that:",
+    "text": "the Messenger of Allah joined Maghrib and Isha; in Jam (Al-Muzdalifah), with one Iqamah, and he did not offer any voluntary prayers in between or after either of them."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

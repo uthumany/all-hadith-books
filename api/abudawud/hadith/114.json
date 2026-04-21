@@ -1,0 +1,16 @@
+{
+  "id": 114,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا ابْنُ ثَوْرٍ، عَنْ مَعْمَرٍ، عَنْ قَتَادَةَ، قَالَ أَيَعْجَزُ أَحَدُكُمْ أَنْ يَكُونَ، مِثْلَ أَبِي ضَيْغَمٍ - أَوْ ضَمْضَمٍ شَكَّ ابْنُ عُبَيْدٍ - كَانَ إِذَا أَصْبَحَ قَالَ اللَّهُمَّ إِنِّي قَدْ تَصَدَّقْتُ بِعِرْضِي عَلَى عِبَادِكَ ‏.‏",
+  "english": {
+    "narrator": "Narrated Qatadah:",
+    "text": "Is one of you helpless to be like AbuDaygham or Damdam (Ibn Ubayd is doubtful) who would say when morning came: O Allah, I gave my honour as alms to Thy servants?"
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

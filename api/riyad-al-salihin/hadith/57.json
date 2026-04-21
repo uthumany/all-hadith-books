@@ -1,0 +1,16 @@
+{
+  "id": 57,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الرابع‏:‏ عن أبي ثابت، وقيل أبي سعيد، وقيل أبي الوليد، سهل بن حنيف ، وهو بدري، رضي الله عنه، أن النبي ، صلى الله عليه وسلم، قال‏:‏ ‏\n\"‏من سأل الله، تعالى، الشهادة بصدق بلغه الله منازل الشهداء، وإن مات على فراشه‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Thabit from Sahl bin Hunaif (May Allah be pleased with him) said:",
+    "text": "The Prophet (ﷺ) said: \"He who asks Allah for martyrdom, Allah will raise him to the high status of the martyrs, even if he dies on his bed\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

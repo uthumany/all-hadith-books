@@ -1,0 +1,16 @@
+{
+  "id": 572,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّ الْقَاسِمَ بْنَ مُحَمَّدٍ، أَرَاهُمُ الْجُلُوسَ فِي التَّشَهُّدِ فَذَكَرَ الْحَدِيثَ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "(There is another chain) from Yahya bin Sa'eed that Al-Qasim bin Muhammad saw them sitting in Tashah-hud, so he mentioned the Hadith."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 303,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ عُقْبَةَ بْنِ عَامِرٍ قَالَ: لَمَّا نَزَلَتْ (فسبح باسم رَبك الْعَظِيم)\nقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «اجْعَلُوهَا فِي رُكُوعِكُمْ» فَلَمَّا نَزَلَتْ (سَبِّحِ اسْمَ رَبك الْأَعْلَى)\nقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «اجْعَلُوهَا فِي سُجُودِكُمْ» . رَوَاهُ أَبُو دَاوُدَ وَابْن مَاجَه والدارمي",
+  "english": {
+    "narrator": "",
+    "text": "‘Uqba b. ‘Amir said that when “Glorify the name of your mighty Lord” (Al-Qur’an; 56:74, 96; 69:52) was revealed, God’s Messenger said, “Use it when bowing;” and when “Glorify the name of your most high Lord” (Al-Qur’an; 87) was revealed, he said, “Use it when prostrating yourselves.” \n\nAbu Dawud, Ibn Majah and Darimi transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

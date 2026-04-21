@@ -1,0 +1,16 @@
+{
+  "id": 203,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، وَحَبِيبِ بْنِ الشَّهِيدِ، وَهِشَامٍ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَقُولَنَّ أَحَدُكُمْ عَبْدِي وَأَمَتِي وَلاَ يَقُولَنَّ الْمَمْلُوكُ رَبِّي وَرَبَّتِي وَلْيَقُلِ الْمَالِكُ فَتَاىَ وَفَتَاتِي وَلْيَقُلِ الْمَمْلُوكُ سَيِّدِي وَسَيِّدَتِي فَإِنَّكُمُ الْمَمْلُوكُونَ وَالرَّبُّ اللَّهُ عَزَّ وَجَلَّ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "The Prophet (ﷺ) said: None of you must say: \"My slave\" (abdi) and \"My slave-woman\" (amati), and a slave must not say: \"My lord\" (rabbi or rabbati). The master (of a slave) should say: \"My young man\" (fataya) and \"My young woman\" (fatati), and a slave should say \"My master\" (sayyidi) and \"My mistress\" (sayyidati), for you are all (Allah's slave and the Lord is Allah, Most High."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

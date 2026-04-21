@@ -1,0 +1,16 @@
+{
+  "id": 164,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا بِشْرُ بْنُ خَالِدٍ، أَخْبَرَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، بِإِسْنَادِهِ فِي هَذَا الْحَدِيثِ قَالَتْ وَأَنَا عَلَى الأُرْجُوحَةِ، وَمَعِي، صَوَاحِبَاتِي فَأَدْخَلْنَنِي بَيْتًا فَإِذَا نِسْوَةٌ مِنَ الأَنْصَارِ فَقُلْنَ عَلَى الْخَيْرِ وَالْبَرَكَةِ ‏.‏",
+  "english": {
+    "narrator": "The tradition mentioned above has also been transmitted by Hisham b. 'Urwah through different chain of narrators. This version adds:",
+    "text": "I was swinging and I had my friends. They brought me to a house ; there were some women of the Ansar (Helpers). They said: With good luck and blessing."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

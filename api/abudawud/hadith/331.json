@@ -1,0 +1,16 @@
+{
+  "id": 331,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ عَبْدَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا سَمِعْتُمْ نُبَاحَ الْكِلاَبِ وَنَهِيقَ الْحُمُرِ بِاللَّيْلِ فَتَعَوَّذُوا بِاللَّهِ فَإِنَّهُنَّ يَرَيْنَ مَا لاَ تَرَوْنَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Jabir ibn Abdullah:",
+    "text": "The Prophet (ﷺ) said: When you hear the barking of dogs and the braying of asses at night, seek refuge in Allah, for they see which you do not see."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

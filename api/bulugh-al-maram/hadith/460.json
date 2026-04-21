@@ -1,0 +1,16 @@
+{
+  "id": 460,
+  "chapterId": 2,
+  "bookId": 12,
+  "arabic": "وَأَصْلُهُ فِي \n\"مُسْلِمٍ\", وَزَادَ: { كَانَتْ عِنْدَ عَائِشَةَ حَتَّى قُبِضَتْ, فَقَبَضْتُهَا, وَكَانَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-يَلْبَسُهَا, فَنَحْنُ نَغْسِلُهَا لِلْمَرْضَى نَسْتَشْفِي بِهَا }   1‏ .‏‏1 ‏- حسن.‏ وهو عند مسلم (3/1641)‏ وعنده: \"يستشفى\".‏",
+  "english": {
+    "narrator": "Its basic meaning is in Muslim's Sahih with the addition:",
+    "text": "\"It was with 'Aishah (RA) till she died, then I took possession of it. The Prophet (ﷺ) used to wear it, and we wash it for the sick, seeking cure by means of it.\""
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 60,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، أَخْبَرَنَا ابْنُ الْمُبَارَكِ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، عَنْ سَالِمِ بْنِ غَيْلاَنَ، عَنِ الْوَلِيدِ بْنِ قَيْسٍ، عَنْ أَبِي سَعِيدٍ، أَوْ عَنْ أَبِي الْهَيْثَمِ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تُصَاحِبْ إِلاَّ مُؤْمِنًا وَلاَ يَأْكُلْ طَعَامَكَ إِلاَّ تَقِيٌّ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuSa'id al-Khudri:",
+    "text": "The Prophet (ﷺ) said: Associate only with a believer, and let only a God-fearing man eat your meals."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

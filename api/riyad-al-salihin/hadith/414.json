@@ -1,0 +1,16 @@
+{
+  "id": 414,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن جابر قَالَ : جاء أعرابي إِلَى النَّبيّ فَقَالَ : يَا رَسُول الله ، مَا الموجِبَتَانِ ؟ قَالَ : « مَنْ مَاتَ لا يُشْرِكُ بالله شَيئاً دَخَلَ الجَنَّةَ ، وَمَنْ مَاتَ يُشْرِكُ بِهِ شَيْئاً دَخَلَ النَّار » . رواه مسلم .",
+  "english": {
+    "narrator": "Jabir (May Allah be pleased with him) reported:",
+    "text": "A bedouin came to the Prophet (ﷺ) and asked him, \"O Messenger of Allah, what are the two imperatives which lead to Jannah or Hell\". He (ﷺ) replied, \"He who dies without associating anything with Allah will enter Jannah, and he who dies associating partners with Allah will enter the Fire\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

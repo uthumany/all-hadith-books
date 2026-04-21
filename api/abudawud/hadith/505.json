@@ -1,0 +1,16 @@
+{
+  "id": 505,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، نَحْوَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "The above mentioned tradition has also been transmitted by Ma’mar through a different chain of narrators to the same effect."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

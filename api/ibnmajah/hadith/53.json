@@ -1,0 +1,16 @@
+{
+  "id": 53,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، عَنْ سَعِيدِ بْنِ أَبِي أَيُّوبَ، حَدَّثَنِي أَبُو هَانِئٍ، حُمَيْدُ بْنُ هَانِئٍ الْخَوْلاَنِيُّ عَنْ أَبِي عُثْمَانَ، مُسْلِمِ بْنِ يَسَارٍ عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ أُفْتِيَ بِفُتْيَا غَيْرَ ثَبَتٍ فَإِنَّمَا إِثْمُهُ عَلَى مَنْ أَفْتَاهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Hurairah said:",
+    "text": "\"The Messenger of Allah (ﷺ) said: 'Whoever is given a Fatwa (verdict) that has no basis, then his sin will be upon the one who issued that Fatwa.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

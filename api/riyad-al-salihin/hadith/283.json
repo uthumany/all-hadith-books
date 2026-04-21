@@ -1,0 +1,16 @@
+{
+  "id": 283,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عمر رضي الله عنهما عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ كلكم راعٍ، وكلكم مسئول عن رعيته، والأمير راعٍ، والرجل راعٍ على أهل بيته؛ والمرأة راعية على بيت زوجها وولده، فكلكم راعٍ، وكلكم مسؤول عن رعيته‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar (May Allah be pleased with them) reported:",
+    "text": "The Prophet (ﷺ) said, \"All of you are guardians and are responsible for your subjects. The ruler is a guardian of his subjects, the man is a guardian of his family, the woman is a guardian and is responsible for her husband's house and his offspring; and so all of you are guardians and are responsible for your subjects.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

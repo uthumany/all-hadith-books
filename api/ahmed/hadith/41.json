@@ -1,0 +1,16 @@
+{
+  "id": 41,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي يَزِيدَ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ أَنَّ فَاطِمَةَ، أَتَتْ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَسْتَخْدِمُهُ فَقَالَ أَلَا أَدُلُّكِ عَلَى مَا هُوَ خَيْرٌ لَكِ مِنْ ذَلِكَ تُسَبِّحِينَ ثَلَاثًا وَثَلَاثِينَ وَتُكَبِّرِينَ ثَلَاثًا وَثَلَاثِينَ وَتَحْمَدِينَ ثَلَاثًا وَثَلَاثِينَ أَحَدُهَا أَرْبَعًا وَثَلَاثِينَ‏.‏",
+  "english": {
+    "narrator": "It was narrated from `Ali (رضي الله عنه) that Fatimah came to the Prophet (ﷺ) to ask him for a servant. He said:",
+    "text": "“Shall I not tell you of something that is better for you than that? Say Subhanallah thirty-three times, Allahu Akbar thirty-three times and Alhamdulillah thirty-three times; one of them thirty-four times.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 115,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ قَالَ: سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْهَى عَنِ الْقَزَعِ. قِيلَ لِنَافِعٍ: مَا الْقَزَعُ؟ قَالَ: يُحْلَقُ بعضُ رَأس الصبيِّ وَيتْرك البعضُ\nوَألْحق بَعضهم التَّفْسِير بِالْحَدِيثِ",
+  "english": {
+    "narrator": "",
+    "text": "Nafi‘ quoted Ibn ‘Umar as saying he had heard the Prophet forbidding qaza'. Nafi' was asked what qaza’ was and replied that it was having part of a boy’s head shaved arid leaving part unshaven. \n(Bukhari and Muslim.) Some made the explanation a part of the tradition."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

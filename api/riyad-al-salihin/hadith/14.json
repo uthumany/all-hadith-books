@@ -1,0 +1,16 @@
+{
+  "id": 14,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن الأغر بن يسار المزنى رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏ ياأيها الناس توبوا إلى الله واستغفروه فإنى أتوب في  اليوم مائه مرة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Al-Agharr bin Yasar Al-Muzani (May Allah be pleased with him) narrated that:",
+    "text": "The Messenger of Allah (ﷺ) said: \"Turn you people in repentance to Allah and beg pardon of Him. I turn to Him in repentance a hundred times a day\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

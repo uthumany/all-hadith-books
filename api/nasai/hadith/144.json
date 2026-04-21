@@ -1,0 +1,16 @@
+{
+  "id": 144,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا أَبَانُ بْنُ صَمْعَةَ، قَالَ حَدَّثَتْنِي وَالِدَتِي، عَنْ عَائِشَةَ، أَنَّهَا سُئِلَتْ عَنِ الأَشْرِبَةِ، فَقَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنْ كُلِّ مُسْكِرٍ ‏.‏ وَاعْتَلُّوا بِحَدِيثِ عَبْدِ اللَّهِ بْنِ شَدَّادٍ عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that 'Aishah was asked about drinks and she said:",
+    "text": "\"The Messenger of Allah  used to forbid all intoxicants.\" And they use the narration of 'Abdullah bin Shaddad from 'Abdullah bin 'Abbas."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

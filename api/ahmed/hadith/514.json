@@ -1,0 +1,16 @@
+{
+  "id": 514,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَدْ عَفَوْتُ لَكُمْ عَنْ صَدَقَةِ الْخَيْلِ وَالرَّقِيقِ وَلَكِنْ هَاتُوا رُبُعَ الْعُشُورِ مِنْ كُلِّ أَرْبَعِينَ دِرْهَمًا دِرْهَمًا‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Messenger of Allah (ﷺ) said: `I have relieved you of zakah on horses and slaves, but bring one quarter of one tenth, for every forty dirhams, one dirham.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

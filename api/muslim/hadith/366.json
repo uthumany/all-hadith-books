@@ -1,0 +1,16 @@
+{
+  "id": 366,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، وَعَبْدُ بْنُ حُمَيْدٍ، عَنْ عَبْدِ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى نَاقَةٍ بِمِنًى فَجَاءَهُ رَجُلٌ ‏.‏ بِمَعْنَى حَدِيثِ ابْنِ عُيَيْنَةَ ‏.‏",
+  "english": {
+    "narrator": "This hadith has been narrated on the authority of Zuhri with the same chain of transmitters (and the words are):",
+    "text": "I saw Allah's Messenger (ﷺ) on the back of the camel at Mina, and a person came to him,\" and the rest of the hadith Is like that transmitted by Ibn 'Uyaina."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

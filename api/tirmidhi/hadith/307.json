@@ -1,0 +1,16 @@
+{
+  "id": 307,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الأَنْصَارُ كَرِشِي وَعَيْبَتِي وَإِنَّ النَّاسَ سَيَكْثُرُونَ وَيَقِلُّونَ فَاقْبَلُوا مِنْ مُحْسِنِهِمْ وَتَجَاوَزُوا عَنْ مُسِيئِهِمْ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "that the Messenger of Allah (ﷺ) said: \"The Ansar are my close ones and my elite. Indeed the people shall increase and they shall dwindle, so accept from those who do good among them, and overlook those who do bad among them.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

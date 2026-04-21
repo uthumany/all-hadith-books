@@ -1,0 +1,16 @@
+{
+  "id": 156,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الدَّوْرَقِيُّ  أخبرنا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنِ الْجُرَيْرِيِّ، عَنْ عَبْدِ اللَّهِ ابْنِ شَقِيقٍ، قَالَ قُلْتُ لِعَائِشَةَ أَىُّ أَصْحَابِ انَّبِيِّ صلى الله عليه وسلم كَانَ أَحَبَّ إِليه؟ قَالَتْ أَبُو بَكْرٍ ‏.‏ قُلْتُ ثُمَّ مَنْ؟ قَالَتْ ثُمَّ عُمَرُ ‏.‏ قُلْتُ ثُمَّ مَنْ؟ قَالَتْ ثُمَّ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ ‏.‏ قُلْتُ ثُمَّ مَنْ؟ فَسَكَتَتْ.",
+  "english": {
+    "narrator": "Narrated 'Abdullah bin Shaqiq:",
+    "text": "\"I said to 'Aishah: 'Which of the companions of the Prophet SAW were the most beloved to him?' She said: 'Abu Bakr.' I said: 'Then who?' She said ' 'Umar.' I said: 'Then who?' She said: 'Then Abu 'Ubaidah bin Al-Jarrah.'\" He said: I said: 'Then who?'\" He said: \"Then she was silent.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

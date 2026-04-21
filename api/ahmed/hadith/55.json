@@ -1,0 +1,16 @@
+{
+  "id": 55,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الْأَعْمَشُ، عَنِ الْمُنْذِرِ أَبِي يَعْلَى، عَنْ مُحَمَّدِ ابْنِ الْحَنَفِيَّةِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَ رَجُلًا مَذَّاءً فَاسْتَحْيَى أَنْ يَسْأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الْمَذْيِ قَالَ فَقَالَ لِلْمِقْدَادِ سَلْ لِي رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الْمَذْيِ قَالَ فَسَأَلَهُ قَالَ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِيهِ الْوُضُوءُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Muhammad Ibn al-Hanafiyyah said concerning           `Ali (رضي الله عنه):",
+    "text": "He was a man who emitted a great deal of madhi (prostatic fluid), but he felt too shy to ask the Prophet (ﷺ)  about madhi. He said to al-Miqdad: Ask the Messenger of Allah (ﷺ)  for me about madhi. So he asked him, and the Messenger of Allah (ﷺ) said: `Let him do wudoo’ for that.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 321,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَفَّانُ، قَالَ حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ صَوَّرَ صُورَةً كُلِّفَ يَوْمَ الْقِيَامَةِ أَنْ يَنْفُخَ فِيهَا الرُّوحَ وَلَيْسَ بِنَافِخٍ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abu Hurairah said:",
+    "text": "\"The Messenger of Allah  said: 'Whoever makes an image will be commanded on the Day of Resurrection to breathe the soul into it but he will not be able to do so.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

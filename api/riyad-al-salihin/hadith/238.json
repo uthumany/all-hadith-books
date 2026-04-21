@@ -1,0 +1,16 @@
+{
+  "id": 238,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏حق المسلم على المسلم خمس‏:‏ رد السلام، وعيادة المريض، واتباع الجنائز وإجابة الدعوة، وتشميت العاطس‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ \n\nو في رواية لمسلم: \"حق المسلم على المسلم ست: اذا لقيته فسلم عليه، و اذا دعاك فأجبه، و اذا استنصحك فانصح له، و اذا عطس فحمد الله فشمته، و اذا مرض فعده، و اذا مات فاتبعه.\"",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah bepleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"A believer owes another believer five rights: responding to greetings, visiting him in illness, following his funeral, accepting his invitation, and saying 'Yarhamuk-Allah (May Allah have mercy on you),' when he says 'Al-hamdu lillah (Praise be to Allah)' after sneezing\"..Muslim's narration is, \"There are six rights of a Muslim upon a Muslim: When you meet him, greet him; when he invites you, respond to him; when he seeks counsel, give him advice; when he sneezes and praises Allah, say to him: 'May Allah have mercy on you (Yarhamuk-Allah)'; when he is sick, visit him; and when he dies, follow his funeral\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

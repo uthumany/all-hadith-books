@@ -1,0 +1,16 @@
+{
+  "id": 110,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "السادس عشر‏:‏ عن أبي مسعود عقبة بن عمرو الأنصاري البدري رضي الله عنه قال‏:‏ لما نزلت آيه الصدقة كنا نحامل على ظهورنا‏.‏ فجاء رجل فتصدق بشيء كثير فقالوا‏:‏ مراءٍ، وجاء رجل آخر فتصدق بصاع فقالوا‏:‏ إن الله لغني عن صاع هذا‏!‏ فنزلت ‏{‏ الذين يلمزون المطوعين من المؤمنين في الصدقات والذين لا يجدون إلا جهدهم‏}‏ الآية ‏(‏‏(‏التوبة‏:‏79‏)‏‏)‏‏.‏ ‏(‏‏(‏متفق عليه ‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Mas'ud 'Uqbah bin 'Amr Al-Ansari (May Allah be pleased with him) said:",
+    "text": "When the Ayah enjoining Sadaqah (charity) was revealed,* we used to carry loads on our backs to earn something that we could give away in charity. One person presented a considerable amount for charity and the hypocrites said: \"He has done it to show off.\" Another one gave away a few Sa' of dates and they said: \"Allah does not stand in need of this person's dates\". Thereupon, it was revealed:\"Those who defame such of the believers who give charity (in Allah's Cause) voluntarily, and such who could not find to give charity (in Allah's Cause) except what is available to them...\" (9:79).* This is the version of Al-Bukhari."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

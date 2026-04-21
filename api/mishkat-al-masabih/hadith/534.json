@@ -1,0 +1,16 @@
+{
+  "id": 534,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "عَن أَبِي مَسْعُودٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يَؤُمُّ الْقَوْمَ أَقْرَؤُهُمْ لِكِتَابِ اللَّهِ فَإِنْ كَانُوا فِي الْقِرَاءَةِ سَوَاءً فَأَعْلَمُهُمْ بِالسُّنَّةِ فَإِنْ كَانُوا فِي السُّنَّةِ سَوَاءً فَأَقْدَمُهُمْ هِجْرَةً فَإِنْ كَانُوا فِي الْهِجْرَةِ سَوَاءً فَأَقْدَمُهُمْ سِنًّا وَلَا يَؤُمَّنَّ الرَّجُلُ الرَّجُلَ فِي سُلْطَانِهِ وَلَا يَقْعُدْ فِي بَيْتِهِ عَلَى تَكْرِمَتِهِ إِلَّا بِإِذْنِهِ» . رَوَاهُ مُسْلِمٌ. وَفِي رِوَايَةٍ لَهُ: «وَلَا يَؤُمَّنَّ الرجل الرجل فِي أَهله»",
+  "english": {
+    "narrator": "",
+    "text": "Abu Mas'ud reported God’s Messenger as saying, “The one of you who is most versed in God’s Book should act as imam for the people; but if they are equally versed in reciting it, then the one who has most knowledge regarding the sunna; if they are equal regarding the sunna, then the earliest of them to emigrate; if they emigrated at the same time, then the oldest of them. No man must lead another in prayer where the latter has authority, or sit in his place of honour in his house, without his permission.” \n\nMuslim transmitted it. A version by him has, “And a man must not act as imam for another in his own family.”"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 405,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَزِيدُ، أَنْبَأَنَا هِشَامٌ، عَنْ مُحَمَّدٍ، عَنْ عَبِيدَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ نُهِيَ عَنْ مَيَاثِرِ الْأُرْجُوَانِ، وَلُبْسِ الْقَسِّيِّ، وَخَاتَمِ الذَّهَبِ، قَالَ مُحَمَّدٌ فَذَكَرْتُ ذَلِكَ لِأَخِي يَحْيَى بْنِ سِيرِينَ فَقَالَ أَوَلَمْ تَسْمَعْ هَذَا نَعَمْ وَكِفَافِ الدِّيبَاجِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "Purple saddle cloths and wearing a blend of linen and silk and gold rings were forbidden, Muhammad said: I mentioned that to my brother Yahya bin Seereen and he said: Did you not hear this? Yes, and borders of silk brocade."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

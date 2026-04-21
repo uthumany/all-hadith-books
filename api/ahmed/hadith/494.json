@@ -1,0 +1,16 @@
+{
+  "id": 494,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "قَالَ حَدَّثَنَاه إِسْحَاقُ بْنُ يُوسُفَ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمٍ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ لَا تُصَلُّوا بَعْدَ الْعَصْرِ إِلَّا أَنْ تُصَلُّوا وَالشَّمْسُ مُرْتَفِعَةٌ قَالَ سُفْيَانُ فَمَا أَدْرِي بِمَكَّةَ يَعْنِي أَوْ بِغَيْرِهَا‏.‏",
+  "english": {
+    "narrator": "It was narrated from `Ali (رضي الله عنه) from the Prophet (ﷺ) that he said:",
+    "text": "“Do not pray after ‘Asr unless you pray when the sun is still high.” Sufyan said: I do not know whether he meant in Makkah or anywhere close."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

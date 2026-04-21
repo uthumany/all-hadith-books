@@ -1,0 +1,16 @@
+{
+  "id": 706,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو كَامِلٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَخْطُبُ قَائِمًا ثُمَّ يَقْعُدُ قَعْدَةً لاَ يَتَكَلَّمُ ‏.‏ وَسَاقَ الْحَدِيثَ ‏.‏",
+  "english": {
+    "narrator": "Jabir b. Samurah said:",
+    "text": "I saw the Prophet (ﷺ) would deliver the sermon standing, then sit down without saying anything. The narrator then reported the tradition in full."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

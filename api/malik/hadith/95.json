@@ -1,0 +1,16 @@
+{
+  "id": 95,
+  "chapterId": 31,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، أَنَّهُ سَمِعَ عَبْدَ اللَّهِ بْنَ عُمَرَ، يَقُولُ مَنْ أَسْلَفَ سَلَفًا فَلاَ يَشْتَرِطْ إِلاَّ قَضَاءَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Nafi that he heard Abdullah\nibn Umar say, \"If someone lends something, let the only condition be\nthat it is repaid.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

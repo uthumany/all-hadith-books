@@ -1,0 +1,16 @@
+{
+  "id": 342,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنْ ابْنِ إِسْحَاقَ، عَنْ أَبَانَ بْنِ صَالِحٍ، عَنْ عِكْرِمَةَ، قَالَ أَفَضْتُ مَعَ الْحُسَيْنِ بْنِ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ مِنْ الْمُزْدَلِفَةِ فَلَمْ أَزَلْ أَسْمَعُهُ يُلَبِّي حَتَّى رَمَى جَمْرَةَ الْعَقَبَةِ فَسَأَلْتُهُ فَقَالَ أَفَضْتُ مَعَ أَبِي مِنْ الْمُزْدَلِفَةِ فَلَمْ أَزَلْ أَسْمَعُهُ يُلَبِّي حَتَّى رَمَى جَمْرَةَ الْعَقَبَةِ فَسَأَلْتُهُ فَقَالَ أَفَضْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ الْمُزْدَلِفَةِ فَلَمْ أَزَلْ أَسْمَعُهُ يُلَبِّي حَتَّى رَمَى جَمْرَةَ الْعَقَبَةِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that `lkrimah said:",
+    "text": "I moved on from Muzdalifah with al-Husain bin ‘Ali (رضي الله عنه) and I kept hearing him say the Talbiyah until he stoned Jamratal-`Aqabah, I asked him (about that) and he said: I moved on from Muzdalifah with my father and I kept hearing him say the Talbiyah until he stoned Jamratal-`Aqabah, I asked him (about that) and he said: I moved on from Muzdalifah with the Prophet (ﷺ) and I kept hearing him say the Talbiyah until he stoned Jamratal-`Aqabah."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 153,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا خَلَفُ بْنُ الْوَلِيدِ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا تَقُومُ السَّاعَةُ حَتَّى يُلْتَمَسَ الرَّجُلُ مِنْ أَصْحَابِي كَمَا تُلْتَمَسُ الضَّالَّةُ فَلَا يُوجَدُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "The Prophet (ﷺ) said: `The Hour will not begin until one of my Companions will be sought as a lost item is sought, but he will not be found.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

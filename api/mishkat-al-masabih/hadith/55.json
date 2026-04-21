@@ -1,0 +1,16 @@
+{
+  "id": 55,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ لَعِقَ الْعَسَلَ ثَلَاثَ غَدَوَاتٍ فِي كلِّ شهر لم يصبهُ عَظِيم الْبلَاء»",
+  "english": {
+    "narrator": "He reported God’s messenger as saying:",
+    "text": "“If anyone licks honey three mornings every month, he will not be afflicted with any serious trouble.”"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

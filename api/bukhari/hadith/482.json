@@ -1,0 +1,16 @@
+{
+  "id": 482,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا حَسَّانُ بْنُ حَسَّانَ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم لأُبَىٍّ ‏\"‏ إِنَّ اللَّهَ أَمَرَنِي أَنْ أَقْرَأَ عَلَيْكَ الْقُرْآنَ ‏\"‏‏.‏ قَالَ أُبَىٌّ آللَّهُ سَمَّانِي لَكَ قَالَ ‏\"‏ اللَّهُ سَمَّاكَ لِي ‏\"‏‏.‏ فَجَعَلَ أُبَىٌّ يَبْكِي‏.‏ قَالَ قَتَادَةُ فَأُنْبِئْتُ أَنَّهُ قَرَأَ عَلَيْهِ ‏{‏لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ‏}‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "The Prophet (ﷺ) said to Ubai, \"Allah has ordered me recite Qur'an to you.\" Ubai asked, \"Did Allah \nmention me by name to you?\" The Prophet (ﷺ) said, \"Allah has mentioned your name to me.\" On that \nUbai started weeping. (The sub-narrator) Qatada added: I have been informed that the Prophet (ﷺ) recited: \n'Those who disbelieve among the people of the Scripture,\" ...to Ubai."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

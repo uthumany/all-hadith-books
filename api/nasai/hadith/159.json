@@ -1,0 +1,16 @@
+{
+  "id": 159,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ أَنْبَأَنَا أَبُو عَوَانَةَ، عَنْ زَيْدِ بْنِ جُبَيْرٍ، قَالَ سَأَلْتُ ابْنَ عُمَرَ عَنِ الأَشْرِبَةِ، فَقَالَ اجْتَنِبْ كُلَّ شَىْءٍ يَنِشُّ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Zaid bin Jubair said:",
+    "text": "\"I asked Ibn 'Umar about drinks and he said: 'Avoid everything that intoxicates.'\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

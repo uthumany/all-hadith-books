@@ -1,0 +1,16 @@
+{
+  "id": 62,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا تُمَارِ أَخَاكَ, وَلَا تُمَازِحْهُ, وَلَا تَعِدْهُ مَوْعِدًا فَتُخْلِفَهُ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ بِسَنَدٍ فِيهِ ضَعْفٌ.‏  1‏ .‏‏1 ‏- ضعيف.‏ رواه الترمذي (1995)‏ وفي سنده ليث بن أبي سليم.‏",
+  "english": {
+    "narrator": "Ibn ’Abbas (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Don’t dispute with your brother; don’t make jokes with him; and don’t make him a promise which you would break.” Related by At-Tirmidhi with a weak chain of narrators."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

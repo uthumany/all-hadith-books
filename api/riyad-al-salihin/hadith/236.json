@@ -1,0 +1,16 @@
+{
+  "id": 236,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أنس رضي الله عنه صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah bepleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"No one of you shall become a true believer until he desires for his brother what he desires for himself\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

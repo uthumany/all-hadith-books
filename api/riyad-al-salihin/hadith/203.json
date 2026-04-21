@@ -1,0 +1,16 @@
+{
+  "id": 203,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن جابر رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\n\"‏اتقوا الظلم، فإن الظلم ظلمات يوم القيامة، واتقوا الشح فإن الشح أهلك من كان قبلكم، حملهم على أن سفكوا دماءهم واستحلوا محارمهم‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Jabir bin 'Abdullah (May Allah bepleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Beware of injustice, for oppression will be darkness on the Day of Resurrection; and beware of stinginess because it doomed those who were before you. It incited them to shed blood and treat the unlawful as lawful.\""
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

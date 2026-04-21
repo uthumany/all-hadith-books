@@ -1,0 +1,16 @@
+{
+  "id": 764,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى قَالَ: سَمِعْتُ أَبِي يَقُولُ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ فِي شَأْنِ سَاعَةِ الْجُمُعَةِ: «هِيَ مَا بَيْنَ أَنْ يَجْلِسَ الْإِمَامُ إِلَى أَن تقضى الصَّلَاة» . رَوَاهُ مُسلم",
+  "english": {
+    "narrator": "Abu Burda b. Abu Musa said:",
+    "text": "I heard my father say that he heard God’s Messenger say regarding the time on Friday, “It is between the time when the imam sits down and the end of the prayer.” \n\nMuslim transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

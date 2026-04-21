@@ -1,0 +1,16 @@
+{
+  "id": 123,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "السابع‏:‏ عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ من غدا إلى المسجد أو راح، أعد الله له في الجنة نزلا كلما غدا أو راح‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"He who goes to the mosque at dawn or dusk (for Salat), Allah prepares a hospitable abode for him in Jannah, every time when he walks to it or comes back from it\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

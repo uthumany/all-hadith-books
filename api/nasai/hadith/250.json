@@ -1,0 +1,16 @@
+{
+  "id": 250,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيِّ بْنِ حَرْبٍ، قَالَ حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، قَالَ حَدَّثَنَا مَالِكُ بْنُ مِغْوَلٍ، عَنْ سُلَيْمَانَ الشَّيْبَانِيِّ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا فَلَبِسَهُ قَالَ ‏\n\"‏ شَغَلَنِي هَذَا عَنْكُمْ مُنْذُ الْيَوْمِ إِلَيْهِ نَظْرَةٌ وَإِلَيْكُمْ نَظْرَةٌ ‏\"‏ ‏.‏ ثُمَّ أَلْقَاهُ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Ibn 'Abbas that :",
+    "text": "The Messenger of Allah  took a ring and put it on, then he said: \"This distracted me from you all day, shifting my gaze from it to you (and back again).\" Then he threw it away."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

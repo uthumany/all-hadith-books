@@ -1,0 +1,16 @@
+{
+  "id": 147,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عُثْمَانَ الْبَصْرِيُّ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ بْنِ حَبِيبِ الْبَصْرِيُّ، قَالاَ حَدَّثَنَا قُرَيْشُ بْنُ أَنَسٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، أَنَّ عَبْدَ الرَّحْمَنِ بْنَ عَوْفٍ، أَوْصَى بِحَدِيقَةٍ لأُمَّهَاتِ الْمُؤْمِنِينَ بِيعَتْ بِأَرْبَعِ مِئَةِ أَلْفٍ ‏.‏ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Salamah:",
+    "text": "that 'Abdur-Rahman bin 'Awf left a garden for the Mothers of the Believers that was sold for four-hundred thousand."
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

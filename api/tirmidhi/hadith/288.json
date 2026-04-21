@@ -1,0 +1,16 @@
+{
+  "id": 288,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ غَالِبٍ، أَنَّ رَجُلاً، نَالَ مِنْ عَائِشَةَ عِنْدَ عَمَّارِ بْنِ يَاسِرٍ فَقَالَ اغْرُبْ مَقْبُوحًا مَنْبُوحًا أَتُؤْذِي حَبِيبَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated 'Amr bin Ghalib:",
+    "text": "that a man spoke negatively of 'Aishah before 'Ammar bin Yasir so he said: \"Be gone as one despicable and rejected! Do you insult the beloved of the Messenger of Allah (ﷺ)?\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

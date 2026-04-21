@@ -1,0 +1,16 @@
+{
+  "id": 619,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا بَكْرُ بْنُ خَلَفٍ أَبُو بِشْرٍ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ سُئِلَ النَّبِيُّ ـ صلى الله عليه وسلم ـ أَىُّ الصَّلاَةِ أَفْضَلُ قَالَ ‏\n\"‏ طُولُ الْقُنُوتِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Jabir bin ‘Abdullah said:",
+    "text": "“The Prophet (ﷺ) was\nasked: ‘Which prayer is best?’ He said: ‘That with the longer\nQunut.’”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

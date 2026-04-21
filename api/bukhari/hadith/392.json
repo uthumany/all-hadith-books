@@ -1,0 +1,16 @@
+{
+  "id": 392,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا زُهَيْرٌ، عَنْ أَبِي إِسْحَاقَ، أَنَّهُ سَمِعَ رَجُلاً، سَأَلَ الأَسْوَدَ فَهَلْ مِنْ مُدَّكِرٍ أَوْ مُذَّكِرٍ فَقَالَ سَمِعْتُ عَبْدَ اللَّهِ يَقْرَؤُهَا ‏{‏فَهَلْ مِنْ مُدَّكِرٍ‏}‏ قَالَ وَسَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقْرَؤُهَا ‏{‏فَهَلْ مِنْ مُدَّكِرٍ‏}‏ دَالاً‏.‏",
+  "english": {
+    "narrator": "Narrated Abu 'Is-haq:",
+    "text": "A man asked Al-Aswad, 'is it 'Fahal min-Muddakir' or'..Mudhdhakir?\" Al Aswad replied, 'I have \nheard `Abdullah bin Masud reciting it, 'Fahal-min Muddakir'; I too, heard the Prophet (ﷺ) reciting it \n'Fahal-min-Muddakir' with 'd'."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

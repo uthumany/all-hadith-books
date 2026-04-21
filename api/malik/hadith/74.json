@@ -1,0 +1,16 @@
+{
+  "id": 74,
+  "chapterId": 31,
+  "bookId": 7,
+  "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ ‏.‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعَتَيْنِ فِي بَيْعَةٍ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik that he had heard that the\nMessenger of Allah, may Allah bless him and grant him peace, forbade\ntwo sales in one sale."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

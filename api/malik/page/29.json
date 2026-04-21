@@ -1,0 +1,510 @@
+{
+  "page": 29,
+  "perPage": 50,
+  "totalPages": 40,
+  "totalCount": 1985,
+  "nextPage": 30,
+  "prevPage": 28,
+  "items": [
+    {
+      "id": 55,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي مَرْيَمَ، أَنَّهُ سَأَلَ سَعِيدَ بْنَ الْمُسَيَّبِ فَقَالَ إِنِّي رَجُلٌ أَبْتَاعُ الطَّعَامَ يَكُونُ مِنَ الصُّكُوكِ بِالْجَارِ فَرُبَّمَا ابْتَعْتُ مِنْهُ بِدِينَارٍ وَنِصْفِ دِرْهَمٍ فَأُعْطَى بِالنِّصْفِ طَعَامًا ‏.‏ فَقَالَ سَعِيدٌ لاَ وَلَكِنْ أَعْطِ أَنْتَ دِرْهَمًا وَخُذْ بَقِيَّتَهُ طَعَامًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that Muhammad ibn Abdullah ibn Abi\nMaryam asked Said ibn al-Musayyab's advice. \"I am a man who buys food\nwith receipts from al-Jar. Perhaps I will buy something for a dinar\nand half a dirham, and will be given food for a half.\" Said said, \"No.\nYou give a dirham, and take the rest in food.\" (A half dirham did not\nexist as a coin.)"
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ مُحَمَّدَ بْنَ سِيرِينَ، كَانَ يَقُولُ لاَ تَبِيعُوا الْحَبَّ فِي سُنْبُلِهِ حَتَّى يَبْيَضَّ ‏.‏ قَالَ مَالِكٌ مَنِ اشْتَرَى طَعَامًا بِسِعْرٍ مَعْلُومٍ إِلَى أَجَلٍ مُسَمًّى فَلَمَّا حَلَّ الأَجَلُ قَالَ الَّذِي عَلَيْهِ الطَّعَامُ لِصَاحِبِهِ لَيْسَ عِنْدِي طَعَامٌ فَبِعْنِي الطَّعَامَ الَّذِي لَكَ عَلَىَّ إِلَى أَجَلٍ ‏.‏ فَيَقُولُ صَاحِبُ الطَّعَامِ هَذَا لاَ يَصْلُحُ لأَنَّهُ قَدْ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الطَّعَامِ حَتَّى يُسْتَوْفَى ‏.‏ فَيَقُولُ الَّذِي عَلَيْهِ الطَّعَامُ لِغَرِيمِهِ فَبِعْنِي طَعَامًا إِلَى أَجَلٍ حَتَّى أَقْضِيَكَهُ ‏.‏ فَهَذَا لاَ يَصْلُحُ لأَنَّهُ إِنَّمَا يُعْطِيهِ طَعَامًا ثُمَّ يَرُدُّهُ إِلَيْهِ ‏.‏ فَيَصِيرُ الذَّهَبُ الَّذِي أَعْطَاهُ ثَمَنَ الَّذِي كَانَ لَهُ عَلَيْهِ وَيَصِيرُ الطَّعَامُ الَّذِي أَعْطَاهُ مُحَلَّلاً فِيمَا بَيْنَهُمَا وَيَكُونُ ذَلِكَ إِذَا فَعَلاَهُ بَيْعَ الطَّعَامِ قَبْلَ أَنْ يُسْتَوْفَى ‏.‏ قَالَ مَالِكٌ فِي رَجُلٍ لَهُ عَلَى رَجُلٍ طَعَامٌ ابْتَاعَهُ مِنْهُ وَلِغَرِيمِهِ عَلَى رَجُلٍ طَعَامٌ مِثْلُ ذَلِكَ الطَّعَامِ فَقَالَ الَّذِي عَلَيْهِ الطَّعَامُ لِغَرِيمِهِ أُحِيلُكَ عَلَى غَرِيمٍ لِي عَلَيْهِ مِثْلُ الطَّعَامِ الَّذِي لَكَ عَلَىَّ بِطَعَامِكَ الَّذِي لَكَ عَلَىَّ ‏.‏ قَالَ مَالِكٌ إِنْ كَانَ الَّذِي عَلَيْهِ الطَّعَامُ إِنَّمَا هُوَ طَعَامٌ ابْتَاعَهُ فَأَرَادَ أَنْ يُحِيلَ غَرِيمَهُ بِطَعَامٍ ابْتَاعَهُ فَإِنَّ ذَلِكَ لاَ يَصْلُحُ وَذَلِكَ بَيْعُ الطَّعَامِ قَبْلَ أَنْ يُسْتَوْفَى فَإِنْ كَانَ الطَّعَامُ سَلَفًا حَالاًّ فَلاَ بَأْسَ أَنْ يُحِيلَ بِهِ غَرِيمَهُ لأَنَّ ذَلِكَ لَيْسَ بِبَيْعٍ وَلاَ يَحِلُّ بَيْعُ الطَّعَامِ قَبْلَ أَنْ يُسْتَوْفَى لِنَهْىِ رَسُولِ اللَّهِ صلى الله عليه وسلم عَنْ ذَلِكَ غَيْرَ أَنَّ أَهْلَ الْعِلْمِ قَدِ اجْتَمَعُوا عَلَى أَنَّهُ لاَ بَأْسَ بِالشِّرْكِ وَالتَّوْلِيَةِ وَالإِقَالَةِ فِي الطَّعَامِ وَغَيْرِهِ ‏.‏ قَالَ مَالِكٌ وَذَلِكَ أَنَّ أَهْلَ الْعِلْمِ أَنْزَلُوهُ عَلَى وَجْهِ الْمَعْرُوفِ وَلَمْ يُنْزِلُوهُ عَلَى وَجْهِ الْبَيْعِ وَذَلِكَ مِثْلُ الرَّجُلِ يُسَلِّفُ الدَّرَاهِمَ النُّقَّصَ فَيُقْضَى دَرَاهِمَ وَازِنَةً فِيهَا فَضْلٌ فَيَحِلُّ لَهُ ذَلِكَ وَيَجُوزُ وَلَوِ اشْتَرَى مِنْهُ دَرَاهِمَ نُقَّصًا بِوَازِنَةٍ لَمْ يَحِلَّ ذَلِكَ وَلَوِ اشْتَرَطَ عَلَيْهِ حِينَ أَسْلَفَهُ وَازِنَةً وَإِنَّمَا أَعْطَاهُ نُقَّصًا لَمْ يَحِلَّ لَهُ ذَلِكَ ‏.‏ قَالَ مَالِكٌ وَمِمَّا يُشْبِهُ ذَلِكَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ الْمُزَابَنَةِ وَأَرْخَصَ فِي بَيْعِ الْعَرَايَا بِخَرْصِهَا مِنَ التَّمْرِ وَإِنَّمَا فُرِقَ بَيْنَ ذَلِكَ أَنَّ بَيْعَ الْمُزَابَنَةِ بَيْعٌ عَلَى وَجْهِ الْمُكَايَسَةِ وَالتِّجَارَةِ وَأَنَّ بَيْعَ الْعَرَايَا عَلَى وَجْهِ الْمَعْرُوفِ لاَ مُكَايَسَةَ فِيهِ ‏.‏ قَالَ مَالِكٌ وَلاَ يَنْبَغِي أَنْ يَشْتَرِيَ رَجُلٌ طَعَامًا بِرُبُعٍ أَوْ ثُلُثٍ أَوْ كِسْرٍ مِنْ دِرْهَمٍ عَلَى أَنْ يُعْطَى بِذَلِكَ طَعَامًا إِلَى أَجَلٍ وَلاَ بَأْسَ أَنْ يَبْتَاعَ الرَّجُلُ طَعَامًا بِكِسْرٍ مِنْ دِرْهَمٍ إِلَى أَجَلٍ ثُمَّ يُعْطَى دِرْهَمًا وَيَأْخُذُ بِمَا بَقِيَ لَهُ مِنْ دِرْهَمِهِ سِلْعَةً مِنَ السِّلَعِ لأَنَّهُ أَعْطَى الْكِسْرَ الَّذِي عَلَيْهِ فِضَّةً وَأَخَذَ بِبَقِيَّةِ دِرْهَمِهِ سِلْعَةً فَهَذَا لاَ بَأْسَ بِهِ ‏.‏ قَالَ مَالِكٌ وَلاَ بَأْسَ أَنْ يَضَعَ الرَّجُلُ عِنْدَ الرَّجُلِ دِرْهَمًا ثُمَّ يَأْخُذُ مِنْهُ بِرُبُعٍ أَوْ بِثُلُثٍ أَوْ بِكِسْرٍ مَعْلُومٍ سِلْعَةً مَعْلُومَةً فَإِذَا لَمْ يَكُنْ فِي ذَلِكَ سِعْرٌ مَعْلُومٌ وَقَالَ الرَّجُلُ آخُذُ مِنْكَ بِسِعْرِ كُلِّ يَوْمٍ فَهَذَا لاَ يَحِلُّ لأَنَّهُ غَرَرٌ يَقِلُّ مَرَّةً وَيَكْثُرُ مَرَّةً وَلَمْ يَفْتَرِقَا عَلَى بَيْعٍ مَعْلُومٍ ‏.‏ قَالَ مَالِكٌ وَمَنْ بَاعَ طَعَامًا جِزَافًا وَلَمْ يَسْتَثْنِ مِنْهُ شَيْئًا ثُمَّ بَدَا لَهُ أَنْ يَشْتَرِيَ مِنْهُ شَيْئًا فَإِنَّهُ لاَ يَصْلُحُ لَهُ أَنْ يَشْتَرِيَ مِنْهُ شَيْئًا إِلاَّ مَا كَانَ يَجُوزُ لَهُ أَنْ يَسْتَثْنِيَ مِنْهُ وَذَلِكَ الثُّلُثُ فَمَا دُونَهُ فَإِنْ زَادَ عَلَى الثُّلُثِ صَارَ ذَلِكَ إِلَى الْمُزَابَنَةِ وَإِلَى مَا يُكْرَهُ فَلاَ يَنْبَغِي لَهُ أَنْ يَشْتَرِيَ مِنْهُ شَيْئًا إِلاَّ مَا كَانَ يَجُوزُ لَهُ أَنْ يَسْتَثْنِيَ مِنْهُ وَلاَ يَجُوزُ لَهُ أَنْ يَسْتَثْنِيَ مِنْهُ إِلاَّ الثُّلُثَ فَمَا دُونَهُ وَهَذَا الأَمْرُ الَّذِي لاَ اخْتِلاَفَ فِيهِ عِنْدَنَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that Muhammad\nSirin used to say, \"Do not sell grain on the ears until it is white.\"\n\n\nMalik said, \"If someone buys food for a known price to be\ndelivered at a stated date, and when the date comes, the one who owes\nthe food says, 'I do not have any food, sell me the food which I owe\nyou with delayed terms.' The owner of the food says, 'This is not\ngood, because the Messenger of Allah, may Allah bless him and grant\nhim peace, forbade selling food until the deal was completed.' The one\nwho owes the food says to his creditor, 'Sell me any kind of food on\ndelayed terms until I discharge the debt to you.' This is not good\nbecause he gives him food and then he returns it to him. The gold\nwhich he gave him becomes the price of that which is his right against\nhim and the food which he gave him becomes what clears what is between\nthem. If they do that, it becomes the sale of food before the deal is\ncomplete.\"\n\n\nMalik spoke about a man who was owed food which he\nhad purchased from a man and this man was owed the like of that food\nby another man. The one who owed the food said to his creditor, \"I\nwill refer you to my debtor who owes me the same amount of food as I\nowe you, so that you may obtain the food which I owe you .\"\n\n\nMalik said, \"If the man who had to deliver the food, had gone out, and\nbought the food to pay off his creditor, that is not good. That is\nselling food before taking possession of it. If the food is an advance\nwhich falls due at that particular time, there is no harm in paying\noff his creditor with it because that is nota sale. It is not halal to\nsell food before receiving it in full since the Messenger of Allah,\nmay Allah bless him and grant him peace, forbade that. However, the\npeople of knowledge agree that there is no harm in partnership,\ntransfer of responsibility and revocation in sales of food and other\ngoods.\"\n\n\nMalik said, \"That is because the people of knowledge\nconsider it as a favour rendered. They do not consider it as a sale.\nIt is like a man lending light dirhams. He is then paid back in\ndirhams of full weight, and so gets back more than he lent. That is\nhalal for him and permitted. Had a man bought defective dirhams from\nhim as being the full weight, that would not be halal. Had it been\nstipulated to him that he lend full weight in dirhams, and then he\ngave faulty ones, that would not be halal for him.\""
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "",
+      "english": {
+        "narrator": "",
+        "text": "Malik said, \"Another example of that is that the Messenger of\nAllah, may Allah bless him and grant him peace, forbade the sale\ncalled muzabana and granted an indulgence in the ariya for computing\nthe equivalent in dates. It was distinguished between them that the\nmuzabana-sale was based on shrewdness and trade, and the ariya sale\nwas based on a favour rendered, and there was no shrewdness in it.\"\n\n\nMalik said, \"A man must not buy food for a fourth, a third,\nor a fraction of a dirham on the basis that he be given that food on\ncredit. There is no harm in a man buying food for a fraction of a\ndirham on credit and then he gives a dirham and takes goods with what\nremains of his dirham because he gave the fraction he owed as silver,\nand took goods to make up the rest of his dirham. There is no harm in\nthat transaction.\"\n\n\nMalik said, \"There is no harm in a man\nplacing a dirham with another man and then taking from him known goods\nfor a fourth, third, or a known fraction. If there was not a known\nprice on the goods and the man said, 'I will take them from you for\nthe price of each day,' this is not halal because there is\nuncertainty. It might be less one time, and more another time, and\nthey would not part with a known sale.\"\n\n\nMalik said, \"If\nsomeone sells some food without measuring precisely and does not\nexclude any of it from the sale and then it occurs to him to buy some\nof it, it is not good for him to buy any of it except what it would be\npermitted for him to exclude from it. That is a third or less. If it\nis more than a third, it becomes muzabana and is disapproved. He must\nonly purchase from what he would be permitted to exclude, and he is\nonly permitted to exclude a third or less than that. This is the way\nof doing things in which there is no dispute with us.\""
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عُمَرَ بْنَ الْخَطَّابِ، قَالَ لاَ حُكْرَةَ فِي سُوقِنَا لاَ يَعْمِدُ رِجَالٌ بِأَيْدِيهِمْ فُضُولٌ مِنْ أَذْهَابٍ إِلَى رِزْقٍ مِنْ رِزْقِ اللَّهِ نَزَلَ بِسَاحَتِنَا فَيَحْتَكِرُونَهُ عَلَيْنَا وَلَكِنْ أَيُّمَا جَالِبٍ جَلَبَ عَلَى عَمُودِ كَبِدِهِ فِي الشِّتَاءِ وَالصَّيْفِ فَذَلِكَ ضَيْفُ عُمَرَ فَلْيَبِعْ كَيْفَ شَاءَ اللَّهُ وَلْيُمْسِكْ كَيْفَ شَاءَ اللَّهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that Umar ibn\nal-Khattab said, \"There is no hoarding in our market, and men who have\nexcess gold in their hands should not buy up one of Allah's provisions\nwhich he has sent to our courtyard and then hoard it up against us.\nSomeone who brings imported goods through great fatigue to himself in\nthe summer and winter, that person is the guest of Umar. Let him sell\nwhat Allah wills and keep what Allah wills.\""
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يُونُسَ بْنِ يُوسُفَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، مَرَّ بِحَاطِبِ بْنِ أَبِي بَلْتَعَةَ وَهُوَ يَبِيعُ زَبِيبًا لَهُ بِالسُّوقِ فَقَالَ لَهُ عُمَرُ بْنُ الْخَطَّابِ إِمَّا أَنْ تَزِيدَ فِي السِّعْرِ وَإِمَّا أَنْ تُرْفَعَ مِنْ سُوقِنَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Yunus ibn Yusuf from Said ibn\nal-Musayyab that Umar ibn al-Khattab passed by Hatab ibn Abi Baltaa\nwho was underselling some of his raisins in the market. Umar ibn al-\nKhattab said to him, \"Either increase the price or leave our market.\""
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عُثْمَانَ بْنَ عَفَّانَ، كَانَ يَنْهَى عَنِ الْحُكْرَةِ، ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that Uthman ibn\nAffan forbade hoarding ."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنْ حَسَنِ بْنِ مُحَمَّدِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ، أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ، بَاعَ جَمَلاً لَهُ يُدْعَى عُصَيْفِيرًا بِعِشْرِينَ بَعِيرًا إِلَى أَجَلٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Salih ibn Kaysan from Hasan\nibn Muhammad ibn Ali ibn Abi Talib that Ali ibn Abi Talib sold one of\nhis camels called Usayfir for 20 camels to be delivered later."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، اشْتَرَى رَاحِلَةً بِأَرْبَعَةِ أَبْعِرَةٍ مَضْمُونَةٍ عَلَيْهِ يُوفِيهَا صَاحِبَهَا بِالرَّبَذَةِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nbought a female riding-camel for four camels and he guaranteed to give\nthem in full to the buyer at ar-Rabadha."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ سَأَلَ ابْنَ شِهَابٍ عَنْ بَيْعٍ الْحَيَوَانِ، اثْنَيْنِ بِوَاحِدٍ إِلَى أَجَلٍ فَقَالَ لاَ بَأْسَ بِذَلِكَ ‏.‏ قَالَ مَالِكٌ الأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا أَنَّهُ لاَ بَأْسَ بِالْجَمَلِ بِالْجَمَلِ مِثْلِهِ وَزِيَادَةِ دَرَاهِمَ يَدًا بِيَدٍ وَلاَ بَأْسَ بِالْجَمَلِ بِالْجَمَلِ مِثْلِهِ وَزِيَادَةِ دَرَاهِمَ الْجَمَلُ بِالْجَمَلِ يَدًا بِيَدٍ وَالدَّرَاهِمُ إِلَى أَجَلٍ ‏.‏ قَالَ وَلاَ خَيْرَ فِي الْجَمَلِ بِالْجَمَلِ مِثْلِهِ وَزِيَادَةِ دَرَاهِمَ الدَّرَاهِمُ نَقْدًا وَالْجَمَلُ إِلَى أَجَلٍ وَإِنْ أَخَّرْتَ الْجَمَلَ وَالدَّرَاهِمَ لاَ خَيْرَ فِي ذَلِكَ أَيْضًا ‏.‏ قَالَ مَالِكٌ وَلاَ بَأْسَ أَنْ يَبْتَاعَ الْبَعِيرَ النَّجِيبَ بِالْبَعِيرَيْنِ أَوْ بِالأَبْعِرَةِ مِنَ الْحَمُولَةِ مِنْ مَاشِيَةِ الإِبِلِ وَإِنْ كَانَتْ مِنْ نَعَمٍ وَاحِدَةٍ فَلاَ بَأْسَ أَنْ يُشْتَرَى مِنْهَا اثْنَانِ بِوَاحِدٍ إِلَى أَجَلٍ إِذَا اخْتَلَفَتْ فَبَانَ اخْتِلاَفُهَا وَإِنْ أَشْبَهَ بَعْضُهَا بَعْضًا وَاخْتَلَفَتْ أَجْنَاسُهَا أَوْ لَمْ تَخْتَلِفْ فَلاَ يُؤْخَذُ مِنْهَا اثْنَانِ بِوَاحِدٍ إِلَى أَجَلٍ ‏.‏ قَالَ مَالِكٌ وَتَفْسِيرُ مَا كُرِهَ مِنْ ذَلِكَ أَنْ يُؤْخَذَ الْبَعِيرُ بِالْبَعِيرَيْنِ لَيْسَ بَيْنَهُمَا تَفَاضُلٌ فِي نَجَابَةٍ وَلاَ رِحْلَةٍ فَإِذَا كَانَ هَذَا عَلَى مَا وَصَفْتُ لَكَ فَلاَ يُشْتَرَى مِنْهُ اثْنَانِ بِوَاحِدٍ إِلَى أَجَلٍ وَلاَ بَأْسَ أَنْ تَبِيعَ مَا اشْتَرَيْتَ مِنْهَا قَبْلَ أَنْ تَسْتَوْفِيَهُ مِنْ غَيْرِ الَّذِي اشْتَرَيْتَهُ مِنْهُ إِذَا انْتَقَدْتَ ثَمَنَهُ ‏.‏ قَالَ مَالِكٌ وَمَنْ سَلَّفَ فِي شَىْءٍ مِنَ الْحَيَوَانِ إِلَى أَجَلٍ مُسَمًّى فَوَصَفَهُ وَحَلاَّهُ وَنَقَدَ ثَمَنَهُ فَذَلِكَ جَائِزٌ وَهُوَ لاَزِمٌ لِلْبَائِعِ وَالْمُبْتَاعِ عَلَى مَا وَصَفَا وَحَلَّيَا وَلَمْ يَزَلْ ذَلِكَ مِنْ عَمَلِ النَّاسِ الْجَائِزِ بَيْنَهُمْ وَالَّذِي لَمْ يَزَلْ عَلَيْهِ أَهْلُ الْعِلْمِ بِبَلَدِنَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me that Malik asked Ibn Shihab about selling\nanimals, two for one with delayed terms. He said, \"There is no harm in\nit.\"\n\n\nMalik said, \"The generally agreed on way of doing things\namong us is that there is no harm in bartering a camel for a camel\nlike it and adding some dirhams to the exchange, from hand to hand.\nThere is no harm in bartering a camel for a camel like it with some\ndirhams on top of the exchange, the camels to be exchanged from hand\nto hand, and the dirhams to be paid within a period.\" He said, \"There\nis no good however in bartering a camel for a camel like it with some\ndirhams on top of it, with the dirhams paid in cash and the camel to\nbe delivered later. If both the camel and the dirhams are deferred\nthere is no good in that either.\"\n\n\nMalik said, \"There is no\nharm in buying a riding camel with two or more pack-camels, if they\nare from inferior stock. There is no harm in bartering two of them for\none with delayed terms, if they are different and their difference is\nclear. If they resemble each other whether their species are different\nor not, two are not to be taken for one with delayed terms.\"\n\n\nMalik said, \"The explanation of what is disapproved of in that, is\nthat a camel should not be bought with two camels when there is no\ndistinction between them in speed or hardiness. If this is according\nto what I have described to you, then one does not buy two of them for\none with delayed terms. There is no harm in selling those of them you\nbuy before you complete the deal to somebody other than the one from\nwhom you bought them if you get the price in cash.\"\n\n\nMalik\nsaid, \"It is permitted for someone to advance something on animals for\na fixed term and describe the amount and pay its price in cash.\nWhatever the buyer and seller have described is obliged for them. That\nis still permitted behaviour between people and what the people of\nknowledge in our land do.\""
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ حَبَلِ الْحَبَلَةِ ‏.‏ وَكَانَ بَيْعًا يَتَبَايَعُهُ أَهْلُ الْجَاهِلِيَّةِ كَانَ الرَّجُلُ يَبْتَاعُ الْجَزُورَ إِلَى أَنْ تُنْتَجَ النَّاقَةُ ‏.‏ ثُمَّ تُنْتَجَ الَّتِي فِي بَطْنِهَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malih from Nafi from Abdullah ibn Umar\nthat the Messenger of Allah, may Allah bless him and grant him peace,\nforbade the transaction called habal alhabala. It was a transaction\nwhich the people of Jahiliya practised. A man would buy the unborn\noffspring of the unborn offspring of a she-camel."
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ قَالَ لاَ رِبًا فِي الْحَيَوَانِ وَإِنَّمَا نُهِيَ مِنَ الْحَيَوَانِ عَنْ ثَلاَثَةٍ عَنِ الْمَضَامِينِ وَالْمَلاَقِيحِ وَحَبَلِ الْحَبَلَةِ ‏.‏ وَالْمَضَامِينُ بَيْعُ مَا فِي بُطُونِ إِنَاثِ الإِبِلِ وَالْمَلاَقِيحُ بَيْعُ مَا فِي ظُهُورِ الْجِمَالِ ‏.‏ قَالَ مَالِكٌ لاَ يَنْبَغِي أَنْ يَشْتَرِيَ أَحَدٌ شَيْئًا مِنَ الْحَيَوَانِ بِعَيْنِهِ إِذَا كَانَ غَائِبًا عَنْهُ وَإِنْ كَانَ قَدْ رَآهُ وَرَضِيَهُ عَلَى أَنْ يَنْقُدَ ثَمَنَهُ لاَ قَرِيبًا وَلاَ بَعِيدًا ‏.‏ قَالَ مَالِكٌ وَإِنَّمَا كُرِهَ ذَلِكَ لأَنَّ الْبَائِعَ يَنْتَفِعُ بِالثَّمَنِ وَلاَ يُدْرَى هَلْ تُوجَدُ تِلْكَ السِّلْعَةُ عَلَى مَا رَآهَا الْمُبْتَاعُ أَمْ لاَ فَلِذَلِكَ كُرِهَ ذَلِكَ وَلاَ بَأْسَ بِهِ إِذَا كَانَ مَضْمُونًا مَوْصُوفًا ‏.‏",
+      "english": {
+        "narrator": "Yahya related to me from Malik from Ibn Shihab that Said ibn al-\nMusayyab said, \"There is no usury in animals. There are three things\nforbidden in animals:",
+        "text": "al-madamin, al-malaqih and habal al-habala. Al-\nmadamin is the sale of what is in the wombs of female camels. Al-\nmalaqih is the sale of the breeding qualities of camels\" (i.e. for\nstud).\n\n\nMalik said, \"No one should buy a specified animal when\nit is concealed from him or in another place, even if he has already\nseen it, very recently or not so recently, and was pleased enough with\nit to pay its price in cash.\"\n\n\nMalik said, \"That is\ndisapproved of because the seller makes use of the price and it is not\nknown whether or not those goods are found to be as the buyer saw them\nor not. For that reason, it is disapproved of. There is no harm in it\nif it is described and guaranteed.\""
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّ رَسُولَ اللَّهِ",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Zayd ibn Aslam from Said ibn\nal-Musayyab that the Messenger of Allah, may Allah bless him and grant\nhim peace, forbade bartering live animals for meat."
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، أَنَّهُ سَمِعَ سَعِيدَ بْنَ الْمُسَيَّبِ، يَقُولُ مِنْ مَيْسِرِ أَهْلِ الْجَاهِلِيَّةِ بَيْعُ الْحَيَوَانِ بِاللَّحْمِ بِالشَّاةِ وَالشَّاتَيْنِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Da'ud ibn al-Husayn that he\nheard Said ibn alMusayyab say, \"Part of the gambling of the people of\nJahiliya was bartering live animals for slaughtered meat, for instance\none live sheep for two slaughtered sheep.\""
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ كَانَ يَقُولُ نُهِيَ عَنْ بَيْعِ الْحَيَوَانِ، بِاللَّحْمِ ‏.‏ قَالَ أَبُو الزِّنَادِ فَقُلْتُ لِسَعِيدِ بْنِ الْمُسَيَّبِ أَرَأَيْتَ رَجُلاً اشْتَرَى شَارِفًا بِعَشَرَةِ شِيَاهٍ فَقَالَ سَعِيدٌ إِنْ كَانَ اشْتَرَاهَا لِيَنْحَرَهَا فَلاَ خَيْرَ فِي ذَلِكَ ‏.‏ قَالَ أَبُو الزِّنَادِ وَكُلُّ مَنْ أَدْرَكْتُ مِنَ النَّاسِ يَنْهَوْنَ عَنْ بَيْعِ الْحَيَوَانِ بِاللَّحْمِ ‏.‏ قَالَ أَبُو الزِّنَادِ وَكَانَ ذَلِكَ يُكْتَبُ فِي عُهُودِ الْعُمَّالِ فِي زَمَانِ أَبَانَ بْنِ عُثْمَانَ وَهِشَامِ بْنِ إِسْمَاعِيلَ يَنْهَوْنَ عَنْ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abu'z-Zinad that Said ibn al-\nMusayyab said, \"Bartering live animals for dead meat is forbidden.\"\nAbu'z-Zinad said, \"I said to Said ibn Musayyab, 'What do you think of\na man buying an old camel for 10 sheep?' \" Said said, \"If he buys it\nto slaughter it, there is no good in it.\" Abu'z-Zinad added, \"All the\npeople (i.e. companions) that I have seen forbade bartering live\nanimals for meat.\"\n\n\nAbu'z-Zinad said, \"This used to be written\nin the appointment letters of governors in the time of Aban ibn Uthman\nand Hisham ibn Ismail.\""
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "",
+      "english": {
+        "narrator": "",
+        "text": "Malik said, \"It is the generally agreed on way of doing things\namong us that the meat of camels, cattle, sheep and so on is not to be\nbartered one for one, except like for like, weight for weight, from\nhand to hand. There is no harm in that. If it is not weighed, then it\nis estimated to be like for like from hand to hand.\"\n\n\nMalik\nsaid, \"There is no harm in bartering the meat of fish for the meat of\ncamels, cattle, and sheep and so on two or more for one, from hand to\nhand. If delayed terms enter the transaction however, there is no good\nin it.\"\n\n\nMalik said, \"I think that poultry is different from\nthe meat of cattle and fish. I see no harm in selling some of it for\nsomething different, more of one than another, from hand to hand. None\nof that is to be sold on delayed terms.\""
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، عَنْ أَبِي مَسْعُودٍ الأَنْصَارِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ ثَمَنِ الْكَلْبِ وَمَهْرِ الْبَغِيِّ وَحُلْوَانِ الْكَاهِنِ ‏.‏ يَعْنِي بِمَهْرِ الْبَغِيِّ مَا تُعْطَاهُ الْمَرْأَةُ عَلَى الزِّنَا وَحُلْوَانُ الْكَاهِنِ رَشْوَتُهُ وَمَا يُعْطَى عَلَى أَنْ يَتَكَهَّنَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Abu Bakr ibn\nAbd ar-Rahman ibn al-Harith ibn Hisham from Abu Masud al-Ansari that\nthe Messenger of Allah, may Allah bless him and grant him peace,\nforbade the sale price of a dog, the earnings of a prostitute and the\nearnings of a fortune teller.\n\n\nBy the earnings of a prostitute\nhe meant what a woman was given for fornication. The earnings of a\nfortune teller were what he was given to tell a fortune.\n\n\nMalik said, \"I disapprove of the price of a dog, whether it is a\nhunting dog or otherwise because the Messenger of Allah, may Allah\nbless him and grant him peace, forbade the price of a dog.\""
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعٍ وَسَلَفٍ ‏.‏ قَالَ مَالِكٌ وَتَفْسِيرُ ذَلِكَ أَنْ يَقُولَ الرَّجُلُ لِلرَّجُلِ آخُذُ سِلْعَتَكَ بِكَذَا وَكَذَا عَلَى أَنْ تُسْلِفَنِي كَذَا وَكَذَا ‏.‏ فَإِنْ عَقَدَا بَيْعَهُمَا عَلَى هَذَا فَهُوَ غَيْرُ جَائِزٍ فَإِنْ تَرَكَ الَّذِي اشْتَرَطَ السَّلَفَ مَا اشْتَرَطَ مِنْهُ كَانَ ذَلِكَ الْبَيْعُ جَائِزًا ‏.‏ قَالَ مَالِكٌ وَلاَ بَأْسَ أَنْ يُشْتَرَى الثَّوْبُ مِنَ الْكَتَّانِ أَوِ الشَّطَوِيِّ أَوِ الْقَصَبِيِّ بِالأَثْوَابِ مِنَ الإِتْرِيبِيِّ أَوِ الْقَسِّيِّ أَوِ الزِّيقَةِ أَوِ الثَّوْبِ الْهَرَوِيِّ أَوِ الْمَرْوِيِّ بِالْمَلاَحِفِ الْيَمَانِيَّةِ وَالشَّقَائِقِ وَمَا أَشْبَهَ ذَلِكَ الْوَاحِدُ بِالاِثْنَيْنِ أَوِ الثَّلاَثَةِ يَدًا بِيَدٍ أَوْ إِلَى أَجَلٍ وَإِنْ كَانَ مِنْ صِنْفٍ وَاحِدٍ فَإِنْ دَخَلَ ذَلِكَ نَسِيئَةٌ فَلاَ خَيْرَ فِيهِ ‏.‏ قَالَ مَالِكٌ وَلاَ يَصْلُحُ حَتَّى يَخْتَلِفَ فَيَبِينَ اخْتِلاَفُهُ فَإِذَا أَشْبَهَ بَعْضُ ذَلِكَ بَعْضًا وَإِنِ اخْتَلَفَتْ أَسْمَاؤُهُ فَلاَ يَأْخُذْ مِنْهُ اثْنَيْنِ بِوَاحِدٍ إِلَى أَجَلٍ وَذَلِكَ أَنْ يَأْخُذَ الثَّوْبَيْنِ مِنَ الْهَرَوِيِّ بِالثَّوْبِ مِنَ الْمَرْوِيِّ أَوِ الْقُوهِيِّ إِلَى أَجَلٍ أَوْ يَأْخُذَ الثَّوْبَيْنِ مِنَ الْفُرْقُبِيِّ بِالثَّوْبِ مِنَ الشَّطَوِيِّ فَإِذَا كَانَتْ هَذِهِ الأَجْنَاسُ عَلَى هَذِهِ الصِّفَةِ فَلاَ يُشْتَرَى مِنْهَا اثْنَانِ بِوَاحِدٍ إِلَى أَجَلٍ ‏.‏ قَالَ مَالِكٌ وَلاَ بَأْسَ أَنْ تَبِيعَ مَا اشْتَرَيْتَ مِنْهَا قَبْلَ أَنْ تَسْتَوْفِيَهُ مِنْ غَيْرِ صَاحِبِهِ الَّذِي اشْتَرَيْتَهُ مِنْهُ إِذَا انْتَقَدْتَ ثَمَنَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that the\nMessenger of Allah, may Allah bless him and grant him peace, forbade\n'selling and lending.'\n\n\nMalik said, \"The explanation of what\nthat meant is that one man says to another, 'I will take your goods\nfor such-and-such if you lend me such-and-such.' If they agree to a\ntransaction in this manner, it is not permitted. If the one who\nstipulates the loan abandons his stipulation, then the sale is\npermitted.\"\n\n\nMalik said, \"There is no harm in exchanging linen\nfrom Shata, for garments from Itribi, or Qass, or Ziqa. Or the cloth\nof Herat or Merv for Yemeni cloaks and shawls and such like as one for\ntwo or three, from hand to hand or with delayed terms. If the goods\nare of the same kind, and deferment enters into the transaction, there\nis no good in it.\"\n\n\nMalik said, \"It is not good unless they\nare different, and the difference between them is clear. When they\nresemble each other, even if the names are different, do not take two\nfor one with delayed terms, for instance two garments of Herat for one\nfrom Merv or Quhy with delayed terms, ortwo garments of Furqub for one\nfrom Shata. All these sorts are of the same description, so do not buy\ntwo for one, on delayed terms.\"\n\n\nMalik said, \"There is no harm\nin selling what you buy of things of this nature, before you complete\nthe deal, to some one other than the person from whom you purchased\nthem if the price was paid in cash.\""
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، أَنَّهُ قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ، وَرَجُلٌ، يَسْأَلُهُ عَنْ رَجُلٍ، سَلَّفَ فِي سَبَائِبَ فَأَرَادَ بَيْعَهَا قَبْلَ أَنْ يَقْبِضَهَا فَقَالَ ابْنُ عَبَّاسٍ تِلْكَ الْوَرِقُ بِالْوَرِقِ ‏.‏ وَكَرِهَ ذَلِكَ ‏.‏ قَالَ مَالِكٌ وَذَلِكَ فِيمَا نُرَى وَاللَّهُ أَعْلَمُ أَنَّهُ أَرَادَ أَنْ يَبِيعَهَا مِنْ صَاحِبِهَا الَّذِي اشْتَرَاهَا مِنْهُ بِأَكْثَرَ مِنَ الثَّمَنِ الَّذِي ابْتَاعَهَا بِهِ وَلَوْ أَنَّهُ بَاعَهَا مِنْ غَيْرِ الَّذِي اشْتَرَاهَا مِنْهُ لَمْ يَكُنْ بِذَلِكَ بَأْسٌ ‏.‏ قَالَ مَالِكٌ الأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا فِيمَنْ سَلَّفَ فِي رَقِيقٍ أَوْ مَاشِيَةٍ أَوْ عُرُوضٍ فَإِذَا كَانَ كُلُّ شَىْءٍ مِنْ ذَلِكَ مَوْصُوفًا فَسَلَّفَ فِيهِ إِلَى أَجَلٍ فَحَلَّ الأَجَلُ فَإِنَّ الْمُشْتَرِيَ لاَ يَبِيعُ شَيْئًا مِنْ ذَلِكَ مِنَ الَّذِي اشْتَرَاهُ مِنْهُ بِأَكْثَرَ مِنَ الثَّمَنِ الَّذِي سَلَّفَهُ فِيهِ قَبْلَ أَنْ يَقْبِضَ مَا سَلَّفَهُ فِيهِ وَذَلِكَ أَنَّهُ إِذَا فَعَلَهُ فَهُوَ الرِّبَا صَارَ الْمُشْتَرِي إِنْ أَعْطَى الَّذِي بَاعَهُ دَنَانِيرَ أَوْ دَرَاهِمَ فَانْتَفَعَ بِهَا فَلَمَّا حَلَّتْ عَلَيْهِ السِّلْعَةُ وَلَمْ يَقْبِضْهَا الْمُشْتَرِي بَاعَهَا مِنْ صَاحِبِهَا بِأَكْثَرَ مِمَّا سَلَّفَهُ فِيهَا فَصَارَ أَنْ رَدَّ إِلَيْهِ مَا سَلَّفَهُ وَزَادَهُ مِنْ عِنْدِهِ ‏.‏ قَالَ مَالِكٌ مَنْ سَلَّفَ ذَهَبًا أَوْ وَرِقًا فِي حَيَوَانٍ أَوْ عُرُوضٍ إِذَا كَانَ مَوْصُوفًا إِلَى أَجَلٍ مُسَمًّى ثُمَّ حَلَّ الأَجَلُ فَإِنَّهُ لاَ بَأْسَ أَنْ يَبِيعَ الْمُشْتَرِي تِلْكَ السِّلْعَةَ مِنَ الْبَائِعِ قَبْلَ أَنْ يَحِلَّ الأَجَلُ أَوْ بَعْدَ مَا يَحِلُّ بِعَرْضٍ مِنَ الْعُرُوضِ يُعَجِّلُهُ وَلاَ يُؤَخِّرُهُ بَالِغًا مَا بَلَغَ ذَلِكَ الْعَرْضُ إِلاَّ الطَّعَامَ فَإِنَّهُ لاَ يَحِلُّ أَنْ يَبِيعَهُ حَتَّى يَقْبِضَهُ وَلِلْمُشْتَرِي أَنْ يَبِيعَ تِلْكَ السِّلْعَةَ مِنْ غَيْرِ صَاحِبِهِ الَّذِي ابْتَاعَهَا مِنْهُ بِذَهَبٍ أَوْ وَرِقٍ أَوْ عَرْضٍ مِنَ الْعُرُوضِ يَقْبِضُ ذَلِكَ وَلاَ يُؤَخِّرُهُ لأَنَّهُ إِذَا أَخَّرَ ذَلِكَ قَبُحَ وَدَخَلَهُ مَا يُكْرَهُ مِنَ الْكَالِئِ بِالْكَالِئِ وَالْكَالِئُ بِالْكَالِئِ أَنْ يَبِيعَ الرَّجُلُ دَيْنًا لَهُ عَلَى رَجُلٍ بِدَيْنٍ عَلَى رَجُلٍ آخَرَ ‏.‏ قَالَ مَالِكٌ وَمَنْ سَلَّفَ فِي سِلْعَةٍ إِلَى أَجَلٍ وَتِلْكَ السِّلْعَةُ مِمَّا لاَ يُؤْكَلُ وَلاَ يُشْرَبُ فَإِنَّ الْمُشْتَرِيَ يَبِيعُهَا مِمَّنْ شَاءَ بِنَقْدٍ أَوْ عَرْضٍ قَبْلَ أَنْ يَسْتَوْفِيَهَا مِنْ غَيْرِ صَاحِبِهَا الَّذِي اشْتَرَاهَا مِنْهُ وَلاَ يَنْبَغِي لَهُ أَنْ يَبِيعَهَا مِنَ الَّذِي ابْتَاعَهَا مِنْهُ إِلاَّ بِعَرْضٍ يَقْبِضُهُ وَلاَ يُؤَخِّرُهُ ‏.‏ قَالَ مَالِكٌ وَإِنْ كَانَتِ السِّلْعَةُ لَمْ تَحِلَّ فَلاَ بَأْسَ بِأَنْ يَبِيعَهَا مِنْ صَاحِبِهَا بِعَرْضٍ مُخَالِفٍ لَهَا بَيِّنٍ خِلاَفُهُ يَقْبِضُهُ وَلاَ يُؤَخِّرُهُ ‏.‏ قَالَ مَالِكٌ فِيمَنْ سَلَّفَ دَنَانِيرَ أَوْ دَرَاهِمَ فِي أَرْبَعَةِ أَثْوَابٍ مَوْصُوفَةٍ إِلَى أَجَلٍ فَلَمَّا حَلَّ الأَجَلُ تَقَاضَى صَاحِبَهَا فَلَمْ يَجِدْهَا عِنْدَهُ وَوَجَدَ عِنْدَهُ ثِيَابًا دُونَهَا مِنْ صِنْفِهَا فَقَالَ لَهُ الَّذِي عَلَيْهِ الأَثْوَابُ أُعْطِيكَ بِهَا ثَمَانِيَةَ أَثْوَابٍ مِنْ ثِيَابِي هَذِهِ ‏.‏ إِنَّهُ لاَ بَأْسَ بِذَلِكَ إِذَا أَخَذَ تِلْكَ الأَثْوَابَ الَّتِي يُعْطِيهِ قَبْلَ أَنْ يَفْتَرِقَا فَإِنْ دَخَلَ ذَلِكَ الأَجَلُ فَإِنَّهُ لاَ يَصْلُحُ وَإِنْ كَانَ ذَلِكَ قَبْلَ مَحِلِّ الأَجَلِ فَإِنَّهُ لاَ يَصْلُحُ أَيْضًا إِلاَّ أَنْ يَبِيعَهُ ثِيَابًا لَيْسَتْ مِنْ صِنْفِ الثِّيَابِ الَّتِي سَلَّفَهُ فِيهَا ‏.‏",
+      "english": {
+        "narrator": "Yahya related to me from Malik from Yahya ibn Said that al-Qasim\nibn Muhammad said, ''I heard Abdullah ibn Abbas say, when a man asked\nhim about a man making an advance on some garments and then wanting to\nsell them back before taking possession of them, 'That is silver for\nsilver,' and he disapproved of it.\"\n\n\nMalik said, \"Our opinion\nis - and Allah knows best that was because he wanted to sell them to\nthe person from whom he had bought them for more than the price for\nwhich he bought them. Had he sold them to some one other than the\nperson from whom he had purchased them, there would not have been any\nharm in it.\"\n\n\nMalik said, \"The generally agreed on way of\ndoing things among us concerning making an advance for slaves, cattle\nor goods is that when all of what is to be sold is described and an\nadvance is made for them for a date, and the date falls due, the buyer\ndoes not sell any of that to the person from whom he has purchased it\nfor more than the price which he advanced for it before he has taken\nfull possession of what he has advanced for. It is usury if he does.\nIf the buyer gives the seller dinars or dirhams and he profits with\nthem, then, when the goods come to the buyer and he does not take them\ninto his possession but sells them back to their owner for more than\nwhat he advanced for them, the outcome is that what he has advanced\nhas returned to him and has been increased for him.\"\n\n\nMalik\nsaid, \"If someone advances gold or silver for described animals or\ngoods which are to be delivered before a named date, and the date\narrives, or it is before or after the date, there is no harm in the\nbuyer selling those goods to the seller, for other goods, to be taken\nimmediately and not delayed, no matter how extensive the amount of\nthose goods is, except in the case of food because it is not halal to\nsell it before he has full possession of it. The buyer can sell those\ngoods to some one other than the person from whom he purchased them\nfor gold or silver or any goods. He takes possession of it and does\nnot defer it because if he defers it, that is ugly and there enters\ninto the transaction what is disapproved of:",
+        "text": "delay for delay. Delay\nfor delay is to sell a debt against one man for a debt against another\nman.\"\n\n\nMalik said, \"If someone advances for goods to be\ndelivered after a time, and those goods are neither something to be\neaten nor drunk, he can sell them to whomever he likes for cash or\ngoods, before he takes delivery of them, to some one other than the\nperson from whom he purchased them. He must not sell them to the\nperson from whom he bought them except in exchange for goods which he\ntakes possession of immediately and does not defer.\"\n\n\nMalik\nsaid, \"If the delivery date for the goods has not arrived, there is no\nharm in selling them to the original owner for goods which are clearly\ndifferent and which he takes immediate possession of and does not\ndefer.\"\n\n\nMalik spoke about the case of a man who advanced\ndinars or dirhams for four specified pieces of cloth to be delivered\nbefore a specified time and when the term fell due, he demanded\ndelivery from the seller and the seller did not have them. He found\nthat the seller had cloth but inferior quality, and the seller said\nthat he would give him eight of those cloths. Malik said, \"There is no\nharm in that if he takes the cloths which he offers him before they\nseparate. It is not good if delayed terms enter into the transaction.\nIt is also not good if that is before the end of the term, unless he\nsells him cloth which is notthetypeof cloth for which he made an\nadvance."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "",
+      "english": {
+        "narrator": "",
+        "text": "Malik said, \"The generally agreed on way of doing things among us\nabout whatever is weighed but is not gold or silver, i.e. copper,\nbrass, lead, black lead, iron, herbs, figs, cotton, and any such\nthings that are weighed, is that there is no harm in bartering all\nthose sorts of things two for one, hand to hand. There is no harm in\ntaking a ritl of iron for two ritls of iron, and a ritl of brass for\ntwo ritls of brass.\"\n\n\nMalik said, \"There is no good in two for\none of one sort with delayed terms. There is no harm in taking two of\none sort for one of another on delayed terms, if the two sorts are\nclearly different. If both sorts resemble each other but their names\nare different, like lead and black lead, brass and yellow brass, I\ndisapprove of taking two of one sort for one of the other on delayed\nterms.\"\n\n\nMalik said, \"When buying something of this nature,\nthere is no harm in selling It beforetaking possession of it to some\none other than the person from whom it was purchased, if the price is\ntaken immediately and if it was bought originally by measure or\nweight. If it was bought without measuring, it should be sold to\nsomeone other than the person from whom it was bought, for cash or\nwith delayed terms. That is because goods have to be guaranteed when\nthey are bought without measuring, and they cannot be guaranteed when\nbought by weight until they are weighed and the deal is completed.\nThis is the best of what I have heard about all these things. It is\nwhat people continue to do among us.\"\n\n\nMalik said, \"The way of\ndoing things among us with what is measured or weighed of things which\nare not eaten or drunk, like safflower, date-stones, fodder leaves,\nindigo dye and the like of that is that there is no harm in bartering\nall those sort of things two for one, hand to hand. Do not take two\nfor one from the same variety with delayed terms. If the types are\nclearly different, there is no harm in taking two of one for one of\nthe other with delayed terms. There is no harm in selling whatever is\npurchased of all these sorts, before taking delivery of them if the\nprice is taken from someone other than the person from whom they were\npurchased.\"\n\n\nMalik said, \"Anything of any variety that profits\npeople, like gravel and gypsum, one quantity of them for two of its\nlike with delayed terms is usury. One quantity of both of them for its\nequal plus any increase with delayed terms, is usury.\""
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ ‏.‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعَتَيْنِ فِي بَيْعَةٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that the\nMessenger of Allah, may Allah bless him and grant him peace, forbade\ntwo sales in one sale."
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ رَجُلاً، قَالَ لِرَجُلٍ ابْتَعْ لِي هَذَا الْبَعِيرَ بِنَقْدٍ حَتَّى أَبْتَاعَهُ مِنْكَ إِلَى أَجَلٍ فَسُئِلَ عَنْ ذَلِكَ عَبْدُ اللَّهِ بْنُ عُمَرَ فَكَرِهَهُ وَنَهَى عَنْهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that a man said\nto another, \"Buy this camel for me immediately so that I can buy him\nfrom you on credit.\" Abdullah ibn Umar was asked about that and he\ndisapproved of it and forbade it."
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، أَنَّهُ بَلَغَهُ أَنَّ الْقَاسِمَ بْنَ مُحَمَّدٍ، سُئِلَ عَنْ رَجُلٍ، اشْتَرَى سِلْعَةً بِعَشَرَةِ دَنَانِيرَ نَقْدًا أَوْ بِخَمْسَةَ عَشَرَ دِينَارًا إِلَى أَجَلٍ فَكَرِهَ ذَلِكَ وَنَهَى عَنْهُ ‏.‏ قَالَ مَالِكٌ فِي رَجُلٍ ابْتَاعَ سِلْعَةً مِنْ رَجُلٍ بِعَشَرَةِ دَنَانِيرَ نَقْدًا أَوْ بِخَمْسَةَ عَشَرَ دِينَارًا إِلَى أَجَلٍ قَدْ وَجَبَتْ لِلْمُشْتَرِي بِأَحَدِ الثَّمَنَيْنِ إِنَّهُ لاَ يَنْبَغِي ذَلِكَ لأَنَّهُ إِنْ أَخَّرَ الْعَشَرَةَ كَانَتْ خَمْسَةَ عَشَرَ إِلَى أَجَلٍ وَإِنْ نَقَدَ الْعَشَرَةَ كَانَ إِنَّمَا اشْتَرَى بِهَا الْخَمْسَةَ عَشَرَ الَّتِي إِلَى أَجَلٍ ‏.‏ قَالَ مَالِكٌ فِي رَجُلٍ اشْتَرَى مِنْ رَجُلٍ سِلْعَةً بِدِينَارٍ نَقْدًا أَوْ بِشَاةٍ مَوْصُوفَةٍ إِلَى أَجَلٍ قَدْ وَجَبَ عَلَيْهِ بِأَحَدِ الثَّمَنَيْنِ إِنَّ ذَلِكَ مَكْرُوهٌ لاَ يَنْبَغِي لأَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَدْ نَهَى عَنْ بَيْعَتَيْنِ فِي بَيْعَةٍ وَهَذَا مِنْ بَيْعَتَيْنِ فِي بَيْعَةٍ ‏.‏ قَالَ مَالِكٌ فِي رَجُلٍ قَالَ لِرَجُلٍ أَشْتَرِي مِنْكَ هَذِهِ الْعَجْوَةَ خَمْسَةَ عَشَرَ صَاعًا أَوِ الصَّيْحَانِيَّ عَشَرَةَ أَصْوُعٍ أَوِ الْحِنْطَةَ الْمَحْمُولَةَ خَمْسَةَ عَشَرَ صَاعًا أَوِ الشَّامِيَّةَ عَشَرَةَ أَصْوُعٍ بِدِينَارٍ قَدْ وَجَبَتْ لِي إِحْدَاهُمَا إِنَّ ذَلِكَ مَكْرُوهٌ لاَ يَحِلُّ وَذَلِكَ أَنَّهُ قَدْ أَوْجَبَ لَهُ عَشَرَةَ أَصْوُعٍ صَيْحَانِيًّا فَهُوَ يَدَعُهَا وَيَأْخُذُ خَمْسَةَ عَشَرَ صَاعًا مِنَ الْعَجْوَةِ أَوْ تَجِبُ عَلَيْهِ خَمْسَةَ عَشَرَ صَاعًا مِنَ الْحِنْطَةِ الْمَحْمُولَةِ فَيَدَعُهَا وَيَأْخُذُ عَشَرَةَ أَصْوُعٍ مِنَ الشَّامِيَّةِ فَهَذَا أَيْضًا مَكْرُوهٌ لاَ يَحِلُّ وَهُوَ أَيْضًا يُشْبِهُ مَا نُهِيَ عَنْهُ مِنْ بَيْعَتَيْنِ فِي بَيْعَةٍ وَهُوَ أَيْضًا مِمَّا نُهِيَ عَنْهُ أَنْ يُبَاعَ مِنْ صِنْفٍ وَاحِدٍ مِنَ الطَّعَامِ اثْنَانِ بِوَاحِدٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that al-Qasim\nibn Muhammad was asked about a man who bought goods for 10 dinars cash\nor fifteen dinars on credit. He disapproved of that and forbade it.\n\n\nMalik said that if a man bought goods from a man for either\n10 dinars or 15 dinars on credit, that one of the two prices was\nobliged on the buyer. It was not to be done because if he postponed\npaying the ten, it would be 15 on credit, and if he paid the ten, he\nwould buy with it what was worth fifteen dinars on credit.\n\n\nMalik said that it was disapproved of for a man to buy goods from\nsomeone for either a dinar cash or for a described sheep on credit and\nthat one of the two prices was obliged on him. It was not to be done\nbecause the Messenger of Allah, may Allah bless him and grant him\npeace, forbade two sales in one sale. This was part of two sales in\nthe one sale.\n\n\nMalik spoke about a man saying to another, \"'I\nwill either buy these fifteen sa of ajwa dates from you, or these ten\nsa of sayhani dates or I will buy these fifteen sa of inferior wheat\nor these ten sa of Syrian wheat for a dinar, and one of them is\nobliged to me.' Malik said that it was disapproved of and was not\nhalal. That was because he obliged him ten sa of sayhani, and left\nthem and took fifteen sa of ajwa, or he was obliged fifteen sa of\ninferior wheat and left them and took ten sa of Syrian wheat. This was\nalso disapproved of, and was not halal. It resembled what was\nprohibited in the way of two sales in one sale. It was also included\nunder the prohibition against buying two for one of the same sort of\nfood.\""
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي حَازِمِ بْنِ دِينَارٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ الْغَرَرِ ‏.‏ قَالَ مَالِكٌ وَمِنَ الْغَرَرِ وَالْمُخَاطَرَةِ أَنْ يَعْمِدَ الرَّجُلُ قَدْ ضَلَّتْ دَابَّتُهُ أَوْ أَبَقَ غُلاَمُهُ وَثَمَنُ الشَّىْءِ مِنْ ذَلِكَ خَمْسُونَ دِينَارًا فَيَقُولُ رَجُلٌ أَنَا آخُذُهُ مِنْكَ بِعِشْرِينَ دِينَارًا ‏.‏ فَإِنْ وَجَدَهُ الْمُبْتَاعُ ذَهَبَ مِنَ الْبَائِعِ ثَلاَثُونَ دِينَارًا وَإِنْ لَمْ يَجِدْهُ ذَهَبَ الْبَائِعُ مِنَ الْمُبْتَاعِ بِعِشْرِينَ دِينَارًا ‏.‏ قَالَ مَالِكٌ وَفِي ذَلِكَ عَيْبٌ آخَرُ إِنَّ تِلْكَ الضَّالَّةَ إِنْ وُجِدَتْ لَمْ يُدْرَ أَزَادَتْ أَمْ نَقَصَتْ أَمْ مَا حَدَثَ بِهَا مِنَ الْعُيُوبِ فَهَذَا أَعْظَمُ الْمُخَاطَرَةِ ‏.‏ قَالَ مَالِكٌ وَالأَمْرُ عِنْدَنَا أَنَّ مِنَ الْمُخَاطَرَةِ وَالْغَرَرِ اشْتِرَاءَ مَا فِي بُطُونِ الإِنَاثِ مِنَ النِّسَاءِ وَالدَّوَابِّ لأَنَّهُ لاَ يُدْرَى أَيَخْرُجُ أَمْ لاَ يَخْرُجُ فَإِنْ خَرَجَ لَمْ يُدْرَ أَيَكُونُ حَسَنًا أَمْ قَبِيحًا أَمْ تَامًّا أَمْ نَاقِصًا أَمْ ذَكَرًا أَمْ أُنْثَى وَذَلِكَ كُلُّهُ يَتَفَاضَلُ إِنْ كَانَ عَلَى كَذَا فَقِيمَتُهُ كَذَا وَإِنْ كَانَ عَلَى كَذَا فَقِيمَتُهُ كَذَا ‏.‏ قَالَ مَالِكٌ وَلاَ يَنْبَغِي بَيْعُ الإِنَاثِ وَاسْتِثْنَاءُ مَا فِي بُطُونِهَا وَذَلِكَ أَنْ يَقُولَ الرَّجُلُ لِلرَّجُلِ ثَمَنُ شَاتِي الْغَزِيرَةِ ثَلاَثَةُ دَنَانِيرَ فَهِيَ لَكَ بِدِينَارَيْنِ وَلِي مَا فِي بَطْنِهَا ‏.‏ فَهَذَا مَكْرُوهٌ لأَنَّهُ غَرَرٌ وَمُخَاطَرَةٌ ‏.‏ قَالَ مَالِكٌ وَلاَ يَحِلُّ بَيْعُ الزَّيْتُونِ بِالزَّيْتِ وَلاَ الْجُلْجُلاَنِ بِدُهْنِ الْجُلْجُلاَنِ وَلاَ الزُّبْدِ بِالسَّمْنِ لأَنَّ الْمُزَابَنَةَ تَدْخُلُهُ وَلأَنَّ الَّذِي يَشْتَرِي الْحَبَّ وَمَا أَشْبَهَهُ بِشَىْءٍ مُسَمًّى مِمَّا يَخْرُجُ مِنْهُ لاَ يَدْرِي أَيَخْرُجُ مِنْهُ أَقَلُّ مِنْ ذَلِكَ أَوْ أَكْثَرُ فَهَذَا غَرَرٌ وَمُخَاطَرَةٌ ‏.‏ قَالَ مَالِكٌ وَمِنْ ذَلِكَ أَيْضًا اشْتِرَاءُ حَبِّ الْبَانِ بِالسَّلِيخَةِ فَذَلِكَ غَرَرٌ لأَنَّ الَّذِي يَخْرُجُ مِنْ حَبِّ الْبَانِ هُوَ السَّلِيخَةُ وَلاَ بَأْسَ بِحَبِّ الْبَانِ بِالْبَانِ الْمُطَيَّبِ لأَنَّ الْبَانَ الْمُطَيَّبَ قَدْ طُيِّبَ وَنُشَّ وَتَحَوَّلَ عَنْ حَالِ السَّلِيخَةِ ‏.‏ قَالَ مَالِكٌ فِي رَجُلٍ بَاعَ سِلْعَةً مِنْ رَجُلٍ عَلَى أَنَّهُ لاَ نُقْصَانَ عَلَى الْمُبْتَاعِ إِنَّ ذَلِكَ بَيْعٌ غَيْرُ جَائِزٍ وَهُوَ مِنَ الْمُخَاطَرَةِ وَتَفْسِيرُ ذَلِكَ أَنَّهُ كَأَنَّهُ اسْتَأْجَرَهُ بِرِبْحٍ إِنْ كَانَ فِي تِلْكَ السِّلْعَةِ وَإِنْ بَاعَ بِرَأْسِ الْمَالِ أَوْ بِنُقْصَانٍ فَلاَ شَىْءَ لَهُ وَذَهَبَ عَنَاؤُهُ بَاطِلاً فَهَذَا لاَ يَصْلُحُ وَلِلْمُبْتَاعِ فِي هَذَا أُجْرَةٌ بِمِقْدَارِ مَا عَالَجَ مِنْ ذَلِكَ وَمَا كَانَ فِي تِلْكَ السِّلْعَةِ مِنْ نُقْصَانٍ أَوْ رِبْحٍ فَهُوَ لِلْبَائِعِ وَعَلَيْهِ وَإِنَّمَا يَكُونُ ذَلِكَ إِذَا فَاتَتِ السِّلْعَةُ وَبِيعَتْ ‏.‏ فَإِنْ لَمْ تَفُتْ فُسِخَ الْبَيْعُ بَيْنَهُمَا ‏.‏ قَالَ مَالِكٌ فَأَمَّا أَنْ يَبِيعَ رَجُلٌ مِنْ رَجُلٍ سِلْعَةً يَبُتُّ بَيْعَهَا ثُمَّ يَنْدَمُ الْمُشْتَرِي فَيَقُولُ لِلْبَائِعِ ضَعْ عَنِّي فَيَأْبَى الْبَائِعُ وَيَقُولُ بِعْ فَلاَ نُقْصَانَ عَلَيْكَ ‏.‏ فَهَذَا لاَ بَأْسَ بِهِ لأَنَّهُ لَيْسَ مِنَ الْمُخَاطَرَةِ وَإِنَّمَا هُوَ شَىْءٌ وَضَعَهُ لَهُ وَلَيْسَ عَلَى ذَلِكَ عَقَدَا بَيْعَهُمَا وَذَلِكَ الَّذِي عَلَيْهِ الأَمْرُ عِنْدَنَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abu Hazim ibn Dinar from Said\nibn al-Musayyab that the Messenger of Allah, may Allah bless him and\ngrant him peace, forbade the sale with uncertainty in it.\n\n\nMalik said, \"An example of one type of uncertain transaction and risk\nis that a man intends the price of a stray animal or escaped slave to\nbe fifty dinars. A man says, 'I will take him from you for twenty\ndinars.' If the buyer finds him, thirty dinars goes from the seller,\nand if he does not find him, the seller takes twenty dinars from the\nbuyer.\"\n\n\nMalik said, \"There is another fault in that. If that\nstray is found, it is not known whether it will have increased or\ndecreased in value or what defects may have befallen it. This\ntransaction is greatly uncertain and risky.\"\n\n\nMalik said,\n\"According to our way of doing things, one kind of uncertain\ntransaction and risk is selling what is in the wombs of females -\nwomen and animals - because it is not known whether or not it will\ncome out, and if it does come out, it is not known whether it will be\nbeautiful or ugly, normal or disabled, male or female. All that is\ndisparate. If it has that, its price is such-and-such, and if it has\nthis, its price is such-and-such.\"\n\n\nMalik said, \"Females must\nnot be sold with what is in their wombs excluded. That is that, for\ninstance, a man says to another, 'The price of my sheep which has much\nmilk is three dinars. She is yours for two dinars while I will have\nher future offspring.' This is disapproved because it is an uncertain\ntransaction and a risk.\"\n\n\nMalik said, \"It is not halal to sell\nolives for olive oil or sesame for sesame oil, or butter for ghee\nbecause muzabana comes into that, because the person who buys the raw\nproduct for something specified which comes from it, does not know\nwhether more or less will come out of that, so it is an uncertain\ntransaction and a risk.\"\n\n\nMalik said, \"A similar case is the\nselling of ben-nuts for ben-nut oil. This is an uncertain transaction\nbecause what comes from the ben-nut is ben-oil. There is no harm in\nselling ben-nuts for perfumed ben because perfumed ben has been\nperfumed, mixed and changed from the state of raw ben-nut oil.\"\n\n\nMalik, speaking about a man who sold goods to a man on the\nprovision that there was to be no loss for the buyer, (i.e. if the\nbuyer could not re-sell the goods they could go back to the seller),\nsaid, \"This transaction is not permitted and it is part of risk. The\nexplanation of why it is so, is that it is as if the seller hired the\nbuyer for the profit if the goods make a profit. If he sells the stock\nat a loss, he has nothing, and his efforts are not compensated. This\nis not good. In such a transaction, the buyer should have a wage\naccording to the work that he has contributed. Whatever there is of\nloss or profit in those goods is for and against the seller. This is\nonly when the goods are gone and sold. If they do not go, the\ntransaction between them is null and void.\"\n\n\nMalik said, \"As\nfor a man who buys goods from a man and he concludes the sale and then\nthe buyer regrets and asks to have the price reduced and the seller\nrefuses and says, 'Sell it and I will compensate you for any loss.'\nThere is no harm in this because there is no risk. It is something he\nproposes to him, and their transaction was not based on that. That is\nwhat is done among us.\""
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنَا يَحْيَى، عَنْ مَالِكٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، وَعَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُلاَمَسَةِ وَالْمُنَابَذَةِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Muhammad ibn Yahya ibn Habban\nand from Abu'z-Zinad from al-Araj from Abu Hurayra that the Messenger\nof Allah, may Allah bless him and grant him peace, forbade mulamasa\nand munabadha.\n\n\nMalik said, \"Mulamasa is when a man can feel a\ngarment but is not allowed to unfold it or examine what is in it, or\nhe buys by night and does not know what is in it. Munabadha is that a\nman throws his garment to another, and the other throws his garment\nwithout either of them making any inspection. Each of them says, 'this\nis for this. 'This is what is forbidden of mulamasa and munabadha.\"\n\n\nMalik said that selling bundles with a list of their contents\nwas different from the sale of the cloak concealed in a bag or the\ncloth folded up and such things. What made it different was that it\nwas a common practice and it was what people were familiar with, and\nwhat people had done in the past, and it was still among the permitted\ntransactions and trading of people in which they saw no harm because\nin the sale of bundles with a list of contents without undoing them,\nan uncertain transaction was not intended and it did not resemble\nmulamasa."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me, that Malik said, \"The generally agreed on\nway of doing things among us about a man buying cloth in one city, and\nthen taking it to another city to sell as a murabaha, is that he is\nnot reckoned to have the wage of an agent, or any allowance for\nironing, folding, straightening, expenses, or the rent of a house. As\nfor the cost of transporting the drapery, it is included in the basic\nprice, and no share of the profit is allocated to it unless the agent\ntells all of that to the investor. If they agree to share the profits\naccordingly after knowledge of it, there is no harm in that.\"\n\n\nMalik said, \"As for bleaching, tailoring, dyeing, and such things,\nthey are treated in the same way as drapery. The profit is reckoned in\nthem as it is reckoned in drapery goods. So if he sells the drapery\ngoods without clarifying the things we named as not getting profit,\nand if the drapery has already gone, the transport is to be reckoned,\nbut no profit is given. If the drapery goods have not gone the\ntransaction between them is null and void unless they make a new\nmutual agreement on what is to be permitted between them .\"\n\n\nMalik spoke about an agent who bought goods for gold or silver, and\nthe exchange rate on the day of purchase was ten dirhams to the dinar.\nHe took them to a city to sell murabaha, or sold them where he\npurchased them according to the exchange rate of the day on which he\nsold them. If he bought them for dirhams and he sold them for dinars,\nor he bought them for dinars and he sold them for dirhams, and the\ngoods had not gone then he had a choice. If he wished, he accepted to\nsell the goods and if he wished, he left them. If the goods had been\nsold, he had the price for which the salesman bought them, and the\nsalesman was reckoned to have the profit on what they were bought for,\nover what the investor gained as profit.\n\n\nMalik said, \"If a\nman sells goods worth one hundred dinars for one hundred and ten, and\nhe hears after that they are worth ninety dinars, and the goods have\ngone, the seller has a choice. If he likes, he has the price of the\ngoods on the day they were taken from him unless the price is more\nthan the price for which he was obliged to sell them in the first\nplace, and he does not have more than that - and it is one hundred and\nten dinars. If he likes, it is counted as profit against ninety unless\nthe price his goods reached was less than the value. He is given the\nchoice between what his goods fetch and the capital plus the profit,\nwhich is ninety-nine dinars.\"\n\n\nMalik said, \"If someone sells\ngoods in murabaha and he says, 'It was valued at one hundred dinars to\nme.' Then he hears later on, that it was worth one hundred and twenty\ndinars, the customer is given the choice. If he wishes, he gives the\nsalesman the value of the goods on the day he took them, and if he\nwishes, he gives the price for which he bought them according to the\nreckoning of what profit he gives him, as far as it goes, unless that\nis less than the price for which he bought them, for he should not\ngive the owner of the goods a loss from the price for which he bought\nthem because he was satisfied with that. The owner of the goods came\nto seek extra, so the buyer has no argument against the salesman in\nthat to make a reduction from the first price for which he bought it\naccording to the list of contents.\""
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "",
+      "english": {
+        "narrator": "",
+        "text": "Malik spoke about what was done among them in the case of a group\nof people who bought goods, drapery or slaves, and a man heard about\nit and said to one of the group, \"I have heard the description and\nsituation of the drapery goods you bought from so-and-so. Shall I give\nyou such-and-such profit to take over your portion?\" This person\nagreed, and the man gave him the profit and became a partner in his\nplace. When he looked at the purchase, he saw that it was ugly and\nfound it too expensive.\n\n\nMalik said, \"It is obliged on him and\nthere is no choice in it for him if he bought it according to a list\nof contents and the description was well-known.\"\n\n\nMalik spoke\nabout a man who had drapery goods sent to him, and salesmen came to\nhim and he read to them his list of contents and said, \"In each bag is\nsuch-and-such a wrap from Basra and such-and-such a light wrap from\nSabir. Their size is such-and-such,\" and he named to them types of\ndrapery goods by their sort, and he said, \"Buy them from me according\nto this description.\" They bought the bags according to what he\ndescribed to them, and then they bought them and found them too\nexpensive and regretted it. Malik said, \"The sale is binding on them,\nif the goods agree with the list of contents on which he sold them.\"\n\n\nMalik said, \"This is the way of doing things which people\nstill use today. They permit the sale among them when the goods agree\nwith the list of contents and are not different from it. \""
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْمُتَبَايِعَانِ كُلُّ وَاحِدٍ مِنْهُمَا بِالْخِيَارِ عَلَى صَاحِبِهِ مَا لَمْ يَتَفَرَّقَا إِلاَّ بَيْعَ الْخِيَارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi from Abdullah ibn Umar\nthat the Messenger of Allah, may Allah bless him and grant him peace,\nsaid, \"Both parties in a business transaction have the right of\nwithdrawal as long as they have not separated, except in the\ntransaction called khiyar.\"\n\n\nMalik said, \"There is no\nspecified limit nor any matter which is applied in this case according\nto us.\""
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، أَنَّهُ بَلَغَهُ أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ، كَانَ يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَيُّمَا بَيِّعَيْنِ تَبَايَعَا فَالْقَوْلُ مَا قَالَ الْبَائِعُ أَوْ يَتَرَادَّانِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me that he had heard that Abdullah ibn Masud\nused to relate that the Messenger of Allah, may Allah bless him and\ngrant him peace, said, \"When two parties dispute about a business\ntransaction, the seller's word is taken, or they make an agreement\namong themselves.\n\n\nMalik spoke about someone who sold goods to\na man, and said at the contracting of the sale, 'I will sell to you\nprovided I consult so-and-so. If he is satisfied, the sale is\npermitted. If he dislikes it, there is no sale between us.' They made\nthe transaction on that basis. Then the buyer regretted before the\nseller consulted the person.\n\n\nMalik said, \"That sale is\nbinding on them according to what they described. The buyer has no\nright of withdrawal, and it is binding on him, if the person whom the\nseller stipulated to him, permits it.\"\n\n\nMalik said, \"The way\nof doing things among us about a man who buys goods from another and\nthey differ about the price, and the seller says, 'I sold them to you\nfor ten dinars,' and the buyer says, 'I bought them from you for five\ndinars,' is that it is said to the seller, 'If you like, give them to\nthe buyer for what he said. If you like, swear by Allah that you only\nsold your goods for what you said.' If he swears it is said to the\nbuyer, 'Either you take the goods for what the seller said, or you\nswear by Allah that you bought them only for what you said.' If he\nswears, he is free to return the goods. That is when each of them\ntestifies against the other.\""
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ عُبَيْدٍ أَبِي صَالِحٍ، مَوْلَى السَّفَّاحِ أَنَّهُ قَالَ بِعْتُ بَزًّا لِي مِنْ أَهْلِ دَارِ نَخْلَةَ إِلَى أَجَلٍ ثُمَّ أَرَدْتُ الْخُرُوجَ إِلَى الْكُوفَةِ فَعَرَضُوا عَلَىَّ أَنْ أَضَعَ عَنْهُمْ بَعْضَ الثَّمَنِ وَيَنْقُدُونِي فَسَأَلْتُ عَنْ ذَلِكَ زَيْدَ بْنَ ثَابِتٍ فَقَالَ لاَ آمُرُكَ أَنْ تَأْكُلَ هَذَا وَلاَ تُوكِلَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abu'z-Zinad from Busr ibn\nSaid from Ubayd, Abu Salih, the mawla of as-Saffah that he said, \"I\nsold drapery to the people of Dar Nakhla on credit. Then I wanted to\ngo to Kufa, so they proposed that I reduce the price for them and they\nwould pay me immediately . I asked Zayd ibn Thabit about that, and he\nsaid, 'I order you not to accept increase or to give to anybody.' \""
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ عُثْمَانَ بْنِ حَفْصِ بْنِ خَلْدَةَ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّهُ سُئِلَ عَنِ الرَّجُلِ، يَكُونُ لَهُ الدَّيْنُ عَلَى الرَّجُلِ إِلَى أَجَلٍ فَيَضَعُ عَنْهُ صَاحِبُ الْحَقِّ وَيُعَجِّلُهُ الآخَرُ فَكَرِهَ ذَلِكَ عَبْدُ اللَّهِ بْنُ عُمَرَ وَنَهَى عَنْهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Uthman ibn Hafs ibn Khalda\nfrom Ibn Shihab from Salim ibn Abdullah that Abdullah ibn Umar was\nasked about a man who took a loan from another man for a set term. The\ncreditor reduced the debt, and the man paid it immediately Abdullah\nibn Umar disliked that, and forbade it."
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، أَنَّهُ قَالَ كَانَ الرِّبَا فِي الْجَاهِلِيَّةِ أَنْ يَكُونَ لِلرَّجُلِ عَلَى الرَّجُلِ الْحَقُّ إِلَى أَجَلٍ فَإِذَا حَلَّ الأَجَلُ قَالَ أَتَقْضِي أَمْ تُرْبِي فَإِنْ قَضَى أَخَذَ وَإِلاَّ زَادَهُ فِي حَقِّهِ وَأَخَّرَ عَنْهُ فِي الأَجَلِ ‏.‏ قَالَ مَالِكٌ وَالأَمْرُ الْمَكْرُوهُ الَّذِي لاَ اخْتِلاَفَ فِيهِ عِنْدَنَا أَنْ يَكُونَ لِلرَّجُلِ عَلَى الرَّجُلِ الدَّيْنُ إِلَى أَجَلٍ فَيَضَعُ عَنْهُ الطَّالِبُ وَيُعَجِّلُهُ الْمَطْلُوبُ وَذَلِكَ عِنْدَنَا بِمَنْزِلَةِ الَّذِي يُؤَخِّرُ دَيْنَهُ بَعْدَ مَحِلِّهِ عَنْ غَرِيمِهِ وَيَزِيدُهُ الْغَرِيمُ فِي حَقِّهِ قَالَ فَهَذَا الرِّبَا بِعَيْنِهِ لاَ شَكَّ فِيهِ ‏.‏ قَالَ مَالِكٌ فِي الرَّجُلِ يَكُونُ لَهُ عَلَى الرَّجُلِ مِائَةُ دِينَارٍ إِلَى أَجَلٍ فَإِذَا حَلَّتْ قَالَ لَهُ الَّذِي عَلَيْهِ الدَّيْنُ بِعْنِي سِلْعَةً يَكُونُ ثَمَنُهَا مِائَةَ دِينَارٍ نَقْدًا بِمِائَةٍ وَخَمْسِينَ إِلَى أَجَلٍ هَذَا بَيْعٌ لاَ يَصْلُحُ وَلَمْ يَزَلْ أَهْلُ الْعِلْمِ يَنْهَوْنَ عَنْهُ ‏.‏ قَالَ مَالِكٌ وَإِنَّمَا كُرِهَ ذَلِكَ لأَنَّهُ إِنَّمَا يُعْطِيهِ ثَمَنَ مَا بَاعَهُ بِعَيْنِهِ وَيُؤَخِّرُ عَنْهُ الْمِائَةَ الأُولَى إِلَى الأَجَلِ الَّذِي ذَكَرَ لَهُ آخِرَ مَرَّةٍ وَيَزْدَادُ عَلَيْهِ خَمْسِينَ دِينَارًا فِي تَأْخِيرِهِ عَنْهُ فَهَذَا مَكْرُوهٌ وَلاَ يَصْلُحُ وَهُوَ أَيْضًا يُشْبِهُ حَدِيثَ زَيْدِ بْنِ أَسْلَمَ فِي بَيْعِ أَهْلِ الْجَاهِلِيَّةِ إِنَّهُمْ كَانُوا إِذَا حَلَّتْ دُيُونُهُمْ قَالُوا لِلَّذِي عَلَيْهِ الدَّيْنُ إِمَّا أَنْ تَقْضِيَ وَإِمَّا أَنْ تُرْبِيَ ‏.‏ فَإِنْ قَضَى أَخَذُوا وَإِلاَّ زَادُوهُمْ فِي حُقُوقِهِمْ وَزَادُوهُمْ فِي الأَجَلِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me that Zayd ibn Aslam said, \"Usury in the\nJahiliyya was that a man would give a loan to a man for a set term.\nWhen the term was due, he would say, 'Will you pay it off or increase\nme?' If the man paid, he took it. If not, he increased him in his debt\nand lengthened the term for him .\"\n\n\nMalik said, \"The\ndisapproved of way of doing things about which there is no dispute\namong us, is that a man should give a loan to a man for a term, and\nthen the demander reduce it and the one from whom it is demanded pay\nit in advance. To us that is like someone who delays repaying his debt\nafter it is due to his creditor and his creditor increases his debt.\"\nMalik said, \"This is nothing else but usury. No doubt about it.\"\n\n\nMalik spoke about a man who loaned one hundred dinars to a man for\ntwo terms. When it was due, the person who owed the debt said to him,\n\"Sell me some goods, whose price is one hundred dinars in cash for one\nhundred and fifty on credit.\" Malik said, \"This transaction is not\ngood, and the people of knowledge still forbid it.\"\n\n\nMalik\nsaid, \"This is disapproved of because the creditor himself gives the\ndebtor the price of what the man sells him, and he defers repayment of\nthe hundred of the first transaction for the debtor for the term which\nis mentioned to him in the second transaction, and the debtor\nincreases him with fifty dinars for his deferring him. That is\ndisapproved of and it is not good. It also resembles the hadith of\nZayd ibn Aslam about the transactions of the people of the Jahiliyya.\nWhen their debts were due, they said to the person with the debt,\n'Either you pay in full or you increase it.' If they paid, they took\nit, and if not they increased debtors in their debts, and extended the\nterm for them.\""
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنَا يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَطْلُ الْغَنِيِّ ظُلْمٌ وَإِذَا أُتْبِعَ أَحَدُكُمْ عَلَى مَلِيءٍ فَلْيَتْبَعْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abu'z-Zinad from al Araj from\nAbu Hurayra that the Messenger of Allah, may Allah bless him and grant\nhim peace, said, \"Delay in payment by a rich man is injustice, but\nwhen one of you is referred for payment to a wealthy man, let him be\nreferred.\""
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ مُوسَى بْنِ مَيْسَرَةَ، أَنَّهُ سَمِعَ رَجُلاً، يَسْأَلُ سَعِيدَ بْنَ الْمُسَيَّبِ فَقَالَ إِنِّي رَجُلٌ أَبِيعُ بِالدَّيْنِ ‏.‏ فَقَالَ سَعِيدٌ لاَ تَبِعْ إِلاَّ مَا آوَيْتَ إِلَى رَحْلِكَ ‏.‏ قَالَ مَالِكٌ فِي الَّذِي يَشْتَرِي السِّلْعَةَ مِنَ الرَّجُلِ عَلَى أَنْ يُوَفِّيَهُ تِلْكَ السِّلْعَةَ إِلَى أَجَلٍ مُسَمًّى إِمَّا لِسُوقٍ يَرْجُو نَفَاقَهَا فِيهِ وَإِمَّا لِحَاجَةٍ فِي ذَلِكَ الزَّمَانِ الَّذِي اشْتَرَطَ عَلَيْهِ ثُمَّ يُخْلِفُهُ الْبَائِعُ عَنْ ذَلِكَ الأَجَلِ فَيُرِيدُ الْمُشْتَرِي رَدَّ تِلْكَ السِّلْعَةِ عَلَى الْبَائِعِ إِنَّ ذَلِكَ لَيْسَ لِلْمُشْتَرِي وَإِنَّ الْبَيْعَ لاَزِمٌ لَهُ وَإِنَّ الْبَائِعَ لَوْ جَاءَ بِتِلْكَ السِّلْعَةِ قَبْلَ مَحِلِّ الأَجَلِ لَمْ يُكْرَهِ الْمُشْتَرِي عَلَى أَخْذِهَا ‏.‏ قَالَ مَالِكٌ فِي الَّذِي يَشْتَرِي الطَّعَامَ فَيَكْتَالُهُ ثُمَّ يَأْتِيهِ مَنْ يَشْتَرِيهِ مِنْهُ فَيُخْبِرُ الَّذِي يَأْتِيهِ أَنَّهُ قَدِ اكْتَالَهُ لِنَفْسِهِ وَاسْتَوْفَاهُ فَيُرِيدُ الْمُبْتَاعُ أَنْ يُصَدِّقَهُ وَيَأْخُذَهُ بِكَيْلِهِ إِنَّ مَا بِيعَ عَلَى هَذِهِ الصِّفَةِ بِنَقْدٍ فَلاَ بَأْسَ بِهِ وَمَا بِيعَ عَلَى هَذِهِ الصِّفَةِ إِلَى أَجَلٍ فَإِنَّهُ مَكْرُوهٌ حَتَّى يَكْتَالَهُ الْمُشْتَرِي الآخَرُ لِنَفْسِهِ وَإِنَّمَا كُرِهَ الَّذِي إِلَى أَجَلٍ لأَنَّهُ ذَرِيعَةٌ إِلَى الرِّبَا وَتَخَوُّفٌ أَنْ يُدَارَ ذَلِكَ عَلَى هَذَا الْوَجْهِ بِغَيْرِ كَيْلٍ وَلاَ وَزْنٍ فَإِنْ كَانَ إِلَى أَجَلٍ فَهُوَ مَكْرُوهٌ وَلاَ اخْتِلاَفَ فِيهِ عِنْدَنَا ‏.‏ قَالَ مَالِكٌ لاَ يَنْبَغِي أَنْ يُشْتَرَى دَيْنٌ عَلَى رَجُلٍ غَائِبٍ وَلاَ حَاضِرٍ إِلاَّ بِإِقْرَارٍ مِنَ الَّذِي عَلَيْهِ الدَّيْنُ وَلاَ عَلَى مَيِّتٍ وَإِنْ عَلِمَ الَّذِي تَرَكَ الْمَيِّتُ وَذَلِكَ أَنَّ اشْتِرَاءَ ذَلِكَ غَرَرٌ لاَ يُدْرَى أَيَتِمُّ أَمْ لاَ يَتِمُّ ‏.‏ قَالَ وَتَفْسِيرُ مَا كُرِهَ مِنْ ذَلِكَ أَنَّهُ إِذَا اشْتَرَى دَيْنًا عَلَى غَائِبٍ أَوْ مَيِّتٍ أَنَّهُ لاَ يُدْرَى مَا يَلْحَقُ الْمَيِّتَ مِنَ الدَّيْنِ الَّذِي لَمْ يُعْلَمْ بِهِ فَإِنْ لَحِقَ الْمَيِّتَ دَيْنٌ ذَهَبَ الثَّمَنُ الَّذِي أَعْطَى الْمُبْتَاعُ بَاطِلاً ‏.‏ قَالَ مَالِكٌ وَفِي ذَلِكَ أَيْضًا عَيْبٌ آخَرُ أَنَّهُ اشْتَرَى شَيْئًا لَيْسَ بِمَضْمُونٍ لَهُ وَإِنْ لَمْ يَتِمَّ ذَهَبَ ثَمَنُهُ بَاطِلاً فَهَذَا غَرَرٌ لاَ يَصْلُحُ ‏.‏ قَالَ مَالِكٌ وَإِنَّمَا فُرِقَ بَيْنَ أَنْ لاَ يَبِيعَ الرَّجُلُ إِلاَّ مَا عِنْدَهُ وَأَنْ يُسَلِّفَ الرَّجُلُ فِي شَىْءٍ لَيْسَ عِنْدَهُ أَصْلُهُ أَنَّ صَاحِبَ الْعِينَةِ إِنَّمَا يَحْمِلُ ذَهَبَهُ الَّتِي يُرِيدُ أَنْ يَبْتَاعَ بِهَا فَيَقُولُ هَذِهِ عَشَرَةُ دَنَانِيرَ فَمَا تُرِيدُ أَنْ أَشْتَرِيَ لَكَ بِهَا فَكَأَنَّهُ يَبِيعُ عَشَرَةَ دَنَانِيرَ نَقْدًا بِخَمْسَةَ عَشَرَ دِينَارًا إِلَى أَجَلٍ فَلِهَذَا كُرِهَ هَذَا وَإِنَّمَا تِلْكَ الدُّخْلَةُ وَالدُّلْسَةُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "86 Malik related to me from Musa ibn Maysara that he heard a man\nask Said ibn al-Musayyab, \"I am a man who sells for a debt.\" Said\nsaid, \"Do not sell except for what you take to your camel.\"\n\n\nMalik spoke about a person who bought goods from a man provided that\nhe provide him with those goods by a specific date, either in time for\na market in which he hoped for their saleability, or to fulfil a need\nat the time he stipulated. Then the seller failed him about the date,\nand the buyer wanted to return those goods to the seller. Malik said,\n\"The buyer cannot do that, and the sale is binding on him. If the\nseller does bring the goods before the completion of the term, the\nbuyer cannot be forced to take them.\"\n\n\nMalik spoke about a\nperson who bought food and measured it. Then some one came to him to\nbuy it and he told him that he had measured it for himself and taken\nit in full. The new buyer wanted to trust him and accept his measure.\nMalik said, \"Whatever is sold in this way for cash has no harm in it\nbut whatever is sold in this way on delayed terms is disapproved of\nuntil the new buyer measures it out for himself. The sale with delayed\nterms is disapproved of because it leads to usury and it is feared\nthat it will be circulated in this way without weight or measure. If\nthe terms are delayed it is disapproved of and there is no\ndisagreement about that with us.\"\n\n\nMalik said, \"One should not\nbuy a debt owed by a man whether present or absent, without the\nconfirmation of the one who owes the debt, nor should one buy a debt\nowed to a man by a dead person even if one knows what the deceased man\nhas left. That is because to buy that is an uncertain transaction and\none does not know whether the transaction will be completed or not\ncompleted.\"\n\n\nHe said, \"The explanation of what is disapproved\nof in buying a debt owed by someone absent or dead, is that it is not\nknown what unknown debtor may be connected to the dead person. If the\ndead person is liable for another debt, the price which the buyer gave\non strength of the debt may become worthless.\"\n\n\nMalik said,\n\"There is another fault in that as well. He is buying something which\nis not guaranteed for him, and so if the deal is not completed, what\nhe paid becomes worthless. This is an uncertain transaction and it is\nnot good.\"\n\n\nMalik said, \"One distinguishes between a man who\nis only selling what he actually has and a man who is being paid in\nadvance for something which is not yet in his possession. The man\nadvancing the money brings his gold which he intends to buy with. The\nseller says, 'This is 10 dinars. What do you want me to buy for you\nwith it?' It is as if he sold 10 dinars cash for 15 dinars to be paid\nlater. Because of this, it is disapproved of. It is something leading\nto usury and fraud.\""
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "",
+      "english": {
+        "narrator": "",
+        "text": "Malik said there was no harm if a man who sold some drapery and\nexcluded some garments by their markings, stipulated that he chose the\nmarked ones from that. If he did not stipulate that he would choose\nfrom them when he made the exclusion, I think that he is partner in\nthe number of drapery goods which were purchased from him. That is\nbecause two garments can be alike in marking and be greatly different\nin price.\n\n\nMalik said, \"The way of doing things among us is\nthat there is no harm in partnership, transferring responsibility to\nan agent, and revocation when dealing with food and other things,\nwhether or not possession was taken, when the transaction is with\ncash, and there is no profit, loss, or deferment of price in it. If\nprofit or loss or deferment of price from one of the two enters any of\nthese transactions, it becomes sale which is made halal by what makes\nsale halal, and made haram by what makes sale haram, and it is not\npartnership, transferring responsibility to an agent, or revocation.\"\n\n\nMalik spoke about some one who bought drapery goods or\nslaves, and the sale was concluded, then a man asked him to be his\npartner and he agreed and the new partner paid the whole price to the\nseller and then something happened to the goods which removed them\nfrom their possession. Malik said, \"The new partner takes the price\nfrom the original partner and the original partner demands from the\nseller the whole price unless the original partner stipulated on the\nnew partner during the sale and before the transaction with the seller\nwas completed that the seller was responsible to him. If the\ntransaction has ended and the seller has gone, the pre-condition of\nthe original partner is void, and he has the responsibility.\"\n\n\nMalik spoke about a man who asked another man to buy certain goods to\nshare between them, and he wanted the other man to pay for him and he\nwould sell the goods for the other man. Malik said, \"That is not good.\nWhen he says, 'Pay for me and I will sell it for you,' it becomes a\nloan which he makes to him in order that he sell it for him and if\nthose goods are destroyed, or pass, the man who paid the price will\ndemand from his partner what he put in for him. This is part of the\nadvance which brings in profit.\"\n\n\nMalik said, \"If a man buys\ngoods, and they are settled for him, and then a man says to him,\n'Share half of these goods with me, and I will sell them all for you,'\nthat is halal, there is no harm in it. The explanation of that is that\nthis is a new sale and he sells him half of the goods provided that he\nsells the whole lot.\""
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَيُّمَا رَجُلٍ بَاعَ مَتَاعًا فَأَفْلَسَ الَّذِي ابْتَاعَهُ مِنْهُ وَلَمْ يَقْبِضِ الَّذِي بَاعَهُ مِنْ ثَمَنِهِ شَيْئًا فَوَجَدَهُ بِعَيْنِهِ فَهُوَ أَحَقُّ بِهِ وَإِنْ مَاتَ الَّذِي ابْتَاعَهُ فَصَاحِبُ الْمَتَاعِ فِيهِ أُسْوَةُ الْغُرَمَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Abu Bakr ibn\nAbd ar-Rahman ibn al-Harith ibn Hisham that the Messenger of Allah,\nmay Allah bless him and grant him peace, said, \"Whenever a man sells\nwares and then the buyer becomes bankrupt and the seller has not taken\nany of the price and he finds some of his property intact with the\nbuyer, he is more entitled to it than anyone else. If the buyer dies,\nthen the seller is the same as other creditors with respect to it.\""
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَيُّمَا رَجُلٍ أَفْلَسَ فَأَدْرَكَ الرَّجُلُ مَالَهُ بِعَيْنِهِ فَهُوَ أَحَقُّ بِهِ مِنْ غَيْرِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me from Yahya ibn Said from Abu Bakr ibn\nMuhammad ibn Amr ibn Hazm from Umar ibn Abdal-Aziz from Abu Bakr ibn\nAbd ar-Rahman ibn al-Harith ibn Hisham from Abu Hurayra that the\nMessenger of Allah, may Allah bless him and grant him peace, said, \"If\nanyone goes bankrupt, and a man finds his own property intact with\nhim, he is more entitled to it than anyone else.\"\n\n\nMalik spoke\nabout a man who sold a man wares, and the buyer went bankrupt. He\nsaid, \"The seller takes whatever of his goods he finds. If the buyer\nhas sold some of them and distributed them, the seller of the wares is\nmore entitled to them than the creditors. What the buyer has\ndistributed does not prevent the seller from taking whatever of it he\nfinds. It is the seller's right if he has received any of the price\nfrom the buyer and he wants to return it to take what he finds of his\nwares, and in what he does not find, he is like the creditors.\"\n\n\nMalik spoke about some one who bought spun wool or a plot of land,\nand then did some work on it, like building a house on the plot of\nland or weaving the spun wool into cloth. Then he went bankrupt after\nhe had bought it, and the original owner of the plot said, \"I will\ntake the plot and whatever structure is on it.\" Malik said, \"That\nstructure is not his. However, the plot and what is in it that the\nbuyer has improved is appraised. Then one sees what the price of the\nplot is and how much of that value is the price of the structure. They\nare partners in that. The owner of the plot has as much as his\nportion, and the creditors have the amount of the portion of the\nstructure.\"\n\n\nMalik said, \"The explanation of that is that the\nvalue of it all is fifteen hundred dirhams. The value of the plot is\nfive hundred dirhams, and the value of the building is one thousand\ndirhams. The owner of the plot has a third, and the creditors have\ntwo-thirds.\"\n\n\nMalik said, \"It is like that with spinning and\nother things of the same nature in these circumstances and the buyer\nhas a debt which he cannot pay. This is the behaviour in such cases.\"\n\n\nMalik said, \"As for goods which have been sold and which the\nbuyer does not improve, but those goods sell well and have gone up in\nprice, so their owner wants them and the creditors also want to seize\nthem, then the creditors choose between giving the owner of the goods\nthe price for which he sold them and not giving him any loss and\nsurrendering his goods to him.\n\n\n\"If the price of the goods has\ngone down, the one who sold them has a choice. If he likes, he can\ntake his goods and he has no claim to any of his debtor's property,\nand that is his right. If he likes, he can be one of the creditors and\ntake a portion of his due and not take his goods. That is up to him.\"\n\n\nMalik said about someone who bought a slave-girl or animal\nand she gave birth in his possession and the buyer went bankrupt, \"The\nslave-girl or the animal and the offspring belong to the seller unless\nthe creditors desire it. In that case they give him his complete due\nand they take it.\""
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي رَافِعٍ، مَوْلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ اسْتَسْلَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَكْرًا فَجَاءَتْهُ إِبِلٌ مِنَ الصَّدَقَةِ قَالَ أَبُو رَافِعٍ فَأَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ أَقْضِيَ الرَّجُلَ بَكْرَهُ فَقُلْتُ لَمْ أَجِدْ فِي الإِبِلِ إِلاَّ جَمَلاً خِيَارًا رَبَاعِيًا ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَعْطِهِ إِيَّاهُ فَإِنَّ خِيَارَ النَّاسِ أَحْسَنُهُمْ قَضَاءً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Zayd ibn Aslam from Ata ibn\nYasar that Abu Rafi, the mawla of the Messenger of Allah,  may Allah\nbless him and grant him peace, said, \"The Messenger of Allah, may\nAllah bless him and grant him peace, borrowed a young camel and then\nthe camels of sadaqa came to him.\" Abu Rafi said, \"He ordered me to\nrepay the man his young camel. I said, 'I can only find a good camel\nin its seventh year in the camels.' The Messenger of Allah, may Allah\nbless him and grant him peace, said, 'Give it to him. The best of\npeople are those who discharge their debts in the best manner.' \""
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ حُمَيْدِ بْنِ قَيْسٍ الْمَكِّيِّ، عَنْ مُجَاهِدٍ، أَنَّهُ قَالَ اسْتَسْلَفَ عَبْدُ اللَّهِ بْنُ عُمَرَ مِنْ رَجُلٍ دَرَاهِمَ ثُمَّ قَضَاهُ دَرَاهِمَ خَيْرًا مِنْهَا فَقَالَ الرَّجُلُ يَا أَبَا عَبْدِ الرَّحْمَنِ هَذِهِ خَيْرٌ مِنْ دَرَاهِمِي الَّتِي أَسْلَفْتُكَ ‏.‏ فَقَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ قَدْ عَلِمْتُ وَلَكِنْ نَفْسِي بِذَلِكَ طَيِّبَةٌ ‏.‏ قَالَ مَالِكٌ لاَ بَأْسَ بِأَنْ يُقْبِضَ مَنْ أُسْلِفَ شَيْئًا مِنَ الذَّهَبِ أَوِ الْوَرِقِ أَوِ الطَّعَامِ أَوِ الْحَيَوَانِ مِمَّنْ أَسْلَفَهُ ذَلِكَ أَفْضَلَ مِمَّا أَسْلَفَهُ إِذَا لَمْ يَكُنْ ذَلِكَ عَلَى شَرْطٍ مِنْهُمَا أَوْ عَادَةٍ فَإِنْ كَانَ ذَلِكَ عَلَى شَرْطٍ أَوْ وَأْىٍ أَوْ عَادَةٍ فَذَلِكَ مَكْرُوهٌ وَلاَ خَيْرَ فِيهِ ‏.‏ قَالَ وَذَلِكَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى جَمَلاً رَبَاعِيًا خِيَارًا مَكَانَ بَكْرٍ اسْتَسْلَفَهُ وَأَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ اسْتَسْلَفَ دَرَاهِمَ فَقَضَى خَيْرًا مِنْهَا فَإِنْ كَانَ ذَلِكَ عَلَى طِيبِ نَفْسٍ مِنَ الْمُسْتَسْلِفِ وَلَمْ يَكُنْ ذَلِكَ عَلَى شَرْطٍ وَلاَ وَأْىٍ وَلاَ عَادَةٍ كَانَ ذَلِكَ حَلاَلاً لاَ بَأْسَ بِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me from Humayd ibn Qays al-Makki that Mujahid\nsaid, \"Abdullah ibn Umar borrowed some dirhams from a man, then he\ndischarged his debt with dirhams better than them. The man said, 'Abu\nAbdar-Rahman. These are better than the dirhams which I lent you.'\nAbdullah ibn Umar said, 'I know that. But I am happy with myself about\nthat.' \"\n\n\nMalik said, \"There is no harm in a person who has\nborrowed gold, silver, food, or animals, taking to the person who lent\nit, something better than what he lent, when that is not a stipulation\nbetween them nor a custom. If that is by a stipulation or promise or\ncustom, then it is disapproved, and there is no good in it.\"\n\n\nHe said, \"That is because the Messenger of Allah, may Allah bless him\nand grant him peace, discharged his debt with a good camel in its\nseventh year in place of a young camel which he borrowed, and Abdullah\nibn Umar borrowed some dirhams, and repaid them with better ones. If\nthat is from the goodness of the borrower, and it is not by a\nstipulation, promise, or custom, it is halal and there is no harm in\nit.\""
+      }
+    },
+    {
+      "id": 93,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عُمَرَ بْنَ الْخَطَّابِ، قَالَ فِي رَجُلٍ أَسْلَفَ رَجُلاً طَعَامًا عَلَى أَنْ يُعْطِيَهُ إِيَّاهُ فِي بَلَدٍ آخَرَ فَكَرِهَ ذَلِكَ عُمَرُ بْنُ الْخَطَّابِ وَقَالَ فَأَيْنَ الْحَمْلُ يَعْنِي حُمْلاَنَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that Umar ibn\nal-Khattab said that he disapproved of one man lending another food on\nthe provision that he gave it back to him in another city. He said,\n\"Where is the transport?\""
+      }
+    },
+    {
+      "id": 94,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، أَنَّهُ بَلَغَهُ أَنَّ رَجُلاً، أَتَى عَبْدَ اللَّهِ بْنَ عُمَرَ فَقَالَ يَا أَبَا عَبْدِ الرَّحْمَنِ إِنِّي أَسْلَفْتُ رَجُلاً سَلَفًا وَاشْتَرَطْتُ عَلَيْهِ أَفْضَلَ مِمَّا أَسْلَفْتُهُ ‏.‏ فَقَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ فَذَلِكَ الرِّبَا ‏.‏ قَالَ فَكَيْفَ تَأْمُرُنِي يَا أَبَا عَبْدِ الرَّحْمَنِ فَقَالَ عَبْدُ اللَّهِ السَّلَفُ عَلَى ثَلاَثَةِ وُجُوهٍ سَلَفٌ تُسْلِفُهُ تُرِيدُ بِهِ وَجْهَ اللَّهِ فَلَكَ وَجْهُ اللَّهِ وَسَلَفٌ تُسْلِفُهُ تُرِيدُ بِهِ وَجْهَ صَاحِبِكَ فَلَكَ وَجْهُ صَاحِبِكَ وَسَلَفٌ تُسْلِفُهُ لِتَأْخُذَ خَبِيثًا بِطَيِّبٍ فَذَلِكَ الرِّبَا ‏.‏ قَالَ فَكَيْفَ تَأْمُرُنِي يَا أَبَا عَبْدِ الرَّحْمَنِ قَالَ أَرَى أَنْ تَشُقَّ الصَّحِيفَةَ فَإِنْ أَعْطَاكَ مِثْلَ الَّذِي أَسْلَفْتَهُ قَبِلْتَهُ وَإِنْ أَعْطَاكَ دُونَ الَّذِي أَسْلَفْتَهُ فَأَخَذْتَهُ أُجِرْتَ وَإِنْ أَعْطَاكَ أَفْضَلَ مِمَّا أَسْلَفْتَهُ طَيِّبَةً بِهِ نَفْسُهُ فَذَلِكَ شُكْرٌ شَكَرَهُ لَكَ وَلَكَ أَجْرُ مَا أَنْظَرْتَهُ ‏.‏",
+      "english": {
+        "narrator": "And Malik related to me that he had heard that a man came to\nAbdullah ibn Umar and said, \"Abu Abd ar-Rahman, I gave a man a loan\nand stipulated that he give me better than what I lent him.\" Abdullah\nibn Umar said, \"That is usury.\" Abdullah said, \"Loans are of three\ntypes:",
+        "text": "A free loan which you lend by which you desire the pleasure of\nAllah, and so you have the pleasure of Allah. A free loan which you\nlend by which you desire the pleasure of your companion, so you have\nthe pleasure of your companion, and a free loan which you lend by\nwhich you take what is impure by what is pure, and that is usury.\" He\nsaid, \"What do you order me to do, Abu Abd ar-Rahman?\" He said, \"I\nthink that you should tear up the agreement. If he gives you the like\nof what you lent him, accept it. If he gives you less than what you\nlent him, take it and you will be rewarded. If he gives you better\nthan what you lent him, of his own good will, that is his gratitude to\nyou and you have the wage of the period you gave him the loan.\""
+      }
+    },
+    {
+      "id": 95,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، أَنَّهُ سَمِعَ عَبْدَ اللَّهِ بْنَ عُمَرَ، يَقُولُ مَنْ أَسْلَفَ سَلَفًا فَلاَ يَشْتَرِطْ إِلاَّ قَضَاءَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi that he heard Abdullah\nibn Umar say, \"If someone lends something, let the only condition be\nthat it is repaid.\""
+      }
+    },
+    {
+      "id": 96,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، أَنَّهُ بَلَغَهُ أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ، كَانَ يَقُولُ مَنْ أَسْلَفَ سَلَفًا فَلاَ يَشْتَرِطْ أَفْضَلَ مِنْهُ وَإِنْ كَانَتْ قَبْضَةً مِنْ عَلَفٍ فَهُوَ رِبًا ‏.‏ قَالَ مَالِكٌ الأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا أَنَّ مَنِ اسْتَسْلَفَ شَيْئًا مِنَ الْحَيَوَانِ بِصِفَةٍ وَتَحْلِيَةٍ مَعْلُومَةٍ فَإِنَّهُ لاَ بَأْسَ بِذَلِكَ وَعَلَيْهِ أَنْ يَرُدَّ مِثْلَهُ إِلاَّ مَا كَانَ مِنَ الْوَلاَئِدِ فَإِنَّهُ يُخَافُ فِي ذَلِكَ الذَّرِيعَةُ إِلَى إِحْلاَلِ مَا لاَ يَحِلُّ فَلاَ يَصْلُحُ وَتَفْسِيرُ مَا كُرِهَ مِنْ ذَلِكَ أَنْ يَسْتَسْلِفَ الرَّجُلُ الْجَارِيَةَ فَيُصِيبُهَا مَا بَدَا لَهُ ثُمَّ يَرُدُّهَا إِلَى صَاحِبِهَا بِعَيْنِهَا فَذَلِكَ لاَ يَصْلُحُ وَلاَ يَحِلُّ وَلَمْ يَزَلْ أَهْلُ الْعِلْمِ يَنْهَوْنَ عَنْهُ وَلاَ يُرَخِّصُونَ فِيهِ لأَحَدٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me that he had heard that Abdullah ibn Masud\nused to say, \"If someone makes a loan, they should not stipulate\nbetter than it. Even if it is a handful of grass, it is usury.\"\n\n\nMalik said, \"The generally agreed on way of doing things among us\nis that there is no harm in borrowing any animals with a set\ndescription and itemisation, and one must return the like of them.\nThis is not done in the case of female slaves. It is feared about that\nthat it will lead to making halal what is not halal, so it is not\ngood. The explanation of what is disapproved of in that, is that a man\nborrow a slave-girl and have intercourse with her as seems proper to\nhim. Then he returns her to her owner. That is not good and it is not\nhalal. The people of knowledge still forbid it and do not give an\nindulgence to any one in it.\""
+      }
+    },
+    {
+      "id": 97,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi from Abdullah ibn Umar\nthat the Messenger of Allah, may Allah bless him and grant him peace,\nsaid, \"Do not let any of you bid against each other.\""
+      }
+    },
+    {
+      "id": 98,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَلَقَّوُا الرُّكْبَانَ لِلْبَيْعِ وَلاَ يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ وَلاَ تَنَاجَشُوا وَلاَ يَبِعْ حَاضِرٌ لِبَادٍ وَلاَ تُصَرُّوا الإِبِلَ وَالْغَنَمَ فَمَنِ ابْتَاعَهَا بَعْدَ ذَلِكَ فَهُوَ بِخَيْرِ النَّظَرَيْنِ بَعْدَ أَنْ يَحْلُبَهَا إِنْ رَضِيَهَا أَمْسَكَهَا وَإِنْ سَخِطَهَا رَدَّهَا وَصَاعًا مِنْ تَمْرٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me from Abu'z-Zinad from al-Araj from Abu\nHurayra that the Messenger of Allah, may Allah bless him and grant him\npeace, said, \"Do not go out to meet the caravans for trade, do not bid\nagainst each other, outbidding in order to raise the price, and a\ntownsman must not buy on behalf of a man of the desert, and do not tie\nup the udders of camels and sheep so that they appear to have a lot of\nmilk, for a person who buys them after that has two recourses open to\nhim after he milks them. If he is pleased with them, he keeps them and\nif he is displeased with them, he can return them along with a sa of\ndates.\"\n\n\nMalik said, \"The explanation of the words of the\nMessenger of Allah, may Allah bless him and grant him peace, according\nto what we think - and Allah knows best - 'do not bid against each\nother,' is that it is forbidden for a man to offer a price over the\nprice of his brother when the seller has inclined to the bargainer and\nmade conditions about the weight of the gold and he has declared\nhimself not liable for faults and such things by which it is\nrecognised that the seller wants to make a transaction with the\nbargainer. This is what he forbade, and Allah knows best.\"\n\n\nMalik said, \"There is no harm, however, in more than one person\nbidding against each other over goods put up for sale.\"\n\n\nHe\nsaid, \"Were people to leave off haggling when the first person started\nhaggling, an unreal price might be taken and the disapproved would\nenter into the sale of the goods. This is still the way of doing\nthings among us.\""
+      }
+    },
+    {
+      "id": 99,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "قَالَ مَالِكٌ عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ النَّجْشِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik said, from Nafi from Abdullah ibn Umar that the Messenger\nof Allah, may Allah bless him and grant him peace, forbade najsh.\n\n\nMalik said, \"Najsh is to offer a man more than the worth of his\ngoods when you do not mean to buy them and someone else follows you in\nbidding.\""
+      }
+    },
+    {
+      "id": 100,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَجُلاً، ذَكَرَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ يُخْدَعُ فِي الْبُيُوعِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا بَايَعْتَ فَقُلْ لاَ خِلاَبَةَ ‏\"‏ ‏.‏ قَالَ فَكَانَ الرَّجُلُ إِذَا بَايَعَ يَقُولُ لاَ خِلاَبَةَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abdullah ibn Dinar from\nAbdullah ibn Umar that a man mentioned to the Messenger of Allah, may\nAllah bless him and grant him peace, that he was always being cheated\nin business transactions. The Messenger of Allah, may Allah bless him\nand grant him peace, said, \"When you enter a transaction, say, 'No\ntrickery.' So whenever that man entered a transaction, he would say,\n'No trickery.' \""
+      }
+    },
+    {
+      "id": 101,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّهُ سَمِعَ سَعِيدَ بْنَ الْمُسَيَّبِ، يَقُولُ إِذَا جِئْتَ أَرْضًا يُوفُونَ الْمِكْيَالَ وَالْمِيزَانَ فَأَطِلِ الْمُقَامَ بِهَا وَإِذَا جِئْتَ أَرْضًا يُنَقِّصُونَ الْمِكْيَالَ وَالْمِيزَانَ فَأَقْلِلِ الْمُقَامَ بِهَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me that Yahya ibn Said heard Said ibn al-\nMusayyab say, \"When you come to a land where they give full measure\nand full weight, stay there. When you come to a land where they\nshorten the measure and weight, then do not stay there very long.\""
+      }
+    },
+    {
+      "id": 102,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّهُ سَمِعَ مُحَمَّدَ بْنَ الْمُنْكَدِرِ، يَقُولُ أَحَبَّ اللَّهُ عَبْدًا سَمْحًا إِنْ بَاعَ سَمْحًا إِنِ ابْتَاعَ سَمْحًا إِنْ قَضَى سَمْحًا إِنِ اقْتَضَى ‏.‏ قَالَ  مَالِكٌ فِي الرَّجُلِ يَشْتَرِي الإِبِلَ أَوِ الْغَنَمَ أَوِ الْبَزَّ أَوِ الرَّقِيقَ أَوْ شَيْئًا مِنَ الْعُرُوضِ جِزَافًا إِنَّهُ لاَ يَكُونُ الْجِزَافُ فِي شَىْءٍ مِمَّا يُعَدُّ عَدًّا ‏.‏ قَالَ مَالِكٌ فِي الرَّجُلِ يُعْطِي الرَّجُلَ السِّلْعَةَ  يَبِيعُهَا لَهُ وَقَدْ قَوَّمَهَا صَاحِبُهَا قِيمَةً فَقَالَ إِنْ بِعْتَهَا بِهَذَا الثَّمَنِ الَّذِي أَمَرْتُكَ بِهِ فَلَكَ دِينَارٌ - أَوْ شَىْءٌ يُسَمِّيهِ لَهُ يَتَرَاضَيَانِ عَلَيْهِ - وَإِنْ لَمْ تَبِعْهَا فَلَيْسَ لَكَ شَىْءٌ إِنَّهُ لاَ بَأْسَ بِذَلِكَ إِذَا سَمَّى ثَمَنًا يَبِيعُهَا بِهِ وَسَمَّى أَجْرًا مَعْلُومًا إِذَا بَاعَ أَخَذَهُ وَإِنْ لَمْ يَبِعْ فَلاَ شَىْءَ لَهُ ‏.‏ قَالَ مَالِكٌ وَمِثْلُ ذَلِكَ أَنْ يَقُولَ الرَّجُلُ لِلرَّجُلِ إِنْ قَدَرْتَ عَلَى غُلاَمِي الآبِقِ أَوْ جِئْتَ بِجَمَلِي الشَّارِدِ فَلَكَ كَذَا ‏.‏ فَهَذَا مِنْ بَابِ الْجُعْلِ وَلَيْسَ مِنْ بَابِ الإِجَارَةِ وَلَوْ كَانَ مِنْ بَابِ الإِجَارَةِ لَمْ يَصْلُحْ ‏.‏ قَالَ مَالِكٌ فَأَمَّا الرَّجُلُ يُعْطَى السِّلْعَةَ فَيُقَالُ لَهُ بِعْهَا وَلَكَ كَذَا وَكَذَا فِي كُلِّ دِينَارٍ ‏.‏ لِشَىْءٍ يُسَمِّيهِ فَإِنَّ ذَلِكَ لاَ يَصْلُحُ لأَنَّهُ كُلَّمَا نَقَصَ دِينَارٌ مِنْ ثَمَنِ السِّلْعَةِ نَقَصَ مِنْ حَقِّهِ الَّذِي سَمَّى لَهُ فَهَذَا غَرَرٌ لاَ يَدْرِي كَمْ جَعَلَ لَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me from Yahya ibn Said that he heard Muhammad\nibn al-Munkadir say, \"Allah loves his slave who is generous when he\nsells, and generous when he buys, generous when he repays, and\ngenerous when he is repaid.\"\n\n\nMalik said about a man who\nbought camels or sheep or dry goods or slaves or any goods without\nmeasuring precisely, \"There is no buying without measuring precisely\nin anything which can be counted . \"\n\n\nMalik said about a man\nwho gave a man goods to sell for him and set their price saying, \"If\nyou sell them for this price as I have ordered you to do, you will\nhave a dinar (or something which he has specified, which they are both\nsatisfied with), if you do not sell them, you will have nothing,\"\n\"There is no harm in that when he names a price to sell them at and\nnames a known fee. If he sells the goods, he takes the fee, and if he\ndoes not sell them, he has nothing.\"\n\n\nMalik said, \"This is\nlike saying to another man, 'If you capture my runaway slave or bring\nmy stray camel, you will have such-and-such.' This is from the\ncategory of reward, and not from the category of giving a wage. Had it\nbeen from the category of giving a wage, it would not be good.\"\n\n\nMalik said, \"As for a man who is given goods and told that if he\nsells them he will have a named percentage for every dinar, that is\nnot good because whenever he is a dinar less than the price of the\ngoods, he decreases the due which was named for him. This is an\nuncertain transaction. He does not know how much he will be given.\""
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 31,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، أَنَّهُ سَأَلَهُ عَنِ الرَّجُلِ، يَتَكَارَى الدَّابَّةَ ثُمَّ يُكْرِيهَا بِأَكْثَرَ مِمَّا تَكَارَاهَا بِهِ فَقَالَ لاَ بَأْسَ بِذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me that he asked Ibn Shihab about a man who\nhired an animal, and then re-hired it out for more than what he hired\nit for. He said, \"There is no harm in that.\""
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 32,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي مَالِكٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، أَنَّهُ قَالَ خَرَجَ عَبْدُ اللَّهِ وَعُبَيْدُ اللَّهِ ابْنَا عُمَرَ بْنِ الْخَطَّابِ فِي جَيْشٍ إِلَى الْعِرَاقِ فَلَمَّا قَفَلاَ مَرَّا عَلَى أَبِي مُوسَى الأَشْعَرِيِّ وَهُوَ أَمِيرُ الْبَصْرَةِ فَرَحَّبَ بِهِمَا وَسَهَّلَ ثُمَّ قَالَ لَوْ أَقْدِرُ لَكُمَا عَلَى أَمْرٍ أَنْفَعُكُمَا بِهِ لَفَعَلْتُ ‏.‏ ثُمَّ قَالَ بَلَى هَا هُنَا مَالٌ مِنْ مَالِ اللَّهِ أُرِيدُ أَنْ أَبْعَثَ بِهِ إِلَى أَمِيرِ الْمُؤْمِنِينَ فَأُسْلِفُكُمَاهُ فَتَبْتَاعَانِ بِهِ مَتَاعًا مِنْ مَتَاعِ الْعِرَاقِ ثُمَّ تَبِيعَانِهِ بِالْمَدِينَةِ فَتُؤَدِّيَانِ رَأْسَ الْمَالِ إِلَى أَمِيرِ الْمُؤْمِنِينَ وَيَكُونُ الرِّبْحُ لَكُمَا فَقَالاَ وَدِدْنَا ذَلِكَ ‏.‏ فَفَعَلَ وَكَتَبَ إِلَى عُمَرَ بْنِ الْخَطَّابِ أَنْ يَأْخُذَ مِنْهُمَا الْمَالَ فَلَمَّا قَدِمَا بَاعَا فَأُرْبِحَا فَلَمَّا دَفَعَا ذَلِكَ إِلَى عُمَرَ قَالَ أَكُلُّ الْجَيْشِ أَسْلَفَهُ مِثْلَ مَا أَسْلَفَكُمَا قَالاَ لاَ ‏.‏ فَقَالَ عُمَرُ بْنُ الْخَطَّابِ ابْنَا أَمِيرِ الْمُؤْمِنِينَ فَأَسْلَفَكُمَا أَدِّيَا الْمَالَ وَرِبْحَهُ ‏.‏ فَأَمَّا عَبْدُ اللَّهِ فَسَكَتَ وَأَمَّا عُبَيْدُ اللَّهِ فَقَالَ مَا يَنْبَغِي لَكَ يَا أَمِيرَ الْمُؤْمِنِينَ هَذَا لَوْ نَقَصَ هَذَا الْمَالُ أَوْ هَلَكَ لَضَمِنَّاهُ ‏.‏ فَقَالَ عُمَرُ أَدِّيَاهُ ‏.‏ فَسَكَتَ عَبْدُ اللَّهِ وَرَاجَعَهُ عُبَيْدُ اللَّهِ ‏.‏ فَقَالَ رَجُلٌ مِنْ جُلَسَاءِ عُمَرَ يَا أَمِيرَ الْمُؤْمِنِينَ لَوْ جَعَلْتَهُ قِرَاضًا ‏.‏ فَقَالَ عُمَرُ قَدْ جَعَلْتُهُ قِرَاضًا ‏.‏ فَأَخَذَ عُمَرُ رَأْسَ الْمَالِ وَنِصْفَ رِبْحِهِ وَأَخَذَ عَبْدُ اللَّهِ وَعُبَيْدُ اللَّهِ ابْنَا عُمَرَ بْنِ الْخَطَّابِ نِصْفَ رِبْحِ الْمَالِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Malik related to me from Zayd ibn Aslam that his father said,\n\"Abdullah and Ubaydullah, the sons of Umar ibn al-Khattab went out\nwith the army to Iraq. On the way home, they passed by Abu Musa al-\nAshari who was the amir of Basra. He greeted them and made them\nwelcome, and told them that if there was anything he could do to help\nthem, he would do it. Then he said, 'There is some of the property of\nAllah which I want to send to the amir al-muminin, so I will lend it\nto you, and you can buy wares from Iraq and sell them in Madina. Then\ngive the principal to the amir al-muminin, and you keep the profit.'\nThey said that they would like to do it, and so he gave them the money\nand wrote to Umar ibn al-Khattab to take the money from them. When\nthey came to sell they made a profit, and when they paid the principal\nto Umar he asked, 'Did he lend everyone in the army the like of what\nhe lent you?' They said, 'No.' Umar ibn al-Khattab said, 'He made you\nthe loan, because you are the sons of the amir al-muminin, so pay the\nprincipal and the profit.' Abdullah was silent. Ubaydullah said, 'You\ndo not need to do this, amir al-muminin. Had the principal decreased\nor been destroyed, we would have guaranteed it.' Umar said, 'Pay it.'\nAbdullah was silent, and Ubaydullah repeated it. A man who was sitting\nwith Umar said, 'Amir al-muminin, better that you make it a qirad.\n'Umar said, 'I have made it qirad.' Umar then took the principal and\nhalf of the profit, and Abdullah and Ubaydullah, the sons of Umar ibn\nal-Khattab took half of the profit.\""
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 69,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ حُذَيْفَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا يَدْخُلُ اَلْجَنَّةَ قَتَّاتٌ }  مُتَّفَقٌ عَلَيْهِ.‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (6056)‏، ومسلم (105)‏ والقتات:\" النمام\" كما وقع ذلك في رواية مسلم.‏",
+  "english": {
+    "narrator": "Hudhaifah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“A backbiter will not enter Paradise.” Agreed upon."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

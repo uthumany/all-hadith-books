@@ -1,0 +1,16 @@
+{
+  "id": 223,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "وَحَدَّثَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي جَعْفَرٍ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْنَبَ الثَّقَفِيَّةِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَيَّتُكُنَّ خَرَجَتْ إِلَى الْمَسْجِدِ فَلاَ تَقْرَبَنَّ طِيبًا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Zainab Ath-Thaqafiyyah that:",
+    "text": "The Prophet  said: \"Any one of you (women) who wants to go out to the Masjid should not go near any perfume.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 34,
+  "chapterId": 25,
+  "bookId": 11,
+  "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ‏:‏ حَدَّثَنَا سَعِيدُ بْنُ سُلَيْمَانَ، عَنْ عَبَّادِ بْنِ الْعَوَّامِ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ‏:‏ أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم كَانَ يُعْجِبُهُ الثُّفْلُ، قَالَ عَبْدُ اللهِ‏:‏ يَعْنِي مَا بَقِيَ مِنَ الطَّعَامِ‏.‏",
+  "english": {
+    "narrator": "Anas said about Allah’s Messenger (Allah bless him and give him peace):",
+    "text": "\"He used to like the dregs .” 'Abdullah said: “That means what is left over from the meal.”"
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

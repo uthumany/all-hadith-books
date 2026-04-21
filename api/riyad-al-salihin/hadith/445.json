@@ -1,0 +1,16 @@
+{
+  "id": 445,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن مسعود، رضي الله عنه ، قال‏:‏ قال رسول الله صلى الله عليه وسلم، “الجنة أقرب إلى أحدكم من شراك نعله، والنار مثل ذلك‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn Mas'ud (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Jannah is nearer to you than your shoelace, and so is the (Hell) Fire\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 125,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، عَنِ ابْنِ فُضَيْلٍ، عَنْ وَائِلٍ أَبِي بَكْرٍ، عَنْ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى، عَنْ أَبِيهِ، رضى الله عنه أَنَّهُ كَانَ يَقُولُ مَا أُبَالِي شَرِبْتُ الْخَمْرَ أَوْ عَبَدْتُ هَذِهِ السَّارِيَةَ مِنْ دُونِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Abu Burdah bin Abi Musa, :",
+    "text": "That his father used to say: \"I do not see any difference between drinking Khamr and worshipping this column instead of Allah the Mighty and Sublime.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

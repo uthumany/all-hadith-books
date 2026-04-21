@@ -1,0 +1,16 @@
+{
+  "id": 99,
+  "chapterId": 31,
+  "bookId": 7,
+  "arabic": "قَالَ مَالِكٌ عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ النَّجْشِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Malik said, from Nafi from Abdullah ibn Umar that the Messenger\nof Allah, may Allah bless him and grant him peace, forbade najsh.\n\n\nMalik said, \"Najsh is to offer a man more than the worth of his\ngoods when you do not mean to buy them and someone else follows you in\nbidding.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

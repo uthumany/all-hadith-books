@@ -1,0 +1,16 @@
+{
+  "id": 128,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثاني عشر‏:‏ عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\n\"‏ من توضأ فأحسن الوضوء، ثم أتى الجمعة، فاستمع وأنصت، غفر له ما بينه وبين الجمعة وزيادة ثلاثة أيام، ومن مس الحصا فقد لغا‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"He who performs his Wudu' perfectly and comes to Jumu'ah prayer and listens (to the Khutbah) silently, the sins which he has committed since the previous Friday plus three more days (i.e., 10 days) will be forgiven for him. One who distracts himself with pebbles during the Khutbah will not get the (Jumu'ah) reward\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 53,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ الْوَرْكَانِيُّ، وَهَنَّادٌ، أَنَّ شَرِيكًا، أَخْبَرَهُمْ عَنْ سِمَاكٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ كُنَّا إِذَا أَتَيْنَا النَّبِيَّ صلى الله عليه وسلم جَلَسَ أَحَدُنَا حَيْثُ يَنْتَهِي ‏.‏",
+  "english": {
+    "narrator": "Narrated Jabir ibn Samurah:",
+    "text": "When we came to the Prophet (ﷺ), each one would sit down where there was room."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

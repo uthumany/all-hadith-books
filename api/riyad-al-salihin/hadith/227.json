@@ -1,0 +1,16 @@
+{
+  "id": 227,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن جرير بن عبد الله رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏\n\"‏ من لا يرحم الناس لا يرحمه الله ‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Jarir bin 'Abdullah (May Allah bepleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"He who is not merciful to people Allah will not be merciful to him.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

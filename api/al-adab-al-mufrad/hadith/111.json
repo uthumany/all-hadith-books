@@ -1,0 +1,16 @@
+{
+  "id": 111,
+  "chapterId": 31,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ ذَرٍّ، عَنْ يُسَيْعَ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ‏:‏ إِنَّ الدُّعَاءَ هُوَ الْعِبَادَةُ، ثُمَّ قَرَأَ‏:‏ ‏{‏ادْعُونِي أَسْتَجِبْ لَكُمْ‏}‏‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "An-Nu'man ibn Bashir reported that the Prophet, may Allah bless\nhim and grant him peace, said, \"Supplication is worship.' Then he recited,\n'Call on Me and I will answer you.'\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

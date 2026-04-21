@@ -1,0 +1,16 @@
+{
+  "id": 489,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبَّادٍ، حَدَّثَنَا حَاتِمٌ، - وَهُوَ ابْنُ إِسْمَاعِيلَ - عَنْ مُوسَى، - وَهُوَ ابْنُ عُقْبَةَ - عَنْ سَالِمٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُتِيَ فِي مُعَرَّسِهِ بِذِي الْحُلَيْفَةِ فَقِيلَ لَهُ إِنَّكَ بِبَطْحَاءَ مُبَارَكَةٍ ‏.‏",
+  "english": {
+    "narrator": "Salim (b. Abdullah b. 'Umar) reported on the authority of his father (Allah be pleased with them) that Allah's Apostle (ﷺ) was visited by (someone, i. e. an angel) during the fag end of the night at Dhu'l-Hulaifa, and it was said to him:",
+    "text": "Verily it is a blessed stony-ground."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

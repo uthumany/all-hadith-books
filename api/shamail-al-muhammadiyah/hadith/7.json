@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "chapterId": 56,
+  "bookId": 11,
+  "arabic": "حدثنا أبو داود سليمان بن سلم البلخي، حدثنا النضر بن شميل‏.‏ قال‏:‏ قال عوف الأعرابي‏:‏ أنا أكبر من قتادة‏.‏‏.‏",
+  "english": {
+    "narrator": "(Regarding one of the narrators of the previous narration) `Awf (Abu Jamilah) al-A`rabi said:",
+    "text": "\"I am older then Qatadah.\""
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

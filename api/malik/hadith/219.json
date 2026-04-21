@@ -1,0 +1,16 @@
+{
+  "id": 219,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يُصَلِّي الظُّهْرَ وَالْعَصْرَ وَالْمَغْرِبَ وَالْعِشَاءَ بِالْمُحَصَّبِ ثُمَّ يَدْخُلُ مَكَّةَ مِنَ اللَّيْلِ فَيَطُوفُ بِالْبَيْتِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nused to pray dhuhr, asr, maghrib and isha at al-Muhassab, and then\nenter Makka at night and do tawaf of the House."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

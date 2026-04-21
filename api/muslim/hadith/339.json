@@ -1,0 +1,16 @@
+{
+  "id": 339,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّهُ قَالَ فَلَمَّا أَتَى جَمْرَةَ الْعَقَبَةِ ‏.‏",
+  "english": {
+    "narrator": "This hadith nas been narrated on the authority of Shu'ba with the same chain of transmitters except with this variation of (words):",
+    "text": "As he came to Jamrat al-'Aqaba.\""
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

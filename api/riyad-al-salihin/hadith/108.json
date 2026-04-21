@@ -1,0 +1,16 @@
+{
+  "id": 108,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الرابع عشر‏:‏ عن أبي صفوان عبد الله بن بسر الأسلمي، رضي الله عنه، قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏ خير الناس من طال عمره وحسن عمله‏\"‏ ‏(‏‏(‏رواه الترمذي، وقال‏:‏ حديث حسن‏.‏ ‏\"‏بسر‏\"‏‏:‏ بضم الياء وبالسين المهملة‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin Busr Al-Aslami (May Allah be pleased with him) said:",
+    "text": "Messenger of Allah (ﷺ) said, \"The best of people is one whose life is long and his conduct is good\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 410,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ مِسْعَرٍ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِذَا شَكَّ أَحَدُكُمْ فِي الصَّلاَةِ فَلْيَتَحَرَّ الصَّوَابَ ثُمَّ يَسْجُدْ سَجْدَتَيْنِ ‏\"‏ ‏.‏\n\n قَالَ الطَّنَافِسِيُّ هَذَا الأَصْلُ وَلاَ يَقْدِرُ أَحَدٌ يَرُدُّهُ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that ‘Abdullah said:",
+    "text": "“The Messenger of Allah (ﷺ)\nsaid:\n‘If anyone of you is uncertain about his prayer, let him try to\ndo\nwhat is correct then let him prostrate twice.’”\n\nTanafisi said: \"This is the basic rule, and no one is able to reject it.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

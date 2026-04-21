@@ -1,0 +1,16 @@
+{
+  "id": 28,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ أَبُو الْجَمَاهِرِ، قَالَ حَدَّثَنَا أَبُو كَعْبٍ، أَيُّوبُ بْنُ مُحَمَّدٍ السَّعْدِيُّ قَالَ حَدَّثَنِي سُلَيْمَانُ بْنُ حَبِيبٍ الْمُحَارِبِيُّ، عَنْ أَبِي أُمَامَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَنَا زَعِيمٌ بِبَيْتٍ فِي رَبَضِ الْجَنَّةِ لِمَنْ تَرَكَ الْمِرَاءَ وَإِنْ كَانَ مُحِقًّا وَبِبَيْتٍ فِي وَسَطِ الْجَنَّةِ لِمَنْ تَرَكَ الْكَذِبَ وَإِنْ كَانَ مَازِحًا وَبِبَيْتٍ فِي أَعْلَى الْجَنَّةِ لِمَنْ حَسَّنَ خُلُقَهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuUmamah:",
+    "text": "The Prophet (ﷺ) said: I guarantee a house in the surroundings of Paradise for a man who avoids quarrelling even if he were in the right, a house in the middle of Paradise for a man who avoids lying even if he were joking, and a house in the upper part of Paradise for a man who made his character good."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

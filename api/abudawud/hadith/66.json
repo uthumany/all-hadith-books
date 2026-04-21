@@ -1,0 +1,16 @@
+{
+  "id": 66,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، عَنْ مِسْعَرٍ، قَالَ سَمِعْتُ شَيْخًا، فِي الْمَسْجِدِ يَقُولُ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ كَانَ فِي كَلاَمِ رَسُولِ اللَّهِ صلى الله عليه وسلم تَرْتِيلٌ أَوْ تَرْسِيلٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Jabir ibn Abdullah:",
+    "text": "The Messenger of Allah (ﷺ) spoke in a distinct and leisurely manner."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

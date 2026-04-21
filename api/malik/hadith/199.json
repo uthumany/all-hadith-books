@@ -1,0 +1,16 @@
+{
+  "id": 199,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ إِذَا حَلَقَ فِي حَجٍّ أَوْ عُمْرَةٍ أَخَذَ مِنْ لِحْيَتِهِ وَشَارِبِهِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nused to trim his beard and moustache when he shaved at the end of a\nhajj or umra."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

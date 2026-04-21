@@ -1,0 +1,16 @@
+{
+  "id": 273,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبَانُ، حَدَّثَنَا عَاصِمٌ، عَنْ مَعْبَدِ بْنِ خَالِدٍ، عَنْ سَوَاءٍ، عَنْ حَفْصَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا أَرَادَ أَنْ يَرْقُدَ وَضَعَ يَدَهُ الْيُمْنَى تَحْتَ خَدِّهِ ثُمَّ يَقُولُ ‏\n\"‏ اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ ‏\"‏ ‏.‏ ثَلاَثَ مِرَارٍ ‏.‏",
+  "english": {
+    "narrator": "Narrated Hafsah, Ummul Mu'minin:",
+    "text": "When the Messenger of Allah (ﷺ) wanted to go to sleep, he put his right hand under his cheek and would then say three times: O Allah, guard me from Thy punishment on the day when Thou raisest up Thy servants."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

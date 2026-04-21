@@ -1,0 +1,16 @@
+{
+  "id": 120,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنِ ابْنِ مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِنَّ أَوْلَى اَلنَّاسِ بِي يَوْمَ اَلْقِيَامَةِ, أَكْثَرُهُمْ عَلَيَّ صَلَاةً }  أَخْرَجَهُ اَلتِّرْمِذِيُّ وَصَحَّحَهُ اِبْنُ حِبَّانَ .‏  1‏ .‏‏1 ‏- ضعيف.‏ رواه الترمذي (484)‏، وابن حبان (911)‏ وقال الترمذي:\" هذا حديث حسن غريب\".‏ قلت: في سنده مجهول، وآخر سيئ الحفظ.‏",
+  "english": {
+    "narrator": "Ibn Mas'ud (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Those who are nearest to me on the Day of Resurrection are those who invoke many blessings on me.” Related by At-Tirmidhi and Ibn Hibban graded it as Sahih."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

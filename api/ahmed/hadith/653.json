@@ -1,0 +1,16 @@
+{
+  "id": 653,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا سُفْيَانُ، عَنِ الْأَعْمَشِ، عَنْ أَبِي الضُّحَى، عَنْ شُتَيْرِ بْنِ شَكَلٍ الْعَبْسِيِّ، قَالَ سَمِعْتُ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ لَمَّا كَانَ يَوْمُ الْأَحْزَابِ صَلَّيْنَا الْعَصْرَ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَغَلُونَا عَنْ الصَّلَاةِ الْوُسْطَى صَلَاةِ الْعَصْرِ مَلَأَ اللَّهُ قُبُورَهُمْ وَأَجْوَافَهُمْ نَارًا‏.‏",
+  "english": {
+    "narrator": "It was narrated that Shutair bin Shakal al-`Absi said:",
+    "text": "I heard `Ali (رضي الله عنه) say: On the day of al-Ahzab, we prayed ‘Asr between Maghrib and `Isha`. The Prophet (ﷺ) said: `They distracted us from the middle prayer, ‘Asr, prayer, may Allah fill their graves and stomachs with fire.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

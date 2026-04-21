@@ -1,0 +1,16 @@
+{
+  "id": 79,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ مُعَاذِ بْنِ جَبَلٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ عَيَّرَ أَخَاهُ بِذَنْبٍ, لَمْ يَمُتْ حَتَّى يَعْمَلَهُ }  أَخْرَجَهُ اَلتِّرْمِذِيُّ وَحَسَّنَهُ, وَسَنَدُهُ مُنْقَطِعٌ.‏  1‏ .‏‏1 ‏- موضوع.‏ رواه الترمذي (2505)‏ من طريق خال بن معدان عن معاذ.‏ وقال:\" حديث حسن غريب، وليس إسناده بمتصل، وخالد بن معدان لم يدرك معاذ بن جبل\".‏ قلت: وفي سند محمد بن الحسن الهمداني وهو\" كذاب\".‏",
+  "english": {
+    "narrator": "Mu'adh bin Jabal (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“If anyone disgraces his brother for a sin, he will not die before committing it himself.” Related At-Tirmidhi who graded it to be Hasan."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 39,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏\n\"‏ من يرد الله به خيراً يصب منه‏\"‏ ‏:‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported that:",
+    "text": "The Messenger of Allah (ﷺ) said: \"He whom Allah intends good, He makes him to suffer from some affliction\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

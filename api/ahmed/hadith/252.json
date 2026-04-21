@@ -1,0 +1,16 @@
+{
+  "id": 252,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ زَكَرِيَّا، عَنْ حَجَّاجِ بْنِ دِينَارٍ، عَنِ الْحَكَمِ، عَنْ حُجَيَّةَ بْنِ عَدِيٍّ، عَنْ عَلِيٍّ، أَنَّ الْعَبَّاسَ بْنَ عَبْدِ الْمُطَّلِبِ، سَأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي تَعْجِيلِ صَدَقَتِهِ قَبْلَ أَنْ تَحِلَّ فَرَخَّصَ لَهُ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "It was narrated from ‘Ali that Al-`Abbas bin `Abdul-Muttalib asked the Prophet (ﷺ) about paying zakah in advance and he gave him a concession allowing him to do that."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

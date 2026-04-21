@@ -1,0 +1,510 @@
+{
+  "page": 12,
+  "perPage": 50,
+  "totalPages": 36,
+  "totalCount": 1767,
+  "nextPage": 13,
+  "prevPage": 11,
+  "items": [
+    {
+      "id": 372,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: { دَخَلَ رَجُلٌ يَوْمَ اَلْجُمُعَةِ, وَالنَّبِيُّ ‏- صلى الله عليه وسلم ‏-يَخْطُبُ .‏ فَقَالَ: \"صَلَّيْتَ?\" قَالَ: لَا.‏ قَالَ: \"قُمْ فَصَلِّ رَكْعَتَيْنِ\" }  مُتَّفَقٌ عَلَيْهِ .‏  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (931)‏، ومسلم (875)‏ (55)‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir (RA):",
+        "text": "A man entered the mosque on a Friday when the Prophet (ﷺ) was delivering the Khutbah (religious talk, sermon) and he  said, \"Stand and pray two Rak'at.\"\n\n."
+      }
+    },
+    {
+      "id": 373,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ; { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-كَانَ يَقْرَأُ فِي صَلَاةِ الْجُمُعَةِ سُورَةَ الْجُمُعَةِ, وَالْمُنَافِقِينَ }  رَوَاهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (879)‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas (RA):",
+        "text": "The Prophet (ﷺ) used to recite in Jumu'ah prayer Surat al-Jumu'ah and al-Munafiqun.\n\n."
+      }
+    },
+    {
+      "id": 374,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلَهُ: عَنِ اَلنُّعْمَانِ بْنِ بَشِيرٍ: { كَانَ يَقْرَأُ فِي اَلْعِيدَيْنِ وَفِي الْجُمُعَةِ: بِـ \"سَبِّحِ اسْمَ رَبِّكَ اَلْأَعْلَى\", وَ: \"هَلْ أَتَاكَ حَدِيثُ اَلْغَاشِيَةِ\" }   1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (878)‏.‏",
+      "english": {
+        "narrator": "Narrated Nu'man bin Bashir (RA):",
+        "text": "He  used to recite in the two 'Eids and in the Friday prayer: \"Sabbih isma Rabbikal-A'la (Surat 87)\" and \"Hal ataka hadithul-ghashiyah (Surat 88).\"\n\n."
+      }
+    },
+    {
+      "id": 375,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ زَيْدِ بْنِ أَرْقَمَ ‏- رضى الله عنه ‏- قَالَ: { صَلَّى النَّبِيُّ ‏- صلى الله عليه وسلم ‏-اَلْعِيدَ, ثُمَّ رَخَّصَ فِي الْجُمُعَةِ, فَقَالَ: \n\"مَنْ شَاءَ أَنْ يُصَلِّيَ فَلْيُصَلِّ\" }  رَوَاهُ اَلْخَمْسَةُ إِلَّا اَلتِّرْمِذِيَّ، وَصَحَّحَهُ ابْنُ خُزَيْمَة َ  1‏ .‏‏1 ‏- صحيح لغيره.‏ رواه أبو داود (1070)‏، والنسائي (3/194)‏، وابن ماجه (1310)‏، وأحمد (4/372)‏، وابن خزيمة (1464)‏، والحديث صححه علي بن المديني، والحاكم.‏ قلت: وفي سنده إياس بن أبي رملة، وهو مجهول كما قال الحافظ في \"التقريب\".‏ ولكن الحديث صحيح لغيره بما له من شواهد أخرى.‏ \"تنبيه\": قول الحافظ: \"وصححه ابن خزيمة\" إنما هو وهم منه رحمه الله؛ إذا ابن خزيمة لم يصحح الحديث، وإنما علق صحته بعدالة ابن أبي رملة، فقال: \"إن صح الخبر فإني لا أعرف إياس بن أبي رملة بعدالة ولا جرح\".‏",
+      "english": {
+        "narrator": "Narrated Zaid bin Arqam (RA):",
+        "text": "The Prophet (ﷺ) prayed the 'Eid prayer (on a Friday); and granted a permission (to be excused) from the praying of Friday prayer and said, \"Whoever wants to pray it, he may pray.\"\n\n."
+      }
+    },
+    {
+      "id": 376,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا صَلَّى أَحَدُكُمُ الْجُمُعَةَ فَلْيُصَلِّ بَعْدَهَا أَرْبَعًا }  رَوَاهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (881)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"When anyone of you prays the Jumu'ah prayer, he should pray four (optional) Rak'at after it.\"\n\n."
+      }
+    },
+    {
+      "id": 377,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنِ السَّائِبِ بْنِ يَزِيدَ, أَنَّ مُعَاوِيَةَ قَالَ لَهُ: { إِذَا صَلَّيْتَ الْجُمُعَةَ فَلَا تَصِلْهَا بِصَلَاةٍ, حَتَّى تُكَلَّمَ أَوْ تَخْرُجَ, فَإِنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-أَمَرَنَا بِذَلِكَ: أَنْ لَا نُوصِلَ صَلَاةً بِصَلَاةٍ حَتَّى نَتَكَلَّمَ أَوْ نَخْرُجَ }  رَوَاهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (883)‏ وعنده: \"توصل\".‏",
+      "english": {
+        "narrator": "Narrated as-Sa'ib bin Yazid (RA) that Mu'awiyah (RA) told him, \"If you offer the Friday prayer, do not connect it with another prayer, till you talk or go out. Allah's Messenger (ﷺ) had commanded us accordingly:",
+        "text": "That we should not connect a prayer to another prayer till we talk or go out (in between them).\"\n\n"
+      }
+    },
+    {
+      "id": 378,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنِ اغْتَسَلَ, ثُمَّ أَتَى الْجُمُعَةَ, فَصَلَّى مَا قُدِّرَ لَهُ, ثُمَّ أَنْصَتَ, حَتَّى يَفْرُغَ اَلْإِمَامُ مِنْ خُطْبَتِهِ, ثُمَّ يُصَلِّي مَعَهُ: غُفِرَ لَهُ مَا بَيْنَهُ وَبَيْنَ الْجُمُعَةِ اَلْأُخْرَى, وَفَضْلُ ثَلَاثَةِ أَيَّامٍ }  رَوَاهُ مُسْلِم ٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (857)‏ (27)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"Whoever takes a bath, then comes to al-Jumu'ah prayer, then prays what was fixed for him, then keeps silent till the Imam finishes the Khutbah (religious talk - sermon), and then prays along with him - his sins (committed) between that time and the next Friday will be forgiven, with an addition of three days more.\"\n\n."
+      }
+    },
+    {
+      "id": 379,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْهُ; أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-ذَكَرَ يَوْمَ الْجُمُعَةِ فَقَالَ: { فِيهِ سَاعَةٌ لَا يُوَافِقُهَا عَبْدٌ مُسْلِمٌ وَهُوَ قَائِمٌ يُصَلِّي, يَسْأَلُ اَللَّهَ عَزَّ وَجَلَّ شَيْئًا إِلَّا أَعْطَاهُ إِيَّاهُ، وَأَشَارَ بِيَدِهِ يُقَلِّلُهَا }  مُتَّفَقٌ عَلَيْه ِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (935)‏، ومسلم (852)‏.‏",
+      "english": {
+        "narrator": "Narrated :",
+        "text": "Allah's Messenger (ﷺ) mentioned the day of al-Jumu'ah and then said, \"There is a time in it (Friday) at which no Muslim would stand up while praying and beg Allah, Who is Great and Glorious, for something except that He would give it to him. He (ﷺ) indicated with his hand that it (this time) is short.\"\n\n."
+      }
+    },
+    {
+      "id": 380,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةٍ لِمُسْلِمٍ: { وَهِيَ سَاعَةٌ خَفِيفَةٌ }   1‏ .‏‏1 ‏- مسلم (852)‏ (15)‏.‏",
+      "english": {
+        "narrator": "A narration of Muslim has:",
+        "text": "\"This time is brief.\""
+      }
+    },
+    {
+      "id": 381,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي بُرْدَةَ عَنْ أَبِيهِ سَمِعْتُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَقُولُ: { هِيَ مَا بَيْنَ أَنْ يَجْلِسَ اَلْإِمَامُ إِلَى أَنْ تُقْضَى اَلصَّلَاةُ }  رَوَاهُ مُسْلِمٌ, وَرَجَّحَ اَلدَّارَقُطْنِيُّ أَنَّهُ مِنْ قَوْلِ أَبِي بُرْدَةَ .‏  1‏ .‏‏1 ‏- ضعيف مرفوعا.‏ والصحيح أنه موقوف.‏ رواه مسلم (853)‏، وانظر \"الجمعة وفضلها\" لأبي بكر المروزي (رقم 10 بتحقيقي)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Burdah (RA) from his father's:",
+        "text": "I heard Allah's Messenger (ﷺ) say, \"That time is between the time when the Imam sits down and the end of the prayer.\"\n\n."
+      }
+    },
+    {
+      "id": 382,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَفِي حَدِيثِ عَبْدِ اَللَّهِ بْنِ سَلَامٍ عِنْدَ ابْنِ مَاجَه ْ  1‏ .‏‏1 ‏- حديث عبد الله بن سلام.‏ رواه ابن ماجه (1139)‏ عنه قال: قلت ورسول الله صلى الله عليه وسلم جالس.‏ إنا لنجد في كتاب الله: في يوم الجمعة ساعة لا يوافقها عبد مؤمن يصلي يسأل الله فيها شيئا إلا قضى الله حاجته.‏ قال عبد الله: فأشار إلي رسول الله صلى الله عليه وسلم: أو بعض ساعة.‏ فقلت: صدقت.‏ أو بعض ساعة.‏ قلت: أي ساعة هي؟ قال: \"هي آخر ساعات النهار\" قلت: إنها ليست ساعة صلاة؟ قال: بلى.‏ إن العبد المؤمن إذا صلى ثم جلس، لا يحبسه إلا الصلاة، فهو في الصلاة\".‏ قلت: وهو حديث صحيح.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn Majah reported from 'Abdullah bin Salam"
+      }
+    },
+    {
+      "id": 383,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَجَابِرِ عِنْدَ أَبِي دَاوُدَ, وَالنَّسَائِيّ ِ  : 1‏ { أَنَّهَا مَا بَيْنَ صَلَاةِ اَلْعَصْرِ إِلَى غُرُوبِ اَلشَّمْسِ }  ِ.‏‏1 ‏- حديث جابر.‏ رواه أبو داود (1048)‏، والنسائي (3/99‏-100)‏ عن رسول الله صلى الله عليه وسلم أنه قال: يوم الجمعة اثنتا عشرة ساعة، لا يوجد فيها عبد مسلم يسأل الله شيئا إلا آتاه إياه، فالتمسوها آخر ساعة بعد العصر\".‏ وهو حديث صحيح، واللفظ للنسائي.‏ \"تنبيه\": قول الحافظ: أنها ما بين صلاة العصر وغروب الشمس.‏ هو تعبير منه بالمعنى، وإلا فليس هذا اللفظ في شيء من روايات الحديث.‏",
+      "english": {
+        "narrator": "and Abu Dawud and an-Nasa'i reported from Jabir:",
+        "text": "\"It is between the 'Asr prayer and sunset.\""
+      }
+    },
+    {
+      "id": 384,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَقَدْ اِخْتُلَفَ فِيهَا عَلَى أَكْثَرَ مِنْ أَرْبَعِينَ قَوْلًا, أَمْلَيْتُهَا فِي \n\"شَرْحِ اَلْبُخَارِيِّ \"  1‏ .‏‏1 ‏- انظر.‏ \"فتح الباري\" (2/416)‏ وما بعدها.‏",
+      "english": {
+        "narrator": "",
+        "text": "More than forty different sayings were narrated about this (special fortune time on Friday), and I have detailed them in (my book) 'Sharh al-Bukhari'."
+      }
+    },
+    {
+      "id": 385,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- قَالَ: { مَضَتِ السُّنَّةُ أَنَّ فِي كُلِّ أَرْبَعِينَ فَصَاعِدًا جُمُعَةً }  رَوَاهُ اَلدَّارَقُطْنِيُّ بِإِسْنَادٍ ضَعِيف ٍ  1‏ .‏‏1 ‏- موضوع.‏ رواه الدارقطني (2/3‏-4/1)‏ وفي سنده عبد العزيز بن عبد الرحمن القرشي، قال عنه ابن حبان في \"المجروحين\" (2/138)‏: \"يأتي بالمقلوبات عن الثقات فيكثر، والملزقات بالأثبات فيفحش، لا يحل الاحتجاج به بحال\".‏ كما أنه أورد له هذا الحديث أيضا في ترجمته.‏ وبذلك تعرف أن قول الحافظ: بإسناد ضعيف فيه تسامح.‏",
+      "english": {
+        "narrator": "Narrated Jabir (RA):",
+        "text": "It is decided in the Sunnah that the Friday prayer  (established/recognized) when forty praying persons or more attend it.\n\n."
+      }
+    },
+    {
+      "id": 386,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ سَمُرَةَ بنِ جُنْدُبٍ ‏- رضى الله عنه ‏- { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-كَانَ يَسْتَغْفِرُ لِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ كُلَّ جُمُعَةٍ }  رَوَاهُ اَلْبَزَّارُ بِإِسْنَادٍ لَيِّن ٍ  1‏ .‏‏1 ‏- موضوع.‏ رواه البزار (1/307‏-308)‏ حدثنا خالد بن يوسف، حدثني أبي؛ يوسف بن خالد، حدثنا جعفر بن سعد بن سمرة، حدثنا خبيب بن سليمان، عن أبيه سليمان بن سمرة، عن سمرة بن جندب به، وعنده زيادة: والمسلمين والمسلمات وقال: \"لا نعلمه عن النبي صلى الله عليه وسلم إلا بهذا الإسناد\".‏ قلت: وهذا إسناد هالك، فخالد بن يوسف ضعيف كما في \"الميزان\"، وأبوه يوسف بن خالد السمتي تركوه وكذبه ابن معين كما في \"التقريب\".‏ وجعفر بن سعد ليس بالقوي كما في \"التقريب\"، وخبيب بن سليمان مجهول كما في \"التقريب\"، وسليمان بن سمرة مقبول كما في \"التقريب\"!! وبعد ذلك لم يبق إلا أن نقول أن قول الحافظ: \"بإسناد لين\" هو قول لين!.‏",
+      "english": {
+        "narrator": "Narrated Samurah bin Jundub (RA):",
+        "text": "The Prophet (ﷺ) used to ask for (Allah's) forgiveness for the believing men and believing women, every al-Jumu'ah (Friday prayer).\n\n."
+      }
+    },
+    {
+      "id": 387,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرِ بْنِ سَمُرَةَ رَضِيَ اَللَّهُ عَنْهُمَا { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-كَانَ فِي اَلْخُطْبَةِ يَقْرَأُ آيَاتٍ مِنَ اَلْقُرْآنِ, وَيُذَكِّرُ اَلنَّاسَ }  رَوَاهُ أَبُو دَاوُد َ  1‏ .‏‏1 ‏- حسن.‏ رواه أبو داود (1101)‏ ولفظه: عن جابر بن سمرة قال: كانت صلاة رسول الله صلى الله عليه وسلم قصدا، وخطبته قصدا؛ يقرأ آيات من القرآن، ويذكر الناس.‏",
+      "english": {
+        "narrator": "Narrated Jabir bin Samurah (RA):",
+        "text": "The Prophet (ﷺ) used to recite some verses from the Qur'an in the Friday Khutbah (religious talk - sermon), reminding the people.\n\n."
+      }
+    },
+    {
+      "id": 388,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَأَصْلُهُ فِي مُسْلِم ٍ  1‏ .‏‏1 ‏- حسن.‏ رواه مسلم (866)‏ ولفظه: عن جابر بن سمرة، قال: \"كنت أصلي مع النبي صلى الله عليه وسلم الصلوات، فكانت صلاته قصدا، وخطبته قصدا.‏ قلت: هذا هو أصل الحديث وليس حديث أم هشام بنت حارثة المتقدم برقم (453)‏ كما ذهب إلى ذلك الصنعاني، وقلده في ذلك من علق على \"البلوغ\".‏",
+      "english": {
+        "narrator": "",
+        "text": "And its basic meaning is in Muslim."
+      }
+    },
+    {
+      "id": 389,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ طَارِقِ بْنِ شِهَابٍ; أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { الْجُمُعَةُ حَقٌّ وَاجِبٌ عَلَى كُلِّ مُسْلِمٍ فِي جَمَاعَةٍ إِلَّا أَرْبَعَةً: مَمْلُوكٌ, وَاِمْرَأَةٌ, وَصَبِيٌّ, وَمَرِيضٌ }  رَوَاهُ أَبُو دَاوُدَ, وَقَالَ: لَمْ يَسْمَعْ طَارِقٌ مِنَ اَلنَّبِيِّ > 1‏  2‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (1067)‏ والحديث وإن أعل بمثل قول أبي داود، فقد أجيب بمثل قول النووي: \"وهذا غير قادح في صحته، فإنه يكون مرسل صحابي، وهو حجة، والحديث على شرط الشيخين\".‏ قلت: وغير ذلك فللحديث شواهد كثيرة، وهي مخرجة في \"الأصل\".‏‏2 ‏- صحيح.‏ رواه أبو داود (1067)‏ والحديث وإن أعل بمثل قول أبي داود، فقد أجيب بمثل قول النووي: \"وهذا غير قادح في صحته، فإنه يكون مرسل صحابي، وهو حجة، والحديث على شرط الشيخين\".‏ قلت: وغير ذلك فللحديث شواهد كثيرة، وهي مخرجة في \"الأصل\".‏",
+      "english": {
+        "narrator": "Narrated Tariq bin Shihab (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"The Friday prayer in congregation is an obligatory duty upon every Muslim, with the exception of four: a slave, a woman, a child and a sick person.\"\n\n."
+      }
+    },
+    {
+      "id": 390,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَأَخْرَجَهُ اَلْحَاكِمُ مِنْ رِوَايَةِ طَارِقٍ اَلْمَذْكُورِ عَنْ أَبِي مُوسَى  1‏ .‏‏1 ‏- المستدرك (188)‏، وذكر أبي موسى في الإسناد ليس بمحفوظ، ولكن الحديث صحيح كما في التعليق السابق.‏",
+      "english": {
+        "narrator": "",
+        "text": "al-Hakim also reported it from the narration of the aforementioned Tariq, who narrated from Abu Musa."
+      }
+    },
+    {
+      "id": 391,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَيْسَ عَلَى مُسَافِرٍ جُمُعَةٌ }  رَوَاهُ اَلطَّبَرَانِيُّ بِإِسْنَادٍ ضَعِيف ٍ  1‏ .‏‏1 ‏- صحيح.‏ رواه الطبراني في \"الأوسط\" (822)‏ وسنده ضعيف كما قال الحافظ، إذ في سنده عبد الله بن نافع وهو ضعيف، ولكن للحديث شواهد يصح بها.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"Jumu'ah prayer is not obligatory on a traveller.\"\n\n."
+      }
+    },
+    {
+      "id": 392,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَبْدِ اَللَّهِ بْنِ مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-]إِذَا [  1‏ اسْتَوَى عَلَى الْمِنْبَرِ اسْتَقْبَلْنَاهُ بِوُجُوهِنَا }  رَوَاهُ اَلتِّرْمِذِيُّ, بِإِسْنَادٍ ضَعِيفٍ .‏  2‏ .‏‏1 ‏- سقط من\"أ\".‏‏2 ‏- صحيح.‏ رواه الترمذي (509)‏ وهو وإن كان ضعيف السند، بل موضوع؛ فإنه من رواية محمد بن الفضل بن عطية، وهو كذاب، إلا أنه كما قال الترمذي: \"والعمل على هذا عند أهل العلم من أصحاب النبي صلى الله عليه وسلم وغيرهم، يستحبون استقبال الإمام إذا خطب\".‏ قلت: وما ذلك إلا من أجل كثرة الآثار الواردة عن الصحابة في ذلك، مع وجود أحدها في \"صحيح البخاري\"، وفي رسالتي \"سنن مهجورة\" بيان لهذه السنة، وما ورد فيها من آثار.‏",
+      "english": {
+        "narrator": "Narrated 'Abdullah bin Mas'ud (RA):",
+        "text": "Whenever Allah's Messenger (ﷺ) ascended the Minbar (to give the Friday Khutbah), we used to face him.\n\n."
+      }
+    },
+    {
+      "id": 393,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلَهُ شَاهِدٌ مِنْ حَدِيثِ الْبَرَاءِ عِنْدَ اِبْنِ خُزَيْمَة َ  1‏ .‏‏1 ‏- لم أجده في المطبوع، والله أعلم.‏",
+      "english": {
+        "narrator": "",
+        "text": "It has a Shahid (supporting narration) in the Hadith of al-Bara', reported by Ibn Khuzaimah."
+      }
+    },
+    {
+      "id": 394,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنِ اَلْحَكَمِ بْنِ حَزْنٍ ‏- رضى الله عنه ‏- قَالَ: { شَهِدْنَا الْجُمُعَةَ مَعَ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-فَقَامَ مُتَوَكِّئًا عَلَى عَصًا أَوْ قَوْسٍ }  رَوَاهُ أَبُو دَاوُد َ  1‏ .‏‏1 ‏- حسن.‏ رواه أبو داود (1096)‏ ولفظه: عن الحكم بن حزن قال: وفدت إلى رسول الله صلى الله عليه وسلم سابع سبعة، أو تاسع تسعة، فدخلنا عليه فقلنا: يا رسول الله! زرناك فادع الله لنا بخير ‏-فأمر بنا، أو أمر لنا بشيء من التمر، والشأن إذا ذاك دون‏-فأقمنا بها أياما، شهدنا فيها الجمعة مع رسول الله صلى الله عليه وسلم، فقام متوكئا على عصا أو قوس، فحمد الله، وأثنى عليه كلمات خفيفات طيبات مباركات، ثم قال: \"أيها الناس! إنكم لن تطيقوا ‏-أو: لن تفعلوا‏- كل ما أمرتم به، ولكن سددوا وأبشروا\".‏",
+      "english": {
+        "narrator": "Narrated al-Hakam bin Hazn (RA):",
+        "text": "We attended the Friday prayer with the Prophet (ﷺ) and he (ﷺ) stood leaning on a staff or a bow.\n\n."
+      }
+    },
+    {
+      "id": 395,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "عَنْ صَالِحِ بْنِ خَوَّاتٍ, { عَمَّنْ صَلَّى مَعَ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَوْمَ ذَاتِ اَلرِّقَاعِ صَلَاةَ اَلْخَوْفِ: أَنَّ طَائِفَةً صَلَّتْ  1‏ مَعَهُ وَطَائِفَةٌ وِجَاهَ اَلْعَدُوِّ, فَصَلَّى بِاَلَّذِينَ مَعَهُ رَكْعَةً, ثُمَّ ثَبَتَ قَائِمًا وَأَتَمُّوا لِأَنْفُسِهِمْ, ثُمَّ اِنْصَرَفُوا فَصَفُّوا وِجَاهَ اَلْعَدُوِّ, وَجَاءَتِ اَلطَّائِفَةُ اَلْأُخْرَى, فَصَلَّى بِهِمْ اَلرَّكْعَةَ اَلَّتِي بَقِيَتْ, ثُمَّ ثَبَتَ جَالِسًا وَأَتَمُّوا لِأَنْفُسِهِمْ, ثُمَّ سَلَّمَ بِهِمْ }  مُتَّفَقٌ عَلَيْهِ, وَهَذَا لَفْظُ مُسْلِمٍ  2‏ .‏‏1 ‏- في البخاري، ومسلم: \"صفت\"، وهو هكذا في بعض طبعات \"البلوغ\" وشرحه \"السبل\" وفي بعضها زيادة: \"من أصحابه صلى الله عليه وسلم\" وهي ليست في \"الصحيحين\".‏‏2 ‏- صحيح.‏ رواه البخاري (4129)‏، ومسلم (842)‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Narrated Salih bin Khawwat on the authority of one who offered the Fear prayer with Allah's Messenger (ﷺ) at the battle of Dhatur-Riqa' that a group (of the army) formed a line along with him and a group faced the enemy. He (ﷺ) led the group which was with him in a Rak'ah, and then remained standing while they finished their prayer by themselves. They then departed and lined up facing the\nenemy, and the other party came. He led them in the remaining Rak'a (of his\nprayer), after which he remained sitting while they finished their prayer by\nthemselves. He then led them in uttering the Taslim (salutation).\n\n."
+      }
+    },
+    {
+      "id": 396,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَوَقَعَ فِي \n\"اَلْمَعْرِفَةِ\" لِابْنِ مَنْدَهْ, عَنْ صَالِحِ بْنِ خَوَّاتٍ, عَنْ أَبِيهِ  1‏ .‏‏1 ‏- ورجحه الحافظ في \"الفتح\" (7 /422)‏، وذهب إلى ذلك غير واحد أيضا، وقيل غير ذلك.‏",
+      "english": {
+        "narrator": "This (Hadith) has been reported in al-Ma'rifah of Ibn Mundah:",
+        "text": "from Salih ibn Khawwat, from his\nfather."
+      }
+    },
+    {
+      "id": 397,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: { غَزَوْتُ مَعَ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قِبَلَ نَجْدٍ, فَوَازَيْنَا اَلْعَدُوَّ, فَصَافَفْنَاهُمْ, فَقَامَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يُصَلِّي بِنَا, فَقَامَتْ طَائِفَةٌ مَعَهُ, وَأَقْبَلَتْ طَائِفَةٌ عَلَى اَلْعَدُوِّ, وَرَكَعَ بِمَنْ مَعَهُ, وَسَجَدَ سَجْدَتَيْنِ, ثُمَّ انْصَرَفُوا مَكَانَ اَلطَّائِفَةِ الَّتِي لَمْ تُصَلِّ فَجَاءُوا, فَرَكَعَ بِهِمْ رَكْعَةً, وَسَجَدَ سَجْدَتَيْنِ, ثُمَّ سَلَّمَ, فَقَامَ كُلُّ وَاحِدٍ مِنْهُمْ, فَرَكَعَ لِنَفْسِهِ رَكْعَةً, وَسَجَدَ سَجْدَتَيْنِ }  مُتَّفَقٌ عَلَيْهِ، وَهَذَا لَفْظُ اَلْبُخَارِيِّ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (942)‏، ومسلم (839)‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar (RA):",
+        "text": "I went on an expedition with Allah's Messenger (ﷺ) to Najd, and when we came in front of the enemy we lined up in ranks facing them. Allah's Messenger (ﷺ) then stood up and led us in prayer. One group stood up with him while the other faced the enemy. He prayed a Rak'ah with those who were with him and made two prostrations. Then, they changed places with those who had not prayed. When they came Allah's Messenger (ﷺ) prayed a Rak'ah with them and made two prostrations. He then uttered the Taslim (salutation) and each of them got up and prayed a Rak'ah alone and made two prostrations.\n\n."
+      }
+    },
+    {
+      "id": 398,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: { شَهِدْتُ مَعَ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-صَلَاةَ اَلْخَوْفِ، فَصَفَّنَا صَفَّيْنِ: صَفٌّ خَلْفَ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-وَالْعَدُوُّ بَيْنَنَا وَبَيْنَ اَلْقِبْلَةِ, فَكَبَّرَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-وَكَبَّرْنَا جَمِيعًا, ثُمَّ رَكَعَ وَرَكَعْنَا جَمِيعًا, ثُمَّ رَفَعَ رَأْسَهُ مِنَ اَلرُّكُوعِ وَرَفَعْنَا جَمِيعًا, ثُمَّ اِنْحَدَرَ بِالسُّجُودِ وَالصَّفُّ اَلَّذِي يَلِيهِ, وَقَامَ اَلصَّفُّ اَلْمُؤَخَّرُ فِي نَحْرِ اَلْعَدُوِّ, فَلَمَّا قَضَى اَلسُّجُودَ, قَامَ اَلصَّفُّ اَلَّذِي يَلِيهِ.‏.‏.‏ }  فَذَكَرَ اَلْحَدِيثَ.‏ \n\nوَفِي رِوَايَةٍ: { ثُمَّ سَجَدَ وَسَجَدَ مَعَهُ اَلصَّفُّ اَلْأَوَّلُ, فَلَمَّا قَامُوا سَجَدَ اَلصَّفُّ اَلثَّانِي, ثُمَّ تَأَخَّرَ اَلصَّفُّ اَلْأَوَّلِ وَتَقَدَّمَ اَلصَّفُّ اَلثَّانِي.‏.‏.‏ }  فَذَكَرَ مِثْلَهُ.‏ \n\nوَفِي آخِرِهِ: { ثُمَّ سَلَّمَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-وَسَلَّمْنَا جَمِيعًا }  رَوَاهُ مُسْلِمٌ  1‏ .‏‏1 ‏- مسلم (1/574‏-575/840)‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir (RA):",
+        "text": "\"I witnessed Salat-al-Khauf with Allah's Messenger (ﷺ) and we lined up in two rows behind him with the enemy between us and the Qiblah. The Prophet (ﷺ) uttered the Takbir and we all uttered it; then he bowed and we all bowed; then he raised his head after bowing and we all raised ours; then he and the row immediately behind him went down in prostration while the rear row stood facing the enemy. Then, when Allah's Messenger (ﷺ) finished the prostration and the row immediately behind him stood up...\" then he mentioned the Hadith.\n\nAnd in a narration \"Then he prostrated and the first row prostrated with him.  So when they stood, the second row prostrated then the first row went back and the second row came forward...\" then he mentioned a similar to it.\n\nAnd at the end of it \"Then the\nProphet (ﷺ) uttered the Taslim (salutation) and we all did so.\"\n\n."
+      }
+    },
+    {
+      "id": 399,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِأَبِي دَاوُدَ: عَنْ أَبِي عَيَّاشٍ الزُّرَقِيِّ مِثْلُهُ, وَزَادَ: { أَنَّهَا كَانَتْ بِعُسْفَانَ }   1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (1236)‏ ولفظه: عن أبي عياش الزرقي قال: كنا مع رسول الله صلى الله عليه وسلم بعسفان، وعلى المشركين خالد بن الوليد، فصلينا الظهر، فقال المشركون: لقد أصبنا غرة.‏ لقد أصبنا غفلة، لو كنا حملنا عليهم وهم في الصلاة، فنزلت آية القصر بين الظهر والعصر، فلما حضرت العصر، قام رسول الله صلى الله عليه وسلم، مستقبل القبلة والمشركون أمامه، فصف خلف رسول الله صلى الله عليه وسلم صف، وصف بعد ذلك الصف صف آخر، فركع رسول الله صلى الله عليه وسلم وركعوا جميعا، ثم سجد وسجد الصف الذين يلونه، وقام الآخرون يحرسونهم، فلما صلى هؤلاء السجدتين وقاموا سجد الآخرين الذين كانوا خلفهم، ثم تأخر الصف الذي يليه إلى مقام الآخرين، وتقدم الصف الأخير إلى مقام الصف الأول، ثم ركع رسول الله صلى الله عليه وسلم وركعوا جميعا، ثم سجد وسجد الصف الذي يليه، وقام الآخرون يحرسونهم فلما جلس رسول الله صلى الله عليه وسلم والصف الذي يليه الآخرون، ثم جلسوا جميعا، فسلم عليهم جميعا، فصلاها بعسفان، وصلاها يوم بني سليم.‏",
+      "english": {
+        "narrator": "Abu Dawud has reported from Abu 'Aiyash  az-Zuraqi similarly, and he added:",
+        "text": "\"it was in Usfan.\""
+      }
+    },
+    {
+      "id": 400,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَلِلنَّسَائِيِّ مِنْ وَجْهٍ آخَرَ عَنْ جَابِرٍ { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-صَلَّى بِطَائِفَةٍ مِنْ أَصْحَابِهِ رَكْعَتَيْنِ, ثُمَّ سَلَّمَ, ثُمَّ صَلَّى بِآخَرِينَ أَيْضًا رَكْعَتَيْنِ, ثُمَّ سَلَّمَ }   1‏ .‏‏1 ‏- صحيح.‏ رواه النسائي (378)‏، وأصله في مسلم (843)‏.‏",
+      "english": {
+        "narrator": "an-Nasa'i reported this narration - through another chain of narrators - from Jabir (RA):",
+        "text": "The Prophet (ﷺ) led a group of his Companions in two Rak'at after which he uttered the Taslim (salutation). Then he led another group in two Rak'at after which he uttered the Taslim (salutation).\""
+      }
+    },
+    {
+      "id": 401,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَمِثْلُهُ لِأَبِي دَاوُدَ, عَنْ أَبِي بَكْرَةَ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (1248)‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Dawud has reported similarly from Abu Bakrah (RA)."
+      }
+    },
+    {
+      "id": 402,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ حُذَيْفَةَ: { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-صَلَّى صَلَاةَ اَلْخَوْفِ بِهَؤُلَاءِ رَكْعَةً, وَبِهَؤُلَاءِ رَكْعَةً, وَلَمْ يَقْضُوا }  رَوَاهُ أَحْمَدُ, وَأَبُو دَاوُدَ, وَالنَّسَائِيُّ, وَصَحَّحَهُ ابْنُ حِبَّانَ  1‏ .‏‏1 ‏- صحيح.‏ رواه أحمد (5/385 و 399)‏، وأبو داود (1246)‏، والنسائي (3/167‏-168)‏، ولا أظن أن عزوه لابن حبان إلا من باب الوهم والخطأ.‏ والله أعلم.‏",
+      "english": {
+        "narrator": "Narrated Hudhaifah (RA):",
+        "text": "The Prophet (ﷺ) performed Salatal-Khauf leading these (Companions) in one Rak'ah and those (other Companions) in one Rak'ah, and they did not make up the second Rak'ah.\n\n."
+      }
+    },
+    {
+      "id": 403,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَمِثْلُهُ عِنْدَ ابْنِ خُزَيْمَةَ: عَنِ ابْنِ عَبَّاسٍ  1‏ .‏‏1 ‏- رقم (1344)‏ بسند صحيح، إلا أنه لم يذكر لفظه، وإنما أحال على لفظ حديث حذيفة.‏",
+      "english": {
+        "narrator": "",
+        "text": "Ibn Khuzaimah has reported it similarly from Ibn 'Abbas (RA)."
+      }
+    },
+    {
+      "id": 404,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنِ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ صَلَاةُ اَلْخَوْفِ رَكْعَةٌ عَلَى أَيِّ وَجْهٍ كَانَ }  رَوَاهُ اَلْبَزَّارُ بِإِسْنَادٍ ضَعِيفٍ  1‏ .‏‏1 ‏- منكر.‏ رواه البزار (678 كشف)‏ وعنده زيادة: \"الرجل تجزئ عنه\" وعنده أيضا \"صلاة المسابقة\" مكان \"صلاة الخوف\".‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"The prayer in time of danger is one Rak'ah, in whatever manner it is (performed).\"\n\n."
+      }
+    },
+    {
+      "id": 405,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْهُ مَرْفُوعًا: { لَيْسَ فِي صَلَاةِ اَلْخَوْفِ سَهْوٌ }  أَخْرَجَهُ اَلدَّارَقُطْنِيُّ بِإِسْنَادٍ ضَعِيفٍ  1‏ .‏‏1 ‏- ضعيف.‏ رواه الدارقطني (2/58/1)‏ وضعفه.‏",
+      "english": {
+        "narrator": "Narrated :",
+        "text": "(This Hadith is) attributed to the Prophet (ﷺ) \"There is no Sahw (prostration for forgetfulness) in the prayer in time of danger.\"\n\n."
+      }
+    },
+    {
+      "id": 406,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "عَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ الْفِطْرُ يَوْمَ يُفْطِرُ اَلنَّاسُ, وَالْأَضْحَى يَوْمَ يُضَحِّي اَلنَّاسُ }  رَوَاهُ اَلتِّرْمِذِيُّ  1‏ .‏‏1 ‏- صحيح.‏ رواه الترمذي (802)‏ من حديث محمد بن المنكدر، عن عائشة رضي الله عنها.‏ وأقول: هو حديث صحيح، إلا أنه ضعيف من هذا الوجه، وبيان ذلك \"بالأصل\".‏",
+      "english": {
+        "narrator": "Narrated 'Aishah (RA):",
+        "text": "Allah's Messenger (ﷺ) said: \"('Eid) al-Fitr is the day on which the people break the fast, and ('Eid) al-Adha is the day the people offer sacrifices.\"\n\n."
+      }
+    },
+    {
+      "id": 407,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي عُمَيْرِ بْنِ أَنَسٍ, عَنْ عُمُومَةٍ لَهُ مِنَ اَلصَّحَابَةِ, { أَنَّ رَكْبًا جَاءُوا, فَشَهِدُوا أَنَّهُمْ رَأَوُا الْهِلَالَ بِالْأَمْسِ, فَأَمَرَهُمْ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-أَنْ يُفْطِرُوا, وَإِذَا أَصْبَحُوا يَغْدُوا إِلَى مُصَلَّاهُمْ }  رَوَاهُ أَحْمَدُ, وَأَبُو دَاوُدَ ‏-وَهَذَا لَفْظُهُ‏- وَإِسْنَادُهُ صَحِيحٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه أحمد (5/57 و 58)‏، وأبو داود (1157)‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Narrated Abu 'Umair bin Anas bin Malik (RA) on the authority of some of his paternal uncles who were among the Companions, that some riders came and testified that they had seen the new moon the previous day. The Prophet (ﷺ) therefore commanded the people to break the fast and go out to their place of prayer in the morning.\n\n."
+      }
+    },
+    {
+      "id": 408,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- قَالَ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-لَا يَغْدُو يَوْمَ اَلْفِطْرِ حَتَّى يَأْكُلَ تَمَرَاتٍ }  أَخْرَجَهُ اَلْبُخَارِيُّ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (953)‏.‏",
+      "english": {
+        "narrator": "Narrated Anas (RA):",
+        "text": "Allah's Messenger (ﷺ) would not go out on the day of the breaking of the fast till he ate some dates, which he used to eat in odd numbers.\n\n."
+      }
+    },
+    {
+      "id": 409,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَفِي رِوَايَةٍ مُعَلَّقَةٍ ‏-وَوَصَلَهَا أَحْمَدُ‏-: وَيَأْكُلُهُنَّ أَفْرَادًا  1‏ .‏‏1 ‏- حسن.‏ وهي عند البخاري (2/446/ فتح)‏، ووصلها أحمد (326)‏.‏ \"تنبيه\": اللفظ الذي ذكره الحافظ وعزاه للبخاري هنا إنما هو وهم من الحافظ رحمه الله، فهذا اللفظ إنما هو للإمام أحمد، ونص على ذلك الحافظ في \"الفتح\" أيضا، وإنما لفظ البخاري هو: \"ويأكلهن وترا\".‏",
+      "english": {
+        "narrator": "A Mu'allaq narration (broken chain from the side of the Hadith collector, i.e. al-Bukhari) - but connected by Ahmad - has:",
+        "text": "\"and he used to them one by one.\""
+      }
+    },
+    {
+      "id": 410,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنِ ابْنِ بُرَيْدَةَ, عَنْ أَبِيهِ قَالَ: { كَانَ النَّبِيُّ ‏- صلى الله عليه وسلم ‏-لَا يَخْرُجُ يَوْمَ اَلْفِطْرِ حَتَّى يَطْعَمَ, وَلَا يَطْعَمُ يَوْمَ اَلْأَضْحَى حَتَّى يُصَلِّيَ }  رَوَاهُ أَحْمَدُ, وَاَلتِّرْمِذِيُّ, وَصَحَّحَهُ ابْنُ حِبَّانَ  1‏ .‏‏1 ‏- حسن.‏ رواه أحمد (5/352)‏، والترمذي (542)‏، وابن حبان (2812)‏ واللفظ للترمذي، وقوله عقبه: \"حديث غريب\" هو قول غريب.‏ وقال الحاكم في \"المستدرك\" (1/294)‏: \"هذه سنة عزيزة من طريق الرواية، مستفيضة في بلاد المسلمين\".‏",
+      "english": {
+        "narrator": "Narrated Ibn Buraidah on the authority of his father:",
+        "text": "Allah's Messenger (ﷺ) would not go out on the day of breaking of the fast till he had some food, and he would not to take any food on the day of sacrifice till he had prayed (the 'Eid prayer).\n\n."
+      }
+    },
+    {
+      "id": 411,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أُمِّ عَطِيَّةَ قَالَتْ: { أُمِرْنَا أَنْ نُخْرِجَ اَلْعَوَاتِقَ, وَالْحُيَّضَ فِي الْعِيدَيْنِ; يَشْهَدْنَ الْخَيْرَ وَدَعْوَةَ اَلْمُسْلِمِينَ, وَيَعْتَزِلُ اَلْحُيَّضُ اَلْمُصَلَّى }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (324)‏، ومسلم (890)‏ مع مراعاة أن الحافظ قد تصرف في اللفظ.‏",
+      "english": {
+        "narrator": "Narrated Umm 'Atiyah (RA):",
+        "text": "We were commanded to bring out on 'Eidul-Fitr and 'Eidul-Adha, the young women and the menstruating women to participate in the goodness and supplications of the Muslims. However, the menstruating women would refrain from the (actual) place of prayer.\n\n."
+      }
+    },
+    {
+      "id": 412,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنِ ابْنِ عُمَرَ: { كَانَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-وَأَبُو بَكْرٍ, وَعُمَرُ: يُصَلُّونَ الْعِيدَيْنِ قَبْلَ اَلْخُطْبَةِ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (963)‏، ومسلم (888)‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar (RA):",
+        "text": "Allah's Messenger (ﷺ) Abu Bakr and 'Umar (RA) used to offer the 'Eid prayer before the Khutbah (religious talk - sermon).\n\n."
+      }
+    },
+    {
+      "id": 413,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ: { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-صَلَّى يَوْمَ اَلْعِيدِ رَكْعَتَيْنِ, لَمْ يُصَلِّ قَبْلَهَا وَلَا بَعْدَهَا }  أَخْرَجَهُ اَلسَّبْعَةُ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (964)‏ وفي غير موضع، ومسلم (2/606/رقم 884)‏، وأبو داود (1159)‏، والنسائي (3/193)‏، والترمذي (537)‏، وابن ماجه (1291)‏، وأحمد (1/340/ رقم 3153)‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas (RA):",
+        "text": "The Prophet (ﷺ) offered two Rak'at on the day of 'Eid, and did not pray before or after them.\n\n."
+      }
+    },
+    {
+      "id": 414,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْهُ: { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-صَلَّى اَلْعِيدَ بِلَا أَذَانٍ, وَلَا إِقَامَةٍ }  أَخْرَجَهُ أَبُو دَاوُدَ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (1147)‏ وزاد: \"وأبا بكر، وعمر أو عثمان\".‏ وقال الحافظ في \"الفتح\" (2/452)‏: \"إسناده صحيح\".‏",
+      "english": {
+        "narrator": "Narrated :",
+        "text": "The Prophet (ﷺ) offered the 'Eid prayer without an Adhan or an Iqamah.\n\n."
+      }
+    },
+    {
+      "id": 415,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَأَصْلُهُ فِي اَلْبُخَارِيِّ  1‏ .‏‏1 ‏- يشير إلى ما رواه البخاري (9/344/فتح)‏ عنه قال: خرج رسول الله صلى الله عليه وسلم فصلى ثم خطب، ولم يذكر آذانا ولا إقامة.‏.‏.‏ الحديث.‏ انظر (2/451/فتح)‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "And its basic meaning is in al-Bukhari."
+      }
+    },
+    {
+      "id": 416,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ قَالَ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-لَا يُصَلِّي قَبْلَ اَلْعِيدِ شَيْئًا, فَإِذَا رَجَعَ إِلَى مَنْزِلِهِ صَلَّى رَكْعَتَيْنِ }  رَوَاهُ اِبْنُ مَاجَهْ بِإِسْنَادٍ حَسَنٍ  1‏ .‏‏1 ‏- حسن.‏ رواه ابن ماجه (1293)‏ ولا يظن ظان أن بين هذا الحديث وبين حديث ابن عباس السابق (491)‏ تعارض فحديث ابن عباس خاص بالصلاة في المصلى، وبهذا الجمع قال غير واحد.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa'id (RA):",
+        "text": "The Prophet (ﷺ) never used to offer any prayer before the 'Eid prayer. But when he went back home, he used to pray two Rak'at.\n\n."
+      }
+    },
+    {
+      "id": 417,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْهُ قَالَ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَخْرُجُ يَوْمَ اَلْفِطْرِ وَالْأَضْحَى إِلَى اَلْمُصَلَّى, وَأَوَّلُ شَيْءٍ يَبْدَأُ بِهِ اَلصَّلَاةُ, ثُمَّ يَنْصَرِفُ فَيَقُومُ مُقَابِلَ اَلنَّاسِ ‏-وَالنَّاسُ عَلَى صُفُوفِهِمْ‏- فَيَعِظُهُمْ وَيَأْمُرُهُمْ }  مُتَّفَقٌ عَلَيْهِ  1‏ .‏‏1 ‏- صحيح.‏ رواه البخاري (956)‏، ومسلم (889)‏ ولم كان المصنف قد ساق لفظ البخاري، فتمامه: فإن كان يريد أن يقطع بعثا قطعه، أو يأمر بشيء أمر به، ثم ينصرف.‏ قال أبو سعيد: فلم يزل الناس على ذلك حتى خرجت مع مروان ‏-وهو أمير المدينة‏- في أضحى أو فطر، فلما أتينا المصلى إذا منبر بناه كثير بن الصلت، فإذا مروان يريد أن يرتقيه قبل أن يصلي، فجبذت بثوبه، فجبذني، فارتفع فخطب قبل الصلاة.‏ فقلت له: غيرتم والله.‏ فقال: أبا سعيد قد ذهب ما تعلم! فقلت: ما أعلم والله خير مما لا أعلم.‏ فقال: إن الناس لم يكونوا يجلسون لنا بعد الصلاة، فجعلتها قبل الصلاة.‏",
+      "english": {
+        "narrator": "Narrated :",
+        "text": "The Prophet (ﷺ) used to go out on the day of the breaking of the fast and the day of sacrifice to the place of prayer, and the first thing he would start with was the prayer. When he finished he would stand facing the people, who were seated in their rows, and he would then preach to them and command them.\n\n."
+      }
+    },
+    {
+      "id": 418,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ عَمْرِوِ بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَ: قَالَ نَبِيُّ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلتَّكْبِيرُ فِي اَلْفِطْرِ سَبْعٌ فِي اَلْأُولَى وَخَمْسٌ فِي اَلْآخِرَةِ, وَالْقِرَاءَةُ بَعْدَهُمَا كِلْتَيْهِمَا }  أَخْرَجَهُ أَبُو دَاوُدَ  1‏ .‏‏1 ‏- صحيح.‏ رواه أبو داود (1151)‏ وهو وإن كان في سنده ضعف، فإن له شواهد يصح بها، وقد ذكرتها \"بالأصل\".‏",
+      "english": {
+        "narrator": "Narrated 'Amr bin Shu'aib from his father on the authority of his grand father:",
+        "text": "The Prophet of Allah (ﷺ) said: \"The Takbir in ('Eid) al-Fitr prayer are seven in the first Rak'ah and five in the second, and the recitation of the Qur'an in both is after the Takbir.\"\n\n."
+      }
+    },
+    {
+      "id": 419,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَنَقَلَ اَلتِّرْمِذِيُّ عَنِ اَلْبُخَارِيِّ تَصْحِيحَهُ  1‏ .‏‏1 ‏- العلل الكبير (1/288)‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "at-Tirmidhi transmitted its Tashih (grading of\nauthenticity) from al-Bukhari."
+      }
+    },
+    {
+      "id": 420,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ أَبِي وَاقِدٍ اللَّيْثِيِّ قَالَ: { كَانَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-يَقْرَأُ فِي اَلْأَضْحَى وَالْفِطْرِ بِـ (ق)‏, وَ (اقْتَرَبَتْ)‏.‏ }  أَخْرَجَهُ مُسْلِمٌ  1‏ .‏‏1 ‏- صحيح.‏ رواه مسلم (891)‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Waqid al-Laithi (RA):",
+        "text": "The Prophet (ﷺ) used to recite on ('Eid) al-Adha and ('Eid) al-Fitr, Surat Qaf (Chapter 50) and Surat Al-Qamar (Chapter 54).\n\n."
+      }
+    },
+    {
+      "id": 421,
+      "chapterId": 2,
+      "bookId": 12,
+      "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- قَالَ: { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-إِذَا كَانَ يَوْمُ اَلْعِيدِ خَالَفَ اَلطَّرِيقَ }  أَخْرَجَهُ اَلْبُخَارِيُّ  1‏ .‏‏1 ‏- صحيح لغيره.‏ رواه البخاري (986)‏، وله شواهد ذكرتها في \"الأصل\"، ومنها حديث ابن عمر الآتي.‏",
+      "english": {
+        "narrator": "Narrated Jabir (RA):",
+        "text": "On an 'Eid day, Allah's Messenger (ﷺ) would return by a different road from the one he had taken when going out (for the 'Eid prayer.)\n\n."
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 247,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عباس رضي الله عنهما في قصة بريرة وزوجها‏.‏ قال‏:‏ قال لها النبي صلى الله عليه وسلم‏:‏ ‏\"‏لو راجعته‏؟‏‏\"‏ قالت‏:‏ يا رسول الله تأمرني‏؟‏ قال ‏:‏ ‏\"‏إنما أشفع‏\"‏ قالت‏:‏ لا حاجة لي فيه‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas (May Allah bepleased with them), reported in connection with the case of Barirah (May Allah bepleased with her) and her husband:",
+    "text": "The Prophet (ﷺ) said to her, \"It is better for you to go back to your husband.\" She asked: \"O Messenger of Allah, do you order me to do so.\" He replied, \"I only intercede\" She then said: \"I have no need for him\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

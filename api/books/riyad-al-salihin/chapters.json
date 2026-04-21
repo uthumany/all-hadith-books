@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "bookId": 10,
+    "arabic": "كتاب الأدب",
+    "english": "The Book of Good Manners",
+    "hadithsCount": 47
+  },
+  {
+    "id": 2,
+    "bookId": 10,
+    "arabic": "كتـــــاب أدب الطعام",
+    "english": "The Book About the Etiquette of Eating",
+    "hadithsCount": 51
+  },
+  {
+    "id": 3,
+    "bookId": 10,
+    "arabic": "كتــــاب اللباس",
+    "english": "The Book of Dress",
+    "hadithsCount": 35
+  },
+  {
+    "id": 4,
+    "bookId": 10,
+    "arabic": "كتاب آداب النوم",
+    "english": "The Book of the Etiquette of Sleeping, Lying and Sitting etc",
+    "hadithsCount": 31
+  },
+  {
+    "id": 5,
+    "bookId": 10,
+    "arabic": "كتاب السلام",
+    "english": "The Book of Greetings",
+    "hadithsCount": 50
+  },
+  {
+    "id": 6,
+    "bookId": 10,
+    "arabic": "كتاب عيادة المريض وتشييع الميت والصلاة عليه وحضور دفنه",
+    "english": "The Book of Visiting the Sick",
+    "hadithsCount": 62
+  },
+  {
+    "id": 7,
+    "bookId": 10,
+    "arabic": "كتاب آداب السفر",
+    "english": "The Book of Etiquette of Traveling",
+    "hadithsCount": 35
+  },
+  {
+    "id": 8,
+    "bookId": 10,
+    "arabic": "كتاب الفضائل",
+    "english": "The Book of Virtues",
+    "hadithsCount": 277
+  },
+  {
+    "id": 9,
+    "bookId": 10,
+    "arabic": "كتاب الاعتكاف",
+    "english": "The Book of I'tikaf",
+    "hadithsCount": 3
+  },
+  {
+    "id": 10,
+    "bookId": 10,
+    "arabic": "كتاب الحج",
+    "english": "The Book of Hajj",
+    "hadithsCount": 14
+  },
+  {
+    "id": 11,
+    "bookId": 10,
+    "arabic": "كتاب الجهاد",
+    "english": "The Book of Jihad",
+    "hadithsCount": 91
+  },
+  {
+    "id": 12,
+    "bookId": 10,
+    "arabic": "كتاب العلم",
+    "english": "The Book of Knowledge",
+    "hadithsCount": 17
+  },
+  {
+    "id": 13,
+    "bookId": 10,
+    "arabic": "كتاب حمد الله تعالى وشكره",
+    "english": "The Book of Praise and Gratitude to Allah",
+    "hadithsCount": 4
+  },
+  {
+    "id": 14,
+    "bookId": 10,
+    "arabic": "كتاب الصلاة على رسول الله صلى الله عليه وسلم",
+    "english": "The Book of Supplicating Allah to Exalt the Mention of Allah's Messenger",
+    "hadithsCount": 11
+  },
+  {
+    "id": 15,
+    "bookId": 10,
+    "arabic": "كتاب الأذكار",
+    "english": "The Book of the Remembrance of Allah",
+    "hadithsCount": 57
+  },
+  {
+    "id": 16,
+    "bookId": 10,
+    "arabic": "كتاب الدعوات",
+    "english": "The Book of Du'a (Supplications)",
+    "hadithsCount": 46
+  },
+  {
+    "id": 17,
+    "bookId": 10,
+    "arabic": "كتاب الأمور المنهي عنها",
+    "english": "The Book of the Prohibited actions",
+    "hadithsCount": 297
+  },
+  {
+    "id": 18,
+    "bookId": 10,
+    "arabic": "كتاب المنثورات والملح",
+    "english": "The Book of Miscellaneous ahadith of Significant Values",
+    "hadithsCount": 61
+  },
+  {
+    "id": 19,
+    "bookId": 10,
+    "arabic": "كتاب الاستغفار",
+    "english": "The Book of Forgiveness",
+    "hadithsCount": 28
+  },
+  {
+    "id": 20,
+    "bookId": 10,
+    "arabic": "كتاب المقدمات",
+    "english": "The Book of Miscellany",
+    "hadithsCount": 679
+  }
+]

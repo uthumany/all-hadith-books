@@ -1,0 +1,16 @@
+{
+  "id": 70,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَن سعدِ بْنِ مَالِكٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا هَامَةَ وَلَا عَدْوَى وَلَا طِيَرَةَ وَإِنْ تَكُنِ الطِّيَرَةُ فِي شَيْءٍ فَفِي الدَّارِ وَالْفرس وَالْمَرْأَة» . رَوَاهُ أَبُو دَاوُد",
+  "english": {
+    "narrator": "Sa'd b. Malik reported God’s messenger as saying:",
+    "text": "\"There is no hama, no infection and no evil omen; but if anything is affected by an evil omen it is a house, a horse, and a woman.\" \n\nAbu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

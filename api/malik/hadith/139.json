@@ -1,0 +1,16 @@
+{
+  "id": 139,
+  "chapterId": 20,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ عَبْدَ اللَّهِ بْنَ حُذَافَةَ أَيَّامَ مِنًى يَطُوفُ يَقُولُ إِنَّمَا هِيَ أَيَّامُ أَكْلٍ وَشُرْبٍ وَذِكْرِ اللَّهِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Yahya related to me from Malik from Ibn Shihab that the Messenger\nof Allah, may Allah bless him and grant him peace, sent Abdullah ibn\nHudhayfa out on the days of Mina to circulate among the people to tell\nthem those days were for eating and drinking and remembrance of Allah."
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

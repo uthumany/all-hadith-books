@@ -1,0 +1,16 @@
+{
+  "id": 166,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ مُوسَى بْنِ مَيْسَرَةَ، عَنْ سَعِيدِ بْنِ أَبِي هِنْدٍ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ لَعِبَ بِالنَّرْدِ فَقَدْ عَصَى اللَّهَ وَرَسُولَهُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuMusa al-Ash'ari:",
+    "text": "The Messenger of Allah (ﷺ) said: He who plays backgammon disobeys Allah and His Apostle."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 61,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا ابْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ، وَأَبُو دَاوُدَ قَالاَ حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنِي مُوسَى بْنُ وَرْدَانَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ الرَّجُلُ عَلَى دِينِ خَلِيلِهِ فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِلُ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "The Prophet (ﷺ) said: A man follows the religion of his friend; so each one should consider whom he makes his friend."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

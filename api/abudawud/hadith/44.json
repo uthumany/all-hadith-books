@@ -1,0 +1,16 @@
+{
+  "id": 44,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرٌ، - يَعْنِي ابْنَ الْمُفَضَّلِ - حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِسْحَاقَ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي هَذِهِ الْقِصَّةِ قَالَ ‏\n\"‏ وَإِرْشَادُ السَّبِيلِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah reported the Prophet (ﷺ) as saying on the same occasion:",
+    "text": "And guiding the people on their way."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

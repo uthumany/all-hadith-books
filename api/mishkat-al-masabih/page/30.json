@@ -1,0 +1,510 @@
+{
+  "page": 30,
+  "perPage": 50,
+  "totalPages": 89,
+  "totalCount": 4428,
+  "nextPage": 31,
+  "prevPage": 29,
+  "items": [
+    {
+      "id": 9,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: كَانَ إِذَا اشْتَكَى الْإِنْسَانُ الشَّيْءَ مِنْهُ أَوْ كَانَتْ بِهِ قَرْحَةٌ أَوْ جُرْحٌ قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِأُصْبُعِهِ: «بِسْمِ اللَّهِ تُرْبَةُ أَرْضِنَا بِرِيقَةِ بَعْضِنَا لِيُشْفَى سَقِيمُنَا بِإِذن رَبنَا»",
+      "english": {
+        "narrator": "",
+        "text": "She said that when a person complained of some trouble, or if he had a sore or a wound, the Prophet would say while pointing with his finger, “In the name of God. It is the soil of our land with the spittle of one of us (the suggestion is that the Prophet took some earth on his finger and spat on it), that our sick one may be healed by our Lord’s permission.”\n\n(Bukharl and Muslim.)"
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا اشْتَكَى نَفَثَ عَلَى نَفْسِهِ بِالْمُعَوِّذَاتِ وَمَسَحَ عَنْهُ بِيَدِهِ فَلَمَّا اشْتَكَى وَجَعَهُ الَّذِي تُوُفِّيَ فِيهِ كُنْتُ أَنْفِثُ عَلَيْهِ بِالْمُعَوِّذَاتِ الَّتِي كَانَ يَنْفِثُ وَأَمْسَحُ بِيَدِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ\nوَفِي رِوَايَةٍ لِمُسْلِمٍ قَالَتْ: كَانَ إِذَا مَرِضَ أَحَدٌ مِنْ أَهْلِ بَيْتِهِ نَفَثَ عَلَيْهِ بِالْمُعَوِّذَاتِ",
+      "english": {
+        "narrator": "",
+        "text": "She said that when the Prophet had a complaint he would blow on himself, ejecting saliva, reciting the Mu'awwidhat (See n. 1, p, 197.), and wipe himself with his hand. She said, “When he suffered from the pain of which he died, I would blow on him ejecting saliva and recite the Mu'awwidhat  as he did, and would take the Prophet’s hand to wipe him.” \n\n(Bukhari and Muslim.)\n\nIn a version by Muslim she said, “When one of his family was ill he would blow on him ejecting saliva and recite the Mu'awwidhat."
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عُثْمَانَ بْنِ أَبِي الْعَاصِ أَنَّهُ شَكَا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَجَعًا يَجِدُهُ فِي جَسَدِهِ فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" ضَعْ يَدَكَ عَلَى الَّذِي يَأْلَمُ مِنْ جَسَدِكَ وَقُلْ: بِسْمِ اللَّهِ ثَلَاثًا وَقُلْ سَبْعَ مَرَّاتٍ: أَعُوذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ \". قَالَ: فَفَعَلْتُ فَأَذْهَبَ اللَّهُ مَا كَانَ بِي. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Uthman b. Abul ‘As said he complained to God’s messenger of a pain he had in his body, and he told him to put his hand on the part of his body which was sore and say three times “In the name of God,” and seven times, “I seek refuge in God’s might and power from the evil of what I am experiencing and trying to avert.” He said he did so, and God removed his trouble.\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَن أبي سعيد الْخُدْرِيّ أَن جِبْرِيلَ أَتَى النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: يَا مُحَمَّدُ أَشْتَكَيْتَ؟ فَقَالَ: «نَعَمْ» . قَالَ: بِسْمِ اللَّهِ أَرْقِيكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ مِنْ شرك كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ اللَّهُ يَشْفِيكَ بِسم الله أرقيك. رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa'id al-Khudri said Gabriel came to the Prophet and asked, “Have you a complaint, Muhammad?” When he replied that he had, he said, “In the name of God I am applying a charm to you from everything which may harm you, from the evil of every evil eye, or eye of an envious one. God heals you. In the name of God I am applying a charm to you.”\n\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم يعوذ الْحسن وَالْحسن: «أُعِيذُكُمَا بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ» وَيَقُولُ: «إِنَّ أَبَاكُمَا كَانَ يعوذ بهما إِسْمَاعِيلَ وَإِسْحَاقَ» . رَوَاهُ الْبُخَارِيُّ وَفِي أَكْثَرِ نُسَخِ المصابيح: «بهما» على لفظ التَّثْنِيَة",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas said that God’s messenger used to commend al-Hasan and al-Husain to God’s protection, saying “With God’s perfect words I commend you to God’s protection from every devil and poisonous creature and from every evil eye.” And he would say, “Your ancestor used to commend Ishmael and Isaac with them to God’s protection.”(Abraham is here said to have done to his sons the same as the Prophet did to his grandsons.) \n\nBukhari transmitted it. Most texts of al-Masabih have “with them” in the dual."
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُصِبْ مِنْهُ» . رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, “Anyone for whom God intends good is made to suffer some affliction from Him.”\n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَن أبي هُرَيْرَة وَأبي سَعِيدٍ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلَا وَصَبٍ وَلَا هَمٍّ وَلَا حُزْنٍ وَلَا أَذًى وَلَا غَمٍّ حَتَّى الشَّوْكَةُ يُشَاكُهَا إِلَّا كَفَّرَ اللَّهُ بهَا من خطاياه»",
+      "english": {
+        "narrator": "",
+        "text": "He and Abu Sa'id reported the Prophet as saying, “No Muslim is afflicted by difficulty, continuous pain, anxiety, grief, injury, or care, or even by a thorn with which he is pierced, without God thereby making an atonement for his sins.”\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ: دَخَلْتُ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ يُوعَكُ فَمَسِسْتُهُ بِيَدِي فَقُلْتُ: يَا رَسُولَ اللَّهِ إِنَّكَ لَتُوعَكُ وَعْكًا شَدِيدًا. فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَجَلْ إِنِّي أُوعَكُ كَمَا يُوعَكُ رَجُلَانِ مِنْكُمْ» . قَالَ: فَقُلْتُ: ذَلِكَ لِأَنَّ لَكَ أَجْرَيْنِ؟ فَقَالَ: «أَجَلْ» . ثُمَّ قَالَ: «مَا مِنْ مُسْلِمٍ يُصِيبُهُ أَذًى مِنْ مَرَضٍ فَمَا سِوَاهُ إِلَّا حَطَّ اللَّهُ تَعَالَى بِهِ سَيِّئَاتِهِ كَمَا تَحُطُّ الشَّجَرَةُ وَرَقَهَا»",
+      "english": {
+        "narrator": "‘Abdallah b. Mas'ud said:",
+        "text": "I went in to visit the Prophet when he was jaded by fever, and touching him with my hand, I said, “You are seriously jaded by fever, messenger of God.” The Prophet replied, “Yes, I am twice as jaded as any of you.” I said, “That is because you have a double reward.” He replied that that was so and then said, “No Muslim is afflicted by injury, be it illness or something else, without God thereby causing his sins to drop away just as a tree sheds its leaves.”\n \n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: مَا رَأَيْتُ أَحَدًا الْوَجَعُ عَلَيْهِ أَشَدُّ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha said she never saw anyone suffering severer pain than God’s messenger. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: مَاتَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَيْنَ حَاقِنَتِي وَذَاقِنَتِي فَلَا أَكْرَهُ شِدَّةَ الْمَوْتِ لِأَحَدٍ أَبَدًا بَعْدَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. رَوَاهُ الْبُخَارِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "She said, “The Prophet died lying between my breast and my collarbone. I will never feel bad about anyone having a painful death after what I saw the Prophet suffer.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ كَعْبِ بْنِ مَالِكٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَثَلُ الْمُؤْمِنِ كَمَثَلِ الْخَامَةِ مِنَ الزَّرْعِ تُفَيِّئُهَا الرِّيَاح تصرعها مرّة وتعدلها أُخْرَى حَتَّى يَأْتِيهِ أَجَلُهُ وَمَثَلُ الْمُنَافِقِ كَمَثَلِ الْأَرْزَةِ الْمُجْذِيَةِ الَّتِي لَا يُصِيبُهَا شَيْءٌ حَتَّى يَكُونَ انْجِعَافُهَا مَرَّةً وَاحِدَة»",
+      "english": {
+        "narrator": "",
+        "text": "Ka‘b b. Malik reported God’s messenger as saying, “The believer is like a tender plant moved by the winds, sometimes being bent down and sometimes made to stand up straight, till his appointed time comes; but the hypocrite is like the cedar standing firmly, which is unaffected by anything, till it is completely cast down.”( The idea of this tradition is that believers have many troubles during their lifetime, whereas hypocrites escape them.)\n\n(Bukharl and Muslim.)"
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَثَلُ الْمُؤْمِنِ كَمَثَلِ الزَّرْعِ لَا تزَال لاريح تميله وَلَا يزَال الْمُؤمن يصبيه الْبَلَاءُ وَمَثَلُ الْمُنَافِقِ كَمَثَلِ شَجَرَةِ الْأَرْزَةِ لَا تهتز حَتَّى تستحصد»",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, “The believer is like a plant which is continually swayed by the wind, for the believer is continually afflicted by trial; but the hypocrite is like a cedar tree which does not shake till it is cut down.”\n(Bukharl and Muslim.)"
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: دَخَلَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى أُمِّ السَّائِبِ فَقَالَ: «مَالك تُزَفْزِفِينَ؟» . قَالَتِ: الْحُمَّى لَا بَارَكَ اللَّهُ فِيهَا فَقَالَ: «لَا تَسُبِّي الْحُمَّى فَإِنَّهَا تُذْهِبُ خَطَايَا بَنِي آدَمَ كَمَا يُذْهِبُ الْكِيرُ خَبَثَ الْحَدِيدِ» . رَوَاهُ مُسلم",
+      "english": {
+        "narrator": "",
+        "text": "Jabir told of God’s messenger visiting Umm as-Sa’ib (Ibn 'Abd al-Barr (Isti'ab, p. 781) gives her name in this form, but says she is called by some Umm al-Musayyib) and asking, “What is the matter with you that you are trembling?” She replied, “Fever; may God not bless it.” He said, “Do not revile fever, for it removes the sins of the sons of Adam just as the bellows remove the dross of iron.”\nMuslim transmitted it."
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي مُوسَى قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا مَرِضَ الْعَبْدُ أَوْ سَافَرَ كُتِبَ لَهُ بِمِثْلِ مَا كَانَ يعْمل مُقيما صَحِيحا» رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Musa reported God’s messenger as saying, “When a man is ill or on a journey, what he was accustomed to do when staying at home and well will be recorded for him.”(This refers to his observance of salat, etc., cf. the traditions of ‘Abdallah b. 'Amr and Anas on p. 326.) \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الطَّاعُونُ شَهَادَةٌ لكل مُسلم»",
+      "english": {
+        "narrator": "",
+        "text": "Anas reported God’s messenger as saying, “Every Muslim who dies of plague is credited with martyrdom.”\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الشُّهَدَاءُ خَمْسَةٌ الْمَطْعُونُ وَالْمَبْطُونُ وَالْغَرِيقُ وَصَاحب الْهدم والشهيد فِي سَبِيل الله»",
+      "english": {
+        "narrator": "Abu Huraira reported God’s messenger as saying, “There are five types of martyr:",
+        "text": "one who dies of plague, one who dies of an internal complaint, one who is drowned, one who is killed by his house falling on him, and the martyr in God’s path.”\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: سَأَلَتْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الطَّاعُونِ فَأَخْبَرَنِي: «أَنَّهُ عَذَابٌ يَبْعَثُهُ اللَّهُ عَلَى مَنْ يَشَاءُ وَأَنَّ اللَّهَ جَعَلَهُ رَحْمَةً لِلْمُؤْمِنِينَ لَيْسَ مِنْ أَحَدٍ يَقَعُ الطَّاعُونُ فَيَمْكُثُ فِي بَلَدِهِ صَابِرًا مُحْتَسِبًا يَعْلَمُ أَنَّهُ لَا يُصِيبُهُ إِلَّا مَا كَتَبَ اللَّهُ لَهُ إِلَّا كَانَ لَهُ مِثْلُ أَجْرِ شَهِيدٍ» . رَوَاهُ الْبُخَارِيُّ",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha said, “I asked God’s messenger about plague and he told me it is a punishment God sends upon whomsoever He wills, but God has made it a blessing to the believers. When plague comes, anyone who stays patiently in his town looking for his reward from God, knowing that only what God has decreed for him can happen to him, will have a reward like that of a martyr.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أُسَامَةَ بْنِ زَيْدٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الطَّاعُونُ رِجْزٌ أُرْسِلَ عَلَى طَائِفَةٍ مِنْ بَنِي إِسْرَائِيلَ أَوْ عَلَى مَنْ كَانَ قَبْلَكُمْ فَإِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلَا تَقْدَمُوا عَلَيْهِ وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلَا تَخْرُجُوا فِرَارًا مِنْهُ»",
+      "english": {
+        "narrator": "",
+        "text": "Usama b. Zaid reported God’s messenger as saying, “Plague is a punishment which was sent down on a section of the B. Isrs’il, or on people before your time. When you hear of it in a land do not go to it, and if it occurs in a land while you are in it do not go out fleeing from it.\n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَن أَنَسٍ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: \n\" قَالَ اللَّهُ سُبْحَانَهُ وَتَعَالَى: إِذَا ابْتَلَيْتُ عَبْدِي بِحَبِيبَتَيْهِ ثُمَّ صَبَرَ عَوَّضْتُهُ مِنْهُمَا الْجنَّة \" يُرِيد عَيْنَيْهِ. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Anas said he heard the Prophet declare that God who is glorious and exalted said, “When I afflict my servant in his two loved things (i.e. his eyes), and he endures patiently, I shall compensate him for them with paradise.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: مَا مِنْ مُسْلِمٍ يَعُودُ مُسْلِمًا غُدْوَةً إِلَّا صَلَّى عَلَيْهِ سَبْعُونَ أَلْفَ مَلَكٍ حَتَّى يُصْبِحَ وَكَانَ لَهُ خَرِيفٌ فِي الْجَنَّةِ \". رَوَاهُ التِّرْمِذِيُّ وَأَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "‘All said he heard God’s messenger say, “No Muslim will pay a sick visit to another in the morning without seventy thousand angels invoking blessings on him till the evening, or visit him in the evening without seventy thousand angels invoking blessings on him till the morning, and he will have gathered fruits (the word used here is kharif, one of whose meanings is gathered or plucked fruits) in paradise.”\n\nTirmidhi and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَن زَيْدَ بْنَ أَرْقَمَ قَالَ: عَادَنِي النَّبِيُّ صَلَّى الله عَلَيْهِ وَسلم من وجع كَانَ يُصِيبنِي. رَوَاهُ أَحْمد وَأَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Zaid b. Arqam said the Prophet visited him when he had a pain in his eyes. \n\nAhmad and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ: قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ تَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ وَعَادَ أَخَاهُ الْمُسْلِمَ مُحْتَسِبًا بُوعِدَ مِنْ جَهَنَّمَ مسيرَة سِتِّينَ خَرِيفًا» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "Anas reported God’s messenger:",
+        "text": "as saying, “If anyone performs ablution well and pays a sick visit to his brother Muslim seeking his reward from God, he will be removed a distance of sixty years (here kharif is used in another of its meanings) from jahannam.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" مَا مِنْ مُسْلِمٍ يَعُودُ مُسْلِمًا فَيَقُولُ سَبْعَ مَرَّاتٍ: أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ إِلَّا شُفِيَ إِلَّا أَنْ يَكُونَ قَدْ حَضَرَ أَجَلُهُ \". رَوَاهُ أَبُو دَاوُد وَالتِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas reported God’s messenger as saying, \"No Muslim will visit another and say seven times, ‘I ask God, the Mighty, the Lord of the mighty throne, to cure you’ without his being cured, unless his time has come.” \n\nAbu Dawud and Tirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: كَانَ يعلمهُمْ من الْحمى وم الأوجاع كلهَا أَن يَقُولُوا: «بِسم الله الْكَبِيرِ أَعُوذُ بِاللَّهِ الْعَظِيمِ مِنْ شَرِّ كُلِّ عرق نعار وَمن شَرّ حر النَّارِ» . رَوَاهُ التِّرْمِذِيُّ وَقَالَ هَذَا حَدِيثٌ غَرِيبٌ لَا يُعْرَفُ إِلَّا مِنْ حَدِيثِ إِبْرَاهِيمَ بْنِ إِسْمَاعِيلَ وَهُوَ يضعف فِي الحَدِيث",
+      "english": {
+        "narrator": "",
+        "text": "He said that the Prophet used to teach them to say when afflicted by fever or any pain, \"In the name of God, the Great, I seek refuge in God, the Mighty, from the evil of every vein that bleeds and from the evil of the heat of hell.” \n\nTirmidhi transmitted it, but said this was a gharib tradition which he knew only among the traditions of Ibrahim b. Isma'il who is declared to be weak in tradition."
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي الدَّرْدَاءِ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: \n\" مَنِ اشْتَكَى مِنْكُمْ شَيْئًا أَوِ اشْتَكَاهُ أَخٌ لَهُ فَلْيَقُلْ: رَبُّنَا اللَّهُ الَّذِي فِي السَّمَاءِ تَقَدَّسَ اسْمُكَ أَمرك فِي السَّمَاء وَالْأَرْض كَمَا أَن رَحْمَتُكَ فِي السَّمَاءِ فَاجْعَلْ رَحْمَتَكَ فِي الْأَرْضِ اغْفِرْ لَنَا حُوبَنَا وَخَطَايَانَا أَنْتَ رَبُّ الطَّيِبِينَ أَنْزِلْ رَحْمَةً مِنْ رَحْمَتِكَ وَشِفَاءً مِنْ شِفَائِكَ عَلَى هَذَا الْوَجَعِ. فَيَبْرَأُ \". رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "",
+        "text": "Abud Darda’ said he heard God’s messenger say, \"If one of you has any complaint, or if a brother of his complains of it, he should say, ‘Our Lord God who art in heaven, hallowed be Thy name. Thy command is in the heaven and the earth. As Thy mercy is in the heaven so place Thy mercy in the earth. Forgive us our faults and sins. Thou art the Lord of the good ones. Send down some of Thy mercy and some of Thy healing on this pain’ and it will be cured.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا جَاءَ الرجل يعود مَرِيضا فَلْيقل ك اللَّهُمَّ اشْفِ عَبْدَكَ يَنْكَأُ لَكَ عَدُوًّا أَوْ يَمْشِي لَكَ إِلَى جِنَازَةٍ» رَوَاهُ أَبُو دَاوُدَ",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. ‘Amr reported God’s messenger as saying, \"When a man comes to visit an invalid he should say, ‘O God, cure Thy servant who may then wreak havoc on an enemy for Thy sake, or walk at a funeral for Thy sake’.” \n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "عَن عَلِيِّ بْنِ زَيْدٍ عَنْ أُمَيَّةَ أَنَّهَا سَأَلَتْ عَائِشَة عَن قَول الله تبَارك وَتَعَالَى: (إِن تُبْدُوا مَا فِي أَنْفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُمْ بِهِ الله)\nوَعَنْ قَوْلِهِ: (مَنْ يَعْمَلْ سُوءًا يُجْزَ بِهِ)\nفَقَالَتْ: مَا سَأَلَنِي عَنْهَا أَحَدٌ مُنْذُ سَأَلَتْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «هَذِه معاتبة الله العَبْد فِيمَا يُصِيبُهُ مِنَ الْحُمَّى وَالنَّكْبَةِ حَتَّى الْبِضَاعَةِ يَضَعُهَا فِي يَدِ قَمِيصِهِ فَيَفْقِدُهَا فَيَفْزَعُ لَهَا حَتَّى إِنَّ الْعَبْدَ لَيَخْرُجُ مِنْ ذُنُوبِهِ كَمَا يَخْرُجُ التبر الْأَحْمَر من الْكِير» . رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘Ali b. Zaid quoted Umayya as saying that she asked ‘A’isha about the words of God who is great and glorious, \"Whether you publish what is in your minds or conceal it, God will call you to account for it,” ( Qur’an,  ii, 284) and His words, \"If anyone does evil he will be requited for it.”(Qur’an, iv, 123). She replied that no one had asked her about them since she had asked God’s messenger and received the reply, \"This is God’s rebuke of His servant, by means of fever or misfortune with which He afflicts him, even such a matter as something he puts in his sleeve and grieves for when he loses it. The result is that the servant comes out of his sins as the pure gold comes out of the crucible.\" \n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي مُوسَى أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: \" لَا يُصِيبُ عَبْدًا نَكْبَةٌ فَمَا فَوْقَهَا أَوْ دُونَهَا إِلَّا بِذَنَبٍ وَمَا يَعْفُو اللَّهُ عَنْهُ أَكْثَرُ وَقَرَأَ: (وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَن كثير)\nرَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Musa reported the Prophet as saying, “No affliction great or small afflicts a man but for a sin, but there are more which God forgives.” Then he recited, “Whatever misfortune befalls you, it is because of what your hands have done; but He forgives much.”(Qur’an, xlii, 30)\n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم: \n\" إِن الْعَبْدَ إِذَا كَانَ عَلَى طَرِيقَةٍ حَسَنَةٍ مِنَ الْعِبَادَةِ ثُمَّ مَرِضَ قِيلَ لِلْمَلَكِ الْمُوَكَّلِ بِهِ: اكْتُبْ لَهُ مِثْلَ عَمَلِهِ إِذَا كَانَ طَلِيقًا حَتَّى أطلقهُ أَو أكفته إِلَيّ \"",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b. ‘Amr reported God’s messenger as saying, “When a servant of God is accustomed to worship Him in a good manner, then becomes ill, the angel who is entrusted with him is told to record for him actions equivalent to those which he did when he was well till God sets him free from his illness or takes him in death.”\n\nTransmitted in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: \n\" إِذَا ابْتُلِيَ الْمُسْلِمُ بِبَلَاءٍ فِي جَسَدِهِ قِيلَ لِلْمَلَكِ: اكْتُبْ لَهُ صَالِحَ عَمَلِهِ الَّذِي كَانَ يَعْمَلُ فَإِنْ شَفَاهُ غَسَّلَهُ وَطَهَّرَهُ وَإِنْ قَبَضَهُ غَفَرَ لَهُ وَرَحِمَهُ \". رَوَاهُمَا فِي شرح السّنة",
+      "english": {
+        "narrator": "",
+        "text": "Anas reported God’s messenger as saying, “When a Muslim is afflicted with some trouble in his body the angel is told to record for him his good deeds which he was accustomed to do. Then if God cures him He washes and purifies him , and if He takes him in death He forgives him and shows mercy to him.” \n\nTransmitted in Sharh as-sunna."
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرِ بْنِ عَتِيكٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" الشَّهَادَةُ سَبْعٌ سِوَى الْقَتْلِ فِي سَبِيلِ اللَّهِ: الْمَطْعُونُ شَهِيدٌ وَالْغَرِيقُ شَهِيدٌ وَصَاحِبُ ذَاتِ الْجَنْبِ شَهِيدٌ وَالْمَبْطُونُ شَهِيدٌ وَصَاحِبُ الْحَرِيقِ شَهِيدٌ وَالَّذِي يَمُوتُ تَحْتَ الْهَدْمِ شَهِيدٌ وَالْمَرْأَةُ تَمُوتُ بِجُمْعٍ شَهِيدٌ \". رَوَاهُ مَالك وَأَبُو دَاوُد وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Jabir b. ‘Atik reported God’s messenger as saying, “There are seven types of martyrdom apart from being killed in God’s path. Those who die of plague, those who are drowned, those who die of pleurisy, those who die of an internal complaint, those who are burnt to death, those who are killed by a building falling on them, and women who die while pregnant are martyrs.” \n\nMalik, Abu Dawud and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ سَعْدٍ قَالَ: سُئِلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَيُّ النَّاسِ أَشَدُّ بَلَاءً؟ قَالَ: «الْأَنْبِيَاء ثمَّ الْمثل فَالْأَمْثَلُ يُبْتَلَى الرَّجُلُ عَلَى حَسَبِ دِينِهِ فَإِنْ كَانَ صلبا فِي دينه اشْتَدَّ بَلَاؤُهُ وَإِنْ كَانَ فِي دِينِهِ رِقَّةٌ هُوِّنَ عَلَيْهِ فَمَا زَالَ كَذَلِكَ حَتَّى يَمْشِيَ على الأَرْض مَال ذَنْبٌ» . رَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَهْ وَالدَّارِمِيُّ وَقَالَ التِّرْمِذِيُّ: هَذَا حَدِيثٌ حسن صَحِيح",
+      "english": {
+        "narrator": "",
+        "text": "Sa'd said that when the Prophet was asked which people suffered the greatest affliction he replied, “The prophets, then those who come next to them, then those who come next to them. A man is afflicted in keeping with his religion; if he is firm in his religion his trial is severe, but if there is weakness in his religion it is made light for him, and it continues like that till he walks on the earth having no sin.”\n\nTirmidhi, Ibn Majah and Darimi transmitted it, and Tirmidhi said this is a hasan sahih tradition."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: مَا أَغْبِطُ أَحَدًا بِهَوْنِ مَوْتٍ بَعْدَ الَّذِي رَأَيْتُ مِنْ شِدَّةِ مَوْتِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. رَوَاهُ التِّرْمِذِيّ وَالنَّسَائِيّ",
+      "english": {
+        "narrator": "",
+        "text": "‘A isha said, “I do not envy anyone an easy death after having seen the severity of the death of God’s messenger.” \n\nTirmidhi and Nasa’i transmitted it."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: رَأَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ بِالْمَوْتِ وَعِنْدَهُ قَدَحٌ فِيهِ مَاءٌ وَهُوَ يُدْخِلُ يَدَهُ فِي الْقَدَحِ ثُمَّ يَمْسَحُ وَجْهَهُ ثُمَّ يَقُولُ: «اللَّهُمَّ أَعِنِّي عَلَى مُنْكَرَاتِ الْمَوْتِ أَوْ سَكَرَاتِ الْمَوْتِ» . رَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَهْ",
+      "english": {
+        "narrator": "She said :",
+        "text": "I saw the Prophet when he was dying. He had a drinking-cup containing water, and he would put his hand into the cup, then wipe his face, then say, “O God, help me to bear the evils of death,” or, “the pangs of death.” \n\nTirmidhi and Ibn Majah transmitted it."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا أَرَادَ اللَّهُ تَعَالَى بِعَبْدِهِ الْخَيْرَ عَجَّلَ لَهُ الْعُقُوبَةَ فِي الدُّنْيَا وَإِذَا أَرَادَ اللَّهُ بِعَبْدِهِ الشَّرَّ أَمْسَكَ عَنْهُ بِذَنْبِهِ حَتَّى يُوَافِيَهُ بِهِ يَوْمَ الْقِيَامَةِ» . رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Anas reported God’s messenger as saying, “When God has a good purpose towards His servant He gives him punishment beforehand in this world, but when He has an evil purpose towards His servant He refrains from dealing with his sin till He takes from him full payment for it on the day of resurrection.” \n\nTirmidhi transmitted it."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ عِظَمَ الْجَزَاءِ مَعَ عِظَمِ الْبَلَاءِ وَإِنَّ اللَّهَ عَزَّ وَجَلَّ إِذَا أَحَبَّ قَوْمًا ابْتَلَاهُمْ فَمَنْ رَضِيَ فَلَهُ الرِّضَا وَمَنْ سَخِطَ فَلَهُ السَّخَطُ» . رَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "He reported God’s messenger as saying, “The magnitude of the reward goes along with the magnitude of the affliction. When God who is great and glorious loves people He afflicts them, and those who accept it gladly receive God’s good pleasure, but those who are displeased receive God’s displeasure. \n\nTirmidhi and Ibn Majah transmitted it."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لَا يَزَالُ الْبَلَاءُ بِالْمُؤْمِنِ أَوِ الْمُؤْمِنَةِ فِي نَفْسِهِ وَمَالِهِ وَوَلَدِهِ حَتَّى يَلْقَى اللَّهَ تَعَالَى وَمَا عَلَيْهِ مِنْ خَطِيئَةٍ» . رَوَاهُ التِّرْمِذِيُّ وَرَوَى مَالِكٌ نَحْوَهُ وَقَالَ التِّرْمِذِيُّ: هَذَا حَدِيثٌ حَسَنٌ صَحِيح",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, “The believing man or woman continues to have affliction in person, property and children so that they (this is a little difficult to translate. The Arabic has “he”, but the pronoun refers to the man or woman mentioned. I have therefore compromised by using the plural)  may finally meet God free from sin.” \n\nTirmidhi transmitted it, and Malik transmitted something similar. Tirmidhi said this is a hasan sahih tradition."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ مُحَمَّدِ بْنِ خَالِدٍ السُّلَمِيِّ عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ الْعَبْدَ إِذَا سَبَقَتْ لَهُ مِنَ اللَّهِ مَنْزِلَةٌ لَمْ يَبْلُغْهَا بِعَمَلِهِ ابتلاه الله فِي جسده أَفِي مَالِهِ أَوْ فِي وَلَدِهِ ثُمَّ صَبَّرَهُ عَلَى ذَلِكَ يُبَلِّغُهُ الْمَنْزِلَةَ الَّتِي سَبَقَتْ لَهُ مِنَ الله» . رَوَاهُ أَحْمد وَأَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "Muhammad b. Khalid as-Sulami on his father’s authority said his grandfather reported God’s messenger as saying, “When God has previously decreed for a servant a rank which he has not attained by his action, He afflicts him in his body, or his property, or his children. He then enables him to endure that so that He may bring him to the rank previously decreed for him by God.” \n\nAhmad and Abu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَن عبد الله بن شخير قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مُثِّلَ ابْنُ آدَمَ وَإِلَى جَنْبِهِ تِسْعٌ وَتِسْعُونَ مَنِيَّةً إِنْ أَخْطَأَتْهُ الْمَنَايَا وَقَعَ فِي الْهَرَمِ حَتَّى يَمُوتَ» . رَوَاهُ التِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ غَرِيبٌ",
+      "english": {
+        "narrator": "",
+        "text": "‘Abdallah b.  Shikhkhir reported God’s messenger as saying, “The son of Adam was created with ninety-nine trials at his side. If the trials miss him he falls into decrepitude till he dies.” \n\nTirmidhi transmitted it, saying that this is a gharib tradition."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ جَابِرٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يَوَدُّ أَهْلُ الْعَافِيَةِ يَوْمَ الْقِيَامَةِ حِينَ يُعْطَى أَهْلُ الْبَلَاءِ الثَّوَابَ لَوْ أَنَّ جُلُودَهُمْ كَانَتْ قُرِضَتْ فِي الدُّنْيَا بِالْمَقَارِيضِ» . رَوَاهُ التِّرْمِذِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Jabir reported God’s messenger as saying, \"On the day of resurrection, when people who have suffered affliction are given their reward, those who are healthy will wish their skins had been cut to pieces with scissors when they were in the world.” \n\nTirmidhi transmitted it, saying that this is a gharib tradition."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَن عَامر الرام قَالَ: ذَكَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْأَسْقَامَ فَقَالَ: «إِنَّ الْمُؤْمِنَ إِذَا أَصَابَهُ السقم ثمَّ أَعْفَاهُ الله مِنْهُ كَانَ كَفَّارَةً لِمَا مَضَى مِنْ ذُنُوبِهِ وَمَوْعِظَةً لَهُ فِيمَا يَسْتَقْبِلُ. وَإِنَّ الْمُنَافِقَ إِذَا مرض ثمَّ أعفي كَانَ كالبعير عَقَلَهُ أَهْلُهُ ثُمَّ أَرْسَلُوهُ فَلَمْ يَدْرِ لِمَ عقلوه وَلم يدر لم أَرْسَلُوهُ» . فَقَالَ رَجُلٌ يَا رَسُولَ اللَّهِ وَمَا الْأَسْقَامُ؟ وَاللَّهِ مَا مَرِضْتُ قَطُّ فَقَالَ: «قُمْ عَنَّا فلست منا» . رَوَاهُ أَبُو دَاوُد",
+      "english": {
+        "narrator": "",
+        "text": "‘Amir ar-Ram told that God’s messenger mentioned illnesses and said, \"When a believer is afflicted by illness and God who is great and glorious cures him of it, it serves as an atonement for his previous sins and a warning to him for the future; but when a hypocrite becomes ill and then is cured he is like a camel which has been tethered and then let loose by its owners, but does not know why they tethered it and why they let it loose.” When a man asked God’s messenger what illnesses were, adding that he swore by God he had never been ill, he said, \"Get up and leave us ; you do not belong to our number.”\n\nAbu Dawud transmitted it."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي سَعِيدٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا دَخَلْتُمْ عَلَى الْمَرِيضِ فَنَفِّسُوا لَهُ فِي أَجَلِهِ فَإِنَّ ذَلِكَ لَا يَرُدُّ شَيْئًا وَيُطَيِّبُ بِنَفْسِهِ» . رَوَاهُ التِّرْمِذِيُّ وَابْنُ مَاجَهْ وَقَالَ التِّرْمِذِيُّ: هَذَا حَدِيثٌ غَرِيبٌ",
+      "english": {
+        "narrator": "",
+        "text": "Abu Sa'id reported God’s messenger as saying, \"When you go in to visit an invalid, express a hope that he will live long. That will not avert anything, but it will comfort him.” \n\nTirmidhl and Ibn Majah transmitted it, and Tirmidhi said this is a gharib tradition."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَن سُلَيْمَان بن صرد قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسلم: «مَنْ قَتَلَهُ بَطْنُهُ لَمْ يُعَذَّبْ فِي قَبْرِهِ» رَوَاهُ أَحْمَدُ وَالتِّرْمِذِيُّ وَقَالَ: هَذَا حَدِيثٌ غَرِيبٌ",
+      "english": {
+        "narrator": "",
+        "text": "Sulaiman b. Surad reported God’s messenger as saying, \"He who dies of an internal trouble will not be punished in his grave.” \n\nAhmad and Tirmidhi transmitted it, the latter saying this is a gharib tradition."
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "عَن أنس قَالَ: كَانَ غُلَامٌ يَهُودِيٌّ يَخْدُمُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَمَرِضَ فَأَتَاهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَعُودُهُ فَقَعَدَ عِنْدَ رَأْسِهِ فَقَالَ لَهُ: «أَسْلِمْ» . فَنَظَرَ إِلَى أَبِيهِ وَهُوَ عِنْدَهُ فَقَالَ: أَطِعْ أَبَا الْقَاسِمِ. فَأَسْلَمَ. فَخَرَجَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ يَقُولُ: «الْحَمْدُ لِلَّهِ الَّذِي أَنْقَذَهُ مِنَ النَّارِ» . رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Anas told that when a young Jew who was a servant of the Prophet became ill the Prophet went to visit him and, sitting down by his head, said to him, “Accept Islam.” He looked at his father who was beside him, and he said, \"Obey Abul Qasim.” So he accepted Islam, and the Prophet went out saying, \"Praise be to God who has saved him from hell.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" مَنْ عَادَ مَرِيضًا نَادَى مُنَادٍ فِي السَّمَاءِ: طِبْتَ وَطَابَ مَمْشَاكَ وَتَبَوَّأْتَ مِنَ الْجَنَّةِ مَنْزِلًا \". رَوَاهُ ابْن مَاجَه",
+      "english": {
+        "narrator": "",
+        "text": "Abu Huraira reported God’s messenger as saying, '\"If anyone visits an invalid, one cries out from heaven, ‘May you be good, may your walk be good, and may you come to an abode in paradise!”’ \n\nIbn Majah transmitted it."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنِ ابْنِ عَبَّاسٍ قَالَ: إِنَّ عَلِيًّا خَرَجَ مِنْ عِنْدِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي وَجَعِهِ الَّذِي تُوُفِّيَ فِيهِ فَقَالَ النَّاسُ: يَا أَبَا الْحَسَنِ كَيْفَ أَصْبَحَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ؟ قَالَ: أَصْبَحَ بِحَمْدِ الله بارئا. رَوَاهُ البُخَارِيّ",
+      "english": {
+        "narrator": "",
+        "text": "Ibn ‘Abbas said that when ‘Ali came out after visiting the Prophet during the painful illness of which he died, the people asked, “How is God's messenger this morning, Abul Hasan?” He replied, “Praise be to God, he is getting better.” \n\nBukhari transmitted it."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ قَالَ: قَالَ لي ابْن عَبَّاس رَضِي الله عَنهُ: أَلا أريك امْرَأَة من أهل الْجنَّة؟ فَقلت: بَلَى. قَالَ: هَذِهِ الْمَرْأَةُ السَّوْدَاءُ أَتَتِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ: إِنِّي أصرع وَإِنِّي أتكشف فَادع الله تَعَالَى لي. قَالَ: «إِنْ شِئْتِ صَبَرْتِ وَلَكِ الْجَنَّةُ وَإِنْ شِئْتِ دَعَوْت الله تَعَالَى أَنْ يُعَافِيَكَ» فَقَالَتْ: أَصْبِرُ فَقَالَتْ: إِنِّي أَتَكَشَّفُ فَادْعُ اللَّهَ أَنْ لَا أَتَكَشَّفَ فَدَعَا لَهَا",
+      "english": {
+        "narrator": "‘Ata’ b. Abu Rabah said Ibn ‘Abbas asked whether he would like him to show him a woman who would go to paradise. When he replied that he certainly would, he said:",
+        "text": "This black woman came to the Prophet and said, “Messenger of God, I am subject to fits and become uncovered, so make supplication to God for me.” He replied, “If you wish you may endure it and be rewarded with paradise, but if your wish I shall make supplication to God to cure you.” She said, “I shall endure it.” Then she added, “But since I become uncovered, make supplication to God that that may not happen.” He then made supplication for her. \n\n(Bukhari and Muslim.)"
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ يَحْيَى بْنِ سَعِيدٍ قَالَ: إِنَّ رَجُلًا جَاءَهُ الْمَوْتُ فِي زَمَنِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ رجل: هيئا لَهُ مَاتَ وَلَمْ يُبْتَلَ بِمَرَضٍ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «وَيْحَكَ وَمَا يُدْرِيكَ لَوْ أَنَّ اللَّهَ ابْتَلَاهُ بِمَرَضٍ فَكَفَّرَ عَنهُ من سيئاته» . رَوَاهُ مَالك مُرْسلا",
+      "english": {
+        "narrator": "",
+        "text": "Yahya b. Sa'id said that when a certain man died in the time of God’s messenger another said, “Congratulations to him! He has died without being afflicted by illness.” God’s messenger then said, “I’m sorry for you. What do you know about it? (literally, ‘What makes you know?’ After this one understands some such words as, ‘that lack of illness is a mark of honour.’) Would that God had afflicted him with illness, and it had atoned for his evil deeds!” \n\nMalik transmitted it in mursal form."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَن شَدَّاد بن أَوْس والصنابحي أَنَّهُمَا دَخَلَا عَلَى رَجُلٍ مَرِيضٍ يَعُودَانِهِ فَقَالَا لَهُ: كَيفَ أَصبَحت قَالَ أَصبَحت بِنِعْمَة. فَقَالَ لَهُ شَدَّادٌ: أَبْشِرْ بِكَفَّارَاتِ السَّيِّئَاتِ وَحَطِّ الْخَطَايَا فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: \n\" إِنَّ اللَّهَ عَزَّ وَجَلَّ يَقُولُ إِذَا أَنَا ابْتَلَيْتُ عَبْدًا مِنْ عِبَادِي مُؤْمِنًا فَحَمِدَنِي عَلَى مَا ابْتَلَيْتُهُ فَإِنَّهُ يَقُومُ مِنْ مَضْجَعِهِ ذَلِكَ كَيَوْمِ وَلَدَتْهُ أُمُّهُ مِنَ الْخَطَايَا. وَيَقُولُ الرَّبُّ تَبَارَكَ وَتَعَالَى: أَنَا قَيَّدْتُ عَبْدِي وَابْتَلَيْتُهُ فَأَجْرُوا لَهُ مَا كُنْتُمْ تُجْرُونَ لَهُ وَهُوَ صَحِيح \". رَوَاهُ احْمَد",
+      "english": {
+        "narrator": "",
+        "text": "Shaddad b. Aus and as-Sunabihi told how, when they went to visit an invalid, they said to him, “How are you this morning?” He replied, “I am quite comfortable this morning.” Shaddad told him to rejoice that his evil deeds had been atoned for and his sins remitted, for he had heard God’s messenger declare that God who is great and glorious says, “When I afflict a servant of mine who is a believer and he praises me for the affliction I have brought upon him, he will rise from that couch of his as sinless as he was the day his mother gave birth to him.” The Lord who is blessed and exalted will say, “I fettered and afflicted my servant, so record for him what you were recording for him when he was well.” \n\nAhmad transmitted it."
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 5,
+      "bookId": 14,
+      "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا كَثُرَتْ ذُنُوبُ الْعَبْدِ وَلَمْ يَكُنْ لَهُ مَا يُكَفِّرُهَا مِنَ الْعَمَلِ ابْتَلَاهُ اللَّهُ بِالْحَزَنِ لِيُكَفِّرَهَا عَنهُ» . رَوَاهُ أَحْمد",
+      "english": {
+        "narrator": "",
+        "text": "‘A’isha reported God’s messenger as saying, “When a man’s sins are numerous and he has no good deeds wherewith to atone for them, God afflicts him with sorrow to remove them from him.” \n\nAhmad transmitted it."
+      }
+    }
+  ]
+}

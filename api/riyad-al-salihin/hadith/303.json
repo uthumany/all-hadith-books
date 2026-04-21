@@ -1,0 +1,16 @@
+{
+  "id": 303,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عمر وعائشة رضي الله عنهما قالا‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏ ما زال جبريل يوصيني بالجار حتى ظننت أنه سيورثه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Umar and 'Aishah (May Allah be pleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Jibril kept recommending treating neighbours with kindness until I thought he would assign a share of inheritance\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 111,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ، وَمُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالاَ حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ \n أَبِي قَالَ، حَدَّثَنَا أَبُو نَضْرَةَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ لَقِيَ نَبِيُّ اللَّهِ صلى الله عليه وسلم\n ابْنَ صَائِدٍ وَمَعَهُ أَبُو بَكْرٍ وَعُمَرُ وَابْنُ صَائِدٍ مَعَ الْغِلْمَانِ ‏.‏ فَذَكَرَ نَحْوَ حَدِيثِ الْجُرَيْرِيِّ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Jabir b 'Abdullah reported that Allah's Messenger (ﷺ) met Ibn Sa'id (Sayyad) and there were with him Abu Bakr and 'Umar and Ibn Sayyad was in the company of children. The rest of the hadith is the same."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

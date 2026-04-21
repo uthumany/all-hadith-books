@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أم المؤمنين أم عبد الله عائشة رضي الله عنها قالت‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏يغزو جيش الكعبة فإذا كانوا ببيداء من الأرض يخسف بأولهم وآخرهم‏\"‏‏.‏ قالت‏:‏ قلت‏:‏ يارسول الله، كيف يخسف بأولهم وآخرهم وفيهم أسواقهم ومن ليس منهم‏!‏‏؟‏ قال‏:‏ ‏\"‏يخسف بأولهم وآخرهم، ثم يبعثون على نياتهم‏\"‏ ‏(‏‏(‏متفق عليه‏.‏ هذا لفظ البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Narrated 'A'ishah (May Allah be pleased with her) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"An army will raid the Ka'bah and when it reaches a desert land, all of them will be swallowed up by the earth.\" She asked; \"O Messenger of Allah! Why all of them?\" He answered, \"All of them will be swallowed by the earth but they will be raised for Judgement according to their intentions.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

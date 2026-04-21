@@ -1,0 +1,16 @@
+{
+  "id": 41,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي عبد الله خباب بن الأرت رضي الله عنه قال‏:‏ شكونا إلى رسول الله صلى الله عليه وسلم وهو متوسد بردة له في  ظل الكعبة، فقلنا ‏:‏ ألا تستنصر لنا ألا تدعو لنا‏؟‏ فقال‏:‏ قد كان من قبلكم يؤخذ الرجل فيحفر له في  الأرض فيجعل فيها ثم يؤتى بالمنشار فيوضع على رأسه فيجعل نصفين، ويمشط بأمشاط من الحديد ما دون لحمه وعظمه، ما يصده ذلك عن دينه، والله ليتمن الله هذا الأمر حتى يسير الراكب من صنعاء إلى حضرموت لا يخاف إلا الله والذئب على غنمه، ولكنكم تستعجلون‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Khabbab bin Al-Aratt (May Allah be pleased with him) reported:",
+    "text": "We complained to the Messenger of Allah (ﷺ) regarding the persecution inflicted upon us by the disbelievers while he was lying in the shade of the Ka'bah, having made a pillow of his cloak. We submitted: \"Why do you not supplicate for our prevalence (over the opponents)?\". He (ﷺ) replied, \"Among those people before you, a man would be seized and held in a pit dug for him in the ground and he would be sawed into two halves from his head, and his flesh torn away from his bones with an iron comb; but, in spite of this, he would not wean away from his Faith. By Allah, Allah will bring this matter to its consummation until a rider will travel from San'a' to Hadramout fearing none except Allah, and except the wolf for his sheep, but you are in too much of a hurry\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

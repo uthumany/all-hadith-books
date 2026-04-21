@@ -1,0 +1,16 @@
+{
+  "id": 289,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنَا مُسْلِمٌ، عَنْ مَسْرُوقٍ، قَالَ قَالَ عَبْدُ اللَّهِ خَمْسٌ قَدْ مَضَيْنَ الدُّخَانُ وَالْقَمَرُ وَالرُّومُ وَالْبَطْشَةُ وَاللِّزَامُ ‏{‏فَسَوْفَ يَكُونُ لِزَامًا‏}‏",
+  "english": {
+    "narrator": "Narrated `Abdullah:",
+    "text": "Five (great events) have passed: the Smoke, the Moon, the Romans, the Mighty grasp and the constant \nPunishment which occurs in 'So the torment will be yours forever.' (25.77)"
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

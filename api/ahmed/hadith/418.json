@@ -1,0 +1,16 @@
+{
+  "id": 418,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، عَنْ مُحَمَّدٍ، عَنْ عَبِيدَةَ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ يَوْمَ الْخَنْدَقِ شَغَلُونَا عَنْ الصَّلَاةِ الْوُسْطَى حَتَّى غَرَبَتْ الشَّمْسُ أَوْ كَادَتْ الشَّمْسُ أَنْ تَغْرُبَ مَلَأَ اللَّهُ أَجْوَافَهُمْ أَوْ قُبُورَهُمْ نَارًا‏.‏",
+  "english": {
+    "narrator": "It was narrated from ‘Ali (رضي الله عنه) that The Prophet (ﷺ) said on the day of al-Khandaq:",
+    "text": "`They distracted us from the middle prayer until the sun set - or until the sun was about to set, May Allah fill their stomachs - or their graves - with fire.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

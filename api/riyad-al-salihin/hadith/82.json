@@ -1,0 +1,16 @@
+{
+  "id": 82,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "التاسع‏:‏ عن أم المؤمنين أم سلمة، واسمها هند بنت أبي أمية حذيفة المخزومية، رضي الله عنها أن النبي صلى الله عليه وسلم كان إذا خرج من بيته قال‏:‏ ‏\n\"‏بسم الله، توكلت على الله ، اللهم إني أعوذ بك أن أضل أو أضل، أو أذل أو أذل، أو أظلم أو أظلم ، أو أجهل أو يجهل علي‏\"‏ ‏(‏‏(‏حديث صحيح رواه أبو داود، والترمذي وغيرهما بأسانيد صحيحة‏)‏‏)‏ ‏.‏ ‏(‏‏(‏قال الترمذي‏:‏ حديث حسن صحيح، وهذا لفظ أبي داود‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Umm Salamah (May Allah be pleased with her) reported:",
+    "text": "Whenever the Prophet (ﷺ) stepped out of his house, he would say, \"Bismillah, tawakkaltu 'alallah. Allahumma inni a'udhu bika an adilla aw udalla, aw azilla aw uzalla, aw azlima aw uzlama, aw ajhala aw yujhala 'alayya\". \"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

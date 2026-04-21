@@ -1,0 +1,16 @@
+{
+  "id": 311,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عبد الله بن عمر رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏  \n\"‏خير الأصحاب عند الله تعالى خيرهم لصاحبه، وخير الجيران عند الله تعالى خيرهم لجاره‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin 'Umar (May Allah be pleased with them) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"The best of companions with Allah is the one who is best to his companions, and the best of neighbours to Allah is the one who is the best of them to his neighbour\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

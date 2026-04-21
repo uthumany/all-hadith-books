@@ -1,0 +1,16 @@
+{
+  "id": 18,
+  "chapterId": 40,
+  "bookId": 11,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا هُشَيْمٌ، قَالَ‏:‏ حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، عَنْ عَبْدِ اللهِ بْنِ شَقِيقٍ، قَالَ‏:‏ سَأَلْتُ عَائِشَةَ، عَنْ صَلاةِ رَسُولِ اللهِ صلى الله عليه وسلم، عَنْ تَطَوُّعِهِ، فَقَالَتْ‏:‏ كَانَ يُصَلِّي لَيْلا طَوِيلا قَائِمًا، وَلَيْلا طَوِيلا قَاعِدًا، فَإِذَا قَرَأَ وَهُوَ قَائِمٌ رَكَعَ وَسَجَدَ وَهُوَ قَائِمٌ، وَإِذَا قَرَأَ وَهُوَ جَالِسٌ رَكَعَ وَسَجَدَ وَهُوَ جَالِسٌ‏.‏",
+  "english": {
+    "narrator": "'Abdullah ibn Shaqiq said:",
+    "text": "“I asked 'A’isha (may Allah be well pleased with her) about the voluntary ritual prayers of Allah’s Messenger (Allah bless him and give him peace), and she said: ‘He used to spend a long night performing the ritual prayer while standing, and a long night while sitting, so if he recited the Qur’an while standing, he would bow and prostrate from a standing position, and if he recited while sitting, he would bow and prostrate from a sitting position.”"
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

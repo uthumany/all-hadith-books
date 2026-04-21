@@ -1,0 +1,16 @@
+{
+  "id": 561,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَهَنَّادُ بْنُ السَّرِيِّ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ قَالُوا حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سِمَاكٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ إِنَّ اللَّهَ تَعَالَى سَمَّى الْمَدِينَةَ طَابَةَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Jabir b. Samura (Allah be pleased with him) reported that he heard Allah's Messenger (ﷺ) say:",
+    "text": "Allah named Medina as Tabba."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

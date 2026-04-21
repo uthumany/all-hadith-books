@@ -1,0 +1,16 @@
+{
+  "id": 228,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ شَرِيكٍ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ أَنَسٍ، قَالَ رُبَّمَا قَالَ لِيَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ يَا ذَا الأُذُنَيْنِ ‏\"‏ ‏.‏ قَالَ أَبُو أُسَامَةَ يَعْنِي يُمَازِحُهُ ‏.‏ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "that the Prophet (ﷺ) said to him: \"O possessor of two ears!\" (One of the narrators) Abu Usamah said: 'He only meant it as a joke.'"
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

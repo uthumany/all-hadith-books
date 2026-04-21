@@ -1,0 +1,16 @@
+{
+  "id": 678,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا أَبُو أَحْمَدَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي الْخَلِيلِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ كَانَ لِلْمُغِيرَةِ بْنِ شُعْبَةَ رُمْحٌ فَكُنَّا إِذَا خَرَجْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي غَزَاةٍ خَرَجَ بِهِ مَعَهُ فَيَرْكُزُهُ فَيَمُرُّ النَّاسُ عَلَيْهِ فَيَحْمِلُونَهُ فَقُلْتُ لَئِنْ أَتَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَأُخْبِرَنَّهُ فَقَالَ إِنَّكَ إِنْ فَعَلْتَ لَمْ تَرْفَعْ ضَالَّةً‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "Al-Mugheerah bin Shu`bah had a spear, and when we went out with the Messenger of Allah (ﷺ) on a campaign, he would take it with him and stick it in the ground. And the people would pass by him and give him a ride. I said: When I go to the Prophet (ﷺ)  I will tell him. He said: If you do that, no one will pick up a lost item."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

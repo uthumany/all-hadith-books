@@ -1,0 +1,16 @@
+{
+  "id": 69,
+  "chapterId": 23,
+  "bookId": 14,
+  "arabic": "وَعَنْ جَابِرٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَخَذَ بِيَدِ مَجْذُومٍ فَوَضَعَهَا مَعَهُ فِي الْقَصْعَةِ وَقَالَ: «كُلْ ثِقَةً بِاللَّهِ وَتَوَكُّلًا عَلَيْهِ» . رَوَاهُ ابْن مَاجَه",
+  "english": {
+    "narrator": "Jabir told that God’s messenger took a man who was suffering from tubercular leprosy by the hand, and putting it along with his own in the dish said:",
+    "text": "\"Eat with confidence in God and trust in Him.\" \n\nIbn Majah transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

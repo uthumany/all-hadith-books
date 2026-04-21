@@ -1,0 +1,510 @@
+{
+  "page": 3,
+  "perPage": 50,
+  "totalPages": 9,
+  "totalCount": 402,
+  "nextPage": 4,
+  "prevPage": 2,
+  "items": [
+    {
+      "id": 9,
+      "chapterId": 12,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدِ اللهِ الْمُحَارِبِيُّ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ‏:‏ اتَّخَذَ رَسُولُ اللهِ صلى الله عليه وسلم خَاتَمًا مِنْ ذَهَبٍ، فَكَانَ يَلْبَسُهُ فِي يَمِينِهِ، فَاتَّخَذَ النَّاسُ خَوَاتِيمَ مِنْ ذَهَبٍ فَطَرَحَهُ صلى الله عليه وسلم، وَقَالَ‏:‏ لا أَلْبَسُهُ أَبدًا فَطَرَحَ النَّاسُ خَوَاتِيمَهُمْ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) chose a signet ring of gold, and he used to wear it on his right hand. The people therefore chose signet rings of gold, so he threw it away (Allah bless him and give him peace) and said: 'I shall never wear it!' The people therefore threw their signet rings away.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 13,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، قَالَ‏:‏ حَدَّثَنَا أَبِي، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ‏:‏ كَانَتْ قَبِيعَةُ سَيْفِ رَسُولِ اللهِ صلى الله عليه وسلم مِنْ فِضَّةٍ‏.‏",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "“Ihe pommel of the sword of Allah’s Messenger (Allah bless him and give him peace) was made of silver.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 13,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ‏:‏ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ أَبِي الْحَسَنِ، قَالَ‏:‏ كَانَتْ قَبِيعَةُ سَيْفِ رَسُولِ اللهِ صلى الله عليه وسلم مِنْ فِضَّةٍ‏.‏",
+      "english": {
+        "narrator": "Sa'id ibn Abi’l-Hasan al-Basri said:",
+        "text": "“The pommel of the sword of Allah’s Messenger (Allah bless him and give him peace) was made of silver.\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 13,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَبُو جَعْفَرٍ مُحَمَّدُ بْنُ صُدْرَانَ الْبَصْرِيُّ، قَالَ‏:‏ حَدَّثَنَا طَالِبُ بْنُ حُجَيْرٍ، عَنْ هُودٍ وَهُوَ ابْنُ عَبْدِ اللهِ بْنِ سَعْدٍ، عَنْ جَدِّهِ، قَالَ‏:‏ دَخَلَ رَسُولُ اللهِ صلى الله عليه وسلم مَكَّةَ يَوْمَ الْفَتْحِ وَعَلَى سَيْفِهِ ذَهَبٌ، وَفِضَّةٌ، قَالَ طَالِبٌ‏:‏ فَسَأَلْتُهُ عَنِ الْفِضَّةِ، فَقَالَ‏:‏ كَانَتْ قَبِيعَةُ السَّيْفِ فِضَّةً‏.‏",
+      "english": {
+        "narrator": "Hud (i.e. Ibn 'Abdi’llah ibn Sa'd) reports that his grandfather said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) entered Mecca on the Day of Victory with gold and silver on his sword. An inquirer said: 'I asked him about the silver', and he said: ‘The pommel of the sword was silver'.”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 13,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا محمد بن شجاع البغدادى ‏,‏ حَدَّثَنَا أبو عبيدة الحداد ‏,‏ عن عثمان بن سعد ‏,‏ عن ابن سيرين قال‏:‏ صنعت سيفي على سيف سمرة بن جندب‏:‏ وزعم سمرة أنه صنع سَيْفِه على سيف رَسُولِ اللهِصلى الله عليه وسلم ‏,‏ وكان حنيفيا‏.‏\n\nحدثنا عقبة بن مكرم البصري ‏,‏ قال‏:‏ حدثنا محمد بن بكر ‏,‏ عن عثمان بن سعد ‏,‏ بهذا الإسناد ‏,‏ نحوه‏.‏‏",
+      "english": {
+        "narrator": "Ibn Sirin said:",
+        "text": "\"I made my sword in the shape of the sword of Samura ibn Jundub.\" Samura also claimed that he made his sword in the shape of the sword of Allah’s Messenger (Allah bless him and give him peace), for he was a Hanafi."
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 14,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَبُو سَعِيدٍ عَبْدُ اللهِ بْنُ سَعِيدٍ الأَشَجُّ، قَالَ‏:‏ حَدَّثَنَا يُونُسُ بْنُ بُكَيْرٍ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ يَحْيَى بْنِ عَبَّادِ بْنِ عَبْدِ اللهِ بْنِ الزُّبَيْرِ، عَنْ أَبِيهِ، عَنْ جَدِّهِ عَبْدِ اللهِ بْنِ الزُّبَيْرِ، عَنِ الزُّبَيْرِ بْنِ الْعَوَّامِ، قَالَ‏:‏ كَانَ عَلَى النَّبِيِّ صلى الله عليه وسلم يَوْمَ أُحُدٍ دِرْعَانِ، فَنَهَضَ إِلَى الصَّخْرَةِ فَلَمْ يَسْتَطِعْ، فَأَقْعَدَ طَلْحَةَ تَحْتَهُ، وَصَعِدَ النَّبِيُّ صلى الله عليه وسلم حَتَّى اسْتَوَى عَلَى الصَّخْرَةِ، قَالَ‏:‏ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم، يَقُولُ‏:‏ أَوْجَبَ طَلْحَةُ‏.‏",
+      "english": {
+        "narrator": "Az-Zubair ibn al-'Awwam said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) wore two coats of mail on the Day of \nUhud, so he tried to climb the boulder but was not able. He therefore made Talha sit\nbeneath him, and the Prophet (Allah bless him and give him peace), climbed up until he stood upright on the rock.\" He said: \"I heard the Prophet say (Allah bless him and give\nhim peace): 'Talha performed a deed worthy of reward'!”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 14,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ يَزِيدَ بْنِ خُصَيْفَةَ، عَنِ السَّائِب بْنِ يَزِيدَ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم، كَانَ عَلَيْهِ يَوْمَ أُحُدٍ دِرْعَانِ، قَدْ ظَاهَرَ بَيْنَهُمَا‏.‏",
+      "english": {
+        "narrator": "As-Sa’ib ibn Yazid said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) wore on the Day of Uhud two coats of mail between which he rendered support.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 15,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَنَسِ بْنِ مَالِكٍ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ مَكَّةَ وَعَلَيْهِ مِغْفَرٌ، فَقِيلَ لَهُ‏:‏ هَذَا ابْنُ خَطَلٍ مُتَعَلِّقٌ بِأَسْتَارِ الْكَعْبَةِ، فَقَالَ‏:‏ اقْتُلُوهُ‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) entered Mecca wearing a helmet. He was told: 'This Ibn Khatal  is clinging to the curtains of the Ka'ba so he said: 'Kill him!'\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 15,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عِيسَى بْنُ أَحْمَدَ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ وَهْبٍ، قَالَ‏:‏ حَدَّثَنِي مَالِكُ بْنُ أَنَسٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم، دَخَلَ مَكَّةَ عَامَ الْفَتْحِ، وَعَلَى رَأْسِهِ الْمِغْفَرُ، قَالَ‏:‏ فَلَمَّا نَزَعَهُ جَاءَهُ رَجُلٌ، فَقَالَ لَهُ‏:‏ ابْنُ خَطَلٍ مُتَعَلِّقٌ بِأَسْتَارِ الْكَعْبَةِ، فَقَالَ‏:‏ اقْتُلُوهُ، قَالَ ابْنُ شِهَابٍ‏:‏ وَبَلَغَنِي أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم، لَمْ يَكُنْ يَوْمَئِذٍ مُحْرِمًا‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik reported:",
+        "text": "“Allah’s Messenger (Allah bless him and give him peace) entered Mecca in the Year of Victory with the helmet on his head. When he took it off, a man came to him and told him: ‘Ibn Khatal  is clinging to the curtains of the Ka'ba,’ so he said: ‘Kill him!’ Ibn Shihab said: ‘It has also reached me that Allah’s Messenger (Allah bless him and give him peace) was not in the state of ritual consecration on that day.’”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 16,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ حَمَّادِ بْنِ سَلَمَةَ ‏(‏ح‏)‏ حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا وَكِيعٌ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ‏:‏ دَخَلَ النَّبِيُّ صلى الله عليه وسلم، مَكَّةَ يَوْمَ الْفَتْحِ، وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ‏.‏",
+      "english": {
+        "narrator": "Jabir said:",
+        "text": "“The Prophet (Allah bless him and give him peace) entered Mecca on the Day of Victory wearing a black turban.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 16,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ مُسَاوِرٍ الْوَرَّاقِ، عَنْ جَعْفَرِ بْنِ عَمْرِو بْنِ حُرَيْثٍ، عَنْ أَبِيهِ، قَالَ‏:‏ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَخْطُبُ عَلَى الْمِنْبَرِ، وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ‏.‏",
+      "english": {
+        "narrator": "'Amr ibn Huraith reported that his father said:",
+        "text": "\"I saw a black turban on the head of Allah’s Messenger (Allah bless him and give him peace).”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 16,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، وَيُوسُفُ بْنُ عِيسَى، قَالا‏:‏ حَدَّثَنَا وَكِيعٌ، عَنْ مُسَاوِرٍ الْوَرَّاقِ، عَنْ جَعْفَرِ بْنِ عَمْرُو بْنِ حُرَيْثٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم، خَطَبَ النَّاسَ، وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ‏.‏",
+      "english": {
+        "narrator": "'Amr ibn Huraith reported that his father said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) addressed the people while wearing a black turban.”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 16,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ، قَالَ‏:‏ حَدَّثَنَا يَحْيَى بْنُ مُحَمَّدٍ الْمَدَنِيُّ، عَنْ عَبْدِ الْعَزِيزِ بْنِ مُحَمَّدٍ، عَنْ عُبَيْدِ اللهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم، إِذَا اعْتَمَّ، سَدَلَ عِمَامَتَهُ بَيْنَ كَتِفَيْهِ‏.‏‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar said:",
+        "text": "\"When the Prophet (Allah bless him and give him peace) donned a turban, he let his turban hang down between his shoulders.”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 16,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا يُوسُفُ بْنُ عِيسَى، قَالَ‏:‏ حَدَّثَنَا وَكِيعٌ، قَالَ‏:‏ حَدَّثَنَا أَبُو سُلَيْمَانَ وَهُوَ عَبْدُ الرَّحْمَنِ بْنُ الْغَسِيلِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَ النَّاسَ، وَعَلَيْهِ عِصَابَةٌ دَسْمَاءُ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas said:",
+        "text": "“The Prophet (Allah bless him and give him peace) addressed the people while wearing a turban that was dasma’ ."
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 17,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، قَالَ‏:‏ حَدَّثَنَا أَيُّوبُ، عَنْ حُمَيْدِ بْنِ هِلالٍ، عَنْ أَبِي بُرْدَةَ، قَالَ‏:‏ أَخْرَجَتْ إِلَيْنَا عَائِشَةُ، كِسَاءً مُلَبَّدًا، وَإِزَارًا غَلِيظًا، فَقَالَتْ‏:‏ قُبِضَ رُوحُ رَسُولِ اللهِ صلى الله عليه وسلم، فِي هَذَيْنِ‏.‏",
+      "english": {
+        "narrator": "Abu Burda reported that his father said:",
+        "text": "“'A'isha (may Allah be well pleased with her) brought out to us a tangled garment and a coarse loincloth, then she said: ‘The spirit of Allah’s Messenger (Allah bless him and give him peace) was taken in these two'.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 17,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو دَاوُدَ، عَنْ شُعْبَةَ، عَنِ الأَشْعَثِ بْنِ سُلَيْمٍ، قَالَ‏:‏ سَمِعْتُ عَمَّتِي، تُحَدِّثُ عَنْ عَمِّهَا، قَالَ‏:‏ بَيْنَا أَنَا أَمشِي بِالْمَدِينَةِ، إِذَا إِنْسَانٌ خَلْفِي يَقُولُ‏:‏ ارْفَعْ إِزَارَكَ، فَإِنَّهُ أَتْقَى وَأَبْقَى فَإِذَا هُوَ رَسُولُ اللهِ صلى الله عليه وسلم، فَقُلْتُ‏:‏ يَا رَسُولَ اللهِ إِنَّمَا هِيَ بُرْدَةٌ مَلْحَاءُ، قَالَ‏:‏ أَمَا لَكَ فِيَّ أُسْوَةٌ‏؟‏ فَنَظَرْتُ فَإِذَا إِزَارُهُ إِلَى نِصْفِ سَاقَيْهِ‏.‏",
+      "english": {
+        "narrator": "Al-Ash'ath ibn Sulaim said:",
+        "text": "\"I heard my maternal aunt relate, on the authority of her paternal uncle; 'While I was walking in Medina, someone behind me said: ‘Raise your loincloth, for that is more pious and conducive to longer wear.’ Lo and behold, he was Allah’s Messenger (Allah bless him and give him peace)', so I said: ‘O Messenger of Allah, it is simply a black garment with white stripes!’ He said: ‘Do you not have an example in me?’ so I looked and noticed that his loincloth was to half his shins'.”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 17,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ الْمُبَارَكِ، عَنْ مُوسَى بْنِ عُبَيْدَةَ، عَنِ إِيَاسِ بْنِ سَلَمَةَ بْنِ الأَكْوَعِ، عَنْ أَبِيهِ، قَالَ‏:‏ كَانَ عُثْمَانُ بْنُ عَفَّانَ، يَأْتَزِرُ إِلَى أَنْصَافِ سَاقَيْهِ، وَقَالَ‏:‏ هَكَذَا كَانَتْ إِزْرَةُ صَاحِبِي، يَعْنِي النَّبِيَّ صلى الله عليه وسلم‏.‏",
+      "english": {
+        "narrator": "llyas ibn Salama al-Akwa reported that his father said:",
+        "text": "\"'Uthman ibn 'Affan used to wear a loincloth reaching the middle parts of his shins, and he said: 'In this manner was the loincloth of my Companion', meaning the Prophet (Allah bless him and give him peace).”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 17,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ مُسْلِمِ بْنِ نَذِيرٍ، عَنْ حُذَيْفَةَ بْنِ الْيَمَانِ، قَالَ‏:‏ أَخَذَ رَسُولُ اللهِ صلى الله عليه وسلم، بِعَضَلَةِ سَاقِي أَوْ سَاقِهِ، فَقَالَ‏:‏ هَذَا مَوْضِعُ الإِزَارِ، فَإِنْ أَبَيْتَ فَأَسْفَلَ، فَإِنْ أَبَيْتَ فَلا حَقَّ لِلإِزَارِ فِي الْكَعْبَيْنِ‏.‏",
+      "english": {
+        "narrator": "Hudhaifa ibn al-Yuman said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) took hold of the calf of my legs or his leg, and he said: 'This is the position of the loincloth, and if you object, then somewhat lower down, but if you object, the loincloth has no right to the ankles'.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 18,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ أَبِي يُونُسَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ‏:‏ وَلا رَأَيْتُ شَيْئًا أَحْسَنَ مِنْ رَسُولِ اللهِ صلى الله عليه وسلم كَأَنَّ الشَّمْسَ تَجْرِي فِي وَجْهِهِ، وَمَا رَأَيْتُ أَحَدًا أَسْرَعَ فِي مِشْيَتِهِ مِنْ رَسُولِ اللهِ صلى الله عليه وسلم كَأَنَّمَا الأَرْضُ تُطْوَى لَهُ إِنَّا لَنُجْهِدُ أَنْفُسَنَا وَإِنَّهُ لَغَيْرُ مُكْتَرِثٍ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira said:",
+        "text": "\"I have not seen anything more beautiful than Allah’s Messenger (Allah bless him and give him peace). The sun seemed to shine in his face. Nor have I seen anyone more rapid in his gait than Allah’s Messenger (Allah bless him and give him peace). The earth seemed to be folded up for him. We must strenuously exert ourselves, while he is not subject to any stress.\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 18,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، وَغَيْرُ وَاحِدٍ، قَالُوا‏:‏ حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ عُمَرَ بْنِ عَبْدِ اللهِ مَوْلَى غُفْرَةَ، قَالَ‏:‏ أَخْبَرَنِي إِبْرَاهِيمُ بْنُ مُحَمَّدٍ مِنْ وَلَدِ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ‏:‏ كَانَ عَلِيٌّ إِذَا وَصَفَ النَّبِيَّ صلى الله عليه وسلم، قَالَ‏:‏ كَانَ إِذَا مَشَى تَقَلَّعَ كَأَنَّمَا يَنْحَطُّ مِنْ صَبَبٍ‏.‏",
+      "english": {
+        "narrator": "Ibrahim ibn Muhammad, one of the offspring of 'Ali ibn Abi Talib, told me:",
+        "text": "“When \"Ali described the Prophet (Allah bless him and give him peace), he said: ‘When he walked, he moved as if he were descending a declivity'.”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 18,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، قَالَ‏:‏ حَدَّثَنَا أَبِي، عَنِ الْمَسْعُودِيِّ، عَنْ عُثْمَانَ بْنِ مُسْلِمِ بْنِ هُرْمُزَ، عَنْ نَافِعِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا مَشَى، تَكَفَّأَ تَكَفُّؤًا، كَأَنَّمَا يَنْحَطُّ مِنْ صَبَبٍ‏.‏",
+      "english": {
+        "narrator": "Ali ibn Abi Talib said (may Allah ennoble his countenance):",
+        "text": "\"When the Prophet (Allah bless him and give him peace) walked, he inclined forward as if he were descending a declivity.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 19,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا يُوسُفُ بْنُ عِيسَى، قَالَ‏:‏ حَدَّثَنَا وَكِيعٌ، قَالَ‏:‏ حَدَّثَنَا الرَّبِيعُ بْنُ صَبِيحٍ، عَنْ يَزِيدَ بْنِ أَبَانَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ‏:‏ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم يُكْثِرُ الْقِنَاعَ، كَأَنَّ ثَوْبَهُ ثَوْبُ زَيَّاتٍ‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "“Allah’s Messenger (Allah bless him and give him peace) would often wear the head veil, as if his robe was the robe of an oil dealer.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 20,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، قَالَ‏:‏ حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ حَسَّانَ، عَنْ، جَدَّتَيْهِ، عَنْ قَيْلَةَ بِنْتِ مَخْرَمَةَ، أَنَّهَا رَأَتْ رَسُولَ اللهِ صلى الله عليه وسلم فِي الْمَسْجِدِ، وَهُوَ قَاعِدٌ الْقُرْفُصَاءَ، قَالَتْ‏:‏ فَلَمَّا رَأَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم، الْمُتَخَشِّعَ فِي الْجِلْسَةِ، أُرْعِدْتُ مِنَ الْفَرَقِ‏.‏",
+      "english": {
+        "narrator": "'Abdu’llah ibn Hassan reported on the authority of his grandmothers:",
+        "text": "Qaila bint Makhrama said that she saw Allah’s Messenger (Allah bless him and give him peace) in the mosque squatting on his heels. She said: \"When I saw Allah’s Messenger (Allah bless him and give him peace) displaying humility in the mosque, I trembled with fright.\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 20,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ، وَغَيْرُ وَاحِدٍ، قَالُوا‏:‏ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، أَنَّهُ رَأَى النَّبِيَّ صلى الله عليه وسلم مُسْتَلْقِيًا فِي الْمَسْجِدِ وَاضِعًا إِحْدَى رِجْلَيْهِ عَلَى الأُخْرَى‏.‏",
+      "english": {
+        "narrator": "'Abbad ibn Tamim reported:",
+        "text": "His paternal uncle said that he saw the Prophet (Allah bless him and give him peace) lying on his back in the mosque, placing one of his legs over the other."
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 20,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا سَلَمَةُ بْنُ شَبِيبٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ إِبْرَاهِيمَ الْمَدَنِيُّ، قَالَ‏:‏ حَدَّثَنَا إِسْحَاقُ بْنُ مُحَمَّدٍ الأَنْصَارِيُّ، عَنْ رُبَيْحِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ‏:‏ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم إِذَا جَلَسَ فِي الْمَسْجِدِ، احْتَبَى بِيَدَيْهِ‏.‏",
+      "english": {
+        "narrator": "Abu Sa'id al-Khudri said:",
+        "text": "“When Allah’s Messenger (Allah bless him and give him peace) sat in the mosque, he pressed his legs against his stomach with his hands.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 21,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ الْبَغْدَادِيُّ، قَالَ‏:‏ حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، عَنِ إِسْرَائِيلَ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ‏:‏ رَأَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم، مُتَّكِئًا عَلَى وِسَادَةٍ عَلَى يَسَارِهِ‏.‏",
+      "english": {
+        "narrator": "Jabir ibn Samura said:",
+        "text": "\"I saw Allah’s Messenger (Allah bless him and give him peace) leaning on a cushion on his left side.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 21,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ‏:‏ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، قَالَ‏:‏ حَدَّثَنَا الْجُرَيْرِيُّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرَةَ، عَنْ أَبِيهِ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ أَلا أُحَدِّثُكُمْ بِأَكْبَرِ الْكَبَائِرِ‏؟‏ قَالُوا‏:‏ بَلَى يَا رَسُولَ اللهِ قَالَ‏:‏ الإِشْرَاكُ بِاللَّهِ، وَعُقُوقُ الْوَالِدَيْنِ قَالَ‏:‏ وَجَلَسَ رَسُولُ اللهِ صلى الله عليه وسلم، وَكَانَ مُتَّكِئًا، قَالَ‏:‏ وَشَهَادَةُ الزُّورِ، أَوْ قَوْلُ الزُّورِ، قَالَ‏:‏ فَمَا زَالَ رَسُولُ اللهِ صلى الله عليه وسلم، يَقُولُهَا حَتَّى قُلْنَا‏:‏ لَيْتَهُ سَكَتَ‏.‏",
+      "english": {
+        "narrator": "'Abd ar-Rahman ibn Abi Bakra reported that his father Abu Bakra said:",
+        "text": "“Allah’s Messenger said (Allah bless him and give him peace): ‘Should I tell you about the greatest of the major sins?’ They said: ‘Yes indeed, O Messenger of Allah!’ He said: ‘Associating partners with Allah, and recalcitrance against parents.’ Allah’s Messenger (Allah bless him and give him peace) sat down, and he was leaning on a support. He added: '...and false testimony’ or: ‘false speech.’ Allah’s Messenger (Allah bless him and give him peace) went on speaking until we said: ‘If only he would keep silent!”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 21,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ‏:‏ حَدَّثَنَا شَرِيكٌ، عَنْ عَلِيِّ بْنِ الأَقْمَرِ، عَنْ أَبِي جُحَيْفَةَ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ أَمَّا أَنَا، فَلا آكُلُ مُتَّكِئًا‏.‏",
+      "english": {
+        "narrator": "Abu Juhaifa said:",
+        "text": "\"Allah’s Messenger said (Allah bless him and give him peace):‘As for me, I do not eat while leaning on a support!’”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 21,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ عَلِيِّ بْنِ الأَقْمَرِ، قَالَ‏:‏ سَمِعْتُ أَبَا جُحَيْفَةَ، يَقُولُ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ لا آكُلُ مُتَّكِئًا‏.‏",
+      "english": {
+        "narrator": "Abu Juhaifa said:",
+        "text": "\"Allah’s Messenger said (Allah bless him and give him peace): 'I do not eat while leaning on a support! I do not eat while leaning on a support'!”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 21,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا يُوسُفُ بْنُ عِيسَى، قَالَ‏:‏ حَدَّثَنَا وَكِيعٌ، قَالَ‏:‏ حَدَّثَنَا إِسْرَائِيلُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ‏:‏ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم مُتَّكِئًا عَلَى وِسَادَةٍ،‏.‏",
+      "english": {
+        "narrator": "Jabir ibn Samura said:",
+        "text": "\"I saw Allah’s Messenger (Allah bless him and give him peace) leaning on a cushion.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 22,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ‏:‏ حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، قَالَ‏:‏ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ شَاكِيًا، فَخَرَجَ يَتَوَكَّأُ عَلَى أُسَامَةَ بْنِ زَيْدٍ وَعَلَيْهِ ثَوْبٌ قِطْرِيٌّ، قَدْ تَوَشَّحَ بِهِ فَصَلَّى بِهِمْ‏.‏",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "“The Prophet (Allah bless him and give him peace) was feeling ill, so he came out leaning on Usama ibn Zaid wearing an outer garment of coarse cotton fabric, which he had thrown on loosely, after which he led them in the ritual prayer.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 22,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ، قَالَ‏:‏ حَدَّثَنَا عَطَاءُ بْنُ مُسْلِمٍ الْخَفَّافُ الْحَلَبِيُّ، قَالَ‏:‏ حَدَّثَنَا جَعْفَرُ بْنُ بُرْقَانَ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، عَنِ الْفَضْلِ بْنِ عَبَّاسٍ، قَالَ‏:‏ دَخَلْتُ عَلَى رَسُولِ اللهِ صلى الله عليه وسلم، فِي مَرَضِهِ الَّذِي تُوُفِّيَ فِيهِ، وَعَلَى رَأْسِهِ عِصَابَةٌ صَفْرَاءُ، فَسَلَّمْتُ عَلَيْهِ، فَقَالَ‏:‏ يَا فَضْلُ قُلْتُ‏:‏ لَبَّيْكَ يَا رَسُولَ اللهِ، قَالَ‏:‏ اشْدُدْ بِهَذِهِ الْعِصَابَةِ رَأْسِي قَالَ‏:‏ فَفَعَلْتُ، ثُمَّ قَعَدَ فَوَضَعَ كَفَّهُ عَلَى مَنْكِبِي، ثُمَّ قَامَ فَدَخَلَ فِي الْمَسْجِدِ‏.‏",
+      "english": {
+        "narrator": "Al-Fadl ibn Abbas said:",
+        "text": "\"I went in to see Allah’s Messenger (Allah bless him and give him peace) during his illness in which he died, and on his head there was a yellow band. I greeted him with the salutation of peace, so he said: 'O Fadl!”'I said: 'Doubly at your service, O Messenger of Allah!' He said: 'Wrap my head firmly with this band!' I acted accordingly, then he sat and placed the palm of his hand on my shoulder. Then he stood up and entered the mosque.” (This tradition is part of a longer story.)"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 23,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنِ ابْنٍ لِكَعْبِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَلْعَقُ أَصَابِعَهُ ثَلاثًا‏.‏",
+      "english": {
+        "narrator": "Reported on the authority of Ibn al-Ka'b ibn Malik, that his father said:",
+        "text": "\"The Prophet (Allah bless him and give him peace) used to lick his fingers three times.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 23,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلالُ، قَالَ‏:‏ حَدَّثَنَا عَفَّانُ، قَالَ‏:‏ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَكَلَ طَعَامًا لَعِقَ أَصَابِعَهُ الثَّلاثَ‏.‏",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "“When the Prophet (Allah bless him and give him peace) ate a meal, he used to lick his three fingers .”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 23,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا الْحُسَيْنُ بْنُ عَلِيِّ بْنِ يَزِيدَ الصُّدَائِيُّ الْبَغْدَادِيُّ، قَالَ‏:‏ حَدَّثَنَا يَعْقُوبُ بْنُ إِسْحَاقَ يَعْنِي الْحَضْرَمِيَّ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ عَلِيِّ بْنِ الأَقْمَرِ، عَنْ أَبِي جُحَيْفَةَ، قَالَ‏:‏ قَالَ النَّبِيُّ صلى الله عليه وسلم‏:‏ أَمَّا أَنَا فَلا آكُلُ مُتَّكِئًا‏.‏\n\nحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ عَلِيِّ بْنِ الأَقْمَرِ ‏,‏ نَحْوَهُ‏.‏",
+      "english": {
+        "narrator": "Abu Juhaifa said:",
+        "text": "“The Prophet said (Allah bless him and give him peace): 'As for me, I do not eat while leaning on a support'!”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 23,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ، قَالَ‏:‏ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنِ ابْنٍ لِكَعْبِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، قَالَ‏:‏ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم يَأْكُلُ بِأَصَابِعِهِ، الثَّلاثِ وَيَلْعَقُهُنَّ‏.‏",
+      "english": {
+        "narrator": "Ibn al-Ka'b ibn Malik reported that his father said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) used to eat with his three fingers and afterwards he would lick them.”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 23,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا الْفَضْلُ بْنُ دُكَيْنٍ، قَالَ‏:‏ حَدَّثَنَا مُصْعَبُ بْنُ سُلَيْمٍ، قَالَ‏:‏ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ‏:‏ أُتِيَ رَسُولُ اللهِ صلى الله عليه وسلم بِتَمْرٍ فَرَأَيْتُهُ يَأْكُلُ وَهُوَ مُقْعٍ مِنَ الْجُوعِ‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik say:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) was brought some dried dates, and I saw him eat while he was hunched over from hunger.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 24,
+      "bookId": 11,
+      "arabic": "حدثني مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالا‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ‏:‏ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ يَزِيدَ، يُحَدِّثُ عَنِ الأَسْوَدِ بْنِ يَزِيدَ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ‏:‏ مَا شَبِعَ آلُ مُحَمَّدٍ صلى الله عليه وسلم مِنْ خُبْزِ الشَّعِيرِ يَوْمَيْنِ مُتَتَابِعَيْنِ حَتَّى قُبِضَ رَسُولُ اللهِ صلى الله عليه وسلم‏.‏",
+      "english": {
+        "narrator": "'A’isha said:",
+        "text": "\"The family of Muhammad (Allah bless him and give him peace) did not satisfy their appetite with barley-bread for before even two consecutive days until Allah’s Messenger (Allah bless him and give him peace) was taken from this world.”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 24,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ، قَالَ‏:‏ حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ، قَالَ‏:‏ حَدَّثَنَا حَرِيزُ بْنُ عُثْمَانَ، عَنْ سُلَيْمِ بْنِ عَامِرٍ، قَالَ‏:‏ سَمِعْتُ أَبَا أُمَامَةَ الْبَاهِلِيَّ، يَقُولُ‏:‏ مَا كَانَ يَفْضُلُ عَنِ أَهْلِ بَيْتِ رَسُولِ اللهِ صلى الله عليه وسلم خُبْزُ الشَّعِيرِ‏.‏",
+      "english": {
+        "narrator": "Abu Umama al-Bahili say:",
+        "text": "\"There was never more than a bare sufficiency of barley- bread for the people of the household of Allah’s Messenger (Allah bless him and give him peace).”"
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 24,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مُعَاوِيَةَ الْجُمَحِيُّ، قَالَ‏:‏ حَدَّثَنَا ثَابِتُ بْنُ يَزِيدَ، عَنْ هِلاَلِ بْنِ خَبَّابٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ‏:‏ كَانَ رَسُولُ اللهِ صلى الله عليه وسلم، يَبِيتُ اللَّيَالِيَ الْمُتَتَابِعَةَ طَاوِيًا هُوَ وَأَهْلُهُ، لا يَجِدُونُ عِشَاءً وَكَانَ أَكْثَرُ خُبْزِهِمْ، خُبْزَ الشَّعِيرِ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) used to spend night after night starving. He and his family would not have any supper to eat, and most of their bread was barley-bread.”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 24,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ‏:‏ حَدَّثَنَا عُبَيْدُ اللهِ بْنُ عَبْدِ الْمَجِيدِ الْحَنَفِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللهِ بْنِ دِينَارٍ، قَالَ‏:‏ حَدَّثَنَا أَبُو حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، أَنَّهُ قِيلَ لَهُ‏:‏ أَكَلَ رَسُولُ اللهِ صلى الله عليه وسلم النَّقِيَّ‏؟‏ يَعْنِي الْحُوَّارَى فَقَالَ سَهْلٌ‏:‏ مَا رَأَى رَسُولُ اللهِ صلى الله عليه وسلم النَّقِيَّ حَتَّى لَقِيَ اللَّهَ عَزَّ وَجَلَّ تَعَالَى، فَقِيلَ لَهُ‏:‏ هَلْ كَانَتْ لَكُمْ مَنَاخِلُ عَلَى عَهْدِ رَسُولِ اللهِ صلى الله عليه وسلم‏؟‏",
+      "english": {
+        "narrator": "Sahl ibn Sa'd said that he was asked:",
+        "text": "“Did Allah’s Messenger (Allah bless him and give him peace) eat the finest flour, meaning white bread?” Sahl said: “Allah’s Messenger (Allah bless him and give him peace) did not see the finest flour until he met Allah (Almighty and Glorious is He).” Then he was asked: “Did you have sieves in the time of Allah’s Messenger (Allah bless him and give him peace)?” He said: “We did not have sieves.” He was asked: “How did you treat barley?” He said: “We used to blow on it, so whatever flew would fly off it, and then we would knead it.”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 24,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ‏:‏ حَدَّثَنِي أَبِي، عَنْ يُونُسَ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ‏:‏ مَا أَكَلَ نَبِيُّ اللهِ عَلَى خِوَانٍ، وَلا فِي سُكُرَّجَةٍ، وَلا خُبِزَ لَهُ مُرَقَّقٌ قَالَ‏:‏ فَقُلْتُ لِقَتَادَةَ‏:‏ فَعَلامَ كَانُوا يَأْكُلُونَ‏؟‏ قَالَ‏:‏ عَلَى هَذِهِ السُّفَرِ قَالَ مُحَمَّدُ بْنُ بَشَّارٍ‏:‏ يُونُسُ هَذَا الَّذِي رَوَى عَنْ قَتَادَةَ هُوَ يُونُسُ الإِسْكَافُ‏.‏",
+      "english": {
+        "narrator": "Anas ibn Malik said:",
+        "text": "“Allah’s Prophet (Allah bless him and give him peace) did not eat food on a table, nor in a bowl, and no bread rolled thin and flat was baked for him. I asked Qatada: ‘So on\nwhat were they used to eating?’ He said: ‘On these pieces of skin .”"
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 24,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا عَبَّادُ بْنُ عَبَّادٍ الْمُهَلَّبِيُّ، عَنْ مُجَالِدٍ، عَنِ الشَّعْبِيِّ، عَنْ مَسْرُوقٍ، قَالَ‏:‏ دَخَلْتُ عَلَى عَائِشَةَ، فَدَعَتْ لِي بِطَعَامٍ وَقَالَتْ‏:‏ مَا أَشْبَعُ مِنْ طَعَامٍ فَأَشَاءُ أَنْ أَبْكِيَ إِلا بَكِيتُ قَالَ‏:‏ قُلْتُ لِمَ‏؟‏ قَالَتْ‏:‏ أَذْكُرُ الْحَالَ الَّتِي فَارَقَ عَلَيْهَا رَسُولُ اللهِ صلى الله عليه وسلم الدُّنْيَا، وَاللَّهِ مَا شَبِعَ مِنْ خُبْزٍ وَلَحْمٍ مَرَّتَيْنِ فِي يَوْمٍ‏.‏",
+      "english": {
+        "narrator": "Masruq said:",
+        "text": "\"I went in to see 'A'isha, so she ordered a meal for me, and she said: “I do not eat my fill from a meal, for I feel like weeping, if I have not wept.” I said: “Why?” She said:\n“I remember the state in which Allah’s Messenger (Allah bless him and give him peace) departed from this world. By Allah, he did not eat his fill of bread and meat twice in one day!”"
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 24,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ‏:‏ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ يَزِيدَ يُحَدِّثُ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ، عَنْ عَائِشَةَ، قَالَتْ‏:‏ مَا شَبِعَ رَسُولُ اللهِ صلى الله عليه وسلم مِنْ خُبْزِ الشَّعِيرِ يَوْمَيْنِ مُتَتَابِعَيْنِ حَتَّى قُبِضَ‏.‏",
+      "english": {
+        "narrator": "'A’isha said:",
+        "text": "\"Allah’s Messenger (Allah bless him and give him peace) did not eat his fill of barley-bread for two days in a row until he died.”"
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 24,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ اللهِ بْنُ عَمْرٍو أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ‏:‏ مَا أَكَلَ رَسُولُ اللهِ صلى الله عليه وسلم عَلَى خِوَانٍ، وَلا أَكَلَ خُبْزًا مُرَقَّقًا حَتَّى مَاتَ‏.‏",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "“Allah’s Messenger (Allah bless him and give him peace) did not eat food on a table, and he did not eat bread rolled thin and flat, until he died.”"
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَهْلِ بْنِ عَسْكَرٍ، وَعَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، قَالا‏:‏ حَدَّثَنَا يَحْيَى بْنُ حَسَّانَ، قَالَ‏:‏ حَدَّثَنَا سُلَيْمَانُ بْنُ بِلالٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم، قَالَ‏:‏ نِعْمَ الإِدَامُ الْخَلُّ، قَالَ عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، فِي حَدِيثِهِ‏:‏ نِعْمَ الإِدَامُ أَوِ الأُدْمُ الْخَلُّ‏.‏",
+      "english": {
+        "narrator": "'A’isha said:",
+        "text": "“Allah’s Messenger said (Allah bless him and give him peace): ‘What an excellent condiment vinegar is'!”"
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، قَالَ‏:‏ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سِمَاكِ بْنِ حَرْبٍ، قَالَ‏:‏ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، يَقُولُ‏:‏ أَلَسْتُمْ فِي طَعَامٍ وَشَرَابٍ مَا شِئِتُمْ‏؟‏ لَقَدْ رَأَيْتُ نَبِيَّكُمْ صلى الله عليه وسلم، وَمَا يَجِدُ مِنَ الدَّقَلِ مَا يَمْلأُ بَطْنَهُ‏.‏",
+      "english": {
+        "narrator": "An-Nu'man ibn Bashir said:",
+        "text": "“Do you not have what you want in the way of food and drink? I have seen your Prophet (Allah bless him and give him peace), and the poor-quality dates  that he finds are what fills his stomach.\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا عَبْدَةُ بْنُ عَبْدِ اللهِ الْخُزَاعِيُّ، قَالَ‏:‏ حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ، عَنْ سُفْيَانَ، عَنْ مُحَارِبِ بْنِ دِثَارٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللهِ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ نِعْمَ الإِدَامُ‏:‏ الْخَلُّ‏.‏",
+      "english": {
+        "narrator": "Jabir ibn 'Abdi’llah said:",
+        "text": "Allah’s Messenger said (Allah bless him and give him peace): 'What an excellent condiment vinegar is!’”"
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلابَةَ، عَنْ زَهْدَمٍ الْجَرْمِيِّ، قَالَ‏:‏ كُنَّا عِنْدَ أَبِي مُوسَى الأَشْعَرِيِّ، فَأُتِيَ بِلَحْمِ دَجَاجٍ فَتَنَحَّى رَجُلٌ مِنَ الْقَوْمِ، فَقَالَ‏:‏ مَا لَكَ‏؟‏ فَقَالَ‏:‏ إِنِّي رَأَيْتُهَا تَأْكُلُ شَيْئًا فَحَلَفْتُ أَنْ لا آكُلَهَا‏.‏",
+      "english": {
+        "narrator": "Zahdam al-Jarmi said:",
+        "text": "\"We were in the presence of Abu Musa al- Ash'ari when he was brought some chicken meat. A man among the people thereupon turned away, so he asked him: 'What is the matter?' He replied: 'I saw it eating something putrid, so I swore that I would not eat it.' He  said: 'Draw near, for I have seen Allah’s Messenger (Allah bless him and\ngive him peace) eating the meat of chickens'!”"
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 25,
+      "bookId": 11,
+      "arabic": "حَدَّثَنَا الْفَضْلُ بْنُ سَهْلٍ الأَعْرَجُ الْبَغْدَادِيُّ، قَالَ‏:‏ حَدَّثَنَا إِبْرَاهِيمُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ مَهْدِيٍّ، عَنِ إِبْرَاهِيمَ بْنِ عُمَرَ بْنِ سَفِينَةَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ‏:‏ أَكَلْتُ مَعَ رَسُولِ اللهِ صلى الله عليه وسلم لَحْمَ حُبَارَى‏.‏",
+      "english": {
+        "narrator": "Ibrahim ibn 'Umar ibn Safina, on the authority of his father reported that his grandfather said:",
+        "text": "\"I ate together with Allah’s Messenger (Allah bless him and give him peace) the meat of a bustard.”"
+      }
+    }
+  ]
+}

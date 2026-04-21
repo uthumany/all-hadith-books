@@ -1,0 +1,16 @@
+{
+  "id": 483,
+  "chapterId": 65,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي دَاوُدَ أَبُو جَعْفَرٍ الْمُنَادِي، حَدَّثَنَا رَوْحٌ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ لأُبَىِّ بْنِ كَعْبٍ ‏\"‏ إِنَّ اللَّهَ أَمَرَنِي أَنْ أُقْرِئَكَ الْقُرْآنَ ‏\"‏‏.‏ قَالَ آللَّهُ سَمَّانِي لَكَ قَالَ ‏\"‏ نَعَمْ ‏\"‏‏.‏ قَالَ وَقَدْ ذُكِرْتُ عِنْدَ رَبِّ الْعَالَمِينَ قَالَ ‏\"‏ نَعَمْ ‏\"‏‏.‏ فَذَرَفَتْ عَيْنَاهُ‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "Allah's Prophet said to Ubai bin Ka`b, \"Allah has ordered me to recite Qur'an to you.\" Ubai said, \"Did \nAllah mention me by name to you?\" The Prophet (ﷺ) said, \"Yes.\" Ubai said, \"Have I been mentioned by \nthe Lord of the Worlds?\" The Prophet (ﷺ) said, \"Yes.\" Then Ubai burst into tears."
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

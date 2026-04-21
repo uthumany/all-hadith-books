@@ -1,0 +1,16 @@
+{
+  "id": 99,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنْ جَابِرٍ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي غَزْوَةٍ غَزَاهَا يَقُولُ: «اسْتَكْثِرُوا مِنَ النِّعَالِ فَإِنَّ الرَّجُلَ لَا يَزَالُ رَاكِبًا مَا انتعَلَ» . رَوَاهُ مُسلم",
+  "english": {
+    "narrator": "",
+    "text": "Jabir told that he heard the Prophet say on one of his expeditions, “Make a general practice of wearing sandals, for a man keeps riding as long as he wears sandals.” (The meaning is that wearing sandals makes movement easier and protects the feet lrom toughness or thorns on the road. So it is here compared with riding on an animal.)\nMuslim transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

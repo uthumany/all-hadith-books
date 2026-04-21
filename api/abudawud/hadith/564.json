@@ -1,0 +1,16 @@
+{
+  "id": 564,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ مَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقْرَأُ فِي شَىْءٍ مِنْ صَلاَةِ اللَّيْلِ جَالِسًا قَطُّ حَتَّى دَخَلَ فِي السِّنِّ فَكَانَ يَجْلِسُ فِيهَا فَيَقْرَأُ حَتَّى إِذَا بَقِيَ أَرْبَعُونَ أَوْ ثَلاَثُونَ آيَةً قَامَ فَقَرَأَهَا ثُمَّ سَجَدَ ‏.‏",
+  "english": {
+    "narrator": "‘A’ishah said :",
+    "text": "I never saw the Messenger of Allah (ﷺ) reciting the Quraan in his prayer at night in sitting condition until he became old. Then he used to sit in it (the prayer) and recite the Quran until forty or thirty verses remained, then he stood and recited them and prostrated himself."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 62,
+  "chapterId": 36,
+  "bookId": 7,
+  "arabic": "وَحَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، ‏.‏ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، وَرِثَ مِنْ حَفْصَةَ بِنْتِ عُمَرَ دَارَهَا قَالَ وَكَانَتْ حَفْصَةُ قَدْ أَسْكَنَتْ بِنْتَ زَيْدِ بْنِ الْخَطَّابِ مَا عَاشَتْ فَلَمَّا تُوُفِّيَتْ بِنْتُ زَيْدٍ قَبَضَ عَبْدُ اللَّهِ بْنُ عُمَرَ الْمَسْكَنَ وَرَأَى أَنَّهُ لَهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Malik related to me from Nafi that Abdullah ibn Umar inherited\nthe house of Hafsa bint Umar. He said, \"Hafsa gave lodging to the\ndaughter of Zayd ibn al-Khattab for as long as she lived. When the\ndaughter of Zayd died, Abdullah ibn Umar took possession of the\ndwelling and considered that it was his.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

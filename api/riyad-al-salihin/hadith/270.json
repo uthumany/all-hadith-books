@@ -1,0 +1,16 @@
+{
+  "id": 270,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "و عن أبي شريح خويلد بن عمرو الخزاعي رضي الله عنه قال‏:‏ قال النبي صلى الله عليه وسلم ‏:‏ ‏\n\"‏اللهم إني أحرج حق الضعيفين اليتيم والمرأة‏\"‏ ‏(‏‏(‏حديث حسن رواه النسائي بإسناد جيد‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Shuraih Khuwailid bin 'Amr Al-Khuza'i (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"O Allah, I declare inviolable the rights of two weak ones: the orphans and women\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 432,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْأَعْمَشُ، عَنْ مُنْذِرٍ أَبِي يَعْلَى، عَنْ ابْنِ الْحَنَفِيَّةِ، أَنَّ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ أَمَرَ الْمِقْدَادَ فَسَأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الْمَذْيِ فَقَالَ يَتَوَضَّأُ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Ibn al-Hanafiyyah that `Ali (رضي الله عنه) told al-Miqdad to ask the Prophet (ﷺ) about madhi and he said:",
+    "text": "`Let him do wudoo`.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

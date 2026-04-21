@@ -1,0 +1,16 @@
+{
+  "id": 47,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ امْرَأَةً، كَانَ فِي عَقْلِهَا شَىْءٌ بِمَعْنَاهُ ‏.‏",
+  "english": {
+    "narrator": "Anas reported this tradition to the same effect through a different chain of narrators. This version adds:",
+    "text": "A woman who had something (feebleness) in her mind."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

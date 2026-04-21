@@ -1,0 +1,16 @@
+{
+  "id": 336,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ - عَنْ هِشَامٍ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ أَبِي الْحَسَنِ، قَالَ كَانَتْ قَبِيعَةُ سَيْفِ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ فِضَّةٍ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Sa'eed bin Abi Al-Hasan said:",
+    "text": "\"The pommel of the sword of the Messenger of Allah  was of silver.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

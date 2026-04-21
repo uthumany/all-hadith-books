@@ -1,0 +1,16 @@
+{
+  "id": 113,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَن جَابر قَالَ: أُتِيَ بِأَبِي قُحَافَةَ يَوْمَ فَتْحِ مَكَّةَ وَرَأْسُهُ وَلِحْيَتُهُ كَالثُّغَامَةِ بَيَاضًا فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «غَيِّرُوا هَذَا بِشَيْءٍ وَاجْتَنِبُوا السَّواد» . رَوَاهُ مُسلم",
+  "english": {
+    "narrator": "",
+    "text": "Jabir told that when Abu Quhafa (Abu Bakr’s father) was brought on the day of the Conquest of Mecca with his head and beard white like hyssop, the Prophet said, “Change this with something, but avoid black.” \nMuslim transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

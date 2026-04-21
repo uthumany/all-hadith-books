@@ -1,0 +1,16 @@
+{
+  "id": 419,
+  "chapterId": 24,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا عَبْدُ الْجَبَّارِ بْنُ الْعَلاَءِ، عَنْ سُفْيَانَ، عَنْ عَمْرٍو، عَنْ سَالِمِ بْنِ شَوَّالٍ، عَنْ أُمِّ حَبِيبَةَ، قَالَتْ كُنَّا نُغَلِّسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنَ الْمُزْدَلِفَةِ إِلَى مِنًى ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Umm Habibah said:",
+    "text": "\"We used to leave Jam Al-Muzdalifah for Mina at the end of the night, during the time of the Messenger of Allah.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

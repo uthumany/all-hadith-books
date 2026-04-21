@@ -1,0 +1,510 @@
+{
+  "page": 1,
+  "perPage": 50,
+  "totalPages": 106,
+  "totalCount": 5276,
+  "nextPage": 2,
+  "prevPage": null,
+  "items": [
+    {
+      "id": 1,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ الْقَعْنَبِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنْ مُحَمَّدٍ، - يَعْنِي ابْنَ عَمْرٍو - عَنْ أَبِي سَلَمَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا ذَهَبَ الْمَذْهَبَ أَبْعَدَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Mughirah ibn Shu'bah:",
+        "text": "When the Prophet (ﷺ) went (outside) to relieve himself, he went to a far-off place."
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، أَخْبَرَنَا إِسْمَاعِيلُ بْنُ عَبْدِ الْمَلِكِ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا أَرَادَ الْبَرَازَ انْطَلَقَ حَتَّى لاَ يَرَاهُ أَحَدٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Abdullah:",
+        "text": "When the Prophet (ﷺ) felt the need of relieving himself, he went far off where no one could see him."
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا أَبُو التَّيَّاحِ، حَدَّثَنِي شَيْخٌ، قَالَ لَمَّا قَدِمَ عَبْدُ اللَّهِ بْنُ عَبَّاسٍ الْبَصْرَةَ فَكَانَ يُحَدَّثُ عَنْ أَبِي مُوسَى، فَكَتَبَ عَبْدُ اللَّهِ إِلَى أَبِي مُوسَى يَسْأَلُهُ عَنْ أَشْيَاءَ، فَكَتَبَ إِلَيْهِ أَبُو مُوسَى إِنِّي كُنْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم ذَاتَ يَوْمٍ فَأَرَادَ أَنْ يَبُولَ فَأَتَى دَمِثًا فِي أَصْلِ جِدَارٍ فَبَالَ ثُمَّ قَالَ صلى الله عليه وسلم ‏\n\"‏ إِذَا أَرَادَ أَحَدُكُمْ أَنْ يَبُولَ فَلْيَرْتَدْ لِبَوْلِهِ مَوْضِعًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu al-Tayyah reported on the authority of a shaykh (an old man):",
+        "text": "When Abdullah ibn Abbas came to Basrah, people narrated to him traditions from AbuMusa.  Therefore Ibn Abbas wrote to him asking him about certain things.  In reply AbuMusa wrote to him saying: One day I was in the company of the Messenger of Allah (ﷺ).  He wanted to urinate.  Then he came to a soft ground at the foot of a wall and urinated.  He (the Prophet) then said: If any of you wants to urinate, he should look for a place (like this) for his urination."
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، وَعَبْدُ الْوَارِثِ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا دَخَلَ الْخَلاَءَ - قَالَ عَنْ حَمَّادٍ قَالَ ‏\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ ‏\"‏ ‏.‏ وَقَالَ عَنْ عَبْدِ الْوَارِثِ - قَالَ ‏\"‏ أَعُوذُ بِاللَّهِ مِنَ الْخُبُثِ وَالْخَبَائِثِ ‏\"‏ ‏.‏\nقَالَ أَبُو دَاوُد رَوَاهُ شُعْبَةُ عَنْ عَبْدِ الْعَزِيزِ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ وَقَالَ مَرَّةً أَعُوذُ بِاللَّهِ و قَالَ وُهَيْبٌ فَلْيَتَعَوَّذْ بِاللَّهِ",
+      "english": {
+        "narrator": "Anas b. Malik reported:",
+        "text": "When the Apostle of Allaah (sal Allahu alayhi wa sallam) entered the toilet, he used to say (before entering): \"O Allaah, I seek refuge in Thee.\" This is according to the version of Hammad. 'Abd al-Warith has another version :\"I seek refuge in Allaah from male and female devils.\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَمْرٍو، - يَعْنِي السَّدُوسِيَّ - حَدَّثَنَا وَكِيعٌ، عَنْ شُعْبَةَ، عَنْ عَبْدِ الْعَزِيزِ، - هُوَ ابْنُ صُهَيْبٍ - عَنْ أَنَسٍ، بِهَذَا الْحَدِيثِ قَالَ ‏\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ ‏\"‏ ‏.‏ وَقَالَ شُعْبَةُ وَقَالَ مَرَّةً ‏\"‏ أَعُوذُ بِاللَّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Another tradition on the authority of Anas has:",
+        "text": "\" O Allaah, I seek refuge in Thee.\"\n\n\nShu'bah said: Anas sometimes reported the words: \"I take refuge in Allah.\""
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ مَرْزُوقٍ، أَخْبَرَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ زَيْدِ بْنِ أَرْقَمَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِنَّ هَذِهِ الْحُشُوشَ مُحْتَضَرَةٌ فَإِذَا أَتَى أَحَدُكُمُ الْخَلاَءَ فَلْيَقُلْ أَعُوذُ بِاللَّهِ مِنَ الْخُبُثِ وَالْخَبَائِثِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Zayd ibn Arqam:",
+        "text": "The Messenger of Allah (ﷺ) said: These privies are frequented by the jinns and devils.  So when anyone amongst you goes there, he should say: \"I seek refuge in Allah from male and female devils.\""
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ سَلْمَانَ، قَالَ قِيلَ لَهُ لَقَدْ عَلَّمَكُمْ نَبِيُّكُمْ كُلَّ شَىْءٍ حَتَّى الْخِرَاءَةَ ‏.‏ قَالَ أَجَلْ لَقَدْ نَهَانَا صلى الله عليه وسلم أَنْ نَسْتَقْبِلَ الْقِبْلَةَ بِغَائِطٍ أَوْ بَوْلٍ وَأَنْ لاَ نَسْتَنْجِيَ بِالْيَمِينِ وَأَنْ لاَ يَسْتَنْجِيَ أَحَدُنَا بِأَقَلَّ مِنْ ثَلاَثَةِ أَحْجَارٍ أَوْ يَسْتَنْجِيَ بِرَجِيعٍ أَوْ عَظْمٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Salman al-Farsi:",
+        "text": "It was said to Salman: Your Prophet teaches you everything, even about excrement. He replied: Yes. He has forbidden us to face the qiblah at the time of easing or urinating, and cleansing with right hand, and cleansing with less than three stones, or cleansing with dung or bone."
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ، عَنِ الْقَعْقَاعِ بْنِ حَكِيمٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّمَا أَنَا لَكُمْ بِمَنْزِلَةِ الْوَالِدِ أُعَلِّمُكُمْ فَإِذَا أَتَى أَحَدُكُمُ الْغَائِطَ فَلاَ يَسْتَقْبِلِ الْقِبْلَةَ وَلاَ يَسْتَدْبِرْهَا وَلاَ يَسْتَطِبْ بِيَمِينِهِ ‏\"‏ ‏.‏ وَكَانَ يَأْمُرُ بِثَلاَثَةِ أَحْجَارٍ وَيَنْهَى عَنِ الرَّوْثِ وَالرِّمَّةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "The Apostle of Allaah ( sal Allaahu alayhi wa sallam ) as saying: I am like father to you. When any of you goes to privy, he should not face or turn his back towards the qiblah. He should not cleanse with his right hand. He (the Prophet, sal Allaahu alayhi wa sallam) also commanded the Muslims to use three stones and forbade them to use dung or decayed bone."
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ، عَنْ أَبِي أَيُّوبَ، رِوَايَةً قَالَ ‏\n\"‏ إِذَا أَتَيْتُمُ الْغَائِطَ فَلاَ تَسْتَقْبِلُوا الْقِبْلَةَ بِغَائِطٍ وَلاَ بَوْلٍ وَلَكِنْ شَرِّقُوا أَوْ غَرِّبُوا ‏\"‏ ‏.‏ فَقَدِمْنَا الشَّامَ فَوَجَدْنَا مَرَاحِيضَ قَدْ بُنِيَتْ قِبَلَ الْقِبْلَةِ فَكُنَّا نَنْحَرِفُ عَنْهَا وَنَسْتَغْفِرُ اللَّهَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Ayyub :",
+        "text": "That he (the Holy Prophet, sal Allahu alayhi wa sallam) said:\"When you go to the privy, neither turn your face nor your back towards the qiblah at the time of excretion or urination, but turn towards the east or the west. (Abu Ayyub said): When we came to Syria, we found that the toilets already built there were facing the qiblah, We turned our faces away from them and begged pardon of Allaah."
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا عَمْرُو بْنُ يَحْيَى، عَنْ أَبِي زَيْدٍ، عَنْ مَعْقِلِ بْنِ أَبِي مَعْقِلٍ الأَسَدِيِّ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ نَسْتَقْبِلَ الْقِبْلَتَيْنِ بِبَوْلٍ أَوْ غَائِطٍ ‏.‏ قَالَ أَبُو دَاوُدَ وَأَبُو زَيْدٍ هُوَ مَوْلَى بَنِي ثَعْلَبَةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ma'qil ibn AbuMa'qil al-Asadi:",
+        "text": "The Messenger of Allah (ﷺ) has forbidden us to face the two qiblahs at the time of urination or excretion."
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، حَدَّثَنَا صَفْوَانُ بْنُ عِيسَى، عَنِ الْحَسَنِ بْنِ ذَكْوَانَ، عَنْ مَرْوَانَ الأَصْفَرِ، قَالَ رَأَيْتُ ابْنَ عُمَرَ أَنَاخَ رَاحِلَتَهُ مُسْتَقْبِلَ الْقِبْلَةِ ثُمَّ جَلَسَ يَبُولُ إِلَيْهَا فَقُلْتُ يَا أَبَا عَبْدِ الرَّحْمَنِ أَلَيْسَ قَدْ نُهِيَ عَنْ هَذَا قَالَ بَلَى إِنَّمَا نُهِيَ عَنْ ذَلِكَ فِي الْفَضَاءِ فَإِذَا كَانَ بَيْنَكَ وَبَيْنَ الْقِبْلَةِ شَىْءٌ يَسْتُرُكَ فَلاَ بَأْسَ ‏.‏",
+      "english": {
+        "narrator": "Marwan al-Asfar said:",
+        "text": "I saw Ibn Umar make his camel kneel down facing the qiblah, then he sat down urinating in its direction. So I said: AbuAbdurRahman, has this not been forbidden? He replied: Why not, that was forbidden only in open country; but when there is something between you and the qiblah that conceals you , then there is no harm."
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ عَمِّهِ، وَاسِعِ بْنِ حَبَّانَ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ لَقَدِ ارْتَقَيْتُ عَلَى ظَهْرِ الْبَيْتِ فَرَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى لَبِنَتَيْنِ مُسْتَقْبِلَ بَيْتِ الْمَقْدِسِ لِحَاجَتِهِ",
+      "english": {
+        "narrator": "Narrated 'Abd Allaah b. 'Umar :",
+        "text": "I ascended the roof of the house and saw the Apostle of Allaah ( sal Allaahu alayhi wa sallam) sitting on two bricks facing Jerusalem (Bait al-Maqdis) for relieving himself."
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ مُحَمَّدَ بْنَ إِسْحَاقَ، يُحَدِّثُ عَنْ أَبَانَ بْنِ صَالِحٍ، عَنْ مُجَاهِدٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ نَهَى نَبِيُّ اللَّهِ صلى الله عليه وسلم أَنْ نَسْتَقْبِلَ الْقِبْلَةَ بِبَوْلٍ فَرَأَيْتُهُ قَبْلَ أَنْ يُقْبَضَ بِعَامٍ يَسْتَقْبِلُهَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir ibn Abdullah:",
+        "text": "The Prophet of Allah (ﷺ) forbade us to face the qiblah at the time of making water.  Then I saw him facing it (qiblah) urinating or easing himself one year before his death."
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ رَجُلٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا أَرَادَ حَاجَةً لاَ يَرْفَعُ ثَوْبَهُ حَتَّى يَدْنُوَ مِنَ الأَرْضِ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ عَبْدُ السَّلاَمِ بْنُ حَرْبٍ عَنِ الأَعْمَشِ عَنْ أَنَسِ بْنِ مَالِكٍ وَهُوَ ضَعِيفٌ ‏.‏ قَالَ أَبُو عِيسَى الرَّمْلِيُّ حَدَّثَنَا أَحْمَدُ بْنُ الْوَلِيدِ حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ أَخْبَرَنَا عَبْدُ السَّلاَمِ بِهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Umar:",
+        "text": "When the Prophet (ﷺ) wanted to relieve himself, he would not raise his garment, until he lowered himself near the ground.\n\n\nAbu DAwud said: This tradition has been transmitted by 'Abd al-Salam b. Harb on the authority of al-A'mash from Anas b. Malik. This chain of narrators is weak (because A'mash's hearing tradition from Anas b. Malik is not established)."
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ هِلاَلِ بْنِ عِيَاضٍ، قَالَ حَدَّثَنِي أَبُو سَعِيدٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ يَخْرُجُ الرَّجُلاَنِ يَضْرِبَانِ الْغَائِطَ كَاشِفَيْنِ عَنْ عَوْرَتِهِمَا يَتَحَدَّثَانِ فَإِنَّ اللَّهَ عَزَّ وَجَلَّ يَمْقُتُ عَلَى ذَلِكَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ هَذَا لَمْ يُسْنِدْهُ إِلاَّ عِكْرِمَةُ بْنُ عَمَّارٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuSa'id al-Khudri:",
+        "text": "I heard the Messenger of Allah (ﷺ) say: When two persons go together for relieving themselves uncovering their private parts and talking together, Allah, the Great and Majestic, becomes wrathful at this (action).\n\n\n\nAbu Dawud said: This tradition has been narrated only by 'Ikrimah b. 'Ammar."
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ، وَأَبُو بَكْرٍ ابْنَا أَبِي شَيْبَةَ قَالاَ حَدَّثَنَا عُمَرُ بْنُ سَعْدٍ، عَنْ سُفْيَانَ، عَنِ الضَّحَّاكِ بْنِ عُثْمَانَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ مَرَّ رَجُلٌ عَلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ يَبُولُ فَسَلَّمَ عَلَيْهِ فَلَمْ يَرُدَّ عَلَيْهِ ‏.‏ قَالَ أَبُو دَاوُدَ وَرُوِيَ عَنِ ابْنِ عُمَرَ وَغَيْرِهِ أَنَّ النَّبِيَّ صلى الله عليه وسلم تَيَمَّمَ ثُمَّ رَدَّ عَلَى الرَّجُلِ السَّلاَمَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar :",
+        "text": "A man passed by the Prophet (sal Allaahu alayhi wa sallam ) while he was urinating, and saluted him. The Prophet (sal Allaahu alayhi wa sallam) did not return the salutation to him.\n\n\nAbu Dawud said : It is narrated on the authority of Ibn 'Umar that the  Prophet (sal Allaahu alayhi wa sallam) performed tayammum, then he returned the salutation to the man."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ حُضَيْنِ بْنِ الْمُنْذِرِ أَبِي سَاسَانَ، عَنِ الْمُهَاجِرِ بْنِ قُنْفُذٍ، أَنَّهُ أَتَى النَّبِيَّ صلى الله عليه وسلم وَهُوَ يَبُولُ فَسَلَّمَ عَلَيْهِ فَلَمْ يَرُدَّ عَلَيْهِ حَتَّى تَوَضَّأَ ثُمَّ اعْتَذَرَ إِلَيْهِ فَقَالَ ‏\"‏ إِنِّي كَرِهْتُ أَنْ أَذْكُرَ اللَّهَ عَزَّ وَجَلَّ إِلاَّ عَلَى طُهْرٍ ‏\"‏ ‏.‏ أَوْ قَالَ ‏\"‏ عَلَى طَهَارَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Muhajir ibn Qunfudh:",
+        "text": "Muhajir came to the Prophet (ﷺ) while he was urinating. He saluted him. The Prophet (ﷺ) did not return the salutation to him until he performed ablution. He then apologised to him, saying: I disliked remembering Allah except in the state of purification."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ أَبِيهِ، عَنْ خَالِدِ بْنِ سَلَمَةَ، - يَعْنِي الْفَأْفَاءَ - عَنِ الْبَهِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَذْكُرُ اللَّهَ عَزَّ وَجَلَّ عَلَى كُلِّ أَحْيَانِهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated A'ishah:",
+        "text": "The Apostle of Allaah ( sal Allaahu alayhi wa sallam ) used to remember Allaah, the Great and Majestic, at all moments."
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، عَنْ أَبِي عَلِيٍّ الْحَنَفِيِّ، عَنْ هَمَّامٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا دَخَلَ الْخَلاَءَ وَضَعَ خَاتَمَهُ ‏.‏ قَالَ أَبُو دَاوُدَ هَذَا حَدِيثٌ مُنْكَرٌ وَإِنَّمَا يُعْرَفُ عَنِ ابْنِ جُرَيْجٍ عَنْ زِيَادِ بْنِ سَعْدٍ عَنِ الزُّهْرِيِّ عَنْ أَنَسٍ أَنَّ النَّبِيَّ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا مِنْ وَرِقٍ ثُمَّ أَلْقَاهُ ‏.‏ وَالْوَهَمُ فِيهِ مِنْ هَمَّامٍ وَلَمْ يَرْوِهِ إِلاَّ هَمَّامٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas ibn Malik:",
+        "text": "When the Prophet (ﷺ) entered the privy, he removed his ring.\n\n\n\nAbu Dawud said: This is a munkar tradition, i.e. it contradicts the well-known version reported by reliable narrators. On the authority of Anas the well-known version says: The Prophet (ﷺ) had a silver ring made for him. Then he cast it off. The misunderstanding is on the part of Hammam (who is the narrator of the previous tradition mentioned in the text). This is transmitted only by Hammam."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَهَنَّادُ بْنُ السَّرِيِّ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الأَعْمَشُ، قَالَ سَمِعْتُ مُجَاهِدًا، يُحَدِّثُ عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ مَرَّ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى قَبْرَيْنِ فَقَالَ ‏\"‏ إِنَّهُمَا يُعَذَّبَانِ وَمَا يُعَذَّبَانِ فِي كَبِيرٍ أَمَّا هَذَا فَكَانَ لاَ يَسْتَنْزِهُ مِنَ الْبَوْلِ وَأَمَّا هَذَا فَكَانَ يَمْشِي بِالنَّمِيمَةِ ‏\"‏ ‏.‏ ثُمَّ دَعَا بِعَسِيبٍ رَطْبٍ فَشَقَّهُ بِاثْنَيْنِ ثُمَّ غَرَسَ عَلَى هَذَا وَاحِدًا وَعَلَى هَذَا وَاحِدًا وَقَالَ ‏\"‏ لَعَلَّهُ يُخَفَّفُ عَنْهُمَا مَا لَمْ يَيْبَسَا ‏\"‏ ‏.‏ قَالَ هَنَّادٌ ‏\"‏ يَسْتَتِرُ ‏\"‏ ‏.‏ مَكَانَ ‏\"‏ يَسْتَنْزِهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas :",
+        "text": "The Prophet (sal Allaahu alayhi wa sallam ) passed by two graves. He said : Both (the dead) are being punished, but they are not being punished for a major (sin). One did not safeguard himself from urine. The other carried\ntales. He then called for a fresh twig and split it into two parts  and planted one part on each grave and said: Perhaps their punishment may be mitigated as long as the twigs remain fresh.\n\n\nAnother version of Hannad has: \"One of them did not cover himself while urinating.\" This version does not have the words: \"He did not safeguard himself from urine.\""
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمَعْنَاهُ قَالَ ‏\"‏ كَانَ لاَ يَسْتَتِرُ مِنْ بَوْلِهِ ‏\"‏ ‏.‏ وَقَالَ أَبُو مُعَاوِيَةَ ‏\"‏ يَسْتَنْزِهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "A tradition from the Prophet (sal Allaahu alayhi wa sallam ) conveying  similar meaning. \n\n\nThe version of Jarir has the wording : \"he did not cover himself while urinating.\"\n\n\nThe version of Abu Mu'awiyah has the wording: \"he did not safeguard himself (from urine).\""
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، حَدَّثَنَا الأَعْمَشُ، عَنْ زَيْدِ بْنِ وَهْبٍ، عَنْ عَبْدِ الرَّحْمَنِ ابْنِ حَسَنَةَ، قَالَ انْطَلَقْتُ أَنَا وَعَمْرُو بْنُ الْعَاصِ، إِلَى النَّبِيِّ صلى الله عليه وسلم فَخَرَجَ وَمَعَهُ دَرَقَةٌ ثُمَّ اسْتَتَرَ بِهَا ثُمَّ بَالَ فَقُلْنَا انْظُرُوا إِلَيْهِ يَبُولُ كَمَا تَبُولُ الْمَرْأَةُ ‏.‏ فَسَمِعَ ذَلِكَ فَقَالَ ‏\"‏ أَلَمْ تَعْلَمُوا مَا لَقِيَ صَاحِبُ بَنِي إِسْرَائِيلَ كَانُوا إِذَا أَصَابَهُمُ الْبَوْلُ قَطَعُوا مَا أَصَابَهُ الْبَوْلُ مِنْهُمْ فَنَهَاهُمْ فَعُذِّبَ فِي قَبْرِهِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ مَنْصُورٌ عَنْ أَبِي وَائِلٍ عَنْ أَبِي مُوسَى فِي هَذَا الْحَدِيثِ قَالَ ‏\"‏ جِلْدَ أَحَدِهِمْ ‏\"‏ ‏.‏ وَقَالَ عَاصِمٌ عَنْ أَبِي وَائِلٍ عَنْ أَبِي مُوسَى عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ جَسَدَ أَحَدِهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Amr ibn al-'As:",
+        "text": "AbdurRahman ibn Hasanah reported: I and Amr ibn al-'As went to the Prophet (ﷺ). He came out with a leather shield (in his hand). He covered himself with it and urinated. Then we said: Look at him. He is urinating as a woman does. The Prophet (ﷺ), heard this and said: Do you not know what befell a person from amongst Banu Isra'il (the children of Israel)? When urine fell on them, they would cut off the place where the urine fell;  but he (that person) forbade them (to do so), and was punished in his grave.\n\n\n\nAbu Dawud said: One version of Abu Musa has the wording: \"he cut off his skin\".\n\n\nAnother version of Abu Musa goes: \"he cut off (part of) his body.\""
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، وَمُسْلِمُ بْنُ إِبْرَاهِيمَ، قَالاَ حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، - وَهَذَا لَفْظُ حَفْصٍ - عَنْ سُلَيْمَانَ، عَنْ أَبِي وَائِلٍ، عَنْ حُذَيْفَةَ، قَالَ أَتَى رَسُولُ اللَّهِ صلى الله عليه وسلم سُبَاطَةَ قَوْمٍ فَبَالَ قَائِمًا ثُمَّ دَعَا بِمَاءٍ فَمَسَحَ عَلَى خُفَّيْهِ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ مُسَدَّدٌ قَالَ فَذَهَبْتُ أَتَبَاعَدُ فَدَعَانِي حَتَّى كُنْتُ عِنْدَ عَقِبِهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Hudhaifah :",
+        "text": "The Apostle of Allaah ( sal Allaahu alayhi wa sallam ) came to a midden of some people and urinated while standing. He then asked for water and wiped his shoes.\n\n\nAbu Dawud said: Musaddad, a narrator, reported: I went far away from him. He then called me and I reached just near his heals."
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ، عَنْ حُكَيْمَةَ بِنْتِ أُمَيْمَةَ بِنْتِ رُقَيْقَةَ، عَنْ أُمِّهَا، أَنَّهَا قَالَتْ كَانَ لِلنَّبِيِّ صلى الله عليه وسلم قَدَحٌ مِنْ عَيْدَانٍ تَحْتَ سَرِيرِهِ يَبُولُ فِيهِ بِاللَّيْلِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umaymah daughter of Ruqayqah:",
+        "text": "The Prophet (ﷺ) had a wooden vessel under his bed in which he would urinate at night."
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ اتَّقُوا اللاَّعِنَيْنِ ‏\"‏ ‏.‏ قَالُوا وَمَا اللاَّعِنَانِ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ الَّذِي يَتَخَلَّى فِي طَرِيقِ النَّاسِ أَوْ ظِلِّهِمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "The Prophet (sal Allaahu alayhi wa sallam ) as saying : Be on your guard against two things which provoke cursing. They (the hearers) said : Prophet of Allaah ( sal Allaahu alayhi wa sallam), what are these things which provoke cursing: easing in the watering places and on the thoroughfares, and in the shade (of the tree)(where they take shelter and rest)."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ سُوَيْدٍ الرَّمْلِيُّ، وَعُمَرُ بْنُ الْخَطَّابِ أَبُو حَفْصٍ، وَحَدِيثُهُ، أَتَمُّ أَنَّ سَعِيدَ بْنَ الْحَكَمِ، حَدَّثَهُمْ قَالَ أَخْبَرَنَا نَافِعُ بْنُ يَزِيدَ، حَدَّثَنِي حَيْوَةُ بْنُ شُرَيْحٍ، أَنَّ أَبَا سَعِيدٍ الْحِمْيَرِيَّ، حَدَّثَهُ عَنْ مُعَاذِ بْنِ جَبَلٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اتَّقُوا الْمَلاَعِنَ الثَّلاَثَ الْبَرَازَ فِي الْمَوَارِدِ وَقَارِعَةِ الطَّرِيقِ وَالظِّلِّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Mu'adh ibn Jabal:",
+        "text": "The Messenger of Allah (ﷺ) said: Be on your guard against three things which provoke cursing: easing in the watering places and on the thoroughfares, and in the shade (of the tree)."
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، وَالْحَسَنُ بْنُ عَلِيٍّ، قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَحْمَدُ حَدَّثَنَا مَعْمَرٌ، أَخْبَرَنِي أَشْعَثُ، وَقَالَ الْحَسَنُ، عَنْ أَشْعَثَ بْنِ عَبْدِ اللَّهِ، عَنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ يَبُولَنَّ أَحَدُكُمْ فِي مُسْتَحَمِّهِ ثُمَّ يَغْتَسِلُ فِيهِ ‏\"‏ ‏.‏ قَالَ أَحْمَدُ ‏\"‏ ثُمَّ يَتَوَضَّأُ فِيهِ فَإِنَّ عَامَّةَ الْوَسْوَاسِ مِنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Mughaffal:",
+        "text": "The Messenger of Allah (ﷺ) said: No one of you should make water in his bath and then wash himself there (after urination). \n\n\n\n\n\nThe version of Ahmad has: Then performs ablution there, for evil thoughts come from it."
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، عَنْ دَاوُدَ بْنِ عَبْدِ اللَّهِ، عَنْ حُمَيْدٍ الْحِمْيَرِيِّ، - وَهُوَ ابْنُ عَبْدِ الرَّحْمَنِ - قَالَ لَقِيتُ رَجُلاً صَحِبَ النَّبِيَّ صلى الله عليه وسلم كَمَا صَحِبَهُ أَبُو هُرَيْرَةَ قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَمْتَشِطَ أَحَدُنَا كُلَّ يَوْمٍ أَوْ يَبُولَ فِي مُغْتَسَلِهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated A Man from the Companions:",
+        "text": "Humayd al-Himyari said: I met a man (Companion of the Prophet) who remained in the company of the Prophet (ﷺ) just as AbuHurayrah remained in his company. He then added: The Messenger of Allah (ﷺ) forbade that anyone amongst us should comb (his hair) every day or urinate in the place where he takes a bath."
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَرْجِسَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى أَنْ يُبَالَ فِي الْجُحْرِ ‏.‏ قَالَ قَالُوا لِقَتَادَةَ مَا يُكْرَهُ مِنَ الْبَوْلِ فِي الْجُحْرِ قَالَ كَانَ يُقَالُ إِنَّهَا مَسَاكِنُ الْجِنِّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Sarjis:",
+        "text": "The Prophet (ﷺ) prohibited to urinate in a hole.\n\n\n\nQatadah (a narrator) was asked about the reason for the disapproval of urinating in a hole. He replied: It is said that these (holes) are the habitats of the jinn."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ مُحَمَّدٍ النَّاقِدُ، حَدَّثَنَا هَاشِمُ بْنُ الْقَاسِمِ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ يُوسُفَ بْنِ أَبِي بُرْدَةَ، عَنْ أَبِيهِ، حَدَّثَتْنِي عَائِشَةُ، رضى الله عنها أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا خَرَجَ مِنَ الْغَائِطِ قَالَ ‏\n\"‏ غُفْرَانَكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "When the Prophet (ﷺ) came out of the privy, he used to say: \"Grant me Thy forgiveness.\""
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، وَمُوسَى بْنُ إِسْمَاعِيلَ، قَالاَ حَدَّثَنَا أَبَانُ، حَدَّثَنَا يَحْيَى، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا بَالَ أَحَدُكُمْ فَلاَ يَمَسَّ ذَكَرَهُ بِيَمِينِهِ وَإِذَا أَتَى الْخَلاَءَ فَلاَ يَتَمَسَّحْ بِيَمِينِهِ وَإِذَا شَرِبَ فَلاَ يَشْرَبْ نَفَسًا وَاحِدًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Qatadah:",
+        "text": "The Prophet (sal Allaahu alayhi wa sallam) said: When any one of you urinates, he must not touch his penis with his right hand,  and when he goes to relieve himself he must not wipe himself with his right hand (in the privy), and when he drinks, he must not drink in one breath."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ آدَمَ بْنِ سُلَيْمَانَ الْمِصِّيصِيُّ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، قَالَ حَدَّثَنِي أَبُو أَيُّوبَ، - يَعْنِي الإِفْرِيقِيَّ - عَنْ عَاصِمٍ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، وَمَعْبَدٍ، عَنْ حَارِثَةَ بْنِ وَهْبٍ الْخُزَاعِيِّ، قَالَ حَدَّثَتْنِي حَفْصَةُ، زَوْجُ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَجْعَلُ يَمِينَهُ لِطَعَامِهِ وَشَرَابِهِ وَثِيَابِهِ وَيَجْعَلُ شِمَالَهُ لِمَا سِوَى ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Hafsah, Ummul Mu'minin:",
+        "text": "The Prophet (ﷺ) used his right hand for taking his food and drink and used his left hand for other purposes."
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَبُو تَوْبَةَ الرَّبِيعُ بْنُ نَافِعٍ، حَدَّثَنِي عِيسَى بْنُ يُونُسَ، عَنِ ابْنِ أَبِي عَرُوبَةَ، عَنْ أَبِي مَعْشَرٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَائِشَةَ، قَالَتْ كَانَتْ يَدُ رَسُولِ اللَّهِ صلى الله عليه وسلم الْيُمْنَى لِطُهُورِهِ وَطَعَامِهِ وَكَانَتْ يَدُهُ الْيُسْرَى لِخَلاَئِهِ وَمَا كَانَ مِنْ أَذًى ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Prophet (ﷺ) used his right hand for getting water for ablution and taking food, and his left hand for his evacuation and for anything repugnant."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ بَزِيعٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ عَطَاءٍ، عَنْ سَعِيدٍ، عَنْ أَبِي مَعْشَرٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمَعْنَاهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Aishah, also reported a tradition bearing similar meaning through another chain of transmitters."
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنْ ثَوْرٍ، عَنِ الْحُصَيْنِ الْحُبْرَانِيِّ، عَنْ أَبِي سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنِ اكْتَحَلَ فَلْيُوتِرْ مَنْ فَعَلَ فَقَدْ أَحْسَنَ وَمَنْ لاَ فَلاَ حَرَجَ وَمَنِ اسْتَجْمَرَ فَلْيُوتِرْ مَنْ فَعَلَ فَقَدْ أَحْسَنَ وَمَنْ لاَ فَلاَ حَرَجَ وَمَنْ أَكَلَ فَمَا تَخَلَّلَ فَلْيَلْفِظْ وَمَا لاَكَ بِلِسَانِهِ فَلْيَبْتَلِعْ مَنْ فَعَلَ فَقَدْ أَحْسَنَ وَمَنْ لاَ فَلاَ حَرَجَ وَمَنْ أَتَى الْغَائِطَ فَلْيَسْتَتِرْ فَإِنْ لَمْ يَجِدْ إِلاَّ أَنْ يَجْمَعَ كَثِيبًا مِنْ رَمْلٍ فَلْيَسْتَدْبِرْهُ فَإِنَّ الشَّيْطَانَ يَلْعَبُ بِمَقَاعِدِ بَنِي آدَمَ مَنْ فَعَلَ فَقَدْ أَحْسَنَ وَمَنْ لاَ فَلاَ حَرَجَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ أَبُو عَاصِمٍ عَنْ ثَوْرٍ قَالَ حُصَيْنٌ الْحِمْيَرِيُّ وَرَوَاهُ عَبْدُ الْمَلِكِ بْنُ الصَّبَّاحِ عَنْ ثَوْرٍ فَقَالَ أَبُو سَعِيدٍ الْخَيْرُ ‏.‏ قَالَ أَبُو دَاوُدَ أَبُو سَعِيدٍ الْخَيْرُ هُوَ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: If anyone applies collyrium, he should do it an odd number of times. If he does so, he has done well; but if not, there is no harm. If anyone cleanses himself with pebbles, he should use an odd number. If he does so, he has done well; but if not, there is no harm. \n\n\n\n\n\nIf anyone eats, he should throw away what he removes with a toothpick and swallow what sticks to his tongue. If he does so, he has done well; if not, there is no harm. If anyone goes to relieve himself, he should conceal himself, and if all he can do is to collect a heap of send, he should sit with his back to it, for the devil makes sport with the posteriors of the children of Adam. If he does so, he has done well; but if not, there is no harm."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَزِيدُ بْنُ خَالِدِ بْنِ عَبْدِ اللَّهِ بْنِ مَوْهَبٍ الْهَمْدَانِيُّ، حَدَّثَنَا الْمُفَضَّلُ، - يَعْنِي ابْنَ فَضَالَةَ الْمِصْرِيَّ - عَنْ عَيَّاشِ بْنِ عَبَّاسٍ الْقِتْبَانِيِّ، أَنَّ شُيَيْمَ بْنَ بَيْتَانَ، أَخْبَرَهُ عَنْ شَيْبَانَ الْقِتْبَانِيِّ، قَالَ إِنَّ مَسْلَمَةَ بْنَ مُخَلَّدٍ اسْتَعْمَلَ رُوَيْفِعَ بْنَ ثَابِتٍ، عَلَى أَسْفَلِ الأَرْضِ ‏.‏ قَالَ شَيْبَانُ فَسِرْنَا مَعَهُ مِنْ كُومِ شَرِيكٍ إِلَى عَلْقَمَاءَ أَوْ مِنْ عَلْقَمَاءَ إِلَى كُومِ شَرِيكٍ - يُرِيدُ عَلْقَامَ - فَقَالَ رُوَيْفِعٌ إِنْ كَانَ أَحَدُنَا فِي زَمَنِ رَسُولِ اللَّهِ صلى الله عليه وسلم لَيَأْخُذُ نِضْوَ أَخِيهِ عَلَى أَنَّ لَهُ النِّصْفَ مِمَّا يَغْنَمُ وَلَنَا النِّصْفُ وَإِنْ كَانَ أَحَدُنَا لَيَطِيرُ لَهُ النَّصْلُ وَالرِّيشُ وَلِلآخَرِ الْقَدَحُ ‏.‏ ثُمَّ قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ يَا رُوَيْفِعُ لَعَلَّ الْحَيَاةَ سَتَطُولُ بِكَ بَعْدِي فَأَخْبِرِ النَّاسَ أَنَّهُ مَنْ عَقَدَ لِحْيَتَهُ أَوْ تَقَلَّدَ وَتَرًا أَوِ اسْتَنْجَى بِرَجِيعِ دَابَّةٍ أَوْ عَظْمٍ فَإِنَّ مُحَمَّدًا صلى الله عليه وسلم مِنْهُ بَرِيءٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ruwayfi' ibn Thabit:",
+        "text": "Shayban al-Qatbani reported that Maslamah ibn Mukhallad made Ruwayfi' ibn Thabit the governor of the lower parts (of Egypt). He added: We travelled with him from Kum Sharik to Alqamah or from Alqamah to Kum Sharik (the narrator doubts) for Alqam. \n\n\n\n\n\nRuwayfi' said: Any one of us would borrow a camel during the lifetime of the Prophet (ﷺ) from the other, on condition that he would give him half the booty, and the other half he would retain himself. \n\n\n\n\n\nFurther, one of us received an arrowhead and a feather, and the other an arrow-shaft as a share from the booty. \n\n\n\n\n\nHe then reported: The Messenger of Allah (ﷺ) said: You may live for a long time after I am gone, Ruwayfi', so, tell people that if anyone ties his beard or wears round his neck a string to ward off the evil eye, or cleanses himself with animal dung or bone, Muhammad has nothing to do with him."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا يَزِيدُ بْنُ خَالِدٍ، حَدَّثَنَا مُفَضَّلٌ، عَنْ عَيَّاشٍ، أَنَّ شُيَيْمَ بْنَ بَيْتَانَ، أَخْبَرَهُ بِهَذَا الْحَدِيثِ، أَيْضًا عَنْ أَبِي سَالِمٍ الْجَيْشَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، يَذْكُرُ ذَلِكَ وَهُوَ مَعَهُ مُرَابِطٌ بِحِصْنِ بَابِ أَلْيُونَ ‏.‏ قَالَ أَبُو دَاوُدَ حِصْنُ أَلْيُونَ عَلَى جَبَلٍ بِالْفُسْطَاطِ ‏.‏ قَالَ أَبُو دَاوُدَ وَهُوَ شَيْبَانُ بْنُ أُمَيَّةَ يُكْنَى أَبَا حُذَيْفَةَ ‏.‏",
+      "english": {
+        "narrator": "This tradition has also been narrated by Abu Salim al-Jaishani on the authority of 'Abd Allaah b. 'Amr. He narrated this tradition at the time when he besieged the fort  at the gate of Alyun.\n\n\nAbu Dawud said:",
+        "text": "The fort of Alyun lies at the mountain in Fustat. Abu Dawud said: The kunyah (surname) of Shaiban b. Umayyah is Abu Hudhaifah."
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا زَكَرِيَّا بْنُ إِسْحَاقَ، حَدَّثَنَا أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ نَهَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ نَتَمَسَّحَ بِعَظْمٍ أَوْ بَعْرٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir b. 'Abd Allaah:",
+        "text": "The Apostle of Allaah ( sal Allaahu alayhi wa sallam ) forbade us to use a bone or dung for wiping."
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ الْحِمْصِيُّ، حَدَّثَنَا ابْنُ عَيَّاشٍ، عَنْ يَحْيَى بْنِ أَبِي عَمْرٍو السَّيْبَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ الدَّيْلَمِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَدِمَ وَفْدُ الْجِنِّ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالُوا يَا مُحَمَّدُ انْهَ أُمَّتَكَ أَنْ يَسْتَنْجُوا بِعَظْمٍ أَوْ رَوْثَةٍ أَوْ حُمَمَةٍ فَإِنَّ اللَّهَ تَعَالَى جَعَلَ لَنَا فِيهَا رِزْقًا ‏.‏ قَالَ فَنَهَى النَّبِيُّ صلى الله عليه وسلم عَنْ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah ibn Mas'ud:",
+        "text": "A deputation of the jinn came to the Prophet (ﷺ) and said: O Muhammad, forbid your community to cleans themselves with a bone or dung or charcoal, for in them Allah has provided sustenance for us.  So the Prophet (ﷺ) forbade them to do so."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي حَازِمٍ، عَنْ مُسْلِمِ بْنِ قُرْطٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا ذَهَبَ أَحَدُكُمْ إِلَى الْغَائِطِ فَلْيَذْهَبْ مَعَهُ بِثَلاَثَةِ أَحْجَارٍ يَسْتَطِيبُ بِهِنَّ فَإِنَّهَا تُجْزِئُ عَنْهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Messenger of Allah (ﷺ) said: When any of you goes to relieve himself, he should take with him three stones to cleans himself, for they will be enough for him."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ عَمْرِو بْنِ خُزَيْمَةَ، عَنْ عُمَارَةَ بْنِ خُزَيْمَةَ، عَنْ خُزَيْمَةَ بْنِ ثَابِتٍ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ الاِسْتِطَابَةِ فَقَالَ ‏\n\"‏ بِثَلاَثَةِ أَحْجَارٍ لَيْسَ فِيهَا رَجِيعٌ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ كَذَا رَوَاهُ أَبُو أُسَامَةَ وَابْنُ نُمَيْرٍ عَنْ هِشَامٍ يَعْنِي ابْنَ عُرْوَةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Khuzaymah ibn Thabit:",
+        "text": "The Prophet (ﷺ) was asked about cleansing (after relieving oneself). He said: (One should cleanse oneself) with three stones which should be free from dung.\n\n\nAbu Dawud said: A similar tradition has been narrated by Abu Usamah and Ibn Numair from Hisham."
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَخَلَفُ بْنُ هِشَامٍ الْمُقْرِئُ، قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَحْيَى التَّوْأَمُ، ح وَحَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، قَالَ أَخْبَرَنَا أَبُو يَعْقُوبَ التَّوْأَمُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي مُلَيْكَةَ، عَنْ أُمِّهِ، عَنْ عَائِشَةَ، قَالَتْ بَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَامَ عُمَرُ خَلْفَهُ بِكُوزٍ مِنْ مَاءٍ فَقَالَ ‏\"‏ مَا هَذَا يَا عُمَرُ ‏\"‏ ‏.‏ فَقَالَ هَذَا مَاءٌ تَتَوَضَّأُ بِهِ ‏.‏ قَالَ ‏\"‏ مَا أُمِرْتُ كُلَّمَا بُلْتُ أَنْ أَتَوَضَّأَ وَلَوْ فَعَلْتُ لَكَانَتْ سُنَّةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Prophet (ﷺ) urinated and Umar was standing behind him with a jug of water. He said: What is this, Umar? He replied: Water for you to perform ablution with. He said: I have not been commanded to perform ablution every time I urinate. If I were to do so, it would become a sunnah."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، عَنْ خَالِدٍ، - يَعْنِي الْوَاسِطِيَّ - عَنْ خَالِدٍ، - يَعْنِي الْحَذَّاءَ - عَنْ عَطَاءِ بْنِ أَبِي مَيْمُونَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم دَخَلَ حَائِطًا وَمَعَهُ غُلاَمٌ مَعَهُ مِيضَأَةٌ وَهُوَ أَصْغَرُنَا فَوَضَعَهَا عِنْدَ السِّدْرَةِ فَقَضَى حَاجَتَهُ فَخَرَجَ عَلَيْنَا وَقَدِ اسْتَنْجَى بِالْمَاءِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas b. Malik :",
+        "text": "The Apostle of Allaah ( sal Allaahu alayhi wa sallam ) entered a park. He was accompanied by a boy who had a jug of water with him. He was the youngest of us. He placed it near the lote-tree. He ( the Prophet, sal Allaahu alayhi wa sallam ) relieved himself. He came to us after he had cleansed himself with water."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، أَخْبَرَنَا مُعَاوِيَةُ بْنُ هِشَامٍ، عَنْ يُونُسَ بْنِ الْحَارِثِ، عَنْ إِبْرَاهِيمَ بْنِ أَبِي مَيْمُونَةَ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ نَزَلَتْ هَذِهِ الآيَةُ فِي أَهْلِ قُبَاءَ ‏{‏ فِيهِ رِجَالٌ يُحِبُّونَ أَنْ يَتَطَهَّرُوا ‏}‏ قَالَ كَانُوا يَسْتَنْجُونَ بِالْمَاءِ فَنَزَلَتْ فِيهِمْ هَذِهِ الآيَةُ ‏.‏",
+      "english": {
+        "narrator": "Narrated AbuHurayrah:",
+        "text": "The Prophet (ﷺ) said: The following verse was revealed in connection with the people of Quba': \"In it are men who love to be purified\" (ix.108). He (AbuHurayrah) said: They used to cleanse themselves with water after easing. So the verse was revealed in connection with them."
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ خَالِدٍ، حَدَّثَنَا أَسْوَدُ بْنُ عَامِرٍ، حَدَّثَنَا شَرِيكٌ، وَهَذَا، لَفْظُهُ ح وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ، - يَعْنِي الْمُخَرِّمِيَّ - حَدَّثَنَا وَكِيعٌ، عَنْ شَرِيكٍ، عَنْ إِبْرَاهِيمَ بْنِ جَرِيرٍ، عَنِ الْمُغِيرَةِ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَتَى الْخَلاَءَ أَتَيْتُهُ بِمَاءٍ فِي تَوْرٍ أَوْ رَكْوَةٍ فَاسْتَنْجَى ‏.‏ قَالَ أَبُو دَاوُدَ فِي حَدِيثِ وَكِيعٍ ثُمَّ مَسَحَ يَدَهُ عَلَى الأَرْضِ ثُمَّ أَتَيْتُهُ بِإِنَاءٍ آخَرَ فَتَوَضَّأَ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ الأَسْوَدِ بْنِ عَامِرٍ أَتَمُّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurayrah :",
+        "text": "When the Prophet (sal Allaahu alayhi wa sallam ) went to the privy, I took to him water in a small vessel  or a skin, and he cleansed himself. He then wiped his hand on the ground. I then took to him another vessel  and he performed ablution.\n\n\nAbu Dawud said : The tradition is transmitted by al-Aswad b. 'Amir is more perfect."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ سُفْيَانَ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، يَرْفَعُهُ قَالَ ‏\n\"‏ لَوْلاَ أَنْ أَشُقَّ، عَلَى الْمُؤْمِنِينَ لأَمَرْتُهُمْ بِتَأْخِيرِ الْعِشَاءِ وَبِالسِّوَاكِ عِنْدَ كُلِّ صَلاَةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurayrah :",
+        "text": "(the Prophet, sal Allaahu alayhi wa sallam ) as saying : Were it not that I might oeverburdern the believers, I would order them to delay the night ('isha ) prayer and use the tooth-stick at the time of every prayer."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي لأَمَرْتُهُمْ بِالسِّوَاكِ عِنْدَ كُلِّ صَلاَةٍ ‏\"‏ ‏.‏ قَالَ أَبُو سَلَمَةَ فَرَأَيْتُ زَيْدًا يَجْلِسُ فِي الْمَسْجِدِ وَإِنَّ السِّوَاكَ مِنْ أُذُنِهِ مَوْضِعُ الْقَلَمِ مِنْ أُذُنِ الْكَاتِبِ فَكُلَّمَا قَامَ إِلَى الصَّلاَةِ اسْتَاكَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Zayd ibn Khalid al-Juhani:",
+        "text": "I heard the Messenger of Allah (ﷺ) say: Were it not hard on my ummah, I would order them to use the tooth-stick at the time of every prayer. AbuSalamah said: Zayd ibn Khalid used to attend the prayers in the mosque with his tooth-stick on his ear where a clerk carries a pen, and whenever he got up for prayer he used it."
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَوْفٍ الطَّائِيُّ، حَدَّثَنَا أَحْمَدُ بْنُ خَالِدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قُلْتُ أَرَأَيْتَ تَوَضُّؤَ ابْنِ عُمَرَ لِكُلِّ صَلاَةٍ طَاهِرًا وَغَيْرَ طَاهِرٍ عَمَّ ذَاكَ فَقَالَ حَدَّثَتْنِيهِ أَسْمَاءُ بِنْتُ زَيْدِ بْنِ الْخَطَّابِ أَنَّ عَبْدَ اللَّهِ بْنَ حَنْظَلَةَ بْنِ أَبِي عَامِرٍ حَدَّثَهَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُمِرَ بِالْوُضُوءِ لِكُلِّ صَلاَةٍ طَاهِرًا وَغَيْرَ طَاهِرٍ فَلَمَّا شَقَّ ذَلِكَ عَلَيْهِ أُمِرَ بِالسِّوَاكِ لِكُلِّ صَلاَةٍ فَكَانَ ابْنُ عُمَرَ يَرَى أَنَّ بِهِ قُوَّةً فَكَانَ لاَ يَدَعُ الْوُضُوءَ لِكُلِّ صَلاَةٍ ‏.‏ قَالَ أَبُو دَاوُدَ إِبْرَاهِيمُ بْنُ سَعْدٍ رَوَاهُ عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ قَالَ عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abdullah b. 'Abd Allah b. 'Umar:",
+        "text": "Muhammad ibn Yahya ibn Habban asked Abdullah ibn Abdullah ibn Umar about the reason for Ibn Umar's performing ablution for every prayer, whether he was with or without ablution. \n\n\n\n\n\nHe replied: Asma', daughter of Zayd ibn al-Khattab, reported to me that Abdullah ibn Hanzalah ibn AbuAmir narrated to her that the Messenger of Allah (ﷺ) was earlier commanded to perform ablution for every prayer whether or not he was with ablution. \n\n\n\n\n\nWhen it became a burden for him, he was ordered to use tooth-stick for every prayer. As Ibn Umar thought that he had the strength (to perform the ablution for every prayer), he did not give up performing ablution for every prayer.\n\n\n\nAbu Dawud said: Ibrahim b. Sa'd narrated this tradition on the authority of Muhammad b. Ishaq, and there he mentions the name of 'Ubaid Allah b. 'Abd Allah (instead of 'Abd Allah b. 'Abd Allah b. 'Umar)"
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، وَسُلَيْمَانُ بْنُ دَاوُدَ الْعَتَكِيُّ، قَالاَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ غَيْلاَنَ بْنِ جَرِيرٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِيهِ، قَالَ مُسَدَّدٌ قَالَ أَتَيْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم نَسْتَحْمِلُهُ فَرَأَيْتُهُ يَسْتَاكُ عَلَى لِسَانِهِ - قَالَ أَبُو دَاوُدَ وَقَالَ سُلَيْمَانُ قَالَ دَخَلْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ يَسْتَاكُ وَقَدْ وَضَعَ السِّوَاكَ عَلَى طَرَفِ لِسَانِهِ - وَهُوَ يَقُولُ ‏\n\"‏ إِهْ إِهْ ‏\"‏ ‏.‏ يَعْنِي يَتَهَوَّعُ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ مُسَدَّدٌ فَكَانَ حَدِيثًا طَوِيلاً اخْتَصَرْتُهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Burdah:",
+        "text": "On the authority of his father ( Abu Musa al-Ash'ari), reported (according to the version of Musaddad) : We came to the Apostle of Allaah (sal Allaahu alayhi wa sallam) to provide us with a mount, and found him using the tooth-stick, its one end being at his tongue (i.e. he wsa rinsing his mouth).\n\n\nAccording to the version of Sulaiman it goes : I entered upon the Prophet (sal Allaahu alayhi wa sallam ) who was using the tooth-stick, and had it placed at one side of his tongue, producing a gurgling sound.\n\n\nAbu Dawud said : Musaddad said that the tradition was a lengthy but he shortened it."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 1,
+      "bookId": 3,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا عَنْبَسَةُ بْنُ عَبْدِ الْوَاحِدِ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَسْتَنُّ وَعِنْدَهُ رَجُلاَنِ أَحَدُهُمَا أَكْبَرُ مِنَ الآخَرِ فَأُوحِيَ إِلَيْهِ فِي فَضْلِ السِّوَاكِ ‏\n\"‏ أَنْ كَبِّرْ ‏\"‏ ‏.‏ أَعْطِ السِّوَاكَ أَكْبَرَهُمَا ‏.‏ قَالَ أَحْمَدُ - هُوَ ابْنُ حَزْمٍ - قَالَ لَنَا أَبُو سَعِيدٍ هُوَ ابْنُ الأَعْرَابِيِّ هَذَا مِمَّا تَفَرَّدَ بِهِ أَهْلُ الْمَدِينَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha, Ummul Mu'minin:",
+        "text": "The Messenger of Allah (ﷺ) was using the tooth-stick, when two men, one older than the other, were with him. A revelation came to him about the merit of using the tooth-stick. He was asked to show proper respect and give it to the elder of the two."
+      }
+    }
+  ]
+}

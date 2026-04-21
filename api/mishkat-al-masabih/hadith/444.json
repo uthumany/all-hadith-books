@@ -1,0 +1,16 @@
+{
+  "id": 444,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ (السَّجْدَةَ)\nوَنَحْنُ عِنْدَهُ فَيَسْجُدُ وَنَسْجُدُ مَعَهُ فَنَزْدَحِمُ حَتَّى مَا يَجِدُ أَحَدُنَا لِجَبْهَتِهِ مَوْضِعًا يَسْجُدُ عَلَيْهِ",
+  "english": {
+    "narrator": "Ibn ‘Umar said:",
+    "text": "God’s Messenger was reciting as-Sajda (Al-Qur’an; 32) when we were with him. He was prostrating himself and we were doing so along with him, but we were so crowded that none of us could find a place for his forehead when prostrating himself. \n\n(Bukhari and Muslim.)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "page": 58,
+  "perPage": 50,
+  "totalPages": 116,
+  "totalCount": 5768,
+  "nextPage": 59,
+  "prevPage": 57,
+  "items": [
+    {
+      "id": 228,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم احْتَجَمَ وَهُوَ مُحْرِمٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Abbas:",
+        "text": "That the Messenger of Allah was treated by means of cupping when he was in Ihram."
+      }
+    },
+    {
+      "id": 229,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، وَعَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم احْتَجَمَ وَهُوَ مُحْرِمٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Abbas that:",
+        "text": "The Prophet was treated by means of cupping when he was Ihram."
+      }
+    },
+    {
+      "id": 230,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، عَنْ سُفْيَانَ، قَالَ أَنْبَأَنَا عَمْرُو بْنُ دِينَارٍ، قَالَ سَمِعْتُ عَطَاءً، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ احْتَجَمَ النَّبِيُّ صلى الله عليه وسلم وَهُوَ مُحْرِمٌ ‏.‏ ثُمَّ قَالَ بَعْدُ أَخْبَرَنِي طَاوُسٌ عَنِ ابْنِ عَبَّاسٍ يَقُولُ احْتَجَمَ النَّبِيُّ صلى الله عليه وسلم وَهُوَ مُحْرِمٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Abbas said:",
+        "text": "\"Prophet was treated by means of cupping when he was in Ihram.\""
+      }
+    },
+    {
+      "id": 231,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم احْتَجَمَ وَهُوَ مُحْرِمٌ مِنْ وَثْءٍ كَانَ بِهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir:",
+        "text": "That the Prophet was treated by means of cupping when he was in Ihram for a contusion that he had suffered. (Diaf)"
+      }
+    },
+    {
+      "id": 232,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم احْتَجَمَ وَهُوَ مُحْرِمٌ عَلَى ظَهْرِ الْقَدَمِ مِنْ وَثْءٍ كَانَ بِهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Anas:",
+        "text": "That the Messenger of Allah was treated by means of cupping when he was in Ihram on the top of the foot for contusion that he had suffered. (Daif)"
+      }
+    },
+    {
+      "id": 233,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي هِلاَلُ بْنُ بِشْرٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدٍ، - وَهُوَ ابْنُ عَثْمَةَ - قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، قَالَ قَالَ عَلْقَمَةُ بْنُ أَبِي عَلْقَمَةَ أَنَّهُ سَمِعَ الأَعْرَجَ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ ابْنَ بُحَيْنَةَ، يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم احْتَجَمَ وَسَطَ رَأْسِهِ وَهُوَ مُحْرِمٌ بِلَحْىِ جَمَلٍ مِنْ طَرِيقِ مَكَّةَ ‏.‏",
+      "english": {
+        "narrator": "Abdullah bin Buhayanah narrated:",
+        "text": "That the Messenger of Allah was treated by means of cupping in the middle of his head, when he was in Ihram, in Lahi Jamal, on the road to Makkah."
+      }
+    },
+    {
+      "id": 234,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ الْكَرِيمِ بْنِ مَالِكٍ الْجَزَرِيِّ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ كَعْبِ بْنِ عُجْرَةَ، أَنَّهُ كَانَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مُحْرِمًا فَآذَاهُ الْقَمْلُ فِي رَأْسِهِ فَأَمَرَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَحْلِقَ رَأْسَهُ وَقَالَ ‏\n\"‏ صُمْ ثَلاَثَةَ أَيَّامٍ أَوْ أَطْعِمْ سِتَّةَ مَسَاكِينَ مُدَّيْنِ مُدَّيْنِ أَوِ انْسُكْ شَاةً أَىَّ ذَلِكَ فَعَلْتَ أَجْزَأَ عَنْكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Kab bin Ujra:",
+        "text": "That he was with the Messenger of Allah in Ihram and he suffered an infestation of head lice. The Messenger of Allah commanded him to shave his head and told him: \"Fast for three days, or fed six poor persons two Mudds earch, or sacrifice a sheep. Whichever one of these you do will be sufficient for you.'\""
+      }
+    },
+    {
+      "id": 235,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي أَحْمَدُ بْنُ سَعِيدٍ الرِّبَاطِيُّ، قَالَ أَنْبَأَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ، - وَهُوَ الدَّشْتَكِيُّ - قَالَ أَنْبَأَنَا عَمْرٌو، - وَهُوَ ابْنُ أَبِي قَيْسٍ - عَنِ الزُّبَيْرِ، - وَهُوَ ابْنُ عَدِيٍّ - عَنْ أَبِي وَائِلٍ، عَنْ كَعْبِ بْنِ عُجْرَةَ، قَالَ أَحْرَمْتُ فَكَثُرَ قَمْلُ رَأْسِي فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَأَتَانِي وَأَنَا أَطْبُخُ قِدْرًا لأَصْحَابِي فَمَسَّ رَأْسِي بِأُصْبُعِهِ فَقَالَ ‏\n\"‏ انْطَلِقْ فَاحْلِقْهُ وَتَصَدَّقْ عَلَى سِتَّةِ مَسَاكِينَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Kab bin Ujrah said:",
+        "text": "\"I entered Ihram, then I had a severe infestation of head lice. News of that reached Prophet, and he came to me when I was cooking something in a pot for my companions, he touched my head with his finger and said: 'Go and shave it, and give charity to six poor persions.'\"."
+      }
+    },
+    {
+      "id": 236,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَنْبَأَنَا أَبُو بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، كَانَ مَعَ النَّبِيِّ صلى الله عليه وسلم فَوَقَصَتْهُ نَاقَتُهُ وَهُوَ مُحْرِمٌ فَمَاتَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اغْسِلُوهُ بِمَاءٍ وَسِدْرٍ وَكَفِّنُوهُ فِي ثَوْبَيْهِ وَلاَ تُمِسُّوهُ بِطِيبٍ وَلاَ تُخَمِّرُوا رَأْسَهُ فَإِنَّهُ يُبْعَثُ يَوْمَ الْقِيَامَةِ مُلَبِّيًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Abbas:",
+        "text": "That a man was with the Messenger of Allah, and his she-camel broke his neck when he was in Ihra, and he died. The Messenger of all said, Wash him with water and lote leaves, and shroud him in his two garments, and do not put any perfume on him or cover his head, for he will be raised on the Day of Resurrection reciting the Talbiyah.\"."
+      }
+    },
+    {
+      "id": 237,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، مُحْرِمًا صُرِعَ عَنْ نَاقَتِهِ، فَأُوقِصَ ذُكِرَ أَنَّهُ قَدْ مَاتَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ اغْسِلُوهُ بِمَاءٍ وَسِدْرٍ وَكَفِّنُوهُ فِي ثَوْبَيْنِ ‏\"‏ ‏.‏ ثُمَّ قَالَ عَلَى إِثْرِهِ ‏\"‏ خَارِجًا رَأْسُهُ ‏\"‏ ‏.‏ قَالَ ‏\"‏ وَلاَ تُمِسُّوهُ طِيبًا فَإِنَّهُ يُبْعَثُ يَوْمَ الْقِيَامَةِ مُلَبِّيًا ‏\"‏ ‏.‏ قَالَ شُعْبَةُ فَسَأَلْتُهُ بَعْدَ عَشْرِ سِنِينَ فَجَاءَ بِالْحَدِيثِ كَمَا كَانَ يَجِيءُ بِهِ إِلاَّ أَنَّهُ قَالَ ‏\"‏ وَلاَ تُخَمِّرُوا وَجْهَهُ وَرَأْسَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Abbas:",
+        "text": "That a man in Ihram was thrown by his she-camel and his neck was broken. It was said that he had died, so the Prophet said: \"Wash him with water and lotus leaves, and shroud him in two cloths.\" Then he said: \"Do not put any perfume on him for he will be raised on the Day of Resurrection reciting the Talbiyah.\" Shubah said: \"Ten years later, I asked him (the narrator Abu Bishr) anbut that, and he narrated the Hadith as he had the first time, except that he said: 'And do not cover his face and head.'\"."
+      }
+    },
+    {
+      "id": 238,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ بَيْنَا رَجُلٌ وَاقِفٌ بِعَرَفَةَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذْ وَقَعَ مِنْ رَاحِلَتِهِ فَأَقْعَصَهُ - أَوْ قَالَ فَأَقْعَصَتْهُ - فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اغْسِلُوهُ بِمَاءٍ وَسِدْرٍ وَكَفِّنُوهُ فِي ثَوْبَيْنِ وَلاَ تُحَنِّطُوهُ وَلاَ تُخَمِّرُوا رَأْسَهُ فَإِنَّ اللَّهَ عَزَّ وَجَلَّ يَبْعَثُهُ يَوْمَ الْقِيَامَةِ مُلَبِّيًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Abbas said:",
+        "text": "\"While a man was standing in Arafat with the Messenger of Allah, he fell from his mount and it killed him. The Messenger of Allah said: 'Wash him with water and lotus leaves, and shroud him in two cloths. Do not apply aromatics to him or cover his head, for Allah, the Might and Sublime, wil raise him on the Day of Resurrection reciting the Talbiyah.'\"."
+      }
+    },
+    {
+      "id": 239,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ قُدَامَةَ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنِ الْحَكَمِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ وَقَصَتْ رَجُلاً مُحْرِمًا نَاقَتُهُ فَقَتَلَتْهُ فَأُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ اغْسِلُوهُ وَكَفِّنُوهُ وَلاَ تُغَطُّوا رَأْسَهُ وَلاَ تُقَرِّبُوهُ طِيبًا فَإِنَّهُ يُبْعَثُ يُهِلُّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Abbas said:",
+        "text": "\"The she-Camel of a ma in Ihram broke his neck and killed him. He was brought to the Messenger of Allah and he said 'Wash him and shroud him, and do not cover his head, or bring any perfume near him, for he will be raisd reciting Talbiyah.'\" (Sahih)\nDies"
+      }
+    },
+    {
+      "id": 240,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُعَاوِيَةَ، قَالَ حَدَّثَنَا خَلَفٌ، - يَعْنِي ابْنَ خَلِيفَةَ - عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، كَانَ حَاجًّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَنَّهُ لَفَظَهُ بَعِيرُهُ فَمَاتَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ يُغَسَّلُ وَيُكَفَّنُ فِي ثَوْبَيْنِ وَلاَ يُغَطَّى رَأْسُهُ وَوَجْهُهُ فَإِنَّهُ يَقُومُ يَوْمَ الْقِيَامَةِ مُلَبِّيًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Abbas that:",
+        "text": "a man was performing Hajj with the Messenger of Allah and his she-camel threw him and he died. The Messenger of Allah said: \"Wash him and shroud him in two garments, and do not cover his head of his face, for he will be raised on the Day of Resurrection reciting Talbiyah.\"."
+      }
+    },
+    {
+      "id": 241,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عِمْرَانُ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا شُعَيْبُ بْنُ إِسْحَاقَ، قَالَ أَخْبَرَنِي ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ، أَنَّ سَعِيدَ بْنَ جُبَيْرٍ، أَخْبَرَهُ أَنَّ ابْنَ عَبَّاسٍ أَخْبَرَهُ قَالَ أَقْبَلَ رَجُلٌ حَرَامًا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَخَرَّ مِنْ فَوْقِ بَعِيرِهِ فَوُقِصَ وَقْصًا فَمَاتَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اغْسِلُوهُ بِمَاءٍ وَسِدْرٍ وَأَلْبِسُوهُ ثَوْبَيْهِ وَلاَ تُخَمِّرُوا رَأْسَهُ فَإِنَّهُ يَأْتِي يَوْمَ الْقِيَامَةِ يُلَبِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Abbas said:",
+        "text": "\"A man in Ihram came with the Messenger of Allah and fell from atop his camel, breaking his neck, and he died. The Messenger of Allah said: 'Wash him with water and lotus leaves, and wrap him in his two garments. But do not cover his head, for he will be raised on the Day of Resurrection reciting the Talbiyah.'\""
+      }
+    },
+    {
+      "id": 242,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ الْمُقْرِئُ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عَبْدِ اللَّهِ، وَسَالِمَ بْنَ عَبْدِ اللَّهِ، أَخْبَرَاهُ أَنَّهُمَا، كَلَّمَا عَبْدَ اللَّهِ بْنَ عُمَرَ لَمَّا نَزَلَ الْجَيْشُ بِابْنِ الزُّبَيْرِ قَبْلَ أَنْ يُقْتَلَ فَقَالاَ لاَ يَضُرُّكَ أَنْ لاَ تَحُجَّ الْعَامَ إِنَّا نَخَافُ أَنْ يُحَالَ بَيْنَكَ وَبَيْنَ الْبَيْتِ ‏.‏ قَالَ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَحَالَ كُفَّارُ قُرَيْشٍ دُونَ الْبَيْتِ فَنَحَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم هَدْيَهُ وَحَلَقَ رَأْسَهُ وَأُشْهِدُكُمْ أَنِّي قَدْ أَوْجَبْتُ عُمْرَةً إِنْ شَاءَ اللَّهُ أَنْطَلِقُ فَإِنْ خُلِّيَ بَيْنِي وَبَيْنَ الْبَيْتِ طُفْتُ وَإِنْ حِيلَ بَيْنِي وَبَيْنَ الْبَيْتِ فَعَلْتُ مَا فَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَنَا مَعَهُ ‏.‏ ثُمَّ سَارَ سَاعَةً ثُمَّ قَالَ فَإِنَّمَا شَأْنُهُمَا وَاحِدٌ أُشْهِدُكُمْ أَنِّي قَدْ أَوْجَبْتُ حَجَّةً مَعَ عُمْرَتِي ‏.‏ فَلَمْ يَحْلِلْ مِنْهُمَا حَتَّى أَحَلَّ يَوْمَ النَّحْرِ وَأَهْدَى ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Nafi that:",
+        "text": "Abdulla bin Abdullah and salim bin Abdullah bin Umar when the army besiged Ibn Az-Zubair before he was killed. They said: \"It does not matter if you do not perform Hajj this year; we are afraid lest we are prevented from reaching the House.\" He Sadi: we went out with the Messenger of Allah and the disbelievers of the Quraish prevented us from reaching the House. So the Messenger of Allah slaughtered his Hadi and shave his head. I ask you to bear witness that I have resolved to peform Umrah. If Allah wills I will set out and if I am allowed to reach the House I will circumambulate it, and if I am prevented from reaching the House I will do what the Messenger of Allah did when I was with him.\" Then he traveled for a while, then he said: \"They are both the same. I ask you to bear witness that I have resolved to perform Hajj as well as Umrah. And he did not exit Ihram for either until he exited Ihram on the Day of Sacrifice and offered his Hadi."
+      }
+    },
+    {
+      "id": 243,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ الْبَصْرِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ، - وَهُوَ ابْنُ حَبِيبٍ - عَنِ الْحَجَّاجِ الصَّوَّافِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عِكْرِمَةَ، عَنِ الْحَجَّاجِ بْنِ عَمْرٍو الأَنْصَارِيِّ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ عَرِجَ أَوْ كُسِرَ فَقَدْ حَلَّ وَعَلَيْهِ حَجَّةٌ أُخْرَى ‏\"‏ ‏.‏ فَسَأَلْتُ ابْنَ عَبَّاسٍ وَأَبَا هُرَيْرَةَ عَنْ ذَلِكَ فَقَالاَ صَدَقَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ikrimah, from Al-Hajjaj bin Amr Al-Ansari that:",
+        "text": "he heard the Messenger of Allah say \"Whoever suffers a leg injury of breaks his leg, he has exited Ihram, but he has to perform another Hajj.\" I asked Ibn Abbas and Abu Hurarirah about that and he said \"He spoke the truth.\""
+      }
+    },
+    {
+      "id": 244,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا شُعَيْبُ بْنُ يُوسُفَ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ حَجَّاجِ بْنِ الصَّوَّافِ، قَالَ حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ عِكْرِمَةَ، عَنِ الْحَجَّاجِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ كُسِرَ أَوْ عَرِجَ فَقَدْ حَلَّ وَعَلَيْهِ حَجَّةٌ أُخْرَى ‏\"‏ ‏.‏ وَسَأَلْتُ ابْنَ عَبَّاسٍ وَأَبَا هُرَيْرَةَ فَقَالاَ صَدَقَ ‏.‏ وَقَالَ شُعَيْبٌ فِي حَدِيثِهِ وَعَلَيْهِ الْحَجُّ مِنْ قَابِلٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ikramah, from Al-Hajja bin Amr that the Prophet said:",
+        "text": "\"Whoever breaks his leg or suffers a leg injury, then he has exited Ihram, but he has to perform another Hajj.\" I asked Ibn 'Abbas and Abu Hurairah and the said: \"He spoke the thurth.\" And in his narration (one of the narrators) shuaib said: \"He has to perfom Hajj the following year.\""
+      }
+    },
+    {
+      "id": 245,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَبْدَةُ بْنُ عَبْدِ اللَّهِ، قَالَ أَنْبَأَنَا سُوَيْدٌ، قَالَ حَدَّثَنَا زُهَيْرٌ، قَالَ حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، قَالَ حَدَّثَنِي نَافِعٌ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَنْزِلُ بِذِي طُوًى يَبِيتُ بِهِ حَتَّى يُصَلِّيَ صَلاَةَ الصُّبْحِ حِينَ يَقْدَمُ إِلَى مَكَّةَ وَمُصَلَّى رَسُولِ اللَّهِ صلى الله عليه وسلم ذَلِكَ عَلَى أَكَمَةٍ غَلِيظَةٍ لَيْسَ فِي الْمَسْجِدِ الَّذِي بُنِيَ ثَمَّ وَلَكِنْ أَسْفَلَ مِنْ ذَلِكَ عَلَى أَكَمَةٍ خَشِنَةٍ غَلِيظَةٍ ‏.‏",
+      "english": {
+        "narrator": "Ibn Umar narrated that:",
+        "text": "the Messenger of Allah used to dismount at Dhu Tuwa and stay there overnight unitl he prayed Subh when he was approaching Makkah. The place where the Messenger of Allah prayed was on top of the big hillock and not in the Masjid that was built later on, but it was lower than that, on top of the big hillock."
+      }
+    },
+    {
+      "id": 246,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي عِمْرَانُ بْنُ يَزِيدَ، عَنْ شُعَيْبٍ، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي مُزَاحِمُ بْنُ أَبِي مُزَاحِمٍ، عَنْ عَبْدِ الْعَزِيزِ بْنِ عَبْدِ اللَّهِ، عَنْ مُحَرِّشٍ الْكَعْبِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَرَجَ لَيْلاً مِنَ الْجِعِرَّانَةِ حِينَ مَشَى مُعْتَمِرًا فَأَصْبَحَ بِالْجِعِرَّانَةِ كَبَائِتٍ حَتَّى إِذَا زَالَتِ الشَّمْسُ خَرَجَ عَنِ الْجِعِرَّانَةِ فِي بَطْنِ سَرِفَ حَتَّى جَامَعَ الطَّرِيقَ طَرِيقَ الْمَدِينَةِ مِنْ سَرِفَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Muhaarish Al-Kabi, that:",
+        "text": "the Prophet went out a night from Al-Jirranah when he set out for Umrah, and came back to Al-Jirranah when he set out for Umrah, and came back to Al-Jirranah in the morning, as if he had stayed there. Then, when the sun had passed its zenith he went out from Al-Jirranah in the valley of Sarif until the road joined the road to Al-Madinah from Sarif."
+      }
+    },
+    {
+      "id": 247,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ سُفْيَانَ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ مُزَاحِمٍ، عَنْ عَبْدِ الْعَزِيزِ بْنِ عَبْدِ اللَّهِ بْنِ خَالِدِ بْنِ أَسِيدٍ، عَنْ مُحَرِّشٍ الْكَعْبِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَرَجَ مِنَ الْجِعِرَّانَةِ لَيْلاً كَأَنَّهُ سَبِيكَةُ فِضَّةٍ فَاعْتَمَرَ ثُمَّ أَصْبَحَ بِهَا كَبَائِتٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Muharrish Al-Kabi that:",
+        "text": "the Prophet set out from Al-Jirranah at night as if he were an ingot of silver (i.e., in whiteness and purity) and perfomed Umrah, then he came back in the mooring as if he had stayed there overnight."
+      }
+    },
+    {
+      "id": 248,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم دَخَلَ مَكَّةَ مِنَ الثَّنِيَّةِ الْعُلْيَا الَّتِي بِالْبَطْحَاءِ وَخَرَجَ مِنَ الثَّنِيَّةِ السُّفْلَى ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Umar that:",
+        "text": "the Messenger of Allah entered Makkah from the upper valley which is in Al-Batha and he left from the lower valley."
+      }
+    },
+    {
+      "id": 249,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا يَحْيَى بْنُ آدَمَ، قَالَ حَدَّثَنَا شَرِيكٌ، عَنْ عَمَّارٍ الدُّهْنِيِّ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، رضى الله عنه أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ مَكَّةَ وَلِوَاؤُهُ أَبْيَضُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir that:",
+        "text": "the Prophet enter Makkah and his standard was \nwhite."
+      }
+    },
+    {
+      "id": 250,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ مَكَّةَ وَعَلَيْهِ الْمِغْفَرُ فَقِيلَ ابْنُ خَطَلٍ مُتَعَلِّقٌ بِأَسْتَارِ الْكَعْبَةِ ‏.‏ فَقَالَ ‏\n\"‏ اقْتُلُوهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ansas that the Prophet entered Makkah wearing a helmet. It was said that Ibn Katal was haging on to the drapes of the Kabah and he said:",
+        "text": "\"Kill him.\""
+      }
+    },
+    {
+      "id": 251,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ فَضَالَةَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ مَكَّةَ عَامَ الْفَتْحِ وَعَلَى رَأْسِهِ الْمِغْفَرُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Anas that:",
+        "text": "the Prophet entered Makkah in the year of the Conquest wearing a helmet on his heard."
+      }
+    },
+    {
+      "id": 252,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمَّارٍ، قَالَ حَدَّثَنِي أَبُو الزُّبَيْرِ الْمَكِّيُّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ يَوْمَ فَتْحِ مَكَّةَ وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ بِغَيْرِ إِحْرَامٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "It was narrated from Jabir bin Abdulla that the Prophet entered on the day of the Conquest of Makkah wearing a back Imamah, without being in Ihram."
+      }
+    },
+    {
+      "id": 253,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، قَالَ حَدَّثَنَا حَبَّانُ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي الْعَالِيَةِ الْبَرَّاءِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَصْحَابُهُ لِصُبْحِ رَابِعَةٍ وَهُمْ يُلَبُّونَ بِالْحَجِّ فَأَمَرَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَحِلُّوا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Abbas said:",
+        "text": "\"The Messenger of Allah and his Companions came on the morning of the fourth day (of Dhul-Hijjah), reciting the Talbiyah for Hajj, and the Messenger of commanded them to exit Ihram\"."
+      }
+    },
+    {
+      "id": 254,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، عَنْ يَحْيَى بْنِ كَثِيرٍ أَبُو غَسَّانَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَيُّوبَ، عَنْ أَبِي الْعَالِيَةِ الْبَرَّاءِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم لأَرْبَعٍ مَضَيْنَ مِنْ ذِي الْحِجَّةِ وَقَدْ أَهَلَّ بِالْحَجِّ فَصَلَّى الصُّبْحَ بِالْبَطْحَاءِ وَقَالَ ‏\n\"‏ مَنْ شَاءَ أَنْ يَجْعَلَهَا عُمْرَةً فَلْيَفْعَلْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Abbas said:",
+        "text": "\"The Messenger of Allah came on the fourth day of Dhul-Hijjah having entered Ihram for Hajj. He prayed Subh in Al-Batha and said: 'Whoever wants to make it Umrah, let him do so.'\""
+      }
+    },
+    {
+      "id": 255,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عِمْرَانُ بْنُ يَزِيدَ، قَالَ أَنْبَأَنَا شُعَيْبٌ، عَنِ ابْنِ جُرَيْجٍ، قَالَ عَطَاءٌ قَالَ جَابِرٌ قَدِمَ النَّبِيُّ صلى الله عليه وسلم مَكَّةَ صَبِيحَةَ رَابِعَةٍ مَضَتْ مِنْ ذِي الْحِجَّةِ ‏.‏",
+      "english": {
+        "narrator": "Jabir said:",
+        "text": "\"The Prophet came to Makkah on the morning of the fourth of Dhul-Hijjah.\""
+      }
+    },
+    {
+      "id": 256,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَبُو عَاصِمٍ، خُشَيْشُ بْنُ أَصْرَمَ قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ مَكَّةَ فِي عُمْرَةِ الْقَضَاءِ وَعَبْدُ اللَّهِ بْنُ رَوَاحَةَ يَمْشِي بَيْنَ يَدَيْهِ وَهُوَ يَقُولُ خَلُّوا بَنِي الْكُفَّارِ عَنْ سَبِيلِهِ الْيَوْمَ نَضْرِبْكُمْ عَلَى تَنْزِيلِهِ ضَرْبًا يُزِيلُ الْهَامَ عَنْ مَقِيلِهِ وَيُذْهِلُ الْخَلِيلَ عَنْ خَلِيلِهِ فَقَالَ لَهُ عُمَرُ يَا ابْنَ رَوَاحَةَ بَيْنَ يَدَىْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَفِي حَرَمِ اللَّهِ عَزَّ وَجَلَّ تَقُولُ الشِّعْرَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ خَلِّ عَنْهُ فَلَهُوَ أَسْرَعُ فِيهِمْ مِنْ نَضْحِ النَّبْلِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Anas that:",
+        "text": "the Prophet entered Makkah during the Umratul-Qada, and Abdullah bin Rawahah was walking in front of him and saying:\nGet out of his way, you unbelievers, make way.\nToday we will fight about its revelation\nWith blows that will remove beads from shoulders\nAnd make friend unmindful of friends.\nUmar said to him: \"O Ibn Rawahah! In front of the Messenger of Allah and in the Sancturary of Allah, the Might and Sublime, you recite poetry?\" The Prophet said: \"Let him do so, for what he is saying is more effective than shooting arrows at them.\""
+      }
+    },
+    {
+      "id": 257,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ، عَنْ جَرِيرٍ، عَنْ مَنْصُورٍ، عَنْ مُجَاهِدٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ الْفَتْحِ ‏\"‏ هَذَا الْبَلَدُ حَرَّمَهُ اللَّهُ يَوْمَ خَلَقَ السَّمَوَاتِ وَالأَرْضَ فَهُوَ حَرَامٌ بِحُرْمَةِ اللَّهِ إِلَى يَوْمِ الْقِيَامَةِ لاَ يُعْضَدُ شَوْكُهُ وَلاَ يُنَفَّرُ صَيْدُهُ وَلاَ يَلْتَقِطُ لُقَطَتَهُ إِلاَّ مَنْ عَرَّفَهَا وَلاَ يُخْتَلَى خَلاَهُ ‏\"‏ ‏.‏ قَالَ الْعَبَّاسُ يَا رَسُولَ اللَّهِ إِلاَّ الإِذْخِرَ ‏.‏ فَذَكَرَ كَلِمَةً مَعْنَاهَا ‏\"‏ إِلاَّ الإِذْخِرَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Abbas said:",
+        "text": "\"The Messenger of Allah said on the day of the conquest: 'Allah made this land sacred the day He created the Heavens and the Earth, so it is sacred by the Decree of Allah until the day of Resurrection. Its thorny shrubs are not to be cut, or its game disturbed, or its lost property to be picked up, except by the one who will announce it publicly, or is its green grass to be uprooted or cut.'\nAl-Abbas said: O Messenger of Allah! Except Ikhkhir.'\" And he said something that meant: \"Except Ikhkhir.\""
+      }
+    },
+    {
+      "id": 258,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، قَالَ حَدَّثَنَا مُفَضَّلٌ، عَنْ مَنْصُورٍ، عَنْ مُجَاهِدٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ فَتْحِ مَكَّةَ ‏\n\"‏ إِنَّ هَذَا الْبَلَدَ حَرَامٌ حَرَّمَهُ اللَّهُ عَزَّ وَجَلَّ لَمْ يَحِلَّ فِيهِ الْقِتَالُ لأَحَدٍ قَبْلِي وَأُحِلَّ لِي سَاعَةً مِنْ نَهَارٍ فَهُوَ حَرَامٌ بِحُرْمَةِ اللَّهِ عَزَّ وَجَلَّ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Abbas said:",
+        "text": "\"The Messenger of Allah said on the day of the conquest of Makkah: 'Allah, the Might and Sublime, has made this land sacred, and it was not permissible to fight therein for anyone before me. It was permitted for me for a few hours of a day, and it is sacred by the decree of Allah, the Might and Sublime.\""
+      }
+    },
+    {
+      "id": 259,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِي شُرَيْحٍ، أَنَّهُ قَالَ لِعَمْرِو بْنِ سَعِيدٍ وَهُوَ يَبْعَثُ الْبُعُوثَ إِلَى مَكَّةَ ائْذَنْ لِي أَيُّهَا الأَمِيرُ أُحَدِّثْكَ قَوْلاً قَامَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم الْغَدَ مِنْ يَوْمِ الْفَتْحِ سَمِعَتْهُ أُذُنَاىَ وَوَعَاهُ قَلْبِي وَأَبْصَرَتْهُ عَيْنَاىَ حِينَ تَكَلَّمَ بِهِ حَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ ‏\n\"‏ إِنَّ مَكَّةَ حَرَّمَهَا اللَّهُ وَلَمْ يُحَرِّمْهَا النَّاسُ وَلاَ يَحِلُّ لاِمْرِئٍ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ أَنْ يَسْفِكَ بِهَا دَمًا وَلاَ يَعْضِدَ بِهَا شَجَرًا فَإِنْ تَرَخَّصَ أَحَدٌ لِقِتَالِ رَسُولِ اللَّهِ صلى الله عليه وسلم فِيهَا فَقُولُوا لَهُ إِنَّ اللَّهَ أَذِنَ لِرَسُولِهِ وَلَمْ يَأْذَنْ لَكُمْ وَإِنَّمَا أَذِنَ لِي فِيهَا سَاعَةً مِنْ نَهَارٍ وَقَدْ عَادَتْ حُرْمَتُهَا الْيَوْمَ كَحُرْمَتِهَا بِالأَمْسِ وَلْيُبَلِّغِ الشَّاهِدُ الْغَائِبَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Shuraih, that he said to Amr bin Sad when he was sending troops in batches to Makkah:",
+        "text": "\"O Commander! Permit me to tell you of a statement that the Messenger of Allah said the day after the Conquest of Makkah, which my ears heard, my hear understood, and my eyes saw, when he said it. He (the Prophet) praised Allah, then he said: 'Makkah has been made sacred by Allah, not by the people. It is not permissible for any man who believes in Allah and the Last Day to shed blood in it, or to cut its trees. If any one seeks permission to fight in it because the Messenger of Allah fought in it, say to him: Allah allowed his Messenger (to fight therein) but He did not allow you. Rather permission was given to me (to fight therein) for a short period one day, and now its sanctity has been restored as it as before. Let those who are present convey (this mews) to those who are absent.'\""
+      }
+    },
+    {
+      "id": 260,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عِمْرَانُ بْنُ بَكَّارٍ، قَالَ حَدَّثَنَا بِشْرٌ، أَخْبَرَنِي أَبِي، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي سُحَيْمٌ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ يَغْزُو هَذَا الْبَيْتَ جَيْشٌ فَيُخْسَفُ بِهِمْ بِالْبَيْدَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: This Hosue will be attacked by an army, and they will be swallowed up by the earth in Al-Baida'.\""
+      }
+    },
+    {
+      "id": 261,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِدْرِيسَ أَبُو حَاتِمٍ الرَّازِيُّ، قَالَ حَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، قَالَ حَدَّثَنَا أَبِي، عَنْ مِسْعَرٍ، قَالَ أَخْبَرَنِي طَلْحَةُ بْنُ مُصَرِّفٍ، عَنْ أَبِي مُسْلِمٍ الأَغَرِّ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَنْتَهِي الْبُعُوثُ عَنْ غَزْوِ هَذَا الْبَيْتِ حَتَّى يُخْسَفَ بِجَيْشٍ مِنْهُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Prophet said:",
+        "text": "\"Troops will not cease to attack this House until an army of them are swallowed up by the earth.\""
+      }
+    },
+    {
+      "id": 262,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ دَاوُدَ الْمِصِّيصِيُّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ مُحَمَّدِ بْنِ سَابِقٍ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنَا عَبْدُ السَّلاَمِ، عَنِ الدَّالاَنِيِّ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ أَخِيهِ، قَالَ حَدَّثَنِي ابْنُ أَبِي رَبِيعَةَ، عَنْ حَفْصَةَ بِنْتِ عُمَرَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يُبْعَثُ جُنْدٌ إِلَى هَذَا الْحَرَمِ فَإِذَا كَانُوا بِبَيْدَاءَ مِنَ الأَرْضِ خُسِفَ بِأَوَّلِهِمْ وَآخِرِهِمْ وَلَمْ يَنْجُ أَوْسَطُهُمْ ‏\"‏ ‏.‏ قُلْتُ أَرَأَيْتَ إِنْ كَانَ فِيهِمْ مُؤْمِنُونَ قَالَ ‏\"‏ تَكُونُ لَهُمْ قُبُورًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Hafshah bint Umar said:",
+        "text": "\"The Messenger of Allah sadi: 'An army will be sent toward this House, and when they are in Al-Baida, they first and the last of them will be swallowed up by the earth, and those in the middle will be saved.' I said: \"What if there are believers among them?\" He said: 'It will be graves for them.'\" (Daif)"
+      }
+    },
+    {
+      "id": 263,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الْحُسَيْنُ بْنُ عِيسَى، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أُمَيَّةَ بْنِ صَفْوَانَ بْنِ عَبْدِ اللَّهِ بْنِ صَفْوَانَ، سَمِعَ جَدَّهُ، يَقُولُ حَدَّثَتْنِي حَفْصَةُ، أَنَّهُ قَالَ صلى الله عليه وسلم ‏\n\"‏ لَيَؤُمَّنَّ هَذَا الْبَيْتَ جَيْشٌ يَغْزُونَهُ حَتَّى إِذَا كَانُوا بِبَيْدَاءَ مِنَ الأَرْضِ خُسِفَ بِأَوْسَطِهِمْ فَيُنَادِي أَوَّلُهُمْ وَآخِرُهُمْ فَيُخْسَفُ بِهِمْ جَمِيعًا وَلاَ يَنْجُو إِلاَّ الشَّرِيدُ الَّذِي يُخْبِرُ عَنْهُمْ ‏\"‏ ‏.‏ فَقَالَ لَهُ رَجُلٌ أَشْهَدُ عَلَيْكَ أَنَّكَ مَا كَذَبْتَ عَلَى جَدِّكَ وَأَشْهَدُ عَلَى جَدِّكَ أَنَّهُ مَا كَذَبَ عَلَى حَفْصَةَ وَأَشْهَدُ عَلَى حَفْصَةَ أَنَّهَا لَمْ تَكْذِبْ عَلَى النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Hafsah narrated that he said:",
+        "text": "An invading army will come toward this House until when they are in Al-Baida, the middle of them will be swallowed up by the earth. The first of them will call out to the last of them, and they will be wallowed up, until there is no one left of them except a fugitive who will tell of what happened to them.\" \nA man (hearing the narration) said: \"I bear witness that you did not attribute a lie to your grandfather, and I bear witness that your grandfather did not attribute a lie to Hafsah, and I bear witness that Hafsh, did not attribute a lie to the Prophet."
+      }
+    },
+    {
+      "id": 264,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا وَكِيعٌ، قَالَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ خَمْسُ فَوَاسِقَ يُقْتَلْنَ فِي الْحِلِّ وَالْحَرَمِ الْغُرَابُ وَالْحِدَأَةُ وَالْكَلْبُ الْعَقُورُ وَالْعَقْرَبُ وَالْفَأْرَةُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Aishah that the Messenger of Allah said:",
+        "text": "\"There are five kinds of vermin which may be killed out and inside the Haram: Crows, kites, vicious dogs, scorpions and mice.\""
+      }
+    },
+    {
+      "id": 265,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، قَالَ أَنْبَأَنَا شُعْبَةُ، عَنْ قَتَادَةَ، سَمِعْتُ سَعِيدَ بْنَ الْمُسَيَّبِ، يُحَدِّثُ عَنْ عَائِشَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ خَمْسُ فَوَاسِقَ يُقْتَلْنَ فِي الْحِلِّ وَالْحَرَمِ الْحَيَّةُ وَالْكَلْبُ الْعَقُورُ وَالْغُرَابُ الأَبْقَعُ وَالْحِدَأَةُ وَالْفَأْرَةُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Aishah that the Messenger of Allah said:",
+        "text": "\"There are five kinds of vermin which may be killed out and inside the Haram: Snakes, vicious dogs, speckled Crows, kites, and mice.\""
+      }
+    },
+    {
+      "id": 266,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، عَنْ حَفْصِ بْنِ غِيَاثٍ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِالْخَيْفِ مِنْ مِنًى حَتَّى نَزَلَتْ ‏{‏ وَالْمُرْسَلاَتِ عُرْفًا ‏}‏ فَخَرَجَتْ حَيَّةٌ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اقْتُلُوهَا ‏\"‏ ‏.‏ فَابْتَدَرْنَاهَا فَدَخَلَتْ فِي جُحْرِهَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abdullah said:",
+        "text": "\"We were with the Messenger of Allah in Al-Khaif, which is in Mina, when the following was revealed: 'By the winds sent forth one after another.' A snake came out, and the Messenger of Allah said: 'Kill it.' So they rushed to kill, but it went back into its hole.\""
+      }
+    },
+    {
+      "id": 267,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، عَنْ مُجَاهِدٍ، عَنْ أَبِي عُبَيْدَةَ، عَنْ أَبِيهِ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم لَيْلَةَ عَرَفَةَ الَّتِي قَبْلَ يَوْمِ عَرَفَةَ فَإِذَا حِسُّ الْحَيَّةِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اقْتُلُوهَا ‏\"‏ ‏.‏ فَدَخَلَتْ شَقَّ جُحْرٍ فَأَدْخَلْنَا عُودًا فَقَلَعْنَا بَعْضَ الْجُحْرِ فَأَخَذْنَا سَعَفَةً فَأَضْرَمْنَا فِيهَا نَارًا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ وَقَاهَا اللَّهُ شَرَّكُمْ وَوَقَاكُمْ شَرَّهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Ubaidah that his father said:",
+        "text": "\"We were with the Messenger of Allah on the night of Arafat which is before Arafat, when he heard a snake. The Messenger of Allah said: 'Kill it.' It went into a crack in a rock, and we put a stick in and broke part of the hole, then we took some palm tree leave and set them ablaze in the hole. The Messenger of Allah: 'Allah protected it from your evil and protected you from its evil.'\""
+      }
+    },
+    {
+      "id": 268,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ الْمُقْرِئُ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي عَبْدُ الْحَمِيدِ بْنُ جُبَيْرِ بْنِ شَيْبَةَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أُمِّ شَرِيكٍ، قَالَتْ أَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم بِقَتْلِ الأَوْزَاغِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Saeed bin Al-Musayyab that Umm Sharik said:",
+        "text": "\"The Messenger of Allah told me to kill geckos.\""
+      }
+    },
+    {
+      "id": 269,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي مَالِكٌ، وَيُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْوَزَغُ الْفُوَيْسِقُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Aishah that the Messenger of Allah said:",
+        "text": "\"Geckos are vermin.\""
+      }
+    },
+    {
+      "id": 270,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي عَبْدُ الرَّحْمَنِ بْنُ خَالِدٍ الرَّقِّيُّ الْقَطَّانُ، قَالَ حَدَّثَنَا حَجَّاجٌ، قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي أَبَانُ بْنُ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ عُرْوَةَ، أَخْبَرَهُ أَنَّ عَائِشَةَ قَالَتْ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ خَمْسٌ مِنَ الدَّوَابِّ كُلُّهُنَّ فَاسِقٌ يُقْتَلْنَ فِي الْحِلِّ وَالْحَرَمِ الْكَلْبُ الْعَقُورُ وَالْغُرَابُ وَالْحِدَأَةُ وَالْعَقْرَبُ وَالْفَأْرَةُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Aishah said:",
+        "text": "\"The Prophet said: \"There are five animals all of which are vermin, and may killed outside and inside the sanctuary: Vicious dogs, crows, kites, scorpions and mice.'\""
+      }
+    },
+    {
+      "id": 271,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَمْسٌ مِنَ الدَّوَابِّ كُلُّهَا فَاسِقٌ يُقْتَلْنَ فِي الْحَرَمِ الْغُرَابُ وَالْحِدَأَةُ وَالْكَلْبُ الْعَقُورُ وَالْفَأْرَةُ وَالْعَقْرَبُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Urwah that Aishah said:",
+        "text": "\"The Messenger of Allah said: \"There are five animals all of which are vermin and may be killed inside the sanctuary: Crow, kites, vicious dogs, mice and scorpions.'\""
+      }
+    },
+    {
+      "id": 272,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عِيسَى بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَنَّ سَالِمَ بْنَ عَبْدِ اللَّهِ، أَخْبَرَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ قَالَ قَالَتْ حَفْصَةُ زَوْجُ النَّبِيِّ صلى الله عليه وسلم قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَمْسٌ مِنَ الدَّوَابِّ لاَ حَرَجَ عَلَى مَنْ قَتَلَهُنَّ الْعَقْرَبُ وَالْغُرَابُ وَالْحِدَأَةُ وَالْفَأْرَةُ وَالْكَلْبُ الْعَقُورُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn Umar said:",
+        "text": "\"Hafsha the wife of the Prophet said: 'The Messenger of Allah said: Thee are five animals for which there is no sin on the one who kill them: Scorpions, crows, kites, mice and vicious dogs.'\""
+      }
+    },
+    {
+      "id": 273,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ خَمْسُ فَوَاسِقَ يُقْتَلْنَ فِي الْحِلِّ وَالْحَرَمِ الْحِدَأَةُ وَالْغُرَابُ وَالْفَأْرَةُ وَالْعَقْرَبُ وَالْكَلْبُ الْعَقُورُ ‏\"‏ ‏.‏ قَالَ عَبْدُ الرَّزَّاقِ وَذَكَرَ بَعْضُ أَصْحَابِنَا أَنَّ مَعْمَرًا كَانَ يَذْكُرُهُ عَنِ الزُّهْرِيِّ عَنْ سَالِمٍ عَنْ أَبِيهِ وَعَنْ عُرْوَةَ عَنْ عَائِشَةَ أَنَّ النَّبِيَّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Aishah that:",
+        "text": "the Messenger of Allah said \"There are five vermin that may be killed outside and inside the Haram: Kities, cros, mice, scorpions, and vicious dogs.\" (One of the narratos Abdur-Razzaq said: \"Some of our companions mentioned that Mamar would mention it from Az-Zuhri, from Salim, from his father, and from Urwah, from Aishah, from the Prophet."
+      }
+    },
+    {
+      "id": 274,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدَةَ، قَالَ أَنْبَأَنَا حَمَّادٌ، قَالَ حَدَّثَنَا هِشَامٌ، - وَهُوَ ابْنُ عُرْوَةَ - عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَمْسُ فَوَاسِقَ يُقْتَلْنَ فِي الْحَرَمِ الْعَقْرَبُ وَالْفَأْرَةُ وَالْغُرَابُ وَالْكَلْبُ الْعَقُورُ وَالْحِدَأَةُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Aishah said:",
+        "text": "\"The Messenger of Allah said: 'There are five kinds of vermin that may be killed in the Haram: Scorpions, mice, crows, vicious dogs, and kites.\" (Sahih)\nChaper 120. The Prohibition Of Disturbing The Game Of The Haram"
+      }
+    },
+    {
+      "id": 275,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ هَذِهِ مَكَّةُ حَرَّمَهَا اللَّهُ عَزَّ وَجَلَّ يَوْمَ خَلَقَ السَّمَوَاتِ وَالأَرْضَ لَمْ تَحِلَّ لأَحَدٍ قَبْلِي وَلاَ لأَحَدٍ بَعْدِي وَإِنَّمَا أُحِلَّتْ لِي سَاعَةً مِنْ نَهَارٍ وَهِيَ سَاعَتِي هَذِهِ حَرَامٌ بِحَرَامِ اللَّهِ إِلَى يَوْمِ الْقِيَامَةِ لاَ يُخْتَلَى خَلاَهَا وَلاَ يُعْضَدُ شَجَرُهَا وَلاَ يُنَفَّرُ صَيْدُهَا وَلاَ تَحِلُّ لُقَطَتُهَا إِلاَّ لِمُنْشِدٍ ‏\"‏ ‏.‏ فَقَامَ الْعَبَّاسُ وَكَانَ رَجُلاً مُجَرِّبًا فَقَالَ إِلاَّ الإِذْخِرَ فَإِنَّهُ لِبُيُوتِنَا وَقُبُورِنَا ‏.‏ فَقَالَ ‏\"‏ إِلاَّ الإِذْخِرَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Abbas that the Messenger of Allah said:",
+        "text": "\"This Makkah was made sacred by Allah, the Mighty and Sublime, the day He created the heavens and the Earth. Fighting therein was not permitted for any one before me or after me rather it was permitted for me for a short part of a day. At this moment it is a sanctuary that is sacred by the decree of Allah until the Day of Resurrection. Its green grass is not to be uprooted or cut, its trees are not to be cut and its game is not to be distributed. IT is not permissible to pick up its lost property except by one who will announce it publicly.\" Al-Abbas who was a man of experience, stood up and said: \"Except Idkhair, for we use it for our raves and houses.\" He said: \"Except Idhkhir.\""
+      }
+    },
+    {
+      "id": 276,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ زَنْجُويَهْ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ دَخَلَ النَّبِيُّ صلى الله عليه وسلم مَكَّةَ فِي عُمْرَةِ الْقَضَاءِ وَابْنُ رَوَاحَةَ بَيْنَ يَدَيْهِ يَقُولُ خَلُّوا بَنِي الْكُفَّارِ عَنْ سَبِيلِهِ الْيَوْمَ نَضْرِبْكُمْ عَلَى تَأْوِيلِهِ ضَرْبًا يُزِيلُ الْهَامَ عَنْ مَقِيلِهِ وَيُذْهِلُ الْخَلِيلَ عَنْ خَلِيلِهِ قَالَ عُمَرُ يَا ابْنَ رَوَاحَةَ فِي حَرَمِ اللَّهِ وَبَيْنَ يَدَىْ رَسُولِ اللَّهِ صلى الله عليه وسلم تَقُولُ هَذَا الشِّعْرَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ خَلِّ عَنْهُ فَوَالَّذِي نَفْسِي بِيَدِهِ لَكَلاَمُهُ أَشَدُّ عَلَيْهِمْ مِنْ وَقْعِ النَّبْلِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas said:",
+        "text": "\"The Prophet entered Makkah during Umratul-Qada' and Ibn Rawahah went before him, saying: \nGet out of his way, you unbelievers, make way.\nToday we will fight about its revelation\nWith blows that will remove heads from shoulders\nAnd make friend unmindful of friend.\nUmar said to him: \"O Ibn Rawahah! In the Sanctuary of Allah and in front of the Messenger of Allah you recite poetry?\" The Prophet said: \"Let him do that, for by the one in whose hand is my soul, his words are harder for them than being shot with arrows.\""
+      }
+    },
+    {
+      "id": 277,
+      "chapterId": 24,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ - عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم لَمَّا قَدِمَ مَكَّةَ اسْتَقْبَلَهُ أُغَيْلِمَةُ بَنِي هَاشِمٍ - قَالَ - فَحَمَلَ وَاحِدًا بَيْنَ يَدَيْهِ وَآخَرَ خَلْفَهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn Abbas that:",
+        "text": "when the Prophet came to Makkah, he was welcomed by the boys of Banu Hashim, and he carried one of them in front of him (on his mount) and one behind him."
+      }
+    }
+  ]
+}

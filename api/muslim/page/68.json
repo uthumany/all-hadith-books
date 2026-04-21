@@ -1,0 +1,510 @@
+{
+  "page": 68,
+  "perPage": 50,
+  "totalPages": 150,
+  "totalCount": 7459,
+  "nextPage": 69,
+  "prevPage": 67,
+  "items": [
+    {
+      "id": 76,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا الْحَجَّاجُ بْنُ أَبِي، عُثْمَانَ ح وَحَدَّثَنِي إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عِيسَى، - يَعْنِي ابْنَ يُونُسَ - عَنِ الأَوْزَاعِيِّ، ح وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا حُسَيْنُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ، ح وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، وَمُحَمَّدُ بْنُ رَافِعٍ قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، ح وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ، الدَّارِمِيُّ أَخْبَرَنَا يَحْيَى بْنُ حَسَّانَ، حَدَّثَنَا مُعَاوِيَةُ، كُلُّهُمْ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، ‏.‏ بِمِثْلِ مَعْنَى حَدِيثِ هِشَامٍ وَإِسْنَادِهِ ‏.‏ وَاتَّفَقَ لَفْظُ حَدِيثِ هِشَامٍ وَشَيْبَانَ وَمُعَاوِيَةَ بْنِ سَلاَّمٍ فِي هَذَا الْحَدِيثِ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated through another chain of transmitters."
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنِ ابْنِ جُرَيْجٍ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ رَافِعٍ، جَمِيعًا عَنْ عَبْدِ الرَّزَّاقِ، - وَاللَّفْظُ لاِبْنِ رَافِعٍ - حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ سَمِعْتُ ابْنَ أَبِي مُلَيْكَةَ، يَقُولُ قَالَ ذَكْوَانُ مَوْلَى عَائِشَةَ سَمِعْتُ عَائِشَةَ، تَقُولُ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْجَارِيَةِ يُنْكِحُهَا أَهْلُهَا أَتُسْتَأْمَرُ أَمْ لاَ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ نَعَمْ تُسْتَأْمَرُ ‏\"‏ ‏.‏ فَقَالَتْ عَائِشَةُ فَقُلْتُ لَهُ فَإِنَّهَا تَسْتَحْيِي ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَذَلِكَ إِذْنُهَا إِذَا هِيَ سَكَتَتْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'A'isha (Allah be pleased with her) reported:",
+        "text": "I asked Allah's Messenger (ﷺ) about a virgin whose marriage is solemnised by her guardian, whether it was necessary or not to consult her. Allah's Messerger (ﷺ) said: Yes, she must be consulted. 'A'isha reported: I told him that she feels shy, whereupon Allah's Messenger (ﷺ) said: Her silence implies her consent."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا مَالِكٌ، ح وَحَدَّثَنَا يَحْيَى، بْنُ يَحْيَى - وَاللَّفْظُ لَهُ - قَالَ قُلْتُ لِمَالِكٍ حَدَّثَكَ عَبْدُ اللَّهِ بْنُ الْفَضْلِ، عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ الأَيِّمُ أَحَقُّ بِنَفْسِهَا مِنْ وَلِيِّهَا وَالْبِكْرُ تُسْتَأْذَنُ فِي نَفْسِهَا وَإِذْنُهَا صُمَاتُهَا ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Abbas (Allah be pleased with him) reported Allah's Apostle (ﷺ) as saying:",
+        "text": "A woman without a husband has more right to her person than her guardian, and a virgin's consent must be asked from her, and her silence implies her consent."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، عَنْ زِيَادِ بْنِ سَعْدٍ، عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ، سَمِعَ نَافِعَ بْنَ جُبَيْرٍ، يُخْبِرُ عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ الثَّيِّبُ أَحَقُّ بِنَفْسِهَا مِنْ وَلِيِّهَا وَالْبِكْرُ تُسْتَأْمَرُ وَإِذْنُهَا سُكُوتُهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Abbas (Allah be pleased with them) reported Allah's Messenger (ﷺ) as saying:",
+        "text": "A woman who has been previously married (Thayyib) has more right to her person than her guardian. And a virgin should also be consulted, and her silence implies her consent."
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، بِهَذَا الإِسْنَادِ وَقَالَ ‏\"‏ الثَّيِّبُ أَحَقُّ بِنَفْسِهَا مِنْ وَلِيِّهَا وَالْبِكْرُ يَسْتَأْذِنُهَا أَبُوهَا فِي نَفْسِهَا وَإِذْنُهَا صُمَاتُهَا ‏\"‏ ‏.‏ وَرُبَّمَا قَالَ ‏\"‏ وَصَمْتُهَا إِقْرَارُهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Sufyan reported on the basis of the same chain of transmitters (and the words are):",
+        "text": "A woman who has been previously married (Thayyib) has more right to her person than her guardian; and a virgin's father must ask her consent from her, her consent being her silence, At times he said: Her silence is her affirmation."
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا أَبُو أُسَامَةَ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي، شَيْبَةَ قَالَ وَجَدْتُ فِي كِتَابِي عَنْ أَبِي أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ تَزَوَّجَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم لِسِتِّ سِنِينَ وَبَنَى بِي وَأَنَا بِنْتُ تِسْعِ سِنِينَ ‏.‏ قَالَتْ فَقَدِمْنَا الْمَدِينَةَ فَوُعِكْتُ شَهْرًا فَوَفَى شَعْرِي جُمَيْمَةً فَأَتَتْنِي أُمُّ رُومَانَ وَأَنَا عَلَى أُرْجُوحَةٍ وَمَعِي صَوَاحِبِي فَصَرَخَتْ بِي فَأَتَيْتُهَا وَمَا أَدْرِي مَا تُرِيدُ بِي فَأَخَذَتْ بِيَدِي فَأَوْقَفَتْنِي عَلَى الْبَابِ ‏.‏ فَقُلْتُ هَهْ هَهْ ‏.‏ حَتَّى ذَهَبَ نَفَسِي فَأَدْخَلَتْنِي بَيْتًا فَإِذَا نِسْوَةٌ مِنَ الأَنْصَارِ فَقُلْنَ عَلَى الْخَيْرِ وَالْبَرَكَةِ وَعَلَى خَيْرِ طَائِرٍ ‏.‏ فَأَسْلَمَتْنِي إِلَيْهِنَّ فَغَسَلْنَ رَأْسِي وَأَصْلَحْنَنِي فَلَمْ يَرُعْنِي إِلاَّ وَرَسُولُ اللَّهِ صلى الله عليه وسلم ضُحًى فَأَسْلَمْنَنِي إِلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "'A'isha (Allah be pleased with her) reported:",
+        "text": "Allah's Messenger (ﷺ) married me when I was six years old, and I was admitted to his house at the age of nine. She further said: We went to Medina and I had an attack of fever for a month, and my hair had come down to the earlobes. Umm Ruman (my mother) came to me and I was at that time on a swing along with my playmates. She called me loudly and I went to her and I did not know what she had wanted of me. She took hold of my hand and took me to the door, and I was saying: Ha, ha (as if I was gasping), until the agitation of my heart was over. She took me to a house, where had gathered the women of the Ansar. They all blessed me and wished me good luck and said: May you have share in good. She (my mother) entrusted me to them. They washed my head and embellished me and nothing frightened me. Allah's Messenger (, may peace be upon him) came there in the morning, and I was entrusted to him."
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا عَبْدَةُ، - هُوَ ابْنُ سُلَيْمَانَ - عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ تَزَوَّجَنِي النَّبِيُّ صلى الله عليه وسلم وَأَنَا بِنْتُ سِتِّ سِنِينَ وَبَنَى بِي وَأَنَا بِنْتُ تِسْعِ سِنِينَ ‏.‏",
+      "english": {
+        "narrator": "'A'isha (Allah be pleased with her) reported:",
+        "text": "Allah's Apostle (ﷺ) married me when I was six years old, and I was admitted to his house when I was nine years old."
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم تَزَوَّجَهَا وَهْىَ بِنْتُ سَبْعِ سِنِينَ وَزُفَّتْ إِلَيْهِ وَهِيَ بِنْتُ تِسْعِ سِنِينَ وَلُعَبُهَا مَعَهَا وَمَاتَ عَنْهَا وَهِيَ بِنْتُ ثَمَانَ عَشْرَةَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "'A'isha (Allah be pleased with her) reported that Allah's Apostle (ﷺ) married her when she was seven years old, and he was taken to his house as a bride when she was nine, and her dolls were with her; and when he (the Holy Prophet) died she was eighteen years old."
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ قَالَ يَحْيَى وَإِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ تَزَوَّجَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَهْىَ بِنْتُ سِتٍّ وَبَنَى بِهَا وَهْىَ بِنْتُ تِسْعٍ وَمَاتَ عَنْهَا وَهْىَ بِنْتُ ثَمَانَ عَشْرَةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'A'isha :",
+        "text": "'A'isha (Allah be pleased with her) reported that Allah's Apostle (ﷺ) married her when she was six years old, and he (the Holy Prophet) took her to his house when she was nine, and when he (the Holy Prophet) died she was eighteen years old"
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، - وَاللَّفْظُ لِزُهَيْرٍ - قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ تَزَوَّجَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فِي شَوَّالٍ وَبَنَى بِي فِي شَوَّالٍ فَأَىُّ نِسَاءِ رَسُولِ اللَّهِ صلى الله عليه وسلم كَانَ أَحْظَى عِنْدَهُ مِنِّي ‏.‏ قَالَ وَكَانَتْ عَائِشَةُ تَسْتَحِبُّ أَنْ تُدْخِلَ نِسَاءَهَا فِي شَوَّالٍ ‏.‏",
+      "english": {
+        "narrator": "'A'isha (Allah be pleased with her) reported:",
+        "text": "Allah's Messenger (ﷺ) contracted marriage with me in Shawwal and took me to his house as a bride during Shawwal. And who among the wives of Allah's Messenger (ﷺ) was dearer to him than I, and' A'isha liked that the women (of her family) should enter the houses as brides during the month of Shawwal."
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سُفْيَانُ، بِهَذَا الإِسْنَادِ وَلَمْ يَذْكُرْ فِعْلَ عَائِشَةَ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "This hadith has been narrated on the authority of Sufyan with the same chain of transmitters, but he made no mention of the act of 'A'isha (being admitted as a wife in the house of the Holy Prophet)."
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ يَزِيدَ بْنِ كَيْسَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي، هُرَيْرَةَ قَالَ كُنْتُ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَأَتَاهُ رَجُلٌ فَأَخْبَرَهُ أَنَّهُ تَزَوَّجَ امْرَأَةً مِنَ الأَنْصَارِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَنَظَرْتَ إِلَيْهَا ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ قَالَ ‏\"‏ فَاذْهَبْ فَانْظُرْ إِلَيْهَا فَإِنَّ فِي أَعْيُنِ الأَنْصَارِ شَيْئًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira (Allah be pleased with him) reported:",
+        "text": "I was in the company of Allah's Messenger (ﷺ) when there came a man and informed him that he had contracted to marry a woman of the Ansar. Thereupon Allah's Messenger (ﷺ) said: Did you cast a glance at her? He said: No. He said: Go and cast a glance at her, for there is something in the eyes of the Ansar."
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي يَحْيَى بْنُ مَعِينٍ، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ الْفَزَارِيُّ، حَدَّثَنَا يَزِيدُ بْنُ كَيْسَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ إِنِّي تَزَوَّجْتُ امْرَأَةً مِنَ الأَنْصَارِ ‏.‏ فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ هَلْ نَظَرْتَ إِلَيْهَا فَإِنَّ فِي عُيُونِ الأَنْصَارِ شَيْئًا ‏\"‏ ‏.‏ قَالَ قَدْ نَظَرْتُ إِلَيْهَا ‏.‏ قَالَ ‏\"‏ عَلَى كَمْ تَزَوَّجْتَهَا ‏\"‏ ‏.‏ قَالَ عَلَى أَرْبَعِ أَوَاقٍ ‏.‏ فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ عَلَى أَرْبَعِ أَوَاقٍ كَأَنَّمَا تَنْحِتُونَ الْفِضَّةَ مِنْ عُرْضِ هَذَا الْجَبَلِ مَا عِنْدَنَا مَا نُعْطِيكَ وَلَكِنْ عَسَى أَنْ نَبْعَثَكَ فِي بَعْثٍ تُصِيبُ مِنْهُ ‏\"‏ ‏.‏ قَالَ فَبَعَثَ بَعْثًا إِلَى بَنِي عَبْسٍ بَعَثَ ذَلِكَ الرَّجُلَ فِيهِمْ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira (Allah be pleased with him) reported:",
+        "text": "A man came to Allah's Messenger (ﷺ) and said: I have contracted marriage with a woman of the Ansar, whereupon Allah's Apostle (ﷺ) said: Did you cast a glance at her, for there is something in the eyes of the Ansar? He said: I did cast a glance at her, whereupon he said: For what (dower) did you marry her? He said: For four 'uqiyas. Thereupon Allah's Apostle (ﷺ) said: For four 'uqiyas; it seems as if you dig out silver from the side of this mountain (and that is why you are prepared to pay such a large amount of dower). We have nothing which we should give you. There is a possibility that we may send you to an (expedition) where you may get (booty). So he sent that man (in the expedition) which was despatched to Banu 'Abs."
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ الثَّقَفِيُّ، حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْقَارِيَّ - عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، ح\n وَحَدَّثَنَاهُ قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ أَبِيهِ، عَنْ سَهْلِ بْنِ سَعْدٍ، السَّاعِدِيِّ قَالَ جَاءَتِ امْرَأَةٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ جِئْتُ أَهَبُ لَكَ نَفْسِي ‏.‏ فَنَظَرَ إِلَيْهَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَصَعَّدَ النَّظَرَ فِيهَا وَصَوَّبَهُ ثُمَّ طَأْطَأَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَأْسَهُ فَلَمَّا رَأَتِ الْمَرْأَةُ أَنَّهُ لَمْ يَقْضِ فِيهَا شَيْئًا جَلَسَتْ فَقَامَ رَجُلٌ مِنْ أَصْحَابِهِ فَقَالَ يَا رَسُولَ اللَّهِ إِنْ لَمْ يَكُنْ لَكَ بِهَا حَاجَةٌ فَزَوِّجْنِيهَا ‏.‏ فَقَالَ ‏\"‏ فَهَلْ عِنْدَكَ مِنْ شَىْءٍ ‏\"‏ ‏.‏ فَقَالَ لاَ وَاللَّهِ يَا رَسُولَ اللَّهِ ‏.‏ فَقَالَ ‏\"‏ اذْهَبْ إِلَى أَهْلِكَ فَانْظُرْ هَلْ تَجِدُ شَيْئًا ‏\"‏ ‏.‏ فَذَهَبَ ثُمَّ رَجَعَ فَقَالَ لاَ وَاللَّهِ مَا وَجَدْتُ شَيْئًا ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ انْظُرْ وَلَوْ خَاتِمًا مِنْ حَدِيدٍ ‏\"‏ ‏.‏ فَذَهَبَ ثُمَّ رَجَعَ ‏.‏ فَقَالَ لاَ وَاللَّهِ يَا رَسُولَ اللَّهِ وَلاَ خَاتِمًا مِنْ حَدِيدٍ ‏.‏ وَلَكِنْ هَذَا إِزَارِي - قَالَ سَهْلٌ مَا لَهُ رِدَاءٌ - فَلَهَا نِصْفُهُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا تَصْنَعُ بِإِزَارِكَ إِنْ لَبِسْتَهُ لَمْ يَكُنْ عَلَيْهَا مِنْهُ شَىْءٌ وَإِنْ لَبِسَتْهُ لَمْ يَكُنْ عَلَيْكَ مِنْهُ شَىْءٌ ‏\"‏ ‏.‏ فَجَلَسَ الرَّجُلُ حَتَّى إِذَا طَالَ مَجْلِسُهُ قَامَ فَرَآهُ رَسُولُ اللَّهِ صلى الله عليه وسلم مُوَلِّيًا فَأَمَرَ بِهِ فَدُعِيَ فَلَمَّا جَاءَ قَالَ ‏\"‏ مَاذَا مَعَكَ مِنَ الْقُرْآنِ ‏\"‏ ‏.‏ قَالَ مَعِي سُورَةُ كَذَا وَسُورَةُ كَذَا - عَدَّدَهَا ‏.‏ فَقَالَ ‏\"‏ تَقْرَؤُهُنَّ عَنْ ظَهْرِ قَلْبِكَ ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏\"‏ اذْهَبْ فَقَدْ مَلَّكْتُكَهَا بِمَا مَعَكَ مِنَ الْقُرْآنِ ‏\"‏ ‏.‏ هَذَا حَدِيثُ ابْنِ أَبِي حَازِمٍ وَحَدِيثُ يَعْقُوبَ يُقَارِبُهُ فِي اللَّفْظِ ‏.‏",
+      "english": {
+        "narrator": "Sahl b. Sa'd al-Sa'idi (Allah be pleased with him) reported:",
+        "text": "A woman came to Allah's Messenger. (ﷺ) and said: Messenger of Allah, I have come to you to entrust myself to you (you may contract my marriage with anyone at your discretion). Allah's Messenger (ﷺ) saw her and cast a glance at her from head to foot. Allah's Messenger (ﷺ) then lowered his head. When the woman saw that he had made no decision in regard to her, she sat down. There stood up a person from amongst his companions and said: Messenger of Allah, marry her to me if you have no need of her. He (the Prophet) said: is there anything with you (which you con give as a dower)? He said: No, Messenger of Allah, by Allah I have nothing. Thereupon Allah's Messenger (ﷺ) said: Go to your people (family) and see if you can find something. He returned and said: I have found nothing. The Messenger of Allah (ﷺ) said: See even if it is an iron ring. He went and returned and said: No, by Allah, not even an iron ring, but only this lower garment of mine (Sahl said that he had no upper garment), half of which (I am prepared to part with) for her. Thereupon Allah's Messenger (ﷺ) said: How can your lower garment serve your purpose, for it you wear it, she would not be able to make any use of it and if she wears it there would not be anything on you? The man sat down and as the sitting prolonged he stood up (in disappointment) and as he was going back Allah's Messenger (ﷺ) commanded (him) to be called back, and as he came, he said to him: Do you know any part of the Qur'an? He said: I know such and such surahs (and he counted them), whereupon he (ﷺ) said: Can you recite them from heart (from your memory)? He said: Yes, whereupon he (Allah's Messenger) said: Go, I have given her to you in marriage for the part of the Qur'an which you know."
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ خَلَفُ بْنُ هِشَامٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، ح وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنِ الدَّرَاوَرْدِيِّ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ، أَبِي شَيْبَةَ حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، كُلُّهُمْ عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، بِهَذَا الْحَدِيثِ يَزِيدُ بَعْضُهُمْ عَلَى بَعْضٍ غَيْرَ أَنَّ فِي حَدِيثِ زَائِدَةَ قَالَ ‏\n\"‏ انْطَلِقْ فَقَدْ زَوَّجْتُكَهَا فَعَلِّمْهَا مِنَ الْقُرْآنِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Sahl b. Sa'd with a minor alteration of words, but the hadith transmitted through Za'idah (the words are that the Holy Prophet) said:",
+        "text": "Go, I have married her to you, and you teach her something of the Qur'an."
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، حَدَّثَنِي يَزِيدُ بْنُ عَبْدِ، اللَّهِ بْنِ أُسَامَةَ بْنِ الْهَادِ ح وَحَدَّثَنِي مُحَمَّدُ بْنُ أَبِي عُمَرَ الْمَكِّيُّ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا عَبْدُ، الْعَزِيزِ عَنْ يَزِيدَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّهُ قَالَ سَأَلْتُ عَائِشَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم كَمْ كَانَ صَدَاقُ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَتْ كَانَ صَدَاقُهُ لأَزْوَاجِهِ ثِنْتَىْ عَشْرَةَ أُوقِيَّةً وَنَشًّا ‏.‏ قَالَتْ أَتَدْرِي مَا النَّشُّ قَالَ قُلْتُ لاَ ‏.‏ قَالَتْ نِصْفُ أُوقِيَّةٍ ‏.‏ فَتِلْكَ خَمْسُمِائَةِ دِرْهَمٍ فَهَذَا صَدَاقُ رَسُولِ اللَّهِ صلى الله عليه وسلم لأَزْوَاجِهِ‏.‏",
+      "english": {
+        "narrator": "Abu Salama b. 'Abd al-Rahman reported:",
+        "text": "I asked 'A'isha, the wife of Allah's Messenger (ﷺ): What is the amount of dower of Allah's Messenger (ﷺ)? She said: It was twelve 'uqiyas and one nash. She said: Do you know what is al-nash? I said: No. She said: It is half of uqiya, and it amounts to five hundred dirhams, and that was the dower given by Allah's Messenger (ﷺ) to his wives."
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، وَأَبُو الرَّبِيعِ، سُلَيْمَانُ بْنُ دَاوُدَ الْعَتَكِيُّ وَقُتَيْبَةُ بْنُ سَعِيدٍ وَاللَّفْظُ لِيَحْيَى قَالَ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى عَلَى عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ أَثَرَ صُفْرَةٍ فَقَالَ ‏\"‏ مَا هَذَا ‏\"‏ ‏.‏ قَالَ يَا رَسُولَ اللَّهِ إِنِّي تَزَوَّجْتُ امْرَأَةً عَلَى وَزْنِ نَوَاةٍ مِنْ ذَهَبٍ ‏.‏ قَالَ ‏\"‏ فَبَارَكَ اللَّهُ لَكَ أَوْلِمْ وَلَوْ بِشَاةٍ ‏\"‏.",
+      "english": {
+        "narrator": "Anas b. Malik reported that Allah's Apostle (ﷺ) saw the trace of yellowness on 'Abd al-Rahman b. 'Auf and said:",
+        "text": "What is this? Thereupon he said: Allah's Messenger, I have married a woman for a date-stone's weight of gold. He said: God bless you! Hold a wedding feast, even if only with a sheep."
+      }
+    },
+    {
+      "id": 93,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ عَبْدَ الرَّحْمَنِ بْنَ عَوْفٍ، تَزَوَّجَ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَى وَزْنِ نَوَاةٍ مِنْ ذَهَبٍ ‏.‏ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَوْلِمْ وَلَوْ بِشَاةٍ ‏\"‏.",
+      "english": {
+        "narrator": "Anas b. Malik (Allah be pleasedwith him) reported that 'Abd al-Rahman b. 'Auf (Allah be pleased with him) married during the lifetime of Allah's Messenger (ﷺ) for a nawat weight of gold and the messenger of Allah (ﷺ) said to him:",
+        "text": "Give a feast even with a sheep."
+      }
+    },
+    {
+      "id": 94,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا وَكِيعٌ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، وَحُمَيْدٍ، عَنْ أَنَسٍ، أَنَّ عَبْدَ الرَّحْمَنِ بْنَ عَوْفٍ، تَزَوَّجَ امْرَأَةً عَلَى وَزْنِ نَوَاةٍ مِنْ ذَهَبٍ وَأَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لَهُ ‏\n\"‏ أَوْلِمْ وَلَوْ بِشَاةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik (Allah be pleased with him) reported that 'Abd al-Rahman b. 'Auf (Allah be pleased with him) married a woman for a date-stone's weight of gold and Allah's Apostle (ﷺ) said to him:",
+        "text": "Hold a wedding feast, even if only with a sheep."
+      }
+    },
+    {
+      "id": 95,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا أَبُو دَاوُدَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، وَهَارُونُ، بْنُ عَبْدِ اللَّهِ قَالاَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ خِرَاشٍ، حَدَّثَنَا شَبَابَةُ، كُلُّهُمْ عَنْ شُعْبَةَ، عَنْ حُمَيْدٍ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّ فِي، حَدِيثِ وَهْبٍ قَالَ قَالَ عَبْدُ الرَّحْمَنِ تَزَوَّجْتُ امْرَأَةً ‏.‏",
+      "english": {
+        "narrator": "This hadith has been narrated on the authority of Humaid with the same chain of transmitters except (with this minor alteration of words) that 'Abd al-Rahman said:",
+        "text": "\" I married a woman.\""
+      }
+    },
+    {
+      "id": 96,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ قُدَامَةَ، قَالاَ أَخْبَرَنَا النَّضْرُ بْنُ شُمَيْلٍ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، قَالَ سَمِعْتُ أَنَسًا، يَقُولُ قَالَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ رَآنِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَعَلَىَّ بَشَاشَةُ الْعُرْسِ فَقُلْتُ تَزَوَّجْتُ امْرَأَةً مِنَ الأَنْصَارِ ‏.‏ فَقَالَ ‏\n\"‏ كَمْ أَصْدَقْتَهَا ‏\"‏ ‏.‏ فَقُلْتُ نَوَاةً ‏.‏ وَفِي حَدِيثِ إِسْحَاقَ مِنْ ذَهَبٍ ‏.‏",
+      "english": {
+        "narrator": "Abd al-Rahman b. 'Auf (Allah be pleased with him) reported that Allah's Messenger (ﷺ) saw the signs of the happiness of wedding in me, and I said:",
+        "text": "I have married a woman of the Ansar. He said: How much Mahr have you paid? I said: For a date-stone weight of gold. And in the hadith transmitted by Ishaq (it is): (nawat weight) of gold."
+      }
+    },
+    {
+      "id": 97,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي حَمْزَةَ، - قَالَ شُعْبَةُ وَاسْمُهُ عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَبْدِ اللَّهِ - عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ عَبْدَ الرَّحْمَنِ، تَزَوَّجَ امْرَأَةً عَلَى وَزْنِ نَوَاةٍ مِنْ ذَهَبٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Anas b. Malik reported that 'Abd al-Rahman married a woman for a datestone weight of gold."
+      }
+    },
+    {
+      "id": 98,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا وَهْبٌ، أَخْبَرَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّهُ قَالَ فَقَالَ رَجُلٌ مِنْ وَلَدِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ مِنْ ذَهَبٍ ‏.",
+      "english": {
+        "narrator": "Shu'ba has narrattd this hadith with the same chain of transmitters except for (this alteration) that he said that a person from among the sons of 'Abd al Rahman said:",
+        "text": "\" from gold\"."
+      }
+    },
+    {
+      "id": 99,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنِي ابْنَ عُلَيَّةَ - عَنْ عَبْدِ الْعَزِيزِ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم غَزَا خَيْبَرَ قَالَ فَصَلَّيْنَا عِنْدَهَا صَلاَةَ الْغَدَاةِ بِغَلَسٍ فَرَكِبَ نَبِيُّ اللَّهِ صلى الله عليه وسلم وَرَكِبَ أَبُو طَلْحَةَ وَأَنَا رَدِيفُ أَبِي طَلْحَةَ فَأَجْرَى نَبِيُّ اللَّهِ صلى الله عليه وسلم فِي زُقَاقِ خَيْبَرَ وَإِنَّ رُكْبَتِي لَتَمَسُّ فَخِذَ نَبِيِّ اللَّهِ صلى الله عليه وسلم وَانْحَسَرَ الإِزَارُ عَنْ فَخِذِ نَبِيِّ اللَّهِ صلى الله عليه وسلم فَإِنِّي لأَرَى بَيَاضَ فَخِذِ نَبِيِّ اللَّهِ صلى الله عليه وسلم فَلَمَّا دَخَلَ الْقَرْيَةَ قَالَ ‏\"‏ اللَّهُ أَكْبَرُ خَرِبَتْ خَيْبَرُ إِنَّا إِذَا نَزَلْنَا بِسَاحَةِ قَوْمٍ فَسَاءَ صَبَاحُ الْمُنْذَرِينَ ‏\"‏ ‏.‏ قَالَهَا ثَلاَثَ مَرَّاتٍ قَالَ وَقَدْ خَرَجَ الْقَوْمُ إِلَى أَعْمَالِهِمْ فَقَالُوا مُحَمَّدٌ وَاللَّهِ ‏.‏ قَالَ عَبْدُ الْعَزِيزِ وَقَالَ بَعْضُ أَصْحَابِنَا مُحَمَّدٌ وَالْخَمِيسُ ‏.‏ قَالَ وَأَصَبْنَاهَا عَنْوَةً وَجُمِعَ السَّبْىُ فَجَاءَهُ دِحْيَةُ فَقَالَ يَا رَسُولَ اللَّهِ أَعْطِنِي جَارِيَةً مِنَ السَّبْىِ ‏.‏ فَقَالَ ‏\"‏ اذْهَبْ فَخُذْ جَارِيَةً ‏\"‏ ‏.‏ فَأَخَذَ صَفِيَّةَ بِنْتَ حُيَىٍّ فَجَاءَ رَجُلٌ إِلَى نَبِيِّ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا نَبِيَّ اللَّهِ أَعْطَيْتَ دِحْيَةَ صَفِيَّةَ بِنْتَ حُيَىٍّ سَيِّدِ قُرَيْظَةَ وَالنَّضِيرِ مَا تَصْلُحُ إِلاَّ لَكَ ‏.‏ قَالَ ‏\"‏ ادْعُوهُ بِهَا ‏\"‏ ‏.‏ قَالَ فَجَاءَ بِهَا فَلَمَّا نَظَرَ إِلَيْهَا النَّبِيُّ صلى الله عليه وسلم قَالَ ‏\"‏ خُذْ جَارِيَةً مِنَ السَّبْىِ غَيْرَهَا ‏\"‏ ‏.‏ قَالَ وَأَعْتَقَهَا وَتَزَوَّجَهَا ‏.‏ فَقَالَ لَهُ ثَابِتٌ يَا أَبَا حَمْزَةَ مَا أَصْدَقَهَا قَالَ نَفْسَهَا أَعْتَقَهَا وَتَزَوَّجَهَا حَتَّى إِذَا كَانَ بِالطَّرِيقِ جَهَّزَتْهَا لَهُ أُمُّ سُلَيْمٍ فَأَهْدَتْهَا لَهُ مِنَ اللَّيْلِ فَأَصْبَحَ النَّبِيُّ صلى الله عليه وسلم عَرُوسًا فَقَالَ ‏\"‏ مَنْ كَانَ عِنْدَهُ شَىْءٌ فَلْيَجِئْ بِهِ ‏\"‏ قَالَ وَبَسَطَ نِطَعًا قَالَ فَجَعَلَ الرَّجُلُ يَجِيءُ بِالأَقِطِ وَجَعَلَ الرَّجُلُ يَجِيءُ بِالتَّمْرِ وَجَعَلَ الرَّجُلُ يَجِيءُ بِالسَّمْنِ فَحَاسُوا حَيْسًا ‏.‏ فَكَانَتْ وَلِيمَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Anas (Allah be pleased with him) reported that Allah's Messenger (ﷺ) set out on an expedition to Khaibar and we observed our morning prayer in early hours of the dawn. The Messenger of Allah (ﷺ) then mounted and so did Abu Talha ride, and I was seating myself behind Abu Talha. Allah's Apostle (ﷺ) moved in the narrow street of Khaibar (and we rode so close to each other in the street) that my knee touched the leg of Allah's Apostle (ﷺ). (A part of the) lower garment of Allah's Apostle (ﷺ) slipped from his leg and I could see the whiteness of the leg of Allah's Apostle (ﷺ). As he entered the habitation he called:",
+        "text": "Allahu Akbar (Allah is the Greatest). Khaibar is ruined. And when we get down in the valley of a people evil is the morning of the warned ones. He repeated it thrice. In the meanwhile the people went out for their work, and said: By Allah, Muhammad (has come). Abd al-'Aziz or some of our companions said: Muhammad and the army (have come). He said: We took it (the territory of Khaibar) by force, and there were gathered the prisoners of war. There came Dihya and he said: Messenger of Allah, bestow upon me a girl from among the prisoners. He said: Go and get any girl. He made a choice for Safiyya daughter of Huyayy (b. Akhtab). There came a person to Allah's Apostle (ﷺ) and said: Apostle of Allah, you have bestowed Safiyya bint Huyayy, the chief of Quraiza and al-Nadir, upon Dihya and she is worthy of you only. He said: Call him along with her. So he came along with her. When Allah's Apostle (ﷺ) saw her he said: Take any other woman from among the prisoners. He (the narrator) said: He (the Holy Prophet) then granted her emancipation and married her. Thabit said to him: Abu Hamza, how much dower did he (the Holy Prophet) give to her? He said: He granted her freedom and then married her. On the way Umm Sulaim embellished her and then sent her to him (the Holy Prophet) at night. Allah's Apostle (ﷺ) appeared as a bridegroom in the morning. He (the Holy Prophet) said: He who has anything (to eat) should bring that. Then the cloth was spread. A person came with cheese, another came with dates, and still another came with refined butter, and they prepared hais and that was the wedding feast of Allah's Messenger (ﷺ)"
+      }
+    },
+    {
+      "id": 100,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ زَيْدٍ - عَنْ ثَابِتٍ، وَعَبْدِ، الْعَزِيزِ بْنِ صُهَيْبٍ عَنْ أَنَسٍ، ح\n وَحَدَّثَنَاهُ قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ زَيْدٍ - عَنْ ثَابِتٍ، وَشُعَيْبِ، بْنِ حَبْحَابٍ عَنْ أَنَسٍ، ح \n وَحَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، وَعَبْدِ الْعَزِيزِ، عَنْ أَنَسٍ، ح \n وَحَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي عُثْمَانَ، عَنْ أَنَسٍ، ح\n وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَنَسٍ، ح\n وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، وَعُمَرُ بْنُ سَعْدٍ، وَعَبْدُ الرَّزَّاقِ، جَمِيعًا عَنْ سُفْيَانَ، عَنْ يُونُسَ بْنِ عُبَيْدٍ، عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَنَسٍ، كُلُّهُمْ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ أَعْتَقَ صَفِيَّةَ وَجَعَلَ عِتْقَهَا صَدَاقَهَا ‏.‏ وَفِي حَدِيثِ مُعَاذٍ عَنْ أَبِيهِ تَزَوَّجَ صَفِيَّةَ وَأَصْدَقَهَا عِتْقَهَا.",
+      "english": {
+        "narrator": "This hadith has been narrated through another chain of transmitters on the authority of Anas that Allah's Apostle (ﷺ) emancipated Safiyya, and her emancipation was treated as her wedding gift, and in the hadith transmitted by Mu'adh on the authority of his father (the words are):",
+        "text": "\" He (the Holy Prophet) married Safiyya and bestowed her emancipation as her wedding gift.\""
+      }
+    },
+    {
+      "id": 101,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنْ مُطَرِّفٍ، عَنْ عَامِرٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الَّذِي يُعْتِقُ جَارِيَتَهُ ثُمَّ يَتَزَوَّجُهَا ‏\n\"‏ لَهُ أَجْرَانِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Abu Musa reported that Allah's Messenger (ﷺ) said about one who emancipated a slave woman, and then married her, that for him there are two rewards."
+      }
+    },
+    {
+      "id": 102,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسٍ، قَالَ كُنْتُ رِدْفَ أَبِي طَلْحَةَ يَوْمَ خَيْبَرَ وَقَدَمِي تَمَسُّ قَدَمَ رَسُولِ اللَّهِ صلى الله عليه وسلم - قَالَ - فَأَتَيْنَاهُمْ حِينَ بَزَغَتِ الشَّمْسُ وَقَدْ أَخْرَجُوا مَوَاشِيَهُمَ وَخَرَجُوا بِفُئُوسِهِمْ وَمَكَاتِلِهِمْ وَمُرُورِهِمْ فَقَالُوا مُحَمَّدٌ وَالْخَمِيسُ - قَالَ - وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ خَرِبَتْ خَيْبَرُ إِنَّا إِذَا نَزَلْنَا بِسَاحَةِ قَوْمٍ فَسَاءَ صَبَاحُ الْمُنْذَرِينَ ‏\"‏ ‏.‏ قَالَ وَهَزَمَهُمُ اللَّهُ عَزَّ وَجَلَّ وَوَقَعَتْ فِي سَهْمِ دَحْيَةَ جَارِيَةٌ جَمِيلَةٌ فَاشْتَرَاهَا رَسُولُ اللَّهِ صلى الله عليه وسلم بِسَبْعَةِ أَرْؤُسٍ ثُمَّ دَفَعَهَا إِلَى أُمِّ سُلَيْمٍ تُصَنِّعُهَا لَهُ وَتُهَيِّئُهَا - قَالَ وَأَحْسِبُهُ قَالَ - وَتَعْتَدُّ فِي بَيْتِهَا وَهِيَ صَفِيَّةُ بِنْتُ حُيَىٍّ - قَالَ - وَجَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَلِيمَتَهَا التَّمْرَ وَالأَقِطَ وَالسَّمْنَ فُحِصَتِ الأَرْضُ أَفَاحِيصَ وَجِيءَ بِالأَنْطَاعِ فَوُضِعَتْ فِيهَا وَجِيءَ بِالأَقِطِ وَالسَّمْنِ فَشَبِعَ النَّاسُ - قَالَ - وَقَالَ النَّاسُ لاَ نَدْرِي أَتَزَوَّجَهَا أَمِ اتَّخَذَهَا أُمَّ وَلَدٍ ‏.‏ قَالُوا إِنْ حَجَبَهَا فَهْىَ امْرَأَتُهُ وَإِنْ لَمْ يَحْجُبْهَا فَهْىَ أُمُّ وَلَدٍ فَلَمَّا أَرَادَ أَنْ يَرْكَبَ حَجَبَهَا فَقَعَدَتْ عَلَى عَجُزِ الْبَعِيرِ فَعَرَفُوا أَنَّهُ قَدْ تَزَوَّجَهَا ‏.‏ فَلَمَّا دَنَوْا مِنَ الْمَدِينَةِ دَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَدَفَعْنَا - قَالَ - فَعَثَرَتِ النَّاقَةُ الْعَضْبَاءُ وَنَدَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَنَدَرَتْ فَقَامَ فَسَتَرَهَا وَقَدْ أَشْرَفَتِ النِّسَاءُ فَقُلْنَ أَبْعَدَ اللَّهُ الْيَهُودِيَّةَ ‏.‏ قَالَ قُلْتُ يَا أَبَا حَمْزَةَ أَوَقَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ إِي وَاللَّهِ لَقَدْ وَقَعَ ‏.",
+      "english": {
+        "narrator": "Anas (Allah be pleased with him) reported:",
+        "text": "I was sitting behind Abu Talha on the Day of Khaibar and my feet touched the foot of Allah's Messenger (ﷺ), and we came (to the people of Khaibar) when the sun had risen and they had driven out their cattle, and had themselves come out with their axes, large baskets and hatchets, and they said: (Here come) Muhammad and the army. Allah's Messenger (ﷺ) said: Khaibar is ruined. Verily when we get down in the valley of a people, evil is the morning of the warned ones (al-Qur'an, xxxvii. 177). Allah, the Majestic and the Glorious, defeated them (the inhabitants of Khaibar), and there fell to the lot of Dihya a beautiful girl, and Allah's Messenger (ﷺ) got her in exchange of seven heads, and then entrusted her to Umm Sulaim so that she might embellish her and prepare her (for marriage) with him. He (the narrator) said: He had been under the impression that he had said that so that she might spend her period of 'Iddah in her (Umm Sulaim's) house. (The woman) was Safiyya daughter of Huyayy. Allah's Messenger (ﷺ) arranged the wedding feast consisting of dates, cheese, and refined butter, and pits were dug and tiers were set in them dining cloths, and there was brought cheese and refined butter, and these were placed there. And the people ate to their fill, and they said: We do not know whether he (the Holy Prophet) had married her (as a free woman), or as a slave woman. They said: If he (the Holy Prophet) would make her wear the veil, then she would be a (free married) woman, and if he would not make her wear the veil, then she should be a slave woman. When he intended to ride, he made her wear the veil and she sat on the hind part of the camel; so they came to know that he had married her. As they approached Medina, Allah's Messenger (ﷺ) drove (his ride) quickly and so we did. 'Adba' (the name of Allah's Apostle's camel) stumbled and Allah's Messenger (ﷺ) fell down and she (Radrat Safiyya: also fell down. He (the Holy Prophet) stood up and covered her. Women looked towards her and said: May Allah keep away the Jewess! He (the narrator) said: I said: Aba Hamza, did Allah's Messenger (ﷺ) really fall down? He said: Yes, by Allah, he in fact fell down."
+      }
+    },
+    {
+      "id": 103,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "قَالَ أَنَسٌ وَشَهِدْتُ وَلِيمَةَ زَيْنَبَ فَأَشْبَعَ النَّاسَ خُبْزًا وَلَحْمًا وَكَانَ يَبْعَثُنِي فَأَدْعُو النَّاسَ فَلَمَّا فَرَغَ قَامَ وَتَبِعْتُهُ فَتَخَلَّفَ رَجُلاَنِ اسْتَأْنَسَ بِهِمَا الْحَدِيثُ لَمْ يَخْرُجَا فَجَعَلَ يَمُرُّ عَلَى نِسَائِهِ فَيُسَلِّمُ عَلَى كُلِّ وَاحِدَةٍ مِنْهُنَّ ‏\"‏ سَلاَمٌ عَلَيْكُمْ كَيْفَ أَنْتُمْ يَا أَهْلَ الْبَيْتِ ‏\"‏ ‏.‏ فَيَقُولُونَ بِخَيْرٍ يَا رَسُولَ اللَّهِ كَيْفَ وَجَدْتَ أَهْلَكَ فَيَقُولُ ‏\"‏ بِخَيْرٍ ‏\"‏ ‏.‏ فَلَمَّا فَرَغَ رَجَعَ وَرَجَعْتُ مَعَهُ فَلَمَّا بَلَغَ الْبَابَ إِذَا هُوَ بِالرَّجُلَيْنِ قَدِ اسْتَأْنَسَ بِهِمَا الْحَدِيثُ فَلَمَّا رَأَيَاهُ قَدْ رَجَعَ قَامَا فَخَرَجَا فَوَاللَّهِ مَا أَدْرِي أَنَا أَخْبَرْتُهُ أَمْ أُنْزِلَ عَلَيْهِ الْوَحْىُ بِأَنَّهُمَا قَدْ خَرَجَا فَرَجَعَ وَرَجَعْتُ مَعَهُ فَلَمَّا وَضَعَ رِجْلَهُ فِي أُسْكُفَّةِ الْبَابِ أَرْخَى الْحِجَابَ بَيْنِي وَبَيْنَهُ وَأَنْزَلَ اللَّهُ تَعَالَى هَذِهِ الآيَةَ ‏{‏ لاَ تَدْخُلُوا بُيُوتَ النَّبِيِّ إِلاَّ أَنْ يُؤْذَنَ لَكُمْ‏}‏ الآيَةَ ‏.‏",
+      "english": {
+        "narrator": "Anas said:",
+        "text": "I also saw the wedding feast of Zainab, and he (the Holy Prophet) served bread and meat to the people, and made them eat to their heart's content, and he (the Holy Prophet) sent me to call people, and as he was free (from the ceremony) he stood up and I followed him. Two persons were left and they were busy in talking and did not get out (of the apartment). He (the Holy Prophet) then proceeded towards (the apartments of) his wives. He greeted with as-Salamu 'alaikum to every one of them and said: Members of the household, how are you? They said: Messenger of Allah, we are in good state 'How do you find your family? He would say: In good state. When he was free from (this work of exchanging greetings) he came back, and I also came back along with him. And as he reached the door, (he found) that the two men were still busy in talking. And when they saw him having returned, they stood up and went out; and by Allah! I do not know whether I had informed him, or there was a revelation to him (to the affect) that they had gone. He (the Holy Prophet) then came back and I also returned along with him, and as he put his step on the threshold of his door he hung a curtain between me and him, and (it was on this occasion) that Allah revealed this verse: (\" O you who believe), do not enter the houses of the Prophet unless permission is given to 'you\" (xxxiii. 53)."
+      }
+    },
+    {
+      "id": 104,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا سُلَيْمَانُ، عَنْ ثَابِثٍ، عَنْ أَنَسٍ، ح\n وَحَدَّثَنِي بِهِ عَبْدُ اللَّهِ بْنُ هَاشِمِ بْنِ حَيَّانَ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا بَهْزٌ، حَدَّثَنَا سُلَيْمَانُ، بْنُ الْمُغِيرَةِ عَنْ ثَابِتٍ، حَدَّثَنَا أَنَسٌ، قَالَ صَارَتْ صَفِيَّةُ لِدَحْيَةَ فِي مَقْسَمِهِ وَجَعَلُوا يَمْدَحُونَهَا عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم - قَالَ - وَيَقُولُونَ مَا رَأَيْنَا فِي السَّبْىِ مِثْلَهَا - قَالَ - فَبَعَثَ إِلَى دِحْيَةَ فَأَعْطَاهُ بِهَا مَا أَرَادَ ثُمَّ دَفَعَهَا إِلَى أُمِّي فَقَالَ ‏\"‏ أَصْلِحِيهَا ‏\"‏ ‏.‏ قَالَ ثُمَّ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ خَيْبَرَ حَتَّى إِذَا جَعَلَهَا فِي ظَهْرِهِ نَزَلَ ثُمَّ ضَرَبَ عَلَيْهَا الْقُبَّةَ فَلَمَّا أَصْبَحَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ كَانَ عِنْدَهُ فَضْلُ زَادٍ فَلْيَأْتِنَا بِهِ ‏\"‏ ‏.‏ قَالَ فَجَعَلَ الرَّجُلُ يَجِيءُ بِفَضْلِ التَّمْرِ وَفَضْلِ السَّوِيقِ حَتَّى جَعَلُوا مِنْ ذَلِكَ سَوَادًا حَيْسًا فَجَعَلُوا يَأْكُلُونَ مِنْ ذَلِكَ الْحَيْسِ وَيَشْرَبُونَ مِنْ حِيَاضٍ إِلَى جَنْبِهِمْ مِنْ مَاءِ السَّمَاءِ - قَالَ - فَقَالَ أَنَسٌ فَكَانَتْ تِلْكَ وَلِيمَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَيْهَا - قَالَ - فَانْطَلَقْنَا حَتَّى إِذَا رَأَيْنَا جُدُرَ الْمَدِينَةِ هَشِشْنَا إِلَيْهَا فَرَفَعْنَا مَطِيَّنَا وَرَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَطِيَّتَهُ - قَالَ - وَصَفِيَّةُ خَلْفَهُ قَدْ أَرْدَفَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم - قَالَ - فَعَثَرَتْ مَطِيَّةُ رَسُولِ اللَّهِ صلى الله عليه وسلم فَصُرِعَ وَصُرِعَتْ قَالَ فَلَيْسَ أَحَدٌ مِنَ النَّاسِ يَنْظُرُ إِلَيْهِ وَلاَ إِلَيْهَا حَتَّى قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَسَتَرَهَا - قَالَ - فَأَتَيْنَاهُ فَقَالَ ‏\"‏ لَمْ نُضَرَّ ‏\"‏ ‏.‏ قَالَ فَدَخَلْنَا الْمَدِينَةَ فَخَرَجَ جَوَارِي نِسَائِهِ يَتَرَاءَيْنَهَا وَيَشْمَتْنَ بِصَرْعَتِهَا ‏.‏",
+      "english": {
+        "narrator": "Anas, (Allah be pleased with him) reported:",
+        "text": "Safiyya (Allah be pleased with her) fell to the lot of Dihya in the spoils of war, and they praised her in the presence of Allah's Messenger (ﷺ) and said: We have not seen the like of her among the captives of war. He sent (a messenger) to Dihya and he gave him whatever he demanded. He then sent her to my mother and asked her to embellish her. Allah's Messenger (ﷺ) then got out of Khaibar until when he was on the other side of it, he halted, and a tent was pitched for him. When it was morning Allah's Messenger (ﷺ) said: He who has surplus of provision with him should bring that to us. Some persons would bring the surplus of dates, and the other surplus of mush of barley until there became a heap of bals. They began to eat the hais and began to drink out of the pond which had the water of rainfall in it and which was situated by their side. Anas said that that constituted the wedding feast of Allah's Messenger (ﷺ). He (further) said: We proceeded until we saw the walls of Medina, and we were delighted. We made our mounts run quickly and Allah's Messenger (ﷺ) also made his mount run quickly. And Safiyya (Allah be pleased with her) was at his back, and Allah's Messenger (ﷺ) had seated her behind him. The camel of Allah's Messenger (ﷺ) stumbled and he (the Holy Prophet) fell down and she also fell down. And none among the people was seeing him and her, until Allah's Messeuger (ﷺ) stood up and he covered her, and we came to him and he said: We have received no injury. We entered Medina and there came out the young ladies of the household. They saw her (hadrat Safiyya) and blamed her for falling down."
+      }
+    },
+    {
+      "id": 105,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ مَيْمُونٍ، حَدَّثَنَا بَهْزٌ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا أَبُو النَّضْرِ، هَاشِمُ بْنُ الْقَاسِمِ قَالاَ جَمِيعًا حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، وَهَذَا حَدِيثُ بَهْزٍ قَالَ لَمَّا انْقَضَتْ عِدَّةُ زَيْنَبَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِزَيْدٍ ‏\"‏ فَاذْكُرْهَا عَلَىَّ ‏\"‏ ‏.‏ قَالَ فَانْطَلَقَ زَيْدٌ حَتَّى أَتَاهَا وَهْىَ تُخَمِّرُ عَجِينَهَا قَالَ فَلَمَّا رَأَيْتُهَا عَظُمَتْ فِي صَدْرِي حَتَّى مَا أَسْتَطِيعُ أَنْ أَنْظُرَ إِلَيْهَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ذَكَرَهَا فَوَلَّيْتُهَا ظَهْرِي وَنَكَصْتُ عَلَى عَقِبِي فَقُلْتُ يَا زَيْنَبُ أَرْسَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَذْكُرُكِ ‏.‏ قَالَتْ مَا أَنَا بِصَانِعَةٍ شَيْئًا حَتَّى أُوَامِرَ رَبِّي ‏.‏ فَقَامَتْ إِلَى مَسْجِدِهَا وَنَزَلَ الْقُرْآنُ وَجَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَدَخَلَ عَلَيْهَا بِغَيْرِ إِذْنٍ قَالَ فَقَالَ وَلَقَدْ رَأَيْتُنَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَطْعَمَنَا الْخُبْزَ وَاللَّحْمَ حِينَ امْتَدَّ النَّهَارُ فَخَرَجَ النَّاسُ وَبَقِيَ رِجَالٌ يَتَحَدَّثُونَ فِي الْبَيْتِ بَعْدَ الطَّعَامِ فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَاتَّبَعْتُهُ فَجَعَلَ يَتَتَبَّعُ حُجَرَ نِسَائِهِ يُسَلِّمُ عَلَيْهِنَّ وَيَقُلْنَ يَا رَسُولَ اللَّهِ كَيْفَ وَجَدْتَ أَهْلَكَ قَالَ فَمَا أَدْرِي أَنَا أَخْبَرْتُهُ أَنَّ الْقَوْمَ خَرَجُوا أَوْ أَخْبَرَنِي - قَالَ - فَانْطَلَقَ حَتَّى دَخَلَ الْبَيْتَ فَذَهَبْتُ أَدْخُلُ مَعَهُ فَأَلْقَى السِّتْرَ بَيْنِي وَبَيْنَهُ وَنَزَلَ الْحِجَابُ قَالَ وَوُعِظَ الْقَوْمُ بِمَا وُعِظُوا بِهِ ‏.‏ زَادَ ابْنُ رَافِعٍ فِي حَدِيثِهِ ‏{‏ لاَ تَدْخُلُوا بُيُوتَ النَّبِيِّ إِلاَّ أَنْ يُؤْذَنَ لَكُمْ إِلَى طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ‏}‏ إِلَى قَوْلِهِ ‏{‏ وَاللَّهُ لاَ يَسْتَحْيِي مِنَ الْحَقِّ‏}‏",
+      "english": {
+        "narrator": "Anas (Allah be pleased with him) reported:",
+        "text": "When the 'Iddah of Zainab was over, Allah's Messenger (ﷺ) said to Zaid to make a mention to her about him. Zaid went on until he came to her and she was fermenting her flour. He (Zaid) said: As I saw her I felt in my heart an idea of her greatness so much so that I could not see towards her (simply for the fact) that Allah's Messenger (ﷺ) had made a mention of her. So I turned my back towards her. and I turned upon my heels, and said: Zainab, Allah's Messenger (ﷺ) has sent (me) with a message to you. She said: I do not do anything until I solicit the will of my Lord. So she stood at her place of worship and the (verse of) the Qur'an (pertaining to her marriage) were revealed, and Allah's Messenger (ﷺ) came to her without permission. He (the narrator) said: I saw that Allah's Messenger (ﷺ) served us bread and meat until it was broad day light and the people went away, but some persons who were busy in con- versation stayed on in the house after the meal. Allah's Messenger (ﷺ) also went out and I also followed him, and he began to visit the apartments of his wives greeting them (with the words): As-Salamu 'alaikum, and they would say: Allah's Messenger, how did you find your family (hadrat Zainab)? He (the narrator) stated: I do not know whether I had informed him that the people had gone out or he (the Holy Prophet) informed me (about that). He moved on until he entered the apartment, and I also went and wanted to enter (the apartment) along with him, but he threw a curtain between me and him, as (the verfes pertaining to seclusion) had been revealed, and people were instructed in what they had been instructed. Ibn Rafii had made this addition in his narration:\" O you who believe, enter not the houses of the Prophet unless permission is given to you for a meal, not waiting for its cooking being finished...\" to the words\"... Allah forbears not from the truth.\""
+      }
+    },
+    {
+      "id": 106,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، وَأَبُو كَامِلٍ فُضَيْلُ بْنُ حُسَيْنٍ وَقُتَيْبَةُ بْنُ سَعِيدٍ قَالُوا حَدَّثَنَا حَمَّادٌ، - وَهُوَ ابْنُ زَيْدٍ - عَنْ ثَابِتٍ، عَنْ أَنَسٍ، - وَفِي رِوَايَةِ أَبِي كَامِلٍ سَمِعْتُ أَنَسًا، - قَالَ مَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَوْلَمَ عَلَى امْرَأَةٍ - وَقَالَ أَبُو كَامِلٍ عَلَى شَىْءٍ - مِنْ نِسَائِهِ مَا أَوْلَمَ عَلَى زَيْنَبَ فَإِنَّهُ ذَبَحَ شَاةً ‏.‏",
+      "english": {
+        "narrator": "Anas (Allah be pleased with him) reported:",
+        "text": "I did not see Allah's Messenger (ﷺ) giving a wedding feast (on the marriage) of any one (of his wives) as he did in the case of (his marriage with) Zainab, for then he sacrificed a goat (on this occasion)."
+      }
+    },
+    {
+      "id": 107,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرِو بْنِ عَبَّادِ بْنِ جَبَلَةَ بْنِ أَبِي رَوَّادٍ، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالاَ حَدَّثَنَا مُحَمَّدٌ، - وَهُوَ ابْنُ جَعْفَرٍ - حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ مَا أَوْلَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى امْرَأَةٍ مِنْ نِسَائِهِ أَكْثَرَ أَوْ أَفْضَلَ مِمَّا أَوْلَمَ عَلَى زَيْنَبَ ‏.‏ فَقَالَ ثَابِتٌ الْبُنَانِيُّ بِمَا أَوْلَمَ قَالَ أَطْعَمَهُمْ خُبْزًا وَلَحْمًا حَتَّى تَرَكُوهُ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik (Allah be pleased with him) reported:",
+        "text": "Allah's Messenger (ﷺ) gave no better wedding feast than the one he did (on the occasion of his marriage with) Zainab. Thabit al-Bunani (one of the narrators) said: What did he serve in the wedding feast? He (Anas) said: He fed them bread and meat (so lavishly) that they (the guests) abandoned it (of their own accord after having taken them to their hearts' content)."
+      }
+    },
+    {
+      "id": 108,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ، وَعَاصِمُ بْنُ النَّضْرِ التَّيْمِيُّ، وَمُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، كُلُّهُمْ عَنْ مُعْتَمِرٍ، - وَاللَّفْظُ لاِبْنِ حَبِيبٍ - حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ، قَالَ سَمِعْتُ أَبِي، حَدَّثَنَا أَبُو مِجْلَزٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ لَمَّا تَزَوَّجَ النَّبِيُّ صلى الله عليه وسلم زَيْنَبَ بِنْتَ جَحْشٍ دَعَا الْقَوْمَ فَطَعِمُوا ثُمَّ جَلَسُوا يَتَحَدَّثُونَ - قَالَ - فَأَخَذَ كَأَنَّهُ يَتَهَيَّأُ لِلْقِيَامِ فَلَمْ يَقُومُوا فَلَمَّا رَأَى ذَلِكَ قَامَ فَلَمَّا قَامَ قَامَ مَنْ قَامَ مِنَ الْقَوْمِ ‏.‏ زَادَ عَاصِمٌ وَابْنُ عَبْدِ الأَعْلَى فِي حَدِيثِهِمَا قَالَ فَقَعَدَ ثَلاَثَةٌ وَإِنَّ النَّبِيَّ صلى الله عليه وسلم جَاءَ لِيَدْخُلَ فَإِذَا الْقَوْمُ جُلُوسٌ ثُمَّ إِنَّهُمْ قَامُوا فَانْطَلَقُوا - قَالَ - فَجِئْتُ فَأَخْبَرْتُ النَّبِيَّ صلى الله عليه وسلم أَنَّهُمْ قَدِ انْطَلَقُوا - قَالَ - فَجَاءَ حَتَّى دَخَلَ فَذَهَبْتُ أَدْخُلُ فَأَلْقَى الْحِجَابَ بَيْنِي وَبَيْنَهُ - قَالَ - وَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏ يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَدْخُلُوا بُيُوتَ النَّبِيِّ إِلاَّ أَنْ يُؤْذَنَ لَكُمْ إِلَى طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ‏}‏ إِلَى قَوْلِهِ ‏{‏ إِنَّ ذَلِكُمْ كَانَ عِنْدَ اللَّهِ عَظِيمًا‏}‏ ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik (Allah be pleased with him) reported:",
+        "text": "When Allah's Apostle (ﷺ) married Zainab bint jahsh, he invited people (to the wedding feast) and they ate food. They then sat there and entered into conversation. He (the Holy Prophet) made a stir as if he was preparing to stand up, but (the persons busy in talking) did not stand up. When he (the Holy Prophet) saw it, he stood up and when he did so, some other persons stood up. 'Asim and Abd al-A'la in their narrations made this addition: Three (persons) sat there, and Allah's Apostle (ﷺ) came there to enter (the apartment) but he found the people sitting there. Then they stood up and went away. He said: Then I came and informed Allah's Apostle (ﷺ) that they had gone away. He (the Holy Prophet) then came there until he entered (the apartment). I also went and was about to enter, when he hung a curtain between me and him (and it was on this occasion that) Allah, the Exalted and Majestic, revealed this verse:\" O you who believe, enter not the houses of the Prophet unless permission is given to you for a meal, not waiting for its cooking being finished to the (words)\" Surely this is serious in the sight of Allah\" (xxxiii. 53)."
+      }
+    },
+    {
+      "id": 109,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، قَالَ ابْنُ شِهَابٍ إِنَّ أَنَسَ بْنَ مَالِكٍ قَالَ أَنَا أَعْلَمُ النَّاسِ، بِالْحِجَابِ لَقَدْ كَانَ أُبَىُّ بْنُ كَعْبٍ يَسْأَلُنِي عَنْهُ ‏.‏ قَالَ أَنَسٌ أَصْبَحَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَرُوسًا بِزَيْنَبَ بِنْتِ جَحْشٍ - قَالَ - وَكَانَ تَزَوَّجَهَا بِالْمَدِينَةِ فَدَعَا النَّاسَ لِلطَّعَامِ بَعْدَ ارْتِفَاعِ النَّهَارِ فَجَلَسَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَجَلَسَ مَعَهُ رِجَالٌ بَعْدَ مَا قَامَ الْقَوْمُ حَتَّى قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَمَشَى فَمَشَيْتُ مَعَهُ حَتَّى بَلَغَ بَابَ حُجْرَةِ عَائِشَةَ ثُمَّ ظَنَّ أَنَّهُمْ قَدْ خَرَجُوا فَرَجَعَ وَرَجَعْتُ مَعَهُ فَإِذَا هُمْ جُلُوسٌ مَكَانَهُمْ فَرَجَعَ فَرَجَعْتُ الثَّانِيَةَ حَتَّى بَلَغَ حُجْرَةَ عَائِشَةَ فَرَجَعَ فَرَجَعْتُ فَإِذَا هُمْ قَدْ قَامُوا فَضَرَبَ بَيْنِي وَبَيْنَهُ بِالسِّتْرِ وَأَنْزَلَ اللَّهُ آيَةَ الْحِجَابِ.‏",
+      "english": {
+        "narrator": "Anas b. Malik (Allah be pleased with him) reported:",
+        "text": "I was the best informed among the people pertaining to Hijab (veil and seclusion). Ubayy b. Ka'b used to ask me about it. Anas (Allah be pleased with him) thus narrated: The Messenger of Allah (ﷺ) got up in the morning as a bridegroom of Zainab bint jahsh (Allah be pleased witt her) as he had married her at Medina. He invited people to the wedding feast after the day had well risen. There sat Allah's Messenger (ﷺ) and there kept sitting along with him some persons after the people had stood up (for departure) ; then Allah's Messenger (ﷺ) stood up and walked on and I also walked along with him until he reached the door of the apartment of 'A'isha (Allah be pleased with her). He then thought that they (those who had been sitting there after meal) had gone away. So he returned and I also returned with him, but they were still sitting at their places. So he returned for the second time and I also returned until he reached the apartment of 'A'isha. He again returned and I also returned and they had (by that time) stood up, and he hung a curtain between me and him (at the door of the apartment of Hadrat Zainab, where he had to stay), and Allah revealed the verse pertaining to veil."
+      }
+    },
+    {
+      "id": 110,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَعْفَرٌ، - يَعْنِي ابْنَ سُلَيْمَانَ - عَنِ الْجَعْدِ أَبِي عُثْمَانَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ تَزَوَّجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَدَخَلَ بِأَهْلِهِ - قَالَ - فَصَنَعَتْ أُمِّي أُمُّ سُلَيْمٍ حَيْسًا فَجَعَلَتْهُ فِي تَوْرٍ فَقَالَتْ يَا أَنَسُ اذْهَبْ بِهَذَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقُلْ بَعَثَتْ بِهَذَا إِلَيْكَ أُمِّي وَهْىَ تُقْرِئُكَ السَّلاَمَ وَتَقُولُ إِنَّ هَذَا لَكَ مِنَّا قَلِيلٌ يَا رَسُولَ اللَّهِ - قَالَ - فَذَهَبْتُ بِهَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقُلْتُ إِنَّ أُمِّي تُقْرِئُكَ السَّلاَمَ وَتَقُولُ إِنَّ هَذَا لَكَ مِنَّا قَلِيلٌ يَا رَسُولَ اللَّهِ ‏.‏ فَقَالَ ‏\"‏ ضَعْهُ - ثُمَّ قَالَ - اذْهَبْ فَادْعُ لِي فُلاَنًا وَفُلاَنًا وَفُلاَنًا وَمَنْ لَقِيتَ ‏\"‏ ‏.‏ وَسَمَّى رِجَالاً - قَالَ - فَدَعَوْتُ مَنْ سَمَّى وَمَنْ لَقِيتُ ‏.‏ قَالَ قُلْتُ لأَنَسٍ عَدَدَ كَمْ كَانُوا قَالَ زُهَاءَ ثَلاَثِمِائَةٍ ‏.‏ وَقَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَا أَنَسُ هَاتِ التَّوْرَ ‏\"‏ ‏.‏ قَالَ فَدَخَلُوا حَتَّى امْتَلأَتِ الصُّفَّةُ وَالْحُجْرَةُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لِيَتَحَلَّقْ عَشَرَةٌ عَشَرَةٌ وَلْيَأْكُلْ كُلُّ إِنْسَانٍ مِمَّا يَلِيهِ ‏\"‏ ‏.‏ قَالَ فَأَكَلُوا حَتَّى شَبِعُوا - قَالَ - فَخَرَجَتْ طَائِفَةٌ وَدَخَلَتْ طَائِفَةٌ حَتَّى أَكَلُوا كُلُّهُمْ ‏.‏ فَقَالَ لِي ‏\"‏ يَا أَنَسُ ارْفَعْ ‏\"‏ ‏.‏ قَالَ فَرَفَعْتُ فَمَا أَدْرِي حِينَ وَضَعْتُ كَانَ أَكْثَرَ أَمْ حِينَ رَفَعْتُ - قَالَ - وَجَلَسَ طَوَائِفُ مِنْهُمْ يَتَحَدَّثُونَ فِي بَيْتِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَرَسُولُ اللَّهِ صلى الله عليه وسلم جَالِسٌ وَزَوْجَتُهُ مُوَلِّيَةٌ وَجْهَهَا إِلَى الْحَائِطِ فَثَقُلُوا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَسَلَّمَ عَلَى نِسَائِهِ ثُمَّ رَجَعَ فَلَمَّا رَأَوْا رَسُولَ اللَّهِ صلى الله عليه وسلم قَدْ رَجَعَ ظَنُّوا أَنَّهُمْ قَدْ ثَقُلُوا عَلَيْهِ - قَالَ - فَابْتَدَرُوا الْبَابَ فَخَرَجُوا كُلُّهُمْ وَجَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم َتَّى أَرْخَى السِّتْرَ وَدَخَلَ وَأَنَا جَالِسٌ فِي الْحُجْرَةِ فَلَمْ يَلْبَثْ إِلاَّ يَسِيرًا حَتَّى خَرَجَ عَلَىَّ ‏.‏ وَأُنْزِلَتْ هَذِهِ الآيَةُ فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَرَأَهُنَّ عَلَى النَّاسِ ‏{‏ يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَدْخُلُوا بُيُوتَ النَّبِيِّ إِلاَّ أَنْ يُؤْذَنَ لَكُمْ إِلَى طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ وَلَكِنْ إِذَا دُعِيتُمْ فَادْخُلُوا فَإِذَا طَعِمْتُمْ فَانْتَشِرُوا وَلاَ مُسْتَأْنِسِينَ لِحَدِيثٍ إِنَّ ذَلِكُمْ كَانَ يُؤْذِي النَّبِيَّ‏}‏ إِلَى آخِرِ الآيَةِ ‏.‏ قَالَ الْجَعْدُ قَالَ أَنَسُ بْنُ مَالِكٍ أَنَا أَحْدَثُ النَّاسِ عَهْدًا بِهَذِهِ الآيَاتِ وَحُجِبْنَ نِسَاءُ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Anas b. Malik (Allah be pleased with him) reported:",
+        "text": "Allah's Messenger (ﷺ) contracted marriage and he went to his wife. My mother Umm Sulaim prepared hais and placed it in an earthen vessel and said: Anas, take it to Allah's Messenger (ﷺ) and say: My mother has sent that to you and she offers greetings to you, and says that it is a humble gift for you on our behalf, Messenger of Allah. So I went along with it to Allah's Messenger (ﷺ) and said: My mother offers you salutations, and says that it is a humble gift for you on our behalf. He said: Place it here, and then said: Go and invite on my behalf so and so and anyone whom you meet, and he even named some persons. He (Anas) said: I invited whom he had named and whom I met. I (one of the narrators) said: I said to Anas: How many (persons) were there? He (Anas) said: They were about three hundred persons. Then Allah's Messenger (ﷺ) (said to me): Anas, bring that earthen vessel. They (the guests) then began to enter until the courtyard and the apartment were fully packed. Allah's Messenger (ﷺ) said: Make a circle of ten (guests), and every person should eat from that nearest to him. They began to eat, until they ate to their fill. A group went out (after eating the food), and another group came in until all of them had eaten. He (the Holy Prophet) said to me: Anas, lift it (the earthen vessel), so I lifted it, but I could not assess whether it had more (food) when I placed it (before Allah's Messenger) or when I lifted it (after the people had been served out of it). A group among them (the guests) began to talk in the house of Allah's Messenger (ﷺ) and the Messenger of Allah (ﷺ) was sitting and his wife had been sitting with her face turned towards the wall. It was troublesome for Allah's Messenger (ﷺ), so Allah's Messenger (ﷺ) went out and greeted his wives. He then returned. When they (the guests) saw that Allah's Messenger (ﷺ) had returned they thought that it (their overstay) was something troublesome for him. He (the narrator) said: They hastened towards the door and all of them went out. And there came Allah's Messenger (ﷺ) and he hung a curtain and went in, and I was sitting in his apartment and he did not stay but for a short while. He then came to me and these verses were revealed. Allah's Messenger (ﷺ) came out and recited them to the people:\" O you who believe, enter not the houses of the Prophet unless permission is given to you for a meal, not waiting for its cooking being finished-but when you are invited, enter, and when you have taken food, disperse not seeking to listen to talk. Surely this gives the Prophet trouble\", to the end of verse (xxxiii. 53). (Al-Ja'd said that Anas  stated: I am the first amongst the people to hear these verses), and henceforth the wives of the Apostle (ﷺ) began to observe seclusion (al-hijab)."
+      }
+    },
+    {
+      "id": 111,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ أَبِي عُثْمَانَ، عَنْ أَنَسٍ، قَالَ لَمَّا تَزَوَّجَ النَّبِيُّ صلى الله عليه وسلم زَيْنَبَ أَهْدَتْ لَهُ أُمُّ سُلَيْمٍ حَيْسًا فِي تَوْرٍ مِنْ حِجَارَةٍ فَقَالَ أَنَسٌ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اذْهَبْ فَادْعُ لِي مَنْ لَقِيتَ مِنَ الْمُسْلِمِينَ ‏\"‏ ‏.‏ فَدَعَوْتُ لَهُ مَنْ لَقِيتُ فَجَعَلُوا يَدْخُلُونَ عَلَيْهِ فَيَأْكُلُونَ وَيَخْرُجُونَ وَوَضَعَ النَّبِيُّ صلى الله عليه وسلم يَدَهُ عَلَى الطَّعَامِ فَدَعَا فِيهِ وَقَالَ فِيهِ مَا شَاءَ اللَّهُ أَنْ يَقُولَ وَلَمْ أَدَعْ أَحَدًا لَقِيتُهُ إِلاَّ دَعَوْتُهُ فَأَكَلُوا حَتَّى شَبِعُوا وَخَرَجُوا وَبَقِيَ طَائِفَةٌ مِنْهُمْ فَأَطَالُوا عَلَيْهِ الْحَدِيثَ فَجَعَلَ النَّبِيُّ صلى الله عليه وسلم يَسْتَحْيِي مِنْهُمْ أَنْ يَقُولَ لَهُمْ شَيْئًا فَخَرَجَ وَتَرَكَهُمْ فِي الْبَيْتِ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏ يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَدْخُلُوا بُيُوتَ النَّبِيِّ إِلاَّ أَنْ يُؤْذَنَ لَكُمْ إِلَى طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ‏}‏ قَالَ قَتَادَةُ غَيْرَ مُتَحَيِّنِينَ طَعَامًا وَلَكِنْ إِذَا دُعِيتُمْ فَادْخُلُوا حَتَّى بَلَغَ ‏{‏ ذَلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ‏}‏",
+      "english": {
+        "narrator": "Anas (Allah be pleased with him) reported:",
+        "text": "When Allah's Apostle (ﷺ) contracted marriage with Zainab (Allah be pleased with bet), Umm Sulaim sent him hats in a vessel of stone as a gift. Anas stated that Allah's Messenger (ﷺ) said to him: Go and invite on my behalf all the Muslims whom you meet. So I invited on his behalf everyone whom I met. They entered (his house) and they ate and went out. And Allah's Messenger (ﷺ) had kept his hand on the food, and he invoked blessing on that, and said whatever Allah wished him to say, and none whom I met was left uninvited. They ate to their fill and went out, but a group among them remained there and was engaged in lengthy discussion. Allah's Apostle (ﷺ) felt shy of saying them anything. So he went out and left them in his house and Allah the Great and Majestic revealed this verse:\" 0 you who believe, enter not the houses of the Prophet unless permission is given to you for a meal, not waiting for its cooking being finished.\" Qatada (instead of using the word Ghaira Nazirina) used the word Ghaira Mutahayyinina (i. e. not waiting for the time of the food). But when you are invited, enter...\" up to this verse. This is purer for your hearts and their hearts."
+      }
+    },
+    {
+      "id": 112,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا دُعِيَ أَحَدُكُمْ إِلَى الْوَلِيمَةِ فَلْيَأْتِهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Umar (Allah be pleased with him) reported that Allah's Messenger (ﷺ) said:",
+        "text": "When any one of you is invited to a feast, he should attend it."
+      }
+    },
+    {
+      "id": 113,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا دُعِيَ أَحَدُكُمْ إِلَى الْوَلِيمَةِ فَلْيُجِبْ ‏\"‏ ‏.‏ قَالَ خَالِدٌ فَإِذَا عُبَيْدُ اللَّهِ يُنَزِّلُهُ عَلَى الْعُرْسِ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar (Allah be pleased with them) reported Allah's Apostle (ﷺ) as saying:",
+        "text": "When any one of you is invited to a feast, he should accept. 'Ubaidallah took this feast to be a wedding feast."
+      }
+    },
+    {
+      "id": 114,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا دُعِيَ أَحَدُكُمْ إِلَى وَلِيمَةِ عُرْسٍ فَلْيُجِبْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Umar (Allah be pleased withthem) reported Allah's Apostle (ﷺ) having said this:",
+        "text": "When any one of you is invited to a wedding feast, he should accept that."
+      }
+    },
+    {
+      "id": 115,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي أَبُو الرَّبِيعِ، وَأَبُو كَامِلٍ قَالاَ حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا أَيُّوبُ، ح وَحَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ ائْتُوا الدَّعْوَةَ إِذَا دُعِيتُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Umar (Allah be pleased with them) reported Allah's Messenger (may be upon him) having said this:",
+        "text": "Accept the feast, when you are invited."
+      }
+    },
+    {
+      "id": 116,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ، كَانَ يَقُولُ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\n\"‏ إِذَا دَعَا أَحَدُكُمْ أَخَاهُ فَلْيُجِبْ عُرْسًا كَانَ أَوْ نَحْوَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Umar (Allah be pleased with them) reported Allah's Apostle (ﷺ) as saying:",
+        "text": "When any one of you invites his brother, he (the latter) should accept his wedding feast, or any other like it."
+      }
+    },
+    {
+      "id": 117,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنِي عِيسَى بْنُ الْمُنْذِرِ، حَدَّثَنَا بَقِيَّةُ، حَدَّثَنَا الزُّبَيْدِيُّ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنْ دُعِيَ إِلَى عُرْسٍ أَوْ نَحْوِهِ فَلْيُجِبْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn 'Umar (Allah be pleated with them) reported Allah's Messenger (ﷺ) having said:",
+        "text": "He who is invited to a wedding feast or like it, he should accept it."
+      }
+    },
+    {
+      "id": 118,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنِي حُمَيْدُ بْنُ مَسْعَدَةَ الْبَاهِلِيُّ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ، أُمَيَّةَ عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ ائْتُوا الدَّعْوَةَ إِذَا دُعِيتُمْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "\" Abdullah b. Umar (Allah be pleased with them) reported Allah's Messen- ger (ﷺ) as saying:",
+        "text": "Come to the feast, when you are invited."
+      }
+    },
+    {
+      "id": 119,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ، عَنْ نَافِعٍ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَجِيبُوا هَذِهِ الدَّعْوَةَ إِذَا دُعِيتُمْ لَهَا ‏\"‏ ‏.‏ قَالَ وَكَانَ عَبْدُ اللَّهِ بْنُ عُمَرَ يَأْتِي الدَّعْوَةَ فِي الْعُرْسِ وَغَيْرِ الْعُرْسِ وَيَأْتِيهَا وَهُوَ صَائِمٌ ‏.‏",
+      "english": {
+        "narrator": "Nafil reported:",
+        "text": "I heard Abdullah b. Umar (Allah be pleased with them) narrating that Allah's Messenger (ﷺ) said: Accept the feast when you are invited to it. And Abdullah (b. Umar) used to come to the feast, whether it was a wedding feast or other than that, and he would come there even in the state of fasting."
+      }
+    },
+    {
+      "id": 120,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي عُمَرُ بْنُ مُحَمَّدٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا دُعِيتُمْ إِلَى كُرَاعٍ فَأَجِيبُوا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Ibn Umar (Allah be pleased with them) reported Allah's Apostle (ﷺ) having said:",
+        "text": "When you are invited to a feast (even though it is) the leg of the sheep, you should accept it."
+      }
+    },
+    {
+      "id": 121,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ، اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِي قَالاَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِذَا دُعِيَ أَحَدُكُمْ إِلَى طَعَامٍ فَلْيُجِبْ فَإِنْ شَاءَ طَعِمَ وَإِنْ شَاءَ تَرَكَ ‏\"‏ ‏.‏ وَلَمْ يَذْكُرِ ابْنُ الْمُثَنَّى ‏\"‏ إِلَى طَعَامٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir (Allah be pleased with him) reported that Allah's Messenger (may peace he upon him) said:",
+        "text": "When any one of you is invited to a feast, he should accept it. He may eat if he likes, or he may abandon (eating) if he likes. Ibn Mathanni did not make mention of the word\" feast\"."
+      }
+    },
+    {
+      "id": 122,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، بِهَذَا الإِسْنَادِ بِمِثْلِهِ.",
+      "english": {
+        "narrator": "",
+        "text": "A hadith like this has been narrated on the authority of Abd Zubair with the same chain of transmitters."
+      }
+    },
+    {
+      "id": 123,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ هِشَامٍ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا دُعِيَ أَحَدُكُمْ فَلْيُجِبْ فَإِنْ كَانَ صَائِمًا فَلْيُصَلِّ وَإِنْ كَانَ مُفْطِرًا فَلْيَطْعَمْ ‏\".",
+      "english": {
+        "narrator": "Abu Haraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:",
+        "text": "If any one of you is invited, he should accept (the invitation). In case he is fasting, he should pray (in order to bless the inmates of the house), and if he is not fasting he should eat."
+      }
+    },
+    {
+      "id": 124,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ كَانَ يَقُولُ بِئْسَ الطَّعَامُ طَعَامُ الْوَلِيمَةِ يُدْعَى إِلَيْهِ الأَغْنِيَاءُ وَيُتْرَكُ الْمَسَاكِينُ فَمَنْ لَمْ يَأْتِ الدَّعْوَةَ فَقَدْ عَصَى اللَّهَ وَرَسُولَهُ ‏.‏",
+      "english": {
+        "narrator": "Abu Huraira (Allah be pleased with him) used to say:",
+        "text": "The worst kind of food is the wedding feast to which the rich are invited and the poor are ignored. He who does not come to the feast, he in fact disobeys Allah and His Messenger (ﷺ)."
+      }
+    },
+    {
+      "id": 125,
+      "chapterId": 16,
+      "bookId": 2,
+      "arabic": "وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، قَالَ قُلْتُ لِلزُّهْرِيِّ يَا أَبَا بَكْرٍ كَيْفَ هَذَا الْحَدِيثُ شَرُّ الطَّعَامِ طَعَامُ الأَغْنِيَاءِ فَضَحِكَ فَقَالَ لَيْسَ هُوَ شَرُّ الطَّعَامِ طَعَامُ الأَغْنِيَاءِ ‏.‏ قَالَ سُفْيَانُ وَكَانَ أَبِي غَنِيًّا فَأَفْزَعَنِي هَذَا الْحَدِيثُ حِينَ سَمِعْتُ بِهِ فَسَأَلْتُ عَنْهُ الزُّهْرِيَّ فَقَالَ حَدَّثَنِي عَبْدُ الرَّحْمَنِ الأَعْرَجُ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ يَقُولُ شَرُّ الطَّعَامِ طَعَامُ الْوَلِيمَةِ ‏.‏ ثُمَّ ذَكَرَ بِمِثْلِ حَدِيثِ مَالِكٍ.",
+      "english": {
+        "narrator": "Sufyan reported:",
+        "text": "I said to Zuhri: Abu Bakr, what does this hadith mean:\" The worst kind of food is at a wedding feast of the rich\"? He laughed and said: The food served in the feast given by the rich is not worst (in itself). Sufyan said: My father was rich, so I felt disturbed when I heard this hadith, so I asked Zuhri who said: I heard from 'Abd al-Rahman al-Alraj that he heard Abu Huraira (Allah he pleased with him) say: The worst kind of food is that served at the wedding feast. The rest of the hadith is the same."
+      }
+    }
+  ]
+}

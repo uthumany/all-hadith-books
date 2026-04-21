@@ -1,0 +1,16 @@
+{
+  "id": 567,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا كَهْمَسُ بْنُ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، قَالَ سَأَلْتُ عَائِشَةَ أَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْرَأُ السُّورَةَ فِي رَكْعَةٍ قَالَتِ الْمُفَصَّلَ ‏.‏ قَالَ قُلْتُ فَكَانَ يُصَلِّي قَاعِدًا قَالَتْ حِينَ حَطَمَهُ النَّاسُ ‏.‏",
+  "english": {
+    "narrator": "‘Abd Allah b. Shaqiq said:",
+    "text": "I asked ‘A’ishah whether the Messenger of Allah (ﷺ) recited a whole Surah (of the Quran) in one Rak’ah of the prayer. She replied : (He recited from among) the Mufassal surahs. I asked: Did he pray (at night) sitting? She replied : (he prayed sitting) when the people made him old."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

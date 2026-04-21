@@ -1,0 +1,16 @@
+{
+  "id": 87,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا جَعْفَرُ بْنُ مُسَافِرٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ حَسَّانَ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ حَدَّثَنَا ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الدُّبَّاءِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Ibn 'Umar that:",
+    "text": "The Messenger of Allah  forbade Ad-Dubba' (gourds)."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

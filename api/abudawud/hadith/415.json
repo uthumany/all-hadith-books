@@ -1,0 +1,16 @@
+{
+  "id": 415,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرٌ، عَنْ شُعْبَةَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرٍ، أَنَّهُ ذَهَبَ إِلَى النَّبِيِّ صلى الله عليه وسلم فِي دَيْنِ أَبِيهِ فَدَقَقْتُ الْبَابَ فَقَالَ ‏\"‏ مَنْ هَذَا ‏\"‏ ‏.‏ قُلْتُ أَنَا ‏.‏ قَالَ ‏\"‏ أَنَا أَنَا ‏\"‏ ‏.‏ كَأَنَّهُ كَرِهَهُ ‏.‏",
+  "english": {
+    "narrator": "Jabir said that he went to the prophet (ﷺ) about the debt of my father. He said :",
+    "text": "I knocked at the door. He asked : who is there? I replied: it is I. he said: I, as though he disapproved of it."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

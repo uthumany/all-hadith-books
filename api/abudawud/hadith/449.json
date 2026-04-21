@@ -1,0 +1,16 @@
+{
+  "id": 449,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا الْمُعْتَمِرُ، عَنْ إِيَاسِ بْنِ دَغْفَلٍ، قَالَ رَأَيْتُ أَبَا نَضْرَةَ قَبَّلَ خَدَّ الْحَسَنِ بْنِ عَلِيٍّ عَلَيْهِمَا السَّلاَمُ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuNadrah:",
+    "text": "Ilyas ibn Dighfal said: I saw AbuNadrah kissing on the cheek of al-Hasan."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 49,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏ ما يزال البلاء بالمؤمن والمؤمنة في  نفسه وولده ة وماله حتى يلقى الله تعالى وما عليه خطيئة‏\"‏ ‏(‏‏(‏رواه الترمذي وقال حديث حسن صحيح‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"A Muslim, male or female, continues to remain under trial in respect of his life, property and offspring until he faces Allah, the Exalted, with no sin record\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

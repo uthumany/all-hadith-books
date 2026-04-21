@@ -1,0 +1,16 @@
+{
+  "id": 452,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي وَهْبُ بْنُ بَقِيَّةَ الْوَاسِطِيُّ، أَنْبَأَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنْ حُصَيْنٍ، عَنِ الْمُسَيَّبِ بْنِ عَبْدِ خَيْرٍ، عَنْ أَبِيهِ، قَالَ قَامَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ فَقَالَ خَيْرُ هَذِهِ الْأُمَّةِ بَعْدَ نَبِيِّهَا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَبُو بَكْرٍ وَعُمَرُ وَإِنَّا قَدْ أَحْدَثْنَا بَعْدُ أَحْدَاثًا يَقْضِي اللَّهُ فِيهَا مَا شَاءَ‏.‏",
+  "english": {
+    "narrator": "It was narrated from al-Musayyab bin `Abd Khair, that his father said:",
+    "text": "`Ali (رضي الله عنه) stood up and said: The best of this ummah; after its Prophet      (ﷺ) is Abu Bakr, and ‘Umar, then we got involved in matters which Allah will judge as He wills."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

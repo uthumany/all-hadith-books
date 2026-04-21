@@ -1,0 +1,16 @@
+{
+  "id": 109,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا أَبُو مَرْوَانَ، مُحَمَّدُ بْنُ عُثْمَانَ الْعُثْمَانِيُّ حَدَّثَنَا أَبِي عُثْمَانُ بْنُ خَالِدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي الزِّنَادِ، عَنْ أَبِيهِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ لِكُلِّ نَبِيٍّ رَفِيقٌ فِي الْجَنَّةِ وَرَفِيقِي فِيهَا عُثْمَانُ بْنُ عَفَّانَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Abu Hurairah that:",
+    "text": "The Messenger of Allah said: \"Every Prophet will have a friend in Paradise, and my friend there will be 'Uthman bin 'Affan.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

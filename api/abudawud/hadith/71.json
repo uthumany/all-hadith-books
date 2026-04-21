@@ -1,0 +1,16 @@
+{
+  "id": 71,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الصَّوَّافُ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ حُمْرَانَ، أَخْبَرَنَا عَوْفُ بْنُ أَبِي جَمِيلَةَ، عَنْ زِيَادِ بْنِ مِخْرَاقٍ، عَنْ أَبِي كِنَانَةَ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ مِنْ إِجْلاَلِ اللَّهِ إِكْرَامَ ذِي الشَّيْبَةِ الْمُسْلِمِ وَحَامِلِ الْقُرْآنِ غَيْرِ الْغَالِي فِيهِ وَالْجَافِي عَنْهُ وَإِكْرَامَ ذِي السُّلْطَانِ الْمُقْسِطِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuMusa al-Ash'ari:",
+    "text": "The Prophet (ﷺ) said: Glorifying Allah involves showing honour to a grey-haired Muslim and to one who can expound the Qur'an, but not to one who acts extravagantly regarding it, or turns away from it, and showing honour to a just ruler."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

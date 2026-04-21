@@ -1,0 +1,16 @@
+{
+  "id": 105,
+  "chapterId": 54,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنِي ابْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ \n سِمَاكٍ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏ قَالَ سِمَاكٌ وَسَمِعْتُ أَخِي، يَقُولُ قَالَ جَابِرٌ فَاحْذَرُوهُمْ ‏.‏",
+  "english": {
+    "narrator": "This hadith has been narrated on the authority of Simak with the same chain of transmitters. and Simak said:",
+    "text": "I heard my brother say that jabir had stated: Be on your guard against them."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

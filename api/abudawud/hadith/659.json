@@ -1,0 +1,16 @@
+{
+  "id": 659,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، - يَعْنِي ابْنَ الْحَارِثِ - أَنَّ الْجُلاَحَ، مَوْلَى عَبْدِ الْعَزِيزِ حَدَّثَهُ أَنَّ أَبَا سَلَمَةَ - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ - حَدَّثَهُ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\"‏ يَوْمُ الْجُمُعَةِ ثِنْتَا عَشْرَةَ ‏\"‏ ‏.‏ يُرِيدُ سَاعَةً ‏\"‏ لاَ يُوجَدُ مُسْلِمٌ يَسْأَلُ اللَّهَ عَزَّ وَجَلَّ شَيْئًا إِلاَّ آتَاهُ اللَّهُ عَزَّ وَجَلَّ فَالْتَمِسُوهَا آخِرَ سَاعَةٍ بَعْدَ الْعَصْرِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Jabir ibn Abdullah:",
+    "text": "The Prophet (ﷺ) said: Friday is divided into twelve hours. Amongst them there is an hour in which a Muslim does not ask Allah  for anything but He gives it to him. So seek it in the last hour after the afternoon prayer."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

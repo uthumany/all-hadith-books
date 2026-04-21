@@ -1,0 +1,510 @@
+{
+  "page": 50,
+  "perPage": 50,
+  "totalPages": 116,
+  "totalCount": 5768,
+  "nextPage": 51,
+  "prevPage": 49,
+  "items": [
+    {
+      "id": 12,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عِيسَى بْنُ حَمَّادٍ، قَالَ أَنْبَأَنَا اللَّيْثُ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرِو بْنِ يَحْيَى بْنِ عُمَارَةَ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَيْسَ فِيمَا دُونَ خَمْسَةِ ذَوْدٍ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسَةِ أَوَاقٍ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسَةِ أَوْسُقٍ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Saeed Al-Khudri that the Messenger of Allah said:",
+        "text": "\"No Sadaqah is due on less than five Dhawd (head of camel), and no Sadaqah is due on less than five Awaq, and no Sadaqah is due on less than five Awsuq.\""
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا الْمُظَفَّرُ بْنُ مُدْرِكٍ أَبُو كَامِلٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، قَالَ أَخَذْتُ هَذَا الْكِتَابَ مِنْ ثُمَامَةَ بْنِ عَبْدِ اللَّهِ بْنِ أَنَسِ بْنِ مَالِكٍ عَنْ أَنَسِ بْنِ مَالِكٍ أَنَّ أَبَا بَكْرٍ كَتَبَ لَهُمْ إِنَّ هَذِهِ فَرَائِضُ الصَّدَقَةِ الَّتِي فَرَضَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى الْمُسْلِمِينَ الَّتِي أَمَرَ اللَّهُ عَزَّ وَجَلَّ بِهَا رَسُولَهُ صلى الله عليه وسلم فَمَنْ سُئِلَهَا مِنَ الْمُسْلِمِينَ عَلَى وَجْهِهَا فَلْيُعْطِ وَمَنْ سُئِلَ فَوْقَ ذَلِكَ فَلاَ يُعْطِ فِيمَا دُونَ خَمْسٍ وَعِشْرِينَ مِنَ الإِبِلِ فِي كُلِّ خَمْسِ ذَوْدٍ شَاةٌ فَإِذَا بَلَغَتْ خَمْسًا وَعِشْرِينَ فَفِيهَا بِنْتُ مَخَاضٍ إِلَى خَمْسٍ وَثَلاَثِينَ فَإِنْ لَمْ تَكُنْ بِنْتُ مَخَاضٍ فَابْنُ لَبُونٍ ذَكَرٌ فَإِذَا بَلَغَتْ سِتًّا وَثَلاَثِينَ فَفِيهَا بِنْتُ لَبُونٍ إِلَى خَمْسٍ وَأَرْبَعِينَ فَإِذَا بَلَغَتْ سِتَّةً وَأَرْبَعِينَ فَفِيهَا حِقَّةٌ طَرُوقَةُ الْفَحْلِ إِلَى سِتِّينَ فَإِذَا بَلَغَتْ إِحْدَى وَسِتِّينَ فَفِيهَا جَذَعَةٌ إِلَى خَمْسٍ وَسَبْعِينَ فَإِذَا بَلَغَتْ سِتًّا وَسَبْعِينَ فَفِيهَا بِنْتَا لَبُونٍ إِلَى تِسْعِينَ فَإِذَا بَلَغَتْ إِحْدَى وَتِسْعِينَ فَفِيهَا حِقَّتَانِ طَرُوقَتَا الْفَحْلِ إِلَى عِشْرِينَ وَمِائَةٍ فَإِذَا زَادَتْ عَلَى عِشْرِينَ وَمِائَةٍ فَفِي كُلِّ أَرْبَعِينَ بِنْتُ لَبُونٍ وَفِي كُلِّ خَمْسِينَ حِقَّةٌ فَإِذَا تَبَايَنَ أَسْنَانُ الإِبِلِ فِي فَرَائِضِ الصَّدَقَاتِ فَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ الْجَذَعَةِ وَلَيْسَتْ عِنْدَهُ جَذَعَةٌ وَعِنْدَهُ حِقَّةٌ فَإِنَّهَا تُقْبَلُ مِنْهُ الْحِقَّةُ وَيَجْعَلُ مَعَهَا شَاتَيْنِ إِنِ اسْتَيْسَرَتَا لَهُ أَوْ عِشْرِينَ دِرْهَمًا وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ الْحِقَّةِ وَلَيْسَتْ عِنْدَهُ حِقَّةٌ وَعِنْدَهُ جَذَعَةٌ فَإِنَّهَا تُقْبَلُ مِنْهُ وَيُعْطِيهِ الْمُصَدِّقُ عِشْرِينَ دِرْهَمًا أَوْ شَاتَيْنِ إِنِ اسْتَيْسَرَتَا لَهُ وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ الْحِقَّةِ وَلَيْسَتْ عِنْدَهُ وَعِنْدَهُ بِنْتُ لَبُونٍ فَإِنَّهَا تُقْبَلُ مِنْهُ وَيَجْعَلُ مَعَهَا شَاتَيْنِ إِنِ اسْتَيْسَرَتَا لَهُ أَوْ عِشْرِينَ دِرْهَمًا وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ ابْنَةِ لَبُونٍ وَلَيْسَتْ عِنْدَهُ إِلاَّ حِقَّةٌ فَإِنَّهَا تُقْبَلُ مِنْهُ وَيُعْطِيهِ الْمُصَدِّقُ عِشْرِينَ دِرْهَمًا أَوْ شَاتَيْنِ وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ ابْنَةِ لَبُونٍ وَلَيْسَتْ عِنْدَهُ بِنْتُ لَبُونٍ وَعِنْدَهُ بِنْتُ مَخَاضٍ فَإِنَّهَا تُقْبَلُ مِنْهُ وَيَجْعَلُ مَعَهَا شَاتَيْنِ إِنِ اسْتَيْسَرَتَا لَهُ أَوْ عِشْرِينَ دِرْهَمًا وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ ابْنَةِ مَخَاضٍ وَلَيْسَ عِنْدَهُ إِلاَّ ابْنُ لَبُونٍ ذَكَرٌ فَإِنَّهُ يُقْبَلُ مِنْهُ وَلَيْسَ مَعَهُ شَىْءٌ وَمَنْ لَمْ يَكُنْ عِنْدَهُ إِلاَّ أَرْبَعٌ مِنَ الإِبِلِ فَلَيْسَ فِيهَا شَىْءٌ إِلاَّ أَنْ يَشَاءَ رَبُّهَا وَفِي صَدَقَةِ الْغَنَمِ فِي سَائِمَتِهَا إِذَا كَانَتْ أَرْبَعِينَ فَفِيهَا شَاةٌ إِلَى عِشْرِينَ وَمِائَةٍ فَإِذَا زَادَتْ وَاحِدَةٌ فَفِيهَا شَاتَانِ إِلَى مِائَتَيْنِ فَإِذَا زَادَتْ وَاحِدَةٌ فَفِيهَا ثَلاَثُ شِيَاهٍ إِلَى ثَلاَثِمِائَةٍ فَإِذَا زَادَتْ فَفِي كُلِّ مِائَةٍ شَاةٌ وَلاَ يُؤْخَذُ فِي الصَّدَقَةِ هَرِمَةٌ وَلاَ ذَاتُ عَوَارٍ وَلاَ تَيْسُ الْغَنَمِ إِلاَّ أَنْ يَشَاءَ الْمُصَّدِّقُ وَلاَ يُجْمَعُ بَيْنَ مُتَفَرِّقٍ وَلاَ يُفَرَّقُ بَيْنَ مُجْتَمِعٍ خَشْيَةَ الصَّدَقَةِ وَمَا كَانَ مِنْ خَلِيطَيْنِ فَإِنَّهُمَا يَتَرَاجَعَانِ بَيْنَهُمَا بِالسَّوِيَّةِ فَإِذَا كَانَتْ سَائِمَةُ الرَّجُلِ نَاقِصَةً مِنْ أَرْبَعِينَ شَاةٌ وَاحِدَةٌ فَلَيْسَ فِيهَا شَىْءٌ إِلاَّ أَنْ يَشَاءَ رَبُّهَا وَفِي الرِّقَةِ رُبُعُ الْعُشْرِ فَإِنْ لَمْ تَكُنْ إِلاَّ تِسْعِينَ وَمِائَةَ دِرْهَمٍ فَلَيْسَ فِيهَا شَىْءٌ إِلاَّ أَنْ يَشَاءَ رَبُّهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Anas bin Malik that Abu Bakar wrote to them:",
+        "text": "\"This is the obligation of Sadaqah which the Messenger of Allah enjoined upon the Muslims, as Allah , the Mighty and Sublime, commanded the Messenger of Allah .Whoever is asked for it in the manner explained (in the letter of Abu Bakar), let him give it, and whoever is asked for more than that, let him not give it. When there are less than twenty-five camels, for every five camels, one sheep (is to be given). If the number reaches twenty five, then a Bint Makhad (a one-year old she-camel) is due, up to thirty-five. If a Bint Makhad is not available, then a Bin Labun (a two-year old male camel). If the number reaches thirty-six, then a Bint Labun (a two-yer-old she-camel) is due, up to forty-five. If the number reaches forty-six, then a Hiqqqah (a three-year-old she-camel) that has been bred from a stallion camel is due, up to sixty. If the number reaches sixty-one, then a Jadhah (a four-year-old she-camel) is due, up to seventy-six, then two Bint Labuns (two-year-old she-camels0 are due, up to ninety. If the number reaches ninety-one, then two Hiqqahs (three-year-old she-camels) that have been bred from stallion camels are due, up to one hundred and twenty. If there are more than one hundred and twenty, then for every forty a Bint Labun, and for every fifty a Hiqqah. In the event that a person does not have a camel of the age specified according to the Hiaqah regulations, then if a person owes a Jadhah as Sadaqah  but he does not have  a Jadhah, then a Hiqqah should be accepted from him, and he should give two sheep along with it if they are available, or twenty Dirhams, If he owes a Hiqqah as Sadaqah and he does not have Hiqqah but he has a Jadhah, then if should be accepted from him, and the Zakah collector should give him twenty Dirhams, or two sheep if they are available. If a person owes a Hiqqah as Sadaqah and he does not have one, but he has a Bint Labun, it should be accepted from him, and he should give two sheep along with it if they are available, or twenty Dirhams. If a person owes a Bint Labun as Sadaqah but he only has a Hiqaah, then it should be accepted from him and the Zakah collector should give him twenty Dirhams, or two sheep. If a person owes a Bint Labun as Sadaqah but he only has a Bint Makhad, then it should be accepted from him, and he should be accepted from him, and he should give two sheep along with it if they are available, or twenty Dirhams. If a person owes a Bint Makhad as Sadaqah but he only has a Bint Labun, a male; it should be accepted from him, and he does not have to give anything else along with it. If a person has only four camels he does not have to give anything unless their owner wants to. With regard to the Sadaqah on grazing sheep, if there are forty, then one sheep is due upon them, up to one hundred and twenty. If there is one more, then two sheep are due, up to two hundred. If there is one more, then three sheep are due, up to three hundred. If there are more than that, then for every hundred, one sheep is due. No feeble, defective or male sheep should be taken as Sadaqah unless the Zakah collector wishes. Do not combine separate flocks or separate combined flocks for fear of Sadaqah. Each partner (who has a share in a combined flock) should pay the Sadaqah in proportion to his shares. If a man's flock is one less than forty sheep, then nothing is due from them, unless their owner wishes. With regard to silver, one-quarter of one-tenth, and if there are only one hundred and ninety Dirhams, no Zakah is due unless the owner wishes.\""
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عِمْرَانُ بْنُ بَكَّارٍ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ عَيَّاشٍ، قَالَ حَدَّثَنَا شُعَيْبٌ، قَالَ حَدَّثَنِي أَبُو الزِّنَادِ، مِمَّا حَدَّثَهُ عَبْدُ الرَّحْمَنِ الأَعْرَجُ، مِمَّا ذَكَرَ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يُحَدِّثُ بِهِ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ تَأْتِي الإِبِلُ عَلَى رَبِّهَا عَلَى خَيْرِ مَا كَانَتْ إِذَا هِيَ لَمْ يُعْطِ فِيهَا حَقَّهَا تَطَؤُهُ بِأَخْفَافِهَا وَتَأْتِي الْغَنَمُ عَلَى رَبِّهَا عَلَى خَيْرِ مَا كَانَتْ إِذَا لَمْ يُعْطِ فِيهَا حَقَّهَا تَطَؤُهُ بِأَظْلاَفِهَا وَتَنْطَحُهُ بِقُرُونِهَا - قَالَ - وَمِنْ حَقِّهَا أَنْ تُحْلَبَ عَلَى الْمَاءِ أَلاَ لاَ يَأْتِيَنَّ أَحَدُكُمْ يَوْمَ الْقِيَامَةِ بِبَعِيرٍ يَحْمِلُهُ عَلَى رَقَبَتِهِ لَهُ رُغَاءٌ فَيَقُولُ يَا مُحَمَّدُ ‏.‏ فَأَقُولُ لاَ أَمْلِكُ لَكَ شَيْئًا قَدْ بَلَّغْتُ ‏.‏ أَلاَ لاَ يَأْتِيَنَّ أَحَدُكُمْ يَوْمَ الْقِيَامَةِ بِشَاةٍ يَحْمِلُهَا عَلَى رَقَبَتِهِ لَهَا يُعَارٌ فَيَقُولُ يَا مُحَمَّدُ ‏.‏ فَأَقُولُ لاَ أَمْلِكُ لَكَ شَيْئًا قَدْ بَلَّغْتُ - قَالَ - وَيَكُونُ كَنْزُ أَحَدِهِمْ يَوْمَ الْقِيَامَةِ شُجَاعًا أَقْرَعَ يَفِرُّ مِنْهُ صَاحِبُهُ وَيَطْلُبُهُ أَنَا كَنْزُكَ فَلاَ يَزَالُ حَتَّى يُلْقِمَهُ أُصْبُعَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: '(On the Day of Resurrection) camels will come to their owner in the best state of health that they ever had (in this world) and if he did not pay what was due on them, they will trample him with their hooves. Sheep willcome to their owner in the best state of health that they ever had (in this world) and if he did not pay what was due on them, they will trample him with their cloven hooves and gore him with their horns. And among their rights are that they should be milked with water in the front of them. I do not want any one of you to come on the Day of Resurrection with a groaning camel on his neck, saying , O Muhammad, and I will say: I cannot do anything for you, I conveyed the message. I do not  want any one of you to come on the Day of Resurrection with a bleating sheep on his neck, saying, \"O Muhammad,\" and I will say: \"I cannot do anything for you, I conveyed the message.\" And on the Day of Resurrection the hoarded treasure of one of you will be a blad-headed Shujaafrom which its owner will flee, but it will chase him (saying), I am your hoarded treasure, and it will keep (chasing him) until he gives it his finger to swallow.\"'"
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ بَهْزَ بْنَ حَكِيمٍ، يُحَدِّثُ عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ فِي كُلِّ إِبِلٍ سَائِمَةٍ مِنْ كُلِّ أَرْبَعِينَ ابْنَةُ لَبُونٍ لاَ تُفَرَّقُ إِبِلٌ عَنْ حِسَابِهَا مَنْ أَعْطَاهَا مُؤْتَجِرًا لَهُ أَجْرُهَا وَمَنْ مَنَعَهَا فَإِنَّا آخِذُوهَا وَشَطْرَ إِبِلِهِ عَزْمَةً مِنْ عَزَمَاتِ رَبِّنَا لاَ يَحِلُّ لآلِ مُحَمَّدٍ صلى الله عليه وسلم مِنْهَا شَىْءٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Bahz bin Hakim narrated from his father that his grandfather said:",
+        "text": "\"I heard the Messenger of Allah say: 'With regard to grazing camels, for every forty a Bint Labun. No differentiation is to be made between camels when calculating them. Whoever gives it seeking reward will be rewarded for it. Whoever refuses, we will take it and half of his camels, as one of the rights of our Lord. And it is not permissible for the family of Muhammad to have any of them.\"'"
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، قَالَ حَدَّثَنَا مُفَضَّلٌ، - وَهُوَ ابْنُ مُهَلْهَلٍ - عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ مَسْرُوقٍ، عَنْ مُعَاذٍ، ‏.‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَهُ إِلَى الْيَمَنِ وَأَمَرَهُ أَنْ يَأْخُذَ مِنْ كُلِّ حَالِمٍ دِينَارًا أَوْ عِدْلَهُ مَعَافِرَ وَمِنَ الْبَقَرِ مِنْ ثَلاَثِينَ تَبِيعًا أَوْ تَبِيعَةً وَمِنْ كُلِّ أَرْبَعِينَ مُسِنَّةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Muadh:",
+        "text": "That the Messenger of Allah sent him to Yemen, and he commanded him to take a Dinar, or its equivalent in Maafr, from each person who had reached the age of puberty. And with regard to cattle, from every thirty a male or female Tabi '(two-year-old). And from every forty a Musinnah (three-year-old). (Daif)"
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا يَعْلَى، - وَهُوَ ابْنُ عُبَيْدٍ - قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ شَقِيقٍ، عَنْ مَسْرُوقٍ، وَالأَعْمَشُ، عَنْ إِبْرَاهِيمَ، قَالاَ قَالَ مُعَاذٌ بَعَثَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الْيَمَنِ فَأَمَرَنِي أَنْ آخُذَ مِنْ كُلِّ أَرْبَعِينَ بَقَرَةً ثَنِيَّةً وَمِنْ كُلِّ ثَلاَثِينَ تَبِيعًا وَمِنْ كُلِّ حَالِمٍ دِينَارًا أَوْ عِدْلَهُ مَعَافِرَ ‏.‏",
+      "english": {
+        "narrator": "Muadh said:",
+        "text": "\"The Messenger of Allah sent me to Yemen, and he commanded me to take from every forty cows, a cow in its third year, and from every thirty, a Tabi '(two-year-old), and from every person who had reached the age of puberty a Dinar or is equivalent in Maafir.\" (Daif)"
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ مَسْرُوقٍ، عَنْ مُعَاذٍ، قَالَ لَمَّا بَعَثَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الْيَمَنِ أَمَرَهُ أَنْ يَأْخُذَ مِنْ كُلِّ ثَلاَثِينَ مِنَ الْبَقَرِ تَبِيعًا أَوْ تَبِيعَةً وَمِنْ كُلِّ أَرْبَعِينَ مُسِنَّةً وَمِنْ كُلِّ حَالِمٍ دِينَارًا أَوْ عِدْلَهُ مَعَافِرَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Mu'adh said:",
+        "text": "That when the Messenger of Allah sent him to Yemen, he commanded him to take from every thirty, cattle a male or female Tabi'(two-year-old), and from every forty, a Musinnah (three-year-old), and from every person who had reached the age of puberty a Dinar or is equivalent in Ma'afir. (Da 'if)"
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ الطُّوسِيُّ، قَالَ حَدَّثَنَا يَعْقُوبُ، قَالَ حَدَّثَنَا أَبِي، عَنِ ابْنِ إِسْحَاقَ، قَالَ حَدَّثَنِي سُلَيْمَانُ الأَعْمَشُ، عَنْ أَبِي وَائِلِ بْنِ سَلَمَةَ، عَنْ مُعَاذِ بْنِ جَبَلٍ، قَالَ أَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم حِينَ بَعَثَنِي إِلَى الْيَمَنِ أَنْ لاَ آخُذَ مِنَ الْبَقَرِ شَيْئًا حَتَّى تَبْلُغَ ثَلاَثِينَ فَإِذَا بَلَغَتْ ثَلاَثِينَ فَفِيهَا عِجْلٌ تَابِعٌ جَذَعٌ أَوْ جَذَعَةٌ حَتَّى تَبْلُغَ أَرْبَعِينَ فَإِذَا بَلَغَتْ أَرْبَعِينَ فَفِيهَا بَقَرَةٌ مُسِنَّةٌ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Muadh to Yemen:",
+        "text": "The Messenger of Allah commanded me not to take any cattle until the number had reached thirty. If the number reached thirty, then a Jadh'ah calf in its second year, either male or female, was due on them, until the number reached forty. If the number reached forty. If the number reached forty, then a Musinnah was due on them.\" (Daif)"
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، عَنِ ابْنِ فُضَيْلٍ، عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا مِنْ صَاحِبِ إِبِلٍ وَلاَ بَقَرٍ وَلاَ غَنَمٍ لاَ يُؤَدِّي حَقَّهَا إِلاَّ وُقِفَ لَهَا يَوْمَ الْقِيَامَةِ بِقَاعٍ قَرْقَرٍ تَطَؤُهُ ذَاتُ الأَظْلاَفِ بِأَظْلاَفِهَا وَتَنْطَحُهُ ذَاتُ الْقُرُونِ بِقُرُونِهَا لَيْسَ فِيهَا يَوْمَئِذٍ جَمَّاءُ وَلاَ مَكْسُورَةُ الْقَرْنِ ‏\"‏ ‏.‏ قُلْنَا يَا رَسُولَ اللَّهِ وَمَاذَا حَقُّهَا قَالَ ‏\"‏ إِطْرَاقُ فَحْلِهَا وَإِعَارَةُ دَلْوِهَا وَحَمْلٌ عَلَيْهَا فِي سَبِيلِ اللَّهِ وَلاَ صَاحِبِ مَالٍ لاَ يُؤَدِّي حَقَّهُ إِلاَّ يُخَيَّلُ لَهُ يَوْمَ الْقِيَامَةِ شُجَاعٌ أَقْرَعُ يَفِرُّ مِنْهُ صَاحِبُهُ وَهُوَ يَتْبَعُهُ يَقُولُ لَهُ هَذَا كَنْزُكَ الَّذِي كُنْتَ تَبْخَلُ بِهِ فَإِذَا رَأَى أَنَّهُ لاَ بُدَّ لَهُ مِنْهُ أَدْخَلَ يَدَهُ فِي فِيهِ فَجَعَلَ يَقْضَمُهَا كَمَا يَقْضَمُ الْفَحْلُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Jabir bin Abdullah said:",
+        "text": "\"The Messenger of Allah said: 'There is no owner of camels or cattle or sheep who does not give what is due on them, but he will be made to stand for them on the Day of Resurrection in a flat arena, and those with hooves will trample him with their hooves, and those with horns will gore him with their horns. And on that day there will be none that are hornless or have broken horns.' We said: 'O Messenger of Allah, what is due on them?' He said: Lending males for breeding, lending their buckets, and giving them to people to ride in the cause of Allah. And there is no owner of wealth who does not give what is due on it but a bald-headed Shujaawill appear to him on the Day of Resurrection; its owner will flee from it and it will chase him and say to him: This is your treasure which you used to hoard. When he realizes that he cannot escape it he will put his hand in its mouth and it will start to bite it as a stallion bites.\"'"
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ فَضَالَةَ بْنِ إِبْرَاهِيمَ النَّسَائِيُّ، قَالَ أَنْبَأَنَا شُرَيْحُ بْنُ النُّعْمَانِ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثُمَامَةَ بْنِ عَبْدِ اللَّهِ بْنِ أَنَسِ بْنِ مَالِكٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ أَبَا بَكْرٍ، رضى الله عنه كَتَبَ لَهُ أَنَّ هَذِهِ فَرَائِضُ الصَّدَقَةِ الَّتِي فَرَضَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى الْمُسْلِمِينَ الَّتِي أَمَرَ اللَّهُ بِهَا رَسُولَهُ صلى الله عليه وسلم فَمَنْ سُئِلَهَا مِنَ الْمُسْلِمِينَ عَلَى وَجْهِهَا فَلْيُعْطِهَا وَمَنْ سُئِلَ فَوْقَهَا فَلاَ يُعْطِهِ فِيمَا دُونَ خَمْسٍ وَعِشْرِينَ مِنَ الإِبِلِ فِي خَمْسِ ذَوْدٍ شَاةٌ فَإِذَا بَلَغَتْ خَمْسًا وَعِشْرِينَ فَفِيهَا بِنْتُ مَخَاضٍ إِلَى خَمْسٍ وَثَلاَثِينَ فَإِنْ لَمْ تَكُنِ ابْنَةُ مَخَاضٍ فَابْنُ لَبُونٍ ذَكَرٌ فَإِذَا بَلَغَتْ سِتَّةً وَثَلاَثِينَ فَفِيهَا بِنْتُ لَبُونِ إِلَى خَمْسٍ وَأَرْبَعِينَ فَإِذَا بَلَغَتْ سِتَّةً وَأَرْبَعِينَ فَفِيهَا حِقَّةٌ طَرُوقَةُ الْفَحْلِ إِلَى سِتِّينَ فَإِذَا بَلَغَتْ إِحْدَى وَسِتِّينَ فَفِيهَا جَذَعَةٌ إِلَى خَمْسَةٍ وَسَبْعِينَ فَإِذَا بَلَغَتْ سِتَّةً وَسَبْعِينَ فَفِيهَا ابْنَتَا لَبُونٍ إِلَى تِسْعِينَ فَإِذَا بَلَغَتْ إِحْدَى وَتِسْعِينَ فَفِيهَا حِقَّتَانِ طَرُوقَتَا الْفَحْلِ إِلَى عِشْرِينَ وَمِائَةٍ فَإِذَا زَادَتْ عَلَى عِشْرِينَ وَمِائَةٍ فَفِي كُلِّ أَرْبَعِينَ ابْنَةُ لَبُونٍ وَفِي كُلِّ خَمْسِينَ حِقَّةٌ فَإِذَا تَبَايَنَ أَسْنَانُ الإِبِلِ فِي فَرَائِضِ الصَّدَقَاتِ فَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ الْجَذَعَةِ وَلَيْسَتْ عِنْدَهُ جَذَعَةٌ وَعِنْدَهُ حِقَّةٌ فَإِنَّهَا تُقْبَلُ مِنْهُ الْحِقَّةُ وَيَجْعَلُ مَعَهَا شَاتَيْنِ إِنِ اسْتَيْسَرَتَا لَهُ أَوْ عِشْرِينَ دِرْهَمًا وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ الْحِقَّةِ وَلَيْسَتْ عِنْدَهُ إِلاَّ جَذَعَةٌ فَإِنَّهَا تُقْبَلُ مِنْهُ وَيُعْطِيهِ الْمُصَّدِّقُ عِشْرِينَ دِرْهَمًا أَوْ شَاتَيْنِ وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ الْحِقَّةِ وَلَيْسَتْ عِنْدَهُ وَعِنْدَهُ ابْنَةُ لَبُونٍ فَإِنَّهَا تُقْبَلُ مِنْهُ وَيَجْعَلُ مَعَهَا شَاتَيْنِ إِنِ اسْتَيْسَرَتَا لَهُ أَوْ عِشْرِينَ دِرْهَمًا وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ بِنْتِ لَبُونٍ وَلَيْسَتْ عِنْدَهُ إِلاَّ حِقَّةٌ فَإِنَّهَا تُقْبَلُ مِنْهُ وَيُعْطِيهِ الْمُصَّدِّقُ عِشْرِينَ دِرْهَمًا أَوْ شَاتَيْنِ وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ بِنْتِ لَبُونٍ وَعِنْدَهُ بِنْتُ مَخَاضٍ فَإِنَّهَا تُقْبَلُ مِنْهُ وَيَجْعَلُ مَعَهَا شَاتَيْنِ إِنِ اسْتَيْسَرَتَا لَهُ أَوْ عِشْرِينَ دِرْهَمًا وَمَنْ بَلَغَتْ عِنْدَهُ صَدَقَةُ ابْنَةِ مَخَاضٍ وَلَيْسَتْ عِنْدَهُ إِلاَّ ابْنُ لَبُونٍ ذَكَرٌ فَإِنَّهُ يُقْبَلُ مِنْهُ وَلَيْسَ مَعَهُ شَىْءٌ وَمَنْ لَمْ يَكُنْ عِنْدَهُ إِلاَّ أَرْبَعَةٌ مِنَ الإِبِلِ فَلَيْسَ فِيهَا شَىْءٌ إِلاَّ أَنْ يَشَاءَ رَبُّهَا وَفِي صَدَقَةِ الْغَنَمِ فِي سَائِمَتِهَا إِذَا كَانَتْ أَرْبَعِينَ فَفِيهَا شَاةٌ إِلَى عِشْرِينَ وَمِائَةٍ فَإِذَا زَادَتْ وَاحِدَةٌ فَفِيهَا شَاتَانِ إِلَى مِائَتَيْنِ فَإِذَا زَادَتْ وَاحِدَةٌ فَفِيهَا ثَلاَثُ شِيَاهٍ إِلَى ثَلاَثِمِائَةٍ فَإِذَا زَادَتْ وَاحِدَةٌ فَفِي كُلِّ مِائَةٍ شَاةٌ وَلاَ تُؤْخَذُ فِي الصَّدَقَةِ هَرِمَةٌ وَلاَ ذَاتُ عَوَارٍ وَلاَ تَيْسُ الْغَنَمِ إِلاَّ أَنْ يَشَاءَ الْمُصَّدِّقُ وَلاَ يُجْمَعُ بَيْنَ مُتَفَرِّقٍ وَلاَ يُفَرَّقُ بَيْنَ مُجْتَمِعٍ خَشْيَةَ الصَّدَقَةِ وَمَا كَانَ مِنْ خَلِيطَيْنِ فَإِنَّهُمَا يَتَرَاجَعَانِ بَيْنَهُمَا بِالسَّوِيَّةِ وَإِذَا كَانَتْ سَائِمَةُ الرَّجُلِ نَاقِصَةً مِنْ أَرْبَعِينَ شَاةٌ وَاحِدَةٌ فَلَيْسَ فِيهَا شَىْءٌ إِلاَّ أَنْ يَشَاءَ رَبُّهَا وَفِي الرِّقَةِ رُبُعُ الْعُشْرِ فَإِنْ لَمْ يَكُنِ الْمَالُ إِلاَّ تِسْعِينَ وَمِائَةً فَلَيْسَ فِيهِ شَىْءٌ إِلاَّ أَنْ يَشَاءَ رَبُّهَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Anas bin Malik that Abu Bakar, may Allah be pleased with him, wrote to him:",
+        "text": "\"This is the obligation of Sadaqah which  the Messenger of Allah enjoined upon the Muslims, as Allah commanded the Messenger of Allah Whoever is asked for it in the manner explained (in the letter of Abu Bakar), let him give it, and whoever is asked for more than that, let him not give it. When there are less than twenty-five camels, for every five camels, one sheep (is to be given). If the number reaches twenty-five, then a Bint Makhad (a one-year-old she-camel) is due, up to thirty-five. If a Bint Makhad (a one-year-old male camel). If the number reaches thirty-six, then a Bint Labun (a two-year-old she-camel) is due, up to forty five. If the number reaches forty-six, then a Hiqqah (a three year old she-camel) that was bred by a stallion camel is due, up to sixty. If the number reaches sixty-one, then a Jadh'ah (a four-year-old she-camel) is due, up to seventy-five. If the number reaches seventy-six, then two Bint Labun are due, up to ninety. If the number reaches ninety-one, then two Hiqqahs that have been bred by stallion camels are due, up to one hundred and twenty. If there are more than one hundred and twenty, then for every forty a Bint Labun and for every fifty a Hiqqah. In the event that a person does not have a camel of the age specified according to the Sadaqah regulation, then if a person owes a Jadh'ah but he has a Hiqqah, then the Hiqqah should be accepted from him and he should give two sheep along with it if they are available, or twenty Dirhams. If a person owes a Hiqqah as Sadaqah but he only has a Jadh'ah, then it shold be accepted from him, and the Zakah collector should give him twenty Dirhams or two sheep. If a person owes a Hiqqah and does not have one but he has a Bint Labun, it should be accepted from him, and he should give two sheep along with it, if they are available, or twenty Dirhams. If a person owes a Bint Labun as Sadaqah but he only has a Hiqqah, it should be accepted from him, and the Zakah collector should give him twenty Dirhams or two sheep. If a person owes a Bint Labun as Sadaqah and he does not have a Bint Labun, but he has a Bint Makhad. It should be accepted from him, and he should give two sheep along with it, if they are available, or twenty Dirhams. If a person owes a Bint Makhad as Sadaqah but he only has a Bint Labun, a male, it shold be accepted from him and nothing else (need be given) with it. If a person has only four camels, then nothing is due on them, unless their owner wishes (to give something). With regard to the Sadaqah of grazing sheep, if there are forty then one sheep is due, up to one hundred and twenty. If there is one more than that, then two sheep are due, up to two hundred. If there is one more than that, then three sheep are due, up to three hundred. If there is one more than that, then for every hundred one sheep is due, and no decrepit or defecting sheep or male sheep should be taken as Sadaqah unless the Zakah collector wishes. Do not combine separate flocks or separate combined flocks for fear of Sadaqah, Each partner (who has a share in a combined flock) shold pay Sadaqah in proportion to his shares. If a man's flock is one less than forty sheep, then nothing is due from them unless their owner wishes. With regard to silver, one-quarter of one-tenth, and if there are only one hundred and ninety, nothing is due unless the owner wishes.\""
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنِ الْمَعْرُورِ بْنِ سُوَيْدٍ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَا مِنْ صَاحِبِ إِبِلٍ وَلاَ بَقَرٍ وَلاَ غَنَمٍ لاَ يُؤَدِّي زَكَاتَهَا إِلاَّ جَاءَتْ يَوْمَ الْقِيَامَةِ أَعْظَمَ مَا كَانَتْ وَأَسْمَنَهُ تَنْطَحُهُ بِقُرُونِهَا وَتَطَؤُهُ بِأَخْفَافِهَا كُلَّمَا نَفَذَتْ أُخْرَاهَا أَعَادَتْ عَلَيْهِ أُولاَهَا حَتَّى يُقْضَى بَيْنَ النَّاسِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Dharr said:",
+        "text": "\"The Messenger of Allah said: There is no owner of camels, cattle or sheep who does not give Zakah on them, but they will come on the Day of Resurrection as big and fast as they ever were, and will gore him with their horns and trample him with their hooves. Every time the last of them has run over him the first of them will come back to him, until judgment is passed among the people.\""
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ هُشَيْمٍ، عَنْ هِلاَلِ بْنِ خَبَّابٍ، عَنْ مَيْسَرَةَ أَبِي صَالِحٍ، عَنْ سُوَيْدِ بْنِ غَفَلَةَ، قَالَ أَتَانَا مُصَدِّقُ النَّبِيِّ صلى الله عليه وسلم فَأَتَيْتُهُ فَجَلَسْتُ إِلَيْهِ فَسَمِعْتُهُ يَقُولُ ‏\"‏ إِنَّ فِي عَهْدِي أَنْ لاَ نَأْخُذَ رَاضِعَ لَبَنٍ وَلاَ نَجْمَعَ بَيْنَ مُتَفَرِّقٍ وَلاَ نُفَرِّقَ بَيْنَ مُجْتَمِعٍ ‏\"‏ ‏.‏ فَأَتَاهُ رَجُلٌ بِنَاقَةٍ كَوْمَاءَ فَقَالَ ‏\"‏ خُذْهَا ‏\"‏ ‏.‏ فَأَبَى",
+      "english": {
+        "narrator": "It was narrated that Suwaid bin Ghafalah said:",
+        "text": "\"The Zakah collector of the prophet came to us, and I went to him, sat with him, and heard him say: In my contract it says that we should not take any sucking young, nor combine what is separate, nor separate what is combined.' A man brought a she-camel with a big hump to him and said: 'Take it, but he refused.\" (Daif)"
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَارُونُ بْنُ زَيْدِ بْنِ يَزِيدَ، - يَعْنِي ابْنَ أَبِي الزَّرْقَاءِ - قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَاصِمِ بْنِ كُلَيْبٍ، عَنْ أَبِيهِ، عَنْ وَائِلِ بْنِ حُجْرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ سَاعِيًا فَأَتَى رَجُلاً فَأَتَاهُ فَصِيلاً مَخْلُولاً فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ بَعَثْنَا مُصَدِّقَ اللَّهِ وَرَسُولِهِ وَإِنَّ فُلاَنًا أَعْطَاهُ فَصِيلاً مَخْلُولاً اللَّهُمَّ لاَ تُبَارِكْ فِيهِ وَلاَ فِي إِبِلِهِ ‏\"‏ ‏.‏ فَبَلَغَ ذَلِكَ الرَّجُلَ فَجَاءَ بِنَاقَةٍ حَسْنَاءَ فَقَالَ أَتُوبُ إِلَى اللَّهِ عَزَّ وَجَلَّ وَإِلَى نَبِيِّهِ صلى الله عليه وسلم ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ اللَّهُمَّ بَارِكْ فِيهِ وَفِي إِبِلِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from wa'il bin Hujr that:",
+        "text": "the Prophet sent a collector and he came to a man who brought him a slim, recently-weaned camel. The Prophet said: \"We sent to Zakah collector of Allah and His Messenger, and so-and-so gave him a slim, recently-weaned camel. O Allah, do not bless him nor his camels!\" News of that reached the man, so he came with a beautiful she-camel and said: \"I repent to Allah and to His Prophet. \" The Prophet said: \"O Allah, bless him and his camels!\" (Daif)"
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ، قَالَ حَدَّثَنَا بَهْزُ بْنُ أَسَدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ عَمْرُو بْنُ مُرَّةَ أَخْبَرَنِي قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ أَبِي أَوْفَى، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَتَاهُ قَوْمٌ بِصَدَقَتِهِمْ قَالَ ‏\"‏ اللَّهُمَّ صَلِّ عَلَى آلِ فُلاَنٍ ‏\"‏ ‏.‏ فَأَتَاهُ أَبِي بِصَدَقَتِهِ فَقَالَ ‏\"‏ اللَّهُمَّ صَلِّ عَلَى آلِ أَبِي أَوْفَى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah bin Abi Awfa said:",
+        "text": "\"When people brought their Zakah to him, the Messenger of Allah would say: 'O Allah, send salah upon the family of so-and-so,' My father brought his Sadaqah to him and he said: 'O Allah, send Salah upon the family of Abu Awfa.\"'"
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، - وَاللَّفْظُ لَهُ - قَالاَ حَدَّثَنَا يَحْيَى، عَنْ مُحَمَّدِ بْنِ أَبِي إِسْمَاعِيلَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ هِلاَلٍ، قَالَ قَالَ جَرِيرٌ أَتَى النَّبِيَّ صلى الله عليه وسلم نَاسٌ مِنَ الأَعْرَابِ فَقَالُوا يَا رَسُولَ اللَّهِ يَأْتِينَا نَاسٌ مِنْ مُصَدِّقِيكَ يَظْلِمُونَ ‏.‏ قَالَ ‏\"‏ أَرْضُوا مُصَدِّقِيكُمْ ‏\"‏ ‏.‏ قَالُوا وَإِنْ ظَلَمَ قَالَ ‏\"‏ أَرْضُوا مُصَدِّقِيكُمْ ‏\"‏ ‏.‏ ثُمَّ قَالُوا وَإِنْ ظَلَمَ قَالَ ‏\"‏ أَرْضُوا مُصَدِّقِيكُمْ ‏\"‏ ‏.‏ قَالَ جَرِيرٌ فَمَا صَدَرَ عَنِّي مُصَدِّقٌ مُنْذُ سَمِعْتُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلاَّ وَهُوَ رَاضٍ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdur-Rahman bin Hilal said:",
+        "text": "\"Jarir said: 'Some Bedouin people came to the Prephet and said:  O Messenger of Allah, some of your Zakah collectors come to us and they are unfair. He said: Keep your Zakah collectors happy. They said: Even if they are unfair? He said: Keep your Zakah collectors happy. Then they said: Even if they are unfair. He said: Keep your Zakah collectors happy. Jarir said: No Zakah collector left me, since I heard this from the Messenger of Allah but he was pleased with me.\""
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا زِيَادُ بْنُ أَيُّوبَ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، - هُوَ ابْنُ عُلَيَّةَ - قَالَ أَنْبَأَنَا دَاوُدُ، عَنِ الشَّعْبِيِّ، قَالَ قَالَ جَرِيرٌ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا أَتَاكُمُ الْمُصَدِّقُ فَلْيَصْدُرْ وَهُوَ عَنْكُمْ رَاضٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ash-Shabbi said:",
+        "text": "\"Jarir said: 'The Messenger of Allah said: When the Zakah collector comes to you, let him leave happy with you.\"'"
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا زَكَرِيَّا بْنُ إِسْحَاقَ، عَنْ عَمْرِو بْنِ أَبِي سُفْيَانَ، عَنْ مُسْلِمِ بْنِ ثَفِنَةَ، قَالَ اسْتَعْمَلَ ابْنُ عَلْقَمَةَ أَبِي عَلَى عِرَافَةِ قَوْمِهِ وَأَمَرَهُ أَنْ يُصَدِّقَهُمْ، فَبَعَثَنِي أَبِي إِلَى طَائِفَةٍ مِنْهُمْ لآتِيَهُ بِصَدَقَتِهِمْ فَخَرَجْتُ حَتَّى أَتَيْتُ عَلَى شَيْخٍ كَبِيرٍ يُقَالُ لَهُ سَعْرٌ فَقُلْتُ إِنَّ أَبِي بَعَثَنِي إِلَيْكَ لِتُؤَدِّيَ صَدَقَةَ غَنَمِكَ ‏.‏ قَالَ ابْنَ أَخِي وَأَىُّ نَحْوٍ تَأْخُذُونَ قُلْتُ نَخْتَارُ حَتَّى إِنَّا لَنَشْبُرُ ضُرُوعَ الْغَنَمِ ‏.‏ قَالَ ابْنَ أَخِي فَإِنِّي أُحَدِّثُكَ أَنِّي كُنْتُ فِي شِعْبٍ مِنْ هَذِهِ الشِّعَابِ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي غَنَمٍ لِي فَجَاءَنِي رَجُلاَنِ عَلَى بَعِيرٍ فَقَالاَ إِنَّا رَسُولاَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَيْكَ لِتُؤَدِّيَ صَدَقَةَ غَنَمِكَ ‏.‏ قَالَ قُلْتُ وَمَا عَلَىَّ فِيهَا قَالاَ شَاةٌ ‏.‏ فَأَعْمِدُ إِلَى شَاةٍ قَدْ عَرَفْتُ مَكَانَهَا مُمْتَلِئَةً مَحْضًا وَشَحْمًا فَأَخْرَجْتُهَا إِلَيْهِمَا فَقَالَ هَذِهِ الشَّافِعُ ‏.‏ وَالشَّافِعُ الْحَائِلُ وَقَدْ نَهَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ نَأْخُذَ شَافِعًا قَالَ فَأَعْمِدُ إِلَى عَنَاقٍ مُعْتَاطٍ - وَالْمُعْتَاطُ الَّتِي لَمْ تَلِدْ وَلَدًا وَقَدْ حَانَ وِلاَدُهَا - فَأَخْرَجْتُهَا إِلَيْهِمَا فَقَالاَ نَاوِلْنَاهَا فَرَفَعْتُهَا إِلَيْهِمَا فَجَعَلاَهَا مَعَهُمَا عَلَى بَعِيرِهِمَا ثُمَّ انْطَلَقَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Muslim bin Thafihan said:",
+        "text": "\"Ibn 'Alqamah appointed my father to be in charge of his people, and he commanded him to collect their Sadaqah. My father sent me to a group of them to bring their Sadaqah to him. I set out and came to an old man who was called Sa'r. I said: My father has sent me to collect the Sadaqah of your sheep. 'He said: O son of my brother, how will you decode what you want to take?' I said\" 'We choose, and we even measure the sheep's udders.' He said: O son of my brother, I tell you that I was in one of these mountain passes at the time of the Messenger of Allah with some sheep of mine. Two men came on a camel and said: We are the messengers of the Messengers of Allah, we come to take the Sadaqah of your sheep. I said: What do I have to give? They said: A sheep. So I went to a sheep that I knew was filled with milk and was fat, and brought it out to them. He said: This is a Shafi - a sheep that has a child or is pregnant - and the Messenger of Allah forbade us to take a Shafi'. So I went to a Mu'tat she-goat - a Mutat is one that has not given birth before, but has reached the age where it could produce young- and brought it out to them. They said: We will take it. So I lifted it up to them, and they took it with them on their camel and left.\"' (Daif)"
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا رَوْحٌ، قَالَ حَدَّثَنَا زَكَرِيَّا بْنُ إِسْحَاقَ، قَالَ حَدَّثَنِي عَمْرُو بْنُ أَبِي سُفْيَانَ، قَالَ حَدَّثَنِي مُسْلِمُ بْنُ ثَفِنَةَ، أَنَّ ابْنَ عَلْقَمَةَ، اسْتَعْمَلَ أَبَاهُ عَلَى صَدَقَةِ قَوْمِهِ وَسَاقَ الْحَدِيثَ ‏.‏",
+      "english": {
+        "narrator": "Muslim bin Thafinah narrated that:",
+        "text": "Ibn 'Alqamah appointed his father to collect the Zakah of his people - and he quoted the same Hadith."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي عِمْرَانُ بْنُ بَكَّارٍ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ عَيَّاشٍ، قَالَ حَدَّثَنَا شُعَيْبٌ، قَالَ حَدَّثَنِي أَبُو الزِّنَادِ، مِمَّا حَدَّثَهُ عَبْدُ الرَّحْمَنِ الأَعْرَجُ، مِمَّا ذَكَرَ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يُحَدِّثُ قَالَ وَقَالَ عُمَرُ أَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِصَدَقَةٍ فَقِيلَ مَنَعَ ابْنُ جَمِيلٍ وَخَالِدُ بْنُ الْوَلِيدِ وَعَبَّاسُ بْنُ عَبْدِ الْمُطَّلِبِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَا يَنْقِمُ ابْنُ جَمِيلٍ إِلاَّ أَنَّهُ كَانَ فَقِيرًا فَأَغْنَاهُ اللَّهُ وَأَمَّا خَالِدُ بْنُ الْوَلِيدِ فَإِنَّكُمْ تَظْلِمُونَ خَالِدًا قَدِ احْتَبَسَ أَدْرَاعَهُ وَأَعْتُدَهُ فِي سَبِيلِ اللَّهِ وَأَمَّا الْعَبَّاسُ بْنُ عَبْدِ الْمُطَّلِبِ عَمُّ رَسُولِ اللَّهِ صلى الله عليه وسلم فَهِيَ عَلَيْهِ صَدَقَةٌ وَمِثْلُهَا مَعَهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurariah said:",
+        "text": "\"Umar said: 'The Messenger of Allah enjoined Sadaqah and it was said that Ibn Jamil, Khalid bin Al-Walid and 'Abbas bin 'Abdul-Muttalib had withheld some. The Messenger of Allah said: What is the matter with Ibn Jamil? Was he not poor then Allah made him rich? As for Khalid bin Al-Walid, you are being unfair to Khalid, for he is saving his shields and weapons for the sake of Allah. As for Al-Abbas bin 'Abdul-Muttalib, the paternal uncle of the Messenger of Allah, it is and obligatory charity for him and he has to pay as much again.\"'"
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصٍ، قَالَ حَدَّثَنِي أَبِي قَالَ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنْ مُوسَى، قَالَ حَدَّثَنِي أَبُو الزِّنَادِ، عَنْ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِصَدَقَةٍ مِثْلَهُ سَوَاءً ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah enjoined giving Sadaqah;\"and he narrated something similar."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، وَمَحْمُودُ بْنُ غَيْلاَنَ، قَالاَ حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، عَنْ عُثْمَانَ بْنِ عَبْدِ اللَّهِ بْنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ بْنِ هِلاَلٍ الثَّقَفِيِّ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ كِدْتُ أُقْتَلُ بَعْدَكَ فِي عَنَاقٍ أَوْ شَاةٍ مِنَ الصَّدَقَةِ ‏.‏ فَقَالَ ‏\n\"‏ لَوْلاَ أَنَّهَا تُعْطَى فُقَرَاءَ الْمُهَاجِرِينَ مَا أَخَذْتُهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Abdullah bin Hilal Ath-Thaqafi said:",
+        "text": "\"A man came to the Prophet and said: 'I feared that I might be killed after you are gone for the sake of a goat or sheep of the Sadaqah.' He said: 'Were it not that it will be given to the poor Muhajirin I would not have taken it.\"' (Daif)"
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا وَكِيعٌ، عَنْ شُعْبَةَ، وَسُفْيَانَ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عِرَاكِ بْنِ مَالِكٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لَيْسَ عَلَى الْمُسْلِمِ فِي عَبْدِهِ وَلاَ فَرَسِهِ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurariah said:",
+        "text": "\"The Messenger of Allah said: 'The Muslim does not have to pay Sadaqah on his slave or his horse.\"'"
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيِّ بْنِ حَرْبٍ الْمَرْوَزِيُّ، قَالَ حَدَّثَنَا مُحْرِزُ بْنُ الْوَضَّاحِ، عَنْ إِسْمَاعِيلَ، - وَهُوَ ابْنُ أُمَيَّةَ - عَنْ مَكْحُولٍ، عَنْ عِرَاكِ بْنِ مَالِكٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لاَ زَكَاةَ عَلَى الرَّجُلِ الْمُسْلِمِ فِي عَبْدِهِ وَلاَ فَرَسِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah said: 'A Muslim man does not have to pay Zakah on his slave or his horse.\"'"
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا أَيُّوبُ بْنُ مُوسَى، عَنْ مَكْحُولٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عِرَاكِ بْنِ مَالِكٍ، عَنْ أَبِي هُرَيْرَةَ، يَرْفَعُهُ إِلَى النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَيْسَ عَلَى الْمُسْلِمِ فِي عَبْدِهِ وَلاَ فِي فَرَسِهِ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah and attributed to the Prophet:",
+        "text": "\"The Muslim does not have to pay Sadaqah on his slave or his horse.\"'"
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ خُثَيْمٍ، قَالَ حَدَّثَنَا أَبِي، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَيْسَ عَلَى الْمَرْءِ فِي فَرَسِهِ وَلاَ فِي مَمْلُوكِهِ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Prophet said:",
+        "text": "\"A person does not have to pay Sadaqah on his horse or his slave.\""
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عِرَاكِ بْنِ مَالِكٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَيْسَ عَلَى الْمُسْلِمِ فِي عَبْدِهِ وَلاَ فِي فَرَسِهِ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Prophet said:",
+        "text": "\"The Muslim does not have to pay Sadaqah on his slave or his horse.\""
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ خُثَيْمِ بْنِ عِرَاكِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَيْسَ عَلَى الْمُسْلِمِ صَدَقَةٌ فِي غُلاَمِهِ وَلاَ فِي فَرَسِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Prophet said:",
+        "text": "\"The Muslim does not have to pay Sadaqah on his slave or his horse.\""
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، عَنْ حَمَّادٍ، قَالَ حَدَّثَنَا يَحْيَى، - وَهُوَ ابْنُ سَعِيدٍ - عَنْ عَمْرِو بْنِ يَحْيَى، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لَيْسَ فِيمَا دُونَ خَمْسَةِ أَوَاقٍ صَدَقَةٌ وَلاَ فِيمَا دُونَ خَمْسِ ذَوْدٍ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسِ أَوْسُقٍ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Saeed Al-Khudri said:",
+        "text": "\"The Messenger of Allah said: 'No Sadaqah is due on anything less than five Awaq, no Sadaqah is due on less than five Dhawh (head of camel), and no Sadaqah is due on less than five Awsuq.\"\n 2476. It was narrated from Abu Sa 'eed Al-Khudri that the Messenger of Allah said: \"No Sadaqah is due on lessthan five Awsuq of dates, no Sadaqah is due on less than five Awaq of silver, and no Sadaqah is due on less than five Dhawd (head) of camels."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ أَنْبَأَنَا ابْنُ الْقَاسِمِ، عَنْ مَالِكٍ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ الْمَازِنِيُّ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَيْسَ فِيمَا دُونَ خَمْسِ أَوْسُقٍ مِنَ التَّمْرِ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسِ أَوَاقٍ مِنَ الْوَرِقِ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسِ ذَوْدٍ مِنَ الإِبِلِ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Sa 'eed Al-Khudri that the Messenger of Allah said:",
+        "text": "\"No Sadaqah is due on lessthan five Awsuq of dates, no Sadaqah is due on less than five Awaq of silver, and no Sadaqah is due on less than five Dhawd (head) of camels."
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْوَلِيدِ بْنِ كَثِيرٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ، عَنْ يَحْيَى بْنِ عُمَارَةَ، وَعَبَّادِ بْنِ تَمِيمٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ صَدَقَةَ فِيمَا دُونَ خَمْسِ أَوْسَاقٍ مِنَ التَّمْرِ وَلاَ فِيمَا دُونَ خَمْسِ أَوَاقٍ مِنَ الْوَرِقِ صَدَقَةٌ وَلاَ فِيمَا دُونَ خَمْسِ ذَوْدٍ مِنَ الإِبِلِ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Sa 'eed Al-Khudri that he heard the Messenger of Allah say:",
+        "text": "\"No Sadaqah is due on less than five  Awsaq of dates, no Sadaqah is due on less than five Awaq of silver, and no Sadagah is due on less than five Dhawd (head) of camels.\""
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ الطُّوسِيُّ، قَالَ حَدَّثَنَا يَعْقُوبُ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا ابْنُ إِسْحَاقَ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ يَحْيَى بْنِ حَبَّانَ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ، - وَكَانَا ثِقَةً - عَنْ يَحْيَى بْنِ عُمَارَةَ بْنِ أَبِي حَسَنٍ، وَعَبَّادِ بْنِ تَمِيمٍ، - وَكَانَا ثِقَةً - عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لَيْسَ فِيمَا دُونَ خَمْسِ أَوَاقٍ مِنَ الْوَرِقِ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسٍ مِنَ الإِبِلِ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسَةِ أَوْسُقٍ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Sa 'eed Al-Khudri said:",
+        "text": "\"I heard the Messenger of Allah say: \"No Sadaqah is due on less than five  Awsaq of silver, no Sadaqah is due on less than five Dhawd (head) of camels, and no Sadaqah is due on less than five Awsuq of dates.\""
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، رضى الله عنه قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ قَدْ عَفَوْتُ عَنِ الْخَيْلِ وَالرَّقِيقِ فَأَدُّوا زَكَاةَ أَمْوَالِكُمْ مِنْ كُلِّ مِائَتَيْنِ خَمْسَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Ali, may Allah e pleased with him, said:",
+        "text": "\"The Messenger of Allah said: 'I have exempted you from (having to pay Zakah on) horses and slaves. Pay the Zakah on your wealth, for every two hundred (Dirhams), five.\"'"
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا حُسَيْنُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا ابْنُ نُمَيْرٍ، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، رضى الله عنه قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ قَدْ عَفَوْتُ عَنِ الْخَيْلِ وَالرَّقِيقِ وَلَيْسَ فِيمَا دُونَ مِائَتَيْنِ زَكَاةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Ali, may Allah be pleased with him, said:",
+        "text": "\"The Messenger of Allah said: 'I have exempted you from (having to pay Zakah on) houses and slaves, and there is no Zakah on less than two hundred (Dirhams).\""
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ حُسَيْنٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ امْرَأَةً، مِنْ أَهْلِ الْيَمَنِ أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم وَبِنْتٌ لَهَا فِي يَدِ ابْنَتِهَا مَسَكَتَانِ غَلِيِظَتَانِ مِنْ ذَهَبٍ فَقَالَ ‏\"‏ أَتُؤَدِّينَ زَكَاةَ هَذَا ‏\"‏ ‏.‏ قَالَتْ لاَ ‏.‏ قَالَ ‏\"‏ أَيَسُرُّكِ أَنْ يُسَوِّرَكِ اللَّهُ عَزَّ وَجَلَّ بِهِمَا يَوْمَ الْقِيَامَةِ سِوَارَيْنِ مِنْ نَارٍ ‏\"‏ ‏.‏ قَالَ فَخَلَعَتْهُمَا فَأَلْقَتْهُمَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ هُمَا لِلَّهِ وَلِرَسُولِهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Amr bin Shu 'aib, from his father, from his grandfather, that:",
+        "text": "a woman from among the people of Yemen came to the Messenger of Allah with a daughter of hers, and on the daughter's hand were two thick bangles of gold. He said: \"Do you pay Zakah on these? She said: \"No.\" He said: \"Would it please you if Allah were to put two bangles of fire on you on the Day of Resurrection? \" So she took them of and gave them to the Messenger of Allah and said: \"They are for Allah and His Messenger.\""
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، قَالَ سَمِعْتُ حُسَيْنًا، قَالَ حَدَّثَنِي عَمْرُو بْنُ شُعَيْبٍ، قَالَ جَاءَتِ امْرَأَةٌ وَمَعَهَا بِنْتٌ لَهَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَفِي يَدِ ابْنَتِهَا مَسَكَتَانِ نَحْوَهُ مُرْسَلٌ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ خَالِدٌ أَثْبَتُ مِنَ الْمُعْتَمِرِ ‏.‏",
+      "english": {
+        "narrator": "'Amr bin Shu 'aib said:",
+        "text": "\"A woman came to the Messenger of Allah with a daughter of hers, and on her daughter's arm were two bangles\" - a similar report, in Mursal form."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الْفَضْلُ بْنُ سَهْلٍ، قَالَ حَدَّثَنَا أَبُو النَّضْرِ، هَاشِمُ بْنُ الْقَاسِمِ قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي سَلَمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِنَّ الَّذِي لاَ يُؤَدِّي زَكَاةَ مَالِهِ يُخَيَّلُ إِلَيْهِ مَالُهُ يَوْمَ الْقِيَامَةِ شُجَاعًا أَقْرَعَ لَهُ زَبِيبَتَانِ - قَالَ - فَيَلْتَزِمُهُ أَوْ يُطَوِّقُهُ - قَالَ - يَقُولُ أَنَا كَنْزُكَ أَنَا كَنْزُكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Umar said:",
+        "text": "\"The Messenger of Allah said: The one who does not pay Zakah on his wealth, his wealth will appear to him on the Day of Resurrection like a bald-headed Shuja 'a  with two dots above its eyes. It will hold onto him or encircle him and will say: I am your hoarded treasure, I am your hoarded treasure.\"'"
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا الْفَضْلُ بْنُ سَهْلٍ، قَالَ حَدَّثَنَا حَسَنُ بْنُ مُوسَى الأَشْيَبُ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ دِينَارٍ الْمَدَنِيُّ، عَنْ أَبِيهِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنْ آتَاهُ اللَّهُ عَزَّ وَجَلَّ مَالاً فَلَمْ يُؤَدِّ زَكَاتَهُ مُثِّلَ لَهُ مَالُهُ يَوْمَ الْقِيَامَةِ شُجَاعًا أَقْرَعَ لَهُ زَبِيبَتَانِ يَأْخُذُ بِلِهْزِمَتَيْهِ يَوْمَ الْقِيَامَةِ فَيَقُولُ أَنَا مَالُكَ أَنَا كَنْزُكَ ‏\"‏ ‏.‏ ثُمَّ تَلاَ هَذِهِ الآيَةَ ‏{‏ وَلاَ يَحْسَبَنَّ الَّذِينَ يَبْخَلُونَ بِمَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ ‏}‏ الآيَةَ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Prophet said:",
+        "text": "\"If Allah gives a person wealth and he does not pay Zakah on it, his wealth will appear to him on the Day of Resurrection as a bald-heated Shuja'a with two dots above its eyes. It will take hold of the corners of his mouth on the Day of Resurrection and will say: 'I am your wealth, I am your hoarded treasure.' The he recited this verse: 'And let not those who covetously withhold of that which Allah has bestowed on them of His Bounty (wealth) and think that it is good for them (and so they do not pay the obligatory Zakah).\"'"
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ يَحْيَى بْنِ عُمَارَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لَيْسَ فِيمَا دُونَ خَمْسَةِ أَوْسَاقٍ مِنْ حَبٍّ أَوْ تَمْرٍ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated the Abu Sa'eed Al-Khudri said:",
+        "text": "\"The Messenger of Allah said: There is no Sadaqah on less than five Awsaq of grains or dates.\"'"
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا رَوْحُ بْنُ الْقَاسِمِ، قَالَ حَدَّثَنِي عَمْرُو بْنُ يَحْيَى بْنِ عُمَارَةَ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَحِلُّ فِي الْبُرِّ وَالتَّمْرِ زَكَاةٌ حَتَّى تَبْلُغَ خَمْسَةَ أَوْسُقٍ وَلاَ يَحِلُّ فِي الْوَرِقِ زَكَاةٌ حَتَّى تَبْلُغَ خَمْسَةَ أَوَاقٍ وَلاَ يَحِلُّ فِي إِبِلٍ زَكَاةٌ حَتَّى تَبْلُغَ خَمْسَ ذَوْدٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Sa'eed Al-Khudri that the Messenger of Allah said:",
+        "text": "\"No Zakah is due on wheat or dates unless the amount reaches five Awsuq. No Zakah is due on silver unless the amount reaches five Awaq. No Zakah is due on camels until the number reaches five Dhawd.\""
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ يَحْيَى بْنِ عُمَارَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَيْسَ فِي حَبٍّ وَلاَ تَمْرٍ صَدَقَةٌ حَتَّى يَبْلُغَ خَمْسَةَ أَوْسُقٍ وَلاَ فِيمَا دُونَ خَمْسِ ذَوْدٍ وَلاَ فِيمَا دُونَ خَمْسِ أَوَاقٍ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Sa'eed Al-Khudri that the Prophet said:",
+        "text": "\"No Sadaqah is due on grains or dates unless the amount reaches five Awauq, nor on less than five Dhawd, nor on less than five Awaq.\""
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا إِدْرِيسُ الأَوْدِيُّ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ أَبِي الْبَخْتَرِيِّ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ لَيْسَ فِيمَا دُونَ خَمْسِ أَوَاقٍ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Sa'eed said:",
+        "text": "The Messenger of Allah said: \"No Sadaqah is due on less than five Awaq.\""
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدَةَ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، وَعُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ عَمْرِو بْنِ يَحْيَى، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لَيْسَ فِيمَا دُونَ خَمْسِ أَوَاقٍ صَدَقَةٌ وَلاَ فِيمَا دُونَ خَمْسِ ذَوْدٍ صَدَقَةٌ وَلَيْسَ فِيمَا دُونَ خَمْسَةِ أَوْسُقٍ صَدَقَةٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Sa'eed  Al_khudri that the Prophet said:",
+        "text": "\"No sadaqah is due on less than five Awaq, no Sadaqah is due on less than five Dhawd, no Sadaqah is due on less than  five Awsuq.\""
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَارُونُ بْنُ سَعِيدِ بْنِ الْهَيْثَمِ أَبُو جَعْفَرٍ الأَيْلِيُّ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ فِيمَا سَقَتِ السَّمَاءُ وَالأَنْهَارُ وَالْعُيُونُ أَوْ كَانَ بَعْلاً الْعُشْرُ وَمَا سُقِيَ بِالسَّوَانِي وَالنَّضْحِ نِصْفُ الْعُشْرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Salim, from his father, that the Messenger of Allah said:",
+        "text": "\"For whatever is irrigated by the sky, rivers and springs, or draws up water from deep roots, one-tenth. For whatever is irrigated by animals and artificial means, one half of one-tenth.\""
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنِي عَمْرُو بْنُ سَوَّادِ بْنِ الأَسْوَدِ بْنِ عَمْرٍو، وَأَحْمَدُ بْنُ عَمْرٍو، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، قَالَ حَدَّثَنَا عَمْرُو بْنُ الْحَارِثِ، أَنَّ أَبَا الزُّبَيْرِ، حَدَّثَهُ أَنَّهُ، سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ فِيمَا سَقَتِ السَّمَاءُ وَالأَنْهَارُ وَالْعُيُونُ الْعُشْرُ وَفِيمَا سُقِيَ بِالسَّانِيَةِ نِصْفُ الْعُشْرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Jabir bin 'Abdullah said:",
+        "text": "\"The Messenger of Allah said:'For that which is watered by the sky, rivers and springs, one-tenth. For whatever is irrigated by animals, one-half of one-tenth.\"'"
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي بَكْرٍ، - وَهُوَ ابْنُ عَيَّاشٍ - عَنْ عَاصِمٍ، عَنْ أَبِي وَائِلٍ، عَنْ مُعَاذٍ، قَالَ بَعَثَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الْيَمَنِ فَأَمَرَنِي أَنْ آخُذَ مِمَّا سَقَتِ السَّمَاءُ الْعُشْرَ وَفِيمَا سُقِيَ بِالدَّوَالِي نِصْفَ الْعُشْرِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Mu'adh said:",
+        "text": "\"The Messenger of Allah sent me to Yemen and he commanded me to take one-tenth of whatever is irrigated by the sky, and half of one-tenth of whatever is irrigated by means of buckets.\""
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ جَعْفَرٍ، قَالاَ حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ خُبَيْبَ بْنَ عَبْدِ الرَّحْمَنِ، يُحَدِّثُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ مَسْعُودِ بْنِ نِيَارٍ، عَنْ سَهْلِ بْنِ أَبِي حَثَمَةَ، قَالَ أَتَانَا وَنَحْنُ فِي السُّوقِ فَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا خَرَصْتُمْ فَخُذُوا وَدَعُوا الثُّلُثَ فَإِنْ لَمْ تَأْخُذُوا أَوْ تَدَعُوا الثُّلُثَ - شَكَّ شُعْبَةُ - فَدَعُوا الرُّبُعَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdur-Rahman bin Mas'ud bin Niyar:",
+        "text": "\"Sahl bin Abi Hathmah came to us when we were in the market and said: \"The Messenger of Allah said: When you have estimated, take two-thirds (of the portion you have estimated as Zakah) and leave one-third, and if you do not take (two-thirds) or leave one-third. (One of the reporters) Shu 'bah doubted - leave one quarter.\""
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، قَالَ حَدَّثَنِي عَبْدُ الْجَلِيلِ بْنُ حُمَيْدٍ الْيَحْصَبِيُّ، أَنَّ ابْنَ شِهَابٍ، حَدَّثَهُ قَالَ حَدَّثَنِي أَبُو أُمَامَةَ بْنُ سَهْلِ بْنِ حُنَيْفٍ، فِي الآيَةِ الَّتِي قَالَ اللَّهُ عَزَّ وَجَلَّ ‏{‏ وَلاَ تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنْفِقُونَ ‏}‏ قَالَ هُوَ الْجُعْرُورُ وَلَوْنُ حُبَيْقٍ فَنَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ تُؤْخَذَ فِي الصَّدَقَةِ الرُّذَالَةُ ‏.‏",
+      "english": {
+        "narrator": "Abu Umamah bin Sahl bin Hunaif said:",
+        "text": "concerning the Verse in which Allah, the Mighty and Subline, says: And do not aim at that which is bad to spend from it.\"  This refers to had quality dates. The Messenger of Allah forbade taking bad quality dates as Sadaqah."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا يَحْيَى، عَنْ عَبْدِ الْحَمِيدِ بْنِ جَعْفَرٍ، قَالَ حَدَّثَنِي صَالِحُ بْنُ أَبِي عَرِيبٍ، عَنْ كَثِيرِ بْنِ مُرَّةَ الْحَضْرَمِيِّ، عَنْ عَوْفِ بْنِ مَالِكٍ، قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَبِيَدِهِ عَصًا وَقَدْ عَلَّقَ رَجُلٌ قِنْوَ حَشَفٍ فَجَعَلَ يَطْعَنُ فِي ذَلِكَ الْقِنْوِ فَقَالَ ‏\n\"‏ لَوْ شَاءَ رَبُّ هَذِهِ الصَّدَقَةِ تَصَدَّقَ بِأَطْيَبَ مِنْ هَذَا إِنَّ رَبَّ هَذِهِ الصَّدَقَةِ يَأْكُلُ حَشَفًا يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that  'Awf bin Malik said:",
+        "text": "\"The Messenger of Allah came out with a stick in his hand, and a man had hung up a bunch of dry and bad dates. He started hitting that bunch of dates and said: 'I wish that the one who gave this Sadaqah had given something better than this, for the one who gave these dry, bad dates will eat dry, bad dates on the Day of Resurrection.\"'"
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ الأَخْنَسِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ اللُّقَطَةِ فَقَالَ ‏\n\"‏ مَا كَانَ فِي طَرِيقٍ مَأْتِيٍّ أَوْ فِي قَرْيَةٍ عَامِرَةٍ فَعَرِّفْهَا سَنَةً فَإِنْ جَاءَ صَاحِبُهَا وَإِلاَّ فَلَكَ وَمَا لَمْ يَكُنْ فِي طَرِيقٍ مَأْتِيٍّ وَلاَ فِي قَرْيَةٍ عَامِرَةٍ فَفِيهِ وَفِي الرِّكَازِ الْخُمْسُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Amr bin Shu'aib, from his father, that his grandfather said:",
+        "text": "\"The Messenger of Allah was asked about Al-Luqath."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 23,
+      "bookId": 5,
+      "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح وَأَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، وَأَبِي، سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ الْعَجْمَاءُ جَرْحُهَا جُبَارٌ وَالْبِئْرُ جُبَارٌ وَالْمَعْدِنُ جُبَارٌ وَفِي الرِّكَازِ الْخُمْسُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Prophet said:",
+        "text": "\"The injuries caused by the beast are without liability,  and wells are without liability, and mines are without liability, and the Khumus is due on Rikaz.\""
+      }
+    }
+  ]
+}

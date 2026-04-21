@@ -1,0 +1,16 @@
+{
+  "id": 213,
+  "chapterId": 45,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ،\n عُثْمَانُ حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ\n اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ كَيْفَ تَرَى فِي رَجُلٍ أَحَبَّ قَوْمًا وَلَمَّا يَلْحَقْ\n بِهِمْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الْمَرْءُ مَعَ مَنْ أَحَبَّ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "'Abdullah reported that a person came to Allah's Messenger (ﷺ) and said to Allah's Messenger (ﷺ):",
+    "text": "What is your opinion about the person who loves the people but his (acts or deeds are not identical to theirs)? Thereupon Allah's Messenger (ﷺ) said: A person would be along with one whom he loves."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

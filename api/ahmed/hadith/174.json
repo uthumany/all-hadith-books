@@ -1,0 +1,16 @@
+{
+  "id": 174,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ حَبِيبٍ، عَنْ أَبِي وَائِلٍ، عَنْ أَبِي الْهَيَّاجِ الْأَسَدِيِّ، قَالَ قَالَ لِي عَلِيٌّ أَبْعَثُكَ عَلَى مَا بَعَثَنِي عَلَيْهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ لَا تَدَعَ تِمْثَالًا إِلَّا طَمَسْتَهُ وَلَا قَبْرًا مُشْرِفًا إِلَّا سَوَّيْتَهُ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Abul-Hayyaj al-Asadi said:",
+    "text": "`Ali (رضي الله عنه) said to me: I shall send you on the same mission as the Messenger of Allah (ﷺ) sent me: do not leave any image without erasing it or any built-up grave without levelling it."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

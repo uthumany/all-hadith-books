@@ -1,0 +1,16 @@
+{
+  "id": 116,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا حَمَّادٌ يَعْنِي ابْنَ سَلَمَةَ، عَنْ يُونُسَ بْنِ خَبَّابٍ، عَنْ جَرِيرِ بْنِ حَيَّانَ، عَنْ أَبِيهِ، أَنَّ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ قَالَ أَبْعَثُكَ فِيمَا بَعَثَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَنِي أَنْ أُسَوِّيَ كُلَّ قَبْرٍ وَأَطْمِسَ كُلَّ صَنَمٍ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Jareer bin Hayyan from his father that  ‘Ali (رضي الله عنه) said:",
+    "text": "I shall send you on the same mission as the Messenger of Allah (ﷺ) sent me. Level every grave and destroy every idol."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

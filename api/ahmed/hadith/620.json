@@ -1,0 +1,16 @@
+{
+  "id": 620,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، أَنَّ عَبْدَ اللَّهِ بْنَ جَعْفَرٍ، حَدَّثَهُ أَنَّهُ، سَمِعَ عَلِيًّا، رَضِيَ اللَّهُ عَنْهُ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ خَيْرُ نِسَائِهَا مَرْيَمُ بِنْتُ عِمْرَانَ وَخَيْرُ نِسَائِهَا خَدِيجَةُ‏.‏",
+  "english": {
+    "narrator": "`Abdullah bin Ja’far narrated that he heard ‘Ali (رضي الله عنه) say:",
+    "text": "I heard the Messenger of Allah (ﷺ) say: `The best woman of her time was Maryam bint `Imran and the best woman of her time was Khadeejah.`"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

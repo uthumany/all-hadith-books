@@ -1,0 +1,16 @@
+{
+  "id": 62,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا هَارُونُ بْنُ زَيْدِ بْنِ أَبِي الزَّرْقَاءِ، حَدَّثَنَا أَبِي، حَدَّثَنَا جَعْفَرٌ، - يَعْنِي ابْنَ بُرْقَانَ - عَنْ يَزِيدَ، - يَعْنِي ابْنَ الأَصَمِّ - عَنْ أَبِي هُرَيْرَةَ، يَرْفَعُهُ قَالَ ‏\n\"‏ الأَرْوَاحُ جُنُودٌ مُجَنَّدَةٌ فَمَا تَعَارَفَ مِنْهَا ائْتَلَفَ وَمَا تَنَاكَرَ مِنْهَا اخْتَلَفَ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah reported the Prophet (ﷺ) as saying:",
+    "text": "The spirits are in marshaled hosts; those who know one another will be friendly, and those who do not, will keep apart."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

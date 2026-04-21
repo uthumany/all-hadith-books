@@ -1,0 +1,16 @@
+{
+  "id": 24,
+  "chapterId": 50,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا بِشْرُ بْنُ الْحَكَمِ، قَالَ‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ رَبِيعَةَ، عَنِ السَّائِبِ بْنِ عُمَرَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ كَانَ إِذَا مَطَرَتِ السَّمَاءُ يَقُولُ‏:‏ يَا جَارِيَةُ، أَخْرِجِي سَرْجِي، أَخْرِجِي ثِيَابِي، وَيَقُولُ‏:‏ ‏{‏وَنَزَّلْنَا مِنَ السَّمَاءِ مَاءً مُبَارَكًا‏}‏‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Abu Mulayka related that when it rained, Ibn 'Abbas said, \"Slavegirl!\nBring out my saddle and bring my garment. Allah says, 'We sent down\nblessed water from the sky.' (50:9)\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

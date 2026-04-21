@@ -1,0 +1,510 @@
+{
+  "page": 72,
+  "perPage": 50,
+  "totalPages": 87,
+  "totalCount": 4345,
+  "nextPage": 73,
+  "prevPage": 71,
+  "items": [
+    {
+      "id": 159,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِنِّي لأَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ فِي الْيَوْمِ مِائَةَ مَرَّةٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that :",
+        "text": "the Messenger of Allah (saas) said: 'I seek the forgiveness of Allah and repent to Him one hundred times each day.'"
+      }
+    },
+    {
+      "id": 160,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ مُغِيرَةَ بْنِ أَبِي الْحُرِّ، عَنْ سَعِيدِ بْنِ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِنِّي لأَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ فِي الْيَوْمِ سَبْعِينَ مَرَّةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Sa'eed bin Abu Burdah bin Abu Musa, from his father, that :",
+        "text": "his grandfather said: \"The Messenger of Allah (saas) said: 'I seek the forgivenenss of Allah and repent to Him seventy times each day.'\""
+      }
+    },
+    {
+      "id": 161,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي الْمُغِيرَةِ، عَنْ حُذَيْفَةَ، قَالَ كَانَ فِي لِسَانِي ذَرَبٌ عَلَى أَهْلِي وَكَانَ لاَ يَعْدُوهُمْ إِلَى غَيْرِهِمْ فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ ‏\n\"‏ أَيْنَ أَنْتَ مِنَ الاِسْتِغْفَارِ تَسْتَغْفِرُ اللَّهَ فِي الْيَوْمِ سَبْعِينَ مَرَّةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Hudhaifah said:",
+        "text": "\"I was harsh in the way I spoke to my family, but not to others.  I mentioned that to the Prophet (saas) and he said: 'Why don't you ask for forgiveness? Ask Allah to forgive you, seventy times each day.'\""
+      }
+    },
+    {
+      "id": 162,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ بْنِ سَعِيدِ بْنِ كَثِيرِ بْنِ دِينَارٍ الْحِمْصِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عِرْقٍ، سَمِعْتُ عَبْدَ اللَّهِ بْنَ بُسْرٍ، يَقُولُ قَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ ‏\n\"‏ طُوبَى لِمَنْ وَجَدَ فِي صَحِيفَتِهِ اسْتِغْفَارًا كَثِيرًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "'Abdullah bin Busr said that :",
+        "text": "the Prophet (saas) said: \"Glad tidings to those who find a lot of seeking forgiveness in the record of their deeds.\""
+      }
+    },
+    {
+      "id": 163,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الْحَكَمُ بْنُ مُصْعَبٍ، عَنْ مُحَمَّدِ بْنِ عَلِيِّ بْنِ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّهُ حَدَّثَهُ عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ لَزِمَ الاِسْتِغْفَارَ جَعَلَ اللَّهُ لَهُ مِنْ كُلِّ هَمٍّ فَرَجًا وَمِنْ كُلِّ ضِيقٍ مَخْرَجًا وَرَزَقَهُ مِنْ حَيْثُ لاَ يَحْتَسِبُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin 'Abbas that :",
+        "text": "the Messenger of Allah said: \"Whoever persists in asking for forgiveness, Allah will grant him relief from every worry, and a way out from every hardship, and will grant him provision from (sources) he could never imagine.\""
+      }
+    },
+    {
+      "id": 164,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ عَلَىِّ بْنِ زَيْدٍ، عَنْ أَبِي عُثْمَانَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ يَقُولُ ‏\n\"‏ اللَّهُمَّ اجْعَلْنِي مِنَ الَّذِينَ إِذَا أَحْسَنُوا اسْتَبْشَرُوا وَإِذَا أَسَاءُوا اسْتَغْفَرُوا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that :",
+        "text": "the Prophet (saas) used to say: \"Allahum-maj'alni minal-ladhina idha ahsanu istabsharu, wa idha asa'u istaghfaru (O Allah, make me one of those who, if they do good deeds, they rejoice, and if they do bad deeds, they seek forgiveness).\""
+      }
+    },
+    {
+      "id": 165,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنِ الْمَعْرُورِ بْنِ سُوَيْدٍ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ يَقُولُ اللَّهُ تَبَارَكَ وَتَعَالَى مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا وَأَزِيدُ وَمَنْ جَاءَ بِالسَّيِّئَةِ فَجَزَاءُ سَيِّئَةٍ مِثْلُهَا أَوْ أَغْفِرُ وَمَنْ تَقَرَّبَ مِنِّي شِبْرًا تَقَرَّبْتُ مِنْهُ ذِرَاعًا وَمَنْ تَقَرَّبَ مِنِّي ذِرَاعًا تَقَرَّبْتُ مِنْهُ بَاعًا وَمَنْ أَتَانِي يَمْشِي أَتَيْتُهُ هَرْوَلَةً وَمَنْ لَقِيَنِي بِقِرَابِ الأَرْضِ خَطِيئَةً ثُمَّ لاَ يُشْرِكُ بِي شَيْئًا لَقِيتُهُ بِمِثْلِهَا مَغْفِرَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Dharr that :",
+        "text": "the Messenger of Allah (saas) said: \"Allah, the Blessed and Exalted, said: 'Whoever does one good deed will have (the reward of) ten like it and more, and whoever does a bad deed will have one like it, or I will forgive him.  Whoever draws near to Me a hand span, I draw near to him an arm's length; whoever comes to Me a forearm's length, I draw near him an arm's length; whoever comes to Me walking, I come to him in a hurry.  Whoever meets Me with an earthful of sins, but does not associate anything in worship with Me, I will meet it (i.e., his sins) with forgiveness equal to that.'\""
+      }
+    },
+    {
+      "id": 166,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ يَقُولُ اللَّهُ سُبْحَانَهُ أَنَا عِنْدَ ظَنِّ عَبْدِي بِي وَأَنَا مَعَهُ حِينَ يَذْكُرُنِي فَإِنْ ذَكَرَنِي فِي نَفْسِهِ ذَكَرْتُهُ فِي نَفْسِي وَإِنْ ذَكَرَنِي فِي مَلإٍ ذَكَرْتُهُ فِي مَلإٍ خَيْرٍ مِنْهُمْ وَإِنِ اقْتَرَبَ إِلَىَّ شِبْرًا اقْتَرَبْتُ إِلَيْهِ ذِرَاعًا وَإِنْ أَتَانِي يَمْشِي أَتَيْتُهُ هَرْوَلَةً ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that :",
+        "text": "the Messenger of Allah (saas) said: \"Allah says, 'I am as My slave thinks I am, and I am with him when he mentions Me. If he makes mention of Me to himself, I make mention of him to Myself; and if he makes mention of Me in an assembly, I make mention of him in an assembly better than it.  And if he draws to Me a hand-span length, I draw near to him a forearm's length.  And if he comes to Me walking, I go to him in a hurry.\""
+      }
+    },
+    {
+      "id": 167,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، وَوَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ كُلُّ عَمَلِ ابْنِ آدَمَ يُضَاعَفُ لَهُ الْحَسَنَةُ بِعَشْرِ أَمْثَالِهَا إِلَى سَبْعِمِائَةِ ضِعْفٍ ‏.‏ قَالَ اللَّهُ سُبْحَانَهُ إِلاَّ الصَّوْمَ فَإِنَّهُ لِي وَأَنَا أَجْزِي بِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the Messenger :",
+        "text": "of Allah (saas) said: \"Every deed of the son of Adam will be multiplied for him, between ten and seven hundred times for each merit. Allah said: 'Except for fasting, for it is for Me and I shall reward for it.'\" (sahih)"
+      }
+    },
+    {
+      "id": 168,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا جَرِيرٌ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ أَبِي عُثْمَانَ، عَنْ أَبِي مُوسَى، قَالَ سَمِعَنِي النَّبِيُّ ـ صلى الله عليه وسلم ـ وَأَنَا أَقُولُ، لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ ‏.‏ قَالَ ‏\"‏ يَا عَبْدَ اللَّهِ بْنَ قَيْسٍ أَلاَ أَدُلُّكَ عَلَى كَلِمَةٍ مِنْ كُنُوزِ الْجَنَّةِ ‏\"‏ ‏.‏ قُلْتُ بَلَى يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ قُلْ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Musa said:",
+        "text": "\"The Prophet (saas) heard me saying: 'La hawla wa la quwwata illa billah (there is no power and no strength except with Allah).' He said: 'O 'Abdullah bin Qais! Shall I not tell you of a word which is one of the treasures of Paradise?' I said: 'Yes, O Messenger of Allah.' He said: 'Say: La hawla wa la quwwata illa billah (There is no power and no strength except with Allah).'\""
+      }
+    },
+    {
+      "id": 169,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ لِي رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\"‏ أَلاَ أَدُلُّكَ عَلَى كَنْزٍ مِنْ كُنُوزِ الْجَنَّةِ ‏\"‏ ‏.‏ قُلْتُ بَلَى يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Dharr said:",
+        "text": "\"The Messenger of Allah (saas) said to me: \"Shall I not tell you of a treasure which is one of the treasures of Paradise?' I said: 'Yes, O Messenger of Allah.' He said: 'La hawla wa la quwwata illa billah (There is no power and no strength except with Allah).'\" (sahih)"
+      }
+    },
+    {
+      "id": 170,
+      "chapterId": 33,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ حُمَيْدٍ الْمَدَنِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ مَعْنٍ، حَدَّثَنَا خَالِدُ بْنُ سَعِيدٍ، عَنْ أَبِي زَيْنَبَ، مَوْلَى حَازِمِ بْنِ حَرْمَلَةَ عَنْ حَازِمِ بْنِ حَرْمَلَةَ، قَالَ مَرَرْتُ بِالنَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ لِي ‏\n\"‏ يَا حَازِمُ أَكْثِرْ مِنْ قَوْلِ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ فَإِنَّهَا مِنْ كُنُوزِ الْجَنَّةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Hazim bin Harmalah said:",
+        "text": "\"I passed by the Prophet (saas) and he said to me: 'O Hazim, say often: \"La hawla wa la quwwata illa billah (there is no power and no strength except with Allah),\" for it is one of the treasures of Paradise.'\""
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا أَبُو الْمَلِيحِ الْمَدَنِيُّ، قَالَ سَمِعْتُ أَبَا صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَنْ لَمْ يَدْعُ اللَّهَ سُبْحَانَهُ غَضِبَ عَلَيْهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the :",
+        "text": "Messenger of Allah (saas) said: \"Whoever does not call upon Allah, He will be angry with him.\""
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ ذَرِّ بْنِ عَبْدِ اللَّهِ الْهَمْدَانِيِّ، عَنْ يُسَيْعٍ الْكِنْدِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\"‏ إِنَّ الدُّعَاءَ هُوَ الْعِبَادَةُ ‏\"‏ ‏.‏ ثُمَّ قَرَأَ ‏{وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ}‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Nu'man bin Bashir that :",
+        "text": "the Messenger of Allah (saas) said: \"Indeed the supplication is the worship.\" Then he recited: \"And your Lord said: Invoke Me, I will respond to you.\""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا عِمْرَانُ الْقَطَّانُ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ أَبِي الْحَسَنِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ لَيْسَ شَىْءٌ أَكْرَمَ عَلَى اللَّهِ سُبْحَانَهُ مِنَ الدُّعَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that :",
+        "text": "the Prophet (saas) said: \"There is nothing more noble to Allah the Glorified, than supplication.\""
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، سَنَةَ إِحْدَى وَثَلاَثِينَ وَمِائَتَيْنِ حَدَّثَنَا وَكِيعٌ، فِي سَنَةِ خَمْسٍ وَتِسْعِينَ وَمِائَةٍ قَالَ حَدَّثَنَا سُفْيَانُ فِي مَجْلِسِ الأَعْمَشِ مُنْذُ خَمْسِينَ سَنَةً حَدَّثَنَا عَمْرُو بْنُ مُرَّةَ الْجَمَلِيُّ فِي زَمَنِ خَالِدٍ عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ الْمُكْتِبِ عَنْ طَلِيقِ بْنِ قَيْسٍ الْحَنَفِيِّ عَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ يَقُولُ فِي دُعَائِهِ ‏\n\"‏ رَبِّ أَعِنِّي وَلاَ تُعِنْ عَلَىَّ وَانْصُرْنِي وَلاَ تَنْصُرْ عَلَىَّ وَامْكُرْ لِي وَلاَ تَمْكُرْ عَلَىَّ وَاهْدِنِي وَيَسِّرِ الْهُدَى لِي وَانْصُرْنِي عَلَى مَنْ بَغَى عَلَىَّ رَبِّ اجْعَلْنِي لَكَ شَكَّارًا لَكَ ذَكَّارًا لَكَ رَهَّابًا لَكَ مُطِيعًا إِلَيْكَ مُخْبِتًا إِلَيْكَ أَوَّاهًا مُنِيبًا رَبِّ تَقَبَّلْ تَوْبَتِي وَاغْسِلْ حَوْبَتِي وَأَجِبْ دَعْوَتِي وَاهْدِ قَلْبِي وَسَدِّدْ لِسَانِي وَثَبِّتْ حُجَّتِي وَاسْلُلْ سَخِيمَةَ قَلْبِي ‏\"‏ ‏.‏ قَالَ أَبُو الْحَسَنِ الطَّنَافِسِيُّ قُلْتُ لِوَكِيعٍ أَقُولُهُ فِي قُنُوتِ الْوِتْرِ قَالَ نَعَمْ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas that :",
+        "text": "the Prophet (saas) used to say in his supplication: \"Rabbi! A'inni wa la tu'in 'alayya, wansurni wa la tansur 'alayya, wamkurli wa la tamkur 'alayya, wahdini wa yassiril-huda li, wansurni 'ala man bagha 'alayya.  Rabbij'alni laka shakkaran laka dhakkaran, laka rahhaban, laka muti'an, 'ilayka mukhbitan, 'ilayka awwahan muniba. Rabbi! Taqabbal tawbati, waghsil hawbati wa ajib da'wati, wahdi qalbi, wa saddid lisani, wa thabbit hujjati, waslul sakhimata qalbi (O Lord! Help me and do not help others against me, support me and do not support others against me, plan for me and do not plan against me, guide me and make guidance easy for me, and help me against those who wrong me. O Lord! Make me grateful to You, make me remember You much, make me fearful of You, obedient to You, humble before You and turning to You. O Lord! Accept my repentance and wash away my sins, answer my supplication, guide my heart, make my tongue speak the truth, make my proof firm and remove resentment from my heard).\" (Sahih)(One of the narrators) Abul-Hasan At-Tanafisi said: \"I said to Waki': 'Shall I say it in the Qunut of Witr?' He said: 'Yes.'\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُبَيْدَةَ، حَدَّثَنَا أَبِي، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أَتَتْ فَاطِمَةُ النَّبِيَّ ـ صلى الله عليه وسلم ـ تَسْأَلُهُ خَادِمًا فَقَالَ لَهَا ‏\"‏ مَا عِنْدِي مَا أُعْطِيكِ ‏\"‏ ‏.‏ فَرَجَعَتْ فَأَتَاهَا بَعْدَ ذَلِكَ فَقَالَ ‏\"‏ الَّذِي سَأَلْتِ أَحَبُّ إِلَيْكِ أَوْ مَا هُوَ خَيْرٌ مِنْهُ ‏\"‏ ‏.‏ فَقَالَ لَهَا عَلِيٌّ قُولِي لاَ بَلْ مَا هُوَ خَيْرٌ مِنْهُ فَقَالَتْ فَقَالَ ‏\"‏ قُولِي اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْعَرْشِ الْعَظِيمِ رَبَّنَا وَرَبَّ كُلِّ شَىْءٍ مُنْزِلَ التَّوْرَاةِ وَالإِنْجِيلِ وَالْقُرْآنِ الْعَظِيمِ أَنْتَ الأَوَّلُ فَلَيْسَ قَبْلَكَ شَىْءٌ وَأَنْتَ الآخِرُ فَلَيْسَ بَعْدَكَ شَىْءٌ وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَىْءٌ وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَىْءٌ اقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"Fatimah came to the Prophet (saas) to ask him for a servant, and he said: 'I do not have anything to give you.' So she went back, but after that he came to her and said: 'Is what you asked for dearer to you, or something better than that?' 'Ali said to her: 'Say: something better than that.' So she said it. He said: 'Say: Allahumma Rabbas-samawatis-Sab'i wa Rabbal-'Arshil-'Azim, Rabbana wa Rabba Kulli shay'in, munzil at-Tawrati wal-Injili wal-Qur'anil-'Azim. Antal-Awwalu fa laysa qablaka shay', wa Antal-Akiru fa laysa ba'daka shay', Antaz-Zahiru fa laysa fawqaka shay', wa Antal-Batinu fa laysa dunaka shay', Iqdi 'annad-daina wa aghnina minal-faqr (O Allah, Lord of the seven heavens and Lord of the Mighty Throne, Our Lord, and the Lord of Everything, Revealer of the Tawrah, the Injil and the Magnificent Qur'an. You are the First and there is nothing after You; You are the Last and there is nothing after You. You are the Most High, and there is nothing above You, and You are the Most Near and there is nothing nearer than You. Settle our debts and make us free of want).'\""
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ أَنَّهُ كَانَ يَقُولُ ‏\n\"‏ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah that :",
+        "text": "the Prophet (saas) used to say: \"Allahumma inni as'alukal-huda wat-tuqa wal-'afaf wal-ghina (O Allah, I ask You for guidance, piety, chastity and affluence).\""
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ مُوسَى بْنِ عُبَيْدَةَ، عَنْ مُحَمَّدِ بْنِ ثَابِتٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي وَعَلِّمْنِي مَا يَنْفَعُنِي وَزِدْنِي عِلْمًا وَالْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ وَأَعُوذُ بِاللَّهِ مِنْ عَذَابِ النَّارِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah (saas) used to say: 'Allahummanfa'ni bima 'allamtani, wa 'allimni ma yanfa'uni, wa zidni 'ilman, wal-hamdu lillahi 'ala kulli hal, wa a'udhu billahi min 'adhabin-nar (O Allah, benefit me by that which You have taught me, and teach me that which will benefit me, and increase me in knowledge. Praise is to Allah in all situations, and I seek refuge with Allah from the torment of the Fire).'\""
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، عَنْ يَزِيدَ الرَّقَاشِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يُكْثِرُ أَنْ يَقُولَ ‏\"‏ اللَّهُمَّ ثَبِّتْ قَلْبِي عَلَى دِينِكَ ‏\"‏ ‏.‏ فَقَالَ رَجُلٌ يَا رَسُولَ اللَّهِ تَخَافُ عَلَيْنَا وَقَدْ آمَنَّا بِكَ وَصَدَّقْنَاكَ بِمَا جِئْتَ بِهِ فَقَالَ ‏\"‏ إِنَّ الْقُلُوبَ بَيْنَ إِصْبَعَيْنِ مِنْ أَصَابِعِ الرَّحْمَنِ عَزَّ وَجَلَّ يُقَلِّبُهَا ‏\"‏ ‏.‏ وَأَشَارَ الأَعْمَشُ بِإِصْبَعَيْهِ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas bin Malik said:",
+        "text": "\"The Messenger of Allah (saas) often used to say: 'Allahumma thabbit qalbi 'ala dinika .' A man said: 'O Messenger of Allah! Do you fear for us when we have believed in you and in (the Message) that you have brought?' He said: 'Hearts are between two of the fingers of the Most Merciful, and He controls them.'\" (Hasan)Al-A'mash (one of the narrators) indicated with his fingers."
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، عَنْ أَبِي بَكْرٍ الصِّدِّيقِ، ‏.‏ أَنَّهُ قَالَ لِرَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ عَلِّمْنِي دُعَاءً أَدْعُو بِهِ فِي صَلاَتِي ‏.‏ قَالَ ‏\n\"‏ قُلِ اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Bakr Siddiq that :",
+        "text": "he said to the Messenger of Allah (saas): \"Teach me a supplication which I can say during my prayer.\" He said: \"Say: Allahumma inni zalamtu nafsi zulman kathiran wa la yaghfirudh-dhunub illa Anta, faghfirli maghfiratan min 'indika warhamni, innaka Antal-Ghafurur-Rahim (O Allah, I have wronged myself greatly and no one forgives sins but You, so grant me forgiveness from You and have mercy on me, for You are the Oft-Forgiving, Most Merciful).\""
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ مِسْعَرٍ، عَنْ أَبِي مَرْزُوقٍ، عَنْ أَبِي الْعَدَبَّسِ، عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ، قَالَ خَرَجَ عَلَيْنَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ وَهُوَ مُتَّكِئٌ عَلَى عَصًا فَلَمَّا رَأَيْنَاهُ قُمْنَا فَقَالَ ‏\"‏ لاَ تَفْعَلُوا كَمَا يَفْعَلُ أَهْلُ فَارِسَ بِعُظَمَائِهَا ‏\"‏ ‏.‏ قُلْنَا يَا رَسُولَ اللَّهِ لَوْ دَعَوْتَ اللَّهَ لَنَا ‏.‏ قَالَ ‏\"‏ اللَّهُمَّ اغْفِرْ لَنَا وَارْحَمْنَا وَارْضَ عَنَّا وَتَقَبَّلْ مِنَّا وَأَدْخِلْنَا الْجَنَّةَ وَنَجِّنَا مِنَ النَّارِ وَأَصْلِحْ لَنَا شَأْنَنَا كُلَّهُ ‏\"‏ ‏.‏ قَالَ فَكَأَنَّمَا أَحْبَبْنَا أَنْ يَزِيدَنَا فَقَالَ ‏\"‏ أَوَلَيْسَ قَدْ جَمَعْتُ لَكُمُ الأَمْرَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Umamah Al Bahili said:",
+        "text": "\"The Messenger of Allah (saas) came out to us, leaning on a stick, and when we saw him we stood up. He said: 'Do not do what the Persians do for their leaders.' We said: 'O Messenger of Allah, why don't you pray to Allah for us?' He said: 'Allahummaghfirlana, warhamna, warda 'anna, wa taqabbal minna, wa adkhilnal-jannah, wa najjina minan-nar, wa aslih lana sha'nana kullah. .' It was as if we wanted him to say more, but he said: 'Have I not summed everything for you?'\""
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عِيسَى بْنُ حَمَّادٍ الْمِصْرِيُّ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَخِيهِ، عَبَّادِ بْنِ أَبِي سَعِيدٍ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الأَرْبَعِ مِنْ عِلْمٍ لاَ يَنْفَعُ وَمِنْ قَلْبٍ لاَ يَخْشَعُ وَمِنْ نَفْسٍ لاَ تَشْبَعُ وَمِنْ دُعَاءٍ لاَ يُسْمَعُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Hurairah told that the Messenger of Allah (saas) said:",
+        "text": "'Allahumma! Inni a'udhu bika minal-arba': min 'ilmin la yanfa'u, wa min qalbin la yakhsha'u, wa min nafsin la tashba'u, wa min du'a'in la yusma' .'\""
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، ح وَحَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، جَمِيعًا عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ يَدْعُو بِهَؤُلاَءِ الْكَلِمَاتِ ‏\n\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ النَّارِ وَعَذَابِ النَّارِ وَمِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ الْقَبْرِ وَمِنْ شَرِّ فِتْنَةِ الْغِنَى وَشَرِّ فِتْنَةِ الْفَقْرِ وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ اللَّهُمَّ اغْسِلْ خَطَايَاىَ بِمَاءِ الثَّلْجِ وَالْبَرَدِ وَنَقِّ قَلْبِي مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ وَبَاعِدْ بَيْنِي وَبَيْنَ خَطَايَاىَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكَسَلِ وَالْهَرَمِ وَالْمَأْثَمِ وَالْمَغْرَمِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that the :",
+        "text": "Prophet (saas) would supplicate with these words: \"Allahumma inni a'udhu bika min fitnatin-nari wa 'adhabin-nar, wa min fitnatil-qabri wa 'adhabil-qabr, wa min sharri fitnatil-ghina wa min sharri fitnatil-faqr, wa min sharri fitnatil-masihid-dajjal. Allahumma aghsil khatayaya bima'ith-thalfi wal-barad, wa naqqi qalbi minal-khataya kama naqqaytath-thawbal-abyad minad-danas. Wa ba'id bayni wa bayna khatayaya kama ba'adta baynal-mashriqi wal-maghrib. Allahumma inni a'udhu bika minal-kasali wal-harami wal-ma'thami wal-maghrami (O Allah, I seek refuge with You from the tribulation of the Fire and the torment of the Fire, and from the tribulation of the grave, and from the evil of the tribulation of richness and the evil of the tribulation of poverty, and from the evil of the trial of the False Christ. O Allah! Wash away my sins with the water of snow and hail, and cleanse my heart from sin as a white garment is cleansed from filth, and put a great distance between me and my sins, as great as the distance You have made between the east and the west. O Allah! I seek refuge with You from laziness and old age, and from sins and debt).\""
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنْ حُصَيْنٍ، عَنْ هِلاَلٍ، عَنْ فَرْوَةَ بْنِ نَوْفَلٍ، قَالَ سَأَلْتُ عَائِشَةَ عَنْ دُعَاءٍ، كَانَ يَدْعُو بِهِ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ فَقَالَتْ كَانَ يَقُولُ ‏\n\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ وَمِنْ شَرِّ مَا لَمْ أَعْمَلْ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Farwah bin Nawfal said:",
+        "text": "\"I asked 'Aishah about a supplication that the Messenger of Allah (saas) used to say. She said that he used to say: 'Allahumma inni a'udhu bika min sharri ma 'amiltu, wa min sharri ma lam a'mal (O Allah, I seek refuge with You from the evil of that which I have done and the evil of that which I have not done).'\""
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ، حَدَّثَنَا بَكْرُ بْنُ سُلَيْمٍ، حَدَّثَنِي حُمَيْدٌ الْخَرَّاطُ، عَنْ كُرَيْبٍ، مَوْلَى ابْنِ عَبَّاسٍ عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يُعَلِّمُنَا هَذَا الدُّعَاءَ كَمَا يُعَلِّمُنَا السُّورَةَ مِنَ الْقُرْآنِ ‏\n\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Ibn 'Abbas said:",
+        "text": "\"The Messenger of Allah (saas) used to teach us this supplication just as he would teach us a Surah from the Qur'an: 'Allahumma inni a'udhu bika min 'adhabi jahannam, wa a'udhu bika min 'adhabil-qabr, wa a'udhu bika min fitnatil-masihil-dajjal, wa a'udhu bika min fitnatil-mahya wal-mamat (O Allah, I seek refuge with You from the torment of Hell, and I seek refuge with You from the torment of the grave, and I see refuge with you from the tribulation of False Christ, and I seek refuge with You from the trials of life and death).'\""
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ عَائِشَةَ، قَالَتْ فَقَدْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ ذَاتَ لَيْلَةٍ مِنْ فِرَاشِهِ فَالْتَمَسْتُهُ فَوَقَعَتْ يَدِي عَلَى بَطْنِ قَدَمَيْهِ وَهُوَ فِي الْمَسْجِدِ وَهُمَا مَنْصُوبَتَانِ وَهُوَ يَقُولُ ‏\n\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ وَأَعُوذُ بِكَ مِنْكَ لاَ أُحْصِي ثَنَاءً عَلَيْكَ أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I noticed that the Messenger of Allah (saas) was missing from his bed one night, so I went looking for him, and my hand touched the soles of his feet; he was in the Masjid with his feet upright (prostrating), and he was saying: 'Allahumma inni a'udhu biridaka min sakhatika wa bimu'afatika 'an 'uqubatika, wa a'udhu bika minka, la uhsi thana'an 'alayka, Anta kama athnayta 'ala nafsika (O Allah, I seek refuge in Your pleasure from Your wrath, and in Your forgiveness from Your punishment. I seek refuge in You from You. I cannot praise You enough; You are as You have praised Yourself).'\""
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ مُصْعَبٍ، عَنِ الأَوْزَاعِيِّ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ، عَنْ جَعْفَرِ بْنِ عِيَاضٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ تَعَوَّذُوا بِاللَّهِ مِنَ الْفَقْرِ وَالْقِلَّةِ وَالذِّلَّةِ وَأَنْ تَظْلِمَ أَوْ تُظْلَمَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that :",
+        "text": "the Messenger of Allah (saas) said: \"Seek refuge with Allah from poverty, insufficiency and humiliation, and from wronging (others) and being wronged.'\""
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ سَلُوا اللَّهَ عِلْمًا نَافِعًا وَتَعَوَّذُوا بِاللَّهِ مِنْ عِلْمٍ لاَ يَنْفَعُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Jabir that :",
+        "text": "the Messenger of Allah said: \"Ask Allah for beneficial knowledge and seek refuge with Allah from knowledge that is of no benefit.\""
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ مَيْمُونٍ، عَنْ عُمَرَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ يَتَعَوَّذُ مِنَ الْجُبْنِ وَالْبُخْلِ وَأَرْذَلِ الْعُمُرِ وَعَذَابِ الْقَبْرِ وَفِتْنَةِ الصَّدْرِ ‏.‏ قَالَ وَكِيعٌ يَعْنِي الرَّجُلَ يَمُوتُ عَلَى فِتْنَةٍ لاَ يَسْتَغْفِرُ اللَّهَ مِنْهَا ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Umar that the :",
+        "text": "Prophet saas used to seek refuge with Allah from cowardice, miserliness, old age, the torment of the grave and the tribulation of the heart. (Da'if)(One of the narrators) Waki' said: \"Meaning when a man dies in a state of tribulation (Fitnah) and does not ask Allah to forgive him.\""
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا أَبُو مَالِكٍ، سَعْدُ بْنُ طَارِقٍ عَنْ أَبِيهِ، أَنَّهُ سَمِعَ النَّبِيَّ ـ صلى الله عليه وسلم ـ وَقَدْ أَتَاهُ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ كَيْفَ أَقُولُ حِينَ أَسْأَلُ رَبِّي قَالَ ‏\"‏ قُلِ اللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَعَافِنِي وَارْزُقْنِي ‏\"‏ ‏.‏ وَجَمَعَ أَصَابِعَهُ الأَرْبَعَ إِلاَّ الإِبْهَامَ ‏\"‏ فَإِنَّ هَؤُلاَءِ يَجْمَعْنَ لَكَ دِينَكَ وَدُنْيَاكَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Abu Malik, Sa'd Bin Tariq, narrated from his father that :",
+        "text": "when a man had come to the Messenger of Allah (saas), he heard him say: \"O Messenger of Allah, what should I say when I ask of Allah?\" He said: \"Say: Allahumma-ghfirli warhamni wa 'afini warzuqni (O Allah, forgive me, have mercy on me, keep me safe and sound and grant me provision),\" and he held up his four fingers apart from the thumb and said: \"These combine your religious and worldly affairs.\""
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، أَخْبَرَنِي جَبْرُ بْنُ حَبِيبٍ، عَنْ أُمِّ كُلْثُومٍ بِنْتِ أَبِي بَكْرٍ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ عَلَّمَهَا هَذَا الدُّعَاءَ ‏\n\"‏ اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ وَأَعُوذُ بِكَ مِنَ الشَّرِّ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَنَبِيُّكَ وَأَعُوذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهِ عَبْدُكَ وَنَبِيُّكَ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ وَأَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِي خَيْرًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that :",
+        "text": "the Messenger of Allah (saas) taught her this supplication: \"Allahumma inni as'aluka minal-khayri kullihi, 'ajilihi wa ajilihi, ma 'alimtu minhu wa ma la a'lam.  Wa a'udhu bika minash-sharri kullihi, 'ajilihi wa ajilihi, ma 'alimtu minhu wa ma la a'lam. Allahumma inni as'aluka min khayri ma sa'alaka 'abduka wa nabiyyuka, wa a'udhu bika min sharri ma 'adha bihi 'abduka wa nabiyyuka. Allahumma inni as'alukal-jannatah wa ma qarrab ilayha min qawlin aw 'amalin, wa a'udhu bika minan-nari wa ma qarraba ilayha min qawlin aw 'amalin, wa as'aluka an taj'al kulla qada'in qadaytahuli khayran (O Allah, I ask You for all that is good, in this world and in the Hereafter, what I know and what I do not know. O Allah, I seek refuge with You from all evil, in this world and in the Hereafter, what I know and what I do not know.  O Allah, I ask You for the good that Your slave and Prophet has asked You for, and I seek refuge with You from the evil from which Your slave and Prophet sought refuge. O Allah, I ask You for Paradise and for that which brings one closer to it, in word and deed, and I seek refuge in You from Hell and from that which brings one closer to it, in word and deed. And I ask You to make every decree that You decree concerning me good).\""
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا يُوسُفُ بْنُ مُوسَى الْقَطَّانُ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ لِرَجُلٍ ‏\"‏ مَا تَقُولُ فِي الصَّلاَةِ ‏\"‏ ‏.‏ قَالَ أَتَشَهَّدُ ثُمَّ أَسْأَلُ اللَّهَ الْجَنَّةَ وَأَعُوذُ بِهِ مِنَ النَّارِ أَمَا وَاللَّهِ مَا أُحْسِنُ دَنْدَنَتَكَ وَلاَ دَنْدَنَةَ مُعَاذٍ ‏.‏ قَالَ ‏\"‏ حَوْلَهُمَا نُدَنْدِنُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that :",
+        "text": "the Messenger of Allah (saas) said to a man: \"What do you say during your prayer?\" He said: \"I recite the Tashah-hud then I ask for Allah for Paradise and see refuge with Him from Hell, but by Allah I do not understand your whispering or the whispering of Mu'adh.\" He said: \"It is concerning them (Paradise and Hell) that we are whispering.\""
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، أَخْبَرَنِي سَلَمَةُ بْنُ وَرْدَانَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ أَىُّ الدُّعَاءِ أَفْضَلُ قَالَ ‏\"‏ سَلْ رَبَّكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ ‏\"‏ ‏.‏ ثُمَّ أَتَاهُ فِي الْيَوْمِ الثَّانِي فَقَالَ يَا رَسُولَ اللَّهِ أَىُّ الدُّعَاءِ أَفْضَلُ قَالَ ‏\"‏ سَلْ رَبَّكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ ‏\"‏ ‏.‏ ثُمَّ أَتَاهُ فِي الْيَوْمِ الثَّالِثِ فَقَالَ يَا نَبِيَّ اللَّهِ أَىُّ الدُّعَاءِ أَفْضَلُ قَالَ ‏\"‏ سَلْ رَبَّكَ الْعَفْوَ وَالَعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ فَإِذَا أُعْطِيتَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ فَقَدْ أَفْلَحْتَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas bin Malik said:",
+        "text": "\"A man come to the Prophet (saas) and said: 'O Messenger of Allah, what supplication is best?' He said: 'Ask your Lord for forgiveness and to be kept safe and sound in this world and in the Hereafter.' Then (the man) came the next day and said: 'O Messenger of Allah, what supplication is best?' He said: 'Ask your Lord for forgiveness and to be kept safe and sound in this world and in the Hereafter.' Then (the man) came the third day and said: 'O Prophet of Allah, what supplication is best?' He said: 'Ask your Lord for forgiveness and to be kept safe and sound in this world and in the Hereafter, for if you are forgiven and kept safe and sound in this world and the Hereafter, you will have succeeded.'\""
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا عُبَيْدُ بْنُ سَعِيدٍ، قَالَ سَمِعْتُ شُعْبَةَ، عَنْ يَزِيدَ بْنِ خُمَيْرٍ، قَالَ سَمِعْتُ سُلَيْمَ بْنَ عَامِرٍ، يُحَدِّثُ عَنْ أَوْسَطَ بْنِ إِسْمَاعِيلَ الْبَجَلِيِّ، أَنَّهُ سَمِعَ أَبَا بَكْرٍ، حِينَ قُبِضَ النَّبِيُّ ـ صلى الله عليه وسلم ـ يَقُولُ قَامَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ فِي مَقَامِي هَذَا عَامَ الأَوَّلِ ثُمَّ بَكَى أَبُو بَكْرٍ ثُمَّ قَالَ ‏\n\"‏ عَلَيْكُمْ بِالصِّدْقِ فَإِنَّهُ مَعَ الْبِرِّ وَهُمَا فِي الْجَنَّةِ وَإِيَّاكُمْ وَالْكَذِبَ فَإِنَّهُ مَعَ الْفُجُورِ وَهُمَا فِي النَّارِ وَسَلُوا اللَّهَ الْمُعَافَاةَ فَإِنَّهُ لَمْ يُؤْتَ أَحَدٌ بَعْدَ الْيَقِينِ خَيْرًا مِنَ الْمُعَافَاةِ وَلاَ تَحَاسَدُوا وَلاَ تَبَاغَضُوا وَلاَ تَقَاطَعُوا وَلاَ تَدَابَرُوا وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Awsat (bin Isma'il) Al-Bajali that :",
+        "text": "he heard Abu Bakr, when the Prophet (saas) had passed away, saying: \"The Messenger of Allah (saas) stood in this place where I am standing, last year.\" Then Abu Bakr wept, then he said: \"You must adhere to the truth, for with it comes righteousness and they both lead to Paradise. And you must beware of lying for with it comes immorality, and they both lead to Hell. Ask Allah for Al-Mu'afah, for no one is given anything after certainty that is better than Mu'afah. Do not envy one another, do not hate one another, do not sever ties with one another, do not turn your backs on one another and be, O slaves of Allah, brothers.\""
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ كَهْمَسِ بْنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ يَا رَسُولَ اللَّهِ أَرَأَيْتَ إِنْ وَافَقْتُ لَيْلَةَ الْقَدْرِ مَا أَدْعُو قَالَ ‏\n\"‏ تَقُولِينَ اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Aishah that she said:",
+        "text": "\"O Messenger of Allah, what do you think I should say in my supplication, if I come upon Laylatul-Qadr?\" He said: \"Say: 'Allahumma innaka 'afuwwun tuhibbul-'afwa, fa'fu 'anni (O Allah, You are Forgiving and love forgiveness, so forgive me).'\""
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامٍ، صَاحِبِ الدَّسْتَوَائِيِّ عَنْ قَتَادَةَ، عَنِ الْعَلاَءِ بْنِ زِيَادٍ الْعَدَوِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ مَا مِنْ دَعْوَةٍ يَدْعُو بِهَا الْعَبْدُ أَفْضَلَ مِنَ - اللَّهُمَّ إِنِّي أَسْأَلُكَ الْمُعَافَاةَ فِي الدُّنْيَا وَالآخِرَةِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah said:",
+        "text": "\"The Messenger of Allah (saas) said: 'There is no supplication that a person can say that is better than: Allahumma inni as'aluka al-mu'afah fid-dunya wal-akhirah (O Allah, I ask You for Al-Mu'afah in this world and in the Hereafter).'\""
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ يَرْحَمُنَا اللَّهُ وَأَخَا عَادٍ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Ibn 'Abbas that :",
+        "text": "the Messenger of Allah (saas) said: \"May Allah have mercy on us and on our brother of 'Ad.\" (i.e., Prophet Hud alay-salaam)."
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا إِسْحَاقُ بْنُ سُلَيْمَانَ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي عُبَيْدٍ، مَوْلَى عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\"‏ يُسْتَجَابُ لأَحَدِكُمْ مَا لَمْ يَعْجَلْ ‏\"‏ ‏.‏ قِيلَ وَكَيْفَ يَعْجَلُ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ يَقُولُ قَدْ دَعَوْتُ اللَّهَ فَلَمْ يَسْتَجِبِ اللَّهُ لِي ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that :",
+        "text": "the Messenger of Allah (saas) said: \"It is necessary that you do not become hasty.\" It was said: \"What does being hasty mean, O Messenger of Allah?\" He said: \"When one says: 'I supplicated to Allah but Allah did not answer me.'\""
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنِ ابْنِ عَجْلاَنَ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ لاَ يَقُولَنَّ أَحَدُكُمُ اللَّهُمَّ اغْفِرْ لِي إِنْ شِئْتَ وَلْيَعْزِمْ فِي الْمَسْأَلَةِ فَإِنَّ اللَّهَ لاَ مُكْرِهَ لَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that the :",
+        "text": "Messenger of Allah (saas) said: \"No one among you should say: \"O Allah, forgive me if You will.' Let him be definite in his asking, and no one can compel Allah.\""
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي زِيَادٍ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أَسْمَاءَ بِنْتِ يَزِيدَ، قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\"‏ اسْمُ اللَّهِ الأَعْظَمُ فِي هَاتَيْنِ الآيَتَيْنِ ‏{وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ لاَ إِلَهَ إِلاَّ هُوَ الرَّحْمَنُ الرَّحِيمُ}‏ وَفَاتِحَةِ سُورَةِ آلِ عِمْرَانَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Asma' bint Yazid that :",
+        "text": "the Messenger of Allah (saas) said: \"The Greatest Name of Allah is in these two Verses: And your Ilah (God) is One Ilah (God - Allah), La Ilaha Illa Huwa (none has the right to be worshipped but He), the Most Gracious, the Most Merciful.' And at the beginning of Surah Al 'Imran.\""
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا عَمْرُو بْنُ أَبِي سَلَمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ الْعَلاَءِ، عَنِ الْقَاسِمِ، قَالَ اسْمُ اللَّهِ الأَعْظَمُ الَّذِي إِذَا دُعِيَ بِهِ أَجَابَ فِي سُوَرٍ ثَلاَثٍ الْبَقَرَةِ وَآلِ عِمْرَانَ وَطَهَ ‏.‏ \nحَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا عَمْرُو بْنُ أَبِي سَلَمَةَ، قَالَ ذَكَرْتُ ذَلِكَ لِعِيسَى بْنِ مُوسَى فَحَدَّثَنِي أَنَّهُ، سَمِعَ غَيْلاَنَ بْنَ أَنَسٍ، يُحَدِّثُ عَنِ الْقَاسِمِ، عَنْ أَبِي أُمَامَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Al-Qasim said:",
+        "text": "The Greatest Name of Allah, if He is called by which He will respond, is in three Surah: Al-Baqarah, Al 'Imran and Ta-Ha. (Hasan)Another chain for something similar from Al-Qasim, from Abu Umamah, from the Prophet (saas)."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ مَالِكِ بْنِ مِغْوَلٍ، أَنَّهُ سَمِعَهُ مِنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ سَمِعَ النَّبِيُّ ـ صلى الله عليه وسلم ـ رَجُلاً يَقُولُ اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّكَ أَنْتَ اللَّهُ الأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ‏.‏ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ لَقَدْ سَأَلَ اللَّهَ بِاسْمِهِ الأَعْظَمِ الَّذِي إِذَا سُئِلَ بِهِ أَعْطَى وَإِذَا دُعِيَ بِهِ أَجَابَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from 'Abdullah bin Buraidah that his father said:",
+        "text": "\"The Prophet (saas) heard a man say: 'Allahumma! Inni as'aluka bi-annaka Antallahul-Ahadus-Samad, alladhi lam yalid wa lam yuwlud, wa lam yakun lahu kufuwan ahad (O Allah! I ask You by virtue of Your being Allah, the One, the Self-Sufficient Master, Who begets not nor was begotten, and there is none co-equal or comparable to Him).' The Messenger of Allah (saas) said: 'He has asked Allah by His Greatest Name, which if He is asked thereby He gives, and if He is called upon thereby He answers.'\""
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا أَبُو خُزَيْمَةَ، عَنْ أَنَسِ بْنِ سِيرِينَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ سَمِعَ النَّبِيُّ ـ صلى الله عليه وسلم ـ رَجُلاً يَقُولُ اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لاَ إِلَهَ إِلاَّ أَنْتَ وَحْدَكَ لاَ شَرِيكَ لَكَ الْمَنَّانُ بَدِيعُ السَّمَوَاتِ وَالأَرْضِ ذُو الْجَلاَلِ وَالإِكْرَامِ فَقَالَ ‏\n\"‏ لَقَدْ سَأَلَ اللَّهَ بِاسْمِهِ الأَعْظَمِ الَّذِي إِذَا سُئِلَ بِهِ أَعْطَى وَإِذَا دُعِيَ بِهِ أَجَابَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Anas bin Malik said:",
+        "text": "\"The Prophet (saas) heard a man say: 'Allahumma! Inni as'aluka bi-anna lakal-hamd. La ilaha illa Anta, wahdaka la sharika laka. Al-Mannan. Badi'us-samawati wal-ard. Dhul-jalali wal-ikram (O Allah! I ask You by virtue of the fact that all praise is due to You; none has the right to be worshiped but You alone, and You have no partner or associate, the Bestower, the Originator of the heavens and the earth, the Possessor of majesty and honor.' He (saas) said: 'He has asked Allah by His Greatest Name which, if He is asked thereby He gives and if He is called upon thereby He answers.'\""
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو يُوسُفَ الصَّيْدَلاَنِيُّ، مُحَمَّدُ بْنُ أَحْمَدَ الرَّقِّيُّ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنِ الْفَزَارِيِّ، عَنْ أَبِي شَيْبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عُكَيْمٍ الْجُهَنِيِّ، عَنْ عَائِشَةَ، قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\"‏ اللَّهُمَّ إِنِّي أَسْأَلُكَ بِاسْمِكَ الطَّاهِرِ الطَّيِّبِ الْمُبَارَكِ الأَحَبِّ إِلَيْكَ الَّذِي إِذَا دُعِيتَ بِهِ أَجَبْتَ وَإِذَا سُئِلْتَ بِهِ أَعْطَيْتَ وَإِذَا اسْتُرْحِمْتَ بِهِ رَحِمْتَ وَإِذَا اسْتُفْرِجْتَ بِهِ فَرَّجْتَ ‏\"‏ ‏.‏ قَالَتْ وَقَالَ ذَاتَ يَوْمٍ ‏\"‏ يَا عَائِشَةُ هَلْ عَلِمْتِ أَنَّ اللَّهَ قَدْ دَلَّنِي عَلَى الاِسْمِ الَّذِي إِذَا دُعِيَ بِهِ أَجَابَ ‏\"‏ ‏.‏ قَالَتْ فَقُلْتُ يَا رَسُولَ اللَّهِ بِأَبِي أَنْتَ وَأُمِّي فَعَلِّمْنِيهِ ‏.‏ قَالَ ‏\"‏ إِنَّهُ لاَ يَنْبَغِي لَكِ يَا عَائِشَةُ ‏\"‏ ‏.‏ قَالَتْ فَتَنَحَّيْتُ وَجَلَسْتُ سَاعَةً ثُمَّ قُمْتُ فَقَبَّلْتُ رَأْسَهُ ثُمَّ قُلْتُ يَا رَسُولَ اللَّهِ عَلِّمْنِيهِ ‏.‏ قَالَ ‏\"‏ إِنَّهُ لاَ يَنْبَغِي لَكِ يَا عَائِشَةُ أَنْ أُعَلِّمَكِ إِنَّهُ لاَ يَنْبَغِي لَكِ أَنْ تَسْأَلِي بِهِ شَيْئًا مِنَ الدُّنْيَا ‏\"‏ ‏.‏ قَالَتْ فَقُمْتُ فَتَوَضَّأْتُ ثُمَّ صَلَّيْتُ رَكْعَتَيْنِ ثُمَّ قُلْتُ اللَّهُمَّ إِنِّي أَدْعُوكَ اللَّهَ وَأَدْعُوكَ الرَّحْمَنَ وَأَدْعُوكَ الْبَرَّ الرَّحِيمَ وَأَدْعُوكَ بِأَسْمَائِكَ الْحُسْنَى كُلِّهَا مَا عَلِمْتُ مِنْهَا وَمَا لَمْ أَعْلَمْ أَنْ تَغْفِرَ لِي وَتَرْحَمَنِي ‏.‏ قَالَتْ فَاسْتَضْحَكَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ثُمَّ قَالَ ‏\"‏ إِنَّهُ لَفِي الأَسْمَاءِ الَّتِي دَعَوْتِ بِهَا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that 'Aishah said:",
+        "text": "\"I heard the Messenger of Allah (saas) say: 'Allahumma! Inni asa'luka bismikat-tahirit-tayyibil-mubarak al-ahabbi ilaika, alladhi idha du'ita bihi ajabta, wa idha su'ilta bihi a'taita, wa idhasturhimta bihi rahimta, wa idhastufrijta bihi farrajta (O Allah! I ask You by Your pure, good and blessed Name which is most beloved by You, which if You are called thereby You answer, and if You as asked thereby You give, if You are asked for mercy thereby You bestow mercy, and if You are asked for relief (from distress) thereby You grant relief.'\"She said: \"He said one day: 'O 'Aishah, do you know that Allah has told me the Name which, if He is called thereby, He responds?' I said: 'O Messenger of Allah, may my father and mother be ransomed for you! Teach it to me.' He said: 'You should not learn it, O 'Aishah.' So I moved aside and sat for a while, then I got up and kissed his head, then I said: 'O Messenger of Allah, teach it to me.' He said: 'You should not learn it, O 'Aishah, and I should not teach it to you, for you should not ask for any worldly things thereby.'\" She said: \"So I got up and performed ablution, then I prayed two Rak'ah, then I said: 'O Allah, I call upon Allah, and I call upon You, Ar-Rahman (the Most Gracious), and I call upon You, Al-Barr Ar-Rahim (The Most Kind, the Most Merciful), and I call upon You by all Your beautiful Names, those that I know and those that I do not know, (asking) that You forgive me and have mercy on me.' The Messenger of Allah (saas) smiled, then he said: 'It is among the names by which you called upon (Allah).'\""
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ إِنَّ لِلَّهِ تِسْعَةً وَتِسْعِينَ اسْمًا مِائَةً إِلاَّ وَاحِدًا مَنْ أَحْصَاهَا دَخَلَ الْجَنَّةَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that :",
+        "text": "the Messenger of Allah (saas) said: \"Allah has ninety-nine Names, one hundred less one. Whoever counts them will enter Paradise.\""
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ مُحَمَّدٍ الصَّنْعَانِيُّ، حَدَّثَنَا أَبُو الْمُنْذِرِ، زُهَيْرُ بْنُ مُحَمَّدٍ التَّمِيمِيُّ حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ الأَعْرَجُ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ إِنَّ لِلَّهِ تِسْعَةً وَتِسْعِينَ اسْمًا مِائَةً إِلاَّ وَاحِدًا إِنَّهُ وِتْرٌ يُحِبُّ الْوِتْرَ مَنْ حَفِظَهَا دَخَلَ الْجَنَّةَ وَهِيَ اللَّهُ الْوَاحِدُ الصَّمَدُ الأَوَّلُ الآخِرُ الظَّاهِرُ الْبَاطِنُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ الْمَلِكُ الْحَقُّ السَّلاَمُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ الرَّحْمَنُ الرَّحِيمُ اللَّطِيفُ الْخَبِيرُ السَّمِيعُ الْبَصِيرُ الْعَلِيمُ الْعَظِيمُ الْبَارُّ الْمُتَعَالِ الْجَلِيلُ الْجَمِيلُ الْحَىُّ الْقَيُّومُ الْقَادِرُ الْقَاهِرُ الْعَلِيُّ الْحَكِيمُ الْقَرِيبُ الْمُجِيبُ الْغَنِيُّ الْوَهَّابُ الْوَدُودُ الشَّكُورُ الْمَاجِدُ الْوَاجِدُ الْوَالِي الرَّاشِدُ الْعَفُوُّ الْغَفُورُ الْحَلِيمُ الْكَرِيمُ التَّوَّابُ الرَّبُّ الْمَجِيدُ الْوَلِيُّ الشَّهِيدُ الْمُبِينُ الْبُرْهَانُ الرَّءُوفُ الرَّحِيمُ الْمُبْدِئُ الْمُعِيدُ الْبَاعِثُ الْوَارِثُ الْقَوِيُّ الشَّدِيدُ الضَّارُّ النَّافِعُ الْبَاقِي الْوَاقِي الْخَافِضُ الرَّافِعُ الْقَابِضُ الْبَاسِطُ الْمُعِزُّ الْمُذِلُّ الْمُقْسِطُ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ الْقَائِمُ الدَّائِمُ الْحَافِظُ الْوَكِيلُ الْفَاطِرُ السَّامِعُ الْمُعْطِي الْمُحْيِي الْمُمِيتُ الْمَانِعُ الْجَامِعُ الْهَادِي الْكَافِي الأَبَدُ الْعَالِمُ الصَّادِقُ النُّورُ الْمُنِيرُ التَّامُّ الْقَدِيمُ الْوِتْرُ الأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ‏\"‏ ‏.‏ قَالَ زُهَيْرٌ فَبَلَغَنَا عَنْ غَيْرِ وَاحِدٍ مِنْ أَهْلِ الْعِلْمِ أَنَّ أَوَّلَهَا يُفْتَحُ بِقَوْلِ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ لاَ إِلَهَ إِلاَّ اللَّهُ لَهُ الأَسْمَاءُ الْحُسْنَى ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Hurairah that :",
+        "text": "the Messenger of Allah (saas) said: \"Allah has ninety-nine names, one hundred less one, for He is One and loves the odd (numbered). Whoever learns them will enter Paradise.  They are: Allah, Al-Wahid (the One), As-Samad (the Self-Sufficient Master who all creatures need, He neither eats nor drinks), Al-Awwal (the First), Al-Akhir (the Last), Az-Zahir (the Most High), Al-Batin (the Most Near), Al-Khaliq (the Creator), Al-Bari (the Inventor of all things), Al-Musawwir (the Bestower of forms), Al-Malik (the King), Al-Haqq (the Truth), As-Salam (the One free from all defects), Al-Mu'min (the Giver of security), Al-Muhaymin (the Watcher over His creatures), Al-'Aziz (the All-Mighty), Al-Jabbar (the Compeller), Al-Mutakabbir (the Supreme), Ar-Rahman (the Most Gracious), Ar-Rahim (the Most Merciful), Al-Latif (the Most Subtle and Courteous), Al-Khabir (the Aware), As-Sami' (the Hearing), Al-Basir (the Seeing), Al-'Alim (the All-Knowing), Al-'Azim (the Most Great), Al-Barr (the Source of goodness), Al-Muta'al (the Most Exalted), Al-Jalil (the Sublime One), Al-Jamil (the Beautiful), Al-Hayy (the Ever-Living), Al-Qayyum (the One Who sustains and protects all that exists), Al-Qadir (the Able), Al-Qahir (the Irrestible), Al-'Ali (the Exalted), Al-Hakim (the Most Wise), Al-Qarib (the Ever-Near), Al-Mujib (the Responsive), Al-Ghani (the Self-Sufficient), Al-Wahhab (the Bestower), Al-Wadud (the Loving), Ash-Shakur (the Appreciative), Al-Majid (the Most Gentle), Al-Wajid (the Patron), Al-Wali (the Governor), Al-Rashid (the Guide), Al-'Afuw (the Pardoner), Al-Ghafur (the Forgiver), Al-Halim (the Forbearing One), Al-Karim (the Most Generous), At-Tawwab (the Acceptor of Repentance), Ar-Rabb (the Lord and Cherisher), Al-Majid (the Most Glorious), Al-Wali (the Helper), Ash-Shahid (the Witness), Al-Mubin (the Manifest), Al-Burhan (the Proof), Ar-Ra'uf (the Compassionate), Ar-Rahim (the Most Merciful), Al-Mubdi' (the Originator), Al-Mu'id (the Restorer), Al-Ba'ith (the Resurrector), Al-Warith (the Supreme Inheritor), Al-Qawi (the All-Strong), Ash-Shadid (the Severe), Ad-Darr (the One Who harms), An-Nafi' (the One Who benefits), Al-Baqi' (the Everlasting), Al-Waqi (the Protector), Al-Khafid (the Humble), Ar-Rafi' (the Exalter), Al-Qabid (the Retainer), Al-Basit (the Expander), Al-Mu'izz (the Honorer), Al-Mudhill (the Humiliator), Al-Muqsit (the Equitable), Ar-Razzaq (the Providor), Dhul-Quwwah (the Powerful), Al-Matin (the Most Strong), Al-Qa'im (the Firm), Ad-Da'im (the Eternal), Al-Hafiz (the Guardian), Al-Wakil (the Trustee), Al-Fatir (the Originator of creation), As-Sami' (the Hearer), Al-Mu'ti (the Giver), Al-Muhyi (the Giver of life), Al-Mumit (the Giver of death), Al-Mani' (the Withholder), Al-Jami' (the Gatherer), Al-Hadi (the Guide), Al-Kafi (the Sufficient), Al-Abad (the Eternal), Al-'Alim (the Knower), As-Sadiq (the Truthful), An-Nur (the Light), Al-Munir (the Giver of light), At-Tamm (the Perfect), Al-Qadim (the Earlier), Al-Witr (the One), Al-Ahad (the Lone), As-Samad ."
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بَكْرٍ السَّهْمِيُّ، عَنْ هِشَامٍ الدَّسْتَوَائِيِّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي جَعْفَرٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\n\"‏ ثَلاَثُ دَعَوَاتٍ يُسْتَجَابُ لَهُنَّ لاَ شَكَّ فِيهِنَّ دَعْوَةُ الْمَظْلُومِ وَدَعْوَةُ الْمُسَافِرِ وَدَعْوَةُ الْوَالِدِ لِوَلَدِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Abu Hurairah that :",
+        "text": "the Messenger of Allah (saas) said: \"There are three supplications that will undoubtedly be answered: the supplication of one who has been wronged; the supplication of the traveler; and the supplication of a father for his child.\""
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا أَبُو سَلَمَةَ، حَدَّثَتْنَا حَبَابَةُ ابْنَةُ عَجْلاَنَ، عَنْ أُمِّهَا أُمِّ حَفْصٍ، عَنْ صَفِيَّةَ بِنْتِ جَرِيرٍ، عَنْ أُمِّ حَكِيمٍ بِنْتِ وَدَاعٍ الْخُزَاعِيَّةِ، قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ دُعَاءُ الْوَالِدِ يُفْضِي إِلَى الْحِجَابِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated that Umm Haim bint Wadda' Al-Khuza'iyyah said:",
+        "text": "\"I heard the Messenger of Allah (saas) say: 'The supplication of a father reaches the Veil (i.e. the place of repentance).'\""
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 34,
+      "bookId": 6,
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، أَنْبَأَنَا سَعِيدٌ الْجُرَيْرِيُّ، عَنْ أَبِي نَعَامَةَ، أَنَّ عَبْدَ اللَّهِ بْنَ مُغَفَّلٍ، سَمِعَ ابْنَهُ، يَقُولُ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْقَصْرَ الأَبْيَضَ عَنْ يَمِينِ الْجَنَّةِ، إِذَا دَخَلْتُهَا ‏.‏ فَقَالَ أَىْ بُنَىَّ سَلِ اللَّهَ الْجَنَّةَ وَعُذْ بِهِ مِنَ النَّارِ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏\n\"‏ سَيَكُونُ قَوْمٌ يَعْتَدُونَ فِي الدُّعَاءِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "It was narrated from Abu Na'amah that :",
+        "text": "'Abdullah bin Mughaffal heard his son say: \"O Allah, I ask You for the white palace on the right-hand side of Paradise, when I enter it.\" He said: \"O my son, ask Allah for Paradise and seek refuge with Him from Hell, for I heard the Messenger of Allah (saas) say: 'There will be people who will transgress in supplication.'\""
+      }
+    }
+  ]
+}

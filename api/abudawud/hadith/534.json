@@ -1,0 +1,16 @@
+{
+  "id": 534,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ كُنَّا نُسَلِّمُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ فِي الصَّلاَةِ فَيَرُدُّ عَلَيْنَا فَلَمَّا رَجَعْنَا مِنْ عِنْدِ النَّجَاشِيِّ سَلَّمْنَا عَلَيْهِ فَلَمْ يَرُدَّ عَلَيْنَا وَقَالَ ‏\n\"‏ إِنَّ فِي الصَّلاَةِ لَشُغْلاً ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "‘Abd Allah(b. Mas’ud) said:",
+    "text": "We used to salute the Messenger of Allah(ﷺ) while he was engaged in prayer and he would respond to our salutation, but when we returned from the Negas, we saluted him and he did not respond to us. He said : Prayer demands one’s whole attention."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

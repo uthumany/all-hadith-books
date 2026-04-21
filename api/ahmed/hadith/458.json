@@ -1,0 +1,16 @@
+{
+  "id": 458,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنِ الْأَعْمَشِ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ مَا لِي أَرَاكَ تَنَوَّقُ فِي قُرَيْشٍ وَتَدَعُنَا أَنْ تَزَوَّجَ إِلَيْنَا قَالَ وَعِنْدَكَ شَيْءٌ قَالَ قُلْتُ ابْنَةُ حَمْزَةَ قَالَ إِنَّهَا ابْنَةُ أَخِي مِنْ الرَّضَاعَةِ‏.‏",
+  "english": {
+    "narrator": "It was narrated that ‘Ali (رضي الله عنه) said:",
+    "text": "I said: O Messenger of Allah, why do I see you marrying from Quraish and you do not marry from among us? He said: “Do you have someone?` I said: The daughter of Hamzah. He said: `She is the daughter of my brother through breastfeeding.”"
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

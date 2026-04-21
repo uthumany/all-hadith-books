@@ -1,0 +1,16 @@
+{
+  "id": 275,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم وَعَلَيْهِ حُلَّةٌ حَمْرَاءُ مُتَرَجِّلاً لَمْ أَرَ قَبْلَهُ وَلاَ بَعْدَهُ أَحَدًا هُوَ أَجْمَلُ مِنْهُ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Al-Bara' said:",
+    "text": "\"I saw the Prophet  wearing a red Hullah, with his hair combed, and I have never seen anyone before or since, who was more handsome than he.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

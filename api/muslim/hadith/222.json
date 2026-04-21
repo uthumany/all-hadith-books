@@ -1,0 +1,16 @@
+{
+  "id": 222,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَاهُ ابْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، فِي هَذَا الإِسْنَادِ وَقَالَ قَالَتْ\n كَانَ يَذُبُّ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ وَلَمْ يَذْكُرْ حَصَانٌ رَزَانٌ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This hadith has been reported on the authority of Shu'ba with the same chain of transmitters but with a slight variation of wording."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

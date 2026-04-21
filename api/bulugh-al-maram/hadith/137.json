@@ -1,0 +1,16 @@
+{
+  "id": 137,
+  "chapterId": 8,
+  "bookId": 12,
+  "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- { أَنَّ اِبْنَةَ اَلْجَوْنِ لَمَّا أُدْخِلَتْ عَلَى رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-وَدَنَا مِنْهَا .‏ قَالَتْ : أَعُوذُ بِاَللَّهِ مِنْكَ , قَالَ : \" لَقَدْ عُذْتِ بِعَظِيمٍ , اِلْحَقِي بِأَهْلِكِ }  رَوَاهُ اَلْبُخَارِيُّ  1‏ .‏‏1 ‏- صحيح .‏ رواه البخاري ( 5254 )‏.‏",
+  "english": {
+    "narrator": "Narrated 'Aishah (RA):",
+    "text": "When the daughter of al-Jaun was admitted into the presence of Allah's Messenger (ﷺ) and he went near her, she said, \"I seek refuge in Allah from you.\" He replied, \"You have sought refuge in the Supreme , return to your family.\"\n\n."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 245,
+  "chapterId": 78,
+  "bookId": 1,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا سُلَيْمَانُ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ عَطَسَ رَجُلاَنِ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَشَمَّتَ أَحَدَهُمَا وَلَمْ يُشَمِّتِ الآخَرَ، فَقِيلَ لَهُ فَقَالَ ‏\n\"‏ هَذَا حَمِدَ اللَّهَ، وَهَذَا لَمْ يَحْمَدِ اللَّهَ ‏\"‏‏.‏",
+  "english": {
+    "narrator": "Narrated Anas bin Malik:",
+    "text": "Two men sneezed before the Prophet. The Prophet (ﷺ) said to one of them, \"May Allah bestow His Mercy \non you,\" but he did not say that to the other. On being asked (why), the Prophet (ﷺ) said, \"That one \npraised Allah (at the time of sneezing), while the other did not praise Allah.\""
+  },
+  "book": {
+    "id": 1,
+    "name": "Sahih al-Bukhari",
+    "arabic": "صحيح البخاري",
+    "slug": "bukhari"
+  }
+}

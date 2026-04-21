@@ -1,0 +1,16 @@
+{
+  "id": 21,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا دَاوُدُ بْنُ عَمْرٍو الضَّبِّيُّ، حَدَّثَنَا نَافِعُ بْنُ عُمَرَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، قَالَ كَتَبْتُ إِلَى ابْنِ عَبَّاسٍ أَسْأَلُهُ أَنْ يَكْتُبَ، لِي كِتَابًا وَيُخْفِي عَنِّي ‏.‏ فَقَالَ وَلَدٌ نَاصِحٌ أَنَا أَخْتَارُ لَهُ الأُمُورَ اخْتِيَارًا وَأُخْفِي عَنْهُ ‏.‏ قَالَ فَدَعَا بِقَضَاءِ عَلِيٍّ فَجَعَلَ يَكْتُبُ مِنْهُ أَشْيَاءَ وَيَمُرُّ بِهِ الشَّىْءُ فَيَقُولُ وَاللَّهِ مَا قَضَى بِهَذَا عَلِيٌّ إِلاَّ أَنْ يَكُونَ ضَلَّ ‏.‏",
+  "english": {
+    "narrator": "Dāwud bin Amr aḍ-Ḍabbī narrated to us, Nāfi’ bin Umar narrated to us, on authority of Ibn Abī Mulaykah, he said:",
+    "text": "‘I wrote to Ibn Abbās asking him to write something  said: ‘By Allah, Alī did not give judgment according to this unless he was astray’.’"
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

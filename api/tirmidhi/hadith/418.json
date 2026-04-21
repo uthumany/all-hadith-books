@@ -1,0 +1,16 @@
+{
+  "id": 418,
+  "chapterId": 47,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو الْعَقَدِيُّ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنِ الْحَارِثِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَظَرَ إِلَى الْقَمَرِ فَقَالَ ‏\n\"‏ يَا عَائِشَةُ اسْتَعِيذِي بِاللَّهِ مِنْ شَرِّ هَذَا فَإِنَّ هَذَا الْغَاسِقُ إِذَا وَقَبَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Aishah narrated:",
+    "text": "“The Prophet looked at the moon and he said: ‘O Aishah! Do you seek refuge with Allah from the evil of this? For indeed this is Al-Ghasiqu Idha Waqab (The darkened one as it darkens).’”"
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

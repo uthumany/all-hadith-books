@@ -1,0 +1,16 @@
+{
+  "id": 189,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \n\" يَخْرُجُ عُنُقٌ مِنَ النَّارِ يَوْمَ الْقِيَامَةِ لَهَا عَيْنَانِ تُبْصِرَانِ وَأُذُنَانِ تَسْمَعَانِ وَلِسَانٌ يَنْطِقُ يَقُولُ: إِنِّي وُكِّلْتُ بِثَلَاثَةٍ: بِكُلِّ جَبَّارٍ عَنِيدٍ وَكُلِّ مَنْ دَعَا مَعَ اللَّهِ إِلَهًا آخر وبالمصوِّرين \". رَوَاهُ التِّرْمِذِيّ",
+  "english": {
+    "narrator": "He reported God’s messenger as saying, \"On the day of resurrection there will issue from hell a portion having two eyes which see, two ears which hear and a tongue which speaks, and it will say it has been put in charge of three classes :",
+    "text": "everyone who is proud and obstreperous, everyone who invokes another god along with God, and those who make representations of things.” \nTirmidhi transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

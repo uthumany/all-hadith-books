@@ -1,0 +1,16 @@
+{
+  "id": 36,
+  "chapterId": 54,
+  "bookId": 7,
+  "arabic": "حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حَرْمَلَةَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ الرَّاكِبُ شَيْطَانٌ وَالرَّاكِبَانِ شَيْطَانَانِ وَالثَّلاَثَةُ رَكْبٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Malik related to me from Abd ar-Rahman ibn Harmala from Amr ibn\nShuayb from his father from his father that the Messenger of Allah,\nmay Allah bless him and grant him peace, said, \"One rider is a\nshaytan. Two riders are two shaytans, and three are a riding-party.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 513,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن ابن عباس رضي الله عنهما قال ‏:‏ كان رسول الله صلى الله عليه وسلم  يبيت الليالي المتتابعه طاويا، وأهله لايجدون عشاء ، وكان أكثر خبزهم خبز الشعير ‏.‏ ‏(‏‏(‏رواه الترمذي وقال ‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn 'Abbas (May Allah be pleased with them) reported:",
+    "text": "The Messenger of Allah (ﷺ) went to bed hungry for several successive nights, nor did his family have a thing for supper for many consecutive nights; and their bread was mostly of barley.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

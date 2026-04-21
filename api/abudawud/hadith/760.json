@@ -1,0 +1,16 @@
+{
+  "id": 760,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُكَبِّرُ فِي الْفِطْرِ وَالأَضْحَى فِي الأُولَى سَبْعَ تَكْبِيرَاتٍ وَفِي الثَّانِيَةِ خَمْسًا ‏.‏",
+  "english": {
+    "narrator": "Narrated Aisha, Ummul Mu'minin:",
+    "text": "The Messenger of Allah (ﷺ) would say the takbir (Allah is most great) seven times  in the first rak'ah and five times in the second rak'ah on the day of the breaking of the fast and on the day of sacrifice (on the occasion of both the 'Id prayers, the two festivals)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

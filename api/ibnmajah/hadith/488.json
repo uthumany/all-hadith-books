@@ -1,0 +1,16 @@
+{
+  "id": 488,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا هَدِيَّةُ بْنُ عَبْدِ الْوَهَّابِ، وَعَمْرُو بْنُ رَافِعٍ الْبَجَلِيُّ، قَالاَ حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ عَبْدِ اللَّهِ بْنِ السَّائِبِ، قَالَ حَضَرْتُ الْعِيدَ مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَصَلَّى بِنَا الْعِيدَ ثُمَّ قَالَ ‏\n\"‏ قَدْ قَضَيْنَا الصَّلاَةَ. فَمَنْ أَحَبَّ أَنْ يَجْلِسَ لِلْخُطْبَةِ فَلْيَجْلِسْ. وَمَنْ أَحَبَّ أَنْ يَذْهَبَ فَلْيَذْهَبْ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that ‘Abdullah bin Sa’ib said:",
+    "text": "“I attended the ‘Eid\nprayer with the Messenger of Allah (ﷺ). He led us in offering the\n‘Eid prayer, then he said: ‘I have finished the prayer. Whoever\nwants\nto sit (and listen to) the sermon, then let him sit, and\nwhoever wants\nto leave, then let him leave.’”"
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

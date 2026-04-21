@@ -1,0 +1,16 @@
+{
+  "id": 508,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ عَمِّهِ، يَزِيدَ بْنِ الأَصَمِّ عَنْ مَيْمُونَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا سَجَدَ جَافَى بَيْنَ يَدَيْهِ حَتَّى لَوْ أَنَّ بَهْمَةً أَرَادَتْ أَنْ تَمُرَّ تَحْتَ يَدَيْهِ مَرَّتْ ‏.‏",
+  "english": {
+    "narrator": "Maimunah said:",
+    "text": "When the Prophet(ﷺ) prostrated himself, he kept his arms so far away from his sides that if a lamb had wanted to pass under his arms, it could have done so."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

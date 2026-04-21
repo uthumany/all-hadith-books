@@ -1,0 +1,16 @@
+{
+  "id": 368,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا الْحَارِثُ بْنُ مُرَّةَ، حَدَّثَنَا كُلَيْبُ بْنُ مَنْفَعَةَ، عَنْ جَدِّهِ، أَنَّهُ أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ مَنْ أَبَرُّ قَالَ ‏\n\"‏ أُمَّكَ وَأَبَاكَ وَأُخْتَكَ وَأَخَاكَ وَمَوْلاَكَ الَّذِي يَلِي ذَاكَ حَقٌّ وَاجِبٌ وَرَحِمٌ مَوْصُولَةٌ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Kulaib b. Manfa'ah said that his grandfather told then he went to the Prophet (ﷺ) and said:",
+    "text": "Messenger of Allah! to whom should I show kindness? He said: Your mother, your sister, your brother and the slave whom you set free and who is your relative, a due binding (on you), and a tie of relationship which should be joined."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 287,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا حَامِدُ بْنُ يَحْيَى، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ عَجْلاَنَ، عَنِ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ مَنِ اضْطَجَعَ مَضْجَعًا لَمْ يَذْكُرِ اللَّهَ تَعَالَى فِيهِ إِلاَّ كَانَ عَلَيْهِ تِرَةً يَوْمَ الْقِيَامَةِ وَمَنْ قَعَدَ مَقْعَدًا لَمْ يَذْكُرِ اللَّهَ عَزَّ وَجَلَّ فِيهِ إِلاَّ كَانَ عَلَيْهِ تِرَةً يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated AbuHurayrah:",
+    "text": "The Prophet (ﷺ) said: If anyone lies on his side where he does not remember Allah, deprivation will descend on him on the Day of Resurrection; and if anyone sits in a place where he does not remember Allah, deprivation will descend on him on the Day of Resurrection."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

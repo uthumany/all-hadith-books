@@ -1,0 +1,16 @@
+{
+  "id": 224,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، بِهَذَا الإِسْنَادِ\n قَالَتِ اسْتَأْذَنَ حَسَّانُ بْنُ ثَابِتٍ النَّبِيَّ صلى الله عليه وسلم فِي هِجَاءِ الْمُشْرِكِينَ ‏.‏ وَلَمْ يَذْكُرْ\n أَبَا سُفْيَانَ وَقَالَ بَدَلَ الْخَمِيرِ الْعَجِينِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "'Urwa reported on the same chain of transmitters that Hassan b. Thabit sought permission from Allah's Apostle (ﷺ) to satirise against the polytheists, but he did not mention Abu Sufyan. And instead of the word al- Khamir, the word al-'Ajin was used."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

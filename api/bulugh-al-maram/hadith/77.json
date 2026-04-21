@@ -1,0 +1,16 @@
+{
+  "id": 77,
+  "chapterId": 16,
+  "bookId": 12,
+  "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { اَلشُّؤْمُ: سُوءُ اَلْخُلُقِ }  أَخْرَجَهُ أَحْمَدُ وَفِي إِسْنَادِهِ ضَعْفٌ.‏  1‏ .‏‏1 ‏- ضعيف.‏ رواه أحمد (6 / 85)‏ وسنده ضعيف، وقد روي الحديث من طرق أخرى لكنها ضعيفة كلها؛ ولهذا قال العراقي:\" حديث لا يصح\".‏",
+  "english": {
+    "narrator": "'A'ishah (RAA) narrated that the Messenger of Allah (ﷺ) said:",
+    "text": "“Pessimism is part of bad character.” Related by Ahmad with a weak chain of narrators."
+  },
+  "book": {
+    "id": 12,
+    "name": "Bulugh al-Maram",
+    "arabic": "بلوغ المرام",
+    "slug": "bulugh-al-maram"
+  }
+}

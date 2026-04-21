@@ -1,0 +1,16 @@
+{
+  "id": 544,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “أيكم مال وارثه أحب إليه من ماله‏؟‏” قالوا‏:‏ يا رسول الله،  ما منا أحد إلا ماله أحب إليه‏.‏ قال‏:‏ ‏\n\"‏فإن ماله ما قدم ومال وارثه ما أخر‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Ibn Mas'ud (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) asked, \"Who of you loves the wealth of his heir more than his own wealth?\" The Companions said: \"O Messenger of Allah! There is none of us but loves his own wealth more.\" He (ﷺ) said, \"His wealth is that which he has sent forward, but that which he retains belongs to his heir.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

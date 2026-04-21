@@ -1,0 +1,16 @@
+{
+  "id": 83,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "العاشر‏:‏ عن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏من قال-يعني إذا خرج من بيته-‏:‏ بسم الله توكلت على الله، ولا حول ولا قوة إلا بالله ، يقال له‏:‏ هديت وكفيت ووقيت، وتنحى عنه الشيطان‏\"‏‏.‏ رواه أبو داود والترمذي، والنسائي وغيرهم‏.‏ وقال الترمذي‏:‏ حديث حسن، زاد أبو داود‏:‏ ‏\"‏فيقول ‏:‏-يعني الشيطان-لشيطان آخر‏:‏ كيف لك برجل قد هدي وكفي ووقيّ ‏؟‏",
+  "english": {
+    "narrator": "Anas (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Whoever says (upon leaving his house): 'Bismillah, tawakkaltu 'alallah, wa la hawla wa la quwwata illa billah .Abu Dawud reported it with this addition: \"One devil will say to another: 'How can you deal with a man who has been guided, defended and protected?\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

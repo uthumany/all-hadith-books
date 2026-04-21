@@ -1,0 +1,16 @@
+{
+  "id": 584,
+  "chapterId": 15,
+  "bookId": 2,
+  "arabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ نُمَيْرٍ، وَأَبُو أُسَامَةَ ح وَحَدَّثَنَاهُ ابْنُ، نُمَيْرٍ حَدَّثَنَا أَبِي ح، وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، كُلُّهُمْ عَنْ عُبَيْدِ اللَّهِ، بِهَذَا الإِسْنَادِ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "A hadith like this has been narrated on the authority of Ubaidullah with the same chain of transmitters."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "chapterId": 56,
+  "bookId": 11,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالا‏:‏ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ‏:‏ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي حُصَينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ‏:‏ قَالَ رَسُولُ اللهِ صلى الله عليه وسلم‏:‏ مَنْ رَآنِي فِي الْمَنَامِ فَقَدْ رَآنِي، فَإِنَّ الشَّيْطَانَ لا يَتَصَوَّرُ أَوْ قَالَ‏:‏ لا يَتَشَبَّهُ بِي‏.‏",
+  "english": {
+    "narrator": "Abu Huraira (may Allah be well pleased with him) said:",
+    "text": "“Allah’s Messenger said (Allah bless him and give him peace): ‘If someone sees me in his sleep, he has indeed seen me, for Satan cannot appear in disguise as me’(or: ‘cannot imitate me’).”"
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 730,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ مُوَرِّقٍ الْعِجْلِيِّ قَالَ: قُلْتُ لِابْنِ عُمَرَ: تُصَلِّي الضُّحَى؟ قَالَ: لَا. قُلْتُ: فَعُمَرُ؟ قَالَ: لَا. قُلْتُ: فَأَبُو بَكْرٍ؟ قَالَ: لَا. قُلْتُ: فَالنَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ؟ قَالَ: لَا إخَاله. رَوَاهُ البُخَارِيّ",
+  "english": {
+    "narrator": "Muwarriq al-Ijli said:",
+    "text": "I asked Ibn ‘Umar whether he prayed in the forenoon and he said he did not. I asked whether ‘Umar did and he said he did not. I asked whether Abu Bakr did and he said he did not. I asked whether the Prophet did and he said, “I don’t think so.” \n\nBukhari transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

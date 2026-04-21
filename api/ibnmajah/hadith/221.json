@@ -1,0 +1,16 @@
+{
+  "id": 221,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا مَرْوَانُ بْنُ جَنَاحٍ، عَنْ يُونُسَ بْنِ مَيْسَرَةَ بْنِ حَلْبَسٍ، أَنَّهُ حَدَّثَهُ قَالَ سَمِعْتُ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ، يُحَدِّثُ عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ ‏\n\"‏ الْخَيْرُ عَادَةٌ وَالشَّرُّ لَجَاجَةٌ وَمَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Yunus bin Maisarah bin Halbas said:",
+    "text": "\"I heard Mu'awiyah bin Abu Sufyan narrating that the Messenger of Allah said: \"Goodness is a (natural) habit while evil is a stubbornness (constant prodding from Satan). When Allah wills good for a person, He causes him to understand the religion.'\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

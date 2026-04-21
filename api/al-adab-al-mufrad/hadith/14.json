@@ -1,0 +1,16 @@
+{
+  "id": 14,
+  "chapterId": 55,
+  "bookId": 13,
+  "arabic": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ جَعْفَرِ بْنِ يَحْيَى بْنِ ثَوْبَانَ قَالَ‏:‏ حَدَّثَنِي عُمَارَةُ بْنُ ثَوْبَانَ قَالَ‏:‏ حَدَّثَنِي أَبُو الطُّفَيْلِ قَالَ‏:‏ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَقْسِمُ لَحْمًا بِالْجِعْرَانَةِ، وَأَنَا يَوْمَئِذٍ غُلاَمٌ أَحْمِلُ عُضْوَ الْبَعِيرِ، فَأَتَتْهُ امْرَأَةٌ، فَبَسَطَ لَهَا رِدَاءَهُ، قُلْتُ‏:‏ مَنْ هَذِهِ‏؟‏ قَالَ‏:‏ هَذِهِ أُمُّهُ الَّتِي أَرْضَعَتْهُ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Abu't-Tufayl reported, \"I saw the Prophet, may Allah bless him\nand grant him peace, divide the meat at al-Ji'rana. At that time, I was\na boy who carried the joint of the camel (after it had been sacrificed).\nA woman came to him and he spread out his robe for her. I asked, 'Who is\nthis?' The reply was, 'This is the woman who suckled him.'\""
+  },
+  "book": {
+    "id": 13,
+    "name": "Al-Adab Al-Mufrad",
+    "arabic": "الأدب المفرد",
+    "slug": "al-adab-al-mufrad"
+  }
+}

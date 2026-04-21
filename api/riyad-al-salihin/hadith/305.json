@@ -1,0 +1,16 @@
+{
+  "id": 305,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ والله لا يؤمن، والله لايؤمن، والله لا يؤمن‏!‏‏\"‏ قيل‏:‏ من يا رسول الله‏؟‏ قال‏:‏ ‏\"‏ الذي لا يأمن جاره بوائقه ‏!‏ ‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \nوفي رواية لمسلم‏:‏ ‏\"‏ لايدخل الجنة من لا يأمن جاره بوائقه‏\"‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"By Allah, he is not a believer! By Allah, he is not a believer! By Allah, he is not a believer.\" It was asked, \"Who is that, O Messenger of Allah?\" He said, \"One whose neighbour does not feel safe from his evil\"..Another narration of Muslim is: Messenger of Allah (ﷺ) said, \"He will not enter Jannah whose neighbour is not secure from his wrongful conduct\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

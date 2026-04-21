@@ -1,0 +1,16 @@
+{
+  "id": 632,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن عائشة رضي الله عنها قالت‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “ إن الله رفيق يحب الرفق في الأمر كله” ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
+    "text": "The Messenger of Allah (ﷺ) said, \"Allah is Forbearer and loves forbearance in all matters.\"."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

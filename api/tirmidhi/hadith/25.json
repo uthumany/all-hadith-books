@@ -1,0 +1,16 @@
+{
+  "id": 25,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، بُنْدَارٌ حَدَّثَنَا أَبُو عَاصِمٍ، حَدَّثَنَا عَزْرَةُ بْنُ ثَابِتٍ، حَدَّثَنَا عِلْبَاءُ بْنُ أَحْمَرَ، حَدَّثَنَا أَبُو زَيْدِ بْنُ أَخْطَبَ، قَالَ مَسَحَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَهُ عَلَى وَجْهِي وَدَعَا لِي قَالَ عَزْرَةُ إِنَّهُ عَاشَ مِائَةً وَعِشْرِينَ سَنَةً وَلَيْسَ فِي رَأْسِهِ إِلاَّ شَعَرَاتٌ بِيضٌ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَأَبُو زَيْدٍ اسْمُهُ عَمْرُو بْنُ أَخْطَبَ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abu Zaid bin Akhtab:",
+    "text": "\"The Messenger of Allah (ﷺ) wiped his hand over my face and supplicated for me.\" 'Azrah (one of the narrators) said: \"Indeed he lived for one-hundred and twenty years, and there weren't upon his head except for a few small grey hairs.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

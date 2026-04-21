@@ -1,0 +1,16 @@
+{
+  "id": 477,
+  "chapterId": 43,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ بَيَانٍ السُّكَّرِيُّ، عَنْ إِسْحَاقَ بْنِ يُوسُفَ، عَنْ شَرِيكٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْقَاسِمِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنِ ابْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اقْتُلُوا الْحَيَّاتِ كُلَّهُنَّ فَمَنْ خَافَ ثَأْرَهُنَّ فَلَيْسَ مِنِّي ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Narrated Abdullah ibn Mas'ud:",
+    "text": "The Prophet (ﷺ) said: Kill all the snakes, and he who fears their revenge does not belong to me."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

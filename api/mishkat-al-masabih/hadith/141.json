@@ -1,0 +1,16 @@
+{
+  "id": 141,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنِ ابْنِ عَبَّاسٍ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «يَكُونُ قَوْمٌ فِي آخِرِ الزَّمَانِ يَخْضِبُونَ بِهَذَا السَّوَادِ كَحَوَاصِلِ الْحَمَامِ لَا يَجِدُونَ رَائِحَةَ الْجَنَّةِ» . رَوَاهُ أَبُو دَاوُدَ وَالنَّسَائِيُّ",
+  "english": {
+    "narrator": "",
+    "text": "Ibn ‘Abbas reported the Prophet as saying, “At the end of time there will be people who will use this black dye like the crops of doves who will not experience the fragrance of paradise.” \nAbu Dawud and Nasa’i transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

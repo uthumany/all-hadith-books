@@ -1,0 +1,16 @@
+{
+  "id": 324,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ سِمَاكٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا قَالَتْ إِنَّ أَشَدَّ النَّاسِ عَذَابًا يَوْمَ الْقِيَامَةِ الَّذِينَ يُضَاهُونَ اللَّهَ فِي خَلْقِهِ ‏.‏",
+  "english": {
+    "narrator": "It was narrated that 'Aishah, the wife of the Prophet , said:",
+    "text": "\"The people who will be most severely punished on the Day of Resurrection will be those who try to match the creation of Allah.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 654,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ اجْعَلُوا فِي بُيُوتِكُمْ مِنْ صَلاَتِكُمْ وَلاَ تَتَّخِذُوهَا قُبُورًا ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Ibn ‘Umar reported the Messenger of Allah (ﷺ) as saying:",
+    "text": "Offer some of your prayers in your houses, and do not make them graves."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

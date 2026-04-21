@@ -1,0 +1,16 @@
+{
+  "id": 711,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، قَالَ سَمِعْتُ حُجَيَّةَ بْنَ عَدِيٍّ، قَالَ سَمِعْتُ عَلِيَّ بْنَ أَبِي طَالِبٍ، رَضِيَ اللَّهُ عَنْهُ وَسَأَلَهُ رَجُلٌ عَنْ الْبَقَرَةِ، فَقَالَ عَنْ سَبْعَةٍ، وَسَأَلَهُ، عَنْ الْأَعْرَجِ، فَقَالَ إِذَا بَلَغَتْ الْمَنْسَكَ وَسُئِلَ عَنْ الْقَرَنِ، فَقَالَ لَا يَضُرُّهُ وَقَالَ عَلِيٌّ أَمَرَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ نَسْتَشْرِفَ الْعَيْنَ وَالْأُذُنَ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Salamah bin Kuhail said:",
+    "text": "I heard Hujayyah bin Adiyy say: I heard `Ali bin Abi Talib (رضي الله عنه) When a man asked him about a cow. He said: “(It may be sacrificed) on behalf of seven.” He asked him about the animal that is lame. He said: “If it can reach the place of sacrifice (then sacrifice it).” He was asked about the horn. He said: “It doesn`t matter.” And ‘Ali (رضي الله عنه) said: The Messenger of Allah (ﷺ) instructed us to check the eye and ear."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 152,
+  "chapterId": 49,
+  "bookId": 4,
+  "arabic": "‏حَدَّثَنَا بِذَلِكَ، مَحْمُودُ بْنُ غَيْلاَنَ قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ عَبْدِ اللَّهِ بْنِ شَدَّادٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ مَا سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يُفَدِّي أَحَدًا بِأَبَوَيْهِ إِلاَّ لِسَعْدٍ فَإِنِّي سَمِعْتُهُ يَقُولُ يَوْمَ أُحُدٍ ‏\n\"‏ ارْمِ سَعْدٌ فِدَاكَ أَبِي وَأُمِّي ‏\"‏ ‏.‏ هَذَا حَدِيثٌ صَحِيحٌ ‏.‏",
+  "english": {
+    "narrator": "Narrated 'Ali bin Abi Talib:",
+    "text": "\"I never heard the Prophet (ﷺ) mentioning both of his parents being ransomed for anyone except for Sa'd. On the Day of Uhud, I heard him saying: 'Shoot, Sa'd, may my father and mother be ransomed for you.\""
+  },
+  "book": {
+    "id": 4,
+    "name": "Jami` at-Tirmidhi",
+    "arabic": "جامع الترمذي",
+    "slug": "tirmidhi"
+  }
+}

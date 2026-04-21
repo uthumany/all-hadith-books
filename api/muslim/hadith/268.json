@@ -1,0 +1,16 @@
+{
+  "id": 268,
+  "chapterId": 44,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سُفْيَانُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ،\n عَنْ عَبْدِ الرَّحْمَنِ بْنِ هُرْمُزَ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه\n وسلم ‏\n\"‏ قُرَيْشٌ وَالأَنْصَارُ وَمُزَيْنَةُ وَجُهَيْنَةُ وَأَسْلَمُ وَغِفَارُ وَأَشْجَعُ مَوَالِيَّ لَيْسَ لَهُمْ مَوْلًى\n دُونَ اللَّهِ وَرَسُولِهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+    "text": "Quraish, Ansar, Muzaina, Juhaina and Ghifar, they are my friends and there is no friend of theirs besides Allah and His Messenger."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

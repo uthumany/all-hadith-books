@@ -1,0 +1,16 @@
+{
+  "id": 714,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا ابْنُ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يَحْيَى بْنُ أَيُّوبَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ أُخْتٍ، لِعَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ كَانَتْ أَكْبَرَ مِنْهَا بِمَعْنَاهُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "This tradition has also been transmitted to the same effect through a different chain of narrators by 'Umrah from her sister 'Umrah daughter of 'Abd al-Rahman who was older than her."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

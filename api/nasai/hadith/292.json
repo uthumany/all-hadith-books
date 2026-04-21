@@ -1,0 +1,16 @@
+{
+  "id": 292,
+  "chapterId": 48,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي سَعِيدٌ الْمَقْبُرِيُّ، وَقَدْ كَانَ يُخْبِرُ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَا أَسْفَلَ مِنَ الْكَعْبَيْنِ مِنَ الإِزَارِ فَفِي النَّارِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Abu Hurairah that :",
+    "text": "The Prophet  said: \"Whatever of the Izar comes below the ankles is in the Fire.\""
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

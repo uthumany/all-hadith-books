@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "chapterId": 0,
+  "bookId": 2,
+  "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، قَالَ بِحَسْبِ الْمَرْءِ مِنَ الْكَذِبِ أَنْ يُحَدِّثَ بِكُلِّ مَا سَمِعَ ‏.‏",
+  "english": {
+    "narrator": "Muhammad bin ul-Muthannā narrated to us, he said Abd ur-Rahman narrated to us, he said Sufyān narrated to us, on authority of Abī Ishāq, on authority of Abīl-Ahwas, on authority of Abd Illah, he said:",
+    "text": "‘It is enough of a lie for a man that he narrates everything he hears’."
+  },
+  "book": {
+    "id": 2,
+    "name": "Sahih Muslim",
+    "arabic": "صحيح مسلم",
+    "slug": "muslim"
+  }
+}

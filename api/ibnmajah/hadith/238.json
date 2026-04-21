@@ -1,0 +1,16 @@
+{
+  "id": 238,
+  "chapterId": 0,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ أَبُو جَعْفَرٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي عَبْدُ الرَّحْمَنِ بْنُ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏\n\"‏ إِنَّ هَذَا الْخَيْرَ خَزَائِنُ وَلِتِلْكَ الْخَزَائِنِ مَفَاتِيحُ فَطُوبَى لِعَبْدٍ جَعَلَهُ اللَّهُ مِفْتَاحًا لِلْخَيْرِ مِغْلاَقًا لِلشَّرِّ وَوَيْلٌ لِعَبْدٍ جَعَلَهُ اللَّهُ مِفْتَاحًا لِلشَّرِّ مِغْلاَقًا لِلْخَيْرِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Sahl bin Sa'd that:",
+    "text": "The Messenger of Allah said: \"This goodness contains many treasures, and for those there are keys. So glad tidings to the one whom Allah makes a key to good and a lock for evil, and woe to the one whom Allah makes a key to evil and a lock to good.\""
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

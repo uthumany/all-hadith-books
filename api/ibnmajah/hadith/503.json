@@ -1,0 +1,16 @@
+{
+  "id": 503,
+  "chapterId": 5,
+  "bookId": 6,
+  "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ إِذَا صَلَّى يَوْمَ عِيدٍ أَوْ غَيْرَهُ نُصِبَتِ الْحَرْبَةُ بَيْنَ يَدَيْهِ فَيُصَلِّي إِلَيْهَا وَالنَّاسُ مِنْ خَلْفِهِ ‏.‏ قَالَ نَافِعٌ فَمِنْ ثَمَّ اتَّخَذَهَا الأُمَرَاءُ ‏.‏",
+  "english": {
+    "narrator": "It was\nnarrated that Ibn ‘Umar said:",
+    "text": "“When the Prophet (ﷺ) prayed\non\nthe day of ‘Eid or on another occasion, a small spear was set up in\nfront of him, and he prayed facing it, and the people were behind\nhim.”\n\nNafi` said: It is from here that the leaders have taken this practice."
+  },
+  "book": {
+    "id": 6,
+    "name": "Sunan Ibn Majah",
+    "arabic": "سنن ابن ماجه",
+    "slug": "ibnmajah"
+  }
+}

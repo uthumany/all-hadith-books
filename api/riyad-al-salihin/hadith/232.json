@@ -1,0 +1,16 @@
+{
+  "id": 232,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن جندب بن عبد الله قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\n\"‏من صلى صلاة الصبح فهو في ذمة الله فلا يطلبنكم الله من ذمته بشيء، فإنه من يطلبه من ذمته بشيء يدركه، ثم يكبه على وجهه في نار جهنم‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Jundub bin Abdullah (May Allah be pleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"When anyone offers the Fajr (dawn) prayer, in congregation, he is in the Protection of Allah. So let not Allah call him to account, withdrawing, in any respect, His Protection. Because, He will get hold of him and throw him down on his face in the Hell-fire.\""
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

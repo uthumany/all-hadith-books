@@ -1,0 +1,16 @@
+{
+  "id": 56,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "الثالث‏:‏ عن أبي سفيان صخر بن حرب ، رضي الله عنه، في  حديثه الطويل في  قصة هرقل، قال هرقل‏:‏ فماذا يأمركم -يعنى النبي صلى الله عليه وسلم- قال أبو سفيان‏:‏ قلت ‏:‏يقول ‏:‏ ‏\n\"‏ اعبدوا الله وحده لا تشركوا به شيئاً، واتركوا ما يقول آباؤكم ، ويأمرنا بالصلاة، والصدق، والعفاف، والصلة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Sufyan (May Allah be pleased with him) reported, in course of his detailed narration about Heraclius when the latter questioned him about the teachings of the Prophet (ﷺ) He said that:",
+    "text": "He (ﷺ) told (us): \"Worship Allah Alone and do not associate a thing with Him; and give up all that your ancestors said. \"He also commands us to perform Salat (prayers), to speak the truth, to observe modesty and to strengthen the ties of kinship.."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

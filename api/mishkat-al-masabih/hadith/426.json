@@ -1,0 +1,16 @@
+{
+  "id": 426,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْ طَلْقِ بْنِ عَلِيٍّ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا فَسَا أَحَدُكُمْ فِي الصَّلَاةِ فَلْيَنْصَرِفْ فَلْيَتَوَضَّأْ وَلْيُعِدِ الصَّلَاةَ» . رَوَاهُ أَبُو دَاوُدَ وَرَوَى التِّرْمِذِيّ مَعَ زِيَادَة ونقصان",
+  "english": {
+    "narrator": "",
+    "text": "Talq b. ‘Ali* reported God’s Messenger as saying, “When any of you breaks wind during prayer, he must withdraw, perform ablution, and repeat the prayer.” \n\n* This is a mistake in the text of the Mishkat. The name is ‘Ali b. Talq. Cf. Abu Dawud, Salat, 186.\n\nAbu Dawud transmitted it, and Tirmidhi transmitted it with something added and something omitted."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

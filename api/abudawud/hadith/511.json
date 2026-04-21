@@ -1,0 +1,16 @@
+{
+  "id": 511,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنَا اللَّيْثُ، عَنْ دَرَّاجٍ، عَنِ ابْنِ حُجَيْرَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا سَجَدَ أَحَدُكُمْ فَلاَ يَفْتَرِشْ يَدَيْهِ افْتِرَاشَ الْكَلْبِ وَلْيَضُمَّ فَخِذَيْهِ ‏\"‏ ‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah reported the Prophet(ﷺ) as saying:",
+    "text": "when one of you prostrates himself, he should not stretch out his forearms( on the ground) like a dog and he should join both of his thighs."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

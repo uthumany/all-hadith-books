@@ -1,0 +1,16 @@
+{
+  "id": 532,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَبْد اللَّهِ، حَدَّثَنِي عَلِيُّ بْنُ حَكِيمٍ الْأَوْدِيُّ، حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي إِسْحَاقَ، عَنْ هُبَيْرَةَ بْنِ يَرِيمَ، قَالَ كُنَّا مَعَ عَلِيٍّ فَدَعَا ابْنًا لَهُ يُقَالُ لَهُ عُثْمَانُ لَهُ ذُؤَابَةٌ‏.‏",
+  "english": {
+    "narrator": "It was narrated that Hubairah bin Yareem said:",
+    "text": "We were with ‘Ali and he called a son of his who was called ‘Uthman and he had a lock of hair."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

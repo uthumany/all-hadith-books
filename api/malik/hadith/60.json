@@ -1,0 +1,16 @@
+{
+  "id": 60,
+  "chapterId": 36,
+  "bookId": 7,
+  "arabic": "حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ الأَنْصَارِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ أَيُّمَا رَجُلٍ أُعْمِرَ عُمْرَى لَهُ وَلِعَقِبِهِ فَإِنَّهَا لِلَّذِي يُعْطَاهَا لاَ تَرْجِعُ إِلَى الَّذِي أَعْطَاهَا أَبَدًا ‏\"‏ ‏.‏ لأَنَّهُ أَعْطَى عَطَاءً وَقَعَتْ فِيهِ الْمَوَارِيثُ ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "Malik related to me from Ibn Shihab from Abu Salama ibn Abd ar-\nRahman ibn Awf from Jabir ibn Abdullah al-Ansari that the Messenger of\nAllah, may Allah bless him and grant him peace, said, \"If someone is\ngiven a life pension, for him and his posterity, it belongs to the\nperson to whom it has been given. It never reverts to the one who gave\nit because he gave a gift and the rules of inheritance apply to it.\""
+  },
+  "book": {
+    "id": 7,
+    "name": "Muwatta Malik",
+    "arabic": "موطأ مالك",
+    "slug": "malik"
+  }
+}

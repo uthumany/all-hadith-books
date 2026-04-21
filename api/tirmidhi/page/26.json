@@ -1,0 +1,510 @@
+{
+  "page": 26,
+  "perPage": 50,
+  "totalPages": 82,
+  "totalCount": 4053,
+  "nextPage": 27,
+  "prevPage": 25,
+  "items": [
+    {
+      "id": 43,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ مَالِكِ بْنِ أَوْسِ بْنِ الْحَدَثَانِ، أَنَّهُ قَالَ أَقْبَلْتُ أَقُولُ مَنْ يَصْطَرِفُ الدَّرَاهِمَ فَقَالَ طَلْحَةُ بْنُ عُبَيْدِ اللَّهِ وَهُوَ عِنْدَ عُمَرَ بْنِ الْخَطَّابِ أَرِنَا ذَهَبَكَ ثُمَّ ائْتِنَا إِذَا جَاءَ خَادِمُنَا نُعْطِكَ وَرِقَكَ ‏.‏ فَقَالَ عُمَرُ كَلاَّ وَاللَّهِ لَتُعْطِيَنَّهُ وَرِقَهُ أَوْ لَتَرُدَّنَّ إِلَيْهِ ذَهَبَهُ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ الْوَرِقُ بِالذَّهَبِ رِبًا إِلاَّ هَاءَ وَهَاءَ وَالْبُرُّ بِالْبُرِّ رِبًا إِلاَّ هَاءَ وَهَاءَ وَالشَّعِيرُ بِالشَّعِيرِ رِبًا إِلاَّ هَاءَ وَهَاءَ وَالتَّمْرُ بِالتَّمْرِ رِبًا إِلاَّ هَاءَ وَهَاءَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ ‏.‏ وَمَعْنَى قَوْلِهِ ‏\"‏ إِلاَّ هَاءَ وَهَاءَ ‏\"‏ يَقُولُ يَدًا بِيَدٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Shihab:",
+        "text": "From Malik bin Aws bin Hadathan that he said: \"I once said: 'Who can change some Dirham?' So Talhah bin 'Ubaidullah - and he was with 'Umar bin Al-Khattab - said: \"Leave your gold with us, then return to us when our servant comes and we will give you your silver.\" 'Umar bin Al-Khattab said: \"No! By Allah! Either give him his silver or return his gold to him. Indeed the Messenger of Allah (ﷺ) said: 'Silver for gold is Riba,  except for hand to hand; and wheat for wheat is Riba except for hand to hand; and barley for barley is Riba except hand to hand; and dried-dates for dried-dates is Riba except for hand to hand.'\"\n\n\n This Hadith is Hasan Sahih. This is acted upon according to the people of knowledge. And the meaning of Ha' Wa Ha' is hand to hand."
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ مَنِ ابْتَاعَ نَخْلاً بَعْدَ أَنْ تُؤَبَّرَ فَثَمَرَتُهَا لِلَّذِي بَاعَهَا إِلاَّ أَنْ يَشْتَرِطَ الْمُبْتَاعُ وَمَنِ ابْتَاعَ عَبْدًا وَلَهُ مَالٌ فَمَالُهُ لِلَّذِي بَاعَهُ إِلاَّ أَنْ يَشْتَرِطَ الْمُبْتَاعُ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ جَابِرٍ ‏.‏ وَحَدِيثُ ابْنِ عُمَرَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ هَكَذَا رُوِيَ مِنْ غَيْرِ وَجْهٍ عَنِ الزُّهْرِيِّ عَنْ سَالِمٍ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\"‏ مَنِ ابْتَاعَ نَخْلاً بَعْدَ أَنْ تُؤَبَّرَ فَثَمَرَتُهَا لِلْبَائِعِ إِلاَّ أَنْ يَشْتَرِطَ الْمُبْتَاعُ وَمَنْ بَاعَ عَبْدًا وَلَهُ مَالٌ فَمَالُهُ لِلْبَائِعِ إِلاَّ أَنْ يَشْتَرِطَ الْمُبْتَاعُ ‏\"‏ ‏.‏ وَقَدْ رُوِيَ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنِ ابْتَاعَ نَخْلاً قَدْ أُبِّرَتْ فَثَمَرَتُهَا لِلْبَائِعِ إِلاَّ أَنْ يَشْتَرِطَ الْمُبْتَاعُ ‏\"‏ ‏.‏ وَقَدْ رُوِيَ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ عَنْ عُمَرَ أَنَّهُ قَالَ مَنْ بَاعَ عَبْدًا وَلَهُ مَالٌ فَمَالُهُ لِلْبَائِعِ إِلاَّ أَنْ يَشْتَرِطَ الْمُبْتَاعُ ‏.‏ هَكَذَا رَوَى عُبَيْدُ اللَّهِ بْنُ عُمَرَ وَغَيْرُهُ عَنْ نَافِعٍ الْحَدِيثَيْنِ ‏.‏ وَقَدْ رَوَى بَعْضُهُمْ هَذَا الْحَدِيثَ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم أَيْضًا ‏.‏ وَرَوَى عِكْرِمَةُ بْنُ خَالِدٍ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَ حَدِيثِ سَالِمٍ ‏.‏ وَالْعَمَلُ عَلَى هَذَا الْحَدِيثِ عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ وَهُوَ قَوْلُ الشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَاقَ ‏.‏ قَالَ مُحَمَّدُ بْنُ إِسْمَاعِيلَ حَدِيثُ الزُّهْرِيِّ عَنْ سَالِمٍ عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم أَصَحُّ مَا جَاءَ فِي هَذَا الْبَابِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Salim:",
+        "text": "From his father that the Messenger of Allah (ﷺ) said: 'Whoever purchases a date-palm after it has been pollinated then its fruits are for the one who sold it, unless the buyer made it a condition. And whoever purchases slave who has property, then his property is for the one who sold him, unless the buyer made it a condition.\"\n\n\n There is something on this topic from Jabir. The Hadith of Ibn 'Umar is a Hasan Sahih Hadith. Similarly, it has been reported by more than one route from Az-Zuhri, from Salim, from Ibn 'Umar, that the Prophet (ﷺ) \"Whoever purchases a date-palm after it has been pollinated, then its fruits are for seller, unless the buyer made it a condition. And whoever purchases a slave who has property, then his property is for the seller, unless the buyer made it a condition.\" And it has been reported from Nafi', from Ibn 'Umar, that the Prophet (ﷺ) said: \"Whoever purchases a date-palm that has been pollinated, then its fruits are for the seller, unless the buyer made it a condition.\"\n\n\nIt has been reported from Nafi', from Ibn 'Umar, from 'Umar, that he (ﷺ) said: \"Whoever sold a slave who has property, his property is for the seller, unless the buyer made it a condition.\" This is how the two Ahadith were reported by 'Ubaidullah bin 'Umar and others from Nafi'.\n\n\nSome of them have also reported this Hadith from Nafi', from Ibn 'Umar, from the Prophet (ﷺ).\n\n\n'Ikrimah bin Khalid reported similar to the Hadith of Salim, from Ibn 'Umar, from the Prophet (ﷺ).\n\n\nThis Hadith is acted upon according to some of the people of knowledge. It is the view of Ash-Shafi'i, Ahmad, and Ishaq.\n\n\nMuhammad bin Isma'il said: \"The Hadith of Az-Zuhri from Salim, from his father, from the Prophet (ﷺ) is the most correct .\""
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى الْكُوفِيُّ، حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا أَوْ يَخْتَارَا ‏\"‏ ‏.‏ قَالَ فَكَانَ ابْنُ عُمَرَ إِذَا ابْتَاعَ بَيْعًا وَهُوَ قَاعِدٌ قَامَ لِيَجِبَ لَهُ الْبَيْعُ ‏.‏ \nقَالَ أَبُو عِيسَى وَفِي الْبَاب عَنْ أَبِي بَرْزَةَ وَحَكِيمِ بْنِ حِزَامٍ وَعَبْدِ اللَّهِ بْنِ عَبَّاسٍ وَعَبْدِ اللَّهِ بْنِ عَمْرٍو وَسَمُرَةَ وَأَبِي هُرَيْرَةَ قَالَ أَبُو عِيسَى حَدِيثُ ابْنِ عُمَرَ حَدِيثٌ حَسَنٌ صَحِيحٌ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَغَيْرِهِمْ وَهُوَ قَوْلُ الشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَقَ وَقَالُوا الْفُرْقَةُ بِالْأَبْدَانِ لَا بِالْكَلَامِ وَقَدْ قَالَ بَعْضُ أَهْلِ الْعِلْمِ مَعْنَى قَوْلِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا لَمْ يَتَفَرَّقَا يَعْنِي الْفُرْقَةَ بِالْكَلَامِ وَالْقَوْلُ الْأَوَّلُ أَصَحُّ لِأَنَّ ابْنَ عُمَرَ هُوَ رَوَى عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ أَعْلَمُ بِمَعْنَى مَا رَوَى وَرُوِيَ عَنْهُ أَنَّهُ كَانَ إِذَا أَرَادَ أَنْ يُوجِبَ الْبَيْعَ مَشَى لِيَجِبَ لَهُ وَهَكَذَا رُوِيَ عَنْ أَبِي بَرْزَةَ الْأَسْلَمِيِّ",
+      "english": {
+        "narrator": "Narrated Nafi':",
+        "text": "From Ibn 'Umar, that the Messenger of Allah (ﷺ) said: \"Both the buyer and the seller retain the option as long as they have not separated or they give each other than option.\"\n\n\nHe (Nafi') said: \"So when Ibn 'Umar purchased something while he was sitting, he would stand to complete the sale.\""
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ صَالِحٍ أَبِي الْخَلِيلِ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، عَنْ حَكِيمِ بْنِ حِزَامٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا ‏\"‏ ‏.‏ هَذَا حَدِيثٌ صَحِيحٌ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أَبِي بَرْزَةَ وَحَكِيمِ بْنِ حِزَامٍ وَعَبْدِ اللَّهِ بْنِ عَبَّاسٍ وَعَبْدِ اللَّهِ بْنِ عَمْرٍو وَسَمُرَةَ وَأَبِي هُرَيْرَةَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ ابْنِ عُمَرَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ وَهُوَ قَوْلُ الشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَاقَ وَقَالُوا الْفُرْقَةُ بِالأَبْدَانِ لاَ بِالْكَلاَمِ ‏.‏ وَقَدْ قَالَ بَعْضُ أَهْلِ الْعِلْمِ مَعْنَى قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ مَا لَمْ يَتَفَرَّقَا ‏\"‏ ‏.‏ يَعْنِي الْفُرْقَةَ بِالْكَلاَمِ ‏.‏ وَالْقَوْلُ الأَوَّلُ أَصَحُّ لأَنَّ ابْنَ عُمَرَ هُوَ رَوَى عَنِ النَّبِيِّ صلى الله عليه وسلم وَهُوَ أَعْلَمُ بِمَعْنَى مَا رَوَى وَرُوِيَ عَنْهُ أَنَّهُ كَانَ إِذَا أَرَادَ أَنْ يُوجِبَ الْبَيْعَ مَشَى لِيَجِبَ لَهُ ‏.‏ وَهَكَذَا رُوِيَ عَنْ أَبِي بَرْزَةَ الأَسْلَمِيِّ أَنَّ رَجُلَيْنِ اخْتَصَمَا إِلَيْهِ فِي فَرَسٍ بَعْدَ مَا تَبَايَعَا ‏.‏ وَكَانُوا فِي سَفِينَةٍ فَقَالَ لاَ أَرَاكُمَا افْتَرَقْتُمَا وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا ‏\"‏ ‏.‏ وَقَدْ ذَهَبَ بَعْضُ أَهْلِ الْعِلْمِ مِنْ أَهْلِ الْكُوفَةِ وَغَيْرِهِمْ إِلَى أَنَّ الْفُرْقَةَ بِالْكَلاَمِ وَهُوَ قَوْلُ سُفْيَانَ الثَّوْرِيِّ وَهَكَذَا رُوِيَ عَنْ مَالِكِ بْنِ أَنَسٍ ‏.‏ وَرُوِيَ عَنِ ابْنِ الْمُبَارَكِ أَنَّهُ قَالَ كَيْفَ أَرُدُّ هَذَا وَالْحَدِيثُ فِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم صَحِيحٌ ‏.‏ وَقَوَّى هَذَا الْمَذْهَبَ ‏.‏ وَمَعْنَى قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ إِلاَّ بَيْعَ الْخِيَارِ ‏\"‏ ‏.‏ مَعْنَاهُ أَنْ يُخَيِّرَ الْبَائِعُ الْمُشْتَرِيَ بَعْدَ إِيجَابِ الْبَيْعِ فَإِذَا خَيَّرَهُ فَاخْتَارَ الْبَيْعَ فَلَيْسَ لَهُ خِيَارٌ بَعْدَ ذَلِكَ فِي فَسْخِ الْبَيْعِ وَإِنْ لَمْ يَتَفَرَّقَا ‏.‏ هَكَذَا فَسَّرَهُ الشَّافِعِيُّ وَغَيْرُهُ ‏.‏ وَمِمَّا يُقَوِّي قَوْلَ مَنْ يَقُولُ الْفُرْقَةُ بِالأَبْدَانِ لاَ بِالْكَلاَمِ حَدِيثُ عَبْدِ اللَّهِ بْنِ عَمْرٍو عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Narrated Hakim b. Hizam:",
+        "text": "That the Messenger of Allah (ﷺ) said: \"Both the buyer and the seller retain the option as long as they have not separated. If they spoke the truth and clarified (any defects or conditions), then they would be blessed in their sale, and if they hid something and lied then their sale would be deprived of blessings.\"\n\n\nAnd this is a Sahih Hadith.\n\n\nThis is how it was reported from Abu Barzah Al-Aslami, that two men came disputing to him after the sale of a horse, and they were on a ship, so he said: \"I did not see the two of your separate, and the Messenger of Allah (ﷺ) said: 'The buyer and the seller retain the choice as long as they did not separate.'\"\n\n\nSome of the people of knowledge, among the people of Al-Kufah and others, held the view that the separation refers to speech. This is the saying of  Ath-Thawri. This has been reported from Malik bin Anas, and it has been reported from Ibn al-Mubarak that he said: \"How could this be refuted ?\" And the Hadith about it from the Prophet (ﷺ) is Sahih, and it strenghtens this view.\n\n\nAnd the meaning of the saying of the Prophet (ﷺ): \"Except for the optional sale\" is, that (while they are still together) the seller gives the buyer the option to cancel after the conclusion of the sale. If he chooses to agree to the sale, then he does not have the choice to cancel the sale after then, even if they did not separate. This is how Ash-Shafi'i and others explained it. And what strenghtens the view of those who said that the separation refers to them parting, (and) it does not refer to speech, is the (following) Hadith of 'Abdullah bin 'Amr from the Prophet (ﷺ)."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "أَخْبَرَنَا بِذَلِكَ، قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنِ ابْنِ عَجْلاَنَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا إِلاَّ أَنْ تَكُونَ صَفْقَةَ خِيَارٍ وَلاَ يَحِلُّ لَهُ أَنْ يُفَارِقَ صَاحِبَهُ خَشْيَةَ أَنْ يَسْتَقِيلَهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏ وَمَعْنَى هَذَا أَنْ يُفَارِقَهُ بَعْدَ الْبَيْعِ خَشْيَةَ أَنْ يَسْتَقِيلَهُ وَلَوْ كَانَتِ الْفُرْقَةُ بِالْكَلاَمِ وَلَمْ يَكُنْ لَهُ خِيَارٌ بَعْدَ الْبَيْعِ لَمْ يَكُنْ لِهَذَا الْحَدِيثِ مَعْنًى حَيْثُ قَالَ صلى الله عليه وسلم ‏\"‏ وَلاَ يَحِلُّ لَهُ أَنْ يُفَارِقَهُ خَشْيَةَ أَنْ يَسْتَقِيلَهُ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Amr bin Shu'aib:",
+        "text": "From his father, from his grandfather, that the Messenger of Allah (ﷺ) said: \"Both the buyer and the seller retain the option as long as they did not separate, unless they agreed to making it optional. And it is not lawful for him to separate from his companion, fearing that he will change his mind.\"\n\n\n This Hadith is Hasan and this means separating from him after the sale, fearing that he will change his mind. And if the separation referred to speech, and there was no option left for him after the sale, then this Hadith would be meaningless, since he (ﷺ) said: \"And it is not lawful for him to separate from his companion, fearing that he will change his mind.\""
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنَا أَبُو أَحْمَدَ، حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَهُوَ الْبَجَلِيُّ الْكُوفِيُّ قَالَ سَمِعْتُ أَبَا زُرْعَةَ بْنَ عَمْرِو بْنِ جَرِيرٍ، يُحَدِّثُ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَتَفَرَّقَنَّ عَنْ بَيْعٍ إِلاَّ عَنْ تَرَاضٍ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "That the Prophet (ﷺ) said: \"They (the two) are not separate from a sale except in agreement.\n\n\n This Hadith is Gharib."
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ الشَّيْبَانِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَيَّرَ أَعْرَابِيًّا بَعْدَ الْبَيْعِ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir:",
+        "text": "\"The Prophet (ﷺ) gave a Bedouin the option after a sale.\"\n\n\nThis Hadith is Hasan Gharib."
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا يُوسُفُ بْنُ حَمَّادٍ الْبَصْرِيُّ، حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ رَجُلاً، كَانَ فِي عُقْدَتِهِ ضَعْفٌ وَكَانَ يُبَايِعُ وَأَنَّ أَهْلَهُ أَتَوُا النَّبِيَّ صلى الله عليه وسلم فَقَالُوا يَا رَسُولَ اللَّهِ احْجُرْ عَلَيْهِ ‏.‏ فَدَعَاهُ نَبِيُّ اللَّهِ صلى الله عليه وسلم فَنَهَاهُ فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي لاَ أَصْبِرُ عَنِ الْبَيْعِ ‏.‏ فَقَالَ ‏\n\"‏ إِذَا بَايَعْتَ فَقُلْ هَاءَ وَهَاءَ وَلاَ خِلاَبَةَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنِ ابْنِ عُمَرَ ‏.‏ وَحَدِيثُ أَنَسٍ حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا الْحَدِيثِ عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ وَقَالُوا يُحْجَرُ عَلَى الرَّجُلِ الْحُرِّ فِي الْبَيْعِ وَالشِّرَاءِ إِذَا كَانَ ضَعِيفَ الْعَقْلِ ‏.‏ وَهُوَ قَوْلُ أَحْمَدَ وَإِسْحَاقَ ‏.‏ وَلَمْ يَرَ بَعْضُهُمْ أَنْ يُحْجَرَ عَلَى الْحُرِّ الْبَالِغِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "That there was a man who was not very sensible and he would make purchases. So his family came to the Prophet (ﷺ) and said: \"O Messenger of Allah! Stop him (from making purchases).\" So Allah's Prophet (ﷺ) called him to prohibit him, and he said: \"O Messenger of Allah! I have no patience for business.\" So he said: \"When you are buying, say: 'Hand to hand, and no cheating.'\"\n\n\n There is a narration on this topic from Ibn 'Umar.\n\n\nThe Hadith of Anas is a Hasan Sahih Gharib Hadith.\n\n\nThis is acted upon according to the people of knowledge. They say that the free man can be prevented from selling and buying when his intellect is weak. This is the view of Ahmad and Ishaq. Some of the scholars did not think that the free person who had attained the age of responsibility could be prevented from that."
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا وَكِيعٌ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ مَنِ اشْتَرَى مُصَرَّاةً فَهُوَ بِالْخِيَارِ إِذَا حَلَبَهَا إِنْ شَاءَ رَدَّهَا وَرَدَّ مَعَهَا صَاعًا مِنْ تَمْرٍ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أَنَسٍ وَرَجُلٍ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "That the Prophet (ﷺ) said: \"Whoever purchased an animal that has not been milked, then he the choice when he milks it, if he wishes he may return it, returning a Sa' of dried dates along with it.\"\n\n\n There are narration on this topic from Anas, and a man from the Companions of the Prophet (ﷺ)."
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ، حَدَّثَنَا قُرَّةُ بْنُ خَالِدٍ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنِ اشْتَرَى مُصَرَّاةً فَهُوَ بِالْخِيَارِ ثَلاَثَةَ أَيَّامٍ فَإِنْ رَدَّهَا رَدَّ مَعَهَا صَاعًا مِنْ طَعَامٍ لاَ سَمْرَاءَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا الْحَدِيثِ عِنْدَ أَصْحَابِنَا مِنْهُمُ الشَّافِعِيُّ وَأَحْمَدُ وَإِسْحَاقُ ‏.‏ وَمَعْنَى قَوْلِهِ ‏\"‏ لاَ سَمْرَاءَ ‏\"‏ ‏.‏ يَعْنِي لاَ بُرَّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "That the Prophet (ﷺ) said: \"Whoever purchases an animal that has not been milked, then he retains the option for three days. If he returns it, then he is to return with it a Sa' of food, not Samra' \"\n\n\n The meaning of \"Not Samra'\" is \"not wheat.\"\n\n\nThis Hadith is Hasan Sahih. This Hadith is acted upon according to our companions, among them Ash-Shafi'i, Ahmad, and Ishaq."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا وَكِيعٌ، عَنْ زَكَرِيَّا، عَنِ الشَّعْبِيِّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ بَاعَ مِنَ النَّبِيِّ صلى الله عليه وسلم بَعِيرًا وَاشْتَرَطَ ظَهْرَهُ إِلَى أَهْلِهِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رُوِيَ مِنْ غَيْرِ وَجْهٍ عَنْ جَابِرٍ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ ‏.‏ يَرَوْنَ الشَّرْطَ فِي الْبَيْعِ جَائِزًا إِذَا كَانَ شَرْطًا وَاحِدًا ‏.‏ وَهُوَ قَوْلُ أَحْمَدَ وَإِسْحَاقَ ‏.‏ وَقَالَ بَعْضُ أَهْلِ الْعِلْمِ لاَ يَجُوزُ الشَّرْطُ فِي الْبَيْعِ وَلاَ يَتِمُّ الْبَيْعُ إِذَا كَانَ فِيهِ شَرْطٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir bin ‘Abdullah :",
+        "text": "That he sold a camel to the Prophet (ﷺ) and made a condition that he could ride it to (return to) his family.\n\n\n This Hadith is Hasan Sahih. It has been reported through other routes from Jabir.\n\n\nThis is acted upon according to some of the people of knowledge among the Companions of the Prophet (ﷺ) and others. They consider it allowed to make a condition in a sale when it is one condition. This is the view of Ahmad and Ishaq.\n\n\nSome of the people of knowledge said that it is not allowed to make a condition in a sale, nor to complete a sale when there is a condition for it."
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، وَيُوسُفُ بْنُ عِيسَى، قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ زَكَرِيَّا، عَنْ عَامِرٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ الظَّهْرُ يُرْكَبُ إِذَا كَانَ مَرْهُونًا وَلَبَنُ الدَّرِّ يُشْرَبُ إِذَا كَانَ مَرْهُونًا وَعَلَى الَّذِي يَرْكَبُ وَيَشْرَبُ نَفَقَتُهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ لاَ نَعْرِفُهُ مَرْفُوعًا إِلاَّ مِنْ حَدِيثِ عَامِرٍ الشَّعْبِيِّ عَنْ أَبِي هُرَيْرَةَ ‏.‏ وَقَدْ رَوَى غَيْرُ وَاحِدٍ هَذَا الْحَدِيثَ عَنِ الأَعْمَشِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ مَوْقُوفًا ‏.‏ وَالْعَمَلُ عَلَى هَذَا الْحَدِيثِ عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ وَهُوَ قَوْلُ أَحْمَدَ وَإِسْحَاقَ ‏.‏ وَقَالَ بَعْضُ أَهْلِ الْعِلْمِ لَيْسَ لَهُ أَنْ يَنْتَفِعَ مِنَ الرَّهْنِ بِشَيْءٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "That the Messenger of Allah (ﷺ): \"A riding animal can be ridden while it is pawned, and a milking animal can be milked while it is pawned, and it is up to the one riding and drinking (the milk) to maintain it.\"\n\n\n This Hadith is Hasan Sahih.\n\n\nWe do now know of it being Marfu' except by the narration of 'Amir Ash-Sha'bi from Abu Hurairah. Others have reported this Hadith from Al-A'mash, from Abu Salih, from Abu Hurairah in Mawquf form.\n\n\nThis is acted upon according to some of the people of knowledge, and it is the view of Ahmad and Ishaq.\n\n\nSome of the people of knowledge said that one may not benefit in any way from what is pawned."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ أَبِي شُجَاعٍ، سَعِيدِ بْنِ يَزِيدَ عَنْ خَالِدِ بْنِ أَبِي عِمْرَانَ، عَنْ حَنَشٍ الصَّنْعَانِيِّ، عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، قَالَ اشْتَرَيْتُ يَوْمَ خَيْبَرَ قِلاَدَةً بِاثْنَىْ عَشَرَ دِينَارًا فِيهَا ذَهَبٌ وَخَرَزٌ فَفَصَّلْتُهَا فَوَجَدْتُ فِيهَا أَكْثَرَ مِنِ اثْنَىْ عَشَرَ دِينَارًا فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ لاَ تُبَاعُ حَتَّى تُفَصَّلَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "Narrated Fadalah bin 'Ubaidah:",
+        "text": "\"On the Day of Khaibar I purchased a necklace that contained gold and jewels for twelve Dinar. I separated it and found that it was worth more than twelve Dinar. I mentioned that to the Prophet (ﷺ) and he said: 'Do not sell it until it is separated.'\""
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ أَبِي شُجَاعٍ، سَعِيدِ بْنِ يَزِيدَ بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ لَمْ يَرَوْا أَنْ يُبَاعَ السَّيْفُ مُحَلًّى أَوْ مِنْطَقَةٌ مُفَضَّضَةٌ أَوْ مِثْلُ هَذَا بِدَرَاهِمَ حَتَّى يُمَيَّزَ وَيُفَصَّلَ ‏.‏ وَهُوَ قَوْلُ ابْنِ الْمُبَارَكِ وَالشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَاقَ ‏.‏ وَقَدْ رَخَّصَ بَعْضُ أَهْلِ الْعِلْمِ فِي ذَلِكَ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ ‏.‏",
+      "english": {
+        "narrator": "Another chain of narration with similar meaning.\n\n\n[Abu 'Eisa said:",
+        "text": "] This Hadith is Hasan Sahih. This is acted upon according to some of the people of knowledge among the Companions of the Prophet (ﷺ) and others. They did not think that an embellished (silver-gilded) sword could be sold for Dirham, nor a silver-plated waist-band, or something similar, until it (the silver) was distinguished and separated. This is the view of Ibn al-Mubarak, Ash-Shafi'i, Ahmad and Ishaq.\n\n\nSome of the people of knowledge, among the Companions of the Prophet (ﷺ) and others, permitted that."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، أَنَّهَا أَرَادَتْ أَنْ تَشْتَرِيَ، بَرِيرَةَ فَاشْتَرَطُوا الْوَلاَءَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ اشْتَرِيهَا فَإِنَّمَا الْوَلاَءُ لِمَنْ أَعْطَى الثَّمَنَ أَوْ لِمَنْ وَلِيَ النِّعْمَةَ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنِ ابْنِ عُمَرَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ عَائِشَةَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ ‏.‏ قَالَ وَمَنْصُورُ بْنُ الْمُعْتَمِرِ يُكْنَى أَبَا عَتَّابٍ ‏.‏ حَدَّثَنَا أَبُو بَكْرٍ الْعَطَّارُ الْبَصْرِيُّ عَنْ عَلِيِّ بْنِ الْمَدِينِيِّ قَالَ سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ يَقُولُ إِذَا حُدِّثْتَ عَنْ مَنْصُورٍ فَقَدْ مَلأْتَ يَدَكَ مِنَ الْخَيْرِ لاَ تُرِدْ غَيْرَهُ ‏.‏ ثُمَّ قَالَ يَحْيَى مَا أَجِدُ فِي إِبْرَاهِيمَ النَّخَعِيِّ وَمُجَاهِدٍ أَثْبَتَ مِنْ مَنْصُورٍ ‏.‏ قَالَ وَأَخْبَرَنِي مُحَمَّدٌ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي الأَسْوَدِ قَالَ قَالَ عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ مَنْصُورٌ أَثْبَتُ أَهْلِ الْكُوفَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Al-Aswad:",
+        "text": "From 'Aishah that she wanted to purchase Barirah, but they (he owners) made the condition that they would retain the Wala'. So the Prophet (ﷺ) said: \"Buy her, the Wala' is only for the one who gives  the price, or for the one who grants the favor.\"\n\n\n There is something on this topic from Ibn 'Umar.\n\n\n The Hadith of 'Aishah is a Hasan Sahih Hadith. This is acted upon according to the people of knowledge. And Mansur bin Al-Mu'tamir's Kunyah is Abu 'Attab.\n\n\nAbu Bakr Al-'Attar Al-Basri narrated to us from 'Ali bin Al-Madini who said: \"I heard Yahya bin Sa'eed saying: 'When you get a narration from Mansur, then your hand has been filled with goodness without needing others.' Then Yahya said: 'I did not find anyone more reliable in (narrating from) Ibrahim An-Nakha'i and Mujahid than Mansur.\"\n\n\n Muhammad informed me from 'Abdullah bin Abi Al-Aswad who said: \" 'Abdur-Rahman bin Mahdi said: 'Mansur is the most reliable of the people of Al-Kufah.'\""
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ أَبِي حُصَيْنٍ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ حَكِيمِ بْنِ حِزَامٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ حَكِيمَ بْنَ حِزَامٍ يَشْتَرِي لَهُ أُضْحِيَّةً بِدِينَارٍ فَاشْتَرَى أُضْحِيَّةً فَأُرْبِحَ فِيهَا دِينَارًا فَاشْتَرَى أُخْرَى مَكَانَهَا فَجَاءَ بِالأُضْحِيَّةِ وَالدِّينَارِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\n\"‏ ضَحِّ بِالشَّاةِ وَتَصَدَّقْ بِالدِّينَارِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ حَكِيمِ بْنِ حِزَامٍ لاَ نَعْرِفُهُ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏ وَحَبِيبُ بْنُ أَبِي ثَابِتٍ لَمْ يَسْمَعْ عِنْدِي مِنْ حَكِيمِ بْنِ حِزَامٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Habib bin Abi Thabit:",
+        "text": "From Hakim bin Hizam, that the Messenger of Allah (ﷺ) sent Hakim bin Hizam with a Dinar to buy an animal for Udhiyyah (an animal for sacrifice) for him. He purchases an Udhiyyah which he sold and profited a Dinar from, so he purchased another in its place. And he returned to the Messenger of Allah (ﷺ) with Udhiyyah and the Dinar, so he said: 'The sheep is for sacrifice and Dinar is for charity.'\"\n\n\n We do not know of the Hadith of Hakim bin Hizam except through this route, and Habib bin Abi Thabit did not hear from Hakim bin Hizam - in my view."
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ، حَدَّثَنَا حَبَّانُ، وَهُوَ ابْنُ هِلاَلٍ أَبُو حَبِيبٍ الْبَصْرِيُّ حَدَّثَنَا هَارُونُ الأَعْوَرُ الْمُقْرِئُ، وَهُوَ ابْنُ مُوسَى الْقَارِئُ حَدَّثَنَا الزُّبَيْرُ بْنُ الْخِرِّيتِ، عَنْ أَبِي لَبِيدٍ، عَنْ عُرْوَةَ الْبَارِقِيِّ، قَالَ دَفَعَ إِلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم دِينَارًا لأَشْتَرِيَ لَهُ شَاةً فَاشْتَرَيْتُ لَهُ شَاتَيْنِ فَبِعْتُ إِحْدَاهُمَا بِدِينَارٍ وَجِئْتُ بِالشَّاةِ وَالدِّينَارِ إِلَى النَّبِيِّ صلى الله عليه وسلم ‏.‏ فَذَكَرَ لَهُ مَا كَانَ مِنْ أَمْرِهِ فَقَالَ لَهُ ‏\n\"‏ بَارَكَ اللَّهُ لَكَ فِي صَفْقَةِ يَمِينِكَ ‏\"‏ ‏.‏ فَكَانَ يَخْرُجُ بَعْدَ ذَلِكَ إِلَى كُنَاسَةِ الْكُوفَةِ فَيَرْبَحُ الرِّبْحَ الْعَظِيمَ فَكَانَ مِنْ أَكْثَرِ أَهْلِ الْكُوفَةِ مَالاً ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Urwah Al-Bariqi:",
+        "text": "\"The Messenger of Allah (ﷺ) gave me on Dinar to purchase a sheep for him. So I purchased two sheeps for him, and I sold one of them for a Dinar. So I returned with the sheep and the Dinar to the Prophet (ﷺ), and I mentioned what had happened and he said: 'May Allah bless you in your business dealings.' After that we went to Kunasah in Al-Kufah, and he made tremendous profits. He was among the wealthiest of the people in Al-Kufah.\""
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ، حَدَّثَنَا حَبَّانُ، حَدَّثَنَا سَعِيدُ بْنُ زَيْدٍ، هُوَ أَخُو حَمَّادِ بْنِ زَيْدٍ قَالَ حَدَّثَنَا الزُّبَيْرُ بْنُ خِرِّيتٍ، عَنْ أَبِي لَبِيدٍ، فَذَكَرَ نَحْوَهُ ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ ذَهَبَ بَعْضُ أَهْلِ الْعِلْمِ إِلَى هَذَا الْحَدِيثِ وَقَالُوا بِهِ وَهُوَ قَوْلُ أَحْمَدَ وَإِسْحَاقَ ‏.‏ وَلَمْ يَأْخُذْ بَعْضُ أَهْلِ الْعِلْمِ بِهَذَا الْحَدِيثِ مِنْهُمُ الشَّافِعِيُّ ‏.‏ وَسَعِيدُ بْنُ زَيْدٍ أَخُو حَمَّادِ بْنِ زَيْدٍ ‏.‏ وَأَبُو لَبِيدٍ اسْمُهُ لِمَازَةُ بْنُ زَبَّارٍ ‏.‏",
+      "english": {
+        "narrator": "Another chain of narration with similar meaning.\n\n\n[Abu 'Eisa said:",
+        "text": "] Some of the people of knowledge followed this Hadith and stated their view accordingly. This is the view of Ahmad and Ishaq. Some of the people of knowledge did not use this Hadith, among them are Ash-Shafi'i and Sa'eed bin Zaid the brother of Hammad bin Zaid. And Abu Labid's (a narrator) name is Limazah bin Zabbar."
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ الْبَزَّازُ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا أَصَابَ الْمُكَاتَبُ حَدًّا أَوْ مِيرَاثًا وَرِثَ بِحِسَابِ مَا عَتَقَ مِنْهُ ‏\"‏ ‏.‏ وَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ يُؤَدِّي الْمُكَاتَبُ بِحِصَّةِ مَا أَدَّى دِيَةَ حُرٍّ وَمَا بَقِيَ دِيَةَ عَبْدٍ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ أُمِّ سَلَمَةَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ ابْنِ عَبَّاسٍ حَدِيثٌ حَسَنٌ ‏.‏ وَهَكَذَا رَوَى يَحْيَى بْنُ أَبِي كَثِيرٍ عَنْ عِكْرِمَةَ عَنِ ابْنِ عَبَّاسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَرَوَى خَالِدٌ الْحَذَّاءُ عَنْ عِكْرِمَةَ عَنْ عَلِيٍّ قَوْلَهُ ‏.‏ وَالْعَمَلُ عَلَى هَذَا الْحَدِيثِ عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ ‏.‏ وَقَالَ أَكْثَرُ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمُ الْمُكَاتَبُ عَبْدٌ مَا بَقِيَ عَلَيْهِ دِرْهَمٌ ‏.‏ وَهُوَ قَوْلُ سُفْيَانَ الثَّوْرِيِّ وَالشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَاقَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "That the Prophet (ﷺ) said: \"When the penalty (of blood money) goes to a Mukatab, or an inheritance, then he inherits in accordance with as much as he is freed from it.\" And the Prophet (ﷺ) said: \"The Mukatab is given the blood-money of a free person in accordance to what he has paid (for his freedom), and that of a slave in accordance to what remains.\"\n\n\n There is something on this from Umm Salamah.\n\n\n The Hadith of Ibn 'Abbas is a Hasan Hadith. This is how it was reported from Yahya bin Abi Kathir from 'Ikrimah, from Ibn 'Abbas, from the Prophet (ﷺ).\n\n\nKhalid bin Al-Hadh-dha' reported it from 'Ikrimah, from 'Ali as his saying.\n\n\nThis is acted upon according to some of the people of knowledge among the Companions of the Prophet (ﷺ) and others.\n\n\nMost of the people of knowledge among the Companions of the Prophet (ﷺ) and others said that the Mukatab remains a slave as long as he still owes a Dirham. This is the view of Sufyan Ath-Thawri, Ash-Shafi'i, Ahmad, and Ishaq."
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ سَعِيدٍ، عَنْ يَحْيَى بْنِ أَبِي أُنَيْسَةَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَخْطُبُ يَقُولُ ‏\n\"‏ مَنْ كَاتَبَ عَبْدَهُ عَلَى مِائَةِ أُوقِيَّةٍ فَأَدَّاهَا إِلاَّ عَشْرَ أَوَاقٍ أَوْ قَالَ عَشَرَةَ دَرَاهِمَ ثُمَّ عَجَزَ فَهُوَ رَقِيقٌ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ ‏.‏ وَالْعَمَلُ عَلَيْهِ عِنْدَ أَكْثَرِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ أَنَّ الْمُكَاتَبَ عَبْدٌ مَا بَقِيَ عَلَيْهِ شَيْءٌ مِنْ كِتَابَتِهِ ‏.‏ وَقَدْ رَوَى الْحَجَّاجُ بْنُ أَرْطَاةَ عَنْ عَمْرِو بْنِ شُعَيْبٍ نَحْوَهُ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Amr bin Shu'aib:",
+        "text": "From his father, from his grandfather that he heard the Messenger of Allah (ﷺ) delivering a Khutbah in which he said: \"Whoever gives a writ of emancipation to his slave, for one hundred Uqiyyah, and he pays it to him less then ten Uqiyah.\" - or he said: \"Ten Dirham\" - \"then he becomes incapable (of paying the remainder), the he remains a slave.\"\n\n\n This Hadith is Hasan Gharib. And this acted upon according to most of the people of knowledge among the Companions of the Prophet (ﷺ) and others: The Mukatab is a slave as long as something remains due from him for his Kitabah.\n\n\nAl-Hajjaj bin Artat reported similarly from 'Amr bin Shu'aib."
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ نَبْهَانَ، مَوْلَى أُمِّ سَلَمَةَ عَنْ أُمِّ سَلَمَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا كَانَ عِنْدَ مُكَاتَبِ إِحْدَاكُنَّ مَا يُؤَدِّي فَلْتَحْتَجِبْ مِنْهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَمَعْنَى هَذَا الْحَدِيثِ عِنْدَ أَهْلِ الْعِلْمِ عَلَى التَّوَرُّعِ وَقَالُوا لاَ يُعْتَقُ الْمُكَاتَبُ وَإِنْ كَانَ عِنْدَهُ مَا يُؤَدِّي حَتَّى يُؤَدِّيَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Umm Salamah:",
+        "text": "That the Messenger of Allah (ﷺ) said: \"When one of you (women) has a Mukatab ho has with him what will fulfill (the Kitabah) then observe Hijab from him.\"\n\n\n This Hadith is Hasan Sahih. And the meaning of this Hadith according to the people of knowledge is that of caution. They say that the Mukatab is not freed, even if he has the amount to pay, until he pays it."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\n\"‏ أَيُّمَا امْرِئٍ أَفْلَسَ وَوَجَدَ رَجُلٌ سِلْعَتَهُ عِنْدَهُ بِعَيْنِهَا فَهُوَ أَوْلَى بِهَا مِنْ غَيْرِهِ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ سَمُرَةَ وَابْنِ عُمَرَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ وَهُوَ قَوْلُ الشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَاقَ ‏.‏ وَقَالَ بَعْضُ أَهْلِ الْعِلْمِ هُوَ أُسْوَةُ الْغُرَمَاءِ ‏.‏ وَهُوَ قَوْلُ أَهْلِ الْكُوفَةِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "That the Messenger of Allah (ﷺ) said: \"Whichever person becomes bankrupt, and a man finds his particular merchandise with him, then he is more deserving of it than others.\n\n\n There are narrations on this topic from Samurah and Ibn 'Umar.\n\n\n The Hadith of Abu Hurairah is a Hasan Sahih Hadith. This is acted upon according to some of the people of knowledge and it is the view of Ash-Shafi'i, Ahmad, and Ishaq.\n\n\nSome of the people of knowledge said that he is just like one of the debtors. This is the view of the people of Al-Kufah."
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنْ مُجَالِدٍ، عَنْ أَبِي الْوَدَّاكِ، عَنْ أَبِي سَعِيدٍ، قَالَ كَانَ عِنْدَنَا خَمْرٌ لِيَتِيمٍ فَلَمَّا نَزَلَتِ الْمَائِدَةُ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْهُ وَقُلْتُ إِنَّهُ لِيَتِيمٍ ‏.‏ فَقَالَ ‏\n\"‏ أَهْرِيقُوهُ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ أَنَسِ بْنِ مَالِكٍ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي سَعِيدٍ حَدِيثٌ حَسَنٌ وَقَدْ رُوِيَ مِنْ غَيْرِ وَجْهٍ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوُ هَذَا ‏.‏ وَقَالَ بِهَذَا بَعْضُ أَهْلِ الْعِلْمِ وَكَرِهُوا أَنْ تُتَّخَذَ الْخَمْرُ خَلاًّ وَإِنَّمَا كُرِهَ مِنْ ذَلِكَ وَاللَّهُ أَعْلَمُ أَنْ يَكُونَ الْمُسْلِمُ فِي بَيْتِهِ خَمْرٌ حَتَّى يَصِيرَ خَلاًّ ‏.‏ وَرَخَّصَ بَعْضُهُمْ فِي خَلِّ الْخَمْرِ إِذَا وُجِدَ قَدْ صَارَ خَلاًّ ‏.‏ أَبُو الْوَدَّاكِ اسْمُهُ جَبْرُ بْنُ نَوْفٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Al-Waddak:",
+        "text": "That Abu Sa'eed said: \"We had some wine that belonged to an orphan. When Al-Ma'idah was revealed I asked the Messenger of Allah (ﷺ) about it, I said: 'It belongs to an orphan.' He said: 'Spill it out.'\"\n\n\n There is something on this topic from Anas bin Malik.\n\n\n Hadith. Similar to this has been reported through other routes from the Prophet (ﷺ). Some of the people of knowledge stated according to this, they dislike the usage of wine for making vinegar. And the only thing that they disliked about it, and Allah knows best, is for a Muslim to have wine in his house until it becomes vinegar. Abu Al-Waddak's name is Jabr bin Nawf."
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا طَلْقُ بْنُ غَنَّامٍ، عَنْ شَرِيكٍ، وَقَيْسٍ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ أَدِّ الأَمَانَةَ إِلَى مَنِ ائْتَمَنَكَ وَلاَ تَخُنْ مَنْ خَانَكَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَقَدْ ذَهَبَ بَعْضُ أَهْلِ الْعِلْمِ إِلَى هَذَا الْحَدِيثِ وَقَالُوا إِذَا كَانَ لِلرَّجُلِ عَلَى آخَرَ شَيْءٌ فَذَهَبَ بِهِ فَوَقَعَ لَهُ عِنْدَهُ شَيْءٌ فَلَيْسَ لَهُ أَنْ يَحْبِسَ عَنْهُ بِقَدْرِ مَا ذَهَبَ لَهُ عَلَيْهِ ‏.‏ وَرَخَّصَ فِيهِ بَعْضُ أَهْلِ الْعِلْمِ مِنَ التَّابِعِينَ ‏.‏ وَهُوَ قَوْلُ الثَّوْرِيِّ وَقَالَ إِنْ كَانَ لَهُ عَلَيْهِ دَرَاهِمُ فَوَقَعَ لَهُ عِنْدَهُ دَنَانِيرُ فَلَيْسَ لَهُ أَنْ يَحْبِسَ بِمَكَانِ دَرَاهِمِهِ إِلاَّ أَنْ يَقَعَ عِنْدَهُ لَهُ دَرَاهِمُ فَلَهُ حِينَئِذٍ أَنْ يَحْبِسَ مِنْ دَرَاهِمِهِ بِقَدْرِ مَا لَهُ عَلَيْهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "That the Prophet (ﷺ) said: \"Fulfill the trust for the one who entrusted you, and do not cheat the one who cheated you.\"\n\n\n This Hadith is Hasan Gharib. Some of the people of knowledge followed this Hadith, they said that when something belonging to a man is with another and he leaves (with it), then he has something that belongs to him, he may not withhold from him an equivalent to what the other took of his.\n\n\nSome of the people of knowledge among the Tabi'in allowed that. This is the view of Sufyan Ath-Thawri, he said: \"If one man has some Dirham that belong to another, and the second has some Dinar belonging to the first, he may not withhold any in place of his Dirham, unless it so happens that he has some Dirham of his, then in that case he can withhold some of his Dirham equal to what he is owed by the first.\""
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا هَنَّادٌ، وَعَلِيُّ بْنُ حُجْرٍ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ شُرَحْبِيلَ بْنِ مُسْلِمٍ الْخَوْلاَنِيِّ، عَنْ أَبِي أُمَامَةَ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ فِي خُطْبَتِهِ عَامَ حَجَّةِ الْوَدَاعِ ‏\n\"‏ الْعَارِيَةُ مُؤَدَّاةٌ وَالزَّعِيمُ غَارِمٌ وَالدَّيْنُ مَقْضِيٌّ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ سَمُرَةَ وَصَفْوَانَ بْنِ أُمَيَّةَ وَأَنَسٍ ‏.‏ قَالَ وَحَدِيثُ أَبِي أُمَامَةَ حَدِيثٌ حَسَنٌ ‏.‏ وَقَدْ رُوِيَ عَنْ أَبِي أُمَامَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم أَيْضًا مِنْ غَيْرِ هَذَا الْوَجْهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Umamah:",
+        "text": "\"During the year of the Farewell Pilgrimage, I heard the Prophet (ﷺ) saying during the Khutbah: \"The borrowed is to be returned, and the guarantor is responsible, and the debt is to be repaid.\"\n\n\n There are narrations on this topic from Samurah, Safwan bin Umayyah, and Anas. \n\n\n The Hadith of Abu Umamah is a Hasan Gharib Hadith. It has also been reported through other routes besides this, from Abu Umamah, from the Prophet (ﷺ)."
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ عَلَى الْيَدِ مَا أَخَذَتْ حَتَّى تُؤَدِّيَ ‏\"‏ ‏.‏ قَالَ قَتَادَةُ ثُمَّ نَسِيَ الْحَسَنُ فَقَالَ هُوَ أَمِينُكَ لاَ ضَمَانَ عَلَيْهِ ‏.‏ يَعْنِي الْعَارِيَةَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ ذَهَبَ بَعْضُ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ إِلَى هَذَا وَقَالُوا يَضْمَنُ صَاحِبُ الْعَارِيَةِ ‏.‏ وَهُوَ قَوْلُ الشَّافِعِيِّ وَأَحْمَدَ ‏.‏ وَقَالَ بَعْضُ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ لَيْسَ عَلَى صَاحِبِ الْعَارِيَةِ ضَمَانٌ إِلاَّ أَنْ يُخَالِفَ ‏.‏ وَهُوَ قَوْلُ الثَّوْرِيِّ وَأَهْلِ الْكُوفَةِ وَبِهِ يَقُولُ إِسْحَاقُ ‏.‏",
+      "english": {
+        "narrator": "Narrated Qatadah:",
+        "text": "From Al-Hasan, from Samurah, that the Prophet (ﷺ) said: \"Upon the hand is what it took, until it is returned.\" Qatadah said: \"Then Al-Hasan forgot, so he said: 'It is something you entrusted, he is not liable for it.' \" Meaning the borrowed property.\n\n\n This Hadith is Hasan Sahih. Some of the people pf knowledge, among the Companions of the Prophet (ﷺ) and others, followed this Hadith. They said that the possessor of the borrowed thing is liable. This is the view of Ash-Shafi'i and Ahmad. Some of the people of knowledge among the Companions and others said that the possessor of the borrowed this is not liable unless there is dispute. This is the view of Sufyan Ath-Thawri and the people of Al-Kufah, and it is the view of Ishaq."
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ مَعْمَرِ بْنِ عَبْدِ اللَّهِ بْنِ نَضْلَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ لاَ يَحْتَكِرُ إِلاَّ خَاطِئٌ ‏\"‏ ‏.‏ فَقُلْتُ لِسَعِيدٍ يَا أَبَا مُحَمَّدٍ إِنَّكَ تَحْتَكِرُ ‏.‏ قَالَ وَمَعْمَرٌ قَدْ كَانَ يَحْتَكِرُ ‏.‏ قَالَ أَبُو عِيسَى وَإِنَّمَا رُوِيَ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ أَنَّهُ كَانَ يَحْتَكِرُ الزَّيْتَ وَالْحِنْطَةَ وَنَحْوَ هَذَا ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ عُمَرَ وَعَلِيٍّ وَأَبِي أُمَامَةَ وَابْنِ عُمَرَ ‏.‏ وَحَدِيثُ مَعْمَرٍ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ كَرِهُوا احْتِكَارَ الطَّعَامِ ‏.‏ وَرَخَّصَ بَعْضُهُمْ فِي الاِحْتِكَارِ فِي غَيْرِ الطَّعَامِ ‏.‏ وَقَالَ ابْنُ الْمُبَارَكِ لاَ بَأْسَ بِالاِحْتِكَارِ فِي الْقُطْنِ وَالسَّخْتِيَانِ وَنَحْوِ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Muhammad bin Ibrahim :",
+        "text": "From Sa'eed bin Al-Musayyab, from Ma'mar bin 'Abdullah bin Nadlah who said: \"I heard the Messenger of Allah (ﷺ) saying: 'Hoarding is nothing but sin.' So I (Muhammad) said to Sa'eed: \"O Abu Muhammad! You hoard?\" He said: \"And Ma'mar would hoard.\"\n\n\nIt is also been reported that Sa'eed bin Musayyab would hoard oil, (camel) fodder, and the like.\n\n\n There are narrations on this topic from 'Umar, 'Ali, Abu Umamah, and Ibn 'Umar. The Hadith of Ma'mar is a Hasan Sahih Hadith. This is acted upon according to the people of knowledge, they dislike hoarding food, and some of them make a concession for hoarding things other than food. Ibn Al-Mubarak said: \"There is no harm in hoarding cotton, goat pelts and like.\""
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سِمَاكٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ تَسْتَقْبِلُوا السُّوقَ وَلاَ تُحَفِّلُوا وَلاَ يُنَفِّقْ بَعْضُكُمْ لِبَعْضٍ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنِ ابْنِ مَسْعُودٍ وَأَبِي هُرَيْرَةَ ‏.‏ وَحَدِيثُ ابْنِ عَبَّاسٍ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ كَرِهُوا بَيْعَ الْمُحَفَّلَةِ وَهِيَ الْمُصَرَّاةُ لاَ يَحْلُبُهَا صَاحِبُهَا أَيَّامًا أَوْ نَحْوَ ذَلِكَ لِيَجْتَمِعَ اللَّبَنُ فِي ضَرْعِهَا فَيَغْتَرَّ بِهَا الْمُشْتَرِي ‏.‏ وَهَذَا ضَرْبٌ مِنَ الْخَدِيعَةِ وَالْغَرَرِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Abbas:",
+        "text": "That the Prophet (ﷺ) said: \"Do not go out to meet the market (caravan), do not leave animals un-milked (to deceive the buyer), nor out-spend one another.\"\n\n\n There are narrations on this topic from Ibn Mas'ud and Abu Hurairah. The Hadith if Ibn 'Abbas is a Hasan Sahih Hadith. This is acted upon according to the people of knowledge, they dislike selling the Muhaffalah, and it is the Musarrah that has not been milked by its owner in days or more than that, so the milk accumulates in its udder to impress the purchaser. This is a type of deceit and misrepresentation."
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقِ بْنِ سَلَمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ حَلَفَ عَلَى يَمِينٍ وَهُوَ فِيهَا فَاجِرٌ لِيَقْتَطِعَ بِهَا مَالَ امْرِئٍ مُسْلِمٍ لَقِيَ اللَّهَ وَهُوَ عَلَيْهِ غَضْبَانُ ‏\"‏ ‏.‏ فَقَالَ الأَشْعَثُ بْنُ قَيْسٍ فِيَّ وَاللَّهِ لَقَدْ كَانَ ذَلِكَ كَانَ بَيْنِي وَبَيْنَ رَجُلٍ مِنَ الْيَهُودِ أَرْضٌ فَجَحَدَنِي فَقَدَّمْتُهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَلَكَ بَيِّنَةٌ ‏\"‏ ‏.‏ قُلْتُ لاَ ‏.‏ فَقَالَ لِلْيَهُودِيِّ ‏\"‏ احْلِفْ ‏\"‏ ‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ إِذًا يَحْلِفَ فَيَذْهَبَ بِمَالِي ‏.‏ فَأَنْزَلَ اللَّهُ تَعَالَى‏:‏  ‏(‏إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلاً ‏)‏ ‏.‏ إِلَى آخِرِ الآيَةِ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ وَائِلِ بْنِ حُجْرٍ وَأَبِي مُوسَى وَأَبِي أُمَامَةَ بْنِ ثَعْلَبَةَ الأَنْصَارِيِّ وَعِمْرَانَ بْنِ حُصَيْنٍ ‏.‏ وَحَدِيثُ ابْنِ مَسْعُودٍ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Abdullah bin Mas'ud:",
+        "text": "That the Messenger of Allah (ﷺ) said: \"Whoever takes a false oath to deprive a Muslim of his wealth, he will meet Allah while He is angry with him.\"\n\n\nAl-Ash'ath bin Qais said: \"It is about me, by Allah! There was a dispute about some land between myself and a man from the Jews who denied my ownership of it, so I took him to the Prophet (ﷺ). The Messenger of Allah (ﷺ) said to me: 'Do you have any proof ?' I said: 'No'. So he said to Jew: 'Take an oath.' I said: 'O Messenger of Allah! If he takes an oath then my property will be gone!' So Allah, Most High revealed: Verily those who purchase a small gain at the cost of Allah's Covenant and their oaths.. until the end of the Ayah.\"\n\n\n There are narrations on this topic from Wa'il bin Hujr, Abu Musa, Abu Umamah bin Tha'labah Al-Ansari, and 'Imran bin Husain. The Hadith of Ibn Mas'ud is a Hasan Sahih Hadith."
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ عَوْنِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا اخْتَلَفَ الْبَيِّعَانِ فَالْقَوْلُ قَوْلُ الْبَائِعِ وَالْمُبْتَاعُ بِالْخِيَارِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ مُرْسَلٌ عَوْنُ بْنُ عَبْدِ اللَّهِ لَمْ يُدْرِكِ ابْنَ مَسْعُودٍ ‏.‏ وَقَدْ رُوِيَ عَنِ الْقَاسِمِ بْنِ عَبْدِ الرَّحْمَنِ عَنِ ابْنِ مَسْعُودٍ عَنِ النَّبِيِّ صلى الله عليه وسلم هَذَا الْحَدِيثُ أَيْضًا وَهُوَ مُرْسَلٌ أَيْضًا ‏.‏ قَالَ أَبُو عِيسَى قَالَ إِسْحَاقُ بْنُ مَنْصُورٍ قُلْتُ لأَحْمَدَ إِذَا اخْتَلَفَ الْبَيِّعَانِ وَلَمْ تَكُنْ بَيِّنَةٌ قَالَ الْقَوْلُ مَا قَالَ رَبُّ السِّلْعَةِ أَوْ يَتَرَادَّانِ ‏.‏ قَالَ إِسْحَاقُ كَمَا قَالَ وَكُلُّ مَنْ كَانَ الْقَوْلُ قَوْلَهُ فَعَلَيْهِ الْيَمِينُ ‏.‏ قَالَ أَبُو عِيسَى هَكَذَا رُوِيَ عَنْ بَعْضِ أَهْلِ الْعِلْمِ مِنَ التَّابِعِينَ مِنْهُمْ شُرَيْحٌ وَغَيْرُهُ نَحْوُ هَذَا ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Mas'ud:",
+        "text": "That the Messenger of Allah (ﷺ) said: \"When the two parties (in a deal) disagree then the seller's statement is taken as valid, and the purchaser retains the option.\"\n\n\n This Hadith is Mursal. 'Awn bin 'Abdullah did not see Ibn Mas'ud. This Hadith has also been reported from Al-Qasim bin 'Abdur-Rahman, from Ibn Mas'ud from the Prophet (ﷺ). But it also Mursal.\n\n\n Ishaq bin Mansur said: \"I said to Ahmad: what if when the two parties disagree and there is no proof (what is done)?' He said: 'The saying of the owner of the merchandise is taken as valid or they both refuse.' And Ishaq said as he did, and that in every case where his saying is taken, he must swear.'\"\n\n\n Similar to this has been reported from some of the people of knowledge among the Tabi'in, Shuraih is among those."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا دَاوُدُ بْنُ عَبْدِ الرَّحْمَنِ الْعَطَّارُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ أَبِي الْمِنْهَالِ، عَنْ إِيَاسِ بْنِ عَبْدٍ الْمُزَنِيِّ، قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنْ بَيْعِ الْمَاءِ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ جَابِرٍ وَبُهَيْسَةَ عَنْ أَبِيهَا وَأَبِي هُرَيْرَةَ وَعَائِشَةَ وَأَنَسٍ وَعَبْدِ اللَّهِ بْنِ عَمْرٍو ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ إِيَاسٍ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَكْثَرِ أَهْلِ الْعِلْمِ أَنَّهُمْ كَرِهُوا بَيْعَ الْمَاءِ ‏.‏ وَهُوَ قَوْلُ ابْنِ الْمُبَارَكِ وَالشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَاقَ ‏.‏ وَقَدْ رَخَّصَ بَعْضُ أَهْلِ الْعِلْمِ فِي بَيْعِ الْمَاءِ ‏.‏ مِنْهُمُ الْحَسَنُ الْبَصْرِيُّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Al-Minhal:",
+        "text": "From Iyas bin 'Abd al-Muzani who said: \"The Prophet (ﷺ) prohibited selling water.\"\n\n\n There are narrations on this topic from Jabir, Buhaisah from her father, Abu Hurairah, 'Aishah, Anas and 'Abdullah bin 'Amr.\n\n\n The Hadith is Iyas is a Hasan Sahih Hadith. This is acted upon according to most of the people of knowledge, they dislike selling water. This is the view of Ibn Al-Mubarak, Ash-Shafi'i, Ahmad, and Ishaq. Some of the people of knowledge permitted selling water, Al-Hasan al-Basri is one of them."
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يُمْنَعُ فَضْلُ الْمَاءِ لِيُمْنَعَ بِهِ الْكَلأُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَأَبُو الْمِنْهَالِ اسْمُهُ عَبْدُ الرَّحْمَنِ بْنُ مُطْعِمٍ كُوفِيٌّ وَهُوَ الَّذِي رَوَى عَنْهُ حَبِيبُ بْنُ أَبِي ثَابِتٍ ‏.‏ وَأَبُو الْمِنْهَالِ سَيَّارُ بْنُ سَلاَمَةَ بَصْرِيٌّ صَاحِبُ أَبِي بَرْزَةَ الأَسْلَمِيِّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Hurairah:",
+        "text": "That the Prophet (ﷺ) said: \"Do not withhold surplus water so that it is prevented from the pasture.\"\n\n\n This Hadith is Hasan Sahih.\n\n\nAbu Al-Munhal's name is 'Abdur-Rahman bin Mut'im, he is from Al-Kufah, and he is oen that Habib bin Abi Thabit reports from. Abu Al-Munhal Sayyar bin Salamah is from Al-Basrah, he is the companion of Abu Barzah Al-Aslami."
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، وَأَبُو عَمَّارٍ قَالاَ حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، قَالَ أَخْبَرَنَا عَلِيُّ بْنُ الْحَكَمِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنْ عَسْبِ الْفَحْلِ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ أَبِي هُرَيْرَةَ وَأَنَسٍ وَأَبِي سَعِيدٍ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ ابْنِ عُمَرَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ وَقَدْ رَخَّصَ بَعْضُهُمْ فِي قَبُولِ الْكَرَامَةِ عَلَى ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar:",
+        "text": "\"The Prophet (ﷺ) prohibited studding the stallion.\"\n\n\n There are narrations on this topic from Abu Hurairah, Anas, and Abu Sa'eed.\n\n\n The Hadith is Ibn 'Umar is a Hasan Sahih Hadith. This is acted upon according to some of the people of knowledge. There are those who made concession for accepting an honorarium for that."
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا عَبْدَةُ بْنُ عَبْدِ اللَّهِ الْخُزَاعِيُّ الْبَصْرِيُّ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، عَنْ إِبْرَاهِيمَ بْنِ حُمَيْدٍ الرُّؤَاسِيِّ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَجُلاً، مِنْ كِلاَبٍ سَأَلَ النَّبِيَّ صلى الله عليه وسلم عَنْ عَسْبِ الْفَحْلِ فَنَهَاهُ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّا نُطْرِقُ الْفَحْلَ فَنُكْرَمُ ‏.‏ فَرَخَّصَ لَهُ فِي الْكَرَامَةِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ إِبْرَاهِيمَ بْنِ حُمَيْدٍ عَنْ هِشَامِ بْنِ عُرْوَةَ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "\"A man from (the tribe of) Kilab asked the Messenger of Allah (ﷺ) about studding a stallion and he prohibited it. So he said: 'O Messenger of Allah! We stud the stallions so that we get honorarium (from the owners of the female horse)!' So he permitted it for honorarium.\"\n\n\n This Hadith is Hasan Gharib, we do not know of it except as a narration of Ibrahim bin Humaid, from Hisham bin 'Urwah."
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ قَارِظٍ، عَنِ السَّائِبِ بْنِ يَزِيدَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ كَسْبُ الْحَجَّامِ خَبِيثٌ وَمَهْرُ الْبَغِيِّ خَبِيثٌ وَثَمَنُ الْكَلْبِ خَبِيثٌ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عُمَرَ وَعَلِيٍّ وَابْنِ مَسْعُودٍ وَأَبِي مَسْعُودٍ وَجَابِرٍ وَأَبِي هُرَيْرَةَ وَابْنِ عَبَّاسٍ وَابْنِ عُمَرَ وَعَبْدِ اللَّهِ بْنِ جَعْفَرٍ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ رَافِعٍ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَكْثَرِ أَهْلِ الْعِلْمِ كَرِهُوا ثَمَنَ الْكَلْبِ ‏.‏ وَهُوَ قَوْلُ الشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَاقَ ‏.‏ وَقَدْ رَخَّصَ بَعْضُ أَهْلِ الْعِلْمِ فِي ثَمَنِ كَلْبِ الصَّيْدِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Rafi' b. Khadij:",
+        "text": "That the Messenger of Allah (ﷺ) said: \"The earnings of the cupper is filth, the earnings of the fornicator (from harlotry) is filth, and the price of a dog is filth.\"\n\n\n There are narrations on this topic from 'Umar, 'Ali, Ibn Mas'ud, Abu Masu'd, Jabir, Abu Hurairah, Ibn 'Abbas, Ibn 'Umar, and 'Abdullah bin Ja'far.\n\n\n The Hadith is Rafi' is a Hasan Sahih Hadith. This is acted upon according to most of the people of knowledge, they disliked the price of a dog. This the view of Ash-Shafi'i, Ahmad, and Ishaq. Some of the people of knowledge permitted the price of the hunting dog."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، ح وَحَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ، وَغَيْرُ، وَاحِدٍ، قَالُوا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي مَسْعُودٍ الأَنْصَارِيِّ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ ثَمَنِ الْكَلْبِ وَمَهْرِ الْبَغِيِّ وَحُلْوَانِ الْكَاهِنِ ‏.‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Mas'ud Al-Ansari:",
+        "text": "\"The Messenger of Allah (ﷺ) prohibited the price of a dog, the earnings of the fornicator (from harlotry), and the news of the fortune-teller.\"\n\n\nThis Hadith is Hasan Sahih."
+      }
+    },
+    {
+      "id": 79,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنِ ابْنِ شِهَابٍ، عَنِ ابْنِ مُحَيِّصَةَ، أَخِي بَنِي حَارِثَةَ عَنْ أَبِيهِ، أَنَّهُ اسْتَأْذَنَ النَّبِيَّ صلى الله عليه وسلم فِي إِجَارَةِ الْحَجَّامِ فَنَهَاهُ عَنْهَا فَلَمْ يَزَلْ يَسْأَلُهُ وَيَسْتَأْذِنُهُ حَتَّى قَالَ ‏\n\"‏ اعْلِفْهُ نَاضِحَكَ وَأَطْعِمْهُ رَقِيقَكَ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ رَافِعِ بْنِ خَدِيجٍ وَأَبِي جُحَيْفَةَ وَجَابِرٍ وَالسَّائِبِ بْنِ يَزِيدَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ مُحَيِّصَةَ حَدِيثٌ حَسَنٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ ‏.‏ وَقَالَ أَحْمَدُ إِنْ سَأَلَنِي حَجَّامٌ نَهَيْتُهُ وَآخُذُ بِهَذَا الْحَدِيثِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Muhayyisah of Banu Harithah:",
+        "text": "From his father, that he sought permission from the Prophet (ﷺ) to take the wages for cupping and he (ﷺ) forbade him from it. He continued asking him and seeking his permission until he said: \"Use it to give fodder to your water-carrying camels, and to feed your slaves.\"\n\n\n There are narrations on this topic from Rafi' bin Khadij, Abu Juhaifah, Jabir, and As-Sa'ib bin Yazid.\n\n\n The Hadith of Muhayyisah is a Hasan Sahih Hadith. This is acted upon according to some of the people of knowledge. Ahmad said: \"If I am asked for something by cupper then I deny him, acting upon this Hadith.\""
+      }
+    },
+    {
+      "id": 80,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ حُمَيْدٍ، قَالَ سُئِلَ أَنَسٌ عَنْ كَسْبِ الْحَجَّامِ، فَقَالَ أَنَسٌ احْتَجَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَحَجَمَهُ أَبُو طَيْبَةَ فَأَمَرَ لَهُ بِصَاعَيْنِ مِنْ طَعَامٍ وَكَلَّمَ أَهْلَهُ فَوَضَعُوا عَنْهُ مِنْ خَرَاجِهِ وَقَالَ ‏\"‏ إِنَّ أَفْضَلَ مَا تَدَاوَيْتُمْ بِهِ الْحِجَامَةُ ‏\"‏ ‏.‏ أَوْ ‏\"‏ إِنَّ مِنْ أَمْثَلِ دَوَائِكُمُ الْحِجَامَةَ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عَلِيٍّ وَابْنِ عَبَّاسٍ وَابْنِ عُمَرَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَنَسٍ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ رَخَّصَ بَعْضُ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ فِي كَسْبِ الْحَجَّامِ ‏.‏ وَهُوَ قَوْلُ الشَّافِعِيِّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "\"The Messenger of Allah (ﷺ) was cupped. Abu Talhah did the cupping. So he ordered that he be given two Sa' of food, and he spoke to his masters to reduce his taxes. He said: 'The most virtuous of what you treat with is cupping.' Or, he said: 'The best of your treatments is cupping.'\"\n\n\n There are narrations on this topic from 'Ali, Ibn 'Abbas, and Ibn 'Umar.\n\n\n The Hadith of Anas is a Hasan Sahih. Some of the people of knowledge among the Companions of the Prophet (ﷺ), and others permitted paying the cupper. This is the view of Ash-Shafi'i."
+      }
+    },
+    {
+      "id": 81,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، وَعَلِيُّ بْنُ خَشْرَمٍ، قَالاَ أَنْبَأَنَا عِيسَى بْنُ يُونُسَ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ ثَمَنِ الْكَلْبِ وَالسِّنَّوْرِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ فِي إِسْنَادِهِ اضْطِرَابٌ وَلاَ يَصِحُّ فِي ثَمَنِ السِّنَّوْرِ ‏.‏ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ عَنِ الأَعْمَشِ عَنْ بَعْضِ أَصْحَابِهِ عَنْ جَابِرٍ ‏.‏ وَاضْطَرَبُوا عَلَى الأَعْمَشِ فِي رِوَايَةِ هَذَا الْحَدِيثِ ‏.‏ وَقَدْ كَرِهَ قَوْمٌ مِنْ أَهْلِ الْعِلْمِ ثَمَنَ الْهِرِّ وَرَخَّصَ فِيهِ بَعْضُهُمْ وَهُوَ قَوْلُ أَحْمَدَ وَإِسْحَاقَ ‏.‏ وَرَوَى ابْنُ فُضَيْلٍ عَنِ الأَعْمَشِ عَنْ أَبِي حَازِمٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم مِنْ غَيْرِ هَذَا الْوَجْهِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir:",
+        "text": "\"The Messenger of Allah (ﷺ) prohibited the price of the dog and the cat.\"\n\n\n There is some confusion (Idtirab) in the chain for this Hadith. The price of a cat is not correct. This Hadith has been reported from Al-A'mash, from some of his companions, from Jabir, and they caused some confusion for Al-A'mash in this narration.\n\n\nThere are those among the people of knowledge who disliked the price of a cat, and some of them permitted it. This is the view of Ahmad and Ishaq. It has been reported from Ibn Al-Fudail, from Al-A'mash, from Abu Hazim, from Abu Hurairah from the Prophet (ﷺ), through other than this route."
+      }
+    },
+    {
+      "id": 82,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا عُمَرُ بْنُ زَيْدٍ الصَّنْعَانِيُّ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنْ أَكْلِ الْهِرِّ وَثَمَنِهِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ ‏.‏ وَعُمَرُ بْنُ زَيْدٍ لاَ نَعْرِفُ كَبِيرَ أَحَدٍ رَوَى عَنْهُ غَيْرَ عَبْدِ الرَّزَّاقِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir:",
+        "text": "\"The Messenger of Allah (ﷺ) prohibited eating the cat and from its price.\"\n\n\n This Hadith is Gharib. We do not know of any major (known) narrators who reports from 'Umar bin Zaid (one of the narrators) besides 'Abdur-Razzaq."
+      }
+    },
+    {
+      "id": 83,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "أَخْبَرَنَا أَبُو كُرَيْبٍ، أَخْبَرَنَا وَكِيعٌ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ أَبِي الْمُهَزِّمِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى عَنْ ثَمَنِ الْكَلْبِ، إِلاَّ كَلْبَ الصَّيْدِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ لاَ يَصِحُّ مِنْ هَذَا الْوَجْهِ ‏.‏ وَأَبُو الْمُهَزِّمِ اسْمُهُ يَزِيدُ بْنُ سُفْيَانَ وَتَكَلَّمَ فِيهِ شُعْبَةُ بْنُ الْحَجَّاجِ وَضَعَّفَهُ ‏.‏ وَقَدْ رُوِيَ عَنْ جَابِرٍ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوُ هَذَا وَلاَ يَصِحُّ إِسْنَادُهُ أَيْضًا ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Al-Muhazzim:",
+        "text": "From Abu Hurairah who said: \"The price of a dog was prohibited, except for the hunting dog.\"\n\n\n This Hadith is not correct from this route. Abu Al-Muhazzim's name is Yazid bin Sufyan, and Shu'bah bin Al-Hajjaj criticized him and graded him weak. Similar to this has been reported from Jabir, from the Prophet (ﷺ), but its chain is also not correct."
+      }
+    },
+    {
+      "id": 84,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، أَخْبَرَنَا بَكْرُ بْنُ مُضَرَ، عَنْ عُبَيْدِ اللَّهِ بْنِ زَحْرٍ، عَنْ عَلِيِّ بْنِ يَزِيدَ، عَنِ الْقَاسِمِ، عَنْ أَبِي أُمَامَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ تَبِيعُوا الْقَيْنَاتِ وَلاَ تَشْتَرُوهُنَّ وَلاَ تُعَلِّمُوهُنَّ وَلاَ خَيْرَ فِي تِجَارَةٍ فِيهِنَّ وَثَمَنُهُنَّ حَرَامٌ فِي مِثْلِ هَذَا أُنْزِلَتْ هَذِهِ الآيَةُ ‏:‏ ‏(‏ وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ ‏)‏ إِلَى آخِرِ الآيَةِ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عُمَرَ بْنِ الْخَطَّابِ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي أُمَامَةَ إِنَّمَا نَعْرِفُهُ مِثْلَ هَذَا مِنْ هَذَا الْوَجْهِ ‏.‏ وَقَدْ تَكَلَّمَ بَعْضُ أَهْلِ الْعِلْمِ فِي عَلِيِّ بْنِ يَزِيدَ وَضَعَّفَهُ وَهُوَ شَامِيٌّ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Umamah:",
+        "text": "That the Messenger of Allah (ﷺ) said: \"Do not sell the (slave) female singers, not purchase them, nor teach them (to sing). And there is no good in trading in them, and their prices are unlawful. It was about the likes of this that this Ayah was revealed: And among mankind is he who purchases idle talk to divert from the way of Allah.\"\n\n\n There is narration about this from 'Umar bin Al-Khattab.\n\n\n We only know of the Hadith of Abu Umamah, like this, from this route. Some of the people of knowledge have criticized 'Ali bin Yazid (one of the narrators) and graded him weak, and he is from Ash-Sham."
+      }
+    },
+    {
+      "id": 85,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ الشَّيْبَانِيُّ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، قَالَ أَخْبَرَنِي حُيَىُّ بْنُ عَبْدِ اللَّهِ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْحُبُلِيِّ، عَنْ أَبِي أَيُّوبَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَنْ فَرَّقَ بَيْنَ الْوَالِدَةِ وَوَلَدِهَا فَرَّقَ اللَّهُ بَيْنَهُ وَبَيْنَ أَحِبَّتِهِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Ayyub:",
+        "text": "\"I narrated heard the Messenger of Allah (ﷺ) saying: 'Whoever seperates a mother from her child, Allah seperates him and his most beloved on the Day of Judgement.'\"\n\n\n This Hadith is Hasan Gharib."
+      }
+    },
+    {
+      "id": 86,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ قَزَعَةَ، أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنِ الْحَجَّاجِ، عَنِ الْحَكَمِ، عَنْ مَيْمُونِ بْنِ أَبِي شَبِيبٍ، عَنْ عَلِيٍّ، قَالَ وَهَبَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم غُلاَمَيْنِ أَخَوَيْنِ فَبِعْتُ أَحَدَهُمَا فَقَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَا عَلِيُّ مَا فَعَلَ غُلاَمُكَ ‏\"‏ ‏.‏ فَأَخْبَرْتُهُ فَقَالَ ‏\"‏ رُدَّهُ رُدَّهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَقَدْ كَرِهَ بَعْضُ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمُ التَّفْرِيقَ بَيْنَ السَّبْىِ فِي الْبَيْعِ وَيُكْرَهُ أَنْ يُفَرَّقَ بَيْنَ الْوَالِدَةِ وَوَلَدِهَا وَبَيْنَ الْوَالِدِ وَالْوَلَدِ وَبَيْنَ الإِخْوَةِ وَالأَخَوَاتِ فِي الْبَيْعِ ‏.‏ وَرَخَّصَ بَعْضُ أَهْلِ الْعِلْمِ فِي التَّفْرِيقِ بَيْنَ الْمُوَلَّدَاتِ الَّذِينَ وُلِدُوا فِي أَرْضِ الإِسْلاَمِ ‏.‏ وَالْقَوْلُ الأَوَّلُ أَصَحُّ ‏.‏ وَرُوِيَ عَنْ إِبْرَاهِيمَ النَّخَعِيِّ أَنَّهُ فَرَّقَ بَيْنَ وَالِدَةٍ وَوَلَدِهَا فِي الْبَيْعِ فَقِيلَ لَهُ فِي ذَلِكَ فَقَالَ إِنِّي قَدِ اسْتَأْذَنْتُهَا بِذَلِكَ فَرَضِيَتْ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Ali :",
+        "text": "\"The Messenger of Allah (ﷺ) gave me two boys who were brothers, so I sold one of them, and the Messenger of Allah (ﷺ) said to me: 'O, 'Ali! What happened to your boy?' So I informed him, and he said: 'Return him, return him.'\"\n\n\n This Hadith is Hasan Gharib. Some of the people of knowledge among the Companions of the Prophet (ﷺ) and others, disliked separating between the captives when selling them.\n\n\nSome of the people of knowledge permitted separating the children that were born in the land of Islam, but the first view is more correct. It has been related that Ibrahim An-Nakha'i seperated a mother and her child in a sale, so he was asked about that. He said: \"I sought her permission for that and she approved.\""
+      }
+    },
+    {
+      "id": 87,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، وَأَبُو عَامِرٍ الْعَقَدِيُّ عَنِ ابْنِ أَبِي ذِئْبٍ، عَنْ مَخْلَدِ بْنِ خُفَافٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى أَنَّ الْخَرَاجَ بِالضَّمَانِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ مِنْ غَيْرِ هَذَا الْوَجْهِ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Aishah:",
+        "text": "That the Messenger of Allah (ﷺ) judged: \"The produce is for the responsible one.\"\n\n\n This Hadith is Hasan Sahih. This Hadith has been reported through routes other than this, and this acted upon according to the people of knowledge."
+      }
+    },
+    {
+      "id": 88,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا أَبُو سَلَمَةَ، يَحْيَى بْنُ خَلَفٍ أَخْبَرَنَا عُمَرُ بْنُ عَلِيٍّ الْمُقَدَّمِيُّ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَضَى أَنَّ الْخَرَاجَ بِالضَّمَانِ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ مِنْ حَدِيثِ هِشَامِ بْنِ عُرْوَةَ ‏.‏ قَالَ أَبُو عِيسَى اسْتَغْرَبَ مُحَمَّدُ بْنُ إِسْمَاعِيلَ هَذَا الْحَدِيثَ مِنْ حَدِيثِ عُمَرَ بْنِ عَلِيٍّ ‏.‏ قُلْتُ تَرَاهُ تَدْلِيسًا قَالَ لاَ ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ رَوَى مُسْلِمُ بْنُ خَالِدٍ الزَّنْجِيُّ هَذَا الْحَدِيثَ عَنْ هِشَامِ بْنِ عُرْوَةَ وَرَوَاهُ جَرِيرٌ عَنْ هِشَامٍ أَيْضًا ‏.‏ وَحَدِيثُ جَرِيرٍ يُقَالُ تَدْلِيسٌ دَلَّسَ فِيهِ جَرِيرٌ ‏.‏ لَمْ يَسْمَعْهُ مِنْ هِشَامِ بْنِ عُرْوَةَ ‏.‏ وَتَفْسِيرُ الْخَرَاجِ بِالضَّمَانِ هُوَ الرَّجُلُ يَشْتَرِي الْعَبْدَ فَيَسْتَغِلُّهُ ثُمَّ يَجِدُ بِهِ عَيْبًا فَيَرُدُّهُ عَلَى الْبَائِعِ فَالْغَلَّةُ لِلْمُشْتَرِي لأَنَّ الْعَبْدَ لَوْ هَلَكَ هَلَكَ مِنْ مَالِ الْمُشْتَرِي ‏.‏ وَنَحْوُ هَذَا مِنَ الْمَسَائِلِ يَكُونُ فِيهِ الْخَرَاجُ بِالضَّمَانِ ‏.‏ \n قَالَ أَبُو عِيسَى اسْتَغْرَبَ مُحَمَّدُ بْنُ إِسْمَعِيلَ هَذَا الْحَدِيثَ مِنْ حَدِيثِ عُمَرَ بْنِ عَلِيٍّ قُلْتُ تَرَاهُ تَدْلِيسًا قَالَ لَا",
+      "english": {
+        "narrator": "Narrated 'Aishah:",
+        "text": "\"The Prophet (ﷺ) judged that the produce is produce is for the responsible one.\"\n\n\n This Hadith is Hasan Sahih, Gharib as a Hadith of Hisham bin 'Urwah (a narrator).\n\n\n Muslim bin Khalid Az-Zanji reported this Hadith from Hisham, from 'Urwah. Jarir reported it from Hisham as well. It is said that the narration of Jarir has Tadlis in in it, that Jarir committed the Tadlis, he did not hear it from Hisham bin 'Urwah.\n\n\nAs for the meaning of \"the produce is for the responsible one,\" he is the man who purchased the slave then the slave produced for him, and he found some defect in him so he returned him to the seller. Then the produce (of his work) is the purchaser's. In cases similar to this, the produce is for the responsible one.\n\n\n Muhammad bin Isma'il called this Hadith Gharib, as a narration of 'Umar bin 'Ali (one of the narrators). I said: \"Do you think that he committed Tadlis?\" He said:\"No\"."
+      }
+    },
+    {
+      "id": 89,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، حَدَّثَنَا يَحْيَى بْنُ سُلَيْمٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ دَخَلَ حَائِطًا فَلْيَأْكُلْ وَلاَ يَتَّخِذْ خُبْنَةً ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو وَعَبَّادِ بْنِ شُرَحْبِيلَ وَرَافِعِ بْنِ عَمْرٍو وَعُمَيْرٍ مَوْلَى آبِي اللَّحْمِ وَأَبِي هُرَيْرَةَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ ابْنِ عُمَرَ حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ مِنْ هَذَا الْوَجْهِ إِلاَّ مِنْ حَدِيثِ يَحْيَى بْنِ سُلَيْمٍ ‏.‏ وَقَدْ رَخَّصَ فِيهِ بَعْضُ أَهْلِ الْعِلْمِ لاِبْنِ السَّبِيلِ فِي أَكْلِ الثِّمَارِ وَكَرِهَهُ بَعْضُهُمْ إِلاَّ بِالثَّمَنِ ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn 'Umar:",
+        "text": "That the Prophet (ﷺ) said: \"Whoever enters an orchard then let him eat, but not take any in his garment.\"\n\n\n There are narrations on this topic from 'Abdullah bin 'Amr, 'Abbad bin Shurahbil, Rafi' bin 'Amr, 'Umair the freed slave of Abi Al-Lahm, and Abu Hurairah.\n\n\n The Hadith of Ibn 'Umar is Gharib Hadith. We do not know of it from this route except from Yahya bin Sulaim. Some of the people of knowledge have permitted the wayfarer to eat from the fruits, and some of them disliked it without paying."
+      }
+    },
+    {
+      "id": 90,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا أَبُو عَمَّارٍ الْحُسَيْنُ بْنُ حُرَيْثٍ الْخُزَاعِيُّ، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ صَالِحِ بْنِ أَبِي جُبَيْرٍ، عَنْ أَبِيهِ، عَنْ رَافِعِ بْنِ عَمْرٍو، قَالَ كُنْتُ أَرْمِي نَخْلَ الأَنْصَارِ فَأَخَذُونِي فَذَهَبُوا بِي إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\"‏ يَا رَافِعُ لِمَ تَرْمِي نَخْلَهُمْ ‏\"‏ ‏.‏ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ الْجُوعُ ‏.‏ قَالَ ‏\"‏ لاَ تَرْمِ وَكُلْ مَا وَقَعَ أَشْبَعَكَ اللَّهُ وَأَرْوَاكَ ‏\"‏ ‏.‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated Rafi' bin 'Amr:",
+        "text": "\"I was throwing stones at a date-palm belonging to some of the Ansar. They took me along with them to the Prophet (ﷺ). He said: \"O Rafi'! Why were you throwing stones at their date-palm?'\" He said: \"I said: 'Out of hunger, O Messenger of Allah! He said: 'Do not throw stones at them, eat what falls. May Allah fill you and quench your thirst.'\"\n\n\nThis Hadith is Hasan Gharib Sahih."
+      }
+    },
+    {
+      "id": 91,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم سُئِلَ عَنِ الثَّمَرِ الْمُعَلَّقِ فَقَالَ ‏\n\"‏ مَنْ أَصَابَ مِنْهُ مِنْ ذِي حَاجَةٍ غَيْرَ مُتَّخِذٍ خُبْنَةً فَلاَ شَىْءَ عَلَيْهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏",
+      "english": {
+        "narrator": "Narrated 'Amr bin Shu'aib:",
+        "text": "From his father, from his grandfather, that the Prophet (ﷺ) was asked about hanging fruits (on the trees), so he said: \"Whoever is in need and picks some of it without taking any in his garment, then there is no sin upon him.\"\n\n\n This Hadith is Hasan Sahih."
+      }
+    },
+    {
+      "id": 92,
+      "chapterId": 14,
+      "bookId": 4,
+      "arabic": "حَدَّثَنَا زِيَادُ بْنُ أَيُّوبَ الْبَغْدَادِيُّ، أَخْبَرَنَا عَبَّادُ بْنُ الْعَوَّامِ، قَالَ أَخْبَرَنِي سُفْيَانُ بْنُ حُسَيْنٍ، عَنْ يُونُسَ بْنِ عُبَيْدٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُحَاقَلَةِ وَالْمُزَابَنَةِ وَالْمُخَابَرَةِ وَالثُّنْيَا إِلاَّ أَنْ تُعْلَمَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ مِنْ حَدِيثِ يُونُسَ بْنِ عُبَيْدٍ عَنْ عَطَاءٍ عَنْ جَابِرٍ ‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir:",
+        "text": "\"The Messenger of Allah (ﷺ) prohibited Al-Muhaqalah, Al-Muzabanah, Al-Mukhabarah, and making an exception (in a sale) unless it is made known.\"\n\n\n This Hadith is Hasan Sahih, Gharib from this route as narration of Yunus bin 'Ubaid, from 'Ata, from Jabir."
+      }
+    }
+  ]
+}

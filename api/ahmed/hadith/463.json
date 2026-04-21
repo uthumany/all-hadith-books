@@ -1,0 +1,16 @@
+{
+  "id": 463,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "قَالَ قَرَأْتُ عَلَى عَبْدِ الرَّحْمَنِ عَنْ مَالِكٍ، عَنْ نَافِعٍ، وَحَدَّثَنَا إِسْحَاقُ يَعْنِي ابْنَ عِيسَى، أَخْبَرَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ حُنَيْنٍ، قَالَ إِسْحَاقُ عَنْ أَبِيهِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ لُبْسِ الْقَسِّيِّ وَالْمُعَصْفَرِ وَعَنْ تَخَتُّمِ الذَّهَبِ وَعَنْ قِرَاءَةِ الْقُرْآنِ فِي الرُّكُوعِ‏.‏",
+  "english": {
+    "narrator": "",
+    "text": "It was narrated from `Ali bin Abi Talib (رضي الله عنه) that The Messenger of Allah (ﷺ) forbade garments made from a blend of linen and silk, or garments dyed with safflower, wearing gold rings and reciting Qur`an whilst bowing."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

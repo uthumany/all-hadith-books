@@ -1,0 +1,16 @@
+{
+  "id": 613,
+  "chapterId": 2,
+  "bookId": 3,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، أَخْبَرَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ أَبِي مَعْبَدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ يُعْلَمُ انْقِضَاءُ صَلاَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم بِالتَّكْبِيرِ ‏.‏",
+  "english": {
+    "narrator": "Ibn ‘Abbas said:",
+    "text": "The end of the prayer of the Messenger of Allah (ﷺ) was known by the takbir (pronounced aloud)."
+  },
+  "book": {
+    "id": 3,
+    "name": "Sunan Abi Dawud",
+    "arabic": "سنن أبي داود",
+    "slug": "abudawud"
+  }
+}

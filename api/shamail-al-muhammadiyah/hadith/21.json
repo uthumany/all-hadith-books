@@ -1,0 +1,16 @@
+{
+  "id": 21,
+  "chapterId": 40,
+  "bookId": 11,
+  "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ‏:‏ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، قَالَ‏:‏ حَدَّثَنَا أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ‏:‏ صَلَّيْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم، رَكْعَتَيْنِ قَبْلَ الظُّهْرِ، وَرَكْعَتَيْنِ بَعْدَهَا، وَرَكْعَتَيْنِ بَعْدَ الْمَغْرِبِ فِي بَيْتِهِ، وَرَكْعَتَيْنِ بَعْدَ الْعِشَاءِ فِي بَيْتِهِ‏.‏",
+  "english": {
+    "narrator": "Ibn ‘'Umar said (may Allah be well pleased with him and his father):",
+    "text": "\"I performed two cycles of ritual prayer with Allah’s Messenger (Allah bless him and give him peace) before the noon prayer, and two cycles after it, and two cycles after the sunset prayer in his house, and two cycles after the evening prayer in his house.”"
+  },
+  "book": {
+    "id": 11,
+    "name": "Shamail al-Muhammadiyah",
+    "arabic": "الشمائل المحمدية",
+    "slug": "shamail-al-muhammadiyah"
+  }
+}

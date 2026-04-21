@@ -1,0 +1,16 @@
+{
+  "id": 504,
+  "chapterId": 4,
+  "bookId": 14,
+  "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «سَوُّوا صُفُوفَكُمْ فَإِنَّ تَسْوِيَةَ الصُّفُوفِ من إِقَامَة الصَّلَاة» . إِلَّا أَنَّ عِنْدَ مُسْلِمٍ: «مِنْ تَمَامِ الصَّلَاةِ»",
+  "english": {
+    "narrator": "",
+    "text": "He reported God’s Messenger as saying, “Straighten your rows, for the straightening of the rows is part of the iqama for prayer.\" \n\n(Bukhari and Muslim, but Muslim has “part of the perfection of prayer.’’)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

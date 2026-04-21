@@ -1,0 +1,16 @@
+{
+  "id": 174,
+  "chapterId": 51,
+  "bookId": 5,
+  "arabic": "أَخْبَرَنَا الْجَارُودُ بْنُ مُعَاذٍ، - هُوَ بَاوَرْدِيٌّ - قَالَ حَدَّثَنَا أَبُو سُفْيَانَ، مُحَمَّدُ بْنُ حُمَيْدٍ عَنْ مَعْمَرٍ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، أَنَّهُ كَانَ يَكْرَهُ أَنْ يَبِيعَ الزَّبِيبَ، لِمَنْ يَتَّخِذُهُ نَبِيذًا ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Ibn Tawus, from his father, that:",
+    "text": "He disliked to sell raisins to one who would use them to make Nabidh."
+  },
+  "book": {
+    "id": 5,
+    "name": "Sunan an-Nasa'i",
+    "arabic": "سنن النسائي",
+    "slug": "nasai"
+  }
+}

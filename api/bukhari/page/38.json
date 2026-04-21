@@ -1,0 +1,510 @@
+{
+  "page": 38,
+  "perPage": 50,
+  "totalPages": 146,
+  "totalCount": 7277,
+  "nextPage": 39,
+  "prevPage": 37,
+  "items": [
+    {
+      "id": 29,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدِ اللَّهِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ ـ رضى الله عنه ـ قَالَ كُنْتُ أَتَسَحَّرُ فِي أَهْلِي، ثُمَّ تَكُونُ سُرْعَتِي أَنْ أُدْرِكَ السُّجُودَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl bin Sa`d:",
+        "text": "I used to take my Suhur meals with my family and then hurry up for presenting myself for the (Fajr) \nprayer with Allah's Messenger (ﷺ)."
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ ـ رضى الله عنه ـ قَالَ تَسَحَّرْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم ثُمَّ قَامَ إِلَى الصَّلاَةِ‏.‏ قُلْتُ كَمْ كَانَ بَيْنَ الأَذَانِ وَالسَّحُورِ قَالَ قَدْرُ خَمْسِينَ آيَةً‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "Zaid bin Thabit said, \"We took the Suhur with the Prophet (ﷺ) . Then he stood for the prayer.\" I asked, \n\"What was the interval between the Suhur and the Adhan?\" He replied, \"The interval was sufficient to \nrecite fifty verses of the Qur'an.\""
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم وَاصَلَ فَوَاصَلَ النَّاسُ فَشَقَّ عَلَيْهِمْ، فَنَهَاهُمْ‏.‏ قَالُوا إِنَّكَ تُوَاصِلُ‏.‏ قَالَ ‏\n\"‏ لَسْتُ كَهَيْئَتِكُمْ، إِنِّي أَظَلُّ أُطْعَمُ وَأُسْقَى ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Abdullah:",
+        "text": "The Prophet (ﷺ) fasted for days continuously; the people also did the same but it was difficult for them. \nSo, the Prophet (ﷺ) forbade them (to fast continuously for more than one day). They slid, \"But you fast \nwithout break (no food was taken in the evening or in the morning).\" The Prophet (ﷺ) replied, \"I am not \nlike you, for I am provided with food and drink (by Allah)."
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ تَسَحَّرُوا فَإِنَّ فِي السَّحُورِ بَرَكَةً ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "The Prophet (ﷺ) said, \"Take Suhur as there is a blessing in it.\""
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ يَزِيدَ بْنِ أَبِي عُبَيْدٍ، عَنْ سَلَمَةَ بْنِ الأَكْوَعِ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ رَجُلاً يُنَادِي فِي النَّاسِ، يَوْمَ عَاشُورَاءَ ‏\n\"‏ أَنْ مَنْ أَكَلَ فَلْيُتِمَّ أَوْ فَلْيَصُمْ، وَمَنْ لَمْ يَأْكُلْ فَلاَ يَأْكُلْ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Salama bin Al-Akwa`:",
+        "text": "Once the Prophet (ﷺ) ordered a person on 'Ashura' (the tenth of Muharram) to announce, \"Whoever has \neaten, should not eat any more, but fast, and who has not eaten should not eat, but complete his fast \n(till the end of the day)."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ سُمَىٍّ، مَوْلَى أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامِ بْنِ الْمُغِيرَةِ أَنَّهُ سَمِعَ أَبَا بَكْرِ بْنَ عَبْدِ الرَّحْمَنِ، قَالَ كُنْتُ أَنَا وَأَبِي، حِينَ دَخَلْنَا عَلَى عَائِشَةَ وَأُمِّ سَلَمَةَ ح‏.‏ حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَبُو بَكْرِ بْنُ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، أَنَّ أَبَاهُ عَبْدَ الرَّحْمَنِ، أَخْبَرَ مَرْوَانَ، أَنَّ عَائِشَةَ، وَأُمَّ سَلَمَةَ أَخْبَرَتَاهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُدْرِكُهُ الْفَجْرُ وَهُوَ جُنُبٌ مِنْ أَهْلِهِ، ثُمَّ يَغْتَسِلُ وَيَصُومُ‏.‏ وَقَالَ مَرْوَانُ لِعَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ أُقْسِمُ بِاللَّهِ لَتُقَرِّعَنَّ بِهَا أَبَا هُرَيْرَةَ‏.‏ وَمَرْوَانُ يَوْمَئِذٍ عَلَى الْمَدِينَةِ‏.‏ فَقَالَ أَبُو بَكْرٍ فَكَرِهَ ذَلِكَ عَبْدُ الرَّحْمَنِ، ثُمَّ قُدِّرَ لَنَا أَنْ نَجْتَمِعَ بِذِي الْحُلَيْفَةِ، وَكَانَتْ لأَبِي هُرَيْرَةَ هُنَالِكَ أَرْضٌ، فَقَالَ عَبْدُ الرَّحْمَنِ لأَبِي هُرَيْرَةَ إِنِّي ذَاكِرٌ لَكَ أَمْرًا، وَلَوْلاَ مَرْوَانُ أَقْسَمَ عَلَىَّ فِيهِ لَمْ أَذْكُرْهُ لَكَ‏.‏ فَذَكَرَ قَوْلَ عَائِشَةَ وَأُمِّ سَلَمَةَ‏.‏ فَقَالَ كَذَلِكَ حَدَّثَنِي الْفَضْلُ بْنُ عَبَّاسٍ، وَهُنَّ أَعْلَمُ، وَقَالَ هَمَّامٌ وَابْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ أَبِي هُرَيْرَةَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَأْمُرُ بِالْفِطْرِ‏.‏ وَالأَوَّلُ أَسْنَدُ‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha and Um Salama:",
+        "text": "At times Allah's Messenger (ﷺ) used to get up in the morning in the state of Janaba after having sexual \nrelations with his wives. He would then take a bath and fast."
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ عَنْ شُعْبَةَ، عَنِ الْحَكَمِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يُقَبِّلُ وَيُبَاشِرُ، وَهُوَ صَائِمٌ، وَكَانَ أَمْلَكَكُمْ لإِرْبِهِ‏.‏ وَقَالَ قَالَ ابْنُ عَبَّاسٍ ‏{‏مَآرِبُ‏}‏ حَاجَةٌ‏.‏ قَالَ طَاوُسٌ ‏{‏أُولِي الإِرْبَةِ‏}‏ الأَحْمَقُ لاَ حَاجَةَ لَهُ فِي النِّسَاءِ‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "The Prophet (ﷺ) used to kiss and embrace (his wives) while he was fasting, and he had more power to \ncontrol his desires than any of you. Said Jabir, \"The person who gets discharge after casting a look (on \nhis wife) should complete his fast.\""
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ أَخْبَرَنِي أَبِي، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ إِنْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم لَيُقَبِّلُ بَعْضَ أَزْوَاجِهِ وَهُوَ صَائِمٌ‏.‏ ثُمَّ ضَحِكَتْ‏.‏",
+      "english": {
+        "narrator": "Narrated Hisham's father:",
+        "text": "Aisha said, \"Allah's Messenger (ﷺ) used to kiss some of his wives while he was fasting,\" and then she \nsmiled."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامِ بْنِ أَبِي عَبْدِ اللَّهِ، حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ زَيْنَبَ ابْنَةِ أُمِّ سَلَمَةَ، عَنْ أُمِّهَا ـ رضى الله عنهما ـ قَالَتْ بَيْنَمَا أَنَا مَعَ، رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الْخَمِيلَةِ إِذْ حِضْتُ فَانْسَلَلْتُ، فَأَخَذْتُ ثِيَابَ حِيضَتِي فَقَالَ ‏\n\"‏ مَا لَكِ أَنُفِسْتِ ‏\"‏‏.‏ قُلْتُ نَعَمْ‏.‏ فَدَخَلْتُ مَعَهُ فِي الْخَمِيلَةِ، وَكَانَتْ هِيَ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَغْتَسِلاَنِ مِنْ إِنَاءٍ وَاحِدٍ، وَكَانَ يُقَبِّلُهَا وَهُوَ صَائِمٌ‏.‏",
+      "english": {
+        "narrator": "Narrated Zainab:",
+        "text": "(daughter of Um Salama) that her mother said, \"While I was (lying) with Allah's Messenger (ﷺ) underneath \na woolen sheet, I got the menstruation, and then slipped away and put on the clothes (which I used to \nwear) in menses. He asked, \"What is the matter? Did you get your menses?\" I replied in the \naffirmative and then entered underneath that woolen sheet. I and Allah's Messenger (ﷺ) used to take a bath \nfrom one water pot and he used to kiss me while he was fasting.\""
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، وَأَبِي، بَكْرٍ قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ كَانَ النَّبِيُّ صلى الله عليه وسلم يُدْرِكُهُ الْفَجْرُ ‏{‏جُنُبًا‏}‏ فِي رَمَضَانَ، مِنْ غَيْرِ حُلُمٍ فَيَغْتَسِلُ وَيَصُومُ‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "(At times) in Ramadan the Prophet (ﷺ) used to take a bath in the morning not because of a wet dream and \nwould continue his fast."
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ سُمَىٍّ، مَوْلَى أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامِ بْنِ الْمُغِيرَةِ أَنَّهُ سَمِعَ أَبَا بَكْرِ بْنَ عَبْدِ الرَّحْمَنِ، كُنْتُ أَنَا وَأَبِي،، فَذَهَبْتُ مَعَهُ، حَتَّى دَخَلْنَا عَلَى عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أَشْهَدُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم إِنْ كَانَ لَيُصْبِحُ جُنُبًا مِنْ جِمَاعٍ غَيْرِ احْتِلاَمٍ، ثُمَّ يَصُومُهُ‏.‏ \nثُمَّ دَخَلْنَا عَلَى أُمِّ سَلَمَةَ، فَقَالَتْ مِثْلَ ذَلِكَ.",
+      "english": {
+        "narrator": "Narrated Abu Bakr bin `Abdur-Rahman:",
+        "text": "My father and I went to `Aisha and she said, \"I testify that Allah's Messenger (ﷺ) at times used to get up in \nthe morning in a state of Janaba from sexual intercourse, not from a wet dream and then he would fast \nthat day.\" Then he went to Um Salama and she also narrated a similar thing."
+      }
+    },
+    {
+      "id": 40,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا ابْنُ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا نَسِيَ فَأَكَلَ وَشَرِبَ فَلْيُتِمَّ صَوْمَهُ، فَإِنَّمَا أَطْعَمَهُ اللَّهُ وَسَقَاهُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "The Prophet (ﷺ) said, \"If somebody eats or drinks forgetfully then he should complete his fast, for what he \nhas eaten or drunk, has been given to him by Allah.\""
+      }
+    },
+    {
+      "id": 41,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، قَالَ حَدَّثَنِي الزُّهْرِيُّ، عَنْ عَطَاءِ بْنِ يَزِيدَ، عَنْ حُمْرَانَ، رَأَيْتُ عُثْمَانَ ـ رضى الله عنه ـ تَوَضَّأَ، فَأَفْرَغَ عَلَى يَدَيْهِ ثَلاَثًا، ثُمَّ تَمَضْمَضَ وَاسْتَنْثَرَ، ثُمَّ غَسَلَ وَجْهَهُ ثَلاَثًا، ثُمَّ غَسَلَ يَدَهُ الْيُمْنَى إِلَى الْمَرْفِقِ ثَلاَثًا، ثُمَّ غَسَلَ يَدَهُ الْيُسْرَى إِلَى الْمَرْفِقِ ثَلاَثًا، ثُمَّ مَسَحَ بِرَأْسِهِ، ثُمَّ غَسَلَ رِجْلَهُ الْيُمْنَى ثَلاَثًا، ثُمَّ الْيُسْرَى ثَلاَثًا، ثُمَّ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم تَوَضَّأَ نَحْوَ وُضُوئِي هَذَا، ثُمَّ قَالَ ‏\n\"‏ مَنْ تَوَضَّأَ وُضُوئِي هَذَا، ثُمَّ يُصَلِّي رَكْعَتَيْنِ، لاَ يُحَدِّثُ نَفْسَهُ فِيهِمَا بِشَىْءٍ، إِلاَّ غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Humran:",
+        "text": "I saw `Uthman performing ablution; he washed his hands thrice, rinsed his mouth and then washed his \nnose, by putting water in it and then blowing it out, and washed his face thrice, and then washed his \nright forearm up to the elbow thrice, and then the left-forearm up to the elbow thrice, then smeared his \nhead with water, washed his right foot thrice, and then his left foot thrice and said, \"I saw Allah's \nApostle performing ablution similar to my present ablution, and then he said, 'Whoever performs \nablution like my present ablution and then offers two rak`at in which he does not think of worldly \nthings, all his previous sins will be forgiven.\""
+      }
+    },
+    {
+      "id": 42,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُنِيرٍ، سَمِعَ يَزِيدَ بْنَ هَارُونَ، حَدَّثَنَا يَحْيَى ـ هُوَ ابْنُ سَعِيدٍ ـ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ الْقَاسِمِ، أَخْبَرَهُ عَنْ مُحَمَّدِ بْنِ جَعْفَرِ بْنِ الزُّبَيْرِ بْنِ الْعَوَّامِ بْنِ خُوَيْلِدٍ، عَنْ عَبَّادِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، أَخْبَرَهُ أَنَّهُ، سَمِعَ عَائِشَةَ ـ رضى الله عنها ـ تَقُولُ إِنَّ رَجُلاً أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ إِنَّهُ احْتَرَقَ‏.‏ قَالَ ‏\"‏ مَالَكَ ‏\"‏‏.‏ قَالَ أَصَبْتُ أَهْلِي فِي رَمَضَانَ‏.‏ فَأُتِيَ النَّبِيُّ صلى الله عليه وسلم بِمِكْتَلٍ، يُدْعَى الْعَرَقَ فَقَالَ ‏\"‏ أَيْنَ الْمُحْتَرِقُ ‏\"‏‏.‏ قَالَ أَنَا‏.‏ قَالَ ‏\"‏ تَصَدَّقْ بِهَذَا ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "A man came to the Prophet (ﷺ) and said that he had been burnt (ruined). The Prophet (ﷺ) asked him what was \nthe matter. He replied, \"I had sexual intercourse with my wife in Ramadan (while I was fasting).\" \nThen a basket full of dates was brought to the Prophet (ﷺ) and he asked, \"Where is the burnt (ruined) \nman?\" He replied, \"I am present.\" The Prophet (ﷺ) told him to give that basket in charity (as expiation)."
+      }
+    },
+    {
+      "id": 43,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ بَيْنَمَا نَحْنُ جُلُوسٌ عِنْدَ النَّبِيِّ صلى الله عليه وسلم إِذْ جَاءَهُ رَجُلٌ، فَقَالَ يَا رَسُولَ اللَّهِ هَلَكْتُ‏.‏ قَالَ ‏\"‏ مَا لَكَ ‏\"‏‏.‏ قَالَ وَقَعْتُ عَلَى امْرَأَتِي وَأَنَا صَائِمٌ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ هَلْ تَجِدُ رَقَبَةً تُعْتِقُهَا ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ ‏\"‏ فَهَلْ تَسْتَطِيعُ أَنْ تَصُومَ شَهْرَيْنِ مُتَتَابِعَيْنِ ‏\"‏‏.‏ قَالَ لاَ‏.‏ فَقَالَ ‏\"‏ فَهَلْ تَجِدُ إِطْعَامَ سِتِّينَ مِسْكِينًا ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ فَمَكَثَ النَّبِيُّ صلى الله عليه وسلم، فَبَيْنَا نَحْنُ عَلَى ذَلِكَ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِعَرَقٍ فِيهَا تَمْرٌ ـ وَالْعَرَقُ الْمِكْتَلُ ـ قَالَ ‏\"‏ أَيْنَ السَّائِلُ ‏\"‏‏.‏ فَقَالَ أَنَا‏.‏ قَالَ ‏\"‏ خُذْهَا فَتَصَدَّقْ بِهِ ‏\"‏‏.‏ فَقَالَ الرَّجُلُ أَعَلَى أَفْقَرَ مِنِّي يَا رَسُولَ اللَّهِ فَوَاللَّهِ مَا بَيْنَ لاَبَتَيْهَا ـ يُرِيدُ الْحَرَّتَيْنِ ـ أَهْلُ بَيْتٍ أَفْقَرُ مِنْ أَهْلِ بَيْتِي، فَضَحِكَ النَّبِيُّ صلى الله عليه وسلم حَتَّى بَدَتْ أَنْيَابُهُ ثُمَّ قَالَ ‏\"‏ أَطْعِمْهُ أَهْلَكَ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "While we were sitting with the Prophet (ﷺ) a man came and said, \"O Allah's Messenger (ﷺ)! I have been ruined.\" \nAllah's Messenger (ﷺ) asked what was the matter with him. He replied \"I had sexual intercourse with my \nwife while I was fasting.\" Allah's Messenger (ﷺ) asked him, \"Can you afford to manumit a slave?\" He replied \nin the negative. Allah's Messenger (ﷺ) asked him, \"Can you fast for two successive months?\" He replied in \nthe negative. The Prophet (ﷺ) asked him, \"Can you afford to feed sixty poor persons?\" He replied in the \nnegative. The Prophet (ﷺ) kept silent and while we were in that state, a big basket full of dates was \nbrought to the Prophet (ﷺ) . He asked, \"Where is the questioner?\" He replied, \"I (am here).\" The Prophet (ﷺ) \nsaid (to him), \"Take this (basket of dates) and give it in charity.\" The man said, \"Should I give it to a \nperson poorer than I? By Allah; there is no family between its (i.e. Medina's) two mountains who are \npoorer than I.\" The Prophet (ﷺ) smiled till his premolar teeth became visible and then said, 'Feed your \nfamily with it.\""
+      }
+    },
+    {
+      "id": 44,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنِ الزُّهْرِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ إِنَّ الأَخِرَ وَقَعَ عَلَى امْرَأَتِهِ فِي رَمَضَانَ‏.‏ فَقَالَ ‏\"‏ أَتَجِدُ مَا تُحَرِّرُ رَقَبَةً ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ ‏\"‏ فَتَسْتَطِيعُ أَنْ تَصُومَ شَهْرَيْنِ مُتَتَابِعَيْنِ ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ ‏\"‏ أَفَتَجِدُ مَا تُطْعِمُ بِهِ سِتِّينَ مِسْكِينًا ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ فَأُتِيَ النَّبِيُّ صلى الله عليه وسلم بِعَرَقٍ فِيهِ تَمْرٌ ـ وَهُوَ الزَّبِيلُ ـ قَالَ ‏\"‏ أَطْعِمْ هَذَا عَنْكَ ‏\"‏‏.‏ قَالَ عَلَى أَحْوَجَ مِنَّا مَا بَيْنَ لاَبَتَيْهَا أَهْلُ بَيْتٍ أَحْوَجُ مِنَّا‏.‏ قَالَ ‏\"‏ فَأَطْعِمْهُ أَهْلَكَ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "A man came to the Prophet (ﷺ) and said, \"I had sexual intercourse with my wife on Ramadan (while \nfasting).\" The Prophet (ﷺ) asked him, \"Can you afford to manumit a slave?\" He replied in the negative. \nThe Prophet (ﷺ) asked him, \"Can you fast for two successive months?\" He replied in the negative. He \nasked him, \"Can you afford to feed sixty poor persons?\" He replied in the negative. (Abu Huraira \nadded): Then a basket full of dates was brought to the Prophet (ﷺ) and he said (to that man), \"Feed (poor \npeople) with this by way of atonement.\" He said, \"(Should I feed it) to poorer people than we? There \nis no poorer house than ours between its (Medina's) mountains.\" The Prophet (ﷺ) said, \"Then feed your \nfamily with it.\""
+      }
+    },
+    {
+      "id": 45,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم احْتَجَمَ، وَهْوَ مُحْرِمٌ وَاحْتَجَمَ وَهْوَ صَائِمٌ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas:",
+        "text": "The Prophet (ﷺ) was cupped while he was in the state of lhram, and also while he was observing a fast."
+      }
+    },
+    {
+      "id": 46,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ احْتَجَمَ النَّبِيُّ صلى الله عليه وسلم وَهُوَ صَائِمٌ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas:",
+        "text": "The Prophet (ﷺ) was cupped while he was fasting."
+      }
+    },
+    {
+      "id": 47,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ ثَابِتًا الْبُنَانِيَّ، يَسْأَلُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ أَكُنْتُمْ تَكْرَهُونَ الْحِجَامَةَ لِلصَّائِمِ قَالَ لاَ‏.‏ إِلاَّ مِنْ أَجْلِ الضَّعْفِ‏.‏ وَزَادَ شَبَابَةُ حَدَّثَنَا شُعْبَةُ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+      "english": {
+        "narrator": "Narrated Thabit Al-Bunani:",
+        "text": "Anas bin Malik was asked whether they disliked the cupping for a fasting person. He replied in the \nnegative and said, \"Only if it causes weakness.\""
+      }
+    },
+    {
+      "id": 48,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ الشَّيْبَانِيِّ، سَمِعَ ابْنَ أَبِي أَوْفَى ـ رضى الله عنه ـ قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ فَقَالَ لِرَجُلٍ ‏\"‏ انْزِلْ فَاجْدَحْ لِي ‏\"‏‏.‏ قَالَ يَا رَسُولَ اللَّهِ الشَّمْسُ‏.‏ قَالَ ‏\"‏ انْزِلْ فَاجْدَحْ لِي ‏\"‏‏.‏ قَالَ يَا رَسُولَ اللَّهِ الشَّمْسُ‏.‏ قَالَ ‏\"‏ انْزِلْ فَاجْدَحْ لِي ‏\"‏‏.‏ فَنَزَلَ، فَجَدَحَ لَهُ، فَشَرِبَ، ثُمَّ رَمَى بِيَدِهِ هَا هُنَا، ثُمَّ قَالَ ‏\"‏ إِذَا رَأَيْتُمُ اللَّيْلَ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ ‏\"‏‏.‏ تَابَعَهُ جَرِيرٌ وَأَبُو بَكْرِ بْنُ عَيَّاشٍ عَنِ الشَّيْبَانِيِّ عَنِ ابْنِ أَبِي أَوْفَى قَالَ كُنْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي سَفَرٍ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Abi `Aufa:",
+        "text": "We were in the company of Allah's Messenger (ﷺ) on a journey. He said to a man, \"Get down and mix Sawiq \n(powdered barley) with water for me.\" The man said, \"The sun (has not set yet), O Allah's Messenger (ﷺ).\" \nThe Prophet (ﷺ) again said to him, \"Get down and mix Sawiq with water for me.\" The man again said, \"O \nAllah's Messenger (ﷺ)! The sun!\" The Prophet (ﷺ) said to him (for the third time) \"Get down and mix Sawiq with \nwater for me.\" The man dismounted and mixed Sawiq with water for him. The Prophet (ﷺ) drank it and \nthen beckoned with his hand (towards the East) and said, \"When you see the night falling from this \nside, then a fasting person should break his fast.\""
+      }
+    },
+    {
+      "id": 49,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ عَائِشَةَ، أَنَّ حَمْزَةَ بْنَ عَمْرٍو الأَسْلَمِيَّ، قَالَ يَا رَسُولَ اللَّهِ إِنِّي أَسْرُدُ الصَّوْمَ‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "Hamza bin `Amr Al-Aslami said, \"O Allah's Messenger (ﷺ)! I fast continuously.\""
+      }
+    },
+    {
+      "id": 50,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ حَمْزَةَ بْنَ عَمْرٍو الأَسْلَمِيَّ قَالَ لِلنَّبِيِّ صلى الله عليه وسلم أَأَصُومُ فِي السَّفَرِ وَكَانَ كَثِيرَ الصِّيَامِ‏.‏ فَقَالَ ‏\n\"‏ إِنْ شِئْتَ فَصُمْ، وَإِنْ شِئْتَ فَأَفْطِرْ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "(the wife of the Prophet) Hamza bin `Amr Al-Aslami asked the Prophet, \"Should I fast while \ntraveling?\" The Prophet (ﷺ) replied, \"You may fast if you wish, and you may not fast if you wish.\""
+      }
+    },
+    {
+      "id": 51,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ إِلَى مَكَّةَ فِي رَمَضَانَ فَصَامَ حَتَّى بَلَغَ الْكَدِيدَ أَفْطَرَ، فَأَفْطَرَ النَّاسُ‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ وَالْكَدِيدُ مَاءٌ بَيْنَ عُسْفَانَ وَقُدَيْدٍ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas:",
+        "text": "Allah's Messenger (ﷺ) set out for Mecca in Ramadan and he fasted, and when he reached Al-Kadid, he broke \nhis fast and the people (with him) broke their fast too. (Abu `Abdullah said, \"Al-Kadid is a land \ncovered with water between Usfan and Qudaid.\")"
+      }
+    },
+    {
+      "id": 52,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ، أَنَّ إِسْمَاعِيلَ بْنَ عُبَيْدِ اللَّهِ، حَدَّثَهُ عَنْ أُمِّ الدَّرْدَاءِ، عَنْ أَبِي الدَّرْدَاءِ ـ رضى الله عنه ـ قَالَ خَرَجْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم فِي بَعْضِ أَسْفَارِهِ فِي يَوْمٍ حَارٍّ حَتَّى يَضَعَ الرَّجُلُ يَدَهُ عَلَى رَأْسِهِ مِنْ شِدَّةِ الْحَرِّ، وَمَا فِينَا صَائِمٌ إِلاَّ مَا كَانَ مِنَ النَّبِيِّ صلى الله عليه وسلم وَابْنِ رَوَاحَةَ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Ad-Darda:",
+        "text": "We set out with Allah's Messenger (ﷺ) on one of his journeys on a very hot day, and it was so hot that one \nhad to put his hand over his head because of the severity of heat. None of us was fasting except the \nProphet and Ibn Rawaha."
+      }
+    },
+    {
+      "id": 53,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ الأَنْصَارِيُّ، قَالَ سَمِعْتُ مُحَمَّدَ بْنَ عَمْرِو بْنِ الْحَسَنِ بْنِ عَلِيٍّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهم ـ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ، فَرَأَى زِحَامًا، وَرَجُلاً قَدْ ظُلِّلَ عَلَيْهِ، فَقَالَ ‏\"‏ مَا هَذَا ‏\"‏‏.‏ فَقَالُوا صَائِمٌ‏.‏ فَقَالَ ‏\"‏ لَيْسَ مِنَ الْبِرِّ الصَّوْمُ فِي السَّفَرِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Jabir bin `Abdullah:",
+        "text": "Allah's Messenger (ﷺ) was on a journey and saw a crowd of people, and a man was being shaded (by them). \nHe asked, \"What is the matter?\" They said, \"He (the man) is fasting.\" The Prophet (ﷺ) said, \"It is not \nrighteousness that you fast on a journey.\""
+      }
+    },
+    {
+      "id": 54,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ حُمَيْدٍ الطَّوِيلِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كُنَّا نُسَافِرُ مَعَ النَّبِيِّ صلى الله عليه وسلم فَلَمْ يَعِبِ الصَّائِمُ عَلَى الْمُفْطِرِ، وَلاَ الْمُفْطِرُ عَلَى الصَّائِمِ‏.‏",
+      "english": {
+        "narrator": "Narrated Anas bin Malik:",
+        "text": "We used to travel with the Prophet (ﷺ) and neither did the fasting persons criticize those who were not \nfasting, nor did those who were not fasting criticize the fasting ones."
+      }
+    },
+    {
+      "id": 55,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ مَنْصُورٍ، عَنْ مُجَاهِدٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الْمَدِينَةِ إِلَى مَكَّةَ، فَصَامَ حَتَّى بَلَغَ عُسْفَانَ، ثُمَّ دَعَا بِمَاءٍ فَرَفَعَهُ إِلَى يَدَيْهِ لِيُرِيَهُ النَّاسَ فَأَفْطَرَ، حَتَّى قَدِمَ مَكَّةَ، وَذَلِكَ فِي رَمَضَانَ فَكَانَ ابْنُ عَبَّاسٍ يَقُولُ قَدْ صَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَفْطَرَ، فَمَنْ شَاءَ صَامَ، وَمَنْ شَاءَ أَفْطَرَ‏.‏",
+      "english": {
+        "narrator": "Narrated Tawus:",
+        "text": "Ibn `Abbas said, \"Allah's Messenger (ﷺ) set out from Medina to Mecca and he fasted till he reached 'Usfan, \nwhere he asked for water and raised his hand to let the people see him, and then broke the fast, and did \nnot fast after that till he reached Mecca, and that happened in Ramadan.\" Ibn `Abbas used to say, \n\"Allah's Messenger (ﷺ) (sometimes) fasted and (sometimes) did not fast during the journeys so whoever \nwished to fast could fast, and whoever wished not to fast, could do so.\""
+      }
+    },
+    {
+      "id": 56,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَيَّاشٌ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَرَأَ فِدْيَةٌ طَعَامُ مَسَاكِينَ‏.‏ قَالَ هِيَ مَنْسُوخَةٌ‏.‏",
+      "english": {
+        "narrator": "Narrated Nafi`:",
+        "text": "Ibn `Umar recited the verse: \"They had a choice either to fast or to feed a poor person for every day, \nand said that the order of this Verse was canceled."
+      }
+    },
+    {
+      "id": 57,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا يَحْيَى، عَنْ أَبِي سَلَمَةَ، قَالَ سَمِعْتُ عَائِشَةَ ـ رضى الله عنها ـ تَقُولُ كَانَ يَكُونُ عَلَىَّ الصَّوْمُ مِنْ رَمَضَانَ، فَمَا أَسْتَطِيعُ أَنْ أَقْضِيَ إِلاَّ فِي شَعْبَانَ‏.‏ قَالَ يَحْيَى الشُّغْلُ مِنَ النَّبِيِّ أَوْ بِالنَّبِيِّ صلى الله عليه وسلم‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "Sometimes I missed some days of Ramadan, but could not fast in lieu of them except in the month of \nSha'ban.\" Said Yahya, a sub-narrator, \"She used to be busy serving the Prophet (ﷺ) .\""
+      }
+    },
+    {
+      "id": 58,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنِي زَيْدٌ، عَنْ عِيَاضٍ، عَنْ أَبِي سَعِيدٍ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ أَلَيْسَ إِذَا حَاضَتْ لَمْ تُصَلِّ، وَلَمْ تَصُمْ فَذَلِكَ نُقْصَانُ دِينِهَا ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa`id:",
+        "text": "The Prophet (ﷺ) said, \"Isn't it true that a woman does not pray and does not fast on menstruating? And \nthat is the defect (a loss) in her religion.\""
+      }
+    },
+    {
+      "id": 59,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى بْنِ أَعْيَنَ، حَدَّثَنَا أَبِي، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، أَنَّ مُحَمَّدَ بْنَ جَعْفَرٍ، حَدَّثَهُ عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ مَاتَ وَعَلَيْهِ صِيَامٌ صَامَ عَنْهُ وَلِيُّهُ ‏\"‏‏.‏ تَابَعَهُ ابْنُ وَهْبٍ عَنْ عَمْرٍو‏.‏ وَرَوَاهُ يَحْيَى بْنُ أَيُّوبَ عَنِ ابْنِ أَبِي جَعْفَرٍ‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "Allah's Messenger (ﷺ) said, \"Whoever died and he ought to have fasted (the missed days of Ramadan) then \nhis guardians must fast on his behalf.\""
+      }
+    },
+    {
+      "id": 60,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، حَدَّثَنَا زَائِدَةُ، عَنِ الأَعْمَشِ، عَنْ مُسْلِمٍ الْبَطِينِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ أُمِّي مَاتَتْ، وَعَلَيْهَا صَوْمُ شَهْرٍ، أَفَأَقْضِيهِ عَنْهَا قَالَ ‏\n\"‏ نَعَمْ ـ قَالَ ـ فَدَيْنُ اللَّهِ أَحَقُّ أَنْ يُقْضَى ‏\"‏‏.‏ قَالَ سُلَيْمَانُ فَقَالَ الْحَكَمُ وَسَلَمَةُ، وَنَحْنُ جَمِيعًا جُلُوسٌ حِينَ حَدَّثَ مُسْلِمٌ بِهَذَا الْحَدِيثِ ـ قَالاَ ـ سَمِعْنَا مُجَاهِدًا يَذْكُرُ هَذَا عَنِ ابْنِ عَبَّاسٍ‏.‏ وَيُذْكَرُ عَنْ أَبِي خَالِدٍ، حَدَّثَنَا الأَعْمَشُ، عَنِ الْحَكَمِ، وَمُسْلِمٍ الْبَطِينِ، وَسَلَمَةَ بْنِ كُهَيْلٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، وَعَطَاءٍ، وَمُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَتِ امْرَأَةٌ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ أُخْتِي مَاتَتْ‏.‏ وَقَالَ يَحْيَى وَأَبُو مُعَاوِيَةَ حَدَّثَنَا الأَعْمَشُ عَنْ مُسْلِمٍ عَنْ سَعِيدٍ عَنِ ابْنِ عَبَّاسٍ قَالَتِ امْرَأَةٌ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ أُمِّي مَاتَتْ‏.‏ وَقَالَ عُبَيْدُ اللَّهِ عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ عَنِ الْحَكَمِ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ قَالَتِ امْرَأَةٌ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ أُمِّي مَاتَتْ وَعَلَيْهَا صَوْمُ نَذْرٍ‏.‏ وَقَالَ أَبُو حَرِيزٍ حَدَّثَنَا عِكْرِمَةُ عَنِ ابْنِ عَبَّاسٍ قَالَتِ امْرَأَةٌ لِلنَّبِيِّ صلى الله عليه وسلم مَاتَتْ أُمِّي وَعَلَيْهَا صَوْمُ خَمْسَةَ عَشَرَ يَوْمًا‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas:",
+        "text": "A man came to the Prophet (ﷺ) and said, \"O Allah's Messenger (ﷺ)! My mother died and she ought to have \nfasted one month (for her missed Ramadan). Shall I fast on her behalf?\" The Prophet (ﷺ) replied in the \naffirmative and said, \"Allah's debts have more right to be paid.\" In another narration a woman is \nreported to have said, \"My sister died...\" \nNarrated Ibn `Abbas: A woman said to the Prophet (ﷺ) \"My mother died and she had vowed to fast but \nshe didn't fast.\" In another narration Ibn `Abbas is reported to have said, \"A woman said to the \nProphet, \"My mother died while she ought to have fasted for fifteen days.\""
+      }
+    },
+    {
+      "id": 61,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، قَالَ سَمِعْتُ أَبِي يَقُولُ، سَمِعْتُ عَاصِمَ بْنَ عُمَرَ بْنِ الْخَطَّابِ، عَنْ أَبِيهِ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ إِذَا أَقْبَلَ اللَّيْلُ مِنْ هَا هُنَا، وَأَدْبَرَ النَّهَارُ مِنْ هَا هُنَا، وَغَرَبَتِ الشَّمْسُ، فَقَدْ أَفْطَرَ الصَّائِمُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Umar bin Al-Khattab:",
+        "text": "Allah's Messenger (ﷺ) said, \"When night falls from this side and the day vanishes from this side and the sun \nsets, then the fasting person should break his fast.\""
+      }
+    },
+    {
+      "id": 62,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا إِسْحَاقُ الْوَاسِطِيُّ، حَدَّثَنَا خَالِدٌ، عَنِ الشَّيْبَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى ـ رضى الله عنه ـ قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ، وَهُوَ صَائِمٌ، فَلَمَّا غَرَبَتِ الشَّمْسُ قَالَ لِبَعْضِ الْقَوْمِ ‏\"‏ يَا فُلاَنُ قُمْ، فَاجْدَحْ لَنَا ‏\"‏‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ، لَوْ أَمْسَيْتَ‏.‏ قَالَ ‏\"‏ انْزِلْ، فَاجْدَحْ لَنَا ‏\"‏‏.‏ قَالَ يَا رَسُولَ اللَّهِ فَلَوْ أَمْسَيْتَ‏.‏ قَالَ ‏\"‏ انْزِلْ، فَاجْدَحْ لَنَا ‏\"‏‏.‏ قَالَ إِنَّ عَلَيْكَ نَهَارًا‏.‏ قَالَ ‏\"‏ انْزِلْ، فَاجْدَحْ لَنَا ‏\"‏‏.‏ فَنَزَلَ فَجَدَحَ لَهُمْ، فَشَرِبَ النَّبِيُّ صلى الله عليه وسلم ثُمَّ قَالَ ‏\"‏ إِذَا رَأَيْتُمُ اللَّيْلَ قَدْ أَقْبَلَ مِنْ هَا هُنَا، فَقَدْ أَفْطَرَ الصَّائِمُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Abdullah bin Abi `Aufa:",
+        "text": "We were in the company of the Prophet (ﷺ) on a journey and he was fasting, and when the sun set, he \naddressed somebody, \"O so-and-so, get up and mix Sawiq with water for us.\" He replied, \"O Allah's \nApostle! (Will you wait) till it is evening?\" The Prophet (ﷺ) said, \"Get down and mix Sawiq with water \nfor us.\" He replied, \"O Allah's Messenger (ﷺ)! (If you wait) till it is evening.\" The Prophet (ﷺ) said again, \"Get \ndown and mix Sawiq with water for us.\" He replied, \"It is still daytime.\"(1) The Prophet (ﷺ) said again, \n\"Get down and mix Sawiq with water for us.\" He got down and mixed Sawiq for them. The Prophet (ﷺ) \ndrank it and then said, \"When you see night falling from this side, the fasting person should break his \nfast.\""
+      }
+    },
+    {
+      "id": 63,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الشَّيْبَانِيُّ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ أَبِي أَوْفَى ـ رضى الله عنه ـ قَالَ سِرْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهْوَ صَائِمٌ، فَلَمَّا غَرَبَتِ الشَّمْسُ قَالَ ‏\"‏ انْزِلْ، فَاجْدَحْ لَنَا ‏\"‏‏.‏ قَالَ يَا رَسُولَ اللَّهِ، لَوْ أَمْسَيْتَ‏.‏ قَالَ ‏\"‏ انْزِلْ، فَاجْدَحْ لَنَا ‏\"‏‏.‏ قَالَ يَا رَسُولَ اللَّهِ، إِنَّ عَلَيْكَ نَهَارًا‏.‏ قَالَ ‏\"‏ انْزِلْ، فَاجْدَحْ لَنَا ‏\"‏‏.‏ فَنَزَلَ، فَجَدَحَ، ثُمَّ قَالَ ‏\"‏ إِذَا رَأَيْتُمُ اللَّيْلَ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ ‏\"‏‏.‏ وَأَشَارَ بِإِصْبَعِهِ قِبَلَ الْمَشْرِقِ‏.‏",
+      "english": {
+        "narrator": "Narrated `Abdullah bin Abi `Aufa:",
+        "text": "We were traveling with Allah's Messenger (ﷺ) and he was fasting, and when the sun set, he said to \n(someone), \"Get down and mix Sawiq with water for us.\" He replied, \"O Allah's Messenger (ﷺ)! (Will you \nwait) till it is evening?\" The Prophet (ﷺ) again said, \"Get down and mix Sawiq with water for us.\" He \nreplied, \"O Allah's Messenger (ﷺ)! It is still daytime.\" The Prophet (ﷺ) said again, \"Get down and mix Sawiq \nwith water for us.\" So, he got down and carried out that order. The Prophet (ﷺ) then said, \"When you see \nnight falling from this side, the fasting person should break his fast,\" and he beckoned with his finger \ntowards the east."
+      }
+    },
+    {
+      "id": 64,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Sahl bin Sa`d:",
+        "text": "Allah's Messenger (ﷺ) said, \"The people will remain on the right path as long as they hasten the breaking of \nthe fast.\""
+      }
+    },
+    {
+      "id": 65,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا أَبُو بَكْرٍ، عَنْ سُلَيْمَانَ، عَنِ ابْنِ أَبِي أَوْفَى ـ رضى الله عنه ـ قَالَ كُنْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي سَفَرٍ، فَصَامَ حَتَّى أَمْسَى، قَالَ لِرَجُلٍ ‏\"‏ انْزِلْ، فَاجْدَحْ لِي ‏\"‏‏.‏ قَالَ لَوِ انْتَظَرْتَ حَتَّى تُمْسِيَ‏.‏ قَالَ ‏\"‏ انْزِلْ، فَاجْدَحْ لِي، إِذَا رَأَيْتَ اللَّيْلَ قَدْ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn Abi `Aufa:",
+        "text": "I was with the Prophet (ﷺ) on a journey, and he observed the fast till evening. The Prophet (ﷺ) said to a man, \n\"Get down and mix Sawiq with water for me.\" He replied, \"Will you wait till it is evening?\" The \nProphet said, \"Get down and mix Sawiq with water for me; when you see night falling from this side, \nthe fasting person should break his fast.\""
+      }
+    },
+    {
+      "id": 66,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ فَاطِمَةَ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ قَالَتْ أَفْطَرْنَا عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم يَوْمَ غَيْمٍ، ثُمَّ طَلَعَتِ الشَّمْسُ‏.‏ قِيلَ لِهِشَامٍ فَأُمِرُوا بِالْقَضَاءِ قَالَ بُدٌّ مِنْ قَضَاءٍ‏.‏ وَقَالَ مَعْمَرٌ سَمِعْتُ هِشَامًا لاَ أَدْرِي أَقْضَوْا أَمْ لاَ‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Usama from Hisham bin 'Urwa from Fatima:",
+        "text": "Asma bint Abi Bakr said, \"We broke our fast during the lifetime of the Prophet (ﷺ) on a cloudy day and \nthen the sun appeared.\" Hisham was asked, \"Were they ordered to fast in lieu of that day?\" He replied, \n\"It had to be made up for.\" Ma`mar said, \"I heard Hisham saying, \"I don't know whether they fasted in \nlieu of that day or not.\""
+      }
+    },
+    {
+      "id": 67,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا خَالِدُ بْنُ ذَكْوَانَ، عَنِ الرُّبَيِّعِ بِنْتِ مُعَوِّذٍ، قَالَتْ أَرْسَلَ النَّبِيُّ صلى الله عليه وسلم غَدَاةَ عَاشُورَاءَ إِلَى قُرَى الأَنْصَارِ ‏\n\"‏ مَنْ أَصْبَحَ مُفْطِرًا فَلْيُتِمَّ بَقِيَّةَ يَوْمِهِ، وَمَنْ أَصْبَحَ صَائِمًا فَلْيَصُمْ ‏\"‏‏.‏ قَالَتْ فَكُنَّا نَصُومُهُ بَعْدُ، وَنُصَوِّمُ صِبْيَانَنَا، وَنَجْعَلُ لَهُمُ اللُّعْبَةَ مِنَ الْعِهْنِ، فَإِذَا بَكَى أَحَدُهُمْ عَلَى الطَّعَامِ أَعْطَيْنَاهُ ذَاكَ، حَتَّى يَكُونَ عِنْدَ الإِفْطَارِ‏.‏",
+      "english": {
+        "narrator": "Narrated Ar-Rubi' bint Mu'awadh:",
+        "text": "\"The Prophet (ﷺ) sent a messenger to the village of the Ansar in the morning of the day of 'Ashura' (10th \nof Muharram) to announce: 'Whoever has eaten something should not eat but complete the fast, and \nwhoever is observing the fast should complete it.' \"She further said, \"Since then we used to fast on that \nday regularly and also make our boys fast. We used to make toys of wool for the boys and if anyone \nof them cried for, he was given those toys till it was the time of the breaking of the fast.\""
+      }
+    },
+    {
+      "id": 68,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنِي يَحْيَى، عَنْ شُعْبَةَ، قَالَ حَدَّثَنِي قَتَادَةُ، عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ تُوَاصِلُوا ‏\"‏‏.‏ قَالُوا إِنَّكَ تُوَاصِلُ‏.‏ قَالَ ‏\"‏ لَسْتُ كَأَحَدٍ مِنْكُمْ، إِنِّي أُطْعَمُ وَأُسْقَى، أَوْ إِنِّي أَبِيتُ أُطْعَمُ وَأُسْقَى ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Anas:",
+        "text": "The Prophet (ﷺ) said, \"Do not practice Al-Wisal (fasting continuously without breaking one's fast in the \nevening or eating before the following dawn).\" The people said to the Prophet, \"But you practice Al- \nWisal?\" The Prophet (ﷺ) replied, \"I am not like any of you, for I am given food and drink (by Allah) \nduring the night.\""
+      }
+    },
+    {
+      "id": 69,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْوِصَالِ‏.‏ قَالُوا إِنَّكَ تُوَاصِلُ‏.‏ قَالَ ‏\n\"‏ إِنِّي لَسْتُ مِثْلَكُمْ، إِنِّي أُطْعَمُ وَأُسْقَى ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated `Abdullah bin `Umar:",
+        "text": "Allah's Messenger (ﷺ) forbade Al-Wisal. The people said (to him), \"But you practice it?\" He said, \"I am not \nlike you, for I am given food and drink by Allah.\""
+      }
+    },
+    {
+      "id": 70,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا اللَّيْثُ، حَدَّثَنِي ابْنُ الْهَادِ، عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ، عَنْ أَبِي سَعِيدٍ ـ رضى الله عنه ـ أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\"‏ لاَ تُوَاصِلُوا، فَأَيُّكُمْ إِذَا أَرَادَ أَنْ يُوَاصِلَ فَلْيُوَاصِلْ حَتَّى السَّحَرِ ‏\"‏‏.‏ قَالُوا فَإِنَّكَ تُوَاصِلُ يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ إِنِّي لَسْتُ كَهَيْئَتِكُمْ، إِنِّي أَبِيتُ لِي مُطْعِمٌ يُطْعِمُنِي وَسَاقٍ يَسْقِينِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "'Narrated Abu Sa`id:",
+        "text": "That he had heard the Prophet (ﷺ) saying, \"Do not fast continuously (practice Al-Wisal), and if you intend \nto lengthen your fast, then carry it on only till the Suhur (before the following dawn).\" The people said \nto him, \"But you practice (Al-Wisal), O Allah's Messenger (ﷺ)!\" He replied, \"I am not similar to you, for \nduring my sleep I have One Who makes me eat and drink.\""
+      }
+    },
+    {
+      "id": 71,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدٌ، قَالاَ أَخْبَرَنَا عَبْدَةُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْوِصَالِ، رَحْمَةً لَهُمْ فَقَالُوا إِنَّكَ تُوَاصِلُ‏.‏ قَالَ ‏\n\"‏ إِنِّي لَسْتُ كَهَيْئَتِكُمْ، إِنِّي يُطْعِمُنِي رَبِّي وَيَسْقِينِ ‏\"‏‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ لَمْ يَذْكُرْ عُثْمَانُ رَحْمَةً لَهُمْ‏.‏",
+      "english": {
+        "narrator": "Narrated Aisha:",
+        "text": "Allah's Messenger (ﷺ) forbade Al-Wisal out of mercy to them. They said to him, \"But you practice Al- \nWisal?\" He said, \"I am not similar to you, for my Lord gives me food and drink. \""
+      }
+    },
+    {
+      "id": 72,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْوِصَالِ فِي الصَّوْمِ فَقَالَ لَهُ رَجُلٌ مِنَ الْمُسْلِمِينَ إِنَّكَ تُوَاصِلُ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ وَأَيُّكُمْ مِثْلِي إِنِّي أَبِيتُ يُطْعِمُنِي رَبِّي وَيَسْقِينِ ‏\"‏‏.‏ فَلَمَّا أَبَوْا أَنْ يَنْتَهُوا عَنِ الْوِصَالِ وَاصَلَ بِهِمْ يَوْمًا ثُمَّ يَوْمًا، ثُمَّ رَأَوُا الْهِلاَلَ، فَقَالَ ‏\"‏ لَوْ تَأَخَّرَ لَزِدْتُكُمْ ‏\"‏‏.‏ كَالتَّنْكِيلِ لَهُمْ، حِينَ أَبَوْا أَنْ يَنْتَهُوا‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "Allah's Messenger (ﷺ) forbade Al-Wisal in fasting. So, one of the Muslims said to him, \"But you practice Al- \nWisal. O Allah's Messenger (ﷺ)!\" The Prophet (ﷺ) replied, \"Who amongst you is similar to me? I am given food \nand drink during my sleep by my Lord.\" So, when the people refused to stop Al-Wisal (fasting \ncontinuously), the Prophet (ﷺ) fasted day and night continuously along with them for a day and then \nanother day and then they saw the crescent moon (of the month of Shawwal). The Prophet (ﷺ) said to \nthem (angrily), \"If It (the crescent) had not appeared, I would have made you fast for a longer period.\" \nThat was as a punishment for them when they refused to stop (practicing Al-Wisal)."
+      }
+    },
+    {
+      "id": 73,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِيَّاكُمْ وَالْوِصَالَ ‏\"‏‏.‏ مَرَّتَيْنِ قِيلَ إِنَّكَ تُوَاصِلُ‏.‏ قَالَ ‏\"‏ إِنِّي أَبِيتُ يُطْعِمُنِي رَبِّي وَيَسْقِينِ، فَاكْلَفُوا مِنَ الْعَمَلِ مَا تُطِيقُونَ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Huraira:",
+        "text": "The Prophet (ﷺ) said twice, \"(O you people) Be cautious! Do not practice Al-Wisal.\" The people said to \nhim, \"But you practice Al-Wisal?\" The Prophet (ﷺ) replied, \"My Lord gives me food and drink during my \nsleep. Do that much of deeds which is within your ability.\""
+      }
+    },
+    {
+      "id": 74,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ حَمْزَةَ، حَدَّثَنِي ابْنُ أَبِي حَازِمٍ، عَنْ يَزِيدَ، عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه ـ أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ لاَ تُوَاصِلُوا، فَأَيُّكُمْ أَرَادَ أَنْ يُوَاصِلَ فَلْيُوَاصِلْ حَتَّى السَّحَرِ ‏\"‏‏.‏ قَالُوا فَإِنَّكَ تُوَاصِلُ، يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ لَسْتُ كَهَيْئَتِكُمْ، إِنِّي أَبِيتُ لِي مُطْعِمٌ يُطْعِمُنِي وَسَاقٍ يَسْقِينِ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Sa`id Al-Khudri:",
+        "text": "Allah's Messenger (ﷺ) said, \"Do not fast continuously day and night (practice Al-Wisal) and if anyone of you \nintends to fast continuously day and night, he should continue till the Suhur time.\" They said, \"But \nyou practice Al-Wisal, O Allah's Messenger (ﷺ)!\" The Prophet (ﷺ) said, \"I am not similar to you;. during my \nsleep I have One Who makes me eat and drink.\""
+      }
+    },
+    {
+      "id": 75,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ، حَدَّثَنَا أَبُو الْعُمَيْسِ، عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ، عَنْ أَبِيهِ، قَالَ آخَى النَّبِيُّ صلى الله عليه وسلم بَيْنَ سَلْمَانَ، وَأَبِي الدَّرْدَاءِ، فَزَارَ سَلْمَانُ أَبَا الدَّرْدَاءِ، فَرَأَى أُمَّ الدَّرْدَاءِ مُتَبَذِّلَةً‏.‏ فَقَالَ لَهَا مَا شَأْنُكِ قَالَتْ أَخُوكَ أَبُو الدَّرْدَاءِ لَيْسَ لَهُ حَاجَةٌ فِي الدُّنْيَا‏.‏ فَجَاءَ أَبُو الدَّرْدَاءِ، فَصَنَعَ لَهُ طَعَامًا‏.‏ فَقَالَ كُلْ‏.‏ قَالَ فَإِنِّي صَائِمٌ‏.‏ قَالَ مَا أَنَا بِآكِلٍ حَتَّى تَأْكُلَ‏.‏ قَالَ فَأَكَلَ‏.‏ فَلَمَّا كَانَ اللَّيْلُ ذَهَبَ أَبُو الدَّرْدَاءِ يَقُومُ‏.‏ قَالَ نَمْ‏.‏ فَنَامَ، ثُمَّ ذَهَبَ يَقُومُ‏.‏ فَقَالَ نَمْ‏.‏ فَلَمَّا كَانَ مِنْ آخِرِ اللَّيْلِ قَالَ سَلْمَانُ قُمِ الآنَ‏.‏ فَصَلَّيَا، فَقَالَ لَهُ سَلْمَانُ إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا، وَلِنَفْسِكَ عَلَيْكَ حَقًّا، وَلأَهْلِكَ عَلَيْكَ حَقًّا، فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ‏.‏ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَذَكَرَ ذَلِكَ لَهُ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\n\"‏ صَدَقَ سَلْمَانُ ‏\"‏‏.‏",
+      "english": {
+        "narrator": "Narrated Abu Juhaifa:",
+        "text": "The Prophet (ﷺ) made a bond of brotherhood between Salman and Abu Ad-Darda.' Salman paid a visit to \nAbu Ad-Darda' and found Um Ad-Darda' dressed in shabby clothes and asked her why she was in that \nstate. She replied, \"Your brother Abu Ad-Darda' is not interested in (the luxuries of) this world.\" In \nthe meantime Abu Ad-Darda' came and prepared a meal for Salman. Salman requested Abu Ad- \nDarda' to eat (with him), but Abu Ad-Darda' said, \"I am fasting.\" Salman said, \"I am not going to eat \nunless you eat.\" So, Abu Ad-Darda' ate (with Salman). When it was night and (a part of the night \npassed), Abu Ad-Darda' got up (to offer the night prayer), but Salman told him to sleep and Abu Ad- \nDarda' slept. After sometime Abu Ad-Darda' again got up but Salman told him to sleep. When it was \nthe last hours of the night, Salman told him to get up then, and both of them offered the prayer. \nSalman told Abu Ad-Darda', \"Your Lord has a right on you, your soul has a right on you, and your \nfamily has a right on you; so you should give the rights of all those who has a right on you.\" Abu Ad- \nDarda' came to the Prophet (ﷺ) and narrated the whole story. The Prophet (ﷺ) said, \"Salman has spoken the \ntruth.\""
+      }
+    },
+    {
+      "id": 76,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي النَّضْرِ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصُومُ حَتَّى نَقُولَ لاَ يُفْطِرُ، وَيُفْطِرُ حَتَّى نَقُولَ لاَ يَصُومُ‏.‏ فَمَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم اسْتَكْمَلَ صِيَامَ شَهْرٍ إِلاَّ رَمَضَانَ، وَمَا رَأَيْتُهُ أَكْثَرَ صِيَامًا مِنْهُ فِي شَعْبَانَ‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "Allah's Messenger (ﷺ) used to fast till one would say that he would never stop fasting, and he would abandon \nfasting till one would say that he would never fast. I never saw Allah's Messenger (ﷺ) fasting for a whole \nmonth except the month of Ramadan, and did not see him fasting in any month more than in the \nmonth of Sha'ban."
+      }
+    },
+    {
+      "id": 77,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ حَدَّثَتْهُ قَالَتْ، لَمْ يَكُنِ النَّبِيُّ صلى الله عليه وسلم يَصُومُ شَهْرًا أَكْثَرَ مِنْ شَعْبَانَ، فَإِنَّهُ كَانَ يَصُومُ شَعْبَانَ كُلَّهُ، وَكَانَ يَقُولُ ‏\n\"‏ خُذُوا مِنَ الْعَمَلِ مَا تُطِيقُونَ، فَإِنَّ اللَّهَ لاَ يَمَلُّ حَتَّى تَمَلُّوا، وَأَحَبُّ الصَّلاَةِ إِلَى النَّبِيِّ صلى الله عليه وسلم مَا دُووِمَ عَلَيْهِ، وَإِنْ قَلَّتْ ‏\"‏ وَكَانَ إِذَا صَلَّى صَلاَةً دَاوَمَ عَلَيْهَا‏.‏",
+      "english": {
+        "narrator": "Narrated `Aisha:",
+        "text": "The Prophet (ﷺ) never fasted in any month more than in the month of Sha'ban. He used to say, \"Do those \ndeeds which you can do easily, as Allah will not get tired (of giving rewards) till you get bored and \ntired (of performing religious deeds).\" The most beloved prayer to the Prophet (ﷺ) was the one that was \ndone regularly (throughout the life) even if it were little. And whenever the Prophet (ﷺ) offered a prayer \nhe used to offer it regularly ."
+      }
+    },
+    {
+      "id": 78,
+      "chapterId": 30,
+      "bookId": 1,
+      "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ مَا صَامَ النَّبِيُّ صلى الله عليه وسلم شَهْرًا كَامِلاً قَطُّ غَيْرَ رَمَضَانَ، وَيَصُومُ حَتَّى يَقُولَ الْقَائِلُ لاَ وَاللَّهِ لاَ يُفْطِرُ، وَيُفْطِرُ حَتَّى يَقُولَ الْقَائِلُ لاَ وَاللَّهِ لاَ يَصُومُ‏.‏",
+      "english": {
+        "narrator": "Narrated Ibn `Abbas:",
+        "text": "The Prophet (ﷺ) never fasted a full month except the month of Ramadan, and he used to fast till one could \nsay, \"By Allah, he will never stop fasting,\" and he would abandon fasting till one would say, \"By \nAllah, he will never fast.\""
+      }
+    }
+  ]
+}

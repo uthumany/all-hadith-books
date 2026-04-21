@@ -1,0 +1,510 @@
+{
+  "page": 7,
+  "perPage": 50,
+  "totalPages": 40,
+  "totalCount": 1985,
+  "nextPage": 8,
+  "prevPage": 6,
+  "items": [
+    {
+      "id": 13,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يَقُولُ مَنْ صَلَّى الْمَغْرِبَ أَوِ الصُّبْحَ ثُمَّ أَدْرَكَهُمَا مَعَ الإِمَامِ فَلاَ يَعُدْ لَهُمَا ‏.‏ قَالَ مَالِكٌ وَلاَ أَرَى بَأْسًا أَنْ يُصَلِّيَ مَعَ الإِمَامِ مَنْ كَانَ قَدْ صَلَّى فِي بَيْتِهِ إِلاَّ صَلاَةَ الْمَغْرِبِ فَإِنَّهُ إِذَا أَعَادَهَا كَانَتْ شَفْعًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nused to say, \"Someone who prays maghrib or subh and then catches them\nwith the imam should not repeat them.\"\n\n\nMalik said, \"I do not\nsee any harm in someone who has already prayed in his house praying\nwith the imam, except for maghrib, because if he repeats it, he makes\nit even.\""
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا صَلَّى أَحَدُكُمْ بِالنَّاسِ فَلْيُخَفِّفْ فَإِنَّ فِيهِمُ الضَّعِيفَ وَالسَّقِيمَ وَالْكَبِيرَ وَإِذَا صَلَّى أَحَدُكُمْ لِنَفْسِهِ فَلْيُطَوِّلْ مَا شَاءَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abu'z Zinad from al-Araj from\nAbu Hurayra that the Messenger of Allah, may Allah bless him and grant\nhim peace, said, \"When you lead people in the prayer, make it short,\nbecause there are among them some people who are weak, ill and old.\nBut when you pray on your own, make it as long as you wish.\""
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّهُ قَالَ قُمْتُ وَرَاءَ عَبْدِ اللَّهِ بْنِ عُمَرَ فِي صَلاَةٍ مِنَ الصَّلَوَاتِ وَلَيْسَ مَعَهُ أَحَدٌ غَيْرِي فَخَالَفَ عَبْدُ اللَّهِ بِيَدِهِ فَجَعَلَنِي حِذَاءَهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that Nafi said, \"I stood behind\nAbdullah ibn Umar in one of the prayers when there was no one else\nwith him, and he reached behind with his hand and placed me beside\nhim.\""
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّ رَجُلاً، كَانَ يَؤُمُّ النَّاسَ بِالْعَقِيقِ فَأَرْسَلَ إِلَيْهِ عُمَرُ بْنُ عَبْدِ الْعَزِيزِ فَنَهَاهُ ‏.‏ قَالَ مَالِكٌ وَإِنَّمَا نَهَاهُ لأَنَّهُ كَانَ لاَ يُعْرَفُ أَبُوهُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Yahya ibn Said that a man\nused to lead the people in prayer in al-Aqiq (a place near Madina),\nand Umar ibn Abd al-Aziz sent a message to him forbidding him to do\nso.\n\n\nMalik said, \"He only forbade him because his father was\nnot known.\""
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَكِبَ فَرَسًا فَصُرِعَ فَجُحِشَ شِقُّهُ الأَيْمَنُ فَصَلَّى صَلاَةً مِنَ الصَّلَوَاتِ وَهُوَ قَاعِدٌ وَصَلَّيْنَا وَرَاءَهُ قُعُودًا فَلَمَّا انْصَرَفَ قَالَ ‏\n\"‏ إِنَّمَا جُعِلَ الإِمَامُ لِيُؤْتَمَّ بِهِ فَإِذَا صَلَّى قَائِمًا فَصَلُّوا قِيَامًا وَإِذَا رَكَعَ فَارْكَعُوا وَإِذَا رَفَعَ فَارْفَعُوا وَإِذَا قَالَ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ فَقُولُوا رَبَّنَا وَلَكَ الْحَمْدُ وَإِذَا صَلَّى جَالِسًا فَصَلُّوا جُلُوسًا أَجْمَعُونَ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Anas ibn\nMalik that the Messenger of Allah, may Allah bless him and grant him\npeace, fell off his horse when riding, and his right side was scraped,\nso he did one of the prayers sitting, and we prayed behind him\nsitting. When he left, he said, \"The imam is appointed to be followed.\nIf he prays standing, then pray standing, and when he goes into ruku,\ngo into ruku, and when he rises, rise, and when he says, 'Allah hears\nwhoever praises him,' say, 'Our Lord, praise belongs to You,' and if\nhe prays sitting, then all of you pray sitting.\""
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا قَالَتْ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم وَهُوَ شَاكٍ فَصَلَّى جَالِسًا وَصَلَّى وَرَاءَهُ قَوْمٌ قِيَامًا فَأَشَارَ إِلَيْهِمْ أَنِ اجْلِسُوا فَلَمَّا انْصَرَفَ قَالَ ‏\n\"‏ إِنَّمَا جُعِلَ الإِمَامُ لِيُؤْتَمَّ بِهِ فَإِذَا رَكَعَ فَارْكَعُوا وَإِذَا رَفَعَ فَارْفَعُوا وَإِذَا صَلَّى جَالِسًا فَصَلُّوا جُلُوسًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Hisham ibn Urwa from his\nfather that A'isha, the wife of the Prophet, may Allah bless him and\ngrant him peace, said, \"The Messenger of Allah, may Allah bless him\nand grant him peace, prayed while he was ill. He prayed sitting, and\nsome people prayed behind him standing, and he indicated to them to\nsit down. When he left, he said, 'The imam is only appointed to be\nfollowed. When he goes into ruku, go into ruku and when he rises, rise\nand if he prays sitting, pray sitting .' \""
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ فِي مَرَضِهِ فَأَتَى فَوَجَدَ أَبَا بَكْرٍ وَهُوَ قَائِمٌ يُصَلِّي بِالنَّاسِ فَاسْتَأْخَرَ أَبُو بَكْرٍ فَأَشَارَ إِلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ كَمَا أَنْتَ فَجَلَسَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى جَنْبِ أَبِي بَكْرٍ فَكَانَ أَبُو بَكْرٍ يُصَلِّي بِصَلاَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ جَالِسٌ وَكَانَ النَّاسُ يُصَلُّونَ بِصَلاَةِ أَبِي بَكْرٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Hisham ibn Urwa from his\nfather that the Messenger of Allah, may Allah bless him and grant him\npeace, came out during his illness, and approached and found Abu Bakr\nstanding, leading the people in prayer. Abu Bakr began to go back, but\nthe Messenger of Allah, may Allah bless him and grant him peace,\nindicated to him to stay where he was. The Messenger of Allah, may\nAllah bless him and grant him peace, sat by the side of Abu Bakr, and\nAbu Bakr prayed following the prayer of the Messenger of Allah, may\nAllah bless him and grant him peace, who was sitting, and the people\nprayed following the prayer of Abu Bakr."
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ إِسْمَاعِيلَ بْنِ مُحَمَّدِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ مَوْلًى، لِعَمْرِو بْنِ الْعَاصِ - أَوْ لِعَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ - عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ صَلاَةُ أَحَدِكُمْ وَهُوَ قَاعِدٌ مِثْلُ نِصْفِ صَلاَتِهِ وَهُوَ قَائِمٌ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ismail ibn Muhammad ibn Said\nibn Abi Waqqas from a mawla of Amr ibn al-As or of Abdullah ibn Amr\nibn al-As that the Messenger of Allah, may Allah bless him and grant\nhim peace, said, \"The prayer of one of you sitting down is only equal\nto half the prayer of one of you when he is standing.\""
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، أَنَّهُ قَالَ لَمَّا قَدِمْنَا الْمَدِينَةَ نَالَنَا وَبَاءٌ مِنْ وَعْكِهَا شَدِيدٌ فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى النَّاسِ وَهُمْ يُصَلُّونَ فِي سُبْحَتِهِمْ قُعُودًا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ صَلاَةُ الْقَاعِدِ مِثْلُ نِصْفِ صَلاَةِ الْقَائِمِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab that Abdullah ibn\nAmr ibn al As said, \"When we arrived at Madina we were struck down by\na severe epidemic which debilitated us greatly. The Messenger of\nAllah, may Allah bless him and grant him peace, came out to the people\nwhile they were praying nawafil prayers sitting down. The Messenger of\nAllah, may Allah bless him and grant him peace, said, 'The prayer of\nthe one sitting is equal to only half the prayer of the one standing.'\n\""
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنِ السَّائِبِ بْنِ يَزِيدَ، عَنِ الْمُطَّلِبِ بْنِ أَبِي وَدَاعَةَ السَّهْمِيِّ، عَنْ حَفْصَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا قَالَتْ مَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى فِي سُبْحَتِهِ قَاعِدًا قَطُّ حَتَّى كَانَ قَبْلَ وَفَاتِهِ بِعَامٍ فَكَانَ يُصَلِّي فِي سُبْحَتِهِ قَاعِدًا وَيَقْرَأُ بِالسُّورَةِ فَيُرَتِّلُهَا حَتَّى تَكُونَ أَطْوَلَ مِنْ أَطْوَلَ مِنْهَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from as-Sa'ib ibn\nYazid from al Muttalib ibn Abi Wadaa as-Sahmi that Hafsa, the wife of\nthe Prophet, may Allah bless him and grant him peace, said, \"I never\nsaw the Messenger of Allah, may Allah bless him and grant him peace,\npraying nawafil sitting, until a year before his death, when he began\nto pray them sitting. He would recite the sura with a measured\nslowness so that it would seem to be longer than other suras which\nwere actually longer than it.\""
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا أَخْبَرَتْهُ أَنَّهَا لَمْ تَرَ رَسُولَ اللَّهِ صلى الله عليه وسلم يُصَلِّي صَلاَةَ اللَّيْلِ قَاعِدًا قَطُّ حَتَّى أَسَنَّ فَكَانَ يَقْرَأُ قَاعِدًا حَتَّى إِذَا أَرَادَ أَنْ يَرْكَعَ قَامَ فَقَرَأَ نَحْوًا مِنْ ثَلاَثِينَ أَوْ أَرْبَعِينَ آيَةً ثُمَّ رَكَعَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Hisham ibn Urwa from his\nfather that A'isha, the wife of the Prophet, may Allah bless him and\ngrant him peace, told him that she had never seen the Messenger of\nAllah, may Allah bless him and grant him peace, doing night prayers\nsitting down until he was getting on in years. He would recite sitting\ndown until when he wanted to go into ruku, he would stand up and\nrecite about thirty or forty ayats and then go into ruku."
+      }
+    },
+    {
+      "id": 24,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ الْمَدَنِيِّ، وَعَنْ أَبِي النَّضْرِ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُصَلِّي جَالِسًا فَيَقْرَأُ وَهُوَ جَالِسٌ فَإِذَا بَقِيَ مِنْ قِرَاءَتِهِ قَدْرُ مَا يَكُونُ ثَلاَثِينَ أَوْ أَرْبَعِينَ آيَةً قَامَ فَقَرَأَ وَهُوَ قَائِمٌ ثُمَّ رَكَعَ وَسَجَدَ ثُمَّ صَنَعَ فِي الرَّكْعَةِ الثَّانِيَةِ مِثْلَ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abdullah ibn Yazid al-Madani\nand from Abu'n Nadr from Abu Salama ibn Abd ar-Rahman from A'isha, the\nwife of the Prophet, may Allah bless him and grant him peace, that the\nMessenger of Allah, may Allah bless him and grant him peace, used to\npray sitting. He would recite sitting, and then, when about thirty or\nforty ayats of what he was reciting remained, he would stand up and\nrecite standing and then go into ruku and sajda. He would do the same\nin the second raka."
+      }
+    },
+    {
+      "id": 25,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عُرْوَةَ بْنَ الزُّبَيْرِ، وَسَعِيدَ بْنَ الْمُسَيَّبِ، كَانَا يُصَلِّيَانِ النَّافِلَةَ وَهُمَا مُحْتَبِيَانِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that Urwa ibn\naz-Zubayr and Said ibn al-Musayyab used to pray voluntary prayers\nsitting."
+      }
+    },
+    {
+      "id": 26,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنِ الْقَعْقَاعِ بْنِ حَكِيمٍ، عَنْ أَبِي يُونُسَ، مَوْلَى عَائِشَةَ أُمِّ الْمُؤْمِنِينَ أَنَّهُ قَالَ أَمَرَتْنِي عَائِشَةُ أَنْ أَكْتُبَ لَهَا مُصْحَفًا ثُمَّ قَالَتْ إِذَا بَلَغْتَ هَذِهِ الآيَةَ فَآذِنِّي ‏{‏حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلاَةِ الْوُسْطَى وَقُومُوا لِلَّهِ قَانِتِينَ‏}‏ فَلَمَّا بَلَغْتُهَا آذَنْتُهَا فَأَمْلَتْ عَلَىَّ حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلاَةِ الْوُسْطَى وَصَلاَةِ الْعَصْرِ وَقُومُوا لِلَّهِ قَانِتِينَ قَالَتْ عَائِشَةُ سَمِعْتُهَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Zayd ibn Aslam from al-Qaqa\nibn Hakim that Abu Yunus, the mawla of A'isha, umm al-muminin said,\n''A'isha ordered  me to write out a Qur'an for her. She said, 'When\nyou reach this ayat, let me know, \"Guard the prayers carefully and the\nmiddle prayer and stand obedient to Allah.\" ' When I reached it I told\nher, and she dictated to me, 'Guard the prayers carefully and the\nmiddle prayer and the asr prayer and stand obedient to Allah.'  A'isha\nsaid, 'I heard it from the Messenger of Allah, may Allah bless him and\ngrant him peace.' \""
+      }
+    },
+    {
+      "id": 27,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَمْرِو بْنِ رَافِعٍ، أَنَّهُ قَالَ كُنْتُ أَكْتُبُ مُصْحَفًا لِحَفْصَةَ أُمِّ الْمُؤْمِنِينَ فَقَالَتْ إِذَا بَلَغْتَ هَذِهِ الآيَةَ فَآذِنِّي ‏{‏حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلاَةِ الْوُسْطَى وَقُومُوا لِلَّهِ قَانِتِينَ ‏}‏ فَلَمَّا بَلَغْتُهَا آذَنْتُهَا فَأَمْلَتْ عَلَىَّ حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلاَةِ الْوُسْطَى وَصَلاَةِ الْعَصْرِ وَقُومُوا لِلَّهِ قَانِتِينَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Zayd ibn Aslam that Amr ibn\nRafi said, \"I was writing a Qur'an for Hafsa, umm al-muminin, and she\nsaid, 'When you reach this ayat, let me know, \"Guard the prayers\ncarefully and the middle prayer and stand obedient to Allah.\" When I\nreached it I told her and she dictated to me, 'Guard the prayers\ncarefully and the middle prayer and the asr prayer and stand obedient\nto Allah.' \""
+      }
+    },
+    {
+      "id": 28,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، عَنِ ابْنِ يَرْبُوعٍ الْمَخْزُومِيِّ، أَنَّهُ قَالَ سَمِعْتُ زَيْدَ بْنَ ثَابِتٍ، يَقُولُ الصَّلاَةُ الْوُسْطَى صَلاَةُ الظُّهْرِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Da'ud ibn al-Husayn that Ibn\nYarbu al-Makhzumi said, \"I heard Zayd ibn Thabit say, 'The middle\nprayer is the prayer of dhuhr.' \""
+      }
+    },
+    {
+      "id": 29,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ، وَعَبْدَ اللَّهِ بْنَ عَبَّاسٍ، كَانَا يَقُولاَنِ الصَّلاَةُ الْوُسْطَى صَلاَةُ الصُّبْحِ ‏.‏ قَالَ مَالِكٌ وَقَوْلُ عَلِيٍّ وَابْنِ عَبَّاسٍ أَحَبُّ مَا سَمِعْتُ إِلَىَّ فِي ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that AIi ibn Abi\nTalib and Abdullah ibn Abbas used to say, \"The middle prayer is the\nprayer of subh.\"\n\n\nMalik said, \"Out of all that I have heard\nabout the matter, I prefer what Ali ibn Abi Talib and Abdullah ibn\nAbbas said.\""
+      }
+    },
+    {
+      "id": 30,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عُمَرَ بْنِ أَبِي سَلَمَةَ، أَنَّهُ رَأَى رَسُولَ اللَّهِ صلى الله عليه وسلم يُصَلِّي فِي ثَوْبٍ وَاحِدٍ مُشْتَمِلاً بِهِ فِي بَيْتِ أُمِّ سَلَمَةَ وَاضِعًا طَرَفَيْهِ عَلَى عَاتِقَيْهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Hisham ibn Urwa from his\nfather that Umar ibn Abi Salama saw the Messenger of Allah, may Allah\nbless him and grant him peace, praying in one garment in the house of\nUmm Salama. He was completely covered by it, and had put both ends\nover his shoulders."
+      }
+    },
+    {
+      "id": 31,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ سَائِلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّلاَةِ فِي ثَوْبٍ وَاحِدٍ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\n\"‏ أَوَلِكُلِّكُمْ ثَوْبَانِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Said ibn al-\nMusayyab from Abu Hurayra that some one asked the Messenger of Allah,\nmay Allah bless him and grant him peace about praying in one garment.\nThe Messenger of Allah, may Allah bless him and grant him peace, said,\n\"Do you all have two garments?\""
+      }
+    },
+    {
+      "id": 32,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ قَالَ سُئِلَ أَبُو هُرَيْرَةَ هَلْ يُصَلِّي الرَّجُلُ فِي ثَوْبٍ وَاحِدٍ فَقَالَ نَعَمْ ‏.‏ فَقِيلَ لَهُ هَلْ تَفْعَلُ أَنْتَ ذَلِكَ فَقَالَ نَعَمْ إِنِّي لأُصَلِّي فِي ثَوْبٍ وَاحِدٍ وَإِنَّ ثِيَابِي لَعَلَى الْمِشْجَبِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab that Said ibn al-\nMusayyab said that Abu Hurayra was asked, \"May a man pray in one\ngarment?\" He said, \"Yes.\" The man then said to him \"Do you do that?\"\nand he replied, \"Yes, I pray in one garment while my clothes are on\nthe clothes-rack.\""
+      }
+    },
+    {
+      "id": 33,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ، كَانَ يُصَلِّي فِي الثَّوْبِ الْوَاحِدِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that Jabir ibn\nAbdullah used to pray in one garment."
+      }
+    },
+    {
+      "id": 34,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، أَنَّ مُحَمَّدَ بْنَ عَمْرِو بْنِ حَزْمٍ، كَانَ يُصَلِّي فِي الْقَمِيصِ الْوَاحِدِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Rabia ibn Abi Abd ar-Rahman\nthat Muhammad ibn Amr ibn Hazm used to pray in a single long shirt."
+      }
+    },
+    {
+      "id": 35,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\n\"‏ مَنْ لَمْ يَجِدْ ثَوْبَيْنِ فَلْيُصَلِّي فِي ثَوْبٍ وَاحِدٍ مُلْتَحِفًا بِهِ فَإِنْ كَانَ الثَّوْبُ قَصِيرًا فَلْيَتَّزِرْ بِهِ ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard from Jabir ibn\nAbdullah that the Messenger of Allah, may Allah bless him and grant\nhim peace, said, \"Let anyone who cannot find two garments pray in one\ngarment and wrap himself in it, and if the garment is short, let him\nwrap it around his waist.\"\n\n\nMalik said, \"In my view it is\npreferable for someone who prays in a single shirt to put a garment or\na turban over his shoulders.\""
+      }
+    },
+    {
+      "id": 36,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عَائِشَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم كَانَتْ تُصَلِّي فِي الدِّرْعِ وَالْخِمَارِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that A'isha, the\nwife of the Prophet, may Allah bless him and grant him peace, used to\npray in a shift and head-covering."
+      }
+    },
+    {
+      "id": 37,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ مُحَمَّدِ بْنِ زَيْدِ بْنِ قُنْفُذٍ، عَنْ أُمِّهِ، أَنَّهَا سَأَلَتْ أُمَّ سَلَمَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم مَاذَا تُصَلِّي فِيهِ الْمَرْأَةُ مِنَ الثِّيَابِ فَقَالَتْ تُصَلِّي فِي الْخِمَارِ وَالدِّرْعِ السَّابِغِ إِذَا غَيَّبَ ظُهُورَ قَدَمَيْهَا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Muhammad ibn Zayd ibn Qunfudh\nthat his mother asked Umm Salama, the wife of the Prophet, may Allah\nbless him and grant him peace, \"What clothes can a woman wear in\nprayer?\" She said, \"She can pray in a shift that reaches down and\ncovers the top of her feet.\""
+      }
+    },
+    {
+      "id": 38,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ الثِّقَةِ، عِنْدَهُ عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ الأَسْوَدِ الْخَوْلاَنِيِّ، وَكَانَ، فِي حَجْرِ مَيْمُونَةَ زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ مَيْمُونَةَ كَانَتْ تُصَلِّي فِي الدِّرْعِ وَالْخِمَارِ لَيْسَ عَلَيْهَا إِزَارٌ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from a reliable source from Bukayr\nibn Abdullah ibn al-Ashajj from Busr ibn Said that when Ubaydullah ibn\nal-Aswad al-Khawlani was in the room of Maimuna, the wife of the\nProphet, may Allah bless him and grant him peace, she used to pray in\na shift and head-covering, without a waist-wrapper."
+      }
+    },
+    {
+      "id": 39,
+      "chapterId": 8,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، أَنَّ امْرَأَةً، اسْتَفْتَتْهُ فَقَالَتْ إِنَّ الْمِنْطَقَ يَشُقُّ عَلَىَّ أَفَأُصَلِّي فِي دِرْعٍ وَخِمَارٍ فَقَالَ نَعَمْ إِذَا كَانَ الدِّرْعُ سَابِغًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Hisham ibn Urwa from his\nfather that a woman asked him for a decision, saying, \"Waist-wrappers\nare painful to me. Can I pray in a shift and head-covering?\"  He\nreplied, \"Yes, if the shift is long.\""
+      }
+    },
+    {
+      "id": 1,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَجْمَعُ بَيْنَ الظُّهْرِ وَالْعَصْرِ فِي سَفَرِهِ إِلَى تَبُوكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Da'ud ibn al-Husayn from al-\nAraj from Abu Hurayra that the Messenger of Allah, may Allah bless him\nand grant him peace, joined dhuhr and asr on his journey to Tabuk."
+      }
+    },
+    {
+      "id": 2,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ أَبِي الزُّبَيْرِ الْمَكِّيِّ، عَنْ أَبِي الطُّفَيْلِ، عَامِرِ بْنِ وَاثِلَةَ أَنَّ مُعَاذَ بْنَ جَبَلٍ، أَخْبَرَهُ أَنَّهُمْ، خَرَجُوا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَامَ تَبُوكَ فَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَجْمَعُ بَيْنَ الظُّهْرِ وَالْعَصْرِ وَالْمَغْرِبِ وَالْعِشَاءِ - قَالَ - فَأَخَّرَ الصَّلاَةَ يَوْمًا ثُمَّ خَرَجَ فَصَلَّى الظُّهْرَ وَالْعَصْرَ جَمِيعًا ثُمَّ دَخَلَ ثُمَّ خَرَجَ فَصَلَّى الْمَغْرِبَ وَالْعِشَاءَ جَمِيعًا ثُمَّ قَالَ ‏\"‏ إِنَّكُمْ سَتَأْتُونَ غَدًا إِنْ شَاءَ اللَّهُ عَيْنَ تَبُوكَ وَإِنَّكُمْ لَنْ تَأْتُوهَا حَتَّى يَضْحَى النَّهَارُ فَمَنْ جَاءَهَا فَلاَ يَمَسَّ مِنْ مَائِهَا شَيْئًا حَتَّى آتِيَ ‏\"‏ ‏.‏ فَجِئْنَاهَا وَقَدْ سَبَقَنَا إِلَيْهَا رَجُلاَنِ وَالْعَيْنُ تَبِضُّ بِشَىْءٍ مِنْ مَاءٍ فَسَأَلَهُمَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ هَلْ مَسِسْتُمَا مِنْ مَائِهَا شَيْئًا ‏\"‏ ‏.‏ فَقَالاَ نَعَمْ ‏.‏ فَسَبَّهُمَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَالَ لَهُمَا مَا شَاءَ اللَّهُ أَنْ يَقُولَ ثُمَّ غَرَفُوا بِأَيْدِيهِمْ مِنَ الْعَيْنِ قَلِيلاً قَلِيلاً حَتَّى اجْتَمَعَ فِي شَىْءٍ ثُمَّ غَسَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِيهِ وَجْهَهُ وَيَدَيْهِ ثُمَّ أَعَادَهُ فِيهَا فَجَرَتِ الْعَيْنُ بِمَاءٍ كَثِيرٍ فَاسْتَقَى النَّاسُ ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يُوشِكُ يَا مُعَاذُ إِنْ طَالَتْ بِكَ حَيَاةٌ أَنْ تَرَى هَا هُنَا قَدْ مُلِئَ جِنَانًا ‏\"‏ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abu'z-Zubayr al-Makki from\nAbu't-Tufayl Amir ibn Wathila that Muadh ibn Jabal told him that they\nwent out with the Messenger of Allah, may Allah bless him and grant\nhim peace, in the year of Tabuk, and the Messenger of Allah, may Allah\nbless him and grant him peace, joined dhuhr with asr and maghrib with\nisha. Muadh said, \"One day he delayed the prayer, and then came out\nand prayed dhuhr and asr together. Then he said, 'Tomorrow you will\ncome, insha' llah, to the spring of Tabuk. But you will not get there\nuntil well into the morning. No one who arrives should touch any of\nits water until I come.' We came to it and two men had got to it\nbefore us and the spring was dripping with a little water. The\nMessenger of Allah, may Allah bless him and grant him peace, asked\nthem, 'Have you touched any of its water?' They said, 'Yes.' The\nMessenger of Allah, may Allah bless him and grant him peace, reviled\nthem and said what Allah wished him to say. Then they took water with\ntheir hands from the spring little by little until it had been\ncollected in something. Then the Messenger of Allah, may Allah bless\nhim and grant him peace, washed his face and hands in it. Then he put\nit back into the spring and the spring flowed with an abundance of\nwater and the people drew water from it. The Messenger of Allah, may\nAllah bless him and grant him peace, said, 'If you live long enough,\nMuadh, you will soon see this place filled with gardens.' \""
+      }
+    },
+    {
+      "id": 3,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا عَجِلَ بِهِ السَّيْرُ يَجْمَعُ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "3 Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nsaid, \"The Messenger of Allah, may Allah bless him and grant him\npeace, used to join maghrib and isha together when it was urgent to\ntravel.\""
+      }
+    },
+    {
+      "id": 4,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي عَنْ مَالِكٍ، عَنْ أَبِي الزُّبَيْرِ الْمَكِّيِّ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّهُ قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم الظُّهْرَ وَالْعَصْرَ جَمِيعًا وَالْمَغْرِبَ وَالْعِشَاءَ جَمِيعًا فِي غَيْرِ خَوْفٍ وَلاَ سَفَرٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Abu'z Zubayr al-Makki from Said ibn Jubayr that Abdullah ibn Abbas said, \"The Messenger of Allah, may Allah bless him and grant him peace, prayed dhuhr and asr together and maghrib and isha together, and not out of fear nor because of travelling.\""
+      }
+    },
+    {
+      "id": 5,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "",
+      "english": {
+        "narrator": "",
+        "text": "(with regards to above) Malik said, \"I believe that was during rain.\""
+      }
+    },
+    {
+      "id": 6,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ إِذَا جَمَعَ الأُمَرَاءُ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ فِي الْمَطَرِ جَمَعَ مَعَهُمْ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar\nused to join the prayer along with the amirs if they joined maghrib\nand isha in the rain."
+      }
+    },
+    {
+      "id": 7,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، أَنَّهُ سَأَلَ سَالِمَ بْنَ عَبْدِ اللَّهِ هَلْ يُجْمَعُ بَيْنَ الظُّهْرِ وَالْعَصْرِ فِي السَّفَرِ فَقَالَ نَعَمْ لاَ بَأْسَ بِذَلِكَ أَلَمْ تَرَ إِلَى صَلاَةِ النَّاسِ بِعَرَفَةَ",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab that he had asked\nSalim ibn Abdullah, \"Can you join dhuhr and asr when travelling?\" He\nsaid, \"Yes, there is no harm in that. Haven't you seen the people pray\non Arafa?\""
+      }
+    },
+    {
+      "id": 8,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ عَنْ عَلِيِّ بْنِ حُسَيْنٍ، أَنَّهُ كَانَ يَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَرَادَ أَنْ يَسِيرَ يَوْمَهُ جَمَعَ بَيْنَ الظُّهْرِ وَالْعَصْرِ وَإِذَا أَرَادَ أَنْ يَسِيرَ لَيْلَهُ جَمَعَ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that AIi ibn\nHusain used to say, \"The Messenger of Allah, may Allah bless him and\ngrant him peace, would join dhuhr and asr if he wished to travel the\nsame day, and he would join maghrib and isha if he wished to travel\nthe same night.\""
+      }
+    },
+    {
+      "id": 9,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ رَجُلٍ، مِنْ آلِ خَالِدِ بْنِ أَسِيدٍ أَنَّهُ سَأَلَ عَبْدَ اللَّهِ بْنَ عُمَرَ فَقَالَ يَا أَبَا عَبْدِ الرَّحْمَنِ إِنَّا نَجِدُ صَلاَةَ الْخَوْفِ وَصَلاَةَ الْحَضَرِ فِي الْقُرْآنِ وَلاَ نَجِدُ صَلاَةَ السَّفَرِ فَقَالَ ابْنُ عُمَرَ يَا ابْنَ أَخِي إِنَّ اللَّهَ عَزَّ وَجَلَّ بَعَثَ إِلَيْنَا مُحَمَّدًا صلى الله عليه وسلم وَلاَ نَعْلَمُ شَيْئًا فَإِنَّمَا نَفْعَلُ كَمَا رَأَيْنَاهُ يَفْعَلُ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from a man of the\nfamily of Khalid ibn Asid that he said to Abdullah ibn Umar, \"Abu Abd\nar-Rahman, we find the fear prayer and the prayer when settled\nmentioned in the Qur'an, but we do not find any mention of the\ntravelling prayer in it.\" Ibn Umar said, \"Son of my brother!  Allah\nthe Mighty and Majestic sent us Muhammad, may Allah bless him and\ngrant him peace, and we know nothing. We only do as we saw him doing.\""
+      }
+    },
+    {
+      "id": 10,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا قَالَتْ فُرِضَتِ الصَّلاَةُ رَكْعَتَيْنِ رَكْعَتَيْنِ فِي الْحَضَرِ وَالسَّفَرِ فَأُقِرَّتْ صَلاَةُ السَّفَرِ وَزِيدَ فِي صَلاَةِ الْحَضَرِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Salih ibn Kaysan from Urwa\nibn az-Zubayr that A'isha, the wife of the Prophet, may Allah bless\nhim and grant him peace, said, \"The prayer was prescribed as two\nrakas, both when settled and when travelling. Then the travelling\nprayer was kept as it was, and an increase was made in the prayer when\nsettled. \""
+      }
+    },
+    {
+      "id": 11,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّهُ قَالَ لِسَالِمِ بْنِ عَبْدِ اللَّهِ مَا أَشَدَّ مَا رَأَيْتَ أَبَاكَ أَخَّرَ الْمَغْرِبَ فِي السَّفَرِ فَقَالَ سَالِمٌ غَرَبَتِ الشَّمْسُ وَنَحْنُ بِذَاتِ الْجَيْشِ فَصَلَّى الْمَغْرِبَ بِالْعَقِيقِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Yahya ibn Said that he said\nto Salim ibn Abdullah, \"What is the latest you have seen your father\ndelay maghrib while on a journey?\" and Salim replied, \"One time the\nsun set when we were at Dhat al-Jaysh and he prayed maghrib at al-\nAqiq.\""
+      }
+    },
+    {
+      "id": 12,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ إِذَا خَرَجَ حَاجًّا أَوْ مُعْتَمِرًا قَصَرَ الصَّلاَةَ بِذِي الْحُلَيْفَةِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi that Abdullah ibn Umar,\nshortened the prayer when he left for hajj or umra at Dhu'l Hulayfa."
+      }
+    },
+    {
+      "id": 13,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، أَنَّهُ رَكِبَ إِلَى رِيمٍ فَقَصَرَ الصَّلاَةَ فِي مَسِيرِهِ ذَلِكَ ‏.‏ قَالَ مَالِكٌ وَذَلِكَ نَحْوٌ مِنْ أَرْبَعَةِ بُرُدٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Salim ibn\nAbdullah that his father rode to Rim and shortened the prayer on the\njourney.\n\n\nMalik said, \"That was about four mail-stages.\"\n(approximately forty-eight miles)."
+      }
+    },
+    {
+      "id": 14,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، رَكِبَ إِلَى ذَاتِ النُّصُبِ فَقَصَرَ الصَّلاَةَ فِي مَسِيرِهِ ذَلِكَ ‏.‏ قَالَ مَالِكٌ وَبَيْنَ ذَاتِ النُّصُبِ وَالْمَدِينَةِ أَرْبَعَةُ بُرُدٍ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi from Salim ibn Abdullah\nthat Abdullah ibn Umar rode to Dhat an-Nusub and shortened the prayer\non the journey.\n\n\nMalik said, \"There are four mail-stages\nbetween Dhat an-Nusub and Madina.\""
+      }
+    },
+    {
+      "id": 15,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ كَانَ يُسَافِرُ إِلَى خَيْبَرَ فَيَقْصُرُ الصَّلاَةَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi from Ibn Umar that he\nused to travel to Khaybar and he would shorten the prayer."
+      }
+    },
+    {
+      "id": 16,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يَقْصُرُ الصَّلاَةَ فِي مَسِيرِهِ الْيَوْمَ التَّامَّ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Salim ibn\nAbdullah that Abdullah ibn Umar used to shorten the prayer when he\ntravelled for a whole day."
+      }
+    },
+    {
+      "id": 17,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّهُ كَانَ يُسَافِرُ مَعَ ابْنِ عُمَرَ الْبَرِيدَ فَلاَ يَقْصُرُ الصَّلاَةَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi that he used to travel\none mail-stage with Ibn Umar, and he would not shorten the prayer."
+      }
+    },
+    {
+      "id": 18,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ، كَانَ يَقْصُرُ الصَّلاَةَ فِي مِثْلِ مَا بَيْنَ مَكَّةَ وَالطَّائِفِ وَفِي مِثْلِ مَا بَيْنَ مَكَّةَ وَعُسْفَانَ وَفِي مِثْلِ مَا بَيْنَ مَكَّةَ وَجُدَّةَ ‏.‏ قَالَ مَالِكٌ وَذَلِكَ أَرْبَعَةُ بُرُدٍ وَذَلِكَ أَحَبُّ مَا تُقْصَرُ إِلَىَّ فِيهِ الصَّلاَةُ ‏.‏ قَالَ مَالِكٌ لاَ يَقْصُرُ الَّذِي يُرِيدُ السَّفَرَ الصَّلاَةَ حَتَّى يَخْرُجَ مِنْ بُيُوتِ الْقَرْيَةِ وَلاَ يُتِمُّ حَتَّى يَدْخُلَ أَوَّلَ بُيُوتِ الْقَرْيَةِ أَوْ يُقَارِبُ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik that he had heard that Abdullah\nibn Abbas used to shorten the prayer when he travelled a distance\nequivalent to that between Makka and Ta'if, and that between Makka and\nUsfan and that between Makka and Jedda.\n\n\nMalik said, \"That is\nfour mail-stages, and to me that is the most preferable distance for\nshortening the prayer.\"\n\n\nMalik said, \"Someone who intends to\ntravel does not shorten the prayer until he has left the houses of the\nvillage. And he does not do it in full until he comes to the first\nhouses of the village, or is nearby.\""
+      }
+    },
+    {
+      "id": 19,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يَقُولُ أُصَلِّي صَلاَةَ الْمُسَافِرِ مَا لَمْ أُجْمِعْ مُكْثًا وَإِنْ حَبَسَنِي ذَلِكَ اثْنَتَىْ عَشْرَةَ لَيْلَةً ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Salim ibn\nAbdullah that Abdullah ibn Umar used to say, \"I pray the prayerof a\ntraveller as long as I am undecided whether to remain somewhere or\nnot, even if I am detained for twelve nights.\""
+      }
+    },
+    {
+      "id": 20,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ، أَقَامَ بِمَكَّةَ عَشْرَ لَيَالٍ يَقْصُرُ الصَّلاَةَ إِلاَّ أَنْ يُصَلِّيَهَا مَعَ الإِمَامِ فَيُصَلِّيهَا بِصَلاَتِهِ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Nafi that Ibn Umar stayed in\nMakka for ten nights, shortening the prayer, except when he prayed it\nbehind an imam, in which case he followed the imam's prayer."
+      }
+    },
+    {
+      "id": 21,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ عَطَاءٍ الْخُرَاسَانِيِّ، أَنَّهُ سَمِعَ سَعِيدَ بْنَ الْمُسَيَّبِ، قَالَ مَنْ أَجْمَعَ إِقَامَةً أَرْبَعَ لَيَالٍ وَهُوَ مُسَافِرٌ أَتَمَّ الصَّلاَةَ ‏.‏ قَالَ مَالِكٌ وَذَلِكَ أَحَبُّ مَا سَمِعْتُ إِلَىَّ ‏.‏ وَسُئِلَ مَالِكٌ عَنْ صَلاَةِ الأَسِيرِ فَقَالَ مِثْلُ صَلاَةِ الْمُقِيمِ إِلاَّ أَنْ يَكُونَ مُسَافِرًا ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ata al-Khurasani that he\nheard Said ibn al Musayyab say, \"A traveller who has decided to remain\nsomewhere for four nights does the prayer in full.\"\n\n\nMalik\nsaid, \"That is what I prefer most out of what I have heard.\"\n\n\nMalik when asked about the prayer of a prisoner, said, \"It is the same\nas the prayer of a person who remains in one place, except if he is\ntravelling.\""
+      }
+    },
+    {
+      "id": 22,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، كَانَ إِذَا قَدِمَ مَكَّةَ صَلَّى بِهِمْ رَكْعَتَيْنِ ثُمَّ يَقُولُ يَا أَهْلَ مَكَّةَ أَتِمُّوا صَلاَتَكُمْ فَإِنَّا قَوْمٌ سَفْرٌ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related to me from Malik from Ibn Shihab from Salim ibn Abdullah from his father that Umar ibn al-Khattab, when he went to Makka, used to lead them in prayer and do two rakas and then say, \"People of Makka,complete the prayer, we are a group travelling.\""
+      }
+    },
+    {
+      "id": 23,
+      "chapterId": 9,
+      "bookId": 7,
+      "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، مِثْلَ ذَلِكَ ‏.‏",
+      "english": {
+        "narrator": "",
+        "text": "Yahya related the same as that to me from Malik from Zayd ibn Aslam from his father from Umar ibn al-Khattab."
+      }
+    }
+  ]
+}

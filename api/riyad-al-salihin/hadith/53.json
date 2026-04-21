@@ -1,0 +1,16 @@
+{
+  "id": 53,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي إبراهيم عبد الله بن أبي أوفى رضي الله عنهما أن رسول الله صلى الله عليه وسلم في  بعض أيامه التي لقي فيها العدو، انتظر حتى إذا مالت الشمس قام فيهم فقال‏:‏ ‏\"‏ يا أيها الناس لا تتمنوا لقاء العدو، واسألوا الله العافية، فإذا لقيتموهم فاصبروا، واعلموا أن الجنة تحت ظلال السيوف‏\"‏ ثم قال النبي صلى الله عليه وسلم ‏:‏ ‏\"‏ اللهم منزل الكتاب ومجري السحاب ، وهازم الأحزاب، اهزمهم وانصرنا عليهم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ وبالله التوفيق‏.‏",
+  "english": {
+    "narrator": "'Abdullah bin Abu Aufa (May Allah be pleased with him) reported:",
+    "text": "The Messenger of Allah (ﷺ) at one time when he confronted the enemy, and was waiting for the sun to set, stood up and said, \"O people! Do not long for encountering the enemy and supplicate to Allah to grant you security. But when you face the enemy, show patience and steadfastness; and keep it in mind that Jannah lies under the shade of the swords.\" Then he invoked Allah, saying, \"O Allah, Revealer of the Book, Disperser of the clouds, Defeater of the Confederates, put our enemy to rout and help us in over-powering them\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

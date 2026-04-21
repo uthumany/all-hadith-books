@@ -1,0 +1,16 @@
+{
+  "id": 161,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "وَعَنْ عَائِشَةَ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى الرِّجَالَ وَالنِّسَاءَ عَنْ دُخُولِ الْحَمَّامَاتِ ثُمَّ رَخَّصَ لِلرِّجَالِ أَنْ يَدْخُلُوا بِالْمَيَازِرِ. رَوَاهُ التِّرْمِذِيّ وَأَبُو دَاوُد",
+  "english": {
+    "narrator": "",
+    "text": "‘A’isha said the Prophet forbade men and women from entering baths, but afterwards permitted men to enter them wearing lower garments. \nTirmidhi and Abu Dawud transmitted it."
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 295,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعن أبي هريرة رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\n\"‏ ما من يوم يصبح العباد فيه إلا ملكان ينزلان، فيقول أحدهما‏:‏ اللهم أعط منفقًا خلفًا، ويقول الآخر‏:‏ اللهم أعط ممسكًا تلفًا‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+    "text": "The Prophet (ﷺ) said, \"Two angels descend every morning, and one says: 'O Allah, give him who spends something, in place of what he spends.' The other one says: 'O Allah, give destruction to him who withholds\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 151,
+  "chapterId": 5,
+  "bookId": 8,
+  "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حَفْصٍ، أَنْبَأَنَا وَرْقَاءُ، عَنْ مَنْصُورٍ، عَنْ الْمِنْهَالِ، عَنْ نُعَيْمِ بْنِ دِجَاجَةَ، قَالَ دَخَلَ أَبُو مَسْعُودٍ عَلَى عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ فَقَالَ أَنْتَ الْقَائِلُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَأْتِي عَلَى النَّاسِ مِائَةُ عَامٍ وَعَلَى الْأَرْضِ نَفْسٌ مَنْفُوسَةٌ إِنَّمَا قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَأْتِي عَلَى النَّاسِ مِائَةُ عَامٍ وَعَلَى الْأَرْضِ نَفْسٌ مَنْفُوسَةٌ مِمَّنْ هُوَ حَيٌّ الْيَوْمَ وَإِنَّ رَجَاءَ هَذِهِ الْأُمَّةِ بَعْدَ الْمِائَةِ‏.‏",
+  "english": {
+    "narrator": "It was narrated from Nu`aim bin Dijajah that he said:",
+    "text": "Abu Mas`ood ‘Uqbah bin `Amr al-Ansari entered upon `Ali bin Abi Talib                 (رضي الله عنه) and ‘Ali said to him: Are you the one who says that in one hundred years time there will be no soul left on earth? Rather the Messenger of Allah (ﷺ)  said: `In one hundred years time, there will be no soul left on earth of those who are alive today,” By Allah, there is great hope for this ummah after one hundred years."
+  },
+  "book": {
+    "id": 8,
+    "name": "Musnad Ahmad",
+    "arabic": "مسند أحمد",
+    "slug": "ahmed"
+  }
+}

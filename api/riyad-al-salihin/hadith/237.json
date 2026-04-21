@@ -1,0 +1,16 @@
+{
+  "id": 237,
+  "chapterId": 0,
+  "bookId": 10,
+  "arabic": "وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “انصر أخاك ظالمًا أو مظلومًا” فقال رجل‏:‏ يا رسول الله أنصره إذا كان مظلومًا أرأيت إن كان ظالمًا كيف أنصره‏؟‏ قال‏:‏ ‏\"‏تحجزه -أو تمنعه- من الظلم فإن ذلك نصره” ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+  "english": {
+    "narrator": "Anas (May Allah bepleased with him) reported:",
+    "text": "Messenger of Allah (ﷺ) said, \"Help your brother, whether he is an oppressor or is oppressed\". A man enquired: \"O Messenger of Allah! I help him when he is oppressed, but how can I help him when he is an oppressor?\" He (ﷺ) said, \"You can keep him from committing oppression. That will be your help to him\".."
+  },
+  "book": {
+    "id": 10,
+    "name": "Riyad al-Salihin",
+    "arabic": "رياض الصالحين",
+    "slug": "riyad-al-salihin"
+  }
+}

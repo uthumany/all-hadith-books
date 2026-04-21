@@ -1,0 +1,16 @@
+{
+  "id": 165,
+  "chapterId": 22,
+  "bookId": 14,
+  "arabic": "عَن ثابتٍ قَالَ: سُئِلَ أَنَسٌ عَنْ خِضَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: لَوْ شِئْتَ أَنْ أَعُدَّ شَمَطَاتٍ كُنَّ فِي رَأْسِهِ فَعَلْتُ قَالَ: وَلَمْ يَخْتَضِبْ زَادَ فِي رِوَايَةٍ: وَقَدِ اخْتَضَبَ أَبُو بَكْرٍ بِالْحِنَّاءِ وَالْكَتَمِ وَاخْتَضَبَ عُمَرُ بِالْحِنَّاءِ بحتا",
+  "english": {
+    "narrator": "",
+    "text": "Thabit told that when Anas was asked whether the Prophet dyed his hair he replied, \"If I had wanted to count the hoary hairs which were on his head I could have done so,” adding that he did not dye his hair. In a version he added that Abu Bakr dyed his hair with henna and katam, and ‘Umar dyed it with henna alone. \n(Bukhari and Muslim.)"
+  },
+  "book": {
+    "id": 14,
+    "name": "Mishkat al-Masabih",
+    "arabic": "ميشكات المصابيح",
+    "slug": "mishkat-al-masabih"
+  }
+}
