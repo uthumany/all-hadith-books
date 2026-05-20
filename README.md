@@ -97,7 +97,8 @@ __________________________________________
 
 **Hadith Book Covers (SVGs)**
 صورة غلاف كتب الحديث
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/hadith_bookscovers.json
+Endpoint URL: [https://uthumany.github.io/All-Hadith-books/api/hadith_bookscovers.json](https://uthumany.github.io/all-hadith-books/api/hadith_bookscovers.json
+)
 
 ## 📚 Supported Books
 1. Sahih al-Bukhari
