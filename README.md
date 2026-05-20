@@ -93,6 +93,11 @@ The Forty Hadith of Shah Waliullah
 أربعون الشاه ولي الله
 
 Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/waliullah-40.json
+__________________________________________
+
+**Hadith Book Covers (SVGs)**
+صورة غلاف كتب الحديث
+Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/hadith_bookscovers.json
 
 ## 📚 Supported Books
 1. Sahih al-Bukhari
@@ -139,6 +144,10 @@ Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/waliullah-40.json
 ### 6. Chapters Index
 - **URL:** `/api/books/{book-slug}/chapters.json`
 - **Description:** Chapter index for each book with hadith counts.
+
+### 7. Hadith Book Covers
+- **URL:** `/api/hadith_bookscovers.json`
+- **Description:** Returns an array of objects containing the Arabic and English names of the Hadith books along with their corresponding SVG cover CDN URLs. Useful for fetching and rendering book covers.
 
 ## 🏗 Data Model
 Each hadith object contains:
