@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>رياض الصالحين - التسجيلات الصوتية العربية</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap');
+        body { font-family: 'Amiri', serif; }
+        .audio-card { transition: all 0.3s ease; }
+        .audio-card:hover { transform: translateY(-2px); box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <nav class="bg-emerald-800 text-white p-4 shadow-lg">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold">رياض الصالحين</h1>
+            <div class="space-x-4 space-x-reverse">
+                <a href="index.html" class="hover:underline">الرئيسية</a>
+                <a href="english-audio.html" class="hover:underline">English Audio</a>
+                <a href="riyad-us-saliheen-sync.html" class="hover:underline font-bold">ميزة المزامنة</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container mx-auto py-8 px-4">
+        <header class="mb-8 text-center">
+            <h2 class="text-3xl font-extrabold text-gray-900">التسجيلات الصوتية العربية</h2>
+            <p class="mt-2 text-gray-600">استمع إلى فصول كتاب رياض الصالحين باللغة العربية.</p>
+        </header>
+
+        <div id="audio-list" class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+            <!-- Loading state -->
+            <div class="col-span-full text-center py-12">
+                <div class="inline-block animate-spin rounded-full h-8 w-8 border-4 border-emerald-500 border-t-transparent"></div>
+                <p class="mt-2 text-gray-500">جاري تحميل المجموعة الصوتية...</p>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        async function loadAudios() {
+            try {
+                const response = await fetch('api/riyad_us_saliheen_audios.json');
+                const data = await response.json();
+                const container = document.getElementById('audio-list');
+                container.innerHTML = '';
+
+                data.hadiths.forEach(hadith => {
+                    const card = document.createElement('div');
+                    card.className = 'audio-card bg-white p-6 rounded-xl border border-gray-200 text-right';
+                    card.innerHTML = `
+                        <div class="flex items-center justify-between mb-4">
+                            <span class="bg-emerald-100 text-emerald-800 text-xs font-semibold px-2.5 py-0.5 rounded">الفصل ${hadith.hadith_number}</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-800 mb-2">${hadith.hadith_narration_name.arabic}</h3>
+                        <p class="text-sm text-gray-500 mb-4" dir="ltr">${hadith.hadith_narration_name.english.replace(/_/g, ' ')}</p>
+                        <audio controls class="w-full h-8">
+                            <source src="${hadith.arabic_audio_cdn_url}" type="audio/mpeg">
+                            متصفحك لا يدعم تشغيل الصوت.
+                        </audio>
+                    `;
+                    container.appendChild(card);
+                });
+            } catch (error) {
+                console.error('Error loading audios:', error);
+                document.getElementById('audio-list').innerHTML = '<p class="col-span-full text-center text-red-500">فشل في تحميل البيانات الصوتية.</p>';
+            }
+        }
+        loadAudios();
+    </script>
+</body>
+</html>

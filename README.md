@@ -173,3 +173,11 @@ This repository is configured with GitHub Actions to automatically deploy to Git
 
 ## 📄 License
 This project uses data from the [hadith-json](https://github.com/AhmedBaset/hadith-json) repository.
+
+## Audio & Synchronization Features
+
+- [English Audio Narrations](https://uthumany.github.io/all-hadith-books/english-audio.html)
+- [Arabic Audio Narrations](https://uthumany.github.io/all-hadith-books/arabic-audio.html)
+- [Interactive Audio-to-Text Sync](https://uthumany.github.io/all-hadith-books/riyad-us-saliheen-sync.html)
+
+For more details, see [README_AUDIO.md](./README_AUDIO.md).

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riyad us Saliheen - English Audio Narrations</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .audio-card { transition: all 0.3s ease; }
+        .audio-card:hover { transform: translateY(-2px); box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <nav class="bg-emerald-700 text-white p-4 shadow-lg">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold">Riyad us Saliheen</h1>
+            <div class="space-x-4">
+                <a href="index.html" class="hover:underline">Home</a>
+                <a href="arabic-audio.html" class="hover:underline">Arabic Audio</a>
+                <a href="riyad-us-saliheen-sync.html" class="hover:underline font-bold">Sync Feature</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container mx-auto py-8 px-4">
+        <header class="mb-8 text-center">
+            <h2 class="text-3xl font-extrabold text-gray-900">English Audio Narrations</h2>
+            <p class="mt-2 text-gray-600">Listen to the English translation of Riyad us Saliheen chapters.</p>
+        </header>
+
+        <div id="audio-list" class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+            <!-- Loading state -->
+            <div class="col-span-full text-center py-12">
+                <div class="inline-block animate-spin rounded-full h-8 w-8 border-4 border-emerald-500 border-t-transparent"></div>
+                <p class="mt-2 text-gray-500">Loading audio collection...</p>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        async function loadAudios() {
+            try {
+                const response = await fetch('api/riyad_us_saliheen_audios.json');
+                const data = await response.json();
+                const container = document.getElementById('audio-list');
+                container.innerHTML = '';
+
+                data.hadiths.forEach(hadith => {
+                    const card = document.createElement('div');
+                    card.className = 'audio-card bg-white p-6 rounded-xl border border-gray-200';
+                    card.innerHTML = `
+                        <div class="flex items-center justify-between mb-4">
+                            <span class="bg-emerald-100 text-emerald-800 text-xs font-semibold px-2.5 py-0.5 rounded">Chapter ${hadith.hadith_number}</span>
+                        </div>
+                        <h3 class="text-lg font-bold text-gray-800 mb-2">${hadith.hadith_narration_name.english.replace(/_/g, ' ')}</h3>
+                        <p class="text-sm text-gray-500 mb-4" dir="rtl">${hadith.hadith_narration_name.arabic}</p>
+                        <audio controls class="w-full h-8">
+                            <source src="${hadith.english_audio_cdn_url}" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    `;
+                    container.appendChild(card);
+                });
+            } catch (error) {
+                console.error('Error loading audios:', error);
+                document.getElementById('audio-list').innerHTML = '<p class="col-span-full text-center text-red-500">Failed to load audio data.</p>';
+            }
+        }
+        loadAudios();
+    </script>
+</body>
+</html>
