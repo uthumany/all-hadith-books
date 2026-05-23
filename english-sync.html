@@ -413,6 +413,70 @@
         document.getElementById('btn-back10').onclick = () => { audioPlayer.currentTime = Math.max(0, audioPlayer.currentTime - 10); };
         document.getElementById('btn-forward10').onclick = () => { audioPlayer.currentTime = Math.min(audioPlayer.duration, audioPlayer.currentTime + 10); };
 
+        // =====================================================
+        // POSTMESSAGE API (for iframe consumers)
+        // =====================================================
+        const POST_MESSAGE_ORIGIN = '*';
+        
+        function sendToParent(type, data) {
+            if (window.parent && window.parent !== window) {
+                window.parent.postMessage({ type, ...data }, POST_MESSAGE_ORIGIN);
+            }
+        }
+
+        window.addEventListener('message', (event) => {
+            const { action, ...params } = event.data || {};
+            
+            switch (action) {
+                case 'play':
+                    if (params.time !== undefined) audioPlayer.currentTime = params.time;
+                    audioPlayer.play();
+                    sendToParent('playResponse', { success: true });
+                    break;
+                case 'pause':
+                    audioPlayer.pause();
+                    sendToParent('pauseResponse', { success: true });
+                    break;
+                case 'seek':
+                    audioPlayer.currentTime = params.time;
+                    sendToParent('seekResponse', { success: true, time: params.time });
+                    break;
+                case 'selectChapter':
+                    const hadith = allHadiths.find(h => parseInt(h.hadith_number) === params.chapter);
+                    if (hadith) {
+                        selectHadith(hadith);
+                        sendToParent('chapterChanged', { 
+                            chapter: params.chapter,
+                            title: hadith.hadith_narration_name.english.replace(/_/g, ' ')
+                        });
+                    }
+                    break;
+                case 'getState':
+                    sendToParent('stateResponse', {
+                        currentTime: audioPlayer.currentTime,
+                        duration: audioPlayer.duration,
+                        isPlaying: !audioPlayer.paused,
+                        currentChapter: currentHadithData ? parseInt(currentHadithData.hadith_number) : null
+                    });
+                    break;
+                case 'getChapters':
+                    sendToParent('chaptersResponse', {
+                        chapters: allHadiths.map(h => ({
+                            number: parseInt(h.hadith_number),
+                            title: h.hadith_narration_name.english.replace(/_/g, ' '),
+                            titleArabic: h.hadith_narration_name.arabic
+                        }))
+                    });
+                    break;
+            }
+        });
+
+        audioPlayer.addEventListener('play', () => sendToParent('play', { currentTime: audioPlayer.currentTime }));
+        audioPlayer.addEventListener('pause', () => sendToParent('pause', { currentTime: audioPlayer.currentTime }));
+        audioPlayer.addEventListener('ended', () => sendToParent('audioEnded', { currentChapter: currentHadithData ? parseInt(currentHadithData.hadith_number) : null }));
+
+        sendToParent('playerReady', { chapters: allHadiths.length, page: 'english' });
+
         init();
     </script>
 </body>
