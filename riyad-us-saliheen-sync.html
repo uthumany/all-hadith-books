@@ -170,14 +170,16 @@
             <!-- Text Display Section -->
             <div id="text-display" class="bg-white p-8 rounded-xl shadow-sm border border-gray-200 flex-grow hidden">
                 <div class="space-y-8">
-                    <div class="text-right">
-                        <h4 class="text-sm font-bold text-emerald-600 mb-2">ARABIC</h4>
-                        <div id="arabic-content" class="arabic-text text-gray-800 leading-relaxed" dir="rtl"></div>
-                    </div>
-                    <hr>
+                    <!-- English Section (displayed first) -->
                     <div>
                         <h4 class="text-sm font-bold text-emerald-600 mb-2">ENGLISH</h4>
                         <div id="english-content" class="text-lg text-gray-700 leading-relaxed"></div>
+                    </div>
+                    <hr>
+                    <!-- Arabic Section (displayed second) -->
+                    <div class="text-right">
+                        <h4 class="text-sm font-bold text-emerald-600 mb-2">ARABIC</h4>
+                        <div id="arabic-content" class="arabic-text text-gray-800 leading-relaxed" dir="rtl"></div>
                     </div>
                 </div>
             </div>
