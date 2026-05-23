@@ -1,0 +1,67 @@
+{
+  "description": "Word-level timestamp schema for Riyadh as-Salihin audio synchronization",
+  "version": "1.0.0",
+  "generated_by": "Requires forced-alignment tool (Whisper, Gentle, or Aeneas)",
+  "note": "Run word alignment on audio files to populate this schema with actual timestamps",
+  "schema": {
+    "chapter_id": "integer - Chapter number (1-373)",
+    "hadith_index": "integer - Index within chapter (0-based)",
+    "segments": [
+      {
+        "text": "string - Original text segment",
+        "language": "string - 'english' or 'arabic'",
+        "words": [
+          {
+            "word": "string - The word",
+            "start": "float - Start time in seconds",
+            "end": "float - End time in seconds",
+            "confidence": "float - Alignment confidence (0.0-1.0)"
+          }
+        ]
+      }
+    ]
+  },
+  "example": {
+    "chapter_id": 1,
+    "hadith_index": 0,
+    "segments": [
+      {
+        "text": "Abu Huraira reported that the Messenger of Allah said",
+        "language": "english",
+        "words": [
+          {"word": "Abu", "start": 0.5, "end": 0.8, "confidence": 0.95},
+          {"word": "Huraira", "start": 0.8, "end": 1.3, "confidence": 0.92},
+          {"word": "reported", "start": 1.3, "end": 1.8, "confidence": 0.98},
+          {"word": "that", "start": 1.8, "end": 2.0, "confidence": 0.99},
+          {"word": "the", "start": 2.0, "end": 2.1, "confidence": 0.99},
+          {"word": "Messenger", "start": 2.1, "end": 2.6, "confidence": 0.97},
+          {"word": "of", "start": 2.6, "end": 2.7, "confidence": 0.99},
+          {"word": "Allah", "start": 2.7, "end": 3.1, "confidence": 0.98},
+          {"word": "said", "start": 3.1, "end": 3.4, "confidence": 0.99}
+        ]
+      },
+      {
+        "text": "عن أبي هريرة رضي الله عنه قال قال رسول الله صلى الله عليه وسلم",
+        "language": "arabic",
+        "words": [
+          {"word": "عن", "start": 0.5, "end": 0.7, "confidence": 0.96},
+          {"word": "أبي", "start": 0.7, "end": 1.0, "confidence": 0.94},
+          {"word": "هريرة", "start": 1.0, "end": 1.5, "confidence": 0.93},
+          {"word": "رضي", "start": 1.5, "end": 1.7, "confidence": 0.97},
+          {"word": "الله", "start": 1.7, "end": 1.9, "confidence": 0.99},
+          {"word": "عنه", "start": 1.9, "end": 2.1, "confidence": 0.98},
+          {"word": "قال", "start": 2.1, "end": 2.4, "confidence": 0.99},
+          {"word": "قال", "start": 2.4, "end": 2.6, "confidence": 0.99},
+          {"word": "رسول", "start": 2.6, "end": 2.9, "confidence": 0.97},
+          {"word": "الله", "start": 2.9, "end": 3.1, "confidence": 0.99},
+          {"word": " صلى الله عليه وسلم", "start": 3.1, "end": 4.0, "confidence": 0.95}
+        ]
+      }
+    ]
+  },
+  "tools": {
+    "whisper": "openai/whisper with word_timestamps=True",
+    "gentle": "https://lowerquality.com/gentle/",
+    "aeneas": "https://readtheocs.readthedocs.io/en/latest/TaskCreator.html"
+  }
+}

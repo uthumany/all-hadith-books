@@ -29,17 +29,16 @@
     </style>
 </head>
 <body class="bg-gray-50 min-h-screen flex flex-col">
-    <nav class="bg-emerald-800 text-white p-4 shadow-lg">
-        <div class="container mx-auto flex justify-between items-center">
-            <h1 class="text-xl md:text-2xl font-bold">مزيج الصوت العربي</h1>
-            <div class="flex items-center gap-4">
+    <nav class="bg-emerald-700 text-white p-4 shadow-lg">
+        <div class="container mx-auto flex flex-wrap justify-between items-center gap-2">
+            <h1 class="text-xl md:text-2xl font-bold">مزامنة عربي</h1>
+            <div class="flex flex-wrap items-center gap-2 md:gap-4 text-sm md:text-base">
                 <span id="api-status" class="api-status api-loading">جاري التحميل...</span>
-                <div class="space-x-3 md:space-x-4">
-                    <a href="index.html" class="hover:underline text-sm md:text-base">الرئيسية</a>
-                    <!-- BUG-004 Fix: Added link to English sync -->
-                    <a href="english-sync.html" class="hover:underline text-sm md:text-base">English</a>
-                    <a href="riyad-us-saliheen-sync.html" class="hover:underline text-sm md:text-base">مزامنة ثنائية</a>
-                </div>
+                <a href="index.html" class="hover:underline">الرئيسية</a>
+                <a href="english-audio.html" class="hover:underline" dir="ltr" lang="en">English Audio</a>
+                <a href="arabic-audio.html" class="hover:underline">تسجيلات عربي</a>
+                <a href="riyad-us-saliheen-sync.html" class="hover:underline font-semibold">مزامنة ثنائية</a>
+                <a href="english-sync.html" class="hover:underline" dir="ltr" lang="en">English Sync</a>
             </div>
         </div>
     </nav>
