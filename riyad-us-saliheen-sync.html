@@ -2,28 +2,112 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#047857">
+    <meta name="description" content="Interactive audio sync for Riyadh as-Salihin with word-by-word highlighting">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="/icons/icon-192.png">
     <title>Riyad us Saliheen - Interactive Audio Sync</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap');
+        
+        :root {
+            --highlight-bg: #fef08a;
+            --word-highlight: #fde047;
+            --active-border: #059669;
+            --active-bg: #f0fdf4;
+        }
+        
         .arabic-text { font-family: 'Amiri', serif; font-size: 1.5rem; line-height: 2.5rem; }
-        .highlight-sentence { background-color: #fef08a; transition: background-color 0.3s; border-radius: 4px; }
-        .highlight-word { background-color: #fde047; font-weight: bold; border-radius: 2px; padding: 0 2px; transition: all 0.1s ease; }
-        .hadith-container { max-height: 70vh; overflow-y: auto; }
-        .active-hadith { border-left: 4px solid #059669; background-color: #f0fdf4; }
-        .word { display: inline-block; cursor: pointer; margin: 0 2px; }
-        .word:hover { text-decoration: underline; }
+        .highlight-sentence { 
+            background-color: var(--highlight-bg); 
+            transition: background-color 0.3s ease; 
+            border-radius: 4px; 
+        }
+        .highlight-word { 
+            background-color: var(--word-highlight); 
+            font-weight: bold; 
+            border-radius: 2px; 
+            padding: 0 2px; 
+            transition: all 0.15s ease;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+        }
+        .hadith-container { 
+            max-height: 70vh; 
+            overflow-y: auto;
+            scroll-behavior: smooth;
+        }
+        .active-hadith { 
+            border-left: 4px solid var(--active-border); 
+            background-color: var(--active-bg); 
+        }
+        .word { 
+            display: inline-block; 
+            cursor: pointer; 
+            margin: 0 2px;
+            transition: transform 0.1s ease;
+        }
+        .word:hover { 
+            text-decoration: underline; 
+            transform: scale(1.05);
+        }
+        .word.clicked {
+            color: #059669;
+            font-weight: bold;
+        }
+        
+        /* Auto-scroll indicator */
+        .auto-scroll-active {
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        /* Progress bar */
+        .progress-bar {
+            height: 4px;
+            background: #e5e7eb;
+            border-radius: 2px;
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #059669, #10b981);
+            transition: width 0.1s linear;
+        }
+        
+        /* API status indicator */
+        .api-status {
+            font-size: 0.75rem;
+            padding: 0.25rem 0.5rem;
+            border-radius: 9999px;
+        }
+        .api-ready { background: #d1fae5; color: #047857; }
+        .api-loading { background: #fef3c7; color: #92400e; }
+        .api-error { background: #fee2e2; color: #991b1b; }
+        
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .arabic-text { font-size: 1.25rem; line-height: 2rem; }
+        }
     </style>
 </head>
 <body class="bg-gray-50 min-h-screen flex flex-col">
     <nav class="bg-emerald-800 text-white p-4 shadow-lg">
         <div class="container mx-auto flex justify-between items-center">
             <h1 class="text-2xl font-bold">Riyad us Saliheen Sync</h1>
-            <div class="space-x-4">
-                <a href="index.html" class="hover:underline">Home</a>
-                <a href="english-audio.html" class="hover:underline">English</a>
-                <a href="arabic-audio.html" class="hover:underline">Arabic</a>
+            <div class="flex items-center gap-4">
+                <span id="api-status" class="api-status api-loading">Loading...</span>
+                <div class="space-x-4 hidden sm:block">
+                    <a href="index.html" class="hover:underline">Home</a>
+                    <a href="english-audio.html" class="hover:underline">English</a>
+                    <a href="arabic-audio.html" class="hover:underline">Arabic</a>
+                </div>
             </div>
         </div>
     </nav>
@@ -52,9 +136,34 @@
                         </div>
                         <div class="flex gap-2">
                             <button id="toggle-lang" class="px-3 py-1 bg-emerald-100 text-emerald-700 rounded-full text-xs font-bold hover:bg-emerald-200 transition">Switch to Arabic Audio</button>
+                            <button id="toggle-auto-scroll" class="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-xs font-bold hover:bg-blue-200 transition" title="Auto-scroll to active content">Auto-Scroll: ON</button>
                         </div>
                     </div>
-                    <audio id="main-audio" controls class="w-full"></audio>
+                    
+                    <!-- Audio Player with Progress -->
+                    <div class="space-y-2">
+                        <audio id="main-audio" controls class="w-full"></audio>
+                        <div class="progress-bar">
+                            <div id="progress-fill" class="progress-fill" style="width: 0%"></div>
+                        </div>
+                        <div class="flex justify-between text-xs text-gray-500">
+                            <span id="current-time">0:00</span>
+                            <span id="duration">0:00</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Audio Controls (API) -->
+                    <div class="flex justify-center gap-4 mt-2">
+                        <button id="btn-restart" class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition" title="Restart">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
+                        </button>
+                        <button id="btn-back10" class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition" title="Back 10s">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12.066 11.2a1 1 0 000 1.6l5.334 4A1 1 0 0019 16V8a1 1 0 00-1.6-.8l-5.333 4zM4.066 11.2a1 1 0 000 1.6l5.334 4A1 1 0 0011 16V8a1 1 0 00-1.6-.8l-5.334 4z"></path></svg>
+                        </button>
+                        <button id="btn-forward10" class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition" title="Forward 10s">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.933 12.8a1 1 0 000-1.6L6.6 7.2A1 1 0 005 8v8a1 1 0 001.6.8l5.333-4zM19.933 12.8a1 1 0 000-1.6l-5.333-4A1 1 0 0013 8v8a1 1 0 001.6.8l5.333-4z"></path></svg>
+                        </button>
+                    </div>
                 </div>
             </div>
 
@@ -82,11 +191,17 @@
     </main>
 
     <script>
+        // =====================================================
+        // GLOBAL STATE
+        // =====================================================
         let allHadiths = [];
         let currentHadithData = null;
-        let currentAudioMode = 'english'; // 'english' or 'arabic'
+        let currentAudioMode = 'english';
         let fullHadithText = [];
+        let autoScrollEnabled = true;
+        let wordTimingData = null; // For future word-level timestamps
 
+        // DOM Elements
         const audioPlayer = document.getElementById('main-audio');
         const arabicContent = document.getElementById('arabic-content');
         const englishContent = document.getElementById('english-content');
@@ -94,25 +209,200 @@
         const textDisplay = document.getElementById('text-display');
         const placeholder = document.getElementById('placeholder');
         const toggleLangBtn = document.getElementById('toggle-lang');
+        const toggleAutoScrollBtn = document.getElementById('toggle-auto-scroll');
+        const apiStatus = document.getElementById('api-status');
+        const progressFill = document.getElementById('progress-fill');
+        const currentTimeEl = document.getElementById('current-time');
+        const durationEl = document.getElementById('duration');
 
+        // =====================================================
+        // AUDIO CONTROL API (Improvement #5)
+        // =====================================================
+        window.RiyadhAudioAPI = {
+            /**
+             * Play audio at specific chapter and optional time
+             * @param {number} chapter - Chapter number (1-373)
+             * @param {number} time - Optional start time in seconds
+             */
+            playAudio: function(chapter, time = 0) {
+                const hadith = allHadiths.find(h => parseInt(h.hadith_number) === chapter);
+                if (hadith) {
+                    selectHadith(hadith);
+                    if (time > 0) {
+                        audioPlayer.currentTime = time;
+                    }
+                    audioPlayer.play();
+                    return { success: true, chapter, time };
+                }
+                return { success: false, error: 'Chapter not found' };
+            },
+            
+            /**
+             * Pause current audio
+             */
+            pauseAudio: function() {
+                audioPlayer.pause();
+                return { success: true, currentTime: audioPlayer.currentTime };
+            },
+            
+            /**
+             * Resume playback
+             */
+            resumeAudio: function() {
+                audioPlayer.play();
+                return { success: true };
+            },
+            
+            /**
+             * Seek to specific time
+             * @param {number} time - Time in seconds
+             */
+            seekTo: function(time) {
+                audioPlayer.currentTime = time;
+                return { success: true, currentTime: time };
+            },
+            
+            /**
+             * Seek by offset
+             * @param {number} offset - Offset in seconds (positive or negative)
+             */
+            seekBy: function(offset) {
+                const newTime = Math.max(0, Math.min(audioPlayer.duration, audioPlayer.currentTime + offset));
+                audioPlayer.currentTime = newTime;
+                return { success: true, currentTime: newTime };
+            },
+            
+            /**
+             * Get current playback state
+             */
+            getState: function() {
+                return {
+                    currentTime: audioPlayer.currentTime,
+                    duration: audioPlayer.duration,
+                    isPlaying: !audioPlayer.paused,
+                    currentChapter: currentHadithData ? parseInt(currentHadithData.hadith_number) : null,
+                    audioMode: currentAudioMode,
+                    progress: audioPlayer.duration ? (audioPlayer.currentTime / audioPlayer.duration) * 100 : 0
+                };
+            },
+            
+            /**
+             * Get list of all chapters
+             */
+            getChapters: function() {
+                return allHadiths.map(h => ({
+                    number: parseInt(h.hadith_number),
+                    title: h.hadith_narration_name.english.replace(/_/g, ' '),
+                    titleArabic: h.hadith_narration_name.arabic
+                }));
+            },
+            
+            /**
+             * Set audio mode (english/arabic)
+             * @param {string} mode - 'english' or 'arabic'
+             */
+            setAudioMode: function(mode) {
+                if (mode === 'english' || mode === 'arabic') {
+                    currentAudioMode = mode;
+                    updatePlayerSource();
+                    return { success: true, mode };
+                }
+                return { success: false, error: 'Invalid mode. Use "english" or "arabic"' };
+            },
+            
+            /**
+             * Toggle auto-scroll
+             */
+            toggleAutoScroll: function() {
+                autoScrollEnabled = !autoScrollEnabled;
+                updateAutoScrollButton();
+                return { success: true, autoScrollEnabled };
+            }
+        };
+
+        // =====================================================
+        // HELPER FUNCTIONS
+        // =====================================================
+        function formatTime(seconds) {
+            if (isNaN(seconds)) return '0:00';
+            const mins = Math.floor(seconds / 60);
+            const secs = Math.floor(seconds % 60);
+            return `${mins}:${secs.toString().padStart(2, '0')}`;
+        }
+
+        function updateAutoScrollButton() {
+            toggleAutoScrollBtn.textContent = `Auto-Scroll: ${autoScrollEnabled ? 'ON' : 'OFF'}`;
+            toggleAutoScrollBtn.classList.toggle('auto-scroll-active', autoScrollEnabled);
+        }
+
+        function scrollToElement(element, container) {
+            if (!autoScrollEnabled || !element) return;
+            
+            const containerRect = container.getBoundingClientRect();
+            const elementRect = element.getBoundingClientRect();
+            const offset = elementRect.top - containerRect.top - (containerRect.height / 3);
+            
+            container.scrollBy({
+                top: offset,
+                behavior: 'smooth'
+            });
+        }
+
+        // =====================================================
+        // INITIALIZATION
+        // =====================================================
         async function init() {
+            updateApiStatus('loading', 'Loading data...');
+            
             try {
+                // Fetch audio metadata
                 const audioRes = await fetch('api/riyad_us_saliheen_audios.json');
+                if (!audioRes.ok) throw new Error('Failed to load audio data');
                 const audioData = await audioRes.json();
                 allHadiths = audioData.hadiths;
 
+                // Fetch text data
                 const textRes = await fetch('api/riyad-al-salihin.json');
+                if (!textRes.ok) throw new Error('Failed to load text data');
                 fullHadithText = await textRes.json();
 
+                // Try to load word timing data (if available)
+                try {
+                    const timingRes = await fetch('api/riyad-word-timings.json');
+                    if (timingRes.ok) {
+                        wordTimingData = await timingRes.json();
+                    }
+                } catch (e) {
+                    console.log('Word timing data not available yet');
+                }
+
                 renderList(allHadiths);
+                updateApiStatus('ready', `${allHadiths.length} chapters loaded`);
+                
+                // Register service worker
+                if ('serviceWorker' in navigator) {
+                    navigator.serviceWorker.register('sw.js')
+                        .then(reg => console.log('SW registered'))
+                        .catch(err => console.log('SW registration failed'));
+                }
             } catch (err) {
                 console.error("Failed to initialize:", err);
+                updateApiStatus('error', 'Failed to load data');
             }
         }
 
+        function updateApiStatus(status, text) {
+            apiStatus.textContent = text;
+            apiStatus.className = `api-status api-${status}`;
+        }
+
+        // =====================================================
+        // LIST RENDERING
+        // =====================================================
         function renderList(list) {
             const container = document.getElementById('hadith-list');
             container.innerHTML = '';
+            
             list.forEach((h, index) => {
                 const item = document.createElement('div');
                 item.className = 'p-4 border-b border-gray-50 cursor-pointer hover:bg-emerald-50 transition flex flex-col gap-1';
@@ -128,6 +418,9 @@
             });
         }
 
+        // =====================================================
+        // HADITH SELECTION
+        // =====================================================
         function selectHadith(hadith) {
             currentHadithData = hadith;
             placeholder.classList.add('hidden');
@@ -143,10 +436,13 @@
             
             displaySynchronizedText(relatedHadiths);
             
+            // Update active state in list
             document.querySelectorAll('#hadith-list > div').forEach(el => el.classList.remove('active-hadith'));
             const index = allHadiths.indexOf(hadith);
-            if (index !== -1) {
+            if (index !== -1 && document.getElementById('hadith-list').children[index]) {
                 document.getElementById('hadith-list').children[index].classList.add('active-hadith');
+                // Scroll the sidebar item into view
+                document.getElementById('hadith-list').children[index].scrollIntoView({ block: 'nearest', behavior: 'smooth' });
             }
         }
 
@@ -154,18 +450,36 @@
             const url = currentAudioMode === 'english' ? currentHadithData.english_audio_cdn_url : currentHadithData.arabic_audio_cdn_url;
             audioPlayer.src = url;
             toggleLangBtn.innerText = currentAudioMode === 'english' ? 'Switch to Arabic Audio' : 'Switch to English Audio';
-            audioPlayer.play();
+            audioPlayer.play().catch(e => console.log('Autoplay prevented'));
         }
 
-        toggleLangBtn.onclick = () => {
-            currentAudioMode = currentAudioMode === 'english' ? 'arabic' : 'english';
-            updatePlayerSource();
+        // =====================================================
+        // WORD WRAPPING WITH CLICK SUPPORT
+        // =====================================================
+        function wrapWords(text, prefix, wordTimings = null) {
+            return text.split(/\s+/).map((word, i) => {
+                const timingAttr = wordTimings && wordTimings[i] 
+                    ? `data-start="${wordTimings[i].start}" data-end="${wordTimings[i].end}"` 
+                    : '';
+                return `<span class="word ${prefix}-word" id="${prefix}-w-${i}" ${timingAttr} onclick="seekToWord(this)">${word}</span>`;
+            }).join(' ');
+        }
+
+        // Click on word to seek audio
+        window.seekToWord = function(element) {
+            const start = element.dataset.start;
+            if (start) {
+                audioPlayer.currentTime = parseFloat(start);
+                audioPlayer.play();
+            }
+            // Visual feedback
+            document.querySelectorAll('.word.clicked').forEach(w => w.classList.remove('clicked'));
+            element.classList.add('clicked');
         };
 
-        function wrapWords(text, prefix) {
-            return text.split(/\s+/).map((word, i) => `<span class="word ${prefix}-word" id="${prefix}-w-${i}">${word}</span>`).join(' ');
-        }
-
+        // =====================================================
+        // SYNCHRONIZED TEXT DISPLAY
+        // =====================================================
         function displaySynchronizedText(hadiths) {
             arabicContent.innerHTML = '';
             englishContent.innerHTML = '';
@@ -177,40 +491,60 @@
             }
 
             hadiths.forEach((h, i) => {
+                // Get word timings if available
+                const timings = wordTimingData?.[h.id] || null;
+                
                 const aDiv = document.createElement('div');
                 aDiv.id = `ar-h-${i}`;
                 aDiv.className = 'hadith-segment mb-4 p-2 transition-all';
-                aDiv.innerHTML = wrapWords(h.arabic, `ar-h-${i}`);
+                aDiv.innerHTML = wrapWords(h.arabic, `ar-h-${i}`, timings?.arabic);
                 arabicContent.appendChild(aDiv);
 
                 const eDiv = document.createElement('div');
                 eDiv.id = `en-h-${i}`;
                 eDiv.className = 'hadith-segment mb-4 p-2 transition-all';
-                eDiv.innerHTML = `<p class="font-bold text-emerald-700 mb-1">${h.english.narrator}</p>` + wrapWords(h.english.text, `en-h-${i}`);
+                eDiv.innerHTML = `<p class="font-bold text-emerald-700 mb-1">${h.english.narrator}</p>` + 
+                                 wrapWords(h.english.text, `en-h-${i}`, timings?.english);
                 englishContent.appendChild(eDiv);
             });
         }
 
+        // =====================================================
+        // AUDIO TIME UPDATE HANDLER (with Auto-Scroll)
+        // =====================================================
         audioPlayer.ontimeupdate = () => {
             if (!audioPlayer.duration) return;
             
-            const progress = audioPlayer.currentTime / audioPlayer.duration;
+            // Update progress bar
+            const progress = (audioPlayer.currentTime / audioPlayer.duration) * 100;
+            progressFill.style.width = `${progress}%`;
+            currentTimeEl.textContent = formatTime(audioPlayer.currentTime);
+            
+            // Calculate active segment
             const segments = document.querySelectorAll('.hadith-segment');
             if (segments.length === 0) return;
 
             const segmentCount = segments.length / 2;
-            const activeIndex = Math.floor(progress * segmentCount);
+            const activeIndex = Math.floor((audioPlayer.currentTime / audioPlayer.duration) * segmentCount);
 
-            // Highlight Sentences
+            // Clear all highlights
             document.querySelectorAll('.hadith-segment').forEach(s => s.classList.remove('highlight-sentence'));
+            
+            // Highlight active segments
             const arActive = document.getElementById(`ar-h-${activeIndex}`);
             const enActive = document.getElementById(`en-h-${activeIndex}`);
             
-            if (arActive) arActive.classList.add('highlight-sentence');
-            if (enActive) enActive.classList.add('highlight-sentence');
+            if (arActive) {
+                arActive.classList.add('highlight-sentence');
+                if (autoScrollEnabled) {
+                    scrollToElement(arActive, arabicContent.parentElement);
+                }
+            }
+            if (enActive) {
+                enActive.classList.add('highlight-sentence');
+            }
 
-            // Word-by-word Highlight Simulation
-            // We calculate word progress within the current segment
+            // Word-by-word highlighting
             const segmentDuration = audioPlayer.duration / segmentCount;
             const timeInSegment = audioPlayer.currentTime % segmentDuration;
             const segmentProgress = timeInSegment / segmentDuration;
@@ -219,16 +553,52 @@
             highlightWords(`en-h-${activeIndex}`, segmentProgress);
         };
 
+        audioPlayer.onloadedmetadata = () => {
+            durationEl.textContent = formatTime(audioPlayer.duration);
+        };
+
+        // =====================================================
+        // WORD HIGHLIGHTING (Enhanced)
+        // =====================================================
         function highlightWords(segmentId, progress) {
             const words = document.querySelectorAll(`.${segmentId}-word`);
             if (words.length === 0) return;
             
             const activeWordIndex = Math.floor(progress * words.length);
             words.forEach((w, i) => {
-                if (i === activeWordIndex) w.classList.add('highlight-word');
-                else w.classList.remove('highlight-word');
+                if (i === activeWordIndex) {
+                    w.classList.add('highlight-word');
+                } else {
+                    w.classList.remove('highlight-word');
+                }
             });
         }
+
+        // =====================================================
+        // EVENT LISTENERS
+        // =====================================================
+        toggleLangBtn.onclick = () => {
+            currentAudioMode = currentAudioMode === 'english' ? 'arabic' : 'english';
+            updatePlayerSource();
+        };
+
+        toggleAutoScrollBtn.onclick = () => {
+            autoScrollEnabled = !autoScrollEnabled;
+            updateAutoScrollButton();
+        };
+
+        document.getElementById('btn-restart').onclick = () => {
+            audioPlayer.currentTime = 0;
+            audioPlayer.play();
+        };
+
+        document.getElementById('btn-back10').onclick = () => {
+            audioPlayer.currentTime = Math.max(0, audioPlayer.currentTime - 10);
+        };
+
+        document.getElementById('btn-forward10').onclick = () => {
+            audioPlayer.currentTime = Math.min(audioPlayer.duration, audioPlayer.currentTime + 10);
+        };
 
         document.getElementById('search').oninput = (e) => {
             const term = e.target.value.toLowerCase();
@@ -239,6 +609,9 @@
             renderList(filtered);
         };
 
+        // =====================================================
+        // INIT
+        // =====================================================
         init();
     </script>
 </body>

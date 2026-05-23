@@ -1,0 +1,39 @@
+# CORS and Security Headers for GitHub Pages
+# Place this file in the root of your repository
+
+# CORS headers for JSON API files
+/api/*.json
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: Content-Type
+  Access-Control-Max-Age: 86400
+
+# CORS headers for HTML files (embeddable in iframes)
+/*.html
+  Access-Control-Allow-Origin: *
+  X-Frame-Options: ALLOWALL
+
+# Security headers for all files
+/*
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# Cache control for static assets
+/*.html
+  Cache-Control: public, max-age=3600
+
+/api/*.json
+  Cache-Control: public, max-age=1800
+
+/*.mp3
+  Cache-Control: public, max-age=86400
+
+# Service Worker (no cache)
+/sw.js
+  Cache-Control: no-cache
+
+# Manifest
+/manifest.json
+  Cache-Control: no-cache
+  Content-Type: application/manifest+json
