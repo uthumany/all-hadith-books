@@ -12,6 +12,9 @@ The API is hosted at: `https://uthumany.github.io/all-hadith-books/api`
 Sahih al-Bukhari
 صحيح البخاري
 Endpoint URL: https://uthumany.github.io/all-hadith-books/api/bukhari.json
+
+HADITH AUDIO NARATIONS: "https://bukhari-cdn-1780156259.netlify.app/bukhari_profile.json"
+
 __________________________________________
 
 Sahih Muslim
