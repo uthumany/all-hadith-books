@@ -50,6 +50,10 @@ __________________________________________
 Musnad Ahmad
 مسند أحمد
 Endpoint URL: https://uthumany.github.io/all-hadith-books/api/ahmed.json
+
+Netlify CDN Site: https://musnad-ahmad-hadith-audio.netlify.app
+Full manifest JSON: https://musnad-ahmad-hadith-audio.netlify.app/manifest.json
+
 __________________________________________
 
 Sunan ad-Darimi
