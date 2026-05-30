@@ -11,94 +11,93 @@ The API is hosted at: `https://uthumany.github.io/all-hadith-books/api`
 
 Sahih al-Bukhari
 صحيح البخاري
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/bukhari.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/bukhari.json
 __________________________________________
 
 Sahih Muslim
 صحيح مسلم
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/muslim.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/muslim.json
 __________________________________________
 
 Sunan Abi Dawud
 سنن أبي داود
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/abudawud.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/abudawud.json
 __________________________________________
 
 Jami` at-Tirmidhi
 جامع الترمذي
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/tirmidhi.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/tirmidhi.json
 __________________________________________
 
 Sunan an-Nasa'i
 سنن النسائي
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/nasai.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/nasai.json
 __________________________________________
 
 Sunan Ibn Majah
 سنن ابن ماجه
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/ibnmajah.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/ibnmajah.json
 __________________________________________
 
 Muwatta Malik
 موطأ مالك
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/malik.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/malik.json
 __________________________________________
 
 Musnad Ahmad
 مسند أحمد
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/ahmed.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/ahmed.json
 __________________________________________
 
 Sunan ad-Darimi
 سنن الدارمي
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/darimi.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/darimi.json
 __________________________________________
 
 Riyad as-Salihin
 رياض الصالحين
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/riyad-al-salihin.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/riyad-al-salihin.json
 __________________________________________
 
 Shamail al-Muhammadiyah
 الشمائل المحمدية
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/shamail-al-muhammadiyah.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/shamail-al-muhammadiyah.json
 __________________________________________
 
 Bulugh al-Maram
 بلوغ المرام
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/bulugh-al-maram.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/bulugh-al-maram.json
 __________________________________________
 
 Al-Adab Al-Mufrad
 الأدب المفرد
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/al-adab-al-mufrad.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/al-adab-al-mufrad.json
 __________________________________________
 
 Mishkat al-Masabih
 مشكاة المصابيح
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/mishkat-al-masabih.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/mishkat-al-masabih.json
 __________________________________________
 
 The Forty Hadith of al-Nawawi
 الأربعون النووية
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/nawawi-40.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/nawawi-40.json
 __________________________________________
 
 The Forty Hadith Qudsi
 الأربعون القدسية
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/qudsi-40.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/qudsi-40.json
 __________________________________________
 
 The Forty Hadith of Shah Waliullah
 أربعون الشاه ولي الله
 
-Endpoint URL: https://uthumany.github.io/All-Hadith-books/api/waliullah-40.json
+Endpoint URL: https://uthumany.github.io/all-hadith-books/api/waliullah-40.json
 __________________________________________
 
 **Hadith Book Covers (SVGs)**
 صورة غلاف كتب الحديث
-Endpoint URL: [https://uthumany.github.io/All-Hadith-books/api/hadith_bookscovers.json](https://uthumany.github.io/all-hadith-books/api/hadith_bookscovers.json
-)
+Endpoint URL: [https://uthumany.github.io/all-hadith-books/api/hadith_bookscovers.json](https://uthumany.github.io/all-hadith-books/api/hadith_bookscovers.json)
 
 ## 📚 Supported Books
 1. Sahih al-Bukhari
